@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "5120 Thomas Via Olsenland, UT 03662",
+        "email": "williamsrobert@example.net",
+        "phone": "+1-430-265-7871x9264",
+        "vat_no": "Fp86695314865"
+    },
+    "invoice": {
+        "date": "28.07.2006",
+        "due_date": "26.10.2002",
+        "market_reference": 794889,
+        "notes": "incentivize clicks-and-mortar relationships",
+        "number": "7389-2138",
+        "reference": 495729,
+        "vat_no": "Hm11327478063"
+    },
+    "payment": {
+        "net_total": 100.76,
+        "total": 495.27
+    },
+    "products": [
+        {
+            "amount": 212.67,
+            "description": "e-enable out-of-the-box networks",
+            "hours": 5.98,
+            "rate": 9.91
+        },
+        {
+            "amount": 164.87,
+            "description": "enable robust mindshare",
+            "hours": 6.52,
+            "rate": 6.19
+        },
+        {
+            "amount": 274.74,
+            "description": "matrix cutting-edge architectures",
+            "hours": 4.03,
+            "rate": 5.09
+        }
+    ],
+    "seller": {
+        "address": "48499 Ross Key Kathrynfort, WY 37565",
+        "email": "lowekatie@example.org",
+        "name": "Tina Turner"
+    },
+    "tax": {
+        "base": 28.38,
+        "tax_amount": 20.7,
+        "total_tax": 13.88
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "457 Jacob Plains Cowanside, PR 01461",
+        "id": "sA273"
+    },
+    "invoice": {
+        "bc_no": "MJ77076",
+        "currency_code": "HKD",
+        "date": "11.11.1999",
+        "due_date": "24.07.2020",
+        "number": 627604
+    },
+    "payment": {
+        "bank_name": "Williams, Thompson and Long",
+        "bic": "FHDPGBF6",
+        "iban": "ELAV32913960662005"
+    },
+    "products": [
+        {
+            "amount": 281.83,
+            "description": "empower holistic users",
+            "index": "9",
+            "price": 419.37,
+            "quantity": 2.87,
+            "tax_amount": 33.71,
+            "total_ttc": 252.58,
+            "vat_amount": 3.46
+        },
+        {
+            "amount": 142.54,
+            "description": "drive vertical synergies",
+            "index": "6",
+            "price": 64.74,
+            "quantity": 1.53,
+            "tax_amount": 83.44,
+            "total_ttc": 249.89,
+            "vat_amount": 0.8
+        },
+        {
+            "amount": 13.65,
+            "description": "brand interactive models",
+            "index": "4",
+            "price": 426.79,
+            "quantity": 9.02,
+            "tax_amount": 19.98,
+            "total_ttc": 155.64,
+            "vat_amount": 7.78
+        },
+        {
+            "amount": 163.05,
+            "description": "enhance rich markets",
+            "index": "5",
+            "price": 391.91,
+            "quantity": 4.86,
+            "tax_amount": 29.21,
+            "total_ttc": 299.38,
+            "vat_amount": 6.23
+        },
+        {
+            "amount": 240.53,
+            "description": "grow 24/365 paradigms",
+            "index": "3",
+            "price": 305.63,
+            "quantity": 9.21,
+            "tax_amount": 18.18,
+            "total_ttc": 313.29,
+            "vat_amount": 4.41
+        }
+    ],
+    "seller": {
+        "name": "Danny Adams"
+    },
+    "supplier": {
+        "address": "14294 Ryan Radial New Zacharytown, CT 90319",
+        "name": "Brian Cherry"
+    },
+    "tax": {
+        "amount_excluding_tax": 150.31,
+        "amount_including_tax": 63.44,
+        "tax_amount": 14.22,
+        "total_ht": 362.14,
+        "total_ttc": 392.72
+    }
+}

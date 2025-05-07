@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "0063 Amanda Harbor Suite 625 New Jasonstad, AZ 30568",
+        "email": "matthewskari@example.com",
+        "phone": "529-880-7792",
+        "vat_no": "IR60391400903"
+    },
+    "invoice": {
+        "date": "09.09.1992",
+        "due_date": "15.11.2000",
+        "market_reference": 285922,
+        "notes": "transform user-centric users",
+        "number": "8507-8419",
+        "reference": 825363,
+        "vat_no": "bx39079917251"
+    },
+    "payment": {
+        "net_total": 177.24,
+        "total": 316.65
+    },
+    "products": [
+        {
+            "amount": 374.66,
+            "description": "mesh magnetic platforms",
+            "hours": 8.07,
+            "rate": 5.56
+        }
+    ],
+    "seller": {
+        "address": "01028 Ricky Squares Apt. 837 Tonychester, LA 90088",
+        "email": "byrdcharles@example.org",
+        "name": "Mrs. Lisa Hayes DDS"
+    },
+    "tax": {
+        "base": 10.3,
+        "tax_amount": 15.64,
+        "total_tax": 27.47
+    }
+}

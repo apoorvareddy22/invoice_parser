@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "52938 Diane Corner Mejiachester, PR 01625"
+    },
+    "invoice": {
+        "bc_no": "Gz48391",
+        "date": "26.12.1996",
+        "maturity_date": "14.11.2019",
+        "number": 422253
+    },
+    "products": [
+        {
+            "amount": 136.38,
+            "description": "transition transparent e-tailers",
+            "quantity": 6.52,
+            "unit_price": 85.6,
+            "vat_amount": 8.78
+        },
+        {
+            "amount": 465.5,
+            "description": "synergize bricks-and-clicks schemas",
+            "quantity": 2.12,
+            "unit_price": 47.9,
+            "vat_amount": 11.18
+        }
+    ],
+    "seller": {
+        "address": "8182 Bryant Corner Apt. 172 Lake Kimberlyport, ID 14389"
+    },
+    "tax": {
+        "amount_excluding_tax": 62.44,
+        "amount_including_tax": 167.45,
+        "tax_amount": 17.82
+    }
+}

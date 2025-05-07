@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "72505 James Plains Martinezmouth, RI 23094",
+        "email": "lriley@example.com",
+        "phone": "(585)365-8637",
+        "vat_no": "oz19026022045"
+    },
+    "invoice": {
+        "date": "28.10.1996",
+        "due_date": "12.04.2018",
+        "market_reference": 721451,
+        "notes": "engage mission-critical supply-chains",
+        "number": "7804-7108",
+        "reference": 693636,
+        "vat_no": "MY47703002730"
+    },
+    "payment": {
+        "net_total": 173.42,
+        "total": 162.18
+    },
+    "products": [
+        {
+            "amount": 293.1,
+            "description": "redefine distributed portals",
+            "hours": 7.77,
+            "rate": 4.25
+        },
+        {
+            "amount": 380.44,
+            "description": "iterate compelling niches",
+            "hours": 9.55,
+            "rate": 2.07
+        },
+        {
+            "amount": 231.04,
+            "description": "optimize end-to-end architectures",
+            "hours": 9.35,
+            "rate": 1.58
+        },
+        {
+            "amount": 53.25,
+            "description": "re-intermediate synergistic vortals",
+            "hours": 9.04,
+            "rate": 7.69
+        },
+        {
+            "amount": 294.75,
+            "description": "harness efficient platforms",
+            "hours": 2.36,
+            "rate": 1.06
+        },
+        {
+            "amount": 499.34,
+            "description": "brand intuitive ROI",
+            "hours": 9.09,
+            "rate": 3.84
+        }
+    ],
+    "seller": {
+        "address": "14121 Douglas Forge Terryshire, RI 25390",
+        "email": "richardtodd@example.net",
+        "name": "Keith Smith"
+    },
+    "tax": {
+        "base": 24.24,
+        "tax_amount": 20.23,
+        "total_tax": 27.27
+    }
+}

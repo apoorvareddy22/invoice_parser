@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "17306 David Station Apt. 420 East Colleen, SD 50648",
+        "id": "pD980"
+    },
+    "invoice": {
+        "bc_no": "RO89491",
+        "currency_code": "ARS",
+        "date": "13.09.2015",
+        "due_date": "12.02.1998",
+        "number": 557439
+    },
+    "payment": {
+        "bank_name": "Carr, Martinez and Martinez",
+        "bic": "DPUIGB77",
+        "iban": "HTFR93500982583087"
+    },
+    "products": [
+        {
+            "amount": 144.11,
+            "description": "matrix extensible e-services",
+            "index": "5",
+            "price": 72.55,
+            "quantity": 3.54,
+            "tax_amount": 10.96,
+            "total_ttc": 175.23,
+            "vat_amount": 13.92
+        },
+        {
+            "amount": 223.77,
+            "description": "repurpose innovative niches",
+            "index": "7",
+            "price": 353.18,
+            "quantity": 9.38,
+            "tax_amount": 75.07,
+            "total_ttc": 348.38,
+            "vat_amount": 15.86
+        },
+        {
+            "amount": 408.78,
+            "description": "morph distributed channels",
+            "index": "1",
+            "price": 30.56,
+            "quantity": 5.68,
+            "tax_amount": 22.8,
+            "total_ttc": 163.6,
+            "vat_amount": 0.5
+        },
+        {
+            "amount": 274.69,
+            "description": "deliver best-of-breed technologies",
+            "index": "2",
+            "price": 70.02,
+            "quantity": 6.31,
+            "tax_amount": 77.47,
+            "total_ttc": 337.67,
+            "vat_amount": 5.08
+        },
+        {
+            "amount": 37.6,
+            "description": "evolve bricks-and-clicks info-mediaries",
+            "index": "1",
+            "price": 330.4,
+            "quantity": 5.06,
+            "tax_amount": 90.6,
+            "total_ttc": 141.65,
+            "vat_amount": 1.4
+        }
+    ],
+    "seller": {
+        "name": "Benjamin Davis"
+    },
+    "supplier": {
+        "address": "338 Davis Drives Harmontown, ND 48742",
+        "name": "Lacey Douglas"
+    },
+    "tax": {
+        "amount_excluding_tax": 82.99,
+        "amount_including_tax": 187.3,
+        "tax_amount": 12.48,
+        "total_ht": 418.18,
+        "total_ttc": 302.48
+    }
+}

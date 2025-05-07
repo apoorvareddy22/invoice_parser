@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "6821 Philip Grove Martinview, NM 13502"
+    },
+    "invoice": {
+        "bc_no": "LL63036",
+        "date": "04.08.2008",
+        "maturity_date": "05.06.2006",
+        "number": 362725
+    },
+    "products": [
+        {
+            "amount": 174.87,
+            "description": "strategize end-to-end models",
+            "quantity": 3.86,
+            "unit_price": 56.08,
+            "vat_amount": 12.88
+        },
+        {
+            "amount": 132.55,
+            "description": "engage next-generation partnerships",
+            "quantity": 3.12,
+            "unit_price": 60.97,
+            "vat_amount": 5.29
+        },
+        {
+            "amount": 102.28,
+            "description": "reinvent robust channels",
+            "quantity": 1.44,
+            "unit_price": 95.01,
+            "vat_amount": 1.54
+        },
+        {
+            "amount": 289.63,
+            "description": "visualize cross-platform communities",
+            "quantity": 1.09,
+            "unit_price": 48.75,
+            "vat_amount": 2.27
+        },
+        {
+            "amount": 408.57,
+            "description": "harness bleeding-edge web-readiness",
+            "quantity": 9.24,
+            "unit_price": 39.54,
+            "vat_amount": 4.71
+        },
+        {
+            "amount": 243.59,
+            "description": "seize mission-critical applications",
+            "quantity": 1.57,
+            "unit_price": 16.97,
+            "vat_amount": 17.62
+        }
+    ],
+    "seller": {
+        "address": "5078 Gray Key Suite 099 Dakotaborough, IA 02226"
+    },
+    "tax": {
+        "amount_excluding_tax": 73.33,
+        "amount_including_tax": 180.84,
+        "tax_amount": 11.05
+    }
+}

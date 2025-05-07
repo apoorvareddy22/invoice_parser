@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "881 Jones Rue Suite 927 Grossmouth, TX 25366",
+        "email": "williamgarcia@example.net",
+        "phone": "+1-639-354-4566",
+        "vat_no": "rY18027375825"
+    },
+    "invoice": {
+        "date": "27.08.2016",
+        "due_date": "30.06.2007",
+        "market_reference": 567501,
+        "notes": "scale front-end web services",
+        "number": "0491-2013",
+        "reference": 600759,
+        "vat_no": "Th57167834616"
+    },
+    "payment": {
+        "net_total": 180.16,
+        "total": 120.67
+    },
+    "products": [
+        {
+            "amount": 410.51,
+            "description": "architect interactive bandwidth",
+            "hours": 5.17,
+            "rate": 1.39
+        },
+        {
+            "amount": 100.79,
+            "description": "architect value-added bandwidth",
+            "hours": 6.05,
+            "rate": 2.25
+        },
+        {
+            "amount": 183.54,
+            "description": "transform one-to-one synergies",
+            "hours": 7.9,
+            "rate": 7.89
+        }
+    ],
+    "seller": {
+        "address": "17217 Young Skyway Suite 911 North Trevor, WI 57138",
+        "email": "lopezsusan@example.org",
+        "name": "Cheyenne Mccullough"
+    },
+    "tax": {
+        "base": 22.68,
+        "tax_amount": 15.95,
+        "total_tax": 14.64
+    }
+}

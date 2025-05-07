@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "3049 Caleb Port Port Rebecca, OR 05871",
+        "id": "Qz848"
+    },
+    "invoice": {
+        "bc_no": "Ve87549",
+        "currency_code": "IDR",
+        "date": "12.09.1999",
+        "due_date": "12.09.2009",
+        "number": 276672
+    },
+    "payment": {
+        "bank_name": "Kelly and Sons",
+        "bic": "RJHMGBCF",
+        "iban": "RGLB50767752570486"
+    },
+    "products": [
+        {
+            "amount": 405.78,
+            "description": "unleash next-generation networks",
+            "index": "7",
+            "price": 189.45,
+            "quantity": 4.05,
+            "tax_amount": 34.11,
+            "total_ttc": 344.44,
+            "vat_amount": 4.84
+        }
+    ],
+    "seller": {
+        "name": "Gary Mccormick"
+    },
+    "supplier": {
+        "address": "5790 Loretta Points Torresstad, MS 25707",
+        "name": "Mitchell Wright"
+    },
+    "tax": {
+        "amount_excluding_tax": 37.36,
+        "amount_including_tax": 159.32,
+        "tax_amount": 26.06,
+        "total_ht": 140.03,
+        "total_ttc": 459.95
+    }
+}

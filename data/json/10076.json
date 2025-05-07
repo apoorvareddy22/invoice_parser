@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "19417 Isabel Plaza Cohenland, NJ 31378",
+        "email": "stefanie39@example.org",
+        "phone": "965.316.1194",
+        "vat_no": "Rm31355466544"
+    },
+    "invoice": {
+        "date": "17.01.1999",
+        "due_date": "04.07.2019",
+        "market_reference": 977558,
+        "notes": "redefine best-of-breed functionalities",
+        "number": "1937-5206",
+        "reference": 312383,
+        "vat_no": "Yw12446354378"
+    },
+    "payment": {
+        "net_total": 121.13,
+        "total": 745.46
+    },
+    "products": [
+        {
+            "amount": 335.25,
+            "description": "grow enterprise relationships",
+            "hours": 6.5,
+            "rate": 2.62
+        },
+        {
+            "amount": 321.64,
+            "description": "generate collaborative relationships",
+            "hours": 4.93,
+            "rate": 9.33
+        }
+    ],
+    "seller": {
+        "address": "32346 Garcia Greens Suite 843 South Erika, MN 73183",
+        "email": "ghunter@example.net",
+        "name": "Caroline Vasquez"
+    },
+    "tax": {
+        "base": 17.91,
+        "tax_amount": 26.52,
+        "total_tax": 16.97
+    }
+}

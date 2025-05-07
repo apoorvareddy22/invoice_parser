@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "4701 Alexander Crest New Andrewstad, GA 48913",
+        "email": "sampsonsarah@example.org",
+        "phone": "2224425473",
+        "vat_no": "Np71463365062"
+    },
+    "invoice": {
+        "date": "07.08.2019",
+        "due_date": "10.01.2017",
+        "market_reference": 541740,
+        "notes": "benchmark innovative partnerships",
+        "number": "4743-0131",
+        "reference": 290854,
+        "vat_no": "IA93870898797"
+    },
+    "payment": {
+        "net_total": 36.37,
+        "total": 582.78
+    },
+    "products": [
+        {
+            "amount": 267.27,
+            "description": "cultivate sticky applications",
+            "hours": 6.18,
+            "rate": 7.07
+        },
+        {
+            "amount": 282.94,
+            "description": "e-enable clicks-and-mortar vortals",
+            "hours": 1.67,
+            "rate": 3.0
+        },
+        {
+            "amount": 497.52,
+            "description": "unleash scalable bandwidth",
+            "hours": 7.94,
+            "rate": 8.16
+        },
+        {
+            "amount": 281.89,
+            "description": "redefine 24/7 architectures",
+            "hours": 3.99,
+            "rate": 5.66
+        },
+        {
+            "amount": 477.78,
+            "description": "morph integrated users",
+            "hours": 9.7,
+            "rate": 6.63
+        },
+        {
+            "amount": 58.43,
+            "description": "benchmark sticky vortals",
+            "hours": 1.33,
+            "rate": 9.34
+        }
+    ],
+    "seller": {
+        "address": "941 Wall Via Suite 350 Mullinsmouth, FM 55240",
+        "email": "shannonhester@example.org",
+        "name": "Dean Kim"
+    },
+    "tax": {
+        "base": 11.57,
+        "tax_amount": 17.37,
+        "total_tax": 10.96
+    }
+}

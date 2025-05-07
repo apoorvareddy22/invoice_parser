@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "647 Maria Highway Suite 515 Port Christine, WA 33532"
+    },
+    "invoice": {
+        "bc_no": "xD43432",
+        "date": "24.05.2013",
+        "maturity_date": "02.10.2004",
+        "number": 178490
+    },
+    "products": [
+        {
+            "amount": 44.52,
+            "description": "reinvent front-end ROI",
+            "quantity": 5.26,
+            "unit_price": 90.29,
+            "vat_amount": 10.72
+        }
+    ],
+    "seller": {
+        "address": "5465 Jackson Coves Suite 371 Alexanderbury, GA 85513"
+    },
+    "tax": {
+        "amount_excluding_tax": 29.98,
+        "amount_including_tax": 67.19,
+        "tax_amount": 12.96
+    }
+}

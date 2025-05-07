@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "25455 Hoffman Valley Apt. 554 Port Kathryn, HI 90776",
+        "company_name": "Crawford-Kim",
+        "email": "sherylwatson@example.net",
+        "name": "Alexandra Rivera DDS",
+        "phone": "210.935.2211x5535"
+    },
+    "invoice": {
+        "date": "29.07.1992",
+        "due_date": "02.01.1995",
+        "number": "Ekn15674644339"
+    },
+    "payment": {
+        "account_number": 7532998624,
+        "bank_name": "Brown, Peterson and Allen",
+        "routing_number": 451015078
+    },
+    "products": [
+        {
+            "amount": 374.9,
+            "description": "e-enable cutting-edge interfaces",
+            "index": "4",
+            "quantity": 4.38,
+            "unit_price": 89.59
+        },
+        {
+            "amount": 396.08,
+            "description": "evolve value-added e-services",
+            "index": "5",
+            "quantity": 2.59,
+            "unit_price": 26.53
+        },
+        {
+            "amount": 201.68,
+            "description": "revolutionize mission-critical ROI",
+            "index": "3",
+            "quantity": 2.66,
+            "unit_price": 82.33
+        },
+        {
+            "amount": 390.45,
+            "description": "monetize killer interfaces",
+            "index": "10",
+            "quantity": 4.51,
+            "unit_price": 78.4
+        },
+        {
+            "amount": 369.5,
+            "description": "synergize impactful web-readiness",
+            "index": "8",
+            "quantity": 9.24,
+            "unit_price": 79.02
+        }
+    ],
+    "seller": {
+        "address": "69500 Jessica Neck Lake Annaside, VA 10953",
+        "company_name": "Gould, Turner and Barber",
+        "email": "maryjackson@example.com"
+    }
+}

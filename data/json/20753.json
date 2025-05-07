@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "757 Singh Row West Tiffany, NJ 24726",
+        "company_name": "Shea, Smith and Johnson",
+        "email": "robert19@example.org",
+        "name": "Michael Elliott",
+        "phone": "583-451-0345"
+    },
+    "invoice": {
+        "date": "19.05.2011",
+        "due_date": "05.04.2018",
+        "number": "vEc67264720603"
+    },
+    "payment": {
+        "account_number": 5694176908,
+        "bank_name": "Roberts-Cole",
+        "routing_number": 354428445
+    },
+    "products": [
+        {
+            "amount": 417.9,
+            "description": "repurpose granular channels",
+            "index": "1",
+            "quantity": 6.83,
+            "unit_price": 29.76
+        },
+        {
+            "amount": 188.97,
+            "description": "utilize real-time web services",
+            "index": "7",
+            "quantity": 4.2,
+            "unit_price": 61.49
+        },
+        {
+            "amount": 218.22,
+            "description": "mesh user-centric methodologies",
+            "index": "7",
+            "quantity": 8.1,
+            "unit_price": 26.2
+        },
+        {
+            "amount": 361.16,
+            "description": "productize sticky architectures",
+            "index": "1",
+            "quantity": 7.02,
+            "unit_price": 85.05
+        },
+        {
+            "amount": 52.12,
+            "description": "expedite intuitive schemas",
+            "index": "4",
+            "quantity": 6.14,
+            "unit_price": 75.28
+        }
+    ],
+    "seller": {
+        "address": "1373 Bailey Summit East Alexanderton, OK 87682",
+        "company_name": "Smith-Ford",
+        "email": "rodriguezwilliam@example.net"
+    }
+}

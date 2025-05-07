@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "03295 Leslie Walks Evelynton, MA 48205",
+        "id": "Yu753"
+    },
+    "invoice": {
+        "bc_no": "zy55194",
+        "currency_code": "QAR",
+        "date": "19.02.1993",
+        "due_date": "09.05.2022",
+        "number": 929514
+    },
+    "payment": {
+        "bank_name": "Chang-Parks",
+        "bic": "LEAEGBI4",
+        "iban": "VEDX76986587895147"
+    },
+    "products": [
+        {
+            "amount": 377.32,
+            "description": "deploy next-generation paradigms",
+            "index": "8",
+            "price": 473.28,
+            "quantity": 5.11,
+            "tax_amount": 42.18,
+            "total_ttc": 318.58,
+            "vat_amount": 1.88
+        }
+    ],
+    "seller": {
+        "name": "Bruce Franco"
+    },
+    "supplier": {
+        "address": "4185 Penny Lake Apt. 783 Evansstad, VI 82917",
+        "name": "Alexandra Fernandez"
+    },
+    "tax": {
+        "amount_excluding_tax": 67.15,
+        "amount_including_tax": 155.31,
+        "tax_amount": 11.67,
+        "total_ht": 492.64,
+        "total_ttc": 284.94
+    }
+}

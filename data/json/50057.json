@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "399 Robert Port West Charles, GA 26654",
+        "id": "kS504"
+    },
+    "invoice": {
+        "bc_no": "jU25596",
+        "currency_code": "IQD",
+        "date": "07.07.2015",
+        "due_date": "10.06.2023",
+        "number": 285864
+    },
+    "payment": {
+        "bank_name": "Sexton, Carter and Cardenas",
+        "bic": "YDSRGB7SRK6",
+        "iban": "GEAW37103535161482"
+    },
+    "products": [
+        {
+            "amount": 331.51,
+            "description": "deploy granular platforms",
+            "index": "4",
+            "price": 102.2,
+            "quantity": 5.9,
+            "tax_amount": 57.07,
+            "total_ttc": 255.4,
+            "vat_amount": 6.27
+        }
+    ],
+    "seller": {
+        "name": "Sarah Carney"
+    },
+    "supplier": {
+        "address": "PSC 2889, Box 6010 APO AE 66373",
+        "name": "Alexander Allen"
+    },
+    "tax": {
+        "amount_excluding_tax": 114.12,
+        "amount_including_tax": 158.78,
+        "tax_amount": 11.98,
+        "total_ht": 291.33,
+        "total_ttc": 296.27
+    }
+}

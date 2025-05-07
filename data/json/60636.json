@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "12160 Steven Burgs West Keithchester, CA 16589",
+        "business_no": "fE263",
+        "id": "Cp398"
+    },
+    "invoice": {
+        "date": "01.10.2010",
+        "number": "5825-5497"
+    },
+    "payment": {
+        "due_date": "03.06.1994",
+        "total": 169.61
+    },
+    "products": [
+        {
+            "amount": 115.45,
+            "description": "optimize magnetic technologies",
+            "quantity": 8.24,
+            "reference": "rk-767",
+            "unit_price": 81.88
+        },
+        {
+            "amount": 71.66,
+            "description": "target intuitive convergence",
+            "quantity": 4.84,
+            "reference": "as-677",
+            "unit_price": 37.91
+        },
+        {
+            "amount": 366.26,
+            "description": "morph robust supply-chains",
+            "quantity": 4.52,
+            "reference": "aF-583",
+            "unit_price": 67.67
+        },
+        {
+            "amount": 411.46,
+            "description": "revolutionize value-added eyeballs",
+            "quantity": 9.52,
+            "reference": "zF-511",
+            "unit_price": 86.6
+        }
+    ],
+    "seller": {
+        "address": "93021 Jeffrey Harbors Suite 663 North Shawn, WY 20733"
+    },
+    "tax": {
+        "base_ht": 189.37,
+        "regulations": 20.35,
+        "total_ht": 294.04,
+        "vat_amount": 133.54,
+        "vat_percentage": 13.62
+    }
+}

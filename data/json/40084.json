@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "6902 Sally Run South Fredbury, FM 05523"
+    },
+    "invoice": {
+        "bc_no": "IH96219",
+        "date": "20.08.2022",
+        "maturity_date": "04.06.2015",
+        "number": 464463
+    },
+    "products": [
+        {
+            "amount": 212.11,
+            "description": "orchestrate one-to-one e-tailers",
+            "quantity": 8.9,
+            "unit_price": 99.25,
+            "vat_amount": 8.99
+        },
+        {
+            "amount": 393.18,
+            "description": "deliver one-to-one info-mediaries",
+            "quantity": 7.37,
+            "unit_price": 19.11,
+            "vat_amount": 8.47
+        },
+        {
+            "amount": 151.6,
+            "description": "brand 24/7 e-services",
+            "quantity": 5.65,
+            "unit_price": 24.69,
+            "vat_amount": 10.4
+        },
+        {
+            "amount": 177.83,
+            "description": "generate viral web services",
+            "quantity": 4.94,
+            "unit_price": 97.45,
+            "vat_amount": 14.09
+        }
+    ],
+    "seller": {
+        "address": "407 Kent Center Apt. 114 Georgeton, TN 54534"
+    },
+    "tax": {
+        "amount_excluding_tax": 51.26,
+        "amount_including_tax": 12.36,
+        "tax_amount": 11.79
+    }
+}

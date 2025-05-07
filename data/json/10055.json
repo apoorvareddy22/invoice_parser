@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "4000 Laura Passage North Sandrabury, GA 16589",
+        "email": "jasonlozano@example.org",
+        "phone": "777.634.8234x25366",
+        "vat_no": "aO81764213838"
+    },
+    "invoice": {
+        "date": "21.03.2000",
+        "due_date": "02.09.1998",
+        "market_reference": 811044,
+        "notes": "implement B2C infrastructures",
+        "number": "8652-2948",
+        "reference": 633070,
+        "vat_no": "zM48069976400"
+    },
+    "payment": {
+        "net_total": 81.02,
+        "total": 406.21
+    },
+    "products": [
+        {
+            "amount": 264.76,
+            "description": "monetize user-centric e-business",
+            "hours": 6.48,
+            "rate": 5.09
+        },
+        {
+            "amount": 56.94,
+            "description": "deliver leading-edge functionalities",
+            "hours": 3.88,
+            "rate": 7.18
+        },
+        {
+            "amount": 300.24,
+            "description": "envisioneer vertical vortals",
+            "hours": 5.31,
+            "rate": 2.59
+        },
+        {
+            "amount": 477.82,
+            "description": "iterate value-added models",
+            "hours": 8.3,
+            "rate": 7.43
+        },
+        {
+            "amount": 255.64,
+            "description": "transform scalable ROI",
+            "hours": 3.07,
+            "rate": 3.43
+        }
+    ],
+    "seller": {
+        "address": "5229 Jones Gardens Port Michele, AR 97288",
+        "email": "iwilliams@example.org",
+        "name": "Michael Mack"
+    },
+    "tax": {
+        "base": 15.73,
+        "tax_amount": 21.58,
+        "total_tax": 14.04
+    }
+}

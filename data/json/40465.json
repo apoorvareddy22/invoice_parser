@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "27309 Carol Center Apt. 583 South David, WA 89693"
+    },
+    "invoice": {
+        "bc_no": "TE79612",
+        "date": "01.05.1990",
+        "maturity_date": "29.12.2021",
+        "number": 745903
+    },
+    "products": [
+        {
+            "amount": 267.03,
+            "description": "innovate mission-critical portals",
+            "quantity": 7.34,
+            "unit_price": 32.25,
+            "vat_amount": 6.17
+        }
+    ],
+    "seller": {
+        "address": "PSC 5752, Box 2562 APO AA 96012"
+    },
+    "tax": {
+        "amount_excluding_tax": 158.79,
+        "amount_including_tax": 84.17,
+        "tax_amount": 16.07
+    }
+}

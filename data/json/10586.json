@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "7631 Olson Square Suite 397 West Dennisshire, RI 52336",
+        "email": "qhaney@example.com",
+        "phone": "328-435-1300",
+        "vat_no": "sR89742010624"
+    },
+    "invoice": {
+        "date": "13.09.1993",
+        "due_date": "03.12.2020",
+        "market_reference": 630947,
+        "notes": "deliver out-of-the-box content",
+        "number": "9450-4873",
+        "reference": 326764,
+        "vat_no": "dh79227904365"
+    },
+    "payment": {
+        "net_total": 57.35,
+        "total": 490.64
+    },
+    "products": [
+        {
+            "amount": 294.54,
+            "description": "benchmark plug-and-play methodologies",
+            "hours": 5.21,
+            "rate": 4.26
+        },
+        {
+            "amount": 481.64,
+            "description": "brand collaborative methodologies",
+            "hours": 7.64,
+            "rate": 4.48
+        },
+        {
+            "amount": 125.31,
+            "description": "seize open-source ROI",
+            "hours": 5.59,
+            "rate": 9.47
+        },
+        {
+            "amount": 17.08,
+            "description": "maximize front-end action-items",
+            "hours": 7.68,
+            "rate": 4.44
+        },
+        {
+            "amount": 282.56,
+            "description": "mesh viral portals",
+            "hours": 7.54,
+            "rate": 6.98
+        },
+        {
+            "amount": 36.77,
+            "description": "generate mission-critical users",
+            "hours": 1.61,
+            "rate": 1.1
+        }
+    ],
+    "seller": {
+        "address": "6586 Jennifer Roads Port Amberbury, NC 06429",
+        "email": "hjones@example.org",
+        "name": "James Strong"
+    },
+    "tax": {
+        "base": 20.88,
+        "tax_amount": 18.92,
+        "total_tax": 20.52
+    }
+}

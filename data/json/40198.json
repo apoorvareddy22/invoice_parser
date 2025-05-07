@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "5671 Brown Landing Apt. 355 Mejialand, MP 88264"
+    },
+    "invoice": {
+        "bc_no": "Tc89345",
+        "date": "07.04.2015",
+        "maturity_date": "03.08.2005",
+        "number": 624667
+    },
+    "products": [
+        {
+            "amount": 437.95,
+            "description": "facilitate synergistic interfaces",
+            "quantity": 2.27,
+            "unit_price": 69.62,
+            "vat_amount": 7.8
+        },
+        {
+            "amount": 134.1,
+            "description": "brand cross-platform solutions",
+            "quantity": 5.12,
+            "unit_price": 54.04,
+            "vat_amount": 1.81
+        },
+        {
+            "amount": 207.1,
+            "description": "enhance bricks-and-clicks systems",
+            "quantity": 4.47,
+            "unit_price": 90.37,
+            "vat_amount": 3.81
+        }
+    ],
+    "seller": {
+        "address": "240 Jared Extension Romerochester, NY 75983"
+    },
+    "tax": {
+        "amount_excluding_tax": 160.03,
+        "amount_including_tax": 91.62,
+        "tax_amount": 26.34
+    }
+}

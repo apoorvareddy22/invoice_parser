@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "574 Carlson Common Lake Robert, TX 67361",
+        "business_no": "UQ537",
+        "id": "DG974"
+    },
+    "invoice": {
+        "date": "11.05.2005",
+        "number": "4539-9403"
+    },
+    "payment": {
+        "due_date": "12.04.2015",
+        "total": 273.77
+    },
+    "products": [
+        {
+            "amount": 425.41,
+            "description": "evolve plug-and-play platforms",
+            "quantity": 9.35,
+            "reference": "Ik-196",
+            "unit_price": 16.49
+        },
+        {
+            "amount": 74.66,
+            "description": "syndicate distributed networks",
+            "quantity": 4.59,
+            "reference": "TE-311",
+            "unit_price": 72.66
+        },
+        {
+            "amount": 223.55,
+            "description": "exploit scalable networks",
+            "quantity": 5.32,
+            "reference": "mX-035",
+            "unit_price": 24.0
+        }
+    ],
+    "seller": {
+        "address": "38301 Richard Knolls East Soniaburgh, ND 66726"
+    },
+    "tax": {
+        "base_ht": 370.03,
+        "regulations": 25.69,
+        "total_ht": 485.97,
+        "vat_amount": 51.56,
+        "vat_percentage": 26.12
+    }
+}

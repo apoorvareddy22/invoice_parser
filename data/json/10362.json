@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "11525 Jenkins Springs Apt. 298 East Luis, OR 80315",
+        "email": "rrichardson@example.net",
+        "phone": "922.317.7390x20251",
+        "vat_no": "QU75263796203"
+    },
+    "invoice": {
+        "date": "05.02.1993",
+        "due_date": "05.02.2023",
+        "market_reference": 217231,
+        "notes": "syndicate integrated partnerships",
+        "number": "5254-3050",
+        "reference": 941073,
+        "vat_no": "GD00762977786"
+    },
+    "payment": {
+        "net_total": 22.19,
+        "total": 230.27
+    },
+    "products": [
+        {
+            "amount": 381.87,
+            "description": "embrace end-to-end architectures",
+            "hours": 8.08,
+            "rate": 9.25
+        }
+    ],
+    "seller": {
+        "address": "PSC 5320, Box 8516 APO AA 33114",
+        "email": "longvictor@example.com",
+        "name": "Samantha Hartman"
+    },
+    "tax": {
+        "base": 17.02,
+        "tax_amount": 27.07,
+        "total_tax": 23.49
+    }
+}

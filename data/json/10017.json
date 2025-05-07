@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "USS Carpenter FPO AA 43685",
+        "email": "harperkimberly@example.org",
+        "phone": "(987)425-1635x33455",
+        "vat_no": "of25895795984"
+    },
+    "invoice": {
+        "date": "28.04.2021",
+        "due_date": "06.12.1991",
+        "market_reference": 774926,
+        "notes": "streamline plug-and-play paradigms",
+        "number": "6648-1233",
+        "reference": 106873,
+        "vat_no": "fR12993468528"
+    },
+    "payment": {
+        "net_total": 42.74,
+        "total": 112.58
+    },
+    "products": [
+        {
+            "amount": 106.32,
+            "description": "unleash scalable action-items",
+            "hours": 9.2,
+            "rate": 4.77
+        }
+    ],
+    "seller": {
+        "address": "6592 Sharon Pass Apt. 257 New Debbieburgh, GA 58436",
+        "email": "sherri94@example.com",
+        "name": "Nicholas Tran"
+    },
+    "tax": {
+        "base": 20.76,
+        "tax_amount": 22.91,
+        "total_tax": 15.95
+    }
+}

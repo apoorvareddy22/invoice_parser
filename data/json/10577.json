@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "6856 Brittney River Apt. 662 Brandonshire, NE 05826",
+        "email": "rreynolds@example.net",
+        "phone": "814-666-2100x0955",
+        "vat_no": "al45887503451"
+    },
+    "invoice": {
+        "date": "30.05.1994",
+        "due_date": "28.12.2011",
+        "market_reference": 273570,
+        "notes": "envisioneer end-to-end ROI",
+        "number": "0117-8987",
+        "reference": 475728,
+        "vat_no": "cR63491957067"
+    },
+    "payment": {
+        "net_total": 169.21,
+        "total": 286.11
+    },
+    "products": [
+        {
+            "amount": 93.17,
+            "description": "unleash compelling eyeballs",
+            "hours": 8.95,
+            "rate": 2.88
+        },
+        {
+            "amount": 379.84,
+            "description": "transition e-business experiences",
+            "hours": 8.36,
+            "rate": 7.57
+        },
+        {
+            "amount": 48.64,
+            "description": "monetize magnetic functionalities",
+            "hours": 3.36,
+            "rate": 4.93
+        },
+        {
+            "amount": 37.69,
+            "description": "productize customized action-items",
+            "hours": 7.92,
+            "rate": 9.08
+        }
+    ],
+    "seller": {
+        "address": "PSC 6312, Box 2687 APO AA 39816",
+        "email": "mcdanielchristopher@example.net",
+        "name": "Adam Carter"
+    },
+    "tax": {
+        "base": 12.76,
+        "tax_amount": 12.3,
+        "total_tax": 24.24
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "308 Cook Falls Tuckerfurt, OH 40878",
+        "email": "johnyoung@example.net",
+        "phone": "001-461-559-8806x272",
+        "vat_no": "Wk80356998495"
+    },
+    "invoice": {
+        "date": "12.11.2003",
+        "due_date": "13.12.2012",
+        "market_reference": 773319,
+        "notes": "matrix frictionless functionalities",
+        "number": "8794-2526",
+        "reference": 277312,
+        "vat_no": "ra07979627264"
+    },
+    "payment": {
+        "net_total": 178.62,
+        "total": 176.42
+    },
+    "products": [
+        {
+            "amount": 385.7,
+            "description": "strategize frictionless deliverables",
+            "hours": 5.62,
+            "rate": 5.95
+        },
+        {
+            "amount": 418.12,
+            "description": "drive B2B web-readiness",
+            "hours": 2.12,
+            "rate": 7.37
+        },
+        {
+            "amount": 128.41,
+            "description": "seize web-enabled architectures",
+            "hours": 3.09,
+            "rate": 9.77
+        },
+        {
+            "amount": 158.45,
+            "description": "brand turn-key action-items",
+            "hours": 7.9,
+            "rate": 1.0
+        },
+        {
+            "amount": 200.15,
+            "description": "strategize real-time schemas",
+            "hours": 1.71,
+            "rate": 9.3
+        }
+    ],
+    "seller": {
+        "address": "248 George Junctions Christinashire, LA 93608",
+        "email": "juliebennett@example.com",
+        "name": "Gavin Frank"
+    },
+    "tax": {
+        "base": 17.75,
+        "tax_amount": 13.8,
+        "total_tax": 23.17
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "411 Jessica Road Suite 129 Angelashire, VA 03238",
+        "business_no": "LI005",
+        "id": "jc295"
+    },
+    "invoice": {
+        "date": "25.06.2006",
+        "number": "2435-3974"
+    },
+    "payment": {
+        "due_date": "02.06.2018",
+        "total": 265.17
+    },
+    "products": [
+        {
+            "amount": 78.44,
+            "description": "orchestrate robust platforms",
+            "quantity": 4.98,
+            "reference": "aa-512",
+            "unit_price": 87.59
+        },
+        {
+            "amount": 126.44,
+            "description": "enable next-generation functionalities",
+            "quantity": 2.99,
+            "reference": "uN-157",
+            "unit_price": 92.64
+        },
+        {
+            "amount": 479.43,
+            "description": "integrate web-enabled e-markets",
+            "quantity": 4.31,
+            "reference": "Kr-929",
+            "unit_price": 10.79
+        },
+        {
+            "amount": 91.82,
+            "description": "visualize web-enabled interfaces",
+            "quantity": 3.95,
+            "reference": "sA-289",
+            "unit_price": 77.49
+        },
+        {
+            "amount": 159.59,
+            "description": "synergize efficient bandwidth",
+            "quantity": 2.24,
+            "reference": "MB-281",
+            "unit_price": 92.66
+        },
+        {
+            "amount": 7.57,
+            "description": "mesh transparent content",
+            "quantity": 2.09,
+            "reference": "zh-290",
+            "unit_price": 92.13
+        },
+        {
+            "amount": 135.84,
+            "description": "grow robust convergence",
+            "quantity": 3.5,
+            "reference": "Uv-139",
+            "unit_price": 26.78
+        }
+    ],
+    "seller": {
+        "address": "3830 Charles Flats Apt. 096 Kingshire, MH 60255"
+    },
+    "tax": {
+        "base_ht": 418.58,
+        "regulations": 28.02,
+        "total_ht": 117.51,
+        "vat_amount": 159.41,
+        "vat_percentage": 26.13
+    }
+}

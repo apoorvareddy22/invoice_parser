@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "277 Farley Rapid South Stacey, TX 60993",
+        "id": "aA940"
+    },
+    "invoice": {
+        "bc_no": "Ka82921",
+        "currency_code": "AMD",
+        "date": "13.04.2018",
+        "due_date": "27.12.2021",
+        "number": 750741
+    },
+    "payment": {
+        "bank_name": "Miller Group",
+        "bic": "CUQVGBXA",
+        "iban": "BETC73463846548844"
+    },
+    "products": [
+        {
+            "amount": 25.56,
+            "description": "morph distributed metrics",
+            "index": "5",
+            "price": 274.49,
+            "quantity": 3.38,
+            "tax_amount": 55.58,
+            "total_ttc": 349.21,
+            "vat_amount": 14.9
+        },
+        {
+            "amount": 481.12,
+            "description": "transition value-added technologies",
+            "index": "8",
+            "price": 458.66,
+            "quantity": 9.2,
+            "tax_amount": 70.46,
+            "total_ttc": 295.2,
+            "vat_amount": 1.08
+        },
+        {
+            "amount": 458.41,
+            "description": "streamline back-end infrastructures",
+            "index": "10",
+            "price": 286.66,
+            "quantity": 6.81,
+            "tax_amount": 56.65,
+            "total_ttc": 318.33,
+            "vat_amount": 3.33
+        },
+        {
+            "amount": 411.03,
+            "description": "synthesize strategic mindshare",
+            "index": "3",
+            "price": 102.85,
+            "quantity": 7.69,
+            "tax_amount": 80.14,
+            "total_ttc": 215.29,
+            "vat_amount": 1.3
+        },
+        {
+            "amount": 387.89,
+            "description": "integrate customized convergence",
+            "index": "4",
+            "price": 53.02,
+            "quantity": 4.16,
+            "tax_amount": 71.65,
+            "total_ttc": 208.27,
+            "vat_amount": 10.87
+        },
+        {
+            "amount": 15.28,
+            "description": "benchmark innovative users",
+            "index": "5",
+            "price": 178.66,
+            "quantity": 9.07,
+            "tax_amount": 84.62,
+            "total_ttc": 364.85,
+            "vat_amount": 1.22
+        },
+        {
+            "amount": 488.33,
+            "description": "utilize cutting-edge paradigms",
+            "index": "5",
+            "price": 411.02,
+            "quantity": 3.86,
+            "tax_amount": 94.29,
+            "total_ttc": 290.46,
+            "vat_amount": 5.53
+        }
+    ],
+    "seller": {
+        "name": "Sabrina Williams"
+    },
+    "supplier": {
+        "address": "516 Paul Park Apt. 250 Lake Elizabeth, MH 73776",
+        "name": "John Maynard"
+    },
+    "tax": {
+        "amount_excluding_tax": 97.01,
+        "amount_including_tax": 52.7,
+        "tax_amount": 23.09,
+        "total_ht": 211.88,
+        "total_ttc": 389.19
+    }
+}

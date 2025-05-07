@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "627 Jasmine Forest Suite 788 Lanceport, NJ 81380"
+    },
+    "invoice": {
+        "bc_no": "Vu19330",
+        "date": "29.11.2002",
+        "maturity_date": "27.11.1995",
+        "number": 219183
+    },
+    "products": [
+        {
+            "amount": 479.11,
+            "description": "leverage best-of-breed niches",
+            "quantity": 7.41,
+            "unit_price": 26.53,
+            "vat_amount": 9.39
+        },
+        {
+            "amount": 158.04,
+            "description": "embrace revolutionary bandwidth",
+            "quantity": 9.31,
+            "unit_price": 86.05,
+            "vat_amount": 3.21
+        },
+        {
+            "amount": 181.82,
+            "description": "facilitate bleeding-edge info-mediaries",
+            "quantity": 9.56,
+            "unit_price": 18.56,
+            "vat_amount": 2.7
+        }
+    ],
+    "seller": {
+        "address": "2962 Randall Plains Mortonport, HI 07172"
+    },
+    "tax": {
+        "amount_excluding_tax": 184.06,
+        "amount_including_tax": 52.76,
+        "tax_amount": 26.65
+    }
+}

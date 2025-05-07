@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "70832 Hampton Fields North Eric, ND 63996",
+        "email": "andrea34@example.net",
+        "phone": "+1-607-522-5948",
+        "vat_no": "DA33851769674"
+    },
+    "invoice": {
+        "date": "04.07.2015",
+        "due_date": "04.01.1990",
+        "market_reference": 643828,
+        "notes": "optimize ubiquitous deliverables",
+        "number": "0865-5076",
+        "reference": 234247,
+        "vat_no": "tW93235344011"
+    },
+    "payment": {
+        "net_total": 186.49,
+        "total": 512.58
+    },
+    "products": [
+        {
+            "amount": 431.82,
+            "description": "maximize integrated e-tailers",
+            "hours": 3.45,
+            "rate": 7.23
+        },
+        {
+            "amount": 311.32,
+            "description": "aggregate best-of-breed content",
+            "hours": 9.35,
+            "rate": 6.53
+        }
+    ],
+    "seller": {
+        "address": "07888 Webb Pike Petertown, IL 42748",
+        "email": "nicholsjennifer@example.net",
+        "name": "Rick Holmes"
+    },
+    "tax": {
+        "base": 20.98,
+        "tax_amount": 12.38,
+        "total_tax": 26.31
+    }
+}

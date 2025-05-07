@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "3201 Young Plain Suite 729 Morrisshire, TX 56055",
+        "id": "Pz900"
+    },
+    "invoice": {
+        "bc_no": "Ld91155",
+        "currency_code": "SHP",
+        "date": "26.05.2000",
+        "due_date": "21.06.2009",
+        "number": 185023
+    },
+    "payment": {
+        "bank_name": "Washington, Mora and Ferrell",
+        "bic": "AWPPGBUCGYW",
+        "iban": "AZNH18057412438582"
+    },
+    "products": [
+        {
+            "amount": 161.41,
+            "description": "leverage proactive e-business",
+            "index": "9",
+            "price": 422.22,
+            "quantity": 9.47,
+            "tax_amount": 57.64,
+            "total_ttc": 460.82,
+            "vat_amount": 6.93
+        },
+        {
+            "amount": 165.58,
+            "description": "synthesize transparent applications",
+            "index": "8",
+            "price": 140.09,
+            "quantity": 4.96,
+            "tax_amount": 32.66,
+            "total_ttc": 245.74,
+            "vat_amount": 0.08
+        },
+        {
+            "amount": 247.33,
+            "description": "architect B2C info-mediaries",
+            "index": "4",
+            "price": 222.23,
+            "quantity": 5.01,
+            "tax_amount": 54.31,
+            "total_ttc": 168.02,
+            "vat_amount": 0.32
+        },
+        {
+            "amount": 52.22,
+            "description": "streamline extensible paradigms",
+            "index": "4",
+            "price": 456.84,
+            "quantity": 4.14,
+            "tax_amount": 63.04,
+            "total_ttc": 477.07,
+            "vat_amount": 7.52
+        },
+        {
+            "amount": 223.86,
+            "description": "extend bricks-and-clicks functionalities",
+            "index": "10",
+            "price": 291.18,
+            "quantity": 4.67,
+            "tax_amount": 35.47,
+            "total_ttc": 142.14,
+            "vat_amount": 5.17
+        },
+        {
+            "amount": 172.71,
+            "description": "generate web-enabled solutions",
+            "index": "4",
+            "price": 322.89,
+            "quantity": 7.61,
+            "tax_amount": 63.44,
+            "total_ttc": 439.6,
+            "vat_amount": 9.47
+        }
+    ],
+    "seller": {
+        "name": "Justin Cox"
+    },
+    "supplier": {
+        "address": "0320 Kevin Road Suite 941 West Haley, AR 06792",
+        "name": "Amy Wright"
+    },
+    "tax": {
+        "amount_excluding_tax": 70.57,
+        "amount_including_tax": 101.27,
+        "tax_amount": 11.08,
+        "total_ht": 426.42,
+        "total_ttc": 401.51
+    }
+}

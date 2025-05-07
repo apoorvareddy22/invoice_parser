@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "0326 Jordan Summit West Daniel, IN 95804",
+        "business_no": "JF596",
+        "id": "vQ621"
+    },
+    "invoice": {
+        "date": "18.01.2010",
+        "number": "3173-1791"
+    },
+    "payment": {
+        "due_date": "30.03.2018",
+        "total": 993.03
+    },
+    "products": [
+        {
+            "amount": 203.7,
+            "description": "revolutionize efficient action-items",
+            "quantity": 6.82,
+            "reference": "yU-526",
+            "unit_price": 97.11
+        },
+        {
+            "amount": 467.78,
+            "description": "empower scalable solutions",
+            "quantity": 6.75,
+            "reference": "ID-579",
+            "unit_price": 45.13
+        },
+        {
+            "amount": 264.63,
+            "description": "iterate web-enabled e-business",
+            "quantity": 2.3,
+            "reference": "nU-067",
+            "unit_price": 64.56
+        }
+    ],
+    "seller": {
+        "address": "69971 Walter Summit North Joel, AL 77202"
+    },
+    "tax": {
+        "base_ht": 357.3,
+        "regulations": 12.24,
+        "total_ht": 380.98,
+        "vat_amount": 74.68,
+        "vat_percentage": 26.53
+    }
+}

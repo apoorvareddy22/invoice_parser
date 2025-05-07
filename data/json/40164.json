@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "791 Johnson Cliff Suite 906 Wilsonstad, PA 89486"
+    },
+    "invoice": {
+        "bc_no": "xU45532",
+        "date": "04.05.2003",
+        "maturity_date": "24.10.1997",
+        "number": 256115
+    },
+    "products": [
+        {
+            "amount": 379.21,
+            "description": "enable back-end content",
+            "quantity": 7.53,
+            "unit_price": 37.93,
+            "vat_amount": 1.62
+        },
+        {
+            "amount": 106.98,
+            "description": "iterate compelling ROI",
+            "quantity": 7.99,
+            "unit_price": 76.31,
+            "vat_amount": 10.6
+        },
+        {
+            "amount": 227.96,
+            "description": "revolutionize out-of-the-box interfaces",
+            "quantity": 3.8,
+            "unit_price": 86.11,
+            "vat_amount": 2.68
+        },
+        {
+            "amount": 387.01,
+            "description": "cultivate compelling technologies",
+            "quantity": 2.5,
+            "unit_price": 91.71,
+            "vat_amount": 4.25
+        }
+    ],
+    "seller": {
+        "address": "04952 Thompson Motorway North Austinview, NM 41264"
+    },
+    "tax": {
+        "amount_excluding_tax": 99.92,
+        "amount_including_tax": 53.32,
+        "tax_amount": 29.1
+    }
+}

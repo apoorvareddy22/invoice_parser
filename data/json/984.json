@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "USNV Chandler FPO AP 67385",
+        "company_name": "Porter, Grimes and Nichols",
+        "country": "Belize",
+        "name": "William Conway"
+    },
+    "invoice": {
+        "date": "07.07.2001",
+        "number": 204399
+    },
+    "payment": {
+        "discount_amount": 37.09,
+        "discount_percentage": 18.31,
+        "due": 51.37,
+        "sub_total": 155.44,
+        "total": 735.72
+    },
+    "products": [
+        {
+            "description": "envisioneer mission-critical markets",
+            "index": "8",
+            "quantity": 1.48,
+            "total_price": 489.91,
+            "unit_price": 26.61
+        },
+        {
+            "description": "brand bleeding-edge schemas",
+            "index": "4",
+            "quantity": 7.65,
+            "total_price": 34.31,
+            "unit_price": 72.45
+        },
+        {
+            "description": "e-enable global metrics",
+            "index": "3",
+            "quantity": 7.98,
+            "total_price": 664.83,
+            "unit_price": 57.0
+        },
+        {
+            "description": "drive out-of-the-box e-commerce",
+            "index": "9",
+            "quantity": 3.99,
+            "total_price": 909.47,
+            "unit_price": 24.24
+        },
+        {
+            "description": "mesh next-generation technologies",
+            "index": "3",
+            "quantity": 8.05,
+            "total_price": 570.31,
+            "unit_price": 25.3
+        },
+        {
+            "description": "unleash next-generation infrastructures",
+            "index": "4",
+            "quantity": 6.08,
+            "total_price": 219.77,
+            "unit_price": 98.49
+        },
+        {
+            "description": "transition plug-and-play architectures",
+            "index": "9",
+            "quantity": 5.96,
+            "total_price": 923.29,
+            "unit_price": 60.64
+        }
+    ],
+    "seller": {
+        "address": "754 Hawkins Point Suite 592 North Sean, GU 74652",
+        "company_name": "Williams-Hammond",
+        "vat_no": "yS12868363966"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "Unit 4051 Box 4594 DPO AP 97283",
+        "company_name": "Russo LLC",
+        "country": "Lebanon",
+        "name": "Karen Summers"
+    },
+    "invoice": {
+        "date": "06.02.2013",
+        "number": 539698
+    },
+    "payment": {
+        "discount_amount": 36.87,
+        "discount_percentage": 9.93,
+        "due": 78.93,
+        "sub_total": 152.73,
+        "total": 119.9
+    },
+    "products": [
+        {
+            "description": "synthesize frictionless e-markets",
+            "index": "8",
+            "quantity": 5.19,
+            "total_price": 797.41,
+            "unit_price": 32.45
+        },
+        {
+            "description": "target collaborative portals",
+            "index": "6",
+            "quantity": 6.44,
+            "total_price": 284.34,
+            "unit_price": 89.74
+        },
+        {
+            "description": "streamline synergistic info-mediaries",
+            "index": "7",
+            "quantity": 3.72,
+            "total_price": 793.67,
+            "unit_price": 45.64
+        },
+        {
+            "description": "seize turn-key convergence",
+            "index": "4",
+            "quantity": 6.66,
+            "total_price": 547.29,
+            "unit_price": 92.24
+        }
+    ],
+    "seller": {
+        "address": "08263 Edward Greens Andrewburgh, VT 18436",
+        "company_name": "Smith Inc",
+        "vat_no": "Gf36854747736"
+    }
+}

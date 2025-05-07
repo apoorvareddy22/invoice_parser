@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "PSC 3366, Box 4382 APO AA 04329",
+        "id": "NP890"
+    },
+    "invoice": {
+        "bc_no": "AS28760",
+        "currency_code": "RSD",
+        "date": "14.06.2006",
+        "due_date": "11.03.2017",
+        "number": 201052
+    },
+    "payment": {
+        "bank_name": "Anderson, Rivera and Lee",
+        "bic": "BOBSGB3YMIA",
+        "iban": "ZUZN55433370497047"
+    },
+    "products": [
+        {
+            "amount": 328.15,
+            "description": "extend granular communities",
+            "index": "5",
+            "price": 233.55,
+            "quantity": 7.22,
+            "tax_amount": 59.98,
+            "total_ttc": 493.0,
+            "vat_amount": 4.14
+        },
+        {
+            "amount": 307.28,
+            "description": "engineer customized platforms",
+            "index": "2",
+            "price": 231.99,
+            "quantity": 1.8,
+            "tax_amount": 36.7,
+            "total_ttc": 415.47,
+            "vat_amount": 5.29
+        },
+        {
+            "amount": 446.66,
+            "description": "strategize world-class info-mediaries",
+            "index": "1",
+            "price": 483.43,
+            "quantity": 7.87,
+            "tax_amount": 30.23,
+            "total_ttc": 145.37,
+            "vat_amount": 3.8
+        },
+        {
+            "amount": 435.06,
+            "description": "synergize user-centric eyeballs",
+            "index": "4",
+            "price": 492.68,
+            "quantity": 7.57,
+            "tax_amount": 62.35,
+            "total_ttc": 338.2,
+            "vat_amount": 5.28
+        },
+        {
+            "amount": 456.73,
+            "description": "facilitate global e-services",
+            "index": "2",
+            "price": 461.9,
+            "quantity": 6.18,
+            "tax_amount": 27.31,
+            "total_ttc": 221.27,
+            "vat_amount": 3.95
+        },
+        {
+            "amount": 162.89,
+            "description": "e-enable clicks-and-mortar convergence",
+            "index": "1",
+            "price": 154.08,
+            "quantity": 5.17,
+            "tax_amount": 74.7,
+            "total_ttc": 300.99,
+            "vat_amount": 1.57
+        }
+    ],
+    "seller": {
+        "name": "Jacob James"
+    },
+    "supplier": {
+        "address": "1851 Danielle Pass Apt. 408 Benjamintown, NY 34710",
+        "name": "Dale Fleming"
+    },
+    "tax": {
+        "amount_excluding_tax": 92.96,
+        "amount_including_tax": 86.98,
+        "tax_amount": 24.76,
+        "total_ht": 365.68,
+        "total_ttc": 178.45
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "48841 Norris Center Suite 352 Lisashire, NM 28466",
+        "id": "qO332"
+    },
+    "invoice": {
+        "bc_no": "wg92784",
+        "currency_code": "CNY",
+        "date": "15.10.2002",
+        "due_date": "23.05.1994",
+        "number": 909681
+    },
+    "payment": {
+        "bank_name": "Briggs Group",
+        "bic": "QDZGGBMY",
+        "iban": "MQTW90988550927254"
+    },
+    "products": [
+        {
+            "amount": 38.16,
+            "description": "disintermediate turn-key niches",
+            "index": "1",
+            "price": 207.04,
+            "quantity": 3.31,
+            "tax_amount": 21.1,
+            "total_ttc": 434.61,
+            "vat_amount": 6.23
+        },
+        {
+            "amount": 402.38,
+            "description": "synergize 24/7 functionalities",
+            "index": "10",
+            "price": 185.18,
+            "quantity": 5.73,
+            "tax_amount": 46.7,
+            "total_ttc": 249.37,
+            "vat_amount": 1.91
+        },
+        {
+            "amount": 193.61,
+            "description": "redefine extensible eyeballs",
+            "index": "4",
+            "price": 73.19,
+            "quantity": 7.52,
+            "tax_amount": 41.57,
+            "total_ttc": 376.25,
+            "vat_amount": 0.76
+        },
+        {
+            "amount": 83.25,
+            "description": "innovate cutting-edge e-tailers",
+            "index": "5",
+            "price": 46.75,
+            "quantity": 5.37,
+            "tax_amount": 57.32,
+            "total_ttc": 438.38,
+            "vat_amount": 1.57
+        },
+        {
+            "amount": 268.53,
+            "description": "redefine innovative schemas",
+            "index": "10",
+            "price": 368.72,
+            "quantity": 3.48,
+            "tax_amount": 19.67,
+            "total_ttc": 457.76,
+            "vat_amount": 2.56
+        }
+    ],
+    "seller": {
+        "name": "Kristen Boyd"
+    },
+    "supplier": {
+        "address": "Unit 9491 Box 2130 DPO AE 98773",
+        "name": "Nicholas Manning DVM"
+    },
+    "tax": {
+        "amount_excluding_tax": 162.97,
+        "amount_including_tax": 75.3,
+        "tax_amount": 25.44,
+        "total_ht": 217.45,
+        "total_ttc": 280.38
+    }
+}

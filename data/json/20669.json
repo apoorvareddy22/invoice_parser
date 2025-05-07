@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "Unit 1400 Box 2467 DPO AE 89089",
+        "company_name": "Barber PLC",
+        "email": "chasekyle@example.org",
+        "name": "Sandra Nash",
+        "phone": "+1-889-956-4620x50383"
+    },
+    "invoice": {
+        "date": "24.07.2023",
+        "due_date": "04.02.2001",
+        "number": "qRf10076771644"
+    },
+    "payment": {
+        "account_number": 4069282619,
+        "bank_name": "Moreno PLC",
+        "routing_number": 154121257
+    },
+    "products": [
+        {
+            "amount": 407.3,
+            "description": "integrate mission-critical e-business",
+            "index": "8",
+            "quantity": 7.06,
+            "unit_price": 99.24
+        },
+        {
+            "amount": 146.03,
+            "description": "engage e-business networks",
+            "index": "2",
+            "quantity": 2.84,
+            "unit_price": 55.92
+        },
+        {
+            "amount": 435.21,
+            "description": "unleash B2C applications",
+            "index": "1",
+            "quantity": 3.41,
+            "unit_price": 82.7
+        },
+        {
+            "amount": 255.8,
+            "description": "streamline back-end e-tailers",
+            "index": "10",
+            "quantity": 9.94,
+            "unit_price": 98.53
+        },
+        {
+            "amount": 435.67,
+            "description": "streamline seamless users",
+            "index": "5",
+            "quantity": 3.68,
+            "unit_price": 12.94
+        }
+    ],
+    "seller": {
+        "address": "9253 Jeffrey Spring Dawnfurt, ME 46947",
+        "company_name": "Barton-Osborne",
+        "email": "jenniferwilliams@example.org"
+    }
+}

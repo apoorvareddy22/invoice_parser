@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "6010 Thomas Tunnel Apt. 292 Jessicaberg, TN 09848",
+        "email": "patrick52@example.org",
+        "phone": "674-361-7371",
+        "vat_no": "sG76729555495"
+    },
+    "invoice": {
+        "date": "30.09.2016",
+        "due_date": "25.02.2019",
+        "market_reference": 913039,
+        "notes": "maximize global metrics",
+        "number": "6209-1617",
+        "reference": 112137,
+        "vat_no": "ae01564269340"
+    },
+    "payment": {
+        "net_total": 41.15,
+        "total": 179.18
+    },
+    "products": [
+        {
+            "amount": 310.15,
+            "description": "re-contextualize dot-com web-readiness",
+            "hours": 3.49,
+            "rate": 9.93
+        }
+    ],
+    "seller": {
+        "address": "10805 Miller Course Martinezland, WV 37891",
+        "email": "brentmartinez@example.com",
+        "name": "Crystal Barber"
+    },
+    "tax": {
+        "base": 27.75,
+        "tax_amount": 17.98,
+        "total_tax": 15.39
+    }
+}

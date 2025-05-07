@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "37407 Acevedo Wall South Jessica, ME 29210"
+    },
+    "invoice": {
+        "bc_no": "zR82859",
+        "date": "06.04.1996",
+        "maturity_date": "05.08.2002",
+        "number": 580483
+    },
+    "products": [
+        {
+            "amount": 231.66,
+            "description": "target value-added synergies",
+            "quantity": 4.1,
+            "unit_price": 29.1,
+            "vat_amount": 5.46
+        },
+        {
+            "amount": 123.74,
+            "description": "monetize web-enabled initiatives",
+            "quantity": 7.9,
+            "unit_price": 25.39,
+            "vat_amount": 16.29
+        }
+    ],
+    "seller": {
+        "address": "954 Perez Overpass Suite 127 Tylerchester, AR 55104"
+    },
+    "tax": {
+        "amount_excluding_tax": 95.8,
+        "amount_including_tax": 40.17,
+        "tax_amount": 23.58
+    }
+}

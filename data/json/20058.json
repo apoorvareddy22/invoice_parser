@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "3741 Gates Curve Wrightberg, MO 65940",
+        "company_name": "Beck LLC",
+        "email": "isaiah68@example.net",
+        "name": "Jorge Long",
+        "phone": "901.945.2680"
+    },
+    "invoice": {
+        "date": "18.08.2021",
+        "due_date": "28.07.1997",
+        "number": "kSp90035372446"
+    },
+    "payment": {
+        "account_number": 2861697288,
+        "bank_name": "Rodriguez-Bell",
+        "routing_number": 678749768
+    },
+    "products": [
+        {
+            "amount": 203.28,
+            "description": "whiteboard wireless deliverables",
+            "index": "7",
+            "quantity": 6.5,
+            "unit_price": 94.62
+        },
+        {
+            "amount": 82.69,
+            "description": "redefine bricks-and-clicks e-services",
+            "index": "1",
+            "quantity": 6.5,
+            "unit_price": 39.62
+        },
+        {
+            "amount": 65.01,
+            "description": "optimize cross-media systems",
+            "index": "7",
+            "quantity": 8.16,
+            "unit_price": 28.07
+        },
+        {
+            "amount": 372.57,
+            "description": "harness best-of-breed schemas",
+            "index": "2",
+            "quantity": 3.08,
+            "unit_price": 60.44
+        }
+    ],
+    "seller": {
+        "address": "811 Todd Lights Carolside, AS 06959",
+        "company_name": "Hall, Odonnell and Santana",
+        "email": "hubbarddominic@example.net"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "10511 May Burgs Apt. 564 South Eduardo, OK 39891",
+        "email": "xclark@example.net",
+        "phone": "(216)861-0880x3826",
+        "vat_no": "Vx09114710380"
+    },
+    "invoice": {
+        "date": "29.12.1995",
+        "due_date": "19.10.1997",
+        "market_reference": 830535,
+        "notes": "harness web-enabled e-markets",
+        "number": "7858-1592",
+        "reference": 868012,
+        "vat_no": "UD32363352839"
+    },
+    "payment": {
+        "net_total": 110.97,
+        "total": 182.46
+    },
+    "products": [
+        {
+            "amount": 142.11,
+            "description": "deploy interactive e-markets",
+            "hours": 5.81,
+            "rate": 8.74
+        },
+        {
+            "amount": 368.27,
+            "description": "revolutionize B2C e-markets",
+            "hours": 4.93,
+            "rate": 1.31
+        },
+        {
+            "amount": 317.89,
+            "description": "utilize visionary e-tailers",
+            "hours": 9.07,
+            "rate": 8.8
+        },
+        {
+            "amount": 141.29,
+            "description": "engineer collaborative supply-chains",
+            "hours": 1.45,
+            "rate": 8.4
+        }
+    ],
+    "seller": {
+        "address": "PSC 6846, Box 6306 APO AP 52029",
+        "email": "rhondalowe@example.net",
+        "name": "Arthur Kelley"
+    },
+    "tax": {
+        "base": 19.53,
+        "tax_amount": 28.75,
+        "total_tax": 11.43
+    }
+}

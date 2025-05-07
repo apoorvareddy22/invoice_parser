@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "59436 Dennis Trafficway Aliciahaven, MA 60489",
+        "email": "charles86@example.net",
+        "phone": "(721)910-3900",
+        "vat_no": "nP34308548738"
+    },
+    "invoice": {
+        "date": "03.06.2023",
+        "due_date": "09.10.2011",
+        "market_reference": 607676,
+        "notes": "transform sticky deliverables",
+        "number": "0693-3115",
+        "reference": 154697,
+        "vat_no": "lh97066015742"
+    },
+    "payment": {
+        "net_total": 78.46,
+        "total": 988.02
+    },
+    "products": [
+        {
+            "amount": 206.16,
+            "description": "repurpose intuitive partnerships",
+            "hours": 1.96,
+            "rate": 7.4
+        },
+        {
+            "amount": 63.34,
+            "description": "iterate real-time vortals",
+            "hours": 1.45,
+            "rate": 3.81
+        },
+        {
+            "amount": 82.61,
+            "description": "repurpose integrated partnerships",
+            "hours": 5.17,
+            "rate": 4.13
+        }
+    ],
+    "seller": {
+        "address": "727 Lauren Orchard Deborahtown, WA 79557",
+        "email": "jonesyvonne@example.org",
+        "name": "Michael Simpson"
+    },
+    "tax": {
+        "base": 28.57,
+        "tax_amount": 27.56,
+        "total_tax": 17.43
+    }
+}

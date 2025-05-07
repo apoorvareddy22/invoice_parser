@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "729 Foster Alley Shawnstad, NM 79566",
+        "business_no": "ws956",
+        "id": "eL074"
+    },
+    "invoice": {
+        "date": "25.10.2005",
+        "number": "7016-2536"
+    },
+    "payment": {
+        "due_date": "06.04.1992",
+        "total": 384.83
+    },
+    "products": [
+        {
+            "amount": 342.77,
+            "description": "facilitate seamless infrastructures",
+            "quantity": 3.42,
+            "reference": "bN-172",
+            "unit_price": 15.75
+        },
+        {
+            "amount": 227.78,
+            "description": "synergize transparent channels",
+            "quantity": 7.37,
+            "reference": "Iq-227",
+            "unit_price": 45.7
+        },
+        {
+            "amount": 129.65,
+            "description": "engage distributed schemas",
+            "quantity": 2.17,
+            "reference": "tN-047",
+            "unit_price": 17.23
+        },
+        {
+            "amount": 445.75,
+            "description": "innovate innovative relationships",
+            "quantity": 6.27,
+            "reference": "WR-340",
+            "unit_price": 13.67
+        }
+    ],
+    "seller": {
+        "address": "115 Jose Circles Apt. 598 Fowlerville, AK 80847"
+    },
+    "tax": {
+        "base_ht": 389.59,
+        "regulations": 16.93,
+        "total_ht": 134.91,
+        "vat_amount": 44.51,
+        "vat_percentage": 21.39
+    }
+}

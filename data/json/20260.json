@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "86010 Curtis Passage Apt. 212 Samanthaberg, DE 38375",
+        "company_name": "Stevens, Davis and Adams",
+        "email": "owilliams@example.net",
+        "name": "Michelle Carter",
+        "phone": "243-910-6336x0719"
+    },
+    "invoice": {
+        "date": "26.10.1994",
+        "due_date": "10.08.2012",
+        "number": "vAP47875860446"
+    },
+    "payment": {
+        "account_number": 9015212720,
+        "bank_name": "Scott-Warner",
+        "routing_number": 690860532
+    },
+    "products": [
+        {
+            "amount": 150.64,
+            "description": "redefine end-to-end relationships",
+            "index": "9",
+            "quantity": 8.88,
+            "unit_price": 10.75
+        },
+        {
+            "amount": 55.89,
+            "description": "architect value-added e-commerce",
+            "index": "5",
+            "quantity": 3.75,
+            "unit_price": 81.99
+        }
+    ],
+    "seller": {
+        "address": "2890 Franco Grove North Dianaland, NJ 64153",
+        "company_name": "Rocha, Neal and Mullen",
+        "email": "pamelascott@example.net"
+    }
+}

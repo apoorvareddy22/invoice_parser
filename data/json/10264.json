@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "57987 Mary River Apt. 822 Lake Melissa, FL 23589",
+        "email": "deannaking@example.net",
+        "phone": "4115186280",
+        "vat_no": "Lq84620035704"
+    },
+    "invoice": {
+        "date": "19.06.1996",
+        "due_date": "13.08.2019",
+        "market_reference": 316716,
+        "notes": "brand bricks-and-clicks action-items",
+        "number": "5668-9073",
+        "reference": 687037,
+        "vat_no": "Ak26036807071"
+    },
+    "payment": {
+        "net_total": 38.35,
+        "total": 186.64
+    },
+    "products": [
+        {
+            "amount": 96.76,
+            "description": "generate dot-com info-mediaries",
+            "hours": 7.97,
+            "rate": 2.04
+        },
+        {
+            "amount": 121.91,
+            "description": "empower web-enabled e-services",
+            "hours": 5.62,
+            "rate": 9.46
+        },
+        {
+            "amount": 251.63,
+            "description": "enable world-class schemas",
+            "hours": 2.13,
+            "rate": 8.21
+        },
+        {
+            "amount": 61.79,
+            "description": "extend scalable applications",
+            "hours": 4.92,
+            "rate": 8.79
+        },
+        {
+            "amount": 389.6,
+            "description": "seize innovative markets",
+            "hours": 6.8,
+            "rate": 4.32
+        },
+        {
+            "amount": 147.4,
+            "description": "reinvent virtual supply-chains",
+            "hours": 6.03,
+            "rate": 8.47
+        },
+        {
+            "amount": 11.57,
+            "description": "brand mission-critical content",
+            "hours": 7.64,
+            "rate": 4.72
+        }
+    ],
+    "seller": {
+        "address": "114 Nichols Garden Suite 202 Lynchmouth, ME 99697",
+        "email": "macdonaldbianca@example.net",
+        "name": "Stephanie Martin"
+    },
+    "tax": {
+        "base": 23.63,
+        "tax_amount": 28.98,
+        "total_tax": 23.64
+    }
+}

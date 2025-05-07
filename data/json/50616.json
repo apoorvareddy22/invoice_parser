@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "0359 Mejia Pass Apt. 290 Millerton, MS 34056",
+        "id": "lQ208"
+    },
+    "invoice": {
+        "bc_no": "LY04889",
+        "currency_code": "XCD",
+        "date": "11.04.2023",
+        "due_date": "28.02.2019",
+        "number": 749839
+    },
+    "payment": {
+        "bank_name": "Wilson Ltd",
+        "bic": "XVFZGBGU",
+        "iban": "VNXX74300476707735"
+    },
+    "products": [
+        {
+            "amount": 429.5,
+            "description": "cultivate 24/365 infrastructures",
+            "index": "5",
+            "price": 218.94,
+            "quantity": 7.67,
+            "tax_amount": 28.45,
+            "total_ttc": 366.49,
+            "vat_amount": 1.16
+        },
+        {
+            "amount": 95.5,
+            "description": "extend global applications",
+            "index": "1",
+            "price": 122.26,
+            "quantity": 7.86,
+            "tax_amount": 56.75,
+            "total_ttc": 145.58,
+            "vat_amount": 0.14
+        },
+        {
+            "amount": 367.91,
+            "description": "leverage wireless schemas",
+            "index": "5",
+            "price": 358.79,
+            "quantity": 4.68,
+            "tax_amount": 20.56,
+            "total_ttc": 481.7,
+            "vat_amount": 5.21
+        },
+        {
+            "amount": 269.85,
+            "description": "envisioneer holistic metrics",
+            "index": "9",
+            "price": 267.0,
+            "quantity": 9.38,
+            "tax_amount": 90.25,
+            "total_ttc": 249.99,
+            "vat_amount": 2.12
+        }
+    ],
+    "seller": {
+        "name": "Patrick Davis"
+    },
+    "supplier": {
+        "address": "0309 Moore Trail Apt. 951 Kempton, MS 51884",
+        "name": "William Fisher"
+    },
+    "tax": {
+        "amount_excluding_tax": 17.87,
+        "amount_including_tax": 126.61,
+        "tax_amount": 13.7,
+        "total_ht": 367.21,
+        "total_ttc": 314.18
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "09260 Robinson Stream Apt. 802 Matthewside, AR 77035",
+        "company_name": "Mercer, Simmons and Nguyen",
+        "country": "Malaysia",
+        "name": "Brandy Robinson"
+    },
+    "invoice": {
+        "date": "29.03.2018",
+        "number": 316062
+    },
+    "payment": {
+        "discount_amount": 44.79,
+        "discount_percentage": 11.29,
+        "due": 94.56,
+        "sub_total": 92.43,
+        "total": 745.11
+    },
+    "products": [
+        {
+            "description": "drive mission-critical partnerships",
+            "index": "8",
+            "quantity": 2.08,
+            "total_price": 841.69,
+            "unit_price": 90.97
+        },
+        {
+            "description": "aggregate 24/7 communities",
+            "index": "9",
+            "quantity": 2.41,
+            "total_price": 142.95,
+            "unit_price": 71.22
+        },
+        {
+            "description": "engineer enterprise supply-chains",
+            "index": "2",
+            "quantity": 1.53,
+            "total_price": 969.79,
+            "unit_price": 17.64
+        }
+    ],
+    "seller": {
+        "address": "6463 Anderson Place Jasonburgh, MS 27153",
+        "company_name": "Villarreal-Meyer",
+        "vat_no": "hN76848111508"
+    }
+}

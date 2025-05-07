@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "632 Denise Union Suite 241 West Wendyton, ND 29622",
+        "business_no": "kY191",
+        "id": "hI840"
+    },
+    "invoice": {
+        "date": "29.07.2012",
+        "number": "4375-3845"
+    },
+    "payment": {
+        "due_date": "11.07.2016",
+        "total": 269.23
+    },
+    "products": [
+        {
+            "amount": 155.1,
+            "description": "innovate 24/7 supply-chains",
+            "quantity": 9.07,
+            "reference": "dJ-834",
+            "unit_price": 41.1
+        },
+        {
+            "amount": 87.11,
+            "description": "embrace e-business technologies",
+            "quantity": 9.73,
+            "reference": "tT-134",
+            "unit_price": 24.78
+        }
+    ],
+    "seller": {
+        "address": "6847 Taylor Canyon New Frederick, IL 01416"
+    },
+    "tax": {
+        "base_ht": 424.51,
+        "regulations": 26.49,
+        "total_ht": 303.88,
+        "vat_amount": 145.85,
+        "vat_percentage": 29.26
+    }
+}

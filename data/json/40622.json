@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "0057 Jenna Hollow Apt. 923 Burkeside, NY 68012"
+    },
+    "invoice": {
+        "bc_no": "TW73798",
+        "date": "16.01.1991",
+        "maturity_date": "23.08.1998",
+        "number": 191385
+    },
+    "products": [
+        {
+            "amount": 334.04,
+            "description": "exploit value-added paradigms",
+            "quantity": 4.71,
+            "unit_price": 52.67,
+            "vat_amount": 5.38
+        },
+        {
+            "amount": 14.8,
+            "description": "innovate intuitive initiatives",
+            "quantity": 2.93,
+            "unit_price": 33.63,
+            "vat_amount": 2.28
+        },
+        {
+            "amount": 359.43,
+            "description": "redefine compelling technologies",
+            "quantity": 8.75,
+            "unit_price": 96.05,
+            "vat_amount": 3.04
+        }
+    ],
+    "seller": {
+        "address": "5369 Jenkins Extension Adamsburgh, MD 56449"
+    },
+    "tax": {
+        "amount_excluding_tax": 80.82,
+        "amount_including_tax": 57.99,
+        "tax_amount": 11.79
+    }
+}

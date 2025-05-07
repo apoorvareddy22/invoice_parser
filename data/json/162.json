@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "PSC 0308, Box 8112 APO AP 72708",
+        "company_name": "Spence LLC",
+        "country": "Sao Tome and Principe",
+        "name": "Debbie Mccullough"
+    },
+    "invoice": {
+        "date": "21.09.2014",
+        "number": 332779
+    },
+    "payment": {
+        "discount_amount": 10.77,
+        "discount_percentage": 10.88,
+        "due": 104.62,
+        "sub_total": 98.62,
+        "total": 147.47
+    },
+    "products": [
+        {
+            "description": "deploy turn-key interfaces",
+            "index": "4",
+            "quantity": 4.51,
+            "total_price": 790.91,
+            "unit_price": 96.55
+        },
+        {
+            "description": "grow best-of-breed channels",
+            "index": "2",
+            "quantity": 6.64,
+            "total_price": 312.2,
+            "unit_price": 31.16
+        },
+        {
+            "description": "drive intuitive eyeballs",
+            "index": "2",
+            "quantity": 3.89,
+            "total_price": 615.6,
+            "unit_price": 52.89
+        },
+        {
+            "description": "cultivate clicks-and-mortar initiatives",
+            "index": "8",
+            "quantity": 4.67,
+            "total_price": 263.11,
+            "unit_price": 62.25
+        },
+        {
+            "description": "benchmark cutting-edge functionalities",
+            "index": "6",
+            "quantity": 8.65,
+            "total_price": 234.98,
+            "unit_price": 17.54
+        }
+    ],
+    "seller": {
+        "address": "1912 Tammy Manors New Russell, KY 38523",
+        "company_name": "Parker, James and Price",
+        "vat_no": "MD20124459165"
+    }
+}

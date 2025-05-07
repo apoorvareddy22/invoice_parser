@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "PSC 2456, Box 4761 APO AA 87129",
+        "id": "fV228"
+    },
+    "invoice": {
+        "bc_no": "Sg41115",
+        "currency_code": "VUV",
+        "date": "12.06.2001",
+        "due_date": "16.12.1994",
+        "number": 197859
+    },
+    "payment": {
+        "bank_name": "Brown-Mason",
+        "bic": "DNKJGB3F",
+        "iban": "HDDY51640779442370"
+    },
+    "products": [
+        {
+            "amount": 199.33,
+            "description": "productize intuitive paradigms",
+            "index": "3",
+            "price": 62.57,
+            "quantity": 9.79,
+            "tax_amount": 67.58,
+            "total_ttc": 498.06,
+            "vat_amount": 7.56
+        },
+        {
+            "amount": 301.97,
+            "description": "drive vertical e-services",
+            "index": "7",
+            "price": 362.44,
+            "quantity": 2.89,
+            "tax_amount": 84.83,
+            "total_ttc": 112.9,
+            "vat_amount": 2.72
+        }
+    ],
+    "seller": {
+        "name": "Joshua Snyder"
+    },
+    "supplier": {
+        "address": "140 Karen Hill Courtneyshire, IL 94808",
+        "name": "Troy Little"
+    },
+    "tax": {
+        "amount_excluding_tax": 41.45,
+        "amount_including_tax": 77.94,
+        "tax_amount": 22.66,
+        "total_ht": 217.05,
+        "total_ttc": 484.15
+    }
+}

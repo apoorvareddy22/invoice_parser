@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "PSC 2260, Box 1993 APO AE 37326",
+        "company_name": "Wright and Sons",
+        "email": "melissa98@example.net",
+        "name": "Krystal Rogers",
+        "phone": "001-620-943-2277x00461"
+    },
+    "invoice": {
+        "date": "18.03.1990",
+        "due_date": "28.03.2019",
+        "number": "vCL46560196409"
+    },
+    "payment": {
+        "account_number": 3739915137,
+        "bank_name": "Harvey, Figueroa and Hamilton",
+        "routing_number": 738538704
+    },
+    "products": [
+        {
+            "amount": 291.0,
+            "description": "empower killer synergies",
+            "index": "8",
+            "quantity": 6.28,
+            "unit_price": 49.75
+        },
+        {
+            "amount": 478.33,
+            "description": "optimize customized portals",
+            "index": "6",
+            "quantity": 9.83,
+            "unit_price": 64.39
+        },
+        {
+            "amount": 411.36,
+            "description": "exploit one-to-one technologies",
+            "index": "9",
+            "quantity": 3.91,
+            "unit_price": 81.67
+        },
+        {
+            "amount": 495.19,
+            "description": "enable mission-critical models",
+            "index": "9",
+            "quantity": 8.98,
+            "unit_price": 72.06
+        }
+    ],
+    "seller": {
+        "address": "7238 Diaz Path Brianfort, MD 73310",
+        "company_name": "Barnett PLC",
+        "email": "hadams@example.org"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "594 Kyle Fort Suite 162 Susanport, SC 27467",
+        "business_no": "bM874",
+        "id": "IA645"
+    },
+    "invoice": {
+        "date": "08.01.2010",
+        "number": "3530-7132"
+    },
+    "payment": {
+        "due_date": "06.11.2018",
+        "total": 838.73
+    },
+    "products": [
+        {
+            "amount": 86.31,
+            "description": "incubate virtual portals",
+            "quantity": 8.93,
+            "reference": "El-327",
+            "unit_price": 57.12
+        },
+        {
+            "amount": 389.69,
+            "description": "envisioneer world-class networks",
+            "quantity": 6.97,
+            "reference": "bC-797",
+            "unit_price": 26.96
+        },
+        {
+            "amount": 82.35,
+            "description": "benchmark vertical architectures",
+            "quantity": 2.29,
+            "reference": "Cl-140",
+            "unit_price": 57.39
+        }
+    ],
+    "seller": {
+        "address": "88305 Rodriguez Course New Samanthamouth, GA 13508"
+    },
+    "tax": {
+        "base_ht": 282.64,
+        "regulations": 23.6,
+        "total_ht": 125.15,
+        "vat_amount": 92.71,
+        "vat_percentage": 16.74
+    }
+}

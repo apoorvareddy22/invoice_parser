@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "0529 Sean Loop East John, MO 52366",
+        "id": "Xm561"
+    },
+    "invoice": {
+        "bc_no": "JM98199",
+        "currency_code": "SLL",
+        "date": "25.10.2004",
+        "due_date": "21.03.2014",
+        "number": 511984
+    },
+    "payment": {
+        "bank_name": "Peterson, Grant and Hall",
+        "bic": "PDOJGB92",
+        "iban": "FHNC14286447593127"
+    },
+    "products": [
+        {
+            "amount": 290.84,
+            "description": "engage seamless metrics",
+            "index": "6",
+            "price": 124.74,
+            "quantity": 5.7,
+            "tax_amount": 90.26,
+            "total_ttc": 287.23,
+            "vat_amount": 6.8
+        },
+        {
+            "amount": 399.96,
+            "description": "maximize next-generation content",
+            "index": "10",
+            "price": 50.99,
+            "quantity": 9.17,
+            "tax_amount": 49.03,
+            "total_ttc": 311.12,
+            "vat_amount": 1.4
+        },
+        {
+            "amount": 82.39,
+            "description": "e-enable visionary paradigms",
+            "index": "8",
+            "price": 290.34,
+            "quantity": 4.11,
+            "tax_amount": 93.27,
+            "total_ttc": 296.29,
+            "vat_amount": 0.5
+        },
+        {
+            "amount": 336.8,
+            "description": "utilize next-generation markets",
+            "index": "5",
+            "price": 42.06,
+            "quantity": 9.9,
+            "tax_amount": 74.13,
+            "total_ttc": 327.57,
+            "vat_amount": 7.42
+        }
+    ],
+    "seller": {
+        "name": "Andrea Hill"
+    },
+    "supplier": {
+        "address": "6569 Edward Stravenue Apt. 243 Davidport, PR 64460",
+        "name": "Dustin Bass"
+    },
+    "tax": {
+        "amount_excluding_tax": 168.29,
+        "amount_including_tax": 57.81,
+        "tax_amount": 10.27,
+        "total_ht": 235.29,
+        "total_ttc": 250.53
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "112 Timothy Bypass Suite 250 West Michael, OH 55162",
+        "id": "Ro108"
+    },
+    "invoice": {
+        "bc_no": "by31947",
+        "currency_code": "WST",
+        "date": "01.11.2011",
+        "due_date": "04.04.2016",
+        "number": 672044
+    },
+    "payment": {
+        "bank_name": "Fields, Porter and Morgan",
+        "bic": "YSFZGBEB",
+        "iban": "USOL80363558263413"
+    },
+    "products": [
+        {
+            "amount": 190.95,
+            "description": "monetize B2B methodologies",
+            "index": "2",
+            "price": 176.24,
+            "quantity": 1.88,
+            "tax_amount": 83.03,
+            "total_ttc": 423.39,
+            "vat_amount": 0.44
+        },
+        {
+            "amount": 456.04,
+            "description": "transform leading-edge schemas",
+            "index": "6",
+            "price": 458.2,
+            "quantity": 5.65,
+            "tax_amount": 57.16,
+            "total_ttc": 404.77,
+            "vat_amount": 16.89
+        },
+        {
+            "amount": 335.81,
+            "description": "maximize B2C ROI",
+            "index": "3",
+            "price": 310.1,
+            "quantity": 5.18,
+            "tax_amount": 38.29,
+            "total_ttc": 157.69,
+            "vat_amount": 1.62
+        },
+        {
+            "amount": 73.07,
+            "description": "orchestrate rich relationships",
+            "index": "10",
+            "price": 39.29,
+            "quantity": 7.65,
+            "tax_amount": 83.06,
+            "total_ttc": 171.0,
+            "vat_amount": 0.85
+        },
+        {
+            "amount": 250.67,
+            "description": "evolve global vortals",
+            "index": "10",
+            "price": 345.04,
+            "quantity": 9.46,
+            "tax_amount": 67.92,
+            "total_ttc": 154.63,
+            "vat_amount": 1.49
+        },
+        {
+            "amount": 12.83,
+            "description": "benchmark frictionless e-commerce",
+            "index": "1",
+            "price": 49.62,
+            "quantity": 1.15,
+            "tax_amount": 91.81,
+            "total_ttc": 239.13,
+            "vat_amount": 8.11
+        },
+        {
+            "amount": 140.35,
+            "description": "facilitate B2C relationships",
+            "index": "5",
+            "price": 34.42,
+            "quantity": 1.49,
+            "tax_amount": 15.29,
+            "total_ttc": 473.93,
+            "vat_amount": 2.9
+        }
+    ],
+    "seller": {
+        "name": "Brittney Foster"
+    },
+    "supplier": {
+        "address": "7409 Todd Meadows East Stephanieberg, MP 68744",
+        "name": "Andrew Davis"
+    },
+    "tax": {
+        "amount_excluding_tax": 73.68,
+        "amount_including_tax": 133.23,
+        "tax_amount": 19.71,
+        "total_ht": 142.96,
+        "total_ttc": 475.32
+    }
+}

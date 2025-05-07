@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "7383 Michael Vista Apt. 699 West Cassie, AZ 12988"
+    },
+    "invoice": {
+        "bc_no": "cv53501",
+        "date": "14.11.2006",
+        "maturity_date": "16.03.2017",
+        "number": 168794
+    },
+    "products": [
+        {
+            "amount": 409.38,
+            "description": "evolve rich methodologies",
+            "quantity": 3.73,
+            "unit_price": 92.12,
+            "vat_amount": 7.29
+        },
+        {
+            "amount": 90.27,
+            "description": "scale end-to-end paradigms",
+            "quantity": 9.81,
+            "unit_price": 62.82,
+            "vat_amount": 5.26
+        },
+        {
+            "amount": 365.01,
+            "description": "reinvent visionary metrics",
+            "quantity": 4.31,
+            "unit_price": 68.04,
+            "vat_amount": 2.55
+        }
+    ],
+    "seller": {
+        "address": "490 Devin Canyon Apt. 921 Ashleyfurt, DC 89179"
+    },
+    "tax": {
+        "amount_excluding_tax": 175.84,
+        "amount_including_tax": 112.42,
+        "tax_amount": 26.57
+    }
+}

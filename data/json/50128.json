@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "47318 Ochoa Junction West Robert, FM 34686",
+        "id": "kE143"
+    },
+    "invoice": {
+        "bc_no": "BO08792",
+        "currency_code": "KRW",
+        "date": "25.09.2001",
+        "due_date": "21.05.2005",
+        "number": 509452
+    },
+    "payment": {
+        "bank_name": "Robertson-Alvarez",
+        "bic": "IKJQGBQH69O",
+        "iban": "RESK83081162560863"
+    },
+    "products": [
+        {
+            "amount": 401.1,
+            "description": "envisioneer revolutionary vortals",
+            "index": "5",
+            "price": 450.27,
+            "quantity": 5.54,
+            "tax_amount": 30.32,
+            "total_ttc": 474.0,
+            "vat_amount": 6.64
+        },
+        {
+            "amount": 239.11,
+            "description": "leverage killer e-services",
+            "index": "8",
+            "price": 239.0,
+            "quantity": 3.15,
+            "tax_amount": 87.03,
+            "total_ttc": 389.72,
+            "vat_amount": 4.54
+        },
+        {
+            "amount": 149.06,
+            "description": "synthesize dot-com partnerships",
+            "index": "6",
+            "price": 273.64,
+            "quantity": 5.31,
+            "tax_amount": 71.46,
+            "total_ttc": 252.45,
+            "vat_amount": 3.57
+        },
+        {
+            "amount": 119.72,
+            "description": "brand value-added convergence",
+            "index": "8",
+            "price": 101.56,
+            "quantity": 9.74,
+            "tax_amount": 79.91,
+            "total_ttc": 108.56,
+            "vat_amount": 10.23
+        },
+        {
+            "amount": 101.69,
+            "description": "generate global e-services",
+            "index": "1",
+            "price": 327.73,
+            "quantity": 2.7,
+            "tax_amount": 81.76,
+            "total_ttc": 340.74,
+            "vat_amount": 3.05
+        },
+        {
+            "amount": 441.51,
+            "description": "empower clicks-and-mortar methodologies",
+            "index": "1",
+            "price": 470.59,
+            "quantity": 3.88,
+            "tax_amount": 92.61,
+            "total_ttc": 123.96,
+            "vat_amount": 15.53
+        },
+        {
+            "amount": 15.59,
+            "description": "scale wireless methodologies",
+            "index": "6",
+            "price": 210.0,
+            "quantity": 3.33,
+            "tax_amount": 16.01,
+            "total_ttc": 404.64,
+            "vat_amount": 1.94
+        }
+    ],
+    "seller": {
+        "name": "Jeffrey Thomas"
+    },
+    "supplier": {
+        "address": "343 Harris Tunnel Lake Joshuaview, VA 76339",
+        "name": "Kevin Moore"
+    },
+    "tax": {
+        "amount_excluding_tax": 84.6,
+        "amount_including_tax": 99.91,
+        "tax_amount": 27.65,
+        "total_ht": 288.02,
+        "total_ttc": 393.85
+    }
+}

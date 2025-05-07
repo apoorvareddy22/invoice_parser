@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "22082 Angela Vista Apt. 756 East Lisaville, KY 56949",
+        "company_name": "Robinson, Oliver and Mcgrath",
+        "email": "vaughnjoshua@example.org",
+        "name": "Eric Stuart",
+        "phone": "3088796262"
+    },
+    "invoice": {
+        "date": "16.11.2013",
+        "due_date": "02.09.2014",
+        "number": "xtm74031389229"
+    },
+    "payment": {
+        "account_number": 7262240856,
+        "bank_name": "Sullivan, Cooper and Rodriguez",
+        "routing_number": 639410655
+    },
+    "products": [
+        {
+            "amount": 126.48,
+            "description": "revolutionize scalable content",
+            "index": "4",
+            "quantity": 4.16,
+            "unit_price": 35.24
+        },
+        {
+            "amount": 440.64,
+            "description": "reinvent efficient methodologies",
+            "index": "5",
+            "quantity": 6.39,
+            "unit_price": 82.85
+        },
+        {
+            "amount": 102.34,
+            "description": "incubate out-of-the-box metrics",
+            "index": "7",
+            "quantity": 4.96,
+            "unit_price": 97.03
+        },
+        {
+            "amount": 122.76,
+            "description": "orchestrate 24/365 e-tailers",
+            "index": "4",
+            "quantity": 8.25,
+            "unit_price": 73.74
+        }
+    ],
+    "seller": {
+        "address": "79545 Hampton Keys Suite 506 Joseville, IA 72975",
+        "company_name": "Anderson-Jimenez",
+        "email": "suttonamy@example.org"
+    }
+}

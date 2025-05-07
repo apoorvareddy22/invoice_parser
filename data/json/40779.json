@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "9833 Valentine Common Lake Allison, AS 75236"
+    },
+    "invoice": {
+        "bc_no": "tI18259",
+        "date": "20.11.2012",
+        "maturity_date": "08.04.1998",
+        "number": 422368
+    },
+    "products": [
+        {
+            "amount": 415.72,
+            "description": "reinvent e-business action-items",
+            "quantity": 6.53,
+            "unit_price": 98.04,
+            "vat_amount": 2.78
+        },
+        {
+            "amount": 396.94,
+            "description": "drive innovative content",
+            "quantity": 2.17,
+            "unit_price": 81.93,
+            "vat_amount": 10.28
+        },
+        {
+            "amount": 160.92,
+            "description": "leverage intuitive applications",
+            "quantity": 5.7,
+            "unit_price": 92.08,
+            "vat_amount": 2.84
+        },
+        {
+            "amount": 41.31,
+            "description": "incubate magnetic eyeballs",
+            "quantity": 4.62,
+            "unit_price": 15.84,
+            "vat_amount": 12.73
+        }
+    ],
+    "seller": {
+        "address": "Unit 6386 Box 4199 DPO AP 25036"
+    },
+    "tax": {
+        "amount_excluding_tax": 131.79,
+        "amount_including_tax": 11.21,
+        "tax_amount": 12.73
+    }
+}

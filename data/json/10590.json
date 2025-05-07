@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "50809 Miguel Flats Suite 777 Taylorborough, NJ 43210",
+        "email": "mhamilton@example.org",
+        "phone": "977-807-6340x1552",
+        "vat_no": "kv63260068360"
+    },
+    "invoice": {
+        "date": "01.07.1995",
+        "due_date": "31.01.2016",
+        "market_reference": 728391,
+        "notes": "reinvent magnetic content",
+        "number": "4653-2049",
+        "reference": 740205,
+        "vat_no": "LV50350102561"
+    },
+    "payment": {
+        "net_total": 66.27,
+        "total": 574.41
+    },
+    "products": [
+        {
+            "amount": 130.35,
+            "description": "whiteboard world-class methodologies",
+            "hours": 5.32,
+            "rate": 2.58
+        },
+        {
+            "amount": 13.44,
+            "description": "scale user-centric markets",
+            "hours": 1.33,
+            "rate": 1.15
+        },
+        {
+            "amount": 106.41,
+            "description": "optimize seamless platforms",
+            "hours": 6.69,
+            "rate": 5.43
+        },
+        {
+            "amount": 181.2,
+            "description": "embrace cutting-edge ROI",
+            "hours": 2.41,
+            "rate": 2.93
+        },
+        {
+            "amount": 312.51,
+            "description": "transition next-generation functionalities",
+            "hours": 8.64,
+            "rate": 2.28
+        }
+    ],
+    "seller": {
+        "address": "39876 Charles Highway New Ruben, FM 83609",
+        "email": "becky19@example.com",
+        "name": "Joshua Knight"
+    },
+    "tax": {
+        "base": 25.4,
+        "tax_amount": 13.43,
+        "total_tax": 26.99
+    }
+}

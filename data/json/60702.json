@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "589 Joshua Plain Billyside, RI 57102",
+        "business_no": "Gy276",
+        "id": "eZ882"
+    },
+    "invoice": {
+        "date": "08.01.1993",
+        "number": "8151-0156"
+    },
+    "payment": {
+        "due_date": "17.03.1993",
+        "total": 866.66
+    },
+    "products": [
+        {
+            "amount": 372.49,
+            "description": "incentivize one-to-one networks",
+            "quantity": 3.27,
+            "reference": "Ij-957",
+            "unit_price": 93.58
+        },
+        {
+            "amount": 107.04,
+            "description": "harness vertical experiences",
+            "quantity": 1.85,
+            "reference": "yp-344",
+            "unit_price": 32.68
+        },
+        {
+            "amount": 451.44,
+            "description": "strategize 24/7 mindshare",
+            "quantity": 4.56,
+            "reference": "rd-047",
+            "unit_price": 84.99
+        }
+    ],
+    "seller": {
+        "address": "31887 Greene Haven Apt. 602 Ramirezberg, AK 62042"
+    },
+    "tax": {
+        "base_ht": 225.18,
+        "regulations": 18.87,
+        "total_ht": 295.12,
+        "vat_amount": 167.49,
+        "vat_percentage": 14.58
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "83104 Baker Rue Port Erica, LA 17015"
+    },
+    "invoice": {
+        "bc_no": "pj59507",
+        "date": "20.01.2020",
+        "maturity_date": "23.01.2020",
+        "number": 277907
+    },
+    "products": [
+        {
+            "amount": 197.98,
+            "description": "enhance enterprise functionalities",
+            "quantity": 2.67,
+            "unit_price": 94.83,
+            "vat_amount": 1.69
+        },
+        {
+            "amount": 340.44,
+            "description": "orchestrate end-to-end content",
+            "quantity": 7.27,
+            "unit_price": 51.79,
+            "vat_amount": 2.76
+        },
+        {
+            "amount": 455.59,
+            "description": "engineer enterprise web-readiness",
+            "quantity": 3.46,
+            "unit_price": 29.94,
+            "vat_amount": 7.98
+        },
+        {
+            "amount": 55.46,
+            "description": "embrace global ROI",
+            "quantity": 5.31,
+            "unit_price": 14.99,
+            "vat_amount": 12.64
+        },
+        {
+            "amount": 294.2,
+            "description": "engage strategic synergies",
+            "quantity": 8.99,
+            "unit_price": 77.3,
+            "vat_amount": 4.05
+        },
+        {
+            "amount": 383.65,
+            "description": "maximize visionary schemas",
+            "quantity": 9.88,
+            "unit_price": 49.04,
+            "vat_amount": 1.61
+        }
+    ],
+    "seller": {
+        "address": "686 Philip Ville Suite 929 Jacobfort, PR 42542"
+    },
+    "tax": {
+        "amount_excluding_tax": 73.87,
+        "amount_including_tax": 42.17,
+        "tax_amount": 24.03
+    }
+}

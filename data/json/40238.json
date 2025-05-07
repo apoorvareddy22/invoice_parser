@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "Unit 8240 Box 6059 DPO AA 94119"
+    },
+    "invoice": {
+        "bc_no": "aL83938",
+        "date": "26.04.2020",
+        "maturity_date": "10.10.2007",
+        "number": 627729
+    },
+    "products": [
+        {
+            "amount": 237.12,
+            "description": "deploy plug-and-play eyeballs",
+            "quantity": 8.47,
+            "unit_price": 31.94,
+            "vat_amount": 2.75
+        },
+        {
+            "amount": 234.38,
+            "description": "seize cutting-edge supply-chains",
+            "quantity": 9.98,
+            "unit_price": 35.64,
+            "vat_amount": 6.79
+        }
+    ],
+    "seller": {
+        "address": "7519 Erica Ports Apt. 794 North Williamhaven, MD 60655"
+    },
+    "tax": {
+        "amount_excluding_tax": 153.97,
+        "amount_including_tax": 110.84,
+        "tax_amount": 14.42
+    }
+}

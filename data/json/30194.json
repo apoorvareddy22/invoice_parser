@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "4696 James Loaf Brandonbury, IN 74298",
+        "company_name": "Torres-Sheppard",
+        "country": "British Virgin Islands",
+        "email": "miguel86@example.net",
+        "name": "Alan Brown",
+        "phone": "3759410817",
+        "vat_no": "VA96220244896"
+    },
+    "invoice": {
+        "date": "06.03.2010",
+        "due_date": "06.02.2018",
+        "linked_invoice": "tB-4091-3934",
+        "notes": "productize ubiquitous portals",
+        "number": "da-8194-0633"
+    },
+    "products": [
+        {
+            "description": "syndicate enterprise web services",
+            "discount_percentage": 10.32,
+            "price": 205.18,
+            "quantity": 4.42,
+            "unit_price": 79.92
+        },
+        {
+            "description": "implement B2B functionalities",
+            "discount_percentage": 18.95,
+            "price": 433.88,
+            "quantity": 6.18,
+            "unit_price": 58.45
+        },
+        {
+            "description": "re-contextualize next-generation ROI",
+            "discount_percentage": 10.21,
+            "price": 398.93,
+            "quantity": 9.47,
+            "unit_price": 34.17
+        }
+    ],
+    "seller": {
+        "address": "2566 Barnes Spring Michaelstad, MI 40000",
+        "ape": "7810M",
+        "capital": 43654833,
+        "country": "Sierra Leone",
+        "email": "wjennings@example.com",
+        "name": "Zachary Cook",
+        "phone_1": "374.987.3735",
+        "phone_2": "965.699.9296",
+        "phone_3": "215-299-1629x44992",
+        "ref_walk": "OAKn0937",
+        "reference": "Mm071",
+        "siret": 69279383162868,
+        "vat_no": "qC74679632285",
+        "website": "http://www.torres.com/"
+    },
+    "tax": {
+        "amount_0": 11.16,
+        "amount_1": 16.17,
+        "base_0": 20.0,
+        "base_1": 233.76,
+        "total_ht": 449.76,
+        "total_tax": 14.73,
+        "total_ttc": 459.4,
+        "vat_0": 20.17,
+        "vat_1": 16.0
+    }
+}

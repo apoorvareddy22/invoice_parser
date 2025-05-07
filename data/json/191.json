@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "736 King Ferry Sloanberg, ID 81086",
+        "company_name": "Duncan PLC",
+        "country": "Lebanon",
+        "name": "Mark Robinson"
+    },
+    "invoice": {
+        "date": "08.08.2016",
+        "number": 945377
+    },
+    "payment": {
+        "discount_amount": 30.14,
+        "discount_percentage": 8.04,
+        "due": 140.24,
+        "sub_total": 159.38,
+        "total": 294.6
+    },
+    "products": [
+        {
+            "description": "synthesize compelling solutions",
+            "index": "3",
+            "quantity": 4.96,
+            "total_price": 913.84,
+            "unit_price": 55.75
+        },
+        {
+            "description": "whiteboard granular systems",
+            "index": "8",
+            "quantity": 7.49,
+            "total_price": 568.47,
+            "unit_price": 42.21
+        },
+        {
+            "description": "re-contextualize leading-edge paradigms",
+            "index": "8",
+            "quantity": 8.25,
+            "total_price": 426.27,
+            "unit_price": 54.63
+        },
+        {
+            "description": "integrate out-of-the-box vortals",
+            "index": "7",
+            "quantity": 9.35,
+            "total_price": 903.21,
+            "unit_price": 95.4
+        }
+    ],
+    "seller": {
+        "address": "5118 Beck Creek North Sarahville, SD 24350",
+        "company_name": "Carter-Richardson",
+        "vat_no": "NE20869392217"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "398 Walker Centers Woodmouth, NY 16931",
+        "company_name": "Thompson-Howard",
+        "country": "Dominica",
+        "name": "Adam Singh"
+    },
+    "invoice": {
+        "date": "08.02.2001",
+        "number": 237201
+    },
+    "payment": {
+        "discount_amount": 22.03,
+        "discount_percentage": 9.53,
+        "due": 192.93,
+        "sub_total": 27.43,
+        "total": 409.0
+    },
+    "products": [
+        {
+            "description": "target granular web-readiness",
+            "index": "10",
+            "quantity": 8.65,
+            "total_price": 951.01,
+            "unit_price": 16.7
+        },
+        {
+            "description": "matrix transparent ROI",
+            "index": "1",
+            "quantity": 1.69,
+            "total_price": 891.88,
+            "unit_price": 46.05
+        },
+        {
+            "description": "brand end-to-end users",
+            "index": "4",
+            "quantity": 7.61,
+            "total_price": 614.38,
+            "unit_price": 24.56
+        },
+        {
+            "description": "facilitate interactive relationships",
+            "index": "4",
+            "quantity": 7.2,
+            "total_price": 695.44,
+            "unit_price": 82.49
+        },
+        {
+            "description": "empower vertical supply-chains",
+            "index": "1",
+            "quantity": 4.16,
+            "total_price": 572.08,
+            "unit_price": 66.51
+        }
+    ],
+    "seller": {
+        "address": "281 Stewart Run Apt. 531 Hayesmouth, WV 64929",
+        "company_name": "Taylor LLC",
+        "vat_no": "EN83263154826"
+    }
+}

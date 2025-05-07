@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "25836 Ashley Plains Apt. 123 Petertown, IN 07278",
+        "email": "catherinesantiago@example.org",
+        "phone": "750.756.9750",
+        "vat_no": "Xt59013149651"
+    },
+    "invoice": {
+        "date": "02.05.2016",
+        "due_date": "25.09.2008",
+        "market_reference": 798181,
+        "notes": "re-intermediate plug-and-play web services",
+        "number": "8320-7215",
+        "reference": 104621,
+        "vat_no": "XU94377722113"
+    },
+    "payment": {
+        "net_total": 150.02,
+        "total": 989.8
+    },
+    "products": [
+        {
+            "amount": 252.84,
+            "description": "revolutionize extensible content",
+            "hours": 2.9,
+            "rate": 5.66
+        },
+        {
+            "amount": 318.65,
+            "description": "grow holistic portals",
+            "hours": 2.69,
+            "rate": 9.34
+        },
+        {
+            "amount": 160.07,
+            "description": "productize collaborative mindshare",
+            "hours": 3.9,
+            "rate": 3.9
+        }
+    ],
+    "seller": {
+        "address": "54582 Jill Flat Vasquezmouth, VA 77988",
+        "email": "garciacatherine@example.net",
+        "name": "Mr. Michael Richards Jr."
+    },
+    "tax": {
+        "base": 16.51,
+        "tax_amount": 20.63,
+        "total_tax": 23.62
+    }
+}

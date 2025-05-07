@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "8437 Mitchell Mountain East Ericafort, MH 84211",
+        "email": "melissa41@example.org",
+        "phone": "7893955926",
+        "vat_no": "TN80080302053"
+    },
+    "invoice": {
+        "date": "04.01.2016",
+        "due_date": "23.05.1994",
+        "market_reference": 128818,
+        "notes": "envisioneer one-to-one action-items",
+        "number": "3605-8109",
+        "reference": 935303,
+        "vat_no": "qH66124512555"
+    },
+    "payment": {
+        "net_total": 104.93,
+        "total": 714.66
+    },
+    "products": [
+        {
+            "amount": 241.28,
+            "description": "implement frictionless content",
+            "hours": 6.62,
+            "rate": 1.54
+        },
+        {
+            "amount": 23.05,
+            "description": "strategize viral initiatives",
+            "hours": 9.09,
+            "rate": 1.45
+        },
+        {
+            "amount": 355.22,
+            "description": "revolutionize next-generation e-markets",
+            "hours": 1.03,
+            "rate": 2.72
+        },
+        {
+            "amount": 70.36,
+            "description": "reinvent scalable interfaces",
+            "hours": 2.28,
+            "rate": 4.94
+        },
+        {
+            "amount": 401.29,
+            "description": "morph compelling e-tailers",
+            "hours": 1.76,
+            "rate": 1.5
+        },
+        {
+            "amount": 435.52,
+            "description": "matrix value-added mindshare",
+            "hours": 5.52,
+            "rate": 8.47
+        },
+        {
+            "amount": 446.77,
+            "description": "synthesize 24/7 web services",
+            "hours": 5.79,
+            "rate": 5.18
+        }
+    ],
+    "seller": {
+        "address": "662 Brandon Stravenue Parkerview, MS 67363",
+        "email": "robertsdonna@example.net",
+        "name": "Lori Phillips"
+    },
+    "tax": {
+        "base": 25.74,
+        "tax_amount": 14.49,
+        "total_tax": 10.09
+    }
+}

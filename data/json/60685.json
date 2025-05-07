@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "6207 Mark Views Apt. 024 Port Andrew, NJ 44736",
+        "business_no": "jn611",
+        "id": "Is342"
+    },
+    "invoice": {
+        "date": "16.12.2019",
+        "number": "4958-7513"
+    },
+    "payment": {
+        "due_date": "09.04.1992",
+        "total": 561.27
+    },
+    "products": [
+        {
+            "amount": 66.59,
+            "description": "iterate leading-edge models",
+            "quantity": 4.11,
+            "reference": "oF-618",
+            "unit_price": 82.98
+        }
+    ],
+    "seller": {
+        "address": "249 Adam Rapid Samanthastad, MO 26449"
+    },
+    "tax": {
+        "base_ht": 119.99,
+        "regulations": 29.57,
+        "total_ht": 152.28,
+        "vat_amount": 190.77,
+        "vat_percentage": 24.68
+    }
+}

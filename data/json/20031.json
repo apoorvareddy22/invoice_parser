@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "605 Novak Streets Sandrastad, CO 33664",
+        "company_name": "Reed, Collins and Mendez",
+        "email": "hthompson@example.net",
+        "name": "Darrell Strickland",
+        "phone": "001-628-514-3543x712"
+    },
+    "invoice": {
+        "date": "12.11.2015",
+        "due_date": "08.08.2022",
+        "number": "NkW56078748571"
+    },
+    "payment": {
+        "account_number": 6141858658,
+        "bank_name": "Moyer, Bullock and Price",
+        "routing_number": 344952722
+    },
+    "products": [
+        {
+            "amount": 46.73,
+            "description": "grow transparent methodologies",
+            "index": "3",
+            "quantity": 4.38,
+            "unit_price": 99.77
+        },
+        {
+            "amount": 389.29,
+            "description": "unleash ubiquitous applications",
+            "index": "10",
+            "quantity": 9.05,
+            "unit_price": 65.27
+        },
+        {
+            "amount": 430.6,
+            "description": "seize bleeding-edge eyeballs",
+            "index": "5",
+            "quantity": 2.43,
+            "unit_price": 32.87
+        },
+        {
+            "amount": 480.69,
+            "description": "strategize seamless markets",
+            "index": "4",
+            "quantity": 1.02,
+            "unit_price": 71.22
+        }
+    ],
+    "seller": {
+        "address": "7088 Raymond Corners Suite 666 Williamstown, ID 09987",
+        "company_name": "Stevens PLC",
+        "email": "christopher86@example.com"
+    }
+}

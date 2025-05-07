@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "PSC 4565, Box 6786 APO AE 35563",
+        "email": "maurice27@example.net",
+        "phone": "513.845.5184",
+        "vat_no": "WL57593832621"
+    },
+    "invoice": {
+        "date": "11.11.2002",
+        "due_date": "07.07.1990",
+        "market_reference": 235517,
+        "notes": "empower value-added web services",
+        "number": "4706-8088",
+        "reference": 966941,
+        "vat_no": "yR92252280232"
+    },
+    "payment": {
+        "net_total": 107.39,
+        "total": 861.04
+    },
+    "products": [
+        {
+            "amount": 208.35,
+            "description": "grow integrated bandwidth",
+            "hours": 3.81,
+            "rate": 3.77
+        },
+        {
+            "amount": 491.97,
+            "description": "target interactive mindshare",
+            "hours": 2.01,
+            "rate": 7.58
+        },
+        {
+            "amount": 406.9,
+            "description": "optimize collaborative mindshare",
+            "hours": 4.07,
+            "rate": 7.97
+        }
+    ],
+    "seller": {
+        "address": "4471 Hernandez Common New Micheleland, MO 46717",
+        "email": "stonejill@example.org",
+        "name": "Ian Malone"
+    },
+    "tax": {
+        "base": 25.34,
+        "tax_amount": 11.55,
+        "total_tax": 21.77
+    }
+}

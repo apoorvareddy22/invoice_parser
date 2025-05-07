@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "4332 Jake Throughway Parkerside, NM 05376",
+        "company_name": "Wilson PLC",
+        "email": "bryce10@example.com",
+        "name": "Jason White",
+        "phone": "7567710280"
+    },
+    "invoice": {
+        "date": "16.04.2005",
+        "due_date": "24.03.2021",
+        "number": "ebR68839295286"
+    },
+    "payment": {
+        "account_number": 3315752150,
+        "bank_name": "Ewing-Lucas",
+        "routing_number": 842408063
+    },
+    "products": [
+        {
+            "amount": 426.77,
+            "description": "mesh holistic models",
+            "index": "6",
+            "quantity": 9.31,
+            "unit_price": 99.71
+        },
+        {
+            "amount": 30.72,
+            "description": "iterate web-enabled web services",
+            "index": "2",
+            "quantity": 8.74,
+            "unit_price": 14.24
+        }
+    ],
+    "seller": {
+        "address": "43738 Sarah Unions Apt. 029 Campbellburgh, FM 78876",
+        "company_name": "Murray-Rodriguez",
+        "email": "campbellkaylee@example.org"
+    }
+}

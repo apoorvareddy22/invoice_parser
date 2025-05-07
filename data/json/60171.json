@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "508 Nicole Creek Port James, AS 99201",
+        "business_no": "DR282",
+        "id": "jy186"
+    },
+    "invoice": {
+        "date": "30.06.1995",
+        "number": "0571-2026"
+    },
+    "payment": {
+        "due_date": "18.01.2011",
+        "total": 763.05
+    },
+    "products": [
+        {
+            "amount": 226.92,
+            "description": "syndicate scalable e-commerce",
+            "quantity": 4.99,
+            "reference": "XZ-013",
+            "unit_price": 93.7
+        },
+        {
+            "amount": 92.98,
+            "description": "engineer revolutionary e-business",
+            "quantity": 9.81,
+            "reference": "zM-063",
+            "unit_price": 40.63
+        }
+    ],
+    "seller": {
+        "address": "680 Hines Divide Suite 995 Theresaview, CA 22951"
+    },
+    "tax": {
+        "base_ht": 293.75,
+        "regulations": 16.68,
+        "total_ht": 158.18,
+        "vat_amount": 21.84,
+        "vat_percentage": 17.72
+    }
+}

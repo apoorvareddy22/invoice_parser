@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "35213 Nguyen Knolls West Robertmouth, MN 86355",
+        "company_name": "Clark Ltd",
+        "country": "French Polynesia",
+        "name": "Lisa Jones"
+    },
+    "invoice": {
+        "date": "06.07.2003",
+        "number": 926844
+    },
+    "payment": {
+        "discount_amount": 45.78,
+        "discount_percentage": 6.86,
+        "due": 49.25,
+        "sub_total": 96.81,
+        "total": 301.22
+    },
+    "products": [
+        {
+            "description": "revolutionize strategic functionalities",
+            "index": "5",
+            "quantity": 1.91,
+            "total_price": 319.02,
+            "unit_price": 71.46
+        },
+        {
+            "description": "leverage proactive relationships",
+            "index": "6",
+            "quantity": 6.66,
+            "total_price": 391.73,
+            "unit_price": 90.14
+        },
+        {
+            "description": "engineer turn-key e-business",
+            "index": "1",
+            "quantity": 6.68,
+            "total_price": 637.31,
+            "unit_price": 57.92
+        }
+    ],
+    "seller": {
+        "address": "862 Jill Streets Suite 804 New Sarah, RI 92000",
+        "company_name": "Smith, Hurst and Walters",
+        "vat_no": "WP01313637929"
+    }
+}

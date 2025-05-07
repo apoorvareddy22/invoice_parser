@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "40919 Klein Coves Apt. 831 Romanview, MT 05761",
+        "id": "FL622"
+    },
+    "invoice": {
+        "bc_no": "wN62080",
+        "currency_code": "GTQ",
+        "date": "09.05.2008",
+        "due_date": "17.10.2015",
+        "number": 686867
+    },
+    "payment": {
+        "bank_name": "Lewis-Garza",
+        "bic": "QGVPGB70",
+        "iban": "JYWG17555355644368"
+    },
+    "products": [
+        {
+            "amount": 286.09,
+            "description": "synergize mission-critical content",
+            "index": "8",
+            "price": 304.12,
+            "quantity": 8.41,
+            "tax_amount": 91.85,
+            "total_ttc": 403.78,
+            "vat_amount": 6.24
+        },
+        {
+            "amount": 279.34,
+            "description": "engage visionary mindshare",
+            "index": "7",
+            "price": 39.71,
+            "quantity": 5.98,
+            "tax_amount": 31.44,
+            "total_ttc": 305.02,
+            "vat_amount": 4.35
+        },
+        {
+            "amount": 127.23,
+            "description": "scale plug-and-play supply-chains",
+            "index": "10",
+            "price": 200.22,
+            "quantity": 2.83,
+            "tax_amount": 30.18,
+            "total_ttc": 447.01,
+            "vat_amount": 3.53
+        },
+        {
+            "amount": 494.55,
+            "description": "iterate interactive ROI",
+            "index": "7",
+            "price": 403.32,
+            "quantity": 4.08,
+            "tax_amount": 65.48,
+            "total_ttc": 326.52,
+            "vat_amount": 9.74
+        },
+        {
+            "amount": 184.11,
+            "description": "reinvent B2B networks",
+            "index": "9",
+            "price": 104.51,
+            "quantity": 9.0,
+            "tax_amount": 18.63,
+            "total_ttc": 103.62,
+            "vat_amount": 2.79
+        },
+        {
+            "amount": 411.34,
+            "description": "exploit robust portals",
+            "index": "2",
+            "price": 231.9,
+            "quantity": 8.98,
+            "tax_amount": 80.46,
+            "total_ttc": 449.08,
+            "vat_amount": 17.79
+        },
+        {
+            "amount": 430.05,
+            "description": "iterate collaborative e-commerce",
+            "index": "3",
+            "price": 302.32,
+            "quantity": 6.05,
+            "tax_amount": 75.9,
+            "total_ttc": 129.03,
+            "vat_amount": 6.63
+        }
+    ],
+    "seller": {
+        "name": "David Hall"
+    },
+    "supplier": {
+        "address": "Unit 5428 Box 8303 DPO AE 06478",
+        "name": "Edward Martinez"
+    },
+    "tax": {
+        "amount_excluding_tax": 21.12,
+        "amount_including_tax": 199.34,
+        "tax_amount": 19.45,
+        "total_ht": 381.37,
+        "total_ttc": 253.47
+    }
+}

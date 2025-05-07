@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "219 Shepherd Unions Aguilarstad, TX 07404",
+        "company_name": "Alvarez and Sons",
+        "country": "Netherlands",
+        "name": "Janet Nguyen"
+    },
+    "invoice": {
+        "date": "09.07.2011",
+        "number": 884377
+    },
+    "payment": {
+        "discount_amount": 20.47,
+        "discount_percentage": 5.94,
+        "due": 105.59,
+        "sub_total": 20.55,
+        "total": 538.41
+    },
+    "products": [
+        {
+            "description": "grow plug-and-play deliverables",
+            "index": "10",
+            "quantity": 4.11,
+            "total_price": 896.81,
+            "unit_price": 23.94
+        },
+        {
+            "description": "redefine impactful architectures",
+            "index": "4",
+            "quantity": 4.5,
+            "total_price": 749.66,
+            "unit_price": 49.72
+        }
+    ],
+    "seller": {
+        "address": "48881 Henry Ridge Lake Teresaville, AZ 17726",
+        "company_name": "Haynes, Flores and Smith",
+        "vat_no": "RZ68598564303"
+    }
+}

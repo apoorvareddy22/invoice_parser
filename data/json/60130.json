@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "Unit 5083 Box 2666 DPO AA 12833",
+        "business_no": "YM018",
+        "id": "Ev469"
+    },
+    "invoice": {
+        "date": "18.01.1997",
+        "number": "8643-9650"
+    },
+    "payment": {
+        "due_date": "03.08.2022",
+        "total": 425.69
+    },
+    "products": [
+        {
+            "amount": 281.33,
+            "description": "embrace viral functionalities",
+            "quantity": 7.9,
+            "reference": "Re-342",
+            "unit_price": 20.78
+        },
+        {
+            "amount": 312.48,
+            "description": "engineer cutting-edge content",
+            "quantity": 2.25,
+            "reference": "MI-098",
+            "unit_price": 80.38
+        }
+    ],
+    "seller": {
+        "address": "PSC 7038, Box 0390 APO AA 53859"
+    },
+    "tax": {
+        "base_ht": 222.88,
+        "regulations": 17.83,
+        "total_ht": 385.74,
+        "vat_amount": 105.23,
+        "vat_percentage": 17.8
+    }
+}

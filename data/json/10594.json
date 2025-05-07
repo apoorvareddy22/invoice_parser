@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "01224 Doyle Groves Apt. 655 Port Sarahburgh, VT 72571",
+        "email": "james02@example.net",
+        "phone": "643-876-6928x53940",
+        "vat_no": "nM08839449255"
+    },
+    "invoice": {
+        "date": "08.03.1999",
+        "due_date": "03.05.2018",
+        "market_reference": 159422,
+        "notes": "seize seamless initiatives",
+        "number": "5062-9832",
+        "reference": 654931,
+        "vat_no": "YA95906211459"
+    },
+    "payment": {
+        "net_total": 21.13,
+        "total": 334.98
+    },
+    "products": [
+        {
+            "amount": 117.47,
+            "description": "innovate granular schemas",
+            "hours": 4.69,
+            "rate": 6.7
+        },
+        {
+            "amount": 47.51,
+            "description": "scale 24/7 experiences",
+            "hours": 6.6,
+            "rate": 6.12
+        },
+        {
+            "amount": 414.59,
+            "description": "empower next-generation communities",
+            "hours": 5.81,
+            "rate": 9.66
+        },
+        {
+            "amount": 166.43,
+            "description": "redefine proactive infrastructures",
+            "hours": 4.8,
+            "rate": 3.0
+        },
+        {
+            "amount": 32.69,
+            "description": "engineer e-business experiences",
+            "hours": 4.74,
+            "rate": 2.05
+        }
+    ],
+    "seller": {
+        "address": "Unit 8374 Box 2653 DPO AA 83765",
+        "email": "nataliebaker@example.com",
+        "name": "Nicole Mcguire"
+    },
+    "tax": {
+        "base": 20.78,
+        "tax_amount": 22.55,
+        "total_tax": 12.67
+    }
+}

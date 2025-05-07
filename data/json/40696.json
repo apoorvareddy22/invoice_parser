@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "424 David Mountain Johnsonton, VA 77032"
+    },
+    "invoice": {
+        "bc_no": "Nd95756",
+        "date": "04.03.2011",
+        "maturity_date": "02.05.2013",
+        "number": 515961
+    },
+    "products": [
+        {
+            "amount": 437.89,
+            "description": "enhance transparent e-services",
+            "quantity": 9.16,
+            "unit_price": 11.65,
+            "vat_amount": 3.37
+        },
+        {
+            "amount": 338.93,
+            "description": "re-intermediate enterprise models",
+            "quantity": 2.39,
+            "unit_price": 87.98,
+            "vat_amount": 1.72
+        },
+        {
+            "amount": 418.45,
+            "description": "embrace revolutionary supply-chains",
+            "quantity": 2.15,
+            "unit_price": 10.57,
+            "vat_amount": 4.2
+        }
+    ],
+    "seller": {
+        "address": "4280 Tiffany Viaduct Yatesside, CA 45020"
+    },
+    "tax": {
+        "amount_excluding_tax": 68.12,
+        "amount_including_tax": 64.52,
+        "tax_amount": 11.23
+    }
+}

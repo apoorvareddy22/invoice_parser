@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "56049 Alvarez Islands Apt. 033 Murrayfort, CO 09646",
+        "company_name": "Glenn and Sons",
+        "email": "ratkinson@example.com",
+        "name": "Donald Myers",
+        "phone": "+1-803-268-1781x0162"
+    },
+    "invoice": {
+        "date": "08.07.1994",
+        "due_date": "10.06.1991",
+        "number": "YXR64810536363"
+    },
+    "payment": {
+        "account_number": 9854438760,
+        "bank_name": "Bishop-Williams",
+        "routing_number": 437399494
+    },
+    "products": [
+        {
+            "amount": 429.87,
+            "description": "envisioneer e-business eyeballs",
+            "index": "4",
+            "quantity": 1.81,
+            "unit_price": 32.2
+        },
+        {
+            "amount": 261.79,
+            "description": "empower back-end partnerships",
+            "index": "6",
+            "quantity": 1.92,
+            "unit_price": 74.09
+        }
+    ],
+    "seller": {
+        "address": "53826 Elliott Extension Apt. 024 East Carolynchester, CO 11000",
+        "company_name": "Lawrence-Luna",
+        "email": "simmonsbradley@example.com"
+    }
+}

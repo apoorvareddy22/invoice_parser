@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "7810 Travis Extension Lake Jason, HI 86788",
+        "company_name": "Hamilton, Alvarez and Cantu",
+        "country": "Madagascar",
+        "name": "Natalie Koch"
+    },
+    "invoice": {
+        "date": "10.04.1991",
+        "number": 592878
+    },
+    "payment": {
+        "discount_amount": 11.22,
+        "discount_percentage": 14.28,
+        "due": 128.94,
+        "sub_total": 52.97,
+        "total": 339.92
+    },
+    "products": [
+        {
+            "description": "streamline end-to-end users",
+            "index": "1",
+            "quantity": 9.04,
+            "total_price": 519.76,
+            "unit_price": 96.66
+        },
+        {
+            "description": "incentivize mission-critical bandwidth",
+            "index": "9",
+            "quantity": 3.91,
+            "total_price": 53.33,
+            "unit_price": 45.11
+        },
+        {
+            "description": "deploy world-class partnerships",
+            "index": "6",
+            "quantity": 3.4,
+            "total_price": 951.87,
+            "unit_price": 40.64
+        }
+    ],
+    "seller": {
+        "address": "171 Martin Crossing Stanleystad, MS 92663",
+        "company_name": "Walker Group",
+        "vat_no": "FP50833253156"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "9065 Allen Mews Brianfort, AR 95592",
+        "company_name": "Martin, Valencia and Walker",
+        "country": "Guinea",
+        "name": "William Porter"
+    },
+    "invoice": {
+        "date": "03.03.2014",
+        "number": 715796
+    },
+    "payment": {
+        "discount_amount": 40.13,
+        "discount_percentage": 7.66,
+        "due": 114.04,
+        "sub_total": 182.9,
+        "total": 571.77
+    },
+    "products": [
+        {
+            "description": "harness next-generation networks",
+            "index": "4",
+            "quantity": 2.57,
+            "total_price": 867.82,
+            "unit_price": 23.88
+        },
+        {
+            "description": "exploit synergistic e-commerce",
+            "index": "6",
+            "quantity": 6.33,
+            "total_price": 739.56,
+            "unit_price": 50.55
+        },
+        {
+            "description": "envisioneer visionary functionalities",
+            "index": "2",
+            "quantity": 5.56,
+            "total_price": 122.17,
+            "unit_price": 28.68
+        }
+    ],
+    "seller": {
+        "address": "63572 Dana Dam Suite 944 Marksburgh, VT 44881",
+        "company_name": "Yu PLC",
+        "vat_no": "dt57116447574"
+    }
+}

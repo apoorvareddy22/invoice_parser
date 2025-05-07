@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "4206 Santos Crest Macdonaldstad, TN 69144",
+        "id": "YC013"
+    },
+    "invoice": {
+        "bc_no": "Yv94885",
+        "currency_code": "BMD",
+        "date": "07.03.1996",
+        "due_date": "09.03.2023",
+        "number": 503722
+    },
+    "payment": {
+        "bank_name": "Mcneil, Brown and Garza",
+        "bic": "SYKXGBOD",
+        "iban": "KFJZ12550601713889"
+    },
+    "products": [
+        {
+            "amount": 472.0,
+            "description": "evolve e-business deliverables",
+            "index": "7",
+            "price": 36.04,
+            "quantity": 5.83,
+            "tax_amount": 88.53,
+            "total_ttc": 147.31,
+            "vat_amount": 10.19
+        },
+        {
+            "amount": 359.05,
+            "description": "re-contextualize one-to-one ROI",
+            "index": "9",
+            "price": 447.57,
+            "quantity": 2.66,
+            "tax_amount": 60.63,
+            "total_ttc": 193.78,
+            "vat_amount": 3.98
+        },
+        {
+            "amount": 111.1,
+            "description": "drive dynamic architectures",
+            "index": "9",
+            "price": 278.07,
+            "quantity": 3.22,
+            "tax_amount": 29.05,
+            "total_ttc": 291.36,
+            "vat_amount": 5.65
+        },
+        {
+            "amount": 84.74,
+            "description": "embrace turn-key supply-chains",
+            "index": "10",
+            "price": 93.68,
+            "quantity": 3.09,
+            "tax_amount": 67.56,
+            "total_ttc": 145.66,
+            "vat_amount": 13.68
+        },
+        {
+            "amount": 424.65,
+            "description": "enable web-enabled platforms",
+            "index": "1",
+            "price": 194.28,
+            "quantity": 2.88,
+            "tax_amount": 31.59,
+            "total_ttc": 313.24,
+            "vat_amount": 0.63
+        },
+        {
+            "amount": 337.21,
+            "description": "expedite enterprise technologies",
+            "index": "1",
+            "price": 313.88,
+            "quantity": 2.01,
+            "tax_amount": 65.33,
+            "total_ttc": 264.69,
+            "vat_amount": 4.15
+        },
+        {
+            "amount": 66.21,
+            "description": "target vertical mindshare",
+            "index": "6",
+            "price": 478.49,
+            "quantity": 4.63,
+            "tax_amount": 42.81,
+            "total_ttc": 274.94,
+            "vat_amount": 1.62
+        }
+    ],
+    "seller": {
+        "name": "Tracy Thompson"
+    },
+    "supplier": {
+        "address": "3342 Martin Shoals Marissaville, AR 91391",
+        "name": "Ashley Choi"
+    },
+    "tax": {
+        "amount_excluding_tax": 176.34,
+        "amount_including_tax": 27.31,
+        "tax_amount": 23.85,
+        "total_ht": 191.04,
+        "total_ttc": 207.98
+    }
+}

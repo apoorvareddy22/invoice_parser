@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "5251 Wesley Radial Apt. 438 Rodneymouth, CO 33732",
+        "id": "RG174"
+    },
+    "invoice": {
+        "bc_no": "uk04768",
+        "currency_code": "CUC",
+        "date": "23.02.2011",
+        "due_date": "11.08.1993",
+        "number": 997581
+    },
+    "payment": {
+        "bank_name": "Brown, Bender and Alvarado",
+        "bic": "FQNFGB52",
+        "iban": "RQRR56109480244258"
+    },
+    "products": [
+        {
+            "amount": 219.91,
+            "description": "optimize bricks-and-clicks deliverables",
+            "index": "7",
+            "price": 285.86,
+            "quantity": 4.7,
+            "tax_amount": 73.38,
+            "total_ttc": 195.14,
+            "vat_amount": 1.02
+        },
+        {
+            "amount": 259.51,
+            "description": "synthesize interactive markets",
+            "index": "7",
+            "price": 439.89,
+            "quantity": 9.75,
+            "tax_amount": 33.08,
+            "total_ttc": 355.73,
+            "vat_amount": 10.69
+        },
+        {
+            "amount": 342.5,
+            "description": "generate bricks-and-clicks bandwidth",
+            "index": "9",
+            "price": 170.13,
+            "quantity": 9.3,
+            "tax_amount": 41.04,
+            "total_ttc": 188.55,
+            "vat_amount": 7.71
+        },
+        {
+            "amount": 362.97,
+            "description": "e-enable user-centric channels",
+            "index": "4",
+            "price": 499.65,
+            "quantity": 5.16,
+            "tax_amount": 96.69,
+            "total_ttc": 136.34,
+            "vat_amount": 4.98
+        },
+        {
+            "amount": 434.57,
+            "description": "evolve interactive metrics",
+            "index": "6",
+            "price": 195.15,
+            "quantity": 1.51,
+            "tax_amount": 90.33,
+            "total_ttc": 339.84,
+            "vat_amount": 3.81
+        }
+    ],
+    "seller": {
+        "name": "Miranda Decker"
+    },
+    "supplier": {
+        "address": "24212 Leslie Lodge Apt. 125 Lake Nathaniel, MO 31984",
+        "name": "Kristin Ramos"
+    },
+    "tax": {
+        "amount_excluding_tax": 167.21,
+        "amount_including_tax": 44.81,
+        "tax_amount": 10.27,
+        "total_ht": 482.63,
+        "total_ttc": 424.59
+    }
+}

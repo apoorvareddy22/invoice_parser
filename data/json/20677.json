@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "9165 Lisa Street South Ericaburgh, MI 38011",
+        "company_name": "Hunt, Meyers and Allen",
+        "email": "ralphprice@example.org",
+        "name": "Paula Taylor",
+        "phone": "(493)340-2204"
+    },
+    "invoice": {
+        "date": "14.05.2006",
+        "due_date": "29.11.2005",
+        "number": "bur74956973146"
+    },
+    "payment": {
+        "account_number": 1009671534,
+        "bank_name": "Patterson, Johnson and Ramirez",
+        "routing_number": 544274128
+    },
+    "products": [
+        {
+            "amount": 486.16,
+            "description": "engage robust synergies",
+            "index": "6",
+            "quantity": 7.49,
+            "unit_price": 58.74
+        }
+    ],
+    "seller": {
+        "address": "3432 Brown Club Alexandertown, MT 45835",
+        "company_name": "Sanders LLC",
+        "email": "warrenmichael@example.org"
+    }
+}

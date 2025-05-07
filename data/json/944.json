@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "398 Stacey Court South Steven, MN 41880",
+        "company_name": "Byrd LLC",
+        "country": "Lithuania",
+        "name": "Jorge Miller"
+    },
+    "invoice": {
+        "date": "21.01.2021",
+        "number": 295419
+    },
+    "payment": {
+        "discount_amount": 47.39,
+        "discount_percentage": 19.53,
+        "due": 15.96,
+        "sub_total": 188.85,
+        "total": 942.06
+    },
+    "products": [
+        {
+            "description": "synthesize granular niches",
+            "index": "6",
+            "quantity": 7.27,
+            "total_price": 986.98,
+            "unit_price": 14.55
+        },
+        {
+            "description": "harness frictionless interfaces",
+            "index": "4",
+            "quantity": 5.55,
+            "total_price": 143.72,
+            "unit_price": 99.48
+        },
+        {
+            "description": "synthesize clicks-and-mortar applications",
+            "index": "10",
+            "quantity": 4.31,
+            "total_price": 851.02,
+            "unit_price": 42.16
+        }
+    ],
+    "seller": {
+        "address": "1745 Gonzalez Lodge Apt. 270 Erinborough, MT 91119",
+        "company_name": "West, Lewis and Baldwin",
+        "vat_no": "Oi68039578696"
+    }
+}

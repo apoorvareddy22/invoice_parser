@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "8181 Sean Roads Suite 483 Whitefurt, PA 81505",
+        "email": "joshua54@example.com",
+        "phone": "001-539-566-7591",
+        "vat_no": "nh45354764382"
+    },
+    "invoice": {
+        "date": "03.04.2008",
+        "due_date": "16.12.1994",
+        "market_reference": 263884,
+        "notes": "embrace end-to-end communities",
+        "number": "6166-6001",
+        "reference": 438075,
+        "vat_no": "nd70633879921"
+    },
+    "payment": {
+        "net_total": 142.24,
+        "total": 702.05
+    },
+    "products": [
+        {
+            "amount": 58.62,
+            "description": "brand global architectures",
+            "hours": 4.55,
+            "rate": 8.85
+        }
+    ],
+    "seller": {
+        "address": "011 Justin Harbors New Alison, MN 68470",
+        "email": "rachel01@example.org",
+        "name": "Kevin Taylor"
+    },
+    "tax": {
+        "base": 16.65,
+        "tax_amount": 19.97,
+        "total_tax": 18.61
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "0269 Williamson Lights Apt. 808 Yatesberg, KY 40884",
+        "email": "jamie48@example.com",
+        "phone": "424.620.7093x2583",
+        "vat_no": "pQ01747078776"
+    },
+    "invoice": {
+        "date": "15.08.2014",
+        "due_date": "18.10.2006",
+        "market_reference": 501001,
+        "notes": "unleash efficient metrics",
+        "number": "5561-0691",
+        "reference": 396190,
+        "vat_no": "sQ11069465449"
+    },
+    "payment": {
+        "net_total": 120.69,
+        "total": 857.48
+    },
+    "products": [
+        {
+            "amount": 159.22,
+            "description": "grow clicks-and-mortar infrastructures",
+            "hours": 3.79,
+            "rate": 1.03
+        },
+        {
+            "amount": 498.75,
+            "description": "drive turn-key applications",
+            "hours": 5.12,
+            "rate": 5.0
+        },
+        {
+            "amount": 30.69,
+            "description": "re-intermediate cutting-edge systems",
+            "hours": 7.69,
+            "rate": 3.98
+        },
+        {
+            "amount": 130.25,
+            "description": "unleash transparent convergence",
+            "hours": 1.82,
+            "rate": 9.12
+        }
+    ],
+    "seller": {
+        "address": "23181 Jackson Rapid Dudleyview, AS 18289",
+        "email": "jessicamacias@example.com",
+        "name": "Veronica Hensley"
+    },
+    "tax": {
+        "base": 10.04,
+        "tax_amount": 25.38,
+        "total_tax": 23.8
+    }
+}

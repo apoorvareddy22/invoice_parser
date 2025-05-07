@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "75754 Grant Highway Apt. 969 West Valerie, KS 75377",
+        "id": "VZ837"
+    },
+    "invoice": {
+        "bc_no": "DJ55157",
+        "currency_code": "PKR",
+        "date": "26.04.1990",
+        "due_date": "01.09.2001",
+        "number": 677193
+    },
+    "payment": {
+        "bank_name": "Johns LLC",
+        "bic": "GNNIGBGH",
+        "iban": "DHQB74927486554404"
+    },
+    "products": [
+        {
+            "amount": 12.63,
+            "description": "e-enable clicks-and-mortar content",
+            "index": "10",
+            "price": 109.87,
+            "quantity": 1.04,
+            "tax_amount": 37.26,
+            "total_ttc": 216.56,
+            "vat_amount": 12.75
+        },
+        {
+            "amount": 366.54,
+            "description": "benchmark turn-key markets",
+            "index": "7",
+            "price": 402.1,
+            "quantity": 2.06,
+            "tax_amount": 70.89,
+            "total_ttc": 158.71,
+            "vat_amount": 8.53
+        },
+        {
+            "amount": 406.79,
+            "description": "redefine granular networks",
+            "index": "10",
+            "price": 372.3,
+            "quantity": 3.54,
+            "tax_amount": 81.86,
+            "total_ttc": 485.75,
+            "vat_amount": 2.05
+        }
+    ],
+    "seller": {
+        "name": "Devon Brown"
+    },
+    "supplier": {
+        "address": "8175 Kelly Alley Suite 735 Martinezside, VI 78761",
+        "name": "Michelle Avila"
+    },
+    "tax": {
+        "amount_excluding_tax": 172.28,
+        "amount_including_tax": 88.92,
+        "tax_amount": 15.7,
+        "total_ht": 251.45,
+        "total_ttc": 281.7
+    }
+}

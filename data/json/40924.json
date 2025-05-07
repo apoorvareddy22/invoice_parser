@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "99938 Lauren Isle Port Jenniferside, MD 89062"
+    },
+    "invoice": {
+        "bc_no": "iR33706",
+        "date": "10.08.2008",
+        "maturity_date": "12.12.2001",
+        "number": 468453
+    },
+    "products": [
+        {
+            "amount": 462.33,
+            "description": "implement back-end e-business",
+            "quantity": 2.11,
+            "unit_price": 49.8,
+            "vat_amount": 1.32
+        },
+        {
+            "amount": 350.87,
+            "description": "revolutionize mission-critical bandwidth",
+            "quantity": 4.23,
+            "unit_price": 38.42,
+            "vat_amount": 2.19
+        }
+    ],
+    "seller": {
+        "address": "8194 Janet Cove Port Kelly, CA 46362"
+    },
+    "tax": {
+        "amount_excluding_tax": 79.81,
+        "amount_including_tax": 10.95,
+        "tax_amount": 10.29
+    }
+}

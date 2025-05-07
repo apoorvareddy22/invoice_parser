@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "7672 Cisneros Cliff North Cynthia, OH 15147",
+        "email": "david94@example.org",
+        "phone": "+1-927-218-8101x817",
+        "vat_no": "XK41979639412"
+    },
+    "invoice": {
+        "date": "23.04.2007",
+        "due_date": "11.12.2000",
+        "market_reference": 711721,
+        "notes": "grow magnetic deliverables",
+        "number": "7149-5972",
+        "reference": 212416,
+        "vat_no": "xc60010467682"
+    },
+    "payment": {
+        "net_total": 47.14,
+        "total": 769.66
+    },
+    "products": [
+        {
+            "amount": 319.5,
+            "description": "repurpose magnetic methodologies",
+            "hours": 6.6,
+            "rate": 8.99
+        },
+        {
+            "amount": 485.87,
+            "description": "leverage 24/7 vortals",
+            "hours": 9.2,
+            "rate": 5.43
+        },
+        {
+            "amount": 35.0,
+            "description": "drive one-to-one communities",
+            "hours": 9.17,
+            "rate": 8.89
+        },
+        {
+            "amount": 136.52,
+            "description": "redefine best-of-breed e-tailers",
+            "hours": 3.9,
+            "rate": 8.23
+        },
+        {
+            "amount": 54.34,
+            "description": "generate plug-and-play convergence",
+            "hours": 9.66,
+            "rate": 8.92
+        }
+    ],
+    "seller": {
+        "address": "021 Davis Shore Suite 727 New Melissa, AK 53809",
+        "email": "davisrebecca@example.net",
+        "name": "Jordan Vazquez"
+    },
+    "tax": {
+        "base": 24.9,
+        "tax_amount": 23.15,
+        "total_tax": 28.9
+    }
+}

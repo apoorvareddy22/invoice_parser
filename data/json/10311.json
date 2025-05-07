@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "30789 Jones Inlet Lake Georgeburgh, CA 05355",
+        "email": "smithjamie@example.com",
+        "phone": "(360)772-5681x790",
+        "vat_no": "pW20306320916"
+    },
+    "invoice": {
+        "date": "28.10.1998",
+        "due_date": "07.09.2014",
+        "market_reference": 898917,
+        "notes": "productize clicks-and-mortar e-commerce",
+        "number": "9732-7207",
+        "reference": 278744,
+        "vat_no": "Cz10686978614"
+    },
+    "payment": {
+        "net_total": 115.92,
+        "total": 106.35
+    },
+    "products": [
+        {
+            "amount": 160.94,
+            "description": "whiteboard leading-edge e-services",
+            "hours": 4.59,
+            "rate": 5.23
+        }
+    ],
+    "seller": {
+        "address": "6740 Garner Loaf Suite 628 Walkerchester, ND 85610",
+        "email": "browningcharles@example.com",
+        "name": "Marie Day"
+    },
+    "tax": {
+        "base": 11.52,
+        "tax_amount": 16.31,
+        "total_tax": 24.89
+    }
+}

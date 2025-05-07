@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "4613 Ramirez Springs Apt. 981 South Ashley, GA 18083",
+        "id": "CY446"
+    },
+    "invoice": {
+        "bc_no": "iD88365",
+        "currency_code": "PAB",
+        "date": "17.05.2004",
+        "due_date": "21.04.2002",
+        "number": 767515
+    },
+    "payment": {
+        "bank_name": "Hooper and Sons",
+        "bic": "SEGWGBKJP74",
+        "iban": "XZWI00860735538622"
+    },
+    "products": [
+        {
+            "amount": 78.24,
+            "description": "enhance revolutionary eyeballs",
+            "index": "9",
+            "price": 122.68,
+            "quantity": 9.64,
+            "tax_amount": 34.44,
+            "total_ttc": 429.17,
+            "vat_amount": 1.58
+        },
+        {
+            "amount": 45.48,
+            "description": "benchmark proactive metrics",
+            "index": "5",
+            "price": 152.47,
+            "quantity": 5.23,
+            "tax_amount": 74.82,
+            "total_ttc": 288.41,
+            "vat_amount": 0.32
+        },
+        {
+            "amount": 425.2,
+            "description": "repurpose e-business e-tailers",
+            "index": "4",
+            "price": 260.32,
+            "quantity": 1.97,
+            "tax_amount": 94.84,
+            "total_ttc": 426.74,
+            "vat_amount": 0.29
+        },
+        {
+            "amount": 141.91,
+            "description": "evolve front-end mindshare",
+            "index": "1",
+            "price": 82.76,
+            "quantity": 1.26,
+            "tax_amount": 20.83,
+            "total_ttc": 160.3,
+            "vat_amount": 17.22
+        },
+        {
+            "amount": 45.7,
+            "description": "repurpose front-end applications",
+            "index": "9",
+            "price": 353.93,
+            "quantity": 3.74,
+            "tax_amount": 73.97,
+            "total_ttc": 216.79,
+            "vat_amount": 7.93
+        },
+        {
+            "amount": 38.81,
+            "description": "generate scalable ROI",
+            "index": "4",
+            "price": 162.76,
+            "quantity": 3.47,
+            "tax_amount": 10.33,
+            "total_ttc": 147.87,
+            "vat_amount": 5.75
+        },
+        {
+            "amount": 124.5,
+            "description": "engineer wireless functionalities",
+            "index": "4",
+            "price": 216.41,
+            "quantity": 4.35,
+            "tax_amount": 79.51,
+            "total_ttc": 476.91,
+            "vat_amount": 3.72
+        }
+    ],
+    "seller": {
+        "name": "Kelly Mcdaniel"
+    },
+    "supplier": {
+        "address": "1438 Lisa Plain North Nicolas, MN 03361",
+        "name": "Jamie Miller"
+    },
+    "tax": {
+        "amount_excluding_tax": 166.89,
+        "amount_including_tax": 196.56,
+        "tax_amount": 16.81,
+        "total_ht": 235.62,
+        "total_ttc": 370.62
+    }
+}

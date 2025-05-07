@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "4437 Collins Islands East Jessica, KY 06226",
+        "id": "Mx478"
+    },
+    "invoice": {
+        "bc_no": "ae56823",
+        "currency_code": "MMK",
+        "date": "06.09.1990",
+        "due_date": "10.11.2022",
+        "number": 704189
+    },
+    "payment": {
+        "bank_name": "Shaw-Wu",
+        "bic": "HBUFGB4ZV17",
+        "iban": "RHMF74565752891686"
+    },
+    "products": [
+        {
+            "amount": 170.36,
+            "description": "morph cross-platform methodologies",
+            "index": "8",
+            "price": 365.85,
+            "quantity": 1.27,
+            "tax_amount": 78.19,
+            "total_ttc": 114.47,
+            "vat_amount": 3.51
+        },
+        {
+            "amount": 54.54,
+            "description": "generate revolutionary e-markets",
+            "index": "9",
+            "price": 38.21,
+            "quantity": 9.91,
+            "tax_amount": 43.43,
+            "total_ttc": 398.53,
+            "vat_amount": 2.67
+        },
+        {
+            "amount": 448.05,
+            "description": "grow strategic users",
+            "index": "3",
+            "price": 320.06,
+            "quantity": 9.96,
+            "tax_amount": 79.98,
+            "total_ttc": 252.33,
+            "vat_amount": 1.27
+        },
+        {
+            "amount": 497.87,
+            "description": "morph clicks-and-mortar relationships",
+            "index": "8",
+            "price": 492.16,
+            "quantity": 5.47,
+            "tax_amount": 86.06,
+            "total_ttc": 261.1,
+            "vat_amount": 4.82
+        },
+        {
+            "amount": 144.57,
+            "description": "incubate intuitive platforms",
+            "index": "4",
+            "price": 468.46,
+            "quantity": 5.63,
+            "tax_amount": 63.8,
+            "total_ttc": 232.69,
+            "vat_amount": 8.32
+        }
+    ],
+    "seller": {
+        "name": "Sheena Khan"
+    },
+    "supplier": {
+        "address": "8142 Joshua Grove Suite 968 North Joshua, WA 33678",
+        "name": "Kevin Mcdaniel"
+    },
+    "tax": {
+        "amount_excluding_tax": 96.91,
+        "amount_including_tax": 46.16,
+        "tax_amount": 18.52,
+        "total_ht": 145.93,
+        "total_ttc": 228.03
+    }
+}

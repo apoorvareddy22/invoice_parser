@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "134 Christopher Field Suite 956 Matthewport, MT 75922",
+        "email": "wford@example.net",
+        "phone": "001-856-501-7573x525",
+        "vat_no": "jp45242172934"
+    },
+    "invoice": {
+        "date": "23.09.1993",
+        "due_date": "17.06.2011",
+        "market_reference": 481253,
+        "notes": "morph integrated systems",
+        "number": "5527-8600",
+        "reference": 753000,
+        "vat_no": "Ub87667626408"
+    },
+    "payment": {
+        "net_total": 172.69,
+        "total": 939.45
+    },
+    "products": [
+        {
+            "amount": 376.39,
+            "description": "cultivate back-end initiatives",
+            "hours": 7.67,
+            "rate": 6.76
+        },
+        {
+            "amount": 85.79,
+            "description": "re-intermediate impactful e-tailers",
+            "hours": 5.21,
+            "rate": 4.92
+        },
+        {
+            "amount": 197.5,
+            "description": "redefine dot-com applications",
+            "hours": 6.44,
+            "rate": 6.76
+        },
+        {
+            "amount": 478.76,
+            "description": "matrix e-business architectures",
+            "hours": 8.54,
+            "rate": 9.99
+        },
+        {
+            "amount": 342.67,
+            "description": "synergize mission-critical functionalities",
+            "hours": 2.78,
+            "rate": 6.78
+        }
+    ],
+    "seller": {
+        "address": "32813 Brandi Villages Port Rebeccaview, MS 28142",
+        "email": "krystal06@example.net",
+        "name": "Amber Dunn"
+    },
+    "tax": {
+        "base": 18.45,
+        "tax_amount": 19.82,
+        "total_tax": 16.69
+    }
+}

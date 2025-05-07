@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "2307 Gutierrez Street Suite 536 Nelsonmouth, DC 25935",
+        "company_name": "Gardner Inc",
+        "country": "North Macedonia",
+        "name": "Brian Martin"
+    },
+    "invoice": {
+        "date": "17.06.2010",
+        "number": 860815
+    },
+    "payment": {
+        "discount_amount": 29.16,
+        "discount_percentage": 11.6,
+        "due": 18.51,
+        "sub_total": 128.1,
+        "total": 900.27
+    },
+    "products": [
+        {
+            "description": "generate transparent web services",
+            "index": "6",
+            "quantity": 8.64,
+            "total_price": 254.77,
+            "unit_price": 18.88
+        },
+        {
+            "description": "enable collaborative partnerships",
+            "index": "4",
+            "quantity": 6.27,
+            "total_price": 156.99,
+            "unit_price": 30.08
+        }
+    ],
+    "seller": {
+        "address": "47692 Maxwell Place South David, NJ 98095",
+        "company_name": "Rodriguez, Lynn and Shannon",
+        "vat_no": "zz09954695397"
+    }
+}

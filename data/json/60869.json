@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "51617 Smith Trace Apt. 102 Boydberg, KS 35281",
+        "business_no": "Gk601",
+        "id": "tG432"
+    },
+    "invoice": {
+        "date": "20.12.1999",
+        "number": "9467-5961"
+    },
+    "payment": {
+        "due_date": "26.10.2003",
+        "total": 761.14
+    },
+    "products": [
+        {
+            "amount": 55.62,
+            "description": "grow compelling interfaces",
+            "quantity": 5.75,
+            "reference": "pi-197",
+            "unit_price": 17.47
+        },
+        {
+            "amount": 41.54,
+            "description": "transition strategic partnerships",
+            "quantity": 4.92,
+            "reference": "ka-952",
+            "unit_price": 95.86
+        },
+        {
+            "amount": 370.95,
+            "description": "strategize best-of-breed convergence",
+            "quantity": 2.37,
+            "reference": "RD-807",
+            "unit_price": 59.7
+        },
+        {
+            "amount": 242.73,
+            "description": "unleash user-centric interfaces",
+            "quantity": 7.85,
+            "reference": "Rh-916",
+            "unit_price": 38.66
+        },
+        {
+            "amount": 76.17,
+            "description": "envisioneer ubiquitous systems",
+            "quantity": 8.79,
+            "reference": "Cm-241",
+            "unit_price": 61.89
+        },
+        {
+            "amount": 333.12,
+            "description": "benchmark turn-key deliverables",
+            "quantity": 8.15,
+            "reference": "JQ-301",
+            "unit_price": 29.36
+        }
+    ],
+    "seller": {
+        "address": "5896 Jackson Key Suite 972 Lake Michaelfurt, CO 61440"
+    },
+    "tax": {
+        "base_ht": 448.61,
+        "regulations": 11.55,
+        "total_ht": 110.74,
+        "vat_amount": 184.35,
+        "vat_percentage": 10.7
+    }
+}

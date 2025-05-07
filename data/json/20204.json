@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "370 Austin Squares Gonzalestown, RI 02915",
+        "company_name": "Blair, Ayers and Wagner",
+        "email": "samanthamarshall@example.net",
+        "name": "Gary Parker",
+        "phone": "001-487-812-8487x562"
+    },
+    "invoice": {
+        "date": "12.01.2006",
+        "due_date": "15.04.1999",
+        "number": "GLY94708178105"
+    },
+    "payment": {
+        "account_number": 4568443093,
+        "bank_name": "Hudson-Taylor",
+        "routing_number": 809101716
+    },
+    "products": [
+        {
+            "amount": 442.82,
+            "description": "deliver dot-com e-commerce",
+            "index": "6",
+            "quantity": 8.03,
+            "unit_price": 74.7
+        },
+        {
+            "amount": 451.45,
+            "description": "harness next-generation initiatives",
+            "index": "4",
+            "quantity": 5.39,
+            "unit_price": 13.47
+        },
+        {
+            "amount": 263.2,
+            "description": "whiteboard transparent schemas",
+            "index": "4",
+            "quantity": 6.72,
+            "unit_price": 68.7
+        }
+    ],
+    "seller": {
+        "address": "159 Tasha Corners Pamelatown, TX 04536",
+        "company_name": "Lee, Huang and Stewart",
+        "email": "rachel85@example.net"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "429 Julia Hollow New Kathleen, IN 96087",
+        "id": "WP305"
+    },
+    "invoice": {
+        "bc_no": "Ul40281",
+        "currency_code": "BAM",
+        "date": "28.02.2015",
+        "due_date": "03.02.2003",
+        "number": 430345
+    },
+    "payment": {
+        "bank_name": "Jones-Cameron",
+        "bic": "LBFCGBVRQCU",
+        "iban": "NFHB26451556142913"
+    },
+    "products": [
+        {
+            "amount": 119.13,
+            "description": "disintermediate wireless info-mediaries",
+            "index": "1",
+            "price": 27.32,
+            "quantity": 5.96,
+            "tax_amount": 98.03,
+            "total_ttc": 148.03,
+            "vat_amount": 6.81
+        },
+        {
+            "amount": 486.69,
+            "description": "deliver front-end architectures",
+            "index": "1",
+            "price": 300.3,
+            "quantity": 3.79,
+            "tax_amount": 36.98,
+            "total_ttc": 219.06,
+            "vat_amount": 1.78
+        },
+        {
+            "amount": 494.94,
+            "description": "strategize plug-and-play initiatives",
+            "index": "4",
+            "price": 137.44,
+            "quantity": 9.96,
+            "tax_amount": 62.87,
+            "total_ttc": 304.34,
+            "vat_amount": 3.88
+        }
+    ],
+    "seller": {
+        "name": "Elizabeth Pham"
+    },
+    "supplier": {
+        "address": "800 Kimberly Point Suite 100 New Allison, IN 09796",
+        "name": "Daniel Thornton"
+    },
+    "tax": {
+        "amount_excluding_tax": 56.25,
+        "amount_including_tax": 166.91,
+        "tax_amount": 14.09,
+        "total_ht": 463.85,
+        "total_ttc": 447.35
+    }
+}

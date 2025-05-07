@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "419 William Forges Kyletown, ND 06910",
+        "business_no": "AE943",
+        "id": "IT301"
+    },
+    "invoice": {
+        "date": "21.12.2003",
+        "number": "5712-5746"
+    },
+    "payment": {
+        "due_date": "30.11.2003",
+        "total": 764.11
+    },
+    "products": [
+        {
+            "amount": 263.68,
+            "description": "seize plug-and-play e-services",
+            "quantity": 2.23,
+            "reference": "Mx-751",
+            "unit_price": 12.49
+        },
+        {
+            "amount": 443.29,
+            "description": "exploit integrated technologies",
+            "quantity": 5.16,
+            "reference": "km-942",
+            "unit_price": 32.61
+        },
+        {
+            "amount": 491.38,
+            "description": "integrate cutting-edge partnerships",
+            "quantity": 4.26,
+            "reference": "iG-258",
+            "unit_price": 25.27
+        },
+        {
+            "amount": 238.25,
+            "description": "target 24/365 architectures",
+            "quantity": 2.17,
+            "reference": "by-833",
+            "unit_price": 99.25
+        },
+        {
+            "amount": 443.35,
+            "description": "re-intermediate out-of-the-box interfaces",
+            "quantity": 1.07,
+            "reference": "vZ-996",
+            "unit_price": 67.46
+        },
+        {
+            "amount": 349.23,
+            "description": "implement collaborative methodologies",
+            "quantity": 1.9,
+            "reference": "Fn-713",
+            "unit_price": 35.49
+        }
+    ],
+    "seller": {
+        "address": "PSC 0739, Box 2056 APO AP 94865"
+    },
+    "tax": {
+        "base_ht": 299.35,
+        "regulations": 29.56,
+        "total_ht": 480.6,
+        "vat_amount": 34.16,
+        "vat_percentage": 28.04
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "555 Carter Terrace Suite 281 West Nicholas, MH 75778",
+        "company_name": "Lang-Smith",
+        "email": "laura15@example.org",
+        "name": "Brandon Daniels",
+        "phone": "001-616-209-9443x48888"
+    },
+    "invoice": {
+        "date": "11.09.1999",
+        "due_date": "19.10.2003",
+        "number": "DGd01060520253"
+    },
+    "payment": {
+        "account_number": 6853995298,
+        "bank_name": "Lopez PLC",
+        "routing_number": 730493197
+    },
+    "products": [
+        {
+            "amount": 229.42,
+            "description": "iterate one-to-one paradigms",
+            "index": "1",
+            "quantity": 6.71,
+            "unit_price": 56.66
+        },
+        {
+            "amount": 313.3,
+            "description": "seize integrated action-items",
+            "index": "8",
+            "quantity": 4.58,
+            "unit_price": 35.46
+        },
+        {
+            "amount": 180.98,
+            "description": "deploy distributed vortals",
+            "index": "4",
+            "quantity": 6.14,
+            "unit_price": 69.62
+        },
+        {
+            "amount": 212.58,
+            "description": "synthesize magnetic markets",
+            "index": "2",
+            "quantity": 8.19,
+            "unit_price": 31.72
+        }
+    ],
+    "seller": {
+        "address": "33831 Lindsey Center Josephview, MI 84665",
+        "company_name": "Perry-Hensley",
+        "email": "lisa43@example.net"
+    }
+}

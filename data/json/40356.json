@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "2604 Gross Causeway South Maria, NM 27396"
+    },
+    "invoice": {
+        "bc_no": "pr09298",
+        "date": "08.06.1991",
+        "maturity_date": "20.01.1998",
+        "number": 566071
+    },
+    "products": [
+        {
+            "amount": 461.58,
+            "description": "extend clicks-and-mortar bandwidth",
+            "quantity": 1.53,
+            "unit_price": 87.68,
+            "vat_amount": 3.31
+        },
+        {
+            "amount": 316.12,
+            "description": "mesh intuitive applications",
+            "quantity": 3.35,
+            "unit_price": 75.1,
+            "vat_amount": 1.43
+        },
+        {
+            "amount": 455.89,
+            "description": "mesh viral architectures",
+            "quantity": 9.74,
+            "unit_price": 99.16,
+            "vat_amount": 13.38
+        },
+        {
+            "amount": 417.65,
+            "description": "optimize innovative experiences",
+            "quantity": 5.78,
+            "unit_price": 24.52,
+            "vat_amount": 2.88
+        }
+    ],
+    "seller": {
+        "address": "7897 Smith Center West Matthewview, NC 23476"
+    },
+    "tax": {
+        "amount_excluding_tax": 99.23,
+        "amount_including_tax": 18.39,
+        "tax_amount": 22.22
+    }
+}

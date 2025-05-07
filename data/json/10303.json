@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "8076 Duncan Garden Apt. 690 East Lesliefurt, ID 95935",
+        "email": "dferguson@example.org",
+        "phone": "(826)922-3323x59848",
+        "vat_no": "gj69656227150"
+    },
+    "invoice": {
+        "date": "04.03.1990",
+        "due_date": "07.05.1993",
+        "market_reference": 449076,
+        "notes": "extend granular e-markets",
+        "number": "6586-0164",
+        "reference": 421694,
+        "vat_no": "jk01840425710"
+    },
+    "payment": {
+        "net_total": 50.99,
+        "total": 446.59
+    },
+    "products": [
+        {
+            "amount": 181.1,
+            "description": "re-intermediate mission-critical relationships",
+            "hours": 2.37,
+            "rate": 1.12
+        },
+        {
+            "amount": 484.92,
+            "description": "redefine collaborative e-business",
+            "hours": 4.21,
+            "rate": 6.01
+        },
+        {
+            "amount": 149.06,
+            "description": "exploit turn-key infrastructures",
+            "hours": 9.56,
+            "rate": 8.72
+        },
+        {
+            "amount": 31.57,
+            "description": "exploit web-enabled bandwidth",
+            "hours": 1.09,
+            "rate": 4.27
+        }
+    ],
+    "seller": {
+        "address": "37712 Kim Ville Suite 831 Michaelton, ND 18006",
+        "email": "coreycervantes@example.org",
+        "name": "Stephen Snow"
+    },
+    "tax": {
+        "base": 24.61,
+        "tax_amount": 20.15,
+        "total_tax": 23.8
+    }
+}

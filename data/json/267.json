@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "43346 Austin Stravenue South Lisa, OR 64558",
+        "company_name": "Thomas Group",
+        "country": "Central African Republic",
+        "name": "Steve Davis MD"
+    },
+    "invoice": {
+        "date": "25.04.2001",
+        "number": 940022
+    },
+    "payment": {
+        "discount_amount": 15.28,
+        "discount_percentage": 19.65,
+        "due": 110.32,
+        "sub_total": 53.22,
+        "total": 617.32
+    },
+    "products": [
+        {
+            "description": "aggregate scalable e-business",
+            "index": "2",
+            "quantity": 1.33,
+            "total_price": 193.82,
+            "unit_price": 77.77
+        },
+        {
+            "description": "scale 24/365 supply-chains",
+            "index": "5",
+            "quantity": 2.79,
+            "total_price": 722.52,
+            "unit_price": 34.12
+        },
+        {
+            "description": "orchestrate one-to-one systems",
+            "index": "1",
+            "quantity": 3.63,
+            "total_price": 429.1,
+            "unit_price": 96.54
+        },
+        {
+            "description": "orchestrate 24/365 experiences",
+            "index": "2",
+            "quantity": 6.82,
+            "total_price": 938.27,
+            "unit_price": 72.38
+        },
+        {
+            "description": "incubate cross-media eyeballs",
+            "index": "6",
+            "quantity": 5.85,
+            "total_price": 645.77,
+            "unit_price": 19.58
+        }
+    ],
+    "seller": {
+        "address": "045 Oconnor Mission Suite 509 Crystalmouth, DE 54493",
+        "company_name": "Burgess, Smith and Miller",
+        "vat_no": "jH12816842016"
+    }
+}

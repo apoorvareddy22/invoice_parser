@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "91690 Serrano Center Jessicaland, VI 40987"
+    },
+    "invoice": {
+        "bc_no": "we33110",
+        "date": "29.07.1999",
+        "maturity_date": "21.12.2007",
+        "number": 832231
+    },
+    "products": [
+        {
+            "amount": 34.97,
+            "description": "matrix interactive info-mediaries",
+            "quantity": 6.82,
+            "unit_price": 29.92,
+            "vat_amount": 5.7
+        },
+        {
+            "amount": 52.36,
+            "description": "empower wireless convergence",
+            "quantity": 3.33,
+            "unit_price": 85.27,
+            "vat_amount": 5.88
+        },
+        {
+            "amount": 416.91,
+            "description": "brand customized portals",
+            "quantity": 1.5,
+            "unit_price": 67.37,
+            "vat_amount": 0.68
+        }
+    ],
+    "seller": {
+        "address": "7481 Cody Way Apt. 642 East Kelly, NY 37853"
+    },
+    "tax": {
+        "amount_excluding_tax": 60.61,
+        "amount_including_tax": 185.5,
+        "tax_amount": 23.33
+    }
+}

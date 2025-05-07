@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "455 Martin Dale Matthewton, MP 79966",
+        "id": "jp700"
+    },
+    "invoice": {
+        "bc_no": "OE76248",
+        "currency_code": "ANG",
+        "date": "28.02.2011",
+        "due_date": "10.02.2000",
+        "number": 262671
+    },
+    "payment": {
+        "bank_name": "Ellis Ltd",
+        "bic": "CAYPGBV8A7G",
+        "iban": "DROJ00823067459859"
+    },
+    "products": [
+        {
+            "amount": 35.12,
+            "description": "strategize ubiquitous e-markets",
+            "index": "3",
+            "price": 303.36,
+            "quantity": 6.8,
+            "tax_amount": 63.38,
+            "total_ttc": 273.8,
+            "vat_amount": 12.71
+        },
+        {
+            "amount": 68.48,
+            "description": "facilitate real-time content",
+            "index": "3",
+            "price": 488.82,
+            "quantity": 4.65,
+            "tax_amount": 24.07,
+            "total_ttc": 180.22,
+            "vat_amount": 9.99
+        },
+        {
+            "amount": 152.49,
+            "description": "syndicate dot-com e-markets",
+            "index": "7",
+            "price": 215.05,
+            "quantity": 8.46,
+            "tax_amount": 91.96,
+            "total_ttc": 357.58,
+            "vat_amount": 8.31
+        },
+        {
+            "amount": 386.2,
+            "description": "exploit interactive platforms",
+            "index": "4",
+            "price": 157.21,
+            "quantity": 8.9,
+            "tax_amount": 66.39,
+            "total_ttc": 100.24,
+            "vat_amount": 1.42
+        },
+        {
+            "amount": 174.67,
+            "description": "innovate granular systems",
+            "index": "6",
+            "price": 191.52,
+            "quantity": 3.54,
+            "tax_amount": 38.74,
+            "total_ttc": 330.11,
+            "vat_amount": 0.21
+        },
+        {
+            "amount": 81.05,
+            "description": "deploy B2C schemas",
+            "index": "5",
+            "price": 214.75,
+            "quantity": 2.39,
+            "tax_amount": 22.92,
+            "total_ttc": 153.94,
+            "vat_amount": 11.0
+        }
+    ],
+    "seller": {
+        "name": "Whitney Love"
+    },
+    "supplier": {
+        "address": "752 Thomas Plain Baldwinville, MI 91448",
+        "name": "Aaron Lee"
+    },
+    "tax": {
+        "amount_excluding_tax": 21.18,
+        "amount_including_tax": 63.14,
+        "tax_amount": 11.27,
+        "total_ht": 354.69,
+        "total_ttc": 300.24
+    }
+}

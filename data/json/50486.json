@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "587 Kenneth Key Theresamouth, IN 38925",
+        "id": "GH285"
+    },
+    "invoice": {
+        "bc_no": "qw48529",
+        "currency_code": "NZD",
+        "date": "10.01.1996",
+        "due_date": "24.02.2019",
+        "number": 293344
+    },
+    "payment": {
+        "bank_name": "Smith Ltd",
+        "bic": "CCPQGBAV",
+        "iban": "QXOV67264217790664"
+    },
+    "products": [
+        {
+            "amount": 128.02,
+            "description": "orchestrate one-to-one supply-chains",
+            "index": "10",
+            "price": 203.56,
+            "quantity": 8.55,
+            "tax_amount": 85.96,
+            "total_ttc": 429.44,
+            "vat_amount": 7.78
+        },
+        {
+            "amount": 470.68,
+            "description": "integrate clicks-and-mortar supply-chains",
+            "index": "6",
+            "price": 45.64,
+            "quantity": 1.47,
+            "tax_amount": 46.2,
+            "total_ttc": 485.91,
+            "vat_amount": 9.63
+        }
+    ],
+    "seller": {
+        "name": "Kevin Fox"
+    },
+    "supplier": {
+        "address": "9747 Stephen Cliff East Nancymouth, KY 30267",
+        "name": "Benjamin Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 138.77,
+        "amount_including_tax": 111.93,
+        "tax_amount": 27.6,
+        "total_ht": 169.81,
+        "total_ttc": 283.81
+    }
+}

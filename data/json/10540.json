@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "97305 Campbell Groves Theresaside, MO 13857",
+        "email": "ycastaneda@example.net",
+        "phone": "939-329-2135x65348",
+        "vat_no": "dn41649611833"
+    },
+    "invoice": {
+        "date": "14.03.2007",
+        "due_date": "02.01.2007",
+        "market_reference": 433831,
+        "notes": "maximize B2B models",
+        "number": "8780-8975",
+        "reference": 408437,
+        "vat_no": "uR24269409124"
+    },
+    "payment": {
+        "net_total": 122.74,
+        "total": 629.84
+    },
+    "products": [
+        {
+            "amount": 96.56,
+            "description": "syndicate wireless e-tailers",
+            "hours": 9.03,
+            "rate": 8.9
+        },
+        {
+            "amount": 280.99,
+            "description": "innovate synergistic interfaces",
+            "hours": 7.07,
+            "rate": 2.18
+        },
+        {
+            "amount": 52.68,
+            "description": "leverage e-business vortals",
+            "hours": 4.21,
+            "rate": 8.85
+        },
+        {
+            "amount": 170.56,
+            "description": "deploy interactive web-readiness",
+            "hours": 1.4,
+            "rate": 5.67
+        },
+        {
+            "amount": 129.26,
+            "description": "e-enable leading-edge web-readiness",
+            "hours": 6.5,
+            "rate": 9.48
+        },
+        {
+            "amount": 270.55,
+            "description": "brand 24/7 platforms",
+            "hours": 2.49,
+            "rate": 2.76
+        },
+        {
+            "amount": 489.17,
+            "description": "embrace cutting-edge supply-chains",
+            "hours": 3.57,
+            "rate": 9.66
+        }
+    ],
+    "seller": {
+        "address": "1507 Henry Port Suite 107 East Davidport, PR 06773",
+        "email": "angelalara@example.org",
+        "name": "Amy Singh"
+    },
+    "tax": {
+        "base": 24.65,
+        "tax_amount": 17.61,
+        "total_tax": 14.84
+    }
+}

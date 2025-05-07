@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "USNS Cline FPO AE 22876",
+        "id": "Km666"
+    },
+    "invoice": {
+        "bc_no": "jE05624",
+        "currency_code": "MUR",
+        "date": "07.01.2014",
+        "due_date": "29.09.2010",
+        "number": 862851
+    },
+    "payment": {
+        "bank_name": "Gutierrez-Morales",
+        "bic": "CRGPGBAO",
+        "iban": "DLZT56652509105585"
+    },
+    "products": [
+        {
+            "amount": 191.5,
+            "description": "visualize distributed bandwidth",
+            "index": "4",
+            "price": 349.87,
+            "quantity": 1.25,
+            "tax_amount": 27.44,
+            "total_ttc": 143.13,
+            "vat_amount": 1.16
+        },
+        {
+            "amount": 393.14,
+            "description": "brand ubiquitous convergence",
+            "index": "5",
+            "price": 427.5,
+            "quantity": 8.56,
+            "tax_amount": 77.37,
+            "total_ttc": 366.19,
+            "vat_amount": 2.92
+        },
+        {
+            "amount": 225.85,
+            "description": "incubate proactive channels",
+            "index": "2",
+            "price": 330.12,
+            "quantity": 7.07,
+            "tax_amount": 19.39,
+            "total_ttc": 469.21,
+            "vat_amount": 8.43
+        },
+        {
+            "amount": 436.23,
+            "description": "morph integrated applications",
+            "index": "4",
+            "price": 378.58,
+            "quantity": 1.87,
+            "tax_amount": 48.06,
+            "total_ttc": 263.81,
+            "vat_amount": 2.66
+        },
+        {
+            "amount": 98.23,
+            "description": "synthesize clicks-and-mortar schemas",
+            "index": "10",
+            "price": 312.0,
+            "quantity": 4.61,
+            "tax_amount": 96.71,
+            "total_ttc": 184.31,
+            "vat_amount": 6.57
+        },
+        {
+            "amount": 126.5,
+            "description": "integrate holistic web-readiness",
+            "index": "8",
+            "price": 241.82,
+            "quantity": 3.77,
+            "tax_amount": 84.12,
+            "total_ttc": 324.26,
+            "vat_amount": 1.18
+        },
+        {
+            "amount": 72.13,
+            "description": "evolve revolutionary initiatives",
+            "index": "1",
+            "price": 484.73,
+            "quantity": 6.89,
+            "tax_amount": 69.15,
+            "total_ttc": 250.04,
+            "vat_amount": 2.61
+        }
+    ],
+    "seller": {
+        "name": "John Riley"
+    },
+    "supplier": {
+        "address": "142 Michael Loop Johnland, PR 25683",
+        "name": "Marcus Cole"
+    },
+    "tax": {
+        "amount_excluding_tax": 123.95,
+        "amount_including_tax": 179.59,
+        "tax_amount": 20.77,
+        "total_ht": 225.63,
+        "total_ttc": 130.7
+    }
+}

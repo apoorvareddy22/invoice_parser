@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "6040 Francis Well Apt. 833 Vaughnstad, MN 97533"
+    },
+    "invoice": {
+        "bc_no": "EW45580",
+        "date": "02.09.2021",
+        "maturity_date": "11.03.2017",
+        "number": 782973
+    },
+    "products": [
+        {
+            "amount": 203.04,
+            "description": "revolutionize enterprise deliverables",
+            "quantity": 4.42,
+            "unit_price": 92.55,
+            "vat_amount": 0.72
+        }
+    ],
+    "seller": {
+        "address": "815 Lisa Tunnel Suite 355 South Christy, HI 12836"
+    },
+    "tax": {
+        "amount_excluding_tax": 186.66,
+        "amount_including_tax": 39.34,
+        "tax_amount": 26.88
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "675 Ethan Mountains Ramirezton, GA 12544"
+    },
+    "invoice": {
+        "bc_no": "LH46004",
+        "date": "21.07.2018",
+        "maturity_date": "09.12.2012",
+        "number": 124050
+    },
+    "products": [
+        {
+            "amount": 287.02,
+            "description": "matrix mission-critical applications",
+            "quantity": 3.68,
+            "unit_price": 48.14,
+            "vat_amount": 7.71
+        },
+        {
+            "amount": 212.18,
+            "description": "orchestrate holistic channels",
+            "quantity": 7.65,
+            "unit_price": 89.74,
+            "vat_amount": 7.02
+        },
+        {
+            "amount": 38.46,
+            "description": "exploit wireless e-commerce",
+            "quantity": 8.46,
+            "unit_price": 43.43,
+            "vat_amount": 0.54
+        },
+        {
+            "amount": 441.83,
+            "description": "aggregate 24/7 synergies",
+            "quantity": 7.89,
+            "unit_price": 92.23,
+            "vat_amount": 14.62
+        },
+        {
+            "amount": 331.7,
+            "description": "strategize proactive metrics",
+            "quantity": 4.25,
+            "unit_price": 14.37,
+            "vat_amount": 5.52
+        },
+        {
+            "amount": 471.93,
+            "description": "disintermediate collaborative e-services",
+            "quantity": 5.31,
+            "unit_price": 19.35,
+            "vat_amount": 6.96
+        }
+    ],
+    "seller": {
+        "address": "05020 Rodriguez Dale East Lisamouth, GA 09976"
+    },
+    "tax": {
+        "amount_excluding_tax": 193.31,
+        "amount_including_tax": 123.33,
+        "tax_amount": 21.07
+    }
+}

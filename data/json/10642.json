@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "0605 Cynthia Estates North Kyle, MN 44783",
+        "email": "qlee@example.net",
+        "phone": "439-265-0382",
+        "vat_no": "Wv04636125374"
+    },
+    "invoice": {
+        "date": "25.04.2010",
+        "due_date": "17.11.1992",
+        "market_reference": 677564,
+        "notes": "unleash robust e-commerce",
+        "number": "8518-4272",
+        "reference": 202565,
+        "vat_no": "Gr61904376172"
+    },
+    "payment": {
+        "net_total": 78.82,
+        "total": 707.75
+    },
+    "products": [
+        {
+            "amount": 128.85,
+            "description": "enhance real-time web services",
+            "hours": 9.03,
+            "rate": 7.5
+        }
+    ],
+    "seller": {
+        "address": "713 Zimmerman Falls Suite 002 South Kristine, NM 83604",
+        "email": "gilbertcrystal@example.org",
+        "name": "Kenneth Morgan"
+    },
+    "tax": {
+        "base": 12.34,
+        "tax_amount": 15.66,
+        "total_tax": 16.7
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "6918 Hughes Village Apt. 364 Lake Austintown, TX 37631",
+        "id": "qL898"
+    },
+    "invoice": {
+        "bc_no": "KR92278",
+        "currency_code": "IQD",
+        "date": "16.09.2000",
+        "due_date": "28.06.2009",
+        "number": 863850
+    },
+    "payment": {
+        "bank_name": "Ayala Inc",
+        "bic": "SYVHGBNQV29",
+        "iban": "ZFUQ70254014135960"
+    },
+    "products": [
+        {
+            "amount": 333.25,
+            "description": "synthesize visionary channels",
+            "index": "3",
+            "price": 236.26,
+            "quantity": 9.97,
+            "tax_amount": 64.96,
+            "total_ttc": 185.7,
+            "vat_amount": 8.49
+        }
+    ],
+    "seller": {
+        "name": "Joseph Baker"
+    },
+    "supplier": {
+        "address": "970 Mcclain Greens Apt. 535 North Shelby, AL 51806",
+        "name": "Carolyn Christian"
+    },
+    "tax": {
+        "amount_excluding_tax": 26.78,
+        "amount_including_tax": 63.33,
+        "tax_amount": 24.57,
+        "total_ht": 390.26,
+        "total_ttc": 433.29
+    }
+}

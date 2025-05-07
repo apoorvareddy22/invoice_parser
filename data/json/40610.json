@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "52585 Anna Station Hartton, PR 28227"
+    },
+    "invoice": {
+        "bc_no": "Ln60084",
+        "date": "26.04.2006",
+        "maturity_date": "07.06.2022",
+        "number": 430658
+    },
+    "products": [
+        {
+            "amount": 109.51,
+            "description": "redefine clicks-and-mortar methodologies",
+            "quantity": 8.76,
+            "unit_price": 22.42,
+            "vat_amount": 9.33
+        },
+        {
+            "amount": 273.06,
+            "description": "revolutionize user-centric niches",
+            "quantity": 5.37,
+            "unit_price": 20.36,
+            "vat_amount": 4.67
+        }
+    ],
+    "seller": {
+        "address": "1642 Rocha Point Ruizhaven, IN 24691"
+    },
+    "tax": {
+        "amount_excluding_tax": 198.41,
+        "amount_including_tax": 97.6,
+        "tax_amount": 14.89
+    }
+}

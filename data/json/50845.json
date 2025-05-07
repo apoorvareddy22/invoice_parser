@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "018 Rodriguez Cove Walshbury, DC 76161",
+        "id": "Ra549"
+    },
+    "invoice": {
+        "bc_no": "If80034",
+        "currency_code": "SPL",
+        "date": "04.01.2017",
+        "due_date": "25.07.2021",
+        "number": 285819
+    },
+    "payment": {
+        "bank_name": "Walsh Ltd",
+        "bic": "BTDCGBE23D1",
+        "iban": "RFJQ67512785450471"
+    },
+    "products": [
+        {
+            "amount": 222.72,
+            "description": "incentivize collaborative schemas",
+            "index": "3",
+            "price": 77.22,
+            "quantity": 1.13,
+            "tax_amount": 46.45,
+            "total_ttc": 289.0,
+            "vat_amount": 7.56
+        },
+        {
+            "amount": 294.07,
+            "description": "drive open-source users",
+            "index": "8",
+            "price": 131.94,
+            "quantity": 5.2,
+            "tax_amount": 40.56,
+            "total_ttc": 296.83,
+            "vat_amount": 0.67
+        },
+        {
+            "amount": 49.03,
+            "description": "aggregate collaborative action-items",
+            "index": "9",
+            "price": 345.83,
+            "quantity": 6.77,
+            "tax_amount": 78.62,
+            "total_ttc": 321.69,
+            "vat_amount": 1.84
+        },
+        {
+            "amount": 447.79,
+            "description": "generate intuitive eyeballs",
+            "index": "6",
+            "price": 228.05,
+            "quantity": 4.94,
+            "tax_amount": 68.99,
+            "total_ttc": 293.2,
+            "vat_amount": 7.78
+        }
+    ],
+    "seller": {
+        "name": "Meagan Vincent"
+    },
+    "supplier": {
+        "address": "26512 Sara Summit Suite 593 West Lauraview, ME 08672",
+        "name": "Samantha Henderson"
+    },
+    "tax": {
+        "amount_excluding_tax": 147.96,
+        "amount_including_tax": 80.03,
+        "tax_amount": 12.35,
+        "total_ht": 399.75,
+        "total_ttc": 403.23
+    }
+}

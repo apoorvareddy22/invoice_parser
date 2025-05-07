@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "0539 Fields Extensions Suite 094 South Kenneth, AR 42587"
+    },
+    "invoice": {
+        "bc_no": "vG42660",
+        "date": "03.01.1997",
+        "maturity_date": "26.03.2015",
+        "number": 759171
+    },
+    "products": [
+        {
+            "amount": 237.79,
+            "description": "integrate extensible e-services",
+            "quantity": 9.51,
+            "unit_price": 13.5,
+            "vat_amount": 1.09
+        }
+    ],
+    "seller": {
+        "address": "83860 Natalie Tunnel West Bridgetstad, AS 43094"
+    },
+    "tax": {
+        "amount_excluding_tax": 141.41,
+        "amount_including_tax": 22.38,
+        "tax_amount": 23.95
+    }
+}

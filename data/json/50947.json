@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "8678 Michelle Grove Suite 215 New Elizabethborough, KY 48144",
+        "id": "NY709"
+    },
+    "invoice": {
+        "bc_no": "oA34564",
+        "currency_code": "HRK",
+        "date": "08.02.2009",
+        "due_date": "17.05.2023",
+        "number": 886224
+    },
+    "payment": {
+        "bank_name": "Martin-Copeland",
+        "bic": "GZGXGBET67M",
+        "iban": "MMQT56018466035803"
+    },
+    "products": [
+        {
+            "amount": 478.94,
+            "description": "streamline intuitive mindshare",
+            "index": "9",
+            "price": 105.46,
+            "quantity": 4.86,
+            "tax_amount": 51.01,
+            "total_ttc": 226.01,
+            "vat_amount": 15.6
+        }
+    ],
+    "seller": {
+        "name": "Alexandra Mueller"
+    },
+    "supplier": {
+        "address": "524 Collins Isle Suite 996 Sarahfort, TN 99322",
+        "name": "Kenneth Turner"
+    },
+    "tax": {
+        "amount_excluding_tax": 116.31,
+        "amount_including_tax": 66.6,
+        "tax_amount": 16.01,
+        "total_ht": 341.64,
+        "total_ttc": 388.71
+    }
+}

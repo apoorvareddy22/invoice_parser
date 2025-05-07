@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "315 Hall Knoll Hoopertown, GA 02362",
+        "id": "bE683"
+    },
+    "invoice": {
+        "bc_no": "dj69525",
+        "currency_code": "TND",
+        "date": "04.04.2019",
+        "due_date": "27.11.2010",
+        "number": 435169
+    },
+    "payment": {
+        "bank_name": "Caldwell, Sutton and Barrett",
+        "bic": "VZXIGB2J",
+        "iban": "MQZP79340942594419"
+    },
+    "products": [
+        {
+            "amount": 464.85,
+            "description": "synthesize scalable eyeballs",
+            "index": "8",
+            "price": 228.08,
+            "quantity": 5.25,
+            "tax_amount": 86.08,
+            "total_ttc": 400.61,
+            "vat_amount": 11.22
+        },
+        {
+            "amount": 176.24,
+            "description": "seize strategic functionalities",
+            "index": "7",
+            "price": 426.58,
+            "quantity": 5.55,
+            "tax_amount": 93.71,
+            "total_ttc": 430.81,
+            "vat_amount": 15.48
+        }
+    ],
+    "seller": {
+        "name": "Susan Harrison"
+    },
+    "supplier": {
+        "address": "45012 Cummings Common Apt. 581 Heidihaven, MO 26538",
+        "name": "Kristin Harris"
+    },
+    "tax": {
+        "amount_excluding_tax": 181.78,
+        "amount_including_tax": 175.8,
+        "tax_amount": 22.13,
+        "total_ht": 280.01,
+        "total_ttc": 425.53
+    }
+}

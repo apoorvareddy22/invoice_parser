@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "064 Taylor Curve Nelsontown, VI 30902",
+        "id": "VW551"
+    },
+    "invoice": {
+        "bc_no": "uS66558",
+        "currency_code": "IDR",
+        "date": "28.07.2019",
+        "due_date": "28.07.1996",
+        "number": 930553
+    },
+    "payment": {
+        "bank_name": "Lopez Inc",
+        "bic": "MSFXGBFJ628",
+        "iban": "LJMZ21881158901153"
+    },
+    "products": [
+        {
+            "amount": 480.55,
+            "description": "orchestrate frictionless communities",
+            "index": "2",
+            "price": 227.24,
+            "quantity": 7.0,
+            "tax_amount": 54.84,
+            "total_ttc": 360.56,
+            "vat_amount": 5.75
+        },
+        {
+            "amount": 467.54,
+            "description": "evolve B2C models",
+            "index": "8",
+            "price": 52.38,
+            "quantity": 2.34,
+            "tax_amount": 20.96,
+            "total_ttc": 468.81,
+            "vat_amount": 13.66
+        },
+        {
+            "amount": 394.55,
+            "description": "optimize dot-com relationships",
+            "index": "8",
+            "price": 355.98,
+            "quantity": 5.13,
+            "tax_amount": 39.87,
+            "total_ttc": 272.13,
+            "vat_amount": 12.71
+        },
+        {
+            "amount": 194.14,
+            "description": "exploit compelling eyeballs",
+            "index": "5",
+            "price": 401.67,
+            "quantity": 5.69,
+            "tax_amount": 23.93,
+            "total_ttc": 436.06,
+            "vat_amount": 2.05
+        },
+        {
+            "amount": 31.87,
+            "description": "re-contextualize granular schemas",
+            "index": "10",
+            "price": 482.24,
+            "quantity": 5.62,
+            "tax_amount": 12.06,
+            "total_ttc": 276.87,
+            "vat_amount": 2.38
+        }
+    ],
+    "seller": {
+        "name": "Mary Mcguire"
+    },
+    "supplier": {
+        "address": "17574 Molina Radial Apt. 550 North Robert, MH 59160",
+        "name": "Megan Garrett"
+    },
+    "tax": {
+        "amount_excluding_tax": 136.26,
+        "amount_including_tax": 133.33,
+        "tax_amount": 16.93,
+        "total_ht": 138.74,
+        "total_ttc": 276.31
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "2374 Dyer Isle Apt. 776 Elizabethborough, NH 86464",
+        "company_name": "Gonzalez-Bass",
+        "email": "edwardsgregory@example.com",
+        "name": "Stephanie Brown MD",
+        "phone": "(859)702-8379x7414"
+    },
+    "invoice": {
+        "date": "12.10.1998",
+        "due_date": "11.08.2007",
+        "number": "jqu50312484588"
+    },
+    "payment": {
+        "account_number": 3972790143,
+        "bank_name": "Greene Inc",
+        "routing_number": 391083304
+    },
+    "products": [
+        {
+            "amount": 438.44,
+            "description": "incubate e-business experiences",
+            "index": "3",
+            "quantity": 3.91,
+            "unit_price": 37.62
+        },
+        {
+            "amount": 321.95,
+            "description": "brand transparent initiatives",
+            "index": "2",
+            "quantity": 1.8,
+            "unit_price": 94.53
+        },
+        {
+            "amount": 83.95,
+            "description": "enhance proactive metrics",
+            "index": "7",
+            "quantity": 6.11,
+            "unit_price": 59.28
+        }
+    ],
+    "seller": {
+        "address": "39244 Kelly Place Apt. 715 East Tylerville, SC 11256",
+        "company_name": "Reynolds, Jefferson and Williamson",
+        "email": "brianhowell@example.com"
+    }
+}

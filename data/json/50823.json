@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "67448 Schneider Isle Apt. 597 Lake Keith, MA 53664",
+        "id": "CB892"
+    },
+    "invoice": {
+        "bc_no": "fi07680",
+        "currency_code": "KMF",
+        "date": "01.11.2019",
+        "due_date": "19.08.2011",
+        "number": 705377
+    },
+    "payment": {
+        "bank_name": "Hughes-Chandler",
+        "bic": "NMDFGB04",
+        "iban": "CBWS71097222375548"
+    },
+    "products": [
+        {
+            "amount": 398.33,
+            "description": "architect magnetic deliverables",
+            "index": "8",
+            "price": 164.46,
+            "quantity": 9.59,
+            "tax_amount": 49.7,
+            "total_ttc": 399.73,
+            "vat_amount": 2.03
+        },
+        {
+            "amount": 31.63,
+            "description": "synergize real-time models",
+            "index": "3",
+            "price": 293.86,
+            "quantity": 9.04,
+            "tax_amount": 42.34,
+            "total_ttc": 340.23,
+            "vat_amount": 3.68
+        },
+        {
+            "amount": 193.25,
+            "description": "iterate dynamic technologies",
+            "index": "1",
+            "price": 340.83,
+            "quantity": 5.08,
+            "tax_amount": 81.58,
+            "total_ttc": 448.54,
+            "vat_amount": 4.77
+        },
+        {
+            "amount": 425.38,
+            "description": "synthesize 24/365 platforms",
+            "index": "7",
+            "price": 288.46,
+            "quantity": 9.82,
+            "tax_amount": 23.94,
+            "total_ttc": 323.57,
+            "vat_amount": 9.0
+        },
+        {
+            "amount": 96.64,
+            "description": "mesh mission-critical e-tailers",
+            "index": "3",
+            "price": 300.38,
+            "quantity": 7.51,
+            "tax_amount": 67.75,
+            "total_ttc": 395.69,
+            "vat_amount": 16.21
+        },
+        {
+            "amount": 320.61,
+            "description": "enable compelling action-items",
+            "index": "10",
+            "price": 270.59,
+            "quantity": 3.01,
+            "tax_amount": 13.05,
+            "total_ttc": 369.22,
+            "vat_amount": 4.56
+        }
+    ],
+    "seller": {
+        "name": "Shirley Mckee"
+    },
+    "supplier": {
+        "address": "USS Austin FPO AA 74998",
+        "name": "Tara Osborn"
+    },
+    "tax": {
+        "amount_excluding_tax": 176.61,
+        "amount_including_tax": 155.37,
+        "tax_amount": 25.36,
+        "total_ht": 214.5,
+        "total_ttc": 164.04
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "932 Franklin Branch Suite 835 West Daniellechester, UT 18410",
+        "business_no": "Li851",
+        "id": "Ur294"
+    },
+    "invoice": {
+        "date": "28.03.2012",
+        "number": "1887-7513"
+    },
+    "payment": {
+        "due_date": "16.11.2020",
+        "total": 719.15
+    },
+    "products": [
+        {
+            "amount": 248.37,
+            "description": "optimize virtual action-items",
+            "quantity": 4.79,
+            "reference": "KN-514",
+            "unit_price": 31.58
+        },
+        {
+            "amount": 55.68,
+            "description": "iterate plug-and-play eyeballs",
+            "quantity": 4.88,
+            "reference": "nf-759",
+            "unit_price": 42.63
+        },
+        {
+            "amount": 388.32,
+            "description": "disintermediate cutting-edge web services",
+            "quantity": 3.56,
+            "reference": "uN-561",
+            "unit_price": 57.29
+        }
+    ],
+    "seller": {
+        "address": "94107 Adriana Stravenue Lake Victoria, UT 94433"
+    },
+    "tax": {
+        "base_ht": 232.58,
+        "regulations": 14.14,
+        "total_ht": 264.98,
+        "vat_amount": 16.32,
+        "vat_percentage": 28.93
+    }
+}

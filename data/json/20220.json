@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "21179 Molina Falls East Carlos, DE 66253",
+        "company_name": "Davis-Chambers",
+        "email": "claytonashley@example.org",
+        "name": "Michael Foster",
+        "phone": "+1-916-293-4872x0785"
+    },
+    "invoice": {
+        "date": "04.04.2001",
+        "due_date": "30.10.2008",
+        "number": "ZVg75017417003"
+    },
+    "payment": {
+        "account_number": 1393653937,
+        "bank_name": "Snyder LLC",
+        "routing_number": 115150068
+    },
+    "products": [
+        {
+            "amount": 448.07,
+            "description": "visualize revolutionary experiences",
+            "index": "1",
+            "quantity": 8.97,
+            "unit_price": 61.34
+        },
+        {
+            "amount": 90.43,
+            "description": "re-contextualize ubiquitous methodologies",
+            "index": "1",
+            "quantity": 8.49,
+            "unit_price": 57.38
+        }
+    ],
+    "seller": {
+        "address": "75627 Erica Islands Sheriside, VA 13578",
+        "company_name": "Baker Ltd",
+        "email": "raymond73@example.com"
+    }
+}

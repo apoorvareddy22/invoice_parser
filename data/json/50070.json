@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "225 Steven Hills Suite 714 Houseton, PR 05359",
+        "id": "Pf023"
+    },
+    "invoice": {
+        "bc_no": "gH44221",
+        "currency_code": "LSL",
+        "date": "10.08.2015",
+        "due_date": "02.06.2009",
+        "number": 236841
+    },
+    "payment": {
+        "bank_name": "Dunlap Ltd",
+        "bic": "ITGSGBES",
+        "iban": "XPKU43548824900272"
+    },
+    "products": [
+        {
+            "amount": 374.73,
+            "description": "monetize innovative content",
+            "index": "7",
+            "price": 499.83,
+            "quantity": 7.98,
+            "tax_amount": 29.19,
+            "total_ttc": 326.62,
+            "vat_amount": 0.57
+        },
+        {
+            "amount": 210.79,
+            "description": "target value-added solutions",
+            "index": "2",
+            "price": 153.74,
+            "quantity": 1.64,
+            "tax_amount": 94.21,
+            "total_ttc": 385.99,
+            "vat_amount": 3.5
+        },
+        {
+            "amount": 61.37,
+            "description": "facilitate B2C e-tailers",
+            "index": "6",
+            "price": 62.0,
+            "quantity": 6.98,
+            "tax_amount": 96.85,
+            "total_ttc": 130.72,
+            "vat_amount": 0.19
+        }
+    ],
+    "seller": {
+        "name": "Carlos Marquez"
+    },
+    "supplier": {
+        "address": "5534 Bell Underpass Suite 375 New Nathan, MI 93741",
+        "name": "Jonathan Alexander"
+    },
+    "tax": {
+        "amount_excluding_tax": 88.55,
+        "amount_including_tax": 152.82,
+        "tax_amount": 19.77,
+        "total_ht": 234.03,
+        "total_ttc": 382.6
+    }
+}

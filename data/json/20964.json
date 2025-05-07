@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "5928 Dorothy Villages Apt. 404 Port Joshua, DC 66703",
+        "company_name": "Horne-Ruiz",
+        "email": "xdavis@example.com",
+        "name": "Justin Riggs",
+        "phone": "296.355.0152"
+    },
+    "invoice": {
+        "date": "09.07.2020",
+        "due_date": "14.04.2001",
+        "number": "RoV32891617769"
+    },
+    "payment": {
+        "account_number": 4507688316,
+        "bank_name": "Simmons, Flores and Holmes",
+        "routing_number": 264796986
+    },
+    "products": [
+        {
+            "amount": 489.26,
+            "description": "incubate value-added users",
+            "index": "9",
+            "quantity": 1.09,
+            "unit_price": 62.3
+        },
+        {
+            "amount": 81.14,
+            "description": "strategize impactful convergence",
+            "index": "4",
+            "quantity": 1.91,
+            "unit_price": 78.89
+        },
+        {
+            "amount": 362.93,
+            "description": "mesh integrated e-services",
+            "index": "5",
+            "quantity": 3.67,
+            "unit_price": 53.55
+        },
+        {
+            "amount": 33.71,
+            "description": "exploit back-end mindshare",
+            "index": "2",
+            "quantity": 2.01,
+            "unit_price": 92.65
+        }
+    ],
+    "seller": {
+        "address": "025 Sims Mills Loriport, MA 53767",
+        "company_name": "Woodard Ltd",
+        "email": "thughes@example.net"
+    }
+}

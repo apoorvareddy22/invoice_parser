@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "682 Craig Prairie Suite 784 Dalestad, SC 42832",
+        "business_no": "PZ471",
+        "id": "ky289"
+    },
+    "invoice": {
+        "date": "30.12.2022",
+        "number": "4487-8429"
+    },
+    "payment": {
+        "due_date": "10.01.1999",
+        "total": 561.38
+    },
+    "products": [
+        {
+            "amount": 33.03,
+            "description": "unleash B2C mindshare",
+            "quantity": 6.04,
+            "reference": "aD-471",
+            "unit_price": 28.53
+        },
+        {
+            "amount": 372.31,
+            "description": "architect compelling experiences",
+            "quantity": 3.31,
+            "reference": "YY-463",
+            "unit_price": 77.8
+        }
+    ],
+    "seller": {
+        "address": "2636 Bradley Ranch Apt. 355 Walterport, PR 76523"
+    },
+    "tax": {
+        "base_ht": 295.79,
+        "regulations": 12.63,
+        "total_ht": 270.78,
+        "vat_amount": 53.95,
+        "vat_percentage": 25.93
+    }
+}

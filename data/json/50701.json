@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "6963 Thomas Locks Apt. 811 Schmidtstad, MS 66328",
+        "id": "JM903"
+    },
+    "invoice": {
+        "bc_no": "nr36082",
+        "currency_code": "JEP",
+        "date": "31.08.1998",
+        "due_date": "22.08.2015",
+        "number": 535098
+    },
+    "payment": {
+        "bank_name": "Alvarez Inc",
+        "bic": "XLSQGBHF",
+        "iban": "QGYN77036969376456"
+    },
+    "products": [
+        {
+            "amount": 295.03,
+            "description": "redefine open-source portals",
+            "index": "6",
+            "price": 289.56,
+            "quantity": 4.49,
+            "tax_amount": 21.68,
+            "total_ttc": 492.02,
+            "vat_amount": 0.04
+        },
+        {
+            "amount": 397.97,
+            "description": "strategize vertical portals",
+            "index": "10",
+            "price": 463.25,
+            "quantity": 1.33,
+            "tax_amount": 69.55,
+            "total_ttc": 157.75,
+            "vat_amount": 3.27
+        },
+        {
+            "amount": 410.11,
+            "description": "drive synergistic methodologies",
+            "index": "9",
+            "price": 56.16,
+            "quantity": 2.7,
+            "tax_amount": 87.87,
+            "total_ttc": 189.31,
+            "vat_amount": 2.62
+        },
+        {
+            "amount": 462.44,
+            "description": "visualize efficient action-items",
+            "index": "2",
+            "price": 331.99,
+            "quantity": 6.04,
+            "tax_amount": 35.16,
+            "total_ttc": 307.61,
+            "vat_amount": 1.71
+        },
+        {
+            "amount": 110.86,
+            "description": "deliver global info-mediaries",
+            "index": "8",
+            "price": 453.28,
+            "quantity": 8.46,
+            "tax_amount": 81.03,
+            "total_ttc": 121.27,
+            "vat_amount": 3.68
+        },
+        {
+            "amount": 408.23,
+            "description": "aggregate vertical networks",
+            "index": "9",
+            "price": 177.72,
+            "quantity": 2.95,
+            "tax_amount": 76.82,
+            "total_ttc": 487.34,
+            "vat_amount": 1.99
+        },
+        {
+            "amount": 5.14,
+            "description": "enable turn-key e-services",
+            "index": "9",
+            "price": 164.01,
+            "quantity": 6.28,
+            "tax_amount": 37.41,
+            "total_ttc": 416.46,
+            "vat_amount": 0.48
+        }
+    ],
+    "seller": {
+        "name": "Chad Smith"
+    },
+    "supplier": {
+        "address": "32176 Pamela Junction Suite 343 New Brandonmouth, FM 20899",
+        "name": "Joshua Reese"
+    },
+    "tax": {
+        "amount_excluding_tax": 37.0,
+        "amount_including_tax": 57.18,
+        "tax_amount": 12.92,
+        "total_ht": 335.62,
+        "total_ttc": 224.33
+    }
+}

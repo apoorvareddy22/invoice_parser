@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "0881 Acosta Street West Cristian, PR 46429",
+        "business_no": "fe405",
+        "id": "tv621"
+    },
+    "invoice": {
+        "date": "23.10.2020",
+        "number": "8703-4314"
+    },
+    "payment": {
+        "due_date": "03.07.2017",
+        "total": 470.81
+    },
+    "products": [
+        {
+            "amount": 129.22,
+            "description": "incentivize dot-com web-readiness",
+            "quantity": 4.37,
+            "reference": "bj-333",
+            "unit_price": 83.06
+        },
+        {
+            "amount": 271.34,
+            "description": "streamline dynamic networks",
+            "quantity": 3.91,
+            "reference": "Wy-540",
+            "unit_price": 35.69
+        },
+        {
+            "amount": 296.3,
+            "description": "expedite mission-critical applications",
+            "quantity": 2.92,
+            "reference": "RM-413",
+            "unit_price": 97.71
+        }
+    ],
+    "seller": {
+        "address": "31054 Barnes Walk Suite 516 Dunnchester, RI 97604"
+    },
+    "tax": {
+        "base_ht": 244.73,
+        "regulations": 15.48,
+        "total_ht": 397.31,
+        "vat_amount": 180.36,
+        "vat_percentage": 18.47
+    }
+}

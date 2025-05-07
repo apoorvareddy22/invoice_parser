@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "72282 Smith Centers Apt. 604 Hallmouth, LA 19405"
+    },
+    "invoice": {
+        "bc_no": "Wx19683",
+        "date": "05.06.1990",
+        "maturity_date": "24.07.2022",
+        "number": 451784
+    },
+    "products": [
+        {
+            "amount": 386.12,
+            "description": "brand collaborative schemas",
+            "quantity": 1.59,
+            "unit_price": 98.26,
+            "vat_amount": 11.66
+        },
+        {
+            "amount": 190.23,
+            "description": "visualize customized interfaces",
+            "quantity": 1.41,
+            "unit_price": 77.7,
+            "vat_amount": 7.25
+        },
+        {
+            "amount": 87.35,
+            "description": "repurpose robust content",
+            "quantity": 5.28,
+            "unit_price": 57.83,
+            "vat_amount": 2.9
+        },
+        {
+            "amount": 200.36,
+            "description": "facilitate clicks-and-mortar paradigms",
+            "quantity": 7.57,
+            "unit_price": 69.16,
+            "vat_amount": 5.85
+        }
+    ],
+    "seller": {
+        "address": "64166 Patrick Oval Amyborough, NE 73725"
+    },
+    "tax": {
+        "amount_excluding_tax": 57.46,
+        "amount_including_tax": 174.46,
+        "tax_amount": 25.8
+    }
+}

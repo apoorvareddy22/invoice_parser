@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "PSC 6398, Box 2952 APO AE 15995",
+        "company_name": "Bryant-Johnson",
+        "email": "ohill@example.net",
+        "name": "Mike Arnold",
+        "phone": "433.234.1410x9053"
+    },
+    "invoice": {
+        "date": "11.03.2001",
+        "due_date": "25.09.2007",
+        "number": "Ujt30810796527"
+    },
+    "payment": {
+        "account_number": 2895301970,
+        "bank_name": "Calhoun-Benitez",
+        "routing_number": 303773736
+    },
+    "products": [
+        {
+            "amount": 129.55,
+            "description": "incentivize clicks-and-mortar ROI",
+            "index": "4",
+            "quantity": 5.07,
+            "unit_price": 91.87
+        },
+        {
+            "amount": 47.7,
+            "description": "syndicate clicks-and-mortar action-items",
+            "index": "1",
+            "quantity": 2.42,
+            "unit_price": 64.56
+        },
+        {
+            "amount": 464.0,
+            "description": "enhance next-generation bandwidth",
+            "index": "3",
+            "quantity": 2.51,
+            "unit_price": 95.81
+        },
+        {
+            "amount": 137.94,
+            "description": "transform open-source convergence",
+            "index": "2",
+            "quantity": 6.98,
+            "unit_price": 95.59
+        }
+    ],
+    "seller": {
+        "address": "0215 Anne Plain Suite 784 Jonathanshire, AL 90563",
+        "company_name": "Lee and Sons",
+        "email": "debbiecontreras@example.org"
+    }
+}

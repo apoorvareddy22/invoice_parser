@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "69341 Christine Throughway Coleville, SD 19691",
+        "business_no": "bQ582",
+        "id": "ZR262"
+    },
+    "invoice": {
+        "date": "26.12.2023",
+        "number": "7306-3771"
+    },
+    "payment": {
+        "due_date": "13.08.2003",
+        "total": 982.06
+    },
+    "products": [
+        {
+            "amount": 415.8,
+            "description": "morph magnetic convergence",
+            "quantity": 1.0,
+            "reference": "Pz-444",
+            "unit_price": 66.28
+        },
+        {
+            "amount": 19.82,
+            "description": "morph cross-media applications",
+            "quantity": 4.69,
+            "reference": "ek-991",
+            "unit_price": 98.93
+        }
+    ],
+    "seller": {
+        "address": "472 Padilla Mall Michelleburgh, VT 97024"
+    },
+    "tax": {
+        "base_ht": 267.0,
+        "regulations": 11.16,
+        "total_ht": 491.53,
+        "vat_amount": 154.63,
+        "vat_percentage": 29.22
+    }
+}

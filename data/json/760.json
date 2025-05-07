@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "584 Mathew Locks South Richardton, WI 29582",
+        "company_name": "Carr, Dorsey and Edwards",
+        "country": "Uganda",
+        "name": "Tammy Swanson"
+    },
+    "invoice": {
+        "date": "11.02.2003",
+        "number": 181759
+    },
+    "payment": {
+        "discount_amount": 31.52,
+        "discount_percentage": 9.5,
+        "due": 76.17,
+        "sub_total": 101.03,
+        "total": 524.54
+    },
+    "products": [
+        {
+            "description": "generate e-business ROI",
+            "index": "9",
+            "quantity": 6.91,
+            "total_price": 307.52,
+            "unit_price": 67.65
+        },
+        {
+            "description": "grow global e-services",
+            "index": "6",
+            "quantity": 4.35,
+            "total_price": 175.37,
+            "unit_price": 44.85
+        },
+        {
+            "description": "incentivize rich e-tailers",
+            "index": "9",
+            "quantity": 8.83,
+            "total_price": 525.24,
+            "unit_price": 97.71
+        },
+        {
+            "description": "re-intermediate viral ROI",
+            "index": "3",
+            "quantity": 8.42,
+            "total_price": 210.58,
+            "unit_price": 49.34
+        }
+    ],
+    "seller": {
+        "address": "14234 Gary Pine Jonesmouth, IN 69775",
+        "company_name": "Ramirez Group",
+        "vat_no": "nt30744870365"
+    }
+}

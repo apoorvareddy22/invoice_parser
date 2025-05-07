@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "817 Perry Lakes Brewershire, PW 71118",
+        "company_name": "May Inc",
+        "country": "French Southern Territories",
+        "name": "Robert Tran"
+    },
+    "invoice": {
+        "date": "11.08.1995",
+        "number": 493906
+    },
+    "payment": {
+        "discount_amount": 49.43,
+        "discount_percentage": 17.25,
+        "due": 187.79,
+        "sub_total": 170.67,
+        "total": 632.1
+    },
+    "products": [
+        {
+            "description": "iterate rich channels",
+            "index": "5",
+            "quantity": 7.73,
+            "total_price": 703.36,
+            "unit_price": 92.07
+        },
+        {
+            "description": "brand sticky technologies",
+            "index": "5",
+            "quantity": 8.12,
+            "total_price": 339.37,
+            "unit_price": 84.42
+        },
+        {
+            "description": "repurpose rich content",
+            "index": "6",
+            "quantity": 1.93,
+            "total_price": 501.09,
+            "unit_price": 83.73
+        }
+    ],
+    "seller": {
+        "address": "283 Beard River Apt. 608 Johnmouth, AS 52108",
+        "company_name": "Wilson and Sons",
+        "vat_no": "ax76650640522"
+    }
+}

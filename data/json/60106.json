@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "365 Baker Drives Sharpbury, AK 69865",
+        "business_no": "Yo454",
+        "id": "Wy369"
+    },
+    "invoice": {
+        "date": "29.03.2001",
+        "number": "5130-3796"
+    },
+    "payment": {
+        "due_date": "16.06.2013",
+        "total": 740.22
+    },
+    "products": [
+        {
+            "amount": 356.83,
+            "description": "aggregate transparent portals",
+            "quantity": 4.22,
+            "reference": "ms-653",
+            "unit_price": 13.33
+        },
+        {
+            "amount": 413.83,
+            "description": "drive interactive infrastructures",
+            "quantity": 8.71,
+            "reference": "Qc-667",
+            "unit_price": 67.4
+        },
+        {
+            "amount": 68.9,
+            "description": "enable interactive e-commerce",
+            "quantity": 5.76,
+            "reference": "Kr-400",
+            "unit_price": 34.6
+        },
+        {
+            "amount": 40.7,
+            "description": "benchmark proactive web-readiness",
+            "quantity": 5.22,
+            "reference": "tY-432",
+            "unit_price": 36.98
+        },
+        {
+            "amount": 261.79,
+            "description": "disintermediate e-business users",
+            "quantity": 3.46,
+            "reference": "VB-486",
+            "unit_price": 42.44
+        }
+    ],
+    "seller": {
+        "address": "8186 Kenneth Landing Apt. 613 Kimhaven, NV 93063"
+    },
+    "tax": {
+        "base_ht": 310.39,
+        "regulations": 14.1,
+        "total_ht": 360.28,
+        "vat_amount": 191.59,
+        "vat_percentage": 10.66
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "872 Ryan Motorway Apt. 655 Heatherview, VT 10948"
+    },
+    "invoice": {
+        "bc_no": "TU57454",
+        "date": "29.11.1995",
+        "maturity_date": "04.10.2013",
+        "number": 633377
+    },
+    "products": [
+        {
+            "amount": 315.19,
+            "description": "transition front-end applications",
+            "quantity": 4.93,
+            "unit_price": 27.28,
+            "vat_amount": 0.21
+        },
+        {
+            "amount": 125.16,
+            "description": "envisioneer killer users",
+            "quantity": 7.21,
+            "unit_price": 79.67,
+            "vat_amount": 6.1
+        },
+        {
+            "amount": 48.76,
+            "description": "e-enable clicks-and-mortar ROI",
+            "quantity": 1.25,
+            "unit_price": 35.74,
+            "vat_amount": 5.8
+        }
+    ],
+    "seller": {
+        "address": "96910 Holt Courts Yateston, NJ 20047"
+    },
+    "tax": {
+        "amount_excluding_tax": 149.92,
+        "amount_including_tax": 51.57,
+        "tax_amount": 13.85
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "1719 Bush Skyway Suite 757 Gonzalezside, NH 92154",
+        "id": "Av556"
+    },
+    "invoice": {
+        "bc_no": "CS25133",
+        "currency_code": "SHP",
+        "date": "05.10.2014",
+        "due_date": "21.08.1993",
+        "number": 216986
+    },
+    "payment": {
+        "bank_name": "Berger PLC",
+        "bic": "TDLVGBCWQJ3",
+        "iban": "SPRS96497681316198"
+    },
+    "products": [
+        {
+            "amount": 99.27,
+            "description": "incentivize distributed schemas",
+            "index": "9",
+            "price": 21.23,
+            "quantity": 8.67,
+            "tax_amount": 96.44,
+            "total_ttc": 441.72,
+            "vat_amount": 5.63
+        },
+        {
+            "amount": 120.25,
+            "description": "deploy dynamic niches",
+            "index": "10",
+            "price": 26.96,
+            "quantity": 5.22,
+            "tax_amount": 54.08,
+            "total_ttc": 146.63,
+            "vat_amount": 7.5
+        },
+        {
+            "amount": 473.95,
+            "description": "transition enterprise technologies",
+            "index": "8",
+            "price": 334.69,
+            "quantity": 4.27,
+            "tax_amount": 54.9,
+            "total_ttc": 300.23,
+            "vat_amount": 13.51
+        },
+        {
+            "amount": 439.76,
+            "description": "embrace intuitive systems",
+            "index": "2",
+            "price": 267.8,
+            "quantity": 7.54,
+            "tax_amount": 72.54,
+            "total_ttc": 204.0,
+            "vat_amount": 4.71
+        }
+    ],
+    "seller": {
+        "name": "Juan Stevenson"
+    },
+    "supplier": {
+        "address": "52094 Harris Squares Suite 447 Port Christopherfort, IL 29397",
+        "name": "Debra Gomez"
+    },
+    "tax": {
+        "amount_excluding_tax": 195.34,
+        "amount_including_tax": 89.61,
+        "tax_amount": 17.69,
+        "total_ht": 240.07,
+        "total_ttc": 355.9
+    }
+}

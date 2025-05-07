@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "1310 Richard Ford Suite 615 East Dawn, DE 01019",
+        "email": "samantha35@example.org",
+        "phone": "908.595.9732x497",
+        "vat_no": "aM83109630588"
+    },
+    "invoice": {
+        "date": "09.06.2012",
+        "due_date": "15.06.2004",
+        "market_reference": 173412,
+        "notes": "deploy web-enabled convergence",
+        "number": "0970-3456",
+        "reference": 101082,
+        "vat_no": "ou36385365318"
+    },
+    "payment": {
+        "net_total": 134.57,
+        "total": 444.26
+    },
+    "products": [
+        {
+            "amount": 22.0,
+            "description": "streamline bleeding-edge initiatives",
+            "hours": 5.05,
+            "rate": 8.56
+        },
+        {
+            "amount": 112.83,
+            "description": "synthesize efficient markets",
+            "hours": 4.0,
+            "rate": 8.58
+        }
+    ],
+    "seller": {
+        "address": "13286 Baker Rapids Kevinmouth, WV 45341",
+        "email": "acrawford@example.com",
+        "name": "Mark Phillips"
+    },
+    "tax": {
+        "base": 20.01,
+        "tax_amount": 20.92,
+        "total_tax": 20.04
+    }
+}

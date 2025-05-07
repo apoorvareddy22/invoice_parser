@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "2743 Leblanc Ramp Edwardside, SC 76163",
+        "id": "gy419"
+    },
+    "invoice": {
+        "bc_no": "Xe93400",
+        "currency_code": "ALL",
+        "date": "13.09.1994",
+        "due_date": "05.06.1994",
+        "number": 814953
+    },
+    "payment": {
+        "bank_name": "Gill, Young and Horton",
+        "bic": "OFDXGBLG3GB",
+        "iban": "ODRT05333735727385"
+    },
+    "products": [
+        {
+            "amount": 350.51,
+            "description": "syndicate extensible functionalities",
+            "index": "8",
+            "price": 477.15,
+            "quantity": 5.16,
+            "tax_amount": 80.2,
+            "total_ttc": 134.26,
+            "vat_amount": 2.01
+        },
+        {
+            "amount": 357.12,
+            "description": "integrate 24/365 interfaces",
+            "index": "8",
+            "price": 239.89,
+            "quantity": 1.26,
+            "tax_amount": 28.4,
+            "total_ttc": 261.6,
+            "vat_amount": 1.85
+        },
+        {
+            "amount": 238.03,
+            "description": "innovate viral e-services",
+            "index": "10",
+            "price": 189.65,
+            "quantity": 5.36,
+            "tax_amount": 67.37,
+            "total_ttc": 369.62,
+            "vat_amount": 3.5
+        },
+        {
+            "amount": 376.94,
+            "description": "scale seamless models",
+            "index": "1",
+            "price": 430.75,
+            "quantity": 5.83,
+            "tax_amount": 87.87,
+            "total_ttc": 378.05,
+            "vat_amount": 10.44
+        },
+        {
+            "amount": 238.42,
+            "description": "target strategic e-services",
+            "index": "1",
+            "price": 54.52,
+            "quantity": 2.68,
+            "tax_amount": 49.46,
+            "total_ttc": 122.0,
+            "vat_amount": 0.91
+        }
+    ],
+    "seller": {
+        "name": "Joshua Martinez"
+    },
+    "supplier": {
+        "address": "01260 Espinoza Field New Aprilbury, WY 86712",
+        "name": "Michael Collins"
+    },
+    "tax": {
+        "amount_excluding_tax": 199.56,
+        "amount_including_tax": 101.76,
+        "tax_amount": 24.66,
+        "total_ht": 216.39,
+        "total_ttc": 195.76
+    }
+}

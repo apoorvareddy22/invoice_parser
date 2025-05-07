@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "53257 Adkins Square North James, CO 10253"
+    },
+    "invoice": {
+        "bc_no": "Cl36057",
+        "date": "22.08.2018",
+        "maturity_date": "10.04.2001",
+        "number": 171657
+    },
+    "products": [
+        {
+            "amount": 221.8,
+            "description": "envisioneer turn-key technologies",
+            "quantity": 2.19,
+            "unit_price": 96.1,
+            "vat_amount": 3.55
+        },
+        {
+            "amount": 359.54,
+            "description": "redefine bleeding-edge solutions",
+            "quantity": 2.41,
+            "unit_price": 17.56,
+            "vat_amount": 5.27
+        },
+        {
+            "amount": 180.82,
+            "description": "generate impactful interfaces",
+            "quantity": 7.15,
+            "unit_price": 54.75,
+            "vat_amount": 7.45
+        },
+        {
+            "amount": 202.54,
+            "description": "evolve visionary partnerships",
+            "quantity": 2.64,
+            "unit_price": 35.21,
+            "vat_amount": 4.36
+        }
+    ],
+    "seller": {
+        "address": "643 Levy Square Suite 245 North Kristinashire, CO 64472"
+    },
+    "tax": {
+        "amount_excluding_tax": 186.83,
+        "amount_including_tax": 14.15,
+        "tax_amount": 12.81
+    }
+}

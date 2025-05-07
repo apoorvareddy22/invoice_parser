@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "936 Brandon Ramp Suite 269 North Amanda, PW 64382",
+        "id": "dl899"
+    },
+    "invoice": {
+        "bc_no": "Na86102",
+        "currency_code": "NZD",
+        "date": "23.03.2002",
+        "due_date": "23.05.2010",
+        "number": 277702
+    },
+    "payment": {
+        "bank_name": "Brown, Hebert and Pugh",
+        "bic": "HWWLGBFO885",
+        "iban": "KTHN57177679464347"
+    },
+    "products": [
+        {
+            "amount": 409.53,
+            "description": "optimize user-centric deliverables",
+            "index": "2",
+            "price": 150.65,
+            "quantity": 3.6,
+            "tax_amount": 52.93,
+            "total_ttc": 445.92,
+            "vat_amount": 1.4
+        },
+        {
+            "amount": 406.47,
+            "description": "reinvent synergistic experiences",
+            "index": "2",
+            "price": 146.43,
+            "quantity": 2.17,
+            "tax_amount": 31.31,
+            "total_ttc": 145.34,
+            "vat_amount": 8.28
+        }
+    ],
+    "seller": {
+        "name": "Carl Edwards"
+    },
+    "supplier": {
+        "address": "38532 Wilkins Cove Nicholasmouth, OK 14466",
+        "name": "Cynthia Young"
+    },
+    "tax": {
+        "amount_excluding_tax": 65.1,
+        "amount_including_tax": 44.49,
+        "tax_amount": 24.87,
+        "total_ht": 113.16,
+        "total_ttc": 126.01
+    }
+}

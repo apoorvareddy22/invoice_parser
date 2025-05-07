@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "022 Hamilton Spur Josephtown, RI 76262",
+        "id": "Pv023"
+    },
+    "invoice": {
+        "bc_no": "Ww56814",
+        "currency_code": "IDR",
+        "date": "22.12.2002",
+        "due_date": "31.12.2007",
+        "number": 148346
+    },
+    "payment": {
+        "bank_name": "Lowe, Ramos and Atkins",
+        "bic": "XGDYGBZAQMV",
+        "iban": "JBFV27836299305530"
+    },
+    "products": [
+        {
+            "amount": 443.59,
+            "description": "optimize holistic functionalities",
+            "index": "1",
+            "price": 57.77,
+            "quantity": 9.13,
+            "tax_amount": 46.89,
+            "total_ttc": 433.54,
+            "vat_amount": 7.22
+        },
+        {
+            "amount": 391.31,
+            "description": "redefine interactive models",
+            "index": "4",
+            "price": 134.39,
+            "quantity": 2.2,
+            "tax_amount": 56.99,
+            "total_ttc": 209.23,
+            "vat_amount": 2.2
+        }
+    ],
+    "seller": {
+        "name": "Karen Diaz"
+    },
+    "supplier": {
+        "address": "3768 Johnson Meadows Coreybury, MH 90158",
+        "name": "Jeffrey Miller"
+    },
+    "tax": {
+        "amount_excluding_tax": 94.68,
+        "amount_including_tax": 106.14,
+        "tax_amount": 16.85,
+        "total_ht": 364.94,
+        "total_ttc": 207.52
+    }
+}

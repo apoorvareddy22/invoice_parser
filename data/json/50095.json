@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "3440 Glover Via Suite 224 Sandersfort, MD 20412",
+        "id": "wS541"
+    },
+    "invoice": {
+        "bc_no": "iB77198",
+        "currency_code": "IQD",
+        "date": "05.01.1995",
+        "due_date": "02.08.2001",
+        "number": 106803
+    },
+    "payment": {
+        "bank_name": "Smith-White",
+        "bic": "YVVNGBA87CH",
+        "iban": "DDPK45341158086954"
+    },
+    "products": [
+        {
+            "amount": 223.28,
+            "description": "reinvent extensible bandwidth",
+            "index": "7",
+            "price": 309.07,
+            "quantity": 1.9,
+            "tax_amount": 66.22,
+            "total_ttc": 215.41,
+            "vat_amount": 4.61
+        }
+    ],
+    "seller": {
+        "name": "Ana King"
+    },
+    "supplier": {
+        "address": "1710 Miller Camp New Jacob, MO 16905",
+        "name": "Kevin Conway"
+    },
+    "tax": {
+        "amount_excluding_tax": 155.74,
+        "amount_including_tax": 77.92,
+        "tax_amount": 18.96,
+        "total_ht": 271.26,
+        "total_ttc": 217.62
+    }
+}

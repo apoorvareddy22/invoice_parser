@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "497 Jared Vista Suite 027 Deanbury, HI 58919"
+    },
+    "invoice": {
+        "bc_no": "EI93384",
+        "date": "08.12.2001",
+        "maturity_date": "08.04.2023",
+        "number": 236647
+    },
+    "products": [
+        {
+            "amount": 278.41,
+            "description": "cultivate killer ROI",
+            "quantity": 7.45,
+            "unit_price": 32.99,
+            "vat_amount": 6.73
+        }
+    ],
+    "seller": {
+        "address": "794 Eaton Center Apt. 926 North Matthew, AK 49821"
+    },
+    "tax": {
+        "amount_excluding_tax": 99.33,
+        "amount_including_tax": 115.49,
+        "tax_amount": 27.61
+    }
+}

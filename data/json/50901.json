@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "244 Graves Underpass Apt. 086 New Colinfort, GU 27008",
+        "id": "XB558"
+    },
+    "invoice": {
+        "bc_no": "gK97610",
+        "currency_code": "JPY",
+        "date": "12.09.2021",
+        "due_date": "01.06.2017",
+        "number": 640822
+    },
+    "payment": {
+        "bank_name": "Cobb, Rhodes and Sparks",
+        "bic": "YKXQGBUMJ1Q",
+        "iban": "JPGM75603258703865"
+    },
+    "products": [
+        {
+            "amount": 181.97,
+            "description": "syndicate plug-and-play info-mediaries",
+            "index": "7",
+            "price": 173.39,
+            "quantity": 4.86,
+            "tax_amount": 32.64,
+            "total_ttc": 384.05,
+            "vat_amount": 0.21
+        },
+        {
+            "amount": 209.13,
+            "description": "drive visionary synergies",
+            "index": "3",
+            "price": 361.45,
+            "quantity": 9.14,
+            "tax_amount": 60.07,
+            "total_ttc": 288.68,
+            "vat_amount": 3.76
+        },
+        {
+            "amount": 25.67,
+            "description": "innovate bricks-and-clicks e-markets",
+            "index": "10",
+            "price": 369.4,
+            "quantity": 7.51,
+            "tax_amount": 66.53,
+            "total_ttc": 222.13,
+            "vat_amount": 12.22
+        }
+    ],
+    "seller": {
+        "name": "Andrew Collins"
+    },
+    "supplier": {
+        "address": "74349 Jonathan Vista Suite 789 Port Ashley, GA 55741",
+        "name": "Amy Brown"
+    },
+    "tax": {
+        "amount_excluding_tax": 170.73,
+        "amount_including_tax": 71.16,
+        "tax_amount": 25.5,
+        "total_ht": 396.36,
+        "total_ttc": 119.48
+    }
+}

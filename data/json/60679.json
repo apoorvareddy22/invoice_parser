@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "PSC 8431, Box 8453 APO AE 76190",
+        "business_no": "rn564",
+        "id": "RB639"
+    },
+    "invoice": {
+        "date": "25.05.2008",
+        "number": "5428-1030"
+    },
+    "payment": {
+        "due_date": "17.10.1991",
+        "total": 403.56
+    },
+    "products": [
+        {
+            "amount": 241.52,
+            "description": "incentivize real-time infrastructures",
+            "quantity": 5.35,
+            "reference": "wf-740",
+            "unit_price": 56.04
+        },
+        {
+            "amount": 82.06,
+            "description": "deliver interactive metrics",
+            "quantity": 4.7,
+            "reference": "Bl-781",
+            "unit_price": 46.39
+        },
+        {
+            "amount": 443.49,
+            "description": "utilize rich e-commerce",
+            "quantity": 1.61,
+            "reference": "Sx-525",
+            "unit_price": 71.84
+        }
+    ],
+    "seller": {
+        "address": "96945 Blair Mall Lake Kristenborough, MA 10742"
+    },
+    "tax": {
+        "base_ht": 132.05,
+        "regulations": 23.32,
+        "total_ht": 118.07,
+        "vat_amount": 101.27,
+        "vat_percentage": 11.71
+    }
+}

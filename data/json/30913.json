@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "36401 Stephen Fall Johnsontown, IA 95691",
+        "company_name": "Allen-Flynn",
+        "country": "Aruba",
+        "email": "nandersen@example.com",
+        "name": "Jeremy Hickman",
+        "phone": "4733246064",
+        "vat_no": "my53753925705"
+    },
+    "invoice": {
+        "date": "10.03.2016",
+        "due_date": "13.08.1992",
+        "linked_invoice": "Kh-7720-5723",
+        "notes": "strategize global web-readiness",
+        "number": "ns-7003-5009"
+    },
+    "products": [
+        {
+            "description": "target rich systems",
+            "discount_percentage": 9.58,
+            "price": 130.05,
+            "quantity": 2.63,
+            "unit_price": 84.9
+        },
+        {
+            "description": "drive real-time experiences",
+            "discount_percentage": 11.77,
+            "price": 426.51,
+            "quantity": 1.72,
+            "unit_price": 20.73
+        },
+        {
+            "description": "deploy enterprise applications",
+            "discount_percentage": 16.27,
+            "price": 205.41,
+            "quantity": 8.76,
+            "unit_price": 70.16
+        },
+        {
+            "description": "unleash front-end users",
+            "discount_percentage": 16.22,
+            "price": 395.97,
+            "quantity": 5.57,
+            "unit_price": 66.47
+        }
+    ],
+    "seller": {
+        "address": "Unit 4292 Box 6323 DPO AE 89509",
+        "ape": "0285s",
+        "capital": 21474057,
+        "country": "Palau",
+        "email": "sarah09@example.com",
+        "name": "Tina Jones",
+        "phone_1": "654-533-8458x2538",
+        "phone_2": "001-582-320-2008",
+        "phone_3": "001-488-827-2770x75856",
+        "ref_walk": "fSyh0648",
+        "reference": "DW856",
+        "siret": 83740362837537,
+        "vat_no": "TZ86729237076",
+        "website": "https://www.may.org/"
+    },
+    "tax": {
+        "amount_0": 27.4,
+        "amount_1": 12.09,
+        "base_0": 22.9,
+        "base_1": 256.25,
+        "total_ht": 428.37,
+        "total_tax": 15.38,
+        "total_ttc": 230.78,
+        "vat_0": 11.36,
+        "vat_1": 18.55
+    }
+}

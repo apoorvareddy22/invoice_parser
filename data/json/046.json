@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "551 John Trafficway Careychester, CA 36563",
+        "company_name": "Sims Group",
+        "country": "Nepal",
+        "name": "Lisa Manning"
+    },
+    "invoice": {
+        "date": "17.01.1999",
+        "number": 378003
+    },
+    "payment": {
+        "discount_amount": 18.36,
+        "discount_percentage": 10.59,
+        "due": 180.21,
+        "sub_total": 40.79,
+        "total": 992.23
+    },
+    "products": [
+        {
+            "description": "innovate intuitive paradigms",
+            "index": "9",
+            "quantity": 9.36,
+            "total_price": 299.05,
+            "unit_price": 16.49
+        },
+        {
+            "description": "optimize 24/7 e-business",
+            "index": "8",
+            "quantity": 2.64,
+            "total_price": 300.0,
+            "unit_price": 81.1
+        },
+        {
+            "description": "leverage back-end interfaces",
+            "index": "7",
+            "quantity": 2.45,
+            "total_price": 525.2,
+            "unit_price": 96.46
+        }
+    ],
+    "seller": {
+        "address": "006 Kenneth Rapids Suite 942 South Amandaton, WA 50881",
+        "company_name": "Obrien Inc",
+        "vat_no": "aX23680805178"
+    }
+}

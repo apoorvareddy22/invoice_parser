@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "49810 Justin Mountain Lake Sarah, DE 87562",
+        "company_name": "Turner, Miller and Gardner",
+        "email": "natashajames@example.org",
+        "name": "Kristin Roberts",
+        "phone": "9018021714"
+    },
+    "invoice": {
+        "date": "22.10.1990",
+        "due_date": "19.02.2012",
+        "number": "pYO47592795320"
+    },
+    "payment": {
+        "account_number": 2081635329,
+        "bank_name": "Baird PLC",
+        "routing_number": 954258213
+    },
+    "products": [
+        {
+            "amount": 123.0,
+            "description": "maximize cross-media e-business",
+            "index": "4",
+            "quantity": 6.26,
+            "unit_price": 56.98
+        },
+        {
+            "amount": 34.33,
+            "description": "integrate innovative technologies",
+            "index": "7",
+            "quantity": 4.01,
+            "unit_price": 22.38
+        },
+        {
+            "amount": 10.3,
+            "description": "re-intermediate end-to-end partnerships",
+            "index": "6",
+            "quantity": 5.72,
+            "unit_price": 61.05
+        },
+        {
+            "amount": 232.7,
+            "description": "integrate scalable supply-chains",
+            "index": "2",
+            "quantity": 1.03,
+            "unit_price": 18.72
+        }
+    ],
+    "seller": {
+        "address": "9806 Garner Villages West Glennberg, OK 24620",
+        "company_name": "Sutton Ltd",
+        "email": "jcochran@example.org"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "47528 Laura Points Apt. 652 Lake Matthew, NH 27550",
+        "business_no": "sh843",
+        "id": "SN992"
+    },
+    "invoice": {
+        "date": "23.07.1997",
+        "number": "7340-2955"
+    },
+    "payment": {
+        "due_date": "28.04.2004",
+        "total": 291.27
+    },
+    "products": [
+        {
+            "amount": 373.29,
+            "description": "implement ubiquitous vortals",
+            "quantity": 9.97,
+            "reference": "ZF-397",
+            "unit_price": 80.64
+        }
+    ],
+    "seller": {
+        "address": "9902 Edwards Harbor Frederickville, AZ 73854"
+    },
+    "tax": {
+        "base_ht": 257.65,
+        "regulations": 14.26,
+        "total_ht": 357.24,
+        "vat_amount": 176.93,
+        "vat_percentage": 10.43
+    }
+}

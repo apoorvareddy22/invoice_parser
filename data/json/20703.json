@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "406 James Islands Apt. 337 New Sierrachester, ID 44482",
+        "company_name": "Moses Ltd",
+        "email": "jacobhernandez@example.org",
+        "name": "Eric Clark",
+        "phone": "(713)340-7744x02961"
+    },
+    "invoice": {
+        "date": "06.03.1999",
+        "due_date": "04.12.2010",
+        "number": "tyv80824801153"
+    },
+    "payment": {
+        "account_number": 5932613145,
+        "bank_name": "Larson Ltd",
+        "routing_number": 189881025
+    },
+    "products": [
+        {
+            "amount": 97.73,
+            "description": "transform web-enabled experiences",
+            "index": "1",
+            "quantity": 3.88,
+            "unit_price": 73.81
+        }
+    ],
+    "seller": {
+        "address": "394 Freeman Inlet Apt. 632 Lake Debramouth, PW 31962",
+        "company_name": "Powell, Moreno and Johnson",
+        "email": "priscillalynch@example.net"
+    }
+}

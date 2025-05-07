@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "84387 Chang Branch New Jonathantown, MO 86358",
+        "company_name": "Horn PLC",
+        "email": "joshuajohnson@example.org",
+        "name": "Robert Morales",
+        "phone": "854-648-4792x5267"
+    },
+    "invoice": {
+        "date": "08.02.2019",
+        "due_date": "17.07.2004",
+        "number": "iDE85832416053"
+    },
+    "payment": {
+        "account_number": 4570270401,
+        "bank_name": "Krueger Group",
+        "routing_number": 395560597
+    },
+    "products": [
+        {
+            "amount": 396.14,
+            "description": "streamline 24/7 supply-chains",
+            "index": "3",
+            "quantity": 8.96,
+            "unit_price": 68.52
+        },
+        {
+            "amount": 193.6,
+            "description": "drive out-of-the-box synergies",
+            "index": "7",
+            "quantity": 8.31,
+            "unit_price": 14.15
+        }
+    ],
+    "seller": {
+        "address": "96486 Emily Row Johnborough, ME 86326",
+        "company_name": "Bruce Group",
+        "email": "ycrawford@example.net"
+    }
+}

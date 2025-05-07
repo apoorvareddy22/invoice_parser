@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "097 Kevin Way Suite 771 New Sarahview, DE 11702",
+        "id": "yj794"
+    },
+    "invoice": {
+        "bc_no": "WF95192",
+        "currency_code": "UAH",
+        "date": "19.08.1995",
+        "due_date": "29.02.2004",
+        "number": 945846
+    },
+    "payment": {
+        "bank_name": "Gilbert-Nguyen",
+        "bic": "RLEKGBW5ZUO",
+        "iban": "ENXW99491819296312"
+    },
+    "products": [
+        {
+            "amount": 191.03,
+            "description": "transform out-of-the-box deliverables",
+            "index": "9",
+            "price": 99.98,
+            "quantity": 6.5,
+            "tax_amount": 54.09,
+            "total_ttc": 283.76,
+            "vat_amount": 2.57
+        },
+        {
+            "amount": 104.83,
+            "description": "integrate cross-media metrics",
+            "index": "7",
+            "price": 403.47,
+            "quantity": 4.42,
+            "tax_amount": 95.04,
+            "total_ttc": 195.91,
+            "vat_amount": 5.57
+        },
+        {
+            "amount": 12.46,
+            "description": "matrix proactive deliverables",
+            "index": "8",
+            "price": 20.42,
+            "quantity": 4.89,
+            "tax_amount": 78.32,
+            "total_ttc": 209.88,
+            "vat_amount": 6.04
+        },
+        {
+            "amount": 150.93,
+            "description": "generate open-source communities",
+            "index": "6",
+            "price": 294.14,
+            "quantity": 3.84,
+            "tax_amount": 47.96,
+            "total_ttc": 326.44,
+            "vat_amount": 4.92
+        },
+        {
+            "amount": 308.11,
+            "description": "drive synergistic e-commerce",
+            "index": "2",
+            "price": 394.52,
+            "quantity": 6.69,
+            "tax_amount": 88.63,
+            "total_ttc": 259.51,
+            "vat_amount": 15.67
+        }
+    ],
+    "seller": {
+        "name": "Alejandro Castillo"
+    },
+    "supplier": {
+        "address": "631 Michael Knolls Lake Cynthia, SC 47704",
+        "name": "Lisa Reid"
+    },
+    "tax": {
+        "amount_excluding_tax": 81.56,
+        "amount_including_tax": 94.11,
+        "tax_amount": 28.09,
+        "total_ht": 196.43,
+        "total_ttc": 225.26
+    }
+}

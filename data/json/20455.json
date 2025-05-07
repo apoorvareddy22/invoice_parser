@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "221 Julie Groves Apt. 060 Alexafurt, KY 16463",
+        "company_name": "Graham, Adkins and Adams",
+        "email": "heathersims@example.org",
+        "name": "Stephanie Vega",
+        "phone": "322.574.3872"
+    },
+    "invoice": {
+        "date": "14.07.1996",
+        "due_date": "01.07.2016",
+        "number": "Fhq13885274130"
+    },
+    "payment": {
+        "account_number": 8930505317,
+        "bank_name": "Ramirez and Sons",
+        "routing_number": 304371187
+    },
+    "products": [
+        {
+            "amount": 411.67,
+            "description": "leverage world-class experiences",
+            "index": "1",
+            "quantity": 5.03,
+            "unit_price": 75.48
+        },
+        {
+            "amount": 377.23,
+            "description": "revolutionize back-end methodologies",
+            "index": "6",
+            "quantity": 9.17,
+            "unit_price": 59.56
+        }
+    ],
+    "seller": {
+        "address": "7840 Montgomery Haven Apt. 050 Port Stephanie, IL 66926",
+        "company_name": "Jones-Johnson",
+        "email": "williamswesley@example.com"
+    }
+}

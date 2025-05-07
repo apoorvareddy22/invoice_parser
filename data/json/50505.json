@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "451 Justin Crossing Laurabury, NM 28148",
+        "id": "NX805"
+    },
+    "invoice": {
+        "bc_no": "jJ11865",
+        "currency_code": "XDR",
+        "date": "17.01.1992",
+        "due_date": "24.10.2010",
+        "number": 727213
+    },
+    "payment": {
+        "bank_name": "Simon LLC",
+        "bic": "VYPYGB94UJF",
+        "iban": "KEQN29953985322155"
+    },
+    "products": [
+        {
+            "amount": 149.24,
+            "description": "aggregate visionary networks",
+            "index": "8",
+            "price": 169.39,
+            "quantity": 7.13,
+            "tax_amount": 81.42,
+            "total_ttc": 441.11,
+            "vat_amount": 0.38
+        }
+    ],
+    "seller": {
+        "name": "Kevin Taylor"
+    },
+    "supplier": {
+        "address": "294 Samantha Light Apt. 681 Andersonfurt, CO 82970",
+        "name": "Keith Allen"
+    },
+    "tax": {
+        "amount_excluding_tax": 131.44,
+        "amount_including_tax": 118.73,
+        "tax_amount": 10.55,
+        "total_ht": 460.56,
+        "total_ttc": 254.71
+    }
+}

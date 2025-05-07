@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "Unit 9197 Box 0025 DPO AP 30275",
+        "email": "lcunningham@example.com",
+        "phone": "5615572538",
+        "vat_no": "fS57986138922"
+    },
+    "invoice": {
+        "date": "28.09.2021",
+        "due_date": "28.10.1995",
+        "market_reference": 312026,
+        "notes": "iterate user-centric relationships",
+        "number": "1768-4932",
+        "reference": 682832,
+        "vat_no": "fl67772551024"
+    },
+    "payment": {
+        "net_total": 96.1,
+        "total": 832.36
+    },
+    "products": [
+        {
+            "amount": 435.32,
+            "description": "redefine revolutionary e-commerce",
+            "hours": 5.14,
+            "rate": 6.4
+        }
+    ],
+    "seller": {
+        "address": "Unit 2986 Box 6069 DPO AP 48185",
+        "email": "wmccullough@example.com",
+        "name": "Stacy Dickson"
+    },
+    "tax": {
+        "base": 22.07,
+        "tax_amount": 10.35,
+        "total_tax": 12.67
+    }
+}

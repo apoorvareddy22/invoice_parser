@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "212 Vargas Parks Cynthiaview, TN 74573",
+        "company_name": "Hines, Hoover and Matthews",
+        "email": "rking@example.org",
+        "name": "Lynn Rogers",
+        "phone": "(712)719-7720"
+    },
+    "invoice": {
+        "date": "18.12.2006",
+        "due_date": "11.11.2010",
+        "number": "XnX05607800430"
+    },
+    "payment": {
+        "account_number": 4660435970,
+        "bank_name": "Klein-Rodgers",
+        "routing_number": 135102420
+    },
+    "products": [
+        {
+            "amount": 277.36,
+            "description": "leverage B2C initiatives",
+            "index": "7",
+            "quantity": 2.88,
+            "unit_price": 68.79
+        },
+        {
+            "amount": 17.81,
+            "description": "strategize global initiatives",
+            "index": "2",
+            "quantity": 8.43,
+            "unit_price": 52.09
+        },
+        {
+            "amount": 271.25,
+            "description": "productize value-added infrastructures",
+            "index": "9",
+            "quantity": 1.25,
+            "unit_price": 86.9
+        },
+        {
+            "amount": 267.81,
+            "description": "incentivize best-of-breed experiences",
+            "index": "8",
+            "quantity": 3.0,
+            "unit_price": 31.6
+        }
+    ],
+    "seller": {
+        "address": "69870 Gregory Trail Apt. 061 New Amandafort, PA 57399",
+        "company_name": "Roberts, Lewis and Rodriguez",
+        "email": "tiffany26@example.org"
+    }
+}

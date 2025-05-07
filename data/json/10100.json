@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "13470 Smith Manor Myersview, OK 80099",
+        "email": "ashleyhanson@example.com",
+        "phone": "742.974.9778x30711",
+        "vat_no": "aI84415883802"
+    },
+    "invoice": {
+        "date": "26.08.1995",
+        "due_date": "27.05.2016",
+        "market_reference": 982748,
+        "notes": "enhance compelling models",
+        "number": "0848-9789",
+        "reference": 301455,
+        "vat_no": "YJ32696968341"
+    },
+    "payment": {
+        "net_total": 55.16,
+        "total": 674.69
+    },
+    "products": [
+        {
+            "amount": 386.87,
+            "description": "repurpose frictionless partnerships",
+            "hours": 2.57,
+            "rate": 9.72
+        },
+        {
+            "amount": 61.34,
+            "description": "leverage holistic e-commerce",
+            "hours": 6.76,
+            "rate": 8.89
+        }
+    ],
+    "seller": {
+        "address": "9372 Richard Forest Crawfordberg, DE 67442",
+        "email": "joneschristopher@example.org",
+        "name": "Michael Bowen"
+    },
+    "tax": {
+        "base": 26.71,
+        "tax_amount": 13.74,
+        "total_tax": 17.48
+    }
+}

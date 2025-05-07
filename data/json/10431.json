@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "65562 King Locks Connietown, WY 82327",
+        "email": "walter55@example.net",
+        "phone": "8294454363",
+        "vat_no": "UK61261789239"
+    },
+    "invoice": {
+        "date": "03.04.2017",
+        "due_date": "04.10.2020",
+        "market_reference": 817377,
+        "notes": "orchestrate granular solutions",
+        "number": "5027-9833",
+        "reference": 449462,
+        "vat_no": "Uf51839125399"
+    },
+    "payment": {
+        "net_total": 90.76,
+        "total": 733.78
+    },
+    "products": [
+        {
+            "amount": 168.39,
+            "description": "harness next-generation synergies",
+            "hours": 5.26,
+            "rate": 2.8
+        },
+        {
+            "amount": 304.2,
+            "description": "architect strategic mindshare",
+            "hours": 8.49,
+            "rate": 3.31
+        }
+    ],
+    "seller": {
+        "address": "8871 Stacie Square Lake Charlesberg, MP 59077",
+        "email": "robert67@example.com",
+        "name": "Cristian Carter"
+    },
+    "tax": {
+        "base": 25.49,
+        "tax_amount": 17.04,
+        "total_tax": 29.39
+    }
+}

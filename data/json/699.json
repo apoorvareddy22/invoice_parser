@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "7037 Michelle Circles Suite 658 Lake Aaron, IN 63349",
+        "company_name": "Sharp Ltd",
+        "country": "Norfolk Island",
+        "name": "Kelly Smith"
+    },
+    "invoice": {
+        "date": "21.09.2021",
+        "number": 799176
+    },
+    "payment": {
+        "discount_amount": 33.68,
+        "discount_percentage": 7.68,
+        "due": 145.38,
+        "sub_total": 141.14,
+        "total": 497.06
+    },
+    "products": [
+        {
+            "description": "engage end-to-end relationships",
+            "index": "3",
+            "quantity": 2.94,
+            "total_price": 298.2,
+            "unit_price": 34.63
+        },
+        {
+            "description": "brand 24/365 web services",
+            "index": "7",
+            "quantity": 9.57,
+            "total_price": 814.46,
+            "unit_price": 23.25
+        },
+        {
+            "description": "revolutionize efficient ROI",
+            "index": "6",
+            "quantity": 4.19,
+            "total_price": 377.58,
+            "unit_price": 31.08
+        },
+        {
+            "description": "disintermediate rich methodologies",
+            "index": "1",
+            "quantity": 6.94,
+            "total_price": 744.43,
+            "unit_price": 68.72
+        }
+    ],
+    "seller": {
+        "address": "64494 Massey Common South Raymond, AR 03062",
+        "company_name": "Goodwin, Howard and Smith",
+        "vat_no": "BI31891475387"
+    }
+}

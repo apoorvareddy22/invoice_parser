@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "5123 Judy Forks Apt. 895 Glovermouth, ME 77490",
+        "id": "Wg644"
+    },
+    "invoice": {
+        "bc_no": "Fm04869",
+        "currency_code": "UGX",
+        "date": "04.12.2009",
+        "due_date": "14.09.2010",
+        "number": 213957
+    },
+    "payment": {
+        "bank_name": "Shea Inc",
+        "bic": "UOKFGB4H",
+        "iban": "MBVR23625653002486"
+    },
+    "products": [
+        {
+            "amount": 249.16,
+            "description": "extend out-of-the-box partnerships",
+            "index": "3",
+            "price": 272.17,
+            "quantity": 9.19,
+            "tax_amount": 96.03,
+            "total_ttc": 488.26,
+            "vat_amount": 3.55
+        },
+        {
+            "amount": 138.57,
+            "description": "integrate robust partnerships",
+            "index": "10",
+            "price": 343.36,
+            "quantity": 4.1,
+            "tax_amount": 65.72,
+            "total_ttc": 155.67,
+            "vat_amount": 4.81
+        },
+        {
+            "amount": 134.51,
+            "description": "drive bleeding-edge e-services",
+            "index": "7",
+            "price": 440.66,
+            "quantity": 1.18,
+            "tax_amount": 38.87,
+            "total_ttc": 146.82,
+            "vat_amount": 7.87
+        },
+        {
+            "amount": 262.43,
+            "description": "maximize out-of-the-box functionalities",
+            "index": "2",
+            "price": 89.03,
+            "quantity": 8.46,
+            "tax_amount": 18.86,
+            "total_ttc": 406.96,
+            "vat_amount": 0.68
+        },
+        {
+            "amount": 207.01,
+            "description": "mesh real-time supply-chains",
+            "index": "9",
+            "price": 296.83,
+            "quantity": 3.62,
+            "tax_amount": 19.24,
+            "total_ttc": 177.8,
+            "vat_amount": 3.85
+        }
+    ],
+    "seller": {
+        "name": "Kimberly Roberts"
+    },
+    "supplier": {
+        "address": "534 Carter Plains Suite 819 Port Briannaview, KY 60071",
+        "name": "Justin Williams"
+    },
+    "tax": {
+        "amount_excluding_tax": 97.09,
+        "amount_including_tax": 98.89,
+        "tax_amount": 29.39,
+        "total_ht": 424.77,
+        "total_ttc": 173.67
+    }
+}

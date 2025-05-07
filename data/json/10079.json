@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "3340 Johnson Causeway Suite 357 Changview, OH 03918",
+        "email": "ccrawford@example.com",
+        "phone": "+1-354-884-3059x657",
+        "vat_no": "Fs43086598376"
+    },
+    "invoice": {
+        "date": "11.03.2000",
+        "due_date": "13.01.2011",
+        "market_reference": 598976,
+        "notes": "utilize cross-platform e-services",
+        "number": "0117-5997",
+        "reference": 470546,
+        "vat_no": "Gi13836499717"
+    },
+    "payment": {
+        "net_total": 123.65,
+        "total": 137.05
+    },
+    "products": [
+        {
+            "amount": 383.44,
+            "description": "iterate efficient methodologies",
+            "hours": 3.33,
+            "rate": 3.79
+        },
+        {
+            "amount": 401.71,
+            "description": "transform virtual networks",
+            "hours": 6.54,
+            "rate": 2.6
+        }
+    ],
+    "seller": {
+        "address": "502 Gabriel Key Apt. 146 Elliotttown, WV 62216",
+        "email": "petersonjodi@example.org",
+        "name": "Amber Hays"
+    },
+    "tax": {
+        "base": 11.57,
+        "tax_amount": 14.23,
+        "total_tax": 12.64
+    }
+}

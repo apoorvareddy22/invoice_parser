@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "PSC 2583, Box 5305 APO AE 86654",
+        "email": "willie09@example.org",
+        "phone": "662.672.6792",
+        "vat_no": "Iv06256437652"
+    },
+    "invoice": {
+        "date": "27.08.2008",
+        "due_date": "01.08.1997",
+        "market_reference": 521623,
+        "notes": "monetize frictionless architectures",
+        "number": "8128-5460",
+        "reference": 628098,
+        "vat_no": "nV53443650184"
+    },
+    "payment": {
+        "net_total": 74.81,
+        "total": 625.55
+    },
+    "products": [
+        {
+            "amount": 107.2,
+            "description": "engineer cutting-edge portals",
+            "hours": 9.84,
+            "rate": 4.02
+        },
+        {
+            "amount": 317.17,
+            "description": "deploy real-time platforms",
+            "hours": 8.27,
+            "rate": 4.81
+        },
+        {
+            "amount": 124.24,
+            "description": "e-enable granular communities",
+            "hours": 4.37,
+            "rate": 1.37
+        },
+        {
+            "amount": 483.2,
+            "description": "innovate wireless web services",
+            "hours": 4.29,
+            "rate": 6.04
+        },
+        {
+            "amount": 361.78,
+            "description": "seize scalable content",
+            "hours": 3.7,
+            "rate": 1.97
+        },
+        {
+            "amount": 391.3,
+            "description": "envisioneer front-end ROI",
+            "hours": 4.12,
+            "rate": 3.13
+        }
+    ],
+    "seller": {
+        "address": "3741 Shelly Ramp West Christopherhaven, VI 89122",
+        "email": "jmoss@example.org",
+        "name": "Sara Greene"
+    },
+    "tax": {
+        "base": 19.89,
+        "tax_amount": 20.86,
+        "total_tax": 29.21
+    }
+}

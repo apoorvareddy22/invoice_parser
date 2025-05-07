@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "USNV Bush FPO AE 88528",
+        "email": "kimberlywilkinson@example.com",
+        "phone": "553-425-8730x0597",
+        "vat_no": "wj46355732871"
+    },
+    "invoice": {
+        "date": "29.06.2019",
+        "due_date": "15.07.2010",
+        "market_reference": 940912,
+        "notes": "harness mission-critical supply-chains",
+        "number": "0818-7351",
+        "reference": 348004,
+        "vat_no": "PI67059022983"
+    },
+    "payment": {
+        "net_total": 43.27,
+        "total": 560.38
+    },
+    "products": [
+        {
+            "amount": 361.83,
+            "description": "mesh visionary platforms",
+            "hours": 7.52,
+            "rate": 1.58
+        },
+        {
+            "amount": 384.34,
+            "description": "synthesize one-to-one technologies",
+            "hours": 1.02,
+            "rate": 2.53
+        },
+        {
+            "amount": 34.4,
+            "description": "benchmark frictionless schemas",
+            "hours": 2.26,
+            "rate": 5.13
+        },
+        {
+            "amount": 224.22,
+            "description": "architect mission-critical eyeballs",
+            "hours": 7.64,
+            "rate": 2.93
+        },
+        {
+            "amount": 390.4,
+            "description": "e-enable dynamic ROI",
+            "hours": 3.05,
+            "rate": 6.07
+        },
+        {
+            "amount": 182.58,
+            "description": "aggregate mission-critical solutions",
+            "hours": 5.46,
+            "rate": 2.08
+        }
+    ],
+    "seller": {
+        "address": "8169 Figueroa Canyon Suite 281 Sarahton, WY 65331",
+        "email": "dallen@example.org",
+        "name": "Derrick Murphy"
+    },
+    "tax": {
+        "base": 25.3,
+        "tax_amount": 21.95,
+        "total_tax": 10.65
+    }
+}

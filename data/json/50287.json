@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "71908 Martin Roads East Dariushaven, MH 23482",
+        "id": "xY488"
+    },
+    "invoice": {
+        "bc_no": "Xm25008",
+        "currency_code": "MWK",
+        "date": "04.08.2008",
+        "due_date": "27.05.2001",
+        "number": 254093
+    },
+    "payment": {
+        "bank_name": "Collins-Lewis",
+        "bic": "OMWFGB64EUN",
+        "iban": "SABP95183829795422"
+    },
+    "products": [
+        {
+            "amount": 122.45,
+            "description": "benchmark innovative convergence",
+            "index": "5",
+            "price": 202.16,
+            "quantity": 6.82,
+            "tax_amount": 56.41,
+            "total_ttc": 164.39,
+            "vat_amount": 16.35
+        },
+        {
+            "amount": 18.58,
+            "description": "exploit transparent experiences",
+            "index": "7",
+            "price": 235.78,
+            "quantity": 7.96,
+            "tax_amount": 84.99,
+            "total_ttc": 268.46,
+            "vat_amount": 0.08
+        },
+        {
+            "amount": 69.95,
+            "description": "syndicate compelling applications",
+            "index": "8",
+            "price": 92.15,
+            "quantity": 5.15,
+            "tax_amount": 25.63,
+            "total_ttc": 317.01,
+            "vat_amount": 2.71
+        },
+        {
+            "amount": 467.0,
+            "description": "mesh 24/7 applications",
+            "index": "7",
+            "price": 77.87,
+            "quantity": 2.03,
+            "tax_amount": 54.71,
+            "total_ttc": 357.19,
+            "vat_amount": 11.36
+        }
+    ],
+    "seller": {
+        "name": "Cameron Hansen"
+    },
+    "supplier": {
+        "address": "44224 Vicki Radial Port Kevinstad, ND 54711",
+        "name": "Pamela Knox"
+    },
+    "tax": {
+        "amount_excluding_tax": 16.88,
+        "amount_including_tax": 59.27,
+        "tax_amount": 28.83,
+        "total_ht": 372.87,
+        "total_ttc": 381.02
+    }
+}

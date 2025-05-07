@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "PSC 9370, Box 0967 APO AE 70323"
+    },
+    "invoice": {
+        "bc_no": "JK34925",
+        "date": "16.08.1999",
+        "maturity_date": "23.03.2023",
+        "number": 265359
+    },
+    "products": [
+        {
+            "amount": 391.45,
+            "description": "reinvent collaborative users",
+            "quantity": 3.04,
+            "unit_price": 15.12,
+            "vat_amount": 2.58
+        },
+        {
+            "amount": 434.29,
+            "description": "matrix efficient ROI",
+            "quantity": 9.08,
+            "unit_price": 30.49,
+            "vat_amount": 8.34
+        }
+    ],
+    "seller": {
+        "address": "78446 Miller Forges Suite 814 Robinsonmouth, VI 36782"
+    },
+    "tax": {
+        "amount_excluding_tax": 164.49,
+        "amount_including_tax": 56.11,
+        "tax_amount": 13.51
+    }
+}

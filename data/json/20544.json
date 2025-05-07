@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "5294 Kaufman Isle Suite 900 Lake Ronaldview, ND 86616",
+        "company_name": "Oconnor and Sons",
+        "email": "janiceclark@example.org",
+        "name": "Brianna Wilson",
+        "phone": "462.462.1953x030"
+    },
+    "invoice": {
+        "date": "04.01.2006",
+        "due_date": "10.08.2012",
+        "number": "TQM39947033720"
+    },
+    "payment": {
+        "account_number": 5000534256,
+        "bank_name": "Williams, Shannon and Robinson",
+        "routing_number": 440263312
+    },
+    "products": [
+        {
+            "amount": 228.43,
+            "description": "brand rich ROI",
+            "index": "10",
+            "quantity": 4.69,
+            "unit_price": 73.67
+        },
+        {
+            "amount": 322.5,
+            "description": "whiteboard dot-com e-business",
+            "index": "10",
+            "quantity": 4.28,
+            "unit_price": 35.6
+        },
+        {
+            "amount": 376.01,
+            "description": "re-intermediate real-time platforms",
+            "index": "5",
+            "quantity": 4.48,
+            "unit_price": 23.36
+        },
+        {
+            "amount": 414.22,
+            "description": "synergize killer markets",
+            "index": "6",
+            "quantity": 2.01,
+            "unit_price": 36.19
+        },
+        {
+            "amount": 338.51,
+            "description": "grow impactful communities",
+            "index": "4",
+            "quantity": 4.62,
+            "unit_price": 64.95
+        }
+    ],
+    "seller": {
+        "address": "42386 Mallory Roads Joshuashire, AL 09229",
+        "company_name": "Morgan, Green and Miller",
+        "email": "savannahbrown@example.com"
+    }
+}

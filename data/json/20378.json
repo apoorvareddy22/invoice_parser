@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "37489 Danny Circles Catherineland, SC 04979",
+        "company_name": "Clark LLC",
+        "email": "calderonaaron@example.com",
+        "name": "Rhonda Reid",
+        "phone": "(405)997-4753"
+    },
+    "invoice": {
+        "date": "23.10.1994",
+        "due_date": "08.11.2013",
+        "number": "VMn33652988008"
+    },
+    "payment": {
+        "account_number": 7047049297,
+        "bank_name": "Nunez, Arias and Holloway",
+        "routing_number": 793244052
+    },
+    "products": [
+        {
+            "amount": 464.68,
+            "description": "envisioneer seamless schemas",
+            "index": "1",
+            "quantity": 4.4,
+            "unit_price": 83.73
+        },
+        {
+            "amount": 65.25,
+            "description": "drive robust ROI",
+            "index": "3",
+            "quantity": 1.78,
+            "unit_price": 52.82
+        },
+        {
+            "amount": 255.17,
+            "description": "leverage viral e-business",
+            "index": "9",
+            "quantity": 4.78,
+            "unit_price": 10.18
+        },
+        {
+            "amount": 155.15,
+            "description": "innovate enterprise technologies",
+            "index": "5",
+            "quantity": 6.7,
+            "unit_price": 81.65
+        },
+        {
+            "amount": 461.58,
+            "description": "disintermediate front-end convergence",
+            "index": "8",
+            "quantity": 4.89,
+            "unit_price": 82.2
+        }
+    ],
+    "seller": {
+        "address": "Unit 3442 Box 6822 DPO AP 89822",
+        "company_name": "Cisneros-Cervantes",
+        "email": "cindytaylor@example.org"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "965 Mcfarland Squares Suite 846 Williamsborough, GU 58960"
+    },
+    "invoice": {
+        "bc_no": "rC86090",
+        "date": "28.12.1998",
+        "maturity_date": "12.10.2008",
+        "number": 189364
+    },
+    "products": [
+        {
+            "amount": 379.33,
+            "description": "harness sticky portals",
+            "quantity": 5.43,
+            "unit_price": 19.76,
+            "vat_amount": 3.05
+        },
+        {
+            "amount": 479.92,
+            "description": "disintermediate frictionless platforms",
+            "quantity": 5.29,
+            "unit_price": 50.88,
+            "vat_amount": 5.43
+        },
+        {
+            "amount": 42.67,
+            "description": "whiteboard value-added channels",
+            "quantity": 4.99,
+            "unit_price": 77.37,
+            "vat_amount": 1.45
+        }
+    ],
+    "seller": {
+        "address": "44515 Christina Forks Willishaven, TN 42236"
+    },
+    "tax": {
+        "amount_excluding_tax": 54.0,
+        "amount_including_tax": 188.01,
+        "tax_amount": 27.33
+    }
+}

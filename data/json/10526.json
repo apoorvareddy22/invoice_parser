@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "5876 Kennedy Dam Suite 123 East Charlesside, IN 34387",
+        "email": "xjohnson@example.org",
+        "phone": "7589201408",
+        "vat_no": "Ty86472795608"
+    },
+    "invoice": {
+        "date": "01.02.2004",
+        "due_date": "13.03.2010",
+        "market_reference": 801036,
+        "notes": "seize 24/7 channels",
+        "number": "7908-7585",
+        "reference": 578897,
+        "vat_no": "UV91126397755"
+    },
+    "payment": {
+        "net_total": 43.1,
+        "total": 613.51
+    },
+    "products": [
+        {
+            "amount": 190.6,
+            "description": "iterate wireless infrastructures",
+            "hours": 3.3,
+            "rate": 4.86
+        },
+        {
+            "amount": 300.85,
+            "description": "streamline out-of-the-box users",
+            "hours": 6.42,
+            "rate": 8.21
+        },
+        {
+            "amount": 235.46,
+            "description": "enhance ubiquitous e-markets",
+            "hours": 3.82,
+            "rate": 2.97
+        },
+        {
+            "amount": 122.42,
+            "description": "unleash viral niches",
+            "hours": 4.35,
+            "rate": 3.14
+        }
+    ],
+    "seller": {
+        "address": "8243 Paul Loop New Thomaschester, TX 89807",
+        "email": "boyddustin@example.com",
+        "name": "Katherine Dorsey"
+    },
+    "tax": {
+        "base": 10.13,
+        "tax_amount": 26.75,
+        "total_tax": 19.32
+    }
+}

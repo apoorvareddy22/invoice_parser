@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "PSC 5819, Box 8711 APO AE 99613",
+        "email": "wendyhuff@example.net",
+        "phone": "+1-442-449-7745x6197",
+        "vat_no": "IR36476992498"
+    },
+    "invoice": {
+        "date": "18.04.1995",
+        "due_date": "06.05.1996",
+        "market_reference": 688547,
+        "notes": "disintermediate open-source bandwidth",
+        "number": "9099-4270",
+        "reference": 113230,
+        "vat_no": "wL21016775288"
+    },
+    "payment": {
+        "net_total": 184.85,
+        "total": 409.26
+    },
+    "products": [
+        {
+            "amount": 342.35,
+            "description": "benchmark turn-key technologies",
+            "hours": 9.06,
+            "rate": 2.85
+        },
+        {
+            "amount": 472.38,
+            "description": "whiteboard world-class bandwidth",
+            "hours": 2.11,
+            "rate": 7.22
+        }
+    ],
+    "seller": {
+        "address": "62029 Sanchez Village Michaelberg, FM 81546",
+        "email": "nathan98@example.com",
+        "name": "Ryan Bowman"
+    },
+    "tax": {
+        "base": 10.89,
+        "tax_amount": 13.78,
+        "total_tax": 16.92
+    }
+}

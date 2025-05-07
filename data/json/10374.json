@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "58500 Jose Fords Apt. 928 Peterschester, AZ 61332",
+        "email": "qwilliams@example.com",
+        "phone": "+1-958-559-1625x642",
+        "vat_no": "YY24640563563"
+    },
+    "invoice": {
+        "date": "01.01.2020",
+        "due_date": "20.07.2007",
+        "market_reference": 401656,
+        "notes": "synergize web-enabled schemas",
+        "number": "3722-6921",
+        "reference": 176907,
+        "vat_no": "Mg43000437054"
+    },
+    "payment": {
+        "net_total": 87.62,
+        "total": 382.58
+    },
+    "products": [
+        {
+            "amount": 381.62,
+            "description": "expedite next-generation web services",
+            "hours": 6.76,
+            "rate": 8.13
+        },
+        {
+            "amount": 217.37,
+            "description": "re-intermediate visionary deliverables",
+            "hours": 4.25,
+            "rate": 1.63
+        }
+    ],
+    "seller": {
+        "address": "USNS Christensen FPO AP 11096",
+        "email": "daniel31@example.net",
+        "name": "Alyssa Stevens"
+    },
+    "tax": {
+        "base": 26.7,
+        "tax_amount": 10.17,
+        "total_tax": 18.33
+    }
+}

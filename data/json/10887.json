@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "7029 Nicholas Garden New Penny, MI 00944",
+        "email": "cameronhendricks@example.net",
+        "phone": "001-252-308-4822",
+        "vat_no": "ea76569822750"
+    },
+    "invoice": {
+        "date": "03.10.2018",
+        "due_date": "15.06.2011",
+        "market_reference": 435664,
+        "notes": "drive synergistic ROI",
+        "number": "2992-1193",
+        "reference": 467374,
+        "vat_no": "bc05811372108"
+    },
+    "payment": {
+        "net_total": 113.04,
+        "total": 704.89
+    },
+    "products": [
+        {
+            "amount": 60.7,
+            "description": "facilitate B2C applications",
+            "hours": 4.86,
+            "rate": 2.9
+        },
+        {
+            "amount": 322.97,
+            "description": "deploy plug-and-play applications",
+            "hours": 7.76,
+            "rate": 4.3
+        },
+        {
+            "amount": 281.96,
+            "description": "reinvent dot-com content",
+            "hours": 9.4,
+            "rate": 6.93
+        },
+        {
+            "amount": 433.76,
+            "description": "facilitate granular action-items",
+            "hours": 4.24,
+            "rate": 8.94
+        },
+        {
+            "amount": 110.5,
+            "description": "deploy cross-platform communities",
+            "hours": 1.56,
+            "rate": 6.27
+        },
+        {
+            "amount": 283.61,
+            "description": "iterate open-source paradigms",
+            "hours": 8.31,
+            "rate": 4.04
+        }
+    ],
+    "seller": {
+        "address": "4575 Murphy Prairie Amyland, NE 30874",
+        "email": "cochranvanessa@example.com",
+        "name": "Jeffrey Mercado"
+    },
+    "tax": {
+        "base": 17.24,
+        "tax_amount": 25.36,
+        "total_tax": 22.74
+    }
+}

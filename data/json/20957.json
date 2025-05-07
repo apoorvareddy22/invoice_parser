@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "5615 Emily Gateway Apt. 057 Nelsonfort, NM 86687",
+        "company_name": "Michael Group",
+        "email": "hmoore@example.com",
+        "name": "Kelly Cooper",
+        "phone": "+1-808-244-0586x82873"
+    },
+    "invoice": {
+        "date": "07.07.2018",
+        "due_date": "25.07.2000",
+        "number": "TiA51683468467"
+    },
+    "payment": {
+        "account_number": 7267323326,
+        "bank_name": "Sanders LLC",
+        "routing_number": 169028746
+    },
+    "products": [
+        {
+            "amount": 116.29,
+            "description": "drive efficient content",
+            "index": "10",
+            "quantity": 4.1,
+            "unit_price": 91.99
+        }
+    ],
+    "seller": {
+        "address": "89848 Kelly Wells South Anthonyville, FM 57217",
+        "company_name": "Simmons-Shepard",
+        "email": "mendozakimberly@example.org"
+    }
+}

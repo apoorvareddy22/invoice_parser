@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "42201 Franco Spurs New Sandramouth, NC 15996",
+        "business_no": "oX030",
+        "id": "NT564"
+    },
+    "invoice": {
+        "date": "17.05.1991",
+        "number": "4824-4697"
+    },
+    "payment": {
+        "due_date": "09.04.2016",
+        "total": 370.98
+    },
+    "products": [
+        {
+            "amount": 82.38,
+            "description": "revolutionize out-of-the-box web-readiness",
+            "quantity": 2.58,
+            "reference": "rt-038",
+            "unit_price": 37.71
+        },
+        {
+            "amount": 159.61,
+            "description": "cultivate dot-com technologies",
+            "quantity": 8.75,
+            "reference": "uK-529",
+            "unit_price": 34.67
+        },
+        {
+            "amount": 483.08,
+            "description": "synergize innovative action-items",
+            "quantity": 8.46,
+            "reference": "VF-273",
+            "unit_price": 11.9
+        }
+    ],
+    "seller": {
+        "address": "21082 Sharon Loop North Jenniferburgh, HI 83397"
+    },
+    "tax": {
+        "base_ht": 150.41,
+        "regulations": 13.82,
+        "total_ht": 295.78,
+        "vat_amount": 168.23,
+        "vat_percentage": 10.44
+    }
+}

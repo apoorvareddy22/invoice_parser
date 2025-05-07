@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "1865 Brittany Villages Suite 840 Gilbertland, OH 45073"
+    },
+    "invoice": {
+        "bc_no": "rj22681",
+        "date": "18.11.2000",
+        "maturity_date": "24.04.2006",
+        "number": 269788
+    },
+    "products": [
+        {
+            "amount": 452.38,
+            "description": "transition collaborative models",
+            "quantity": 1.53,
+            "unit_price": 59.54,
+            "vat_amount": 0.39
+        },
+        {
+            "amount": 32.47,
+            "description": "e-enable rich applications",
+            "quantity": 7.08,
+            "unit_price": 76.26,
+            "vat_amount": 10.0
+        },
+        {
+            "amount": 179.04,
+            "description": "evolve distributed e-business",
+            "quantity": 2.35,
+            "unit_price": 89.56,
+            "vat_amount": 3.2
+        },
+        {
+            "amount": 235.73,
+            "description": "target holistic supply-chains",
+            "quantity": 9.86,
+            "unit_price": 13.97,
+            "vat_amount": 1.7
+        }
+    ],
+    "seller": {
+        "address": "1300 Williams Bypass South Shawnmouth, MT 30917"
+    },
+    "tax": {
+        "amount_excluding_tax": 11.11,
+        "amount_including_tax": 105.8,
+        "tax_amount": 22.55
+    }
+}

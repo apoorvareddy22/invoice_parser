@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "6943 Leonard Tunnel Apt. 811 Thomashaven, LA 83045",
+        "company_name": "Johnson Ltd",
+        "country": "Hong Kong",
+        "name": "Carmen Vaughan"
+    },
+    "invoice": {
+        "date": "26.03.2005",
+        "number": 460477
+    },
+    "payment": {
+        "discount_amount": 25.79,
+        "discount_percentage": 14.65,
+        "due": 108.56,
+        "sub_total": 109.81,
+        "total": 889.3
+    },
+    "products": [
+        {
+            "description": "leverage viral eyeballs",
+            "index": "7",
+            "quantity": 1.44,
+            "total_price": 988.26,
+            "unit_price": 37.91
+        },
+        {
+            "description": "brand web-enabled metrics",
+            "index": "7",
+            "quantity": 7.41,
+            "total_price": 345.06,
+            "unit_price": 74.65
+        }
+    ],
+    "seller": {
+        "address": "4890 Pamela Point Suite 372 Wadeport, KS 42600",
+        "company_name": "Horton Group",
+        "vat_no": "Mb57878150560"
+    }
+}

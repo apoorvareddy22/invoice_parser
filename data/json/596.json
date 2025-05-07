@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "634 Amy Plains Apt. 267 Bruceberg, NM 02869",
+        "company_name": "Smith PLC",
+        "country": "Bahamas",
+        "name": "William Meadows"
+    },
+    "invoice": {
+        "date": "13.05.2007",
+        "number": 386348
+    },
+    "payment": {
+        "discount_amount": 28.58,
+        "discount_percentage": 14.74,
+        "due": 99.45,
+        "sub_total": 26.07,
+        "total": 886.44
+    },
+    "products": [
+        {
+            "description": "embrace killer synergies",
+            "index": "3",
+            "quantity": 4.67,
+            "total_price": 890.48,
+            "unit_price": 98.31
+        }
+    ],
+    "seller": {
+        "address": "76085 Elliott River Apt. 613 Lewisport, MP 51692",
+        "company_name": "Sanders and Sons",
+        "vat_no": "iQ22141802752"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "USS Spencer FPO AA 91545",
+        "business_no": "Vp073",
+        "id": "Yu201"
+    },
+    "invoice": {
+        "date": "14.08.1997",
+        "number": "4376-2524"
+    },
+    "payment": {
+        "due_date": "27.08.2019",
+        "total": 582.77
+    },
+    "products": [
+        {
+            "amount": 317.33,
+            "description": "deliver seamless vortals",
+            "quantity": 5.67,
+            "reference": "AI-333",
+            "unit_price": 24.39
+        },
+        {
+            "amount": 439.26,
+            "description": "architect scalable synergies",
+            "quantity": 1.66,
+            "reference": "Al-477",
+            "unit_price": 80.13
+        },
+        {
+            "amount": 293.12,
+            "description": "morph magnetic partnerships",
+            "quantity": 4.48,
+            "reference": "Hi-763",
+            "unit_price": 96.19
+        }
+    ],
+    "seller": {
+        "address": "1881 Middleton Knolls Suite 127 Smithburgh, SD 93731"
+    },
+    "tax": {
+        "base_ht": 164.79,
+        "regulations": 28.59,
+        "total_ht": 203.56,
+        "vat_amount": 66.2,
+        "vat_percentage": 29.91
+    }
+}

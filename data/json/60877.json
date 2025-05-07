@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "189 Wright Drive Apt. 694 North Victoriaton, NV 26634",
+        "business_no": "PH831",
+        "id": "yj474"
+    },
+    "invoice": {
+        "date": "25.04.2023",
+        "number": "8959-4071"
+    },
+    "payment": {
+        "due_date": "27.10.2019",
+        "total": 890.85
+    },
+    "products": [
+        {
+            "amount": 33.62,
+            "description": "implement distributed initiatives",
+            "quantity": 9.99,
+            "reference": "Bi-120",
+            "unit_price": 62.33
+        },
+        {
+            "amount": 479.44,
+            "description": "synergize frictionless eyeballs",
+            "quantity": 6.38,
+            "reference": "rp-033",
+            "unit_price": 19.61
+        },
+        {
+            "amount": 304.14,
+            "description": "integrate granular applications",
+            "quantity": 8.9,
+            "reference": "mv-129",
+            "unit_price": 33.1
+        },
+        {
+            "amount": 342.23,
+            "description": "implement front-end metrics",
+            "quantity": 1.47,
+            "reference": "wT-203",
+            "unit_price": 65.88
+        },
+        {
+            "amount": 315.86,
+            "description": "re-contextualize bricks-and-clicks content",
+            "quantity": 7.06,
+            "reference": "vJ-709",
+            "unit_price": 97.32
+        },
+        {
+            "amount": 241.57,
+            "description": "incubate value-added channels",
+            "quantity": 1.1,
+            "reference": "JF-823",
+            "unit_price": 41.9
+        }
+    ],
+    "seller": {
+        "address": "30554 Patrick Coves Apt. 207 West Matthewberg, IN 31329"
+    },
+    "tax": {
+        "base_ht": 246.01,
+        "regulations": 23.86,
+        "total_ht": 416.01,
+        "vat_amount": 194.98,
+        "vat_percentage": 27.34
+    }
+}

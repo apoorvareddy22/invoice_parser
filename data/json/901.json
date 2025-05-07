@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "368 King Ville Suite 128 Shawbury, DC 92045",
+        "company_name": "Washington, Wang and Rogers",
+        "country": "Jordan",
+        "name": "Barbara Gilbert"
+    },
+    "invoice": {
+        "date": "02.08.1992",
+        "number": 216564
+    },
+    "payment": {
+        "discount_amount": 46.05,
+        "discount_percentage": 19.12,
+        "due": 133.96,
+        "sub_total": 124.36,
+        "total": 901.27
+    },
+    "products": [
+        {
+            "description": "streamline impactful solutions",
+            "index": "10",
+            "quantity": 4.77,
+            "total_price": 470.85,
+            "unit_price": 29.01
+        },
+        {
+            "description": "unleash B2B technologies",
+            "index": "1",
+            "quantity": 6.76,
+            "total_price": 560.42,
+            "unit_price": 88.96
+        }
+    ],
+    "seller": {
+        "address": "0922 Anne Ways Suite 524 East Christopher, MP 89975",
+        "company_name": "Doyle-Ortega",
+        "vat_no": "Vj75205891860"
+    }
+}

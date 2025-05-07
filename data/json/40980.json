@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "PSC 2801, Box 5908 APO AP 02584"
+    },
+    "invoice": {
+        "bc_no": "Ru50986",
+        "date": "24.10.2017",
+        "maturity_date": "26.03.1992",
+        "number": 939295
+    },
+    "products": [
+        {
+            "amount": 20.63,
+            "description": "architect end-to-end web services",
+            "quantity": 6.13,
+            "unit_price": 39.38,
+            "vat_amount": 11.83
+        },
+        {
+            "amount": 483.95,
+            "description": "morph bleeding-edge channels",
+            "quantity": 8.28,
+            "unit_price": 93.86,
+            "vat_amount": 2.47
+        }
+    ],
+    "seller": {
+        "address": "753 Krueger Harbor Apt. 715 Odonnellshire, KY 32782"
+    },
+    "tax": {
+        "amount_excluding_tax": 76.52,
+        "amount_including_tax": 150.64,
+        "tax_amount": 27.92
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "7037 Duran Keys Suite 062 Williamsview, HI 57578",
+        "company_name": "Watson, Wade and Jones",
+        "country": "Palau",
+        "name": "Abigail Wood"
+    },
+    "invoice": {
+        "date": "10.12.2021",
+        "number": 366848
+    },
+    "payment": {
+        "discount_amount": 42.5,
+        "discount_percentage": 8.66,
+        "due": 95.2,
+        "sub_total": 112.69,
+        "total": 553.42
+    },
+    "products": [
+        {
+            "description": "synergize B2C infrastructures",
+            "index": "7",
+            "quantity": 1.44,
+            "total_price": 943.51,
+            "unit_price": 39.38
+        },
+        {
+            "description": "grow bleeding-edge solutions",
+            "index": "5",
+            "quantity": 8.4,
+            "total_price": 79.87,
+            "unit_price": 56.87
+        },
+        {
+            "description": "redefine cross-media vortals",
+            "index": "5",
+            "quantity": 4.45,
+            "total_price": 589.32,
+            "unit_price": 97.27
+        }
+    ],
+    "seller": {
+        "address": "32909 Moore Orchard South Donald, KS 98522",
+        "company_name": "Jenkins-Hall",
+        "vat_no": "uH48058997815"
+    }
+}

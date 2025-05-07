@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "1556 Susan Alley East Jennifer, MT 98207"
+    },
+    "invoice": {
+        "bc_no": "ym30011",
+        "date": "02.10.2016",
+        "maturity_date": "06.09.1992",
+        "number": 419191
+    },
+    "products": [
+        {
+            "amount": 306.7,
+            "description": "reinvent web-enabled e-markets",
+            "quantity": 9.87,
+            "unit_price": 70.57,
+            "vat_amount": 2.44
+        },
+        {
+            "amount": 334.62,
+            "description": "synergize intuitive eyeballs",
+            "quantity": 4.16,
+            "unit_price": 71.2,
+            "vat_amount": 1.88
+        },
+        {
+            "amount": 363.34,
+            "description": "aggregate real-time deliverables",
+            "quantity": 6.67,
+            "unit_price": 40.92,
+            "vat_amount": 2.78
+        },
+        {
+            "amount": 373.02,
+            "description": "target cross-platform web-readiness",
+            "quantity": 6.12,
+            "unit_price": 21.3,
+            "vat_amount": 4.9
+        },
+        {
+            "amount": 262.61,
+            "description": "engineer viral e-markets",
+            "quantity": 6.55,
+            "unit_price": 13.42,
+            "vat_amount": 8.39
+        }
+    ],
+    "seller": {
+        "address": "938 Peterson Roads Apt. 683 North Coryberg, DE 20005"
+    },
+    "tax": {
+        "amount_excluding_tax": 96.65,
+        "amount_including_tax": 68.83,
+        "tax_amount": 20.45
+    }
+}

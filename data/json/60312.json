@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "PSC 3671, Box 7031 APO AP 17665",
+        "business_no": "oA879",
+        "id": "DS214"
+    },
+    "invoice": {
+        "date": "28.06.2015",
+        "number": "2431-1039"
+    },
+    "payment": {
+        "due_date": "01.05.1995",
+        "total": 344.71
+    },
+    "products": [
+        {
+            "amount": 358.95,
+            "description": "transition real-time e-business",
+            "quantity": 2.31,
+            "reference": "BV-342",
+            "unit_price": 79.93
+        },
+        {
+            "amount": 304.4,
+            "description": "revolutionize B2C eyeballs",
+            "quantity": 4.31,
+            "reference": "gO-950",
+            "unit_price": 44.37
+        }
+    ],
+    "seller": {
+        "address": "682 Robinson Squares West Christopherfort, MP 42236"
+    },
+    "tax": {
+        "base_ht": 174.26,
+        "regulations": 22.08,
+        "total_ht": 440.43,
+        "vat_amount": 185.86,
+        "vat_percentage": 17.58
+    }
+}

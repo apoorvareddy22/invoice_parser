@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "72287 Steven Burg Adamshire, NM 40220"
+    },
+    "invoice": {
+        "bc_no": "qs38805",
+        "date": "08.01.2004",
+        "maturity_date": "18.06.2015",
+        "number": 544537
+    },
+    "products": [
+        {
+            "amount": 213.79,
+            "description": "e-enable dynamic interfaces",
+            "quantity": 7.38,
+            "unit_price": 28.97,
+            "vat_amount": 1.97
+        },
+        {
+            "amount": 493.32,
+            "description": "evolve efficient initiatives",
+            "quantity": 4.89,
+            "unit_price": 36.22,
+            "vat_amount": 10.75
+        },
+        {
+            "amount": 260.44,
+            "description": "grow efficient e-tailers",
+            "quantity": 9.18,
+            "unit_price": 75.79,
+            "vat_amount": 2.73
+        },
+        {
+            "amount": 286.5,
+            "description": "facilitate granular markets",
+            "quantity": 5.59,
+            "unit_price": 45.14,
+            "vat_amount": 5.29
+        }
+    ],
+    "seller": {
+        "address": "4110 Conner Key Apt. 452 Wilcoxville, AZ 64860"
+    },
+    "tax": {
+        "amount_excluding_tax": 38.83,
+        "amount_including_tax": 99.61,
+        "tax_amount": 17.08
+    }
+}

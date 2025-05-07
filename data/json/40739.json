@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "816 Reyes Inlet Stephanietown, OH 97880"
+    },
+    "invoice": {
+        "bc_no": "FS72462",
+        "date": "01.10.2018",
+        "maturity_date": "26.05.2019",
+        "number": 240282
+    },
+    "products": [
+        {
+            "amount": 136.95,
+            "description": "grow intuitive solutions",
+            "quantity": 8.61,
+            "unit_price": 69.82,
+            "vat_amount": 4.91
+        }
+    ],
+    "seller": {
+        "address": "177 Veronica Streets Suite 585 New Carlos, NY 91038"
+    },
+    "tax": {
+        "amount_excluding_tax": 105.09,
+        "amount_including_tax": 161.86,
+        "tax_amount": 12.14
+    }
+}

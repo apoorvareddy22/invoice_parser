@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "8659 Amanda Glen North Cody, DC 53593",
+        "email": "jonesrichard@example.org",
+        "phone": "596.732.0442",
+        "vat_no": "fY74526868810"
+    },
+    "invoice": {
+        "date": "24.08.2010",
+        "due_date": "28.05.2002",
+        "market_reference": 991860,
+        "notes": "exploit front-end infrastructures",
+        "number": "1492-0704",
+        "reference": 557847,
+        "vat_no": "HC34133856672"
+    },
+    "payment": {
+        "net_total": 28.92,
+        "total": 112.88
+    },
+    "products": [
+        {
+            "amount": 272.9,
+            "description": "revolutionize strategic initiatives",
+            "hours": 8.13,
+            "rate": 1.85
+        }
+    ],
+    "seller": {
+        "address": "6207 Destiny Drives North Dawnchester, WA 63298",
+        "email": "keystacey@example.org",
+        "name": "Melissa Mann"
+    },
+    "tax": {
+        "base": 28.03,
+        "tax_amount": 23.47,
+        "total_tax": 13.53
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "05513 Elizabeth Mountain Apt. 485 Smithview, TX 76176",
+        "id": "mr692"
+    },
+    "invoice": {
+        "bc_no": "Rl11882",
+        "currency_code": "COP",
+        "date": "02.06.2022",
+        "due_date": "29.04.2005",
+        "number": 758594
+    },
+    "payment": {
+        "bank_name": "Barajas Ltd",
+        "bic": "GJYSGBZO",
+        "iban": "VWYM64920510573537"
+    },
+    "products": [
+        {
+            "amount": 33.73,
+            "description": "generate global platforms",
+            "index": "3",
+            "price": 338.97,
+            "quantity": 9.14,
+            "tax_amount": 29.45,
+            "total_ttc": 410.69,
+            "vat_amount": 11.14
+        }
+    ],
+    "seller": {
+        "name": "Jessica Campbell"
+    },
+    "supplier": {
+        "address": "09846 Zhang Radial Michellemouth, OH 57876",
+        "name": "Joseph Collier"
+    },
+    "tax": {
+        "amount_excluding_tax": 55.49,
+        "amount_including_tax": 99.9,
+        "tax_amount": 20.32,
+        "total_ht": 172.8,
+        "total_ttc": 171.18
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "3331 Brown Views Apt. 751 Jacobfort, MN 50439",
+        "business_no": "Ma631",
+        "id": "oY454"
+    },
+    "invoice": {
+        "date": "17.08.2018",
+        "number": "3009-5493"
+    },
+    "payment": {
+        "due_date": "20.10.2017",
+        "total": 113.31
+    },
+    "products": [
+        {
+            "amount": 306.32,
+            "description": "architect viral bandwidth",
+            "quantity": 2.55,
+            "reference": "UY-399",
+            "unit_price": 34.65
+        },
+        {
+            "amount": 459.86,
+            "description": "generate rich info-mediaries",
+            "quantity": 2.12,
+            "reference": "ol-842",
+            "unit_price": 79.2
+        },
+        {
+            "amount": 181.43,
+            "description": "iterate world-class e-services",
+            "quantity": 4.77,
+            "reference": "tG-975",
+            "unit_price": 10.58
+        },
+        {
+            "amount": 152.51,
+            "description": "utilize virtual web-readiness",
+            "quantity": 9.73,
+            "reference": "uh-638",
+            "unit_price": 85.83
+        }
+    ],
+    "seller": {
+        "address": "PSC 3311, Box 5714 APO AE 65704"
+    },
+    "tax": {
+        "base_ht": 251.14,
+        "regulations": 26.77,
+        "total_ht": 496.51,
+        "vat_amount": 33.61,
+        "vat_percentage": 27.56
+    }
+}

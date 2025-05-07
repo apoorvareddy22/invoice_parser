@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "81874 Brenda Light Fischermouth, WY 34975"
+    },
+    "invoice": {
+        "bc_no": "dx25880",
+        "date": "23.06.2020",
+        "maturity_date": "12.04.2016",
+        "number": 123846
+    },
+    "products": [
+        {
+            "amount": 373.99,
+            "description": "seize cross-platform e-services",
+            "quantity": 4.47,
+            "unit_price": 89.99,
+            "vat_amount": 7.06
+        },
+        {
+            "amount": 229.29,
+            "description": "reinvent user-centric supply-chains",
+            "quantity": 4.98,
+            "unit_price": 17.25,
+            "vat_amount": 5.28
+        }
+    ],
+    "seller": {
+        "address": "Unit 8964 Box 1857 DPO AE 88080"
+    },
+    "tax": {
+        "amount_excluding_tax": 71.58,
+        "amount_including_tax": 46.48,
+        "tax_amount": 29.07
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "USS Winters FPO AA 49870",
+        "id": "ba393"
+    },
+    "invoice": {
+        "bc_no": "zj83324",
+        "currency_code": "OMR",
+        "date": "03.02.2012",
+        "due_date": "24.11.2011",
+        "number": 252758
+    },
+    "payment": {
+        "bank_name": "Graves, Matthews and Wilkinson",
+        "bic": "BPVAGB12",
+        "iban": "FURR68743361944373"
+    },
+    "products": [
+        {
+            "amount": 100.88,
+            "description": "monetize frictionless systems",
+            "index": "8",
+            "price": 445.34,
+            "quantity": 7.37,
+            "tax_amount": 96.88,
+            "total_ttc": 403.56,
+            "vat_amount": 10.23
+        },
+        {
+            "amount": 152.73,
+            "description": "disintermediate granular info-mediaries",
+            "index": "6",
+            "price": 359.6,
+            "quantity": 9.06,
+            "tax_amount": 81.22,
+            "total_ttc": 192.62,
+            "vat_amount": 6.43
+        },
+        {
+            "amount": 253.42,
+            "description": "facilitate killer infrastructures",
+            "index": "3",
+            "price": 320.46,
+            "quantity": 3.68,
+            "tax_amount": 84.88,
+            "total_ttc": 448.65,
+            "vat_amount": 4.7
+        }
+    ],
+    "seller": {
+        "name": "Lorraine White"
+    },
+    "supplier": {
+        "address": "9842 Jason Orchard Walkershire, DC 95107",
+        "name": "Joshua Brooks"
+    },
+    "tax": {
+        "amount_excluding_tax": 36.26,
+        "amount_including_tax": 54.31,
+        "tax_amount": 22.05,
+        "total_ht": 462.98,
+        "total_ttc": 210.3
+    }
+}

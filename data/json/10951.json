@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "24320 Kent Port Apt. 602 Bennetthaven, MP 21502",
+        "email": "lesterstephen@example.net",
+        "phone": "001-406-450-1702x464",
+        "vat_no": "YR15834793088"
+    },
+    "invoice": {
+        "date": "01.03.1998",
+        "due_date": "10.09.2015",
+        "market_reference": 845965,
+        "notes": "revolutionize global infrastructures",
+        "number": "6015-7458",
+        "reference": 267314,
+        "vat_no": "Zr45443094543"
+    },
+    "payment": {
+        "net_total": 171.92,
+        "total": 586.46
+    },
+    "products": [
+        {
+            "amount": 318.22,
+            "description": "monetize extensible paradigms",
+            "hours": 7.97,
+            "rate": 3.01
+        },
+        {
+            "amount": 260.07,
+            "description": "architect e-business metrics",
+            "hours": 1.45,
+            "rate": 4.01
+        },
+        {
+            "amount": 446.97,
+            "description": "deliver virtual partnerships",
+            "hours": 3.76,
+            "rate": 3.8
+        },
+        {
+            "amount": 347.09,
+            "description": "unleash proactive bandwidth",
+            "hours": 7.72,
+            "rate": 9.56
+        },
+        {
+            "amount": 404.34,
+            "description": "envisioneer world-class info-mediaries",
+            "hours": 2.52,
+            "rate": 7.46
+        },
+        {
+            "amount": 375.3,
+            "description": "mesh synergistic technologies",
+            "hours": 8.52,
+            "rate": 2.15
+        },
+        {
+            "amount": 350.79,
+            "description": "engineer web-enabled interfaces",
+            "hours": 2.9,
+            "rate": 5.43
+        }
+    ],
+    "seller": {
+        "address": "PSC 6351, Box 4943 APO AA 70971",
+        "email": "adam36@example.com",
+        "name": "Carl Mann"
+    },
+    "tax": {
+        "base": 20.16,
+        "tax_amount": 28.13,
+        "total_tax": 18.45
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "40321 Ryan Course West Jessicaberg, SC 83329",
+        "company_name": "Ward, Mitchell and Meyers",
+        "country": "Saint Kitts and Nevis",
+        "name": "David Johnson"
+    },
+    "invoice": {
+        "date": "10.07.2011",
+        "number": 202966
+    },
+    "payment": {
+        "discount_amount": 33.72,
+        "discount_percentage": 15.83,
+        "due": 58.96,
+        "sub_total": 78.18,
+        "total": 547.05
+    },
+    "products": [
+        {
+            "description": "empower magnetic platforms",
+            "index": "2",
+            "quantity": 7.7,
+            "total_price": 616.08,
+            "unit_price": 41.19
+        },
+        {
+            "description": "brand 24/365 metrics",
+            "index": "5",
+            "quantity": 5.29,
+            "total_price": 784.46,
+            "unit_price": 66.83
+        }
+    ],
+    "seller": {
+        "address": "03676 Thompson Knolls Suite 678 East Daniel, WY 17682",
+        "company_name": "Dalton-Perez",
+        "vat_no": "Cg59516600141"
+    }
+}

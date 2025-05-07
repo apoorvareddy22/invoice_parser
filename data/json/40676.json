@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "Unit 4754 Box 4287 DPO AP 96578"
+    },
+    "invoice": {
+        "bc_no": "ln98888",
+        "date": "01.04.2016",
+        "maturity_date": "30.10.1990",
+        "number": 219369
+    },
+    "products": [
+        {
+            "amount": 187.8,
+            "description": "grow open-source web services",
+            "quantity": 2.01,
+            "unit_price": 35.9,
+            "vat_amount": 0.86
+        },
+        {
+            "amount": 381.58,
+            "description": "implement mission-critical eyeballs",
+            "quantity": 7.41,
+            "unit_price": 37.12,
+            "vat_amount": 12.06
+        },
+        {
+            "amount": 388.63,
+            "description": "benchmark impactful info-mediaries",
+            "quantity": 5.72,
+            "unit_price": 18.05,
+            "vat_amount": 11.17
+        }
+    ],
+    "seller": {
+        "address": "772 Paul Junction Apt. 078 Masseyport, MA 92447"
+    },
+    "tax": {
+        "amount_excluding_tax": 45.06,
+        "amount_including_tax": 162.68,
+        "tax_amount": 17.78
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "7471 Taylor Road Danielside, TX 23760",
+        "email": "cmeyer@example.com",
+        "phone": "818-729-1472x2731",
+        "vat_no": "KK68620883249"
+    },
+    "invoice": {
+        "date": "28.09.2021",
+        "due_date": "05.04.1998",
+        "market_reference": 413447,
+        "notes": "envisioneer global web services",
+        "number": "3620-5730",
+        "reference": 472753,
+        "vat_no": "oq16350425616"
+    },
+    "payment": {
+        "net_total": 122.49,
+        "total": 527.21
+    },
+    "products": [
+        {
+            "amount": 249.38,
+            "description": "scale sticky communities",
+            "hours": 7.83,
+            "rate": 8.76
+        },
+        {
+            "amount": 413.83,
+            "description": "facilitate web-enabled mindshare",
+            "hours": 2.99,
+            "rate": 8.58
+        },
+        {
+            "amount": 180.47,
+            "description": "transition B2C interfaces",
+            "hours": 8.85,
+            "rate": 4.34
+        },
+        {
+            "amount": 76.6,
+            "description": "mesh wireless channels",
+            "hours": 2.28,
+            "rate": 4.3
+        },
+        {
+            "amount": 49.73,
+            "description": "architect 24/7 infrastructures",
+            "hours": 4.49,
+            "rate": 2.47
+        },
+        {
+            "amount": 208.98,
+            "description": "matrix back-end models",
+            "hours": 5.55,
+            "rate": 1.85
+        }
+    ],
+    "seller": {
+        "address": "90927 Price Burg Brandonburgh, MT 89063",
+        "email": "johnvega@example.org",
+        "name": "Kimberly Jacobs"
+    },
+    "tax": {
+        "base": 11.2,
+        "tax_amount": 15.85,
+        "total_tax": 28.55
+    }
+}

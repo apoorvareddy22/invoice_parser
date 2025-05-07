@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "171 Michael Manors West Brentside, PA 40362",
+        "business_no": "hh443",
+        "id": "iA566"
+    },
+    "invoice": {
+        "date": "14.04.1993",
+        "number": "8015-9328"
+    },
+    "payment": {
+        "due_date": "08.04.1994",
+        "total": 478.92
+    },
+    "products": [
+        {
+            "amount": 469.88,
+            "description": "benchmark cutting-edge interfaces",
+            "quantity": 2.5,
+            "reference": "cC-263",
+            "unit_price": 90.1
+        },
+        {
+            "amount": 253.86,
+            "description": "engineer sticky markets",
+            "quantity": 3.68,
+            "reference": "ml-027",
+            "unit_price": 80.14
+        },
+        {
+            "amount": 188.92,
+            "description": "cultivate dot-com initiatives",
+            "quantity": 5.6,
+            "reference": "gr-059",
+            "unit_price": 12.99
+        }
+    ],
+    "seller": {
+        "address": "4828 Angelica Mews East Brandonborough, AR 13442"
+    },
+    "tax": {
+        "base_ht": 423.56,
+        "regulations": 23.78,
+        "total_ht": 200.77,
+        "vat_amount": 85.89,
+        "vat_percentage": 21.81
+    }
+}

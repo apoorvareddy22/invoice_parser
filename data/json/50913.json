@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "93548 Brian Bypass Laurenchester, NH 23163",
+        "id": "oH262"
+    },
+    "invoice": {
+        "bc_no": "iO18384",
+        "currency_code": "NPR",
+        "date": "25.10.1993",
+        "due_date": "10.10.2013",
+        "number": 975888
+    },
+    "payment": {
+        "bank_name": "Farley-Krueger",
+        "bic": "UJXJGBD9314",
+        "iban": "WWVE37168566585717"
+    },
+    "products": [
+        {
+            "amount": 262.3,
+            "description": "mesh visionary deliverables",
+            "index": "3",
+            "price": 78.9,
+            "quantity": 7.89,
+            "tax_amount": 31.23,
+            "total_ttc": 446.81,
+            "vat_amount": 4.31
+        },
+        {
+            "amount": 191.03,
+            "description": "empower strategic info-mediaries",
+            "index": "6",
+            "price": 170.16,
+            "quantity": 6.84,
+            "tax_amount": 30.78,
+            "total_ttc": 403.93,
+            "vat_amount": 8.59
+        }
+    ],
+    "seller": {
+        "name": "Linda Green"
+    },
+    "supplier": {
+        "address": "1668 Brian Valleys Suite 909 Leehaven, DE 16006",
+        "name": "Jason Rogers"
+    },
+    "tax": {
+        "amount_excluding_tax": 79.29,
+        "amount_including_tax": 166.53,
+        "tax_amount": 17.3,
+        "total_ht": 291.77,
+        "total_ttc": 409.25
+    }
+}

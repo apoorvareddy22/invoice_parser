@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "8707 Farrell View Suite 011 Melissaburgh, MA 67593",
+        "business_no": "ah410",
+        "id": "aC651"
+    },
+    "invoice": {
+        "date": "24.01.1996",
+        "number": "4890-3061"
+    },
+    "payment": {
+        "due_date": "03.01.1990",
+        "total": 110.27
+    },
+    "products": [
+        {
+            "amount": 371.47,
+            "description": "engineer global mindshare",
+            "quantity": 6.53,
+            "reference": "fg-005",
+            "unit_price": 93.78
+        },
+        {
+            "amount": 157.41,
+            "description": "envisioneer virtual architectures",
+            "quantity": 8.22,
+            "reference": "Jv-110",
+            "unit_price": 91.92
+        },
+        {
+            "amount": 33.63,
+            "description": "integrate killer networks",
+            "quantity": 6.34,
+            "reference": "al-700",
+            "unit_price": 81.09
+        },
+        {
+            "amount": 286.53,
+            "description": "morph distributed applications",
+            "quantity": 8.58,
+            "reference": "iG-377",
+            "unit_price": 40.37
+        }
+    ],
+    "seller": {
+        "address": "USNS Soto FPO AE 24048"
+    },
+    "tax": {
+        "base_ht": 362.33,
+        "regulations": 21.08,
+        "total_ht": 456.72,
+        "vat_amount": 178.39,
+        "vat_percentage": 10.85
+    }
+}

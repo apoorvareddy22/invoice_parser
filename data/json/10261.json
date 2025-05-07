@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "9629 Lauren Row Apt. 181 South James, CO 68393",
+        "email": "kaitlyn83@example.net",
+        "phone": "889.586.5012",
+        "vat_no": "JL77419687360"
+    },
+    "invoice": {
+        "date": "25.09.2008",
+        "due_date": "03.08.2006",
+        "market_reference": 462162,
+        "notes": "grow virtual markets",
+        "number": "7811-6491",
+        "reference": 317065,
+        "vat_no": "ly42929680403"
+    },
+    "payment": {
+        "net_total": 130.14,
+        "total": 825.26
+    },
+    "products": [
+        {
+            "amount": 215.93,
+            "description": "scale turn-key e-commerce",
+            "hours": 2.45,
+            "rate": 6.19
+        },
+        {
+            "amount": 235.92,
+            "description": "evolve clicks-and-mortar interfaces",
+            "hours": 8.8,
+            "rate": 5.21
+        },
+        {
+            "amount": 326.12,
+            "description": "matrix scalable web-readiness",
+            "hours": 4.59,
+            "rate": 5.04
+        }
+    ],
+    "seller": {
+        "address": "31171 Jeffrey Ferry East Matthew, KY 74787",
+        "email": "wmorris@example.net",
+        "name": "Carol King"
+    },
+    "tax": {
+        "base": 28.32,
+        "tax_amount": 16.66,
+        "total_tax": 22.28
+    }
+}

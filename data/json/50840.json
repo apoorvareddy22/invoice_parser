@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "9304 Toni Pass Apt. 056 East Tracie, VI 49524",
+        "id": "Df300"
+    },
+    "invoice": {
+        "bc_no": "id13357",
+        "currency_code": "JEP",
+        "date": "18.01.2012",
+        "due_date": "31.10.2011",
+        "number": 234720
+    },
+    "payment": {
+        "bank_name": "Savage, Copeland and Keller",
+        "bic": "EDBAGB7VTYM",
+        "iban": "ZSAO83788076068924"
+    },
+    "products": [
+        {
+            "amount": 311.97,
+            "description": "reinvent collaborative applications",
+            "index": "9",
+            "price": 382.8,
+            "quantity": 1.53,
+            "tax_amount": 98.71,
+            "total_ttc": 458.14,
+            "vat_amount": 4.93
+        },
+        {
+            "amount": 338.96,
+            "description": "scale killer eyeballs",
+            "index": "9",
+            "price": 482.82,
+            "quantity": 3.42,
+            "tax_amount": 65.81,
+            "total_ttc": 181.19,
+            "vat_amount": 2.16
+        }
+    ],
+    "seller": {
+        "name": "Heather Wise"
+    },
+    "supplier": {
+        "address": "8749 Steven Fords Danielston, AR 06247",
+        "name": "Mark Franklin"
+    },
+    "tax": {
+        "amount_excluding_tax": 54.08,
+        "amount_including_tax": 100.67,
+        "tax_amount": 14.46,
+        "total_ht": 349.2,
+        "total_ttc": 458.92
+    }
+}

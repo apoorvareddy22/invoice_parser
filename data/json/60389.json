@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "6460 Arnold Manors Apt. 077 Justinview, AR 38050",
+        "business_no": "iv799",
+        "id": "Yt531"
+    },
+    "invoice": {
+        "date": "01.02.2020",
+        "number": "5225-1911"
+    },
+    "payment": {
+        "due_date": "25.03.2023",
+        "total": 966.91
+    },
+    "products": [
+        {
+            "amount": 445.39,
+            "description": "re-intermediate sticky e-markets",
+            "quantity": 2.84,
+            "reference": "Xc-555",
+            "unit_price": 46.11
+        }
+    ],
+    "seller": {
+        "address": "PSC 8515, Box 3606 APO AP 49458"
+    },
+    "tax": {
+        "base_ht": 286.13,
+        "regulations": 28.65,
+        "total_ht": 325.53,
+        "vat_amount": 128.66,
+        "vat_percentage": 27.94
+    }
+}

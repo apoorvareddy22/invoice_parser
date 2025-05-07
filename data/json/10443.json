@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "PSC 8294, Box 0174 APO AE 96858",
+        "email": "gwilson@example.net",
+        "phone": "001-963-552-8906x0293",
+        "vat_no": "Lt15419146570"
+    },
+    "invoice": {
+        "date": "17.07.2008",
+        "due_date": "28.06.2022",
+        "market_reference": 397782,
+        "notes": "morph robust infrastructures",
+        "number": "0667-1493",
+        "reference": 901375,
+        "vat_no": "rF58541033004"
+    },
+    "payment": {
+        "net_total": 22.19,
+        "total": 452.03
+    },
+    "products": [
+        {
+            "amount": 477.42,
+            "description": "enhance back-end initiatives",
+            "hours": 8.05,
+            "rate": 7.66
+        },
+        {
+            "amount": 468.66,
+            "description": "generate 24/7 networks",
+            "hours": 6.52,
+            "rate": 7.67
+        }
+    ],
+    "seller": {
+        "address": "49096 Patrick Haven Port Kevin, PW 45067",
+        "email": "mhuang@example.com",
+        "name": "Kenneth Wiggins"
+    },
+    "tax": {
+        "base": 23.08,
+        "tax_amount": 29.12,
+        "total_tax": 21.99
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "3389 Donna Viaduct Apt. 087 Parksside, RI 48176",
+        "business_no": "tT041",
+        "id": "lr303"
+    },
+    "invoice": {
+        "date": "25.01.1997",
+        "number": "9010-5259"
+    },
+    "payment": {
+        "due_date": "10.03.1991",
+        "total": 412.99
+    },
+    "products": [
+        {
+            "amount": 280.48,
+            "description": "exploit customized info-mediaries",
+            "quantity": 6.06,
+            "reference": "Xv-606",
+            "unit_price": 52.05
+        }
+    ],
+    "seller": {
+        "address": "6053 Wilson Parkways Apt. 964 Clarkmouth, ME 41772"
+    },
+    "tax": {
+        "base_ht": 126.23,
+        "regulations": 28.69,
+        "total_ht": 202.38,
+        "vat_amount": 128.01,
+        "vat_percentage": 29.81
+    }
+}

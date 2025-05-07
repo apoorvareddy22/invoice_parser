@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "9171 Timothy Corners Apt. 175 Carlosville, AR 44546",
+        "company_name": "Hunter-Campbell",
+        "country": "Timor-Leste",
+        "name": "James Small"
+    },
+    "invoice": {
+        "date": "15.01.2002",
+        "number": 587082
+    },
+    "payment": {
+        "discount_amount": 34.27,
+        "discount_percentage": 8.41,
+        "due": 188.8,
+        "sub_total": 95.74,
+        "total": 298.48
+    },
+    "products": [
+        {
+            "description": "visualize synergistic supply-chains",
+            "index": "5",
+            "quantity": 6.45,
+            "total_price": 854.13,
+            "unit_price": 23.37
+        },
+        {
+            "description": "incubate enterprise web services",
+            "index": "8",
+            "quantity": 8.48,
+            "total_price": 254.12,
+            "unit_price": 90.08
+        }
+    ],
+    "seller": {
+        "address": "9679 Travis Lodge Gibsonberg, FL 27819",
+        "company_name": "Snow, Roth and Hall",
+        "vat_no": "sO31001799293"
+    }
+}

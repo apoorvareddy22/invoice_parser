@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "26082 Miranda Glen Apt. 053 North Christina, TN 19146",
+        "id": "Ej124"
+    },
+    "invoice": {
+        "bc_no": "RJ63092",
+        "currency_code": "LTL",
+        "date": "03.06.2001",
+        "due_date": "08.01.2004",
+        "number": 941975
+    },
+    "payment": {
+        "bank_name": "Welch-Sloan",
+        "bic": "DXTTGBBHGCA",
+        "iban": "OACS84336067414898"
+    },
+    "products": [
+        {
+            "amount": 490.07,
+            "description": "integrate enterprise deliverables",
+            "index": "7",
+            "price": 29.59,
+            "quantity": 6.18,
+            "tax_amount": 86.58,
+            "total_ttc": 172.46,
+            "vat_amount": 0.45
+        },
+        {
+            "amount": 77.02,
+            "description": "extend B2C interfaces",
+            "index": "3",
+            "price": 56.36,
+            "quantity": 3.35,
+            "tax_amount": 72.65,
+            "total_ttc": 234.44,
+            "vat_amount": 8.41
+        },
+        {
+            "amount": 144.26,
+            "description": "synergize killer e-business",
+            "index": "4",
+            "price": 76.57,
+            "quantity": 2.66,
+            "tax_amount": 83.47,
+            "total_ttc": 302.36,
+            "vat_amount": 12.99
+        },
+        {
+            "amount": 98.75,
+            "description": "streamline end-to-end niches",
+            "index": "5",
+            "price": 216.76,
+            "quantity": 4.73,
+            "tax_amount": 19.48,
+            "total_ttc": 108.79,
+            "vat_amount": 9.99
+        },
+        {
+            "amount": 333.1,
+            "description": "redefine integrated portals",
+            "index": "5",
+            "price": 182.22,
+            "quantity": 2.47,
+            "tax_amount": 29.41,
+            "total_ttc": 222.98,
+            "vat_amount": 4.74
+        }
+    ],
+    "seller": {
+        "name": "Carmen Contreras"
+    },
+    "supplier": {
+        "address": "04822 Tracy Circle Port Kentton, AK 81411",
+        "name": "Katie Mosley"
+    },
+    "tax": {
+        "amount_excluding_tax": 124.42,
+        "amount_including_tax": 117.04,
+        "tax_amount": 29.79,
+        "total_ht": 229.73,
+        "total_ttc": 420.59
+    }
+}

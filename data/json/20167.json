@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "723 Michael Road Choiville, OH 59794",
+        "company_name": "Thomas-Harris",
+        "email": "brandonwoodward@example.net",
+        "name": "Daniel Williams",
+        "phone": "335.906.8937x8520"
+    },
+    "invoice": {
+        "date": "09.10.1996",
+        "due_date": "17.11.2013",
+        "number": "fam56036263177"
+    },
+    "payment": {
+        "account_number": 5764690708,
+        "bank_name": "Porter, Brown and Fitzpatrick",
+        "routing_number": 232347057
+    },
+    "products": [
+        {
+            "amount": 124.52,
+            "description": "e-enable transparent paradigms",
+            "index": "6",
+            "quantity": 4.3,
+            "unit_price": 80.87
+        },
+        {
+            "amount": 153.29,
+            "description": "empower one-to-one synergies",
+            "index": "7",
+            "quantity": 5.69,
+            "unit_price": 61.45
+        },
+        {
+            "amount": 149.42,
+            "description": "re-contextualize web-enabled communities",
+            "index": "3",
+            "quantity": 9.99,
+            "unit_price": 51.52
+        },
+        {
+            "amount": 279.86,
+            "description": "strategize world-class communities",
+            "index": "4",
+            "quantity": 8.09,
+            "unit_price": 83.54
+        }
+    ],
+    "seller": {
+        "address": "Unit 4898 Box 9640 DPO AP 19622",
+        "company_name": "Hogan, Espinoza and Gregory",
+        "email": "annadonovan@example.org"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "22168 Johnson Pine Apt. 682 East Sandy, VT 07277",
+        "company_name": "Copeland, Bonilla and Sanchez",
+        "email": "mcintoshedward@example.com",
+        "name": "Roger Parker",
+        "phone": "001-287-805-4502x292"
+    },
+    "invoice": {
+        "date": "10.10.1999",
+        "due_date": "02.02.2008",
+        "number": "Zuq01234554696"
+    },
+    "payment": {
+        "account_number": 4759900763,
+        "bank_name": "David, Cross and Nguyen",
+        "routing_number": 384847953
+    },
+    "products": [
+        {
+            "amount": 275.88,
+            "description": "monetize ubiquitous e-markets",
+            "index": "4",
+            "quantity": 6.42,
+            "unit_price": 62.42
+        },
+        {
+            "amount": 147.61,
+            "description": "e-enable vertical supply-chains",
+            "index": "5",
+            "quantity": 6.48,
+            "unit_price": 64.55
+        },
+        {
+            "amount": 467.15,
+            "description": "enable extensible info-mediaries",
+            "index": "5",
+            "quantity": 5.27,
+            "unit_price": 52.22
+        },
+        {
+            "amount": 139.6,
+            "description": "visualize dynamic platforms",
+            "index": "4",
+            "quantity": 9.84,
+            "unit_price": 59.3
+        },
+        {
+            "amount": 254.48,
+            "description": "repurpose web-enabled channels",
+            "index": "8",
+            "quantity": 9.39,
+            "unit_price": 17.57
+        },
+        {
+            "amount": 123.84,
+            "description": "benchmark collaborative methodologies",
+            "index": "3",
+            "quantity": 8.95,
+            "unit_price": 55.13
+        },
+        {
+            "amount": 385.21,
+            "description": "benchmark vertical markets",
+            "index": "3",
+            "quantity": 2.35,
+            "unit_price": 73.03
+        }
+    ],
+    "seller": {
+        "address": "3983 Robert Springs East Justin, TX 74071",
+        "company_name": "Mccarthy-Le",
+        "email": "craig34@example.net"
+    }
+}

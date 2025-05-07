@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "8020 Marco Path New Sandrastad, UT 10180",
+        "company_name": "Sweeney LLC",
+        "email": "deanna21@example.com",
+        "name": "Gregory Rodriguez",
+        "phone": "618-467-5664x5741"
+    },
+    "invoice": {
+        "date": "22.11.2008",
+        "due_date": "15.08.2021",
+        "number": "YWB39275012193"
+    },
+    "payment": {
+        "account_number": 6100334282,
+        "bank_name": "Church Inc",
+        "routing_number": 209922389
+    },
+    "products": [
+        {
+            "amount": 341.31,
+            "description": "leverage leading-edge metrics",
+            "index": "9",
+            "quantity": 4.77,
+            "unit_price": 90.46
+        },
+        {
+            "amount": 69.5,
+            "description": "implement end-to-end metrics",
+            "index": "6",
+            "quantity": 3.92,
+            "unit_price": 52.69
+        },
+        {
+            "amount": 115.09,
+            "description": "unleash transparent schemas",
+            "index": "10",
+            "quantity": 6.65,
+            "unit_price": 24.12
+        },
+        {
+            "amount": 282.67,
+            "description": "re-intermediate 24/7 initiatives",
+            "index": "7",
+            "quantity": 1.14,
+            "unit_price": 57.3
+        },
+        {
+            "amount": 16.76,
+            "description": "deploy out-of-the-box e-services",
+            "index": "9",
+            "quantity": 6.61,
+            "unit_price": 34.17
+        }
+    ],
+    "seller": {
+        "address": "5270 Whitehead Dale Harperville, OH 00861",
+        "company_name": "Sexton Group",
+        "email": "hjohnson@example.com"
+    }
+}

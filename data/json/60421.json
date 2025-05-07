@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "872 Christopher Ramp Hernandezmouth, DC 32995",
+        "business_no": "OA017",
+        "id": "pv255"
+    },
+    "invoice": {
+        "date": "30.10.2001",
+        "number": "2472-1608"
+    },
+    "payment": {
+        "due_date": "23.10.2001",
+        "total": 582.09
+    },
+    "products": [
+        {
+            "amount": 476.51,
+            "description": "extend innovative content",
+            "quantity": 9.44,
+            "reference": "yP-050",
+            "unit_price": 69.6
+        },
+        {
+            "amount": 122.37,
+            "description": "target bleeding-edge action-items",
+            "quantity": 7.47,
+            "reference": "JV-408",
+            "unit_price": 92.18
+        },
+        {
+            "amount": 245.75,
+            "description": "brand best-of-breed bandwidth",
+            "quantity": 7.82,
+            "reference": "mp-997",
+            "unit_price": 48.58
+        },
+        {
+            "amount": 461.82,
+            "description": "synthesize user-centric content",
+            "quantity": 3.87,
+            "reference": "WA-958",
+            "unit_price": 52.67
+        },
+        {
+            "amount": 496.09,
+            "description": "drive mission-critical metrics",
+            "quantity": 3.71,
+            "reference": "VH-284",
+            "unit_price": 16.29
+        },
+        {
+            "amount": 104.62,
+            "description": "seize strategic portals",
+            "quantity": 9.5,
+            "reference": "AF-567",
+            "unit_price": 10.26
+        }
+    ],
+    "seller": {
+        "address": "70892 Chung Plains Suite 458 New Bradleyton, MS 13013"
+    },
+    "tax": {
+        "base_ht": 237.26,
+        "regulations": 21.92,
+        "total_ht": 207.59,
+        "vat_amount": 51.44,
+        "vat_percentage": 11.9
+    }
+}

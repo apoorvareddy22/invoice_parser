@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "200 Wood Mission Michaelbury, HI 60174",
+        "company_name": "Hall-Sutton",
+        "email": "wlee@example.com",
+        "name": "Mallory Chavez",
+        "phone": "955.449.0255"
+    },
+    "invoice": {
+        "date": "05.11.2015",
+        "due_date": "31.07.2004",
+        "number": "FAP33364575048"
+    },
+    "payment": {
+        "account_number": 7632953737,
+        "bank_name": "Mclean, Johnston and Burgess",
+        "routing_number": 976543964
+    },
+    "products": [
+        {
+            "amount": 133.0,
+            "description": "productize collaborative interfaces",
+            "index": "1",
+            "quantity": 7.48,
+            "unit_price": 30.75
+        },
+        {
+            "amount": 335.85,
+            "description": "incubate virtual vortals",
+            "index": "6",
+            "quantity": 7.77,
+            "unit_price": 85.13
+        },
+        {
+            "amount": 22.76,
+            "description": "synergize innovative web-readiness",
+            "index": "10",
+            "quantity": 3.63,
+            "unit_price": 63.5
+        },
+        {
+            "amount": 382.18,
+            "description": "target dynamic relationships",
+            "index": "4",
+            "quantity": 8.44,
+            "unit_price": 28.83
+        },
+        {
+            "amount": 158.62,
+            "description": "redefine clicks-and-mortar e-markets",
+            "index": "8",
+            "quantity": 2.9,
+            "unit_price": 99.13
+        }
+    ],
+    "seller": {
+        "address": "188 Janet Shores Suite 937 Ruizland, MD 81552",
+        "company_name": "Ramsey-Gonzalez",
+        "email": "vnunez@example.com"
+    }
+}

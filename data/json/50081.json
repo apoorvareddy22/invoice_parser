@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "59784 Cooper Prairie Apt. 256 East Bradley, GA 81304",
+        "id": "vO061"
+    },
+    "invoice": {
+        "bc_no": "fP34213",
+        "currency_code": "ZAR",
+        "date": "12.10.1991",
+        "due_date": "28.11.2017",
+        "number": 450764
+    },
+    "payment": {
+        "bank_name": "Smith PLC",
+        "bic": "TMOIGBV8NCA",
+        "iban": "ZGDP26915488183324"
+    },
+    "products": [
+        {
+            "amount": 444.12,
+            "description": "reinvent synergistic e-tailers",
+            "index": "8",
+            "price": 351.42,
+            "quantity": 7.6,
+            "tax_amount": 23.97,
+            "total_ttc": 498.73,
+            "vat_amount": 5.81
+        }
+    ],
+    "seller": {
+        "name": "Willie Kelly"
+    },
+    "supplier": {
+        "address": "977 Perez Burgs West Stuart, ME 04495",
+        "name": "Jamie Sawyer"
+    },
+    "tax": {
+        "amount_excluding_tax": 133.33,
+        "amount_including_tax": 53.49,
+        "tax_amount": 12.2,
+        "total_ht": 193.26,
+        "total_ttc": 335.63
+    }
+}

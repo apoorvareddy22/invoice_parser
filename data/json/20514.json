@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "5930 Richard Turnpike North Elizabethview, ID 58716",
+        "company_name": "Carney, Taylor and Kelly",
+        "email": "tlee@example.org",
+        "name": "Robert Chavez",
+        "phone": "5957999463"
+    },
+    "invoice": {
+        "date": "08.01.2006",
+        "due_date": "09.03.1996",
+        "number": "PAT46317854829"
+    },
+    "payment": {
+        "account_number": 2975995728,
+        "bank_name": "Brown LLC",
+        "routing_number": 793197441
+    },
+    "products": [
+        {
+            "amount": 468.5,
+            "description": "mesh ubiquitous niches",
+            "index": "4",
+            "quantity": 5.54,
+            "unit_price": 83.21
+        },
+        {
+            "amount": 203.44,
+            "description": "cultivate back-end relationships",
+            "index": "2",
+            "quantity": 2.51,
+            "unit_price": 48.93
+        },
+        {
+            "amount": 434.26,
+            "description": "engineer holistic markets",
+            "index": "7",
+            "quantity": 1.82,
+            "unit_price": 30.99
+        },
+        {
+            "amount": 26.05,
+            "description": "synthesize innovative functionalities",
+            "index": "8",
+            "quantity": 6.88,
+            "unit_price": 74.47
+        }
+    ],
+    "seller": {
+        "address": "381 Brian Prairie Suite 314 Lake Kristintown, VT 40434",
+        "company_name": "Boyd PLC",
+        "email": "steve64@example.net"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "555 Sandoval Forest Suite 676 New Patriciafurt, WI 64293",
+        "id": "bu959"
+    },
+    "invoice": {
+        "bc_no": "pK63600",
+        "currency_code": "HNL",
+        "date": "03.10.1998",
+        "due_date": "27.09.1991",
+        "number": 599211
+    },
+    "payment": {
+        "bank_name": "Garcia, Mullen and Marshall",
+        "bic": "OFTKGBCS",
+        "iban": "BAFR78565377424494"
+    },
+    "products": [
+        {
+            "amount": 64.27,
+            "description": "reinvent enterprise methodologies",
+            "index": "10",
+            "price": 295.81,
+            "quantity": 1.72,
+            "tax_amount": 34.41,
+            "total_ttc": 165.62,
+            "vat_amount": 12.37
+        },
+        {
+            "amount": 459.51,
+            "description": "drive holistic synergies",
+            "index": "2",
+            "price": 144.05,
+            "quantity": 5.67,
+            "tax_amount": 19.46,
+            "total_ttc": 333.25,
+            "vat_amount": 4.19
+        },
+        {
+            "amount": 157.39,
+            "description": "utilize integrated bandwidth",
+            "index": "9",
+            "price": 154.87,
+            "quantity": 7.95,
+            "tax_amount": 42.97,
+            "total_ttc": 263.62,
+            "vat_amount": 3.08
+        },
+        {
+            "amount": 34.73,
+            "description": "revolutionize vertical experiences",
+            "index": "5",
+            "price": 252.57,
+            "quantity": 1.54,
+            "tax_amount": 27.84,
+            "total_ttc": 304.79,
+            "vat_amount": 10.24
+        }
+    ],
+    "seller": {
+        "name": "Samuel Anderson"
+    },
+    "supplier": {
+        "address": "8087 Ana Keys Port Rodney, IA 25382",
+        "name": "Reginald Barnes"
+    },
+    "tax": {
+        "amount_excluding_tax": 114.56,
+        "amount_including_tax": 91.29,
+        "tax_amount": 14.85,
+        "total_ht": 396.02,
+        "total_ttc": 211.59
+    }
+}

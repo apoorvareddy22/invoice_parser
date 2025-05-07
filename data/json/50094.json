@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "61955 Christopher Drive Suite 147 North Craig, CO 61282",
+        "id": "FY612"
+    },
+    "invoice": {
+        "bc_no": "Gn23149",
+        "currency_code": "JMD",
+        "date": "30.03.2023",
+        "due_date": "31.08.2006",
+        "number": 213709
+    },
+    "payment": {
+        "bank_name": "Bush Ltd",
+        "bic": "HNWMGBOX",
+        "iban": "NEOM32045943964244"
+    },
+    "products": [
+        {
+            "amount": 142.65,
+            "description": "redefine compelling models",
+            "index": "2",
+            "price": 243.14,
+            "quantity": 1.5,
+            "tax_amount": 60.3,
+            "total_ttc": 494.66,
+            "vat_amount": 5.42
+        },
+        {
+            "amount": 432.31,
+            "description": "facilitate bleeding-edge e-commerce",
+            "index": "7",
+            "price": 213.07,
+            "quantity": 2.87,
+            "tax_amount": 80.69,
+            "total_ttc": 245.59,
+            "vat_amount": 5.26
+        },
+        {
+            "amount": 32.17,
+            "description": "mesh dot-com functionalities",
+            "index": "4",
+            "price": 54.03,
+            "quantity": 7.71,
+            "tax_amount": 76.48,
+            "total_ttc": 459.85,
+            "vat_amount": 3.22
+        },
+        {
+            "amount": 78.62,
+            "description": "visualize revolutionary convergence",
+            "index": "10",
+            "price": 482.16,
+            "quantity": 5.29,
+            "tax_amount": 10.36,
+            "total_ttc": 147.48,
+            "vat_amount": 1.32
+        },
+        {
+            "amount": 84.06,
+            "description": "monetize web-enabled paradigms",
+            "index": "10",
+            "price": 316.55,
+            "quantity": 7.31,
+            "tax_amount": 38.39,
+            "total_ttc": 164.38,
+            "vat_amount": 8.14
+        }
+    ],
+    "seller": {
+        "name": "Amy Rice"
+    },
+    "supplier": {
+        "address": "2566 Ian River Suite 786 Albertmouth, FL 54358",
+        "name": "Mary Rasmussen"
+    },
+    "tax": {
+        "amount_excluding_tax": 57.61,
+        "amount_including_tax": 188.1,
+        "tax_amount": 13.38,
+        "total_ht": 405.17,
+        "total_ttc": 203.33
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "USS Howard FPO AE 63560",
+        "company_name": "Scott LLC",
+        "country": "Saudi Arabia",
+        "name": "Brian Franklin"
+    },
+    "invoice": {
+        "date": "01.10.2001",
+        "number": 846814
+    },
+    "payment": {
+        "discount_amount": 27.99,
+        "discount_percentage": 7.57,
+        "due": 140.85,
+        "sub_total": 136.86,
+        "total": 963.52
+    },
+    "products": [
+        {
+            "description": "optimize 24/7 initiatives",
+            "index": "10",
+            "quantity": 9.97,
+            "total_price": 337.81,
+            "unit_price": 55.18
+        },
+        {
+            "description": "exploit integrated relationships",
+            "index": "10",
+            "quantity": 9.77,
+            "total_price": 574.67,
+            "unit_price": 91.33
+        },
+        {
+            "description": "redefine viral e-markets",
+            "index": "10",
+            "quantity": 3.93,
+            "total_price": 417.78,
+            "unit_price": 67.26
+        }
+    ],
+    "seller": {
+        "address": "970 Evans Heights Suite 407 Martinbury, NC 59941",
+        "company_name": "Phillips-Hall",
+        "vat_no": "co68015153686"
+    }
+}

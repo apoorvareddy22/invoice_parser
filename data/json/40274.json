@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "488 Black Trail Stephanieside, DC 58679"
+    },
+    "invoice": {
+        "bc_no": "Rw75013",
+        "date": "23.05.2013",
+        "maturity_date": "17.12.2007",
+        "number": 592522
+    },
+    "products": [
+        {
+            "amount": 351.51,
+            "description": "redefine e-business interfaces",
+            "quantity": 4.6,
+            "unit_price": 49.8,
+            "vat_amount": 0.14
+        },
+        {
+            "amount": 167.55,
+            "description": "deliver cross-media models",
+            "quantity": 1.08,
+            "unit_price": 89.39,
+            "vat_amount": 4.26
+        }
+    ],
+    "seller": {
+        "address": "PSC 8983, Box 5636 APO AE 31316"
+    },
+    "tax": {
+        "amount_excluding_tax": 112.56,
+        "amount_including_tax": 165.22,
+        "tax_amount": 22.95
+    }
+}

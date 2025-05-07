@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "USCGC Matthews FPO AE 23106",
+        "id": "zA925"
+    },
+    "invoice": {
+        "bc_no": "KL31478",
+        "currency_code": "SDG",
+        "date": "23.12.2010",
+        "due_date": "24.11.1998",
+        "number": 578064
+    },
+    "payment": {
+        "bank_name": "Crosby-Gonzalez",
+        "bic": "MBKQGBT9BCO",
+        "iban": "AWFT84746647159033"
+    },
+    "products": [
+        {
+            "amount": 373.29,
+            "description": "empower frictionless vortals",
+            "index": "3",
+            "price": 453.74,
+            "quantity": 4.58,
+            "tax_amount": 75.42,
+            "total_ttc": 416.83,
+            "vat_amount": 2.63
+        },
+        {
+            "amount": 496.89,
+            "description": "morph global methodologies",
+            "index": "3",
+            "price": 99.07,
+            "quantity": 5.82,
+            "tax_amount": 40.83,
+            "total_ttc": 308.4,
+            "vat_amount": 6.32
+        }
+    ],
+    "seller": {
+        "name": "Darlene Herrera"
+    },
+    "supplier": {
+        "address": "Unit 3467 Box 0071 DPO AA 06027",
+        "name": "Kristen Wilson"
+    },
+    "tax": {
+        "amount_excluding_tax": 172.36,
+        "amount_including_tax": 21.18,
+        "tax_amount": 18.61,
+        "total_ht": 461.66,
+        "total_ttc": 185.37
+    }
+}

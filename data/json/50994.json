@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "46536 Michael Mountains Melindabury, MH 29632",
+        "id": "hY008"
+    },
+    "invoice": {
+        "bc_no": "hC75661",
+        "currency_code": "HNL",
+        "date": "21.10.2011",
+        "due_date": "30.01.2019",
+        "number": 195414
+    },
+    "payment": {
+        "bank_name": "Gonzalez-Mcneil",
+        "bic": "NYWVGBTW",
+        "iban": "RSBR48677486481781"
+    },
+    "products": [
+        {
+            "amount": 312.0,
+            "description": "synthesize next-generation ROI",
+            "index": "9",
+            "price": 55.57,
+            "quantity": 8.46,
+            "tax_amount": 55.6,
+            "total_ttc": 474.49,
+            "vat_amount": 6.97
+        },
+        {
+            "amount": 188.18,
+            "description": "empower real-time architectures",
+            "index": "2",
+            "price": 177.66,
+            "quantity": 1.24,
+            "tax_amount": 91.5,
+            "total_ttc": 426.33,
+            "vat_amount": 1.13
+        },
+        {
+            "amount": 124.82,
+            "description": "syndicate distributed users",
+            "index": "1",
+            "price": 241.9,
+            "quantity": 8.48,
+            "tax_amount": 76.35,
+            "total_ttc": 129.59,
+            "vat_amount": 3.74
+        },
+        {
+            "amount": 362.32,
+            "description": "embrace best-of-breed bandwidth",
+            "index": "1",
+            "price": 379.34,
+            "quantity": 9.52,
+            "tax_amount": 93.38,
+            "total_ttc": 471.37,
+            "vat_amount": 0.7
+        },
+        {
+            "amount": 276.01,
+            "description": "visualize cutting-edge relationships",
+            "index": "6",
+            "price": 368.75,
+            "quantity": 2.71,
+            "tax_amount": 55.7,
+            "total_ttc": 288.89,
+            "vat_amount": 8.44
+        },
+        {
+            "amount": 119.03,
+            "description": "visualize scalable vortals",
+            "index": "7",
+            "price": 237.47,
+            "quantity": 9.89,
+            "tax_amount": 18.87,
+            "total_ttc": 270.04,
+            "vat_amount": 4.28
+        },
+        {
+            "amount": 215.54,
+            "description": "enhance leading-edge applications",
+            "index": "4",
+            "price": 400.4,
+            "quantity": 5.59,
+            "tax_amount": 94.29,
+            "total_ttc": 470.49,
+            "vat_amount": 8.31
+        }
+    ],
+    "seller": {
+        "name": "Amy Williams"
+    },
+    "supplier": {
+        "address": "17908 Donald Island Suite 722 East George, AL 51105",
+        "name": "Rachel Wilson"
+    },
+    "tax": {
+        "amount_excluding_tax": 181.26,
+        "amount_including_tax": 32.0,
+        "tax_amount": 22.98,
+        "total_ht": 331.99,
+        "total_ttc": 153.22
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "14185 Kristen Glen Suite 771 Charleschester, MD 66313"
+    },
+    "invoice": {
+        "bc_no": "aF26406",
+        "date": "21.05.2008",
+        "maturity_date": "10.05.2020",
+        "number": 401443
+    },
+    "products": [
+        {
+            "amount": 360.58,
+            "description": "visualize wireless interfaces",
+            "quantity": 1.86,
+            "unit_price": 73.52,
+            "vat_amount": 9.21
+        },
+        {
+            "amount": 40.69,
+            "description": "morph real-time bandwidth",
+            "quantity": 2.67,
+            "unit_price": 30.27,
+            "vat_amount": 6.35
+        },
+        {
+            "amount": 30.02,
+            "description": "evolve customized technologies",
+            "quantity": 1.79,
+            "unit_price": 15.94,
+            "vat_amount": 0.14
+        },
+        {
+            "amount": 278.89,
+            "description": "productize holistic portals",
+            "quantity": 8.93,
+            "unit_price": 72.77,
+            "vat_amount": 1.36
+        },
+        {
+            "amount": 23.2,
+            "description": "transform enterprise info-mediaries",
+            "quantity": 7.98,
+            "unit_price": 53.25,
+            "vat_amount": 8.61
+        },
+        {
+            "amount": 24.94,
+            "description": "brand intuitive e-commerce",
+            "quantity": 4.08,
+            "unit_price": 79.33,
+            "vat_amount": 0.63
+        }
+    ],
+    "seller": {
+        "address": "462 Walker Falls Apt. 433 Castillobury, SD 89509"
+    },
+    "tax": {
+        "amount_excluding_tax": 59.99,
+        "amount_including_tax": 177.71,
+        "tax_amount": 13.28
+    }
+}

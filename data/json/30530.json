@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "15740 David Throughway Mckinneyland, SD 23303",
+        "company_name": "Nelson-Brown",
+        "country": "Russian Federation",
+        "email": "lzimmerman@example.org",
+        "name": "Timothy Howard",
+        "phone": "421.544.9578",
+        "vat_no": "vA07148648188"
+    },
+    "invoice": {
+        "date": "28.12.1998",
+        "due_date": "18.05.2020",
+        "linked_invoice": "ZC-1820-0502",
+        "notes": "streamline impactful e-markets",
+        "number": "eS-5320-2849"
+    },
+    "products": [
+        {
+            "description": "enhance one-to-one web services",
+            "discount_percentage": 9.88,
+            "price": 78.07,
+            "quantity": 5.39,
+            "unit_price": 98.3
+        },
+        {
+            "description": "enhance turn-key systems",
+            "discount_percentage": 15.56,
+            "price": 266.39,
+            "quantity": 8.6,
+            "unit_price": 80.06
+        },
+        {
+            "description": "synthesize turn-key architectures",
+            "discount_percentage": 14.64,
+            "price": 410.77,
+            "quantity": 4.8,
+            "unit_price": 97.3
+        }
+    ],
+    "seller": {
+        "address": "719 Brock Extensions Josephborough, NC 10810",
+        "ape": "9492c",
+        "capital": 11756770,
+        "country": "Qatar",
+        "email": "veronica31@example.com",
+        "name": "Erin Perry",
+        "phone_1": "235.200.1808x08489",
+        "phone_2": "(663)905-1243x91924",
+        "phone_3": "001-681-931-5885",
+        "ref_walk": "AKUo0439",
+        "reference": "nR126",
+        "siret": 52831846905424,
+        "vat_no": "bE50047549731",
+        "website": "http://ramirez-greene.com/"
+    },
+    "tax": {
+        "amount_0": 26.56,
+        "amount_1": 21.1,
+        "base_0": 20.54,
+        "base_1": 42.08,
+        "total_ht": 301.85,
+        "total_tax": 15.86,
+        "total_ttc": 286.23,
+        "vat_0": 22.69,
+        "vat_1": 19.49
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "80535 Michael Pine Apt. 008 Goodmanbury, NV 56646",
+        "email": "jonesdaniel@example.org",
+        "phone": "(827)765-5710x186",
+        "vat_no": "kU62102786860"
+    },
+    "invoice": {
+        "date": "21.05.2021",
+        "due_date": "07.04.2014",
+        "market_reference": 786250,
+        "notes": "repurpose strategic communities",
+        "number": "0597-0529",
+        "reference": 331531,
+        "vat_no": "Pq79771287203"
+    },
+    "payment": {
+        "net_total": 168.78,
+        "total": 543.87
+    },
+    "products": [
+        {
+            "amount": 90.88,
+            "description": "incubate collaborative action-items",
+            "hours": 9.25,
+            "rate": 7.47
+        },
+        {
+            "amount": 307.27,
+            "description": "morph end-to-end bandwidth",
+            "hours": 3.48,
+            "rate": 7.24
+        },
+        {
+            "amount": 52.86,
+            "description": "seize customized ROI",
+            "hours": 1.87,
+            "rate": 2.76
+        }
+    ],
+    "seller": {
+        "address": "325 Colleen Roads Wardhaven, IA 45718",
+        "email": "frykerri@example.org",
+        "name": "Tiffany Reyes"
+    },
+    "tax": {
+        "base": 12.73,
+        "tax_amount": 26.15,
+        "total_tax": 14.08
+    }
+}

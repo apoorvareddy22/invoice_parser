@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "USNS Cruz FPO AA 64058",
+        "email": "jordanperez@example.org",
+        "phone": "(207)467-1551x6087",
+        "vat_no": "mE14565781352"
+    },
+    "invoice": {
+        "date": "29.06.2019",
+        "due_date": "31.12.2018",
+        "market_reference": 640657,
+        "notes": "re-intermediate integrated architectures",
+        "number": "4009-2485",
+        "reference": 233107,
+        "vat_no": "Jp66433981241"
+    },
+    "payment": {
+        "net_total": 79.34,
+        "total": 176.15
+    },
+    "products": [
+        {
+            "amount": 19.67,
+            "description": "optimize dynamic channels",
+            "hours": 8.57,
+            "rate": 2.56
+        },
+        {
+            "amount": 345.5,
+            "description": "re-contextualize user-centric systems",
+            "hours": 8.64,
+            "rate": 6.85
+        },
+        {
+            "amount": 170.88,
+            "description": "utilize efficient communities",
+            "hours": 1.49,
+            "rate": 2.81
+        },
+        {
+            "amount": 74.16,
+            "description": "drive extensible e-markets",
+            "hours": 6.34,
+            "rate": 6.43
+        },
+        {
+            "amount": 143.11,
+            "description": "orchestrate customized synergies",
+            "hours": 2.81,
+            "rate": 7.59
+        },
+        {
+            "amount": 367.03,
+            "description": "target dot-com models",
+            "hours": 2.65,
+            "rate": 5.17
+        },
+        {
+            "amount": 388.95,
+            "description": "incubate integrated web services",
+            "hours": 1.69,
+            "rate": 2.86
+        }
+    ],
+    "seller": {
+        "address": "USNS Mckee FPO AA 11225",
+        "email": "djohnson@example.net",
+        "name": "Lori Powell"
+    },
+    "tax": {
+        "base": 21.51,
+        "tax_amount": 17.83,
+        "total_tax": 11.81
+    }
+}

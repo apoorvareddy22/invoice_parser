@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "588 Reid Union East Roseville, MA 64765",
+        "business_no": "PZ297",
+        "id": "Vi541"
+    },
+    "invoice": {
+        "date": "07.10.2016",
+        "number": "4390-5647"
+    },
+    "payment": {
+        "due_date": "01.08.2015",
+        "total": 713.6
+    },
+    "products": [
+        {
+            "amount": 432.46,
+            "description": "syndicate rich metrics",
+            "quantity": 7.76,
+            "reference": "JK-401",
+            "unit_price": 34.42
+        },
+        {
+            "amount": 376.57,
+            "description": "engage transparent eyeballs",
+            "quantity": 4.15,
+            "reference": "hu-499",
+            "unit_price": 72.22
+        },
+        {
+            "amount": 470.35,
+            "description": "re-intermediate cross-platform content",
+            "quantity": 4.62,
+            "reference": "ND-626",
+            "unit_price": 71.96
+        },
+        {
+            "amount": 217.46,
+            "description": "syndicate killer architectures",
+            "quantity": 1.72,
+            "reference": "UD-429",
+            "unit_price": 57.21
+        },
+        {
+            "amount": 280.95,
+            "description": "re-contextualize extensible technologies",
+            "quantity": 8.72,
+            "reference": "rX-758",
+            "unit_price": 49.11
+        }
+    ],
+    "seller": {
+        "address": "848 Michael Canyon Suite 294 Wallacemouth, MP 51428"
+    },
+    "tax": {
+        "base_ht": 264.35,
+        "regulations": 24.46,
+        "total_ht": 327.67,
+        "vat_amount": 111.71,
+        "vat_percentage": 14.39
+    }
+}

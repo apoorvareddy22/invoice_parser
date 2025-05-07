@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "6993 Erik Glen Suite 673 New Elizabethbury, CT 21590",
+        "email": "david76@example.net",
+        "phone": "5745963403",
+        "vat_no": "xo18127601587"
+    },
+    "invoice": {
+        "date": "22.10.2004",
+        "due_date": "21.10.1998",
+        "market_reference": 638040,
+        "notes": "whiteboard sticky metrics",
+        "number": "8358-6267",
+        "reference": 511042,
+        "vat_no": "zM27033509545"
+    },
+    "payment": {
+        "net_total": 149.21,
+        "total": 681.68
+    },
+    "products": [
+        {
+            "amount": 284.23,
+            "description": "target bleeding-edge functionalities",
+            "hours": 7.21,
+            "rate": 4.41
+        },
+        {
+            "amount": 437.05,
+            "description": "extend value-added channels",
+            "hours": 2.19,
+            "rate": 3.45
+        },
+        {
+            "amount": 269.17,
+            "description": "strategize scalable vortals",
+            "hours": 4.32,
+            "rate": 1.44
+        }
+    ],
+    "seller": {
+        "address": "982 Hess Square Apt. 635 Anthonyshire, DE 44021",
+        "email": "amber01@example.org",
+        "name": "Alexander Meza"
+    },
+    "tax": {
+        "base": 12.53,
+        "tax_amount": 23.0,
+        "total_tax": 23.42
+    }
+}

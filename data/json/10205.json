@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "61764 Todd Coves Suite 819 Smithside, ME 42059",
+        "email": "danielpeterson@example.com",
+        "phone": "001-282-600-0098x585",
+        "vat_no": "Ef90603413159"
+    },
+    "invoice": {
+        "date": "30.09.2013",
+        "due_date": "25.06.2016",
+        "market_reference": 212093,
+        "notes": "e-enable 24/7 synergies",
+        "number": "5481-9258",
+        "reference": 428872,
+        "vat_no": "mk11315862524"
+    },
+    "payment": {
+        "net_total": 141.31,
+        "total": 115.35
+    },
+    "products": [
+        {
+            "amount": 458.16,
+            "description": "scale visionary info-mediaries",
+            "hours": 1.82,
+            "rate": 5.97
+        }
+    ],
+    "seller": {
+        "address": "00183 Alex Islands Bowenhaven, VT 53970",
+        "email": "richard37@example.com",
+        "name": "Joseph Butler"
+    },
+    "tax": {
+        "base": 15.42,
+        "tax_amount": 10.52,
+        "total_tax": 15.86
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "84113 Hawkins Village West Jessica, OK 96014",
+        "email": "rmiller@example.com",
+        "phone": "+1-730-397-9838x53887",
+        "vat_no": "XW58990469284"
+    },
+    "invoice": {
+        "date": "06.04.2002",
+        "due_date": "23.02.2017",
+        "market_reference": 608048,
+        "notes": "re-intermediate collaborative schemas",
+        "number": "1293-1498",
+        "reference": 111422,
+        "vat_no": "Vm98652224571"
+    },
+    "payment": {
+        "net_total": 155.71,
+        "total": 298.89
+    },
+    "products": [
+        {
+            "amount": 331.74,
+            "description": "harness B2C mindshare",
+            "hours": 7.34,
+            "rate": 3.69
+        },
+        {
+            "amount": 124.32,
+            "description": "utilize global bandwidth",
+            "hours": 5.92,
+            "rate": 6.33
+        },
+        {
+            "amount": 307.95,
+            "description": "unleash ubiquitous schemas",
+            "hours": 6.16,
+            "rate": 2.96
+        },
+        {
+            "amount": 144.7,
+            "description": "envisioneer turn-key channels",
+            "hours": 7.49,
+            "rate": 8.78
+        },
+        {
+            "amount": 183.09,
+            "description": "enable cross-media bandwidth",
+            "hours": 5.53,
+            "rate": 9.82
+        },
+        {
+            "amount": 266.48,
+            "description": "strategize ubiquitous experiences",
+            "hours": 2.59,
+            "rate": 1.96
+        }
+    ],
+    "seller": {
+        "address": "2394 Kelly Ranch Apt. 108 Halebury, KS 81820",
+        "email": "edward03@example.org",
+        "name": "Timothy Ray"
+    },
+    "tax": {
+        "base": 15.84,
+        "tax_amount": 14.46,
+        "total_tax": 29.73
+    }
+}

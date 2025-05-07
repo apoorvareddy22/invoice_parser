@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "6807 Schroeder Mill Suite 354 Stephenside, MA 52536"
+    },
+    "invoice": {
+        "bc_no": "XR11656",
+        "date": "09.02.2015",
+        "maturity_date": "14.01.2019",
+        "number": 247182
+    },
+    "products": [
+        {
+            "amount": 226.83,
+            "description": "orchestrate web-enabled niches",
+            "quantity": 2.05,
+            "unit_price": 36.59,
+            "vat_amount": 5.37
+        },
+        {
+            "amount": 400.0,
+            "description": "enable bricks-and-clicks experiences",
+            "quantity": 3.16,
+            "unit_price": 53.68,
+            "vat_amount": 1.01
+        }
+    ],
+    "seller": {
+        "address": "8146 Ross Inlet Apt. 272 Perezport, NJ 75426"
+    },
+    "tax": {
+        "amount_excluding_tax": 86.41,
+        "amount_including_tax": 100.88,
+        "tax_amount": 16.63
+    }
+}

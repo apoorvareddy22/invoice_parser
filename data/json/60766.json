@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "190 James Ranch Velezstad, KY 37294",
+        "business_no": "Dm492",
+        "id": "jf282"
+    },
+    "invoice": {
+        "date": "19.12.2021",
+        "number": "9163-5626"
+    },
+    "payment": {
+        "due_date": "03.11.2023",
+        "total": 771.41
+    },
+    "products": [
+        {
+            "amount": 396.22,
+            "description": "engage cutting-edge communities",
+            "quantity": 8.73,
+            "reference": "Jy-430",
+            "unit_price": 79.14
+        },
+        {
+            "amount": 322.33,
+            "description": "productize seamless channels",
+            "quantity": 9.05,
+            "reference": "uk-205",
+            "unit_price": 90.57
+        }
+    ],
+    "seller": {
+        "address": "50716 Lawson Streets Apt. 095 North Nathanport, MT 56666"
+    },
+    "tax": {
+        "base_ht": 445.62,
+        "regulations": 19.98,
+        "total_ht": 307.05,
+        "vat_amount": 14.91,
+        "vat_percentage": 27.88
+    }
+}

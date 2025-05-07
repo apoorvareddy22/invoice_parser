@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "372 Thomas Port Apt. 432 Port Juanmouth, SD 70856",
+        "id": "Dp959"
+    },
+    "invoice": {
+        "bc_no": "We56641",
+        "currency_code": "ALL",
+        "date": "14.05.2014",
+        "due_date": "21.11.1991",
+        "number": 685279
+    },
+    "payment": {
+        "bank_name": "Nunez, Fisher and Case",
+        "bic": "IDTRGBRM9TI",
+        "iban": "XZTA35605572243810"
+    },
+    "products": [
+        {
+            "amount": 198.5,
+            "description": "generate distributed communities",
+            "index": "7",
+            "price": 489.57,
+            "quantity": 3.82,
+            "tax_amount": 49.23,
+            "total_ttc": 234.06,
+            "vat_amount": 0.04
+        },
+        {
+            "amount": 390.23,
+            "description": "exploit intuitive mindshare",
+            "index": "5",
+            "price": 494.98,
+            "quantity": 6.4,
+            "tax_amount": 60.51,
+            "total_ttc": 114.56,
+            "vat_amount": 4.92
+        }
+    ],
+    "seller": {
+        "name": "Michele Duncan"
+    },
+    "supplier": {
+        "address": "665 Sanders Underpass Port Brianville, DC 33603",
+        "name": "Karl Dunn"
+    },
+    "tax": {
+        "amount_excluding_tax": 101.38,
+        "amount_including_tax": 98.56,
+        "tax_amount": 17.84,
+        "total_ht": 211.23,
+        "total_ttc": 438.21
+    }
+}

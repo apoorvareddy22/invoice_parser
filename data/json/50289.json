@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "59802 Mcdonald Union Apt. 173 Jenniferstad, MN 42421",
+        "id": "OO041"
+    },
+    "invoice": {
+        "bc_no": "lh55563",
+        "currency_code": "HNL",
+        "date": "06.07.2015",
+        "due_date": "22.01.1990",
+        "number": 481510
+    },
+    "payment": {
+        "bank_name": "Hicks LLC",
+        "bic": "LFGOGBJAUFX",
+        "iban": "ZZDP78797459960231"
+    },
+    "products": [
+        {
+            "amount": 380.66,
+            "description": "aggregate global info-mediaries",
+            "index": "5",
+            "price": 435.38,
+            "quantity": 1.35,
+            "tax_amount": 54.34,
+            "total_ttc": 458.45,
+            "vat_amount": 7.5
+        },
+        {
+            "amount": 205.27,
+            "description": "visualize granular e-business",
+            "index": "6",
+            "price": 274.22,
+            "quantity": 4.42,
+            "tax_amount": 99.68,
+            "total_ttc": 303.41,
+            "vat_amount": 3.17
+        },
+        {
+            "amount": 79.35,
+            "description": "benchmark 24/365 convergence",
+            "index": "10",
+            "price": 495.78,
+            "quantity": 7.19,
+            "tax_amount": 44.23,
+            "total_ttc": 289.57,
+            "vat_amount": 10.81
+        },
+        {
+            "amount": 9.53,
+            "description": "extend efficient interfaces",
+            "index": "1",
+            "price": 326.38,
+            "quantity": 8.6,
+            "tax_amount": 27.07,
+            "total_ttc": 228.8,
+            "vat_amount": 5.77
+        },
+        {
+            "amount": 20.37,
+            "description": "transition back-end e-business",
+            "index": "2",
+            "price": 60.52,
+            "quantity": 3.38,
+            "tax_amount": 15.25,
+            "total_ttc": 310.44,
+            "vat_amount": 0.22
+        }
+    ],
+    "seller": {
+        "name": "Jenna Cooper"
+    },
+    "supplier": {
+        "address": "374 Billy Valleys Patelborough, MS 24825",
+        "name": "Donna Vincent"
+    },
+    "tax": {
+        "amount_excluding_tax": 176.28,
+        "amount_including_tax": 82.61,
+        "tax_amount": 20.03,
+        "total_ht": 428.37,
+        "total_ttc": 394.67
+    }
+}

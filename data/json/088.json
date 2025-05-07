@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "510 Calderon Centers Suite 899 East Tammyland, GU 96418",
+        "company_name": "Jenkins-Wyatt",
+        "country": "Egypt",
+        "name": "Robert Peterson"
+    },
+    "invoice": {
+        "date": "04.01.2006",
+        "number": 969747
+    },
+    "payment": {
+        "discount_amount": 20.78,
+        "discount_percentage": 5.73,
+        "due": 12.41,
+        "sub_total": 33.51,
+        "total": 850.26
+    },
+    "products": [
+        {
+            "description": "aggregate ubiquitous action-items",
+            "index": "10",
+            "quantity": 3.03,
+            "total_price": 755.87,
+            "unit_price": 91.22
+        },
+        {
+            "description": "integrate robust vortals",
+            "index": "4",
+            "quantity": 6.01,
+            "total_price": 531.05,
+            "unit_price": 94.5
+        },
+        {
+            "description": "optimize wireless systems",
+            "index": "5",
+            "quantity": 3.66,
+            "total_price": 225.99,
+            "unit_price": 35.76
+        }
+    ],
+    "seller": {
+        "address": "65123 Heather Prairie Suite 973 Port Randy, IA 86525",
+        "company_name": "Wilson, Thomas and Hardy",
+        "vat_no": "GV77638943853"
+    }
+}

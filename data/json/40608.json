@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "8002 Williams Greens Apt. 465 East Wendyside, NC 26013"
+    },
+    "invoice": {
+        "bc_no": "Pt26359",
+        "date": "13.04.2007",
+        "maturity_date": "26.06.2015",
+        "number": 861032
+    },
+    "products": [
+        {
+            "amount": 470.56,
+            "description": "transition virtual networks",
+            "quantity": 1.07,
+            "unit_price": 54.77,
+            "vat_amount": 4.48
+        },
+        {
+            "amount": 48.5,
+            "description": "innovate turn-key action-items",
+            "quantity": 7.4,
+            "unit_price": 11.63,
+            "vat_amount": 9.18
+        }
+    ],
+    "seller": {
+        "address": "75123 Kristen Tunnel South Markstad, WA 08671"
+    },
+    "tax": {
+        "amount_excluding_tax": 134.1,
+        "amount_including_tax": 153.04,
+        "tax_amount": 12.86
+    }
+}

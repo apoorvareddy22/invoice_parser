@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "655 Wilson Club North Kellyhaven, MN 41675",
+        "company_name": "Velasquez Inc",
+        "email": "adamskelly@example.com",
+        "name": "Dominique Sullivan",
+        "phone": "(948)537-5957x3444"
+    },
+    "invoice": {
+        "date": "07.07.2000",
+        "due_date": "07.07.2008",
+        "number": "RPH22875366079"
+    },
+    "payment": {
+        "account_number": 5511629769,
+        "bank_name": "Moore, Hart and Cantrell",
+        "routing_number": 807444436
+    },
+    "products": [
+        {
+            "amount": 138.47,
+            "description": "transition web-enabled vortals",
+            "index": "2",
+            "quantity": 1.79,
+            "unit_price": 17.65
+        },
+        {
+            "amount": 268.39,
+            "description": "productize enterprise models",
+            "index": "4",
+            "quantity": 2.13,
+            "unit_price": 35.0
+        },
+        {
+            "amount": 64.42,
+            "description": "deliver integrated relationships",
+            "index": "5",
+            "quantity": 9.75,
+            "unit_price": 17.02
+        }
+    ],
+    "seller": {
+        "address": "Unit 9853 Box 3883 DPO AP 06469",
+        "company_name": "Nunez, Davis and Rosales",
+        "email": "ksmith@example.com"
+    }
+}

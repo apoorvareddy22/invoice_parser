@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "200 Peterson Hollow Apt. 343 Jamieside, VA 95641",
+        "company_name": "Landry-Harris",
+        "country": "Samoa",
+        "name": "Zachary Smith"
+    },
+    "invoice": {
+        "date": "04.01.2017",
+        "number": 592339
+    },
+    "payment": {
+        "discount_amount": 22.49,
+        "discount_percentage": 6.27,
+        "due": 81.12,
+        "sub_total": 169.74,
+        "total": 926.94
+    },
+    "products": [
+        {
+            "description": "enhance intuitive platforms",
+            "index": "9",
+            "quantity": 4.53,
+            "total_price": 96.21,
+            "unit_price": 73.98
+        },
+        {
+            "description": "envisioneer efficient web-readiness",
+            "index": "4",
+            "quantity": 6.02,
+            "total_price": 614.75,
+            "unit_price": 72.01
+        },
+        {
+            "description": "syndicate real-time initiatives",
+            "index": "9",
+            "quantity": 6.17,
+            "total_price": 12.93,
+            "unit_price": 60.93
+        },
+        {
+            "description": "utilize back-end web-readiness",
+            "index": "8",
+            "quantity": 6.71,
+            "total_price": 897.3,
+            "unit_price": 68.47
+        }
+    ],
+    "seller": {
+        "address": "513 Hector Parkway Waltersside, HI 08761",
+        "company_name": "Montgomery Ltd",
+        "vat_no": "GP45341634672"
+    }
+}

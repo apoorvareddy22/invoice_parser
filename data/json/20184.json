@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "38106 Harper Spur Port Anthony, GU 25145",
+        "company_name": "Brown-Marshall",
+        "email": "melissajoseph@example.org",
+        "name": "Elizabeth Brown",
+        "phone": "(581)858-2756x328"
+    },
+    "invoice": {
+        "date": "03.05.1998",
+        "due_date": "23.04.1999",
+        "number": "rxL73762247926"
+    },
+    "payment": {
+        "account_number": 4878972749,
+        "bank_name": "Freeman-Foster",
+        "routing_number": 210258773
+    },
+    "products": [
+        {
+            "amount": 288.87,
+            "description": "facilitate interactive synergies",
+            "index": "5",
+            "quantity": 5.32,
+            "unit_price": 82.49
+        },
+        {
+            "amount": 143.08,
+            "description": "whiteboard dot-com initiatives",
+            "index": "7",
+            "quantity": 5.01,
+            "unit_price": 33.8
+        },
+        {
+            "amount": 348.58,
+            "description": "monetize out-of-the-box interfaces",
+            "index": "4",
+            "quantity": 6.58,
+            "unit_price": 84.66
+        },
+        {
+            "amount": 428.82,
+            "description": "seize end-to-end relationships",
+            "index": "4",
+            "quantity": 2.16,
+            "unit_price": 55.18
+        }
+    ],
+    "seller": {
+        "address": "USNS Rivas FPO AA 19613",
+        "company_name": "Johnson, Reynolds and Hancock",
+        "email": "margaret31@example.org"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "7223 Matthews Village Apt. 248 Brittanyland, NE 46004",
+        "company_name": "Jones, Hanson and Williamson",
+        "email": "hlittle@example.com",
+        "name": "Amy Becker",
+        "phone": "(487)643-3361"
+    },
+    "invoice": {
+        "date": "01.06.1992",
+        "due_date": "02.11.2020",
+        "number": "SaW41477763341"
+    },
+    "payment": {
+        "account_number": 5260523910,
+        "bank_name": "Mays-Mckenzie",
+        "routing_number": 572478834
+    },
+    "products": [
+        {
+            "amount": 23.65,
+            "description": "target end-to-end e-tailers",
+            "index": "4",
+            "quantity": 1.17,
+            "unit_price": 48.51
+        },
+        {
+            "amount": 408.38,
+            "description": "monetize magnetic models",
+            "index": "7",
+            "quantity": 2.42,
+            "unit_price": 95.5
+        },
+        {
+            "amount": 44.71,
+            "description": "embrace bricks-and-clicks experiences",
+            "index": "10",
+            "quantity": 3.57,
+            "unit_price": 43.4
+        }
+    ],
+    "seller": {
+        "address": "90956 Perkins Courts East Debraport, KY 73636",
+        "company_name": "West-Robertson",
+        "email": "jenniferharrington@example.net"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "USNS Carter FPO AP 55814",
+        "company_name": "Watson, Day and Davis",
+        "country": "Peru",
+        "name": "Daniel Martinez"
+    },
+    "invoice": {
+        "date": "21.01.2020",
+        "number": 785422
+    },
+    "payment": {
+        "discount_amount": 11.24,
+        "discount_percentage": 10.21,
+        "due": 116.64,
+        "sub_total": 111.18,
+        "total": 473.39
+    },
+    "products": [
+        {
+            "description": "benchmark customized infrastructures",
+            "index": "8",
+            "quantity": 8.69,
+            "total_price": 720.52,
+            "unit_price": 54.64
+        },
+        {
+            "description": "integrate turn-key schemas",
+            "index": "2",
+            "quantity": 5.76,
+            "total_price": 54.02,
+            "unit_price": 33.79
+        },
+        {
+            "description": "syndicate collaborative communities",
+            "index": "7",
+            "quantity": 9.03,
+            "total_price": 400.41,
+            "unit_price": 22.8
+        },
+        {
+            "description": "embrace clicks-and-mortar content",
+            "index": "4",
+            "quantity": 4.43,
+            "total_price": 920.82,
+            "unit_price": 88.86
+        }
+    ],
+    "seller": {
+        "address": "5481 Contreras Mountain Suite 976 Browntown, NC 07341",
+        "company_name": "Barnes, Harris and Reeves",
+        "vat_no": "UU00745629105"
+    }
+}

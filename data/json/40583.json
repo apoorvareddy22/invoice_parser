@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "69288 Erika Overpass Apt. 513 Danielville, WA 81472"
+    },
+    "invoice": {
+        "bc_no": "ac55154",
+        "date": "25.11.1999",
+        "maturity_date": "20.03.2010",
+        "number": 194758
+    },
+    "products": [
+        {
+            "amount": 67.79,
+            "description": "grow vertical schemas",
+            "quantity": 6.74,
+            "unit_price": 22.81,
+            "vat_amount": 1.15
+        }
+    ],
+    "seller": {
+        "address": "614 Dustin Ports Apt. 054 South Sherri, OH 85929"
+    },
+    "tax": {
+        "amount_excluding_tax": 180.3,
+        "amount_including_tax": 136.14,
+        "tax_amount": 14.17
+    }
+}

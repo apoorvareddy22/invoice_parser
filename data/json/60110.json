@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "924 Perry Flat Masonview, MH 81781",
+        "business_no": "An261",
+        "id": "Ei596"
+    },
+    "invoice": {
+        "date": "21.12.2006",
+        "number": "4407-0323"
+    },
+    "payment": {
+        "due_date": "12.03.2002",
+        "total": 474.54
+    },
+    "products": [
+        {
+            "amount": 420.2,
+            "description": "synergize extensible e-commerce",
+            "quantity": 2.13,
+            "reference": "RY-522",
+            "unit_price": 80.75
+        },
+        {
+            "amount": 169.87,
+            "description": "envisioneer seamless web services",
+            "quantity": 8.24,
+            "reference": "pX-152",
+            "unit_price": 11.09
+        },
+        {
+            "amount": 38.2,
+            "description": "orchestrate real-time web services",
+            "quantity": 2.08,
+            "reference": "YZ-117",
+            "unit_price": 88.18
+        }
+    ],
+    "seller": {
+        "address": "0028 Kyle Rest Gavinport, HI 97832"
+    },
+    "tax": {
+        "base_ht": 223.14,
+        "regulations": 29.1,
+        "total_ht": 475.47,
+        "vat_amount": 94.82,
+        "vat_percentage": 17.92
+    }
+}

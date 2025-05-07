@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "369 Martha Greens Apt. 053 Karenside, MN 14382",
+        "business_no": "RK795",
+        "id": "GP823"
+    },
+    "invoice": {
+        "date": "09.05.2007",
+        "number": "8241-0438"
+    },
+    "payment": {
+        "due_date": "16.04.2022",
+        "total": 328.23
+    },
+    "products": [
+        {
+            "amount": 430.33,
+            "description": "utilize extensible relationships",
+            "quantity": 8.64,
+            "reference": "WK-258",
+            "unit_price": 45.41
+        }
+    ],
+    "seller": {
+        "address": "149 Madden Plain New Courtney, TX 22716"
+    },
+    "tax": {
+        "base_ht": 345.29,
+        "regulations": 24.06,
+        "total_ht": 349.26,
+        "vat_amount": 45.79,
+        "vat_percentage": 17.32
+    }
+}

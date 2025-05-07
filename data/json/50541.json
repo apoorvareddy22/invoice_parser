@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "49108 Hammond Shoal Apt. 540 South Jonathan, MT 22101",
+        "id": "Ed269"
+    },
+    "invoice": {
+        "bc_no": "eC05314",
+        "currency_code": "CRC",
+        "date": "16.03.2015",
+        "due_date": "11.02.2011",
+        "number": 479712
+    },
+    "payment": {
+        "bank_name": "Simon-David",
+        "bic": "AGYRGBZLVB2",
+        "iban": "NFJD10399903064228"
+    },
+    "products": [
+        {
+            "amount": 465.8,
+            "description": "leverage B2B technologies",
+            "index": "6",
+            "price": 152.02,
+            "quantity": 3.02,
+            "tax_amount": 65.86,
+            "total_ttc": 382.08,
+            "vat_amount": 2.7
+        }
+    ],
+    "seller": {
+        "name": "Raymond Thompson"
+    },
+    "supplier": {
+        "address": "5896 Gail Tunnel Suite 931 Lake Stephanietown, MT 93275",
+        "name": "Jason Wyatt"
+    },
+    "tax": {
+        "amount_excluding_tax": 186.03,
+        "amount_including_tax": 43.24,
+        "tax_amount": 16.73,
+        "total_ht": 355.63,
+        "total_ttc": 214.1
+    }
+}

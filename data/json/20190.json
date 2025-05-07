@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "USNV Baker FPO AP 25228",
+        "company_name": "Hammond, Jensen and Cooper",
+        "email": "xjackson@example.org",
+        "name": "Ruben Diaz",
+        "phone": "+1-486-329-4336x609"
+    },
+    "invoice": {
+        "date": "29.12.2008",
+        "due_date": "14.12.2020",
+        "number": "Azz80963688260"
+    },
+    "payment": {
+        "account_number": 7551202735,
+        "bank_name": "Lynch Ltd",
+        "routing_number": 260886791
+    },
+    "products": [
+        {
+            "amount": 401.58,
+            "description": "redefine dot-com functionalities",
+            "index": "7",
+            "quantity": 5.24,
+            "unit_price": 67.44
+        }
+    ],
+    "seller": {
+        "address": "Unit 5482 Box 9588 DPO AA 65071",
+        "company_name": "Smith-Jimenez",
+        "email": "lmitchell@example.org"
+    }
+}

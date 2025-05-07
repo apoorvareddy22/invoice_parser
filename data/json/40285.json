@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "672 Curtis Lane Campbellfurt, GA 19213"
+    },
+    "invoice": {
+        "bc_no": "ba68059",
+        "date": "13.06.1990",
+        "maturity_date": "12.12.2019",
+        "number": 570221
+    },
+    "products": [
+        {
+            "amount": 234.37,
+            "description": "brand vertical niches",
+            "quantity": 7.02,
+            "unit_price": 68.27,
+            "vat_amount": 0.16
+        },
+        {
+            "amount": 322.11,
+            "description": "incubate dot-com models",
+            "quantity": 9.31,
+            "unit_price": 83.05,
+            "vat_amount": 5.43
+        },
+        {
+            "amount": 280.54,
+            "description": "leverage cutting-edge convergence",
+            "quantity": 5.57,
+            "unit_price": 93.43,
+            "vat_amount": 2.47
+        }
+    ],
+    "seller": {
+        "address": "07393 King Via New Brandyview, VI 90557"
+    },
+    "tax": {
+        "amount_excluding_tax": 195.91,
+        "amount_including_tax": 165.25,
+        "tax_amount": 20.02
+    }
+}

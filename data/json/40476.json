@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "357 Lisa View West Edwardburgh, NV 90785"
+    },
+    "invoice": {
+        "bc_no": "iJ57457",
+        "date": "14.10.2009",
+        "maturity_date": "25.12.1990",
+        "number": 251215
+    },
+    "products": [
+        {
+            "amount": 101.63,
+            "description": "re-intermediate B2B convergence",
+            "quantity": 7.77,
+            "unit_price": 71.13,
+            "vat_amount": 2.14
+        },
+        {
+            "amount": 151.01,
+            "description": "transform viral content",
+            "quantity": 3.84,
+            "unit_price": 61.04,
+            "vat_amount": 0.77
+        },
+        {
+            "amount": 296.7,
+            "description": "optimize leading-edge methodologies",
+            "quantity": 7.76,
+            "unit_price": 46.06,
+            "vat_amount": 11.44
+        }
+    ],
+    "seller": {
+        "address": "5774 Curtis Drive Suite 177 Martinport, RI 06771"
+    },
+    "tax": {
+        "amount_excluding_tax": 136.99,
+        "amount_including_tax": 109.37,
+        "tax_amount": 17.68
+    }
+}

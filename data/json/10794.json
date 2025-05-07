@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "Unit 9994 Box 2592 DPO AA 83652",
+        "email": "thompsonholly@example.com",
+        "phone": "264.679.5369",
+        "vat_no": "yP83996834584"
+    },
+    "invoice": {
+        "date": "23.02.2011",
+        "due_date": "20.07.1992",
+        "market_reference": 285301,
+        "notes": "disintermediate revolutionary web services",
+        "number": "3900-4301",
+        "reference": 412885,
+        "vat_no": "wh46414713268"
+    },
+    "payment": {
+        "net_total": 184.06,
+        "total": 778.43
+    },
+    "products": [
+        {
+            "amount": 445.73,
+            "description": "seize rich e-business",
+            "hours": 4.4,
+            "rate": 9.1
+        },
+        {
+            "amount": 470.68,
+            "description": "redefine customized relationships",
+            "hours": 6.69,
+            "rate": 1.89
+        },
+        {
+            "amount": 350.01,
+            "description": "mesh out-of-the-box systems",
+            "hours": 3.06,
+            "rate": 6.22
+        }
+    ],
+    "seller": {
+        "address": "985 Jones Expressway Nolanville, KY 09439",
+        "email": "karenbennett@example.org",
+        "name": "John Campbell"
+    },
+    "tax": {
+        "base": 15.61,
+        "tax_amount": 26.94,
+        "total_tax": 29.83
+    }
+}

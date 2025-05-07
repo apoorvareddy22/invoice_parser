@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "82465 Lewis Stravenue Apt. 481 Mooreberg, DC 49890",
+        "email": "shawn62@example.org",
+        "phone": "780-339-0470",
+        "vat_no": "VS93635206063"
+    },
+    "invoice": {
+        "date": "16.05.2000",
+        "due_date": "05.12.1999",
+        "market_reference": 192062,
+        "notes": "architect interactive supply-chains",
+        "number": "3821-5904",
+        "reference": 187988,
+        "vat_no": "Ir28892648715"
+    },
+    "payment": {
+        "net_total": 106.26,
+        "total": 334.27
+    },
+    "products": [
+        {
+            "amount": 110.42,
+            "description": "benchmark innovative e-commerce",
+            "hours": 7.44,
+            "rate": 1.35
+        },
+        {
+            "amount": 213.97,
+            "description": "leverage robust communities",
+            "hours": 6.17,
+            "rate": 9.97
+        },
+        {
+            "amount": 441.63,
+            "description": "redefine front-end synergies",
+            "hours": 9.76,
+            "rate": 2.11
+        },
+        {
+            "amount": 229.92,
+            "description": "brand holistic models",
+            "hours": 6.15,
+            "rate": 5.37
+        },
+        {
+            "amount": 92.91,
+            "description": "repurpose impactful eyeballs",
+            "hours": 9.09,
+            "rate": 6.48
+        }
+    ],
+    "seller": {
+        "address": "35837 Brandi Wall Apt. 723 Edwardsville, MO 49937",
+        "email": "danielalicia@example.org",
+        "name": "Jennifer Wagner"
+    },
+    "tax": {
+        "base": 29.01,
+        "tax_amount": 19.28,
+        "total_tax": 14.25
+    }
+}

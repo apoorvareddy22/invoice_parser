@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "7778 Tracey Hills Suite 321 West Kevin, PA 63172",
+        "id": "ed456"
+    },
+    "invoice": {
+        "bc_no": "ra86366",
+        "currency_code": "ZAR",
+        "date": "18.10.2021",
+        "due_date": "29.05.1996",
+        "number": 730363
+    },
+    "payment": {
+        "bank_name": "Wood LLC",
+        "bic": "JVDRGBACTBM",
+        "iban": "EFWV54778185324425"
+    },
+    "products": [
+        {
+            "amount": 52.1,
+            "description": "enhance clicks-and-mortar channels",
+            "index": "1",
+            "price": 380.37,
+            "quantity": 6.22,
+            "tax_amount": 30.16,
+            "total_ttc": 191.11,
+            "vat_amount": 6.15
+        },
+        {
+            "amount": 422.37,
+            "description": "re-contextualize open-source infrastructures",
+            "index": "2",
+            "price": 101.66,
+            "quantity": 2.65,
+            "tax_amount": 39.19,
+            "total_ttc": 217.55,
+            "vat_amount": 1.63
+        },
+        {
+            "amount": 285.3,
+            "description": "extend 24/365 partnerships",
+            "index": "6",
+            "price": 394.23,
+            "quantity": 2.31,
+            "tax_amount": 79.24,
+            "total_ttc": 431.72,
+            "vat_amount": 0.78
+        },
+        {
+            "amount": 7.6,
+            "description": "revolutionize robust users",
+            "index": "4",
+            "price": 357.26,
+            "quantity": 3.02,
+            "tax_amount": 72.07,
+            "total_ttc": 322.78,
+            "vat_amount": 7.24
+        }
+    ],
+    "seller": {
+        "name": "Erin Jones"
+    },
+    "supplier": {
+        "address": "505 Jason Union Ramseybury, WV 42688",
+        "name": "Donald Mejia"
+    },
+    "tax": {
+        "amount_excluding_tax": 95.45,
+        "amount_including_tax": 184.47,
+        "tax_amount": 20.17,
+        "total_ht": 487.16,
+        "total_ttc": 190.53
+    }
+}

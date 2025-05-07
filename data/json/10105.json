@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "27708 Melendez Pass Russellville, ND 00814",
+        "email": "barrycastillo@example.com",
+        "phone": "428-357-5927",
+        "vat_no": "HR62104601926"
+    },
+    "invoice": {
+        "date": "11.08.1996",
+        "due_date": "08.04.2018",
+        "market_reference": 865024,
+        "notes": "iterate transparent ROI",
+        "number": "7169-3572",
+        "reference": 195575,
+        "vat_no": "ns82699365379"
+    },
+    "payment": {
+        "net_total": 110.84,
+        "total": 916.06
+    },
+    "products": [
+        {
+            "amount": 492.1,
+            "description": "target wireless systems",
+            "hours": 4.23,
+            "rate": 7.47
+        }
+    ],
+    "seller": {
+        "address": "05742 Christopher Corner Ellenhaven, OK 30182",
+        "email": "xstewart@example.com",
+        "name": "Laurie Cook"
+    },
+    "tax": {
+        "base": 22.38,
+        "tax_amount": 25.63,
+        "total_tax": 25.55
+    }
+}

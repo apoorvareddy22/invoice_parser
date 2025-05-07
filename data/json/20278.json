@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "6082 Adam Locks Apt. 029 Danielborough, MO 66792",
+        "company_name": "Gray, Bryant and Dunlap",
+        "email": "bchung@example.com",
+        "name": "Dr. Erin Villarreal DVM",
+        "phone": "+1-606-257-8286x20491"
+    },
+    "invoice": {
+        "date": "26.02.2022",
+        "due_date": "11.07.1991",
+        "number": "BnZ27288774650"
+    },
+    "payment": {
+        "account_number": 6796588392,
+        "bank_name": "Rogers-Nicholson",
+        "routing_number": 273975015
+    },
+    "products": [
+        {
+            "amount": 101.14,
+            "description": "deploy user-centric content",
+            "index": "4",
+            "quantity": 2.75,
+            "unit_price": 87.42
+        },
+        {
+            "amount": 493.15,
+            "description": "monetize 24/365 info-mediaries",
+            "index": "1",
+            "quantity": 7.08,
+            "unit_price": 99.38
+        },
+        {
+            "amount": 319.3,
+            "description": "drive impactful relationships",
+            "index": "10",
+            "quantity": 2.61,
+            "unit_price": 80.16
+        }
+    ],
+    "seller": {
+        "address": "33372 Johnson Shoal Apt. 343 East Jasonstad, NH 32475",
+        "company_name": "Griffith, Thompson and Lane",
+        "email": "gbrown@example.com"
+    }
+}

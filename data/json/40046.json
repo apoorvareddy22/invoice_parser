@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "7093 Turner Light East Tammyhaven, NC 56661"
+    },
+    "invoice": {
+        "bc_no": "oo81405",
+        "date": "15.06.2002",
+        "maturity_date": "23.05.2010",
+        "number": 772309
+    },
+    "products": [
+        {
+            "amount": 412.84,
+            "description": "facilitate magnetic supply-chains",
+            "quantity": 2.42,
+            "unit_price": 56.0,
+            "vat_amount": 5.56
+        },
+        {
+            "amount": 183.89,
+            "description": "redefine bricks-and-clicks bandwidth",
+            "quantity": 3.2,
+            "unit_price": 18.36,
+            "vat_amount": 5.88
+        },
+        {
+            "amount": 466.01,
+            "description": "transform killer portals",
+            "quantity": 5.48,
+            "unit_price": 48.9,
+            "vat_amount": 5.37
+        },
+        {
+            "amount": 138.72,
+            "description": "transform next-generation communities",
+            "quantity": 9.84,
+            "unit_price": 71.86,
+            "vat_amount": 10.44
+        },
+        {
+            "amount": 222.33,
+            "description": "target collaborative e-commerce",
+            "quantity": 1.4,
+            "unit_price": 22.54,
+            "vat_amount": 1.2
+        }
+    ],
+    "seller": {
+        "address": "728 Timothy Loop Apt. 555 East Paulmouth, KS 20253"
+    },
+    "tax": {
+        "amount_excluding_tax": 160.06,
+        "amount_including_tax": 187.92,
+        "tax_amount": 15.78
+    }
+}

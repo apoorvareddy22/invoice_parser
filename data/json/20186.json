@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "0011 Davis Ridges Suite 206 South Jameshaven, PA 28675",
+        "company_name": "Cook, Hawkins and Lyons",
+        "email": "karen86@example.org",
+        "name": "Abigail Terry",
+        "phone": "001-379-859-2755"
+    },
+    "invoice": {
+        "date": "28.07.2017",
+        "due_date": "14.09.2006",
+        "number": "YDG82264731163"
+    },
+    "payment": {
+        "account_number": 3704140867,
+        "bank_name": "Lester Ltd",
+        "routing_number": 934056950
+    },
+    "products": [
+        {
+            "amount": 365.77,
+            "description": "harness 24/7 web-readiness",
+            "index": "10",
+            "quantity": 9.1,
+            "unit_price": 16.1
+        },
+        {
+            "amount": 235.76,
+            "description": "redefine efficient interfaces",
+            "index": "2",
+            "quantity": 7.68,
+            "unit_price": 39.92
+        },
+        {
+            "amount": 8.76,
+            "description": "transform turn-key info-mediaries",
+            "index": "10",
+            "quantity": 5.19,
+            "unit_price": 98.61
+        },
+        {
+            "amount": 268.74,
+            "description": "incentivize cross-media content",
+            "index": "3",
+            "quantity": 8.63,
+            "unit_price": 85.91
+        },
+        {
+            "amount": 124.55,
+            "description": "e-enable plug-and-play web services",
+            "index": "3",
+            "quantity": 3.2,
+            "unit_price": 98.12
+        }
+    ],
+    "seller": {
+        "address": "6750 Figueroa Creek Apt. 476 West Crystalburgh, KY 45446",
+        "company_name": "Anderson-Jones",
+        "email": "jacobmartinez@example.net"
+    }
+}

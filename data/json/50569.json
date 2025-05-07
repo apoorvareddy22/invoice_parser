@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "79633 Sullivan Cliff Blairbury, CT 63044",
+        "id": "Lg709"
+    },
+    "invoice": {
+        "bc_no": "tl55651",
+        "currency_code": "NOK",
+        "date": "28.04.1996",
+        "due_date": "07.09.2019",
+        "number": 196204
+    },
+    "payment": {
+        "bank_name": "York-Clark",
+        "bic": "JOQGGBWNV3V",
+        "iban": "AIZQ93386564480168"
+    },
+    "products": [
+        {
+            "amount": 418.48,
+            "description": "integrate sticky mindshare",
+            "index": "5",
+            "price": 112.52,
+            "quantity": 2.37,
+            "tax_amount": 82.56,
+            "total_ttc": 229.48,
+            "vat_amount": 3.2
+        },
+        {
+            "amount": 329.02,
+            "description": "strategize enterprise supply-chains",
+            "index": "6",
+            "price": 167.04,
+            "quantity": 4.62,
+            "tax_amount": 66.76,
+            "total_ttc": 320.46,
+            "vat_amount": 8.79
+        },
+        {
+            "amount": 296.02,
+            "description": "incentivize efficient ROI",
+            "index": "4",
+            "price": 482.75,
+            "quantity": 1.72,
+            "tax_amount": 89.84,
+            "total_ttc": 324.15,
+            "vat_amount": 4.15
+        },
+        {
+            "amount": 229.53,
+            "description": "exploit next-generation e-markets",
+            "index": "10",
+            "price": 359.87,
+            "quantity": 7.2,
+            "tax_amount": 88.85,
+            "total_ttc": 364.65,
+            "vat_amount": 5.03
+        },
+        {
+            "amount": 107.78,
+            "description": "transition interactive bandwidth",
+            "index": "3",
+            "price": 55.33,
+            "quantity": 3.81,
+            "tax_amount": 47.06,
+            "total_ttc": 390.69,
+            "vat_amount": 9.95
+        }
+    ],
+    "seller": {
+        "name": "Connie Hammond"
+    },
+    "supplier": {
+        "address": "614 Cantrell Mountain Jessicashire, ND 81321",
+        "name": "Kelly Hughes"
+    },
+    "tax": {
+        "amount_excluding_tax": 115.72,
+        "amount_including_tax": 36.34,
+        "tax_amount": 27.84,
+        "total_ht": 381.43,
+        "total_ttc": 100.76
+    }
+}

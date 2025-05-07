@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "360 Nelson Bridge Salasville, OK 68655",
+        "business_no": "EJ475",
+        "id": "hV453"
+    },
+    "invoice": {
+        "date": "23.03.2002",
+        "number": "6463-8782"
+    },
+    "payment": {
+        "due_date": "19.11.1997",
+        "total": 703.0
+    },
+    "products": [
+        {
+            "amount": 35.08,
+            "description": "aggregate virtual portals",
+            "quantity": 9.47,
+            "reference": "om-383",
+            "unit_price": 38.09
+        },
+        {
+            "amount": 126.95,
+            "description": "iterate customized platforms",
+            "quantity": 4.17,
+            "reference": "aG-149",
+            "unit_price": 36.96
+        },
+        {
+            "amount": 127.6,
+            "description": "disintermediate integrated solutions",
+            "quantity": 1.86,
+            "reference": "GJ-348",
+            "unit_price": 25.34
+        }
+    ],
+    "seller": {
+        "address": "0239 Booth Crescent North Cheyenne, LA 25743"
+    },
+    "tax": {
+        "base_ht": 339.71,
+        "regulations": 25.06,
+        "total_ht": 133.1,
+        "vat_amount": 168.39,
+        "vat_percentage": 25.96
+    }
+}

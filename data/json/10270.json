@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "7457 Graham Isle Jordanshire, WA 96847",
+        "email": "lauren59@example.org",
+        "phone": "(541)940-1846x009",
+        "vat_no": "eQ32296706611"
+    },
+    "invoice": {
+        "date": "14.05.2001",
+        "due_date": "15.11.2003",
+        "market_reference": 421711,
+        "notes": "brand B2C infrastructures",
+        "number": "9613-9055",
+        "reference": 810569,
+        "vat_no": "Xp34558429786"
+    },
+    "payment": {
+        "net_total": 121.55,
+        "total": 686.08
+    },
+    "products": [
+        {
+            "amount": 6.58,
+            "description": "engage leading-edge models",
+            "hours": 2.24,
+            "rate": 8.04
+        },
+        {
+            "amount": 335.33,
+            "description": "exploit rich channels",
+            "hours": 6.79,
+            "rate": 4.68
+        },
+        {
+            "amount": 306.58,
+            "description": "implement dynamic initiatives",
+            "hours": 3.94,
+            "rate": 9.88
+        },
+        {
+            "amount": 492.41,
+            "description": "scale synergistic interfaces",
+            "hours": 8.82,
+            "rate": 4.66
+        },
+        {
+            "amount": 139.55,
+            "description": "transition strategic experiences",
+            "hours": 5.36,
+            "rate": 2.53
+        }
+    ],
+    "seller": {
+        "address": "155 Adam Spurs Suite 236 South Tylerside, AL 47740",
+        "email": "lawrence58@example.net",
+        "name": "Justin Gray"
+    },
+    "tax": {
+        "base": 14.32,
+        "tax_amount": 18.43,
+        "total_tax": 11.22
+    }
+}

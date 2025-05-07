@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "53642 Dawn Lake Suite 119 Robinport, GU 17220"
+    },
+    "invoice": {
+        "bc_no": "aB98713",
+        "date": "11.10.2001",
+        "maturity_date": "30.04.2003",
+        "number": 222028
+    },
+    "products": [
+        {
+            "amount": 267.23,
+            "description": "aggregate cutting-edge web services",
+            "quantity": 1.91,
+            "unit_price": 85.03,
+            "vat_amount": 1.93
+        },
+        {
+            "amount": 465.51,
+            "description": "generate real-time e-business",
+            "quantity": 4.49,
+            "unit_price": 59.16,
+            "vat_amount": 5.47
+        },
+        {
+            "amount": 387.89,
+            "description": "seize synergistic schemas",
+            "quantity": 7.69,
+            "unit_price": 12.63,
+            "vat_amount": 2.58
+        },
+        {
+            "amount": 21.83,
+            "description": "re-intermediate cutting-edge applications",
+            "quantity": 3.28,
+            "unit_price": 59.14,
+            "vat_amount": 5.83
+        },
+        {
+            "amount": 8.99,
+            "description": "empower value-added markets",
+            "quantity": 6.69,
+            "unit_price": 62.92,
+            "vat_amount": 3.96
+        },
+        {
+            "amount": 177.96,
+            "description": "re-intermediate transparent technologies",
+            "quantity": 9.07,
+            "unit_price": 18.0,
+            "vat_amount": 0.46
+        }
+    ],
+    "seller": {
+        "address": "529 James Lane Suite 944 Christopherfurt, FL 05612"
+    },
+    "tax": {
+        "amount_excluding_tax": 102.18,
+        "amount_including_tax": 73.22,
+        "tax_amount": 22.79
+    }
+}

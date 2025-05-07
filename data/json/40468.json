@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "Unit 9797 Box 7162 DPO AE 81156"
+    },
+    "invoice": {
+        "bc_no": "XG27031",
+        "date": "18.01.2001",
+        "maturity_date": "24.03.2000",
+        "number": 663930
+    },
+    "products": [
+        {
+            "amount": 33.9,
+            "description": "benchmark world-class technologies",
+            "quantity": 4.31,
+            "unit_price": 39.61,
+            "vat_amount": 0.02
+        },
+        {
+            "amount": 246.12,
+            "description": "transform innovative portals",
+            "quantity": 4.81,
+            "unit_price": 67.84,
+            "vat_amount": 11.84
+        },
+        {
+            "amount": 196.34,
+            "description": "revolutionize impactful paradigms",
+            "quantity": 9.73,
+            "unit_price": 95.44,
+            "vat_amount": 10.62
+        }
+    ],
+    "seller": {
+        "address": "39397 Wesley Mountain New Luis, NC 60112"
+    },
+    "tax": {
+        "amount_excluding_tax": 102.36,
+        "amount_including_tax": 153.96,
+        "tax_amount": 17.06
+    }
+}

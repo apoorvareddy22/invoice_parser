@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "0197 Mora Forges Jacquelinefort, OH 90218",
+        "id": "DT876"
+    },
+    "invoice": {
+        "bc_no": "UD51780",
+        "currency_code": "SDG",
+        "date": "27.10.2019",
+        "due_date": "23.03.2007",
+        "number": 515887
+    },
+    "payment": {
+        "bank_name": "Hughes, Fields and Moran",
+        "bic": "XYEUGBUZ",
+        "iban": "ZTJA42563699769847"
+    },
+    "products": [
+        {
+            "amount": 131.93,
+            "description": "harness e-business initiatives",
+            "index": "9",
+            "price": 281.47,
+            "quantity": 7.32,
+            "tax_amount": 25.8,
+            "total_ttc": 112.97,
+            "vat_amount": 3.95
+        },
+        {
+            "amount": 24.87,
+            "description": "syndicate world-class networks",
+            "index": "4",
+            "price": 334.01,
+            "quantity": 9.93,
+            "tax_amount": 78.35,
+            "total_ttc": 347.26,
+            "vat_amount": 4.69
+        },
+        {
+            "amount": 302.46,
+            "description": "matrix transparent eyeballs",
+            "index": "10",
+            "price": 171.27,
+            "quantity": 1.97,
+            "tax_amount": 72.3,
+            "total_ttc": 312.82,
+            "vat_amount": 4.36
+        }
+    ],
+    "seller": {
+        "name": "Elaine Black"
+    },
+    "supplier": {
+        "address": "6528 Sloan Mission North Anthonyborough, MS 39120",
+        "name": "John York"
+    },
+    "tax": {
+        "amount_excluding_tax": 25.92,
+        "amount_including_tax": 130.67,
+        "tax_amount": 26.89,
+        "total_ht": 498.52,
+        "total_ttc": 345.02
+    }
+}

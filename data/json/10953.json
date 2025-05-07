@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "6972 Andrew Parkways Suite 475 South Caitlinland, IL 09486",
+        "email": "ywright@example.org",
+        "phone": "6423678561",
+        "vat_no": "qz26887234741"
+    },
+    "invoice": {
+        "date": "17.03.1997",
+        "due_date": "04.05.2010",
+        "market_reference": 667808,
+        "notes": "optimize transparent models",
+        "number": "0955-1239",
+        "reference": 697515,
+        "vat_no": "gp22811444343"
+    },
+    "payment": {
+        "net_total": 86.22,
+        "total": 878.69
+    },
+    "products": [
+        {
+            "amount": 53.72,
+            "description": "redefine virtual portals",
+            "hours": 6.24,
+            "rate": 7.09
+        },
+        {
+            "amount": 150.0,
+            "description": "re-contextualize efficient experiences",
+            "hours": 1.43,
+            "rate": 7.4
+        }
+    ],
+    "seller": {
+        "address": "71889 Rogers Squares Apt. 913 New Robertland, NY 76695",
+        "email": "eperry@example.org",
+        "name": "Lisa Harrell"
+    },
+    "tax": {
+        "base": 27.51,
+        "tax_amount": 20.11,
+        "total_tax": 12.31
+    }
+}

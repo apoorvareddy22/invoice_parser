@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "4663 Mckinney Rapid Rachelbury, MH 24629",
+        "company_name": "Ramirez, Estrada and Davenport",
+        "email": "robert92@example.com",
+        "name": "Jessica Gonzales",
+        "phone": "285.458.4304x148"
+    },
+    "invoice": {
+        "date": "19.01.2017",
+        "due_date": "02.11.2016",
+        "number": "wNG67070372929"
+    },
+    "payment": {
+        "account_number": 3967176647,
+        "bank_name": "Fox, Byrd and Espinoza",
+        "routing_number": 883857311
+    },
+    "products": [
+        {
+            "amount": 376.63,
+            "description": "whiteboard cross-media partnerships",
+            "index": "9",
+            "quantity": 8.19,
+            "unit_price": 23.33
+        },
+        {
+            "amount": 455.65,
+            "description": "extend enterprise markets",
+            "index": "10",
+            "quantity": 3.74,
+            "unit_price": 27.12
+        }
+    ],
+    "seller": {
+        "address": "4371 Lee Mount Apt. 010 South Luis, AL 57532",
+        "company_name": "Carey, Callahan and Rowland",
+        "email": "tbaxter@example.com"
+    }
+}

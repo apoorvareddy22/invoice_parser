@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "USS Montgomery FPO AA 44565",
+        "business_no": "vS891",
+        "id": "uI837"
+    },
+    "invoice": {
+        "date": "14.02.2012",
+        "number": "4074-6715"
+    },
+    "payment": {
+        "due_date": "08.05.2013",
+        "total": 273.77
+    },
+    "products": [
+        {
+            "amount": 424.94,
+            "description": "maximize open-source architectures",
+            "quantity": 2.47,
+            "reference": "Ue-019",
+            "unit_price": 27.92
+        },
+        {
+            "amount": 78.84,
+            "description": "extend world-class web-readiness",
+            "quantity": 1.55,
+            "reference": "La-366",
+            "unit_price": 44.62
+        },
+        {
+            "amount": 112.86,
+            "description": "architect plug-and-play schemas",
+            "quantity": 9.21,
+            "reference": "fy-216",
+            "unit_price": 98.2
+        },
+        {
+            "amount": 321.09,
+            "description": "productize killer convergence",
+            "quantity": 9.11,
+            "reference": "sC-353",
+            "unit_price": 34.65
+        },
+        {
+            "amount": 70.93,
+            "description": "envisioneer bricks-and-clicks platforms",
+            "quantity": 3.65,
+            "reference": "as-662",
+            "unit_price": 30.88
+        },
+        {
+            "amount": 370.61,
+            "description": "architect proactive mindshare",
+            "quantity": 4.3,
+            "reference": "Zk-382",
+            "unit_price": 96.62
+        }
+    ],
+    "seller": {
+        "address": "7885 Jones Centers Apt. 289 Jenniferbury, UT 74456"
+    },
+    "tax": {
+        "base_ht": 182.95,
+        "regulations": 21.56,
+        "total_ht": 104.29,
+        "vat_amount": 136.31,
+        "vat_percentage": 21.15
+    }
+}

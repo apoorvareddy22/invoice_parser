@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "98454 Tina Well Roberthaven, TN 75643",
+        "business_no": "fy133",
+        "id": "uA129"
+    },
+    "invoice": {
+        "date": "15.10.1997",
+        "number": "7404-8424"
+    },
+    "payment": {
+        "due_date": "11.08.2020",
+        "total": 672.85
+    },
+    "products": [
+        {
+            "amount": 438.34,
+            "description": "extend clicks-and-mortar niches",
+            "quantity": 7.82,
+            "reference": "nV-537",
+            "unit_price": 35.9
+        },
+        {
+            "amount": 356.73,
+            "description": "cultivate cross-platform metrics",
+            "quantity": 6.32,
+            "reference": "ng-742",
+            "unit_price": 23.25
+        },
+        {
+            "amount": 282.7,
+            "description": "target real-time models",
+            "quantity": 5.18,
+            "reference": "Zq-878",
+            "unit_price": 64.28
+        },
+        {
+            "amount": 52.59,
+            "description": "cultivate ubiquitous content",
+            "quantity": 8.31,
+            "reference": "IS-168",
+            "unit_price": 17.47
+        }
+    ],
+    "seller": {
+        "address": "07781 George Vista Apt. 984 Wattsberg, NV 49002"
+    },
+    "tax": {
+        "base_ht": 104.0,
+        "regulations": 16.21,
+        "total_ht": 399.16,
+        "vat_amount": 188.5,
+        "vat_percentage": 26.36
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "81545 Taylor Mews Martinville, TN 88465"
+    },
+    "invoice": {
+        "bc_no": "bN94953",
+        "date": "01.02.2018",
+        "maturity_date": "21.02.2014",
+        "number": 696088
+    },
+    "products": [
+        {
+            "amount": 292.6,
+            "description": "repurpose synergistic infrastructures",
+            "quantity": 8.3,
+            "unit_price": 76.12,
+            "vat_amount": 2.45
+        },
+        {
+            "amount": 211.89,
+            "description": "embrace ubiquitous e-tailers",
+            "quantity": 5.27,
+            "unit_price": 71.86,
+            "vat_amount": 7.92
+        },
+        {
+            "amount": 262.11,
+            "description": "transition one-to-one relationships",
+            "quantity": 7.17,
+            "unit_price": 89.14,
+            "vat_amount": 0.54
+        },
+        {
+            "amount": 480.5,
+            "description": "re-intermediate world-class web services",
+            "quantity": 9.77,
+            "unit_price": 85.44,
+            "vat_amount": 0.25
+        }
+    ],
+    "seller": {
+        "address": "51437 Tammy Estate Floreston, NE 67381"
+    },
+    "tax": {
+        "amount_excluding_tax": 30.53,
+        "amount_including_tax": 155.25,
+        "tax_amount": 13.62
+    }
+}

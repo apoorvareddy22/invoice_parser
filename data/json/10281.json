@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "27618 Ann Islands Apt. 217 Alvarezstad, GA 21827",
+        "email": "xlyons@example.org",
+        "phone": "637-657-0904",
+        "vat_no": "KO91607339330"
+    },
+    "invoice": {
+        "date": "25.03.1998",
+        "due_date": "27.02.2008",
+        "market_reference": 145181,
+        "notes": "e-enable cutting-edge channels",
+        "number": "3571-0167",
+        "reference": 465785,
+        "vat_no": "NU87656935561"
+    },
+    "payment": {
+        "net_total": 42.08,
+        "total": 771.88
+    },
+    "products": [
+        {
+            "amount": 127.66,
+            "description": "iterate dot-com schemas",
+            "hours": 6.91,
+            "rate": 3.88
+        },
+        {
+            "amount": 353.64,
+            "description": "envisioneer proactive users",
+            "hours": 4.38,
+            "rate": 5.37
+        },
+        {
+            "amount": 74.75,
+            "description": "strategize mission-critical niches",
+            "hours": 6.07,
+            "rate": 1.85
+        },
+        {
+            "amount": 289.66,
+            "description": "e-enable robust markets",
+            "hours": 8.72,
+            "rate": 2.31
+        },
+        {
+            "amount": 13.38,
+            "description": "innovate extensible infrastructures",
+            "hours": 5.47,
+            "rate": 6.45
+        }
+    ],
+    "seller": {
+        "address": "Unit 6452 Box 6147 DPO AA 38205",
+        "email": "tbaker@example.com",
+        "name": "Jessica Foster"
+    },
+    "tax": {
+        "base": 24.63,
+        "tax_amount": 10.36,
+        "total_tax": 24.42
+    }
+}

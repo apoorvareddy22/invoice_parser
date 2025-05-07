@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "PSC 0489, Box 8993 APO AE 96911",
+        "company_name": "Reynolds Ltd",
+        "country": "Gabon",
+        "name": "Paul Mason"
+    },
+    "invoice": {
+        "date": "11.01.1994",
+        "number": 279268
+    },
+    "payment": {
+        "discount_amount": 11.71,
+        "discount_percentage": 6.05,
+        "due": 38.84,
+        "sub_total": 140.84,
+        "total": 290.41
+    },
+    "products": [
+        {
+            "description": "utilize revolutionary mindshare",
+            "index": "7",
+            "quantity": 3.85,
+            "total_price": 102.85,
+            "unit_price": 24.01
+        },
+        {
+            "description": "target vertical e-services",
+            "index": "3",
+            "quantity": 6.02,
+            "total_price": 846.64,
+            "unit_price": 53.65
+        }
+    ],
+    "seller": {
+        "address": "6834 Powell Canyon Lindatown, ID 20384",
+        "company_name": "Williams-Norman",
+        "vat_no": "zb26122613209"
+    }
+}

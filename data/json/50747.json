@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "1719 Savannah Skyway Suite 663 Mckinneyfort, PW 40994",
+        "id": "Qc013"
+    },
+    "invoice": {
+        "bc_no": "GI70744",
+        "currency_code": "HNL",
+        "date": "06.06.2021",
+        "due_date": "01.12.2005",
+        "number": 913263
+    },
+    "payment": {
+        "bank_name": "Diaz PLC",
+        "bic": "PYDJGB5H",
+        "iban": "UPOG08377786986957"
+    },
+    "products": [
+        {
+            "amount": 36.92,
+            "description": "revolutionize B2B e-tailers",
+            "index": "1",
+            "price": 88.56,
+            "quantity": 9.81,
+            "tax_amount": 20.97,
+            "total_ttc": 406.73,
+            "vat_amount": 7.91
+        },
+        {
+            "amount": 336.89,
+            "description": "deliver vertical paradigms",
+            "index": "8",
+            "price": 15.96,
+            "quantity": 7.5,
+            "tax_amount": 57.62,
+            "total_ttc": 113.5,
+            "vat_amount": 2.64
+        },
+        {
+            "amount": 101.37,
+            "description": "productize proactive mindshare",
+            "index": "8",
+            "price": 333.28,
+            "quantity": 5.65,
+            "tax_amount": 38.73,
+            "total_ttc": 262.25,
+            "vat_amount": 3.6
+        },
+        {
+            "amount": 23.49,
+            "description": "implement bleeding-edge channels",
+            "index": "9",
+            "price": 282.12,
+            "quantity": 9.63,
+            "tax_amount": 26.65,
+            "total_ttc": 436.36,
+            "vat_amount": 7.13
+        },
+        {
+            "amount": 322.97,
+            "description": "unleash 24/7 vortals",
+            "index": "4",
+            "price": 377.17,
+            "quantity": 9.43,
+            "tax_amount": 66.86,
+            "total_ttc": 286.11,
+            "vat_amount": 8.69
+        }
+    ],
+    "seller": {
+        "name": "Dalton Clarke"
+    },
+    "supplier": {
+        "address": "41227 Martinez Corners Port Troyton, IL 69746",
+        "name": "Kristen Williamson"
+    },
+    "tax": {
+        "amount_excluding_tax": 147.36,
+        "amount_including_tax": 133.42,
+        "tax_amount": 18.51,
+        "total_ht": 237.47,
+        "total_ttc": 380.21
+    }
+}

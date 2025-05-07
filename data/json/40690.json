@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "21191 Myers Turnpike East Justinshire, UT 45072"
+    },
+    "invoice": {
+        "bc_no": "JC42508",
+        "date": "19.11.2012",
+        "maturity_date": "13.02.1999",
+        "number": 191924
+    },
+    "products": [
+        {
+            "amount": 121.83,
+            "description": "brand efficient interfaces",
+            "quantity": 3.57,
+            "unit_price": 94.15,
+            "vat_amount": 1.08
+        },
+        {
+            "amount": 486.68,
+            "description": "matrix frictionless action-items",
+            "quantity": 8.62,
+            "unit_price": 33.61,
+            "vat_amount": 6.09
+        },
+        {
+            "amount": 203.88,
+            "description": "envisioneer turn-key models",
+            "quantity": 6.2,
+            "unit_price": 25.93,
+            "vat_amount": 4.33
+        },
+        {
+            "amount": 442.27,
+            "description": "matrix distributed paradigms",
+            "quantity": 2.13,
+            "unit_price": 49.16,
+            "vat_amount": 6.53
+        },
+        {
+            "amount": 82.22,
+            "description": "enhance scalable partnerships",
+            "quantity": 4.76,
+            "unit_price": 93.88,
+            "vat_amount": 4.1
+        }
+    ],
+    "seller": {
+        "address": "8649 Melissa Courts Suite 853 New Karen, CA 93799"
+    },
+    "tax": {
+        "amount_excluding_tax": 64.3,
+        "amount_including_tax": 124.11,
+        "tax_amount": 24.84
+    }
+}

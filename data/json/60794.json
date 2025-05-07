@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "0687 James Fords South Dustinside, TX 60882",
+        "business_no": "KV903",
+        "id": "qN995"
+    },
+    "invoice": {
+        "date": "26.06.2009",
+        "number": "8341-9063"
+    },
+    "payment": {
+        "due_date": "13.07.2007",
+        "total": 536.45
+    },
+    "products": [
+        {
+            "amount": 294.08,
+            "description": "synthesize turn-key channels",
+            "quantity": 3.97,
+            "reference": "RE-119",
+            "unit_price": 61.33
+        },
+        {
+            "amount": 156.71,
+            "description": "disintermediate bleeding-edge content",
+            "quantity": 2.94,
+            "reference": "Ht-231",
+            "unit_price": 52.03
+        },
+        {
+            "amount": 383.95,
+            "description": "utilize robust paradigms",
+            "quantity": 1.84,
+            "reference": "cA-173",
+            "unit_price": 96.18
+        },
+        {
+            "amount": 172.35,
+            "description": "grow cross-media solutions",
+            "quantity": 5.48,
+            "reference": "jA-572",
+            "unit_price": 88.05
+        }
+    ],
+    "seller": {
+        "address": "9636 Thomas Island South John, GA 69424"
+    },
+    "tax": {
+        "base_ht": 483.86,
+        "regulations": 19.01,
+        "total_ht": 411.08,
+        "vat_amount": 87.68,
+        "vat_percentage": 24.56
+    }
+}

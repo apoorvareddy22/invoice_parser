@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "4956 Jennifer Orchard Apt. 132 Huynhland, MA 11641",
+        "company_name": "Stark, Fry and Melendez",
+        "country": "Honduras",
+        "name": "Joshua Burton"
+    },
+    "invoice": {
+        "date": "22.06.1995",
+        "number": 995460
+    },
+    "payment": {
+        "discount_amount": 40.9,
+        "discount_percentage": 14.49,
+        "due": 194.09,
+        "sub_total": 72.15,
+        "total": 725.27
+    },
+    "products": [
+        {
+            "description": "envisioneer turn-key mindshare",
+            "index": "5",
+            "quantity": 9.14,
+            "total_price": 580.32,
+            "unit_price": 66.82
+        },
+        {
+            "description": "target sticky communities",
+            "index": "7",
+            "quantity": 5.93,
+            "total_price": 25.94,
+            "unit_price": 52.21
+        },
+        {
+            "description": "cultivate intuitive schemas",
+            "index": "7",
+            "quantity": 8.17,
+            "total_price": 757.88,
+            "unit_price": 11.5
+        },
+        {
+            "description": "deliver cross-media interfaces",
+            "index": "6",
+            "quantity": 2.35,
+            "total_price": 978.43,
+            "unit_price": 73.28
+        },
+        {
+            "description": "brand intuitive architectures",
+            "index": "8",
+            "quantity": 3.14,
+            "total_price": 294.33,
+            "unit_price": 72.56
+        }
+    ],
+    "seller": {
+        "address": "767 Fischer Shoals Suite 199 Duncanview, OR 40348",
+        "company_name": "Kerr Inc",
+        "vat_no": "Jz24386936644"
+    }
+}

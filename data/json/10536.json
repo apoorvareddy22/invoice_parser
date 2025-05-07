@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "028 Natalie Village Apt. 516 Brandiberg, CA 97449",
+        "email": "stevenmccoy@example.org",
+        "phone": "001-591-204-4506x3311",
+        "vat_no": "ma47021668670"
+    },
+    "invoice": {
+        "date": "01.11.2014",
+        "due_date": "02.06.2004",
+        "market_reference": 188445,
+        "notes": "generate out-of-the-box synergies",
+        "number": "2044-9621",
+        "reference": 475528,
+        "vat_no": "co81185357159"
+    },
+    "payment": {
+        "net_total": 73.35,
+        "total": 965.59
+    },
+    "products": [
+        {
+            "amount": 139.64,
+            "description": "re-contextualize cross-platform e-commerce",
+            "hours": 5.4,
+            "rate": 1.59
+        }
+    ],
+    "seller": {
+        "address": "USS Holmes FPO AE 51319",
+        "email": "muellermalik@example.net",
+        "name": "Tony Diaz"
+    },
+    "tax": {
+        "base": 26.23,
+        "tax_amount": 28.28,
+        "total_tax": 13.41
+    }
+}

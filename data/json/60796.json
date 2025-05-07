@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "1285 Vanessa Rue Apt. 933 Port Lisa, NC 35397",
+        "business_no": "dR544",
+        "id": "CO868"
+    },
+    "invoice": {
+        "date": "17.06.2013",
+        "number": "0107-9401"
+    },
+    "payment": {
+        "due_date": "22.07.2015",
+        "total": 315.59
+    },
+    "products": [
+        {
+            "amount": 209.38,
+            "description": "deploy out-of-the-box experiences",
+            "quantity": 1.17,
+            "reference": "RN-315",
+            "unit_price": 41.89
+        },
+        {
+            "amount": 85.37,
+            "description": "orchestrate 24/7 experiences",
+            "quantity": 6.9,
+            "reference": "xB-932",
+            "unit_price": 68.66
+        },
+        {
+            "amount": 368.47,
+            "description": "re-contextualize extensible functionalities",
+            "quantity": 5.38,
+            "reference": "hL-927",
+            "unit_price": 32.59
+        },
+        {
+            "amount": 432.35,
+            "description": "grow open-source e-tailers",
+            "quantity": 2.37,
+            "reference": "Jc-171",
+            "unit_price": 34.41
+        },
+        {
+            "amount": 486.51,
+            "description": "innovate compelling paradigms",
+            "quantity": 7.42,
+            "reference": "sV-536",
+            "unit_price": 66.43
+        }
+    ],
+    "seller": {
+        "address": "742 Stephanie Mountains South Erinland, AR 01374"
+    },
+    "tax": {
+        "base_ht": 212.0,
+        "regulations": 27.67,
+        "total_ht": 422.22,
+        "vat_amount": 148.07,
+        "vat_percentage": 14.64
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "740 Brenda Junction East Stacey, TX 10135"
+    },
+    "invoice": {
+        "bc_no": "mx07799",
+        "date": "17.01.2008",
+        "maturity_date": "19.12.2009",
+        "number": 113055
+    },
+    "products": [
+        {
+            "amount": 118.5,
+            "description": "transform mission-critical paradigms",
+            "quantity": 9.05,
+            "unit_price": 23.75,
+            "vat_amount": 3.36
+        },
+        {
+            "amount": 252.12,
+            "description": "repurpose bricks-and-clicks users",
+            "quantity": 4.15,
+            "unit_price": 66.7,
+            "vat_amount": 4.92
+        },
+        {
+            "amount": 469.91,
+            "description": "exploit scalable vortals",
+            "quantity": 6.63,
+            "unit_price": 21.7,
+            "vat_amount": 1.65
+        },
+        {
+            "amount": 253.58,
+            "description": "re-intermediate out-of-the-box networks",
+            "quantity": 9.01,
+            "unit_price": 86.95,
+            "vat_amount": 1.17
+        },
+        {
+            "amount": 396.83,
+            "description": "streamline out-of-the-box portals",
+            "quantity": 5.34,
+            "unit_price": 11.56,
+            "vat_amount": 3.53
+        }
+    ],
+    "seller": {
+        "address": "1365 Morales Road Apt. 610 Stephenburgh, WI 78265"
+    },
+    "tax": {
+        "amount_excluding_tax": 46.62,
+        "amount_including_tax": 18.64,
+        "tax_amount": 23.11
+    }
+}

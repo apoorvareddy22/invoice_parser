@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "3068 Davis Estates Apt. 323 Vargaston, IL 09181",
+        "company_name": "Jones, Anderson and Smith",
+        "country": "Sudan",
+        "email": "sshepherd@example.com",
+        "name": "Hayley Eaton",
+        "phone": "461-401-5882",
+        "vat_no": "Xz78854247891"
+    },
+    "invoice": {
+        "date": "30.09.2016",
+        "due_date": "21.08.2015",
+        "linked_invoice": "fF-3692-6076",
+        "notes": "evolve revolutionary web-readiness",
+        "number": "px-8133-0403"
+    },
+    "products": [
+        {
+            "description": "seize frictionless interfaces",
+            "discount_percentage": 19.31,
+            "price": 305.96,
+            "quantity": 4.22,
+            "unit_price": 59.51
+        },
+        {
+            "description": "mesh intuitive web-readiness",
+            "discount_percentage": 19.32,
+            "price": 55.61,
+            "quantity": 7.37,
+            "unit_price": 62.16
+        }
+    ],
+    "seller": {
+        "address": "0391 Heather Estate West Sarah, VT 61818",
+        "ape": "9672m",
+        "capital": 97975381,
+        "country": "Sao Tome and Principe",
+        "email": "markshannon@example.net",
+        "name": "Stanley Wilkinson",
+        "phone_1": "(453)570-6950x0812",
+        "phone_2": "503-626-2037x269",
+        "phone_3": "395.588.9332",
+        "ref_walk": "kDNU7786",
+        "reference": "VW032",
+        "siret": 10041078979305,
+        "vat_no": "HQ99811528042",
+        "website": "http://adams.net/"
+    },
+    "tax": {
+        "amount_0": 27.8,
+        "amount_1": 28.58,
+        "base_0": 13.04,
+        "base_1": 264.3,
+        "total_ht": 109.28,
+        "total_tax": 11.45,
+        "total_ttc": 348.08,
+        "vat_0": 29.89,
+        "vat_1": 29.04
+    }
+}

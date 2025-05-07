@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "6606 Brianna Streets Apt. 500 West Dianehaven, VA 70070"
+    },
+    "invoice": {
+        "bc_no": "cx21009",
+        "date": "19.09.2020",
+        "maturity_date": "26.01.2011",
+        "number": 138886
+    },
+    "products": [
+        {
+            "amount": 367.38,
+            "description": "whiteboard cross-platform architectures",
+            "quantity": 3.44,
+            "unit_price": 81.28,
+            "vat_amount": 2.76
+        },
+        {
+            "amount": 221.29,
+            "description": "revolutionize leading-edge initiatives",
+            "quantity": 5.86,
+            "unit_price": 52.2,
+            "vat_amount": 7.8
+        }
+    ],
+    "seller": {
+        "address": "20954 Griffin Plains Henryfort, MD 08156"
+    },
+    "tax": {
+        "amount_excluding_tax": 35.03,
+        "amount_including_tax": 122.82,
+        "tax_amount": 15.54
+    }
+}

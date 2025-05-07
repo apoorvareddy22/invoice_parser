@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "Unit 0231 Box 5538 DPO AP 40498",
+        "company_name": "Jensen Ltd",
+        "email": "jonathan23@example.org",
+        "name": "Keith Andrews",
+        "phone": "+1-814-774-3376x79814"
+    },
+    "invoice": {
+        "date": "12.10.2001",
+        "due_date": "11.12.1997",
+        "number": "kZw07831152999"
+    },
+    "payment": {
+        "account_number": 6999362284,
+        "bank_name": "Ashley PLC",
+        "routing_number": 320775639
+    },
+    "products": [
+        {
+            "amount": 303.23,
+            "description": "leverage magnetic supply-chains",
+            "index": "7",
+            "quantity": 7.79,
+            "unit_price": 44.69
+        },
+        {
+            "amount": 151.1,
+            "description": "transition impactful e-business",
+            "index": "10",
+            "quantity": 5.67,
+            "unit_price": 70.11
+        },
+        {
+            "amount": 212.32,
+            "description": "generate wireless web-readiness",
+            "index": "9",
+            "quantity": 3.72,
+            "unit_price": 35.97
+        },
+        {
+            "amount": 213.86,
+            "description": "engage turn-key e-tailers",
+            "index": "2",
+            "quantity": 3.99,
+            "unit_price": 51.16
+        }
+    ],
+    "seller": {
+        "address": "3773 Richard Curve Suite 543 Johnview, NE 97363",
+        "company_name": "Estrada-Huerta",
+        "email": "bdominguez@example.org"
+    }
+}

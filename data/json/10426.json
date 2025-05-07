@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "36714 Gavin Common Apt. 807 Holttown, CT 44520",
+        "email": "michelle14@example.com",
+        "phone": "(784)891-0672x7260",
+        "vat_no": "qb04436026564"
+    },
+    "invoice": {
+        "date": "13.10.1997",
+        "due_date": "01.10.2018",
+        "market_reference": 605567,
+        "notes": "e-enable one-to-one e-services",
+        "number": "5602-3585",
+        "reference": 760051,
+        "vat_no": "YM48855929418"
+    },
+    "payment": {
+        "net_total": 50.11,
+        "total": 688.77
+    },
+    "products": [
+        {
+            "amount": 487.96,
+            "description": "visualize B2B solutions",
+            "hours": 3.22,
+            "rate": 9.71
+        }
+    ],
+    "seller": {
+        "address": "589 Hamilton Drives Sullivanmouth, SC 29303",
+        "email": "tammy23@example.net",
+        "name": "Shannon Payne"
+    },
+    "tax": {
+        "base": 16.77,
+        "tax_amount": 11.78,
+        "total_tax": 16.81
+    }
+}

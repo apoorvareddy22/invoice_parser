@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "PSC 6562, Box 0121 APO AE 16418",
+        "id": "bB457"
+    },
+    "invoice": {
+        "bc_no": "Al28653",
+        "currency_code": "TWD",
+        "date": "19.05.2023",
+        "due_date": "20.09.1994",
+        "number": 359482
+    },
+    "payment": {
+        "bank_name": "Hernandez-Hubbard",
+        "bic": "WNPCGBSA0X2",
+        "iban": "JAJF02652495122247"
+    },
+    "products": [
+        {
+            "amount": 462.25,
+            "description": "strategize bricks-and-clicks ROI",
+            "index": "7",
+            "price": 197.75,
+            "quantity": 5.58,
+            "tax_amount": 18.07,
+            "total_ttc": 313.32,
+            "vat_amount": 2.89
+        }
+    ],
+    "seller": {
+        "name": "Jennifer Leonard"
+    },
+    "supplier": {
+        "address": "493 Jacqueline Island Suite 793 New Michelle, WA 05382",
+        "name": "Cynthia Richardson"
+    },
+    "tax": {
+        "amount_excluding_tax": 164.56,
+        "amount_including_tax": 100.58,
+        "tax_amount": 23.17,
+        "total_ht": 483.01,
+        "total_ttc": 101.56
+    }
+}

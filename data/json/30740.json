@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "32164 Wright Place Suite 224 Bishopland, CT 30430",
+        "company_name": "Garcia LLC",
+        "country": "Bolivia",
+        "email": "zschmitt@example.org",
+        "name": "Leslie Collins",
+        "phone": "319-871-1436x8062",
+        "vat_no": "jA11223144286"
+    },
+    "invoice": {
+        "date": "24.08.2012",
+        "due_date": "15.08.1996",
+        "linked_invoice": "Sk-0431-5057",
+        "notes": "productize frictionless e-tailers",
+        "number": "Vn-5136-4309"
+    },
+    "products": [
+        {
+            "description": "benchmark interactive content",
+            "discount_percentage": 15.11,
+            "price": 23.97,
+            "quantity": 1.55,
+            "unit_price": 14.35
+        }
+    ],
+    "seller": {
+        "address": "116 Fields Groves South Erinstad, ID 68801",
+        "ape": "4533Z",
+        "capital": 87872930,
+        "country": "Chile",
+        "email": "debra32@example.org",
+        "name": "Kim Wilson",
+        "phone_1": "821.649.7543x09946",
+        "phone_2": "001-523-904-5793x582",
+        "phone_3": "+1-973-933-9187x3380",
+        "ref_walk": "wEwK7475",
+        "reference": "ZP891",
+        "siret": 59534557685682,
+        "vat_no": "xm66190909162",
+        "website": "http://www.kirk.com/"
+    },
+    "tax": {
+        "amount_0": 10.44,
+        "amount_1": 22.99,
+        "base_0": 25.15,
+        "base_1": 112.46,
+        "total_ht": 268.58,
+        "total_tax": 28.82,
+        "total_ttc": 329.13,
+        "vat_0": 18.05,
+        "vat_1": 13.81
+    }
+}

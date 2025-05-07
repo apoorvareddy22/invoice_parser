@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "482 Perkins Manors Apt. 789 Simmonsfort, AZ 25541",
+        "email": "stacey81@example.net",
+        "phone": "+1-496-713-6625x40333",
+        "vat_no": "iO78383188651"
+    },
+    "invoice": {
+        "date": "02.12.2012",
+        "due_date": "27.07.2019",
+        "market_reference": 625633,
+        "notes": "re-contextualize next-generation systems",
+        "number": "6986-4345",
+        "reference": 165278,
+        "vat_no": "WJ30015747186"
+    },
+    "payment": {
+        "net_total": 187.96,
+        "total": 261.64
+    },
+    "products": [
+        {
+            "amount": 186.9,
+            "description": "engage rich metrics",
+            "hours": 9.62,
+            "rate": 2.15
+        },
+        {
+            "amount": 477.87,
+            "description": "whiteboard web-enabled action-items",
+            "hours": 9.96,
+            "rate": 2.1
+        },
+        {
+            "amount": 251.37,
+            "description": "benchmark one-to-one infrastructures",
+            "hours": 4.0,
+            "rate": 1.76
+        },
+        {
+            "amount": 123.64,
+            "description": "seize wireless interfaces",
+            "hours": 4.51,
+            "rate": 6.21
+        },
+        {
+            "amount": 5.08,
+            "description": "architect cutting-edge metrics",
+            "hours": 9.78,
+            "rate": 7.59
+        }
+    ],
+    "seller": {
+        "address": "732 Elizabeth Canyon New Kathleen, RI 08479",
+        "email": "dnelson@example.org",
+        "name": "Lisa Johnston"
+    },
+    "tax": {
+        "base": 16.41,
+        "tax_amount": 22.97,
+        "total_tax": 12.38
+    }
+}

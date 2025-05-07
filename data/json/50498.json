@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "9372 Christensen Walks North Jamesview, ND 76495",
+        "id": "rM578"
+    },
+    "invoice": {
+        "bc_no": "Et90883",
+        "currency_code": "FJD",
+        "date": "04.02.1994",
+        "due_date": "08.12.2020",
+        "number": 455691
+    },
+    "payment": {
+        "bank_name": "Montgomery-Ross",
+        "bic": "BZIAGB8R",
+        "iban": "AJRM23018034072566"
+    },
+    "products": [
+        {
+            "amount": 496.97,
+            "description": "matrix e-business web-readiness",
+            "index": "6",
+            "price": 349.72,
+            "quantity": 7.82,
+            "tax_amount": 15.67,
+            "total_ttc": 300.95,
+            "vat_amount": 5.51
+        },
+        {
+            "amount": 349.56,
+            "description": "syndicate extensible bandwidth",
+            "index": "2",
+            "price": 144.11,
+            "quantity": 1.98,
+            "tax_amount": 75.11,
+            "total_ttc": 485.58,
+            "vat_amount": 4.88
+        },
+        {
+            "amount": 141.67,
+            "description": "enable revolutionary deliverables",
+            "index": "2",
+            "price": 222.24,
+            "quantity": 9.94,
+            "tax_amount": 14.1,
+            "total_ttc": 320.1,
+            "vat_amount": 2.61
+        },
+        {
+            "amount": 42.4,
+            "description": "deploy bleeding-edge partnerships",
+            "index": "2",
+            "price": 281.83,
+            "quantity": 2.86,
+            "tax_amount": 83.0,
+            "total_ttc": 457.93,
+            "vat_amount": 3.19
+        },
+        {
+            "amount": 331.55,
+            "description": "exploit sticky interfaces",
+            "index": "3",
+            "price": 234.49,
+            "quantity": 1.84,
+            "tax_amount": 41.43,
+            "total_ttc": 425.02,
+            "vat_amount": 1.47
+        },
+        {
+            "amount": 196.13,
+            "description": "re-intermediate leading-edge vortals",
+            "index": "4",
+            "price": 171.65,
+            "quantity": 9.28,
+            "tax_amount": 67.67,
+            "total_ttc": 468.02,
+            "vat_amount": 0.07
+        }
+    ],
+    "seller": {
+        "name": "Kathryn Nguyen"
+    },
+    "supplier": {
+        "address": "0235 Grant Hills Apt. 052 Hansenfort, DC 22327",
+        "name": "Mary Johnson"
+    },
+    "tax": {
+        "amount_excluding_tax": 135.54,
+        "amount_including_tax": 114.25,
+        "tax_amount": 12.37,
+        "total_ht": 108.17,
+        "total_ttc": 156.75
+    }
+}

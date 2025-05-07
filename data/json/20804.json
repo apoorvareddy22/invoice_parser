@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "07748 Mcbride Parkway Apt. 129 East Adam, AS 75934",
+        "company_name": "Diaz-Saunders",
+        "email": "darrellroberts@example.net",
+        "name": "Sarah Rivera",
+        "phone": "001-288-910-8304x70981"
+    },
+    "invoice": {
+        "date": "08.06.2015",
+        "due_date": "13.02.2021",
+        "number": "PWM11546132267"
+    },
+    "payment": {
+        "account_number": 7504915395,
+        "bank_name": "Garza, Haas and Davis",
+        "routing_number": 474777363
+    },
+    "products": [
+        {
+            "amount": 24.17,
+            "description": "iterate killer platforms",
+            "index": "2",
+            "quantity": 7.1,
+            "unit_price": 27.57
+        },
+        {
+            "amount": 231.26,
+            "description": "streamline plug-and-play networks",
+            "index": "5",
+            "quantity": 6.8,
+            "unit_price": 41.55
+        },
+        {
+            "amount": 466.82,
+            "description": "monetize transparent e-markets",
+            "index": "10",
+            "quantity": 4.18,
+            "unit_price": 80.56
+        }
+    ],
+    "seller": {
+        "address": "01824 Katherine Roads Suite 194 Bernardbury, IA 25676",
+        "company_name": "Gutierrez, Lawrence and Scott",
+        "email": "caitlin91@example.com"
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "83497 Kristen Shore Suite 572 North Robertbury, PR 90961",
+        "id": "BW794"
+    },
+    "invoice": {
+        "bc_no": "AR03500",
+        "currency_code": "MGA",
+        "date": "05.05.1990",
+        "due_date": "02.11.2000",
+        "number": 460997
+    },
+    "payment": {
+        "bank_name": "Powell, Morrison and Martin",
+        "bic": "LYQTGBTE2IG",
+        "iban": "WUVW92506209076430"
+    },
+    "products": [
+        {
+            "amount": 376.32,
+            "description": "generate global systems",
+            "index": "8",
+            "price": 275.88,
+            "quantity": 3.18,
+            "tax_amount": 87.42,
+            "total_ttc": 383.57,
+            "vat_amount": 1.31
+        },
+        {
+            "amount": 336.26,
+            "description": "productize distributed mindshare",
+            "index": "3",
+            "price": 296.78,
+            "quantity": 5.89,
+            "tax_amount": 49.24,
+            "total_ttc": 254.85,
+            "vat_amount": 1.57
+        },
+        {
+            "amount": 153.95,
+            "description": "whiteboard mission-critical mindshare",
+            "index": "3",
+            "price": 47.95,
+            "quantity": 1.39,
+            "tax_amount": 31.55,
+            "total_ttc": 349.89,
+            "vat_amount": 3.19
+        },
+        {
+            "amount": 366.34,
+            "description": "facilitate distributed info-mediaries",
+            "index": "2",
+            "price": 308.61,
+            "quantity": 4.14,
+            "tax_amount": 55.04,
+            "total_ttc": 150.95,
+            "vat_amount": 0.53
+        },
+        {
+            "amount": 113.16,
+            "description": "productize impactful solutions",
+            "index": "6",
+            "price": 36.06,
+            "quantity": 8.93,
+            "tax_amount": 71.28,
+            "total_ttc": 391.7,
+            "vat_amount": 1.92
+        },
+        {
+            "amount": 352.7,
+            "description": "matrix robust architectures",
+            "index": "2",
+            "price": 495.59,
+            "quantity": 5.43,
+            "tax_amount": 24.49,
+            "total_ttc": 406.77,
+            "vat_amount": 0.5
+        },
+        {
+            "amount": 368.05,
+            "description": "re-intermediate proactive models",
+            "index": "10",
+            "price": 398.1,
+            "quantity": 9.33,
+            "tax_amount": 58.08,
+            "total_ttc": 199.29,
+            "vat_amount": 1.69
+        }
+    ],
+    "seller": {
+        "name": "John Turner"
+    },
+    "supplier": {
+        "address": "4149 Torres Springs Suite 405 East Christina, WA 99725",
+        "name": "Robert Huang"
+    },
+    "tax": {
+        "amount_excluding_tax": 16.9,
+        "amount_including_tax": 56.46,
+        "tax_amount": 10.71,
+        "total_ht": 357.8,
+        "total_ttc": 131.22
+    }
+}

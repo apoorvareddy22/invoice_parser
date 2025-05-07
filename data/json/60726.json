@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "6274 Callahan Land Suite 068 West Savannah, NC 12316",
+        "business_no": "Vu347",
+        "id": "xL711"
+    },
+    "invoice": {
+        "date": "27.04.2013",
+        "number": "2900-4959"
+    },
+    "payment": {
+        "due_date": "02.12.2022",
+        "total": 879.59
+    },
+    "products": [
+        {
+            "amount": 18.35,
+            "description": "deploy seamless channels",
+            "quantity": 7.4,
+            "reference": "zE-860",
+            "unit_price": 96.72
+        },
+        {
+            "amount": 15.71,
+            "description": "scale seamless users",
+            "quantity": 5.1,
+            "reference": "jo-305",
+            "unit_price": 41.66
+        }
+    ],
+    "seller": {
+        "address": "USNS Evans FPO AA 53270"
+    },
+    "tax": {
+        "base_ht": 339.98,
+        "regulations": 22.83,
+        "total_ht": 478.11,
+        "vat_amount": 138.08,
+        "vat_percentage": 17.36
+    }
+}

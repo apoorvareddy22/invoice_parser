@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "492 Mendez Springs Suite 619 East Crystalfort, AK 34666",
+        "business_no": "GN408",
+        "id": "EX060"
+    },
+    "invoice": {
+        "date": "26.03.2014",
+        "number": "4288-5474"
+    },
+    "payment": {
+        "due_date": "04.05.2010",
+        "total": 669.89
+    },
+    "products": [
+        {
+            "amount": 178.63,
+            "description": "envisioneer strategic systems",
+            "quantity": 9.56,
+            "reference": "OS-588",
+            "unit_price": 89.61
+        }
+    ],
+    "seller": {
+        "address": "5752 William Run Suite 311 Brownside, IA 14969"
+    },
+    "tax": {
+        "base_ht": 342.3,
+        "regulations": 23.57,
+        "total_ht": 418.46,
+        "vat_amount": 186.13,
+        "vat_percentage": 16.71
+    }
+}

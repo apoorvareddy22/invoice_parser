@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "5216 Mitchell Skyway East Denise, PR 37061",
+        "id": "eo413"
+    },
+    "invoice": {
+        "bc_no": "EX48888",
+        "currency_code": "ANG",
+        "date": "18.03.2018",
+        "due_date": "14.05.1995",
+        "number": 410999
+    },
+    "payment": {
+        "bank_name": "Morgan and Sons",
+        "bic": "GRTFGB0X25F",
+        "iban": "IHFD30297773381558"
+    },
+    "products": [
+        {
+            "amount": 307.15,
+            "description": "productize B2C metrics",
+            "index": "10",
+            "price": 481.95,
+            "quantity": 2.34,
+            "tax_amount": 79.85,
+            "total_ttc": 465.09,
+            "vat_amount": 16.52
+        },
+        {
+            "amount": 26.39,
+            "description": "synthesize granular supply-chains",
+            "index": "3",
+            "price": 459.96,
+            "quantity": 1.58,
+            "tax_amount": 33.79,
+            "total_ttc": 398.73,
+            "vat_amount": 0.91
+        },
+        {
+            "amount": 112.64,
+            "description": "harness user-centric e-markets",
+            "index": "9",
+            "price": 231.97,
+            "quantity": 7.15,
+            "tax_amount": 48.89,
+            "total_ttc": 397.52,
+            "vat_amount": 11.22
+        }
+    ],
+    "seller": {
+        "name": "Kenneth Martin"
+    },
+    "supplier": {
+        "address": "7723 Edward Walk South Micheleshire, NE 72251",
+        "name": "Emily Alexander"
+    },
+    "tax": {
+        "amount_excluding_tax": 77.84,
+        "amount_including_tax": 98.64,
+        "tax_amount": 13.25,
+        "total_ht": 269.04,
+        "total_ttc": 125.55
+    }
+}

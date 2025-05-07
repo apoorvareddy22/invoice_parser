@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "9540 Ramirez Plain Apt. 762 East Dawnview, VI 77423",
+        "email": "josehampton@example.org",
+        "phone": "+1-982-939-9805x84321",
+        "vat_no": "ck95847753055"
+    },
+    "invoice": {
+        "date": "08.10.2007",
+        "due_date": "24.01.2018",
+        "market_reference": 299218,
+        "notes": "utilize customized bandwidth",
+        "number": "6588-1566",
+        "reference": 916728,
+        "vat_no": "Eb21954729565"
+    },
+    "payment": {
+        "net_total": 82.54,
+        "total": 621.05
+    },
+    "products": [
+        {
+            "amount": 291.69,
+            "description": "reinvent turn-key content",
+            "hours": 2.81,
+            "rate": 5.33
+        },
+        {
+            "amount": 91.41,
+            "description": "iterate open-source ROI",
+            "hours": 4.65,
+            "rate": 9.97
+        },
+        {
+            "amount": 20.08,
+            "description": "unleash turn-key platforms",
+            "hours": 2.98,
+            "rate": 6.24
+        },
+        {
+            "amount": 326.49,
+            "description": "re-contextualize global models",
+            "hours": 7.61,
+            "rate": 4.08
+        },
+        {
+            "amount": 365.98,
+            "description": "monetize intuitive experiences",
+            "hours": 7.87,
+            "rate": 4.67
+        },
+        {
+            "amount": 471.14,
+            "description": "maximize open-source synergies",
+            "hours": 4.34,
+            "rate": 4.71
+        },
+        {
+            "amount": 343.87,
+            "description": "seize front-end e-business",
+            "hours": 9.52,
+            "rate": 3.58
+        }
+    ],
+    "seller": {
+        "address": "011 Jennifer View Suite 772 Port Russellside, DE 37880",
+        "email": "bradywiggins@example.org",
+        "name": "Connie Pace"
+    },
+    "tax": {
+        "base": 12.79,
+        "tax_amount": 26.22,
+        "total_tax": 28.1
+    }
+}

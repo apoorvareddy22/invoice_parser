@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "918 Smith Corners Suite 779 South Kevin, AS 93686",
+        "company_name": "Yates-Terrell",
+        "country": "Haiti",
+        "name": "Phyllis Shields"
+    },
+    "invoice": {
+        "date": "05.05.2010",
+        "number": 985911
+    },
+    "payment": {
+        "discount_amount": 49.62,
+        "discount_percentage": 15.11,
+        "due": 81.97,
+        "sub_total": 157.87,
+        "total": 151.61
+    },
+    "products": [
+        {
+            "description": "deploy B2B e-services",
+            "index": "2",
+            "quantity": 9.54,
+            "total_price": 244.17,
+            "unit_price": 44.54
+        },
+        {
+            "description": "deliver one-to-one models",
+            "index": "9",
+            "quantity": 6.95,
+            "total_price": 20.4,
+            "unit_price": 48.09
+        }
+    ],
+    "seller": {
+        "address": "007 Thomas Centers Butlerborough, MA 10625",
+        "company_name": "Williamson, Scott and Johnson",
+        "vat_no": "LU26631960328"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "69432 Gutierrez Trafficway Apt. 651 North Matthewbury, NJ 00964",
+        "id": "Rx819"
+    },
+    "invoice": {
+        "bc_no": "yM84591",
+        "currency_code": "NZD",
+        "date": "21.04.2007",
+        "due_date": "14.09.2016",
+        "number": 929830
+    },
+    "payment": {
+        "bank_name": "Scott LLC",
+        "bic": "FZVDGBHA",
+        "iban": "EFNF84963138220947"
+    },
+    "products": [
+        {
+            "amount": 381.3,
+            "description": "engineer viral users",
+            "index": "1",
+            "price": 71.39,
+            "quantity": 8.03,
+            "tax_amount": 12.09,
+            "total_ttc": 226.52,
+            "vat_amount": 2.15
+        },
+        {
+            "amount": 206.07,
+            "description": "iterate out-of-the-box e-business",
+            "index": "10",
+            "price": 66.62,
+            "quantity": 2.14,
+            "tax_amount": 79.78,
+            "total_ttc": 326.42,
+            "vat_amount": 15.26
+        }
+    ],
+    "seller": {
+        "name": "James Quinn"
+    },
+    "supplier": {
+        "address": "75257 Lang Summit East Michael, NY 71770",
+        "name": "Tammy Brooks"
+    },
+    "tax": {
+        "amount_excluding_tax": 181.27,
+        "amount_including_tax": 180.08,
+        "tax_amount": 11.58,
+        "total_ht": 352.15,
+        "total_ttc": 334.93
+    }
+}

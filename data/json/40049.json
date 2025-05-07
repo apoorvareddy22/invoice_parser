@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "Unit 2961 Box 7906 DPO AA 65445"
+    },
+    "invoice": {
+        "bc_no": "tP83745",
+        "date": "08.07.1994",
+        "maturity_date": "10.01.1999",
+        "number": 461204
+    },
+    "products": [
+        {
+            "amount": 222.45,
+            "description": "whiteboard customized infrastructures",
+            "quantity": 1.86,
+            "unit_price": 56.83,
+            "vat_amount": 8.24
+        },
+        {
+            "amount": 429.66,
+            "description": "grow distributed convergence",
+            "quantity": 6.04,
+            "unit_price": 24.81,
+            "vat_amount": 17.0
+        }
+    ],
+    "seller": {
+        "address": "3265 Sheri Vista Apt. 881 South Jeffrey, PA 88139"
+    },
+    "tax": {
+        "amount_excluding_tax": 115.93,
+        "amount_including_tax": 181.58,
+        "tax_amount": 18.84
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "15933 Woodward Manor Apt. 830 New Kelly, GA 74122",
+        "company_name": "Barber-Clark",
+        "country": "Aruba",
+        "name": "Destiny Espinoza"
+    },
+    "invoice": {
+        "date": "17.01.1995",
+        "number": 545420
+    },
+    "payment": {
+        "discount_amount": 18.46,
+        "discount_percentage": 19.02,
+        "due": 42.68,
+        "sub_total": 86.32,
+        "total": 112.23
+    },
+    "products": [
+        {
+            "description": "monetize open-source initiatives",
+            "index": "1",
+            "quantity": 9.62,
+            "total_price": 267.58,
+            "unit_price": 51.81
+        },
+        {
+            "description": "matrix extensible architectures",
+            "index": "7",
+            "quantity": 8.02,
+            "total_price": 586.06,
+            "unit_price": 62.15
+        },
+        {
+            "description": "enhance mission-critical web-readiness",
+            "index": "6",
+            "quantity": 8.04,
+            "total_price": 703.43,
+            "unit_price": 19.87
+        }
+    ],
+    "seller": {
+        "address": "39374 Espinoza Mill Apt. 391 Port Laurenborough, PA 47944",
+        "company_name": "Benitez, Terry and Wilson",
+        "vat_no": "jJ29379444214"
+    }
+}

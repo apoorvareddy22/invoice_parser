@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "4294 Wood Court South Mistyville, GU 65645",
+        "email": "randywilliams@example.net",
+        "phone": "001-971-549-8295x0897",
+        "vat_no": "LH87275402571"
+    },
+    "invoice": {
+        "date": "24.09.2014",
+        "due_date": "28.05.2009",
+        "market_reference": 794060,
+        "notes": "aggregate cross-media metrics",
+        "number": "8837-2163",
+        "reference": 700416,
+        "vat_no": "vj53084676702"
+    },
+    "payment": {
+        "net_total": 185.89,
+        "total": 475.13
+    },
+    "products": [
+        {
+            "amount": 201.55,
+            "description": "facilitate real-time info-mediaries",
+            "hours": 9.38,
+            "rate": 1.4
+        },
+        {
+            "amount": 226.33,
+            "description": "transform plug-and-play info-mediaries",
+            "hours": 9.03,
+            "rate": 5.58
+        },
+        {
+            "amount": 371.86,
+            "description": "incentivize rich paradigms",
+            "hours": 1.62,
+            "rate": 3.91
+        },
+        {
+            "amount": 268.17,
+            "description": "implement value-added e-commerce",
+            "hours": 6.83,
+            "rate": 6.84
+        },
+        {
+            "amount": 361.91,
+            "description": "architect extensible portals",
+            "hours": 2.95,
+            "rate": 2.75
+        }
+    ],
+    "seller": {
+        "address": "76739 Austin Mews South Markborough, WY 18942",
+        "email": "michele44@example.net",
+        "name": "Taylor Payne"
+    },
+    "tax": {
+        "base": 25.63,
+        "tax_amount": 13.51,
+        "total_tax": 22.88
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "PSC 5892, Box 7030 APO AP 07093",
+        "business_no": "Pg468",
+        "id": "tI058"
+    },
+    "invoice": {
+        "date": "30.10.2018",
+        "number": "1764-8320"
+    },
+    "payment": {
+        "due_date": "19.09.2004",
+        "total": 942.23
+    },
+    "products": [
+        {
+            "amount": 33.55,
+            "description": "enable compelling initiatives",
+            "quantity": 3.35,
+            "reference": "qT-593",
+            "unit_price": 26.32
+        },
+        {
+            "amount": 215.24,
+            "description": "productize bleeding-edge portals",
+            "quantity": 2.29,
+            "reference": "eb-936",
+            "unit_price": 20.69
+        },
+        {
+            "amount": 81.46,
+            "description": "cultivate rich initiatives",
+            "quantity": 5.38,
+            "reference": "OD-678",
+            "unit_price": 60.54
+        },
+        {
+            "amount": 358.99,
+            "description": "reinvent world-class experiences",
+            "quantity": 7.89,
+            "reference": "ec-478",
+            "unit_price": 43.83
+        },
+        {
+            "amount": 364.34,
+            "description": "deploy back-end platforms",
+            "quantity": 8.35,
+            "reference": "qd-024",
+            "unit_price": 41.04
+        }
+    ],
+    "seller": {
+        "address": "92226 Lisa Lake Apt. 070 Flynnville, IL 30653"
+    },
+    "tax": {
+        "base_ht": 113.69,
+        "regulations": 27.29,
+        "total_ht": 233.29,
+        "vat_amount": 89.02,
+        "vat_percentage": 24.5
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "4628 Wells Expressway Suite 676 Port David, MP 93012"
+    },
+    "invoice": {
+        "bc_no": "Fb94268",
+        "date": "22.07.1992",
+        "maturity_date": "29.04.2001",
+        "number": 825531
+    },
+    "products": [
+        {
+            "amount": 402.42,
+            "description": "cultivate magnetic interfaces",
+            "quantity": 8.15,
+            "unit_price": 55.14,
+            "vat_amount": 1.43
+        }
+    ],
+    "seller": {
+        "address": "28374 Tyler Prairie Suite 517 Vasquezstad, WY 59461"
+    },
+    "tax": {
+        "amount_excluding_tax": 163.25,
+        "amount_including_tax": 75.03,
+        "tax_amount": 19.73
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "269 Ian Club East Donnaville, NH 23879"
+    },
+    "invoice": {
+        "bc_no": "fy08516",
+        "date": "13.08.2007",
+        "maturity_date": "19.10.2003",
+        "number": 781571
+    },
+    "products": [
+        {
+            "amount": 30.15,
+            "description": "architect synergistic markets",
+            "quantity": 8.29,
+            "unit_price": 30.24,
+            "vat_amount": 1.7
+        }
+    ],
+    "seller": {
+        "address": "7119 Dunlap Via New Johnberg, NC 34707"
+    },
+    "tax": {
+        "amount_excluding_tax": 85.85,
+        "amount_including_tax": 21.44,
+        "tax_amount": 17.34
+    }
+}

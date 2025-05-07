@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "62027 Henry Burgs Apt. 222 Calderonland, SD 32251",
+        "business_no": "Oq541",
+        "id": "rK420"
+    },
+    "invoice": {
+        "date": "29.03.1997",
+        "number": "3321-8955"
+    },
+    "payment": {
+        "due_date": "15.08.1998",
+        "total": 578.94
+    },
+    "products": [
+        {
+            "amount": 463.56,
+            "description": "redefine scalable platforms",
+            "quantity": 3.46,
+            "reference": "Hr-042",
+            "unit_price": 94.49
+        },
+        {
+            "amount": 80.74,
+            "description": "incubate holistic applications",
+            "quantity": 7.73,
+            "reference": "tu-959",
+            "unit_price": 78.7
+        },
+        {
+            "amount": 83.15,
+            "description": "enable granular web-readiness",
+            "quantity": 1.49,
+            "reference": "wh-782",
+            "unit_price": 94.27
+        }
+    ],
+    "seller": {
+        "address": "488 Cheryl Mountain West Leetown, VA 31487"
+    },
+    "tax": {
+        "base_ht": 192.24,
+        "regulations": 10.57,
+        "total_ht": 325.84,
+        "vat_amount": 185.06,
+        "vat_percentage": 11.73
+    }
+}

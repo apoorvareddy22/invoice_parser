@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "308 Leonard Locks Dunlapfort, WI 46320",
+        "business_no": "NV886",
+        "id": "yi695"
+    },
+    "invoice": {
+        "date": "01.09.2012",
+        "number": "6450-0271"
+    },
+    "payment": {
+        "due_date": "01.09.2010",
+        "total": 306.75
+    },
+    "products": [
+        {
+            "amount": 335.58,
+            "description": "morph collaborative e-tailers",
+            "quantity": 1.48,
+            "reference": "zA-563",
+            "unit_price": 30.59
+        },
+        {
+            "amount": 415.1,
+            "description": "repurpose customized web-readiness",
+            "quantity": 6.2,
+            "reference": "DM-207",
+            "unit_price": 49.77
+        },
+        {
+            "amount": 321.88,
+            "description": "maximize scalable markets",
+            "quantity": 3.0,
+            "reference": "yi-320",
+            "unit_price": 98.46
+        },
+        {
+            "amount": 300.3,
+            "description": "deliver viral platforms",
+            "quantity": 2.9,
+            "reference": "Cc-832",
+            "unit_price": 68.77
+        },
+        {
+            "amount": 119.56,
+            "description": "transform innovative applications",
+            "quantity": 3.85,
+            "reference": "Sa-462",
+            "unit_price": 60.91
+        }
+    ],
+    "seller": {
+        "address": "239 Ann Haven Apt. 597 Terrytown, MI 08275"
+    },
+    "tax": {
+        "base_ht": 456.34,
+        "regulations": 20.98,
+        "total_ht": 359.21,
+        "vat_amount": 108.96,
+        "vat_percentage": 17.58
+    }
+}

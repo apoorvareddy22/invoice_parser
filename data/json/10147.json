@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "5766 John Parkway West Deniseview, MH 56935",
+        "email": "john51@example.net",
+        "phone": "282-592-5270",
+        "vat_no": "Bo09779293199"
+    },
+    "invoice": {
+        "date": "22.11.1997",
+        "due_date": "21.10.2000",
+        "market_reference": 351520,
+        "notes": "benchmark end-to-end e-tailers",
+        "number": "7176-7074",
+        "reference": 863424,
+        "vat_no": "Gj88238726520"
+    },
+    "payment": {
+        "net_total": 151.29,
+        "total": 267.28
+    },
+    "products": [
+        {
+            "amount": 49.31,
+            "description": "utilize sticky channels",
+            "hours": 8.86,
+            "rate": 2.11
+        },
+        {
+            "amount": 339.15,
+            "description": "strategize synergistic methodologies",
+            "hours": 2.33,
+            "rate": 9.33
+        },
+        {
+            "amount": 165.16,
+            "description": "deliver strategic e-tailers",
+            "hours": 1.63,
+            "rate": 4.75
+        },
+        {
+            "amount": 76.06,
+            "description": "matrix efficient markets",
+            "hours": 7.54,
+            "rate": 1.2
+        },
+        {
+            "amount": 9.75,
+            "description": "engage efficient relationships",
+            "hours": 5.25,
+            "rate": 1.64
+        }
+    ],
+    "seller": {
+        "address": "26271 Cindy Port North Dawnton, PW 45998",
+        "email": "vandrews@example.net",
+        "name": "Edward Smith"
+    },
+    "tax": {
+        "base": 22.5,
+        "tax_amount": 26.83,
+        "total_tax": 23.61
+    }
+}

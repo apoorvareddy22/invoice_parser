@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "1937 Michelle Lake Suite 679 Harrisside, NC 42879",
+        "email": "bellrobert@example.org",
+        "phone": "(217)467-1913x700",
+        "vat_no": "yj31810027667"
+    },
+    "invoice": {
+        "date": "20.04.1995",
+        "due_date": "16.08.2016",
+        "market_reference": 758828,
+        "notes": "innovate web-enabled markets",
+        "number": "7230-5334",
+        "reference": 563006,
+        "vat_no": "zn13547755711"
+    },
+    "payment": {
+        "net_total": 21.43,
+        "total": 438.23
+    },
+    "products": [
+        {
+            "amount": 17.01,
+            "description": "brand viral users",
+            "hours": 8.16,
+            "rate": 7.19
+        },
+        {
+            "amount": 424.01,
+            "description": "optimize viral partnerships",
+            "hours": 3.31,
+            "rate": 8.78
+        },
+        {
+            "amount": 200.5,
+            "description": "brand revolutionary platforms",
+            "hours": 8.45,
+            "rate": 2.51
+        },
+        {
+            "amount": 373.26,
+            "description": "architect synergistic systems",
+            "hours": 8.35,
+            "rate": 2.09
+        }
+    ],
+    "seller": {
+        "address": "7499 Holder Groves Apt. 933 North Andreside, MA 20704",
+        "email": "christinanewman@example.net",
+        "name": "Kevin Grimes"
+    },
+    "tax": {
+        "base": 10.9,
+        "tax_amount": 21.89,
+        "total_tax": 16.8
+    }
+}

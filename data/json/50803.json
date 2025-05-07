@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "984 Jill Manors Apt. 454 Port Robertburgh, MP 25431",
+        "id": "Xo642"
+    },
+    "invoice": {
+        "bc_no": "aS45625",
+        "currency_code": "TTD",
+        "date": "20.11.1991",
+        "due_date": "18.04.1995",
+        "number": 352754
+    },
+    "payment": {
+        "bank_name": "Lee PLC",
+        "bic": "SUWOGBRA",
+        "iban": "BYPA52111833539641"
+    },
+    "products": [
+        {
+            "amount": 116.42,
+            "description": "redefine user-centric methodologies",
+            "index": "5",
+            "price": 494.99,
+            "quantity": 9.38,
+            "tax_amount": 99.28,
+            "total_ttc": 289.24,
+            "vat_amount": 14.03
+        },
+        {
+            "amount": 378.79,
+            "description": "benchmark ubiquitous action-items",
+            "index": "1",
+            "price": 431.93,
+            "quantity": 6.18,
+            "tax_amount": 74.36,
+            "total_ttc": 214.01,
+            "vat_amount": 1.19
+        },
+        {
+            "amount": 28.93,
+            "description": "seize magnetic experiences",
+            "index": "5",
+            "price": 475.87,
+            "quantity": 9.38,
+            "tax_amount": 43.69,
+            "total_ttc": 251.89,
+            "vat_amount": 8.26
+        },
+        {
+            "amount": 67.56,
+            "description": "incubate rich e-commerce",
+            "index": "2",
+            "price": 15.25,
+            "quantity": 3.33,
+            "tax_amount": 49.51,
+            "total_ttc": 344.08,
+            "vat_amount": 7.58
+        },
+        {
+            "amount": 279.06,
+            "description": "enhance granular action-items",
+            "index": "8",
+            "price": 40.09,
+            "quantity": 1.09,
+            "tax_amount": 85.04,
+            "total_ttc": 139.26,
+            "vat_amount": 3.52
+        },
+        {
+            "amount": 22.62,
+            "description": "revolutionize wireless convergence",
+            "index": "3",
+            "price": 425.37,
+            "quantity": 2.15,
+            "tax_amount": 84.98,
+            "total_ttc": 410.36,
+            "vat_amount": 10.26
+        }
+    ],
+    "seller": {
+        "name": "Sharon Johnson"
+    },
+    "supplier": {
+        "address": "2122 Johnson Stream Apt. 392 Vegaland, NH 51366",
+        "name": "Scott Hill"
+    },
+    "tax": {
+        "amount_excluding_tax": 187.92,
+        "amount_including_tax": 96.63,
+        "tax_amount": 28.1,
+        "total_ht": 164.98,
+        "total_ttc": 201.53
+    }
+}

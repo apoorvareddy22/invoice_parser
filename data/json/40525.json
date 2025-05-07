@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "7398 Gordon Park Stephaniechester, SC 98165"
+    },
+    "invoice": {
+        "bc_no": "SH88136",
+        "date": "15.10.1995",
+        "maturity_date": "22.01.2002",
+        "number": 229590
+    },
+    "products": [
+        {
+            "amount": 479.9,
+            "description": "aggregate extensible convergence",
+            "quantity": 7.12,
+            "unit_price": 73.53,
+            "vat_amount": 0.36
+        },
+        {
+            "amount": 243.54,
+            "description": "embrace real-time systems",
+            "quantity": 4.27,
+            "unit_price": 71.38,
+            "vat_amount": 3.06
+        },
+        {
+            "amount": 301.63,
+            "description": "deliver killer technologies",
+            "quantity": 5.57,
+            "unit_price": 80.9,
+            "vat_amount": 3.04
+        }
+    ],
+    "seller": {
+        "address": "5318 Michael Underpass Suite 409 Payneview, HI 27362"
+    },
+    "tax": {
+        "amount_excluding_tax": 42.38,
+        "amount_including_tax": 110.95,
+        "tax_amount": 16.22
+    }
+}

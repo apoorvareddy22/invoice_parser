@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "29616 Gates Valleys Apt. 213 Port Alexis, MO 04597",
+        "company_name": "Briggs, Wilson and Castro",
+        "email": "catherineporter@example.org",
+        "name": "Jennifer Mooney",
+        "phone": "209.403.7088x60972"
+    },
+    "invoice": {
+        "date": "18.02.2008",
+        "due_date": "30.09.2013",
+        "number": "rej55495065953"
+    },
+    "payment": {
+        "account_number": 3025996946,
+        "bank_name": "Wood, Torres and Perry",
+        "routing_number": 754262267
+    },
+    "products": [
+        {
+            "amount": 372.39,
+            "description": "engage dot-com partnerships",
+            "index": "9",
+            "quantity": 1.36,
+            "unit_price": 61.24
+        }
+    ],
+    "seller": {
+        "address": "Unit 1188 Box 7282 DPO AE 20888",
+        "company_name": "Coleman Ltd",
+        "email": "jmorgan@example.org"
+    }
+}

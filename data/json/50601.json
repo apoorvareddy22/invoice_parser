@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "4675 Kyle Lights Suite 261 Port Christopherbury, ND 72803",
+        "id": "af783"
+    },
+    "invoice": {
+        "bc_no": "bl99391",
+        "currency_code": "CAD",
+        "date": "27.04.1996",
+        "due_date": "12.06.2011",
+        "number": 292859
+    },
+    "payment": {
+        "bank_name": "Neal Inc",
+        "bic": "MVUCGBFE",
+        "iban": "MPRH28343265990034"
+    },
+    "products": [
+        {
+            "amount": 156.89,
+            "description": "embrace extensible convergence",
+            "index": "3",
+            "price": 305.08,
+            "quantity": 7.66,
+            "tax_amount": 25.47,
+            "total_ttc": 273.09,
+            "vat_amount": 1.94
+        },
+        {
+            "amount": 275.74,
+            "description": "integrate impactful info-mediaries",
+            "index": "10",
+            "price": 229.19,
+            "quantity": 7.21,
+            "tax_amount": 63.54,
+            "total_ttc": 395.99,
+            "vat_amount": 5.01
+        },
+        {
+            "amount": 239.45,
+            "description": "empower granular infrastructures",
+            "index": "5",
+            "price": 272.81,
+            "quantity": 4.66,
+            "tax_amount": 70.51,
+            "total_ttc": 168.29,
+            "vat_amount": 3.06
+        },
+        {
+            "amount": 417.95,
+            "description": "harness mission-critical supply-chains",
+            "index": "6",
+            "price": 344.48,
+            "quantity": 7.83,
+            "tax_amount": 72.56,
+            "total_ttc": 325.48,
+            "vat_amount": 2.63
+        },
+        {
+            "amount": 118.96,
+            "description": "empower one-to-one metrics",
+            "index": "5",
+            "price": 464.06,
+            "quantity": 5.18,
+            "tax_amount": 42.7,
+            "total_ttc": 477.36,
+            "vat_amount": 7.82
+        },
+        {
+            "amount": 162.42,
+            "description": "grow robust convergence",
+            "index": "1",
+            "price": 136.87,
+            "quantity": 7.95,
+            "tax_amount": 61.67,
+            "total_ttc": 374.52,
+            "vat_amount": 4.84
+        }
+    ],
+    "seller": {
+        "name": "Joanne Wiley"
+    },
+    "supplier": {
+        "address": "USCGC Goodman FPO AP 87276",
+        "name": "Kathy Tucker"
+    },
+    "tax": {
+        "amount_excluding_tax": 112.52,
+        "amount_including_tax": 88.44,
+        "tax_amount": 10.59,
+        "total_ht": 213.73,
+        "total_ttc": 103.57
+    }
+}

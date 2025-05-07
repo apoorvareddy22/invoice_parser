@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "07332 Bryan Forge Millerfort, HI 68433",
+        "email": "glong@example.net",
+        "phone": "(347)723-3313x61148",
+        "vat_no": "qb08966545060"
+    },
+    "invoice": {
+        "date": "03.12.2012",
+        "due_date": "09.03.1991",
+        "market_reference": 847746,
+        "notes": "extend back-end methodologies",
+        "number": "5895-9419",
+        "reference": 113394,
+        "vat_no": "As79449600152"
+    },
+    "payment": {
+        "net_total": 131.98,
+        "total": 509.11
+    },
+    "products": [
+        {
+            "amount": 247.03,
+            "description": "generate web-enabled markets",
+            "hours": 8.78,
+            "rate": 2.95
+        }
+    ],
+    "seller": {
+        "address": "585 Porter Turnpike West Michaelmouth, RI 99279",
+        "email": "dchen@example.net",
+        "name": "Monica Stewart"
+    },
+    "tax": {
+        "base": 22.48,
+        "tax_amount": 15.26,
+        "total_tax": 26.79
+    }
+}

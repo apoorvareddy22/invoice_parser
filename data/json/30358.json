@@ -1,0 +1,89 @@
+{
+    "buyer": {
+        "address": "0713 David Canyon Suite 200 Ethanstad, NH 71609",
+        "company_name": "Simmons, Bauer and Miller",
+        "country": "Austria",
+        "email": "jamesgonzalez@example.org",
+        "name": "Rodney Klein",
+        "phone": "825-431-4922",
+        "vat_no": "xc11412219869"
+    },
+    "invoice": {
+        "date": "16.01.2010",
+        "due_date": "22.01.2019",
+        "linked_invoice": "og-5160-1897",
+        "notes": "whiteboard one-to-one action-items",
+        "number": "tl-4244-7440"
+    },
+    "products": [
+        {
+            "description": "disintermediate real-time web-readiness",
+            "discount_percentage": 8.63,
+            "price": 359.58,
+            "quantity": 2.7,
+            "unit_price": 20.59
+        },
+        {
+            "description": "envisioneer 24/365 communities",
+            "discount_percentage": 14.33,
+            "price": 109.11,
+            "quantity": 4.75,
+            "unit_price": 89.42
+        },
+        {
+            "description": "generate visionary users",
+            "discount_percentage": 12.64,
+            "price": 270.48,
+            "quantity": 7.94,
+            "unit_price": 72.74
+        },
+        {
+            "description": "monetize revolutionary info-mediaries",
+            "discount_percentage": 14.12,
+            "price": 324.5,
+            "quantity": 7.47,
+            "unit_price": 89.69
+        },
+        {
+            "description": "incubate bricks-and-clicks ROI",
+            "discount_percentage": 5.2,
+            "price": 136.68,
+            "quantity": 7.92,
+            "unit_price": 18.77
+        },
+        {
+            "description": "re-contextualize integrated e-services",
+            "discount_percentage": 8.11,
+            "price": 353.37,
+            "quantity": 1.34,
+            "unit_price": 12.6
+        }
+    ],
+    "seller": {
+        "address": "1872 Jackson Parkways Lyonsview, NC 97798",
+        "ape": "2248Y",
+        "capital": 97539971,
+        "country": "Azerbaijan",
+        "email": "gyoder@example.net",
+        "name": "Mary Wilson",
+        "phone_1": "+1-592-230-1701x3680",
+        "phone_2": "559-738-1971x45929",
+        "phone_3": "4739774261",
+        "ref_walk": "WPjG0909",
+        "reference": "pT881",
+        "siret": 60280236620206,
+        "vat_no": "Re88893948573",
+        "website": "https://www.hoffman.info/"
+    },
+    "tax": {
+        "amount_0": 11.16,
+        "amount_1": 16.76,
+        "base_0": 11.81,
+        "base_1": 255.93,
+        "total_ht": 123.17,
+        "total_tax": 25.01,
+        "total_ttc": 419.2,
+        "vat_0": 22.51,
+        "vat_1": 21.82
+    }
+}

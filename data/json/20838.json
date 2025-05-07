@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "77705 Joseph Knoll Kochmouth, DC 42743",
+        "company_name": "Dillon-Rios",
+        "email": "bhoward@example.com",
+        "name": "Brandon Harris",
+        "phone": "(378)871-8249"
+    },
+    "invoice": {
+        "date": "23.04.2014",
+        "due_date": "21.12.1996",
+        "number": "zMC27411673761"
+    },
+    "payment": {
+        "account_number": 8484173102,
+        "bank_name": "Keller and Sons",
+        "routing_number": 293605435
+    },
+    "products": [
+        {
+            "amount": 323.81,
+            "description": "productize distributed applications",
+            "index": "3",
+            "quantity": 1.26,
+            "unit_price": 80.5
+        }
+    ],
+    "seller": {
+        "address": "83598 Stephanie Streets Apt. 827 East Markville, AL 61138",
+        "company_name": "Davis PLC",
+        "email": "jenna99@example.com"
+    }
+}

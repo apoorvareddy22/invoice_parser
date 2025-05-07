@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "79121 Marissa Forks Laurenstad, CA 04241"
+    },
+    "invoice": {
+        "bc_no": "ue42024",
+        "date": "12.08.2001",
+        "maturity_date": "02.09.1990",
+        "number": 334477
+    },
+    "products": [
+        {
+            "amount": 291.58,
+            "description": "brand e-business web-readiness",
+            "quantity": 6.33,
+            "unit_price": 38.62,
+            "vat_amount": 5.87
+        }
+    ],
+    "seller": {
+        "address": "5523 Campos Ferry Suite 828 Port Kenneth, MT 41838"
+    },
+    "tax": {
+        "amount_excluding_tax": 17.27,
+        "amount_including_tax": 139.02,
+        "tax_amount": 14.72
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "028 Gould Spurs West Jeffrey, VT 29933",
+        "id": "ni743"
+    },
+    "invoice": {
+        "bc_no": "vD00255",
+        "currency_code": "VUV",
+        "date": "11.04.2010",
+        "due_date": "01.02.1991",
+        "number": 145334
+    },
+    "payment": {
+        "bank_name": "Jackson LLC",
+        "bic": "FUXMGBCTQRS",
+        "iban": "YUCF67038424414760"
+    },
+    "products": [
+        {
+            "amount": 327.85,
+            "description": "utilize real-time methodologies",
+            "index": "6",
+            "price": 480.73,
+            "quantity": 1.77,
+            "tax_amount": 80.57,
+            "total_ttc": 469.94,
+            "vat_amount": 8.11
+        },
+        {
+            "amount": 33.81,
+            "description": "disintermediate robust web services",
+            "index": "6",
+            "price": 356.16,
+            "quantity": 7.56,
+            "tax_amount": 51.45,
+            "total_ttc": 163.66,
+            "vat_amount": 0.34
+        },
+        {
+            "amount": 153.1,
+            "description": "enable ubiquitous e-tailers",
+            "index": "7",
+            "price": 406.52,
+            "quantity": 4.37,
+            "tax_amount": 66.18,
+            "total_ttc": 337.36,
+            "vat_amount": 3.84
+        },
+        {
+            "amount": 279.32,
+            "description": "scale transparent platforms",
+            "index": "10",
+            "price": 43.55,
+            "quantity": 6.34,
+            "tax_amount": 14.03,
+            "total_ttc": 286.7,
+            "vat_amount": 0.07
+        },
+        {
+            "amount": 128.17,
+            "description": "enhance back-end content",
+            "index": "3",
+            "price": 55.36,
+            "quantity": 1.57,
+            "tax_amount": 47.43,
+            "total_ttc": 343.37,
+            "vat_amount": 9.01
+        },
+        {
+            "amount": 353.96,
+            "description": "incubate robust channels",
+            "index": "10",
+            "price": 113.13,
+            "quantity": 6.26,
+            "tax_amount": 14.22,
+            "total_ttc": 147.89,
+            "vat_amount": 6.59
+        },
+        {
+            "amount": 279.25,
+            "description": "matrix extensible platforms",
+            "index": "1",
+            "price": 432.25,
+            "quantity": 4.23,
+            "tax_amount": 55.27,
+            "total_ttc": 374.48,
+            "vat_amount": 8.43
+        }
+    ],
+    "seller": {
+        "name": "Thomas Mccoy"
+    },
+    "supplier": {
+        "address": "97041 Jacob Valleys Suite 124 Lake Danaside, VA 76598",
+        "name": "Mark Palmer"
+    },
+    "tax": {
+        "amount_excluding_tax": 119.46,
+        "amount_including_tax": 65.76,
+        "tax_amount": 17.78,
+        "total_ht": 488.01,
+        "total_ttc": 475.33
+    }
+}

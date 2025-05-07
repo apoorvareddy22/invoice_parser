@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "90085 David Course Suite 538 Davidtown, MP 73237"
+    },
+    "invoice": {
+        "bc_no": "Pw04961",
+        "date": "04.03.2014",
+        "maturity_date": "08.11.1999",
+        "number": 628540
+    },
+    "products": [
+        {
+            "amount": 375.13,
+            "description": "morph best-of-breed e-markets",
+            "quantity": 1.38,
+            "unit_price": 30.96,
+            "vat_amount": 6.24
+        },
+        {
+            "amount": 471.8,
+            "description": "exploit bricks-and-clicks e-commerce",
+            "quantity": 7.28,
+            "unit_price": 64.67,
+            "vat_amount": 7.94
+        },
+        {
+            "amount": 200.89,
+            "description": "target world-class bandwidth",
+            "quantity": 1.82,
+            "unit_price": 63.6,
+            "vat_amount": 8.74
+        }
+    ],
+    "seller": {
+        "address": "66919 Wright Harbors Suite 838 Rileystad, CO 80888"
+    },
+    "tax": {
+        "amount_excluding_tax": 149.5,
+        "amount_including_tax": 111.06,
+        "tax_amount": 19.86
+    }
+}

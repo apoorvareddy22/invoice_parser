@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "4671 Lee Flat Suite 369 Loganberg, KS 76225",
+        "email": "ambercaldwell@example.net",
+        "phone": "910-218-9011",
+        "vat_no": "Ia76572125369"
+    },
+    "invoice": {
+        "date": "02.05.1994",
+        "due_date": "13.02.1990",
+        "market_reference": 770001,
+        "notes": "cultivate innovative methodologies",
+        "number": "7193-5044",
+        "reference": 607035,
+        "vat_no": "PZ73046119563"
+    },
+    "payment": {
+        "net_total": 82.28,
+        "total": 723.95
+    },
+    "products": [
+        {
+            "amount": 259.06,
+            "description": "facilitate best-of-breed paradigms",
+            "hours": 6.28,
+            "rate": 1.73
+        },
+        {
+            "amount": 217.7,
+            "description": "architect cross-media web services",
+            "hours": 5.8,
+            "rate": 5.65
+        },
+        {
+            "amount": 48.46,
+            "description": "revolutionize world-class ROI",
+            "hours": 3.26,
+            "rate": 2.85
+        },
+        {
+            "amount": 64.77,
+            "description": "brand impactful portals",
+            "hours": 1.24,
+            "rate": 8.47
+        },
+        {
+            "amount": 488.01,
+            "description": "reinvent user-centric platforms",
+            "hours": 4.5,
+            "rate": 6.27
+        },
+        {
+            "amount": 172.22,
+            "description": "utilize leading-edge e-markets",
+            "hours": 7.14,
+            "rate": 3.49
+        },
+        {
+            "amount": 356.52,
+            "description": "seize holistic applications",
+            "hours": 7.74,
+            "rate": 4.1
+        }
+    ],
+    "seller": {
+        "address": "88220 Andrea Plains Apt. 697 North Tiffanyburgh, NC 60075",
+        "email": "jonesshane@example.net",
+        "name": "Amanda Taylor"
+    },
+    "tax": {
+        "base": 19.78,
+        "tax_amount": 27.96,
+        "total_tax": 18.15
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "716 Stephanie Alley West Drewmouth, OK 09726",
+        "id": "Hf991"
+    },
+    "invoice": {
+        "bc_no": "LN61268",
+        "currency_code": "PEN",
+        "date": "07.06.2001",
+        "due_date": "17.08.2022",
+        "number": 614338
+    },
+    "payment": {
+        "bank_name": "Gordon LLC",
+        "bic": "OPVFGBBC",
+        "iban": "KBDC84718623449210"
+    },
+    "products": [
+        {
+            "amount": 457.44,
+            "description": "seize impactful schemas",
+            "index": "9",
+            "price": 435.97,
+            "quantity": 3.72,
+            "tax_amount": 36.15,
+            "total_ttc": 193.43,
+            "vat_amount": 2.68
+        },
+        {
+            "amount": 280.78,
+            "description": "disintermediate extensible action-items",
+            "index": "5",
+            "price": 114.54,
+            "quantity": 1.94,
+            "tax_amount": 44.92,
+            "total_ttc": 343.04,
+            "vat_amount": 7.96
+        },
+        {
+            "amount": 414.45,
+            "description": "harness visionary vortals",
+            "index": "2",
+            "price": 97.22,
+            "quantity": 1.85,
+            "tax_amount": 33.57,
+            "total_ttc": 321.54,
+            "vat_amount": 5.98
+        },
+        {
+            "amount": 146.97,
+            "description": "generate interactive markets",
+            "index": "7",
+            "price": 197.77,
+            "quantity": 3.22,
+            "tax_amount": 13.44,
+            "total_ttc": 113.86,
+            "vat_amount": 6.13
+        },
+        {
+            "amount": 144.24,
+            "description": "revolutionize revolutionary mindshare",
+            "index": "9",
+            "price": 222.64,
+            "quantity": 2.84,
+            "tax_amount": 95.79,
+            "total_ttc": 356.61,
+            "vat_amount": 3.3
+        }
+    ],
+    "seller": {
+        "name": "Stephen Turner"
+    },
+    "supplier": {
+        "address": "1378 Rebecca Underpass Veronicaport, MH 88185",
+        "name": "Vanessa Bell MD"
+    },
+    "tax": {
+        "amount_excluding_tax": 11.45,
+        "amount_including_tax": 52.99,
+        "tax_amount": 22.21,
+        "total_ht": 499.89,
+        "total_ttc": 314.41
+    }
+}

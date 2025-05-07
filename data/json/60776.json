@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "699 Teresa Square Suite 724 Priceside, ME 61010",
+        "business_no": "Yx511",
+        "id": "PI206"
+    },
+    "invoice": {
+        "date": "03.02.2005",
+        "number": "7558-6243"
+    },
+    "payment": {
+        "due_date": "30.12.2020",
+        "total": 396.41
+    },
+    "products": [
+        {
+            "amount": 402.51,
+            "description": "leverage wireless technologies",
+            "quantity": 5.12,
+            "reference": "Ad-330",
+            "unit_price": 77.71
+        },
+        {
+            "amount": 80.42,
+            "description": "engineer granular users",
+            "quantity": 9.5,
+            "reference": "EY-597",
+            "unit_price": 65.67
+        },
+        {
+            "amount": 382.26,
+            "description": "mesh best-of-breed users",
+            "quantity": 2.34,
+            "reference": "hc-638",
+            "unit_price": 56.63
+        }
+    ],
+    "seller": {
+        "address": "210 Brown Island Lake Alexisshire, MN 92998"
+    },
+    "tax": {
+        "base_ht": 498.28,
+        "regulations": 21.43,
+        "total_ht": 245.93,
+        "vat_amount": 144.32,
+        "vat_percentage": 25.97
+    }
+}

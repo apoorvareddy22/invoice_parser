@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "378 Sara Pass North Andrewchester, MT 39624",
+        "business_no": "aU582",
+        "id": "Ai371"
+    },
+    "invoice": {
+        "date": "25.11.1994",
+        "number": "4575-9501"
+    },
+    "payment": {
+        "due_date": "06.12.2011",
+        "total": 321.54
+    },
+    "products": [
+        {
+            "amount": 268.43,
+            "description": "facilitate transparent markets",
+            "quantity": 7.1,
+            "reference": "Ml-008",
+            "unit_price": 71.13
+        }
+    ],
+    "seller": {
+        "address": "742 Patterson Keys East Susanfort, KS 43947"
+    },
+    "tax": {
+        "base_ht": 275.46,
+        "regulations": 17.06,
+        "total_ht": 363.41,
+        "vat_amount": 111.69,
+        "vat_percentage": 26.53
+    }
+}

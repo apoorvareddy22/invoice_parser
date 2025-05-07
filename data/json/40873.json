@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "PSC 2355, Box 7537 APO AP 23493"
+    },
+    "invoice": {
+        "bc_no": "un49711",
+        "date": "03.06.2017",
+        "maturity_date": "04.10.2003",
+        "number": 529511
+    },
+    "products": [
+        {
+            "amount": 266.64,
+            "description": "seize customized bandwidth",
+            "quantity": 9.72,
+            "unit_price": 38.52,
+            "vat_amount": 1.23
+        },
+        {
+            "amount": 411.27,
+            "description": "incubate virtual communities",
+            "quantity": 2.15,
+            "unit_price": 86.39,
+            "vat_amount": 7.62
+        }
+    ],
+    "seller": {
+        "address": "814 Caleb Fall Apt. 285 North Scott, OH 64535"
+    },
+    "tax": {
+        "amount_excluding_tax": 180.04,
+        "amount_including_tax": 174.78,
+        "tax_amount": 15.76
+    }
+}

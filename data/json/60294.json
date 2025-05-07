@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "4724 Harvey Circle Apt. 951 Lake Rachelborough, PA 74630",
+        "business_no": "HT686",
+        "id": "nB526"
+    },
+    "invoice": {
+        "date": "26.08.2003",
+        "number": "3336-0697"
+    },
+    "payment": {
+        "due_date": "04.12.2018",
+        "total": 984.98
+    },
+    "products": [
+        {
+            "amount": 412.64,
+            "description": "morph bleeding-edge applications",
+            "quantity": 1.71,
+            "reference": "Tm-566",
+            "unit_price": 18.27
+        },
+        {
+            "amount": 48.69,
+            "description": "re-intermediate open-source e-commerce",
+            "quantity": 7.22,
+            "reference": "Pb-100",
+            "unit_price": 96.93
+        },
+        {
+            "amount": 264.02,
+            "description": "re-contextualize bleeding-edge e-business",
+            "quantity": 1.02,
+            "reference": "li-407",
+            "unit_price": 58.8
+        },
+        {
+            "amount": 233.47,
+            "description": "iterate leading-edge applications",
+            "quantity": 8.04,
+            "reference": "Yf-403",
+            "unit_price": 45.06
+        },
+        {
+            "amount": 63.69,
+            "description": "repurpose magnetic e-business",
+            "quantity": 8.62,
+            "reference": "rC-211",
+            "unit_price": 68.21
+        },
+        {
+            "amount": 385.51,
+            "description": "orchestrate interactive action-items",
+            "quantity": 6.21,
+            "reference": "nB-044",
+            "unit_price": 39.21
+        }
+    ],
+    "seller": {
+        "address": "407 Waters Mall Suite 013 West Nicholasview, AS 29063"
+    },
+    "tax": {
+        "base_ht": 103.23,
+        "regulations": 23.04,
+        "total_ht": 437.77,
+        "vat_amount": 19.84,
+        "vat_percentage": 20.09
+    }
+}

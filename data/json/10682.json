@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "295 Fowler Park Suite 678 Caitlinburgh, MD 97227",
+        "email": "zramirez@example.net",
+        "phone": "654.258.8813x7630",
+        "vat_no": "VZ32703617158"
+    },
+    "invoice": {
+        "date": "21.03.2006",
+        "due_date": "18.11.1997",
+        "market_reference": 488670,
+        "notes": "synthesize customized methodologies",
+        "number": "7527-3725",
+        "reference": 203765,
+        "vat_no": "hB30349670391"
+    },
+    "payment": {
+        "net_total": 152.43,
+        "total": 468.57
+    },
+    "products": [
+        {
+            "amount": 195.13,
+            "description": "seize web-enabled web services",
+            "hours": 6.88,
+            "rate": 7.55
+        }
+    ],
+    "seller": {
+        "address": "38363 Christopher Expressway Apt. 815 Lake Christinashire, AK 02422",
+        "email": "rcarney@example.org",
+        "name": "Bethany Hartman"
+    },
+    "tax": {
+        "base": 17.56,
+        "tax_amount": 11.29,
+        "total_tax": 11.96
+    }
+}

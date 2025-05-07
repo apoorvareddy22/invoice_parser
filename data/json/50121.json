@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "47964 Bridget Squares Suite 668 Wendytown, AZ 28003",
+        "id": "Fo110"
+    },
+    "invoice": {
+        "bc_no": "cm07923",
+        "currency_code": "BWP",
+        "date": "03.10.2009",
+        "due_date": "07.08.1996",
+        "number": 327044
+    },
+    "payment": {
+        "bank_name": "Mcdonald-Herrera",
+        "bic": "RAMOGBFW",
+        "iban": "APXN11067010411632"
+    },
+    "products": [
+        {
+            "amount": 146.58,
+            "description": "repurpose proactive vortals",
+            "index": "5",
+            "price": 290.37,
+            "quantity": 6.35,
+            "tax_amount": 45.5,
+            "total_ttc": 164.66,
+            "vat_amount": 2.81
+        }
+    ],
+    "seller": {
+        "name": "Kenneth Mccoy"
+    },
+    "supplier": {
+        "address": "3971 Sara Meadow Loriview, AR 06142",
+        "name": "Eileen Braun"
+    },
+    "tax": {
+        "amount_excluding_tax": 40.21,
+        "amount_including_tax": 142.98,
+        "tax_amount": 15.62,
+        "total_ht": 449.97,
+        "total_ttc": 329.88
+    }
+}

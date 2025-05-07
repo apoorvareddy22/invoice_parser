@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "003 Bishop Well Warrentown, GA 92618",
+        "email": "mark73@example.org",
+        "phone": "(643)552-7878",
+        "vat_no": "Ea31802121476"
+    },
+    "invoice": {
+        "date": "24.06.2002",
+        "due_date": "17.05.2007",
+        "market_reference": 213993,
+        "notes": "visualize global platforms",
+        "number": "4321-2515",
+        "reference": 291876,
+        "vat_no": "Pi59562953133"
+    },
+    "payment": {
+        "net_total": 154.63,
+        "total": 626.29
+    },
+    "products": [
+        {
+            "amount": 148.4,
+            "description": "synthesize global methodologies",
+            "hours": 6.84,
+            "rate": 9.77
+        },
+        {
+            "amount": 6.46,
+            "description": "syndicate collaborative functionalities",
+            "hours": 7.53,
+            "rate": 2.11
+        },
+        {
+            "amount": 362.86,
+            "description": "re-contextualize transparent models",
+            "hours": 7.2,
+            "rate": 6.87
+        },
+        {
+            "amount": 18.98,
+            "description": "revolutionize integrated channels",
+            "hours": 1.44,
+            "rate": 1.26
+        },
+        {
+            "amount": 255.52,
+            "description": "strategize bricks-and-clicks relationships",
+            "hours": 1.32,
+            "rate": 9.33
+        },
+        {
+            "amount": 140.61,
+            "description": "transform magnetic eyeballs",
+            "hours": 1.42,
+            "rate": 8.08
+        }
+    ],
+    "seller": {
+        "address": "4728 Melissa Wells Suite 898 Sandrafort, DE 35322",
+        "email": "agraham@example.org",
+        "name": "Maria Adams"
+    },
+    "tax": {
+        "base": 14.46,
+        "tax_amount": 18.72,
+        "total_tax": 27.79
+    }
+}

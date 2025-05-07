@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "170 Noble Junction Thomasmouth, NV 30640"
+    },
+    "invoice": {
+        "bc_no": "bO13018",
+        "date": "08.12.2005",
+        "maturity_date": "08.06.1995",
+        "number": 428222
+    },
+    "products": [
+        {
+            "amount": 458.9,
+            "description": "syndicate enterprise partnerships",
+            "quantity": 1.95,
+            "unit_price": 54.19,
+            "vat_amount": 3.47
+        },
+        {
+            "amount": 421.44,
+            "description": "generate sticky schemas",
+            "quantity": 6.92,
+            "unit_price": 31.17,
+            "vat_amount": 5.43
+        },
+        {
+            "amount": 365.12,
+            "description": "re-intermediate value-added architectures",
+            "quantity": 6.59,
+            "unit_price": 20.66,
+            "vat_amount": 5.07
+        }
+    ],
+    "seller": {
+        "address": "342 Kevin Throughway Crosbybury, OR 47294"
+    },
+    "tax": {
+        "amount_excluding_tax": 198.19,
+        "amount_including_tax": 26.26,
+        "tax_amount": 26.96
+    }
+}

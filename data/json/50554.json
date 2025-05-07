@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "0744 Morris Freeway Apt. 660 North Terrimouth, MN 72210",
+        "id": "aF169"
+    },
+    "invoice": {
+        "bc_no": "Gg32015",
+        "currency_code": "KRW",
+        "date": "21.06.2006",
+        "due_date": "03.08.2018",
+        "number": 306981
+    },
+    "payment": {
+        "bank_name": "Williams Group",
+        "bic": "JIFAGBC1",
+        "iban": "HUAT13526258796288"
+    },
+    "products": [
+        {
+            "amount": 40.19,
+            "description": "matrix sticky models",
+            "index": "8",
+            "price": 276.98,
+            "quantity": 5.57,
+            "tax_amount": 96.93,
+            "total_ttc": 474.36,
+            "vat_amount": 1.19
+        }
+    ],
+    "seller": {
+        "name": "Dana Lutz"
+    },
+    "supplier": {
+        "address": "032 Michael Glens Lake Meganberg, DC 11497",
+        "name": "Sharon Spence"
+    },
+    "tax": {
+        "amount_excluding_tax": 118.49,
+        "amount_including_tax": 112.8,
+        "tax_amount": 18.4,
+        "total_ht": 389.78,
+        "total_ttc": 291.46
+    }
+}

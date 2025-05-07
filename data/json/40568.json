@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "8632 Stephens Via Suite 375 New Kelli, WY 14195"
+    },
+    "invoice": {
+        "bc_no": "xY79717",
+        "date": "05.11.2017",
+        "maturity_date": "17.09.1996",
+        "number": 948342
+    },
+    "products": [
+        {
+            "amount": 307.4,
+            "description": "visualize magnetic functionalities",
+            "quantity": 6.93,
+            "unit_price": 39.93,
+            "vat_amount": 3.26
+        },
+        {
+            "amount": 58.99,
+            "description": "whiteboard scalable markets",
+            "quantity": 6.16,
+            "unit_price": 73.93,
+            "vat_amount": 10.52
+        }
+    ],
+    "seller": {
+        "address": "Unit 8677 Box 7698 DPO AE 62531"
+    },
+    "tax": {
+        "amount_excluding_tax": 30.45,
+        "amount_including_tax": 47.68,
+        "tax_amount": 27.16
+    }
+}

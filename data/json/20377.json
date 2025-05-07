@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "1253 Powell Underpass Hamptontown, FM 07165",
+        "company_name": "Brown LLC",
+        "email": "blakenicole@example.com",
+        "name": "Adam Hensley",
+        "phone": "836.684.8668x420"
+    },
+    "invoice": {
+        "date": "01.07.2020",
+        "due_date": "14.11.2008",
+        "number": "JzG35199045752"
+    },
+    "payment": {
+        "account_number": 1050837973,
+        "bank_name": "Lozano-Brennan",
+        "routing_number": 699616786
+    },
+    "products": [
+        {
+            "amount": 251.46,
+            "description": "drive extensible supply-chains",
+            "index": "8",
+            "quantity": 8.88,
+            "unit_price": 88.2
+        },
+        {
+            "amount": 451.21,
+            "description": "morph real-time systems",
+            "index": "8",
+            "quantity": 1.33,
+            "unit_price": 69.52
+        },
+        {
+            "amount": 321.94,
+            "description": "deploy front-end users",
+            "index": "2",
+            "quantity": 7.6,
+            "unit_price": 21.76
+        },
+        {
+            "amount": 282.84,
+            "description": "exploit efficient initiatives",
+            "index": "5",
+            "quantity": 8.86,
+            "unit_price": 16.4
+        }
+    ],
+    "seller": {
+        "address": "325 Jones Parks Apt. 279 Lake Patriciachester, OH 28675",
+        "company_name": "Cook and Sons",
+        "email": "lisa32@example.com"
+    }
+}

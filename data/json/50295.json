@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "50384 Bell Lake Apt. 078 Ryanmouth, WV 31942",
+        "id": "AK081"
+    },
+    "invoice": {
+        "bc_no": "OF88800",
+        "currency_code": "GMD",
+        "date": "27.08.1993",
+        "due_date": "12.06.2006",
+        "number": 425987
+    },
+    "payment": {
+        "bank_name": "Thompson, Smith and Garner",
+        "bic": "GHFXGBXHV6B",
+        "iban": "OYIO99119270332465"
+    },
+    "products": [
+        {
+            "amount": 166.06,
+            "description": "reinvent B2C solutions",
+            "index": "5",
+            "price": 237.89,
+            "quantity": 9.04,
+            "tax_amount": 36.22,
+            "total_ttc": 146.61,
+            "vat_amount": 2.99
+        },
+        {
+            "amount": 364.67,
+            "description": "productize cutting-edge web services",
+            "index": "5",
+            "price": 430.52,
+            "quantity": 6.52,
+            "tax_amount": 21.19,
+            "total_ttc": 239.21,
+            "vat_amount": 4.42
+        },
+        {
+            "amount": 42.29,
+            "description": "maximize killer users",
+            "index": "9",
+            "price": 150.0,
+            "quantity": 1.13,
+            "tax_amount": 98.72,
+            "total_ttc": 275.39,
+            "vat_amount": 10.05
+        },
+        {
+            "amount": 133.92,
+            "description": "harness viral info-mediaries",
+            "index": "5",
+            "price": 395.73,
+            "quantity": 4.73,
+            "tax_amount": 64.11,
+            "total_ttc": 495.92,
+            "vat_amount": 8.9
+        },
+        {
+            "amount": 10.25,
+            "description": "deliver clicks-and-mortar experiences",
+            "index": "5",
+            "price": 193.0,
+            "quantity": 7.14,
+            "tax_amount": 78.82,
+            "total_ttc": 280.35,
+            "vat_amount": 8.88
+        },
+        {
+            "amount": 408.61,
+            "description": "drive efficient methodologies",
+            "index": "1",
+            "price": 16.75,
+            "quantity": 9.5,
+            "tax_amount": 11.91,
+            "total_ttc": 244.42,
+            "vat_amount": 7.89
+        },
+        {
+            "amount": 352.87,
+            "description": "unleash 24/365 relationships",
+            "index": "10",
+            "price": 65.04,
+            "quantity": 4.38,
+            "tax_amount": 61.23,
+            "total_ttc": 210.0,
+            "vat_amount": 3.1
+        }
+    ],
+    "seller": {
+        "name": "Eric Gray"
+    },
+    "supplier": {
+        "address": "291 Mark Plaza Apt. 872 South Tiffany, FL 36552",
+        "name": "Jessica Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 153.26,
+        "amount_including_tax": 187.86,
+        "tax_amount": 10.89,
+        "total_ht": 375.92,
+        "total_ttc": 202.14
+    }
+}

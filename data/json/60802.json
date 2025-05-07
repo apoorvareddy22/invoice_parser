@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "462 Russell Falls Apt. 996 Johnsonland, MS 08685",
+        "business_no": "Td919",
+        "id": "gE322"
+    },
+    "invoice": {
+        "date": "04.08.2000",
+        "number": "5406-3420"
+    },
+    "payment": {
+        "due_date": "01.04.2022",
+        "total": 874.95
+    },
+    "products": [
+        {
+            "amount": 207.74,
+            "description": "monetize integrated applications",
+            "quantity": 4.21,
+            "reference": "Os-159",
+            "unit_price": 76.05
+        },
+        {
+            "amount": 213.98,
+            "description": "cultivate enterprise bandwidth",
+            "quantity": 6.77,
+            "reference": "Uf-709",
+            "unit_price": 92.4
+        },
+        {
+            "amount": 174.23,
+            "description": "brand 24/365 architectures",
+            "quantity": 9.86,
+            "reference": "al-830",
+            "unit_price": 37.58
+        }
+    ],
+    "seller": {
+        "address": "8919 Jones Roads Port Thomasview, FL 46246"
+    },
+    "tax": {
+        "base_ht": 381.63,
+        "regulations": 11.49,
+        "total_ht": 134.95,
+        "vat_amount": 68.87,
+        "vat_percentage": 12.69
+    }
+}

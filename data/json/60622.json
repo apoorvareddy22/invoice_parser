@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "81623 Black Turnpike Apt. 162 West Timothyberg, NY 30500",
+        "business_no": "BQ147",
+        "id": "Gv225"
+    },
+    "invoice": {
+        "date": "26.01.2013",
+        "number": "6348-4435"
+    },
+    "payment": {
+        "due_date": "10.05.2012",
+        "total": 289.25
+    },
+    "products": [
+        {
+            "amount": 273.38,
+            "description": "innovate compelling e-services",
+            "quantity": 7.2,
+            "reference": "PI-531",
+            "unit_price": 48.71
+        },
+        {
+            "amount": 204.33,
+            "description": "reinvent seamless mindshare",
+            "quantity": 8.54,
+            "reference": "AZ-177",
+            "unit_price": 12.54
+        },
+        {
+            "amount": 242.28,
+            "description": "whiteboard user-centric solutions",
+            "quantity": 2.79,
+            "reference": "qu-932",
+            "unit_price": 71.19
+        },
+        {
+            "amount": 39.17,
+            "description": "utilize viral relationships",
+            "quantity": 4.12,
+            "reference": "Az-871",
+            "unit_price": 67.9
+        }
+    ],
+    "seller": {
+        "address": "340 Cynthia Highway Apt. 092 Stewartside, CT 37973"
+    },
+    "tax": {
+        "base_ht": 101.4,
+        "regulations": 26.15,
+        "total_ht": 167.12,
+        "vat_amount": 63.1,
+        "vat_percentage": 28.27
+    }
+}

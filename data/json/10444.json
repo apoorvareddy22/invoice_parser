@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "5742 Laura Ramp North Fernandoville, NY 23065",
+        "email": "dlawrence@example.net",
+        "phone": "797-555-5050",
+        "vat_no": "cN50341963542"
+    },
+    "invoice": {
+        "date": "03.03.2004",
+        "due_date": "30.06.2010",
+        "market_reference": 907534,
+        "notes": "transition revolutionary mindshare",
+        "number": "1819-3373",
+        "reference": 906154,
+        "vat_no": "zz34416622676"
+    },
+    "payment": {
+        "net_total": 23.12,
+        "total": 419.12
+    },
+    "products": [
+        {
+            "amount": 354.23,
+            "description": "implement strategic channels",
+            "hours": 8.68,
+            "rate": 1.12
+        },
+        {
+            "amount": 327.83,
+            "description": "mesh synergistic ROI",
+            "hours": 3.17,
+            "rate": 5.74
+        },
+        {
+            "amount": 423.85,
+            "description": "utilize mission-critical e-services",
+            "hours": 1.84,
+            "rate": 1.48
+        },
+        {
+            "amount": 468.7,
+            "description": "orchestrate proactive markets",
+            "hours": 1.04,
+            "rate": 9.08
+        },
+        {
+            "amount": 386.58,
+            "description": "architect bricks-and-clicks infrastructures",
+            "hours": 7.42,
+            "rate": 1.58
+        },
+        {
+            "amount": 100.5,
+            "description": "scale one-to-one convergence",
+            "hours": 9.12,
+            "rate": 6.74
+        },
+        {
+            "amount": 100.12,
+            "description": "unleash extensible web services",
+            "hours": 6.69,
+            "rate": 4.87
+        }
+    ],
+    "seller": {
+        "address": "84709 Knight Station Staceytown, NJ 08979",
+        "email": "livingstonkristin@example.org",
+        "name": "Mary Thompson"
+    },
+    "tax": {
+        "base": 10.15,
+        "tax_amount": 29.75,
+        "total_tax": 16.73
+    }
+}

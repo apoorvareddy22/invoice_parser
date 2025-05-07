@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "354 Sanchez Island Suite 526 Lake Karinabury, NJ 51451",
+        "company_name": "Lewis, Miller and Moore",
+        "email": "jlong@example.org",
+        "name": "Marie Owen",
+        "phone": "001-443-914-9390"
+    },
+    "invoice": {
+        "date": "24.03.2005",
+        "due_date": "21.07.2021",
+        "number": "idj02195631468"
+    },
+    "payment": {
+        "account_number": 9584759949,
+        "bank_name": "Hicks-Nguyen",
+        "routing_number": 945089076
+    },
+    "products": [
+        {
+            "amount": 98.57,
+            "description": "embrace 24/7 vortals",
+            "index": "5",
+            "quantity": 3.34,
+            "unit_price": 55.86
+        },
+        {
+            "amount": 459.38,
+            "description": "engage end-to-end metrics",
+            "index": "3",
+            "quantity": 9.99,
+            "unit_price": 40.37
+        }
+    ],
+    "seller": {
+        "address": "55893 Bryant Parkway Apt. 562 Scottmouth, GU 50325",
+        "company_name": "Stephens Inc",
+        "email": "brendareed@example.net"
+    }
+}

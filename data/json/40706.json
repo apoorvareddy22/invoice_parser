@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "54948 Miller Curve Suite 546 Port Kimberlytown, OH 06660"
+    },
+    "invoice": {
+        "bc_no": "qQ90159",
+        "date": "21.01.1994",
+        "maturity_date": "02.11.2015",
+        "number": 835755
+    },
+    "products": [
+        {
+            "amount": 420.12,
+            "description": "incubate holistic e-commerce",
+            "quantity": 5.43,
+            "unit_price": 86.92,
+            "vat_amount": 10.16
+        },
+        {
+            "amount": 384.02,
+            "description": "benchmark transparent deliverables",
+            "quantity": 5.97,
+            "unit_price": 95.43,
+            "vat_amount": 15.38
+        }
+    ],
+    "seller": {
+        "address": "USNV Hansen FPO AP 41749"
+    },
+    "tax": {
+        "amount_excluding_tax": 62.42,
+        "amount_including_tax": 77.17,
+        "tax_amount": 11.3
+    }
+}

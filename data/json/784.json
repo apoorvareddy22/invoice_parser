@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "PSC 7700, Box 9955 APO AP 66440",
+        "company_name": "Martinez-Lee",
+        "country": "Mali",
+        "name": "Elizabeth Munoz"
+    },
+    "invoice": {
+        "date": "18.07.2010",
+        "number": 784079
+    },
+    "payment": {
+        "discount_amount": 18.77,
+        "discount_percentage": 19.37,
+        "due": 81.26,
+        "sub_total": 89.4,
+        "total": 641.94
+    },
+    "products": [
+        {
+            "description": "empower strategic e-markets",
+            "index": "5",
+            "quantity": 8.38,
+            "total_price": 674.14,
+            "unit_price": 79.64
+        },
+        {
+            "description": "syndicate enterprise metrics",
+            "index": "6",
+            "quantity": 5.24,
+            "total_price": 638.22,
+            "unit_price": 26.73
+        }
+    ],
+    "seller": {
+        "address": "140 Klein Harbors Roachfurt, AS 00961",
+        "company_name": "Wallace and Sons",
+        "vat_no": "mH07943578955"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "405 Patricia Pass South Dominic, SD 53761",
+        "business_no": "pF724",
+        "id": "ml525"
+    },
+    "invoice": {
+        "date": "28.09.1996",
+        "number": "7129-4296"
+    },
+    "payment": {
+        "due_date": "07.03.1994",
+        "total": 484.41
+    },
+    "products": [
+        {
+            "amount": 488.45,
+            "description": "drive e-business technologies",
+            "quantity": 3.88,
+            "reference": "Iz-699",
+            "unit_price": 42.18
+        },
+        {
+            "amount": 6.52,
+            "description": "incentivize world-class metrics",
+            "quantity": 8.79,
+            "reference": "nJ-491",
+            "unit_price": 82.12
+        },
+        {
+            "amount": 267.27,
+            "description": "strategize distributed initiatives",
+            "quantity": 3.46,
+            "reference": "lx-827",
+            "unit_price": 33.74
+        },
+        {
+            "amount": 297.41,
+            "description": "expedite leading-edge communities",
+            "quantity": 1.78,
+            "reference": "TQ-911",
+            "unit_price": 79.71
+        }
+    ],
+    "seller": {
+        "address": "USCGC Fuller FPO AE 23601"
+    },
+    "tax": {
+        "base_ht": 389.87,
+        "regulations": 25.13,
+        "total_ht": 452.86,
+        "vat_amount": 185.9,
+        "vat_percentage": 19.78
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "276 Singleton Ramp Coxmouth, DE 20934"
+    },
+    "invoice": {
+        "bc_no": "qs42137",
+        "date": "06.12.2008",
+        "maturity_date": "15.11.2004",
+        "number": 907105
+    },
+    "products": [
+        {
+            "amount": 388.63,
+            "description": "redefine transparent bandwidth",
+            "quantity": 5.31,
+            "unit_price": 42.07,
+            "vat_amount": 4.09
+        },
+        {
+            "amount": 304.04,
+            "description": "unleash dot-com web-readiness",
+            "quantity": 9.08,
+            "unit_price": 14.16,
+            "vat_amount": 2.69
+        }
+    ],
+    "seller": {
+        "address": "USNV Weeks FPO AP 88965"
+    },
+    "tax": {
+        "amount_excluding_tax": 174.36,
+        "amount_including_tax": 182.04,
+        "tax_amount": 16.23
+    }
+}

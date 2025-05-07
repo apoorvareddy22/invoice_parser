@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "4605 Rodriguez Freeway Apt. 929 Port Josephmouth, WI 06549",
+        "email": "marcomurray@example.org",
+        "phone": "415-311-0678",
+        "vat_no": "hD86930125680"
+    },
+    "invoice": {
+        "date": "19.12.1999",
+        "due_date": "16.08.2003",
+        "market_reference": 541554,
+        "notes": "revolutionize next-generation experiences",
+        "number": "0673-3695",
+        "reference": 233467,
+        "vat_no": "kO78132186680"
+    },
+    "payment": {
+        "net_total": 188.0,
+        "total": 120.92
+    },
+    "products": [
+        {
+            "amount": 453.96,
+            "description": "unleash best-of-breed communities",
+            "hours": 9.62,
+            "rate": 9.4
+        },
+        {
+            "amount": 81.65,
+            "description": "expedite holistic eyeballs",
+            "hours": 6.39,
+            "rate": 7.72
+        }
+    ],
+    "seller": {
+        "address": "920 Maria Track Morganburgh, NM 77439",
+        "email": "ldavis@example.net",
+        "name": "Paul Camacho"
+    },
+    "tax": {
+        "base": 18.03,
+        "tax_amount": 14.74,
+        "total_tax": 15.59
+    }
+}

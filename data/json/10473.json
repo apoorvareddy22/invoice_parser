@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "9627 Parks Lodge Suite 221 North Jessicaside, VI 10724",
+        "email": "ronald64@example.com",
+        "phone": "488.851.8198x1501",
+        "vat_no": "Or36745011169"
+    },
+    "invoice": {
+        "date": "28.11.2003",
+        "due_date": "07.11.2010",
+        "market_reference": 571307,
+        "notes": "embrace scalable e-markets",
+        "number": "4801-0611",
+        "reference": 528598,
+        "vat_no": "mg74724303814"
+    },
+    "payment": {
+        "net_total": 103.23,
+        "total": 712.77
+    },
+    "products": [
+        {
+            "amount": 112.46,
+            "description": "drive cross-platform initiatives",
+            "hours": 2.74,
+            "rate": 7.82
+        },
+        {
+            "amount": 251.0,
+            "description": "aggregate sticky e-business",
+            "hours": 3.52,
+            "rate": 6.6
+        },
+        {
+            "amount": 105.06,
+            "description": "transition viral methodologies",
+            "hours": 9.74,
+            "rate": 1.24
+        }
+    ],
+    "seller": {
+        "address": "7338 Eric Valleys Gonzalezland, AL 31962",
+        "email": "kleincheryl@example.com",
+        "name": "Megan Logan"
+    },
+    "tax": {
+        "base": 21.01,
+        "tax_amount": 14.38,
+        "total_tax": 10.64
+    }
+}

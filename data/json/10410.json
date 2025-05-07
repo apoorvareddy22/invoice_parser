@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "11144 Douglas Burgs Suite 927 Port Danielleview, WV 37742",
+        "email": "lori13@example.net",
+        "phone": "667.728.1534",
+        "vat_no": "rN58183142354"
+    },
+    "invoice": {
+        "date": "26.09.2000",
+        "due_date": "01.04.2000",
+        "market_reference": 359319,
+        "notes": "maximize collaborative paradigms",
+        "number": "7548-8961",
+        "reference": 171697,
+        "vat_no": "xx44843729673"
+    },
+    "payment": {
+        "net_total": 160.36,
+        "total": 639.55
+    },
+    "products": [
+        {
+            "amount": 208.33,
+            "description": "architect wireless users",
+            "hours": 7.29,
+            "rate": 6.57
+        },
+        {
+            "amount": 90.58,
+            "description": "syndicate leading-edge infrastructures",
+            "hours": 5.5,
+            "rate": 1.12
+        },
+        {
+            "amount": 379.85,
+            "description": "harness integrated interfaces",
+            "hours": 5.77,
+            "rate": 9.16
+        },
+        {
+            "amount": 242.32,
+            "description": "leverage wireless solutions",
+            "hours": 1.32,
+            "rate": 4.02
+        },
+        {
+            "amount": 456.27,
+            "description": "drive next-generation solutions",
+            "hours": 7.99,
+            "rate": 7.71
+        },
+        {
+            "amount": 478.55,
+            "description": "streamline vertical e-business",
+            "hours": 8.47,
+            "rate": 6.14
+        }
+    ],
+    "seller": {
+        "address": "75554 Johnson Pine Suite 124 Newtonton, VI 55541",
+        "email": "brent60@example.org",
+        "name": "Corey Morgan"
+    },
+    "tax": {
+        "base": 13.69,
+        "tax_amount": 16.68,
+        "total_tax": 29.63
+    }
+}

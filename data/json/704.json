@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "1772 Miller Burg Apt. 591 New Donnafurt, SD 79093",
+        "company_name": "Jimenez, Gonzalez and Powers",
+        "country": "Sri Lanka",
+        "name": "Stephanie Jackson"
+    },
+    "invoice": {
+        "date": "10.06.2012",
+        "number": 797940
+    },
+    "payment": {
+        "discount_amount": 36.66,
+        "discount_percentage": 8.55,
+        "due": 67.81,
+        "sub_total": 193.96,
+        "total": 755.28
+    },
+    "products": [
+        {
+            "description": "morph B2C partnerships",
+            "index": "3",
+            "quantity": 7.58,
+            "total_price": 29.65,
+            "unit_price": 34.05
+        },
+        {
+            "description": "integrate dynamic applications",
+            "index": "10",
+            "quantity": 2.57,
+            "total_price": 937.06,
+            "unit_price": 89.98
+        }
+    ],
+    "seller": {
+        "address": "38313 Berg Station Suite 753 Baileybury, WY 65401",
+        "company_name": "Hill, Johnson and Callahan",
+        "vat_no": "rD04874964720"
+    }
+}

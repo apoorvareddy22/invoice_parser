@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "65302 Booker Trafficway Apt. 529 Christophermouth, WY 67659"
+    },
+    "invoice": {
+        "bc_no": "lo11165",
+        "date": "05.04.1994",
+        "maturity_date": "30.04.2008",
+        "number": 158485
+    },
+    "products": [
+        {
+            "amount": 327.14,
+            "description": "redefine cross-media systems",
+            "quantity": 7.65,
+            "unit_price": 82.78,
+            "vat_amount": 11.3
+        },
+        {
+            "amount": 227.61,
+            "description": "exploit bleeding-edge action-items",
+            "quantity": 7.0,
+            "unit_price": 59.16,
+            "vat_amount": 2.04
+        },
+        {
+            "amount": 110.99,
+            "description": "incubate real-time ROI",
+            "quantity": 4.18,
+            "unit_price": 58.32,
+            "vat_amount": 1.3
+        },
+        {
+            "amount": 297.33,
+            "description": "optimize viral deliverables",
+            "quantity": 1.12,
+            "unit_price": 18.83,
+            "vat_amount": 4.27
+        }
+    ],
+    "seller": {
+        "address": "11117 Campbell Brooks Apt. 246 Elizabethside, AK 00799"
+    },
+    "tax": {
+        "amount_excluding_tax": 140.57,
+        "amount_including_tax": 148.24,
+        "tax_amount": 21.71
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "PSC 4552, Box 9024 APO AA 25345"
+    },
+    "invoice": {
+        "bc_no": "NH19488",
+        "date": "02.05.2010",
+        "maturity_date": "05.07.2022",
+        "number": 206503
+    },
+    "products": [
+        {
+            "amount": 376.19,
+            "description": "integrate global networks",
+            "quantity": 2.35,
+            "unit_price": 22.68,
+            "vat_amount": 0.83
+        },
+        {
+            "amount": 198.55,
+            "description": "disintermediate turn-key e-services",
+            "quantity": 9.45,
+            "unit_price": 89.8,
+            "vat_amount": 9.22
+        },
+        {
+            "amount": 295.81,
+            "description": "enable compelling interfaces",
+            "quantity": 8.93,
+            "unit_price": 48.48,
+            "vat_amount": 5.19
+        }
+    ],
+    "seller": {
+        "address": "905 Ayala Walk Suite 227 Torreshaven, IL 59363"
+    },
+    "tax": {
+        "amount_excluding_tax": 68.28,
+        "amount_including_tax": 166.53,
+        "tax_amount": 26.12
+    }
+}

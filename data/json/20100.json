@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "745 Shaw Ways Suite 617 West Michelleville, NH 75385",
+        "company_name": "Russo Group",
+        "email": "wrightamanda@example.com",
+        "name": "Barry Peters",
+        "phone": "(265)665-4237"
+    },
+    "invoice": {
+        "date": "28.11.1990",
+        "due_date": "10.11.1992",
+        "number": "CqQ53554640906"
+    },
+    "payment": {
+        "account_number": 2104454271,
+        "bank_name": "Strong-Perez",
+        "routing_number": 666774143
+    },
+    "products": [
+        {
+            "amount": 432.87,
+            "description": "extend enterprise convergence",
+            "index": "1",
+            "quantity": 7.46,
+            "unit_price": 97.06
+        },
+        {
+            "amount": 24.06,
+            "description": "revolutionize cross-media synergies",
+            "index": "10",
+            "quantity": 1.5,
+            "unit_price": 35.65
+        },
+        {
+            "amount": 82.67,
+            "description": "transition web-enabled channels",
+            "index": "9",
+            "quantity": 1.83,
+            "unit_price": 22.92
+        }
+    ],
+    "seller": {
+        "address": "Unit 5616 Box 4532 DPO AP 26910",
+        "company_name": "Burns and Sons",
+        "email": "travis90@example.org"
+    }
+}

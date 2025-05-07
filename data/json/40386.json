@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "22258 David Inlet Suite 549 East Alexport, OH 67369"
+    },
+    "invoice": {
+        "bc_no": "BI41433",
+        "date": "24.03.2002",
+        "maturity_date": "29.08.2008",
+        "number": 858146
+    },
+    "products": [
+        {
+            "amount": 495.7,
+            "description": "synergize frictionless infrastructures",
+            "quantity": 2.19,
+            "unit_price": 80.95,
+            "vat_amount": 7.36
+        },
+        {
+            "amount": 383.96,
+            "description": "strategize virtual schemas",
+            "quantity": 8.89,
+            "unit_price": 85.76,
+            "vat_amount": 0.86
+        },
+        {
+            "amount": 58.32,
+            "description": "innovate bleeding-edge e-services",
+            "quantity": 1.05,
+            "unit_price": 65.94,
+            "vat_amount": 11.79
+        },
+        {
+            "amount": 290.32,
+            "description": "whiteboard customized synergies",
+            "quantity": 6.89,
+            "unit_price": 45.38,
+            "vat_amount": 2.99
+        }
+    ],
+    "seller": {
+        "address": "09188 King Fork Suite 867 Port Paul, AK 97506"
+    },
+    "tax": {
+        "amount_excluding_tax": 162.26,
+        "amount_including_tax": 138.2,
+        "tax_amount": 23.05
+    }
+}

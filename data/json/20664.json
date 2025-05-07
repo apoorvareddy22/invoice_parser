@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "075 Victor Walks Suite 516 New James, FM 65605",
+        "company_name": "Thompson and Sons",
+        "email": "pcarr@example.org",
+        "name": "April Harper",
+        "phone": "911-315-7633"
+    },
+    "invoice": {
+        "date": "11.09.1994",
+        "due_date": "05.01.1994",
+        "number": "eIL50807019104"
+    },
+    "payment": {
+        "account_number": 6603292595,
+        "bank_name": "Mcpherson and Sons",
+        "routing_number": 737556472
+    },
+    "products": [
+        {
+            "amount": 197.67,
+            "description": "enable efficient relationships",
+            "index": "5",
+            "quantity": 4.74,
+            "unit_price": 94.32
+        },
+        {
+            "amount": 90.44,
+            "description": "morph bricks-and-clicks e-commerce",
+            "index": "2",
+            "quantity": 2.36,
+            "unit_price": 46.92
+        },
+        {
+            "amount": 400.93,
+            "description": "innovate viral info-mediaries",
+            "index": "8",
+            "quantity": 3.67,
+            "unit_price": 21.84
+        }
+    ],
+    "seller": {
+        "address": "79190 Jones Passage East Juan, CO 85084",
+        "company_name": "Young-Nelson",
+        "email": "jerry35@example.com"
+    }
+}

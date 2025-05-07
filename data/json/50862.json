@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "PSC 1103, Box 3090 APO AE 09507",
+        "id": "sP771"
+    },
+    "invoice": {
+        "bc_no": "pz88840",
+        "currency_code": "LKR",
+        "date": "30.10.2006",
+        "due_date": "03.12.1996",
+        "number": 508089
+    },
+    "payment": {
+        "bank_name": "Clayton-Fry",
+        "bic": "QAPMGBBJ6MN",
+        "iban": "KQNP62401229775462"
+    },
+    "products": [
+        {
+            "amount": 57.16,
+            "description": "whiteboard cutting-edge functionalities",
+            "index": "8",
+            "price": 415.87,
+            "quantity": 1.37,
+            "tax_amount": 90.8,
+            "total_ttc": 184.28,
+            "vat_amount": 1.48
+        },
+        {
+            "amount": 187.39,
+            "description": "re-contextualize innovative infrastructures",
+            "index": "5",
+            "price": 70.66,
+            "quantity": 8.22,
+            "tax_amount": 91.15,
+            "total_ttc": 192.58,
+            "vat_amount": 3.99
+        },
+        {
+            "amount": 354.26,
+            "description": "re-contextualize robust deliverables",
+            "index": "3",
+            "price": 237.31,
+            "quantity": 5.13,
+            "tax_amount": 88.7,
+            "total_ttc": 286.66,
+            "vat_amount": 5.54
+        },
+        {
+            "amount": 476.84,
+            "description": "enhance visionary portals",
+            "index": "7",
+            "price": 159.65,
+            "quantity": 5.37,
+            "tax_amount": 24.73,
+            "total_ttc": 211.8,
+            "vat_amount": 1.59
+        }
+    ],
+    "seller": {
+        "name": "Deborah Delgado"
+    },
+    "supplier": {
+        "address": "83047 Collin Skyway Elizabethhaven, OK 37080",
+        "name": "Rhonda Allen"
+    },
+    "tax": {
+        "amount_excluding_tax": 48.3,
+        "amount_including_tax": 178.81,
+        "tax_amount": 17.35,
+        "total_ht": 162.22,
+        "total_ttc": 413.67
+    }
+}

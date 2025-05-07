@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "7996 Karen Branch Apt. 746 West Perryfort, KY 65244"
+    },
+    "invoice": {
+        "bc_no": "rh96344",
+        "date": "20.01.1996",
+        "maturity_date": "27.06.2004",
+        "number": 433549
+    },
+    "products": [
+        {
+            "amount": 159.36,
+            "description": "implement B2B methodologies",
+            "quantity": 5.05,
+            "unit_price": 62.69,
+            "vat_amount": 8.24
+        },
+        {
+            "amount": 203.74,
+            "description": "re-contextualize web-enabled vortals",
+            "quantity": 3.06,
+            "unit_price": 76.12,
+            "vat_amount": 3.76
+        }
+    ],
+    "seller": {
+        "address": "1990 Martin Groves East Jade, OR 14653"
+    },
+    "tax": {
+        "amount_excluding_tax": 45.42,
+        "amount_including_tax": 114.18,
+        "tax_amount": 13.25
+    }
+}

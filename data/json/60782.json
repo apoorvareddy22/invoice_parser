@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "76078 Bailey Hills Apt. 291 Bakerton, NJ 15339",
+        "business_no": "Ic218",
+        "id": "pA280"
+    },
+    "invoice": {
+        "date": "14.06.2005",
+        "number": "9192-2781"
+    },
+    "payment": {
+        "due_date": "22.07.2000",
+        "total": 326.77
+    },
+    "products": [
+        {
+            "amount": 191.65,
+            "description": "deploy 24/7 e-commerce",
+            "quantity": 8.5,
+            "reference": "ZV-135",
+            "unit_price": 69.49
+        },
+        {
+            "amount": 139.0,
+            "description": "re-contextualize distributed initiatives",
+            "quantity": 7.28,
+            "reference": "pW-453",
+            "unit_price": 46.73
+        },
+        {
+            "amount": 14.43,
+            "description": "cultivate vertical experiences",
+            "quantity": 3.73,
+            "reference": "ym-503",
+            "unit_price": 71.48
+        }
+    ],
+    "seller": {
+        "address": "32388 Parsons Drive Apt. 186 Lake Reginahaven, VA 70456"
+    },
+    "tax": {
+        "base_ht": 467.07,
+        "regulations": 28.83,
+        "total_ht": 149.54,
+        "vat_amount": 57.92,
+        "vat_percentage": 14.43
+    }
+}

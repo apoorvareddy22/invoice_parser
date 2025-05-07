@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "535 Mark Track Apt. 294 New James, MI 93311",
+        "business_no": "Lj601",
+        "id": "zY895"
+    },
+    "invoice": {
+        "date": "18.12.2007",
+        "number": "4147-8796"
+    },
+    "payment": {
+        "due_date": "06.05.2006",
+        "total": 948.6
+    },
+    "products": [
+        {
+            "amount": 194.51,
+            "description": "maximize end-to-end platforms",
+            "quantity": 2.8,
+            "reference": "Ed-994",
+            "unit_price": 74.01
+        },
+        {
+            "amount": 402.7,
+            "description": "repurpose global channels",
+            "quantity": 6.9,
+            "reference": "pk-233",
+            "unit_price": 44.79
+        },
+        {
+            "amount": 461.97,
+            "description": "facilitate turn-key e-tailers",
+            "quantity": 5.9,
+            "reference": "hF-117",
+            "unit_price": 38.13
+        },
+        {
+            "amount": 104.5,
+            "description": "syndicate next-generation e-commerce",
+            "quantity": 5.78,
+            "reference": "vi-097",
+            "unit_price": 60.37
+        }
+    ],
+    "seller": {
+        "address": "643 Amber Views West Robertburgh, GA 37683"
+    },
+    "tax": {
+        "base_ht": 357.58,
+        "regulations": 13.86,
+        "total_ht": 463.33,
+        "vat_amount": 25.93,
+        "vat_percentage": 10.26
+    }
+}

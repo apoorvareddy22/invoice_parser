@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "82495 Anderson Rapids Apt. 858 Patelfurt, CT 99188"
+    },
+    "invoice": {
+        "bc_no": "sD10260",
+        "date": "16.11.2013",
+        "maturity_date": "26.10.1993",
+        "number": 907009
+    },
+    "products": [
+        {
+            "amount": 344.4,
+            "description": "extend enterprise content",
+            "quantity": 1.95,
+            "unit_price": 96.75,
+            "vat_amount": 2.49
+        },
+        {
+            "amount": 393.37,
+            "description": "revolutionize magnetic experiences",
+            "quantity": 9.93,
+            "unit_price": 73.84,
+            "vat_amount": 16.65
+        },
+        {
+            "amount": 28.81,
+            "description": "unleash out-of-the-box e-business",
+            "quantity": 6.99,
+            "unit_price": 60.54,
+            "vat_amount": 2.18
+        },
+        {
+            "amount": 168.78,
+            "description": "engage scalable infrastructures",
+            "quantity": 7.88,
+            "unit_price": 27.91,
+            "vat_amount": 5.46
+        },
+        {
+            "amount": 290.59,
+            "description": "synthesize bleeding-edge technologies",
+            "quantity": 3.24,
+            "unit_price": 38.55,
+            "vat_amount": 9.9
+        }
+    ],
+    "seller": {
+        "address": "3607 Taylor Pines Suite 404 East Travis, NH 24093"
+    },
+    "tax": {
+        "amount_excluding_tax": 19.95,
+        "amount_including_tax": 67.09,
+        "tax_amount": 26.44
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "Unit 9846 Box 1890 DPO AP 79814",
+        "company_name": "Evans and Sons",
+        "country": "Bhutan",
+        "name": "Christine Williams"
+    },
+    "invoice": {
+        "date": "22.09.2017",
+        "number": 486796
+    },
+    "payment": {
+        "discount_amount": 37.31,
+        "discount_percentage": 6.27,
+        "due": 21.07,
+        "sub_total": 51.74,
+        "total": 489.31
+    },
+    "products": [
+        {
+            "description": "expedite rich experiences",
+            "index": "8",
+            "quantity": 7.47,
+            "total_price": 445.32,
+            "unit_price": 12.66
+        },
+        {
+            "description": "deliver synergistic markets",
+            "index": "4",
+            "quantity": 3.65,
+            "total_price": 94.16,
+            "unit_price": 21.27
+        }
+    ],
+    "seller": {
+        "address": "738 Wiggins Crescent Apt. 952 Alyssaborough, OH 52044",
+        "company_name": "Jones, Barnes and Miller",
+        "vat_no": "rY32843622652"
+    }
+}

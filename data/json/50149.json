@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "35112 Montgomery Tunnel Jillianland, PR 01859",
+        "id": "NU260"
+    },
+    "invoice": {
+        "bc_no": "Kx92204",
+        "currency_code": "AFN",
+        "date": "02.01.2007",
+        "due_date": "11.02.1995",
+        "number": 359448
+    },
+    "payment": {
+        "bank_name": "Gillespie-Tyler",
+        "bic": "AVGWGBLY",
+        "iban": "REEJ37056245948952"
+    },
+    "products": [
+        {
+            "amount": 280.45,
+            "description": "orchestrate compelling methodologies",
+            "index": "4",
+            "price": 134.25,
+            "quantity": 4.2,
+            "tax_amount": 96.82,
+            "total_ttc": 265.8,
+            "vat_amount": 2.5
+        },
+        {
+            "amount": 260.59,
+            "description": "leverage strategic solutions",
+            "index": "4",
+            "price": 170.54,
+            "quantity": 8.21,
+            "tax_amount": 63.23,
+            "total_ttc": 442.03,
+            "vat_amount": 7.33
+        },
+        {
+            "amount": 57.58,
+            "description": "envisioneer synergistic applications",
+            "index": "9",
+            "price": 129.75,
+            "quantity": 4.22,
+            "tax_amount": 29.41,
+            "total_ttc": 420.89,
+            "vat_amount": 5.24
+        },
+        {
+            "amount": 329.55,
+            "description": "harness rich infrastructures",
+            "index": "10",
+            "price": 430.25,
+            "quantity": 2.52,
+            "tax_amount": 71.92,
+            "total_ttc": 368.45,
+            "vat_amount": 0.96
+        },
+        {
+            "amount": 229.36,
+            "description": "engineer web-enabled networks",
+            "index": "4",
+            "price": 20.23,
+            "quantity": 2.79,
+            "tax_amount": 78.7,
+            "total_ttc": 445.83,
+            "vat_amount": 0.42
+        },
+        {
+            "amount": 306.14,
+            "description": "engineer rich e-tailers",
+            "index": "3",
+            "price": 105.82,
+            "quantity": 8.29,
+            "tax_amount": 28.06,
+            "total_ttc": 115.77,
+            "vat_amount": 1.31
+        },
+        {
+            "amount": 273.15,
+            "description": "evolve distributed platforms",
+            "index": "8",
+            "price": 105.63,
+            "quantity": 4.99,
+            "tax_amount": 11.24,
+            "total_ttc": 411.79,
+            "vat_amount": 3.7
+        }
+    ],
+    "seller": {
+        "name": "Eric Lopez"
+    },
+    "supplier": {
+        "address": "USCGC Hahn FPO AE 50199",
+        "name": "Katelyn Wood"
+    },
+    "tax": {
+        "amount_excluding_tax": 178.68,
+        "amount_including_tax": 184.5,
+        "tax_amount": 21.05,
+        "total_ht": 210.4,
+        "total_ttc": 153.09
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "4210 Deanna Locks East Keithport, IN 96131",
+        "id": "qe241"
+    },
+    "invoice": {
+        "bc_no": "GS37755",
+        "currency_code": "AZN",
+        "date": "02.01.1993",
+        "due_date": "28.11.2022",
+        "number": 903860
+    },
+    "payment": {
+        "bank_name": "Smith-Macias",
+        "bic": "BEHDGBA2C31",
+        "iban": "KXIR56326182382020"
+    },
+    "products": [
+        {
+            "amount": 401.16,
+            "description": "empower cross-media e-markets",
+            "index": "9",
+            "price": 78.01,
+            "quantity": 4.9,
+            "tax_amount": 84.43,
+            "total_ttc": 421.82,
+            "vat_amount": 4.01
+        },
+        {
+            "amount": 492.51,
+            "description": "brand efficient communities",
+            "index": "6",
+            "price": 6.44,
+            "quantity": 1.26,
+            "tax_amount": 31.1,
+            "total_ttc": 199.46,
+            "vat_amount": 1.97
+        },
+        {
+            "amount": 257.6,
+            "description": "transition 24/7 partnerships",
+            "index": "1",
+            "price": 167.54,
+            "quantity": 8.35,
+            "tax_amount": 80.31,
+            "total_ttc": 403.27,
+            "vat_amount": 12.03
+        },
+        {
+            "amount": 31.01,
+            "description": "evolve frictionless experiences",
+            "index": "1",
+            "price": 74.48,
+            "quantity": 5.86,
+            "tax_amount": 97.96,
+            "total_ttc": 407.04,
+            "vat_amount": 2.94
+        },
+        {
+            "amount": 78.94,
+            "description": "re-contextualize granular technologies",
+            "index": "7",
+            "price": 39.13,
+            "quantity": 1.99,
+            "tax_amount": 24.79,
+            "total_ttc": 457.89,
+            "vat_amount": 10.62
+        },
+        {
+            "amount": 475.3,
+            "description": "optimize interactive technologies",
+            "index": "9",
+            "price": 147.46,
+            "quantity": 7.67,
+            "tax_amount": 26.02,
+            "total_ttc": 293.64,
+            "vat_amount": 0.62
+        }
+    ],
+    "seller": {
+        "name": "Mark Kennedy"
+    },
+    "supplier": {
+        "address": "1115 Morales Club Apt. 689 East Cathyland, MS 04198",
+        "name": "Ryan Cuevas"
+    },
+    "tax": {
+        "amount_excluding_tax": 94.91,
+        "amount_including_tax": 146.96,
+        "tax_amount": 19.88,
+        "total_ht": 172.57,
+        "total_ttc": 322.56
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "71139 Lori Courts Michaelahaven, IA 99773",
+        "business_no": "nO149",
+        "id": "hB947"
+    },
+    "invoice": {
+        "date": "07.08.1991",
+        "number": "2235-4933"
+    },
+    "payment": {
+        "due_date": "04.05.2000",
+        "total": 965.35
+    },
+    "products": [
+        {
+            "amount": 299.19,
+            "description": "mesh B2C infrastructures",
+            "quantity": 4.38,
+            "reference": "CR-227",
+            "unit_price": 63.06
+        },
+        {
+            "amount": 396.21,
+            "description": "seize transparent action-items",
+            "quantity": 1.6,
+            "reference": "at-117",
+            "unit_price": 89.81
+        },
+        {
+            "amount": 192.69,
+            "description": "synergize end-to-end e-business",
+            "quantity": 5.89,
+            "reference": "CH-902",
+            "unit_price": 35.08
+        },
+        {
+            "amount": 97.76,
+            "description": "leverage integrated technologies",
+            "quantity": 4.16,
+            "reference": "SE-665",
+            "unit_price": 77.46
+        },
+        {
+            "amount": 243.7,
+            "description": "scale out-of-the-box web services",
+            "quantity": 9.4,
+            "reference": "Zu-533",
+            "unit_price": 50.87
+        },
+        {
+            "amount": 453.38,
+            "description": "leverage turn-key bandwidth",
+            "quantity": 8.08,
+            "reference": "Ya-383",
+            "unit_price": 22.22
+        },
+        {
+            "amount": 483.6,
+            "description": "integrate extensible bandwidth",
+            "quantity": 8.0,
+            "reference": "CF-960",
+            "unit_price": 85.98
+        }
+    ],
+    "seller": {
+        "address": "2123 Garrison Fields Hallmouth, ND 24180"
+    },
+    "tax": {
+        "base_ht": 169.11,
+        "regulations": 14.86,
+        "total_ht": 260.45,
+        "vat_amount": 164.11,
+        "vat_percentage": 26.16
+    }
+}

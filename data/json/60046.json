@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "3348 Jennifer Rapid South Erika, OR 59371",
+        "business_no": "sw083",
+        "id": "XV043"
+    },
+    "invoice": {
+        "date": "07.10.2002",
+        "number": "9309-7954"
+    },
+    "payment": {
+        "due_date": "20.10.1999",
+        "total": 529.57
+    },
+    "products": [
+        {
+            "amount": 422.77,
+            "description": "benchmark ubiquitous e-markets",
+            "quantity": 7.5,
+            "reference": "dj-808",
+            "unit_price": 69.79
+        },
+        {
+            "amount": 76.19,
+            "description": "engineer revolutionary applications",
+            "quantity": 6.45,
+            "reference": "yT-681",
+            "unit_price": 43.34
+        },
+        {
+            "amount": 365.53,
+            "description": "grow next-generation niches",
+            "quantity": 4.71,
+            "reference": "iP-244",
+            "unit_price": 68.99
+        }
+    ],
+    "seller": {
+        "address": "073 Lewis Points Lawrenceburgh, FM 29589"
+    },
+    "tax": {
+        "base_ht": 364.04,
+        "regulations": 17.77,
+        "total_ht": 289.32,
+        "vat_amount": 10.93,
+        "vat_percentage": 15.1
+    }
+}

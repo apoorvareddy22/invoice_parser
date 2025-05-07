@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "Unit 8877 Box 5908 DPO AP 16774",
+        "business_no": "Vs666",
+        "id": "vM803"
+    },
+    "invoice": {
+        "date": "14.06.2006",
+        "number": "6782-2313"
+    },
+    "payment": {
+        "due_date": "16.09.2023",
+        "total": 921.95
+    },
+    "products": [
+        {
+            "amount": 482.6,
+            "description": "enable user-centric markets",
+            "quantity": 6.25,
+            "reference": "lc-806",
+            "unit_price": 37.95
+        },
+        {
+            "amount": 177.98,
+            "description": "productize proactive solutions",
+            "quantity": 4.84,
+            "reference": "Yp-568",
+            "unit_price": 93.77
+        },
+        {
+            "amount": 369.43,
+            "description": "visualize mission-critical experiences",
+            "quantity": 7.42,
+            "reference": "Nr-794",
+            "unit_price": 12.96
+        },
+        {
+            "amount": 36.68,
+            "description": "empower impactful supply-chains",
+            "quantity": 6.37,
+            "reference": "Ho-291",
+            "unit_price": 87.46
+        }
+    ],
+    "seller": {
+        "address": "5397 Sandra Rue Michelleland, DE 15673"
+    },
+    "tax": {
+        "base_ht": 216.7,
+        "regulations": 19.42,
+        "total_ht": 150.93,
+        "vat_amount": 68.22,
+        "vat_percentage": 21.5
+    }
+}

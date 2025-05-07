@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "713 Carlson Center Suite 103 Lake Evan, NY 17736",
+        "id": "GA423"
+    },
+    "invoice": {
+        "bc_no": "qs94211",
+        "currency_code": "IDR",
+        "date": "23.10.2007",
+        "due_date": "05.02.2006",
+        "number": 589659
+    },
+    "payment": {
+        "bank_name": "Jimenez-Hunter",
+        "bic": "ENTIGBV2I1T",
+        "iban": "VIIX13910183606238"
+    },
+    "products": [
+        {
+            "amount": 101.27,
+            "description": "matrix magnetic web-readiness",
+            "index": "10",
+            "price": 482.58,
+            "quantity": 2.13,
+            "tax_amount": 62.72,
+            "total_ttc": 254.53,
+            "vat_amount": 6.18
+        }
+    ],
+    "seller": {
+        "name": "Michelle Smith"
+    },
+    "supplier": {
+        "address": "8608 Wilson Club Suite 736 Lauraside, NJ 11449",
+        "name": "Sandra Myers"
+    },
+    "tax": {
+        "amount_excluding_tax": 147.75,
+        "amount_including_tax": 128.42,
+        "tax_amount": 15.05,
+        "total_ht": 223.48,
+        "total_ttc": 152.34
+    }
+}

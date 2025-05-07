@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "36568 Scott Mill North Calvin, NJ 85089",
+        "company_name": "King PLC",
+        "email": "bartonalexis@example.org",
+        "name": "Randall Long",
+        "phone": "246-331-6856x02318"
+    },
+    "invoice": {
+        "date": "13.07.2006",
+        "due_date": "07.11.2001",
+        "number": "RzR96793961269"
+    },
+    "payment": {
+        "account_number": 8316262267,
+        "bank_name": "Everett-Anderson",
+        "routing_number": 595999448
+    },
+    "products": [
+        {
+            "amount": 206.67,
+            "description": "utilize interactive systems",
+            "index": "9",
+            "quantity": 4.51,
+            "unit_price": 45.99
+        },
+        {
+            "amount": 12.29,
+            "description": "engineer virtual networks",
+            "index": "2",
+            "quantity": 2.69,
+            "unit_price": 12.02
+        },
+        {
+            "amount": 235.59,
+            "description": "cultivate global mindshare",
+            "index": "1",
+            "quantity": 7.12,
+            "unit_price": 21.69
+        },
+        {
+            "amount": 48.62,
+            "description": "exploit cutting-edge relationships",
+            "index": "10",
+            "quantity": 2.42,
+            "unit_price": 45.17
+        }
+    ],
+    "seller": {
+        "address": "PSC 7622, Box 6186 APO AA 76281",
+        "company_name": "Freeman-Fuentes",
+        "email": "eholland@example.net"
+    }
+}

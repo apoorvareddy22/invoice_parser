@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "965 Theresa River Diazland, AL 09414",
+        "id": "YC148"
+    },
+    "invoice": {
+        "bc_no": "WE15372",
+        "currency_code": "DOP",
+        "date": "02.09.2002",
+        "due_date": "04.07.2019",
+        "number": 881532
+    },
+    "payment": {
+        "bank_name": "Lopez LLC",
+        "bic": "EEQJGBKWJEX",
+        "iban": "JHWK75460435900663"
+    },
+    "products": [
+        {
+            "amount": 262.4,
+            "description": "re-intermediate mission-critical users",
+            "index": "9",
+            "price": 182.33,
+            "quantity": 6.5,
+            "tax_amount": 57.92,
+            "total_ttc": 113.94,
+            "vat_amount": 2.97
+        },
+        {
+            "amount": 143.09,
+            "description": "disintermediate B2B channels",
+            "index": "5",
+            "price": 158.42,
+            "quantity": 4.44,
+            "tax_amount": 15.24,
+            "total_ttc": 196.95,
+            "vat_amount": 11.85
+        }
+    ],
+    "seller": {
+        "name": "Angel Haynes"
+    },
+    "supplier": {
+        "address": "Unit 3078 Box 1123 DPO AP 17255",
+        "name": "Alicia Diaz"
+    },
+    "tax": {
+        "amount_excluding_tax": 141.15,
+        "amount_including_tax": 41.93,
+        "tax_amount": 13.65,
+        "total_ht": 493.37,
+        "total_ttc": 195.0
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "460 Estes Knolls West Lisashire, TN 16340",
+        "company_name": "Robertson PLC",
+        "country": "Antarctica (the territory South of 60 deg S)",
+        "name": "Desiree Payne"
+    },
+    "invoice": {
+        "date": "10.06.2012",
+        "number": 259958
+    },
+    "payment": {
+        "discount_amount": 21.84,
+        "discount_percentage": 11.56,
+        "due": 132.62,
+        "sub_total": 87.2,
+        "total": 949.78
+    },
+    "products": [
+        {
+            "description": "cultivate ubiquitous networks",
+            "index": "2",
+            "quantity": 2.25,
+            "total_price": 13.37,
+            "unit_price": 38.54
+        },
+        {
+            "description": "embrace cross-platform models",
+            "index": "2",
+            "quantity": 8.32,
+            "total_price": 340.93,
+            "unit_price": 15.28
+        }
+    ],
+    "seller": {
+        "address": "34497 Grimes Rapid Apt. 570 New Jacob, WA 09864",
+        "company_name": "Lewis-Smith",
+        "vat_no": "uo91232751662"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "69614 Elizabeth Mall Apt. 823 Harrisburgh, PR 70752",
+        "business_no": "Nq682",
+        "id": "bv870"
+    },
+    "invoice": {
+        "date": "31.05.2012",
+        "number": "0821-4913"
+    },
+    "payment": {
+        "due_date": "20.10.2013",
+        "total": 778.89
+    },
+    "products": [
+        {
+            "amount": 111.98,
+            "description": "evolve 24/7 e-services",
+            "quantity": 4.12,
+            "reference": "DO-695",
+            "unit_price": 35.95
+        },
+        {
+            "amount": 90.53,
+            "description": "deploy impactful action-items",
+            "quantity": 1.42,
+            "reference": "LB-357",
+            "unit_price": 26.55
+        },
+        {
+            "amount": 107.71,
+            "description": "facilitate turn-key experiences",
+            "quantity": 6.86,
+            "reference": "dR-303",
+            "unit_price": 46.91
+        },
+        {
+            "amount": 391.41,
+            "description": "envisioneer strategic vortals",
+            "quantity": 4.24,
+            "reference": "dm-415",
+            "unit_price": 23.49
+        },
+        {
+            "amount": 485.77,
+            "description": "productize best-of-breed experiences",
+            "quantity": 9.63,
+            "reference": "jM-313",
+            "unit_price": 56.32
+        },
+        {
+            "amount": 18.48,
+            "description": "matrix transparent networks",
+            "quantity": 4.34,
+            "reference": "PT-176",
+            "unit_price": 80.66
+        },
+        {
+            "amount": 359.9,
+            "description": "incubate robust relationships",
+            "quantity": 5.56,
+            "reference": "aF-297",
+            "unit_price": 72.23
+        }
+    ],
+    "seller": {
+        "address": "Unit 0396 Box 1499 DPO AE 27350"
+    },
+    "tax": {
+        "base_ht": 324.86,
+        "regulations": 19.15,
+        "total_ht": 177.66,
+        "vat_amount": 11.16,
+        "vat_percentage": 26.27
+    }
+}

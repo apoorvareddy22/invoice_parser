@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "37657 Schmidt Parkway Angelicaburgh, WA 42827",
+        "company_name": "Wagner and Sons",
+        "country": "Taiwan",
+        "name": "Clayton Jenkins"
+    },
+    "invoice": {
+        "date": "14.01.2007",
+        "number": 403850
+    },
+    "payment": {
+        "discount_amount": 21.9,
+        "discount_percentage": 5.09,
+        "due": 162.45,
+        "sub_total": 96.75,
+        "total": 590.74
+    },
+    "products": [
+        {
+            "description": "e-enable efficient deliverables",
+            "index": "3",
+            "quantity": 4.03,
+            "total_price": 43.88,
+            "unit_price": 89.99
+        },
+        {
+            "description": "syndicate 24/7 action-items",
+            "index": "5",
+            "quantity": 7.79,
+            "total_price": 499.13,
+            "unit_price": 24.2
+        },
+        {
+            "description": "innovate intuitive architectures",
+            "index": "9",
+            "quantity": 8.94,
+            "total_price": 660.56,
+            "unit_price": 74.68
+        },
+        {
+            "description": "whiteboard B2B bandwidth",
+            "index": "6",
+            "quantity": 5.71,
+            "total_price": 766.54,
+            "unit_price": 19.16
+        },
+        {
+            "description": "evolve virtual interfaces",
+            "index": "7",
+            "quantity": 8.3,
+            "total_price": 247.05,
+            "unit_price": 58.3
+        }
+    ],
+    "seller": {
+        "address": "403 Ramirez Flat Port Denisefort, PR 93497",
+        "company_name": "Kelly-Smith",
+        "vat_no": "gV33480522024"
+    }
+}

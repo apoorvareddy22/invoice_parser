@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "2662 Curtis Ranch Apt. 710 North Vanessaside, CA 91438",
+        "business_no": "EF104",
+        "id": "bD505"
+    },
+    "invoice": {
+        "date": "31.03.1997",
+        "number": "2912-6990"
+    },
+    "payment": {
+        "due_date": "22.12.2016",
+        "total": 110.17
+    },
+    "products": [
+        {
+            "amount": 495.8,
+            "description": "engineer web-enabled channels",
+            "quantity": 2.42,
+            "reference": "QE-003",
+            "unit_price": 51.57
+        },
+        {
+            "amount": 110.55,
+            "description": "visualize leading-edge models",
+            "quantity": 2.87,
+            "reference": "tL-101",
+            "unit_price": 43.41
+        }
+    ],
+    "seller": {
+        "address": "18262 Dustin Motorway Suite 760 North Kristenshire, IA 17317"
+    },
+    "tax": {
+        "base_ht": 164.45,
+        "regulations": 16.09,
+        "total_ht": 293.15,
+        "vat_amount": 67.2,
+        "vat_percentage": 10.83
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "6824 Henry Walks Suite 477 Hernandeztown, IN 83832",
+        "business_no": "uD577",
+        "id": "jb792"
+    },
+    "invoice": {
+        "date": "03.08.2008",
+        "number": "7858-4275"
+    },
+    "payment": {
+        "due_date": "04.05.1990",
+        "total": 865.64
+    },
+    "products": [
+        {
+            "amount": 449.59,
+            "description": "strategize open-source applications",
+            "quantity": 4.6,
+            "reference": "nQ-716",
+            "unit_price": 92.87
+        },
+        {
+            "amount": 62.99,
+            "description": "enable B2B niches",
+            "quantity": 6.24,
+            "reference": "uH-296",
+            "unit_price": 15.49
+        }
+    ],
+    "seller": {
+        "address": "39984 Ward Ports Port Jeffreytown, NM 53854"
+    },
+    "tax": {
+        "base_ht": 205.28,
+        "regulations": 18.11,
+        "total_ht": 187.14,
+        "vat_amount": 145.2,
+        "vat_percentage": 11.24
+    }
+}

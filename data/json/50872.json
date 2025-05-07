@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "70873 Griffith Rue Campbellshire, KS 11929",
+        "id": "Im257"
+    },
+    "invoice": {
+        "bc_no": "Mr16504",
+        "currency_code": "QAR",
+        "date": "30.05.1997",
+        "due_date": "25.10.2023",
+        "number": 324745
+    },
+    "payment": {
+        "bank_name": "Clarke PLC",
+        "bic": "LKKVGBDU",
+        "iban": "ZEHA43629954366256"
+    },
+    "products": [
+        {
+            "amount": 485.73,
+            "description": "syndicate revolutionary communities",
+            "index": "7",
+            "price": 430.1,
+            "quantity": 2.75,
+            "tax_amount": 46.74,
+            "total_ttc": 388.47,
+            "vat_amount": 7.47
+        }
+    ],
+    "seller": {
+        "name": "Kelly Bush"
+    },
+    "supplier": {
+        "address": "8780 Angela Dale Apt. 557 Lake Cathy, MH 80765",
+        "name": "Lance Graves"
+    },
+    "tax": {
+        "amount_excluding_tax": 75.76,
+        "amount_including_tax": 41.45,
+        "tax_amount": 15.66,
+        "total_ht": 249.91,
+        "total_ttc": 230.95
+    }
+}

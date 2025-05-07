@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "709 Elliott Crossing Apt. 508 South Michaeltown, ID 95659",
+        "business_no": "nG790",
+        "id": "lT865"
+    },
+    "invoice": {
+        "date": "12.10.2009",
+        "number": "5604-8192"
+    },
+    "payment": {
+        "due_date": "02.10.2011",
+        "total": 515.01
+    },
+    "products": [
+        {
+            "amount": 169.81,
+            "description": "enhance rich mindshare",
+            "quantity": 8.65,
+            "reference": "js-608",
+            "unit_price": 63.71
+        },
+        {
+            "amount": 68.84,
+            "description": "generate B2C vortals",
+            "quantity": 3.08,
+            "reference": "Ck-836",
+            "unit_price": 42.11
+        },
+        {
+            "amount": 420.3,
+            "description": "transition robust e-commerce",
+            "quantity": 2.18,
+            "reference": "JH-991",
+            "unit_price": 50.07
+        },
+        {
+            "amount": 185.29,
+            "description": "architect transparent metrics",
+            "quantity": 9.55,
+            "reference": "IN-794",
+            "unit_price": 70.04
+        },
+        {
+            "amount": 164.59,
+            "description": "redefine impactful technologies",
+            "quantity": 8.86,
+            "reference": "yE-699",
+            "unit_price": 46.27
+        },
+        {
+            "amount": 73.67,
+            "description": "implement e-business functionalities",
+            "quantity": 6.26,
+            "reference": "qm-884",
+            "unit_price": 94.1
+        }
+    ],
+    "seller": {
+        "address": "39169 Baker Ford Apt. 223 Jenniferhaven, AR 38622"
+    },
+    "tax": {
+        "base_ht": 178.0,
+        "regulations": 19.6,
+        "total_ht": 240.83,
+        "vat_amount": 144.12,
+        "vat_percentage": 26.38
+    }
+}

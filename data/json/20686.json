@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "7849 Adkins Courts Jacobborough, NH 91064",
+        "company_name": "Griffin, Smith and Herrera",
+        "email": "castillorichard@example.net",
+        "name": "Karina Rowland",
+        "phone": "7236097641"
+    },
+    "invoice": {
+        "date": "23.11.2014",
+        "due_date": "30.01.2013",
+        "number": "JxT07311429260"
+    },
+    "payment": {
+        "account_number": 6431743315,
+        "bank_name": "Owens and Sons",
+        "routing_number": 904495171
+    },
+    "products": [
+        {
+            "amount": 418.2,
+            "description": "enhance killer experiences",
+            "index": "2",
+            "quantity": 1.13,
+            "unit_price": 14.53
+        }
+    ],
+    "seller": {
+        "address": "16265 Anderson Locks Apt. 847 Gonzalezside, MT 25130",
+        "company_name": "Vang, Gomez and Willis",
+        "email": "elizabeth76@example.org"
+    }
+}

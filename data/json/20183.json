@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "1087 Bryant Path Suite 641 North Dominique, VT 02328",
+        "company_name": "Wells PLC",
+        "email": "slong@example.org",
+        "name": "Paul Reid",
+        "phone": "363.550.7704"
+    },
+    "invoice": {
+        "date": "05.03.1999",
+        "due_date": "28.06.2008",
+        "number": "zPe65781315508"
+    },
+    "payment": {
+        "account_number": 8552213556,
+        "bank_name": "Contreras, Smith and Mueller",
+        "routing_number": 352495575
+    },
+    "products": [
+        {
+            "amount": 486.06,
+            "description": "exploit interactive architectures",
+            "index": "9",
+            "quantity": 9.25,
+            "unit_price": 87.05
+        }
+    ],
+    "seller": {
+        "address": "5100 Eric Motorway Bradyhaven, HI 95354",
+        "company_name": "Sullivan Ltd",
+        "email": "kelsey32@example.org"
+    }
+}

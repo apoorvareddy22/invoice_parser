@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "8138 Smith Grove Suite 400 Davidfort, GA 30478",
+        "email": "amanda50@example.org",
+        "phone": "271-426-4369x464",
+        "vat_no": "oR22142694106"
+    },
+    "invoice": {
+        "date": "05.05.2003",
+        "due_date": "27.03.2010",
+        "market_reference": 526450,
+        "notes": "leverage rich e-commerce",
+        "number": "1910-9605",
+        "reference": 331335,
+        "vat_no": "iN74289948930"
+    },
+    "payment": {
+        "net_total": 82.36,
+        "total": 752.78
+    },
+    "products": [
+        {
+            "amount": 397.11,
+            "description": "transform wireless mindshare",
+            "hours": 5.01,
+            "rate": 4.1
+        },
+        {
+            "amount": 369.54,
+            "description": "productize dot-com synergies",
+            "hours": 5.14,
+            "rate": 7.91
+        },
+        {
+            "amount": 159.11,
+            "description": "morph holistic supply-chains",
+            "hours": 1.37,
+            "rate": 8.66
+        },
+        {
+            "amount": 410.56,
+            "description": "embrace rich solutions",
+            "hours": 6.37,
+            "rate": 9.65
+        },
+        {
+            "amount": 13.02,
+            "description": "visualize efficient e-tailers",
+            "hours": 2.21,
+            "rate": 3.63
+        }
+    ],
+    "seller": {
+        "address": "75051 Mills Fort Apt. 939 Hamiltonville, PA 13169",
+        "email": "nicholsonvirginia@example.net",
+        "name": "Mrs. Leah Trujillo"
+    },
+    "tax": {
+        "base": 20.25,
+        "tax_amount": 27.11,
+        "total_tax": 11.16
+    }
+}

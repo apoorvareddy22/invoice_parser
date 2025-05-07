@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "6254 Kelly Fords Suite 359 North Sheila, GA 04306",
+        "company_name": "Bauer-Allen",
+        "email": "wdavidson@example.org",
+        "name": "Gregory Hughes",
+        "phone": "978-761-1131"
+    },
+    "invoice": {
+        "date": "28.10.1990",
+        "due_date": "18.01.2005",
+        "number": "CpX93057864564"
+    },
+    "payment": {
+        "account_number": 5006641512,
+        "bank_name": "Wilson-Boyd",
+        "routing_number": 440563154
+    },
+    "products": [
+        {
+            "amount": 290.0,
+            "description": "implement ubiquitous applications",
+            "index": "6",
+            "quantity": 1.13,
+            "unit_price": 33.13
+        },
+        {
+            "amount": 225.22,
+            "description": "scale interactive action-items",
+            "index": "7",
+            "quantity": 7.92,
+            "unit_price": 51.26
+        },
+        {
+            "amount": 131.33,
+            "description": "leverage one-to-one e-tailers",
+            "index": "1",
+            "quantity": 5.8,
+            "unit_price": 99.9
+        },
+        {
+            "amount": 138.15,
+            "description": "grow extensible communities",
+            "index": "5",
+            "quantity": 2.82,
+            "unit_price": 68.91
+        },
+        {
+            "amount": 337.2,
+            "description": "strategize B2C portals",
+            "index": "5",
+            "quantity": 4.3,
+            "unit_price": 98.04
+        },
+        {
+            "amount": 203.29,
+            "description": "iterate cutting-edge applications",
+            "index": "7",
+            "quantity": 4.1,
+            "unit_price": 52.17
+        }
+    ],
+    "seller": {
+        "address": "1922 Grant River Apt. 951 West Scottmouth, DE 61864",
+        "company_name": "Lang, Miller and Young",
+        "email": "ryan40@example.org"
+    }
+}

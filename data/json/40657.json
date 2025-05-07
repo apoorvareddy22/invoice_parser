@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "90746 Angela Street Apt. 700 Lake Melissa, TN 99761"
+    },
+    "invoice": {
+        "bc_no": "SO36291",
+        "date": "20.07.2018",
+        "maturity_date": "06.05.2000",
+        "number": 727177
+    },
+    "products": [
+        {
+            "amount": 156.06,
+            "description": "incentivize intuitive architectures",
+            "quantity": 2.84,
+            "unit_price": 98.17,
+            "vat_amount": 1.62
+        }
+    ],
+    "seller": {
+        "address": "179 Chavez Forges Suite 781 East Christopher, LA 48525"
+    },
+    "tax": {
+        "amount_excluding_tax": 67.78,
+        "amount_including_tax": 151.98,
+        "tax_amount": 15.84
+    }
+}

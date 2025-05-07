@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "843 Paul Common Apt. 708 Reynoldsland, LA 60619",
+        "company_name": "Pierce-Lopez",
+        "email": "vwalters@example.org",
+        "name": "Donald Watts",
+        "phone": "448-535-4949x860"
+    },
+    "invoice": {
+        "date": "03.05.2002",
+        "due_date": "14.12.2012",
+        "number": "HHW13981847653"
+    },
+    "payment": {
+        "account_number": 9140314222,
+        "bank_name": "Edwards PLC",
+        "routing_number": 828246948
+    },
+    "products": [
+        {
+            "amount": 270.44,
+            "description": "integrate impactful applications",
+            "index": "10",
+            "quantity": 3.08,
+            "unit_price": 49.5
+        },
+        {
+            "amount": 149.4,
+            "description": "implement frictionless initiatives",
+            "index": "5",
+            "quantity": 2.73,
+            "unit_price": 54.07
+        },
+        {
+            "amount": 215.81,
+            "description": "syndicate impactful paradigms",
+            "index": "4",
+            "quantity": 3.62,
+            "unit_price": 95.81
+        },
+        {
+            "amount": 355.66,
+            "description": "deploy cutting-edge content",
+            "index": "9",
+            "quantity": 7.2,
+            "unit_price": 63.21
+        }
+    ],
+    "seller": {
+        "address": "01490 Ortiz Vista Suite 659 Ericstad, UT 24696",
+        "company_name": "Guzman-Luna",
+        "email": "ugutierrez@example.com"
+    }
+}

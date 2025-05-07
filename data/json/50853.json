@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "5555 Lee Way East Brenda, MA 67634",
+        "id": "JM376"
+    },
+    "invoice": {
+        "bc_no": "EY99334",
+        "currency_code": "CDF",
+        "date": "13.05.2002",
+        "due_date": "31.05.2017",
+        "number": 226768
+    },
+    "payment": {
+        "bank_name": "Wolf Inc",
+        "bic": "ZRQSGBB7LEW",
+        "iban": "KRHY49998716700154"
+    },
+    "products": [
+        {
+            "amount": 300.73,
+            "description": "cultivate scalable functionalities",
+            "index": "2",
+            "price": 293.58,
+            "quantity": 3.37,
+            "tax_amount": 13.41,
+            "total_ttc": 183.87,
+            "vat_amount": 1.98
+        },
+        {
+            "amount": 313.48,
+            "description": "evolve back-end action-items",
+            "index": "6",
+            "price": 425.85,
+            "quantity": 2.47,
+            "tax_amount": 73.85,
+            "total_ttc": 170.51,
+            "vat_amount": 6.3
+        },
+        {
+            "amount": 340.61,
+            "description": "engineer robust markets",
+            "index": "5",
+            "price": 22.2,
+            "quantity": 7.41,
+            "tax_amount": 58.2,
+            "total_ttc": 475.33,
+            "vat_amount": 11.28
+        },
+        {
+            "amount": 249.54,
+            "description": "deploy B2C applications",
+            "index": "5",
+            "price": 248.53,
+            "quantity": 2.89,
+            "tax_amount": 38.35,
+            "total_ttc": 439.82,
+            "vat_amount": 4.85
+        },
+        {
+            "amount": 25.49,
+            "description": "e-enable holistic niches",
+            "index": "8",
+            "price": 402.93,
+            "quantity": 5.28,
+            "tax_amount": 46.41,
+            "total_ttc": 278.97,
+            "vat_amount": 5.61
+        },
+        {
+            "amount": 297.66,
+            "description": "redefine magnetic solutions",
+            "index": "6",
+            "price": 268.87,
+            "quantity": 6.71,
+            "tax_amount": 73.86,
+            "total_ttc": 306.04,
+            "vat_amount": 3.73
+        }
+    ],
+    "seller": {
+        "name": "Michael Morton"
+    },
+    "supplier": {
+        "address": "3389 Heather Pine Suite 422 West Emmaport, NJ 13270",
+        "name": "Jennifer Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 107.91,
+        "amount_including_tax": 90.51,
+        "tax_amount": 12.4,
+        "total_ht": 404.11,
+        "total_ttc": 153.36
+    }
+}

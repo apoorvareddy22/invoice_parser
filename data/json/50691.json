@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "35051 Collins Avenue Suite 388 South Tiffanyside, AZ 81706",
+        "id": "Mv586"
+    },
+    "invoice": {
+        "bc_no": "xr22883",
+        "currency_code": "HNL",
+        "date": "24.03.2005",
+        "due_date": "30.09.1999",
+        "number": 147769
+    },
+    "payment": {
+        "bank_name": "Murphy, King and Flowers",
+        "bic": "ATGLGBWY",
+        "iban": "PYUA71928666614205"
+    },
+    "products": [
+        {
+            "amount": 301.32,
+            "description": "enable scalable ROI",
+            "index": "9",
+            "price": 79.74,
+            "quantity": 5.39,
+            "tax_amount": 26.22,
+            "total_ttc": 218.43,
+            "vat_amount": 2.63
+        }
+    ],
+    "seller": {
+        "name": "Nicholas Ross"
+    },
+    "supplier": {
+        "address": "7057 Bates Ways East Brianside, GU 76038",
+        "name": "Daniel Ramirez"
+    },
+    "tax": {
+        "amount_excluding_tax": 37.97,
+        "amount_including_tax": 40.99,
+        "tax_amount": 18.65,
+        "total_ht": 431.21,
+        "total_ttc": 107.76
+    }
+}

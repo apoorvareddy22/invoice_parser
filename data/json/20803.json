@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "48494 Miller Via Suite 569 South John, WA 49590",
+        "company_name": "Mitchell Inc",
+        "email": "davidlowe@example.com",
+        "name": "Erik Gomez",
+        "phone": "255-978-8425"
+    },
+    "invoice": {
+        "date": "11.08.1998",
+        "due_date": "13.11.1996",
+        "number": "cze98467572072"
+    },
+    "payment": {
+        "account_number": 7911222837,
+        "bank_name": "Keller, Mathis and Jones",
+        "routing_number": 718513092
+    },
+    "products": [
+        {
+            "amount": 76.42,
+            "description": "embrace value-added ROI",
+            "index": "8",
+            "quantity": 3.12,
+            "unit_price": 68.81
+        },
+        {
+            "amount": 31.2,
+            "description": "enhance customized experiences",
+            "index": "1",
+            "quantity": 9.24,
+            "unit_price": 76.09
+        },
+        {
+            "amount": 190.57,
+            "description": "matrix impactful bandwidth",
+            "index": "3",
+            "quantity": 1.02,
+            "unit_price": 29.6
+        }
+    ],
+    "seller": {
+        "address": "9271 Steven Lane West Jerrystad, ME 28978",
+        "company_name": "Perez-Keller",
+        "email": "qcastillo@example.com"
+    }
+}

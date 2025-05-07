@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "926 Janet Loop Apt. 119 Port Taylorfort, WY 91151",
+        "business_no": "tb522",
+        "id": "Yh545"
+    },
+    "invoice": {
+        "date": "23.10.1990",
+        "number": "1179-0909"
+    },
+    "payment": {
+        "due_date": "20.11.1994",
+        "total": 166.2
+    },
+    "products": [
+        {
+            "amount": 34.07,
+            "description": "incubate mission-critical content",
+            "quantity": 8.82,
+            "reference": "RM-505",
+            "unit_price": 41.94
+        },
+        {
+            "amount": 59.79,
+            "description": "implement world-class infrastructures",
+            "quantity": 6.98,
+            "reference": "Fn-625",
+            "unit_price": 38.59
+        },
+        {
+            "amount": 383.74,
+            "description": "iterate collaborative mindshare",
+            "quantity": 9.99,
+            "reference": "fi-773",
+            "unit_price": 16.31
+        },
+        {
+            "amount": 437.29,
+            "description": "synthesize bricks-and-clicks markets",
+            "quantity": 1.58,
+            "reference": "ww-161",
+            "unit_price": 93.56
+        },
+        {
+            "amount": 119.84,
+            "description": "re-contextualize wireless niches",
+            "quantity": 3.62,
+            "reference": "VF-371",
+            "unit_price": 60.84
+        }
+    ],
+    "seller": {
+        "address": "7328 Hansen Squares Apt. 016 Kingstad, VA 89851"
+    },
+    "tax": {
+        "base_ht": 495.1,
+        "regulations": 10.81,
+        "total_ht": 282.16,
+        "vat_amount": 166.61,
+        "vat_percentage": 17.79
+    }
+}

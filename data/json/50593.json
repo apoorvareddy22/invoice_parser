@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "PSC 1333, Box 0692 APO AP 26145",
+        "id": "GR759"
+    },
+    "invoice": {
+        "bc_no": "bB98418",
+        "currency_code": "RSD",
+        "date": "28.03.2002",
+        "due_date": "17.04.2012",
+        "number": 809239
+    },
+    "payment": {
+        "bank_name": "Green PLC",
+        "bic": "JBWSGB5MBPS",
+        "iban": "SQXF93142698184297"
+    },
+    "products": [
+        {
+            "amount": 174.95,
+            "description": "orchestrate rich partnerships",
+            "index": "3",
+            "price": 131.08,
+            "quantity": 4.71,
+            "tax_amount": 44.26,
+            "total_ttc": 229.15,
+            "vat_amount": 0.49
+        },
+        {
+            "amount": 170.69,
+            "description": "synthesize user-centric methodologies",
+            "index": "6",
+            "price": 214.72,
+            "quantity": 7.99,
+            "tax_amount": 99.24,
+            "total_ttc": 426.5,
+            "vat_amount": 9.03
+        },
+        {
+            "amount": 29.11,
+            "description": "envisioneer seamless action-items",
+            "index": "5",
+            "price": 292.84,
+            "quantity": 4.76,
+            "tax_amount": 43.76,
+            "total_ttc": 215.93,
+            "vat_amount": 3.87
+        },
+        {
+            "amount": 317.51,
+            "description": "grow user-centric web services",
+            "index": "10",
+            "price": 124.12,
+            "quantity": 4.32,
+            "tax_amount": 25.02,
+            "total_ttc": 495.02,
+            "vat_amount": 15.86
+        },
+        {
+            "amount": 47.07,
+            "description": "facilitate distributed infrastructures",
+            "index": "8",
+            "price": 156.44,
+            "quantity": 2.49,
+            "tax_amount": 33.07,
+            "total_ttc": 274.77,
+            "vat_amount": 5.96
+        },
+        {
+            "amount": 140.17,
+            "description": "mesh user-centric info-mediaries",
+            "index": "8",
+            "price": 76.44,
+            "quantity": 2.74,
+            "tax_amount": 81.64,
+            "total_ttc": 298.25,
+            "vat_amount": 5.69
+        }
+    ],
+    "seller": {
+        "name": "Theresa Gonzalez"
+    },
+    "supplier": {
+        "address": "27757 Peters Hills Suite 311 East James, TN 65617",
+        "name": "Jon Lang"
+    },
+    "tax": {
+        "amount_excluding_tax": 11.41,
+        "amount_including_tax": 143.79,
+        "tax_amount": 28.61,
+        "total_ht": 112.2,
+        "total_ttc": 227.66
+    }
+}

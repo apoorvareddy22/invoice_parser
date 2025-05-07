@@ -1,0 +1,82 @@
+{
+    "buyer": {
+        "address": "9963 Foster Wells Suite 243 Port Francisfurt, OH 41939",
+        "company_name": "Bell-Howard",
+        "country": "Indonesia",
+        "email": "micheal47@example.com",
+        "name": "Kyle Dunn",
+        "phone": "725.896.5437",
+        "vat_no": "hL12609560112"
+    },
+    "invoice": {
+        "date": "23.10.2005",
+        "due_date": "20.10.2019",
+        "linked_invoice": "KW-6137-8423",
+        "notes": "whiteboard end-to-end networks",
+        "number": "Pk-1960-7349"
+    },
+    "products": [
+        {
+            "description": "incubate mission-critical interfaces",
+            "discount_percentage": 12.15,
+            "price": 425.31,
+            "quantity": 7.34,
+            "unit_price": 83.57
+        },
+        {
+            "description": "exploit synergistic content",
+            "discount_percentage": 5.05,
+            "price": 304.82,
+            "quantity": 9.46,
+            "unit_price": 53.92
+        },
+        {
+            "description": "exploit proactive interfaces",
+            "discount_percentage": 7.26,
+            "price": 278.49,
+            "quantity": 6.66,
+            "unit_price": 29.05
+        },
+        {
+            "description": "generate killer networks",
+            "discount_percentage": 8.68,
+            "price": 71.32,
+            "quantity": 4.05,
+            "unit_price": 27.61
+        },
+        {
+            "description": "implement extensible e-tailers",
+            "discount_percentage": 5.53,
+            "price": 351.35,
+            "quantity": 1.89,
+            "unit_price": 24.62
+        }
+    ],
+    "seller": {
+        "address": "07935 Julie Points Cardenasmouth, PR 99703",
+        "ape": "3899B",
+        "capital": 95816019,
+        "country": "Isle of Man",
+        "email": "danapotter@example.net",
+        "name": "Sherry Jones",
+        "phone_1": "821-454-9558",
+        "phone_2": "+1-648-751-6111x980",
+        "phone_3": "423.423.3189",
+        "ref_walk": "qjQT2930",
+        "reference": "IS770",
+        "siret": 91821357435253,
+        "vat_no": "qZ83462161176",
+        "website": "https://www.smith.com/"
+    },
+    "tax": {
+        "amount_0": 14.28,
+        "amount_1": 26.08,
+        "base_0": 22.56,
+        "base_1": 111.82,
+        "total_ht": 129.34,
+        "total_tax": 21.69,
+        "total_ttc": 283.72,
+        "vat_0": 20.06,
+        "vat_1": 20.34
+    }
+}

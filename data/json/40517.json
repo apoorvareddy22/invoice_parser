@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "3434 Patrick Garden Apt. 212 Dyertown, AK 54810"
+    },
+    "invoice": {
+        "bc_no": "dm88317",
+        "date": "21.08.2021",
+        "maturity_date": "22.12.2002",
+        "number": 533154
+    },
+    "products": [
+        {
+            "amount": 56.78,
+            "description": "optimize global relationships",
+            "quantity": 2.26,
+            "unit_price": 51.53,
+            "vat_amount": 10.74
+        }
+    ],
+    "seller": {
+        "address": "6094 Stephanie Radial Suite 466 East Alexandria, PA 51212"
+    },
+    "tax": {
+        "amount_excluding_tax": 42.16,
+        "amount_including_tax": 99.87,
+        "tax_amount": 17.04
+    }
+}

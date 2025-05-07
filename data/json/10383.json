@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "0777 Jordan Ways Gillview, MH 47362",
+        "email": "teresajimenez@example.org",
+        "phone": "001-221-864-0080x2185",
+        "vat_no": "fQ40351043705"
+    },
+    "invoice": {
+        "date": "29.12.2021",
+        "due_date": "03.01.2014",
+        "market_reference": 159171,
+        "notes": "iterate end-to-end initiatives",
+        "number": "7494-2988",
+        "reference": 915619,
+        "vat_no": "va48860477859"
+    },
+    "payment": {
+        "net_total": 42.03,
+        "total": 697.62
+    },
+    "products": [
+        {
+            "amount": 43.71,
+            "description": "target one-to-one mindshare",
+            "hours": 1.02,
+            "rate": 5.01
+        }
+    ],
+    "seller": {
+        "address": "USCGC Brewer FPO AE 52739",
+        "email": "nkelly@example.net",
+        "name": "Thomas Hill"
+    },
+    "tax": {
+        "base": 13.54,
+        "tax_amount": 28.67,
+        "total_tax": 16.22
+    }
+}

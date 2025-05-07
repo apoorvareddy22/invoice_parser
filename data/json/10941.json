@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "667 Ryan Flat Heatherhaven, GU 78509",
+        "email": "matthewcollins@example.net",
+        "phone": "216-708-0849",
+        "vat_no": "qT65294161324"
+    },
+    "invoice": {
+        "date": "16.02.1991",
+        "due_date": "10.03.1991",
+        "market_reference": 817621,
+        "notes": "maximize seamless mindshare",
+        "number": "0704-8647",
+        "reference": 844648,
+        "vat_no": "MV59691340264"
+    },
+    "payment": {
+        "net_total": 137.08,
+        "total": 229.13
+    },
+    "products": [
+        {
+            "amount": 94.52,
+            "description": "redefine out-of-the-box applications",
+            "hours": 4.1,
+            "rate": 5.13
+        },
+        {
+            "amount": 494.18,
+            "description": "innovate bleeding-edge info-mediaries",
+            "hours": 1.85,
+            "rate": 1.8
+        },
+        {
+            "amount": 212.03,
+            "description": "enable value-added partnerships",
+            "hours": 2.63,
+            "rate": 4.0
+        }
+    ],
+    "seller": {
+        "address": "499 Lee Falls Apt. 462 Matthewmouth, AK 35693",
+        "email": "peggyray@example.net",
+        "name": "Mandy Kelly"
+    },
+    "tax": {
+        "base": 28.57,
+        "tax_amount": 14.74,
+        "total_tax": 17.45
+    }
+}

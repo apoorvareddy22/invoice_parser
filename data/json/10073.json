@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "0715 Allen Circle Suite 928 Robinport, GA 13524",
+        "email": "tbenjamin@example.com",
+        "phone": "001-277-824-7487x668",
+        "vat_no": "xW40840587053"
+    },
+    "invoice": {
+        "date": "15.07.1990",
+        "due_date": "04.08.1992",
+        "market_reference": 261238,
+        "notes": "maximize virtual relationships",
+        "number": "4281-7512",
+        "reference": 627116,
+        "vat_no": "gP96092790432"
+    },
+    "payment": {
+        "net_total": 181.47,
+        "total": 422.81
+    },
+    "products": [
+        {
+            "amount": 225.95,
+            "description": "integrate ubiquitous users",
+            "hours": 7.54,
+            "rate": 2.74
+        }
+    ],
+    "seller": {
+        "address": "325 Campos Curve Suite 326 North Christopher, ID 95108",
+        "email": "garybaker@example.net",
+        "name": "Deborah Lawrence"
+    },
+    "tax": {
+        "base": 19.56,
+        "tax_amount": 21.08,
+        "total_tax": 16.9
+    }
+}

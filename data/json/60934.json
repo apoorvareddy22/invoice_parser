@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "773 Marsh Ways Susanfurt, AS 27285",
+        "business_no": "RC362",
+        "id": "jH838"
+    },
+    "invoice": {
+        "date": "19.04.2007",
+        "number": "7827-5869"
+    },
+    "payment": {
+        "due_date": "25.09.2021",
+        "total": 110.21
+    },
+    "products": [
+        {
+            "amount": 190.21,
+            "description": "expedite out-of-the-box web-readiness",
+            "quantity": 1.55,
+            "reference": "zW-821",
+            "unit_price": 59.21
+        },
+        {
+            "amount": 176.99,
+            "description": "mesh extensible e-markets",
+            "quantity": 6.85,
+            "reference": "pv-094",
+            "unit_price": 87.0
+        },
+        {
+            "amount": 168.72,
+            "description": "aggregate mission-critical channels",
+            "quantity": 3.17,
+            "reference": "ex-657",
+            "unit_price": 29.47
+        },
+        {
+            "amount": 59.42,
+            "description": "facilitate frictionless models",
+            "quantity": 3.38,
+            "reference": "Dx-404",
+            "unit_price": 13.56
+        }
+    ],
+    "seller": {
+        "address": "1778 Rachel Villages East Jorge, OR 39821"
+    },
+    "tax": {
+        "base_ht": 325.85,
+        "regulations": 13.39,
+        "total_ht": 244.11,
+        "vat_amount": 185.87,
+        "vat_percentage": 18.57
+    }
+}

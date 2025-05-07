@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "04909 Parker Islands Westberg, TX 72105",
+        "company_name": "Smith, Diaz and Watson",
+        "country": "New Zealand",
+        "name": "Michael Humphrey"
+    },
+    "invoice": {
+        "date": "03.03.2007",
+        "number": 294578
+    },
+    "payment": {
+        "discount_amount": 17.39,
+        "discount_percentage": 14.87,
+        "due": 32.9,
+        "sub_total": 183.02,
+        "total": 582.77
+    },
+    "products": [
+        {
+            "description": "syndicate cross-media infrastructures",
+            "index": "5",
+            "quantity": 9.04,
+            "total_price": 474.76,
+            "unit_price": 81.13
+        },
+        {
+            "description": "maximize rich content",
+            "index": "3",
+            "quantity": 8.82,
+            "total_price": 136.5,
+            "unit_price": 69.93
+        },
+        {
+            "description": "benchmark strategic relationships",
+            "index": "5",
+            "quantity": 2.48,
+            "total_price": 70.5,
+            "unit_price": 48.32
+        },
+        {
+            "description": "empower mission-critical convergence",
+            "index": "2",
+            "quantity": 6.47,
+            "total_price": 364.22,
+            "unit_price": 90.1
+        }
+    ],
+    "seller": {
+        "address": "01861 Leblanc Highway New William, GA 21069",
+        "company_name": "Alvarez, Ferguson and Sanders",
+        "vat_no": "aw30124022039"
+    }
+}

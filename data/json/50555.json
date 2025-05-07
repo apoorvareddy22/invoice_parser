@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "460 Johnston Extension Suite 163 Floreshaven, MO 56869",
+        "id": "dD402"
+    },
+    "invoice": {
+        "bc_no": "yJ04725",
+        "currency_code": "GHS",
+        "date": "30.12.2014",
+        "due_date": "29.04.1997",
+        "number": 562309
+    },
+    "payment": {
+        "bank_name": "Henry, Knight and Lopez",
+        "bic": "IKBTGBY7",
+        "iban": "ESTE19551310510128"
+    },
+    "products": [
+        {
+            "amount": 16.39,
+            "description": "mesh world-class solutions",
+            "index": "4",
+            "price": 52.66,
+            "quantity": 8.1,
+            "tax_amount": 50.29,
+            "total_ttc": 365.18,
+            "vat_amount": 8.47
+        },
+        {
+            "amount": 457.36,
+            "description": "seize collaborative initiatives",
+            "index": "2",
+            "price": 468.38,
+            "quantity": 2.97,
+            "tax_amount": 60.51,
+            "total_ttc": 104.6,
+            "vat_amount": 0.98
+        },
+        {
+            "amount": 399.78,
+            "description": "matrix integrated web-readiness",
+            "index": "6",
+            "price": 26.77,
+            "quantity": 9.18,
+            "tax_amount": 98.88,
+            "total_ttc": 172.11,
+            "vat_amount": 2.36
+        },
+        {
+            "amount": 340.72,
+            "description": "seize magnetic e-markets",
+            "index": "9",
+            "price": 449.27,
+            "quantity": 7.97,
+            "tax_amount": 20.12,
+            "total_ttc": 318.56,
+            "vat_amount": 14.98
+        },
+        {
+            "amount": 111.14,
+            "description": "leverage mission-critical interfaces",
+            "index": "9",
+            "price": 140.19,
+            "quantity": 9.29,
+            "tax_amount": 87.12,
+            "total_ttc": 361.91,
+            "vat_amount": 3.93
+        }
+    ],
+    "seller": {
+        "name": "Brenda Marshall"
+    },
+    "supplier": {
+        "address": "USNV Jones FPO AA 58404",
+        "name": "Angela Sweeney"
+    },
+    "tax": {
+        "amount_excluding_tax": 91.94,
+        "amount_including_tax": 181.27,
+        "tax_amount": 23.39,
+        "total_ht": 124.53,
+        "total_ttc": 266.08
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "341 Brooke Mount West Alantown, MN 75218",
+        "email": "umadden@example.net",
+        "phone": "8675068110",
+        "vat_no": "uq26402464984"
+    },
+    "invoice": {
+        "date": "04.03.2014",
+        "due_date": "11.06.2021",
+        "market_reference": 168486,
+        "notes": "matrix sticky portals",
+        "number": "5822-6445",
+        "reference": 293830,
+        "vat_no": "XC62993440044"
+    },
+    "payment": {
+        "net_total": 39.52,
+        "total": 840.51
+    },
+    "products": [
+        {
+            "amount": 465.59,
+            "description": "integrate rich communities",
+            "hours": 8.71,
+            "rate": 9.37
+        },
+        {
+            "amount": 342.99,
+            "description": "e-enable dot-com eyeballs",
+            "hours": 4.07,
+            "rate": 7.69
+        },
+        {
+            "amount": 204.89,
+            "description": "enhance back-end applications",
+            "hours": 5.02,
+            "rate": 5.42
+        },
+        {
+            "amount": 102.32,
+            "description": "evolve granular content",
+            "hours": 8.46,
+            "rate": 7.58
+        },
+        {
+            "amount": 147.49,
+            "description": "innovate next-generation infrastructures",
+            "hours": 1.78,
+            "rate": 2.53
+        },
+        {
+            "amount": 388.09,
+            "description": "re-intermediate bleeding-edge models",
+            "hours": 4.84,
+            "rate": 5.03
+        },
+        {
+            "amount": 90.43,
+            "description": "engineer customized convergence",
+            "hours": 6.32,
+            "rate": 6.08
+        }
+    ],
+    "seller": {
+        "address": "5417 Jeanette Court North Amy, DE 17824",
+        "email": "lucaswayne@example.com",
+        "name": "Shannon Mason"
+    },
+    "tax": {
+        "base": 20.77,
+        "tax_amount": 28.09,
+        "total_tax": 27.1
+    }
+}

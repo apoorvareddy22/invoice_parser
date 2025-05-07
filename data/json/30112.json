@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "145 Brian Row Apt. 304 Pooleberg, NJ 25189",
+        "company_name": "Mcdaniel, Mercado and Norman",
+        "country": "Uganda",
+        "email": "sdavis@example.net",
+        "name": "Darren Long",
+        "phone": "600-526-4246x259",
+        "vat_no": "Vd54594747608"
+    },
+    "invoice": {
+        "date": "13.08.2001",
+        "due_date": "06.09.2013",
+        "linked_invoice": "YP-1075-8836",
+        "notes": "morph back-end paradigms",
+        "number": "UG-1873-8332"
+    },
+    "products": [
+        {
+            "description": "cultivate viral applications",
+            "discount_percentage": 18.87,
+            "price": 175.83,
+            "quantity": 8.94,
+            "unit_price": 48.99
+        },
+        {
+            "description": "transition next-generation networks",
+            "discount_percentage": 5.3,
+            "price": 147.47,
+            "quantity": 4.44,
+            "unit_price": 42.37
+        },
+        {
+            "description": "cultivate cross-platform synergies",
+            "discount_percentage": 7.03,
+            "price": 404.49,
+            "quantity": 4.75,
+            "unit_price": 72.06
+        }
+    ],
+    "seller": {
+        "address": "3180 Sierra Path West Christine, MD 27935",
+        "ape": "7289p",
+        "capital": 34376421,
+        "country": "Ethiopia",
+        "email": "kgarner@example.com",
+        "name": "Caroline Andrews",
+        "phone_1": "+1-273-714-2148x65652",
+        "phone_2": "(864)209-6029",
+        "phone_3": "+1-822-472-4559x9481",
+        "ref_walk": "oEZs2061",
+        "reference": "xJ105",
+        "siret": 13460464309256,
+        "vat_no": "cA41031191235",
+        "website": "http://adams.com/"
+    },
+    "tax": {
+        "amount_0": 10.45,
+        "amount_1": 21.69,
+        "base_0": 27.08,
+        "base_1": 283.73,
+        "total_ht": 469.9,
+        "total_tax": 21.61,
+        "total_ttc": 424.96,
+        "vat_0": 16.77,
+        "vat_1": 27.17
+    }
+}

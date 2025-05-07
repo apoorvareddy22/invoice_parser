@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "USNS Fitzgerald FPO AE 25163",
+        "company_name": "Sharp Group",
+        "country": "Sweden",
+        "name": "Chloe Zimmerman"
+    },
+    "invoice": {
+        "date": "30.11.2009",
+        "number": 823322
+    },
+    "payment": {
+        "discount_amount": 47.27,
+        "discount_percentage": 16.71,
+        "due": 24.3,
+        "sub_total": 111.55,
+        "total": 959.8
+    },
+    "products": [
+        {
+            "description": "target web-enabled synergies",
+            "index": "1",
+            "quantity": 7.62,
+            "total_price": 410.34,
+            "unit_price": 37.19
+        },
+        {
+            "description": "enhance interactive e-markets",
+            "index": "1",
+            "quantity": 7.73,
+            "total_price": 499.36,
+            "unit_price": 81.0
+        }
+    ],
+    "seller": {
+        "address": "106 Page Island Suite 533 East Terrimouth, DC 69902",
+        "company_name": "Moon-Garcia",
+        "vat_no": "VB61045738468"
+    }
+}

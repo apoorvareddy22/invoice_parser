@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "00050 Wilson Creek Williamsburgh, HI 64369",
+        "id": "Ih798"
+    },
+    "invoice": {
+        "bc_no": "kC73623",
+        "currency_code": "LKR",
+        "date": "08.09.2018",
+        "due_date": "12.02.1996",
+        "number": 612623
+    },
+    "payment": {
+        "bank_name": "Lee Inc",
+        "bic": "IVSWGBJHK3H",
+        "iban": "IZXF18682286533936"
+    },
+    "products": [
+        {
+            "amount": 472.63,
+            "description": "re-contextualize cross-platform architectures",
+            "index": "3",
+            "price": 254.7,
+            "quantity": 3.02,
+            "tax_amount": 53.07,
+            "total_ttc": 254.18,
+            "vat_amount": 2.13
+        },
+        {
+            "amount": 447.05,
+            "description": "productize rich solutions",
+            "index": "9",
+            "price": 15.66,
+            "quantity": 5.47,
+            "tax_amount": 84.91,
+            "total_ttc": 190.01,
+            "vat_amount": 13.62
+        },
+        {
+            "amount": 80.94,
+            "description": "whiteboard user-centric applications",
+            "index": "10",
+            "price": 492.06,
+            "quantity": 1.23,
+            "tax_amount": 44.53,
+            "total_ttc": 393.35,
+            "vat_amount": 14.76
+        },
+        {
+            "amount": 200.33,
+            "description": "deliver rich users",
+            "index": "10",
+            "price": 33.29,
+            "quantity": 9.63,
+            "tax_amount": 35.58,
+            "total_ttc": 115.81,
+            "vat_amount": 1.36
+        }
+    ],
+    "seller": {
+        "name": "Andrew King"
+    },
+    "supplier": {
+        "address": "50068 Mora Gateway East Angela, NC 19940",
+        "name": "Jodi Turner"
+    },
+    "tax": {
+        "amount_excluding_tax": 26.31,
+        "amount_including_tax": 154.55,
+        "tax_amount": 29.81,
+        "total_ht": 479.39,
+        "total_ttc": 279.19
+    }
+}

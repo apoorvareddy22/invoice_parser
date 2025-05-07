@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "194 Caldwell Fields Apt. 135 East Christine, PR 55281",
+        "company_name": "Sullivan-Mcintyre",
+        "email": "gcruz@example.net",
+        "name": "Mr. Christopher Hoffman DDS",
+        "phone": "(614)574-7418"
+    },
+    "invoice": {
+        "date": "11.04.2005",
+        "due_date": "10.11.2016",
+        "number": "ZSK05741119678"
+    },
+    "payment": {
+        "account_number": 5439798271,
+        "bank_name": "Griffin, Rowland and Franklin",
+        "routing_number": 757729293
+    },
+    "products": [
+        {
+            "amount": 433.36,
+            "description": "drive interactive bandwidth",
+            "index": "8",
+            "quantity": 1.14,
+            "unit_price": 39.86
+        },
+        {
+            "amount": 184.48,
+            "description": "leverage virtual supply-chains",
+            "index": "7",
+            "quantity": 3.79,
+            "unit_price": 38.71
+        },
+        {
+            "amount": 493.22,
+            "description": "architect open-source web-readiness",
+            "index": "7",
+            "quantity": 7.29,
+            "unit_price": 98.25
+        },
+        {
+            "amount": 343.11,
+            "description": "exploit front-end ROI",
+            "index": "9",
+            "quantity": 4.68,
+            "unit_price": 55.02
+        },
+        {
+            "amount": 158.5,
+            "description": "harness mission-critical e-business",
+            "index": "9",
+            "quantity": 3.65,
+            "unit_price": 82.83
+        },
+        {
+            "amount": 311.45,
+            "description": "strategize collaborative communities",
+            "index": "4",
+            "quantity": 6.5,
+            "unit_price": 78.22
+        },
+        {
+            "amount": 127.13,
+            "description": "leverage world-class systems",
+            "index": "2",
+            "quantity": 9.61,
+            "unit_price": 57.05
+        }
+    ],
+    "seller": {
+        "address": "501 Angela Pines Burnsport, CO 21193",
+        "company_name": "Vargas LLC",
+        "email": "megan88@example.net"
+    }
+}

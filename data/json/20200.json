@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "6891 Young Fords Davishaven, ID 15628",
+        "company_name": "Morgan-Mitchell",
+        "email": "talexander@example.net",
+        "name": "John Garcia",
+        "phone": "3284803012"
+    },
+    "invoice": {
+        "date": "04.05.1999",
+        "due_date": "18.03.2001",
+        "number": "iLY19152201717"
+    },
+    "payment": {
+        "account_number": 3653248434,
+        "bank_name": "Mendez, Anderson and Owens",
+        "routing_number": 989235873
+    },
+    "products": [
+        {
+            "amount": 360.66,
+            "description": "brand cross-platform experiences",
+            "index": "3",
+            "quantity": 6.12,
+            "unit_price": 84.23
+        },
+        {
+            "amount": 380.84,
+            "description": "optimize extensible interfaces",
+            "index": "8",
+            "quantity": 4.34,
+            "unit_price": 33.45
+        }
+    ],
+    "seller": {
+        "address": "816 Thomas Ports Livingstonberg, MA 63321",
+        "company_name": "Davis-Hill",
+        "email": "martinezkatie@example.com"
+    }
+}

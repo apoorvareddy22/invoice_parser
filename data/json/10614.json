@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "304 Noah Mills Apt. 042 Spenceton, MP 17778",
+        "email": "florescraig@example.org",
+        "phone": "255-686-0891",
+        "vat_no": "iy75066176779"
+    },
+    "invoice": {
+        "date": "24.03.1990",
+        "due_date": "02.11.2001",
+        "market_reference": 984479,
+        "notes": "streamline killer e-tailers",
+        "number": "1420-5673",
+        "reference": 316997,
+        "vat_no": "nK17012398787"
+    },
+    "payment": {
+        "net_total": 116.31,
+        "total": 394.97
+    },
+    "products": [
+        {
+            "amount": 415.93,
+            "description": "implement web-enabled convergence",
+            "hours": 2.26,
+            "rate": 5.33
+        },
+        {
+            "amount": 407.68,
+            "description": "morph vertical communities",
+            "hours": 1.97,
+            "rate": 3.51
+        },
+        {
+            "amount": 104.84,
+            "description": "leverage strategic portals",
+            "hours": 4.23,
+            "rate": 2.32
+        },
+        {
+            "amount": 318.01,
+            "description": "expedite magnetic users",
+            "hours": 9.85,
+            "rate": 9.83
+        }
+    ],
+    "seller": {
+        "address": "PSC 5545, Box 4259 APO AA 42512",
+        "email": "michael74@example.com",
+        "name": "Kathryn Terry"
+    },
+    "tax": {
+        "base": 23.83,
+        "tax_amount": 21.6,
+        "total_tax": 26.4
+    }
+}

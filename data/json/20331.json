@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "9213 Jennifer Mission Lake Lisamouth, IN 73176",
+        "company_name": "Blackburn, Olson and Stewart",
+        "email": "vpowers@example.com",
+        "name": "Michelle Campbell",
+        "phone": "548-725-0748"
+    },
+    "invoice": {
+        "date": "14.08.2023",
+        "due_date": "26.11.2018",
+        "number": "JTE30238713156"
+    },
+    "payment": {
+        "account_number": 4537623932,
+        "bank_name": "Roberts, May and Morris",
+        "routing_number": 303443379
+    },
+    "products": [
+        {
+            "amount": 483.05,
+            "description": "engineer clicks-and-mortar content",
+            "index": "5",
+            "quantity": 3.2,
+            "unit_price": 80.9
+        },
+        {
+            "amount": 147.96,
+            "description": "maximize collaborative info-mediaries",
+            "index": "4",
+            "quantity": 2.69,
+            "unit_price": 41.48
+        },
+        {
+            "amount": 228.62,
+            "description": "deliver extensible action-items",
+            "index": "10",
+            "quantity": 5.88,
+            "unit_price": 45.12
+        }
+    ],
+    "seller": {
+        "address": "113 Victor Via Apt. 101 Edwardburgh, HI 61680",
+        "company_name": "Chavez PLC",
+        "email": "eberry@example.org"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "838 Lambert Tunnel Apt. 125 South Ryanville, PW 07245",
+        "id": "nJ248"
+    },
+    "invoice": {
+        "bc_no": "DL77905",
+        "currency_code": "LAK",
+        "date": "11.02.2011",
+        "due_date": "09.11.2008",
+        "number": 687682
+    },
+    "payment": {
+        "bank_name": "Perez, Lawson and Russell",
+        "bic": "ATFSGBEY",
+        "iban": "XCEH92829071054929"
+    },
+    "products": [
+        {
+            "amount": 439.31,
+            "description": "grow next-generation relationships",
+            "index": "5",
+            "price": 299.0,
+            "quantity": 4.51,
+            "tax_amount": 69.75,
+            "total_ttc": 285.41,
+            "vat_amount": 9.41
+        }
+    ],
+    "seller": {
+        "name": "Bradley Bryant"
+    },
+    "supplier": {
+        "address": "4524 Lucero Lodge Apt. 491 Lake Jeffreyshire, MS 47931",
+        "name": "Michael Lowe"
+    },
+    "tax": {
+        "amount_excluding_tax": 148.55,
+        "amount_including_tax": 129.25,
+        "tax_amount": 27.64,
+        "total_ht": 495.96,
+        "total_ttc": 300.57
+    }
+}

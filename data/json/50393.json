@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "07445 Teresa Field South Ariana, MI 08241",
+        "id": "IW831"
+    },
+    "invoice": {
+        "bc_no": "dN02929",
+        "currency_code": "NZD",
+        "date": "25.11.2020",
+        "due_date": "02.03.2021",
+        "number": 560102
+    },
+    "payment": {
+        "bank_name": "Ruiz-Doyle",
+        "bic": "KFTRGB56SLN",
+        "iban": "GRTC48616707122287"
+    },
+    "products": [
+        {
+            "amount": 281.71,
+            "description": "redefine proactive solutions",
+            "index": "2",
+            "price": 235.93,
+            "quantity": 5.81,
+            "tax_amount": 63.98,
+            "total_ttc": 451.88,
+            "vat_amount": 2.73
+        },
+        {
+            "amount": 362.57,
+            "description": "synergize sticky experiences",
+            "index": "5",
+            "price": 493.01,
+            "quantity": 1.12,
+            "tax_amount": 80.85,
+            "total_ttc": 463.87,
+            "vat_amount": 5.9
+        },
+        {
+            "amount": 87.21,
+            "description": "engineer scalable e-markets",
+            "index": "10",
+            "price": 378.92,
+            "quantity": 3.75,
+            "tax_amount": 25.41,
+            "total_ttc": 177.6,
+            "vat_amount": 1.16
+        },
+        {
+            "amount": 430.98,
+            "description": "unleash leading-edge technologies",
+            "index": "6",
+            "price": 64.01,
+            "quantity": 4.6,
+            "tax_amount": 35.22,
+            "total_ttc": 295.26,
+            "vat_amount": 4.37
+        }
+    ],
+    "seller": {
+        "name": "Dale Burgess"
+    },
+    "supplier": {
+        "address": "USS Wagner FPO AA 66738",
+        "name": "Catherine Hicks"
+    },
+    "tax": {
+        "amount_excluding_tax": 78.57,
+        "amount_including_tax": 10.62,
+        "tax_amount": 26.59,
+        "total_ht": 467.0,
+        "total_ttc": 121.89
+    }
+}

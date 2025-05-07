@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "603 Denise Terrace Suite 744 Jeffreyview, MA 39848",
+        "id": "mH262"
+    },
+    "invoice": {
+        "bc_no": "Jg60137",
+        "currency_code": "MRO",
+        "date": "13.06.2001",
+        "due_date": "05.01.2012",
+        "number": 455164
+    },
+    "payment": {
+        "bank_name": "Lopez-Maxwell",
+        "bic": "FSYNGB28",
+        "iban": "FNRZ62347993572272"
+    },
+    "products": [
+        {
+            "amount": 179.44,
+            "description": "repurpose cutting-edge web services",
+            "index": "5",
+            "price": 460.11,
+            "quantity": 2.27,
+            "tax_amount": 80.21,
+            "total_ttc": 276.02,
+            "vat_amount": 1.02
+        },
+        {
+            "amount": 49.89,
+            "description": "brand wireless networks",
+            "index": "1",
+            "price": 287.98,
+            "quantity": 4.94,
+            "tax_amount": 72.58,
+            "total_ttc": 469.88,
+            "vat_amount": 1.53
+        },
+        {
+            "amount": 302.15,
+            "description": "empower user-centric experiences",
+            "index": "1",
+            "price": 491.28,
+            "quantity": 9.06,
+            "tax_amount": 21.38,
+            "total_ttc": 107.3,
+            "vat_amount": 3.2
+        },
+        {
+            "amount": 12.26,
+            "description": "empower dynamic info-mediaries",
+            "index": "8",
+            "price": 44.19,
+            "quantity": 3.4,
+            "tax_amount": 43.27,
+            "total_ttc": 194.73,
+            "vat_amount": 9.09
+        }
+    ],
+    "seller": {
+        "name": "Jennifer Henderson"
+    },
+    "supplier": {
+        "address": "Unit 6356 Box 6795 DPO AP 24456",
+        "name": "Brian Ross"
+    },
+    "tax": {
+        "amount_excluding_tax": 152.46,
+        "amount_including_tax": 37.11,
+        "tax_amount": 12.1,
+        "total_ht": 134.81,
+        "total_ttc": 136.37
+    }
+}

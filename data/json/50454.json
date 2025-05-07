@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "260 Moreno Plain Apt. 537 Masonville, MD 28973",
+        "id": "KB987"
+    },
+    "invoice": {
+        "bc_no": "ik72791",
+        "currency_code": "VEF",
+        "date": "01.11.2017",
+        "due_date": "31.03.2013",
+        "number": 185692
+    },
+    "payment": {
+        "bank_name": "Lewis-Pham",
+        "bic": "WNGEGBPD",
+        "iban": "OBES94874705921307"
+    },
+    "products": [
+        {
+            "amount": 275.97,
+            "description": "matrix wireless methodologies",
+            "index": "4",
+            "price": 388.29,
+            "quantity": 6.41,
+            "tax_amount": 27.62,
+            "total_ttc": 263.81,
+            "vat_amount": 2.82
+        },
+        {
+            "amount": 190.45,
+            "description": "aggregate granular e-business",
+            "index": "1",
+            "price": 469.85,
+            "quantity": 6.09,
+            "tax_amount": 25.79,
+            "total_ttc": 143.32,
+            "vat_amount": 10.67
+        },
+        {
+            "amount": 215.71,
+            "description": "e-enable one-to-one e-markets",
+            "index": "7",
+            "price": 137.9,
+            "quantity": 7.19,
+            "tax_amount": 53.23,
+            "total_ttc": 420.06,
+            "vat_amount": 1.04
+        },
+        {
+            "amount": 441.01,
+            "description": "seize collaborative niches",
+            "index": "4",
+            "price": 189.49,
+            "quantity": 4.95,
+            "tax_amount": 37.56,
+            "total_ttc": 361.43,
+            "vat_amount": 2.29
+        },
+        {
+            "amount": 161.89,
+            "description": "incubate synergistic web services",
+            "index": "2",
+            "price": 381.7,
+            "quantity": 6.8,
+            "tax_amount": 14.92,
+            "total_ttc": 482.18,
+            "vat_amount": 7.95
+        }
+    ],
+    "seller": {
+        "name": "Keith Jackson"
+    },
+    "supplier": {
+        "address": "USCGC Martin FPO AA 42995",
+        "name": "Carla Harrison"
+    },
+    "tax": {
+        "amount_excluding_tax": 96.72,
+        "amount_including_tax": 107.22,
+        "tax_amount": 19.98,
+        "total_ht": 258.86,
+        "total_ttc": 310.76
+    }
+}

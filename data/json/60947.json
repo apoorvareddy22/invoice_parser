@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "55093 Adkins Skyway Matthewmouth, MH 59881",
+        "business_no": "aY447",
+        "id": "qK112"
+    },
+    "invoice": {
+        "date": "23.08.2001",
+        "number": "3125-1850"
+    },
+    "payment": {
+        "due_date": "22.10.2000",
+        "total": 770.99
+    },
+    "products": [
+        {
+            "amount": 256.62,
+            "description": "utilize enterprise markets",
+            "quantity": 2.38,
+            "reference": "Vk-282",
+            "unit_price": 25.08
+        },
+        {
+            "amount": 125.19,
+            "description": "enable dot-com networks",
+            "quantity": 1.15,
+            "reference": "mH-690",
+            "unit_price": 70.21
+        },
+        {
+            "amount": 347.75,
+            "description": "disintermediate value-added systems",
+            "quantity": 3.62,
+            "reference": "Aq-911",
+            "unit_price": 44.81
+        },
+        {
+            "amount": 468.74,
+            "description": "repurpose wireless experiences",
+            "quantity": 6.7,
+            "reference": "PA-290",
+            "unit_price": 57.29
+        },
+        {
+            "amount": 49.6,
+            "description": "visualize magnetic e-tailers",
+            "quantity": 8.14,
+            "reference": "ty-953",
+            "unit_price": 50.93
+        },
+        {
+            "amount": 81.52,
+            "description": "iterate leading-edge portals",
+            "quantity": 8.94,
+            "reference": "rm-150",
+            "unit_price": 80.39
+        }
+    ],
+    "seller": {
+        "address": "936 Sanders Pine Apt. 481 Beckyburgh, LA 34724"
+    },
+    "tax": {
+        "base_ht": 489.97,
+        "regulations": 24.39,
+        "total_ht": 424.95,
+        "vat_amount": 84.97,
+        "vat_percentage": 13.26
+    }
+}

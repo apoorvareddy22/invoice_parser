@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "1000 Kelley Mountain Apt. 637 East Sonia, IL 05505",
+        "email": "jeffrey56@example.org",
+        "phone": "9298871538",
+        "vat_no": "cx65750268200"
+    },
+    "invoice": {
+        "date": "23.06.1999",
+        "due_date": "16.02.1995",
+        "market_reference": 376420,
+        "notes": "enable enterprise models",
+        "number": "9566-1953",
+        "reference": 748013,
+        "vat_no": "bI44821688068"
+    },
+    "payment": {
+        "net_total": 195.62,
+        "total": 608.01
+    },
+    "products": [
+        {
+            "amount": 437.66,
+            "description": "innovate innovative web services",
+            "hours": 9.89,
+            "rate": 4.09
+        },
+        {
+            "amount": 141.12,
+            "description": "morph transparent experiences",
+            "hours": 3.97,
+            "rate": 6.42
+        },
+        {
+            "amount": 126.43,
+            "description": "transition global applications",
+            "hours": 1.12,
+            "rate": 5.16
+        },
+        {
+            "amount": 124.42,
+            "description": "evolve leading-edge action-items",
+            "hours": 5.67,
+            "rate": 1.27
+        }
+    ],
+    "seller": {
+        "address": "393 Sherry Heights Brownton, PA 97321",
+        "email": "ortegarobert@example.com",
+        "name": "Jennifer Riley"
+    },
+    "tax": {
+        "base": 27.81,
+        "tax_amount": 19.97,
+        "total_tax": 10.64
+    }
+}

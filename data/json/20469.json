@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "74029 Mccormick Forge Christopherside, FL 07217",
+        "company_name": "Jackson, Roberson and Rowe",
+        "email": "edward44@example.com",
+        "name": "Antonio Jenkins",
+        "phone": "001-501-520-8816x0201"
+    },
+    "invoice": {
+        "date": "21.01.1999",
+        "due_date": "19.10.2001",
+        "number": "OuF62395284190"
+    },
+    "payment": {
+        "account_number": 9408188966,
+        "bank_name": "Freeman-Carpenter",
+        "routing_number": 541075780
+    },
+    "products": [
+        {
+            "amount": 492.87,
+            "description": "embrace leading-edge e-tailers",
+            "index": "10",
+            "quantity": 2.57,
+            "unit_price": 13.06
+        },
+        {
+            "amount": 217.76,
+            "description": "synthesize cross-media applications",
+            "index": "6",
+            "quantity": 5.55,
+            "unit_price": 54.37
+        },
+        {
+            "amount": 324.15,
+            "description": "deploy back-end synergies",
+            "index": "9",
+            "quantity": 1.62,
+            "unit_price": 79.97
+        },
+        {
+            "amount": 304.15,
+            "description": "benchmark dot-com web services",
+            "index": "6",
+            "quantity": 3.18,
+            "unit_price": 78.77
+        }
+    ],
+    "seller": {
+        "address": "2437 Matthew Tunnel Suite 108 Benjaminfort, OK 90847",
+        "company_name": "Walker Group",
+        "email": "sharonday@example.com"
+    }
+}

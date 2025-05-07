@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "4258 Melissa Shore Apt. 820 Dillonview, AL 71930",
+        "company_name": "Wood-Parker",
+        "email": "amy19@example.net",
+        "name": "Margaret Miller",
+        "phone": "919-589-4489"
+    },
+    "invoice": {
+        "date": "29.01.2005",
+        "due_date": "11.04.2000",
+        "number": "hkj24763561116"
+    },
+    "payment": {
+        "account_number": 5210462253,
+        "bank_name": "Cole Inc",
+        "routing_number": 696951252
+    },
+    "products": [
+        {
+            "amount": 140.9,
+            "description": "engage 24/7 interfaces",
+            "index": "4",
+            "quantity": 5.46,
+            "unit_price": 73.86
+        },
+        {
+            "amount": 303.53,
+            "description": "synthesize viral vortals",
+            "index": "7",
+            "quantity": 1.29,
+            "unit_price": 57.14
+        }
+    ],
+    "seller": {
+        "address": "5930 Williams Mall Suite 911 Timothyville, MO 95114",
+        "company_name": "Wilkins-Wolf",
+        "email": "bball@example.org"
+    }
+}

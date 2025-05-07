@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "2449 Dunn Stream Suite 814 South Gregory, NE 49699",
+        "company_name": "Harris Group",
+        "country": "Singapore",
+        "email": "juliahernandez@example.net",
+        "name": "Thomas Garza",
+        "phone": "+1-540-845-2403",
+        "vat_no": "hl00586592975"
+    },
+    "invoice": {
+        "date": "29.03.2013",
+        "due_date": "11.12.2007",
+        "linked_invoice": "Qs-2900-5325",
+        "notes": "generate web-enabled models",
+        "number": "VZ-1785-1413"
+    },
+    "products": [
+        {
+            "description": "deploy rich e-markets",
+            "discount_percentage": 14.03,
+            "price": 400.11,
+            "quantity": 3.04,
+            "unit_price": 14.07
+        }
+    ],
+    "seller": {
+        "address": "1705 Margaret Lodge Karenborough, IN 89898",
+        "ape": "7402T",
+        "capital": 54007184,
+        "country": "Bosnia and Herzegovina",
+        "email": "uwhitehead@example.org",
+        "name": "Mackenzie Singh",
+        "phone_1": "+1-524-591-3370x77875",
+        "phone_2": "932.373.8128x891",
+        "phone_3": "+1-906-265-2238x5274",
+        "ref_walk": "GQLx8834",
+        "reference": "Pr365",
+        "siret": 82869309415283,
+        "vat_no": "sk72280809444",
+        "website": "https://www.conner.org/"
+    },
+    "tax": {
+        "amount_0": 27.66,
+        "amount_1": 15.63,
+        "base_0": 23.19,
+        "base_1": 41.51,
+        "total_ht": 174.0,
+        "total_tax": 28.15,
+        "total_ttc": 440.37,
+        "vat_0": 21.8,
+        "vat_1": 29.38
+    }
+}

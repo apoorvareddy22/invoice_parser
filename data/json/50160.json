@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "5610 Peters Gateway Suite 605 Lake Jenniferville, SD 12424",
+        "id": "bj497"
+    },
+    "invoice": {
+        "bc_no": "gD25006",
+        "currency_code": "GHS",
+        "date": "27.03.1993",
+        "due_date": "20.06.1996",
+        "number": 983889
+    },
+    "payment": {
+        "bank_name": "Green, Smith and Carey",
+        "bic": "ATTEGB8Q",
+        "iban": "LMEO64315173122613"
+    },
+    "products": [
+        {
+            "amount": 133.9,
+            "description": "harness customized architectures",
+            "index": "4",
+            "price": 19.99,
+            "quantity": 2.98,
+            "tax_amount": 13.65,
+            "total_ttc": 238.08,
+            "vat_amount": 7.1
+        },
+        {
+            "amount": 353.83,
+            "description": "morph customized synergies",
+            "index": "1",
+            "price": 257.57,
+            "quantity": 9.87,
+            "tax_amount": 96.63,
+            "total_ttc": 488.59,
+            "vat_amount": 13.32
+        },
+        {
+            "amount": 288.2,
+            "description": "envisioneer out-of-the-box networks",
+            "index": "2",
+            "price": 19.02,
+            "quantity": 5.96,
+            "tax_amount": 45.07,
+            "total_ttc": 426.35,
+            "vat_amount": 5.15
+        },
+        {
+            "amount": 427.95,
+            "description": "aggregate plug-and-play architectures",
+            "index": "1",
+            "price": 249.16,
+            "quantity": 3.8,
+            "tax_amount": 64.5,
+            "total_ttc": 200.4,
+            "vat_amount": 10.31
+        },
+        {
+            "amount": 206.2,
+            "description": "aggregate virtual methodologies",
+            "index": "10",
+            "price": 230.35,
+            "quantity": 2.8,
+            "tax_amount": 92.88,
+            "total_ttc": 319.27,
+            "vat_amount": 1.82
+        }
+    ],
+    "seller": {
+        "name": "Kim Mullen"
+    },
+    "supplier": {
+        "address": "410 Romero Mills Amymouth, WI 50077",
+        "name": "Thomas Henry"
+    },
+    "tax": {
+        "amount_excluding_tax": 111.06,
+        "amount_including_tax": 126.06,
+        "tax_amount": 23.35,
+        "total_ht": 420.2,
+        "total_ttc": 426.23
+    }
+}

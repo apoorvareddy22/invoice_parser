@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "436 Murillo Throughway Apt. 366 East Nicholas, WA 09973",
+        "id": "qg568"
+    },
+    "invoice": {
+        "bc_no": "YB57567",
+        "currency_code": "KGS",
+        "date": "07.01.2009",
+        "due_date": "12.04.2009",
+        "number": 125375
+    },
+    "payment": {
+        "bank_name": "Lee LLC",
+        "bic": "XYMYGBLF",
+        "iban": "PWCW31669014689509"
+    },
+    "products": [
+        {
+            "amount": 147.48,
+            "description": "revolutionize strategic e-services",
+            "index": "5",
+            "price": 29.13,
+            "quantity": 2.5,
+            "tax_amount": 83.42,
+            "total_ttc": 410.34,
+            "vat_amount": 3.11
+        }
+    ],
+    "seller": {
+        "name": "Derek Williams"
+    },
+    "supplier": {
+        "address": "7293 Victoria Estate Anthonyton, OK 62927",
+        "name": "Matthew Davis"
+    },
+    "tax": {
+        "amount_excluding_tax": 101.59,
+        "amount_including_tax": 146.24,
+        "tax_amount": 17.63,
+        "total_ht": 158.16,
+        "total_ttc": 309.75
+    }
+}

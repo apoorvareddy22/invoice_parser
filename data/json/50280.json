@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "0215 Kaitlin Meadows Suite 164 Erinmouth, VI 02180",
+        "id": "ey088"
+    },
+    "invoice": {
+        "bc_no": "pO88485",
+        "currency_code": "SRD",
+        "date": "18.12.2011",
+        "due_date": "07.06.1997",
+        "number": 286436
+    },
+    "payment": {
+        "bank_name": "Morales and Sons",
+        "bic": "NWBXGBGN",
+        "iban": "TRST26665902187726"
+    },
+    "products": [
+        {
+            "amount": 492.68,
+            "description": "leverage magnetic e-markets",
+            "index": "5",
+            "price": 489.98,
+            "quantity": 5.22,
+            "tax_amount": 92.02,
+            "total_ttc": 456.96,
+            "vat_amount": 7.76
+        },
+        {
+            "amount": 356.1,
+            "description": "facilitate cutting-edge supply-chains",
+            "index": "7",
+            "price": 422.26,
+            "quantity": 3.78,
+            "tax_amount": 72.99,
+            "total_ttc": 276.13,
+            "vat_amount": 0.58
+        },
+        {
+            "amount": 208.69,
+            "description": "streamline turn-key e-business",
+            "index": "8",
+            "price": 173.27,
+            "quantity": 1.46,
+            "tax_amount": 39.8,
+            "total_ttc": 197.56,
+            "vat_amount": 7.75
+        },
+        {
+            "amount": 75.75,
+            "description": "innovate ubiquitous channels",
+            "index": "6",
+            "price": 27.29,
+            "quantity": 7.38,
+            "tax_amount": 26.24,
+            "total_ttc": 132.61,
+            "vat_amount": 13.71
+        },
+        {
+            "amount": 200.63,
+            "description": "orchestrate front-end markets",
+            "index": "2",
+            "price": 63.04,
+            "quantity": 1.86,
+            "tax_amount": 17.63,
+            "total_ttc": 196.85,
+            "vat_amount": 1.55
+        }
+    ],
+    "seller": {
+        "name": "Thomas Terry"
+    },
+    "supplier": {
+        "address": "731 Carroll Overpass Apt. 005 Carrilloville, WY 60828",
+        "name": "Dean Conner"
+    },
+    "tax": {
+        "amount_excluding_tax": 103.81,
+        "amount_including_tax": 77.99,
+        "tax_amount": 20.07,
+        "total_ht": 357.59,
+        "total_ttc": 179.39
+    }
+}

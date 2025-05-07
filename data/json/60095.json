@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "04083 Clarke Walk Ronaldton, UT 15835",
+        "business_no": "or235",
+        "id": "Im040"
+    },
+    "invoice": {
+        "date": "08.08.2020",
+        "number": "6768-0555"
+    },
+    "payment": {
+        "due_date": "19.05.2008",
+        "total": 582.95
+    },
+    "products": [
+        {
+            "amount": 249.28,
+            "description": "visualize revolutionary architectures",
+            "quantity": 2.44,
+            "reference": "Re-841",
+            "unit_price": 82.82
+        },
+        {
+            "amount": 364.23,
+            "description": "e-enable turn-key platforms",
+            "quantity": 4.88,
+            "reference": "XS-743",
+            "unit_price": 14.86
+        },
+        {
+            "amount": 348.79,
+            "description": "harness killer markets",
+            "quantity": 6.57,
+            "reference": "gy-850",
+            "unit_price": 47.12
+        },
+        {
+            "amount": 101.13,
+            "description": "target impactful networks",
+            "quantity": 4.3,
+            "reference": "VV-052",
+            "unit_price": 17.48
+        },
+        {
+            "amount": 236.26,
+            "description": "leverage customized synergies",
+            "quantity": 6.36,
+            "reference": "Ih-671",
+            "unit_price": 61.74
+        },
+        {
+            "amount": 394.46,
+            "description": "mesh value-added e-tailers",
+            "quantity": 3.01,
+            "reference": "TW-818",
+            "unit_price": 49.16
+        },
+        {
+            "amount": 439.3,
+            "description": "re-intermediate robust e-business",
+            "quantity": 4.35,
+            "reference": "DB-224",
+            "unit_price": 20.6
+        }
+    ],
+    "seller": {
+        "address": "9551 Scott Locks West Kimberly, IN 84743"
+    },
+    "tax": {
+        "base_ht": 176.15,
+        "regulations": 10.1,
+        "total_ht": 177.52,
+        "vat_amount": 192.75,
+        "vat_percentage": 21.95
+    }
+}

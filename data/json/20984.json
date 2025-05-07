@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "6758 Ferguson Stravenue North Amberchester, KS 44165",
+        "company_name": "Johnson, Marsh and Smith",
+        "email": "pstewart@example.org",
+        "name": "Jeffrey Walker",
+        "phone": "(622)327-6307"
+    },
+    "invoice": {
+        "date": "16.09.2008",
+        "due_date": "24.08.1993",
+        "number": "BCF20381767807"
+    },
+    "payment": {
+        "account_number": 7850217032,
+        "bank_name": "Zimmerman-Arnold",
+        "routing_number": 776235315
+    },
+    "products": [
+        {
+            "amount": 80.87,
+            "description": "optimize real-time vortals",
+            "index": "5",
+            "quantity": 2.98,
+            "unit_price": 70.28
+        }
+    ],
+    "seller": {
+        "address": "Unit 7246 Box 0120 DPO AA 69438",
+        "company_name": "Moyer-Pruitt",
+        "email": "qmedina@example.com"
+    }
+}

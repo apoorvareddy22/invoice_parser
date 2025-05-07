@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "010 Thompson Shores Suite 421 New Brianstad, WA 39363",
+        "company_name": "Richardson Inc",
+        "email": "elizabethellis@example.org",
+        "name": "Matthew Villegas",
+        "phone": "726-211-9274"
+    },
+    "invoice": {
+        "date": "25.02.2004",
+        "due_date": "09.01.1996",
+        "number": "NaC55715401236"
+    },
+    "payment": {
+        "account_number": 9174455932,
+        "bank_name": "Smith-Silva",
+        "routing_number": 141800462
+    },
+    "products": [
+        {
+            "amount": 95.24,
+            "description": "iterate mission-critical mindshare",
+            "index": "5",
+            "quantity": 6.97,
+            "unit_price": 40.2
+        }
+    ],
+    "seller": {
+        "address": "54170 John Mills Suite 981 Patriciabury, NJ 05277",
+        "company_name": "Park, Gonzalez and Acevedo",
+        "email": "brandon92@example.net"
+    }
+}

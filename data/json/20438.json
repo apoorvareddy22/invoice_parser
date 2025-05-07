@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "715 Booth Cove North Jason, ND 61633",
+        "company_name": "Hill Ltd",
+        "email": "hernandezbrooke@example.net",
+        "name": "Holly Jackson",
+        "phone": "001-543-226-0829"
+    },
+    "invoice": {
+        "date": "29.01.1994",
+        "due_date": "09.03.2005",
+        "number": "sww16690970842"
+    },
+    "payment": {
+        "account_number": 5538915048,
+        "bank_name": "Allen PLC",
+        "routing_number": 754255256
+    },
+    "products": [
+        {
+            "amount": 463.65,
+            "description": "enable ubiquitous eyeballs",
+            "index": "7",
+            "quantity": 7.53,
+            "unit_price": 32.84
+        },
+        {
+            "amount": 8.69,
+            "description": "e-enable cross-platform communities",
+            "index": "1",
+            "quantity": 7.32,
+            "unit_price": 89.59
+        },
+        {
+            "amount": 79.98,
+            "description": "engage integrated e-business",
+            "index": "1",
+            "quantity": 6.76,
+            "unit_price": 75.17
+        },
+        {
+            "amount": 285.29,
+            "description": "productize efficient relationships",
+            "index": "3",
+            "quantity": 9.36,
+            "unit_price": 95.77
+        }
+    ],
+    "seller": {
+        "address": "7671 Tony Mews Apt. 893 Tammyfurt, WY 70796",
+        "company_name": "Douglas-Smith",
+        "email": "jefferyperez@example.net"
+    }
+}

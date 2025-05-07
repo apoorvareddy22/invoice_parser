@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "102 Stewart Groves Suite 683 Jonesstad, PW 48547",
+        "company_name": "Young Ltd",
+        "country": "Chad",
+        "name": "Stephanie Farmer"
+    },
+    "invoice": {
+        "date": "30.12.1991",
+        "number": 306434
+    },
+    "payment": {
+        "discount_amount": 35.25,
+        "discount_percentage": 15.44,
+        "due": 175.69,
+        "sub_total": 149.97,
+        "total": 294.0
+    },
+    "products": [
+        {
+            "description": "architect integrated bandwidth",
+            "index": "6",
+            "quantity": 7.6,
+            "total_price": 193.49,
+            "unit_price": 17.8
+        },
+        {
+            "description": "benchmark back-end functionalities",
+            "index": "1",
+            "quantity": 9.35,
+            "total_price": 544.05,
+            "unit_price": 77.47
+        },
+        {
+            "description": "enhance out-of-the-box communities",
+            "index": "9",
+            "quantity": 5.22,
+            "total_price": 748.2,
+            "unit_price": 45.87
+        },
+        {
+            "description": "transition ubiquitous markets",
+            "index": "6",
+            "quantity": 4.4,
+            "total_price": 351.1,
+            "unit_price": 59.34
+        },
+        {
+            "description": "visualize visionary bandwidth",
+            "index": "9",
+            "quantity": 7.35,
+            "total_price": 510.48,
+            "unit_price": 21.26
+        },
+        {
+            "description": "generate ubiquitous applications",
+            "index": "7",
+            "quantity": 7.13,
+            "total_price": 406.25,
+            "unit_price": 34.77
+        },
+        {
+            "description": "engineer robust e-markets",
+            "index": "10",
+            "quantity": 3.91,
+            "total_price": 272.43,
+            "unit_price": 56.73
+        }
+    ],
+    "seller": {
+        "address": "1975 Santiago Hills Suite 953 Burkeland, NC 08741",
+        "company_name": "Garcia LLC",
+        "vat_no": "oI03676697310"
+    }
+}

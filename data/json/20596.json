@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "Unit 9052 Box 6153 DPO AE 38419",
+        "company_name": "Ryan, Lee and King",
+        "email": "owilliams@example.net",
+        "name": "Kyle Turner",
+        "phone": "915.726.5403x9821"
+    },
+    "invoice": {
+        "date": "29.11.2002",
+        "due_date": "08.11.1990",
+        "number": "UME25256261475"
+    },
+    "payment": {
+        "account_number": 9704268652,
+        "bank_name": "Oneill Group",
+        "routing_number": 288965516
+    },
+    "products": [
+        {
+            "amount": 477.65,
+            "description": "target cross-platform eyeballs",
+            "index": "10",
+            "quantity": 6.49,
+            "unit_price": 36.71
+        },
+        {
+            "amount": 43.37,
+            "description": "productize dot-com supply-chains",
+            "index": "8",
+            "quantity": 5.75,
+            "unit_price": 14.27
+        },
+        {
+            "amount": 118.84,
+            "description": "empower user-centric metrics",
+            "index": "10",
+            "quantity": 2.88,
+            "unit_price": 18.31
+        },
+        {
+            "amount": 307.13,
+            "description": "iterate revolutionary e-services",
+            "index": "2",
+            "quantity": 8.7,
+            "unit_price": 24.96
+        },
+        {
+            "amount": 499.37,
+            "description": "envisioneer synergistic methodologies",
+            "index": "2",
+            "quantity": 9.56,
+            "unit_price": 75.51
+        }
+    ],
+    "seller": {
+        "address": "5173 Frederick Harbors Apt. 171 Port Thomasmouth, MN 69072",
+        "company_name": "Frost, Shaw and Morgan",
+        "email": "frankshelby@example.org"
+    }
+}

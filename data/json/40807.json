@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "477 Johnson Fields East Jonathan, NV 17101"
+    },
+    "invoice": {
+        "bc_no": "wR96544",
+        "date": "12.05.1992",
+        "maturity_date": "18.04.2007",
+        "number": 583667
+    },
+    "products": [
+        {
+            "amount": 351.15,
+            "description": "architect web-enabled communities",
+            "quantity": 3.44,
+            "unit_price": 38.72,
+            "vat_amount": 12.57
+        },
+        {
+            "amount": 189.0,
+            "description": "monetize value-added e-commerce",
+            "quantity": 9.36,
+            "unit_price": 70.85,
+            "vat_amount": 0.96
+        },
+        {
+            "amount": 394.32,
+            "description": "enable scalable technologies",
+            "quantity": 5.81,
+            "unit_price": 29.27,
+            "vat_amount": 6.93
+        },
+        {
+            "amount": 247.55,
+            "description": "reinvent proactive e-services",
+            "quantity": 9.43,
+            "unit_price": 71.93,
+            "vat_amount": 0.87
+        },
+        {
+            "amount": 103.52,
+            "description": "scale front-end synergies",
+            "quantity": 6.26,
+            "unit_price": 93.43,
+            "vat_amount": 10.02
+        }
+    ],
+    "seller": {
+        "address": "USNV Knight FPO AA 55156"
+    },
+    "tax": {
+        "amount_excluding_tax": 81.88,
+        "amount_including_tax": 103.16,
+        "tax_amount": 21.12
+    }
+}

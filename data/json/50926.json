@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "2392 Jones Cliff Suite 866 Elliottstad, ME 23373",
+        "id": "RR688"
+    },
+    "invoice": {
+        "bc_no": "Wq06982",
+        "currency_code": "RSD",
+        "date": "04.06.1996",
+        "due_date": "17.10.2009",
+        "number": 964105
+    },
+    "payment": {
+        "bank_name": "Harris LLC",
+        "bic": "CWNRGB9UEFN",
+        "iban": "APRC77432738312158"
+    },
+    "products": [
+        {
+            "amount": 316.65,
+            "description": "incubate user-centric models",
+            "index": "5",
+            "price": 258.76,
+            "quantity": 6.41,
+            "tax_amount": 94.26,
+            "total_ttc": 421.91,
+            "vat_amount": 13.56
+        },
+        {
+            "amount": 203.01,
+            "description": "mesh open-source mindshare",
+            "index": "9",
+            "price": 429.89,
+            "quantity": 9.66,
+            "tax_amount": 24.09,
+            "total_ttc": 261.44,
+            "vat_amount": 2.92
+        },
+        {
+            "amount": 490.9,
+            "description": "leverage dynamic synergies",
+            "index": "2",
+            "price": 140.86,
+            "quantity": 5.45,
+            "tax_amount": 27.01,
+            "total_ttc": 479.89,
+            "vat_amount": 4.86
+        }
+    ],
+    "seller": {
+        "name": "Sheri Parrish"
+    },
+    "supplier": {
+        "address": "9298 Steven Underpass East Robertland, MT 14922",
+        "name": "John Fritz"
+    },
+    "tax": {
+        "amount_excluding_tax": 19.86,
+        "amount_including_tax": 80.49,
+        "tax_amount": 14.08,
+        "total_ht": 142.55,
+        "total_ttc": 364.94
+    }
+}

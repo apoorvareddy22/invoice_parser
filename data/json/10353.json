@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "59471 Sims Greens Suite 160 Craigport, PA 59408",
+        "email": "james77@example.org",
+        "phone": "464-263-1565x7918",
+        "vat_no": "fO54903193382"
+    },
+    "invoice": {
+        "date": "17.03.2005",
+        "due_date": "26.03.1999",
+        "market_reference": 216979,
+        "notes": "drive intuitive users",
+        "number": "4012-2573",
+        "reference": 804174,
+        "vat_no": "UN37986749464"
+    },
+    "payment": {
+        "net_total": 55.94,
+        "total": 408.55
+    },
+    "products": [
+        {
+            "amount": 141.27,
+            "description": "whiteboard next-generation technologies",
+            "hours": 9.41,
+            "rate": 1.65
+        },
+        {
+            "amount": 460.95,
+            "description": "deliver best-of-breed e-business",
+            "hours": 7.04,
+            "rate": 9.47
+        },
+        {
+            "amount": 379.33,
+            "description": "orchestrate cross-media interfaces",
+            "hours": 5.45,
+            "rate": 3.05
+        },
+        {
+            "amount": 270.42,
+            "description": "seize one-to-one deliverables",
+            "hours": 1.09,
+            "rate": 1.43
+        },
+        {
+            "amount": 193.37,
+            "description": "expedite vertical mindshare",
+            "hours": 9.28,
+            "rate": 1.48
+        },
+        {
+            "amount": 77.43,
+            "description": "monetize cross-platform networks",
+            "hours": 6.02,
+            "rate": 8.96
+        }
+    ],
+    "seller": {
+        "address": "85459 Johnson Mission Suite 202 Port Brittanyshire, PW 18380",
+        "email": "micheallewis@example.com",
+        "name": "John Nunez"
+    },
+    "tax": {
+        "base": 23.23,
+        "tax_amount": 23.07,
+        "total_tax": 26.76
+    }
+}

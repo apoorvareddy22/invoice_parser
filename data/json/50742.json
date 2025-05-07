@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "98817 Carlos Burgs West Sandramouth, GU 43557",
+        "id": "Pk570"
+    },
+    "invoice": {
+        "bc_no": "ip34183",
+        "currency_code": "SHP",
+        "date": "04.07.2002",
+        "due_date": "07.11.2013",
+        "number": 182784
+    },
+    "payment": {
+        "bank_name": "Mayo-Moore",
+        "bic": "LYELGBMKHMG",
+        "iban": "WAMX39315602957807"
+    },
+    "products": [
+        {
+            "amount": 419.3,
+            "description": "productize user-centric paradigms",
+            "index": "2",
+            "price": 385.82,
+            "quantity": 9.37,
+            "tax_amount": 96.19,
+            "total_ttc": 460.93,
+            "vat_amount": 1.57
+        },
+        {
+            "amount": 54.29,
+            "description": "engineer interactive vortals",
+            "index": "5",
+            "price": 192.89,
+            "quantity": 5.35,
+            "tax_amount": 98.1,
+            "total_ttc": 461.39,
+            "vat_amount": 11.39
+        },
+        {
+            "amount": 105.39,
+            "description": "target end-to-end applications",
+            "index": "4",
+            "price": 331.31,
+            "quantity": 6.69,
+            "tax_amount": 48.0,
+            "total_ttc": 353.13,
+            "vat_amount": 0.72
+        },
+        {
+            "amount": 241.84,
+            "description": "disintermediate synergistic synergies",
+            "index": "7",
+            "price": 133.87,
+            "quantity": 9.05,
+            "tax_amount": 98.08,
+            "total_ttc": 176.95,
+            "vat_amount": 0.85
+        },
+        {
+            "amount": 162.45,
+            "description": "evolve collaborative interfaces",
+            "index": "4",
+            "price": 424.62,
+            "quantity": 8.56,
+            "tax_amount": 13.36,
+            "total_ttc": 240.37,
+            "vat_amount": 1.41
+        },
+        {
+            "amount": 120.02,
+            "description": "embrace best-of-breed mindshare",
+            "index": "1",
+            "price": 93.15,
+            "quantity": 4.5,
+            "tax_amount": 44.48,
+            "total_ttc": 398.56,
+            "vat_amount": 10.76
+        }
+    ],
+    "seller": {
+        "name": "Jason Tucker"
+    },
+    "supplier": {
+        "address": "052 Vincent Trace Wilkinsonberg, PW 42205",
+        "name": "Alicia Mitchell"
+    },
+    "tax": {
+        "amount_excluding_tax": 54.25,
+        "amount_including_tax": 28.9,
+        "tax_amount": 17.84,
+        "total_ht": 106.62,
+        "total_ttc": 342.08
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "765 Jesse Orchard Suite 689 West Austinhaven, AL 10633",
+        "id": "pj424"
+    },
+    "invoice": {
+        "bc_no": "dK06024",
+        "currency_code": "XCD",
+        "date": "12.04.2006",
+        "due_date": "25.05.2012",
+        "number": 491842
+    },
+    "payment": {
+        "bank_name": "Jones-Lopez",
+        "bic": "LTEVGBLL",
+        "iban": "LVPO45254164998333"
+    },
+    "products": [
+        {
+            "amount": 263.82,
+            "description": "visualize turn-key markets",
+            "index": "7",
+            "price": 40.15,
+            "quantity": 9.85,
+            "tax_amount": 83.86,
+            "total_ttc": 192.8,
+            "vat_amount": 5.31
+        },
+        {
+            "amount": 278.55,
+            "description": "enable sticky relationships",
+            "index": "9",
+            "price": 39.32,
+            "quantity": 1.71,
+            "tax_amount": 84.8,
+            "total_ttc": 288.14,
+            "vat_amount": 1.03
+        },
+        {
+            "amount": 94.13,
+            "description": "revolutionize sticky networks",
+            "index": "10",
+            "price": 287.78,
+            "quantity": 4.1,
+            "tax_amount": 62.61,
+            "total_ttc": 117.92,
+            "vat_amount": 6.88
+        },
+        {
+            "amount": 72.32,
+            "description": "empower cutting-edge relationships",
+            "index": "6",
+            "price": 433.78,
+            "quantity": 2.98,
+            "tax_amount": 49.11,
+            "total_ttc": 292.39,
+            "vat_amount": 0.74
+        },
+        {
+            "amount": 431.1,
+            "description": "e-enable collaborative e-services",
+            "index": "1",
+            "price": 317.71,
+            "quantity": 4.6,
+            "tax_amount": 85.88,
+            "total_ttc": 278.49,
+            "vat_amount": 3.01
+        },
+        {
+            "amount": 234.47,
+            "description": "re-contextualize sticky architectures",
+            "index": "5",
+            "price": 293.64,
+            "quantity": 3.51,
+            "tax_amount": 99.56,
+            "total_ttc": 244.73,
+            "vat_amount": 3.25
+        }
+    ],
+    "seller": {
+        "name": "Carla Zuniga"
+    },
+    "supplier": {
+        "address": "4938 Daniel Viaduct Suite 289 Gabriellaburgh, CA 70519",
+        "name": "Carla Chavez"
+    },
+    "tax": {
+        "amount_excluding_tax": 90.56,
+        "amount_including_tax": 32.68,
+        "tax_amount": 22.05,
+        "total_ht": 478.11,
+        "total_ttc": 201.1
+    }
+}

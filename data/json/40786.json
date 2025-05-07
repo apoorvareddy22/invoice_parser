@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "430 Goodwin Highway Apt. 847 East Tiffany, NJ 25574"
+    },
+    "invoice": {
+        "bc_no": "Su58838",
+        "date": "16.03.2010",
+        "maturity_date": "22.10.1997",
+        "number": 213494
+    },
+    "products": [
+        {
+            "amount": 462.14,
+            "description": "maximize ubiquitous technologies",
+            "quantity": 4.8,
+            "unit_price": 62.9,
+            "vat_amount": 1.94
+        },
+        {
+            "amount": 62.83,
+            "description": "deploy cross-platform solutions",
+            "quantity": 5.19,
+            "unit_price": 89.78,
+            "vat_amount": 12.59
+        }
+    ],
+    "seller": {
+        "address": "43037 Elizabeth Cove Apt. 082 Frostburgh, PR 32295"
+    },
+    "tax": {
+        "amount_excluding_tax": 119.85,
+        "amount_including_tax": 78.47,
+        "tax_amount": 28.06
+    }
+}

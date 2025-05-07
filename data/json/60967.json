@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "3899 Danielle Spurs Suite 698 East James, MN 77050",
+        "business_no": "RM549",
+        "id": "Xe489"
+    },
+    "invoice": {
+        "date": "06.08.2006",
+        "number": "2857-6840"
+    },
+    "payment": {
+        "due_date": "19.11.2020",
+        "total": 782.95
+    },
+    "products": [
+        {
+            "amount": 48.62,
+            "description": "scale one-to-one functionalities",
+            "quantity": 5.33,
+            "reference": "zZ-479",
+            "unit_price": 81.82
+        },
+        {
+            "amount": 318.73,
+            "description": "syndicate virtual partnerships",
+            "quantity": 7.19,
+            "reference": "DP-174",
+            "unit_price": 19.71
+        }
+    ],
+    "seller": {
+        "address": "71120 Munoz Lake Desireeburgh, GU 08889"
+    },
+    "tax": {
+        "base_ht": 133.66,
+        "regulations": 14.28,
+        "total_ht": 165.05,
+        "vat_amount": 121.77,
+        "vat_percentage": 17.37
+    }
+}

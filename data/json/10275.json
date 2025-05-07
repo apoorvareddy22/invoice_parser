@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "08822 Leslie Lane Suite 689 Johnsonfort, NV 94378",
+        "email": "kathy60@example.com",
+        "phone": "001-569-522-4073x8786",
+        "vat_no": "Do83553240871"
+    },
+    "invoice": {
+        "date": "18.03.1994",
+        "due_date": "12.12.1998",
+        "market_reference": 517607,
+        "notes": "facilitate vertical partnerships",
+        "number": "4999-2200",
+        "reference": 107574,
+        "vat_no": "iT42554203273"
+    },
+    "payment": {
+        "net_total": 143.38,
+        "total": 557.92
+    },
+    "products": [
+        {
+            "amount": 453.61,
+            "description": "drive clicks-and-mortar architectures",
+            "hours": 9.58,
+            "rate": 4.18
+        },
+        {
+            "amount": 351.97,
+            "description": "maximize dynamic web-readiness",
+            "hours": 5.83,
+            "rate": 9.31
+        },
+        {
+            "amount": 121.29,
+            "description": "architect integrated solutions",
+            "hours": 4.63,
+            "rate": 6.69
+        },
+        {
+            "amount": 86.09,
+            "description": "productize synergistic partnerships",
+            "hours": 6.96,
+            "rate": 1.03
+        },
+        {
+            "amount": 30.21,
+            "description": "orchestrate open-source metrics",
+            "hours": 1.13,
+            "rate": 9.11
+        },
+        {
+            "amount": 126.63,
+            "description": "engineer frictionless convergence",
+            "hours": 6.71,
+            "rate": 9.32
+        },
+        {
+            "amount": 73.5,
+            "description": "leverage global communities",
+            "hours": 7.42,
+            "rate": 4.3
+        }
+    ],
+    "seller": {
+        "address": "629 Franco Branch Suite 050 Parksborough, SC 64723",
+        "email": "rmiller@example.com",
+        "name": "Justin Montgomery"
+    },
+    "tax": {
+        "base": 28.05,
+        "tax_amount": 17.89,
+        "total_tax": 13.48
+    }
+}

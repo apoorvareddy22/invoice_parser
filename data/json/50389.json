@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "0614 Nunez Alley Michaelborough, NY 06515",
+        "id": "Uu329"
+    },
+    "invoice": {
+        "bc_no": "mL97720",
+        "currency_code": "JPY",
+        "date": "02.01.2023",
+        "due_date": "08.06.2023",
+        "number": 691878
+    },
+    "payment": {
+        "bank_name": "Taylor, Nichols and Harper",
+        "bic": "OTVUGBK0U6W",
+        "iban": "WRUN50709716935201"
+    },
+    "products": [
+        {
+            "amount": 456.4,
+            "description": "transition cross-platform functionalities",
+            "index": "3",
+            "price": 276.76,
+            "quantity": 4.85,
+            "tax_amount": 34.86,
+            "total_ttc": 194.44,
+            "vat_amount": 2.87
+        },
+        {
+            "amount": 399.76,
+            "description": "transform global eyeballs",
+            "index": "9",
+            "price": 181.74,
+            "quantity": 1.19,
+            "tax_amount": 74.86,
+            "total_ttc": 192.61,
+            "vat_amount": 3.4
+        },
+        {
+            "amount": 30.92,
+            "description": "unleash scalable paradigms",
+            "index": "2",
+            "price": 112.6,
+            "quantity": 9.39,
+            "tax_amount": 32.65,
+            "total_ttc": 103.27,
+            "vat_amount": 4.8
+        },
+        {
+            "amount": 7.65,
+            "description": "synergize seamless infrastructures",
+            "index": "3",
+            "price": 39.12,
+            "quantity": 6.85,
+            "tax_amount": 43.94,
+            "total_ttc": 318.55,
+            "vat_amount": 10.3
+        },
+        {
+            "amount": 263.97,
+            "description": "engage bleeding-edge e-tailers",
+            "index": "4",
+            "price": 180.37,
+            "quantity": 7.23,
+            "tax_amount": 61.66,
+            "total_ttc": 469.25,
+            "vat_amount": 0.59
+        },
+        {
+            "amount": 347.43,
+            "description": "redefine web-enabled vortals",
+            "index": "4",
+            "price": 475.87,
+            "quantity": 2.22,
+            "tax_amount": 80.78,
+            "total_ttc": 478.85,
+            "vat_amount": 9.03
+        },
+        {
+            "amount": 59.51,
+            "description": "morph 24/365 channels",
+            "index": "8",
+            "price": 259.67,
+            "quantity": 8.58,
+            "tax_amount": 87.8,
+            "total_ttc": 154.94,
+            "vat_amount": 0.2
+        }
+    ],
+    "seller": {
+        "name": "Kimberly Mcgee"
+    },
+    "supplier": {
+        "address": "554 James Inlet East Lindahaven, MS 54492",
+        "name": "Cheryl Thomas"
+    },
+    "tax": {
+        "amount_excluding_tax": 191.73,
+        "amount_including_tax": 198.25,
+        "tax_amount": 22.35,
+        "total_ht": 499.85,
+        "total_ttc": 459.48
+    }
+}

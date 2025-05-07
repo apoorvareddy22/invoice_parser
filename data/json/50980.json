@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "9250 April Causeway Suite 358 Ashleybury, DE 07309",
+        "id": "wL775"
+    },
+    "invoice": {
+        "bc_no": "Vx55852",
+        "currency_code": "SHP",
+        "date": "03.04.2011",
+        "due_date": "07.04.2018",
+        "number": 167003
+    },
+    "payment": {
+        "bank_name": "Adams Ltd",
+        "bic": "LHAOGB9Z",
+        "iban": "MXVW44499264247447"
+    },
+    "products": [
+        {
+            "amount": 85.21,
+            "description": "drive user-centric initiatives",
+            "index": "10",
+            "price": 246.21,
+            "quantity": 8.83,
+            "tax_amount": 33.84,
+            "total_ttc": 117.05,
+            "vat_amount": 4.95
+        },
+        {
+            "amount": 491.75,
+            "description": "syndicate compelling e-tailers",
+            "index": "7",
+            "price": 253.61,
+            "quantity": 1.22,
+            "tax_amount": 90.49,
+            "total_ttc": 380.74,
+            "vat_amount": 2.4
+        },
+        {
+            "amount": 38.47,
+            "description": "target killer platforms",
+            "index": "2",
+            "price": 467.38,
+            "quantity": 8.29,
+            "tax_amount": 66.5,
+            "total_ttc": 303.44,
+            "vat_amount": 3.76
+        },
+        {
+            "amount": 379.12,
+            "description": "transition frictionless channels",
+            "index": "8",
+            "price": 123.59,
+            "quantity": 1.35,
+            "tax_amount": 91.41,
+            "total_ttc": 394.59,
+            "vat_amount": 4.35
+        },
+        {
+            "amount": 420.41,
+            "description": "implement robust web-readiness",
+            "index": "5",
+            "price": 267.43,
+            "quantity": 8.64,
+            "tax_amount": 84.74,
+            "total_ttc": 122.7,
+            "vat_amount": 2.71
+        },
+        {
+            "amount": 425.32,
+            "description": "revolutionize vertical convergence",
+            "index": "6",
+            "price": 405.12,
+            "quantity": 2.51,
+            "tax_amount": 62.41,
+            "total_ttc": 167.04,
+            "vat_amount": 13.72
+        }
+    ],
+    "seller": {
+        "name": "Nicholas Walker"
+    },
+    "supplier": {
+        "address": "8701 Travis Stravenue Suite 639 New Christopher, NH 52464",
+        "name": "Sara Harvey"
+    },
+    "tax": {
+        "amount_excluding_tax": 156.02,
+        "amount_including_tax": 142.4,
+        "tax_amount": 27.56,
+        "total_ht": 409.08,
+        "total_ttc": 471.84
+    }
+}

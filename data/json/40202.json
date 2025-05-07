@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "572 Daniels Shores Newmanchester, IL 78895"
+    },
+    "invoice": {
+        "bc_no": "sP48828",
+        "date": "12.07.1995",
+        "maturity_date": "12.10.2018",
+        "number": 163195
+    },
+    "products": [
+        {
+            "amount": 427.85,
+            "description": "embrace magnetic users",
+            "quantity": 9.73,
+            "unit_price": 65.88,
+            "vat_amount": 6.1
+        },
+        {
+            "amount": 87.4,
+            "description": "visualize rich experiences",
+            "quantity": 2.92,
+            "unit_price": 10.8,
+            "vat_amount": 0.5
+        },
+        {
+            "amount": 285.66,
+            "description": "engage innovative e-commerce",
+            "quantity": 6.04,
+            "unit_price": 67.62,
+            "vat_amount": 3.55
+        }
+    ],
+    "seller": {
+        "address": "86862 Young Burg Wutown, UT 54547"
+    },
+    "tax": {
+        "amount_excluding_tax": 94.39,
+        "amount_including_tax": 188.42,
+        "tax_amount": 28.81
+    }
+}

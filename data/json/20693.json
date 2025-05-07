@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "7150 Adam Track Apt. 116 New Julie, NV 33548",
+        "company_name": "Cardenas Ltd",
+        "email": "molly51@example.net",
+        "name": "Andrea Smith",
+        "phone": "(535)716-6424x3825"
+    },
+    "invoice": {
+        "date": "01.07.2009",
+        "due_date": "30.09.2012",
+        "number": "KTl68841105803"
+    },
+    "payment": {
+        "account_number": 8374718234,
+        "bank_name": "Graves PLC",
+        "routing_number": 591065608
+    },
+    "products": [
+        {
+            "amount": 269.03,
+            "description": "extend enterprise partnerships",
+            "index": "3",
+            "quantity": 7.88,
+            "unit_price": 95.35
+        }
+    ],
+    "seller": {
+        "address": "015 Jill Rapid Brianburgh, IA 30484",
+        "company_name": "Rose, Clements and Brown",
+        "email": "njohnson@example.org"
+    }
+}

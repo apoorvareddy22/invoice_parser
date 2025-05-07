@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "42109 Sierra Camp Suite 683 East Brian, UT 42613",
+        "email": "lbrown@example.org",
+        "phone": "001-766-331-8655x0866",
+        "vat_no": "vD34547582686"
+    },
+    "invoice": {
+        "date": "17.01.2008",
+        "due_date": "09.02.2006",
+        "market_reference": 208781,
+        "notes": "incubate 24/365 e-services",
+        "number": "2735-7581",
+        "reference": 909594,
+        "vat_no": "js52091398777"
+    },
+    "payment": {
+        "net_total": 49.67,
+        "total": 156.14
+    },
+    "products": [
+        {
+            "amount": 426.72,
+            "description": "exploit end-to-end technologies",
+            "hours": 9.37,
+            "rate": 3.76
+        },
+        {
+            "amount": 234.65,
+            "description": "cultivate world-class deliverables",
+            "hours": 6.68,
+            "rate": 2.27
+        },
+        {
+            "amount": 273.8,
+            "description": "re-intermediate cross-platform channels",
+            "hours": 1.2,
+            "rate": 5.27
+        }
+    ],
+    "seller": {
+        "address": "157 Reynolds Centers Port Jeanettemouth, TN 29190",
+        "email": "david79@example.com",
+        "name": "Joshua Fields"
+    },
+    "tax": {
+        "base": 28.23,
+        "tax_amount": 15.31,
+        "total_tax": 26.19
+    }
+}

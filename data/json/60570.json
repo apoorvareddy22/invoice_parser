@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "9442 Hood Garden Apt. 570 Port Timothyland, NE 36246",
+        "business_no": "uc077",
+        "id": "Dr337"
+    },
+    "invoice": {
+        "date": "17.09.1991",
+        "number": "7276-2381"
+    },
+    "payment": {
+        "due_date": "04.02.1990",
+        "total": 405.27
+    },
+    "products": [
+        {
+            "amount": 391.12,
+            "description": "embrace revolutionary technologies",
+            "quantity": 5.42,
+            "reference": "dm-712",
+            "unit_price": 11.3
+        },
+        {
+            "amount": 324.13,
+            "description": "incubate efficient architectures",
+            "quantity": 8.19,
+            "reference": "HQ-431",
+            "unit_price": 81.45
+        }
+    ],
+    "seller": {
+        "address": "41633 Jason Ports Suite 293 West Robert, DC 44659"
+    },
+    "tax": {
+        "base_ht": 220.5,
+        "regulations": 26.58,
+        "total_ht": 340.55,
+        "vat_amount": 115.65,
+        "vat_percentage": 28.16
+    }
+}

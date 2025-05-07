@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "0525 Wilcox Lodge Suite 058 East Elizabeth, MT 93201",
+        "email": "dennis49@example.com",
+        "phone": "001-358-754-1392",
+        "vat_no": "CN15001600370"
+    },
+    "invoice": {
+        "date": "04.03.1991",
+        "due_date": "04.03.2001",
+        "market_reference": 212498,
+        "notes": "visualize magnetic infrastructures",
+        "number": "1730-3564",
+        "reference": 178307,
+        "vat_no": "pt17345898647"
+    },
+    "payment": {
+        "net_total": 96.9,
+        "total": 211.52
+    },
+    "products": [
+        {
+            "amount": 228.03,
+            "description": "evolve open-source web services",
+            "hours": 1.89,
+            "rate": 5.8
+        },
+        {
+            "amount": 333.83,
+            "description": "extend integrated metrics",
+            "hours": 6.14,
+            "rate": 5.31
+        },
+        {
+            "amount": 341.21,
+            "description": "engineer B2B users",
+            "hours": 4.15,
+            "rate": 2.35
+        },
+        {
+            "amount": 106.39,
+            "description": "scale enterprise e-business",
+            "hours": 3.96,
+            "rate": 7.15
+        },
+        {
+            "amount": 436.7,
+            "description": "iterate killer info-mediaries",
+            "hours": 1.86,
+            "rate": 2.87
+        },
+        {
+            "amount": 238.98,
+            "description": "redefine innovative action-items",
+            "hours": 2.57,
+            "rate": 2.58
+        }
+    ],
+    "seller": {
+        "address": "269 Micheal Curve Apt. 053 South Davidstad, DE 88439",
+        "email": "qnelson@example.net",
+        "name": "Andrea Robertson"
+    },
+    "tax": {
+        "base": 19.72,
+        "tax_amount": 28.01,
+        "total_tax": 14.61
+    }
+}

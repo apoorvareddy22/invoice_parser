@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "324 Kim Greens Apt. 964 North Jeremytown, ND 89265",
+        "company_name": "Collins PLC",
+        "country": "Turks and Caicos Islands",
+        "name": "Gail Thomas"
+    },
+    "invoice": {
+        "date": "30.01.2011",
+        "number": 633900
+    },
+    "payment": {
+        "discount_amount": 38.04,
+        "discount_percentage": 10.69,
+        "due": 68.02,
+        "sub_total": 139.78,
+        "total": 389.54
+    },
+    "products": [
+        {
+            "description": "revolutionize innovative bandwidth",
+            "index": "3",
+            "quantity": 4.11,
+            "total_price": 333.3,
+            "unit_price": 67.18
+        },
+        {
+            "description": "aggregate vertical relationships",
+            "index": "3",
+            "quantity": 3.72,
+            "total_price": 75.4,
+            "unit_price": 89.35
+        }
+    ],
+    "seller": {
+        "address": "676 Foster Inlet Jordanfurt, OK 33407",
+        "company_name": "Huffman-Valenzuela",
+        "vat_no": "pP54347020040"
+    }
+}

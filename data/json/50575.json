@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "82340 Kevin Court Jenkinsstad, MI 99950",
+        "id": "aC376"
+    },
+    "invoice": {
+        "bc_no": "SB61916",
+        "currency_code": "UYU",
+        "date": "29.04.2011",
+        "due_date": "20.02.2011",
+        "number": 347890
+    },
+    "payment": {
+        "bank_name": "Luna PLC",
+        "bic": "YRZIGB2L9HX",
+        "iban": "HWQT74603243607224"
+    },
+    "products": [
+        {
+            "amount": 313.23,
+            "description": "scale cross-platform methodologies",
+            "index": "8",
+            "price": 466.12,
+            "quantity": 6.94,
+            "tax_amount": 29.64,
+            "total_ttc": 447.64,
+            "vat_amount": 8.15
+        },
+        {
+            "amount": 404.58,
+            "description": "implement dynamic architectures",
+            "index": "9",
+            "price": 139.29,
+            "quantity": 4.2,
+            "tax_amount": 42.37,
+            "total_ttc": 340.99,
+            "vat_amount": 0.33
+        },
+        {
+            "amount": 290.76,
+            "description": "e-enable one-to-one supply-chains",
+            "index": "3",
+            "price": 233.23,
+            "quantity": 6.93,
+            "tax_amount": 71.85,
+            "total_ttc": 494.84,
+            "vat_amount": 0.88
+        }
+    ],
+    "seller": {
+        "name": "Barbara Macias"
+    },
+    "supplier": {
+        "address": "486 Suarez Landing Suite 898 Moralesfurt, PR 64940",
+        "name": "Dr. Melissa Martin"
+    },
+    "tax": {
+        "amount_excluding_tax": 84.13,
+        "amount_including_tax": 51.97,
+        "tax_amount": 26.88,
+        "total_ht": 384.69,
+        "total_ttc": 269.2
+    }
+}

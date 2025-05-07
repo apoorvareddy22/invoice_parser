@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "2013 Kelley Light Marytown, MA 50666",
+        "company_name": "Bean, Wheeler and Campbell",
+        "country": "Guadeloupe",
+        "email": "francotodd@example.net",
+        "name": "Charles Berg",
+        "phone": "368.962.3739x048",
+        "vat_no": "SW59619100319"
+    },
+    "invoice": {
+        "date": "22.04.2010",
+        "due_date": "14.07.1991",
+        "linked_invoice": "ZD-1597-6639",
+        "notes": "engineer ubiquitous portals",
+        "number": "sB-0813-9483"
+    },
+    "products": [
+        {
+            "description": "enable best-of-breed bandwidth",
+            "discount_percentage": 18.27,
+            "price": 197.7,
+            "quantity": 6.54,
+            "unit_price": 13.74
+        },
+        {
+            "description": "reinvent next-generation experiences",
+            "discount_percentage": 12.16,
+            "price": 41.41,
+            "quantity": 9.1,
+            "unit_price": 18.19
+        }
+    ],
+    "seller": {
+        "address": "6210 Kevin Drive Lake Renee, DC 97285",
+        "ape": "7405O",
+        "capital": 78345277,
+        "country": "Japan",
+        "email": "odomhunter@example.net",
+        "name": "Mark Shaw",
+        "phone_1": "(340)365-4721",
+        "phone_2": "+1-253-950-3011",
+        "phone_3": "862-653-3652x9968",
+        "ref_walk": "kRjC2666",
+        "reference": "OW832",
+        "siret": 94568665688407,
+        "vat_no": "yz17923071637",
+        "website": "http://dixon.com/"
+    },
+    "tax": {
+        "amount_0": 22.61,
+        "amount_1": 19.72,
+        "base_0": 21.04,
+        "base_1": 50.45,
+        "total_ht": 154.77,
+        "total_tax": 24.48,
+        "total_ttc": 478.99,
+        "vat_0": 26.57,
+        "vat_1": 13.07
+    }
+}

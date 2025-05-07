@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "1560 Tiffany Centers Suite 701 Jimeneztown, WA 30493",
+        "company_name": "Tucker-Fields",
+        "email": "wlittle@example.org",
+        "name": "Stephanie Cunningham",
+        "phone": "(565)805-0630x65836"
+    },
+    "invoice": {
+        "date": "11.11.2014",
+        "due_date": "24.10.2023",
+        "number": "reN54010229074"
+    },
+    "payment": {
+        "account_number": 8520077588,
+        "bank_name": "White LLC",
+        "routing_number": 224126943
+    },
+    "products": [
+        {
+            "amount": 18.36,
+            "description": "e-enable cutting-edge paradigms",
+            "index": "2",
+            "quantity": 6.94,
+            "unit_price": 81.35
+        },
+        {
+            "amount": 35.91,
+            "description": "enable sticky web services",
+            "index": "5",
+            "quantity": 9.32,
+            "unit_price": 53.31
+        },
+        {
+            "amount": 247.47,
+            "description": "evolve 24/365 architectures",
+            "index": "9",
+            "quantity": 6.96,
+            "unit_price": 36.54
+        },
+        {
+            "amount": 337.66,
+            "description": "revolutionize sticky web-readiness",
+            "index": "1",
+            "quantity": 1.14,
+            "unit_price": 59.51
+        },
+        {
+            "amount": 291.79,
+            "description": "incubate enterprise experiences",
+            "index": "4",
+            "quantity": 6.82,
+            "unit_price": 34.37
+        }
+    ],
+    "seller": {
+        "address": "5286 Laura Pines Suite 522 North Amyborough, TX 30753",
+        "company_name": "Daniel Ltd",
+        "email": "crawfordjennifer@example.net"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "611 Jones Fords Apt. 741 East Katherinechester, RI 09113",
+        "id": "gI242"
+    },
+    "invoice": {
+        "bc_no": "bA61125",
+        "currency_code": "SBD",
+        "date": "13.06.1994",
+        "due_date": "22.08.2017",
+        "number": 853257
+    },
+    "payment": {
+        "bank_name": "Anderson PLC",
+        "bic": "DGJVGBUFGK5",
+        "iban": "KHMR11978850593185"
+    },
+    "products": [
+        {
+            "amount": 318.37,
+            "description": "orchestrate strategic synergies",
+            "index": "1",
+            "price": 149.94,
+            "quantity": 7.15,
+            "tax_amount": 49.92,
+            "total_ttc": 315.08,
+            "vat_amount": 1.11
+        },
+        {
+            "amount": 323.82,
+            "description": "aggregate virtual portals",
+            "index": "6",
+            "price": 499.86,
+            "quantity": 7.84,
+            "tax_amount": 18.9,
+            "total_ttc": 331.82,
+            "vat_amount": 2.95
+        },
+        {
+            "amount": 195.66,
+            "description": "syndicate user-centric niches",
+            "index": "1",
+            "price": 234.2,
+            "quantity": 6.27,
+            "tax_amount": 82.81,
+            "total_ttc": 221.43,
+            "vat_amount": 1.29
+        },
+        {
+            "amount": 101.99,
+            "description": "harness strategic e-commerce",
+            "index": "1",
+            "price": 395.66,
+            "quantity": 3.99,
+            "tax_amount": 50.72,
+            "total_ttc": 195.57,
+            "vat_amount": 1.53
+        },
+        {
+            "amount": 50.82,
+            "description": "unleash back-end e-services",
+            "index": "1",
+            "price": 34.53,
+            "quantity": 5.29,
+            "tax_amount": 31.99,
+            "total_ttc": 193.23,
+            "vat_amount": 0.83
+        }
+    ],
+    "seller": {
+        "name": "Tanya Ashley"
+    },
+    "supplier": {
+        "address": "792 Harvey Roads Port Johnberg, ME 10728",
+        "name": "Joseph Fuller"
+    },
+    "tax": {
+        "amount_excluding_tax": 132.49,
+        "amount_including_tax": 155.01,
+        "tax_amount": 14.23,
+        "total_ht": 243.0,
+        "total_ttc": 277.04
+    }
+}

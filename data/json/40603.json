@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "25962 Johnson Throughway Lake Haley, NE 77986"
+    },
+    "invoice": {
+        "bc_no": "Kq07400",
+        "date": "10.10.2011",
+        "maturity_date": "04.06.1998",
+        "number": 477917
+    },
+    "products": [
+        {
+            "amount": 391.17,
+            "description": "benchmark magnetic markets",
+            "quantity": 6.66,
+            "unit_price": 22.71,
+            "vat_amount": 4.42
+        },
+        {
+            "amount": 43.53,
+            "description": "leverage enterprise partnerships",
+            "quantity": 2.78,
+            "unit_price": 28.38,
+            "vat_amount": 1.52
+        }
+    ],
+    "seller": {
+        "address": "6294 Bonnie Landing Suite 677 Ortizstad, MS 66556"
+    },
+    "tax": {
+        "amount_excluding_tax": 182.2,
+        "amount_including_tax": 191.4,
+        "tax_amount": 20.79
+    }
+}

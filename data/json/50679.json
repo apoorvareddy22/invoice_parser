@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "PSC 8069, Box 1669 APO AP 58436",
+        "id": "Kb614"
+    },
+    "invoice": {
+        "bc_no": "Cw73766",
+        "currency_code": "UGX",
+        "date": "17.11.1995",
+        "due_date": "15.03.2015",
+        "number": 261485
+    },
+    "payment": {
+        "bank_name": "Stone LLC",
+        "bic": "UQXTGB6J",
+        "iban": "CIHU92450467620307"
+    },
+    "products": [
+        {
+            "amount": 143.12,
+            "description": "deploy B2C convergence",
+            "index": "3",
+            "price": 396.57,
+            "quantity": 7.97,
+            "tax_amount": 29.17,
+            "total_ttc": 119.7,
+            "vat_amount": 1.58
+        },
+        {
+            "amount": 400.03,
+            "description": "grow front-end synergies",
+            "index": "9",
+            "price": 72.62,
+            "quantity": 5.55,
+            "tax_amount": 79.14,
+            "total_ttc": 381.31,
+            "vat_amount": 6.52
+        },
+        {
+            "amount": 296.09,
+            "description": "exploit clicks-and-mortar e-commerce",
+            "index": "3",
+            "price": 231.96,
+            "quantity": 9.92,
+            "tax_amount": 73.64,
+            "total_ttc": 476.65,
+            "vat_amount": 4.99
+        },
+        {
+            "amount": 438.55,
+            "description": "target world-class partnerships",
+            "index": "4",
+            "price": 75.71,
+            "quantity": 2.58,
+            "tax_amount": 33.91,
+            "total_ttc": 104.06,
+            "vat_amount": 0.61
+        },
+        {
+            "amount": 321.6,
+            "description": "streamline transparent systems",
+            "index": "8",
+            "price": 373.14,
+            "quantity": 2.98,
+            "tax_amount": 92.82,
+            "total_ttc": 393.66,
+            "vat_amount": 5.78
+        },
+        {
+            "amount": 132.61,
+            "description": "deploy seamless eyeballs",
+            "index": "9",
+            "price": 157.01,
+            "quantity": 9.55,
+            "tax_amount": 68.09,
+            "total_ttc": 280.62,
+            "vat_amount": 5.81
+        }
+    ],
+    "seller": {
+        "name": "Jacob Rogers"
+    },
+    "supplier": {
+        "address": "5028 James Row Lindaview, NE 36934",
+        "name": "Charles Hunter"
+    },
+    "tax": {
+        "amount_excluding_tax": 74.8,
+        "amount_including_tax": 107.84,
+        "tax_amount": 26.39,
+        "total_ht": 110.93,
+        "total_ttc": 468.36
+    }
+}

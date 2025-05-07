@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "31493 Sean Highway Suite 379 Amberstad, HI 95911",
+        "company_name": "Smith Group",
+        "country": "Greece",
+        "name": "Michelle Coffey"
+    },
+    "invoice": {
+        "date": "19.10.2010",
+        "number": 874268
+    },
+    "payment": {
+        "discount_amount": 31.38,
+        "discount_percentage": 10.54,
+        "due": 107.77,
+        "sub_total": 170.58,
+        "total": 890.54
+    },
+    "products": [
+        {
+            "description": "extend open-source partnerships",
+            "index": "5",
+            "quantity": 8.35,
+            "total_price": 342.98,
+            "unit_price": 55.82
+        },
+        {
+            "description": "integrate intuitive paradigms",
+            "index": "1",
+            "quantity": 7.88,
+            "total_price": 497.48,
+            "unit_price": 77.31
+        }
+    ],
+    "seller": {
+        "address": "450 Jennifer Glen Princestad, WI 50409",
+        "company_name": "Hughes-Lewis",
+        "vat_no": "Mt16305286304"
+    }
+}

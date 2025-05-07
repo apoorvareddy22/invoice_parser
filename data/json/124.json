@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "9624 Moore Crossroad Suite 643 Port Alexisfurt, MS 58231",
+        "company_name": "Wilkins, King and Lopez",
+        "country": "Norway",
+        "name": "Brian Robinson"
+    },
+    "invoice": {
+        "date": "27.05.1990",
+        "number": 897278
+    },
+    "payment": {
+        "discount_amount": 42.4,
+        "discount_percentage": 12.97,
+        "due": 24.77,
+        "sub_total": 150.8,
+        "total": 561.96
+    },
+    "products": [
+        {
+            "description": "leverage extensible users",
+            "index": "3",
+            "quantity": 4.54,
+            "total_price": 667.04,
+            "unit_price": 62.34
+        },
+        {
+            "description": "transform turn-key bandwidth",
+            "index": "5",
+            "quantity": 7.16,
+            "total_price": 625.18,
+            "unit_price": 66.5
+        }
+    ],
+    "seller": {
+        "address": "939 Joseph Roads West Christinaside, AL 56774",
+        "company_name": "Miller-Mendez",
+        "vat_no": "De72359816160"
+    }
+}

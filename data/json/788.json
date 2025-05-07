@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "PSC 6752, Box 4117 APO AP 99195",
+        "company_name": "Hernandez PLC",
+        "country": "Finland",
+        "name": "William Williams"
+    },
+    "invoice": {
+        "date": "04.05.2011",
+        "number": 962223
+    },
+    "payment": {
+        "discount_amount": 28.67,
+        "discount_percentage": 17.54,
+        "due": 182.55,
+        "sub_total": 78.97,
+        "total": 107.9
+    },
+    "products": [
+        {
+            "description": "leverage strategic applications",
+            "index": "6",
+            "quantity": 7.33,
+            "total_price": 432.71,
+            "unit_price": 34.97
+        },
+        {
+            "description": "benchmark best-of-breed channels",
+            "index": "6",
+            "quantity": 2.22,
+            "total_price": 67.62,
+            "unit_price": 45.79
+        }
+    ],
+    "seller": {
+        "address": "987 Hurst Light Suite 975 Port Jacqueline, FM 64613",
+        "company_name": "Mays and Sons",
+        "vat_no": "Wz25283058173"
+    }
+}

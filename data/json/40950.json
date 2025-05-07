@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "9370 Richard Lock Port Tracey, UT 53125"
+    },
+    "invoice": {
+        "bc_no": "Am66786",
+        "date": "15.04.2020",
+        "maturity_date": "28.10.2018",
+        "number": 849741
+    },
+    "products": [
+        {
+            "amount": 248.01,
+            "description": "implement integrated metrics",
+            "quantity": 4.8,
+            "unit_price": 50.34,
+            "vat_amount": 4.14
+        },
+        {
+            "amount": 159.82,
+            "description": "cultivate distributed ROI",
+            "quantity": 2.57,
+            "unit_price": 89.84,
+            "vat_amount": 1.63
+        }
+    ],
+    "seller": {
+        "address": "584 Norris Skyway Apt. 228 Savannahfurt, ND 42383"
+    },
+    "tax": {
+        "amount_excluding_tax": 43.82,
+        "amount_including_tax": 58.24,
+        "tax_amount": 22.77
+    }
+}

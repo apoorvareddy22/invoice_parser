@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "7450 Ryan Valley East Debrastad, TN 76060",
+        "id": "SN315"
+    },
+    "invoice": {
+        "bc_no": "Lo60570",
+        "currency_code": "ILS",
+        "date": "28.01.1999",
+        "due_date": "16.01.2019",
+        "number": 729937
+    },
+    "payment": {
+        "bank_name": "Perkins-Washington",
+        "bic": "IJEZGBGDA32",
+        "iban": "GHVD38557597316919"
+    },
+    "products": [
+        {
+            "amount": 357.8,
+            "description": "productize ubiquitous ROI",
+            "index": "5",
+            "price": 472.04,
+            "quantity": 8.12,
+            "tax_amount": 28.59,
+            "total_ttc": 193.66,
+            "vat_amount": 5.67
+        },
+        {
+            "amount": 143.18,
+            "description": "re-contextualize 24/7 systems",
+            "index": "4",
+            "price": 76.91,
+            "quantity": 3.78,
+            "tax_amount": 31.93,
+            "total_ttc": 126.83,
+            "vat_amount": 2.4
+        },
+        {
+            "amount": 62.39,
+            "description": "extend cutting-edge experiences",
+            "index": "4",
+            "price": 329.72,
+            "quantity": 4.43,
+            "tax_amount": 58.75,
+            "total_ttc": 497.53,
+            "vat_amount": 13.65
+        },
+        {
+            "amount": 427.33,
+            "description": "iterate intuitive relationships",
+            "index": "9",
+            "price": 65.08,
+            "quantity": 9.35,
+            "tax_amount": 89.5,
+            "total_ttc": 227.27,
+            "vat_amount": 9.79
+        },
+        {
+            "amount": 191.78,
+            "description": "implement extensible relationships",
+            "index": "7",
+            "price": 22.32,
+            "quantity": 1.79,
+            "tax_amount": 34.41,
+            "total_ttc": 199.54,
+            "vat_amount": 5.2
+        },
+        {
+            "amount": 493.55,
+            "description": "evolve 24/365 niches",
+            "index": "3",
+            "price": 427.64,
+            "quantity": 3.16,
+            "tax_amount": 32.43,
+            "total_ttc": 391.11,
+            "vat_amount": 9.4
+        },
+        {
+            "amount": 116.36,
+            "description": "iterate customized e-tailers",
+            "index": "9",
+            "price": 55.31,
+            "quantity": 4.45,
+            "tax_amount": 30.95,
+            "total_ttc": 359.76,
+            "vat_amount": 3.63
+        }
+    ],
+    "seller": {
+        "name": "Lucas Gonzalez"
+    },
+    "supplier": {
+        "address": "3960 Joseph Court Apt. 260 Karenfurt, GA 64667",
+        "name": "Catherine Rodriguez"
+    },
+    "tax": {
+        "amount_excluding_tax": 155.62,
+        "amount_including_tax": 106.17,
+        "tax_amount": 20.21,
+        "total_ht": 295.98,
+        "total_ttc": 117.62
+    }
+}

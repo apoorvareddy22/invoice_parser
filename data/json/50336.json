@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "362 Robert Union Apt. 132 Caseyton, NJ 28712",
+        "id": "UN151"
+    },
+    "invoice": {
+        "bc_no": "JE13779",
+        "currency_code": "BWP",
+        "date": "07.03.2007",
+        "due_date": "19.11.1997",
+        "number": 618030
+    },
+    "payment": {
+        "bank_name": "Watkins-Martinez",
+        "bic": "YQMTGB3ZQMN",
+        "iban": "TFFU55509937851597"
+    },
+    "products": [
+        {
+            "amount": 275.12,
+            "description": "engineer best-of-breed portals",
+            "index": "6",
+            "price": 158.69,
+            "quantity": 4.6,
+            "tax_amount": 43.66,
+            "total_ttc": 417.43,
+            "vat_amount": 3.47
+        }
+    ],
+    "seller": {
+        "name": "Natasha Collins"
+    },
+    "supplier": {
+        "address": "76414 Smith Forges Thomashaven, UT 73928",
+        "name": "David Sanchez"
+    },
+    "tax": {
+        "amount_excluding_tax": 139.77,
+        "amount_including_tax": 163.41,
+        "tax_amount": 29.13,
+        "total_ht": 483.9,
+        "total_ttc": 220.84
+    }
+}

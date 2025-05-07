@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "PSC 9242, Box 2866 APO AP 51285",
+        "email": "thomasmitchell@example.com",
+        "phone": "001-542-273-3526x9944",
+        "vat_no": "HB31477069090"
+    },
+    "invoice": {
+        "date": "19.03.1996",
+        "due_date": "03.04.2006",
+        "market_reference": 617113,
+        "notes": "evolve 24/7 e-services",
+        "number": "8884-3092",
+        "reference": 455135,
+        "vat_no": "Ct37941455855"
+    },
+    "payment": {
+        "net_total": 164.81,
+        "total": 912.25
+    },
+    "products": [
+        {
+            "amount": 317.19,
+            "description": "repurpose B2C experiences",
+            "hours": 8.14,
+            "rate": 8.91
+        },
+        {
+            "amount": 311.47,
+            "description": "expedite back-end technologies",
+            "hours": 9.91,
+            "rate": 1.14
+        },
+        {
+            "amount": 68.54,
+            "description": "e-enable virtual systems",
+            "hours": 6.91,
+            "rate": 8.45
+        }
+    ],
+    "seller": {
+        "address": "2874 York Burg Andrewfort, NJ 01542",
+        "email": "rodgersvicki@example.org",
+        "name": "Elizabeth Taylor"
+    },
+    "tax": {
+        "base": 11.6,
+        "tax_amount": 16.88,
+        "total_tax": 16.8
+    }
+}

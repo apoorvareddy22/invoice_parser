@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "0118 Joseph Vista Apt. 161 Briggsbury, SC 12825",
+        "id": "VR158"
+    },
+    "invoice": {
+        "bc_no": "kW55131",
+        "currency_code": "XDR",
+        "date": "03.05.2007",
+        "due_date": "30.09.2021",
+        "number": 764064
+    },
+    "payment": {
+        "bank_name": "Compton and Sons",
+        "bic": "WMVTGBAMW82",
+        "iban": "MDBO92162508482179"
+    },
+    "products": [
+        {
+            "amount": 470.76,
+            "description": "brand magnetic portals",
+            "index": "10",
+            "price": 353.2,
+            "quantity": 5.71,
+            "tax_amount": 45.28,
+            "total_ttc": 487.4,
+            "vat_amount": 2.93
+        },
+        {
+            "amount": 78.53,
+            "description": "leverage ubiquitous functionalities",
+            "index": "5",
+            "price": 259.98,
+            "quantity": 9.78,
+            "tax_amount": 36.71,
+            "total_ttc": 113.76,
+            "vat_amount": 0.23
+        }
+    ],
+    "seller": {
+        "name": "Brandi Gonzales"
+    },
+    "supplier": {
+        "address": "PSC 7245, Box 4982 APO AP 36580",
+        "name": "Susan Ortiz"
+    },
+    "tax": {
+        "amount_excluding_tax": 79.03,
+        "amount_including_tax": 128.39,
+        "tax_amount": 10.13,
+        "total_ht": 351.39,
+        "total_ttc": 436.28
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "9891 Norris Rapids Apt. 729 Kathrynview, WI 43619",
+        "business_no": "CT222",
+        "id": "Me209"
+    },
+    "invoice": {
+        "date": "21.03.2023",
+        "number": "0399-6349"
+    },
+    "payment": {
+        "due_date": "08.11.2000",
+        "total": 744.33
+    },
+    "products": [
+        {
+            "amount": 93.05,
+            "description": "unleash impactful architectures",
+            "quantity": 1.98,
+            "reference": "ir-516",
+            "unit_price": 29.17
+        },
+        {
+            "amount": 148.62,
+            "description": "expedite synergistic bandwidth",
+            "quantity": 8.3,
+            "reference": "LD-560",
+            "unit_price": 88.9
+        },
+        {
+            "amount": 67.91,
+            "description": "enable extensible e-services",
+            "quantity": 8.27,
+            "reference": "wn-809",
+            "unit_price": 64.42
+        },
+        {
+            "amount": 289.09,
+            "description": "seize cross-platform supply-chains",
+            "quantity": 4.77,
+            "reference": "VX-712",
+            "unit_price": 68.56
+        }
+    ],
+    "seller": {
+        "address": "05204 Sherri Bridge Apt. 175 West Kevin, RI 92279"
+    },
+    "tax": {
+        "base_ht": 258.89,
+        "regulations": 14.57,
+        "total_ht": 280.46,
+        "vat_amount": 71.95,
+        "vat_percentage": 19.85
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "43533 Barbara Oval Andrewfurt, MO 79704",
+        "business_no": "Ky602",
+        "id": "ec731"
+    },
+    "invoice": {
+        "date": "01.04.2019",
+        "number": "8662-8059"
+    },
+    "payment": {
+        "due_date": "01.07.2005",
+        "total": 103.91
+    },
+    "products": [
+        {
+            "amount": 28.93,
+            "description": "reinvent innovative synergies",
+            "quantity": 6.39,
+            "reference": "DT-753",
+            "unit_price": 74.21
+        },
+        {
+            "amount": 230.86,
+            "description": "incubate mission-critical ROI",
+            "quantity": 9.96,
+            "reference": "ao-795",
+            "unit_price": 18.42
+        },
+        {
+            "amount": 66.3,
+            "description": "envisioneer world-class schemas",
+            "quantity": 8.67,
+            "reference": "kE-064",
+            "unit_price": 62.61
+        },
+        {
+            "amount": 34.67,
+            "description": "monetize clicks-and-mortar models",
+            "quantity": 1.6,
+            "reference": "Lo-955",
+            "unit_price": 96.54
+        },
+        {
+            "amount": 311.47,
+            "description": "enhance bricks-and-clicks infrastructures",
+            "quantity": 8.04,
+            "reference": "SH-706",
+            "unit_price": 59.07
+        }
+    ],
+    "seller": {
+        "address": "472 Nguyen Terrace New Nicole, VA 42127"
+    },
+    "tax": {
+        "base_ht": 219.55,
+        "regulations": 19.38,
+        "total_ht": 298.93,
+        "vat_amount": 142.65,
+        "vat_percentage": 13.45
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "Unit 6028 Box 1685 DPO AE 85938",
+        "id": "HW920"
+    },
+    "invoice": {
+        "bc_no": "mL01437",
+        "currency_code": "PLN",
+        "date": "23.10.1994",
+        "due_date": "11.02.2002",
+        "number": 545282
+    },
+    "payment": {
+        "bank_name": "Long LLC",
+        "bic": "BAIEGBNQ",
+        "iban": "GCAO25476506348395"
+    },
+    "products": [
+        {
+            "amount": 70.52,
+            "description": "cultivate revolutionary e-markets",
+            "index": "3",
+            "price": 266.24,
+            "quantity": 6.18,
+            "tax_amount": 12.98,
+            "total_ttc": 433.0,
+            "vat_amount": 4.54
+        }
+    ],
+    "seller": {
+        "name": "David Walker"
+    },
+    "supplier": {
+        "address": "9940 Evans Crescent Suite 717 West Tina, AZ 14873",
+        "name": "Jordan Willis"
+    },
+    "tax": {
+        "amount_excluding_tax": 133.64,
+        "amount_including_tax": 29.05,
+        "tax_amount": 19.42,
+        "total_ht": 391.37,
+        "total_ttc": 481.49
+    }
+}

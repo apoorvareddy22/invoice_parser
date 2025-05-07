@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "61710 Orozco Stravenue Suite 791 Michellebury, AL 93198",
+        "business_no": "hG560",
+        "id": "Td291"
+    },
+    "invoice": {
+        "date": "23.10.2020",
+        "number": "7941-0346"
+    },
+    "payment": {
+        "due_date": "22.01.2020",
+        "total": 738.97
+    },
+    "products": [
+        {
+            "amount": 367.96,
+            "description": "aggregate collaborative technologies",
+            "quantity": 4.68,
+            "reference": "mz-246",
+            "unit_price": 33.0
+        },
+        {
+            "amount": 98.95,
+            "description": "engage virtual partnerships",
+            "quantity": 8.2,
+            "reference": "wP-547",
+            "unit_price": 29.51
+        }
+    ],
+    "seller": {
+        "address": "530 Joshua Walk Suite 214 Katherineshire, RI 65661"
+    },
+    "tax": {
+        "base_ht": 306.78,
+        "regulations": 16.86,
+        "total_ht": 253.49,
+        "vat_amount": 133.96,
+        "vat_percentage": 17.69
+    }
+}

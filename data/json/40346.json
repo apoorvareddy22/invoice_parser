@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "49128 Bryan Skyway Suite 280 North Jenniferville, DC 99901"
+    },
+    "invoice": {
+        "bc_no": "wN96872",
+        "date": "12.04.2020",
+        "maturity_date": "09.12.1996",
+        "number": 550852
+    },
+    "products": [
+        {
+            "amount": 483.11,
+            "description": "target robust content",
+            "quantity": 6.56,
+            "unit_price": 68.9,
+            "vat_amount": 7.0
+        },
+        {
+            "amount": 186.01,
+            "description": "extend strategic users",
+            "quantity": 8.25,
+            "unit_price": 94.5,
+            "vat_amount": 0.3
+        },
+        {
+            "amount": 177.42,
+            "description": "evolve proactive models",
+            "quantity": 7.5,
+            "unit_price": 24.97,
+            "vat_amount": 7.78
+        },
+        {
+            "amount": 294.21,
+            "description": "engineer revolutionary web-readiness",
+            "quantity": 7.85,
+            "unit_price": 65.3,
+            "vat_amount": 4.96
+        },
+        {
+            "amount": 37.8,
+            "description": "brand world-class ROI",
+            "quantity": 1.68,
+            "unit_price": 31.74,
+            "vat_amount": 2.32
+        },
+        {
+            "amount": 129.95,
+            "description": "embrace vertical e-commerce",
+            "quantity": 2.4,
+            "unit_price": 58.9,
+            "vat_amount": 5.32
+        }
+    ],
+    "seller": {
+        "address": "60714 Clark Parkway Apt. 213 New Ryanshire, ID 39102"
+    },
+    "tax": {
+        "amount_excluding_tax": 166.78,
+        "amount_including_tax": 155.96,
+        "tax_amount": 12.46
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "17473 Jacob Isle Suite 492 East Richard, HI 08407",
+        "email": "darlene84@example.org",
+        "phone": "(982)401-3443x523",
+        "vat_no": "dh86116929590"
+    },
+    "invoice": {
+        "date": "21.12.2002",
+        "due_date": "15.02.2009",
+        "market_reference": 177019,
+        "notes": "aggregate granular infrastructures",
+        "number": "9420-1125",
+        "reference": 142821,
+        "vat_no": "QH11165756977"
+    },
+    "payment": {
+        "net_total": 88.32,
+        "total": 791.33
+    },
+    "products": [
+        {
+            "amount": 196.0,
+            "description": "morph web-enabled supply-chains",
+            "hours": 1.31,
+            "rate": 5.03
+        },
+        {
+            "amount": 253.8,
+            "description": "transform magnetic networks",
+            "hours": 3.42,
+            "rate": 6.45
+        }
+    ],
+    "seller": {
+        "address": "98027 Gabriel Junction Longhaven, MA 74840",
+        "email": "sperry@example.org",
+        "name": "Heather Lloyd"
+    },
+    "tax": {
+        "base": 22.86,
+        "tax_amount": 14.82,
+        "total_tax": 14.7
+    }
+}

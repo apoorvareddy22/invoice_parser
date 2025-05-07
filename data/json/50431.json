@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "37491 Bernard Bridge Mannberg, OH 01011",
+        "id": "Rx882"
+    },
+    "invoice": {
+        "bc_no": "WG01783",
+        "currency_code": "GNF",
+        "date": "30.01.2019",
+        "due_date": "04.06.2012",
+        "number": 134392
+    },
+    "payment": {
+        "bank_name": "Price, Baker and Jones",
+        "bic": "KSWQGBFB",
+        "iban": "SWKR58400418054344"
+    },
+    "products": [
+        {
+            "amount": 268.94,
+            "description": "e-enable 24/365 mindshare",
+            "index": "9",
+            "price": 194.17,
+            "quantity": 7.47,
+            "tax_amount": 34.08,
+            "total_ttc": 364.44,
+            "vat_amount": 5.89
+        },
+        {
+            "amount": 421.61,
+            "description": "extend integrated vortals",
+            "index": "3",
+            "price": 278.86,
+            "quantity": 5.84,
+            "tax_amount": 55.6,
+            "total_ttc": 487.08,
+            "vat_amount": 1.79
+        },
+        {
+            "amount": 220.88,
+            "description": "incubate impactful users",
+            "index": "1",
+            "price": 140.34,
+            "quantity": 6.79,
+            "tax_amount": 92.67,
+            "total_ttc": 309.48,
+            "vat_amount": 13.92
+        },
+        {
+            "amount": 467.52,
+            "description": "evolve dot-com models",
+            "index": "10",
+            "price": 18.45,
+            "quantity": 4.25,
+            "tax_amount": 24.52,
+            "total_ttc": 462.12,
+            "vat_amount": 2.17
+        },
+        {
+            "amount": 73.4,
+            "description": "engineer visionary e-business",
+            "index": "7",
+            "price": 120.2,
+            "quantity": 2.35,
+            "tax_amount": 42.32,
+            "total_ttc": 172.21,
+            "vat_amount": 2.38
+        }
+    ],
+    "seller": {
+        "name": "Kelly Horne"
+    },
+    "supplier": {
+        "address": "729 Timothy Rue Apt. 482 East Melissa, WA 85350",
+        "name": "Christopher Herrera"
+    },
+    "tax": {
+        "amount_excluding_tax": 158.58,
+        "amount_including_tax": 64.24,
+        "tax_amount": 12.41,
+        "total_ht": 313.6,
+        "total_ttc": 437.19
+    }
+}

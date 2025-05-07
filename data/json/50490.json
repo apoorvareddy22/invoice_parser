@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "866 Stevenson Harbor West Karaton, IL 49418",
+        "id": "xV642"
+    },
+    "invoice": {
+        "bc_no": "va87294",
+        "currency_code": "AZN",
+        "date": "02.11.1997",
+        "due_date": "20.02.2023",
+        "number": 672786
+    },
+    "payment": {
+        "bank_name": "Burns, Morris and Todd",
+        "bic": "XFVIGBSJ",
+        "iban": "PDFM06677010785792"
+    },
+    "products": [
+        {
+            "amount": 357.33,
+            "description": "architect granular deliverables",
+            "index": "2",
+            "price": 160.78,
+            "quantity": 8.16,
+            "tax_amount": 54.78,
+            "total_ttc": 264.2,
+            "vat_amount": 7.61
+        },
+        {
+            "amount": 37.48,
+            "description": "integrate best-of-breed e-business",
+            "index": "3",
+            "price": 301.92,
+            "quantity": 8.17,
+            "tax_amount": 82.27,
+            "total_ttc": 325.74,
+            "vat_amount": 7.21
+        }
+    ],
+    "seller": {
+        "name": "Colleen Young"
+    },
+    "supplier": {
+        "address": "9568 Gerald Ridge Suite 477 Marymouth, VI 50145",
+        "name": "Shannon Miller"
+    },
+    "tax": {
+        "amount_excluding_tax": 175.55,
+        "amount_including_tax": 104.99,
+        "tax_amount": 26.16,
+        "total_ht": 145.54,
+        "total_ttc": 174.7
+    }
+}

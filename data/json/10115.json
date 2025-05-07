@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "61577 Mccormick Cliff West Samuel, MS 46618",
+        "email": "ngates@example.org",
+        "phone": "(958)411-5461",
+        "vat_no": "ur31825053912"
+    },
+    "invoice": {
+        "date": "25.11.2001",
+        "due_date": "01.10.2008",
+        "market_reference": 357920,
+        "notes": "synthesize customized experiences",
+        "number": "1952-1779",
+        "reference": 991834,
+        "vat_no": "Bg74958478275"
+    },
+    "payment": {
+        "net_total": 43.55,
+        "total": 487.84
+    },
+    "products": [
+        {
+            "amount": 247.94,
+            "description": "brand rich eyeballs",
+            "hours": 6.05,
+            "rate": 3.52
+        },
+        {
+            "amount": 379.95,
+            "description": "exploit collaborative web services",
+            "hours": 4.78,
+            "rate": 1.13
+        },
+        {
+            "amount": 107.4,
+            "description": "synergize global users",
+            "hours": 3.51,
+            "rate": 2.42
+        },
+        {
+            "amount": 16.99,
+            "description": "implement end-to-end web services",
+            "hours": 5.77,
+            "rate": 9.21
+        }
+    ],
+    "seller": {
+        "address": "93785 Warner Burgs Apt. 703 Delgadoburgh, SD 40557",
+        "email": "lauren93@example.net",
+        "name": "William Lopez"
+    },
+    "tax": {
+        "base": 18.25,
+        "tax_amount": 29.07,
+        "total_tax": 23.09
+    }
+}

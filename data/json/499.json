@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "054 Tasha Ports Apt. 062 South Teresa, PA 06926",
+        "company_name": "Stephens, Ramos and Hall",
+        "country": "Marshall Islands",
+        "name": "Steven Cox"
+    },
+    "invoice": {
+        "date": "13.02.2005",
+        "number": 926567
+    },
+    "payment": {
+        "discount_amount": 29.05,
+        "discount_percentage": 16.34,
+        "due": 57.99,
+        "sub_total": 142.34,
+        "total": 111.36
+    },
+    "products": [
+        {
+            "description": "e-enable turn-key experiences",
+            "index": "4",
+            "quantity": 6.58,
+            "total_price": 850.41,
+            "unit_price": 53.93
+        },
+        {
+            "description": "leverage one-to-one communities",
+            "index": "1",
+            "quantity": 3.76,
+            "total_price": 864.52,
+            "unit_price": 94.85
+        },
+        {
+            "description": "drive cross-media infrastructures",
+            "index": "4",
+            "quantity": 6.44,
+            "total_price": 833.78,
+            "unit_price": 88.8
+        }
+    ],
+    "seller": {
+        "address": "9007 Denise Village Apt. 215 Loganmouth, PW 04736",
+        "company_name": "Jones LLC",
+        "vat_no": "YP12499047223"
+    }
+}

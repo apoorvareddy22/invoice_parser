@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "34223 Kevin Drive Suite 348 Adambury, NH 43969",
+        "company_name": "Conner, Lawrence and Jones",
+        "country": "Tunisia",
+        "name": "Brenda Mathis"
+    },
+    "invoice": {
+        "date": "03.03.1996",
+        "number": 265662
+    },
+    "payment": {
+        "discount_amount": 20.11,
+        "discount_percentage": 9.74,
+        "due": 108.62,
+        "sub_total": 69.5,
+        "total": 871.97
+    },
+    "products": [
+        {
+            "description": "revolutionize proactive e-markets",
+            "index": "8",
+            "quantity": 3.77,
+            "total_price": 372.72,
+            "unit_price": 18.28
+        },
+        {
+            "description": "aggregate next-generation e-commerce",
+            "index": "1",
+            "quantity": 6.35,
+            "total_price": 566.77,
+            "unit_price": 79.88
+        },
+        {
+            "description": "syndicate innovative portals",
+            "index": "10",
+            "quantity": 9.48,
+            "total_price": 768.69,
+            "unit_price": 23.88
+        },
+        {
+            "description": "deploy revolutionary eyeballs",
+            "index": "8",
+            "quantity": 3.67,
+            "total_price": 681.08,
+            "unit_price": 37.18
+        }
+    ],
+    "seller": {
+        "address": "8060 Baxter Run Andersonchester, VA 87191",
+        "company_name": "Oneill-Davis",
+        "vat_no": "Nn07127968060"
+    }
+}

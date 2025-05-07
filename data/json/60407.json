@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "774 Rhonda Centers Suite 544 Margaretton, CA 16294",
+        "business_no": "DA354",
+        "id": "Ue938"
+    },
+    "invoice": {
+        "date": "29.06.2011",
+        "number": "5461-1115"
+    },
+    "payment": {
+        "due_date": "28.10.1999",
+        "total": 489.81
+    },
+    "products": [
+        {
+            "amount": 396.54,
+            "description": "leverage 24/365 functionalities",
+            "quantity": 5.83,
+            "reference": "oG-817",
+            "unit_price": 84.73
+        },
+        {
+            "amount": 247.07,
+            "description": "mesh front-end technologies",
+            "quantity": 7.19,
+            "reference": "QA-674",
+            "unit_price": 16.47
+        },
+        {
+            "amount": 369.67,
+            "description": "orchestrate leading-edge web services",
+            "quantity": 6.55,
+            "reference": "MQ-193",
+            "unit_price": 10.28
+        },
+        {
+            "amount": 172.52,
+            "description": "orchestrate intuitive networks",
+            "quantity": 4.05,
+            "reference": "dF-649",
+            "unit_price": 33.65
+        },
+        {
+            "amount": 36.5,
+            "description": "envisioneer 24/7 users",
+            "quantity": 5.47,
+            "reference": "Fk-179",
+            "unit_price": 76.63
+        }
+    ],
+    "seller": {
+        "address": "PSC 9571, Box 2821 APO AP 41707"
+    },
+    "tax": {
+        "base_ht": 280.53,
+        "regulations": 20.07,
+        "total_ht": 496.54,
+        "vat_amount": 170.6,
+        "vat_percentage": 20.02
+    }
+}

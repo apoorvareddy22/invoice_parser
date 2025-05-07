@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "15826 Stephanie Hills Apt. 547 Holmesland, HI 28889",
+        "email": "monicabaldwin@example.org",
+        "phone": "4154551415",
+        "vat_no": "pV19851214479"
+    },
+    "invoice": {
+        "date": "21.01.2021",
+        "due_date": "18.02.2022",
+        "market_reference": 316481,
+        "notes": "e-enable interactive channels",
+        "number": "9219-4633",
+        "reference": 973878,
+        "vat_no": "ju67377427399"
+    },
+    "payment": {
+        "net_total": 156.89,
+        "total": 133.49
+    },
+    "products": [
+        {
+            "amount": 216.39,
+            "description": "leverage next-generation info-mediaries",
+            "hours": 9.65,
+            "rate": 4.09
+        },
+        {
+            "amount": 371.78,
+            "description": "transform vertical e-business",
+            "hours": 2.41,
+            "rate": 3.98
+        },
+        {
+            "amount": 320.11,
+            "description": "morph value-added users",
+            "hours": 5.86,
+            "rate": 4.42
+        },
+        {
+            "amount": 240.13,
+            "description": "matrix magnetic synergies",
+            "hours": 4.68,
+            "rate": 5.7
+        },
+        {
+            "amount": 473.55,
+            "description": "redefine visionary eyeballs",
+            "hours": 3.5,
+            "rate": 6.02
+        },
+        {
+            "amount": 158.77,
+            "description": "empower B2B e-tailers",
+            "hours": 5.96,
+            "rate": 8.8
+        },
+        {
+            "amount": 165.23,
+            "description": "maximize turn-key applications",
+            "hours": 3.59,
+            "rate": 2.4
+        }
+    ],
+    "seller": {
+        "address": "663 Pamela Spurs Apt. 718 Joshuaside, SC 46747",
+        "email": "lisa72@example.org",
+        "name": "Lauren Quinn"
+    },
+    "tax": {
+        "base": 11.84,
+        "tax_amount": 14.39,
+        "total_tax": 15.03
+    }
+}

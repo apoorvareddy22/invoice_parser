@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "838 Maria Forge Williamsberg, SD 25887"
+    },
+    "invoice": {
+        "bc_no": "Hz40042",
+        "date": "21.02.2006",
+        "maturity_date": "16.02.2019",
+        "number": 103750
+    },
+    "products": [
+        {
+            "amount": 283.07,
+            "description": "integrate efficient technologies",
+            "quantity": 1.7,
+            "unit_price": 58.66,
+            "vat_amount": 11.51
+        }
+    ],
+    "seller": {
+        "address": "09192 Kevin Summit Suite 330 Moralesbury, VA 66184"
+    },
+    "tax": {
+        "amount_excluding_tax": 134.9,
+        "amount_including_tax": 125.08,
+        "tax_amount": 14.92
+    }
+}

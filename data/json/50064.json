@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "Unit 0456 Box 1428 DPO AA 96315",
+        "id": "zt268"
+    },
+    "invoice": {
+        "bc_no": "Ee60504",
+        "currency_code": "USD",
+        "date": "14.02.2019",
+        "due_date": "26.03.1998",
+        "number": 248484
+    },
+    "payment": {
+        "bank_name": "Welch Ltd",
+        "bic": "RLAQGB0Y",
+        "iban": "SBQR99545976537008"
+    },
+    "products": [
+        {
+            "amount": 113.02,
+            "description": "evolve extensible info-mediaries",
+            "index": "3",
+            "price": 103.04,
+            "quantity": 2.3,
+            "tax_amount": 20.45,
+            "total_ttc": 354.68,
+            "vat_amount": 8.89
+        },
+        {
+            "amount": 202.62,
+            "description": "enhance transparent metrics",
+            "index": "4",
+            "price": 422.22,
+            "quantity": 2.45,
+            "tax_amount": 47.7,
+            "total_ttc": 149.73,
+            "vat_amount": 0.53
+        },
+        {
+            "amount": 421.64,
+            "description": "drive proactive e-commerce",
+            "index": "5",
+            "price": 326.53,
+            "quantity": 7.39,
+            "tax_amount": 49.21,
+            "total_ttc": 256.41,
+            "vat_amount": 2.75
+        },
+        {
+            "amount": 425.6,
+            "description": "target plug-and-play e-tailers",
+            "index": "5",
+            "price": 312.08,
+            "quantity": 4.7,
+            "tax_amount": 77.37,
+            "total_ttc": 324.86,
+            "vat_amount": 10.96
+        },
+        {
+            "amount": 121.75,
+            "description": "envisioneer e-business experiences",
+            "index": "1",
+            "price": 298.93,
+            "quantity": 7.52,
+            "tax_amount": 81.72,
+            "total_ttc": 289.68,
+            "vat_amount": 11.03
+        },
+        {
+            "amount": 363.63,
+            "description": "iterate cross-platform metrics",
+            "index": "3",
+            "price": 408.22,
+            "quantity": 5.22,
+            "tax_amount": 22.04,
+            "total_ttc": 154.8,
+            "vat_amount": 17.19
+        }
+    ],
+    "seller": {
+        "name": "Monica Spears"
+    },
+    "supplier": {
+        "address": "032 Kathleen Ports Suite 611 Davidfurt, RI 58194",
+        "name": "Zachary Rogers"
+    },
+    "tax": {
+        "amount_excluding_tax": 83.74,
+        "amount_including_tax": 83.25,
+        "tax_amount": 26.65,
+        "total_ht": 233.56,
+        "total_ttc": 179.34
+    }
+}

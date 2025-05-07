@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "USS Berry FPO AA 53750",
+        "business_no": "ry373",
+        "id": "Tb098"
+    },
+    "invoice": {
+        "date": "08.08.1990",
+        "number": "1902-7704"
+    },
+    "payment": {
+        "due_date": "23.08.1994",
+        "total": 412.28
+    },
+    "products": [
+        {
+            "amount": 471.44,
+            "description": "enhance intuitive e-services",
+            "quantity": 3.36,
+            "reference": "oK-528",
+            "unit_price": 36.42
+        },
+        {
+            "amount": 26.83,
+            "description": "harness virtual action-items",
+            "quantity": 2.09,
+            "reference": "UT-552",
+            "unit_price": 93.89
+        },
+        {
+            "amount": 264.69,
+            "description": "incentivize interactive partnerships",
+            "quantity": 7.87,
+            "reference": "dH-257",
+            "unit_price": 71.78
+        },
+        {
+            "amount": 482.02,
+            "description": "incentivize proactive convergence",
+            "quantity": 4.31,
+            "reference": "Bw-957",
+            "unit_price": 90.94
+        },
+        {
+            "amount": 68.77,
+            "description": "redefine extensible interfaces",
+            "quantity": 7.69,
+            "reference": "wt-304",
+            "unit_price": 64.31
+        }
+    ],
+    "seller": {
+        "address": "97829 Matthew Bridge Apt. 495 Christinetown, VT 02373"
+    },
+    "tax": {
+        "base_ht": 135.38,
+        "regulations": 24.59,
+        "total_ht": 209.98,
+        "vat_amount": 126.4,
+        "vat_percentage": 28.89
+    }
+}

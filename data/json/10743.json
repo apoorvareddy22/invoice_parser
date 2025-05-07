@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "524 Moore Throughway Apt. 933 South Charlesside, VA 94772",
+        "email": "wrightgreg@example.net",
+        "phone": "6498630961",
+        "vat_no": "rD10171892742"
+    },
+    "invoice": {
+        "date": "07.05.2001",
+        "due_date": "31.12.2006",
+        "market_reference": 843316,
+        "notes": "matrix virtual models",
+        "number": "0533-7815",
+        "reference": 494190,
+        "vat_no": "jk08369762117"
+    },
+    "payment": {
+        "net_total": 150.78,
+        "total": 922.64
+    },
+    "products": [
+        {
+            "amount": 155.34,
+            "description": "leverage web-enabled users",
+            "hours": 2.04,
+            "rate": 3.13
+        }
+    ],
+    "seller": {
+        "address": "547 Meza Plains South Mike, WY 53428",
+        "email": "brittany62@example.net",
+        "name": "Julie Stephenson"
+    },
+    "tax": {
+        "base": 20.54,
+        "tax_amount": 10.71,
+        "total_tax": 21.11
+    }
+}

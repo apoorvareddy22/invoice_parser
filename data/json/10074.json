@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "Unit 5979 Box 5683 DPO AA 74849",
+        "email": "danielwilson@example.org",
+        "phone": "937.942.6828",
+        "vat_no": "gY44072901304"
+    },
+    "invoice": {
+        "date": "20.08.2010",
+        "due_date": "25.07.1992",
+        "market_reference": 169228,
+        "notes": "integrate cross-platform architectures",
+        "number": "8322-6845",
+        "reference": 451871,
+        "vat_no": "jU52635493820"
+    },
+    "payment": {
+        "net_total": 176.49,
+        "total": 377.11
+    },
+    "products": [
+        {
+            "amount": 206.93,
+            "description": "facilitate 24/7 e-commerce",
+            "hours": 4.19,
+            "rate": 1.13
+        },
+        {
+            "amount": 397.99,
+            "description": "engineer strategic mindshare",
+            "hours": 8.12,
+            "rate": 6.67
+        }
+    ],
+    "seller": {
+        "address": "85989 Miller Flat Kathyside, WI 44606",
+        "email": "marilynellis@example.com",
+        "name": "Mark Montgomery"
+    },
+    "tax": {
+        "base": 26.52,
+        "tax_amount": 18.4,
+        "total_tax": 20.24
+    }
+}

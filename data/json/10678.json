@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "867 James Centers West Jamieside, KY 81474",
+        "email": "johnsmith@example.com",
+        "phone": "+1-798-356-7408x29844",
+        "vat_no": "kr66723956615"
+    },
+    "invoice": {
+        "date": "10.03.2010",
+        "due_date": "05.10.1994",
+        "market_reference": 546727,
+        "notes": "maximize transparent models",
+        "number": "0539-1304",
+        "reference": 677293,
+        "vat_no": "dK66480562431"
+    },
+    "payment": {
+        "net_total": 94.66,
+        "total": 780.59
+    },
+    "products": [
+        {
+            "amount": 333.24,
+            "description": "enhance proactive portals",
+            "hours": 8.75,
+            "rate": 7.34
+        },
+        {
+            "amount": 55.77,
+            "description": "orchestrate best-of-breed bandwidth",
+            "hours": 9.84,
+            "rate": 6.84
+        },
+        {
+            "amount": 65.4,
+            "description": "empower real-time methodologies",
+            "hours": 6.55,
+            "rate": 5.91
+        },
+        {
+            "amount": 364.58,
+            "description": "exploit revolutionary web services",
+            "hours": 1.4,
+            "rate": 6.21
+        },
+        {
+            "amount": 430.92,
+            "description": "enhance 24/7 networks",
+            "hours": 5.35,
+            "rate": 4.11
+        }
+    ],
+    "seller": {
+        "address": "419 James Drive Apt. 154 Johnsonside, PA 30961",
+        "email": "jluna@example.com",
+        "name": "Jennifer Brown"
+    },
+    "tax": {
+        "base": 23.43,
+        "tax_amount": 16.93,
+        "total_tax": 21.25
+    }
+}

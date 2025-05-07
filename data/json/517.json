@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "USS Murray FPO AP 24343",
+        "company_name": "Jacobson, Daniels and Saunders",
+        "country": "Russian Federation",
+        "name": "Christopher Holt"
+    },
+    "invoice": {
+        "date": "30.07.2010",
+        "number": 284005
+    },
+    "payment": {
+        "discount_amount": 43.15,
+        "discount_percentage": 10.19,
+        "due": 95.45,
+        "sub_total": 130.61,
+        "total": 427.46
+    },
+    "products": [
+        {
+            "description": "engage collaborative infrastructures",
+            "index": "9",
+            "quantity": 4.32,
+            "total_price": 644.64,
+            "unit_price": 98.63
+        },
+        {
+            "description": "redefine frictionless convergence",
+            "index": "3",
+            "quantity": 1.95,
+            "total_price": 145.36,
+            "unit_price": 90.38
+        },
+        {
+            "description": "unleash plug-and-play niches",
+            "index": "9",
+            "quantity": 8.16,
+            "total_price": 569.13,
+            "unit_price": 79.31
+        }
+    ],
+    "seller": {
+        "address": "77889 Douglas Grove Melissaton, NE 35037",
+        "company_name": "Cook Group",
+        "vat_no": "cv33006289216"
+    }
+}

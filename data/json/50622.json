@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "6165 Ramos Isle New Todd, KS 27199",
+        "id": "ZS045"
+    },
+    "invoice": {
+        "bc_no": "gf43222",
+        "currency_code": "PAB",
+        "date": "07.02.2010",
+        "due_date": "23.05.2000",
+        "number": 542665
+    },
+    "payment": {
+        "bank_name": "Brown-Washington",
+        "bic": "HPQYGBLWUQB",
+        "iban": "FSBD49244439712220"
+    },
+    "products": [
+        {
+            "amount": 458.94,
+            "description": "re-contextualize compelling communities",
+            "index": "5",
+            "price": 341.08,
+            "quantity": 8.3,
+            "tax_amount": 18.19,
+            "total_ttc": 430.3,
+            "vat_amount": 0.24
+        },
+        {
+            "amount": 327.67,
+            "description": "revolutionize leading-edge initiatives",
+            "index": "7",
+            "price": 270.59,
+            "quantity": 9.79,
+            "tax_amount": 77.73,
+            "total_ttc": 487.36,
+            "vat_amount": 1.9
+        }
+    ],
+    "seller": {
+        "name": "Julia Kramer"
+    },
+    "supplier": {
+        "address": "847 Anthony Harbor Michaelfort, IL 52868",
+        "name": "Matthew Norman"
+    },
+    "tax": {
+        "amount_excluding_tax": 84.39,
+        "amount_including_tax": 15.5,
+        "tax_amount": 10.86,
+        "total_ht": 208.93,
+        "total_ttc": 454.28
+    }
+}

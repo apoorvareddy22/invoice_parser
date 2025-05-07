@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "08543 Anthony Drive Patricialand, LA 31950"
+    },
+    "invoice": {
+        "bc_no": "iE11577",
+        "date": "01.09.2018",
+        "maturity_date": "13.03.2014",
+        "number": 510044
+    },
+    "products": [
+        {
+            "amount": 433.82,
+            "description": "transform frictionless channels",
+            "quantity": 1.37,
+            "unit_price": 41.14,
+            "vat_amount": 4.64
+        },
+        {
+            "amount": 277.09,
+            "description": "syndicate back-end methodologies",
+            "quantity": 5.39,
+            "unit_price": 98.54,
+            "vat_amount": 8.36
+        },
+        {
+            "amount": 52.71,
+            "description": "syndicate world-class channels",
+            "quantity": 6.17,
+            "unit_price": 88.95,
+            "vat_amount": 2.37
+        }
+    ],
+    "seller": {
+        "address": "32820 Wilson Island Port Roberttown, NC 39657"
+    },
+    "tax": {
+        "amount_excluding_tax": 144.28,
+        "amount_including_tax": 60.34,
+        "tax_amount": 10.75
+    }
+}

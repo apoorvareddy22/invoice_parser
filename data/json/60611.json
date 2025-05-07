@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "311 Stewart Field Suite 730 Whiteton, FL 58429",
+        "business_no": "cC615",
+        "id": "hU625"
+    },
+    "invoice": {
+        "date": "28.04.2018",
+        "number": "4354-4369"
+    },
+    "payment": {
+        "due_date": "01.08.1999",
+        "total": 268.27
+    },
+    "products": [
+        {
+            "amount": 89.85,
+            "description": "exploit mission-critical portals",
+            "quantity": 6.59,
+            "reference": "BN-905",
+            "unit_price": 33.21
+        },
+        {
+            "amount": 270.36,
+            "description": "empower global info-mediaries",
+            "quantity": 7.25,
+            "reference": "gh-783",
+            "unit_price": 86.54
+        },
+        {
+            "amount": 206.86,
+            "description": "exploit cross-media applications",
+            "quantity": 7.76,
+            "reference": "eM-608",
+            "unit_price": 35.25
+        },
+        {
+            "amount": 193.32,
+            "description": "deliver global markets",
+            "quantity": 3.19,
+            "reference": "kB-472",
+            "unit_price": 92.05
+        }
+    ],
+    "seller": {
+        "address": "4738 Davis Bridge Petermouth, IL 96976"
+    },
+    "tax": {
+        "base_ht": 248.19,
+        "regulations": 19.29,
+        "total_ht": 428.1,
+        "vat_amount": 130.1,
+        "vat_percentage": 16.01
+    }
+}

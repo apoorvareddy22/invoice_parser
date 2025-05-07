@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "450 Russell Heights Webbberg, FM 46745",
+        "company_name": "Williams Ltd",
+        "country": "Slovakia (Slovak Republic)",
+        "email": "hernandezscott@example.org",
+        "name": "Amanda Dean",
+        "phone": "+1-421-467-3087x59990",
+        "vat_no": "oZ00125743770"
+    },
+    "invoice": {
+        "date": "13.06.2007",
+        "due_date": "19.05.2016",
+        "linked_invoice": "yQ-1404-2348",
+        "notes": "productize frictionless users",
+        "number": "cf-5307-9028"
+    },
+    "products": [
+        {
+            "description": "engage efficient systems",
+            "discount_percentage": 18.48,
+            "price": 53.99,
+            "quantity": 9.98,
+            "unit_price": 41.84
+        },
+        {
+            "description": "drive intuitive initiatives",
+            "discount_percentage": 9.74,
+            "price": 355.34,
+            "quantity": 2.54,
+            "unit_price": 72.35
+        },
+        {
+            "description": "maximize customized e-tailers",
+            "discount_percentage": 7.2,
+            "price": 386.08,
+            "quantity": 8.05,
+            "unit_price": 28.74
+        }
+    ],
+    "seller": {
+        "address": "6438 Simpson Walks East Kyle, PR 81383",
+        "ape": "1562p",
+        "capital": 62239568,
+        "country": "Greece",
+        "email": "ricetim@example.com",
+        "name": "Heather Ross",
+        "phone_1": "001-353-693-2651x5920",
+        "phone_2": "(543)332-7589",
+        "phone_3": "258.673.8248x892",
+        "ref_walk": "fLUW2361",
+        "reference": "fQ590",
+        "siret": 78128839409499,
+        "vat_no": "lO63091612178",
+        "website": "http://mooney.com/"
+    },
+    "tax": {
+        "amount_0": 15.12,
+        "amount_1": 11.52,
+        "base_0": 27.31,
+        "base_1": 132.77,
+        "total_ht": 268.24,
+        "total_tax": 13.45,
+        "total_ttc": 432.07,
+        "vat_0": 18.54,
+        "vat_1": 16.48
+    }
+}

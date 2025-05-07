@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "740 Lisa Squares Suite 799 Chambersmouth, OH 63011",
+        "company_name": "Fuller, Quinn and Alvarez",
+        "country": "Norfolk Island",
+        "name": "Amber Hunt"
+    },
+    "invoice": {
+        "date": "25.12.2004",
+        "number": 331500
+    },
+    "payment": {
+        "discount_amount": 24.22,
+        "discount_percentage": 15.81,
+        "due": 104.2,
+        "sub_total": 140.23,
+        "total": 449.04
+    },
+    "products": [
+        {
+            "description": "innovate next-generation e-commerce",
+            "index": "10",
+            "quantity": 6.7,
+            "total_price": 20.19,
+            "unit_price": 77.68
+        },
+        {
+            "description": "re-contextualize front-end e-services",
+            "index": "10",
+            "quantity": 2.37,
+            "total_price": 917.88,
+            "unit_price": 74.57
+        },
+        {
+            "description": "matrix cutting-edge e-business",
+            "index": "1",
+            "quantity": 4.84,
+            "total_price": 31.53,
+            "unit_price": 54.69
+        },
+        {
+            "description": "target customized e-business",
+            "index": "10",
+            "quantity": 7.04,
+            "total_price": 411.81,
+            "unit_price": 30.35
+        },
+        {
+            "description": "target virtual e-commerce",
+            "index": "3",
+            "quantity": 6.73,
+            "total_price": 790.01,
+            "unit_price": 19.87
+        }
+    ],
+    "seller": {
+        "address": "71803 Brandon Drives Suite 003 South Mary, VI 46791",
+        "company_name": "Dodson PLC",
+        "vat_no": "TT24204195395"
+    }
+}

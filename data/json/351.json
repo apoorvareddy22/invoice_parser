@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "97160 Trevino Canyon Briggsfurt, WA 71266",
+        "company_name": "Lee Ltd",
+        "country": "Gabon",
+        "name": "Richard Brady"
+    },
+    "invoice": {
+        "date": "22.12.1997",
+        "number": 628388
+    },
+    "payment": {
+        "discount_amount": 41.07,
+        "discount_percentage": 13.95,
+        "due": 154.22,
+        "sub_total": 55.22,
+        "total": 180.57
+    },
+    "products": [
+        {
+            "description": "incubate proactive ROI",
+            "index": "7",
+            "quantity": 5.11,
+            "total_price": 208.96,
+            "unit_price": 50.28
+        },
+        {
+            "description": "implement e-business communities",
+            "index": "5",
+            "quantity": 7.75,
+            "total_price": 829.69,
+            "unit_price": 69.71
+        },
+        {
+            "description": "monetize revolutionary e-services",
+            "index": "3",
+            "quantity": 7.66,
+            "total_price": 497.17,
+            "unit_price": 57.53
+        }
+    ],
+    "seller": {
+        "address": "14831 Gregory Loop Johnsonland, PR 66402",
+        "company_name": "Moody-Ellis",
+        "vat_no": "vT12227665706"
+    }
+}

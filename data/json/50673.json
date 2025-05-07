@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "226 Herman Hollow Suite 870 Daughertyshire, WI 77595",
+        "id": "Nv330"
+    },
+    "invoice": {
+        "bc_no": "Tr23424",
+        "currency_code": "MXN",
+        "date": "26.11.2001",
+        "due_date": "02.03.2005",
+        "number": 808520
+    },
+    "payment": {
+        "bank_name": "Henderson Ltd",
+        "bic": "LPYOGB9Q",
+        "iban": "HRLY36380272712770"
+    },
+    "products": [
+        {
+            "amount": 469.25,
+            "description": "innovate best-of-breed initiatives",
+            "index": "7",
+            "price": 352.56,
+            "quantity": 8.7,
+            "tax_amount": 65.24,
+            "total_ttc": 112.18,
+            "vat_amount": 5.24
+        },
+        {
+            "amount": 469.19,
+            "description": "engage leading-edge markets",
+            "index": "2",
+            "price": 13.13,
+            "quantity": 1.64,
+            "tax_amount": 18.65,
+            "total_ttc": 133.39,
+            "vat_amount": 2.41
+        }
+    ],
+    "seller": {
+        "name": "Kimberly Bell"
+    },
+    "supplier": {
+        "address": "14155 Lisa Estates Apt. 239 Port Belinda, MT 34244",
+        "name": "Crystal Bishop"
+    },
+    "tax": {
+        "amount_excluding_tax": 148.59,
+        "amount_including_tax": 91.27,
+        "tax_amount": 14.57,
+        "total_ht": 256.62,
+        "total_ttc": 406.16
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "99683 Terry Union Apt. 192 New Amberberg, AS 62234",
+        "company_name": "Young, Hernandez and Contreras",
+        "email": "christopher48@example.com",
+        "name": "Andrew Ponce",
+        "phone": "635.691.9068"
+    },
+    "invoice": {
+        "date": "25.05.2012",
+        "due_date": "07.01.1996",
+        "number": "xRB97804032537"
+    },
+    "payment": {
+        "account_number": 4463021448,
+        "bank_name": "Miller Inc",
+        "routing_number": 873930409
+    },
+    "products": [
+        {
+            "amount": 60.08,
+            "description": "whiteboard proactive systems",
+            "index": "8",
+            "quantity": 5.23,
+            "unit_price": 32.56
+        }
+    ],
+    "seller": {
+        "address": "90376 Pennington Villages Suite 541 Dawntown, NY 48730",
+        "company_name": "Fernandez, Esparza and Roy",
+        "email": "scottpena@example.net"
+    }
+}

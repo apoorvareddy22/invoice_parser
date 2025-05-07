@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "667 Taylor Plains Elizabethport, KS 05959",
+        "business_no": "mv923",
+        "id": "QL635"
+    },
+    "invoice": {
+        "date": "29.10.2003",
+        "number": "9462-0962"
+    },
+    "payment": {
+        "due_date": "30.04.2008",
+        "total": 459.57
+    },
+    "products": [
+        {
+            "amount": 454.11,
+            "description": "utilize seamless content",
+            "quantity": 3.54,
+            "reference": "OZ-861",
+            "unit_price": 58.15
+        },
+        {
+            "amount": 90.59,
+            "description": "scale granular deliverables",
+            "quantity": 3.76,
+            "reference": "zp-043",
+            "unit_price": 71.11
+        },
+        {
+            "amount": 211.82,
+            "description": "reinvent synergistic architectures",
+            "quantity": 4.96,
+            "reference": "Di-322",
+            "unit_price": 88.06
+        }
+    ],
+    "seller": {
+        "address": "3398 Flores Manor Thomasburgh, MD 34066"
+    },
+    "tax": {
+        "base_ht": 335.65,
+        "regulations": 22.65,
+        "total_ht": 324.78,
+        "vat_amount": 69.57,
+        "vat_percentage": 13.42
+    }
+}

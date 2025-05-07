@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "02747 Natalie Villages Wilsonchester, MS 90449",
+        "id": "Ny003"
+    },
+    "invoice": {
+        "bc_no": "Ms98842",
+        "currency_code": "KRW",
+        "date": "05.01.1994",
+        "due_date": "30.06.2010",
+        "number": 742317
+    },
+    "payment": {
+        "bank_name": "Kane PLC",
+        "bic": "BQYWGBVX",
+        "iban": "AHSI18714892513779"
+    },
+    "products": [
+        {
+            "amount": 29.89,
+            "description": "orchestrate distributed schemas",
+            "index": "10",
+            "price": 289.16,
+            "quantity": 9.36,
+            "tax_amount": 13.38,
+            "total_ttc": 475.21,
+            "vat_amount": 4.6
+        },
+        {
+            "amount": 269.7,
+            "description": "re-contextualize intuitive info-mediaries",
+            "index": "4",
+            "price": 329.85,
+            "quantity": 7.09,
+            "tax_amount": 43.22,
+            "total_ttc": 193.9,
+            "vat_amount": 1.59
+        },
+        {
+            "amount": 260.44,
+            "description": "utilize mission-critical systems",
+            "index": "2",
+            "price": 301.6,
+            "quantity": 6.57,
+            "tax_amount": 70.69,
+            "total_ttc": 441.47,
+            "vat_amount": 4.76
+        },
+        {
+            "amount": 69.17,
+            "description": "iterate enterprise synergies",
+            "index": "4",
+            "price": 291.57,
+            "quantity": 1.8,
+            "tax_amount": 83.88,
+            "total_ttc": 179.48,
+            "vat_amount": 0.64
+        },
+        {
+            "amount": 214.85,
+            "description": "extend leading-edge ROI",
+            "index": "8",
+            "price": 330.73,
+            "quantity": 6.4,
+            "tax_amount": 84.62,
+            "total_ttc": 205.15,
+            "vat_amount": 6.72
+        },
+        {
+            "amount": 341.92,
+            "description": "engage granular initiatives",
+            "index": "5",
+            "price": 398.29,
+            "quantity": 7.92,
+            "tax_amount": 65.59,
+            "total_ttc": 492.89,
+            "vat_amount": 10.09
+        }
+    ],
+    "seller": {
+        "name": "Patrick Townsend"
+    },
+    "supplier": {
+        "address": "37287 Ramsey Track Apt. 183 Donaldburgh, MI 47564",
+        "name": "Deborah Rodriguez"
+    },
+    "tax": {
+        "amount_excluding_tax": 28.94,
+        "amount_including_tax": 109.62,
+        "tax_amount": 25.75,
+        "total_ht": 362.63,
+        "total_ttc": 249.4
+    }
+}

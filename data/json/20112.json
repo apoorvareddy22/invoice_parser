@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "1857 Baker Valleys Pamelamouth, DE 64252",
+        "company_name": "Cline, Davis and Foster",
+        "email": "martinezrobert@example.com",
+        "name": "Jeffrey Lambert",
+        "phone": "671.681.8523x676"
+    },
+    "invoice": {
+        "date": "07.03.2000",
+        "due_date": "07.07.2014",
+        "number": "yQw60946657015"
+    },
+    "payment": {
+        "account_number": 3174974334,
+        "bank_name": "Crawford PLC",
+        "routing_number": 224727535
+    },
+    "products": [
+        {
+            "amount": 152.93,
+            "description": "grow holistic solutions",
+            "index": "4",
+            "quantity": 2.01,
+            "unit_price": 81.25
+        },
+        {
+            "amount": 240.59,
+            "description": "engineer sticky paradigms",
+            "index": "10",
+            "quantity": 4.93,
+            "unit_price": 93.39
+        },
+        {
+            "amount": 136.89,
+            "description": "envisioneer vertical infrastructures",
+            "index": "4",
+            "quantity": 1.61,
+            "unit_price": 73.26
+        }
+    ],
+    "seller": {
+        "address": "55421 Nicholas Mountains Jimmyville, AK 61257",
+        "company_name": "Bradley PLC",
+        "email": "reginald71@example.net"
+    }
+}

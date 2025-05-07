@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "043 Lopez Forest Apt. 157 Lake Jasonville, PA 76189",
+        "email": "ericcarroll@example.net",
+        "phone": "340-394-3109x21780",
+        "vat_no": "Ym52598868490"
+    },
+    "invoice": {
+        "date": "22.12.2011",
+        "due_date": "25.06.2017",
+        "market_reference": 743656,
+        "notes": "unleash viral relationships",
+        "number": "5461-2336",
+        "reference": 938318,
+        "vat_no": "hZ10044760402"
+    },
+    "payment": {
+        "net_total": 62.27,
+        "total": 902.19
+    },
+    "products": [
+        {
+            "amount": 57.01,
+            "description": "empower web-enabled info-mediaries",
+            "hours": 3.49,
+            "rate": 4.26
+        },
+        {
+            "amount": 356.15,
+            "description": "utilize world-class experiences",
+            "hours": 8.31,
+            "rate": 4.64
+        }
+    ],
+    "seller": {
+        "address": "6710 Obrien Corners Apt. 782 Travisville, PA 66371",
+        "email": "fdean@example.net",
+        "name": "Katie Mcknight"
+    },
+    "tax": {
+        "base": 20.58,
+        "tax_amount": 27.01,
+        "total_tax": 23.17
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "7006 Dixon Crossroad Suite 272 Nathanburgh, MN 81140",
+        "email": "fpatton@example.com",
+        "phone": "(420)643-1003x85425",
+        "vat_no": "hj02847185263"
+    },
+    "invoice": {
+        "date": "24.12.2016",
+        "due_date": "15.03.2007",
+        "market_reference": 632523,
+        "notes": "empower B2B users",
+        "number": "4072-4888",
+        "reference": 331379,
+        "vat_no": "jL14469516423"
+    },
+    "payment": {
+        "net_total": 180.91,
+        "total": 135.26
+    },
+    "products": [
+        {
+            "amount": 186.32,
+            "description": "facilitate revolutionary mindshare",
+            "hours": 8.68,
+            "rate": 8.72
+        },
+        {
+            "amount": 255.92,
+            "description": "productize end-to-end channels",
+            "hours": 8.98,
+            "rate": 6.95
+        },
+        {
+            "amount": 308.94,
+            "description": "transition e-business initiatives",
+            "hours": 2.87,
+            "rate": 4.06
+        },
+        {
+            "amount": 272.86,
+            "description": "aggregate user-centric metrics",
+            "hours": 6.65,
+            "rate": 6.11
+        },
+        {
+            "amount": 61.47,
+            "description": "re-contextualize intuitive metrics",
+            "hours": 3.18,
+            "rate": 7.68
+        },
+        {
+            "amount": 446.48,
+            "description": "reinvent synergistic schemas",
+            "hours": 2.04,
+            "rate": 7.97
+        }
+    ],
+    "seller": {
+        "address": "817 Edwards Forges Suite 629 Lake Shannon, FM 10796",
+        "email": "scott68@example.org",
+        "name": "Ryan Pearson"
+    },
+    "tax": {
+        "base": 29.3,
+        "tax_amount": 16.54,
+        "total_tax": 18.77
+    }
+}

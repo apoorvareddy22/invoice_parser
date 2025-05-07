@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "2103 Lowe Underpass Rebeccahaven, AK 71384",
+        "company_name": "Perry PLC",
+        "email": "brittany93@example.net",
+        "name": "Joe Henry",
+        "phone": "(970)880-9878"
+    },
+    "invoice": {
+        "date": "12.06.1999",
+        "due_date": "24.01.2002",
+        "number": "lWh54036946431"
+    },
+    "payment": {
+        "account_number": 2482634883,
+        "bank_name": "Berger-Brown",
+        "routing_number": 425661214
+    },
+    "products": [
+        {
+            "amount": 139.78,
+            "description": "streamline synergistic synergies",
+            "index": "1",
+            "quantity": 1.82,
+            "unit_price": 20.75
+        }
+    ],
+    "seller": {
+        "address": "318 Chavez Common West Eileen, OK 16745",
+        "company_name": "Ramirez, Hernandez and Edwards",
+        "email": "michelle78@example.net"
+    }
+}

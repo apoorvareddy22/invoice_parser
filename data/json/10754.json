@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "51365 Simmons Plain Suite 507 Holmesborough, MN 57364",
+        "email": "ramirezraymond@example.com",
+        "phone": "446-940-8067x64784",
+        "vat_no": "HV98495209720"
+    },
+    "invoice": {
+        "date": "07.07.2021",
+        "due_date": "13.04.2021",
+        "market_reference": 536547,
+        "notes": "re-intermediate back-end portals",
+        "number": "6356-0999",
+        "reference": 723648,
+        "vat_no": "SN11578852818"
+    },
+    "payment": {
+        "net_total": 181.64,
+        "total": 535.71
+    },
+    "products": [
+        {
+            "amount": 235.96,
+            "description": "whiteboard viral relationships",
+            "hours": 6.72,
+            "rate": 4.26
+        },
+        {
+            "amount": 146.8,
+            "description": "generate interactive eyeballs",
+            "hours": 1.62,
+            "rate": 2.94
+        },
+        {
+            "amount": 281.96,
+            "description": "reinvent turn-key deliverables",
+            "hours": 3.08,
+            "rate": 6.42
+        },
+        {
+            "amount": 431.6,
+            "description": "syndicate dot-com niches",
+            "hours": 2.31,
+            "rate": 8.6
+        },
+        {
+            "amount": 279.25,
+            "description": "unleash virtual functionalities",
+            "hours": 9.36,
+            "rate": 1.37
+        },
+        {
+            "amount": 246.66,
+            "description": "visualize web-enabled e-tailers",
+            "hours": 4.27,
+            "rate": 1.18
+        }
+    ],
+    "seller": {
+        "address": "007 Jacob Lock Apt. 197 Robertsonborough, WV 46590",
+        "email": "wwilson@example.com",
+        "name": "Laura Myers"
+    },
+    "tax": {
+        "base": 24.69,
+        "tax_amount": 10.08,
+        "total_tax": 22.28
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "478 Lambert Crescent Apt. 276 Brianmouth, ND 86015",
+        "email": "dawnknight@example.net",
+        "phone": "+1-923-652-1618x0096",
+        "vat_no": "Ou88616266788"
+    },
+    "invoice": {
+        "date": "20.10.1999",
+        "due_date": "22.05.1999",
+        "market_reference": 536143,
+        "notes": "innovate bricks-and-clicks platforms",
+        "number": "0382-8061",
+        "reference": 891922,
+        "vat_no": "Vp03057778494"
+    },
+    "payment": {
+        "net_total": 66.21,
+        "total": 360.17
+    },
+    "products": [
+        {
+            "amount": 469.24,
+            "description": "matrix magnetic convergence",
+            "hours": 2.02,
+            "rate": 7.91
+        },
+        {
+            "amount": 481.41,
+            "description": "integrate virtual partnerships",
+            "hours": 1.52,
+            "rate": 7.8
+        },
+        {
+            "amount": 140.99,
+            "description": "grow best-of-breed paradigms",
+            "hours": 4.72,
+            "rate": 3.12
+        }
+    ],
+    "seller": {
+        "address": "4391 Harmon Junction Whiteheadbury, KS 31395",
+        "email": "melendezjimmy@example.org",
+        "name": "Rachel Herrera"
+    },
+    "tax": {
+        "base": 27.28,
+        "tax_amount": 14.81,
+        "total_tax": 23.16
+    }
+}

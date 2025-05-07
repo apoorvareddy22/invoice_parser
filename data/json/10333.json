@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "807 Matthew Junctions Suite 873 Lake Eric, CA 72495",
+        "email": "jonesjoseph@example.net",
+        "phone": "(574)416-7617x18725",
+        "vat_no": "vA97998001445"
+    },
+    "invoice": {
+        "date": "20.11.2013",
+        "due_date": "18.05.2018",
+        "market_reference": 181219,
+        "notes": "unleash efficient portals",
+        "number": "4612-2984",
+        "reference": 871087,
+        "vat_no": "om05736577051"
+    },
+    "payment": {
+        "net_total": 168.67,
+        "total": 265.67
+    },
+    "products": [
+        {
+            "amount": 426.74,
+            "description": "repurpose rich experiences",
+            "hours": 1.57,
+            "rate": 4.6
+        },
+        {
+            "amount": 245.78,
+            "description": "optimize 24/7 eyeballs",
+            "hours": 1.97,
+            "rate": 4.87
+        },
+        {
+            "amount": 149.27,
+            "description": "target customized users",
+            "hours": 5.22,
+            "rate": 6.42
+        },
+        {
+            "amount": 362.33,
+            "description": "matrix open-source channels",
+            "hours": 9.4,
+            "rate": 9.39
+        },
+        {
+            "amount": 415.55,
+            "description": "transform bricks-and-clicks e-markets",
+            "hours": 1.57,
+            "rate": 9.8
+        },
+        {
+            "amount": 168.83,
+            "description": "innovate distributed vortals",
+            "hours": 3.28,
+            "rate": 2.7
+        },
+        {
+            "amount": 370.13,
+            "description": "repurpose strategic communities",
+            "hours": 2.68,
+            "rate": 4.31
+        }
+    ],
+    "seller": {
+        "address": "Unit 0941 Box 1906 DPO AP 98934",
+        "email": "walshmarvin@example.net",
+        "name": "Darlene Peters"
+    },
+    "tax": {
+        "base": 10.8,
+        "tax_amount": 29.94,
+        "total_tax": 23.43
+    }
+}

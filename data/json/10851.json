@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "USNV Green FPO AA 21819",
+        "email": "oadams@example.com",
+        "phone": "6578158956",
+        "vat_no": "MH77176710104"
+    },
+    "invoice": {
+        "date": "15.02.2011",
+        "due_date": "18.06.2006",
+        "market_reference": 712745,
+        "notes": "benchmark cross-media applications",
+        "number": "2887-9183",
+        "reference": 115292,
+        "vat_no": "RY88444757642"
+    },
+    "payment": {
+        "net_total": 173.71,
+        "total": 787.64
+    },
+    "products": [
+        {
+            "amount": 462.79,
+            "description": "benchmark leading-edge infrastructures",
+            "hours": 4.6,
+            "rate": 9.44
+        }
+    ],
+    "seller": {
+        "address": "1789 Kristin Ferry Juarezberg, IN 14019",
+        "email": "wilsonjill@example.org",
+        "name": "Stephen Wilson"
+    },
+    "tax": {
+        "base": 21.37,
+        "tax_amount": 17.12,
+        "total_tax": 22.63
+    }
+}

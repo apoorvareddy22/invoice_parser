@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "USNV Jones FPO AA 53717",
+        "business_no": "SX885",
+        "id": "vv848"
+    },
+    "invoice": {
+        "date": "21.02.2016",
+        "number": "7840-1441"
+    },
+    "payment": {
+        "due_date": "07.07.2019",
+        "total": 219.09
+    },
+    "products": [
+        {
+            "amount": 460.03,
+            "description": "brand distributed content",
+            "quantity": 3.86,
+            "reference": "IN-831",
+            "unit_price": 63.26
+        }
+    ],
+    "seller": {
+        "address": "5154 Kathleen View Apt. 469 Hornland, VA 54598"
+    },
+    "tax": {
+        "base_ht": 145.92,
+        "regulations": 11.64,
+        "total_ht": 320.71,
+        "vat_amount": 93.39,
+        "vat_percentage": 14.55
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "148 Kelly Ports Suite 931 West Jessica, NV 99045",
+        "company_name": "Stewart, Lynch and Mcintyre",
+        "email": "bushjason@example.org",
+        "name": "Jennifer Robles",
+        "phone": "(945)620-3693x85714"
+    },
+    "invoice": {
+        "date": "10.01.2008",
+        "due_date": "06.01.2014",
+        "number": "Zei61697818565"
+    },
+    "payment": {
+        "account_number": 3615139933,
+        "bank_name": "Brown-Park",
+        "routing_number": 274076306
+    },
+    "products": [
+        {
+            "amount": 98.33,
+            "description": "strategize end-to-end initiatives",
+            "index": "10",
+            "quantity": 8.6,
+            "unit_price": 71.91
+        },
+        {
+            "amount": 335.35,
+            "description": "aggregate robust technologies",
+            "index": "7",
+            "quantity": 2.5,
+            "unit_price": 95.39
+        },
+        {
+            "amount": 104.15,
+            "description": "architect integrated channels",
+            "index": "6",
+            "quantity": 7.91,
+            "unit_price": 71.14
+        },
+        {
+            "amount": 482.1,
+            "description": "innovate killer applications",
+            "index": "2",
+            "quantity": 7.15,
+            "unit_price": 35.69
+        }
+    ],
+    "seller": {
+        "address": "13412 Stephanie Mountain Nealberg, SD 09457",
+        "company_name": "Kennedy LLC",
+        "email": "michelleweaver@example.net"
+    }
+}

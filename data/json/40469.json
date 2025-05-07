@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "776 Amber Bypass Suite 317 Wolfefurt, MS 65221"
+    },
+    "invoice": {
+        "bc_no": "SN31929",
+        "date": "26.04.2018",
+        "maturity_date": "02.12.2019",
+        "number": 213175
+    },
+    "products": [
+        {
+            "amount": 101.74,
+            "description": "benchmark granular niches",
+            "quantity": 2.83,
+            "unit_price": 16.55,
+            "vat_amount": 0.53
+        },
+        {
+            "amount": 26.09,
+            "description": "productize transparent supply-chains",
+            "quantity": 2.96,
+            "unit_price": 15.69,
+            "vat_amount": 0.31
+        },
+        {
+            "amount": 271.46,
+            "description": "transition enterprise web-readiness",
+            "quantity": 2.33,
+            "unit_price": 92.59,
+            "vat_amount": 0.28
+        },
+        {
+            "amount": 66.31,
+            "description": "productize out-of-the-box interfaces",
+            "quantity": 8.24,
+            "unit_price": 42.31,
+            "vat_amount": 2.38
+        },
+        {
+            "amount": 154.32,
+            "description": "transition ubiquitous portals",
+            "quantity": 6.4,
+            "unit_price": 33.14,
+            "vat_amount": 3.26
+        }
+    ],
+    "seller": {
+        "address": "2020 Odonnell Mountain Lake Timothybury, DE 88233"
+    },
+    "tax": {
+        "amount_excluding_tax": 199.22,
+        "amount_including_tax": 33.66,
+        "tax_amount": 11.64
+    }
+}

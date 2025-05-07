@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "0085 John Hill Suite 162 South Travisport, PW 53063",
+        "company_name": "Perez, Dixon and Warner",
+        "country": "Barbados",
+        "name": "Michael Clay"
+    },
+    "invoice": {
+        "date": "04.01.2001",
+        "number": 806833
+    },
+    "payment": {
+        "discount_amount": 38.81,
+        "discount_percentage": 13.74,
+        "due": 32.81,
+        "sub_total": 74.98,
+        "total": 620.42
+    },
+    "products": [
+        {
+            "description": "disintermediate dot-com paradigms",
+            "index": "1",
+            "quantity": 2.32,
+            "total_price": 775.69,
+            "unit_price": 85.87
+        },
+        {
+            "description": "drive customized mindshare",
+            "index": "4",
+            "quantity": 1.6,
+            "total_price": 191.08,
+            "unit_price": 98.57
+        },
+        {
+            "description": "repurpose wireless networks",
+            "index": "3",
+            "quantity": 7.65,
+            "total_price": 110.88,
+            "unit_price": 86.78
+        },
+        {
+            "description": "benchmark efficient infrastructures",
+            "index": "3",
+            "quantity": 2.96,
+            "total_price": 436.7,
+            "unit_price": 76.85
+        },
+        {
+            "description": "revolutionize scalable schemas",
+            "index": "8",
+            "quantity": 3.04,
+            "total_price": 707.34,
+            "unit_price": 25.32
+        }
+    ],
+    "seller": {
+        "address": "Unit 3559 Box 0526 DPO AE 50902",
+        "company_name": "Gonzales LLC",
+        "vat_no": "Qb96372897941"
+    }
+}

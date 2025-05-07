@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "581 Monica Points Suite 713 Port Jasminstad, MT 45843",
+        "email": "bzuniga@example.com",
+        "phone": "608-379-6134",
+        "vat_no": "sG61054251323"
+    },
+    "invoice": {
+        "date": "21.03.1996",
+        "due_date": "07.02.2006",
+        "market_reference": 512804,
+        "notes": "envisioneer best-of-breed initiatives",
+        "number": "5840-8997",
+        "reference": 238253,
+        "vat_no": "aQ49823530925"
+    },
+    "payment": {
+        "net_total": 22.64,
+        "total": 573.05
+    },
+    "products": [
+        {
+            "amount": 123.03,
+            "description": "incentivize vertical ROI",
+            "hours": 3.13,
+            "rate": 5.75
+        },
+        {
+            "amount": 293.39,
+            "description": "utilize impactful vortals",
+            "hours": 2.56,
+            "rate": 7.51
+        }
+    ],
+    "seller": {
+        "address": "8827 Shannon Expressway Derekmouth, OR 66059",
+        "email": "deleonnicole@example.org",
+        "name": "Jack Leonard"
+    },
+    "tax": {
+        "base": 13.61,
+        "tax_amount": 15.66,
+        "total_tax": 23.03
+    }
+}

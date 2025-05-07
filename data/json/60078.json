@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "57690 Bradley Crest Murphyburgh, DC 69654",
+        "business_no": "zV756",
+        "id": "Fa002"
+    },
+    "invoice": {
+        "date": "02.10.2009",
+        "number": "0997-2723"
+    },
+    "payment": {
+        "due_date": "21.02.2015",
+        "total": 605.81
+    },
+    "products": [
+        {
+            "amount": 196.43,
+            "description": "transform turn-key e-tailers",
+            "quantity": 3.34,
+            "reference": "Ol-271",
+            "unit_price": 65.94
+        },
+        {
+            "amount": 68.76,
+            "description": "orchestrate front-end networks",
+            "quantity": 7.78,
+            "reference": "yt-586",
+            "unit_price": 28.34
+        },
+        {
+            "amount": 314.45,
+            "description": "incentivize wireless ROI",
+            "quantity": 7.39,
+            "reference": "Ez-995",
+            "unit_price": 59.74
+        },
+        {
+            "amount": 111.51,
+            "description": "monetize integrated solutions",
+            "quantity": 6.54,
+            "reference": "HI-441",
+            "unit_price": 95.93
+        }
+    ],
+    "seller": {
+        "address": "8296 Patricia Pike North Bonnie, WI 75107"
+    },
+    "tax": {
+        "base_ht": 461.17,
+        "regulations": 20.56,
+        "total_ht": 115.66,
+        "vat_amount": 86.51,
+        "vat_percentage": 17.97
+    }
+}

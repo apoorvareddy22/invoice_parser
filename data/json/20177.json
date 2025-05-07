@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "PSC 2982, Box 5002 APO AE 84119",
+        "company_name": "Kennedy Inc",
+        "email": "timothy07@example.com",
+        "name": "Sherry Morgan",
+        "phone": "253-823-4105x58681"
+    },
+    "invoice": {
+        "date": "07.01.1997",
+        "due_date": "22.06.2018",
+        "number": "JCx23354990384"
+    },
+    "payment": {
+        "account_number": 5189340703,
+        "bank_name": "Foster, Smith and Chapman",
+        "routing_number": 578570926
+    },
+    "products": [
+        {
+            "amount": 368.84,
+            "description": "drive plug-and-play vortals",
+            "index": "2",
+            "quantity": 2.18,
+            "unit_price": 12.36
+        },
+        {
+            "amount": 295.76,
+            "description": "leverage web-enabled channels",
+            "index": "9",
+            "quantity": 6.89,
+            "unit_price": 39.64
+        },
+        {
+            "amount": 433.59,
+            "description": "morph clicks-and-mortar e-business",
+            "index": "7",
+            "quantity": 4.04,
+            "unit_price": 72.16
+        }
+    ],
+    "seller": {
+        "address": "3851 Lee Estates North Jonathan, WV 39962",
+        "company_name": "Simmons, Robinson and Henderson",
+        "email": "alicia94@example.com"
+    }
+}

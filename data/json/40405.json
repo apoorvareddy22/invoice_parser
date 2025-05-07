@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "Unit 0256 Box 5755 DPO AA 72707"
+    },
+    "invoice": {
+        "bc_no": "FY29580",
+        "date": "25.01.1992",
+        "maturity_date": "20.12.1993",
+        "number": 576618
+    },
+    "products": [
+        {
+            "amount": 407.23,
+            "description": "integrate bricks-and-clicks schemas",
+            "quantity": 8.16,
+            "unit_price": 86.3,
+            "vat_amount": 4.74
+        },
+        {
+            "amount": 81.36,
+            "description": "maximize visionary solutions",
+            "quantity": 8.71,
+            "unit_price": 42.75,
+            "vat_amount": 0.04
+        },
+        {
+            "amount": 418.69,
+            "description": "re-contextualize B2C experiences",
+            "quantity": 5.15,
+            "unit_price": 10.15,
+            "vat_amount": 3.76
+        },
+        {
+            "amount": 102.43,
+            "description": "optimize clicks-and-mortar methodologies",
+            "quantity": 9.26,
+            "unit_price": 78.61,
+            "vat_amount": 4.18
+        },
+        {
+            "amount": 213.66,
+            "description": "seize open-source models",
+            "quantity": 3.52,
+            "unit_price": 74.34,
+            "vat_amount": 13.27
+        },
+        {
+            "amount": 150.02,
+            "description": "integrate front-end architectures",
+            "quantity": 6.73,
+            "unit_price": 37.2,
+            "vat_amount": 1.85
+        }
+    ],
+    "seller": {
+        "address": "8796 Lisa Grove Suite 534 Sierrafort, AR 54882"
+    },
+    "tax": {
+        "amount_excluding_tax": 61.06,
+        "amount_including_tax": 136.58,
+        "tax_amount": 19.37
+    }
+}

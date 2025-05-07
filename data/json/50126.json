@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "711 Bennett Vista West Brendatown, KS 69283",
+        "id": "KN091"
+    },
+    "invoice": {
+        "bc_no": "ej70677",
+        "currency_code": "GIP",
+        "date": "19.01.1995",
+        "due_date": "24.01.2013",
+        "number": 349403
+    },
+    "payment": {
+        "bank_name": "Huff and Sons",
+        "bic": "GVSEGB7P",
+        "iban": "HHEN76971133406902"
+    },
+    "products": [
+        {
+            "amount": 173.13,
+            "description": "facilitate out-of-the-box supply-chains",
+            "index": "7",
+            "price": 200.56,
+            "quantity": 6.35,
+            "tax_amount": 78.59,
+            "total_ttc": 416.42,
+            "vat_amount": 5.94
+        },
+        {
+            "amount": 184.78,
+            "description": "transform compelling networks",
+            "index": "1",
+            "price": 342.58,
+            "quantity": 8.23,
+            "tax_amount": 79.18,
+            "total_ttc": 120.14,
+            "vat_amount": 7.52
+        },
+        {
+            "amount": 266.8,
+            "description": "envisioneer cutting-edge technologies",
+            "index": "8",
+            "price": 201.26,
+            "quantity": 8.58,
+            "tax_amount": 88.47,
+            "total_ttc": 168.09,
+            "vat_amount": 0.78
+        },
+        {
+            "amount": 411.57,
+            "description": "productize revolutionary e-services",
+            "index": "7",
+            "price": 96.36,
+            "quantity": 5.86,
+            "tax_amount": 30.75,
+            "total_ttc": 118.79,
+            "vat_amount": 2.44
+        },
+        {
+            "amount": 290.62,
+            "description": "optimize leading-edge systems",
+            "index": "2",
+            "price": 387.88,
+            "quantity": 9.43,
+            "tax_amount": 18.77,
+            "total_ttc": 479.22,
+            "vat_amount": 0.02
+        },
+        {
+            "amount": 136.07,
+            "description": "visualize holistic solutions",
+            "index": "7",
+            "price": 38.28,
+            "quantity": 1.82,
+            "tax_amount": 51.5,
+            "total_ttc": 470.91,
+            "vat_amount": 4.53
+        }
+    ],
+    "seller": {
+        "name": "Sarah Sosa"
+    },
+    "supplier": {
+        "address": "32636 Webster Valley Suite 077 Port Margaretbury, PA 08219",
+        "name": "Jodi Tyler"
+    },
+    "tax": {
+        "amount_excluding_tax": 121.53,
+        "amount_including_tax": 181.46,
+        "tax_amount": 15.53,
+        "total_ht": 161.1,
+        "total_ttc": 108.24
+    }
+}

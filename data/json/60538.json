@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "33133 Jasmine Meadows East Danielle, ME 63130",
+        "business_no": "dD147",
+        "id": "Um959"
+    },
+    "invoice": {
+        "date": "14.03.2003",
+        "number": "7913-9344"
+    },
+    "payment": {
+        "due_date": "17.11.2016",
+        "total": 918.73
+    },
+    "products": [
+        {
+            "amount": 113.92,
+            "description": "utilize vertical convergence",
+            "quantity": 7.74,
+            "reference": "gt-614",
+            "unit_price": 65.06
+        },
+        {
+            "amount": 195.19,
+            "description": "incentivize proactive networks",
+            "quantity": 6.13,
+            "reference": "Sg-264",
+            "unit_price": 85.06
+        }
+    ],
+    "seller": {
+        "address": "0899 Kathleen Streets Williamberg, PA 15368"
+    },
+    "tax": {
+        "base_ht": 458.59,
+        "regulations": 12.36,
+        "total_ht": 337.44,
+        "vat_amount": 103.08,
+        "vat_percentage": 12.53
+    }
+}

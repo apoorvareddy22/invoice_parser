@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "784 Vincent Lodge Apt. 603 Port Sheena, MD 69182",
+        "business_no": "OE356",
+        "id": "vY490"
+    },
+    "invoice": {
+        "date": "22.09.2005",
+        "number": "4534-3592"
+    },
+    "payment": {
+        "due_date": "22.03.2001",
+        "total": 636.97
+    },
+    "products": [
+        {
+            "amount": 412.73,
+            "description": "synergize scalable deliverables",
+            "quantity": 2.09,
+            "reference": "jW-199",
+            "unit_price": 70.71
+        },
+        {
+            "amount": 136.96,
+            "description": "orchestrate 24/365 e-commerce",
+            "quantity": 3.24,
+            "reference": "Bj-548",
+            "unit_price": 34.51
+        }
+    ],
+    "seller": {
+        "address": "78386 John Trail Whitemouth, OR 20136"
+    },
+    "tax": {
+        "base_ht": 390.04,
+        "regulations": 26.2,
+        "total_ht": 167.72,
+        "vat_amount": 168.85,
+        "vat_percentage": 15.59
+    }
+}

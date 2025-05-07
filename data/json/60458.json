@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "37728 Richard Heights Dawnborough, NV 34350",
+        "business_no": "ym860",
+        "id": "Fo446"
+    },
+    "invoice": {
+        "date": "05.02.1996",
+        "number": "8106-6181"
+    },
+    "payment": {
+        "due_date": "12.07.2000",
+        "total": 403.17
+    },
+    "products": [
+        {
+            "amount": 465.28,
+            "description": "empower virtual supply-chains",
+            "quantity": 2.08,
+            "reference": "mz-578",
+            "unit_price": 34.64
+        }
+    ],
+    "seller": {
+        "address": "3676 Jose Loaf Apt. 326 East Patricia, ND 14475"
+    },
+    "tax": {
+        "base_ht": 281.23,
+        "regulations": 17.76,
+        "total_ht": 306.95,
+        "vat_amount": 70.78,
+        "vat_percentage": 21.03
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "705 Marcus Rue Davisshire, PR 71569",
+        "company_name": "Collins, Lopez and Logan",
+        "country": "Turkey",
+        "name": "Roger Scott"
+    },
+    "invoice": {
+        "date": "01.11.1993",
+        "number": 586345
+    },
+    "payment": {
+        "discount_amount": 47.53,
+        "discount_percentage": 16.42,
+        "due": 162.76,
+        "sub_total": 95.29,
+        "total": 141.48
+    },
+    "products": [
+        {
+            "description": "benchmark sticky initiatives",
+            "index": "10",
+            "quantity": 6.04,
+            "total_price": 220.88,
+            "unit_price": 81.14
+        },
+        {
+            "description": "iterate mission-critical web services",
+            "index": "4",
+            "quantity": 4.67,
+            "total_price": 558.53,
+            "unit_price": 60.53
+        },
+        {
+            "description": "benchmark impactful communities",
+            "index": "10",
+            "quantity": 1.81,
+            "total_price": 961.8,
+            "unit_price": 57.55
+        }
+    ],
+    "seller": {
+        "address": "2902 Amy Point Evanhaven, DE 91643",
+        "company_name": "Koch, Watkins and Henson",
+        "vat_no": "nc15698726238"
+    }
+}

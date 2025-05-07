@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "928 Phillips Neck Suite 274 Port Meganshire, NC 95952",
+        "company_name": "Butler LLC",
+        "country": "Ethiopia",
+        "name": "Andrew Peterson"
+    },
+    "invoice": {
+        "date": "11.03.2020",
+        "number": 390132
+    },
+    "payment": {
+        "discount_amount": 38.6,
+        "discount_percentage": 19.58,
+        "due": 106.68,
+        "sub_total": 192.66,
+        "total": 508.44
+    },
+    "products": [
+        {
+            "description": "morph back-end e-markets",
+            "index": "4",
+            "quantity": 4.4,
+            "total_price": 313.7,
+            "unit_price": 64.69
+        },
+        {
+            "description": "harness turn-key networks",
+            "index": "10",
+            "quantity": 9.01,
+            "total_price": 466.89,
+            "unit_price": 24.44
+        },
+        {
+            "description": "morph magnetic infrastructures",
+            "index": "9",
+            "quantity": 2.05,
+            "total_price": 803.97,
+            "unit_price": 94.54
+        },
+        {
+            "description": "maximize dot-com channels",
+            "index": "9",
+            "quantity": 3.0,
+            "total_price": 463.4,
+            "unit_price": 99.7
+        }
+    ],
+    "seller": {
+        "address": "18572 Jonathan Stravenue Apt. 320 Port Melissashire, NM 92299",
+        "company_name": "Lewis Ltd",
+        "vat_no": "MH70863322629"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "514 Parker Coves Apt. 453 East Rebeccamouth, KY 87568",
+        "email": "heatherthompson@example.com",
+        "phone": "(609)214-6968",
+        "vat_no": "Au42057099970"
+    },
+    "invoice": {
+        "date": "29.03.2018",
+        "due_date": "11.01.2009",
+        "market_reference": 559581,
+        "notes": "implement cutting-edge content",
+        "number": "7751-0220",
+        "reference": 468373,
+        "vat_no": "tN88374307812"
+    },
+    "payment": {
+        "net_total": 39.05,
+        "total": 850.82
+    },
+    "products": [
+        {
+            "amount": 18.56,
+            "description": "leverage dynamic relationships",
+            "hours": 5.07,
+            "rate": 3.55
+        },
+        {
+            "amount": 424.75,
+            "description": "disintermediate one-to-one functionalities",
+            "hours": 8.6,
+            "rate": 4.38
+        }
+    ],
+    "seller": {
+        "address": "USNV Bowen FPO AP 75004",
+        "email": "richmonddouglas@example.com",
+        "name": "Sherry Stein"
+    },
+    "tax": {
+        "base": 21.37,
+        "tax_amount": 15.68,
+        "total_tax": 15.34
+    }
+}

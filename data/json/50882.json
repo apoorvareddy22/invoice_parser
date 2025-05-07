@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "3835 Richard Highway Lake Raymondton, CO 59794",
+        "id": "YR875"
+    },
+    "invoice": {
+        "bc_no": "JZ74102",
+        "currency_code": "ETB",
+        "date": "08.10.2010",
+        "due_date": "11.01.2021",
+        "number": 468216
+    },
+    "payment": {
+        "bank_name": "Schmidt LLC",
+        "bic": "VSWUGBJPNOV",
+        "iban": "IZIG58242039185984"
+    },
+    "products": [
+        {
+            "amount": 425.85,
+            "description": "optimize cross-platform portals",
+            "index": "4",
+            "price": 61.68,
+            "quantity": 6.81,
+            "tax_amount": 44.06,
+            "total_ttc": 243.57,
+            "vat_amount": 6.16
+        },
+        {
+            "amount": 57.3,
+            "description": "synthesize wireless paradigms",
+            "index": "7",
+            "price": 169.18,
+            "quantity": 2.46,
+            "tax_amount": 95.88,
+            "total_ttc": 317.18,
+            "vat_amount": 1.8
+        },
+        {
+            "amount": 336.5,
+            "description": "visualize cross-platform synergies",
+            "index": "5",
+            "price": 57.79,
+            "quantity": 9.36,
+            "tax_amount": 70.12,
+            "total_ttc": 434.86,
+            "vat_amount": 3.91
+        }
+    ],
+    "seller": {
+        "name": "Wendy Drake"
+    },
+    "supplier": {
+        "address": "2312 Anderson Corner Suite 223 East Kelseyshire, HI 33493",
+        "name": "Karen Hanson"
+    },
+    "tax": {
+        "amount_excluding_tax": 58.18,
+        "amount_including_tax": 199.86,
+        "tax_amount": 11.13,
+        "total_ht": 218.85,
+        "total_ttc": 106.51
+    }
+}

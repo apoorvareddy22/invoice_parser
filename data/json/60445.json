@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "7607 Greene Spur Suite 169 Port Matthew, MH 16582",
+        "business_no": "fg142",
+        "id": "Zo746"
+    },
+    "invoice": {
+        "date": "10.04.2004",
+        "number": "7851-8419"
+    },
+    "payment": {
+        "due_date": "13.12.2008",
+        "total": 340.53
+    },
+    "products": [
+        {
+            "amount": 211.47,
+            "description": "aggregate turn-key niches",
+            "quantity": 2.8,
+            "reference": "ud-221",
+            "unit_price": 79.6
+        },
+        {
+            "amount": 8.32,
+            "description": "aggregate 24/7 bandwidth",
+            "quantity": 9.08,
+            "reference": "eg-651",
+            "unit_price": 77.02
+        },
+        {
+            "amount": 18.08,
+            "description": "engineer one-to-one experiences",
+            "quantity": 6.15,
+            "reference": "cK-369",
+            "unit_price": 73.52
+        }
+    ],
+    "seller": {
+        "address": "261 Elizabeth Court Suite 399 Jeffreytown, RI 06619"
+    },
+    "tax": {
+        "base_ht": 242.26,
+        "regulations": 14.15,
+        "total_ht": 486.93,
+        "vat_amount": 55.01,
+        "vat_percentage": 20.45
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "6872 Randy Stream Apt. 834 North Melanieport, IN 18380",
+        "company_name": "Hutchinson Inc",
+        "email": "clarkivan@example.net",
+        "name": "Jasmine Jones",
+        "phone": "001-525-841-7007x344"
+    },
+    "invoice": {
+        "date": "15.01.2019",
+        "due_date": "19.01.2008",
+        "number": "Cql12917826982"
+    },
+    "payment": {
+        "account_number": 5129446935,
+        "bank_name": "Parrish LLC",
+        "routing_number": 392685420
+    },
+    "products": [
+        {
+            "amount": 302.32,
+            "description": "mesh out-of-the-box networks",
+            "index": "1",
+            "quantity": 2.33,
+            "unit_price": 33.33
+        },
+        {
+            "amount": 131.08,
+            "description": "generate B2C methodologies",
+            "index": "9",
+            "quantity": 9.67,
+            "unit_price": 75.37
+        },
+        {
+            "amount": 105.75,
+            "description": "matrix innovative convergence",
+            "index": "3",
+            "quantity": 1.85,
+            "unit_price": 20.69
+        },
+        {
+            "amount": 97.16,
+            "description": "evolve virtual schemas",
+            "index": "9",
+            "quantity": 3.46,
+            "unit_price": 11.84
+        }
+    ],
+    "seller": {
+        "address": "8537 Alice Freeway Suite 254 Walkermouth, OH 67833",
+        "company_name": "Shah-Davis",
+        "email": "davisjason@example.com"
+    }
+}

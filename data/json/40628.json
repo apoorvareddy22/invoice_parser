@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "2114 Valerie Station Apt. 495 Port Elizabeth, SC 30043"
+    },
+    "invoice": {
+        "bc_no": "jk92386",
+        "date": "07.12.2019",
+        "maturity_date": "30.03.2000",
+        "number": 363301
+    },
+    "products": [
+        {
+            "amount": 424.71,
+            "description": "embrace world-class synergies",
+            "quantity": 2.45,
+            "unit_price": 58.48,
+            "vat_amount": 10.61
+        },
+        {
+            "amount": 241.98,
+            "description": "evolve cross-media experiences",
+            "quantity": 7.56,
+            "unit_price": 34.17,
+            "vat_amount": 10.5
+        },
+        {
+            "amount": 366.86,
+            "description": "matrix vertical paradigms",
+            "quantity": 2.55,
+            "unit_price": 40.87,
+            "vat_amount": 9.12
+        },
+        {
+            "amount": 227.28,
+            "description": "whiteboard interactive e-commerce",
+            "quantity": 9.35,
+            "unit_price": 96.68,
+            "vat_amount": 4.72
+        },
+        {
+            "amount": 196.48,
+            "description": "integrate front-end synergies",
+            "quantity": 4.96,
+            "unit_price": 14.07,
+            "vat_amount": 1.12
+        },
+        {
+            "amount": 446.61,
+            "description": "extend wireless relationships",
+            "quantity": 7.84,
+            "unit_price": 83.57,
+            "vat_amount": 1.2
+        }
+    ],
+    "seller": {
+        "address": "9095 Elliott Causeway Apt. 350 New Paul, OR 89247"
+    },
+    "tax": {
+        "amount_excluding_tax": 164.01,
+        "amount_including_tax": 26.25,
+        "tax_amount": 21.91
+    }
+}

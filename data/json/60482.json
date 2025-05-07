@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "9638 Rebekah Station Suite 960 Birdland, WA 61475",
+        "business_no": "CZ825",
+        "id": "Ew002"
+    },
+    "invoice": {
+        "date": "11.01.1993",
+        "number": "6288-1830"
+    },
+    "payment": {
+        "due_date": "10.09.2021",
+        "total": 433.12
+    },
+    "products": [
+        {
+            "amount": 20.88,
+            "description": "engage open-source interfaces",
+            "quantity": 2.89,
+            "reference": "Uo-832",
+            "unit_price": 78.64
+        },
+        {
+            "amount": 165.66,
+            "description": "enhance vertical info-mediaries",
+            "quantity": 9.08,
+            "reference": "oy-778",
+            "unit_price": 76.24
+        },
+        {
+            "amount": 381.97,
+            "description": "utilize bleeding-edge architectures",
+            "quantity": 2.71,
+            "reference": "Za-475",
+            "unit_price": 77.94
+        },
+        {
+            "amount": 313.7,
+            "description": "orchestrate vertical systems",
+            "quantity": 7.45,
+            "reference": "nu-625",
+            "unit_price": 17.39
+        },
+        {
+            "amount": 486.17,
+            "description": "deploy collaborative info-mediaries",
+            "quantity": 7.63,
+            "reference": "XW-811",
+            "unit_price": 21.19
+        }
+    ],
+    "seller": {
+        "address": "549 Sharon Forge Downshaven, CT 19948"
+    },
+    "tax": {
+        "base_ht": 223.61,
+        "regulations": 29.79,
+        "total_ht": 278.52,
+        "vat_amount": 68.63,
+        "vat_percentage": 17.74
+    }
+}

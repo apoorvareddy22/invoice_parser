@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "26169 Butler Station Lake Pamela, CT 37002"
+    },
+    "invoice": {
+        "bc_no": "Ro12934",
+        "date": "19.04.2006",
+        "maturity_date": "27.02.2010",
+        "number": 894189
+    },
+    "products": [
+        {
+            "amount": 157.7,
+            "description": "integrate cutting-edge functionalities",
+            "quantity": 7.4,
+            "unit_price": 35.96,
+            "vat_amount": 1.76
+        },
+        {
+            "amount": 450.27,
+            "description": "implement virtual deliverables",
+            "quantity": 7.03,
+            "unit_price": 37.72,
+            "vat_amount": 5.77
+        },
+        {
+            "amount": 317.68,
+            "description": "unleash dot-com portals",
+            "quantity": 9.82,
+            "unit_price": 52.1,
+            "vat_amount": 1.33
+        },
+        {
+            "amount": 126.1,
+            "description": "transform extensible info-mediaries",
+            "quantity": 7.6,
+            "unit_price": 39.43,
+            "vat_amount": 3.21
+        },
+        {
+            "amount": 146.54,
+            "description": "whiteboard real-time web services",
+            "quantity": 3.82,
+            "unit_price": 56.34,
+            "vat_amount": 1.51
+        },
+        {
+            "amount": 187.88,
+            "description": "orchestrate web-enabled web services",
+            "quantity": 2.94,
+            "unit_price": 79.58,
+            "vat_amount": 2.27
+        }
+    ],
+    "seller": {
+        "address": "460 Jonathon Ridge New Jeffreyville, MN 57943"
+    },
+    "tax": {
+        "amount_excluding_tax": 58.34,
+        "amount_including_tax": 86.74,
+        "tax_amount": 23.47
+    }
+}

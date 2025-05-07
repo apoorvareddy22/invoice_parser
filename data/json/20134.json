@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "04691 Murphy Common Port Paul, NY 48439",
+        "company_name": "Moreno Group",
+        "email": "ericsmith@example.net",
+        "name": "Kevin Miller",
+        "phone": "(572)696-7804x324"
+    },
+    "invoice": {
+        "date": "24.01.2011",
+        "due_date": "07.02.2005",
+        "number": "amY06389216093"
+    },
+    "payment": {
+        "account_number": 8103907210,
+        "bank_name": "Cortez-Whitehead",
+        "routing_number": 607891118
+    },
+    "products": [
+        {
+            "amount": 386.82,
+            "description": "evolve vertical e-business",
+            "index": "3",
+            "quantity": 6.24,
+            "unit_price": 28.83
+        },
+        {
+            "amount": 170.17,
+            "description": "evolve next-generation functionalities",
+            "index": "3",
+            "quantity": 3.38,
+            "unit_price": 41.03
+        }
+    ],
+    "seller": {
+        "address": "4433 White Ferry Graymouth, WV 28444",
+        "company_name": "Ayers, Larson and Miller",
+        "email": "rprice@example.org"
+    }
+}

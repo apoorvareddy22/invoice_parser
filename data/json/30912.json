@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "087 Jack Islands New Sherrymouth, AL 65532",
+        "company_name": "Manning, Rodriguez and Mitchell",
+        "country": "Russian Federation",
+        "email": "elliottjeanne@example.net",
+        "name": "Jorge West",
+        "phone": "+1-498-406-1520",
+        "vat_no": "in79507455359"
+    },
+    "invoice": {
+        "date": "30.04.2002",
+        "due_date": "21.09.2003",
+        "linked_invoice": "SD-2455-9795",
+        "notes": "benchmark e-business e-services",
+        "number": "xR-4013-2600"
+    },
+    "products": [
+        {
+            "description": "deploy dot-com platforms",
+            "discount_percentage": 9.26,
+            "price": 291.31,
+            "quantity": 8.51,
+            "unit_price": 89.05
+        },
+        {
+            "description": "embrace transparent solutions",
+            "discount_percentage": 18.7,
+            "price": 229.63,
+            "quantity": 9.04,
+            "unit_price": 48.49
+        },
+        {
+            "description": "iterate plug-and-play supply-chains",
+            "discount_percentage": 8.35,
+            "price": 168.17,
+            "quantity": 8.46,
+            "unit_price": 29.44
+        }
+    ],
+    "seller": {
+        "address": "6448 Jimenez Brooks Smithburgh, AK 22159",
+        "ape": "0053F",
+        "capital": 55080112,
+        "country": "Antarctica (the territory South of 60 deg S)",
+        "email": "mariali@example.com",
+        "name": "Christopher Hardy",
+        "phone_1": "001-897-754-7622x7944",
+        "phone_2": "+1-853-435-8335x04233",
+        "phone_3": "(555)276-8789x1564",
+        "ref_walk": "egBz7685",
+        "reference": "yE069",
+        "siret": 56779265075636,
+        "vat_no": "oJ81944071223",
+        "website": "https://www.stokes-stone.net/"
+    },
+    "tax": {
+        "amount_0": 13.46,
+        "amount_1": 20.58,
+        "base_0": 10.15,
+        "base_1": 172.34,
+        "total_ht": 458.03,
+        "total_tax": 20.95,
+        "total_ttc": 402.4,
+        "vat_0": 21.49,
+        "vat_1": 21.6
+    }
+}

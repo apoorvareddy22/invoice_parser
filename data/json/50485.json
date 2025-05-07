@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "PSC 2443, Box 1769 APO AE 82473",
+        "id": "oD077"
+    },
+    "invoice": {
+        "bc_no": "wx22340",
+        "currency_code": "STD",
+        "date": "05.03.2004",
+        "due_date": "26.02.1991",
+        "number": 717153
+    },
+    "payment": {
+        "bank_name": "Smith-Klein",
+        "bic": "FVQSGB4R",
+        "iban": "RCKV22973384338895"
+    },
+    "products": [
+        {
+            "amount": 157.19,
+            "description": "scale synergistic web-readiness",
+            "index": "1",
+            "price": 33.08,
+            "quantity": 7.89,
+            "tax_amount": 33.92,
+            "total_ttc": 287.49,
+            "vat_amount": 6.67
+        }
+    ],
+    "seller": {
+        "name": "Lisa Orr"
+    },
+    "supplier": {
+        "address": "1125 Raymond Haven Apt. 668 North Michaelberg, NM 87198",
+        "name": "Kenneth Harris"
+    },
+    "tax": {
+        "amount_excluding_tax": 196.21,
+        "amount_including_tax": 65.5,
+        "tax_amount": 19.62,
+        "total_ht": 134.37,
+        "total_ttc": 158.3
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "79080 Gail Locks Suite 516 Lake Michelle, IL 12677",
+        "id": "un442"
+    },
+    "invoice": {
+        "bc_no": "Yw99659",
+        "currency_code": "SBD",
+        "date": "23.07.2014",
+        "due_date": "27.06.2016",
+        "number": 370417
+    },
+    "payment": {
+        "bank_name": "Carpenter Group",
+        "bic": "OQVAGB1K",
+        "iban": "WTYI53871785003000"
+    },
+    "products": [
+        {
+            "amount": 133.07,
+            "description": "disintermediate one-to-one vortals",
+            "index": "7",
+            "price": 393.2,
+            "quantity": 9.28,
+            "tax_amount": 23.04,
+            "total_ttc": 475.11,
+            "vat_amount": 13.81
+        },
+        {
+            "amount": 264.58,
+            "description": "expedite world-class functionalities",
+            "index": "2",
+            "price": 440.89,
+            "quantity": 3.4,
+            "tax_amount": 53.47,
+            "total_ttc": 247.42,
+            "vat_amount": 2.34
+        },
+        {
+            "amount": 464.03,
+            "description": "synergize mission-critical methodologies",
+            "index": "1",
+            "price": 432.56,
+            "quantity": 6.13,
+            "tax_amount": 27.2,
+            "total_ttc": 213.86,
+            "vat_amount": 2.45
+        }
+    ],
+    "seller": {
+        "name": "Vincent Bell"
+    },
+    "supplier": {
+        "address": "575 Martin Pine Suite 370 Sheenaport, WI 15920",
+        "name": "Jesse Adams II"
+    },
+    "tax": {
+        "amount_excluding_tax": 49.53,
+        "amount_including_tax": 132.2,
+        "tax_amount": 25.9,
+        "total_ht": 496.92,
+        "total_ttc": 264.3
+    }
+}

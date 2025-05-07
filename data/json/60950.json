@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "72122 David Centers Apt. 170 West Alan, IL 31225",
+        "business_no": "DT353",
+        "id": "Lp855"
+    },
+    "invoice": {
+        "date": "06.03.2013",
+        "number": "9331-1295"
+    },
+    "payment": {
+        "due_date": "13.12.2005",
+        "total": 774.97
+    },
+    "products": [
+        {
+            "amount": 192.89,
+            "description": "matrix virtual bandwidth",
+            "quantity": 4.93,
+            "reference": "yl-210",
+            "unit_price": 52.24
+        },
+        {
+            "amount": 232.95,
+            "description": "iterate cross-platform e-commerce",
+            "quantity": 1.4,
+            "reference": "EK-453",
+            "unit_price": 73.97
+        }
+    ],
+    "seller": {
+        "address": "43616 Brooks Dam East Jonathanmouth, WI 86340"
+    },
+    "tax": {
+        "base_ht": 349.93,
+        "regulations": 19.59,
+        "total_ht": 316.22,
+        "vat_amount": 28.16,
+        "vat_percentage": 25.83
+    }
+}

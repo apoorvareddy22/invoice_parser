@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "2476 Gallagher Rapids Port Annaton, SD 95256",
+        "business_no": "AL314",
+        "id": "Yd071"
+    },
+    "invoice": {
+        "date": "19.04.1994",
+        "number": "2460-3433"
+    },
+    "payment": {
+        "due_date": "03.05.1999",
+        "total": 336.38
+    },
+    "products": [
+        {
+            "amount": 454.59,
+            "description": "implement open-source web services",
+            "quantity": 5.12,
+            "reference": "gy-065",
+            "unit_price": 45.59
+        },
+        {
+            "amount": 358.18,
+            "description": "e-enable integrated vortals",
+            "quantity": 6.98,
+            "reference": "zi-847",
+            "unit_price": 84.69
+        },
+        {
+            "amount": 8.62,
+            "description": "morph frictionless e-services",
+            "quantity": 3.69,
+            "reference": "nT-707",
+            "unit_price": 86.53
+        }
+    ],
+    "seller": {
+        "address": "650 Black Locks Suite 033 Tanyamouth, IN 31166"
+    },
+    "tax": {
+        "base_ht": 184.82,
+        "regulations": 17.01,
+        "total_ht": 133.63,
+        "vat_amount": 187.95,
+        "vat_percentage": 16.14
+    }
+}

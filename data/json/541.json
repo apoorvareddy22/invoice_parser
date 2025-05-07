@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "006 Campos Road Apt. 958 East Bettyfort, AL 27335",
+        "company_name": "Schneider Ltd",
+        "country": "Slovenia",
+        "name": "Rachel Russell"
+    },
+    "invoice": {
+        "date": "17.01.2003",
+        "number": 734857
+    },
+    "payment": {
+        "discount_amount": 13.75,
+        "discount_percentage": 12.76,
+        "due": 68.65,
+        "sub_total": 102.54,
+        "total": 158.7
+    },
+    "products": [
+        {
+            "description": "incentivize compelling deliverables",
+            "index": "9",
+            "quantity": 3.95,
+            "total_price": 754.31,
+            "unit_price": 31.76
+        },
+        {
+            "description": "streamline open-source supply-chains",
+            "index": "3",
+            "quantity": 6.04,
+            "total_price": 306.12,
+            "unit_price": 44.59
+        }
+    ],
+    "seller": {
+        "address": "35803 Hernandez Views East Johnmouth, CO 17002",
+        "company_name": "Jordan LLC",
+        "vat_no": "cX68968482331"
+    }
+}

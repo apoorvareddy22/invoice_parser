@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "PSC 4834, Box 1554 APO AA 61738",
+        "email": "darrenpark@example.com",
+        "phone": "549-330-6526x942",
+        "vat_no": "wI67075478074"
+    },
+    "invoice": {
+        "date": "26.06.2018",
+        "due_date": "28.09.2002",
+        "market_reference": 785248,
+        "notes": "re-intermediate 24/365 technologies",
+        "number": "6515-9116",
+        "reference": 663609,
+        "vat_no": "zx03150439701"
+    },
+    "payment": {
+        "net_total": 103.31,
+        "total": 572.88
+    },
+    "products": [
+        {
+            "amount": 286.35,
+            "description": "whiteboard 24/7 methodologies",
+            "hours": 6.61,
+            "rate": 7.83
+        },
+        {
+            "amount": 116.46,
+            "description": "morph value-added bandwidth",
+            "hours": 2.52,
+            "rate": 1.33
+        }
+    ],
+    "seller": {
+        "address": "5710 Rivers Shores Amandaton, NV 15353",
+        "email": "johnsmall@example.com",
+        "name": "Michael Nelson"
+    },
+    "tax": {
+        "base": 19.62,
+        "tax_amount": 19.35,
+        "total_tax": 12.71
+    }
+}

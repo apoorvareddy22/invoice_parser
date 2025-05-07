@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "642 Ashley Pines Suite 430 Whitetown, HI 38952",
+        "email": "scottoliver@example.org",
+        "phone": "8682095480",
+        "vat_no": "wz85228220577"
+    },
+    "invoice": {
+        "date": "01.12.1992",
+        "due_date": "12.09.2011",
+        "market_reference": 205619,
+        "notes": "unleash magnetic partnerships",
+        "number": "9794-8892",
+        "reference": 270919,
+        "vat_no": "XT85066969563"
+    },
+    "payment": {
+        "net_total": 188.82,
+        "total": 554.29
+    },
+    "products": [
+        {
+            "amount": 11.25,
+            "description": "evolve viral ROI",
+            "hours": 7.14,
+            "rate": 1.91
+        },
+        {
+            "amount": 399.78,
+            "description": "streamline one-to-one models",
+            "hours": 1.94,
+            "rate": 7.88
+        },
+        {
+            "amount": 182.7,
+            "description": "redefine bleeding-edge content",
+            "hours": 2.64,
+            "rate": 5.38
+        },
+        {
+            "amount": 425.72,
+            "description": "redefine e-business e-tailers",
+            "hours": 2.76,
+            "rate": 4.09
+        }
+    ],
+    "seller": {
+        "address": "36224 Marcus Drive Brianmouth, NM 09031",
+        "email": "jacquelinegrimes@example.com",
+        "name": "Timothy Wallace"
+    },
+    "tax": {
+        "base": 10.22,
+        "tax_amount": 28.63,
+        "total_tax": 11.54
+    }
+}

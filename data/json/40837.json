@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "2083 Adrian River Apt. 749 Wattsshire, NE 97044"
+    },
+    "invoice": {
+        "bc_no": "nn04289",
+        "date": "31.05.2001",
+        "maturity_date": "10.12.1999",
+        "number": 387201
+    },
+    "products": [
+        {
+            "amount": 159.44,
+            "description": "orchestrate virtual convergence",
+            "quantity": 9.5,
+            "unit_price": 73.2,
+            "vat_amount": 4.67
+        },
+        {
+            "amount": 370.46,
+            "description": "visualize synergistic mindshare",
+            "quantity": 1.4,
+            "unit_price": 39.14,
+            "vat_amount": 4.48
+        }
+    ],
+    "seller": {
+        "address": "60744 Elliott Branch Lake Erikastad, AZ 16403"
+    },
+    "tax": {
+        "amount_excluding_tax": 149.7,
+        "amount_including_tax": 172.79,
+        "tax_amount": 21.37
+    }
+}

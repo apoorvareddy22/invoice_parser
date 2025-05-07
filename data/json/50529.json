@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "8812 Denise Fields West Christinaville, IN 38142",
+        "id": "Xi327"
+    },
+    "invoice": {
+        "bc_no": "Dn19581",
+        "currency_code": "LRD",
+        "date": "12.06.2000",
+        "due_date": "25.08.2003",
+        "number": 608074
+    },
+    "payment": {
+        "bank_name": "Smith-Levy",
+        "bic": "ZZCKGB9C",
+        "iban": "CPJO19866753395768"
+    },
+    "products": [
+        {
+            "amount": 446.4,
+            "description": "deploy scalable partnerships",
+            "index": "2",
+            "price": 119.83,
+            "quantity": 9.57,
+            "tax_amount": 43.85,
+            "total_ttc": 442.83,
+            "vat_amount": 14.03
+        },
+        {
+            "amount": 33.29,
+            "description": "scale collaborative partnerships",
+            "index": "2",
+            "price": 113.45,
+            "quantity": 3.96,
+            "tax_amount": 49.7,
+            "total_ttc": 233.18,
+            "vat_amount": 1.34
+        },
+        {
+            "amount": 283.72,
+            "description": "deliver distributed schemas",
+            "index": "1",
+            "price": 18.55,
+            "quantity": 9.12,
+            "tax_amount": 22.6,
+            "total_ttc": 394.61,
+            "vat_amount": 2.42
+        },
+        {
+            "amount": 177.23,
+            "description": "engage back-end info-mediaries",
+            "index": "9",
+            "price": 241.92,
+            "quantity": 7.02,
+            "tax_amount": 44.02,
+            "total_ttc": 355.7,
+            "vat_amount": 0.57
+        },
+        {
+            "amount": 169.83,
+            "description": "matrix wireless solutions",
+            "index": "7",
+            "price": 294.56,
+            "quantity": 3.54,
+            "tax_amount": 48.37,
+            "total_ttc": 289.78,
+            "vat_amount": 4.01
+        }
+    ],
+    "seller": {
+        "name": "Ethan Gross"
+    },
+    "supplier": {
+        "address": "451 Moore Port Sullivanmouth, HI 57908",
+        "name": "Thomas Davis"
+    },
+    "tax": {
+        "amount_excluding_tax": 192.55,
+        "amount_including_tax": 136.92,
+        "tax_amount": 27.82,
+        "total_ht": 357.62,
+        "total_ttc": 390.07
+    }
+}

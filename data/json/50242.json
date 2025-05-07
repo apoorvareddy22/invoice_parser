@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "322 Moore Lake Lake Vincentton, SC 60211",
+        "id": "Bq827"
+    },
+    "invoice": {
+        "bc_no": "RY93238",
+        "currency_code": "XPF",
+        "date": "30.01.2008",
+        "due_date": "15.04.2020",
+        "number": 608224
+    },
+    "payment": {
+        "bank_name": "Huerta Ltd",
+        "bic": "IAWZGBL682V",
+        "iban": "IUOY82069321081999"
+    },
+    "products": [
+        {
+            "amount": 417.49,
+            "description": "reinvent bleeding-edge e-tailers",
+            "index": "9",
+            "price": 62.43,
+            "quantity": 8.36,
+            "tax_amount": 53.99,
+            "total_ttc": 144.45,
+            "vat_amount": 7.6
+        },
+        {
+            "amount": 226.71,
+            "description": "matrix sticky infrastructures",
+            "index": "2",
+            "price": 230.99,
+            "quantity": 3.56,
+            "tax_amount": 98.17,
+            "total_ttc": 120.63,
+            "vat_amount": 6.45
+        }
+    ],
+    "seller": {
+        "name": "James Ball"
+    },
+    "supplier": {
+        "address": "672 Joyce Junctions Apt. 644 Marilynchester, MS 85957",
+        "name": "Amanda Norton"
+    },
+    "tax": {
+        "amount_excluding_tax": 13.86,
+        "amount_including_tax": 71.65,
+        "tax_amount": 25.72,
+        "total_ht": 322.19,
+        "total_ttc": 143.76
+    }
+}

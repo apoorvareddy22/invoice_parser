@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "4066 Morris Squares Suite 831 Gabrielmouth, NC 30184",
+        "business_no": "VL609",
+        "id": "Jh457"
+    },
+    "invoice": {
+        "date": "28.04.2007",
+        "number": "9927-4813"
+    },
+    "payment": {
+        "due_date": "06.03.1992",
+        "total": 206.26
+    },
+    "products": [
+        {
+            "amount": 358.66,
+            "description": "transform B2C channels",
+            "quantity": 6.79,
+            "reference": "ar-819",
+            "unit_price": 55.66
+        },
+        {
+            "amount": 253.57,
+            "description": "brand innovative e-markets",
+            "quantity": 2.47,
+            "reference": "gh-471",
+            "unit_price": 33.09
+        }
+    ],
+    "seller": {
+        "address": "69986 Zachary Dale North Johnhaven, FL 57145"
+    },
+    "tax": {
+        "base_ht": 461.74,
+        "regulations": 13.86,
+        "total_ht": 231.44,
+        "vat_amount": 168.99,
+        "vat_percentage": 12.39
+    }
+}

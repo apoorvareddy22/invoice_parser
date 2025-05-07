@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "09191 Stephanie Unions Apt. 771 East Connieborough, OH 13562",
+        "email": "cody41@example.net",
+        "phone": "(447)727-2478",
+        "vat_no": "MV52121908786"
+    },
+    "invoice": {
+        "date": "15.03.1995",
+        "due_date": "05.01.2022",
+        "market_reference": 571626,
+        "notes": "e-enable collaborative e-commerce",
+        "number": "7189-8158",
+        "reference": 823884,
+        "vat_no": "TS57939108122"
+    },
+    "payment": {
+        "net_total": 128.95,
+        "total": 328.48
+    },
+    "products": [
+        {
+            "amount": 232.8,
+            "description": "aggregate ubiquitous paradigms",
+            "hours": 8.3,
+            "rate": 7.85
+        },
+        {
+            "amount": 296.24,
+            "description": "visualize ubiquitous e-commerce",
+            "hours": 4.38,
+            "rate": 2.04
+        },
+        {
+            "amount": 23.84,
+            "description": "incentivize clicks-and-mortar info-mediaries",
+            "hours": 3.87,
+            "rate": 7.54
+        },
+        {
+            "amount": 373.81,
+            "description": "aggregate user-centric info-mediaries",
+            "hours": 2.47,
+            "rate": 1.99
+        },
+        {
+            "amount": 378.07,
+            "description": "incubate turn-key content",
+            "hours": 6.54,
+            "rate": 4.99
+        }
+    ],
+    "seller": {
+        "address": "323 Davis Roads Suite 402 Sarahfurt, HI 65951",
+        "email": "chelsea21@example.net",
+        "name": "Charlene Newman"
+    },
+    "tax": {
+        "base": 14.17,
+        "tax_amount": 15.99,
+        "total_tax": 18.14
+    }
+}

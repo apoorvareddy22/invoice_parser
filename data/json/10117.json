@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "PSC 9549, Box 1854 APO AA 18575",
+        "email": "bclayton@example.com",
+        "phone": "001-480-279-2597x50919",
+        "vat_no": "MU90827499190"
+    },
+    "invoice": {
+        "date": "04.09.1997",
+        "due_date": "07.09.1999",
+        "market_reference": 677277,
+        "notes": "visualize value-added content",
+        "number": "6448-7307",
+        "reference": 641380,
+        "vat_no": "xH32593997898"
+    },
+    "payment": {
+        "net_total": 32.85,
+        "total": 991.92
+    },
+    "products": [
+        {
+            "amount": 79.6,
+            "description": "aggregate compelling functionalities",
+            "hours": 2.48,
+            "rate": 5.41
+        },
+        {
+            "amount": 292.55,
+            "description": "brand compelling e-business",
+            "hours": 1.94,
+            "rate": 3.48
+        },
+        {
+            "amount": 402.44,
+            "description": "target seamless web-readiness",
+            "hours": 2.15,
+            "rate": 7.15
+        }
+    ],
+    "seller": {
+        "address": "61013 Roach Cliffs Suite 283 Mercadofort, IN 67721",
+        "email": "hamiltonduane@example.org",
+        "name": "Michael Santos"
+    },
+    "tax": {
+        "base": 23.81,
+        "tax_amount": 29.37,
+        "total_tax": 12.88
+    }
+}

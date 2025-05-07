@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "USNS Pearson FPO AA 55635"
+    },
+    "invoice": {
+        "bc_no": "kI83494",
+        "date": "13.07.2012",
+        "maturity_date": "25.03.2012",
+        "number": 115917
+    },
+    "products": [
+        {
+            "amount": 419.98,
+            "description": "envisioneer web-enabled ROI",
+            "quantity": 3.28,
+            "unit_price": 38.03,
+            "vat_amount": 5.23
+        },
+        {
+            "amount": 465.25,
+            "description": "re-intermediate B2C eyeballs",
+            "quantity": 8.32,
+            "unit_price": 77.15,
+            "vat_amount": 6.16
+        },
+        {
+            "amount": 145.61,
+            "description": "architect cutting-edge experiences",
+            "quantity": 9.59,
+            "unit_price": 10.03,
+            "vat_amount": 0.66
+        }
+    ],
+    "seller": {
+        "address": "28993 Gary Tunnel Jeffreyburgh, OK 56452"
+    },
+    "tax": {
+        "amount_excluding_tax": 29.33,
+        "amount_including_tax": 127.82,
+        "tax_amount": 20.33
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "43306 Russell Island Donnaburgh, MD 97573",
+        "id": "kK389"
+    },
+    "invoice": {
+        "bc_no": "wa56581",
+        "currency_code": "GBP",
+        "date": "23.03.2006",
+        "due_date": "27.01.2017",
+        "number": 535853
+    },
+    "payment": {
+        "bank_name": "Jackson-Lewis",
+        "bic": "JJSGGBR41D6",
+        "iban": "HCRN77270408787812"
+    },
+    "products": [
+        {
+            "amount": 378.0,
+            "description": "engage granular eyeballs",
+            "index": "3",
+            "price": 376.29,
+            "quantity": 2.79,
+            "tax_amount": 52.14,
+            "total_ttc": 343.76,
+            "vat_amount": 1.47
+        },
+        {
+            "amount": 218.5,
+            "description": "generate back-end web services",
+            "index": "4",
+            "price": 6.69,
+            "quantity": 6.53,
+            "tax_amount": 21.54,
+            "total_ttc": 445.95,
+            "vat_amount": 3.41
+        },
+        {
+            "amount": 497.08,
+            "description": "morph 24/365 bandwidth",
+            "index": "8",
+            "price": 127.14,
+            "quantity": 5.49,
+            "tax_amount": 63.39,
+            "total_ttc": 400.51,
+            "vat_amount": 5.1
+        },
+        {
+            "amount": 118.64,
+            "description": "mesh customized action-items",
+            "index": "7",
+            "price": 201.12,
+            "quantity": 7.39,
+            "tax_amount": 38.95,
+            "total_ttc": 301.2,
+            "vat_amount": 2.47
+        },
+        {
+            "amount": 285.1,
+            "description": "synergize 24/365 applications",
+            "index": "4",
+            "price": 38.03,
+            "quantity": 6.34,
+            "tax_amount": 74.94,
+            "total_ttc": 393.37,
+            "vat_amount": 4.87
+        }
+    ],
+    "seller": {
+        "name": "Jacob Mcdonald"
+    },
+    "supplier": {
+        "address": "USNV Harper FPO AP 55736",
+        "name": "James Torres"
+    },
+    "tax": {
+        "amount_excluding_tax": 24.57,
+        "amount_including_tax": 193.93,
+        "tax_amount": 26.74,
+        "total_ht": 365.24,
+        "total_ttc": 470.52
+    }
+}

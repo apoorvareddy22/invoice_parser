@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "500 Ashley Road Apt. 069 Mariamouth, MP 71968",
+        "business_no": "Ho793",
+        "id": "lL422"
+    },
+    "invoice": {
+        "date": "27.10.2004",
+        "number": "7924-8208"
+    },
+    "payment": {
+        "due_date": "06.05.1993",
+        "total": 703.45
+    },
+    "products": [
+        {
+            "amount": 62.05,
+            "description": "leverage web-enabled portals",
+            "quantity": 6.93,
+            "reference": "IG-936",
+            "unit_price": 62.03
+        },
+        {
+            "amount": 137.1,
+            "description": "visualize cutting-edge partnerships",
+            "quantity": 8.08,
+            "reference": "Ju-372",
+            "unit_price": 24.31
+        }
+    ],
+    "seller": {
+        "address": "079 Reginald Mount Apt. 207 South Marissa, MI 42055"
+    },
+    "tax": {
+        "base_ht": 169.69,
+        "regulations": 18.24,
+        "total_ht": 332.56,
+        "vat_amount": 41.92,
+        "vat_percentage": 21.53
+    }
+}

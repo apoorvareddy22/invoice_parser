@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "9483 Frank Crossing Suite 171 Port Rebeccastad, ME 39011"
+    },
+    "invoice": {
+        "bc_no": "Pn67714",
+        "date": "02.01.1996",
+        "maturity_date": "20.09.2001",
+        "number": 710347
+    },
+    "products": [
+        {
+            "amount": 266.99,
+            "description": "envisioneer seamless action-items",
+            "quantity": 3.94,
+            "unit_price": 98.94,
+            "vat_amount": 0.81
+        },
+        {
+            "amount": 184.44,
+            "description": "enhance world-class schemas",
+            "quantity": 2.09,
+            "unit_price": 35.12,
+            "vat_amount": 13.97
+        },
+        {
+            "amount": 134.85,
+            "description": "reinvent clicks-and-mortar eyeballs",
+            "quantity": 6.68,
+            "unit_price": 70.86,
+            "vat_amount": 1.41
+        },
+        {
+            "amount": 162.15,
+            "description": "orchestrate efficient models",
+            "quantity": 4.67,
+            "unit_price": 78.78,
+            "vat_amount": 3.81
+        },
+        {
+            "amount": 327.26,
+            "description": "cultivate ubiquitous partnerships",
+            "quantity": 4.1,
+            "unit_price": 89.54,
+            "vat_amount": 6.55
+        }
+    ],
+    "seller": {
+        "address": "3809 Gentry Harbors Colemanton, NC 67146"
+    },
+    "tax": {
+        "amount_excluding_tax": 114.6,
+        "amount_including_tax": 57.06,
+        "tax_amount": 23.19
+    }
+}

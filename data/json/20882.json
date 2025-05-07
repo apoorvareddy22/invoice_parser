@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "2868 Rebecca Inlet Suite 146 Sharonchester, MD 33435",
+        "company_name": "Wade, Williams and Hansen",
+        "email": "melissaphillips@example.org",
+        "name": "Leah Strickland",
+        "phone": "825.407.1092x850"
+    },
+    "invoice": {
+        "date": "22.05.1993",
+        "due_date": "24.10.2018",
+        "number": "SVF79971815311"
+    },
+    "payment": {
+        "account_number": 2810082015,
+        "bank_name": "King Group",
+        "routing_number": 865485447
+    },
+    "products": [
+        {
+            "amount": 57.66,
+            "description": "visualize B2B functionalities",
+            "index": "1",
+            "quantity": 9.98,
+            "unit_price": 18.37
+        },
+        {
+            "amount": 173.41,
+            "description": "incubate visionary architectures",
+            "index": "1",
+            "quantity": 8.99,
+            "unit_price": 46.37
+        }
+    ],
+    "seller": {
+        "address": "778 Jackson Flats Apt. 898 Williamston, FM 78717",
+        "company_name": "King, Stephens and Wilson",
+        "email": "amoore@example.net"
+    }
+}

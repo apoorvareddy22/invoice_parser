@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "Unit 0450 Box 2261 DPO AE 80095",
+        "email": "jamie23@example.org",
+        "phone": "(857)696-0803x04908",
+        "vat_no": "Sj76120111957"
+    },
+    "invoice": {
+        "date": "10.02.2017",
+        "due_date": "04.07.1999",
+        "market_reference": 993373,
+        "notes": "scale e-business communities",
+        "number": "3198-2913",
+        "reference": 766134,
+        "vat_no": "vB53475195208"
+    },
+    "payment": {
+        "net_total": 196.81,
+        "total": 638.46
+    },
+    "products": [
+        {
+            "amount": 93.43,
+            "description": "strategize efficient metrics",
+            "hours": 4.48,
+            "rate": 3.48
+        }
+    ],
+    "seller": {
+        "address": "825 Dennis Forks Suite 849 Joseview, NM 93518",
+        "email": "reeserachael@example.org",
+        "name": "Linda Dodson"
+    },
+    "tax": {
+        "base": 12.64,
+        "tax_amount": 25.28,
+        "total_tax": 20.33
+    }
+}

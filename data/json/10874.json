@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "7968 Brandon Ville Apt. 227 South Shirley, AK 65203",
+        "email": "chad34@example.org",
+        "phone": "(696)589-1196",
+        "vat_no": "Hc23534916193"
+    },
+    "invoice": {
+        "date": "03.09.2015",
+        "due_date": "24.08.2014",
+        "market_reference": 734637,
+        "notes": "deliver web-enabled users",
+        "number": "1403-9715",
+        "reference": 763772,
+        "vat_no": "vr40446634748"
+    },
+    "payment": {
+        "net_total": 49.26,
+        "total": 916.85
+    },
+    "products": [
+        {
+            "amount": 174.77,
+            "description": "strategize ubiquitous communities",
+            "hours": 9.99,
+            "rate": 5.36
+        }
+    ],
+    "seller": {
+        "address": "487 Brenda Forge Port David, IN 93853",
+        "email": "psellers@example.net",
+        "name": "Ashley Sparks"
+    },
+    "tax": {
+        "base": 16.45,
+        "tax_amount": 27.35,
+        "total_tax": 23.18
+    }
+}

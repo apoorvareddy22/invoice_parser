@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "PSC 5866, Box 8218 APO AE 56830",
+        "company_name": "Weber, West and Chan",
+        "email": "lopezsophia@example.org",
+        "name": "Nicole Carroll",
+        "phone": "+1-763-677-3712x327"
+    },
+    "invoice": {
+        "date": "04.06.1991",
+        "due_date": "02.02.2001",
+        "number": "RGR87877512231"
+    },
+    "payment": {
+        "account_number": 4912332291,
+        "bank_name": "Boyd PLC",
+        "routing_number": 725272066
+    },
+    "products": [
+        {
+            "amount": 20.71,
+            "description": "extend open-source methodologies",
+            "index": "3",
+            "quantity": 8.77,
+            "unit_price": 94.84
+        }
+    ],
+    "seller": {
+        "address": "0408 Terry Dale South Jonathanview, NC 41824",
+        "company_name": "Frank PLC",
+        "email": "dawn47@example.com"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "405 Anderson Well Christopherport, NJ 90858",
+        "company_name": "Blair Inc",
+        "email": "ewalsh@example.org",
+        "name": "Emily Velasquez",
+        "phone": "+1-220-361-0008x96928"
+    },
+    "invoice": {
+        "date": "14.08.1991",
+        "due_date": "10.01.2021",
+        "number": "bSK79818408356"
+    },
+    "payment": {
+        "account_number": 4388147554,
+        "bank_name": "Williams, Cooley and Walker",
+        "routing_number": 622556025
+    },
+    "products": [
+        {
+            "amount": 495.04,
+            "description": "synergize strategic mindshare",
+            "index": "3",
+            "quantity": 9.45,
+            "unit_price": 17.38
+        },
+        {
+            "amount": 76.15,
+            "description": "whiteboard cross-platform systems",
+            "index": "8",
+            "quantity": 4.51,
+            "unit_price": 72.15
+        },
+        {
+            "amount": 468.86,
+            "description": "maximize holistic web services",
+            "index": "4",
+            "quantity": 4.59,
+            "unit_price": 81.34
+        }
+    ],
+    "seller": {
+        "address": "7254 Morris Village Suite 089 North Hannah, MI 29108",
+        "company_name": "Clark-Perkins",
+        "email": "alisondalton@example.com"
+    }
+}

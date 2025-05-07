@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "9899 Mary Plains Nathanberg, NJ 87415",
+        "id": "TA858"
+    },
+    "invoice": {
+        "bc_no": "Ht99042",
+        "currency_code": "ILS",
+        "date": "02.10.1998",
+        "due_date": "22.01.2004",
+        "number": 225066
+    },
+    "payment": {
+        "bank_name": "Miller Group",
+        "bic": "MLZHGBIN",
+        "iban": "BNXR86206335314043"
+    },
+    "products": [
+        {
+            "amount": 145.64,
+            "description": "strategize vertical vortals",
+            "index": "9",
+            "price": 93.9,
+            "quantity": 6.36,
+            "tax_amount": 33.66,
+            "total_ttc": 432.28,
+            "vat_amount": 3.78
+        },
+        {
+            "amount": 210.41,
+            "description": "morph mission-critical platforms",
+            "index": "2",
+            "price": 121.11,
+            "quantity": 6.73,
+            "tax_amount": 38.51,
+            "total_ttc": 217.52,
+            "vat_amount": 5.42
+        },
+        {
+            "amount": 303.71,
+            "description": "evolve scalable models",
+            "index": "3",
+            "price": 173.91,
+            "quantity": 4.31,
+            "tax_amount": 97.1,
+            "total_ttc": 308.78,
+            "vat_amount": 2.44
+        },
+        {
+            "amount": 61.95,
+            "description": "cultivate plug-and-play architectures",
+            "index": "3",
+            "price": 56.73,
+            "quantity": 9.01,
+            "tax_amount": 74.57,
+            "total_ttc": 230.58,
+            "vat_amount": 0.12
+        },
+        {
+            "amount": 26.18,
+            "description": "generate leading-edge applications",
+            "index": "10",
+            "price": 154.75,
+            "quantity": 4.56,
+            "tax_amount": 82.86,
+            "total_ttc": 374.01,
+            "vat_amount": 10.67
+        }
+    ],
+    "seller": {
+        "name": "Christopher Andersen"
+    },
+    "supplier": {
+        "address": "USS Bradford FPO AA 95824",
+        "name": "Shelia Howell"
+    },
+    "tax": {
+        "amount_excluding_tax": 140.02,
+        "amount_including_tax": 150.85,
+        "tax_amount": 17.96,
+        "total_ht": 306.32,
+        "total_ttc": 447.3
+    }
+}

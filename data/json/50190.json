@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "810 Odonnell Gardens Apt. 876 Anthonyfurt, MS 86140",
+        "id": "yh070"
+    },
+    "invoice": {
+        "bc_no": "mR41805",
+        "currency_code": "NPR",
+        "date": "25.07.1991",
+        "due_date": "14.04.2016",
+        "number": 841177
+    },
+    "payment": {
+        "bank_name": "Tate and Sons",
+        "bic": "BNYAGB0N",
+        "iban": "MPVQ24637531583147"
+    },
+    "products": [
+        {
+            "amount": 14.01,
+            "description": "benchmark 24/365 web services",
+            "index": "4",
+            "price": 495.13,
+            "quantity": 5.98,
+            "tax_amount": 15.0,
+            "total_ttc": 477.88,
+            "vat_amount": 0.28
+        },
+        {
+            "amount": 238.66,
+            "description": "re-contextualize bricks-and-clicks architectures",
+            "index": "4",
+            "price": 374.65,
+            "quantity": 6.98,
+            "tax_amount": 19.57,
+            "total_ttc": 314.61,
+            "vat_amount": 3.31
+        }
+    ],
+    "seller": {
+        "name": "Melissa Molina"
+    },
+    "supplier": {
+        "address": "547 Barnes Loaf Lake Laurenville, DE 67749",
+        "name": "Kelly Mathews"
+    },
+    "tax": {
+        "amount_excluding_tax": 88.77,
+        "amount_including_tax": 96.44,
+        "tax_amount": 25.68,
+        "total_ht": 230.13,
+        "total_ttc": 389.02
+    }
+}

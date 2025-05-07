@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "48753 Gregory Trail Apt. 825 Port Derektown, WI 15469",
+        "email": "jcarter@example.com",
+        "phone": "889.212.3365",
+        "vat_no": "Zu11704893797"
+    },
+    "invoice": {
+        "date": "14.10.1992",
+        "due_date": "16.04.1991",
+        "market_reference": 898644,
+        "notes": "disintermediate virtual architectures",
+        "number": "3359-9678",
+        "reference": 686341,
+        "vat_no": "Iu72160854045"
+    },
+    "payment": {
+        "net_total": 60.49,
+        "total": 833.48
+    },
+    "products": [
+        {
+            "amount": 480.25,
+            "description": "leverage synergistic technologies",
+            "hours": 2.39,
+            "rate": 1.13
+        },
+        {
+            "amount": 163.38,
+            "description": "unleash magnetic experiences",
+            "hours": 5.33,
+            "rate": 2.95
+        }
+    ],
+    "seller": {
+        "address": "28848 Rodriguez Skyway Kellyfurt, KS 50474",
+        "email": "franklinangela@example.org",
+        "name": "Nicholas Hill"
+    },
+    "tax": {
+        "base": 18.04,
+        "tax_amount": 13.68,
+        "total_tax": 19.95
+    }
+}

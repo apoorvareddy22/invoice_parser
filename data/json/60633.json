@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "PSC 3429, Box 4640 APO AE 58311",
+        "business_no": "kX087",
+        "id": "LD345"
+    },
+    "invoice": {
+        "date": "03.07.1997",
+        "number": "2633-0980"
+    },
+    "payment": {
+        "due_date": "31.10.2012",
+        "total": 856.51
+    },
+    "products": [
+        {
+            "amount": 215.65,
+            "description": "reinvent global niches",
+            "quantity": 5.18,
+            "reference": "Es-705",
+            "unit_price": 49.77
+        },
+        {
+            "amount": 278.32,
+            "description": "drive ubiquitous systems",
+            "quantity": 9.6,
+            "reference": "sG-226",
+            "unit_price": 60.68
+        },
+        {
+            "amount": 335.34,
+            "description": "revolutionize bricks-and-clicks channels",
+            "quantity": 4.52,
+            "reference": "Gc-775",
+            "unit_price": 27.11
+        }
+    ],
+    "seller": {
+        "address": "959 Taylor Burgs Suite 156 Michaelland, NH 70615"
+    },
+    "tax": {
+        "base_ht": 350.26,
+        "regulations": 14.99,
+        "total_ht": 111.61,
+        "vat_amount": 114.65,
+        "vat_percentage": 21.8
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "1191 Nelson Roads East Jordan, GU 50400",
+        "email": "blackwellalicia@example.org",
+        "phone": "(845)972-2707",
+        "vat_no": "SG55311147675"
+    },
+    "invoice": {
+        "date": "03.12.2010",
+        "due_date": "20.10.2020",
+        "market_reference": 477917,
+        "notes": "optimize efficient networks",
+        "number": "5854-5568",
+        "reference": 121105,
+        "vat_no": "kY52095279856"
+    },
+    "payment": {
+        "net_total": 99.7,
+        "total": 391.28
+    },
+    "products": [
+        {
+            "amount": 347.77,
+            "description": "drive leading-edge systems",
+            "hours": 7.28,
+            "rate": 1.4
+        },
+        {
+            "amount": 391.33,
+            "description": "orchestrate innovative synergies",
+            "hours": 4.55,
+            "rate": 6.39
+        },
+        {
+            "amount": 444.87,
+            "description": "scale world-class web-readiness",
+            "hours": 1.02,
+            "rate": 9.27
+        },
+        {
+            "amount": 380.12,
+            "description": "iterate proactive content",
+            "hours": 7.08,
+            "rate": 8.44
+        }
+    ],
+    "seller": {
+        "address": "6650 Kathy Village Apt. 253 Williamhaven, AK 13668",
+        "email": "mcguiresheila@example.net",
+        "name": "Corey Williams"
+    },
+    "tax": {
+        "base": 29.3,
+        "tax_amount": 11.54,
+        "total_tax": 16.6
+    }
+}

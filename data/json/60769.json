@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "234 Williams Lake Apt. 081 Port Daniel, MD 17933",
+        "business_no": "fF716",
+        "id": "ct104"
+    },
+    "invoice": {
+        "date": "22.07.2000",
+        "number": "3312-6853"
+    },
+    "payment": {
+        "due_date": "26.11.1996",
+        "total": 127.31
+    },
+    "products": [
+        {
+            "amount": 197.57,
+            "description": "innovate B2B markets",
+            "quantity": 2.59,
+            "reference": "wh-367",
+            "unit_price": 95.42
+        }
+    ],
+    "seller": {
+        "address": "840 King Walk North Jessicahaven, DE 26544"
+    },
+    "tax": {
+        "base_ht": 403.68,
+        "regulations": 22.0,
+        "total_ht": 272.89,
+        "vat_amount": 49.77,
+        "vat_percentage": 22.73
+    }
+}

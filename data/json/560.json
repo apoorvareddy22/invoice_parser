@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "716 John Motorway Apt. 693 Maryburgh, LA 87716",
+        "company_name": "Allen, Chan and Andrews",
+        "country": "Romania",
+        "name": "Madison Romero"
+    },
+    "invoice": {
+        "date": "18.11.2010",
+        "number": 328088
+    },
+    "payment": {
+        "discount_amount": 26.52,
+        "discount_percentage": 6.81,
+        "due": 69.5,
+        "sub_total": 72.89,
+        "total": 991.63
+    },
+    "products": [
+        {
+            "description": "transition seamless systems",
+            "index": "7",
+            "quantity": 5.39,
+            "total_price": 424.18,
+            "unit_price": 21.3
+        },
+        {
+            "description": "syndicate intuitive niches",
+            "index": "5",
+            "quantity": 9.65,
+            "total_price": 588.97,
+            "unit_price": 25.7
+        },
+        {
+            "description": "aggregate dynamic experiences",
+            "index": "2",
+            "quantity": 9.95,
+            "total_price": 982.52,
+            "unit_price": 62.99
+        },
+        {
+            "description": "generate rich web-readiness",
+            "index": "2",
+            "quantity": 4.12,
+            "total_price": 474.1,
+            "unit_price": 81.13
+        }
+    ],
+    "seller": {
+        "address": "USCGC Wilson FPO AP 66913",
+        "company_name": "Mcintyre and Sons",
+        "vat_no": "sV46352593603"
+    }
+}

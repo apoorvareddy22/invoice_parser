@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "074 Gonzalez Wall Suite 618 Andrewmouth, OH 59198",
+        "id": "YP425"
+    },
+    "invoice": {
+        "bc_no": "uB13823",
+        "currency_code": "CUP",
+        "date": "14.05.1995",
+        "due_date": "25.11.2001",
+        "number": 344740
+    },
+    "payment": {
+        "bank_name": "Nguyen LLC",
+        "bic": "YZDJGBY4",
+        "iban": "EOYH43540896848905"
+    },
+    "products": [
+        {
+            "amount": 350.39,
+            "description": "implement web-enabled bandwidth",
+            "index": "10",
+            "price": 330.02,
+            "quantity": 5.85,
+            "tax_amount": 72.84,
+            "total_ttc": 212.38,
+            "vat_amount": 9.82
+        },
+        {
+            "amount": 259.23,
+            "description": "exploit granular technologies",
+            "index": "9",
+            "price": 411.62,
+            "quantity": 8.87,
+            "tax_amount": 90.61,
+            "total_ttc": 246.07,
+            "vat_amount": 8.14
+        }
+    ],
+    "seller": {
+        "name": "Michelle Flores"
+    },
+    "supplier": {
+        "address": "77971 Martin Port Suite 943 Port Jose, WI 55894",
+        "name": "Susan Soto"
+    },
+    "tax": {
+        "amount_excluding_tax": 29.35,
+        "amount_including_tax": 96.88,
+        "tax_amount": 25.98,
+        "total_ht": 232.86,
+        "total_ttc": 211.82
+    }
+}

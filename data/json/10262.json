@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "340 Thornton Underpass Clarenceburgh, WV 50029",
+        "email": "taylorshannon@example.com",
+        "phone": "590.542.5376",
+        "vat_no": "FO52612476489"
+    },
+    "invoice": {
+        "date": "27.04.1990",
+        "due_date": "03.11.2000",
+        "market_reference": 865923,
+        "notes": "maximize rich deliverables",
+        "number": "7886-1133",
+        "reference": 680004,
+        "vat_no": "tT44459707973"
+    },
+    "payment": {
+        "net_total": 21.95,
+        "total": 288.75
+    },
+    "products": [
+        {
+            "amount": 324.11,
+            "description": "drive front-end convergence",
+            "hours": 1.12,
+            "rate": 5.1
+        },
+        {
+            "amount": 273.22,
+            "description": "integrate distributed e-business",
+            "hours": 8.43,
+            "rate": 4.37
+        },
+        {
+            "amount": 191.22,
+            "description": "implement value-added methodologies",
+            "hours": 1.88,
+            "rate": 9.59
+        },
+        {
+            "amount": 92.26,
+            "description": "embrace efficient solutions",
+            "hours": 1.08,
+            "rate": 5.02
+        },
+        {
+            "amount": 66.08,
+            "description": "mesh innovative synergies",
+            "hours": 8.93,
+            "rate": 9.1
+        }
+    ],
+    "seller": {
+        "address": "394 Williams Passage Suite 455 Lake Melanie, WV 39428",
+        "email": "douglaslopez@example.net",
+        "name": "Hannah Hernandez"
+    },
+    "tax": {
+        "base": 22.63,
+        "tax_amount": 19.41,
+        "total_tax": 20.79
+    }
+}

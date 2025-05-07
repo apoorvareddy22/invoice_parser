@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "1782 Traci Hill Apt. 769 Brownborough, MS 78677",
+        "company_name": "Evans-Olson",
+        "email": "smithkaren@example.com",
+        "name": "Lisa Acosta",
+        "phone": "926-751-6545"
+    },
+    "invoice": {
+        "date": "28.01.1993",
+        "due_date": "04.05.1992",
+        "number": "Gmj42447667626"
+    },
+    "payment": {
+        "account_number": 9944399517,
+        "bank_name": "Nash Inc",
+        "routing_number": 867341024
+    },
+    "products": [
+        {
+            "amount": 425.45,
+            "description": "engage distributed architectures",
+            "index": "2",
+            "quantity": 9.33,
+            "unit_price": 29.09
+        },
+        {
+            "amount": 194.49,
+            "description": "transition frictionless interfaces",
+            "index": "1",
+            "quantity": 9.27,
+            "unit_price": 95.88
+        }
+    ],
+    "seller": {
+        "address": "104 Lawson Burgs Terrihaven, MH 16972",
+        "company_name": "Rogers-Cabrera",
+        "email": "cferguson@example.net"
+    }
+}

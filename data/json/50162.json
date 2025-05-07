@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "733 Kevin Glen East Marvinville, MD 94849",
+        "id": "ky284"
+    },
+    "invoice": {
+        "bc_no": "NN49826",
+        "currency_code": "CUP",
+        "date": "18.07.2017",
+        "due_date": "27.09.2003",
+        "number": 311998
+    },
+    "payment": {
+        "bank_name": "Green-Hoffman",
+        "bic": "APAJGBDG",
+        "iban": "DSQT87283583694037"
+    },
+    "products": [
+        {
+            "amount": 114.32,
+            "description": "expedite transparent applications",
+            "index": "2",
+            "price": 250.65,
+            "quantity": 3.79,
+            "tax_amount": 42.16,
+            "total_ttc": 257.66,
+            "vat_amount": 2.11
+        },
+        {
+            "amount": 348.34,
+            "description": "architect enterprise ROI",
+            "index": "5",
+            "price": 409.48,
+            "quantity": 9.9,
+            "tax_amount": 67.86,
+            "total_ttc": 353.81,
+            "vat_amount": 0.82
+        },
+        {
+            "amount": 251.0,
+            "description": "brand efficient experiences",
+            "index": "10",
+            "price": 298.63,
+            "quantity": 3.24,
+            "tax_amount": 91.12,
+            "total_ttc": 424.22,
+            "vat_amount": 6.52
+        },
+        {
+            "amount": 222.14,
+            "description": "redefine e-business networks",
+            "index": "5",
+            "price": 337.04,
+            "quantity": 6.63,
+            "tax_amount": 38.3,
+            "total_ttc": 490.43,
+            "vat_amount": 16.58
+        },
+        {
+            "amount": 457.36,
+            "description": "integrate revolutionary users",
+            "index": "7",
+            "price": 353.38,
+            "quantity": 7.42,
+            "tax_amount": 43.48,
+            "total_ttc": 182.0,
+            "vat_amount": 1.25
+        },
+        {
+            "amount": 207.01,
+            "description": "synergize integrated deliverables",
+            "index": "7",
+            "price": 165.4,
+            "quantity": 9.78,
+            "tax_amount": 52.85,
+            "total_ttc": 107.04,
+            "vat_amount": 2.12
+        }
+    ],
+    "seller": {
+        "name": "Marissa Sutton"
+    },
+    "supplier": {
+        "address": "80281 Edgar Meadows Cameronhaven, NY 12224",
+        "name": "Christina Sparks"
+    },
+    "tax": {
+        "amount_excluding_tax": 160.23,
+        "amount_including_tax": 68.99,
+        "tax_amount": 25.68,
+        "total_ht": 339.86,
+        "total_ttc": 422.48
+    }
+}

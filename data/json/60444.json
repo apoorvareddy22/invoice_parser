@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "716 Brian Square South Brittany, GA 98003",
+        "business_no": "hA741",
+        "id": "aT788"
+    },
+    "invoice": {
+        "date": "09.09.2007",
+        "number": "6354-4866"
+    },
+    "payment": {
+        "due_date": "30.09.1996",
+        "total": 846.47
+    },
+    "products": [
+        {
+            "amount": 56.89,
+            "description": "incubate 24/7 channels",
+            "quantity": 5.31,
+            "reference": "cG-128",
+            "unit_price": 85.38
+        },
+        {
+            "amount": 321.47,
+            "description": "architect virtual infrastructures",
+            "quantity": 6.05,
+            "reference": "Uz-627",
+            "unit_price": 13.49
+        },
+        {
+            "amount": 39.53,
+            "description": "grow extensible content",
+            "quantity": 9.47,
+            "reference": "fH-109",
+            "unit_price": 85.91
+        },
+        {
+            "amount": 256.98,
+            "description": "deliver B2C markets",
+            "quantity": 8.76,
+            "reference": "bs-797",
+            "unit_price": 35.4
+        },
+        {
+            "amount": 40.88,
+            "description": "extend 24/7 networks",
+            "quantity": 3.54,
+            "reference": "zf-687",
+            "unit_price": 41.18
+        }
+    ],
+    "seller": {
+        "address": "USCGC Walker FPO AA 94432"
+    },
+    "tax": {
+        "base_ht": 454.81,
+        "regulations": 26.49,
+        "total_ht": 408.75,
+        "vat_amount": 195.6,
+        "vat_percentage": 10.88
+    }
+}

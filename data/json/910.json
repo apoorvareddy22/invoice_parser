@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "5021 Alexander Wells Sandramouth, FL 49773",
+        "company_name": "Reid, Allen and Ellison",
+        "country": "Aruba",
+        "name": "James Hamilton"
+    },
+    "invoice": {
+        "date": "04.05.2014",
+        "number": 895136
+    },
+    "payment": {
+        "discount_amount": 13.24,
+        "discount_percentage": 12.8,
+        "due": 151.34,
+        "sub_total": 114.12,
+        "total": 798.57
+    },
+    "products": [
+        {
+            "description": "streamline 24/7 e-markets",
+            "index": "10",
+            "quantity": 3.65,
+            "total_price": 10.95,
+            "unit_price": 14.31
+        },
+        {
+            "description": "streamline end-to-end e-markets",
+            "index": "9",
+            "quantity": 3.38,
+            "total_price": 929.47,
+            "unit_price": 15.69
+        },
+        {
+            "description": "benchmark back-end action-items",
+            "index": "4",
+            "quantity": 2.85,
+            "total_price": 429.94,
+            "unit_price": 76.57
+        },
+        {
+            "description": "cultivate best-of-breed portals",
+            "index": "5",
+            "quantity": 3.46,
+            "total_price": 134.04,
+            "unit_price": 89.37
+        },
+        {
+            "description": "architect clicks-and-mortar functionalities",
+            "index": "9",
+            "quantity": 5.52,
+            "total_price": 775.42,
+            "unit_price": 75.92
+        }
+    ],
+    "seller": {
+        "address": "17361 Jacqueline Mountains Suite 793 Kellyview, MP 17913",
+        "company_name": "Wright, Ross and Carlson",
+        "vat_no": "pd88242834295"
+    }
+}

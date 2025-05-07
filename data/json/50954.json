@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "534 Brooks Estates Suite 342 Cunninghamport, HI 48158",
+        "id": "vd079"
+    },
+    "invoice": {
+        "bc_no": "hs14535",
+        "currency_code": "TVD",
+        "date": "14.04.2022",
+        "due_date": "09.11.2008",
+        "number": 247344
+    },
+    "payment": {
+        "bank_name": "Richardson Ltd",
+        "bic": "XBLLGBAL5O1",
+        "iban": "WAPA05789916880928"
+    },
+    "products": [
+        {
+            "amount": 247.02,
+            "description": "brand wireless portals",
+            "index": "2",
+            "price": 164.67,
+            "quantity": 7.59,
+            "tax_amount": 32.02,
+            "total_ttc": 422.69,
+            "vat_amount": 6.68
+        }
+    ],
+    "seller": {
+        "name": "Wayne Johnson"
+    },
+    "supplier": {
+        "address": "PSC 4976, Box 2177 APO AA 96957",
+        "name": "Andrew Cervantes"
+    },
+    "tax": {
+        "amount_excluding_tax": 87.36,
+        "amount_including_tax": 187.68,
+        "tax_amount": 19.52,
+        "total_ht": 400.23,
+        "total_ttc": 355.95
+    }
+}

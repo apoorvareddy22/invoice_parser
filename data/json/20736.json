@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "22798 Combs Villages Apt. 501 Gomezburgh, DE 26742",
+        "company_name": "Powell-Hatfield",
+        "email": "jonathan60@example.org",
+        "name": "Sharon Robinson",
+        "phone": "360.635.2438"
+    },
+    "invoice": {
+        "date": "08.04.1995",
+        "due_date": "19.11.2015",
+        "number": "aBD85012500736"
+    },
+    "payment": {
+        "account_number": 9682294525,
+        "bank_name": "Clark-Hicks",
+        "routing_number": 241226402
+    },
+    "products": [
+        {
+            "amount": 420.79,
+            "description": "envisioneer mission-critical web services",
+            "index": "9",
+            "quantity": 6.51,
+            "unit_price": 93.38
+        },
+        {
+            "amount": 490.4,
+            "description": "expedite sticky ROI",
+            "index": "9",
+            "quantity": 5.99,
+            "unit_price": 52.06
+        }
+    ],
+    "seller": {
+        "address": "643 Boyle Mills Suite 901 Bernardfort, NH 95613",
+        "company_name": "Thompson, Lane and Wong",
+        "email": "kenneth61@example.org"
+    }
+}

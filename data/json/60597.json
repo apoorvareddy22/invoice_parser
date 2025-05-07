@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "5008 Charles Trafficway Apt. 679 Port Alicia, OK 30534",
+        "business_no": "qB080",
+        "id": "hR173"
+    },
+    "invoice": {
+        "date": "17.02.2002",
+        "number": "4043-8839"
+    },
+    "payment": {
+        "due_date": "12.11.2016",
+        "total": 753.92
+    },
+    "products": [
+        {
+            "amount": 170.45,
+            "description": "synergize bricks-and-clicks content",
+            "quantity": 6.14,
+            "reference": "oJ-034",
+            "unit_price": 79.8
+        },
+        {
+            "amount": 238.09,
+            "description": "implement holistic methodologies",
+            "quantity": 5.23,
+            "reference": "SC-544",
+            "unit_price": 16.54
+        },
+        {
+            "amount": 247.9,
+            "description": "expedite B2B action-items",
+            "quantity": 3.82,
+            "reference": "eC-823",
+            "unit_price": 78.92
+        }
+    ],
+    "seller": {
+        "address": "7541 Roberts Port Suite 158 Port Jimmy, WV 19706"
+    },
+    "tax": {
+        "base_ht": 486.09,
+        "regulations": 18.88,
+        "total_ht": 130.29,
+        "vat_amount": 188.01,
+        "vat_percentage": 17.79
+    }
+}

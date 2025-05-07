@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "1203 Long Court Rachelside, GA 03553"
+    },
+    "invoice": {
+        "bc_no": "bR81316",
+        "date": "18.07.2016",
+        "maturity_date": "19.04.2011",
+        "number": 579319
+    },
+    "products": [
+        {
+            "amount": 276.49,
+            "description": "transition mission-critical web-readiness",
+            "quantity": 5.38,
+            "unit_price": 42.37,
+            "vat_amount": 5.63
+        },
+        {
+            "amount": 156.65,
+            "description": "transition global content",
+            "quantity": 7.76,
+            "unit_price": 21.87,
+            "vat_amount": 8.3
+        },
+        {
+            "amount": 452.25,
+            "description": "optimize extensible partnerships",
+            "quantity": 4.62,
+            "unit_price": 16.83,
+            "vat_amount": 7.36
+        }
+    ],
+    "seller": {
+        "address": "USCGC Smith FPO AA 73528"
+    },
+    "tax": {
+        "amount_excluding_tax": 155.84,
+        "amount_including_tax": 174.96,
+        "tax_amount": 23.46
+    }
+}

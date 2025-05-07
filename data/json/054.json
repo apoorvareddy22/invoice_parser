@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "8979 White Views Apt. 293 Elizabethstad, NJ 15944",
+        "company_name": "Black-Berry",
+        "country": "Cocos (Keeling) Islands",
+        "name": "Peter Hamilton"
+    },
+    "invoice": {
+        "date": "31.07.2009",
+        "number": 647513
+    },
+    "payment": {
+        "discount_amount": 39.41,
+        "discount_percentage": 6.98,
+        "due": 189.01,
+        "sub_total": 164.0,
+        "total": 193.98
+    },
+    "products": [
+        {
+            "description": "enable cross-platform functionalities",
+            "index": "4",
+            "quantity": 6.78,
+            "total_price": 782.68,
+            "unit_price": 95.96
+        },
+        {
+            "description": "implement user-centric web-readiness",
+            "index": "1",
+            "quantity": 7.27,
+            "total_price": 911.59,
+            "unit_price": 66.27
+        },
+        {
+            "description": "monetize open-source methodologies",
+            "index": "6",
+            "quantity": 9.96,
+            "total_price": 195.21,
+            "unit_price": 18.34
+        }
+    ],
+    "seller": {
+        "address": "44293 Kimberly View Apt. 324 Williamsburgh, IN 96652",
+        "company_name": "Davis-Adams",
+        "vat_no": "Li60444488887"
+    }
+}

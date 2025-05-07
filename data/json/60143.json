@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "27527 Holt Harbors Port Ana, CA 12841",
+        "business_no": "dR858",
+        "id": "px261"
+    },
+    "invoice": {
+        "date": "19.09.1994",
+        "number": "5372-2996"
+    },
+    "payment": {
+        "due_date": "28.06.2021",
+        "total": 396.23
+    },
+    "products": [
+        {
+            "amount": 256.88,
+            "description": "aggregate out-of-the-box e-commerce",
+            "quantity": 5.16,
+            "reference": "gO-230",
+            "unit_price": 14.93
+        },
+        {
+            "amount": 67.71,
+            "description": "redefine next-generation e-markets",
+            "quantity": 9.25,
+            "reference": "oW-563",
+            "unit_price": 85.93
+        },
+        {
+            "amount": 213.08,
+            "description": "cultivate viral e-business",
+            "quantity": 3.97,
+            "reference": "to-080",
+            "unit_price": 91.65
+        },
+        {
+            "amount": 217.15,
+            "description": "incentivize interactive synergies",
+            "quantity": 5.01,
+            "reference": "Gx-628",
+            "unit_price": 56.74
+        }
+    ],
+    "seller": {
+        "address": "931 Dennis Fields Suite 793 Burnshaven, OK 71410"
+    },
+    "tax": {
+        "base_ht": 188.53,
+        "regulations": 21.77,
+        "total_ht": 216.49,
+        "vat_amount": 93.93,
+        "vat_percentage": 23.39
+    }
+}

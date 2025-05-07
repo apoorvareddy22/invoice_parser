@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "1620 Tanner Brook North Anthony, DE 67296",
+        "id": "jT458"
+    },
+    "invoice": {
+        "bc_no": "BK04000",
+        "currency_code": "UGX",
+        "date": "10.11.1993",
+        "due_date": "05.07.2014",
+        "number": 178661
+    },
+    "payment": {
+        "bank_name": "Benjamin, Andrews and Mendez",
+        "bic": "GOHLGBYQ",
+        "iban": "RZIQ82750685541384"
+    },
+    "products": [
+        {
+            "amount": 438.47,
+            "description": "expedite distributed functionalities",
+            "index": "8",
+            "price": 65.53,
+            "quantity": 1.02,
+            "tax_amount": 62.71,
+            "total_ttc": 296.81,
+            "vat_amount": 4.65
+        },
+        {
+            "amount": 155.2,
+            "description": "scale B2B relationships",
+            "index": "4",
+            "price": 252.04,
+            "quantity": 3.22,
+            "tax_amount": 68.05,
+            "total_ttc": 486.42,
+            "vat_amount": 2.29
+        },
+        {
+            "amount": 118.66,
+            "description": "unleash plug-and-play deliverables",
+            "index": "4",
+            "price": 483.37,
+            "quantity": 2.57,
+            "tax_amount": 83.03,
+            "total_ttc": 265.41,
+            "vat_amount": 0.78
+        },
+        {
+            "amount": 288.1,
+            "description": "expedite web-enabled e-services",
+            "index": "7",
+            "price": 21.4,
+            "quantity": 1.29,
+            "tax_amount": 10.74,
+            "total_ttc": 287.6,
+            "vat_amount": 6.71
+        },
+        {
+            "amount": 468.0,
+            "description": "syndicate B2B functionalities",
+            "index": "7",
+            "price": 173.87,
+            "quantity": 1.4,
+            "tax_amount": 49.0,
+            "total_ttc": 420.82,
+            "vat_amount": 6.64
+        }
+    ],
+    "seller": {
+        "name": "Darlene Warren"
+    },
+    "supplier": {
+        "address": "534 Dillon Vista Apt. 569 North Jennifer, NV 52882",
+        "name": "Brian Tran"
+    },
+    "tax": {
+        "amount_excluding_tax": 50.83,
+        "amount_including_tax": 123.18,
+        "tax_amount": 11.25,
+        "total_ht": 404.13,
+        "total_ttc": 267.38
+    }
+}

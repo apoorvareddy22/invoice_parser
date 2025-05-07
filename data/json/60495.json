@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "302 Brooke Passage Apt. 420 Port Melanie, NM 96960",
+        "business_no": "Uc365",
+        "id": "uC445"
+    },
+    "invoice": {
+        "date": "13.06.2008",
+        "number": "0800-7610"
+    },
+    "payment": {
+        "due_date": "09.03.1997",
+        "total": 165.51
+    },
+    "products": [
+        {
+            "amount": 355.56,
+            "description": "redefine dynamic web services",
+            "quantity": 9.31,
+            "reference": "NI-237",
+            "unit_price": 15.87
+        },
+        {
+            "amount": 127.73,
+            "description": "facilitate dynamic relationships",
+            "quantity": 2.91,
+            "reference": "Qa-089",
+            "unit_price": 35.06
+        },
+        {
+            "amount": 196.66,
+            "description": "innovate leading-edge initiatives",
+            "quantity": 4.83,
+            "reference": "kI-113",
+            "unit_price": 29.2
+        }
+    ],
+    "seller": {
+        "address": "833 Marshall Ports Suite 228 Lopezview, RI 51743"
+    },
+    "tax": {
+        "base_ht": 424.55,
+        "regulations": 21.83,
+        "total_ht": 126.88,
+        "vat_amount": 171.03,
+        "vat_percentage": 14.62
+    }
+}

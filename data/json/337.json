@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "USCGC Anderson FPO AE 47765",
+        "company_name": "Newton Inc",
+        "country": "Aruba",
+        "name": "Tonya Ramirez"
+    },
+    "invoice": {
+        "date": "11.08.1994",
+        "number": 965973
+    },
+    "payment": {
+        "discount_amount": 20.38,
+        "discount_percentage": 10.14,
+        "due": 74.65,
+        "sub_total": 88.74,
+        "total": 485.87
+    },
+    "products": [
+        {
+            "description": "exploit front-end action-items",
+            "index": "4",
+            "quantity": 9.29,
+            "total_price": 326.45,
+            "unit_price": 60.13
+        }
+    ],
+    "seller": {
+        "address": "6420 Chad Ville Apt. 185 Brandyfurt, MO 83141",
+        "company_name": "Delacruz Inc",
+        "vat_no": "NU74689672068"
+    }
+}

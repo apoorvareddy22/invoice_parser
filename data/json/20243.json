@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "12767 Sheppard Flats Suite 259 Lake Mark, TX 04246",
+        "company_name": "Brown LLC",
+        "email": "angela84@example.org",
+        "name": "Ellen Miles",
+        "phone": "867-217-3419x3841"
+    },
+    "invoice": {
+        "date": "22.01.2015",
+        "due_date": "03.11.2016",
+        "number": "UXQ10009452851"
+    },
+    "payment": {
+        "account_number": 8791636899,
+        "bank_name": "Campbell Ltd",
+        "routing_number": 924202604
+    },
+    "products": [
+        {
+            "amount": 177.81,
+            "description": "enhance viral e-services",
+            "index": "2",
+            "quantity": 1.83,
+            "unit_price": 28.74
+        },
+        {
+            "amount": 382.1,
+            "description": "e-enable ubiquitous mindshare",
+            "index": "3",
+            "quantity": 4.86,
+            "unit_price": 67.23
+        },
+        {
+            "amount": 209.18,
+            "description": "mesh cross-media web services",
+            "index": "1",
+            "quantity": 9.47,
+            "unit_price": 15.08
+        },
+        {
+            "amount": 487.46,
+            "description": "grow ubiquitous e-markets",
+            "index": "9",
+            "quantity": 5.96,
+            "unit_price": 82.54
+        },
+        {
+            "amount": 336.61,
+            "description": "deploy collaborative functionalities",
+            "index": "7",
+            "quantity": 4.11,
+            "unit_price": 52.68
+        },
+        {
+            "amount": 190.88,
+            "description": "cultivate virtual networks",
+            "index": "3",
+            "quantity": 4.41,
+            "unit_price": 32.96
+        }
+    ],
+    "seller": {
+        "address": "25549 Edwin Mountains Suite 493 Nortonfort, OK 34965",
+        "company_name": "Myers, Carr and West",
+        "email": "fmoore@example.com"
+    }
+}

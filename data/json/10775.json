@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "808 Dylan Stream Suite 528 Lake Bradley, DE 43328",
+        "email": "william02@example.net",
+        "phone": "+1-415-438-4085x170",
+        "vat_no": "FK81417640021"
+    },
+    "invoice": {
+        "date": "25.02.2015",
+        "due_date": "26.08.2014",
+        "market_reference": 942785,
+        "notes": "reinvent wireless solutions",
+        "number": "9950-9566",
+        "reference": 395420,
+        "vat_no": "fC99013698023"
+    },
+    "payment": {
+        "net_total": 102.6,
+        "total": 557.97
+    },
+    "products": [
+        {
+            "amount": 203.13,
+            "description": "transition dot-com supply-chains",
+            "hours": 2.29,
+            "rate": 1.75
+        },
+        {
+            "amount": 484.22,
+            "description": "synthesize web-enabled markets",
+            "hours": 9.36,
+            "rate": 7.49
+        },
+        {
+            "amount": 198.88,
+            "description": "whiteboard rich web services",
+            "hours": 3.62,
+            "rate": 8.58
+        },
+        {
+            "amount": 136.82,
+            "description": "mesh real-time metrics",
+            "hours": 1.82,
+            "rate": 7.9
+        },
+        {
+            "amount": 129.14,
+            "description": "target intuitive platforms",
+            "hours": 2.03,
+            "rate": 5.53
+        },
+        {
+            "amount": 179.02,
+            "description": "transition turn-key web services",
+            "hours": 8.57,
+            "rate": 5.8
+        },
+        {
+            "amount": 447.58,
+            "description": "mesh vertical vortals",
+            "hours": 9.11,
+            "rate": 8.36
+        }
+    ],
+    "seller": {
+        "address": "226 Helen Shoal South Christinaton, TX 21338",
+        "email": "jill21@example.org",
+        "name": "Emily Scott"
+    },
+    "tax": {
+        "base": 17.52,
+        "tax_amount": 28.4,
+        "total_tax": 13.45
+    }
+}

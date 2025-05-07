@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "0005 Morgan Station Apt. 178 Port Nicoleburgh, AZ 47440",
+        "company_name": "Bruce, Newman and Chavez",
+        "email": "allenashley@example.com",
+        "name": "Christina Allen",
+        "phone": "381.548.4088x269"
+    },
+    "invoice": {
+        "date": "21.03.2020",
+        "due_date": "07.01.2013",
+        "number": "nfF82188701139"
+    },
+    "payment": {
+        "account_number": 9391513166,
+        "bank_name": "Chavez LLC",
+        "routing_number": 255028945
+    },
+    "products": [
+        {
+            "amount": 161.04,
+            "description": "whiteboard intuitive channels",
+            "index": "2",
+            "quantity": 3.88,
+            "unit_price": 87.17
+        }
+    ],
+    "seller": {
+        "address": "76468 Melissa Points Apt. 669 Port Michaelview, UT 57239",
+        "company_name": "Clayton-Cameron",
+        "email": "matthewwells@example.com"
+    }
+}

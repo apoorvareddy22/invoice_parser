@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "89897 Robert Crossing Michelleshire, AR 59431",
+        "business_no": "yZ174",
+        "id": "cx438"
+    },
+    "invoice": {
+        "date": "03.12.1999",
+        "number": "4107-0261"
+    },
+    "payment": {
+        "due_date": "13.12.2004",
+        "total": 241.45
+    },
+    "products": [
+        {
+            "amount": 337.55,
+            "description": "cultivate intuitive channels",
+            "quantity": 5.02,
+            "reference": "OE-221",
+            "unit_price": 10.22
+        }
+    ],
+    "seller": {
+        "address": "052 Miller Shore Suite 537 Johnsonport, NH 98850"
+    },
+    "tax": {
+        "base_ht": 492.36,
+        "regulations": 13.49,
+        "total_ht": 472.69,
+        "vat_amount": 138.12,
+        "vat_percentage": 21.46
+    }
+}

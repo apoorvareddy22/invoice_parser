@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "1415 Lisa Meadow West Michaelfort, MA 13227"
+    },
+    "invoice": {
+        "bc_no": "Vd90716",
+        "date": "27.10.1999",
+        "maturity_date": "27.11.2004",
+        "number": 301592
+    },
+    "products": [
+        {
+            "amount": 476.26,
+            "description": "reinvent seamless partnerships",
+            "quantity": 3.02,
+            "unit_price": 35.4,
+            "vat_amount": 8.65
+        },
+        {
+            "amount": 74.74,
+            "description": "enhance cross-media networks",
+            "quantity": 2.56,
+            "unit_price": 20.99,
+            "vat_amount": 14.02
+        },
+        {
+            "amount": 189.47,
+            "description": "facilitate B2C platforms",
+            "quantity": 1.12,
+            "unit_price": 58.61,
+            "vat_amount": 12.29
+        }
+    ],
+    "seller": {
+        "address": "1757 Carla Divide Leefurt, NV 54017"
+    },
+    "tax": {
+        "amount_excluding_tax": 19.45,
+        "amount_including_tax": 72.78,
+        "tax_amount": 17.41
+    }
+}

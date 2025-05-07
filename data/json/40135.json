@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "PSC 0903, Box 3657 APO AP 79691"
+    },
+    "invoice": {
+        "bc_no": "FX05627",
+        "date": "16.01.2009",
+        "maturity_date": "07.08.2022",
+        "number": 246518
+    },
+    "products": [
+        {
+            "amount": 229.35,
+            "description": "drive seamless schemas",
+            "quantity": 2.32,
+            "unit_price": 81.35,
+            "vat_amount": 11.62
+        },
+        {
+            "amount": 156.16,
+            "description": "productize next-generation supply-chains",
+            "quantity": 5.84,
+            "unit_price": 35.73,
+            "vat_amount": 7.04
+        },
+        {
+            "amount": 363.11,
+            "description": "generate open-source convergence",
+            "quantity": 5.32,
+            "unit_price": 99.87,
+            "vat_amount": 0.18
+        },
+        {
+            "amount": 76.03,
+            "description": "envisioneer e-business networks",
+            "quantity": 3.49,
+            "unit_price": 36.51,
+            "vat_amount": 7.96
+        },
+        {
+            "amount": 27.45,
+            "description": "embrace robust users",
+            "quantity": 8.21,
+            "unit_price": 83.8,
+            "vat_amount": 1.57
+        },
+        {
+            "amount": 493.02,
+            "description": "iterate back-end web services",
+            "quantity": 2.6,
+            "unit_price": 44.64,
+            "vat_amount": 11.05
+        }
+    ],
+    "seller": {
+        "address": "038 Christopher Corner Nelsonfurt, AK 22474"
+    },
+    "tax": {
+        "amount_excluding_tax": 150.95,
+        "amount_including_tax": 62.81,
+        "tax_amount": 19.89
+    }
+}

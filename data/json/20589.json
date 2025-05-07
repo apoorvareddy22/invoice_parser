@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "8148 Smith Port Martinezton, GA 99625",
+        "company_name": "Brown Inc",
+        "email": "timothyortega@example.net",
+        "name": "Valerie Reid",
+        "phone": "(311)540-2082"
+    },
+    "invoice": {
+        "date": "12.09.2009",
+        "due_date": "23.07.2015",
+        "number": "oSS66412718174"
+    },
+    "payment": {
+        "account_number": 6054403384,
+        "bank_name": "Harrison-Rodriguez",
+        "routing_number": 725506430
+    },
+    "products": [
+        {
+            "amount": 130.52,
+            "description": "aggregate back-end applications",
+            "index": "1",
+            "quantity": 6.32,
+            "unit_price": 31.48
+        }
+    ],
+    "seller": {
+        "address": "271 Lane Grove Lake Michaelmouth, IA 56183",
+        "company_name": "Hernandez, Gray and Reese",
+        "email": "sclark@example.net"
+    }
+}

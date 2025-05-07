@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "46752 Robertson River Suite 592 Pottsbury, MO 57857"
+    },
+    "invoice": {
+        "bc_no": "gt14017",
+        "date": "20.02.2009",
+        "maturity_date": "31.01.1990",
+        "number": 150656
+    },
+    "products": [
+        {
+            "amount": 68.47,
+            "description": "expedite value-added bandwidth",
+            "quantity": 1.2,
+            "unit_price": 97.82,
+            "vat_amount": 2.76
+        }
+    ],
+    "seller": {
+        "address": "8663 Billy Pine Port Cynthia, WY 56581"
+    },
+    "tax": {
+        "amount_excluding_tax": 157.71,
+        "amount_including_tax": 180.84,
+        "tax_amount": 28.09
+    }
+}

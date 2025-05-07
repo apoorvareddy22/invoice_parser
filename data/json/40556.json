@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "7930 Richardson Land South Kathleenland, NV 40423"
+    },
+    "invoice": {
+        "bc_no": "tx78910",
+        "date": "14.12.2011",
+        "maturity_date": "14.05.2013",
+        "number": 147371
+    },
+    "products": [
+        {
+            "amount": 310.96,
+            "description": "repurpose customized methodologies",
+            "quantity": 7.05,
+            "unit_price": 58.26,
+            "vat_amount": 15.87
+        },
+        {
+            "amount": 310.11,
+            "description": "productize end-to-end niches",
+            "quantity": 3.29,
+            "unit_price": 23.49,
+            "vat_amount": 2.37
+        },
+        {
+            "amount": 211.29,
+            "description": "deploy scalable infrastructures",
+            "quantity": 1.38,
+            "unit_price": 15.22,
+            "vat_amount": 2.56
+        }
+    ],
+    "seller": {
+        "address": "7305 Kelly Shoal Jonesport, NH 81664"
+    },
+    "tax": {
+        "amount_excluding_tax": 97.22,
+        "amount_including_tax": 141.79,
+        "tax_amount": 15.25
+    }
+}

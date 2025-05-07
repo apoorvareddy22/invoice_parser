@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "974 Brown Summit Bradyshire, MO 89551",
+        "email": "curryjonathan@example.net",
+        "phone": "624.572.6944",
+        "vat_no": "sb62850102033"
+    },
+    "invoice": {
+        "date": "03.03.2007",
+        "due_date": "10.02.2016",
+        "market_reference": 919049,
+        "notes": "expedite clicks-and-mortar methodologies",
+        "number": "1307-7513",
+        "reference": 449873,
+        "vat_no": "jL54858821626"
+    },
+    "payment": {
+        "net_total": 172.61,
+        "total": 307.58
+    },
+    "products": [
+        {
+            "amount": 124.82,
+            "description": "reinvent front-end e-commerce",
+            "hours": 8.19,
+            "rate": 4.5
+        },
+        {
+            "amount": 163.41,
+            "description": "grow magnetic platforms",
+            "hours": 4.66,
+            "rate": 6.0
+        },
+        {
+            "amount": 105.51,
+            "description": "brand killer networks",
+            "hours": 8.11,
+            "rate": 5.67
+        },
+        {
+            "amount": 162.48,
+            "description": "engineer B2B functionalities",
+            "hours": 6.44,
+            "rate": 2.89
+        },
+        {
+            "amount": 402.83,
+            "description": "grow bleeding-edge e-markets",
+            "hours": 4.29,
+            "rate": 5.91
+        },
+        {
+            "amount": 253.62,
+            "description": "target killer paradigms",
+            "hours": 6.68,
+            "rate": 3.28
+        }
+    ],
+    "seller": {
+        "address": "476 Amanda Brooks Apt. 997 Port Elizabethmouth, VA 55663",
+        "email": "morgankristen@example.com",
+        "name": "Shane Williams"
+    },
+    "tax": {
+        "base": 27.37,
+        "tax_amount": 14.5,
+        "total_tax": 11.41
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "USS Grant FPO AP 33980",
+        "company_name": "Koch, Holder and Davis",
+        "email": "nknapp@example.org",
+        "name": "Brenda Hamilton",
+        "phone": "732.448.8694"
+    },
+    "invoice": {
+        "date": "03.07.2007",
+        "due_date": "28.02.2017",
+        "number": "oXe34876978140"
+    },
+    "payment": {
+        "account_number": 8881520825,
+        "bank_name": "Miller, Sanchez and Torres",
+        "routing_number": 485077341
+    },
+    "products": [
+        {
+            "amount": 448.95,
+            "description": "unleash 24/365 portals",
+            "index": "7",
+            "quantity": 6.92,
+            "unit_price": 67.36
+        },
+        {
+            "amount": 344.87,
+            "description": "implement cross-platform networks",
+            "index": "1",
+            "quantity": 5.58,
+            "unit_price": 91.21
+        },
+        {
+            "amount": 257.76,
+            "description": "redefine rich paradigms",
+            "index": "3",
+            "quantity": 2.75,
+            "unit_price": 21.22
+        }
+    ],
+    "seller": {
+        "address": "3186 Jaime Bypass Suite 059 New Juan, DE 36226",
+        "company_name": "Singh PLC",
+        "email": "georgegina@example.org"
+    }
+}

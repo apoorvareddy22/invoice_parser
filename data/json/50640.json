@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "0063 Garrett Ranch Kaylastad, IN 41975",
+        "id": "at054"
+    },
+    "invoice": {
+        "bc_no": "Be48677",
+        "currency_code": "SZL",
+        "date": "10.05.2021",
+        "due_date": "01.01.2016",
+        "number": 324635
+    },
+    "payment": {
+        "bank_name": "Medina and Sons",
+        "bic": "SBUZGBDERPS",
+        "iban": "JWSE09774778842660"
+    },
+    "products": [
+        {
+            "amount": 391.36,
+            "description": "revolutionize collaborative interfaces",
+            "index": "7",
+            "price": 373.52,
+            "quantity": 2.19,
+            "tax_amount": 33.39,
+            "total_ttc": 300.12,
+            "vat_amount": 4.13
+        },
+        {
+            "amount": 242.23,
+            "description": "strategize innovative markets",
+            "index": "10",
+            "price": 183.58,
+            "quantity": 1.41,
+            "tax_amount": 72.72,
+            "total_ttc": 219.92,
+            "vat_amount": 10.47
+        },
+        {
+            "amount": 80.33,
+            "description": "monetize leading-edge deliverables",
+            "index": "10",
+            "price": 97.99,
+            "quantity": 4.73,
+            "tax_amount": 28.56,
+            "total_ttc": 365.21,
+            "vat_amount": 0.83
+        },
+        {
+            "amount": 347.31,
+            "description": "deliver dot-com bandwidth",
+            "index": "5",
+            "price": 421.98,
+            "quantity": 9.77,
+            "tax_amount": 83.01,
+            "total_ttc": 203.9,
+            "vat_amount": 5.02
+        },
+        {
+            "amount": 168.21,
+            "description": "architect customized niches",
+            "index": "9",
+            "price": 194.24,
+            "quantity": 5.9,
+            "tax_amount": 73.13,
+            "total_ttc": 223.84,
+            "vat_amount": 8.05
+        },
+        {
+            "amount": 383.65,
+            "description": "synthesize killer applications",
+            "index": "1",
+            "price": 31.87,
+            "quantity": 1.5,
+            "tax_amount": 55.92,
+            "total_ttc": 397.24,
+            "vat_amount": 6.6
+        },
+        {
+            "amount": 175.03,
+            "description": "whiteboard end-to-end solutions",
+            "index": "8",
+            "price": 331.81,
+            "quantity": 2.18,
+            "tax_amount": 56.03,
+            "total_ttc": 205.28,
+            "vat_amount": 14.01
+        }
+    ],
+    "seller": {
+        "name": "Mary Mckinney"
+    },
+    "supplier": {
+        "address": "59095 Carlson Bypass Washingtonland, MP 18684",
+        "name": "Frank Ortega"
+    },
+    "tax": {
+        "amount_excluding_tax": 134.25,
+        "amount_including_tax": 35.18,
+        "tax_amount": 11.39,
+        "total_ht": 439.78,
+        "total_ttc": 263.34
+    }
+}

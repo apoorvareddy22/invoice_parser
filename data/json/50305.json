@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "3914 Theresa Spur Lake Scottberg, NJ 72560",
+        "id": "OY764"
+    },
+    "invoice": {
+        "bc_no": "xs85473",
+        "currency_code": "GTQ",
+        "date": "12.07.1994",
+        "due_date": "17.03.2009",
+        "number": 241209
+    },
+    "payment": {
+        "bank_name": "Warner Inc",
+        "bic": "ZMRYGB15NYJ",
+        "iban": "UXSB52819329923688"
+    },
+    "products": [
+        {
+            "amount": 170.4,
+            "description": "strategize bricks-and-clicks vortals",
+            "index": "1",
+            "price": 143.05,
+            "quantity": 1.8,
+            "tax_amount": 21.99,
+            "total_ttc": 337.12,
+            "vat_amount": 5.88
+        },
+        {
+            "amount": 53.52,
+            "description": "maximize efficient solutions",
+            "index": "2",
+            "price": 498.17,
+            "quantity": 2.86,
+            "tax_amount": 75.53,
+            "total_ttc": 310.84,
+            "vat_amount": 3.91
+        },
+        {
+            "amount": 193.75,
+            "description": "innovate 24/7 interfaces",
+            "index": "3",
+            "price": 276.62,
+            "quantity": 2.83,
+            "tax_amount": 99.55,
+            "total_ttc": 402.41,
+            "vat_amount": 1.32
+        },
+        {
+            "amount": 249.4,
+            "description": "iterate innovative relationships",
+            "index": "3",
+            "price": 124.97,
+            "quantity": 4.91,
+            "tax_amount": 12.55,
+            "total_ttc": 290.91,
+            "vat_amount": 7.93
+        },
+        {
+            "amount": 213.85,
+            "description": "redefine 24/7 initiatives",
+            "index": "4",
+            "price": 173.55,
+            "quantity": 5.75,
+            "tax_amount": 69.7,
+            "total_ttc": 457.2,
+            "vat_amount": 1.14
+        }
+    ],
+    "seller": {
+        "name": "Steven Malone"
+    },
+    "supplier": {
+        "address": "PSC 4043, Box 9406 APO AA 28998",
+        "name": "Michelle Moore"
+    },
+    "tax": {
+        "amount_excluding_tax": 59.52,
+        "amount_including_tax": 29.22,
+        "tax_amount": 19.42,
+        "total_ht": 352.06,
+        "total_ttc": 102.87
+    }
+}

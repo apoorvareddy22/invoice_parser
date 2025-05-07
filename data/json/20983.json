@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "9363 Tucker Mission Jonesborough, SD 43384",
+        "company_name": "Lewis Group",
+        "email": "wilkinsmark@example.net",
+        "name": "Mark Williams",
+        "phone": "(307)707-3359"
+    },
+    "invoice": {
+        "date": "16.06.2016",
+        "due_date": "25.11.2021",
+        "number": "JWM86025203517"
+    },
+    "payment": {
+        "account_number": 7131841718,
+        "bank_name": "Weber, Vaughn and Aguilar",
+        "routing_number": 558176491
+    },
+    "products": [
+        {
+            "amount": 344.02,
+            "description": "aggregate seamless schemas",
+            "index": "1",
+            "quantity": 5.24,
+            "unit_price": 30.59
+        },
+        {
+            "amount": 384.79,
+            "description": "incentivize virtual paradigms",
+            "index": "8",
+            "quantity": 7.31,
+            "unit_price": 80.56
+        },
+        {
+            "amount": 354.65,
+            "description": "integrate turn-key paradigms",
+            "index": "6",
+            "quantity": 3.48,
+            "unit_price": 13.15
+        },
+        {
+            "amount": 337.56,
+            "description": "deliver back-end partnerships",
+            "index": "4",
+            "quantity": 5.71,
+            "unit_price": 66.18
+        },
+        {
+            "amount": 14.21,
+            "description": "drive compelling web-readiness",
+            "index": "2",
+            "quantity": 1.7,
+            "unit_price": 34.75
+        }
+    ],
+    "seller": {
+        "address": "99711 Evelyn Fork New Alicia, PA 68125",
+        "company_name": "Sellers, Harris and Ashley",
+        "email": "kramerkatherine@example.com"
+    }
+}

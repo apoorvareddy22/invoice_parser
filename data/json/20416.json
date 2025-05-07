@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "149 Ryan Oval Apt. 124 Marshallfort, NH 57201",
+        "company_name": "Pearson PLC",
+        "email": "jonathansmith@example.com",
+        "name": "Sheila Perez",
+        "phone": "(641)844-0351x84710"
+    },
+    "invoice": {
+        "date": "24.06.2016",
+        "due_date": "15.02.2010",
+        "number": "vxE86200629135"
+    },
+    "payment": {
+        "account_number": 2174499072,
+        "bank_name": "White, Zimmerman and Farrell",
+        "routing_number": 334992782
+    },
+    "products": [
+        {
+            "amount": 180.7,
+            "description": "innovate e-business platforms",
+            "index": "2",
+            "quantity": 5.37,
+            "unit_price": 64.59
+        },
+        {
+            "amount": 481.22,
+            "description": "visualize B2C web services",
+            "index": "8",
+            "quantity": 3.3,
+            "unit_price": 94.16
+        },
+        {
+            "amount": 375.22,
+            "description": "enable visionary web-readiness",
+            "index": "3",
+            "quantity": 8.02,
+            "unit_price": 74.88
+        },
+        {
+            "amount": 180.1,
+            "description": "synergize innovative ROI",
+            "index": "10",
+            "quantity": 2.43,
+            "unit_price": 70.82
+        },
+        {
+            "amount": 197.38,
+            "description": "repurpose interactive partnerships",
+            "index": "8",
+            "quantity": 4.53,
+            "unit_price": 93.35
+        },
+        {
+            "amount": 191.85,
+            "description": "grow front-end web-readiness",
+            "index": "2",
+            "quantity": 9.12,
+            "unit_price": 87.99
+        },
+        {
+            "amount": 330.75,
+            "description": "implement ubiquitous e-tailers",
+            "index": "10",
+            "quantity": 4.21,
+            "unit_price": 46.6
+        }
+    ],
+    "seller": {
+        "address": "51649 Julie Rue Lake Kevin, KY 57075",
+        "company_name": "Mclean and Sons",
+        "email": "vmiller@example.org"
+    }
+}

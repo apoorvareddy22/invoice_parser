@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "755 Sherry Motorway Stevenland, MD 25568",
+        "id": "dA046"
+    },
+    "invoice": {
+        "bc_no": "Tg55068",
+        "currency_code": "CNY",
+        "date": "27.10.2006",
+        "due_date": "04.06.1995",
+        "number": 823906
+    },
+    "payment": {
+        "bank_name": "Holt-Clark",
+        "bic": "ZGCIGBTX",
+        "iban": "QMWZ72783899036893"
+    },
+    "products": [
+        {
+            "amount": 180.38,
+            "description": "harness best-of-breed synergies",
+            "index": "7",
+            "price": 79.38,
+            "quantity": 6.69,
+            "tax_amount": 62.84,
+            "total_ttc": 392.14,
+            "vat_amount": 6.44
+        },
+        {
+            "amount": 79.92,
+            "description": "drive rich e-business",
+            "index": "7",
+            "price": 107.43,
+            "quantity": 7.44,
+            "tax_amount": 90.67,
+            "total_ttc": 372.22,
+            "vat_amount": 2.95
+        },
+        {
+            "amount": 162.4,
+            "description": "implement seamless users",
+            "index": "8",
+            "price": 375.09,
+            "quantity": 8.76,
+            "tax_amount": 89.84,
+            "total_ttc": 459.31,
+            "vat_amount": 4.25
+        },
+        {
+            "amount": 325.25,
+            "description": "empower impactful initiatives",
+            "index": "5",
+            "price": 152.76,
+            "quantity": 3.34,
+            "tax_amount": 19.06,
+            "total_ttc": 399.15,
+            "vat_amount": 1.64
+        },
+        {
+            "amount": 16.78,
+            "description": "cultivate e-business schemas",
+            "index": "7",
+            "price": 30.53,
+            "quantity": 7.51,
+            "tax_amount": 80.94,
+            "total_ttc": 347.73,
+            "vat_amount": 12.3
+        }
+    ],
+    "seller": {
+        "name": "Tammy Cox"
+    },
+    "supplier": {
+        "address": "1495 Michelle Ports Suite 020 Port Jordan, IA 43648",
+        "name": "John Valenzuela"
+    },
+    "tax": {
+        "amount_excluding_tax": 150.54,
+        "amount_including_tax": 190.41,
+        "tax_amount": 13.06,
+        "total_ht": 131.78,
+        "total_ttc": 166.0
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "PSC 3823, Box 8725 APO AE 90441",
+        "business_no": "Id788",
+        "id": "Pv330"
+    },
+    "invoice": {
+        "date": "09.09.2010",
+        "number": "8591-6475"
+    },
+    "payment": {
+        "due_date": "15.11.2009",
+        "total": 900.36
+    },
+    "products": [
+        {
+            "amount": 428.81,
+            "description": "disintermediate seamless vortals",
+            "quantity": 8.02,
+            "reference": "YT-684",
+            "unit_price": 19.18
+        },
+        {
+            "amount": 411.55,
+            "description": "implement real-time action-items",
+            "quantity": 7.3,
+            "reference": "JA-740",
+            "unit_price": 54.37
+        },
+        {
+            "amount": 392.54,
+            "description": "transform distributed eyeballs",
+            "quantity": 8.78,
+            "reference": "In-572",
+            "unit_price": 59.0
+        },
+        {
+            "amount": 34.65,
+            "description": "enhance enterprise info-mediaries",
+            "quantity": 8.64,
+            "reference": "ik-919",
+            "unit_price": 36.25
+        },
+        {
+            "amount": 225.68,
+            "description": "harness back-end networks",
+            "quantity": 8.58,
+            "reference": "Ba-807",
+            "unit_price": 53.98
+        },
+        {
+            "amount": 497.03,
+            "description": "optimize mission-critical e-business",
+            "quantity": 9.01,
+            "reference": "ke-499",
+            "unit_price": 84.83
+        }
+    ],
+    "seller": {
+        "address": "642 Tiffany Lakes Apt. 892 Patrickton, DC 08563"
+    },
+    "tax": {
+        "base_ht": 190.31,
+        "regulations": 24.1,
+        "total_ht": 411.08,
+        "vat_amount": 137.88,
+        "vat_percentage": 24.66
+    }
+}

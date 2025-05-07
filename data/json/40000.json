@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "77045 Jeremiah Valleys Michaelfurt, MS 48062",
+        "company_name": "Dunn and Sons",
+        "country": "El Salvador",
+        "email": "alvaradorobert@example.net",
+        "name": "Alex Dorsey MD",
+        "phone": "001-718-812-4932x7773",
+        "vat_no": "Es05556966401"
+    },
+    "invoice": {
+        "date": "03.09.2005",
+        "due_date": "28.05.2013",
+        "linked_invoice": "wT-8121-9073",
+        "notes": "whiteboard frictionless architectures",
+        "number": "Hu-4406-8034"
+    },
+    "products": [
+        {
+            "description": "evolve real-time markets",
+            "discount_percentage": 7.69,
+            "price": 204.23,
+            "quantity": 9.14,
+            "unit_price": 22.15
+        },
+        {
+            "description": "aggregate wireless action-items",
+            "discount_percentage": 5.56,
+            "price": 422.14,
+            "quantity": 3.77,
+            "unit_price": 59.16
+        },
+        {
+            "description": "enhance distributed models",
+            "discount_percentage": 6.35,
+            "price": 407.61,
+            "quantity": 6.04,
+            "unit_price": 31.1
+        }
+    ],
+    "seller": {
+        "address": "75472 Regina Isle Suite 680 South Laurafurt, NJ 56119",
+        "ape": "1533j",
+        "capital": 33240753,
+        "country": "Singapore",
+        "email": "mdrake@example.com",
+        "name": "Christina Long",
+        "phone_1": "001-723-645-7478x583",
+        "phone_2": "706.767.2433",
+        "phone_3": "(706)755-3272x70836",
+        "ref_walk": "sUXV4102",
+        "reference": "LM368",
+        "siret": 58071646611112,
+        "vat_no": "lU36203031933",
+        "website": "https://gray.com/"
+    },
+    "tax": {
+        "amount_0": 22.81,
+        "amount_1": 12.64,
+        "base_0": 24.85,
+        "base_1": 103.71,
+        "total_ht": 126.38,
+        "total_tax": 18.01,
+        "total_ttc": 342.51,
+        "vat_0": 15.94,
+        "vat_1": 11.9
+    }
+}

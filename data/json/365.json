@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "77259 Paul Lights West Louis, IL 33535",
+        "company_name": "Miller LLC",
+        "country": "Seychelles",
+        "name": "Ricardo Anthony"
+    },
+    "invoice": {
+        "date": "26.08.1995",
+        "number": 100536
+    },
+    "payment": {
+        "discount_amount": 45.57,
+        "discount_percentage": 16.63,
+        "due": 158.81,
+        "sub_total": 48.17,
+        "total": 263.76
+    },
+    "products": [
+        {
+            "description": "envisioneer turn-key e-business",
+            "index": "10",
+            "quantity": 1.52,
+            "total_price": 520.83,
+            "unit_price": 60.43
+        },
+        {
+            "description": "syndicate user-centric e-tailers",
+            "index": "6",
+            "quantity": 8.69,
+            "total_price": 962.48,
+            "unit_price": 90.78
+        },
+        {
+            "description": "facilitate 24/365 paradigms",
+            "index": "8",
+            "quantity": 2.33,
+            "total_price": 691.57,
+            "unit_price": 16.35
+        },
+        {
+            "description": "monetize wireless networks",
+            "index": "1",
+            "quantity": 1.71,
+            "total_price": 925.89,
+            "unit_price": 42.15
+        }
+    ],
+    "seller": {
+        "address": "2794 Christopher Manor Lake Angela, CO 74373",
+        "company_name": "Murray-Fox",
+        "vat_no": "qN22713430116"
+    }
+}

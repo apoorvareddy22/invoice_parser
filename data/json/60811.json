@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "181 Herring Fields Suite 721 Rebeccaton, OH 14862",
+        "business_no": "Fd624",
+        "id": "nS357"
+    },
+    "invoice": {
+        "date": "22.04.2009",
+        "number": "2843-8031"
+    },
+    "payment": {
+        "due_date": "17.04.2022",
+        "total": 877.48
+    },
+    "products": [
+        {
+            "amount": 27.4,
+            "description": "iterate front-end vortals",
+            "quantity": 6.21,
+            "reference": "TF-559",
+            "unit_price": 30.06
+        },
+        {
+            "amount": 469.2,
+            "description": "re-contextualize cutting-edge partnerships",
+            "quantity": 1.48,
+            "reference": "bE-960",
+            "unit_price": 19.52
+        },
+        {
+            "amount": 42.19,
+            "description": "re-intermediate end-to-end action-items",
+            "quantity": 2.0,
+            "reference": "di-047",
+            "unit_price": 41.42
+        },
+        {
+            "amount": 156.34,
+            "description": "matrix enterprise niches",
+            "quantity": 8.65,
+            "reference": "MN-273",
+            "unit_price": 56.32
+        }
+    ],
+    "seller": {
+        "address": "883 Davidson Glens Suite 719 South Ambershire, NE 67968"
+    },
+    "tax": {
+        "base_ht": 359.22,
+        "regulations": 15.24,
+        "total_ht": 139.95,
+        "vat_amount": 71.36,
+        "vat_percentage": 28.55
+    }
+}

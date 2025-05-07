@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "31777 Thomas Skyway Apt. 395 Rivastown, HI 30882",
+        "id": "PC506"
+    },
+    "invoice": {
+        "bc_no": "Rp94022",
+        "currency_code": "MMK",
+        "date": "20.11.2010",
+        "due_date": "31.10.2016",
+        "number": 659739
+    },
+    "payment": {
+        "bank_name": "Ramirez-Mccullough",
+        "bic": "KZXMGB00",
+        "iban": "VRCU81143048084700"
+    },
+    "products": [
+        {
+            "amount": 233.56,
+            "description": "synergize turn-key solutions",
+            "index": "3",
+            "price": 24.69,
+            "quantity": 5.53,
+            "tax_amount": 94.37,
+            "total_ttc": 260.08,
+            "vat_amount": 1.67
+        },
+        {
+            "amount": 216.73,
+            "description": "utilize impactful functionalities",
+            "index": "2",
+            "price": 412.78,
+            "quantity": 1.91,
+            "tax_amount": 70.69,
+            "total_ttc": 107.39,
+            "vat_amount": 2.94
+        },
+        {
+            "amount": 179.89,
+            "description": "transform customized e-markets",
+            "index": "9",
+            "price": 419.97,
+            "quantity": 1.59,
+            "tax_amount": 99.75,
+            "total_ttc": 241.93,
+            "vat_amount": 8.57
+        },
+        {
+            "amount": 72.43,
+            "description": "productize extensible communities",
+            "index": "2",
+            "price": 177.85,
+            "quantity": 8.4,
+            "tax_amount": 70.9,
+            "total_ttc": 219.83,
+            "vat_amount": 6.18
+        }
+    ],
+    "seller": {
+        "name": "Jennifer Rivera"
+    },
+    "supplier": {
+        "address": "46599 Leah Brook Suite 507 Dawnhaven, MN 24218",
+        "name": "Katherine Reed"
+    },
+    "tax": {
+        "amount_excluding_tax": 24.75,
+        "amount_including_tax": 86.75,
+        "tax_amount": 29.85,
+        "total_ht": 246.31,
+        "total_ttc": 376.42
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "33496 Booker Way Apt. 123 New Williamton, NJ 86985",
+        "id": "zk698"
+    },
+    "invoice": {
+        "bc_no": "SH95335",
+        "currency_code": "SEK",
+        "date": "06.07.2020",
+        "due_date": "10.02.2007",
+        "number": 684328
+    },
+    "payment": {
+        "bank_name": "Hammond, Bryant and Simon",
+        "bic": "EWTIGB359AK",
+        "iban": "XYTM82463956206192"
+    },
+    "products": [
+        {
+            "amount": 234.57,
+            "description": "utilize open-source ROI",
+            "index": "1",
+            "price": 243.51,
+            "quantity": 1.8,
+            "tax_amount": 39.14,
+            "total_ttc": 222.81,
+            "vat_amount": 4.85
+        }
+    ],
+    "seller": {
+        "name": "Julian Mahoney"
+    },
+    "supplier": {
+        "address": "356 Jeffrey Crescent New Curtis, DE 40384",
+        "name": "Heather Wright"
+    },
+    "tax": {
+        "amount_excluding_tax": 23.26,
+        "amount_including_tax": 176.84,
+        "tax_amount": 27.81,
+        "total_ht": 496.76,
+        "total_ttc": 493.74
+    }
+}

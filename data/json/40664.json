@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "5830 Lauren Circle Lake Connor, SD 85951"
+    },
+    "invoice": {
+        "bc_no": "IH01272",
+        "date": "09.05.2005",
+        "maturity_date": "06.10.2008",
+        "number": 649279
+    },
+    "products": [
+        {
+            "amount": 107.32,
+            "description": "unleash cutting-edge eyeballs",
+            "quantity": 4.35,
+            "unit_price": 96.21,
+            "vat_amount": 0.58
+        },
+        {
+            "amount": 419.01,
+            "description": "expedite e-business solutions",
+            "quantity": 8.19,
+            "unit_price": 61.67,
+            "vat_amount": 13.97
+        },
+        {
+            "amount": 288.82,
+            "description": "incubate intuitive experiences",
+            "quantity": 8.63,
+            "unit_price": 89.85,
+            "vat_amount": 1.93
+        },
+        {
+            "amount": 221.96,
+            "description": "transition end-to-end relationships",
+            "quantity": 5.18,
+            "unit_price": 14.71,
+            "vat_amount": 2.37
+        }
+    ],
+    "seller": {
+        "address": "868 Gregory Ridges Leonardbury, AK 71911"
+    },
+    "tax": {
+        "amount_excluding_tax": 122.75,
+        "amount_including_tax": 37.33,
+        "tax_amount": 20.38
+    }
+}

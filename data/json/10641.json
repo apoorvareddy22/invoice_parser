@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "PSC 5440, Box 6987 APO AE 19019",
+        "email": "castrojoshua@example.net",
+        "phone": "(548)248-8804",
+        "vat_no": "vI22712372147"
+    },
+    "invoice": {
+        "date": "24.09.2010",
+        "due_date": "16.04.2020",
+        "market_reference": 590588,
+        "notes": "visualize plug-and-play portals",
+        "number": "6644-6687",
+        "reference": 829812,
+        "vat_no": "Uz28511905220"
+    },
+    "payment": {
+        "net_total": 106.53,
+        "total": 291.71
+    },
+    "products": [
+        {
+            "amount": 285.89,
+            "description": "benchmark user-centric e-tailers",
+            "hours": 9.34,
+            "rate": 7.73
+        },
+        {
+            "amount": 248.38,
+            "description": "unleash killer e-markets",
+            "hours": 2.25,
+            "rate": 8.98
+        },
+        {
+            "amount": 176.99,
+            "description": "visualize synergistic solutions",
+            "hours": 5.97,
+            "rate": 1.04
+        },
+        {
+            "amount": 278.54,
+            "description": "transform leading-edge schemas",
+            "hours": 3.79,
+            "rate": 9.07
+        }
+    ],
+    "seller": {
+        "address": "49302 Riley Lane Abigailport, AL 43742",
+        "email": "sydney47@example.org",
+        "name": "Melissa Morrison"
+    },
+    "tax": {
+        "base": 27.41,
+        "tax_amount": 23.99,
+        "total_tax": 13.5
+    }
+}

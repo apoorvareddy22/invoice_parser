@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "789 Smith Estate Lake Jason, MA 78631",
+        "company_name": "Oliver Inc",
+        "country": "Kiribati",
+        "name": "Joseph Anderson"
+    },
+    "invoice": {
+        "date": "19.03.2013",
+        "number": 246960
+    },
+    "payment": {
+        "discount_amount": 41.99,
+        "discount_percentage": 17.11,
+        "due": 162.43,
+        "sub_total": 193.82,
+        "total": 805.61
+    },
+    "products": [
+        {
+            "description": "benchmark turn-key e-business",
+            "index": "1",
+            "quantity": 7.23,
+            "total_price": 439.03,
+            "unit_price": 12.21
+        },
+        {
+            "description": "revolutionize plug-and-play web-readiness",
+            "index": "4",
+            "quantity": 9.41,
+            "total_price": 594.45,
+            "unit_price": 10.09
+        },
+        {
+            "description": "disintermediate scalable action-items",
+            "index": "9",
+            "quantity": 6.21,
+            "total_price": 431.73,
+            "unit_price": 32.86
+        },
+        {
+            "description": "visualize bricks-and-clicks e-business",
+            "index": "1",
+            "quantity": 2.03,
+            "total_price": 578.31,
+            "unit_price": 43.43
+        },
+        {
+            "description": "iterate back-end models",
+            "index": "3",
+            "quantity": 6.51,
+            "total_price": 975.63,
+            "unit_price": 81.45
+        },
+        {
+            "description": "empower intuitive convergence",
+            "index": "10",
+            "quantity": 1.5,
+            "total_price": 966.95,
+            "unit_price": 90.15
+        },
+        {
+            "description": "streamline magnetic bandwidth",
+            "index": "9",
+            "quantity": 8.44,
+            "total_price": 484.99,
+            "unit_price": 10.95
+        }
+    ],
+    "seller": {
+        "address": "Unit 0041 Box 0706 DPO AA 14290",
+        "company_name": "Cook and Sons",
+        "vat_no": "BX90609805449"
+    }
+}

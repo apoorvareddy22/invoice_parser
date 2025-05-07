@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "PSC 1523, Box 1751 APO AA 15440"
+    },
+    "invoice": {
+        "bc_no": "tg49998",
+        "date": "06.01.2013",
+        "maturity_date": "24.10.2005",
+        "number": 215059
+    },
+    "products": [
+        {
+            "amount": 200.94,
+            "description": "redefine cutting-edge paradigms",
+            "quantity": 5.61,
+            "unit_price": 44.84,
+            "vat_amount": 2.65
+        }
+    ],
+    "seller": {
+        "address": "9720 Perez Terrace Port Peterstad, CT 86858"
+    },
+    "tax": {
+        "amount_excluding_tax": 123.58,
+        "amount_including_tax": 94.55,
+        "tax_amount": 29.12
+    }
+}

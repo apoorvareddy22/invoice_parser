@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "31543 Sheppard Trafficway Apt. 815 Meganfurt, VT 16293",
+        "business_no": "tQ308",
+        "id": "EY338"
+    },
+    "invoice": {
+        "date": "18.02.1999",
+        "number": "6236-5369"
+    },
+    "payment": {
+        "due_date": "20.09.2011",
+        "total": 788.7
+    },
+    "products": [
+        {
+            "amount": 96.76,
+            "description": "reinvent user-centric platforms",
+            "quantity": 5.68,
+            "reference": "jt-509",
+            "unit_price": 60.65
+        },
+        {
+            "amount": 155.72,
+            "description": "whiteboard one-to-one relationships",
+            "quantity": 3.53,
+            "reference": "Bi-597",
+            "unit_price": 38.65
+        },
+        {
+            "amount": 237.8,
+            "description": "exploit frictionless markets",
+            "quantity": 6.31,
+            "reference": "YQ-430",
+            "unit_price": 18.59
+        },
+        {
+            "amount": 83.56,
+            "description": "matrix cross-media systems",
+            "quantity": 1.45,
+            "reference": "or-278",
+            "unit_price": 14.67
+        }
+    ],
+    "seller": {
+        "address": "6127 Macdonald Plaza Suite 623 Port Kimberlytown, IN 12152"
+    },
+    "tax": {
+        "base_ht": 409.84,
+        "regulations": 21.67,
+        "total_ht": 272.73,
+        "vat_amount": 108.09,
+        "vat_percentage": 26.58
+    }
+}

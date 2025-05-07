@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "608 Wright Meadow Suite 087 Port Lindaland, AK 92464",
+        "company_name": "Bonilla, Macias and Kelly",
+        "country": "Honduras",
+        "name": "Heather Jackson"
+    },
+    "invoice": {
+        "date": "01.12.1996",
+        "number": 752592
+    },
+    "payment": {
+        "discount_amount": 21.79,
+        "discount_percentage": 17.7,
+        "due": 140.92,
+        "sub_total": 100.58,
+        "total": 194.53
+    },
+    "products": [
+        {
+            "description": "engineer innovative users",
+            "index": "3",
+            "quantity": 6.59,
+            "total_price": 347.96,
+            "unit_price": 88.42
+        },
+        {
+            "description": "streamline e-business channels",
+            "index": "3",
+            "quantity": 5.48,
+            "total_price": 29.96,
+            "unit_price": 35.69
+        }
+    ],
+    "seller": {
+        "address": "6522 Randall View Suite 456 North Sandra, IN 18088",
+        "company_name": "Lee-Robinson",
+        "vat_no": "JY30718987296"
+    }
+}

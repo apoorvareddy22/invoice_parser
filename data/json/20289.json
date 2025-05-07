@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "3070 Branch Glens Apt. 193 Matthewburgh, MP 93323",
+        "company_name": "Williams, Atkinson and Valencia",
+        "email": "spencerjohnson@example.net",
+        "name": "Christopher Austin",
+        "phone": "+1-781-287-8203"
+    },
+    "invoice": {
+        "date": "27.11.1990",
+        "due_date": "06.06.2013",
+        "number": "nPj86496774147"
+    },
+    "payment": {
+        "account_number": 6426443622,
+        "bank_name": "Copeland, Jimenez and Blanchard",
+        "routing_number": 992709290
+    },
+    "products": [
+        {
+            "amount": 198.68,
+            "description": "e-enable global functionalities",
+            "index": "9",
+            "quantity": 8.37,
+            "unit_price": 21.77
+        },
+        {
+            "amount": 449.93,
+            "description": "incentivize virtual e-services",
+            "index": "9",
+            "quantity": 3.62,
+            "unit_price": 34.19
+        }
+    ],
+    "seller": {
+        "address": "00853 Zachary Station Justinmouth, WA 82170",
+        "company_name": "Henderson-Davis",
+        "email": "xmartinez@example.org"
+    }
+}

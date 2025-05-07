@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "10256 Flynn Tunnel Johnhaven, NJ 95100",
+        "company_name": "Robertson, Ferrell and Nelson",
+        "country": "Benin",
+        "name": "Sharon Perez"
+    },
+    "invoice": {
+        "date": "21.05.2013",
+        "number": 768703
+    },
+    "payment": {
+        "discount_amount": 39.72,
+        "discount_percentage": 7.35,
+        "due": 16.12,
+        "sub_total": 134.97,
+        "total": 447.21
+    },
+    "products": [
+        {
+            "description": "redefine dot-com functionalities",
+            "index": "5",
+            "quantity": 8.84,
+            "total_price": 856.71,
+            "unit_price": 64.57
+        },
+        {
+            "description": "synergize dot-com functionalities",
+            "index": "9",
+            "quantity": 5.93,
+            "total_price": 491.98,
+            "unit_price": 74.6
+        },
+        {
+            "description": "orchestrate synergistic action-items",
+            "index": "7",
+            "quantity": 2.66,
+            "total_price": 415.59,
+            "unit_price": 10.57
+        },
+        {
+            "description": "disintermediate 24/365 convergence",
+            "index": "10",
+            "quantity": 9.54,
+            "total_price": 201.73,
+            "unit_price": 32.77
+        }
+    ],
+    "seller": {
+        "address": "661 Banks Dam East Randallburgh, OK 68892",
+        "company_name": "Thomas and Sons",
+        "vat_no": "Io55834147941"
+    }
+}

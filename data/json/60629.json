@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "6561 Renee Falls Colleentown, MS 25141",
+        "business_no": "Ei600",
+        "id": "VS497"
+    },
+    "invoice": {
+        "date": "25.06.1992",
+        "number": "1069-9439"
+    },
+    "payment": {
+        "due_date": "20.07.1996",
+        "total": 810.66
+    },
+    "products": [
+        {
+            "amount": 94.82,
+            "description": "synthesize mission-critical deliverables",
+            "quantity": 9.69,
+            "reference": "xb-973",
+            "unit_price": 17.35
+        },
+        {
+            "amount": 413.77,
+            "description": "syndicate B2C web-readiness",
+            "quantity": 3.31,
+            "reference": "ed-793",
+            "unit_price": 86.27
+        },
+        {
+            "amount": 343.43,
+            "description": "facilitate end-to-end bandwidth",
+            "quantity": 5.45,
+            "reference": "Qj-116",
+            "unit_price": 13.85
+        }
+    ],
+    "seller": {
+        "address": "75920 Sarah Crossing Suite 703 East Julie, GU 28252"
+    },
+    "tax": {
+        "base_ht": 214.77,
+        "regulations": 29.4,
+        "total_ht": 498.39,
+        "vat_amount": 148.5,
+        "vat_percentage": 10.66
+    }
+}

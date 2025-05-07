@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "98141 Torres Flat New Arthur, CO 30863",
+        "email": "lcastillo@example.net",
+        "phone": "+1-314-833-8838x5561",
+        "vat_no": "zw60055018965"
+    },
+    "invoice": {
+        "date": "17.06.1997",
+        "due_date": "27.09.1999",
+        "market_reference": 523188,
+        "notes": "deploy bricks-and-clicks e-markets",
+        "number": "5574-3333",
+        "reference": 139575,
+        "vat_no": "eA22866176973"
+    },
+    "payment": {
+        "net_total": 96.14,
+        "total": 563.49
+    },
+    "products": [
+        {
+            "amount": 412.56,
+            "description": "transform innovative partnerships",
+            "hours": 4.51,
+            "rate": 1.05
+        },
+        {
+            "amount": 86.98,
+            "description": "target customized bandwidth",
+            "hours": 4.77,
+            "rate": 5.11
+        },
+        {
+            "amount": 155.39,
+            "description": "generate cross-platform experiences",
+            "hours": 3.58,
+            "rate": 5.1
+        }
+    ],
+    "seller": {
+        "address": "03673 Jackson Locks Jonathanbury, NH 32712",
+        "email": "jamesbryant@example.org",
+        "name": "Ashley Herrera"
+    },
+    "tax": {
+        "base": 20.8,
+        "tax_amount": 21.97,
+        "total_tax": 25.07
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "24871 James Run East Aprilside, TX 70690",
+        "company_name": "Garcia, Kelly and Davis",
+        "email": "hwright@example.net",
+        "name": "Cody Olson",
+        "phone": "(615)232-2390x6435"
+    },
+    "invoice": {
+        "date": "14.10.2003",
+        "due_date": "25.01.2015",
+        "number": "aDW95341153826"
+    },
+    "payment": {
+        "account_number": 7645957891,
+        "bank_name": "Martin Ltd",
+        "routing_number": 176247115
+    },
+    "products": [
+        {
+            "amount": 305.29,
+            "description": "syndicate one-to-one platforms",
+            "index": "2",
+            "quantity": 3.4,
+            "unit_price": 52.76
+        },
+        {
+            "amount": 186.44,
+            "description": "innovate granular ROI",
+            "index": "9",
+            "quantity": 5.44,
+            "unit_price": 81.82
+        },
+        {
+            "amount": 186.75,
+            "description": "deliver 24/7 methodologies",
+            "index": "10",
+            "quantity": 1.82,
+            "unit_price": 12.74
+        }
+    ],
+    "seller": {
+        "address": "9539 Jasmine Hill Apt. 375 Cantrellmouth, VI 87940",
+        "company_name": "Cruz-Reese",
+        "email": "austinpham@example.com"
+    }
+}

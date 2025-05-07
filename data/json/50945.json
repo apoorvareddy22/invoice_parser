@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "5555 Butler Valley Apt. 117 Lake Kristina, VT 85697",
+        "id": "zk356"
+    },
+    "invoice": {
+        "bc_no": "qF98725",
+        "currency_code": "MXN",
+        "date": "02.01.2000",
+        "due_date": "01.03.1998",
+        "number": 408140
+    },
+    "payment": {
+        "bank_name": "Bowman-Russell",
+        "bic": "XLCKGBSRJ3I",
+        "iban": "TNKB57393050347375"
+    },
+    "products": [
+        {
+            "amount": 120.26,
+            "description": "reinvent magnetic synergies",
+            "index": "2",
+            "price": 228.41,
+            "quantity": 7.39,
+            "tax_amount": 50.03,
+            "total_ttc": 270.21,
+            "vat_amount": 3.29
+        },
+        {
+            "amount": 299.82,
+            "description": "generate enterprise e-tailers",
+            "index": "2",
+            "price": 98.01,
+            "quantity": 3.99,
+            "tax_amount": 47.98,
+            "total_ttc": 159.07,
+            "vat_amount": 1.81
+        },
+        {
+            "amount": 346.0,
+            "description": "envisioneer leading-edge ROI",
+            "index": "9",
+            "price": 246.49,
+            "quantity": 3.32,
+            "tax_amount": 69.32,
+            "total_ttc": 360.53,
+            "vat_amount": 3.79
+        }
+    ],
+    "seller": {
+        "name": "Lawrence Hendricks"
+    },
+    "supplier": {
+        "address": "234 Jaclyn Haven Lake Andrew, NC 65999",
+        "name": "Keith Floyd"
+    },
+    "tax": {
+        "amount_excluding_tax": 177.27,
+        "amount_including_tax": 141.83,
+        "tax_amount": 23.12,
+        "total_ht": 348.15,
+        "total_ttc": 243.64
+    }
+}

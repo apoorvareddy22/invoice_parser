@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "139 Davis Plains Apt. 854 South Charles, MH 87918",
+        "email": "samantha96@example.com",
+        "phone": "(344)942-4296x752",
+        "vat_no": "uU04132673411"
+    },
+    "invoice": {
+        "date": "11.06.2009",
+        "due_date": "11.01.2008",
+        "market_reference": 720321,
+        "notes": "transform wireless content",
+        "number": "5571-9359",
+        "reference": 269471,
+        "vat_no": "Wz21525001938"
+    },
+    "payment": {
+        "net_total": 185.44,
+        "total": 763.85
+    },
+    "products": [
+        {
+            "amount": 42.48,
+            "description": "implement revolutionary ROI",
+            "hours": 2.77,
+            "rate": 5.97
+        },
+        {
+            "amount": 299.62,
+            "description": "leverage 24/365 e-commerce",
+            "hours": 7.74,
+            "rate": 5.19
+        },
+        {
+            "amount": 38.19,
+            "description": "empower world-class e-business",
+            "hours": 5.41,
+            "rate": 6.71
+        },
+        {
+            "amount": 384.02,
+            "description": "generate intuitive ROI",
+            "hours": 4.58,
+            "rate": 4.39
+        }
+    ],
+    "seller": {
+        "address": "3427 Church Orchard Lewisview, IA 47375",
+        "email": "yclayton@example.com",
+        "name": "Anne Keller"
+    },
+    "tax": {
+        "base": 16.55,
+        "tax_amount": 10.68,
+        "total_tax": 16.45
+    }
+}

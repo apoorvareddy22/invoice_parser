@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "4753 Jackson Mews Johnnyview, MA 98335"
+    },
+    "invoice": {
+        "bc_no": "fm91079",
+        "date": "28.12.2013",
+        "maturity_date": "17.02.2018",
+        "number": 723970
+    },
+    "products": [
+        {
+            "amount": 291.9,
+            "description": "architect robust web-readiness",
+            "quantity": 9.62,
+            "unit_price": 15.86,
+            "vat_amount": 2.08
+        },
+        {
+            "amount": 497.59,
+            "description": "brand turn-key solutions",
+            "quantity": 9.82,
+            "unit_price": 88.37,
+            "vat_amount": 1.17
+        },
+        {
+            "amount": 194.96,
+            "description": "facilitate user-centric metrics",
+            "quantity": 4.55,
+            "unit_price": 29.85,
+            "vat_amount": 3.81
+        },
+        {
+            "amount": 133.59,
+            "description": "unleash holistic networks",
+            "quantity": 9.85,
+            "unit_price": 24.75,
+            "vat_amount": 1.44
+        }
+    ],
+    "seller": {
+        "address": "6410 Larsen Rapid Apt. 009 Port Karenchester, FM 32025"
+    },
+    "tax": {
+        "amount_excluding_tax": 27.92,
+        "amount_including_tax": 45.1,
+        "tax_amount": 29.76
+    }
+}

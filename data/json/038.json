@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "289 Mcdaniel Parkway Suite 236 East Sarah, PW 20925",
+        "company_name": "Harris and Sons",
+        "country": "Togo",
+        "name": "Heather Galloway"
+    },
+    "invoice": {
+        "date": "25.06.2020",
+        "number": 564903
+    },
+    "payment": {
+        "discount_amount": 21.2,
+        "discount_percentage": 5.55,
+        "due": 189.24,
+        "sub_total": 190.64,
+        "total": 420.78
+    },
+    "products": [
+        {
+            "description": "matrix plug-and-play users",
+            "index": "5",
+            "quantity": 3.48,
+            "total_price": 42.09,
+            "unit_price": 90.68
+        }
+    ],
+    "seller": {
+        "address": "849 Alvarado Fields Ashleyburgh, NV 15660",
+        "company_name": "Stewart Inc",
+        "vat_no": "DP37922963491"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "379 Pamela Pine Apt. 352 Brownview, AZ 46531",
+        "email": "roberto42@example.com",
+        "phone": "903.647.4861",
+        "vat_no": "xR14511945114"
+    },
+    "invoice": {
+        "date": "07.05.2023",
+        "due_date": "26.09.2000",
+        "market_reference": 784419,
+        "notes": "scale web-enabled web-readiness",
+        "number": "3258-1843",
+        "reference": 531973,
+        "vat_no": "fH48677222325"
+    },
+    "payment": {
+        "net_total": 175.8,
+        "total": 588.72
+    },
+    "products": [
+        {
+            "amount": 223.52,
+            "description": "seize enterprise e-tailers",
+            "hours": 8.58,
+            "rate": 4.46
+        },
+        {
+            "amount": 29.25,
+            "description": "re-contextualize front-end eyeballs",
+            "hours": 9.89,
+            "rate": 7.35
+        },
+        {
+            "amount": 20.46,
+            "description": "facilitate compelling platforms",
+            "hours": 7.78,
+            "rate": 6.87
+        },
+        {
+            "amount": 155.27,
+            "description": "aggregate transparent e-tailers",
+            "hours": 5.17,
+            "rate": 9.19
+        }
+    ],
+    "seller": {
+        "address": "9062 Dougherty Turnpike Smithfurt, MS 04007",
+        "email": "sean80@example.org",
+        "name": "Charles Harrington DVM"
+    },
+    "tax": {
+        "base": 18.94,
+        "tax_amount": 14.18,
+        "total_tax": 21.55
+    }
+}

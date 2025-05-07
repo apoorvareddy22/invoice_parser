@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "995 Amy Pine Apt. 829 North Jason, LA 20688",
+        "company_name": "Grimes LLC",
+        "country": "Hong Kong",
+        "name": "Haley Martin"
+    },
+    "invoice": {
+        "date": "18.08.1997",
+        "number": 986485
+    },
+    "payment": {
+        "discount_amount": 21.04,
+        "discount_percentage": 17.48,
+        "due": 38.38,
+        "sub_total": 39.72,
+        "total": 255.36
+    },
+    "products": [
+        {
+            "description": "drive collaborative applications",
+            "index": "6",
+            "quantity": 8.64,
+            "total_price": 630.31,
+            "unit_price": 15.54
+        }
+    ],
+    "seller": {
+        "address": "1349 Kirby Loop Apt. 779 Port Tonichester, AK 26662",
+        "company_name": "Moore, Bass and Garcia",
+        "vat_no": "Cu11053731754"
+    }
+}

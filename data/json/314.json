@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "97123 Dustin Radial Apt. 357 Robinsonhaven, MI 94369",
+        "company_name": "Moore-Morris",
+        "country": "Turks and Caicos Islands",
+        "name": "Teresa Meyer"
+    },
+    "invoice": {
+        "date": "23.01.2019",
+        "number": 668352
+    },
+    "payment": {
+        "discount_amount": 20.68,
+        "discount_percentage": 8.1,
+        "due": 196.79,
+        "sub_total": 120.25,
+        "total": 903.32
+    },
+    "products": [
+        {
+            "description": "enable 24/365 web services",
+            "index": "5",
+            "quantity": 1.69,
+            "total_price": 947.86,
+            "unit_price": 65.16
+        },
+        {
+            "description": "whiteboard virtual action-items",
+            "index": "9",
+            "quantity": 1.37,
+            "total_price": 931.42,
+            "unit_price": 11.87
+        }
+    ],
+    "seller": {
+        "address": "0377 Ritter Springs Michelleberg, NV 43963",
+        "company_name": "Smith-Becker",
+        "vat_no": "OM21635436454"
+    }
+}

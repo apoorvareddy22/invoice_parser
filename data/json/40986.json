@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "7895 Huerta Fall Apt. 966 Lopezburgh, OR 68535"
+    },
+    "invoice": {
+        "bc_no": "xo07936",
+        "date": "23.12.2008",
+        "maturity_date": "27.08.1995",
+        "number": 574488
+    },
+    "products": [
+        {
+            "amount": 61.39,
+            "description": "visualize B2C action-items",
+            "quantity": 2.41,
+            "unit_price": 89.05,
+            "vat_amount": 2.88
+        },
+        {
+            "amount": 72.49,
+            "description": "implement vertical e-commerce",
+            "quantity": 5.58,
+            "unit_price": 81.69,
+            "vat_amount": 14.07
+        },
+        {
+            "amount": 126.71,
+            "description": "disintermediate integrated eyeballs",
+            "quantity": 9.56,
+            "unit_price": 91.03,
+            "vat_amount": 2.44
+        },
+        {
+            "amount": 253.95,
+            "description": "e-enable turn-key networks",
+            "quantity": 7.94,
+            "unit_price": 78.0,
+            "vat_amount": 8.24
+        }
+    ],
+    "seller": {
+        "address": "36837 Monica Trafficway Suite 066 Samanthafort, OK 11068"
+    },
+    "tax": {
+        "amount_excluding_tax": 146.64,
+        "amount_including_tax": 150.68,
+        "tax_amount": 19.1
+    }
+}

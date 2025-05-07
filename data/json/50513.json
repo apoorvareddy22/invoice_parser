@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "201 Murphy Mountain Suite 730 Marshallburgh, GA 90746",
+        "id": "Lj146"
+    },
+    "invoice": {
+        "bc_no": "Pa55832",
+        "currency_code": "AWG",
+        "date": "06.11.2008",
+        "due_date": "18.03.2020",
+        "number": 764068
+    },
+    "payment": {
+        "bank_name": "Price-Taylor",
+        "bic": "WOCOGBD2X3P",
+        "iban": "VTOR71080835966071"
+    },
+    "products": [
+        {
+            "amount": 414.16,
+            "description": "disintermediate bleeding-edge deliverables",
+            "index": "6",
+            "price": 329.73,
+            "quantity": 4.41,
+            "tax_amount": 49.79,
+            "total_ttc": 402.13,
+            "vat_amount": 2.82
+        },
+        {
+            "amount": 491.84,
+            "description": "extend one-to-one experiences",
+            "index": "6",
+            "price": 263.13,
+            "quantity": 3.99,
+            "tax_amount": 18.29,
+            "total_ttc": 246.19,
+            "vat_amount": 7.67
+        },
+        {
+            "amount": 383.12,
+            "description": "transform efficient ROI",
+            "index": "10",
+            "price": 31.68,
+            "quantity": 7.67,
+            "tax_amount": 45.31,
+            "total_ttc": 319.75,
+            "vat_amount": 4.43
+        },
+        {
+            "amount": 167.02,
+            "description": "generate cross-media users",
+            "index": "3",
+            "price": 259.44,
+            "quantity": 7.91,
+            "tax_amount": 82.15,
+            "total_ttc": 393.55,
+            "vat_amount": 4.51
+        },
+        {
+            "amount": 258.23,
+            "description": "whiteboard global infrastructures",
+            "index": "4",
+            "price": 257.25,
+            "quantity": 1.45,
+            "tax_amount": 84.57,
+            "total_ttc": 423.41,
+            "vat_amount": 4.77
+        },
+        {
+            "amount": 410.46,
+            "description": "enhance 24/365 users",
+            "index": "2",
+            "price": 118.26,
+            "quantity": 5.64,
+            "tax_amount": 46.5,
+            "total_ttc": 231.46,
+            "vat_amount": 1.84
+        },
+        {
+            "amount": 497.61,
+            "description": "syndicate next-generation e-tailers",
+            "index": "8",
+            "price": 284.01,
+            "quantity": 1.62,
+            "tax_amount": 53.86,
+            "total_ttc": 295.93,
+            "vat_amount": 14.93
+        }
+    ],
+    "seller": {
+        "name": "Cody Gibson"
+    },
+    "supplier": {
+        "address": "51771 John Meadow South Kevinhaven, KY 72619",
+        "name": "Erik Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 139.57,
+        "amount_including_tax": 62.14,
+        "tax_amount": 17.36,
+        "total_ht": 109.29,
+        "total_ttc": 174.18
+    }
+}

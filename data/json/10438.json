@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "714 Fox Overpass New Aprilfurt, FL 60366",
+        "email": "glenda59@example.org",
+        "phone": "(820)830-5967",
+        "vat_no": "QY82291806127"
+    },
+    "invoice": {
+        "date": "30.04.2002",
+        "due_date": "04.10.1990",
+        "market_reference": 123956,
+        "notes": "repurpose strategic partnerships",
+        "number": "5118-8089",
+        "reference": 502369,
+        "vat_no": "Qj87879359659"
+    },
+    "payment": {
+        "net_total": 170.37,
+        "total": 764.69
+    },
+    "products": [
+        {
+            "amount": 218.56,
+            "description": "synthesize ubiquitous architectures",
+            "hours": 6.05,
+            "rate": 3.12
+        },
+        {
+            "amount": 494.52,
+            "description": "leverage value-added web-readiness",
+            "hours": 9.11,
+            "rate": 2.97
+        }
+    ],
+    "seller": {
+        "address": "319 Lang Cliff Lake Kellishire, LA 03266",
+        "email": "howellclayton@example.com",
+        "name": "Maureen Stephens"
+    },
+    "tax": {
+        "base": 20.35,
+        "tax_amount": 29.64,
+        "total_tax": 29.51
+    }
+}

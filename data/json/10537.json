@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "01400 Pena Shore Apt. 982 Lucasland, PW 50384",
+        "email": "jeanette13@example.com",
+        "phone": "(825)524-2344x314",
+        "vat_no": "RI28076709478"
+    },
+    "invoice": {
+        "date": "15.06.2008",
+        "due_date": "15.01.2002",
+        "market_reference": 918583,
+        "notes": "benchmark interactive e-services",
+        "number": "4851-7623",
+        "reference": 359973,
+        "vat_no": "Rk59624065201"
+    },
+    "payment": {
+        "net_total": 133.33,
+        "total": 581.71
+    },
+    "products": [
+        {
+            "amount": 237.79,
+            "description": "harness global niches",
+            "hours": 5.34,
+            "rate": 5.81
+        },
+        {
+            "amount": 471.24,
+            "description": "syndicate rich web-readiness",
+            "hours": 3.62,
+            "rate": 2.58
+        },
+        {
+            "amount": 346.0,
+            "description": "benchmark interactive portals",
+            "hours": 2.01,
+            "rate": 1.02
+        },
+        {
+            "amount": 148.24,
+            "description": "envisioneer synergistic channels",
+            "hours": 5.65,
+            "rate": 5.71
+        }
+    ],
+    "seller": {
+        "address": "2886 Daniels Curve Apt. 267 North Oliviaberg, ME 01717",
+        "email": "richardsanchez@example.com",
+        "name": "Gregory Lynch"
+    },
+    "tax": {
+        "base": 14.03,
+        "tax_amount": 18.77,
+        "total_tax": 10.16
+    }
+}

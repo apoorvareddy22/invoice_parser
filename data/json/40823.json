@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "298 George Ferry Coryfort, MO 91769"
+    },
+    "invoice": {
+        "bc_no": "qq21184",
+        "date": "04.06.1994",
+        "maturity_date": "15.10.2018",
+        "number": 498389
+    },
+    "products": [
+        {
+            "amount": 342.95,
+            "description": "whiteboard open-source platforms",
+            "quantity": 5.86,
+            "unit_price": 44.11,
+            "vat_amount": 2.54
+        },
+        {
+            "amount": 99.38,
+            "description": "leverage proactive markets",
+            "quantity": 6.89,
+            "unit_price": 74.58,
+            "vat_amount": 4.29
+        },
+        {
+            "amount": 114.49,
+            "description": "architect plug-and-play initiatives",
+            "quantity": 7.25,
+            "unit_price": 17.62,
+            "vat_amount": 5.99
+        }
+    ],
+    "seller": {
+        "address": "9406 Chung Ways Suite 925 Lake Tina, MD 56205"
+    },
+    "tax": {
+        "amount_excluding_tax": 33.24,
+        "amount_including_tax": 114.1,
+        "tax_amount": 15.05
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "546 Thomas Mount South Alexandramouth, NY 57588",
+        "email": "mortonkevin@example.org",
+        "phone": "425.370.1955x316",
+        "vat_no": "oq67970000938"
+    },
+    "invoice": {
+        "date": "03.12.2011",
+        "due_date": "04.02.2017",
+        "market_reference": 293289,
+        "notes": "seize sticky mindshare",
+        "number": "2765-9992",
+        "reference": 460401,
+        "vat_no": "Ov76133468745"
+    },
+    "payment": {
+        "net_total": 143.74,
+        "total": 326.46
+    },
+    "products": [
+        {
+            "amount": 402.38,
+            "description": "architect efficient communities",
+            "hours": 1.58,
+            "rate": 7.67
+        },
+        {
+            "amount": 235.65,
+            "description": "harness world-class markets",
+            "hours": 5.53,
+            "rate": 8.71
+        },
+        {
+            "amount": 186.35,
+            "description": "engineer granular deliverables",
+            "hours": 7.88,
+            "rate": 9.99
+        }
+    ],
+    "seller": {
+        "address": "665 Smith Plains Apt. 913 Elizabethburgh, VI 37419",
+        "email": "ggeorge@example.com",
+        "name": "Karen Oconnor"
+    },
+    "tax": {
+        "base": 26.61,
+        "tax_amount": 26.58,
+        "total_tax": 20.14
+    }
+}

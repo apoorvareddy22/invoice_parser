@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "696 Montgomery Summit Suite 543 Aguirreville, AK 57177",
+        "id": "RI344"
+    },
+    "invoice": {
+        "bc_no": "Jj60113",
+        "currency_code": "TJS",
+        "date": "02.08.2019",
+        "due_date": "06.08.2019",
+        "number": 195888
+    },
+    "payment": {
+        "bank_name": "Baker LLC",
+        "bic": "FBXYGBRBSIH",
+        "iban": "WCOL69228681293976"
+    },
+    "products": [
+        {
+            "amount": 323.76,
+            "description": "re-intermediate scalable experiences",
+            "index": "4",
+            "price": 374.0,
+            "quantity": 3.02,
+            "tax_amount": 82.17,
+            "total_ttc": 322.62,
+            "vat_amount": 13.57
+        },
+        {
+            "amount": 200.98,
+            "description": "transform real-time web services",
+            "index": "3",
+            "price": 175.78,
+            "quantity": 6.05,
+            "tax_amount": 66.14,
+            "total_ttc": 215.44,
+            "vat_amount": 11.13
+        }
+    ],
+    "seller": {
+        "name": "Marcus Moore"
+    },
+    "supplier": {
+        "address": "1868 Stephanie Ridges Carlsonchester, GU 85290",
+        "name": "Paul Huerta"
+    },
+    "tax": {
+        "amount_excluding_tax": 44.66,
+        "amount_including_tax": 58.89,
+        "tax_amount": 17.65,
+        "total_ht": 308.25,
+        "total_ttc": 184.47
+    }
+}

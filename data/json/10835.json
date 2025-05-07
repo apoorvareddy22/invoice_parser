@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "657 Joshua Court East Allison, DE 78150",
+        "email": "browndawn@example.com",
+        "phone": "208-620-7125",
+        "vat_no": "Py46840001908"
+    },
+    "invoice": {
+        "date": "22.09.1991",
+        "due_date": "10.11.1992",
+        "market_reference": 615135,
+        "notes": "extend end-to-end synergies",
+        "number": "0512-3775",
+        "reference": 502860,
+        "vat_no": "xV25202156200"
+    },
+    "payment": {
+        "net_total": 150.05,
+        "total": 686.57
+    },
+    "products": [
+        {
+            "amount": 301.9,
+            "description": "incubate out-of-the-box supply-chains",
+            "hours": 4.5,
+            "rate": 4.1
+        }
+    ],
+    "seller": {
+        "address": "USCGC Martin FPO AE 04411",
+        "email": "vjones@example.net",
+        "name": "Megan Anderson"
+    },
+    "tax": {
+        "base": 16.51,
+        "tax_amount": 26.01,
+        "total_tax": 27.77
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "USNV Little FPO AP 21435"
+    },
+    "invoice": {
+        "bc_no": "GL49252",
+        "date": "11.08.2009",
+        "maturity_date": "29.12.1994",
+        "number": 468313
+    },
+    "products": [
+        {
+            "amount": 452.94,
+            "description": "implement innovative solutions",
+            "quantity": 8.75,
+            "unit_price": 71.8,
+            "vat_amount": 10.15
+        },
+        {
+            "amount": 235.06,
+            "description": "synergize cross-media web-readiness",
+            "quantity": 6.07,
+            "unit_price": 80.85,
+            "vat_amount": 1.99
+        },
+        {
+            "amount": 133.6,
+            "description": "innovate user-centric models",
+            "quantity": 1.46,
+            "unit_price": 27.35,
+            "vat_amount": 5.23
+        },
+        {
+            "amount": 50.0,
+            "description": "architect open-source web services",
+            "quantity": 5.28,
+            "unit_price": 76.59,
+            "vat_amount": 3.24
+        },
+        {
+            "amount": 71.55,
+            "description": "optimize out-of-the-box channels",
+            "quantity": 3.56,
+            "unit_price": 73.31,
+            "vat_amount": 3.17
+        },
+        {
+            "amount": 498.36,
+            "description": "implement plug-and-play networks",
+            "quantity": 1.14,
+            "unit_price": 60.39,
+            "vat_amount": 2.88
+        }
+    ],
+    "seller": {
+        "address": "6259 Robinson Crescent Suite 550 South Thomastown, WI 89300"
+    },
+    "tax": {
+        "amount_excluding_tax": 25.73,
+        "amount_including_tax": 120.7,
+        "tax_amount": 27.78
+    }
+}

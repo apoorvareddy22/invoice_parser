@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "3096 Richardson Drive Suite 990 Munozburgh, WI 08731",
+        "id": "vY680"
+    },
+    "invoice": {
+        "bc_no": "Di37812",
+        "currency_code": "TRY",
+        "date": "15.11.2019",
+        "due_date": "02.06.2017",
+        "number": 724921
+    },
+    "payment": {
+        "bank_name": "Vang Group",
+        "bic": "PJLQGBRG",
+        "iban": "HZAA75152062355766"
+    },
+    "products": [
+        {
+            "amount": 470.03,
+            "description": "incentivize robust e-tailers",
+            "index": "10",
+            "price": 22.12,
+            "quantity": 7.47,
+            "tax_amount": 58.68,
+            "total_ttc": 305.87,
+            "vat_amount": 2.27
+        },
+        {
+            "amount": 493.67,
+            "description": "iterate back-end eyeballs",
+            "index": "9",
+            "price": 365.33,
+            "quantity": 9.42,
+            "tax_amount": 80.68,
+            "total_ttc": 331.43,
+            "vat_amount": 9.27
+        },
+        {
+            "amount": 250.44,
+            "description": "reinvent holistic e-commerce",
+            "index": "4",
+            "price": 282.93,
+            "quantity": 4.42,
+            "tax_amount": 58.32,
+            "total_ttc": 450.42,
+            "vat_amount": 2.32
+        }
+    ],
+    "seller": {
+        "name": "Julia Anderson MD"
+    },
+    "supplier": {
+        "address": "6622 Perez Meadows Apt. 651 Osbornemouth, MH 94389",
+        "name": "Frank Chavez"
+    },
+    "tax": {
+        "amount_excluding_tax": 169.42,
+        "amount_including_tax": 196.36,
+        "tax_amount": 22.48,
+        "total_ht": 200.64,
+        "total_ttc": 415.08
+    }
+}

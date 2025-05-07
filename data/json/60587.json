@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "6520 Herrera Port Suite 745 South Coreyton, TX 60225",
+        "business_no": "LT763",
+        "id": "Zr429"
+    },
+    "invoice": {
+        "date": "27.12.2009",
+        "number": "9510-0740"
+    },
+    "payment": {
+        "due_date": "03.01.2010",
+        "total": 469.89
+    },
+    "products": [
+        {
+            "amount": 469.33,
+            "description": "benchmark B2B markets",
+            "quantity": 9.27,
+            "reference": "ie-791",
+            "unit_price": 62.92
+        },
+        {
+            "amount": 44.38,
+            "description": "streamline cross-platform models",
+            "quantity": 6.94,
+            "reference": "dU-227",
+            "unit_price": 15.76
+        },
+        {
+            "amount": 416.1,
+            "description": "drive strategic web services",
+            "quantity": 5.43,
+            "reference": "Sw-202",
+            "unit_price": 53.88
+        },
+        {
+            "amount": 399.64,
+            "description": "incubate magnetic partnerships",
+            "quantity": 2.74,
+            "reference": "Jr-273",
+            "unit_price": 42.43
+        },
+        {
+            "amount": 215.89,
+            "description": "streamline best-of-breed niches",
+            "quantity": 7.8,
+            "reference": "yC-870",
+            "unit_price": 52.32
+        },
+        {
+            "amount": 84.97,
+            "description": "matrix web-enabled solutions",
+            "quantity": 5.87,
+            "reference": "ET-468",
+            "unit_price": 57.21
+        }
+    ],
+    "seller": {
+        "address": "07546 Greene Mission North Tracey, MO 39341"
+    },
+    "tax": {
+        "base_ht": 264.71,
+        "regulations": 16.07,
+        "total_ht": 300.6,
+        "vat_amount": 97.99,
+        "vat_percentage": 20.06
+    }
+}

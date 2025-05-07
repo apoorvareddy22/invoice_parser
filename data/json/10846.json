@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "4070 Sullivan Mount Monicaville, IN 02942",
+        "email": "robertchoi@example.org",
+        "phone": "+1-830-393-0864x59381",
+        "vat_no": "Rs69899380625"
+    },
+    "invoice": {
+        "date": "19.04.2019",
+        "due_date": "18.02.1993",
+        "market_reference": 761805,
+        "notes": "scale out-of-the-box content",
+        "number": "1993-3696",
+        "reference": 927137,
+        "vat_no": "Al27809555786"
+    },
+    "payment": {
+        "net_total": 74.92,
+        "total": 346.15
+    },
+    "products": [
+        {
+            "amount": 17.07,
+            "description": "enhance impactful experiences",
+            "hours": 3.48,
+            "rate": 2.02
+        },
+        {
+            "amount": 246.94,
+            "description": "integrate world-class portals",
+            "hours": 9.29,
+            "rate": 6.98
+        }
+    ],
+    "seller": {
+        "address": "0061 Bowen Oval Port Amandaborough, VI 53885",
+        "email": "jeffreyprice@example.org",
+        "name": "Dylan Haney"
+    },
+    "tax": {
+        "base": 11.27,
+        "tax_amount": 23.47,
+        "total_tax": 24.29
+    }
+}

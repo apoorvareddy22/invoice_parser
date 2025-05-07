@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "6633 Roberson Crescent East Justinmouth, WI 44283",
+        "id": "yC454"
+    },
+    "invoice": {
+        "bc_no": "xQ59026",
+        "currency_code": "DJF",
+        "date": "19.09.1999",
+        "due_date": "20.01.1994",
+        "number": 646862
+    },
+    "payment": {
+        "bank_name": "Kelly PLC",
+        "bic": "FTYNGB47DOU",
+        "iban": "KIOY95358663589041"
+    },
+    "products": [
+        {
+            "amount": 20.7,
+            "description": "aggregate customized models",
+            "index": "8",
+            "price": 172.93,
+            "quantity": 5.32,
+            "tax_amount": 89.09,
+            "total_ttc": 458.43,
+            "vat_amount": 2.8
+        },
+        {
+            "amount": 414.11,
+            "description": "evolve ubiquitous experiences",
+            "index": "8",
+            "price": 245.68,
+            "quantity": 6.99,
+            "tax_amount": 43.32,
+            "total_ttc": 339.76,
+            "vat_amount": 5.47
+        },
+        {
+            "amount": 243.3,
+            "description": "scale cross-platform e-commerce",
+            "index": "2",
+            "price": 206.75,
+            "quantity": 7.0,
+            "tax_amount": 99.52,
+            "total_ttc": 219.24,
+            "vat_amount": 1.26
+        }
+    ],
+    "seller": {
+        "name": "Mark Bishop"
+    },
+    "supplier": {
+        "address": "Unit 2763 Box 5555 DPO AP 00770",
+        "name": "Rodney Walsh IV"
+    },
+    "tax": {
+        "amount_excluding_tax": 115.65,
+        "amount_including_tax": 58.61,
+        "tax_amount": 27.01,
+        "total_ht": 211.56,
+        "total_ttc": 481.52
+    }
+}

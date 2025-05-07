@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "01669 Alan Avenue Apt. 086 Johnville, NH 53541",
+        "email": "nicolewalker@example.com",
+        "phone": "527.562.3091",
+        "vat_no": "DR81786681052"
+    },
+    "invoice": {
+        "date": "25.07.2003",
+        "due_date": "04.01.1998",
+        "market_reference": 720575,
+        "notes": "incubate value-added web-readiness",
+        "number": "5160-7673",
+        "reference": 584133,
+        "vat_no": "Ma39079910160"
+    },
+    "payment": {
+        "net_total": 115.65,
+        "total": 226.99
+    },
+    "products": [
+        {
+            "amount": 39.05,
+            "description": "redefine granular methodologies",
+            "hours": 3.17,
+            "rate": 2.19
+        },
+        {
+            "amount": 471.43,
+            "description": "deliver ubiquitous models",
+            "hours": 1.42,
+            "rate": 5.21
+        },
+        {
+            "amount": 131.43,
+            "description": "syndicate transparent solutions",
+            "hours": 8.48,
+            "rate": 4.46
+        },
+        {
+            "amount": 420.4,
+            "description": "incentivize rich e-markets",
+            "hours": 5.46,
+            "rate": 1.66
+        },
+        {
+            "amount": 157.81,
+            "description": "incubate magnetic channels",
+            "hours": 3.75,
+            "rate": 3.38
+        },
+        {
+            "amount": 73.63,
+            "description": "maximize 24/365 paradigms",
+            "hours": 7.95,
+            "rate": 3.75
+        }
+    ],
+    "seller": {
+        "address": "21414 Judy Trace Hodgemouth, CT 86475",
+        "email": "youngsamantha@example.net",
+        "name": "Kristina Smith"
+    },
+    "tax": {
+        "base": 20.27,
+        "tax_amount": 28.14,
+        "total_tax": 22.77
+    }
+}

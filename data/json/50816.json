@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "802 Stephen Squares Avilafurt, SD 09918",
+        "id": "IY191"
+    },
+    "invoice": {
+        "bc_no": "qs84348",
+        "currency_code": "ISK",
+        "date": "19.06.1995",
+        "due_date": "20.03.2001",
+        "number": 963431
+    },
+    "payment": {
+        "bank_name": "Gilbert, Roman and Casey",
+        "bic": "PDRIGBJ7H6Q",
+        "iban": "TLIK67631591025482"
+    },
+    "products": [
+        {
+            "amount": 449.82,
+            "description": "integrate out-of-the-box interfaces",
+            "index": "6",
+            "price": 440.64,
+            "quantity": 9.9,
+            "tax_amount": 45.08,
+            "total_ttc": 208.92,
+            "vat_amount": 0.28
+        },
+        {
+            "amount": 249.01,
+            "description": "scale global action-items",
+            "index": "9",
+            "price": 266.08,
+            "quantity": 1.33,
+            "tax_amount": 38.96,
+            "total_ttc": 234.47,
+            "vat_amount": 15.94
+        },
+        {
+            "amount": 429.15,
+            "description": "implement ubiquitous users",
+            "index": "6",
+            "price": 48.31,
+            "quantity": 4.37,
+            "tax_amount": 41.47,
+            "total_ttc": 277.63,
+            "vat_amount": 1.29
+        },
+        {
+            "amount": 228.55,
+            "description": "redefine dot-com ROI",
+            "index": "8",
+            "price": 385.53,
+            "quantity": 4.7,
+            "tax_amount": 88.43,
+            "total_ttc": 444.49,
+            "vat_amount": 0.52
+        },
+        {
+            "amount": 416.5,
+            "description": "facilitate revolutionary action-items",
+            "index": "7",
+            "price": 161.7,
+            "quantity": 6.54,
+            "tax_amount": 38.27,
+            "total_ttc": 371.75,
+            "vat_amount": 3.4
+        },
+        {
+            "amount": 194.01,
+            "description": "incentivize revolutionary mindshare",
+            "index": "4",
+            "price": 138.57,
+            "quantity": 9.89,
+            "tax_amount": 86.71,
+            "total_ttc": 350.93,
+            "vat_amount": 3.07
+        }
+    ],
+    "seller": {
+        "name": "Jessica Cooper"
+    },
+    "supplier": {
+        "address": "02791 Benjamin Valley Rhondaton, FM 19366",
+        "name": "Christopher Jackson"
+    },
+    "tax": {
+        "amount_excluding_tax": 147.86,
+        "amount_including_tax": 170.12,
+        "tax_amount": 22.51,
+        "total_ht": 159.05,
+        "total_ttc": 406.49
+    }
+}

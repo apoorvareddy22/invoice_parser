@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "PSC 5291, Box 6910 APO AA 62821",
+        "company_name": "Romero, Mcfarland and Shannon",
+        "country": "New Zealand",
+        "name": "Monica Farmer"
+    },
+    "invoice": {
+        "date": "24.09.2016",
+        "number": 637187
+    },
+    "payment": {
+        "discount_amount": 35.35,
+        "discount_percentage": 14.22,
+        "due": 149.38,
+        "sub_total": 137.5,
+        "total": 535.15
+    },
+    "products": [
+        {
+            "description": "deploy distributed relationships",
+            "index": "3",
+            "quantity": 2.77,
+            "total_price": 452.52,
+            "unit_price": 41.12
+        },
+        {
+            "description": "utilize sticky niches",
+            "index": "5",
+            "quantity": 2.37,
+            "total_price": 495.51,
+            "unit_price": 62.2
+        }
+    ],
+    "seller": {
+        "address": "5572 Jacob Mill Suite 626 West Felicia, FM 24377",
+        "company_name": "Hammond-Robbins",
+        "vat_no": "jI94903458718"
+    }
+}

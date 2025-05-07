@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "8567 Mills Mount Apt. 182 Pacemouth, KS 47513",
+        "company_name": "Campbell, Cooper and Welch",
+        "email": "michaelchapman@example.org",
+        "name": "Holly Key",
+        "phone": "+1-456-560-4769x05658"
+    },
+    "invoice": {
+        "date": "30.10.2022",
+        "due_date": "13.05.2023",
+        "number": "Izs70553164790"
+    },
+    "payment": {
+        "account_number": 5121475601,
+        "bank_name": "Harris LLC",
+        "routing_number": 663812613
+    },
+    "products": [
+        {
+            "amount": 110.19,
+            "description": "scale compelling supply-chains",
+            "index": "3",
+            "quantity": 7.72,
+            "unit_price": 58.85
+        },
+        {
+            "amount": 374.8,
+            "description": "mesh vertical infrastructures",
+            "index": "10",
+            "quantity": 8.92,
+            "unit_price": 22.09
+        }
+    ],
+    "seller": {
+        "address": "230 Colleen Parkways Suite 356 Mendozastad, GU 03932",
+        "company_name": "Miller-Williams",
+        "email": "zwilliamson@example.com"
+    }
+}

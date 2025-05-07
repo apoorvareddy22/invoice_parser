@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "78683 Robert Hills Apt. 502 Port Johnborough, AL 10276",
+        "business_no": "tM573",
+        "id": "Im204"
+    },
+    "invoice": {
+        "date": "03.08.2004",
+        "number": "7528-7853"
+    },
+    "payment": {
+        "due_date": "11.11.1999",
+        "total": 974.64
+    },
+    "products": [
+        {
+            "amount": 470.36,
+            "description": "envisioneer visionary eyeballs",
+            "quantity": 7.01,
+            "reference": "pK-292",
+            "unit_price": 22.71
+        },
+        {
+            "amount": 275.76,
+            "description": "generate magnetic convergence",
+            "quantity": 1.85,
+            "reference": "wr-927",
+            "unit_price": 20.2
+        },
+        {
+            "amount": 374.41,
+            "description": "innovate e-business paradigms",
+            "quantity": 2.89,
+            "reference": "ny-309",
+            "unit_price": 56.15
+        }
+    ],
+    "seller": {
+        "address": "8861 Lopez Corners Apt. 975 West Robertshire, MN 39132"
+    },
+    "tax": {
+        "base_ht": 310.45,
+        "regulations": 26.21,
+        "total_ht": 449.06,
+        "vat_amount": 143.87,
+        "vat_percentage": 16.11
+    }
+}

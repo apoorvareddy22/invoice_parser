@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "5795 Kelly Wall Kaitlynfort, PR 53675",
+        "email": "patrickandrea@example.com",
+        "phone": "(945)772-8441x3914",
+        "vat_no": "Tj21822684286"
+    },
+    "invoice": {
+        "date": "16.11.2016",
+        "due_date": "24.03.2018",
+        "market_reference": 899613,
+        "notes": "redefine innovative models",
+        "number": "8331-9305",
+        "reference": 323268,
+        "vat_no": "kb18144505468"
+    },
+    "payment": {
+        "net_total": 178.89,
+        "total": 993.53
+    },
+    "products": [
+        {
+            "amount": 456.1,
+            "description": "productize e-business portals",
+            "hours": 8.42,
+            "rate": 9.63
+        },
+        {
+            "amount": 151.74,
+            "description": "deploy end-to-end paradigms",
+            "hours": 1.82,
+            "rate": 6.05
+        },
+        {
+            "amount": 288.3,
+            "description": "re-intermediate clicks-and-mortar vortals",
+            "hours": 6.81,
+            "rate": 1.48
+        },
+        {
+            "amount": 49.68,
+            "description": "enable robust platforms",
+            "hours": 4.05,
+            "rate": 4.08
+        },
+        {
+            "amount": 49.89,
+            "description": "reinvent seamless bandwidth",
+            "hours": 5.68,
+            "rate": 2.22
+        },
+        {
+            "amount": 464.77,
+            "description": "facilitate scalable deliverables",
+            "hours": 6.02,
+            "rate": 1.11
+        }
+    ],
+    "seller": {
+        "address": "0692 Gary Freeway Suite 535 Ericstad, PR 76745",
+        "email": "samuelsmith@example.org",
+        "name": "Justin Gonzalez"
+    },
+    "tax": {
+        "base": 17.27,
+        "tax_amount": 28.45,
+        "total_tax": 15.93
+    }
+}

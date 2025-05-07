@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "PSC 7824, Box 0870 APO AP 22981",
+        "business_no": "GR551",
+        "id": "AU614"
+    },
+    "invoice": {
+        "date": "23.09.2007",
+        "number": "0264-0547"
+    },
+    "payment": {
+        "due_date": "01.01.2008",
+        "total": 889.42
+    },
+    "products": [
+        {
+            "amount": 114.44,
+            "description": "reinvent impactful e-business",
+            "quantity": 6.66,
+            "reference": "yS-385",
+            "unit_price": 15.7
+        },
+        {
+            "amount": 9.35,
+            "description": "benchmark synergistic content",
+            "quantity": 5.66,
+            "reference": "BJ-093",
+            "unit_price": 88.36
+        },
+        {
+            "amount": 283.29,
+            "description": "strategize back-end web-readiness",
+            "quantity": 8.36,
+            "reference": "kn-911",
+            "unit_price": 25.73
+        },
+        {
+            "amount": 384.16,
+            "description": "unleash cutting-edge e-business",
+            "quantity": 2.0,
+            "reference": "cw-473",
+            "unit_price": 80.91
+        },
+        {
+            "amount": 315.05,
+            "description": "envisioneer value-added info-mediaries",
+            "quantity": 6.55,
+            "reference": "Rq-587",
+            "unit_price": 86.75
+        }
+    ],
+    "seller": {
+        "address": "681 Mcclain Loaf Suite 739 Lake Christophermouth, MN 22747"
+    },
+    "tax": {
+        "base_ht": 161.82,
+        "regulations": 18.73,
+        "total_ht": 350.02,
+        "vat_amount": 121.94,
+        "vat_percentage": 17.59
+    }
+}

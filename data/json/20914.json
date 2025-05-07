@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "6346 Maria Crescent Suite 904 East Emily, ID 08240",
+        "company_name": "Campbell Inc",
+        "email": "craigdouglas@example.net",
+        "name": "Todd Bailey",
+        "phone": "+1-561-985-8730x92671"
+    },
+    "invoice": {
+        "date": "19.12.2004",
+        "due_date": "15.12.2023",
+        "number": "KgW21620127769"
+    },
+    "payment": {
+        "account_number": 4032771076,
+        "bank_name": "Tyler PLC",
+        "routing_number": 990973428
+    },
+    "products": [
+        {
+            "amount": 309.86,
+            "description": "incentivize robust niches",
+            "index": "3",
+            "quantity": 9.0,
+            "unit_price": 45.22
+        },
+        {
+            "amount": 464.11,
+            "description": "engage out-of-the-box platforms",
+            "index": "3",
+            "quantity": 4.31,
+            "unit_price": 47.82
+        },
+        {
+            "amount": 488.69,
+            "description": "transform cross-platform content",
+            "index": "8",
+            "quantity": 6.9,
+            "unit_price": 41.9
+        },
+        {
+            "amount": 125.73,
+            "description": "redefine cross-platform partnerships",
+            "index": "5",
+            "quantity": 2.81,
+            "unit_price": 33.83
+        }
+    ],
+    "seller": {
+        "address": "3221 Joel Mall Apt. 476 Sweeneystad, WI 36664",
+        "company_name": "Harrell Group",
+        "email": "gfry@example.com"
+    }
+}

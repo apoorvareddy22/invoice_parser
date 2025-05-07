@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "867 Nancy Divide Ryanside, FL 97330",
+        "email": "laura21@example.com",
+        "phone": "233-355-8281x802",
+        "vat_no": "OH04646144633"
+    },
+    "invoice": {
+        "date": "29.12.2003",
+        "due_date": "14.11.1993",
+        "market_reference": 843369,
+        "notes": "aggregate viral applications",
+        "number": "8324-1192",
+        "reference": 790587,
+        "vat_no": "hC74419182362"
+    },
+    "payment": {
+        "net_total": 184.37,
+        "total": 710.79
+    },
+    "products": [
+        {
+            "amount": 374.0,
+            "description": "brand visionary paradigms",
+            "hours": 6.56,
+            "rate": 8.12
+        },
+        {
+            "amount": 40.31,
+            "description": "strategize plug-and-play networks",
+            "hours": 2.41,
+            "rate": 2.62
+        }
+    ],
+    "seller": {
+        "address": "24471 Jennifer Extension Port Davidville, LA 63982",
+        "email": "phillipsjerry@example.org",
+        "name": "Lisa Bullock"
+    },
+    "tax": {
+        "base": 20.87,
+        "tax_amount": 25.71,
+        "total_tax": 14.55
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "7123 Bruce Harbor Andersonberg, GU 00586",
+        "company_name": "Mccoy and Sons",
+        "country": "Saint Helena",
+        "email": "dleach@example.net",
+        "name": "Jessica Hull",
+        "phone": "4513731603",
+        "vat_no": "Oe25983690334"
+    },
+    "invoice": {
+        "date": "06.10.1991",
+        "due_date": "18.03.2017",
+        "linked_invoice": "Rp-7401-6899",
+        "notes": "e-enable strategic relationships",
+        "number": "jv-6264-0835"
+    },
+    "products": [
+        {
+            "description": "disintermediate value-added e-services",
+            "discount_percentage": 16.17,
+            "price": 161.79,
+            "quantity": 8.5,
+            "unit_price": 48.64
+        },
+        {
+            "description": "reinvent enterprise bandwidth",
+            "discount_percentage": 5.53,
+            "price": 370.19,
+            "quantity": 4.44,
+            "unit_price": 50.07
+        },
+        {
+            "description": "transition compelling content",
+            "discount_percentage": 11.16,
+            "price": 383.44,
+            "quantity": 8.47,
+            "unit_price": 97.21
+        },
+        {
+            "description": "e-enable cutting-edge action-items",
+            "discount_percentage": 13.49,
+            "price": 113.65,
+            "quantity": 8.35,
+            "unit_price": 37.63
+        }
+    ],
+    "seller": {
+        "address": "9045 Joshua Gardens Apt. 940 Smithport, AL 24891",
+        "ape": "3756t",
+        "capital": 97424712,
+        "country": "Seychelles",
+        "email": "nicole82@example.org",
+        "name": "Todd Thomas",
+        "phone_1": "610.468.8276x463",
+        "phone_2": "+1-909-627-8542x144",
+        "phone_3": "487.230.3007",
+        "ref_walk": "pubk9127",
+        "reference": "fN685",
+        "siret": 62399917437710,
+        "vat_no": "Sw94940131679",
+        "website": "https://jefferson-griffin.org/"
+    },
+    "tax": {
+        "amount_0": 26.08,
+        "amount_1": 21.99,
+        "base_0": 15.66,
+        "base_1": 140.58,
+        "total_ht": 464.87,
+        "total_tax": 20.56,
+        "total_ttc": 168.96,
+        "vat_0": 10.86,
+        "vat_1": 22.55
+    }
+}

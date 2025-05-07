@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "8926 Lyons Plains North Amybury, FL 58650",
+        "id": "tk125"
+    },
+    "invoice": {
+        "bc_no": "Nl26346",
+        "currency_code": "VND",
+        "date": "03.06.2015",
+        "due_date": "02.04.2004",
+        "number": 689043
+    },
+    "payment": {
+        "bank_name": "Powell-Sanchez",
+        "bic": "VVIFGBX8",
+        "iban": "EXVK10834444398971"
+    },
+    "products": [
+        {
+            "amount": 29.97,
+            "description": "optimize rich architectures",
+            "index": "7",
+            "price": 449.81,
+            "quantity": 9.26,
+            "tax_amount": 17.13,
+            "total_ttc": 434.2,
+            "vat_amount": 3.72
+        },
+        {
+            "amount": 199.08,
+            "description": "unleash seamless functionalities",
+            "index": "2",
+            "price": 140.29,
+            "quantity": 3.7,
+            "tax_amount": 37.9,
+            "total_ttc": 408.32,
+            "vat_amount": 6.85
+        },
+        {
+            "amount": 32.1,
+            "description": "implement strategic applications",
+            "index": "5",
+            "price": 445.74,
+            "quantity": 9.67,
+            "tax_amount": 25.48,
+            "total_ttc": 260.0,
+            "vat_amount": 13.05
+        },
+        {
+            "amount": 132.18,
+            "description": "expedite one-to-one platforms",
+            "index": "9",
+            "price": 154.56,
+            "quantity": 9.5,
+            "tax_amount": 95.47,
+            "total_ttc": 334.08,
+            "vat_amount": 10.1
+        },
+        {
+            "amount": 60.51,
+            "description": "matrix sticky eyeballs",
+            "index": "8",
+            "price": 419.28,
+            "quantity": 9.25,
+            "tax_amount": 47.25,
+            "total_ttc": 209.2,
+            "vat_amount": 6.75
+        }
+    ],
+    "seller": {
+        "name": "Erin Willis DVM"
+    },
+    "supplier": {
+        "address": "7576 Vang Oval Davidshire, FM 07278",
+        "name": "Lisa Flynn"
+    },
+    "tax": {
+        "amount_excluding_tax": 38.46,
+        "amount_including_tax": 121.85,
+        "tax_amount": 15.72,
+        "total_ht": 211.72,
+        "total_ttc": 138.17
+    }
+}

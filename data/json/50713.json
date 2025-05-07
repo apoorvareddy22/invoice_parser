@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "42405 Robert Islands Suite 976 Ariashaven, ID 09438",
+        "id": "oZ271"
+    },
+    "invoice": {
+        "bc_no": "sJ91315",
+        "currency_code": "NAD",
+        "date": "30.11.1992",
+        "due_date": "26.06.1991",
+        "number": 957046
+    },
+    "payment": {
+        "bank_name": "Mitchell-West",
+        "bic": "EMULGBIFKYD",
+        "iban": "ZCDO05506668353950"
+    },
+    "products": [
+        {
+            "amount": 186.13,
+            "description": "generate web-enabled paradigms",
+            "index": "10",
+            "price": 65.39,
+            "quantity": 9.89,
+            "tax_amount": 99.42,
+            "total_ttc": 322.27,
+            "vat_amount": 11.3
+        },
+        {
+            "amount": 371.87,
+            "description": "deploy best-of-breed schemas",
+            "index": "8",
+            "price": 294.82,
+            "quantity": 2.95,
+            "tax_amount": 18.67,
+            "total_ttc": 107.51,
+            "vat_amount": 0.44
+        },
+        {
+            "amount": 406.41,
+            "description": "transform world-class web services",
+            "index": "1",
+            "price": 259.07,
+            "quantity": 4.41,
+            "tax_amount": 34.17,
+            "total_ttc": 239.32,
+            "vat_amount": 9.0
+        },
+        {
+            "amount": 121.9,
+            "description": "engage wireless users",
+            "index": "2",
+            "price": 208.24,
+            "quantity": 3.71,
+            "tax_amount": 24.41,
+            "total_ttc": 231.56,
+            "vat_amount": 7.28
+        }
+    ],
+    "seller": {
+        "name": "Margaret Oconnell"
+    },
+    "supplier": {
+        "address": "9178 Alyssa Estate Apt. 624 Bradleyhaven, WI 59477",
+        "name": "Paula Singleton"
+    },
+    "tax": {
+        "amount_excluding_tax": 18.86,
+        "amount_including_tax": 189.87,
+        "tax_amount": 21.6,
+        "total_ht": 170.14,
+        "total_ttc": 169.14
+    }
+}

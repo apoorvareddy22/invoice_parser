@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "3840 Griffith Turnpike Suite 768 Johnsontown, UT 94026",
+        "email": "smithjohnny@example.org",
+        "phone": "631.887.0943x719",
+        "vat_no": "aS00718406731"
+    },
+    "invoice": {
+        "date": "14.01.2021",
+        "due_date": "01.12.2001",
+        "market_reference": 578605,
+        "notes": "orchestrate out-of-the-box niches",
+        "number": "4492-1042",
+        "reference": 346930,
+        "vat_no": "fv00650317911"
+    },
+    "payment": {
+        "net_total": 188.64,
+        "total": 375.56
+    },
+    "products": [
+        {
+            "amount": 86.87,
+            "description": "orchestrate end-to-end web-readiness",
+            "hours": 5.86,
+            "rate": 6.1
+        }
+    ],
+    "seller": {
+        "address": "850 Hardin Landing Suite 484 Wesleyhaven, WV 48308",
+        "email": "emurphy@example.net",
+        "name": "Christian Winters"
+    },
+    "tax": {
+        "base": 26.61,
+        "tax_amount": 11.75,
+        "total_tax": 14.3
+    }
+}

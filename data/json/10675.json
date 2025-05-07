@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "37996 Kevin Inlet Apt. 750 Lake Jennifer, WA 14472",
+        "email": "todd29@example.com",
+        "phone": "001-378-451-0041",
+        "vat_no": "Td00876914598"
+    },
+    "invoice": {
+        "date": "15.10.2006",
+        "due_date": "06.04.2002",
+        "market_reference": 442675,
+        "notes": "redefine bleeding-edge applications",
+        "number": "5853-1849",
+        "reference": 910508,
+        "vat_no": "te09634007744"
+    },
+    "payment": {
+        "net_total": 80.57,
+        "total": 281.06
+    },
+    "products": [
+        {
+            "amount": 326.96,
+            "description": "revolutionize turn-key schemas",
+            "hours": 7.52,
+            "rate": 4.69
+        },
+        {
+            "amount": 406.29,
+            "description": "transform revolutionary experiences",
+            "hours": 6.78,
+            "rate": 2.66
+        },
+        {
+            "amount": 212.14,
+            "description": "revolutionize extensible functionalities",
+            "hours": 2.9,
+            "rate": 1.04
+        },
+        {
+            "amount": 375.55,
+            "description": "exploit leading-edge initiatives",
+            "hours": 9.42,
+            "rate": 1.97
+        },
+        {
+            "amount": 354.27,
+            "description": "syndicate front-end methodologies",
+            "hours": 8.0,
+            "rate": 8.43
+        },
+        {
+            "amount": 395.62,
+            "description": "e-enable rich users",
+            "hours": 2.63,
+            "rate": 7.41
+        }
+    ],
+    "seller": {
+        "address": "56062 Allen Forges East Perrymouth, ND 48416",
+        "email": "qmullins@example.org",
+        "name": "Gregory Gibson"
+    },
+    "tax": {
+        "base": 18.75,
+        "tax_amount": 12.39,
+        "total_tax": 27.54
+    }
+}

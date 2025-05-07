@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "0759 Collins Spring Robertsburgh, NH 11837",
+        "email": "allisonconley@example.com",
+        "phone": "(765)349-4168x0948",
+        "vat_no": "VQ98307559394"
+    },
+    "invoice": {
+        "date": "31.12.2002",
+        "due_date": "11.04.2015",
+        "market_reference": 963483,
+        "notes": "implement value-added channels",
+        "number": "2748-7443",
+        "reference": 269738,
+        "vat_no": "GS37944489098"
+    },
+    "payment": {
+        "net_total": 32.16,
+        "total": 339.16
+    },
+    "products": [
+        {
+            "amount": 53.85,
+            "description": "innovate synergistic info-mediaries",
+            "hours": 6.67,
+            "rate": 1.52
+        }
+    ],
+    "seller": {
+        "address": "2162 Carroll Crossing West Samuel, WA 62374",
+        "email": "gordonscott@example.com",
+        "name": "Brittney Romero"
+    },
+    "tax": {
+        "base": 27.75,
+        "tax_amount": 22.87,
+        "total_tax": 25.18
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "5035 Debbie Drive Lake Tammy, MI 04241",
+        "id": "XU337"
+    },
+    "invoice": {
+        "bc_no": "sB66905",
+        "currency_code": "IDR",
+        "date": "14.09.1992",
+        "due_date": "22.01.2011",
+        "number": 360693
+    },
+    "payment": {
+        "bank_name": "Powers, Miller and Hunt",
+        "bic": "JLFKGBL1",
+        "iban": "MSDS18919089112188"
+    },
+    "products": [
+        {
+            "amount": 76.23,
+            "description": "grow B2C bandwidth",
+            "index": "7",
+            "price": 484.54,
+            "quantity": 6.34,
+            "tax_amount": 32.85,
+            "total_ttc": 437.47,
+            "vat_amount": 5.1
+        }
+    ],
+    "seller": {
+        "name": "Nicholas Alvarado"
+    },
+    "supplier": {
+        "address": "593 Mario Station New Janetfort, AR 10770",
+        "name": "Clayton Harmon"
+    },
+    "tax": {
+        "amount_excluding_tax": 41.38,
+        "amount_including_tax": 66.76,
+        "tax_amount": 25.56,
+        "total_ht": 384.89,
+        "total_ttc": 247.28
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "34120 Shepard Burgs East Julie, FM 33714",
+        "email": "greenjamie@example.net",
+        "phone": "(720)453-6571x512",
+        "vat_no": "Gb53945659102"
+    },
+    "invoice": {
+        "date": "08.04.2014",
+        "due_date": "02.06.2021",
+        "market_reference": 501142,
+        "notes": "disintermediate bleeding-edge e-commerce",
+        "number": "2608-4860",
+        "reference": 668043,
+        "vat_no": "Mf05989753370"
+    },
+    "payment": {
+        "net_total": 160.64,
+        "total": 849.05
+    },
+    "products": [
+        {
+            "amount": 18.86,
+            "description": "target visionary mindshare",
+            "hours": 4.55,
+            "rate": 4.68
+        },
+        {
+            "amount": 154.71,
+            "description": "drive robust e-services",
+            "hours": 1.5,
+            "rate": 9.77
+        }
+    ],
+    "seller": {
+        "address": "642 Murphy Estates Apt. 390 Mcmillanshire, NH 54829",
+        "email": "marciayoung@example.net",
+        "name": "Carrie Bradshaw PhD"
+    },
+    "tax": {
+        "base": 11.23,
+        "tax_amount": 28.23,
+        "total_tax": 19.62
+    }
+}

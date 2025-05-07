@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "88137 Leslie Roads South Nicole, MN 71736",
+        "company_name": "Ross Inc",
+        "country": "Malaysia",
+        "email": "moorejoshua@example.net",
+        "name": "Heather Cox",
+        "phone": "(904)997-0917",
+        "vat_no": "Wn07500396293"
+    },
+    "invoice": {
+        "date": "11.07.2001",
+        "due_date": "14.06.2000",
+        "linked_invoice": "ZW-4103-5515",
+        "notes": "visualize leading-edge applications",
+        "number": "Ir-5463-8006"
+    },
+    "products": [
+        {
+            "description": "optimize impactful relationships",
+            "discount_percentage": 18.39,
+            "price": 340.0,
+            "quantity": 9.88,
+            "unit_price": 35.44
+        },
+        {
+            "description": "e-enable B2C portals",
+            "discount_percentage": 19.03,
+            "price": 303.84,
+            "quantity": 5.12,
+            "unit_price": 18.91
+        },
+        {
+            "description": "incubate viral supply-chains",
+            "discount_percentage": 9.38,
+            "price": 496.84,
+            "quantity": 7.58,
+            "unit_price": 67.55
+        }
+    ],
+    "seller": {
+        "address": "894 Myers Lakes Raymondtown, RI 98067",
+        "ape": "8468s",
+        "capital": 29537562,
+        "country": "Slovakia (Slovak Republic)",
+        "email": "mshaw@example.com",
+        "name": "Todd Boyd",
+        "phone_1": "(678)781-5161x8746",
+        "phone_2": "9136193730",
+        "phone_3": "537.207.4666",
+        "ref_walk": "aFHo8092",
+        "reference": "cp903",
+        "siret": 75234873110233,
+        "vat_no": "Nm17652093217",
+        "website": "http://mcbride.com/"
+    },
+    "tax": {
+        "amount_0": 28.24,
+        "amount_1": 22.03,
+        "base_0": 13.31,
+        "base_1": 168.77,
+        "total_ht": 357.06,
+        "total_tax": 13.63,
+        "total_ttc": 415.79,
+        "vat_0": 16.7,
+        "vat_1": 16.87
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "26800 Moon Knoll Apt. 240 Wendyville, UT 06516",
+        "id": "wF707"
+    },
+    "invoice": {
+        "bc_no": "Fu72097",
+        "currency_code": "ISK",
+        "date": "10.12.2008",
+        "due_date": "12.05.2018",
+        "number": 530063
+    },
+    "payment": {
+        "bank_name": "Brennan Ltd",
+        "bic": "FCSUGBKVXUM",
+        "iban": "AUEE64224872014573"
+    },
+    "products": [
+        {
+            "amount": 273.08,
+            "description": "synthesize ubiquitous convergence",
+            "index": "8",
+            "price": 78.2,
+            "quantity": 1.03,
+            "tax_amount": 77.99,
+            "total_ttc": 240.37,
+            "vat_amount": 1.43
+        },
+        {
+            "amount": 147.76,
+            "description": "disintermediate 24/7 interfaces",
+            "index": "2",
+            "price": 422.33,
+            "quantity": 8.52,
+            "tax_amount": 30.27,
+            "total_ttc": 198.32,
+            "vat_amount": 1.56
+        },
+        {
+            "amount": 239.66,
+            "description": "aggregate plug-and-play relationships",
+            "index": "1",
+            "price": 442.59,
+            "quantity": 7.17,
+            "tax_amount": 17.66,
+            "total_ttc": 257.9,
+            "vat_amount": 9.45
+        },
+        {
+            "amount": 405.25,
+            "description": "incentivize bricks-and-clicks networks",
+            "index": "10",
+            "price": 95.49,
+            "quantity": 9.45,
+            "tax_amount": 68.14,
+            "total_ttc": 290.1,
+            "vat_amount": 1.09
+        },
+        {
+            "amount": 81.6,
+            "description": "aggregate mission-critical ROI",
+            "index": "5",
+            "price": 49.63,
+            "quantity": 4.44,
+            "tax_amount": 58.07,
+            "total_ttc": 417.56,
+            "vat_amount": 12.39
+        },
+        {
+            "amount": 428.47,
+            "description": "whiteboard interactive paradigms",
+            "index": "9",
+            "price": 108.88,
+            "quantity": 5.8,
+            "tax_amount": 37.08,
+            "total_ttc": 498.42,
+            "vat_amount": 2.78
+        },
+        {
+            "amount": 416.23,
+            "description": "e-enable distributed systems",
+            "index": "1",
+            "price": 162.79,
+            "quantity": 1.51,
+            "tax_amount": 86.36,
+            "total_ttc": 246.42,
+            "vat_amount": 0.67
+        }
+    ],
+    "seller": {
+        "name": "Julie Bishop"
+    },
+    "supplier": {
+        "address": "21315 Vanessa Ports Suite 306 North Maryside, NY 49527",
+        "name": "Katherine Galloway"
+    },
+    "tax": {
+        "amount_excluding_tax": 31.88,
+        "amount_including_tax": 121.85,
+        "tax_amount": 15.41,
+        "total_ht": 443.72,
+        "total_ttc": 209.41
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "306 Jennifer Gardens Apt. 194 North Charlesbury, PA 96741",
+        "id": "YZ787"
+    },
+    "invoice": {
+        "bc_no": "Ut60119",
+        "currency_code": "MNT",
+        "date": "11.07.2021",
+        "due_date": "02.04.2009",
+        "number": 528459
+    },
+    "payment": {
+        "bank_name": "Jackson-Davis",
+        "bic": "WOFBGB47BQH",
+        "iban": "IWWL56556680053548"
+    },
+    "products": [
+        {
+            "amount": 445.05,
+            "description": "disintermediate seamless deliverables",
+            "index": "6",
+            "price": 220.84,
+            "quantity": 5.82,
+            "tax_amount": 13.63,
+            "total_ttc": 179.6,
+            "vat_amount": 4.43
+        },
+        {
+            "amount": 124.28,
+            "description": "utilize end-to-end portals",
+            "index": "7",
+            "price": 341.68,
+            "quantity": 1.06,
+            "tax_amount": 26.43,
+            "total_ttc": 392.14,
+            "vat_amount": 11.88
+        },
+        {
+            "amount": 154.14,
+            "description": "incentivize cross-platform applications",
+            "index": "3",
+            "price": 148.9,
+            "quantity": 5.63,
+            "tax_amount": 84.11,
+            "total_ttc": 172.46,
+            "vat_amount": 3.37
+        },
+        {
+            "amount": 419.28,
+            "description": "leverage innovative experiences",
+            "index": "7",
+            "price": 248.89,
+            "quantity": 8.39,
+            "tax_amount": 45.73,
+            "total_ttc": 121.71,
+            "vat_amount": 4.23
+        },
+        {
+            "amount": 131.57,
+            "description": "facilitate value-added e-services",
+            "index": "1",
+            "price": 328.62,
+            "quantity": 6.55,
+            "tax_amount": 34.48,
+            "total_ttc": 261.66,
+            "vat_amount": 1.34
+        },
+        {
+            "amount": 115.6,
+            "description": "empower interactive channels",
+            "index": "4",
+            "price": 309.59,
+            "quantity": 1.25,
+            "tax_amount": 39.78,
+            "total_ttc": 143.75,
+            "vat_amount": 5.52
+        }
+    ],
+    "seller": {
+        "name": "Brenda Thompson"
+    },
+    "supplier": {
+        "address": "0295 Gonzales Ville Apt. 535 Jonfurt, OH 67509",
+        "name": "Marcus Harris"
+    },
+    "tax": {
+        "amount_excluding_tax": 34.1,
+        "amount_including_tax": 102.62,
+        "tax_amount": 22.37,
+        "total_ht": 223.24,
+        "total_ttc": 175.36
+    }
+}

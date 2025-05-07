@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "7923 Eric Pine Lake Thomasville, ME 36786",
+        "company_name": "Townsend, Phillips and Johnson",
+        "country": "Saint Barthelemy",
+        "name": "Rodney Perez"
+    },
+    "invoice": {
+        "date": "10.09.2015",
+        "number": 273284
+    },
+    "payment": {
+        "discount_amount": 13.47,
+        "discount_percentage": 7.49,
+        "due": 185.46,
+        "sub_total": 26.47,
+        "total": 710.07
+    },
+    "products": [
+        {
+            "description": "integrate collaborative e-services",
+            "index": "10",
+            "quantity": 3.46,
+            "total_price": 448.78,
+            "unit_price": 59.93
+        },
+        {
+            "description": "engage next-generation networks",
+            "index": "8",
+            "quantity": 7.98,
+            "total_price": 660.62,
+            "unit_price": 16.85
+        }
+    ],
+    "seller": {
+        "address": "35231 Montoya Spurs Jonathanmouth, GU 60814",
+        "company_name": "Thomas Ltd",
+        "vat_no": "XV51029227327"
+    }
+}

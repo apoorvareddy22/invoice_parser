@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "33090 Ward Way Lake Lisabury, AL 78451",
+        "company_name": "Jenkins, Tanner and Franco",
+        "email": "nancypalmer@example.net",
+        "name": "Aaron Martin",
+        "phone": "223-791-2340x1137"
+    },
+    "invoice": {
+        "date": "07.10.2013",
+        "due_date": "19.01.1998",
+        "number": "xgK45716952295"
+    },
+    "payment": {
+        "account_number": 8233063152,
+        "bank_name": "Coleman-Lowery",
+        "routing_number": 668862591
+    },
+    "products": [
+        {
+            "amount": 472.84,
+            "description": "engage viral e-business",
+            "index": "9",
+            "quantity": 6.23,
+            "unit_price": 24.67
+        },
+        {
+            "amount": 430.21,
+            "description": "evolve frictionless eyeballs",
+            "index": "5",
+            "quantity": 6.64,
+            "unit_price": 34.38
+        },
+        {
+            "amount": 128.01,
+            "description": "mesh magnetic portals",
+            "index": "2",
+            "quantity": 5.62,
+            "unit_price": 49.13
+        }
+    ],
+    "seller": {
+        "address": "508 Paul Ford New Edward, MD 67665",
+        "company_name": "Warren LLC",
+        "email": "wendy98@example.net"
+    }
+}

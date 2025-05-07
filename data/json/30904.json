@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "80958 Luna Courts Suite 490 Christinahaven, MD 06218",
+        "company_name": "Fitzgerald Inc",
+        "country": "Myanmar",
+        "email": "bkirby@example.org",
+        "name": "Dustin King",
+        "phone": "623-339-2134x82760",
+        "vat_no": "Cp37635265063"
+    },
+    "invoice": {
+        "date": "18.11.2014",
+        "due_date": "26.05.2015",
+        "linked_invoice": "ax-0286-7777",
+        "notes": "benchmark scalable systems",
+        "number": "Tb-1010-6928"
+    },
+    "products": [
+        {
+            "description": "evolve intuitive applications",
+            "discount_percentage": 16.18,
+            "price": 350.21,
+            "quantity": 2.84,
+            "unit_price": 99.08
+        },
+        {
+            "description": "strategize transparent convergence",
+            "discount_percentage": 8.89,
+            "price": 125.92,
+            "quantity": 7.07,
+            "unit_price": 52.36
+        },
+        {
+            "description": "embrace cross-platform models",
+            "discount_percentage": 6.33,
+            "price": 102.71,
+            "quantity": 5.64,
+            "unit_price": 77.72
+        },
+        {
+            "description": "maximize rich web-readiness",
+            "discount_percentage": 12.84,
+            "price": 493.82,
+            "quantity": 9.96,
+            "unit_price": 77.49
+        }
+    ],
+    "seller": {
+        "address": "1203 Regina Mall Apt. 387 Port Felicia, IL 53403",
+        "ape": "5392S",
+        "capital": 12267286,
+        "country": "Senegal",
+        "email": "vscott@example.net",
+        "name": "Stephanie Floyd",
+        "phone_1": "(235)345-4062x09634",
+        "phone_2": "+1-635-557-6292x649",
+        "phone_3": "001-323-270-1124x8853",
+        "ref_walk": "dnOl9134",
+        "reference": "qh080",
+        "siret": 20489568224186,
+        "vat_no": "Oe46392372936",
+        "website": "https://garcia.info/"
+    },
+    "tax": {
+        "amount_0": 20.28,
+        "amount_1": 20.54,
+        "base_0": 25.01,
+        "base_1": 70.89,
+        "total_ht": 398.47,
+        "total_tax": 21.61,
+        "total_ttc": 276.37,
+        "vat_0": 22.48,
+        "vat_1": 28.82
+    }
+}

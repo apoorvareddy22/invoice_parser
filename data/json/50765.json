@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "Unit 5525 Box 0756 DPO AE 25525",
+        "id": "Ir014"
+    },
+    "invoice": {
+        "bc_no": "xW32293",
+        "currency_code": "DKK",
+        "date": "15.02.2008",
+        "due_date": "22.10.1996",
+        "number": 568214
+    },
+    "payment": {
+        "bank_name": "Nelson, Coleman and Brock",
+        "bic": "CAPLGBSV",
+        "iban": "GNIP99829581109630"
+    },
+    "products": [
+        {
+            "amount": 372.3,
+            "description": "unleash revolutionary markets",
+            "index": "9",
+            "price": 433.78,
+            "quantity": 9.38,
+            "tax_amount": 90.35,
+            "total_ttc": 346.6,
+            "vat_amount": 1.22
+        },
+        {
+            "amount": 164.35,
+            "description": "re-intermediate one-to-one e-tailers",
+            "index": "1",
+            "price": 126.81,
+            "quantity": 1.46,
+            "tax_amount": 40.37,
+            "total_ttc": 356.83,
+            "vat_amount": 2.49
+        }
+    ],
+    "seller": {
+        "name": "Margaret Weaver"
+    },
+    "supplier": {
+        "address": "58283 Baker Rapids Apt. 049 Port Vanessa, MP 88836",
+        "name": "Timothy Miller"
+    },
+    "tax": {
+        "amount_excluding_tax": 170.9,
+        "amount_including_tax": 80.17,
+        "tax_amount": 24.18,
+        "total_ht": 452.81,
+        "total_ttc": 487.12
+    }
+}

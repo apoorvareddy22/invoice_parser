@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "PSC 3267, Box 1081 APO AE 01221",
+        "email": "parkerguy@example.org",
+        "phone": "+1-959-471-6894x58072",
+        "vat_no": "sF42552956953"
+    },
+    "invoice": {
+        "date": "19.07.1994",
+        "due_date": "26.02.2020",
+        "market_reference": 485683,
+        "notes": "aggregate impactful vortals",
+        "number": "8411-8855",
+        "reference": 654155,
+        "vat_no": "Wx54167680283"
+    },
+    "payment": {
+        "net_total": 138.62,
+        "total": 684.33
+    },
+    "products": [
+        {
+            "amount": 409.32,
+            "description": "scale B2B mindshare",
+            "hours": 1.01,
+            "rate": 3.73
+        }
+    ],
+    "seller": {
+        "address": "89430 Teresa Lane Suite 455 Hansonland, NY 12510",
+        "email": "dpotts@example.com",
+        "name": "Richard Wood"
+    },
+    "tax": {
+        "base": 18.66,
+        "tax_amount": 12.85,
+        "total_tax": 12.53
+    }
+}

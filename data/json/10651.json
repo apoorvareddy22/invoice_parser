@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "192 Perez Glen Gregorytown, NV 32166",
+        "email": "montescody@example.net",
+        "phone": "244.800.3623",
+        "vat_no": "tK30037730380"
+    },
+    "invoice": {
+        "date": "05.08.2021",
+        "due_date": "21.05.2011",
+        "market_reference": 167926,
+        "notes": "implement best-of-breed markets",
+        "number": "7260-0984",
+        "reference": 275961,
+        "vat_no": "JU44765116690"
+    },
+    "payment": {
+        "net_total": 30.45,
+        "total": 194.69
+    },
+    "products": [
+        {
+            "amount": 126.79,
+            "description": "enhance cutting-edge metrics",
+            "hours": 6.52,
+            "rate": 1.85
+        },
+        {
+            "amount": 51.2,
+            "description": "leverage efficient e-tailers",
+            "hours": 8.67,
+            "rate": 3.26
+        },
+        {
+            "amount": 250.88,
+            "description": "facilitate best-of-breed web services",
+            "hours": 6.6,
+            "rate": 9.7
+        },
+        {
+            "amount": 367.1,
+            "description": "re-intermediate open-source ROI",
+            "hours": 5.13,
+            "rate": 7.75
+        },
+        {
+            "amount": 15.97,
+            "description": "deploy mission-critical infrastructures",
+            "hours": 8.62,
+            "rate": 1.4
+        },
+        {
+            "amount": 368.0,
+            "description": "architect killer models",
+            "hours": 6.78,
+            "rate": 5.13
+        }
+    ],
+    "seller": {
+        "address": "69803 Kyle Ville Apt. 585 Lake Monica, DE 70327",
+        "email": "ymitchell@example.net",
+        "name": "Madison Franklin"
+    },
+    "tax": {
+        "base": 17.44,
+        "tax_amount": 14.57,
+        "total_tax": 27.66
+    }
+}

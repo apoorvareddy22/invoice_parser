@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "961 Lisa Center New Danabury, GU 61199"
+    },
+    "invoice": {
+        "bc_no": "Ot20262",
+        "date": "19.07.2015",
+        "maturity_date": "11.04.2015",
+        "number": 512404
+    },
+    "products": [
+        {
+            "amount": 235.66,
+            "description": "envisioneer rich e-services",
+            "quantity": 7.61,
+            "unit_price": 16.5,
+            "vat_amount": 7.35
+        },
+        {
+            "amount": 338.58,
+            "description": "iterate vertical platforms",
+            "quantity": 2.87,
+            "unit_price": 60.97,
+            "vat_amount": 1.18
+        }
+    ],
+    "seller": {
+        "address": "415 Montoya Cliffs North Sharon, OH 28793"
+    },
+    "tax": {
+        "amount_excluding_tax": 91.25,
+        "amount_including_tax": 128.71,
+        "tax_amount": 22.12
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "68210 Veronica Mountains Suite 857 North David, AS 50878",
+        "email": "ctorres@example.com",
+        "phone": "284-961-0227x98885",
+        "vat_no": "ia81067374393"
+    },
+    "invoice": {
+        "date": "01.12.2004",
+        "due_date": "15.06.2013",
+        "market_reference": 809152,
+        "notes": "embrace innovative channels",
+        "number": "5813-4623",
+        "reference": 226921,
+        "vat_no": "bR54799243972"
+    },
+    "payment": {
+        "net_total": 120.63,
+        "total": 459.5
+    },
+    "products": [
+        {
+            "amount": 120.7,
+            "description": "iterate world-class deliverables",
+            "hours": 9.02,
+            "rate": 1.46
+        },
+        {
+            "amount": 495.46,
+            "description": "unleash revolutionary markets",
+            "hours": 3.28,
+            "rate": 9.69
+        }
+    ],
+    "seller": {
+        "address": "2540 Jesse Center New Angelabury, IL 80922",
+        "email": "lisachapman@example.net",
+        "name": "Shane Jackson"
+    },
+    "tax": {
+        "base": 12.48,
+        "tax_amount": 24.41,
+        "total_tax": 20.55
+    }
+}

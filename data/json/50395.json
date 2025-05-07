@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "Unit 3239 Box 6214 DPO AP 95278",
+        "id": "hw338"
+    },
+    "invoice": {
+        "bc_no": "Je00590",
+        "currency_code": "SLL",
+        "date": "19.11.2006",
+        "due_date": "20.06.2006",
+        "number": 844542
+    },
+    "payment": {
+        "bank_name": "Williams-Scott",
+        "bic": "AFGVGBRUFSY",
+        "iban": "WWVM79538911078111"
+    },
+    "products": [
+        {
+            "amount": 455.4,
+            "description": "architect virtual e-markets",
+            "index": "8",
+            "price": 488.39,
+            "quantity": 2.13,
+            "tax_amount": 39.91,
+            "total_ttc": 168.87,
+            "vat_amount": 2.63
+        }
+    ],
+    "seller": {
+        "name": "Jill Blackburn"
+    },
+    "supplier": {
+        "address": "5545 Baker Pines Apt. 374 Bryantchester, MN 68649",
+        "name": "Andrea Hodges"
+    },
+    "tax": {
+        "amount_excluding_tax": 20.88,
+        "amount_including_tax": 92.9,
+        "tax_amount": 29.53,
+        "total_ht": 499.89,
+        "total_ttc": 285.02
+    }
+}

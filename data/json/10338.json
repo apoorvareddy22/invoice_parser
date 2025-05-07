@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "0721 Sandra Ford Apt. 833 Erinport, TN 45972",
+        "email": "pstephenson@example.com",
+        "phone": "(361)341-4807",
+        "vat_no": "xX10239121162"
+    },
+    "invoice": {
+        "date": "08.02.2013",
+        "due_date": "18.12.2002",
+        "market_reference": 424324,
+        "notes": "deliver magnetic schemas",
+        "number": "0343-2635",
+        "reference": 449021,
+        "vat_no": "tX02324384995"
+    },
+    "payment": {
+        "net_total": 137.65,
+        "total": 286.72
+    },
+    "products": [
+        {
+            "amount": 235.33,
+            "description": "synergize best-of-breed portals",
+            "hours": 9.18,
+            "rate": 1.74
+        },
+        {
+            "amount": 385.32,
+            "description": "mesh distributed e-commerce",
+            "hours": 5.04,
+            "rate": 8.08
+        },
+        {
+            "amount": 96.12,
+            "description": "synergize back-end communities",
+            "hours": 1.78,
+            "rate": 6.52
+        },
+        {
+            "amount": 85.98,
+            "description": "implement user-centric e-markets",
+            "hours": 6.39,
+            "rate": 6.69
+        },
+        {
+            "amount": 199.7,
+            "description": "expedite transparent mindshare",
+            "hours": 1.53,
+            "rate": 1.42
+        }
+    ],
+    "seller": {
+        "address": "840 Daniel Crossing Apt. 604 North Karenfort, TX 51096",
+        "email": "stevensonjohn@example.org",
+        "name": "Stephanie Johnson"
+    },
+    "tax": {
+        "base": 23.74,
+        "tax_amount": 12.42,
+        "total_tax": 12.96
+    }
+}

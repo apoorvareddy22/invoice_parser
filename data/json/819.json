@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "Unit 1093 Box 2567 DPO AA 52937",
+        "company_name": "Hawkins and Sons",
+        "country": "Tokelau",
+        "name": "Ebony Lester"
+    },
+    "invoice": {
+        "date": "07.12.2020",
+        "number": 182543
+    },
+    "payment": {
+        "discount_amount": 22.76,
+        "discount_percentage": 18.54,
+        "due": 162.73,
+        "sub_total": 104.38,
+        "total": 911.25
+    },
+    "products": [
+        {
+            "description": "enable value-added content",
+            "index": "1",
+            "quantity": 7.05,
+            "total_price": 663.79,
+            "unit_price": 85.71
+        },
+        {
+            "description": "implement killer info-mediaries",
+            "index": "10",
+            "quantity": 2.42,
+            "total_price": 105.63,
+            "unit_price": 44.95
+        },
+        {
+            "description": "enhance plug-and-play systems",
+            "index": "5",
+            "quantity": 5.96,
+            "total_price": 752.08,
+            "unit_price": 81.57
+        }
+    ],
+    "seller": {
+        "address": "836 Morton Curve Suite 322 East Kimberlyhaven, SC 68814",
+        "company_name": "Mcdonald, Wright and Jacobs",
+        "vat_no": "XT04438630987"
+    }
+}

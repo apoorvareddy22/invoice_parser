@@ -1,0 +1,82 @@
+{
+    "buyer": {
+        "address": "2567 Murray Squares Apt. 281 Christopherside, OR 78206",
+        "company_name": "Norman, Sawyer and Robinson",
+        "country": "Mexico",
+        "email": "yjennings@example.org",
+        "name": "John Stark",
+        "phone": "278.736.3546",
+        "vat_no": "UF07532030871"
+    },
+    "invoice": {
+        "date": "22.07.2016",
+        "due_date": "22.01.2023",
+        "linked_invoice": "ab-1944-6046",
+        "notes": "disintermediate rich ROI",
+        "number": "SP-1041-2881"
+    },
+    "products": [
+        {
+            "description": "integrate clicks-and-mortar markets",
+            "discount_percentage": 17.44,
+            "price": 379.4,
+            "quantity": 4.06,
+            "unit_price": 96.5
+        },
+        {
+            "description": "integrate cross-media functionalities",
+            "discount_percentage": 17.36,
+            "price": 304.75,
+            "quantity": 1.56,
+            "unit_price": 77.84
+        },
+        {
+            "description": "brand best-of-breed users",
+            "discount_percentage": 17.91,
+            "price": 477.59,
+            "quantity": 6.9,
+            "unit_price": 62.85
+        },
+        {
+            "description": "mesh robust solutions",
+            "discount_percentage": 12.83,
+            "price": 256.53,
+            "quantity": 4.48,
+            "unit_price": 90.61
+        },
+        {
+            "description": "synergize world-class solutions",
+            "discount_percentage": 5.34,
+            "price": 157.65,
+            "quantity": 7.77,
+            "unit_price": 92.91
+        }
+    ],
+    "seller": {
+        "address": "6697 Stevens Cliffs Suite 937 Hartmanfurt, KY 25022",
+        "ape": "1788F",
+        "capital": 23260479,
+        "country": "Gambia",
+        "email": "erica34@example.com",
+        "name": "Philip Best",
+        "phone_1": "(552)593-5065x713",
+        "phone_2": "(886)506-3054",
+        "phone_3": "4825979580",
+        "ref_walk": "Wuxc9652",
+        "reference": "aN114",
+        "siret": 25303864959639,
+        "vat_no": "TV32632609488",
+        "website": "http://www.lawson-lewis.biz/"
+    },
+    "tax": {
+        "amount_0": 17.52,
+        "amount_1": 29.61,
+        "base_0": 29.9,
+        "base_1": 227.11,
+        "total_ht": 221.29,
+        "total_tax": 25.38,
+        "total_ttc": 101.73,
+        "vat_0": 12.59,
+        "vat_1": 11.18
+    }
+}

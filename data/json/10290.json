@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "6216 Mitchell Square Apt. 937 Merrittton, IN 14260",
+        "email": "matthewsthomas@example.net",
+        "phone": "+1-808-248-7825",
+        "vat_no": "CV41612638390"
+    },
+    "invoice": {
+        "date": "22.09.2015",
+        "due_date": "15.07.2000",
+        "market_reference": 346740,
+        "notes": "cultivate front-end systems",
+        "number": "9216-1988",
+        "reference": 840488,
+        "vat_no": "Bp19279485938"
+    },
+    "payment": {
+        "net_total": 197.0,
+        "total": 940.42
+    },
+    "products": [
+        {
+            "amount": 322.52,
+            "description": "revolutionize robust web-readiness",
+            "hours": 8.28,
+            "rate": 6.47
+        },
+        {
+            "amount": 114.17,
+            "description": "morph strategic e-commerce",
+            "hours": 1.48,
+            "rate": 1.33
+        },
+        {
+            "amount": 140.19,
+            "description": "re-contextualize scalable supply-chains",
+            "hours": 8.98,
+            "rate": 1.25
+        },
+        {
+            "amount": 387.62,
+            "description": "exploit dot-com e-markets",
+            "hours": 2.72,
+            "rate": 7.11
+        },
+        {
+            "amount": 262.4,
+            "description": "engineer cross-platform ROI",
+            "hours": 9.79,
+            "rate": 3.85
+        },
+        {
+            "amount": 300.2,
+            "description": "aggregate cutting-edge paradigms",
+            "hours": 8.35,
+            "rate": 3.83
+        },
+        {
+            "amount": 264.51,
+            "description": "grow world-class experiences",
+            "hours": 1.61,
+            "rate": 7.17
+        }
+    ],
+    "seller": {
+        "address": "09182 Taylor Causeway Suite 683 Port Kathleen, NE 82994",
+        "email": "jason21@example.net",
+        "name": "Kathryn Richardson"
+    },
+    "tax": {
+        "base": 22.94,
+        "tax_amount": 24.09,
+        "total_tax": 29.16
+    }
+}

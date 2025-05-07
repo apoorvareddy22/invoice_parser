@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "940 Kimberly Gateway Suite 110 Stephensfurt, IA 38654",
+        "id": "zg464"
+    },
+    "invoice": {
+        "bc_no": "tC42898",
+        "currency_code": "THB",
+        "date": "18.05.2001",
+        "due_date": "11.09.2002",
+        "number": 243387
+    },
+    "payment": {
+        "bank_name": "Jones, Bennett and Wright",
+        "bic": "NHLDGBUO",
+        "iban": "TNPQ11755064041247"
+    },
+    "products": [
+        {
+            "amount": 485.61,
+            "description": "expedite clicks-and-mortar users",
+            "index": "4",
+            "price": 499.55,
+            "quantity": 5.94,
+            "tax_amount": 84.61,
+            "total_ttc": 496.3,
+            "vat_amount": 2.97
+        },
+        {
+            "amount": 240.16,
+            "description": "strategize virtual synergies",
+            "index": "6",
+            "price": 52.02,
+            "quantity": 3.99,
+            "tax_amount": 66.03,
+            "total_ttc": 335.94,
+            "vat_amount": 1.4
+        },
+        {
+            "amount": 60.15,
+            "description": "monetize enterprise ROI",
+            "index": "5",
+            "price": 354.99,
+            "quantity": 8.63,
+            "tax_amount": 44.96,
+            "total_ttc": 236.14,
+            "vat_amount": 5.0
+        }
+    ],
+    "seller": {
+        "name": "William Barnett"
+    },
+    "supplier": {
+        "address": "13812 Joseph Locks South Andrew, TX 85805",
+        "name": "Jason Lopez"
+    },
+    "tax": {
+        "amount_excluding_tax": 92.7,
+        "amount_including_tax": 169.42,
+        "tax_amount": 20.8,
+        "total_ht": 154.01,
+        "total_ttc": 396.31
+    }
+}

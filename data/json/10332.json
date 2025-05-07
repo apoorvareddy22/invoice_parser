@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "5769 Isabella Lakes Suite 420 New Brian, PA 31041",
+        "email": "fcabrera@example.com",
+        "phone": "528.265.7405x099",
+        "vat_no": "lK11071003107"
+    },
+    "invoice": {
+        "date": "07.12.2020",
+        "due_date": "23.11.2007",
+        "market_reference": 627193,
+        "notes": "harness B2C markets",
+        "number": "5656-7678",
+        "reference": 239263,
+        "vat_no": "BW81383243164"
+    },
+    "payment": {
+        "net_total": 91.9,
+        "total": 155.63
+    },
+    "products": [
+        {
+            "amount": 99.87,
+            "description": "monetize robust deliverables",
+            "hours": 4.47,
+            "rate": 3.57
+        },
+        {
+            "amount": 351.3,
+            "description": "expedite global systems",
+            "hours": 2.32,
+            "rate": 3.59
+        }
+    ],
+    "seller": {
+        "address": "4064 Gregory Loop Suite 412 Roachland, MH 93479",
+        "email": "emilysmith@example.org",
+        "name": "Mr. Manuel Riley"
+    },
+    "tax": {
+        "base": 18.71,
+        "tax_amount": 25.59,
+        "total_tax": 22.41
+    }
+}

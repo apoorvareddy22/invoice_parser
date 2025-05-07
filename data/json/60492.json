@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "06323 Anthony Green Apt. 637 Turnerland, PW 68820",
+        "business_no": "dG204",
+        "id": "Ab543"
+    },
+    "invoice": {
+        "date": "27.03.1997",
+        "number": "0027-1761"
+    },
+    "payment": {
+        "due_date": "27.12.1996",
+        "total": 114.01
+    },
+    "products": [
+        {
+            "amount": 386.57,
+            "description": "enhance global synergies",
+            "quantity": 1.87,
+            "reference": "Kd-117",
+            "unit_price": 91.73
+        },
+        {
+            "amount": 159.43,
+            "description": "re-contextualize collaborative niches",
+            "quantity": 9.43,
+            "reference": "aB-970",
+            "unit_price": 57.14
+        },
+        {
+            "amount": 460.21,
+            "description": "repurpose world-class markets",
+            "quantity": 9.91,
+            "reference": "rJ-528",
+            "unit_price": 24.58
+        },
+        {
+            "amount": 429.95,
+            "description": "brand collaborative ROI",
+            "quantity": 6.04,
+            "reference": "nn-368",
+            "unit_price": 69.82
+        }
+    ],
+    "seller": {
+        "address": "202 Brian Falls Apt. 429 Edwardport, OH 14048"
+    },
+    "tax": {
+        "base_ht": 497.84,
+        "regulations": 26.85,
+        "total_ht": 419.7,
+        "vat_amount": 77.57,
+        "vat_percentage": 20.28
+    }
+}

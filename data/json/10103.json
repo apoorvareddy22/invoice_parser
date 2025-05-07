@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "52048 Cruz Expressway Aaronview, AS 52980",
+        "email": "vanessanelson@example.net",
+        "phone": "001-413-525-2621x6331",
+        "vat_no": "IU47570965833"
+    },
+    "invoice": {
+        "date": "11.08.2014",
+        "due_date": "25.04.2018",
+        "market_reference": 833922,
+        "notes": "engineer mission-critical supply-chains",
+        "number": "6774-5594",
+        "reference": 402570,
+        "vat_no": "mo08542714842"
+    },
+    "payment": {
+        "net_total": 188.92,
+        "total": 158.82
+    },
+    "products": [
+        {
+            "amount": 303.75,
+            "description": "aggregate dot-com infrastructures",
+            "hours": 9.31,
+            "rate": 7.13
+        },
+        {
+            "amount": 325.95,
+            "description": "target next-generation niches",
+            "hours": 3.85,
+            "rate": 8.32
+        }
+    ],
+    "seller": {
+        "address": "491 Mark Falls Apt. 497 West James, VT 19915",
+        "email": "davisgordon@example.org",
+        "name": "Mary Cook"
+    },
+    "tax": {
+        "base": 16.52,
+        "tax_amount": 11.71,
+        "total_tax": 24.32
+    }
+}

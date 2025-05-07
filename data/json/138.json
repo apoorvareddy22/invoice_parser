@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "792 Destiny Manors Brettborough, TX 89005",
+        "company_name": "Hubbard, Welch and Jackson",
+        "country": "Cook Islands",
+        "name": "Keith Watts"
+    },
+    "invoice": {
+        "date": "10.01.2005",
+        "number": 326713
+    },
+    "payment": {
+        "discount_amount": 33.76,
+        "discount_percentage": 14.19,
+        "due": 48.11,
+        "sub_total": 186.45,
+        "total": 531.94
+    },
+    "products": [
+        {
+            "description": "mesh front-end eyeballs",
+            "index": "1",
+            "quantity": 8.85,
+            "total_price": 342.29,
+            "unit_price": 10.44
+        },
+        {
+            "description": "utilize dot-com portals",
+            "index": "2",
+            "quantity": 4.97,
+            "total_price": 685.0,
+            "unit_price": 17.27
+        },
+        {
+            "description": "deliver virtual web services",
+            "index": "10",
+            "quantity": 9.95,
+            "total_price": 11.23,
+            "unit_price": 21.34
+        }
+    ],
+    "seller": {
+        "address": "4915 Robinson Springs South Terri, UT 92710",
+        "company_name": "Vang, Greene and Monroe",
+        "vat_no": "Iu71948431889"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "Unit 5490 Box 3988 DPO AE 24369",
+        "company_name": "Carpenter and Sons",
+        "email": "ihughes@example.net",
+        "name": "Stephanie Evans",
+        "phone": "(463)714-3113x70007"
+    },
+    "invoice": {
+        "date": "27.12.1995",
+        "due_date": "16.04.2008",
+        "number": "sOz90842700335"
+    },
+    "payment": {
+        "account_number": 8849567631,
+        "bank_name": "Ellis, Murphy and Phillips",
+        "routing_number": 527329485
+    },
+    "products": [
+        {
+            "amount": 368.02,
+            "description": "evolve visionary web-readiness",
+            "index": "8",
+            "quantity": 2.66,
+            "unit_price": 41.16
+        }
+    ],
+    "seller": {
+        "address": "095 Andrea Land Suite 892 Taylorfurt, AS 91231",
+        "company_name": "Proctor-Howard",
+        "email": "mikemathis@example.net"
+    }
+}

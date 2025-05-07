@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "645 Kelly Inlet Suite 154 Port Justin, WV 87008",
+        "email": "anthonyyoder@example.org",
+        "phone": "+1-310-567-2996x7684",
+        "vat_no": "Xb30575973517"
+    },
+    "invoice": {
+        "date": "08.10.2007",
+        "due_date": "01.05.1994",
+        "market_reference": 110956,
+        "notes": "aggregate leading-edge solutions",
+        "number": "3271-0856",
+        "reference": 561771,
+        "vat_no": "MA14534450105"
+    },
+    "payment": {
+        "net_total": 133.54,
+        "total": 192.93
+    },
+    "products": [
+        {
+            "amount": 65.26,
+            "description": "e-enable rich communities",
+            "hours": 1.83,
+            "rate": 5.04
+        }
+    ],
+    "seller": {
+        "address": "68669 Andrew Row North Amanda, DC 55938",
+        "email": "chavezchristopher@example.org",
+        "name": "Jason Gray"
+    },
+    "tax": {
+        "base": 27.57,
+        "tax_amount": 14.07,
+        "total_tax": 11.99
+    }
+}

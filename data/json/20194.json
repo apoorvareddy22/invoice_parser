@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "4373 Nicholas Way Steeleborough, OK 13800",
+        "company_name": "Baldwin Inc",
+        "email": "drewconner@example.org",
+        "name": "Alicia Frazier",
+        "phone": "(429)898-4555"
+    },
+    "invoice": {
+        "date": "30.04.2004",
+        "due_date": "11.10.2021",
+        "number": "oZg20327101678"
+    },
+    "payment": {
+        "account_number": 8393072431,
+        "bank_name": "Velez Ltd",
+        "routing_number": 115437831
+    },
+    "products": [
+        {
+            "amount": 386.77,
+            "description": "productize real-time eyeballs",
+            "index": "5",
+            "quantity": 9.16,
+            "unit_price": 71.43
+        },
+        {
+            "amount": 200.38,
+            "description": "disintermediate clicks-and-mortar channels",
+            "index": "5",
+            "quantity": 4.99,
+            "unit_price": 41.38
+        }
+    ],
+    "seller": {
+        "address": "23288 Christopher Port Meganfort, WY 95298",
+        "company_name": "Mcclain Group",
+        "email": "bcrawford@example.org"
+    }
+}

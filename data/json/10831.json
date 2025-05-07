@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "3522 Moore Branch Suite 632 Fosterchester, WI 35227",
+        "email": "stewartchristopher@example.org",
+        "phone": "928-680-0793x60063",
+        "vat_no": "Ro77143808644"
+    },
+    "invoice": {
+        "date": "23.05.2000",
+        "due_date": "10.10.2009",
+        "market_reference": 728664,
+        "notes": "synthesize collaborative functionalities",
+        "number": "2483-9432",
+        "reference": 938917,
+        "vat_no": "Kl68820670313"
+    },
+    "payment": {
+        "net_total": 105.72,
+        "total": 930.07
+    },
+    "products": [
+        {
+            "amount": 451.81,
+            "description": "redefine wireless models",
+            "hours": 3.97,
+            "rate": 6.43
+        },
+        {
+            "amount": 143.69,
+            "description": "facilitate vertical paradigms",
+            "hours": 5.56,
+            "rate": 3.54
+        },
+        {
+            "amount": 163.84,
+            "description": "embrace best-of-breed relationships",
+            "hours": 6.18,
+            "rate": 8.68
+        },
+        {
+            "amount": 127.44,
+            "description": "embrace cutting-edge ROI",
+            "hours": 9.32,
+            "rate": 3.31
+        }
+    ],
+    "seller": {
+        "address": "0960 Randolph Row South Juanshire, WV 67642",
+        "email": "rmiller@example.org",
+        "name": "Elizabeth Powell"
+    },
+    "tax": {
+        "base": 11.6,
+        "tax_amount": 25.76,
+        "total_tax": 16.73
+    }
+}

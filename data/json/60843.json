@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "Unit 6694 Box 8983 DPO AE 70840",
+        "business_no": "Yj009",
+        "id": "rz661"
+    },
+    "invoice": {
+        "date": "18.01.2015",
+        "number": "0080-8977"
+    },
+    "payment": {
+        "due_date": "16.12.2000",
+        "total": 711.52
+    },
+    "products": [
+        {
+            "amount": 228.0,
+            "description": "synthesize vertical ROI",
+            "quantity": 5.17,
+            "reference": "aq-030",
+            "unit_price": 70.84
+        },
+        {
+            "amount": 439.25,
+            "description": "grow ubiquitous synergies",
+            "quantity": 4.44,
+            "reference": "Lm-409",
+            "unit_price": 59.56
+        },
+        {
+            "amount": 404.88,
+            "description": "deploy back-end paradigms",
+            "quantity": 7.0,
+            "reference": "fb-962",
+            "unit_price": 34.03
+        }
+    ],
+    "seller": {
+        "address": "143 Nicholas Alley Davishaven, SD 19699"
+    },
+    "tax": {
+        "base_ht": 220.43,
+        "regulations": 21.77,
+        "total_ht": 292.8,
+        "vat_amount": 196.32,
+        "vat_percentage": 24.64
+    }
+}

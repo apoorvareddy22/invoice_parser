@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "509 Elizabeth Road Apt. 965 Eduardomouth, NC 65448"
+    },
+    "invoice": {
+        "bc_no": "ba65836",
+        "date": "02.01.2021",
+        "maturity_date": "21.05.2011",
+        "number": 803833
+    },
+    "products": [
+        {
+            "amount": 497.84,
+            "description": "seize ubiquitous e-markets",
+            "quantity": 8.75,
+            "unit_price": 76.53,
+            "vat_amount": 5.41
+        },
+        {
+            "amount": 392.34,
+            "description": "visualize 24/365 functionalities",
+            "quantity": 1.71,
+            "unit_price": 13.25,
+            "vat_amount": 11.52
+        }
+    ],
+    "seller": {
+        "address": "2044 Rodgers Prairie Suite 459 West Jacobport, NM 01386"
+    },
+    "tax": {
+        "amount_excluding_tax": 28.03,
+        "amount_including_tax": 100.23,
+        "tax_amount": 10.68
+    }
+}

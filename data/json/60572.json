@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "6863 Kristopher Mountain Apt. 640 Brownfurt, ND 08687",
+        "business_no": "xS101",
+        "id": "tR885"
+    },
+    "invoice": {
+        "date": "16.03.2005",
+        "number": "1547-8165"
+    },
+    "payment": {
+        "due_date": "05.07.2005",
+        "total": 405.46
+    },
+    "products": [
+        {
+            "amount": 79.05,
+            "description": "optimize efficient bandwidth",
+            "quantity": 6.49,
+            "reference": "YV-860",
+            "unit_price": 51.23
+        },
+        {
+            "amount": 332.09,
+            "description": "cultivate vertical bandwidth",
+            "quantity": 5.31,
+            "reference": "vt-401",
+            "unit_price": 33.1
+        },
+        {
+            "amount": 171.3,
+            "description": "embrace mission-critical schemas",
+            "quantity": 8.95,
+            "reference": "NU-150",
+            "unit_price": 61.51
+        },
+        {
+            "amount": 185.65,
+            "description": "evolve innovative initiatives",
+            "quantity": 4.44,
+            "reference": "by-976",
+            "unit_price": 21.73
+        }
+    ],
+    "seller": {
+        "address": "07321 Jenkins Ville Apt. 121 Jacobshire, MO 51680"
+    },
+    "tax": {
+        "base_ht": 442.44,
+        "regulations": 24.0,
+        "total_ht": 188.83,
+        "vat_amount": 69.98,
+        "vat_percentage": 16.07
+    }
+}

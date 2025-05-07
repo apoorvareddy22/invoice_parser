@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "704 Adam Village South Patricialand, ME 99732",
+        "email": "benjaminshelton@example.net",
+        "phone": "496-962-0567x583",
+        "vat_no": "kD04267329258"
+    },
+    "invoice": {
+        "date": "19.12.1990",
+        "due_date": "05.08.2016",
+        "market_reference": 823451,
+        "notes": "iterate one-to-one channels",
+        "number": "0737-7171",
+        "reference": 644585,
+        "vat_no": "Gd18338008414"
+    },
+    "payment": {
+        "net_total": 86.28,
+        "total": 459.36
+    },
+    "products": [
+        {
+            "amount": 248.92,
+            "description": "e-enable frictionless e-tailers",
+            "hours": 8.85,
+            "rate": 7.52
+        },
+        {
+            "amount": 250.41,
+            "description": "evolve leading-edge solutions",
+            "hours": 7.9,
+            "rate": 5.29
+        },
+        {
+            "amount": 118.92,
+            "description": "re-intermediate B2B web-readiness",
+            "hours": 2.6,
+            "rate": 4.43
+        }
+    ],
+    "seller": {
+        "address": "Unit 4499 Box 7817 DPO AE 92958",
+        "email": "tina35@example.org",
+        "name": "Robert Boyer"
+    },
+    "tax": {
+        "base": 29.09,
+        "tax_amount": 18.87,
+        "total_tax": 26.92
+    }
+}

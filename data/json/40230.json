@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "USS Wood FPO AE 37066"
+    },
+    "invoice": {
+        "bc_no": "ce29266",
+        "date": "10.06.1993",
+        "maturity_date": "21.06.2001",
+        "number": 755202
+    },
+    "products": [
+        {
+            "amount": 284.08,
+            "description": "engineer back-end e-markets",
+            "quantity": 1.75,
+            "unit_price": 79.81,
+            "vat_amount": 10.59
+        },
+        {
+            "amount": 454.65,
+            "description": "engineer back-end web services",
+            "quantity": 2.03,
+            "unit_price": 75.74,
+            "vat_amount": 1.48
+        },
+        {
+            "amount": 483.01,
+            "description": "envisioneer interactive experiences",
+            "quantity": 6.49,
+            "unit_price": 93.08,
+            "vat_amount": 2.44
+        },
+        {
+            "amount": 87.1,
+            "description": "syndicate turn-key e-services",
+            "quantity": 5.02,
+            "unit_price": 51.02,
+            "vat_amount": 9.21
+        },
+        {
+            "amount": 398.15,
+            "description": "architect real-time action-items",
+            "quantity": 5.64,
+            "unit_price": 31.88,
+            "vat_amount": 10.11
+        }
+    ],
+    "seller": {
+        "address": "840 Alexander Lodge Apt. 363 Summerfurt, NC 92275"
+    },
+    "tax": {
+        "amount_excluding_tax": 174.34,
+        "amount_including_tax": 199.2,
+        "tax_amount": 23.09
+    }
+}

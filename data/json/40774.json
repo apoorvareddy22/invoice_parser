@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "863 Adriana Light Apt. 891 Lake Donald, MA 17496"
+    },
+    "invoice": {
+        "bc_no": "mn26430",
+        "date": "14.01.2009",
+        "maturity_date": "09.03.1991",
+        "number": 745622
+    },
+    "products": [
+        {
+            "amount": 441.64,
+            "description": "e-enable value-added mindshare",
+            "quantity": 2.72,
+            "unit_price": 38.21,
+            "vat_amount": 1.42
+        },
+        {
+            "amount": 289.88,
+            "description": "engineer holistic convergence",
+            "quantity": 8.25,
+            "unit_price": 90.81,
+            "vat_amount": 14.85
+        },
+        {
+            "amount": 347.77,
+            "description": "strategize transparent vortals",
+            "quantity": 8.27,
+            "unit_price": 24.47,
+            "vat_amount": 1.98
+        },
+        {
+            "amount": 252.37,
+            "description": "target holistic technologies",
+            "quantity": 7.95,
+            "unit_price": 54.25,
+            "vat_amount": 0.65
+        },
+        {
+            "amount": 489.03,
+            "description": "iterate viral communities",
+            "quantity": 6.71,
+            "unit_price": 96.11,
+            "vat_amount": 12.74
+        },
+        {
+            "amount": 71.17,
+            "description": "leverage back-end architectures",
+            "quantity": 5.3,
+            "unit_price": 36.15,
+            "vat_amount": 1.08
+        }
+    ],
+    "seller": {
+        "address": "1251 Miller Spur Apt. 140 North Charles, VI 37860"
+    },
+    "tax": {
+        "amount_excluding_tax": 58.89,
+        "amount_including_tax": 55.29,
+        "tax_amount": 11.24
+    }
+}

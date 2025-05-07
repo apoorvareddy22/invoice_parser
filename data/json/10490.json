@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "50155 Holmes Mountain Suite 845 Morrischester, PW 77180",
+        "email": "gary83@example.com",
+        "phone": "700-245-3553x5543",
+        "vat_no": "SN72499982599"
+    },
+    "invoice": {
+        "date": "22.02.2002",
+        "due_date": "02.04.2003",
+        "market_reference": 545424,
+        "notes": "deploy world-class ROI",
+        "number": "2698-7015",
+        "reference": 728398,
+        "vat_no": "Br90849071914"
+    },
+    "payment": {
+        "net_total": 182.39,
+        "total": 757.77
+    },
+    "products": [
+        {
+            "amount": 17.15,
+            "description": "revolutionize robust partnerships",
+            "hours": 3.89,
+            "rate": 8.98
+        },
+        {
+            "amount": 406.16,
+            "description": "syndicate revolutionary metrics",
+            "hours": 4.49,
+            "rate": 2.16
+        },
+        {
+            "amount": 383.08,
+            "description": "target 24/7 supply-chains",
+            "hours": 2.83,
+            "rate": 3.72
+        },
+        {
+            "amount": 148.99,
+            "description": "transform intuitive platforms",
+            "hours": 6.46,
+            "rate": 2.09
+        }
+    ],
+    "seller": {
+        "address": "4734 Carrie Villages Apt. 041 Port Danielville, ME 33022",
+        "email": "vincentlambert@example.org",
+        "name": "Janice Johnson"
+    },
+    "tax": {
+        "base": 10.66,
+        "tax_amount": 13.46,
+        "total_tax": 17.14
+    }
+}

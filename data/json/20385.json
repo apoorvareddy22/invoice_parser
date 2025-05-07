@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "PSC 8044, Box 5187 APO AE 84272",
+        "company_name": "Santos-Shelton",
+        "email": "jessicafisher@example.net",
+        "name": "Theodore Castillo",
+        "phone": "846-370-3283x36118"
+    },
+    "invoice": {
+        "date": "14.02.2021",
+        "due_date": "01.08.2010",
+        "number": "wEX93619191798"
+    },
+    "payment": {
+        "account_number": 5990827789,
+        "bank_name": "Sherman, Hooper and Daniels",
+        "routing_number": 185254054
+    },
+    "products": [
+        {
+            "amount": 131.37,
+            "description": "empower magnetic solutions",
+            "index": "6",
+            "quantity": 8.46,
+            "unit_price": 79.18
+        },
+        {
+            "amount": 248.08,
+            "description": "generate synergistic web-readiness",
+            "index": "2",
+            "quantity": 2.2,
+            "unit_price": 85.44
+        }
+    ],
+    "seller": {
+        "address": "PSC 7899, Box 0086 APO AA 78542",
+        "company_name": "Fletcher Group",
+        "email": "gshaffer@example.com"
+    }
+}

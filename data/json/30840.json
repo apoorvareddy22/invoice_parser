@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "USCGC Bennett FPO AP 62079",
+        "company_name": "White Inc",
+        "country": "Uganda",
+        "email": "matthew92@example.net",
+        "name": "Natalie Hernandez",
+        "phone": "435.459.8926",
+        "vat_no": "ZS73993584756"
+    },
+    "invoice": {
+        "date": "30.04.1990",
+        "due_date": "27.12.1999",
+        "linked_invoice": "Bl-6278-6391",
+        "notes": "streamline sticky interfaces",
+        "number": "Pt-2519-1659"
+    },
+    "products": [
+        {
+            "description": "engage B2C infrastructures",
+            "discount_percentage": 14.37,
+            "price": 333.88,
+            "quantity": 9.43,
+            "unit_price": 30.4
+        },
+        {
+            "description": "drive cross-media models",
+            "discount_percentage": 17.99,
+            "price": 133.91,
+            "quantity": 9.36,
+            "unit_price": 44.14
+        },
+        {
+            "description": "reinvent innovative schemas",
+            "discount_percentage": 14.43,
+            "price": 12.82,
+            "quantity": 9.06,
+            "unit_price": 36.76
+        },
+        {
+            "description": "iterate plug-and-play applications",
+            "discount_percentage": 19.72,
+            "price": 227.15,
+            "quantity": 2.64,
+            "unit_price": 60.45
+        }
+    ],
+    "seller": {
+        "address": "12163 Ronald Stream Suite 582 Derrickberg, ID 11243",
+        "ape": "5791T",
+        "capital": 29676930,
+        "country": "Tanzania",
+        "email": "hwilson@example.net",
+        "name": "Heather Wolf",
+        "phone_1": "+1-421-212-2910x76182",
+        "phone_2": "001-297-734-5032x86034",
+        "phone_3": "(691)573-7450x012",
+        "ref_walk": "mVgp6109",
+        "reference": "vZ966",
+        "siret": 25882270520672,
+        "vat_no": "BL56777283627",
+        "website": "http://www.harper-thomas.com/"
+    },
+    "tax": {
+        "amount_0": 16.24,
+        "amount_1": 12.93,
+        "base_0": 14.82,
+        "base_1": 226.31,
+        "total_ht": 333.09,
+        "total_tax": 10.62,
+        "total_ttc": 299.62,
+        "vat_0": 14.64,
+        "vat_1": 19.31
+    }
+}

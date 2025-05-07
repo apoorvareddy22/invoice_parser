@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "PSC 6937, Box 9212 APO AE 42800",
+        "company_name": "Hicks, Ramos and Gibson",
+        "email": "nskinner@example.com",
+        "name": "Mr. Nathaniel Bates",
+        "phone": "499-517-2430"
+    },
+    "invoice": {
+        "date": "22.12.2012",
+        "due_date": "13.10.2013",
+        "number": "xbN70401736471"
+    },
+    "payment": {
+        "account_number": 3397623271,
+        "bank_name": "Cruz, Harmon and Martinez",
+        "routing_number": 991685444
+    },
+    "products": [
+        {
+            "amount": 462.38,
+            "description": "evolve back-end schemas",
+            "index": "8",
+            "quantity": 4.62,
+            "unit_price": 63.8
+        },
+        {
+            "amount": 275.21,
+            "description": "utilize cross-platform vortals",
+            "index": "3",
+            "quantity": 5.84,
+            "unit_price": 24.99
+        },
+        {
+            "amount": 392.37,
+            "description": "empower frictionless relationships",
+            "index": "8",
+            "quantity": 2.19,
+            "unit_price": 72.02
+        }
+    ],
+    "seller": {
+        "address": "12326 Dougherty Lodge Sarahtown, GA 68291",
+        "company_name": "Schneider-Kim",
+        "email": "zcollins@example.com"
+    }
+}

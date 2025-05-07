@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "371 Miles Groves Suite 408 Steventown, GA 59210"
+    },
+    "invoice": {
+        "bc_no": "AU14599",
+        "date": "14.11.2019",
+        "maturity_date": "23.07.1998",
+        "number": 388838
+    },
+    "products": [
+        {
+            "amount": 344.0,
+            "description": "aggregate vertical methodologies",
+            "quantity": 8.47,
+            "unit_price": 96.33,
+            "vat_amount": 14.1
+        },
+        {
+            "amount": 13.25,
+            "description": "drive B2C solutions",
+            "quantity": 5.31,
+            "unit_price": 81.32,
+            "vat_amount": 1.87
+        },
+        {
+            "amount": 366.59,
+            "description": "empower cross-platform applications",
+            "quantity": 5.23,
+            "unit_price": 92.77,
+            "vat_amount": 3.37
+        },
+        {
+            "amount": 135.3,
+            "description": "drive one-to-one functionalities",
+            "quantity": 6.22,
+            "unit_price": 26.38,
+            "vat_amount": 6.78
+        }
+    ],
+    "seller": {
+        "address": "1674 Hernandez Port Suite 596 Williamstown, UT 54981"
+    },
+    "tax": {
+        "amount_excluding_tax": 120.84,
+        "amount_including_tax": 131.9,
+        "tax_amount": 13.29
+    }
+}

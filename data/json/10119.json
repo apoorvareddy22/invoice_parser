@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "533 Sims Views New Christinehaven, NM 38182",
+        "email": "randalljones@example.net",
+        "phone": "(395)486-6366",
+        "vat_no": "Fl08178008414"
+    },
+    "invoice": {
+        "date": "01.07.2008",
+        "due_date": "17.10.2022",
+        "market_reference": 945189,
+        "notes": "drive magnetic initiatives",
+        "number": "7669-1814",
+        "reference": 552256,
+        "vat_no": "XZ47239976313"
+    },
+    "payment": {
+        "net_total": 173.52,
+        "total": 931.05
+    },
+    "products": [
+        {
+            "amount": 426.86,
+            "description": "exploit compelling users",
+            "hours": 9.63,
+            "rate": 4.14
+        },
+        {
+            "amount": 142.68,
+            "description": "cultivate integrated methodologies",
+            "hours": 6.39,
+            "rate": 7.28
+        },
+        {
+            "amount": 28.26,
+            "description": "generate open-source eyeballs",
+            "hours": 3.74,
+            "rate": 1.4
+        },
+        {
+            "amount": 471.0,
+            "description": "transition cross-platform bandwidth",
+            "hours": 8.29,
+            "rate": 8.83
+        }
+    ],
+    "seller": {
+        "address": "78372 Michael Court Apt. 312 New Karaburgh, MT 63824",
+        "email": "tmays@example.net",
+        "name": "David Mckinney"
+    },
+    "tax": {
+        "base": 23.36,
+        "tax_amount": 11.65,
+        "total_tax": 23.33
+    }
+}

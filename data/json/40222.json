@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "0741 Ross Burg Lake Harryside, CO 26341"
+    },
+    "invoice": {
+        "bc_no": "GX44424",
+        "date": "11.07.1990",
+        "maturity_date": "15.03.1999",
+        "number": 220276
+    },
+    "products": [
+        {
+            "amount": 138.99,
+            "description": "transition value-added interfaces",
+            "quantity": 7.01,
+            "unit_price": 56.12,
+            "vat_amount": 6.36
+        }
+    ],
+    "seller": {
+        "address": "PSC 7212, Box 6306 APO AE 36474"
+    },
+    "tax": {
+        "amount_excluding_tax": 132.16,
+        "amount_including_tax": 164.71,
+        "tax_amount": 10.73
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "43030 Weber Course Apt. 388 Ricemouth, PR 91755",
+        "company_name": "Miller, Montoya and Newman",
+        "country": "Benin",
+        "name": "Brandon Hernandez"
+    },
+    "invoice": {
+        "date": "03.10.2000",
+        "number": 704832
+    },
+    "payment": {
+        "discount_amount": 21.23,
+        "discount_percentage": 9.94,
+        "due": 188.94,
+        "sub_total": 120.72,
+        "total": 602.72
+    },
+    "products": [
+        {
+            "description": "extend back-end methodologies",
+            "index": "4",
+            "quantity": 5.02,
+            "total_price": 893.55,
+            "unit_price": 30.83
+        },
+        {
+            "description": "drive extensible synergies",
+            "index": "8",
+            "quantity": 3.21,
+            "total_price": 379.77,
+            "unit_price": 63.13
+        },
+        {
+            "description": "leverage killer bandwidth",
+            "index": "4",
+            "quantity": 4.22,
+            "total_price": 349.86,
+            "unit_price": 93.34
+        },
+        {
+            "description": "enhance strategic schemas",
+            "index": "4",
+            "quantity": 9.09,
+            "total_price": 825.67,
+            "unit_price": 68.46
+        }
+    ],
+    "seller": {
+        "address": "85556 Watson Overpass East Andrea, HI 42316",
+        "company_name": "Murphy PLC",
+        "vat_no": "Dz51002079460"
+    }
+}

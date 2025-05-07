@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "96998 Erica Ville Suite 837 West Patricia, HI 84596",
+        "business_no": "ol312",
+        "id": "BH440"
+    },
+    "invoice": {
+        "date": "05.07.2004",
+        "number": "1350-5441"
+    },
+    "payment": {
+        "due_date": "21.08.2015",
+        "total": 929.79
+    },
+    "products": [
+        {
+            "amount": 46.21,
+            "description": "incentivize magnetic convergence",
+            "quantity": 2.57,
+            "reference": "me-465",
+            "unit_price": 30.43
+        },
+        {
+            "amount": 68.29,
+            "description": "strategize strategic supply-chains",
+            "quantity": 9.48,
+            "reference": "rY-827",
+            "unit_price": 71.22
+        },
+        {
+            "amount": 375.39,
+            "description": "extend 24/365 communities",
+            "quantity": 7.28,
+            "reference": "EQ-059",
+            "unit_price": 38.26
+        }
+    ],
+    "seller": {
+        "address": "2013 Steven Spurs Apt. 773 North Melvin, MP 08813"
+    },
+    "tax": {
+        "base_ht": 367.16,
+        "regulations": 29.65,
+        "total_ht": 495.63,
+        "vat_amount": 38.77,
+        "vat_percentage": 14.26
+    }
+}

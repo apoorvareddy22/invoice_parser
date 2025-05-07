@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "8359 Lori Isle Apt. 224 Samanthamouth, CO 43254",
+        "id": "aK159"
+    },
+    "invoice": {
+        "bc_no": "iE36762",
+        "currency_code": "THB",
+        "date": "20.09.2002",
+        "due_date": "03.04.2020",
+        "number": 869353
+    },
+    "payment": {
+        "bank_name": "Mayer-Durham",
+        "bic": "YBKZGBT4",
+        "iban": "YEOH45121540336158"
+    },
+    "products": [
+        {
+            "amount": 165.55,
+            "description": "incentivize clicks-and-mortar web-readiness",
+            "index": "6",
+            "price": 96.67,
+            "quantity": 9.44,
+            "tax_amount": 79.51,
+            "total_ttc": 276.77,
+            "vat_amount": 1.27
+        },
+        {
+            "amount": 392.98,
+            "description": "repurpose proactive methodologies",
+            "index": "7",
+            "price": 401.26,
+            "quantity": 1.28,
+            "tax_amount": 65.95,
+            "total_ttc": 249.66,
+            "vat_amount": 4.57
+        }
+    ],
+    "seller": {
+        "name": "Ms. Brianna Smith"
+    },
+    "supplier": {
+        "address": "794 Linda Ridge Suite 455 Youngside, DC 23693",
+        "name": "Jesus Romero"
+    },
+    "tax": {
+        "amount_excluding_tax": 71.55,
+        "amount_including_tax": 125.08,
+        "tax_amount": 21.53,
+        "total_ht": 168.62,
+        "total_ttc": 431.58
+    }
+}

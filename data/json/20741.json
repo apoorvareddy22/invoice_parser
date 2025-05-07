@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "4983 Kramer Viaduct North Bryanview, AS 82598",
+        "company_name": "Burns LLC",
+        "email": "vsmith@example.net",
+        "name": "Nicholas Turner DDS",
+        "phone": "+1-252-607-9618x355"
+    },
+    "invoice": {
+        "date": "08.08.2012",
+        "due_date": "22.09.2009",
+        "number": "LpM49522493430"
+    },
+    "payment": {
+        "account_number": 3501477107,
+        "bank_name": "Simpson Ltd",
+        "routing_number": 598639709
+    },
+    "products": [
+        {
+            "amount": 102.78,
+            "description": "mesh magnetic platforms",
+            "index": "10",
+            "quantity": 4.18,
+            "unit_price": 28.99
+        },
+        {
+            "amount": 168.63,
+            "description": "transition magnetic partnerships",
+            "index": "9",
+            "quantity": 2.59,
+            "unit_price": 76.62
+        }
+    ],
+    "seller": {
+        "address": "33328 Anne Point Apt. 040 Lewistown, LA 64617",
+        "company_name": "Tate Ltd",
+        "email": "vreid@example.com"
+    }
+}

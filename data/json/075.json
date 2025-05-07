@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "132 Allison Creek Thompsonborough, RI 09140",
+        "company_name": "Welch, Stevenson and Caldwell",
+        "country": "Netherlands",
+        "name": "Elizabeth Brooks"
+    },
+    "invoice": {
+        "date": "26.02.2022",
+        "number": 369229
+    },
+    "payment": {
+        "discount_amount": 11.3,
+        "discount_percentage": 14.72,
+        "due": 12.33,
+        "sub_total": 177.6,
+        "total": 353.17
+    },
+    "products": [
+        {
+            "description": "revolutionize 24/7 solutions",
+            "index": "1",
+            "quantity": 2.88,
+            "total_price": 988.41,
+            "unit_price": 23.78
+        },
+        {
+            "description": "exploit turn-key deliverables",
+            "index": "2",
+            "quantity": 8.29,
+            "total_price": 329.64,
+            "unit_price": 63.84
+        },
+        {
+            "description": "brand next-generation initiatives",
+            "index": "7",
+            "quantity": 9.7,
+            "total_price": 887.96,
+            "unit_price": 99.67
+        },
+        {
+            "description": "benchmark dynamic communities",
+            "index": "1",
+            "quantity": 5.24,
+            "total_price": 301.08,
+            "unit_price": 68.8
+        },
+        {
+            "description": "re-contextualize dot-com interfaces",
+            "index": "3",
+            "quantity": 2.97,
+            "total_price": 26.68,
+            "unit_price": 53.33
+        }
+    ],
+    "seller": {
+        "address": "0131 Whitney Overpass Suite 904 Marymouth, RI 97818",
+        "company_name": "Bowman and Sons",
+        "vat_no": "xK30184494775"
+    }
+}

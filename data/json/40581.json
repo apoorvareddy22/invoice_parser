@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "0341 Nicole Stream Apt. 243 North Linda, AL 26506"
+    },
+    "invoice": {
+        "bc_no": "Gv12113",
+        "date": "11.02.2001",
+        "maturity_date": "24.03.1990",
+        "number": 118218
+    },
+    "products": [
+        {
+            "amount": 408.71,
+            "description": "morph ubiquitous initiatives",
+            "quantity": 7.02,
+            "unit_price": 24.45,
+            "vat_amount": 5.71
+        },
+        {
+            "amount": 59.03,
+            "description": "revolutionize out-of-the-box vortals",
+            "quantity": 3.01,
+            "unit_price": 40.8,
+            "vat_amount": 8.35
+        },
+        {
+            "amount": 398.55,
+            "description": "architect impactful action-items",
+            "quantity": 9.98,
+            "unit_price": 93.73,
+            "vat_amount": 1.76
+        }
+    ],
+    "seller": {
+        "address": "8332 Allen Summit Strongmouth, MH 99324"
+    },
+    "tax": {
+        "amount_excluding_tax": 111.46,
+        "amount_including_tax": 16.2,
+        "tax_amount": 21.38
+    }
+}

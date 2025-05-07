@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "737 Jessica Ramp New Suzanne, NC 30588",
+        "company_name": "Oconnor Inc",
+        "email": "llee@example.org",
+        "name": "Robert Sanders",
+        "phone": "358-591-9487x1516"
+    },
+    "invoice": {
+        "date": "08.12.2005",
+        "due_date": "27.10.2004",
+        "number": "Xiy09775135436"
+    },
+    "payment": {
+        "account_number": 6573897936,
+        "bank_name": "Williams, Horton and Gray",
+        "routing_number": 557248542
+    },
+    "products": [
+        {
+            "amount": 444.09,
+            "description": "benchmark ubiquitous experiences",
+            "index": "6",
+            "quantity": 1.58,
+            "unit_price": 15.44
+        },
+        {
+            "amount": 238.1,
+            "description": "scale impactful applications",
+            "index": "5",
+            "quantity": 6.75,
+            "unit_price": 37.22
+        },
+        {
+            "amount": 421.38,
+            "description": "deliver visionary models",
+            "index": "2",
+            "quantity": 8.15,
+            "unit_price": 73.9
+        },
+        {
+            "amount": 67.75,
+            "description": "redefine dot-com web-readiness",
+            "index": "2",
+            "quantity": 9.15,
+            "unit_price": 38.4
+        },
+        {
+            "amount": 27.46,
+            "description": "expedite seamless schemas",
+            "index": "4",
+            "quantity": 1.75,
+            "unit_price": 60.37
+        }
+    ],
+    "seller": {
+        "address": "3492 Benjamin Street Apt. 582 Isabelport, FM 51634",
+        "company_name": "Schwartz PLC",
+        "email": "fspencer@example.com"
+    }
+}

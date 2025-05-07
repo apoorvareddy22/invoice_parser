@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "0605 Benjamin Forks Suite 313 Sherryshire, NJ 46983",
+        "company_name": "Graham Group",
+        "country": "Isle of Man",
+        "name": "Richard Ball"
+    },
+    "invoice": {
+        "date": "05.05.2004",
+        "number": 563364
+    },
+    "payment": {
+        "discount_amount": 32.54,
+        "discount_percentage": 10.34,
+        "due": 123.56,
+        "sub_total": 57.37,
+        "total": 692.06
+    },
+    "products": [
+        {
+            "description": "re-contextualize sticky markets",
+            "index": "8",
+            "quantity": 7.02,
+            "total_price": 827.86,
+            "unit_price": 47.45
+        },
+        {
+            "description": "empower granular supply-chains",
+            "index": "9",
+            "quantity": 2.73,
+            "total_price": 807.75,
+            "unit_price": 40.56
+        },
+        {
+            "description": "strategize cross-media eyeballs",
+            "index": "6",
+            "quantity": 4.74,
+            "total_price": 556.37,
+            "unit_price": 49.24
+        }
+    ],
+    "seller": {
+        "address": "305 Regina Spurs West Michellefurt, SD 60806",
+        "company_name": "Freeman, Johnson and Rodriguez",
+        "vat_no": "ci04580555969"
+    }
+}

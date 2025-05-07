@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "9837 Joseph Route Nicoleborough, MH 44657"
+    },
+    "invoice": {
+        "bc_no": "cb33538",
+        "date": "16.09.2010",
+        "maturity_date": "24.05.2010",
+        "number": 878624
+    },
+    "products": [
+        {
+            "amount": 454.75,
+            "description": "aggregate clicks-and-mortar infrastructures",
+            "quantity": 3.66,
+            "unit_price": 79.35,
+            "vat_amount": 3.27
+        },
+        {
+            "amount": 316.71,
+            "description": "exploit value-added info-mediaries",
+            "quantity": 3.13,
+            "unit_price": 77.95,
+            "vat_amount": 3.91
+        },
+        {
+            "amount": 66.53,
+            "description": "benchmark cutting-edge portals",
+            "quantity": 5.64,
+            "unit_price": 40.62,
+            "vat_amount": 6.16
+        }
+    ],
+    "seller": {
+        "address": "PSC 8881, Box 6388 APO AA 90212"
+    },
+    "tax": {
+        "amount_excluding_tax": 119.19,
+        "amount_including_tax": 78.6,
+        "tax_amount": 20.26
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "47223 Philip Dam New Travisfurt, MN 59076",
+        "id": "AN034"
+    },
+    "invoice": {
+        "bc_no": "ps80842",
+        "currency_code": "XPF",
+        "date": "21.02.2005",
+        "due_date": "15.07.1991",
+        "number": 908144
+    },
+    "payment": {
+        "bank_name": "Wells, Alvarez and Ruiz",
+        "bic": "CSANGB3EI5F",
+        "iban": "PLZM29911687394693"
+    },
+    "products": [
+        {
+            "amount": 432.28,
+            "description": "monetize viral action-items",
+            "index": "2",
+            "price": 129.76,
+            "quantity": 9.56,
+            "tax_amount": 97.77,
+            "total_ttc": 130.46,
+            "vat_amount": 7.22
+        },
+        {
+            "amount": 466.47,
+            "description": "scale efficient paradigms",
+            "index": "7",
+            "price": 455.95,
+            "quantity": 7.92,
+            "tax_amount": 19.32,
+            "total_ttc": 271.99,
+            "vat_amount": 6.61
+        },
+        {
+            "amount": 51.05,
+            "description": "transform mission-critical e-tailers",
+            "index": "6",
+            "price": 255.0,
+            "quantity": 6.36,
+            "tax_amount": 18.63,
+            "total_ttc": 430.07,
+            "vat_amount": 0.73
+        }
+    ],
+    "seller": {
+        "name": "Anna Bishop"
+    },
+    "supplier": {
+        "address": "415 Barnes Pike Lake Peggy, TN 75306",
+        "name": "Jessica Myers"
+    },
+    "tax": {
+        "amount_excluding_tax": 70.62,
+        "amount_including_tax": 108.94,
+        "tax_amount": 23.13,
+        "total_ht": 434.28,
+        "total_ttc": 370.13
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "469 Alan Tunnel Apt. 291 East Nathan, LA 86852"
+    },
+    "invoice": {
+        "bc_no": "Qw02610",
+        "date": "10.12.1995",
+        "maturity_date": "26.11.1992",
+        "number": 606585
+    },
+    "products": [
+        {
+            "amount": 362.23,
+            "description": "harness cutting-edge e-markets",
+            "quantity": 3.44,
+            "unit_price": 67.04,
+            "vat_amount": 8.17
+        },
+        {
+            "amount": 395.19,
+            "description": "facilitate distributed technologies",
+            "quantity": 5.72,
+            "unit_price": 72.89,
+            "vat_amount": 1.27
+        },
+        {
+            "amount": 212.1,
+            "description": "synthesize open-source e-markets",
+            "quantity": 8.86,
+            "unit_price": 79.02,
+            "vat_amount": 5.09
+        },
+        {
+            "amount": 441.88,
+            "description": "iterate one-to-one supply-chains",
+            "quantity": 2.77,
+            "unit_price": 96.02,
+            "vat_amount": 1.48
+        }
+    ],
+    "seller": {
+        "address": "046 David Mount Apt. 506 Rodriguezport, RI 47676"
+    },
+    "tax": {
+        "amount_excluding_tax": 41.9,
+        "amount_including_tax": 176.88,
+        "tax_amount": 25.69
+    }
+}

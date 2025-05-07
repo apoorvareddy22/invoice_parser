@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "02613 Miller Circle Markfort, SD 50962"
+    },
+    "invoice": {
+        "bc_no": "xG94354",
+        "date": "15.04.1995",
+        "maturity_date": "06.06.1995",
+        "number": 935851
+    },
+    "products": [
+        {
+            "amount": 425.16,
+            "description": "re-contextualize next-generation networks",
+            "quantity": 2.26,
+            "unit_price": 17.4,
+            "vat_amount": 9.89
+        },
+        {
+            "amount": 259.87,
+            "description": "seize global e-commerce",
+            "quantity": 1.47,
+            "unit_price": 58.38,
+            "vat_amount": 3.64
+        },
+        {
+            "amount": 275.03,
+            "description": "deliver granular metrics",
+            "quantity": 1.33,
+            "unit_price": 89.67,
+            "vat_amount": 3.31
+        },
+        {
+            "amount": 113.88,
+            "description": "evolve end-to-end architectures",
+            "quantity": 4.74,
+            "unit_price": 10.33,
+            "vat_amount": 6.62
+        },
+        {
+            "amount": 329.81,
+            "description": "matrix e-business interfaces",
+            "quantity": 7.61,
+            "unit_price": 50.9,
+            "vat_amount": 4.86
+        }
+    ],
+    "seller": {
+        "address": "26251 Pitts Mountain Apt. 895 Madelinemouth, MH 53760"
+    },
+    "tax": {
+        "amount_excluding_tax": 69.87,
+        "amount_including_tax": 130.92,
+        "tax_amount": 26.87
+    }
+}

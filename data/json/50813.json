@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "64938 Clark Mission Gillton, KY 13187",
+        "id": "Zz384"
+    },
+    "invoice": {
+        "bc_no": "yh18003",
+        "currency_code": "BHD",
+        "date": "25.02.2008",
+        "due_date": "28.10.1995",
+        "number": 376306
+    },
+    "payment": {
+        "bank_name": "Hutchinson and Sons",
+        "bic": "POJTGBDG",
+        "iban": "JTSK78416216330605"
+    },
+    "products": [
+        {
+            "amount": 144.17,
+            "description": "grow ubiquitous paradigms",
+            "index": "7",
+            "price": 379.98,
+            "quantity": 3.26,
+            "tax_amount": 36.37,
+            "total_ttc": 167.84,
+            "vat_amount": 3.74
+        },
+        {
+            "amount": 189.04,
+            "description": "re-intermediate intuitive supply-chains",
+            "index": "1",
+            "price": 330.21,
+            "quantity": 1.23,
+            "tax_amount": 87.8,
+            "total_ttc": 104.76,
+            "vat_amount": 2.21
+        }
+    ],
+    "seller": {
+        "name": "Amber Robertson"
+    },
+    "supplier": {
+        "address": "2521 Michael Corners Suite 106 Lindafurt, MI 71023",
+        "name": "Daniel Murray"
+    },
+    "tax": {
+        "amount_excluding_tax": 104.91,
+        "amount_including_tax": 22.57,
+        "tax_amount": 12.62,
+        "total_ht": 456.69,
+        "total_ttc": 494.48
+    }
+}

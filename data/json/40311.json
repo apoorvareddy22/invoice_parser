@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "85453 James Knolls Apt. 733 Greenville, DC 18198"
+    },
+    "invoice": {
+        "bc_no": "UW95107",
+        "date": "17.04.1993",
+        "maturity_date": "13.12.1995",
+        "number": 988064
+    },
+    "products": [
+        {
+            "amount": 346.83,
+            "description": "unleash turn-key users",
+            "quantity": 5.49,
+            "unit_price": 21.82,
+            "vat_amount": 3.19
+        },
+        {
+            "amount": 46.6,
+            "description": "benchmark user-centric platforms",
+            "quantity": 8.92,
+            "unit_price": 42.7,
+            "vat_amount": 3.22
+        },
+        {
+            "amount": 62.09,
+            "description": "seize bricks-and-clicks markets",
+            "quantity": 5.16,
+            "unit_price": 15.79,
+            "vat_amount": 3.94
+        },
+        {
+            "amount": 22.03,
+            "description": "empower compelling e-services",
+            "quantity": 8.87,
+            "unit_price": 52.21,
+            "vat_amount": 1.92
+        },
+        {
+            "amount": 420.65,
+            "description": "unleash scalable convergence",
+            "quantity": 4.62,
+            "unit_price": 11.94,
+            "vat_amount": 10.85
+        }
+    ],
+    "seller": {
+        "address": "82956 Stacey Summit Apt. 278 West Jerryfurt, AK 73296"
+    },
+    "tax": {
+        "amount_excluding_tax": 58.49,
+        "amount_including_tax": 10.73,
+        "tax_amount": 20.35
+    }
+}

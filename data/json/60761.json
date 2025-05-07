@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "0981 Eugene Walks Apt. 222 West Micheleland, NH 61553",
+        "business_no": "Ke404",
+        "id": "TQ766"
+    },
+    "invoice": {
+        "date": "24.03.2006",
+        "number": "5985-2382"
+    },
+    "payment": {
+        "due_date": "24.06.1990",
+        "total": 521.1
+    },
+    "products": [
+        {
+            "amount": 306.49,
+            "description": "brand seamless action-items",
+            "quantity": 4.42,
+            "reference": "PY-105",
+            "unit_price": 69.01
+        },
+        {
+            "amount": 364.77,
+            "description": "engineer 24/365 synergies",
+            "quantity": 8.86,
+            "reference": "Gx-811",
+            "unit_price": 16.05
+        },
+        {
+            "amount": 430.88,
+            "description": "benchmark out-of-the-box experiences",
+            "quantity": 4.24,
+            "reference": "As-308",
+            "unit_price": 53.48
+        },
+        {
+            "amount": 417.11,
+            "description": "revolutionize best-of-breed applications",
+            "quantity": 4.08,
+            "reference": "Pv-750",
+            "unit_price": 98.06
+        },
+        {
+            "amount": 287.03,
+            "description": "benchmark real-time infrastructures",
+            "quantity": 4.3,
+            "reference": "zK-553",
+            "unit_price": 46.1
+        },
+        {
+            "amount": 34.01,
+            "description": "streamline impactful networks",
+            "quantity": 8.75,
+            "reference": "ZX-421",
+            "unit_price": 97.18
+        }
+    ],
+    "seller": {
+        "address": "1773 Coleman Forges Scottshire, KY 89846"
+    },
+    "tax": {
+        "base_ht": 314.95,
+        "regulations": 29.15,
+        "total_ht": 198.4,
+        "vat_amount": 102.1,
+        "vat_percentage": 10.69
+    }
+}

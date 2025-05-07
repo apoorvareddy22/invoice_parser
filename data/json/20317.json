@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "6016 Smith Tunnel Port Sandra, OH 39644",
+        "company_name": "Smith Ltd",
+        "email": "aramirez@example.org",
+        "name": "Kenneth Sosa",
+        "phone": "(755)717-7692"
+    },
+    "invoice": {
+        "date": "14.03.1993",
+        "due_date": "19.10.1999",
+        "number": "sab20152982965"
+    },
+    "payment": {
+        "account_number": 2037727167,
+        "bank_name": "Lawson-Nguyen",
+        "routing_number": 910557494
+    },
+    "products": [
+        {
+            "amount": 335.08,
+            "description": "syndicate clicks-and-mortar experiences",
+            "index": "6",
+            "quantity": 1.03,
+            "unit_price": 60.0
+        },
+        {
+            "amount": 269.69,
+            "description": "enable dot-com ROI",
+            "index": "10",
+            "quantity": 3.85,
+            "unit_price": 45.18
+        },
+        {
+            "amount": 436.1,
+            "description": "reinvent customized channels",
+            "index": "6",
+            "quantity": 2.92,
+            "unit_price": 68.29
+        },
+        {
+            "amount": 154.13,
+            "description": "exploit efficient bandwidth",
+            "index": "5",
+            "quantity": 2.58,
+            "unit_price": 33.48
+        },
+        {
+            "amount": 166.0,
+            "description": "visualize efficient partnerships",
+            "index": "9",
+            "quantity": 6.89,
+            "unit_price": 20.81
+        }
+    ],
+    "seller": {
+        "address": "39919 Cruz Avenue Apt. 465 Port Dawnside, UT 64006",
+        "company_name": "Martinez Inc",
+        "email": "tdyer@example.com"
+    }
+}

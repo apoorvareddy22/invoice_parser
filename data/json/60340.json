@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "338 Johnson Cove Mortonville, SC 49211",
+        "business_no": "sQ785",
+        "id": "xN309"
+    },
+    "invoice": {
+        "date": "24.03.2008",
+        "number": "7788-2334"
+    },
+    "payment": {
+        "due_date": "27.02.2001",
+        "total": 704.78
+    },
+    "products": [
+        {
+            "amount": 127.62,
+            "description": "innovate revolutionary supply-chains",
+            "quantity": 3.05,
+            "reference": "kr-579",
+            "unit_price": 19.6
+        },
+        {
+            "amount": 257.28,
+            "description": "e-enable B2B relationships",
+            "quantity": 7.33,
+            "reference": "yQ-561",
+            "unit_price": 62.97
+        },
+        {
+            "amount": 204.96,
+            "description": "incubate sticky web-readiness",
+            "quantity": 4.97,
+            "reference": "lI-535",
+            "unit_price": 58.39
+        }
+    ],
+    "seller": {
+        "address": "9998 Fisher Points Lake Ericland, PW 08822"
+    },
+    "tax": {
+        "base_ht": 346.84,
+        "regulations": 16.15,
+        "total_ht": 462.49,
+        "vat_amount": 61.77,
+        "vat_percentage": 27.33
+    }
+}

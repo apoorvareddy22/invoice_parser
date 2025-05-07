@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "386 Steven Roads Lake Robert, OH 97798",
+        "id": "Xz849"
+    },
+    "invoice": {
+        "bc_no": "Eu61957",
+        "currency_code": "BMD",
+        "date": "02.03.2001",
+        "due_date": "07.09.2017",
+        "number": 225888
+    },
+    "payment": {
+        "bank_name": "Cantrell-Wise",
+        "bic": "LGCBGB3XCMD",
+        "iban": "GSAK75729938495089"
+    },
+    "products": [
+        {
+            "amount": 371.93,
+            "description": "incubate out-of-the-box e-markets",
+            "index": "10",
+            "price": 121.0,
+            "quantity": 1.79,
+            "tax_amount": 51.31,
+            "total_ttc": 326.99,
+            "vat_amount": 11.53
+        },
+        {
+            "amount": 450.55,
+            "description": "incentivize global e-business",
+            "index": "2",
+            "price": 495.71,
+            "quantity": 4.03,
+            "tax_amount": 62.22,
+            "total_ttc": 327.99,
+            "vat_amount": 2.85
+        },
+        {
+            "amount": 30.71,
+            "description": "deploy turn-key users",
+            "index": "1",
+            "price": 340.23,
+            "quantity": 6.59,
+            "tax_amount": 95.9,
+            "total_ttc": 381.63,
+            "vat_amount": 3.44
+        }
+    ],
+    "seller": {
+        "name": "Stacie Gibson"
+    },
+    "supplier": {
+        "address": "PSC 4528, Box 6425 APO AA 28083",
+        "name": "Christopher Wright"
+    },
+    "tax": {
+        "amount_excluding_tax": 98.23,
+        "amount_including_tax": 112.08,
+        "tax_amount": 19.08,
+        "total_ht": 378.81,
+        "total_ttc": 169.64
+    }
+}

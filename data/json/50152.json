@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "USNS Robles FPO AE 22592",
+        "id": "IM817"
+    },
+    "invoice": {
+        "bc_no": "lO55121",
+        "currency_code": "AED",
+        "date": "09.11.2015",
+        "due_date": "26.02.1996",
+        "number": 529783
+    },
+    "payment": {
+        "bank_name": "Estrada-Gonzalez",
+        "bic": "CVJVGBX31B5",
+        "iban": "ZDZG51895978434416"
+    },
+    "products": [
+        {
+            "amount": 31.81,
+            "description": "exploit e-business niches",
+            "index": "5",
+            "price": 343.56,
+            "quantity": 7.15,
+            "tax_amount": 84.42,
+            "total_ttc": 456.18,
+            "vat_amount": 6.56
+        },
+        {
+            "amount": 496.95,
+            "description": "utilize real-time content",
+            "index": "1",
+            "price": 291.51,
+            "quantity": 1.14,
+            "tax_amount": 50.06,
+            "total_ttc": 170.55,
+            "vat_amount": 10.84
+        },
+        {
+            "amount": 90.24,
+            "description": "target robust partnerships",
+            "index": "5",
+            "price": 376.32,
+            "quantity": 3.66,
+            "tax_amount": 30.94,
+            "total_ttc": 362.79,
+            "vat_amount": 7.14
+        },
+        {
+            "amount": 239.87,
+            "description": "leverage efficient communities",
+            "index": "6",
+            "price": 257.39,
+            "quantity": 7.11,
+            "tax_amount": 36.85,
+            "total_ttc": 340.84,
+            "vat_amount": 8.15
+        }
+    ],
+    "seller": {
+        "name": "Micheal Owens"
+    },
+    "supplier": {
+        "address": "USNS Pruitt FPO AE 31409",
+        "name": "Eric Young"
+    },
+    "tax": {
+        "amount_excluding_tax": 104.61,
+        "amount_including_tax": 162.63,
+        "tax_amount": 17.93,
+        "total_ht": 343.72,
+        "total_ttc": 250.16
+    }
+}

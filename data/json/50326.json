@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "19106 Michael Groves Apt. 097 Lake Donnaport, CA 55587",
+        "id": "JC746"
+    },
+    "invoice": {
+        "bc_no": "Ml80645",
+        "currency_code": "ILS",
+        "date": "28.05.2022",
+        "due_date": "23.10.2012",
+        "number": 273376
+    },
+    "payment": {
+        "bank_name": "Coleman-Mason",
+        "bic": "FOQTGBUHH6H",
+        "iban": "HLAI55833113028325"
+    },
+    "products": [
+        {
+            "amount": 147.53,
+            "description": "envisioneer vertical web-readiness",
+            "index": "8",
+            "price": 181.88,
+            "quantity": 6.22,
+            "tax_amount": 64.88,
+            "total_ttc": 284.6,
+            "vat_amount": 7.97
+        },
+        {
+            "amount": 129.81,
+            "description": "deliver robust e-business",
+            "index": "9",
+            "price": 470.32,
+            "quantity": 8.2,
+            "tax_amount": 43.81,
+            "total_ttc": 205.42,
+            "vat_amount": 1.96
+        },
+        {
+            "amount": 321.63,
+            "description": "leverage strategic vortals",
+            "index": "9",
+            "price": 323.17,
+            "quantity": 7.85,
+            "tax_amount": 75.33,
+            "total_ttc": 264.92,
+            "vat_amount": 8.98
+        }
+    ],
+    "seller": {
+        "name": "Nicole Reyes"
+    },
+    "supplier": {
+        "address": "0636 Colton Valleys Port Ashley, PR 01419",
+        "name": "Amanda Harris"
+    },
+    "tax": {
+        "amount_excluding_tax": 162.28,
+        "amount_including_tax": 121.24,
+        "tax_amount": 20.13,
+        "total_ht": 128.74,
+        "total_ttc": 177.13
+    }
+}

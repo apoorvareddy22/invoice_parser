@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "471 Turner Mountains Lake Kimberlyshire, VI 64045",
+        "company_name": "White and Sons",
+        "email": "benjamingarrett@example.org",
+        "name": "Tina Jackson",
+        "phone": "382.800.6276x752"
+    },
+    "invoice": {
+        "date": "11.08.2010",
+        "due_date": "08.02.2022",
+        "number": "CbO42165841464"
+    },
+    "payment": {
+        "account_number": 9142394876,
+        "bank_name": "Estrada and Sons",
+        "routing_number": 620320722
+    },
+    "products": [
+        {
+            "amount": 85.2,
+            "description": "integrate scalable networks",
+            "index": "7",
+            "quantity": 5.91,
+            "unit_price": 72.71
+        },
+        {
+            "amount": 214.68,
+            "description": "visualize front-end paradigms",
+            "index": "7",
+            "quantity": 3.59,
+            "unit_price": 86.91
+        }
+    ],
+    "seller": {
+        "address": "94600 Kyle Corner Apt. 241 Sheaborough, MA 94149",
+        "company_name": "Braun-Young",
+        "email": "garciatravis@example.com"
+    }
+}

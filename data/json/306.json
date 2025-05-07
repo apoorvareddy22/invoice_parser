@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "44202 Tamara Spur Hudsonstad, ND 03934",
+        "company_name": "Hall LLC",
+        "country": "Cuba",
+        "name": "Tiffany Salas"
+    },
+    "invoice": {
+        "date": "03.10.2008",
+        "number": 358761
+    },
+    "payment": {
+        "discount_amount": 41.65,
+        "discount_percentage": 10.82,
+        "due": 74.65,
+        "sub_total": 58.3,
+        "total": 238.03
+    },
+    "products": [
+        {
+            "description": "visualize ubiquitous infrastructures",
+            "index": "4",
+            "quantity": 8.69,
+            "total_price": 409.22,
+            "unit_price": 79.34
+        },
+        {
+            "description": "drive e-business action-items",
+            "index": "2",
+            "quantity": 4.71,
+            "total_price": 475.08,
+            "unit_price": 21.02
+        }
+    ],
+    "seller": {
+        "address": "USCGC Stone FPO AA 08720",
+        "company_name": "Moore-Vega",
+        "vat_no": "if00515771591"
+    }
+}

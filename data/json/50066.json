@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "4727 Juan Shoal Apt. 021 Charlesville, SD 66004",
+        "id": "og305"
+    },
+    "invoice": {
+        "bc_no": "jo51964",
+        "currency_code": "BWP",
+        "date": "19.12.2003",
+        "due_date": "14.11.2009",
+        "number": 961464
+    },
+    "payment": {
+        "bank_name": "Porter Ltd",
+        "bic": "LIRLGBDYGLC",
+        "iban": "NRSY80312041229399"
+    },
+    "products": [
+        {
+            "amount": 386.16,
+            "description": "seize clicks-and-mortar synergies",
+            "index": "7",
+            "price": 196.31,
+            "quantity": 5.64,
+            "tax_amount": 69.14,
+            "total_ttc": 171.83,
+            "vat_amount": 0.65
+        },
+        {
+            "amount": 106.58,
+            "description": "re-contextualize real-time eyeballs",
+            "index": "8",
+            "price": 325.47,
+            "quantity": 9.67,
+            "tax_amount": 59.3,
+            "total_ttc": 225.4,
+            "vat_amount": 4.66
+        },
+        {
+            "amount": 286.05,
+            "description": "generate leading-edge interfaces",
+            "index": "5",
+            "price": 209.9,
+            "quantity": 1.39,
+            "tax_amount": 82.65,
+            "total_ttc": 281.14,
+            "vat_amount": 1.05
+        },
+        {
+            "amount": 213.25,
+            "description": "transform bricks-and-clicks ROI",
+            "index": "7",
+            "price": 9.68,
+            "quantity": 2.59,
+            "tax_amount": 80.77,
+            "total_ttc": 365.08,
+            "vat_amount": 12.48
+        },
+        {
+            "amount": 61.16,
+            "description": "benchmark robust functionalities",
+            "index": "1",
+            "price": 394.45,
+            "quantity": 7.62,
+            "tax_amount": 99.66,
+            "total_ttc": 169.41,
+            "vat_amount": 3.03
+        }
+    ],
+    "seller": {
+        "name": "Sean Flores"
+    },
+    "supplier": {
+        "address": "055 Blevins Cliff Port Elizabeth, VA 77027",
+        "name": "Jennifer Fowler"
+    },
+    "tax": {
+        "amount_excluding_tax": 181.48,
+        "amount_including_tax": 129.64,
+        "tax_amount": 12.29,
+        "total_ht": 483.62,
+        "total_ttc": 141.19
+    }
+}

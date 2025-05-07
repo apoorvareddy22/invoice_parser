@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "6580 Hickman Drive Suite 161 Tracybury, FM 45970",
+        "company_name": "Jenkins LLC",
+        "email": "ramospatricia@example.org",
+        "name": "Douglas Gibson",
+        "phone": "355-415-9256"
+    },
+    "invoice": {
+        "date": "13.10.2022",
+        "due_date": "09.04.2021",
+        "number": "pRd44428302923"
+    },
+    "payment": {
+        "account_number": 9771186680,
+        "bank_name": "Richardson, Gonzales and Bryan",
+        "routing_number": 363679392
+    },
+    "products": [
+        {
+            "amount": 428.32,
+            "description": "deploy extensible infrastructures",
+            "index": "7",
+            "quantity": 1.67,
+            "unit_price": 29.05
+        },
+        {
+            "amount": 238.24,
+            "description": "synergize synergistic e-business",
+            "index": "10",
+            "quantity": 6.29,
+            "unit_price": 58.25
+        },
+        {
+            "amount": 31.65,
+            "description": "architect interactive action-items",
+            "index": "5",
+            "quantity": 1.11,
+            "unit_price": 97.64
+        },
+        {
+            "amount": 193.45,
+            "description": "empower dynamic synergies",
+            "index": "8",
+            "quantity": 5.56,
+            "unit_price": 43.93
+        }
+    ],
+    "seller": {
+        "address": "6299 John Burgs Apt. 208 Jenniferport, ND 02686",
+        "company_name": "Mcconnell Ltd",
+        "email": "ohicks@example.com"
+    }
+}

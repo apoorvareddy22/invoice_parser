@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "46515 Dawn Lane Apt. 166 New Patriciaville, ME 14758",
+        "company_name": "Beard, Middleton and Miller",
+        "email": "pmurphy@example.com",
+        "name": "Carol Robinson",
+        "phone": "599.890.5029"
+    },
+    "invoice": {
+        "date": "02.05.1990",
+        "due_date": "23.10.1999",
+        "number": "TOH11336726902"
+    },
+    "payment": {
+        "account_number": 7222075004,
+        "bank_name": "Smith Ltd",
+        "routing_number": 917637077
+    },
+    "products": [
+        {
+            "amount": 367.65,
+            "description": "cultivate real-time web-readiness",
+            "index": "4",
+            "quantity": 3.78,
+            "unit_price": 45.69
+        },
+        {
+            "amount": 122.26,
+            "description": "orchestrate frictionless methodologies",
+            "index": "7",
+            "quantity": 5.21,
+            "unit_price": 25.75
+        },
+        {
+            "amount": 302.42,
+            "description": "reinvent turn-key e-markets",
+            "index": "2",
+            "quantity": 4.17,
+            "unit_price": 78.87
+        },
+        {
+            "amount": 37.53,
+            "description": "transform distributed architectures",
+            "index": "7",
+            "quantity": 3.86,
+            "unit_price": 40.93
+        },
+        {
+            "amount": 402.8,
+            "description": "benchmark bricks-and-clicks action-items",
+            "index": "9",
+            "quantity": 1.57,
+            "unit_price": 65.83
+        }
+    ],
+    "seller": {
+        "address": "78701 James Stream North Aaron, NH 90764",
+        "company_name": "Baker-Martin",
+        "email": "dwolfe@example.net"
+    }
+}

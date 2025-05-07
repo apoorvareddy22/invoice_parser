@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "886 Danny Trail North James, GU 57580"
+    },
+    "invoice": {
+        "bc_no": "Ak13439",
+        "date": "19.08.2008",
+        "maturity_date": "27.07.2015",
+        "number": 438659
+    },
+    "products": [
+        {
+            "amount": 35.19,
+            "description": "matrix innovative synergies",
+            "quantity": 6.14,
+            "unit_price": 31.3,
+            "vat_amount": 3.26
+        }
+    ],
+    "seller": {
+        "address": "621 Alexander Prairie Lake Jennifer, VA 72478"
+    },
+    "tax": {
+        "amount_excluding_tax": 58.43,
+        "amount_including_tax": 143.2,
+        "tax_amount": 27.63
+    }
+}

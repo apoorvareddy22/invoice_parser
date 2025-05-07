@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "95453 Nicholson Field Suite 165 Jodyfurt, MH 56030",
+        "company_name": "Sanchez-Davis",
+        "email": "arthurtaylor@example.net",
+        "name": "Ryan Mccoy",
+        "phone": "7143544720"
+    },
+    "invoice": {
+        "date": "21.05.2016",
+        "due_date": "31.03.2004",
+        "number": "HwO41011858692"
+    },
+    "payment": {
+        "account_number": 9777654091,
+        "bank_name": "Brown Ltd",
+        "routing_number": 712605405
+    },
+    "products": [
+        {
+            "amount": 479.01,
+            "description": "empower innovative experiences",
+            "index": "10",
+            "quantity": 7.65,
+            "unit_price": 27.9
+        },
+        {
+            "amount": 418.33,
+            "description": "re-contextualize killer web-readiness",
+            "index": "8",
+            "quantity": 8.36,
+            "unit_price": 91.94
+        }
+    ],
+    "seller": {
+        "address": "6653 Newton Divide Suite 215 North Georgeville, MA 71307",
+        "company_name": "Martinez-Cooper",
+        "email": "fitzpatrickconnie@example.com"
+    }
+}

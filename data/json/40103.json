@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "USNS Short FPO AA 15020"
+    },
+    "invoice": {
+        "bc_no": "mj62205",
+        "date": "25.03.2010",
+        "maturity_date": "07.12.2017",
+        "number": 519436
+    },
+    "products": [
+        {
+            "amount": 223.2,
+            "description": "strategize rich architectures",
+            "quantity": 3.45,
+            "unit_price": 79.26,
+            "vat_amount": 0.44
+        },
+        {
+            "amount": 435.37,
+            "description": "cultivate wireless users",
+            "quantity": 6.34,
+            "unit_price": 78.71,
+            "vat_amount": 2.74
+        },
+        {
+            "amount": 340.45,
+            "description": "extend innovative mindshare",
+            "quantity": 1.0,
+            "unit_price": 33.59,
+            "vat_amount": 0.47
+        }
+    ],
+    "seller": {
+        "address": "82902 Carlson Mountain East Becky, MI 51583"
+    },
+    "tax": {
+        "amount_excluding_tax": 34.0,
+        "amount_including_tax": 32.42,
+        "tax_amount": 14.63
+    }
+}

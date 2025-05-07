@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "1331 Gina Burg East Judithbury, ME 27694",
+        "business_no": "jP891",
+        "id": "mK514"
+    },
+    "invoice": {
+        "date": "17.01.1999",
+        "number": "3368-5069"
+    },
+    "payment": {
+        "due_date": "17.04.1999",
+        "total": 300.34
+    },
+    "products": [
+        {
+            "amount": 293.43,
+            "description": "optimize killer info-mediaries",
+            "quantity": 7.08,
+            "reference": "iz-057",
+            "unit_price": 84.29
+        },
+        {
+            "amount": 346.0,
+            "description": "morph cross-media eyeballs",
+            "quantity": 2.83,
+            "reference": "Ri-423",
+            "unit_price": 44.36
+        },
+        {
+            "amount": 277.65,
+            "description": "redefine back-end relationships",
+            "quantity": 2.67,
+            "reference": "ij-348",
+            "unit_price": 43.46
+        }
+    ],
+    "seller": {
+        "address": "818 Jordan Roads North Patricia, OH 88672"
+    },
+    "tax": {
+        "base_ht": 469.25,
+        "regulations": 22.34,
+        "total_ht": 109.25,
+        "vat_amount": 174.6,
+        "vat_percentage": 23.0
+    }
+}

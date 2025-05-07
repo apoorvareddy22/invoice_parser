@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "5461 Melvin Track North Joannaside, AZ 32443",
+        "company_name": "Andrade and Sons",
+        "email": "ycarpenter@example.net",
+        "name": "Michael Rodriguez",
+        "phone": "270-678-5149"
+    },
+    "invoice": {
+        "date": "25.03.2022",
+        "due_date": "27.07.2022",
+        "number": "FEg27630259259"
+    },
+    "payment": {
+        "account_number": 6723960866,
+        "bank_name": "Fox, Green and Mitchell",
+        "routing_number": 805611510
+    },
+    "products": [
+        {
+            "amount": 482.77,
+            "description": "target B2C synergies",
+            "index": "5",
+            "quantity": 3.81,
+            "unit_price": 68.68
+        }
+    ],
+    "seller": {
+        "address": "28714 Romero Pass Lake Michelletown, KS 89018",
+        "company_name": "Bennett-David",
+        "email": "hayesanna@example.net"
+    }
+}

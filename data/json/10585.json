@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "7611 Robert Park Apt. 609 Marissastad, IN 96758",
+        "email": "fcarter@example.org",
+        "phone": "+1-603-361-6686x06435",
+        "vat_no": "ph52960905478"
+    },
+    "invoice": {
+        "date": "21.10.1994",
+        "due_date": "27.04.2017",
+        "market_reference": 306009,
+        "notes": "morph revolutionary convergence",
+        "number": "4711-7918",
+        "reference": 408966,
+        "vat_no": "Gs01169470812"
+    },
+    "payment": {
+        "net_total": 41.4,
+        "total": 224.22
+    },
+    "products": [
+        {
+            "amount": 16.83,
+            "description": "productize e-business e-commerce",
+            "hours": 8.66,
+            "rate": 7.34
+        },
+        {
+            "amount": 50.53,
+            "description": "engineer holistic synergies",
+            "hours": 8.1,
+            "rate": 8.32
+        },
+        {
+            "amount": 247.31,
+            "description": "reinvent rich technologies",
+            "hours": 9.03,
+            "rate": 8.56
+        },
+        {
+            "amount": 381.02,
+            "description": "brand integrated platforms",
+            "hours": 6.27,
+            "rate": 8.88
+        },
+        {
+            "amount": 365.79,
+            "description": "productize wireless bandwidth",
+            "hours": 5.54,
+            "rate": 8.51
+        },
+        {
+            "amount": 406.5,
+            "description": "redefine next-generation web services",
+            "hours": 5.82,
+            "rate": 6.89
+        },
+        {
+            "amount": 267.07,
+            "description": "scale clicks-and-mortar action-items",
+            "hours": 7.07,
+            "rate": 7.19
+        }
+    ],
+    "seller": {
+        "address": "7324 John Mountains Apt. 335 West Karenhaven, NJ 79473",
+        "email": "stokesgabrielle@example.org",
+        "name": "Amy Lopez"
+    },
+    "tax": {
+        "base": 15.51,
+        "tax_amount": 14.66,
+        "total_tax": 14.21
+    }
+}

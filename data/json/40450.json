@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "51979 Victor Valleys Apt. 390 North William, MD 30067"
+    },
+    "invoice": {
+        "bc_no": "gp50325",
+        "date": "11.02.1997",
+        "maturity_date": "06.03.2013",
+        "number": 109873
+    },
+    "products": [
+        {
+            "amount": 40.37,
+            "description": "streamline strategic synergies",
+            "quantity": 5.93,
+            "unit_price": 44.96,
+            "vat_amount": 3.71
+        },
+        {
+            "amount": 190.11,
+            "description": "disintermediate frictionless niches",
+            "quantity": 3.23,
+            "unit_price": 93.11,
+            "vat_amount": 10.81
+        }
+    ],
+    "seller": {
+        "address": "4477 Park Way Heatherview, NE 02215"
+    },
+    "tax": {
+        "amount_excluding_tax": 124.51,
+        "amount_including_tax": 187.21,
+        "tax_amount": 11.27
+    }
+}

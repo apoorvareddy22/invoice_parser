@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "429 Curtis Way Robertchester, PA 01598",
+        "id": "QZ676"
+    },
+    "invoice": {
+        "bc_no": "bz98873",
+        "currency_code": "SPL",
+        "date": "26.04.1997",
+        "due_date": "29.10.2009",
+        "number": 372364
+    },
+    "payment": {
+        "bank_name": "Morales and Sons",
+        "bic": "CTCEGB6O",
+        "iban": "TGBP17548499256815"
+    },
+    "products": [
+        {
+            "amount": 311.1,
+            "description": "synergize global eyeballs",
+            "index": "8",
+            "price": 25.07,
+            "quantity": 6.08,
+            "tax_amount": 88.38,
+            "total_ttc": 403.41,
+            "vat_amount": 4.7
+        }
+    ],
+    "seller": {
+        "name": "Heather Tyler"
+    },
+    "supplier": {
+        "address": "912 Lindsey Plains Suite 136 North Josemouth, KS 44961",
+        "name": "Scott Mitchell"
+    },
+    "tax": {
+        "amount_excluding_tax": 79.6,
+        "amount_including_tax": 160.81,
+        "tax_amount": 14.5,
+        "total_ht": 459.68,
+        "total_ttc": 193.56
+    }
+}

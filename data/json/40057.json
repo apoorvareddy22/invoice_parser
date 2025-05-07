@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "17915 Bridges Harbors South Brian, IA 96099"
+    },
+    "invoice": {
+        "bc_no": "FT48257",
+        "date": "20.02.2014",
+        "maturity_date": "01.05.2022",
+        "number": 708495
+    },
+    "products": [
+        {
+            "amount": 258.3,
+            "description": "unleash one-to-one portals",
+            "quantity": 8.63,
+            "unit_price": 94.27,
+            "vat_amount": 2.24
+        },
+        {
+            "amount": 58.91,
+            "description": "brand distributed portals",
+            "quantity": 8.2,
+            "unit_price": 88.94,
+            "vat_amount": 5.94
+        }
+    ],
+    "seller": {
+        "address": "83582 Williams Street Lake Brittanyshire, SC 69690"
+    },
+    "tax": {
+        "amount_excluding_tax": 127.17,
+        "amount_including_tax": 51.38,
+        "tax_amount": 21.26
+    }
+}

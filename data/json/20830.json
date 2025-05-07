@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "670 Betty Burg Herringborough, AS 29384",
+        "company_name": "Clark Ltd",
+        "email": "odavis@example.com",
+        "name": "Samantha Johnson",
+        "phone": "715.410.8105"
+    },
+    "invoice": {
+        "date": "23.06.2010",
+        "due_date": "13.03.2008",
+        "number": "Yrf58276375696"
+    },
+    "payment": {
+        "account_number": 6016319559,
+        "bank_name": "Long-Hobbs",
+        "routing_number": 844554645
+    },
+    "products": [
+        {
+            "amount": 249.19,
+            "description": "architect enterprise web services",
+            "index": "5",
+            "quantity": 8.85,
+            "unit_price": 37.41
+        },
+        {
+            "amount": 390.89,
+            "description": "integrate bleeding-edge systems",
+            "index": "2",
+            "quantity": 7.92,
+            "unit_price": 61.89
+        }
+    ],
+    "seller": {
+        "address": "PSC 0283, Box 3606 APO AP 73832",
+        "company_name": "Mason-Cain",
+        "email": "cliffordjohnson@example.net"
+    }
+}

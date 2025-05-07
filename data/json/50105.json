@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "270 Courtney Plaza West Anthonyhaven, DC 73703",
+        "id": "hK500"
+    },
+    "invoice": {
+        "bc_no": "GB81323",
+        "currency_code": "XAF",
+        "date": "31.05.1990",
+        "due_date": "17.06.2011",
+        "number": 593206
+    },
+    "payment": {
+        "bank_name": "Wade-Shepard",
+        "bic": "RMGCGB4O",
+        "iban": "BYGR04223511174375"
+    },
+    "products": [
+        {
+            "amount": 91.62,
+            "description": "transform open-source systems",
+            "index": "10",
+            "price": 196.79,
+            "quantity": 7.69,
+            "tax_amount": 95.39,
+            "total_ttc": 189.76,
+            "vat_amount": 3.1
+        }
+    ],
+    "seller": {
+        "name": "Brittany Garcia"
+    },
+    "supplier": {
+        "address": "8772 Antonio Turnpike West Ryan, MI 42844",
+        "name": "John Wright"
+    },
+    "tax": {
+        "amount_excluding_tax": 101.65,
+        "amount_including_tax": 51.89,
+        "tax_amount": 23.78,
+        "total_ht": 413.34,
+        "total_ttc": 488.18
+    }
+}

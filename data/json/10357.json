@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "22498 Calderon Junctions Suite 071 Port Kevinmouth, AR 50748",
+        "email": "darrencohen@example.com",
+        "phone": "940.813.6188x3662",
+        "vat_no": "sv78987679749"
+    },
+    "invoice": {
+        "date": "05.02.2004",
+        "due_date": "03.10.2018",
+        "market_reference": 429332,
+        "notes": "empower B2C markets",
+        "number": "1045-2385",
+        "reference": 164541,
+        "vat_no": "zt46214890484"
+    },
+    "payment": {
+        "net_total": 48.34,
+        "total": 591.59
+    },
+    "products": [
+        {
+            "amount": 84.56,
+            "description": "leverage one-to-one e-commerce",
+            "hours": 1.22,
+            "rate": 4.07
+        }
+    ],
+    "seller": {
+        "address": "8594 Hendricks Alley West Emma, NJ 99200",
+        "email": "leonjoseph@example.net",
+        "name": "Robert Montes"
+    },
+    "tax": {
+        "base": 22.15,
+        "tax_amount": 14.24,
+        "total_tax": 23.03
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "73044 Potter Key Suite 103 Johnsontown, NE 71303",
+        "company_name": "Rojas-Adams",
+        "email": "darrell92@example.com",
+        "name": "Scott Mueller",
+        "phone": "4566904253"
+    },
+    "invoice": {
+        "date": "16.02.2016",
+        "due_date": "29.11.2014",
+        "number": "dJi36418103866"
+    },
+    "payment": {
+        "account_number": 1107078197,
+        "bank_name": "Johnson, Norton and Taylor",
+        "routing_number": 104048059
+    },
+    "products": [
+        {
+            "amount": 278.61,
+            "description": "matrix killer schemas",
+            "index": "3",
+            "quantity": 8.92,
+            "unit_price": 92.67
+        },
+        {
+            "amount": 335.28,
+            "description": "productize killer users",
+            "index": "3",
+            "quantity": 5.15,
+            "unit_price": 47.7
+        },
+        {
+            "amount": 270.65,
+            "description": "seize visionary web services",
+            "index": "5",
+            "quantity": 3.95,
+            "unit_price": 33.02
+        },
+        {
+            "amount": 243.24,
+            "description": "deliver enterprise e-services",
+            "index": "2",
+            "quantity": 6.23,
+            "unit_price": 59.83
+        },
+        {
+            "amount": 201.97,
+            "description": "orchestrate strategic communities",
+            "index": "7",
+            "quantity": 6.71,
+            "unit_price": 40.7
+        },
+        {
+            "amount": 48.0,
+            "description": "transition 24/365 ROI",
+            "index": "10",
+            "quantity": 1.0,
+            "unit_price": 48.88
+        }
+    ],
+    "seller": {
+        "address": "39428 Smith Meadows Suite 974 Lewisshire, PW 03993",
+        "company_name": "Perez-West",
+        "email": "ltorres@example.org"
+    }
+}

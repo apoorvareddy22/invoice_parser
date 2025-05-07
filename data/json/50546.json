@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "53421 Powell Crescent Suite 534 Lake Javierland, NV 48332",
+        "id": "kW332"
+    },
+    "invoice": {
+        "bc_no": "Zq69409",
+        "currency_code": "XPF",
+        "date": "26.05.2011",
+        "due_date": "13.08.2016",
+        "number": 545544
+    },
+    "payment": {
+        "bank_name": "Ortiz-Jones",
+        "bic": "EHJHGB566TT",
+        "iban": "MZYS51220977531766"
+    },
+    "products": [
+        {
+            "amount": 79.39,
+            "description": "mesh 24/7 architectures",
+            "index": "2",
+            "price": 459.47,
+            "quantity": 6.15,
+            "tax_amount": 98.22,
+            "total_ttc": 113.74,
+            "vat_amount": 11.22
+        },
+        {
+            "amount": 155.17,
+            "description": "e-enable innovative niches",
+            "index": "8",
+            "price": 247.65,
+            "quantity": 5.27,
+            "tax_amount": 88.18,
+            "total_ttc": 338.77,
+            "vat_amount": 0.03
+        },
+        {
+            "amount": 61.3,
+            "description": "enhance enterprise architectures",
+            "index": "10",
+            "price": 62.97,
+            "quantity": 7.58,
+            "tax_amount": 57.8,
+            "total_ttc": 375.89,
+            "vat_amount": 0.99
+        },
+        {
+            "amount": 233.41,
+            "description": "iterate e-business functionalities",
+            "index": "5",
+            "price": 423.63,
+            "quantity": 6.51,
+            "tax_amount": 43.71,
+            "total_ttc": 332.51,
+            "vat_amount": 1.59
+        },
+        {
+            "amount": 347.47,
+            "description": "envisioneer mission-critical schemas",
+            "index": "6",
+            "price": 410.01,
+            "quantity": 8.61,
+            "tax_amount": 60.07,
+            "total_ttc": 487.59,
+            "vat_amount": 1.13
+        },
+        {
+            "amount": 410.71,
+            "description": "re-intermediate scalable supply-chains",
+            "index": "10",
+            "price": 437.9,
+            "quantity": 7.51,
+            "tax_amount": 29.03,
+            "total_ttc": 143.38,
+            "vat_amount": 4.27
+        },
+        {
+            "amount": 55.51,
+            "description": "streamline killer infrastructures",
+            "index": "5",
+            "price": 40.84,
+            "quantity": 9.67,
+            "tax_amount": 85.18,
+            "total_ttc": 348.22,
+            "vat_amount": 2.67
+        }
+    ],
+    "seller": {
+        "name": "Clayton Boyle"
+    },
+    "supplier": {
+        "address": "169 Thomas Garden Johnsonshire, VT 09246",
+        "name": "Derek Chen"
+    },
+    "tax": {
+        "amount_excluding_tax": 171.31,
+        "amount_including_tax": 62.34,
+        "tax_amount": 29.71,
+        "total_ht": 184.66,
+        "total_ttc": 460.12
+    }
+}

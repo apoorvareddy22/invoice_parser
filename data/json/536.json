@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "9460 Tina Gardens Apt. 353 North Emily, PA 73916",
+        "company_name": "Hill, Rowe and Peters",
+        "country": "United States of America",
+        "name": "Steven Thomas"
+    },
+    "invoice": {
+        "date": "19.11.2022",
+        "number": 171207
+    },
+    "payment": {
+        "discount_amount": 17.79,
+        "discount_percentage": 13.91,
+        "due": 170.91,
+        "sub_total": 42.72,
+        "total": 991.18
+    },
+    "products": [
+        {
+            "description": "leverage scalable synergies",
+            "index": "4",
+            "quantity": 6.31,
+            "total_price": 589.63,
+            "unit_price": 54.57
+        },
+        {
+            "description": "streamline web-enabled portals",
+            "index": "10",
+            "quantity": 2.07,
+            "total_price": 80.21,
+            "unit_price": 24.57
+        }
+    ],
+    "seller": {
+        "address": "465 Ashley Pass Apt. 919 Ortizside, WA 96667",
+        "company_name": "Armstrong, Thompson and Patel",
+        "vat_no": "Cc58948822267"
+    }
+}

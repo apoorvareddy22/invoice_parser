@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "USCGC Davis FPO AP 74165",
+        "email": "deborah22@example.net",
+        "phone": "976-554-8335x0773",
+        "vat_no": "Yk70144417814"
+    },
+    "invoice": {
+        "date": "25.11.2008",
+        "due_date": "22.02.1996",
+        "market_reference": 104226,
+        "notes": "synergize bleeding-edge communities",
+        "number": "2474-8394",
+        "reference": 417762,
+        "vat_no": "ej63698185403"
+    },
+    "payment": {
+        "net_total": 169.55,
+        "total": 122.2
+    },
+    "products": [
+        {
+            "amount": 265.44,
+            "description": "extend impactful technologies",
+            "hours": 1.8,
+            "rate": 4.79
+        },
+        {
+            "amount": 203.73,
+            "description": "implement bleeding-edge platforms",
+            "hours": 6.21,
+            "rate": 7.04
+        },
+        {
+            "amount": 296.15,
+            "description": "revolutionize bricks-and-clicks communities",
+            "hours": 1.14,
+            "rate": 7.06
+        }
+    ],
+    "seller": {
+        "address": "73082 Patrick Loaf Davismouth, CT 48548",
+        "email": "cdaniel@example.org",
+        "name": "Travis Soto"
+    },
+    "tax": {
+        "base": 22.6,
+        "tax_amount": 11.45,
+        "total_tax": 28.22
+    }
+}

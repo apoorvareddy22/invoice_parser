@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "8982 William Pass Apt. 618 Kimberlyberg, IL 24378",
+        "company_name": "Adkins-Murray",
+        "country": "Kyrgyz Republic",
+        "email": "kim41@example.net",
+        "name": "Carolyn Marshall",
+        "phone": "744.703.6686",
+        "vat_no": "db59541315314"
+    },
+    "invoice": {
+        "date": "08.02.1991",
+        "due_date": "18.01.2002",
+        "linked_invoice": "BX-8670-5446",
+        "notes": "monetize out-of-the-box schemas",
+        "number": "Af-3523-4207"
+    },
+    "products": [
+        {
+            "description": "benchmark 24/7 architectures",
+            "discount_percentage": 7.74,
+            "price": 455.11,
+            "quantity": 2.61,
+            "unit_price": 21.63
+        },
+        {
+            "description": "harness scalable relationships",
+            "discount_percentage": 17.64,
+            "price": 79.62,
+            "quantity": 7.77,
+            "unit_price": 85.36
+        },
+        {
+            "description": "deliver plug-and-play web services",
+            "discount_percentage": 17.57,
+            "price": 374.3,
+            "quantity": 8.92,
+            "unit_price": 14.45
+        },
+        {
+            "description": "seize strategic schemas",
+            "discount_percentage": 6.94,
+            "price": 353.82,
+            "quantity": 5.34,
+            "unit_price": 52.23
+        }
+    ],
+    "seller": {
+        "address": "158 Benitez Springs Suite 598 Gloverland, CO 49031",
+        "ape": "9316f",
+        "capital": 52621433,
+        "country": "Korea",
+        "email": "ccook@example.com",
+        "name": "Robert Salas",
+        "phone_1": "001-235-540-2716x90264",
+        "phone_2": "3789993317",
+        "phone_3": "001-545-804-4790",
+        "ref_walk": "BgJU9192",
+        "reference": "rA850",
+        "siret": 15631484137921,
+        "vat_no": "oy19754638930",
+        "website": "https://www.cantrell-wright.org/"
+    },
+    "tax": {
+        "amount_0": 21.9,
+        "amount_1": 24.84,
+        "base_0": 11.87,
+        "base_1": 121.28,
+        "total_ht": 114.4,
+        "total_tax": 11.12,
+        "total_ttc": 215.65,
+        "vat_0": 19.39,
+        "vat_1": 10.78
+    }
+}

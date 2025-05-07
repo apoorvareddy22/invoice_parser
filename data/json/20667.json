@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "7143 Williams Green Apt. 933 West Gailbury, SD 10763",
+        "company_name": "Smith-Jones",
+        "email": "plee@example.net",
+        "name": "Troy James",
+        "phone": "001-888-646-1582x60257"
+    },
+    "invoice": {
+        "date": "20.03.2013",
+        "due_date": "10.12.2015",
+        "number": "ZOv60667271968"
+    },
+    "payment": {
+        "account_number": 2266147811,
+        "bank_name": "Lee-Phillips",
+        "routing_number": 554966026
+    },
+    "products": [
+        {
+            "amount": 444.75,
+            "description": "optimize bricks-and-clicks supply-chains",
+            "index": "9",
+            "quantity": 3.4,
+            "unit_price": 96.47
+        },
+        {
+            "amount": 270.5,
+            "description": "embrace one-to-one web services",
+            "index": "4",
+            "quantity": 3.68,
+            "unit_price": 63.3
+        },
+        {
+            "amount": 352.16,
+            "description": "matrix revolutionary relationships",
+            "index": "6",
+            "quantity": 8.79,
+            "unit_price": 78.35
+        },
+        {
+            "amount": 161.21,
+            "description": "unleash customized metrics",
+            "index": "6",
+            "quantity": 9.98,
+            "unit_price": 28.37
+        },
+        {
+            "amount": 163.64,
+            "description": "deploy 24/7 e-markets",
+            "index": "5",
+            "quantity": 7.71,
+            "unit_price": 68.42
+        }
+    ],
+    "seller": {
+        "address": "53816 Tony Cove Suite 735 New Julie, NV 80511",
+        "company_name": "Lawrence, Davis and Bowers",
+        "email": "stephen43@example.com"
+    }
+}

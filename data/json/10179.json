@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "05847 Christian Branch New Gabriellaview, SD 61083",
+        "email": "kristenvaldez@example.com",
+        "phone": "(656)701-5089x4731",
+        "vat_no": "cV09765486089"
+    },
+    "invoice": {
+        "date": "11.05.2016",
+        "due_date": "07.09.2015",
+        "market_reference": 490808,
+        "notes": "morph value-added users",
+        "number": "9106-4400",
+        "reference": 805028,
+        "vat_no": "aR77196001454"
+    },
+    "payment": {
+        "net_total": 91.65,
+        "total": 685.32
+    },
+    "products": [
+        {
+            "amount": 91.99,
+            "description": "matrix user-centric e-commerce",
+            "hours": 2.3,
+            "rate": 7.35
+        },
+        {
+            "amount": 424.48,
+            "description": "repurpose world-class deliverables",
+            "hours": 3.23,
+            "rate": 4.32
+        },
+        {
+            "amount": 383.86,
+            "description": "architect B2B e-commerce",
+            "hours": 9.25,
+            "rate": 6.9
+        }
+    ],
+    "seller": {
+        "address": "8242 Joseph Point Apt. 234 Smithtown, MT 20917",
+        "email": "millsbailey@example.org",
+        "name": "Mr. Jeffrey Silva MD"
+    },
+    "tax": {
+        "base": 10.87,
+        "tax_amount": 25.75,
+        "total_tax": 27.15
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "46513 Frazier Greens Suite 302 Barberbury, NM 64992",
+        "company_name": "Jones, Bernard and Carpenter",
+        "country": "Niger",
+        "name": "Emma Jones"
+    },
+    "invoice": {
+        "date": "21.06.2011",
+        "number": 168748
+    },
+    "payment": {
+        "discount_amount": 24.5,
+        "discount_percentage": 7.1,
+        "due": 146.39,
+        "sub_total": 186.71,
+        "total": 946.92
+    },
+    "products": [
+        {
+            "description": "redefine impactful methodologies",
+            "index": "10",
+            "quantity": 2.49,
+            "total_price": 741.95,
+            "unit_price": 49.3
+        },
+        {
+            "description": "repurpose impactful experiences",
+            "index": "6",
+            "quantity": 8.39,
+            "total_price": 497.38,
+            "unit_price": 41.14
+        }
+    ],
+    "seller": {
+        "address": "55889 Theresa Lodge Apt. 147 Port Hector, VA 46408",
+        "company_name": "Ali-Gregory",
+        "vat_no": "zG07062741501"
+    }
+}

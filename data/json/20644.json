@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "316 Jennifer Falls Suite 610 Heathershire, OK 42867",
+        "company_name": "Swanson-Page",
+        "email": "ericksonedward@example.com",
+        "name": "Rebecca Castillo",
+        "phone": "(479)897-9138"
+    },
+    "invoice": {
+        "date": "06.10.1993",
+        "due_date": "11.10.2020",
+        "number": "XhM55475264068"
+    },
+    "payment": {
+        "account_number": 8542342783,
+        "bank_name": "Banks Ltd",
+        "routing_number": 825147397
+    },
+    "products": [
+        {
+            "amount": 71.48,
+            "description": "transition granular systems",
+            "index": "6",
+            "quantity": 2.1,
+            "unit_price": 88.88
+        },
+        {
+            "amount": 35.65,
+            "description": "orchestrate cutting-edge initiatives",
+            "index": "1",
+            "quantity": 9.45,
+            "unit_price": 10.69
+        },
+        {
+            "amount": 452.6,
+            "description": "redefine cross-platform portals",
+            "index": "1",
+            "quantity": 5.4,
+            "unit_price": 95.85
+        },
+        {
+            "amount": 113.08,
+            "description": "seize user-centric web-readiness",
+            "index": "6",
+            "quantity": 3.23,
+            "unit_price": 16.02
+        }
+    ],
+    "seller": {
+        "address": "841 Michael Curve Hudsonmouth, MO 67707",
+        "company_name": "Arellano PLC",
+        "email": "whughes@example.net"
+    }
+}

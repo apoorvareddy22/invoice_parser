@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "329 Romero Rapid Suite 457 Jasonside, IL 87019",
+        "id": "qq695"
+    },
+    "invoice": {
+        "bc_no": "Qz18256",
+        "currency_code": "YER",
+        "date": "03.11.2005",
+        "due_date": "07.04.2004",
+        "number": 630519
+    },
+    "payment": {
+        "bank_name": "Jones-Sanders",
+        "bic": "OTQVGBYPN1X",
+        "iban": "XFNS56532692184322"
+    },
+    "products": [
+        {
+            "amount": 10.8,
+            "description": "incubate bleeding-edge networks",
+            "index": "4",
+            "price": 309.29,
+            "quantity": 5.02,
+            "tax_amount": 23.01,
+            "total_ttc": 176.72,
+            "vat_amount": 0.76
+        }
+    ],
+    "seller": {
+        "name": "Mandy Drake"
+    },
+    "supplier": {
+        "address": "505 Brown Mountains East Andrew, AS 86761",
+        "name": "Kimberly Williams"
+    },
+    "tax": {
+        "amount_excluding_tax": 83.91,
+        "amount_including_tax": 79.38,
+        "tax_amount": 22.91,
+        "total_ht": 114.09,
+        "total_ttc": 355.36
+    }
+}

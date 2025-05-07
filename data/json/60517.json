@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "7037 Walters Harbors West Stanley, IN 29212",
+        "business_no": "ai955",
+        "id": "BH618"
+    },
+    "invoice": {
+        "date": "25.04.2011",
+        "number": "6467-6830"
+    },
+    "payment": {
+        "due_date": "09.12.2020",
+        "total": 614.55
+    },
+    "products": [
+        {
+            "amount": 390.56,
+            "description": "disintermediate scalable schemas",
+            "quantity": 3.87,
+            "reference": "Oa-978",
+            "unit_price": 55.34
+        },
+        {
+            "amount": 480.63,
+            "description": "revolutionize 24/7 solutions",
+            "quantity": 7.63,
+            "reference": "UD-746",
+            "unit_price": 14.97
+        },
+        {
+            "amount": 401.66,
+            "description": "deploy cross-platform deliverables",
+            "quantity": 7.49,
+            "reference": "Ip-897",
+            "unit_price": 58.5
+        }
+    ],
+    "seller": {
+        "address": "6232 Stephanie Ways South Brandon, OH 84579"
+    },
+    "tax": {
+        "base_ht": 174.7,
+        "regulations": 12.22,
+        "total_ht": 163.48,
+        "vat_amount": 183.51,
+        "vat_percentage": 12.11
+    }
+}

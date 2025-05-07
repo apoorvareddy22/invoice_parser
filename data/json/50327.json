@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "7433 Lisa Fork Apt. 250 Sanchezborough, NJ 81807",
+        "id": "JJ078"
+    },
+    "invoice": {
+        "bc_no": "hO25846",
+        "currency_code": "NPR",
+        "date": "23.04.2011",
+        "due_date": "14.08.2018",
+        "number": 898631
+    },
+    "payment": {
+        "bank_name": "Parker, Collins and Santos",
+        "bic": "JTFUGBM4",
+        "iban": "PJLM08520291656794"
+    },
+    "products": [
+        {
+            "amount": 205.3,
+            "description": "disintermediate B2B partnerships",
+            "index": "7",
+            "price": 330.34,
+            "quantity": 4.8,
+            "tax_amount": 25.66,
+            "total_ttc": 231.19,
+            "vat_amount": 7.51
+        },
+        {
+            "amount": 328.48,
+            "description": "empower B2B bandwidth",
+            "index": "4",
+            "price": 291.24,
+            "quantity": 9.11,
+            "tax_amount": 26.45,
+            "total_ttc": 441.94,
+            "vat_amount": 13.2
+        }
+    ],
+    "seller": {
+        "name": "John Pittman"
+    },
+    "supplier": {
+        "address": "6259 Key Mountains Haroldville, NC 83827",
+        "name": "George Shepard"
+    },
+    "tax": {
+        "amount_excluding_tax": 103.02,
+        "amount_including_tax": 182.83,
+        "tax_amount": 28.11,
+        "total_ht": 144.41,
+        "total_ttc": 289.15
+    }
+}

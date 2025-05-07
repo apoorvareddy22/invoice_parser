@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "7250 Stephen Shore New Chelsea, TN 40137",
+        "email": "reesemichael@example.net",
+        "phone": "001-882-589-6200x376",
+        "vat_no": "Ka92908046190"
+    },
+    "invoice": {
+        "date": "05.06.2003",
+        "due_date": "14.02.2000",
+        "market_reference": 108745,
+        "notes": "reinvent robust e-business",
+        "number": "3543-3041",
+        "reference": 773413,
+        "vat_no": "SZ85732225572"
+    },
+    "payment": {
+        "net_total": 130.87,
+        "total": 901.77
+    },
+    "products": [
+        {
+            "amount": 63.84,
+            "description": "empower front-end networks",
+            "hours": 2.76,
+            "rate": 3.92
+        },
+        {
+            "amount": 18.38,
+            "description": "reinvent open-source web services",
+            "hours": 9.08,
+            "rate": 8.41
+        },
+        {
+            "amount": 288.42,
+            "description": "engage real-time models",
+            "hours": 2.11,
+            "rate": 7.55
+        },
+        {
+            "amount": 333.38,
+            "description": "enhance synergistic functionalities",
+            "hours": 2.43,
+            "rate": 8.17
+        }
+    ],
+    "seller": {
+        "address": "890 Michael Camp Apt. 295 Clarkfort, CT 03825",
+        "email": "smithbridget@example.net",
+        "name": "Zachary Washington"
+    },
+    "tax": {
+        "base": 21.59,
+        "tax_amount": 20.32,
+        "total_tax": 10.31
+    }
+}

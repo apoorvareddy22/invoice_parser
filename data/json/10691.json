@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "6144 Sara Plains Suite 034 Jerryfurt, NY 04388",
+        "email": "ajohnson@example.com",
+        "phone": "001-531-306-6074x48116",
+        "vat_no": "Fj44954210097"
+    },
+    "invoice": {
+        "date": "06.04.2014",
+        "due_date": "13.02.2023",
+        "market_reference": 797873,
+        "notes": "enable cutting-edge experiences",
+        "number": "3373-4866",
+        "reference": 944732,
+        "vat_no": "cz18543224164"
+    },
+    "payment": {
+        "net_total": 167.74,
+        "total": 112.73
+    },
+    "products": [
+        {
+            "amount": 251.34,
+            "description": "iterate rich schemas",
+            "hours": 2.1,
+            "rate": 9.55
+        }
+    ],
+    "seller": {
+        "address": "6329 James Centers Apt. 430 Tonyaland, NJ 15372",
+        "email": "flewis@example.org",
+        "name": "James Burns"
+    },
+    "tax": {
+        "base": 24.33,
+        "tax_amount": 10.46,
+        "total_tax": 14.7
+    }
+}

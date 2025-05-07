@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "02458 Rebecca View Suite 302 South Michael, NM 97803",
+        "id": "kj239"
+    },
+    "invoice": {
+        "bc_no": "xA94470",
+        "currency_code": "CRC",
+        "date": "26.02.2007",
+        "due_date": "17.05.2006",
+        "number": 635755
+    },
+    "payment": {
+        "bank_name": "Ellis, Schmidt and Morris",
+        "bic": "QUVVGB4K",
+        "iban": "TOBF83764154495209"
+    },
+    "products": [
+        {
+            "amount": 269.89,
+            "description": "synergize user-centric metrics",
+            "index": "2",
+            "price": 24.07,
+            "quantity": 3.04,
+            "tax_amount": 52.26,
+            "total_ttc": 334.24,
+            "vat_amount": 1.63
+        },
+        {
+            "amount": 5.46,
+            "description": "morph efficient functionalities",
+            "index": "7",
+            "price": 484.04,
+            "quantity": 7.96,
+            "tax_amount": 44.02,
+            "total_ttc": 373.03,
+            "vat_amount": 5.4
+        },
+        {
+            "amount": 438.77,
+            "description": "utilize virtual relationships",
+            "index": "2",
+            "price": 65.24,
+            "quantity": 9.97,
+            "tax_amount": 40.81,
+            "total_ttc": 415.11,
+            "vat_amount": 6.76
+        }
+    ],
+    "seller": {
+        "name": "Michelle Weaver"
+    },
+    "supplier": {
+        "address": "97890 Powers Shores North Robert, NV 76952",
+        "name": "Michael Freeman"
+    },
+    "tax": {
+        "amount_excluding_tax": 22.62,
+        "amount_including_tax": 195.78,
+        "tax_amount": 11.2,
+        "total_ht": 431.34,
+        "total_ttc": 382.12
+    }
+}

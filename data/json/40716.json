@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "31605 Michele Neck Jonesstad, FL 80107"
+    },
+    "invoice": {
+        "bc_no": "bX25121",
+        "date": "27.12.2007",
+        "maturity_date": "01.10.2001",
+        "number": 986163
+    },
+    "products": [
+        {
+            "amount": 174.09,
+            "description": "whiteboard robust e-services",
+            "quantity": 6.42,
+            "unit_price": 99.98,
+            "vat_amount": 2.72
+        },
+        {
+            "amount": 334.04,
+            "description": "grow proactive relationships",
+            "quantity": 3.44,
+            "unit_price": 53.83,
+            "vat_amount": 11.26
+        },
+        {
+            "amount": 298.0,
+            "description": "envisioneer customized content",
+            "quantity": 5.69,
+            "unit_price": 91.65,
+            "vat_amount": 6.2
+        },
+        {
+            "amount": 365.52,
+            "description": "facilitate efficient markets",
+            "quantity": 9.86,
+            "unit_price": 28.18,
+            "vat_amount": 0.84
+        }
+    ],
+    "seller": {
+        "address": "34029 David Fort Apt. 140 Anthonyborough, MT 49209"
+    },
+    "tax": {
+        "amount_excluding_tax": 37.49,
+        "amount_including_tax": 53.63,
+        "tax_amount": 24.13
+    }
+}

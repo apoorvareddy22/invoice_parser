@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "1315 Jeffrey Manor Scottville, IL 21127"
+    },
+    "invoice": {
+        "bc_no": "Yz80127",
+        "date": "26.02.2015",
+        "maturity_date": "24.10.2000",
+        "number": 587763
+    },
+    "products": [
+        {
+            "amount": 177.27,
+            "description": "enhance global models",
+            "quantity": 1.42,
+            "unit_price": 29.76,
+            "vat_amount": 11.25
+        },
+        {
+            "amount": 209.69,
+            "description": "syndicate innovative convergence",
+            "quantity": 1.16,
+            "unit_price": 79.6,
+            "vat_amount": 1.67
+        },
+        {
+            "amount": 164.37,
+            "description": "innovate extensible ROI",
+            "quantity": 9.19,
+            "unit_price": 90.24,
+            "vat_amount": 1.65
+        }
+    ],
+    "seller": {
+        "address": "Unit 4122 Box 3100 DPO AA 88851"
+    },
+    "tax": {
+        "amount_excluding_tax": 107.89,
+        "amount_including_tax": 164.44,
+        "tax_amount": 29.16
+    }
+}

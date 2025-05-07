@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "9693 Shane Forks Apt. 111 Hoganport, PR 06012",
+        "business_no": "cZ552",
+        "id": "WS581"
+    },
+    "invoice": {
+        "date": "06.11.2006",
+        "number": "4470-7588"
+    },
+    "payment": {
+        "due_date": "15.12.2007",
+        "total": 370.5
+    },
+    "products": [
+        {
+            "amount": 428.73,
+            "description": "deliver enterprise e-business",
+            "quantity": 6.13,
+            "reference": "uB-198",
+            "unit_price": 95.92
+        }
+    ],
+    "seller": {
+        "address": "772 Daniel Hollow Henryhaven, PA 18525"
+    },
+    "tax": {
+        "base_ht": 498.16,
+        "regulations": 27.88,
+        "total_ht": 340.15,
+        "vat_amount": 169.47,
+        "vat_percentage": 17.32
+    }
+}

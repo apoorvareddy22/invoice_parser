@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "8330 Zachary Greens Suite 093 South Kathy, AS 30993",
+        "company_name": "Boone PLC",
+        "email": "mark04@example.com",
+        "name": "Jessica Villa",
+        "phone": "487-798-4199x093"
+    },
+    "invoice": {
+        "date": "14.04.2008",
+        "due_date": "25.02.2010",
+        "number": "gBi61906901901"
+    },
+    "payment": {
+        "account_number": 3740416343,
+        "bank_name": "Miller, Torres and Orozco",
+        "routing_number": 439322267
+    },
+    "products": [
+        {
+            "amount": 142.31,
+            "description": "revolutionize front-end info-mediaries",
+            "index": "1",
+            "quantity": 8.28,
+            "unit_price": 80.91
+        },
+        {
+            "amount": 332.84,
+            "description": "aggregate proactive bandwidth",
+            "index": "7",
+            "quantity": 4.27,
+            "unit_price": 52.97
+        }
+    ],
+    "seller": {
+        "address": "46899 Hicks Mall West Robertshire, IL 61158",
+        "company_name": "Miller Inc",
+        "email": "thompsonnancy@example.net"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "Unit 9555 Box 2291 DPO AA 50943",
+        "company_name": "Harmon, Nash and Gutierrez",
+        "email": "terrence93@example.net",
+        "name": "Patrick Terry",
+        "phone": "001-294-465-1877x64114"
+    },
+    "invoice": {
+        "date": "20.08.1991",
+        "due_date": "27.07.1992",
+        "number": "daf39615408438"
+    },
+    "payment": {
+        "account_number": 7086613688,
+        "bank_name": "Bond-Grant",
+        "routing_number": 200687972
+    },
+    "products": [
+        {
+            "amount": 410.04,
+            "description": "matrix plug-and-play paradigms",
+            "index": "10",
+            "quantity": 4.02,
+            "unit_price": 51.3
+        },
+        {
+            "amount": 267.28,
+            "description": "transform user-centric supply-chains",
+            "index": "4",
+            "quantity": 8.98,
+            "unit_price": 69.76
+        },
+        {
+            "amount": 301.53,
+            "description": "envisioneer B2B models",
+            "index": "2",
+            "quantity": 3.06,
+            "unit_price": 85.19
+        }
+    ],
+    "seller": {
+        "address": "736 Smith Parkway Pamton, AZ 89484",
+        "company_name": "Henry, Short and Lee",
+        "email": "bakerchristine@example.com"
+    }
+}

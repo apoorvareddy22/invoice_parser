@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "USS Vasquez FPO AE 32704",
+        "business_no": "AP653",
+        "id": "Gs098"
+    },
+    "invoice": {
+        "date": "16.02.2008",
+        "number": "1184-9568"
+    },
+    "payment": {
+        "due_date": "25.10.1995",
+        "total": 716.27
+    },
+    "products": [
+        {
+            "amount": 470.03,
+            "description": "target next-generation platforms",
+            "quantity": 2.81,
+            "reference": "rD-603",
+            "unit_price": 20.78
+        },
+        {
+            "amount": 215.91,
+            "description": "extend 24/7 communities",
+            "quantity": 4.81,
+            "reference": "lc-538",
+            "unit_price": 70.68
+        }
+    ],
+    "seller": {
+        "address": "4852 Samuel Crest Suite 772 Nelsonburgh, CO 33468"
+    },
+    "tax": {
+        "base_ht": 392.95,
+        "regulations": 25.64,
+        "total_ht": 375.62,
+        "vat_amount": 82.19,
+        "vat_percentage": 25.46
+    }
+}

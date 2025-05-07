@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "554 Martin Pine New Sarashire, WV 05637",
+        "id": "kF774"
+    },
+    "invoice": {
+        "bc_no": "ay60651",
+        "currency_code": "MYR",
+        "date": "15.02.2010",
+        "due_date": "18.02.2023",
+        "number": 170676
+    },
+    "payment": {
+        "bank_name": "White, Gutierrez and Norman",
+        "bic": "XMCMGBDL",
+        "iban": "IQIE79053539350956"
+    },
+    "products": [
+        {
+            "amount": 379.56,
+            "description": "monetize B2B e-commerce",
+            "index": "2",
+            "price": 120.81,
+            "quantity": 5.78,
+            "tax_amount": 30.27,
+            "total_ttc": 438.51,
+            "vat_amount": 1.04
+        },
+        {
+            "amount": 206.98,
+            "description": "innovate leading-edge systems",
+            "index": "3",
+            "price": 237.75,
+            "quantity": 9.48,
+            "tax_amount": 58.75,
+            "total_ttc": 433.72,
+            "vat_amount": 12.63
+        },
+        {
+            "amount": 80.6,
+            "description": "redefine granular supply-chains",
+            "index": "5",
+            "price": 96.08,
+            "quantity": 6.59,
+            "tax_amount": 52.38,
+            "total_ttc": 310.0,
+            "vat_amount": 1.2
+        },
+        {
+            "amount": 428.77,
+            "description": "disintermediate B2B niches",
+            "index": "10",
+            "price": 74.04,
+            "quantity": 1.86,
+            "tax_amount": 70.35,
+            "total_ttc": 384.81,
+            "vat_amount": 1.68
+        },
+        {
+            "amount": 315.36,
+            "description": "synergize innovative paradigms",
+            "index": "4",
+            "price": 430.46,
+            "quantity": 8.78,
+            "tax_amount": 65.33,
+            "total_ttc": 365.75,
+            "vat_amount": 0.36
+        },
+        {
+            "amount": 198.41,
+            "description": "enhance proactive action-items",
+            "index": "6",
+            "price": 480.33,
+            "quantity": 8.47,
+            "tax_amount": 54.37,
+            "total_ttc": 442.9,
+            "vat_amount": 4.69
+        }
+    ],
+    "seller": {
+        "name": "Mary Coleman"
+    },
+    "supplier": {
+        "address": "6908 Victoria Pass Lake Jeremy, SD 67922",
+        "name": "Jennifer Schultz"
+    },
+    "tax": {
+        "amount_excluding_tax": 50.43,
+        "amount_including_tax": 28.04,
+        "tax_amount": 19.93,
+        "total_ht": 180.15,
+        "total_ttc": 156.6
+    }
+}

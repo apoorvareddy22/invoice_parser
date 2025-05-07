@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "61476 Lauren Squares Ryanshire, MP 65942",
+        "email": "hgomez@example.com",
+        "phone": "(375)292-1680",
+        "vat_no": "ew54351000184"
+    },
+    "invoice": {
+        "date": "28.06.2008",
+        "due_date": "25.03.2016",
+        "market_reference": 804481,
+        "notes": "implement back-end deliverables",
+        "number": "5785-5330",
+        "reference": 586937,
+        "vat_no": "bU82267701555"
+    },
+    "payment": {
+        "net_total": 199.13,
+        "total": 992.64
+    },
+    "products": [
+        {
+            "amount": 252.25,
+            "description": "orchestrate bricks-and-clicks communities",
+            "hours": 4.75,
+            "rate": 3.05
+        },
+        {
+            "amount": 230.52,
+            "description": "monetize turn-key architectures",
+            "hours": 4.86,
+            "rate": 9.9
+        },
+        {
+            "amount": 418.17,
+            "description": "optimize leading-edge bandwidth",
+            "hours": 1.74,
+            "rate": 9.23
+        }
+    ],
+    "seller": {
+        "address": "1644 Janet Extension Apt. 197 Lake Linda, NE 63806",
+        "email": "karen24@example.com",
+        "name": "Danielle Bishop"
+    },
+    "tax": {
+        "base": 19.09,
+        "tax_amount": 23.65,
+        "total_tax": 17.44
+    }
+}

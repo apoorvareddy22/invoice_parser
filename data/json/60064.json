@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "55711 Isabella Garden Apt. 442 North Laurenmouth, OH 70179",
+        "business_no": "ma899",
+        "id": "NL973"
+    },
+    "invoice": {
+        "date": "19.11.1992",
+        "number": "8185-2773"
+    },
+    "payment": {
+        "due_date": "18.09.1991",
+        "total": 576.94
+    },
+    "products": [
+        {
+            "amount": 447.62,
+            "description": "engineer B2B action-items",
+            "quantity": 9.3,
+            "reference": "VL-021",
+            "unit_price": 94.57
+        },
+        {
+            "amount": 132.47,
+            "description": "enable cross-platform technologies",
+            "quantity": 2.5,
+            "reference": "wX-099",
+            "unit_price": 21.56
+        },
+        {
+            "amount": 400.27,
+            "description": "engineer cross-media channels",
+            "quantity": 6.58,
+            "reference": "KU-893",
+            "unit_price": 59.37
+        },
+        {
+            "amount": 443.48,
+            "description": "embrace impactful technologies",
+            "quantity": 5.48,
+            "reference": "mr-363",
+            "unit_price": 85.94
+        }
+    ],
+    "seller": {
+        "address": "USNV Clayton FPO AE 80924"
+    },
+    "tax": {
+        "base_ht": 258.38,
+        "regulations": 19.41,
+        "total_ht": 378.19,
+        "vat_amount": 69.62,
+        "vat_percentage": 18.69
+    }
+}

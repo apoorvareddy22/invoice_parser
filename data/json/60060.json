@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "5437 Jonathan Spring Apt. 867 West Jeffreyfort, FL 92721",
+        "business_no": "Lt516",
+        "id": "XK704"
+    },
+    "invoice": {
+        "date": "07.06.2020",
+        "number": "5609-6612"
+    },
+    "payment": {
+        "due_date": "21.11.1999",
+        "total": 711.69
+    },
+    "products": [
+        {
+            "amount": 103.97,
+            "description": "re-intermediate ubiquitous experiences",
+            "quantity": 9.7,
+            "reference": "DO-228",
+            "unit_price": 63.37
+        },
+        {
+            "amount": 135.66,
+            "description": "transform granular bandwidth",
+            "quantity": 2.7,
+            "reference": "af-678",
+            "unit_price": 54.91
+        }
+    ],
+    "seller": {
+        "address": "28708 Maria Ramp Suite 416 Paulberg, OR 29577"
+    },
+    "tax": {
+        "base_ht": 426.11,
+        "regulations": 26.41,
+        "total_ht": 227.09,
+        "vat_amount": 56.95,
+        "vat_percentage": 28.15
+    }
+}

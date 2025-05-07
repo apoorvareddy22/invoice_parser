@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "Unit 6968 Box 8676 DPO AP 61818",
+        "email": "sheakelly@example.net",
+        "phone": "(280)237-6941",
+        "vat_no": "nB77126746376"
+    },
+    "invoice": {
+        "date": "26.03.2015",
+        "due_date": "13.09.2004",
+        "market_reference": 577759,
+        "notes": "implement compelling web-readiness",
+        "number": "0871-7395",
+        "reference": 888668,
+        "vat_no": "ix95300356678"
+    },
+    "payment": {
+        "net_total": 87.05,
+        "total": 241.85
+    },
+    "products": [
+        {
+            "amount": 379.0,
+            "description": "synthesize value-added synergies",
+            "hours": 9.66,
+            "rate": 8.31
+        },
+        {
+            "amount": 103.8,
+            "description": "innovate user-centric e-services",
+            "hours": 6.0,
+            "rate": 7.68
+        },
+        {
+            "amount": 17.49,
+            "description": "optimize B2C e-tailers",
+            "hours": 8.82,
+            "rate": 1.19
+        },
+        {
+            "amount": 87.17,
+            "description": "revolutionize turn-key functionalities",
+            "hours": 6.54,
+            "rate": 2.99
+        },
+        {
+            "amount": 179.56,
+            "description": "monetize impactful systems",
+            "hours": 9.34,
+            "rate": 5.63
+        },
+        {
+            "amount": 494.2,
+            "description": "benchmark rich eyeballs",
+            "hours": 9.48,
+            "rate": 8.28
+        }
+    ],
+    "seller": {
+        "address": "146 Parker Lakes Kimfort, NV 90485",
+        "email": "zachary51@example.net",
+        "name": "Scott Harris"
+    },
+    "tax": {
+        "base": 23.09,
+        "tax_amount": 24.23,
+        "total_tax": 13.47
+    }
+}

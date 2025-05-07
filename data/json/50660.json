@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "86872 Fisher Lakes Meganhaven, TN 43408",
+        "id": "tk960"
+    },
+    "invoice": {
+        "bc_no": "Pa46803",
+        "currency_code": "TOP",
+        "date": "19.04.2006",
+        "due_date": "21.03.2007",
+        "number": 261618
+    },
+    "payment": {
+        "bank_name": "Jimenez PLC",
+        "bic": "IBHGGBJ2Z57",
+        "iban": "LTBD91331218382534"
+    },
+    "products": [
+        {
+            "amount": 341.33,
+            "description": "engage user-centric bandwidth",
+            "index": "10",
+            "price": 239.92,
+            "quantity": 5.76,
+            "tax_amount": 91.61,
+            "total_ttc": 337.99,
+            "vat_amount": 7.44
+        }
+    ],
+    "seller": {
+        "name": "Andrew Johnson"
+    },
+    "supplier": {
+        "address": "858 Sparks Roads Suite 438 East Omarport, AL 27179",
+        "name": "Caleb Willis"
+    },
+    "tax": {
+        "amount_excluding_tax": 132.21,
+        "amount_including_tax": 65.01,
+        "tax_amount": 17.07,
+        "total_ht": 146.07,
+        "total_ttc": 157.5
+    }
+}

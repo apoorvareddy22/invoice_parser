@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "31098 Robinson Point Port Isabel, MA 54652",
+        "id": "hm366"
+    },
+    "invoice": {
+        "bc_no": "sN33038",
+        "currency_code": "CVE",
+        "date": "29.08.2017",
+        "due_date": "26.05.2021",
+        "number": 510208
+    },
+    "payment": {
+        "bank_name": "David-Lee",
+        "bic": "LAHJGBAMG6V",
+        "iban": "ZEBQ38786791194603"
+    },
+    "products": [
+        {
+            "amount": 372.65,
+            "description": "embrace intuitive methodologies",
+            "index": "7",
+            "price": 452.49,
+            "quantity": 7.2,
+            "tax_amount": 27.56,
+            "total_ttc": 362.32,
+            "vat_amount": 6.05
+        },
+        {
+            "amount": 142.4,
+            "description": "deploy distributed partnerships",
+            "index": "8",
+            "price": 190.01,
+            "quantity": 4.71,
+            "tax_amount": 56.65,
+            "total_ttc": 494.37,
+            "vat_amount": 10.73
+        },
+        {
+            "amount": 460.1,
+            "description": "disintermediate front-end niches",
+            "index": "7",
+            "price": 426.92,
+            "quantity": 1.1,
+            "tax_amount": 27.56,
+            "total_ttc": 494.53,
+            "vat_amount": 3.78
+        },
+        {
+            "amount": 224.96,
+            "description": "productize seamless content",
+            "index": "5",
+            "price": 499.16,
+            "quantity": 2.4,
+            "tax_amount": 79.62,
+            "total_ttc": 123.81,
+            "vat_amount": 6.13
+        }
+    ],
+    "seller": {
+        "name": "Jessica Bishop"
+    },
+    "supplier": {
+        "address": "0293 Cynthia Stream South Stuartview, FL 79238",
+        "name": "Elizabeth Kelley"
+    },
+    "tax": {
+        "amount_excluding_tax": 94.64,
+        "amount_including_tax": 157.39,
+        "tax_amount": 15.02,
+        "total_ht": 207.91,
+        "total_ttc": 456.71
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "521 Marquez Flat Apt. 801 North Mariaside, RI 05338",
+        "company_name": "Burns and Sons",
+        "country": "Palestinian Territory",
+        "name": "Shawn Leon"
+    },
+    "invoice": {
+        "date": "16.10.1998",
+        "number": 650462
+    },
+    "payment": {
+        "discount_amount": 23.22,
+        "discount_percentage": 8.16,
+        "due": 66.28,
+        "sub_total": 138.15,
+        "total": 124.11
+    },
+    "products": [
+        {
+            "description": "innovate strategic mindshare",
+            "index": "2",
+            "quantity": 9.53,
+            "total_price": 567.93,
+            "unit_price": 41.49
+        },
+        {
+            "description": "mesh virtual systems",
+            "index": "5",
+            "quantity": 6.04,
+            "total_price": 481.92,
+            "unit_price": 40.01
+        },
+        {
+            "description": "implement web-enabled synergies",
+            "index": "1",
+            "quantity": 8.78,
+            "total_price": 159.8,
+            "unit_price": 28.53
+        },
+        {
+            "description": "innovate mission-critical channels",
+            "index": "4",
+            "quantity": 6.85,
+            "total_price": 884.74,
+            "unit_price": 47.11
+        }
+    ],
+    "seller": {
+        "address": "48829 Gerald Streets Suite 632 East Stevenburgh, MS 09400",
+        "company_name": "Morales, Fuller and Ray",
+        "vat_no": "Bb42203777430"
+    }
+}

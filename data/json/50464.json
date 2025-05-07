@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "58873 Kathleen Wall Apt. 364 West Rebeccaberg, VT 23487",
+        "id": "vx839"
+    },
+    "invoice": {
+        "bc_no": "EP10836",
+        "currency_code": "XCD",
+        "date": "25.09.1993",
+        "due_date": "02.09.1993",
+        "number": 714363
+    },
+    "payment": {
+        "bank_name": "Reeves PLC",
+        "bic": "ZBSIGB0A",
+        "iban": "LYXU98031693235433"
+    },
+    "products": [
+        {
+            "amount": 181.19,
+            "description": "unleash killer ROI",
+            "index": "1",
+            "price": 48.95,
+            "quantity": 1.19,
+            "tax_amount": 81.63,
+            "total_ttc": 452.4,
+            "vat_amount": 0.56
+        },
+        {
+            "amount": 301.29,
+            "description": "disintermediate B2B methodologies",
+            "index": "4",
+            "price": 209.09,
+            "quantity": 5.72,
+            "tax_amount": 52.55,
+            "total_ttc": 203.03,
+            "vat_amount": 10.24
+        },
+        {
+            "amount": 82.25,
+            "description": "iterate ubiquitous initiatives",
+            "index": "1",
+            "price": 484.57,
+            "quantity": 6.09,
+            "tax_amount": 43.68,
+            "total_ttc": 350.01,
+            "vat_amount": 1.22
+        },
+        {
+            "amount": 422.06,
+            "description": "unleash interactive vortals",
+            "index": "5",
+            "price": 18.2,
+            "quantity": 1.64,
+            "tax_amount": 86.79,
+            "total_ttc": 349.88,
+            "vat_amount": 2.04
+        },
+        {
+            "amount": 382.88,
+            "description": "e-enable web-enabled web services",
+            "index": "7",
+            "price": 115.41,
+            "quantity": 4.31,
+            "tax_amount": 72.07,
+            "total_ttc": 104.68,
+            "vat_amount": 0.63
+        },
+        {
+            "amount": 77.43,
+            "description": "reinvent leading-edge metrics",
+            "index": "9",
+            "price": 105.43,
+            "quantity": 4.69,
+            "tax_amount": 71.14,
+            "total_ttc": 370.03,
+            "vat_amount": 6.35
+        }
+    ],
+    "seller": {
+        "name": "Troy Cole"
+    },
+    "supplier": {
+        "address": "7036 Lori Trace Danielberg, DC 69997",
+        "name": "Dawn Ruiz"
+    },
+    "tax": {
+        "amount_excluding_tax": 171.18,
+        "amount_including_tax": 32.54,
+        "tax_amount": 23.26,
+        "total_ht": 262.12,
+        "total_ttc": 318.07
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "43739 Gary Shores Apt. 200 West Annette, SD 26282",
+        "business_no": "rA062",
+        "id": "ZB124"
+    },
+    "invoice": {
+        "date": "29.07.2018",
+        "number": "9168-0388"
+    },
+    "payment": {
+        "due_date": "09.01.2014",
+        "total": 909.24
+    },
+    "products": [
+        {
+            "amount": 14.51,
+            "description": "strategize vertical web services",
+            "quantity": 6.68,
+            "reference": "zc-346",
+            "unit_price": 30.85
+        },
+        {
+            "amount": 385.04,
+            "description": "empower open-source web-readiness",
+            "quantity": 9.28,
+            "reference": "Ba-872",
+            "unit_price": 19.1
+        },
+        {
+            "amount": 488.74,
+            "description": "mesh viral info-mediaries",
+            "quantity": 8.52,
+            "reference": "CY-840",
+            "unit_price": 37.79
+        }
+    ],
+    "seller": {
+        "address": "8769 Lori Ridges Suite 993 Lake Jodybury, MP 33318"
+    },
+    "tax": {
+        "base_ht": 200.44,
+        "regulations": 20.95,
+        "total_ht": 333.86,
+        "vat_amount": 19.04,
+        "vat_percentage": 22.05
+    }
+}

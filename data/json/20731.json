@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "334 Brandy Springs Suite 415 Alexisberg, CT 56985",
+        "company_name": "Clark-Fischer",
+        "email": "jonathan43@example.net",
+        "name": "Michelle Cox",
+        "phone": "+1-264-990-1563x874"
+    },
+    "invoice": {
+        "date": "13.08.1997",
+        "due_date": "25.09.2004",
+        "number": "qfO72795306661"
+    },
+    "payment": {
+        "account_number": 7168435125,
+        "bank_name": "Woods, Robbins and Hughes",
+        "routing_number": 418958915
+    },
+    "products": [
+        {
+            "amount": 413.47,
+            "description": "empower dot-com web-readiness",
+            "index": "8",
+            "quantity": 3.23,
+            "unit_price": 28.96
+        },
+        {
+            "amount": 190.42,
+            "description": "morph one-to-one platforms",
+            "index": "2",
+            "quantity": 2.93,
+            "unit_price": 54.44
+        }
+    ],
+    "seller": {
+        "address": "5167 Buck Ridges Apt. 753 Gloverborough, TX 79256",
+        "company_name": "Chavez LLC",
+        "email": "ywatson@example.org"
+    }
+}

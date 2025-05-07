@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "34387 Roy Station Suite 910 Maybury, CT 94739",
+        "id": "vc327"
+    },
+    "invoice": {
+        "bc_no": "UX63946",
+        "currency_code": "MXN",
+        "date": "25.06.2004",
+        "due_date": "07.03.1990",
+        "number": 441090
+    },
+    "payment": {
+        "bank_name": "Mcdonald Ltd",
+        "bic": "KKTLGBY4",
+        "iban": "CBEK29082070929805"
+    },
+    "products": [
+        {
+            "amount": 63.17,
+            "description": "architect extensible e-commerce",
+            "index": "7",
+            "price": 215.98,
+            "quantity": 8.28,
+            "tax_amount": 16.48,
+            "total_ttc": 316.83,
+            "vat_amount": 8.71
+        },
+        {
+            "amount": 475.64,
+            "description": "transform web-enabled niches",
+            "index": "1",
+            "price": 417.13,
+            "quantity": 8.25,
+            "tax_amount": 62.28,
+            "total_ttc": 289.05,
+            "vat_amount": 5.42
+        },
+        {
+            "amount": 247.91,
+            "description": "aggregate dot-com e-commerce",
+            "index": "6",
+            "price": 293.2,
+            "quantity": 8.44,
+            "tax_amount": 39.59,
+            "total_ttc": 135.08,
+            "vat_amount": 8.57
+        },
+        {
+            "amount": 230.74,
+            "description": "implement integrated applications",
+            "index": "1",
+            "price": 422.42,
+            "quantity": 7.87,
+            "tax_amount": 76.4,
+            "total_ttc": 386.11,
+            "vat_amount": 6.58
+        },
+        {
+            "amount": 355.66,
+            "description": "optimize sticky synergies",
+            "index": "7",
+            "price": 315.19,
+            "quantity": 3.95,
+            "tax_amount": 17.4,
+            "total_ttc": 406.91,
+            "vat_amount": 5.69
+        },
+        {
+            "amount": 290.25,
+            "description": "deploy innovative bandwidth",
+            "index": "3",
+            "price": 165.23,
+            "quantity": 7.91,
+            "tax_amount": 46.14,
+            "total_ttc": 418.55,
+            "vat_amount": 1.59
+        },
+        {
+            "amount": 472.69,
+            "description": "reinvent cross-media functionalities",
+            "index": "7",
+            "price": 272.81,
+            "quantity": 2.65,
+            "tax_amount": 53.72,
+            "total_ttc": 171.3,
+            "vat_amount": 0.31
+        }
+    ],
+    "seller": {
+        "name": "Mark Ware"
+    },
+    "supplier": {
+        "address": "33966 James Cliffs Apt. 557 East Codytown, FL 45249",
+        "name": "Seth Castillo"
+    },
+    "tax": {
+        "amount_excluding_tax": 177.63,
+        "amount_including_tax": 159.8,
+        "tax_amount": 26.28,
+        "total_ht": 442.71,
+        "total_ttc": 471.63
+    }
+}

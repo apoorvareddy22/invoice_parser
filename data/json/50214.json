@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "5985 Harris Lodge Mollychester, FM 44664",
+        "id": "de540"
+    },
+    "invoice": {
+        "bc_no": "HI18580",
+        "currency_code": "TTD",
+        "date": "14.03.2021",
+        "due_date": "27.11.2005",
+        "number": 341391
+    },
+    "payment": {
+        "bank_name": "Green LLC",
+        "bic": "ZSKEGBQU",
+        "iban": "LKGD67176178572895"
+    },
+    "products": [
+        {
+            "amount": 12.38,
+            "description": "incentivize leading-edge e-commerce",
+            "index": "10",
+            "price": 115.41,
+            "quantity": 6.76,
+            "tax_amount": 86.97,
+            "total_ttc": 162.85,
+            "vat_amount": 9.51
+        }
+    ],
+    "seller": {
+        "name": "Jeremy Gilbert"
+    },
+    "supplier": {
+        "address": "834 Davenport Squares East Tyler, CT 60972",
+        "name": "Terry Murillo"
+    },
+    "tax": {
+        "amount_excluding_tax": 197.47,
+        "amount_including_tax": 146.42,
+        "tax_amount": 23.73,
+        "total_ht": 355.07,
+        "total_ttc": 347.73
+    }
+}

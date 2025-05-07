@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "091 Payne Pass Whitneyfort, HI 79083",
+        "id": "Qd487"
+    },
+    "invoice": {
+        "bc_no": "nE65972",
+        "currency_code": "KGS",
+        "date": "28.04.2016",
+        "due_date": "10.12.1993",
+        "number": 757136
+    },
+    "payment": {
+        "bank_name": "Trujillo and Sons",
+        "bic": "DDESGBFGHY8",
+        "iban": "DFQS58782592306881"
+    },
+    "products": [
+        {
+            "amount": 479.22,
+            "description": "leverage end-to-end technologies",
+            "index": "8",
+            "price": 287.54,
+            "quantity": 1.77,
+            "tax_amount": 11.0,
+            "total_ttc": 154.9,
+            "vat_amount": 0.2
+        }
+    ],
+    "seller": {
+        "name": "Ms. Veronica Shelton"
+    },
+    "supplier": {
+        "address": "0077 David Alley Suite 758 Kathrynland, GA 10879",
+        "name": "Laurie Heath"
+    },
+    "tax": {
+        "amount_excluding_tax": 54.21,
+        "amount_including_tax": 52.73,
+        "tax_amount": 15.85,
+        "total_ht": 207.62,
+        "total_ttc": 302.04
+    }
+}

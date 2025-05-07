@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "208 Gordon Creek Suite 509 Lisaland, DE 94702"
+    },
+    "invoice": {
+        "bc_no": "Ag03781",
+        "date": "28.05.2015",
+        "maturity_date": "12.02.1991",
+        "number": 770295
+    },
+    "products": [
+        {
+            "amount": 288.03,
+            "description": "architect magnetic systems",
+            "quantity": 1.51,
+            "unit_price": 34.23,
+            "vat_amount": 3.08
+        },
+        {
+            "amount": 24.03,
+            "description": "maximize one-to-one info-mediaries",
+            "quantity": 8.14,
+            "unit_price": 45.95,
+            "vat_amount": 0.52
+        },
+        {
+            "amount": 7.11,
+            "description": "extend next-generation channels",
+            "quantity": 4.31,
+            "unit_price": 78.9,
+            "vat_amount": 0.78
+        },
+        {
+            "amount": 338.6,
+            "description": "maximize user-centric e-commerce",
+            "quantity": 6.67,
+            "unit_price": 26.26,
+            "vat_amount": 6.37
+        },
+        {
+            "amount": 84.84,
+            "description": "re-contextualize customized web services",
+            "quantity": 6.95,
+            "unit_price": 82.18,
+            "vat_amount": 2.61
+        },
+        {
+            "amount": 162.26,
+            "description": "re-intermediate frictionless networks",
+            "quantity": 1.07,
+            "unit_price": 74.82,
+            "vat_amount": 11.18
+        }
+    ],
+    "seller": {
+        "address": "PSC 0562, Box 6726 APO AP 12997"
+    },
+    "tax": {
+        "amount_excluding_tax": 138.35,
+        "amount_including_tax": 160.1,
+        "tax_amount": 13.28
+    }
+}

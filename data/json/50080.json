@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "88764 Sandra Courts Suite 832 West Lucas, AL 09720",
+        "id": "ZB123"
+    },
+    "invoice": {
+        "bc_no": "yz31943",
+        "currency_code": "LRD",
+        "date": "30.12.2018",
+        "due_date": "10.03.1995",
+        "number": 370988
+    },
+    "payment": {
+        "bank_name": "Gonzalez Group",
+        "bic": "KFNOGBLSN4S",
+        "iban": "ECET96724582837171"
+    },
+    "products": [
+        {
+            "amount": 28.58,
+            "description": "strategize world-class bandwidth",
+            "index": "4",
+            "price": 15.97,
+            "quantity": 8.55,
+            "tax_amount": 91.79,
+            "total_ttc": 254.17,
+            "vat_amount": 4.86
+        },
+        {
+            "amount": 27.11,
+            "description": "cultivate next-generation channels",
+            "index": "1",
+            "price": 489.27,
+            "quantity": 7.87,
+            "tax_amount": 92.43,
+            "total_ttc": 336.92,
+            "vat_amount": 1.02
+        },
+        {
+            "amount": 64.72,
+            "description": "benchmark value-added paradigms",
+            "index": "9",
+            "price": 117.79,
+            "quantity": 9.29,
+            "tax_amount": 73.36,
+            "total_ttc": 324.8,
+            "vat_amount": 0.94
+        },
+        {
+            "amount": 186.42,
+            "description": "incubate turn-key markets",
+            "index": "3",
+            "price": 251.83,
+            "quantity": 6.37,
+            "tax_amount": 69.11,
+            "total_ttc": 203.5,
+            "vat_amount": 3.87
+        },
+        {
+            "amount": 14.54,
+            "description": "integrate turn-key interfaces",
+            "index": "1",
+            "price": 108.14,
+            "quantity": 7.96,
+            "tax_amount": 84.72,
+            "total_ttc": 196.27,
+            "vat_amount": 1.61
+        },
+        {
+            "amount": 62.33,
+            "description": "matrix B2B platforms",
+            "index": "7",
+            "price": 195.35,
+            "quantity": 8.48,
+            "tax_amount": 65.99,
+            "total_ttc": 444.32,
+            "vat_amount": 3.73
+        },
+        {
+            "amount": 458.35,
+            "description": "target strategic architectures",
+            "index": "3",
+            "price": 28.56,
+            "quantity": 7.58,
+            "tax_amount": 80.82,
+            "total_ttc": 441.27,
+            "vat_amount": 8.21
+        }
+    ],
+    "seller": {
+        "name": "Stacy Anderson"
+    },
+    "supplier": {
+        "address": "17536 Harrell Inlet South Brandonview, CO 32631",
+        "name": "Kevin Nelson"
+    },
+    "tax": {
+        "amount_excluding_tax": 151.08,
+        "amount_including_tax": 49.23,
+        "tax_amount": 29.56,
+        "total_ht": 406.73,
+        "total_ttc": 386.01
+    }
+}

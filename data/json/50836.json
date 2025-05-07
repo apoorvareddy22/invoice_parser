@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "2809 Phelps Route Apt. 092 Santosfurt, ND 44075",
+        "id": "Ij294"
+    },
+    "invoice": {
+        "bc_no": "Mv45817",
+        "currency_code": "LTL",
+        "date": "19.11.1998",
+        "due_date": "13.07.1997",
+        "number": 869213
+    },
+    "payment": {
+        "bank_name": "Wiley, Morris and Martin",
+        "bic": "SQGHGBKA4MS",
+        "iban": "EJAW48496579647759"
+    },
+    "products": [
+        {
+            "amount": 264.19,
+            "description": "synergize distributed web services",
+            "index": "4",
+            "price": 9.88,
+            "quantity": 1.19,
+            "tax_amount": 37.19,
+            "total_ttc": 416.14,
+            "vat_amount": 11.94
+        },
+        {
+            "amount": 485.45,
+            "description": "iterate seamless applications",
+            "index": "5",
+            "price": 15.14,
+            "quantity": 9.32,
+            "tax_amount": 78.19,
+            "total_ttc": 231.41,
+            "vat_amount": 1.59
+        },
+        {
+            "amount": 320.75,
+            "description": "benchmark value-added technologies",
+            "index": "3",
+            "price": 221.75,
+            "quantity": 4.35,
+            "tax_amount": 30.9,
+            "total_ttc": 183.37,
+            "vat_amount": 9.35
+        },
+        {
+            "amount": 483.13,
+            "description": "syndicate cross-platform info-mediaries",
+            "index": "4",
+            "price": 276.29,
+            "quantity": 3.14,
+            "tax_amount": 26.23,
+            "total_ttc": 414.57,
+            "vat_amount": 5.72
+        }
+    ],
+    "seller": {
+        "name": "Ian Navarro"
+    },
+    "supplier": {
+        "address": "64350 Sarah Points East Joshuahaven, MS 03079",
+        "name": "Joseph Bryant"
+    },
+    "tax": {
+        "amount_excluding_tax": 194.92,
+        "amount_including_tax": 147.21,
+        "tax_amount": 11.2,
+        "total_ht": 436.93,
+        "total_ttc": 136.94
+    }
+}

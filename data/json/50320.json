@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "Unit 1488 Box 0944 DPO AE 49877",
+        "id": "ze265"
+    },
+    "invoice": {
+        "bc_no": "kT45431",
+        "currency_code": "MMK",
+        "date": "01.11.1995",
+        "due_date": "25.04.1993",
+        "number": 424651
+    },
+    "payment": {
+        "bank_name": "Hernandez PLC",
+        "bic": "CBZRGBF4CF4",
+        "iban": "XOXQ28995837756722"
+    },
+    "products": [
+        {
+            "amount": 119.03,
+            "description": "strategize dynamic mindshare",
+            "index": "1",
+            "price": 280.15,
+            "quantity": 8.69,
+            "tax_amount": 19.96,
+            "total_ttc": 440.53,
+            "vat_amount": 6.0
+        },
+        {
+            "amount": 370.92,
+            "description": "reinvent intuitive ROI",
+            "index": "6",
+            "price": 253.37,
+            "quantity": 9.6,
+            "tax_amount": 47.03,
+            "total_ttc": 192.31,
+            "vat_amount": 8.33
+        },
+        {
+            "amount": 124.98,
+            "description": "iterate dot-com paradigms",
+            "index": "5",
+            "price": 461.0,
+            "quantity": 7.21,
+            "tax_amount": 73.08,
+            "total_ttc": 386.67,
+            "vat_amount": 3.91
+        },
+        {
+            "amount": 22.32,
+            "description": "engage killer interfaces",
+            "index": "10",
+            "price": 25.82,
+            "quantity": 3.63,
+            "tax_amount": 93.47,
+            "total_ttc": 176.61,
+            "vat_amount": 8.12
+        },
+        {
+            "amount": 145.88,
+            "description": "orchestrate out-of-the-box relationships",
+            "index": "6",
+            "price": 16.49,
+            "quantity": 2.73,
+            "tax_amount": 70.38,
+            "total_ttc": 349.84,
+            "vat_amount": 2.46
+        },
+        {
+            "amount": 215.23,
+            "description": "transition out-of-the-box paradigms",
+            "index": "4",
+            "price": 197.64,
+            "quantity": 2.74,
+            "tax_amount": 71.54,
+            "total_ttc": 206.15,
+            "vat_amount": 3.01
+        }
+    ],
+    "seller": {
+        "name": "Christy Robinson"
+    },
+    "supplier": {
+        "address": "076 Steele Parkway Suite 467 Lake Lucasfurt, MN 26548",
+        "name": "Krystal Scott"
+    },
+    "tax": {
+        "amount_excluding_tax": 15.88,
+        "amount_including_tax": 23.96,
+        "tax_amount": 22.07,
+        "total_ht": 454.9,
+        "total_ttc": 143.06
+    }
+}

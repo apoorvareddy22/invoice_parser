@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "4253 Brandon Glen Suite 860 Lake Andrea, KS 83068",
+        "company_name": "Padilla-Thompson",
+        "country": "Morocco",
+        "name": "Alexis Jensen"
+    },
+    "invoice": {
+        "date": "07.05.2011",
+        "number": 726680
+    },
+    "payment": {
+        "discount_amount": 11.42,
+        "discount_percentage": 5.72,
+        "due": 28.22,
+        "sub_total": 156.43,
+        "total": 364.18
+    },
+    "products": [
+        {
+            "description": "evolve e-business applications",
+            "index": "5",
+            "quantity": 4.26,
+            "total_price": 218.39,
+            "unit_price": 84.08
+        }
+    ],
+    "seller": {
+        "address": "29303 Rich Meadow Apt. 551 Courtneybury, CA 70429",
+        "company_name": "Williams Group",
+        "vat_no": "nZ38002190658"
+    }
+}

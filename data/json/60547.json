@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "463 Brendan Manor Apt. 102 East Brittneyshire, MH 74670",
+        "business_no": "TL044",
+        "id": "ji320"
+    },
+    "invoice": {
+        "date": "05.03.1999",
+        "number": "3841-5131"
+    },
+    "payment": {
+        "due_date": "27.10.2015",
+        "total": 925.63
+    },
+    "products": [
+        {
+            "amount": 187.36,
+            "description": "embrace e-business e-business",
+            "quantity": 7.61,
+            "reference": "lw-306",
+            "unit_price": 47.55
+        },
+        {
+            "amount": 458.96,
+            "description": "deliver clicks-and-mortar technologies",
+            "quantity": 2.38,
+            "reference": "WW-263",
+            "unit_price": 33.63
+        },
+        {
+            "amount": 250.35,
+            "description": "morph mission-critical web-readiness",
+            "quantity": 3.98,
+            "reference": "Lm-714",
+            "unit_price": 63.32
+        },
+        {
+            "amount": 356.84,
+            "description": "brand magnetic portals",
+            "quantity": 7.31,
+            "reference": "Pn-789",
+            "unit_price": 85.47
+        },
+        {
+            "amount": 299.9,
+            "description": "evolve leading-edge infrastructures",
+            "quantity": 1.42,
+            "reference": "pu-583",
+            "unit_price": 36.4
+        },
+        {
+            "amount": 384.17,
+            "description": "re-intermediate end-to-end architectures",
+            "quantity": 8.82,
+            "reference": "jO-708",
+            "unit_price": 16.46
+        },
+        {
+            "amount": 180.91,
+            "description": "transform end-to-end partnerships",
+            "quantity": 7.01,
+            "reference": "fh-460",
+            "unit_price": 56.35
+        }
+    ],
+    "seller": {
+        "address": "746 Daniel Light Suite 522 Terrellmouth, OR 07822"
+    },
+    "tax": {
+        "base_ht": 337.26,
+        "regulations": 19.15,
+        "total_ht": 112.89,
+        "vat_amount": 143.95,
+        "vat_percentage": 16.32
+    }
+}

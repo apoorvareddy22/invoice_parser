@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "801 Joseph Trafficway Apt. 678 Lake Lindsayburgh, AK 90726",
+        "business_no": "No354",
+        "id": "pn274"
+    },
+    "invoice": {
+        "date": "28.08.1999",
+        "number": "0746-5686"
+    },
+    "payment": {
+        "due_date": "13.12.2002",
+        "total": 536.32
+    },
+    "products": [
+        {
+            "amount": 382.62,
+            "description": "revolutionize dynamic users",
+            "quantity": 9.8,
+            "reference": "hh-375",
+            "unit_price": 36.29
+        },
+        {
+            "amount": 255.27,
+            "description": "grow visionary architectures",
+            "quantity": 7.49,
+            "reference": "CN-098",
+            "unit_price": 68.71
+        },
+        {
+            "amount": 495.44,
+            "description": "generate cross-platform channels",
+            "quantity": 2.1,
+            "reference": "We-486",
+            "unit_price": 93.45
+        },
+        {
+            "amount": 108.42,
+            "description": "embrace world-class e-markets",
+            "quantity": 2.6,
+            "reference": "Ek-665",
+            "unit_price": 56.04
+        }
+    ],
+    "seller": {
+        "address": "318 Crystal Neck Suite 976 South Samuelshire, WY 32136"
+    },
+    "tax": {
+        "base_ht": 197.28,
+        "regulations": 12.79,
+        "total_ht": 340.61,
+        "vat_amount": 39.33,
+        "vat_percentage": 24.88
+    }
+}

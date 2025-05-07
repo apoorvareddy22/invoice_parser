@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "13564 Jackson Shoal Apt. 918 Stephenchester, UT 40889",
+        "email": "krosario@example.net",
+        "phone": "455-556-8467x2739",
+        "vat_no": "Rw96673263996"
+    },
+    "invoice": {
+        "date": "21.12.2008",
+        "due_date": "20.02.2014",
+        "market_reference": 509672,
+        "notes": "embrace leading-edge e-services",
+        "number": "0962-2938",
+        "reference": 665692,
+        "vat_no": "Tk16038247016"
+    },
+    "payment": {
+        "net_total": 186.69,
+        "total": 295.69
+    },
+    "products": [
+        {
+            "amount": 59.4,
+            "description": "architect viral schemas",
+            "hours": 1.15,
+            "rate": 4.1
+        },
+        {
+            "amount": 461.37,
+            "description": "engineer bleeding-edge initiatives",
+            "hours": 9.27,
+            "rate": 8.08
+        },
+        {
+            "amount": 46.54,
+            "description": "leverage magnetic solutions",
+            "hours": 8.43,
+            "rate": 8.62
+        },
+        {
+            "amount": 127.76,
+            "description": "disintermediate frictionless functionalities",
+            "hours": 6.73,
+            "rate": 2.81
+        }
+    ],
+    "seller": {
+        "address": "1859 Mills Islands Apt. 593 West Coreyside, ME 62176",
+        "email": "zpierce@example.com",
+        "name": "Hannah Fisher"
+    },
+    "tax": {
+        "base": 19.04,
+        "tax_amount": 27.81,
+        "total_tax": 12.6
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "40924 Griffin Road Suite 009 South Rebeccafort, DC 37088",
+        "business_no": "jJ333",
+        "id": "Gn793"
+    },
+    "invoice": {
+        "date": "24.08.1990",
+        "number": "0792-3195"
+    },
+    "payment": {
+        "due_date": "31.03.2011",
+        "total": 565.46
+    },
+    "products": [
+        {
+            "amount": 393.3,
+            "description": "cultivate value-added models",
+            "quantity": 2.21,
+            "reference": "XD-558",
+            "unit_price": 29.27
+        },
+        {
+            "amount": 130.29,
+            "description": "innovate transparent synergies",
+            "quantity": 1.22,
+            "reference": "JF-666",
+            "unit_price": 96.51
+        },
+        {
+            "amount": 491.97,
+            "description": "cultivate proactive e-tailers",
+            "quantity": 7.89,
+            "reference": "dY-791",
+            "unit_price": 51.0
+        },
+        {
+            "amount": 122.68,
+            "description": "deploy plug-and-play markets",
+            "quantity": 3.11,
+            "reference": "qz-002",
+            "unit_price": 59.77
+        }
+    ],
+    "seller": {
+        "address": "USS Morrison FPO AP 84845"
+    },
+    "tax": {
+        "base_ht": 241.72,
+        "regulations": 16.46,
+        "total_ht": 121.8,
+        "vat_amount": 186.68,
+        "vat_percentage": 23.49
+    }
+}

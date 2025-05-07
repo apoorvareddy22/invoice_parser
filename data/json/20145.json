@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "7614 Bowman Villages Stacyport, NE 97206",
+        "company_name": "Fry Ltd",
+        "email": "victoriapalmer@example.org",
+        "name": "Jennifer Duncan",
+        "phone": "(507)289-6311x964"
+    },
+    "invoice": {
+        "date": "29.09.2002",
+        "due_date": "27.09.2007",
+        "number": "WKK91789932169"
+    },
+    "payment": {
+        "account_number": 2901774451,
+        "bank_name": "Robertson-Cooley",
+        "routing_number": 155258229
+    },
+    "products": [
+        {
+            "amount": 355.68,
+            "description": "strategize transparent models",
+            "index": "10",
+            "quantity": 5.69,
+            "unit_price": 48.33
+        },
+        {
+            "amount": 403.39,
+            "description": "reinvent seamless deliverables",
+            "index": "6",
+            "quantity": 5.82,
+            "unit_price": 96.8
+        },
+        {
+            "amount": 5.59,
+            "description": "empower out-of-the-box initiatives",
+            "index": "5",
+            "quantity": 3.16,
+            "unit_price": 60.34
+        }
+    ],
+    "seller": {
+        "address": "USNV Newton FPO AE 01019",
+        "company_name": "Smith-Davis",
+        "email": "emilycarroll@example.org"
+    }
+}

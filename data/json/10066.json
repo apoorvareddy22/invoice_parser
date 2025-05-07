@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "414 Taylor Light Garciatown, MA 76332",
+        "email": "npayne@example.com",
+        "phone": "001-695-787-5318x1671",
+        "vat_no": "zz47289280328"
+    },
+    "invoice": {
+        "date": "05.01.2002",
+        "due_date": "07.04.2001",
+        "market_reference": 615471,
+        "notes": "strategize virtual synergies",
+        "number": "5860-4930",
+        "reference": 284444,
+        "vat_no": "cP04404275412"
+    },
+    "payment": {
+        "net_total": 135.93,
+        "total": 340.44
+    },
+    "products": [
+        {
+            "amount": 88.49,
+            "description": "re-intermediate clicks-and-mortar technologies",
+            "hours": 3.64,
+            "rate": 4.67
+        }
+    ],
+    "seller": {
+        "address": "7496 Roberson Plaza Suite 405 Andersontown, SD 27827",
+        "email": "samuel97@example.org",
+        "name": "Karen Hubbard"
+    },
+    "tax": {
+        "base": 23.45,
+        "tax_amount": 10.2,
+        "total_tax": 14.36
+    }
+}

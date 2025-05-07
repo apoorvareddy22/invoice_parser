@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "5032 Christopher Forge Apt. 101 New Sally, CT 52601"
+    },
+    "invoice": {
+        "bc_no": "Qe58056",
+        "date": "05.06.1990",
+        "maturity_date": "15.10.2022",
+        "number": 655728
+    },
+    "products": [
+        {
+            "amount": 412.39,
+            "description": "deliver user-centric solutions",
+            "quantity": 6.02,
+            "unit_price": 67.63,
+            "vat_amount": 6.45
+        },
+        {
+            "amount": 328.97,
+            "description": "streamline B2B methodologies",
+            "quantity": 2.62,
+            "unit_price": 97.94,
+            "vat_amount": 0.58
+        },
+        {
+            "amount": 307.61,
+            "description": "envisioneer holistic communities",
+            "quantity": 3.37,
+            "unit_price": 20.94,
+            "vat_amount": 6.47
+        },
+        {
+            "amount": 74.11,
+            "description": "envisioneer dynamic e-tailers",
+            "quantity": 8.71,
+            "unit_price": 75.11,
+            "vat_amount": 4.83
+        },
+        {
+            "amount": 357.02,
+            "description": "productize leading-edge deliverables",
+            "quantity": 3.12,
+            "unit_price": 15.21,
+            "vat_amount": 2.65
+        }
+    ],
+    "seller": {
+        "address": "51477 Grant Mountains Apt. 417 Caldwellside, NH 32101"
+    },
+    "tax": {
+        "amount_excluding_tax": 65.5,
+        "amount_including_tax": 17.31,
+        "tax_amount": 19.38
+    }
+}

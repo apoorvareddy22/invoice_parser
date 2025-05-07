@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "9427 Allen Inlet Suite 449 Cookchester, RI 04092",
+        "business_no": "gd555",
+        "id": "uS332"
+    },
+    "invoice": {
+        "date": "02.12.2013",
+        "number": "3427-1047"
+    },
+    "payment": {
+        "due_date": "23.12.2000",
+        "total": 116.96
+    },
+    "products": [
+        {
+            "amount": 431.55,
+            "description": "repurpose real-time eyeballs",
+            "quantity": 8.31,
+            "reference": "MN-677",
+            "unit_price": 73.5
+        },
+        {
+            "amount": 487.49,
+            "description": "enhance e-business solutions",
+            "quantity": 1.36,
+            "reference": "Mc-782",
+            "unit_price": 74.42
+        },
+        {
+            "amount": 113.16,
+            "description": "facilitate ubiquitous e-business",
+            "quantity": 9.73,
+            "reference": "tm-283",
+            "unit_price": 11.45
+        }
+    ],
+    "seller": {
+        "address": "02651 Kevin Spring Wilsonshire, NY 04984"
+    },
+    "tax": {
+        "base_ht": 377.78,
+        "regulations": 18.43,
+        "total_ht": 228.79,
+        "vat_amount": 159.74,
+        "vat_percentage": 19.61
+    }
+}

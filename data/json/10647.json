@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "83700 Patricia Gateway Apt. 137 West Angelaborough, RI 17440",
+        "email": "brucekirsten@example.com",
+        "phone": "450.217.9132x6464",
+        "vat_no": "nU47183742784"
+    },
+    "invoice": {
+        "date": "06.11.2015",
+        "due_date": "25.01.2012",
+        "market_reference": 179314,
+        "notes": "orchestrate dot-com metrics",
+        "number": "0322-4871",
+        "reference": 760154,
+        "vat_no": "QP54801514512"
+    },
+    "payment": {
+        "net_total": 56.38,
+        "total": 333.76
+    },
+    "products": [
+        {
+            "amount": 389.49,
+            "description": "enable sticky e-tailers",
+            "hours": 1.4,
+            "rate": 4.47
+        },
+        {
+            "amount": 355.11,
+            "description": "harness compelling functionalities",
+            "hours": 2.93,
+            "rate": 5.03
+        },
+        {
+            "amount": 73.58,
+            "description": "seize user-centric platforms",
+            "hours": 2.01,
+            "rate": 4.39
+        },
+        {
+            "amount": 179.7,
+            "description": "whiteboard viral web-readiness",
+            "hours": 5.01,
+            "rate": 9.59
+        }
+    ],
+    "seller": {
+        "address": "32576 Strickland Meadow New Donna, SC 37916",
+        "email": "jasonjones@example.org",
+        "name": "William Martin"
+    },
+    "tax": {
+        "base": 11.07,
+        "tax_amount": 16.44,
+        "total_tax": 25.47
+    }
+}

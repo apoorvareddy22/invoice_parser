@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "52231 Miller Roads East Tylerhaven, AL 76816",
+        "company_name": "Pugh Inc",
+        "country": "Guinea-Bissau",
+        "name": "Holly Carlson"
+    },
+    "invoice": {
+        "date": "06.12.2001",
+        "number": 536554
+    },
+    "payment": {
+        "discount_amount": 17.46,
+        "discount_percentage": 19.46,
+        "due": 195.37,
+        "sub_total": 115.12,
+        "total": 392.49
+    },
+    "products": [
+        {
+            "description": "maximize enterprise web-readiness",
+            "index": "2",
+            "quantity": 7.96,
+            "total_price": 751.95,
+            "unit_price": 50.44
+        },
+        {
+            "description": "exploit value-added e-commerce",
+            "index": "9",
+            "quantity": 7.42,
+            "total_price": 155.89,
+            "unit_price": 83.09
+        }
+    ],
+    "seller": {
+        "address": "6711 Tiffany Port Suite 748 Rodriguezstad, LA 99681",
+        "company_name": "Simpson PLC",
+        "vat_no": "hl75602949631"
+    }
+}

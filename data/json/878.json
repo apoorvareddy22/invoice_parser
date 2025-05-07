@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "PSC 1226, Box 1425 APO AP 76623",
+        "company_name": "Pineda and Sons",
+        "country": "Guinea",
+        "name": "Francis Reynolds"
+    },
+    "invoice": {
+        "date": "19.01.1996",
+        "number": 791510
+    },
+    "payment": {
+        "discount_amount": 38.08,
+        "discount_percentage": 7.67,
+        "due": 104.86,
+        "sub_total": 101.26,
+        "total": 220.53
+    },
+    "products": [
+        {
+            "description": "benchmark visionary supply-chains",
+            "index": "10",
+            "quantity": 8.59,
+            "total_price": 634.09,
+            "unit_price": 85.06
+        },
+        {
+            "description": "redefine out-of-the-box ROI",
+            "index": "4",
+            "quantity": 7.43,
+            "total_price": 993.86,
+            "unit_price": 31.59
+        },
+        {
+            "description": "visualize 24/7 supply-chains",
+            "index": "2",
+            "quantity": 9.78,
+            "total_price": 673.67,
+            "unit_price": 98.85
+        }
+    ],
+    "seller": {
+        "address": "7757 David River Apt. 674 Tinaborough, IL 90292",
+        "company_name": "Casey-Welch",
+        "vat_no": "wE73943884717"
+    }
+}

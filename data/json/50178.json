@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "USS Marquez FPO AA 38959",
+        "id": "wO136"
+    },
+    "invoice": {
+        "bc_no": "dS53557",
+        "currency_code": "HUF",
+        "date": "28.01.2015",
+        "due_date": "21.03.2013",
+        "number": 423640
+    },
+    "payment": {
+        "bank_name": "Gardner PLC",
+        "bic": "SCIRGBJT",
+        "iban": "HJIM23895574092179"
+    },
+    "products": [
+        {
+            "amount": 366.41,
+            "description": "e-enable mission-critical convergence",
+            "index": "2",
+            "price": 14.28,
+            "quantity": 1.66,
+            "tax_amount": 91.0,
+            "total_ttc": 422.4,
+            "vat_amount": 0.69
+        }
+    ],
+    "seller": {
+        "name": "Mr. Jeffrey Johnson"
+    },
+    "supplier": {
+        "address": "8896 Owens Glen Suite 019 Port Jeff, FL 71627",
+        "name": "Andrew Ward"
+    },
+    "tax": {
+        "amount_excluding_tax": 92.39,
+        "amount_including_tax": 89.71,
+        "tax_amount": 25.0,
+        "total_ht": 478.22,
+        "total_ttc": 112.15
+    }
+}

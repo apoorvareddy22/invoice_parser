@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "USNV Blankenship FPO AE 67333",
+        "email": "hjenkins@example.net",
+        "phone": "612.588.0210x07951",
+        "vat_no": "rK72117289296"
+    },
+    "invoice": {
+        "date": "08.08.2003",
+        "due_date": "01.11.1995",
+        "market_reference": 171413,
+        "notes": "revolutionize user-centric methodologies",
+        "number": "8256-1433",
+        "reference": 491347,
+        "vat_no": "xL49096976653"
+    },
+    "payment": {
+        "net_total": 77.13,
+        "total": 917.9
+    },
+    "products": [
+        {
+            "amount": 381.75,
+            "description": "unleash rich niches",
+            "hours": 4.96,
+            "rate": 8.33
+        },
+        {
+            "amount": 117.57,
+            "description": "repurpose scalable solutions",
+            "hours": 5.63,
+            "rate": 5.5
+        },
+        {
+            "amount": 317.97,
+            "description": "mesh distributed technologies",
+            "hours": 3.08,
+            "rate": 2.81
+        }
+    ],
+    "seller": {
+        "address": "82658 Randy Vista Cabreraside, PA 84726",
+        "email": "msmith@example.org",
+        "name": "Sean Hudson"
+    },
+    "tax": {
+        "base": 17.2,
+        "tax_amount": 21.76,
+        "total_tax": 15.31
+    }
+}

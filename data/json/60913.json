@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "8699 Angela Throughway Apt. 214 Carlyhaven, NY 41258",
+        "business_no": "Np678",
+        "id": "Go990"
+    },
+    "invoice": {
+        "date": "07.02.2000",
+        "number": "1264-4080"
+    },
+    "payment": {
+        "due_date": "26.01.2007",
+        "total": 206.9
+    },
+    "products": [
+        {
+            "amount": 431.05,
+            "description": "aggregate best-of-breed schemas",
+            "quantity": 7.96,
+            "reference": "Lc-043",
+            "unit_price": 30.55
+        },
+        {
+            "amount": 289.44,
+            "description": "drive extensible content",
+            "quantity": 8.37,
+            "reference": "wl-481",
+            "unit_price": 40.25
+        },
+        {
+            "amount": 204.77,
+            "description": "unleash sticky networks",
+            "quantity": 8.38,
+            "reference": "VH-064",
+            "unit_price": 84.04
+        },
+        {
+            "amount": 103.11,
+            "description": "harness mission-critical e-markets",
+            "quantity": 2.4,
+            "reference": "nw-705",
+            "unit_price": 57.27
+        }
+    ],
+    "seller": {
+        "address": "85898 David Drive North Jennifer, MS 62072"
+    },
+    "tax": {
+        "base_ht": 337.93,
+        "regulations": 14.69,
+        "total_ht": 106.42,
+        "vat_amount": 12.84,
+        "vat_percentage": 25.84
+    }
+}

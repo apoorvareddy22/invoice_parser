@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "94363 Valdez Crest Suite 151 North Katie, WY 51744",
+        "email": "imiller@example.org",
+        "phone": "001-205-441-3667",
+        "vat_no": "YO24693227109"
+    },
+    "invoice": {
+        "date": "28.05.2004",
+        "due_date": "24.05.1991",
+        "market_reference": 539899,
+        "notes": "aggregate dynamic e-commerce",
+        "number": "2453-9027",
+        "reference": 279416,
+        "vat_no": "Sj61065208714"
+    },
+    "payment": {
+        "net_total": 73.78,
+        "total": 300.13
+    },
+    "products": [
+        {
+            "amount": 324.39,
+            "description": "generate holistic portals",
+            "hours": 9.01,
+            "rate": 5.46
+        }
+    ],
+    "seller": {
+        "address": "78844 Evans Ranch Apt. 332 West Markside, MI 19041",
+        "email": "andreajimenez@example.com",
+        "name": "Marcus Jones"
+    },
+    "tax": {
+        "base": 21.18,
+        "tax_amount": 10.32,
+        "total_tax": 17.01
+    }
+}

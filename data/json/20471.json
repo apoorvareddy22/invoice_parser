@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "5600 Schultz Creek Wyattborough, TX 97575",
+        "company_name": "Green, Christian and Johnson",
+        "email": "eddie07@example.net",
+        "name": "William Williams",
+        "phone": "652-666-5759x942"
+    },
+    "invoice": {
+        "date": "14.04.1990",
+        "due_date": "12.02.2003",
+        "number": "nGC63160207056"
+    },
+    "payment": {
+        "account_number": 6345115619,
+        "bank_name": "Scott-Davis",
+        "routing_number": 695651921
+    },
+    "products": [
+        {
+            "amount": 185.07,
+            "description": "innovate magnetic convergence",
+            "index": "10",
+            "quantity": 4.05,
+            "unit_price": 75.0
+        },
+        {
+            "amount": 442.81,
+            "description": "brand value-added relationships",
+            "index": "10",
+            "quantity": 4.42,
+            "unit_price": 30.73
+        },
+        {
+            "amount": 250.8,
+            "description": "benchmark dynamic markets",
+            "index": "4",
+            "quantity": 6.44,
+            "unit_price": 37.38
+        }
+    ],
+    "seller": {
+        "address": "USS Bates FPO AP 72453",
+        "company_name": "Cline, Reyes and Goodwin",
+        "email": "hayesnathan@example.com"
+    }
+}

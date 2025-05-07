@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "44140 Waters Place West Rebecca, NC 54717",
+        "company_name": "Collins-Gross",
+        "country": "Martinique",
+        "name": "Michelle Jones"
+    },
+    "invoice": {
+        "date": "03.07.2004",
+        "number": 530942
+    },
+    "payment": {
+        "discount_amount": 43.75,
+        "discount_percentage": 13.18,
+        "due": 130.18,
+        "sub_total": 142.56,
+        "total": 118.03
+    },
+    "products": [
+        {
+            "description": "implement open-source partnerships",
+            "index": "2",
+            "quantity": 7.56,
+            "total_price": 962.79,
+            "unit_price": 46.74
+        }
+    ],
+    "seller": {
+        "address": "32824 Victoria Glens Port Robintown, RI 93032",
+        "company_name": "Dillon PLC",
+        "vat_no": "ld17129005317"
+    }
+}

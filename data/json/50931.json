@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "PSC 3466, Box 1584 APO AA 37445",
+        "id": "aQ386"
+    },
+    "invoice": {
+        "bc_no": "Gg46629",
+        "currency_code": "MGA",
+        "date": "05.12.1999",
+        "due_date": "05.02.2001",
+        "number": 202227
+    },
+    "payment": {
+        "bank_name": "King-Jensen",
+        "bic": "OKLMGB96",
+        "iban": "LLVV75387353852783"
+    },
+    "products": [
+        {
+            "amount": 254.26,
+            "description": "iterate interactive metrics",
+            "index": "1",
+            "price": 129.13,
+            "quantity": 6.34,
+            "tax_amount": 46.11,
+            "total_ttc": 355.7,
+            "vat_amount": 1.86
+        },
+        {
+            "amount": 248.16,
+            "description": "brand B2C supply-chains",
+            "index": "4",
+            "price": 187.67,
+            "quantity": 7.1,
+            "tax_amount": 87.31,
+            "total_ttc": 306.16,
+            "vat_amount": 3.23
+        },
+        {
+            "amount": 170.81,
+            "description": "visualize next-generation supply-chains",
+            "index": "10",
+            "price": 455.3,
+            "quantity": 3.02,
+            "tax_amount": 48.78,
+            "total_ttc": 455.39,
+            "vat_amount": 1.17
+        }
+    ],
+    "seller": {
+        "name": "William Simpson"
+    },
+    "supplier": {
+        "address": "3843 Cortez Drive Vegamouth, IA 66100",
+        "name": "Christopher French"
+    },
+    "tax": {
+        "amount_excluding_tax": 12.44,
+        "amount_including_tax": 77.11,
+        "tax_amount": 13.16,
+        "total_ht": 461.78,
+        "total_ttc": 289.73
+    }
+}

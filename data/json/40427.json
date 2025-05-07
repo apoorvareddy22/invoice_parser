@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "80385 Armstrong Summit Suite 613 New Luke, ID 69665"
+    },
+    "invoice": {
+        "bc_no": "iy69808",
+        "date": "22.08.2008",
+        "maturity_date": "06.11.2005",
+        "number": 995543
+    },
+    "products": [
+        {
+            "amount": 25.43,
+            "description": "streamline mission-critical models",
+            "quantity": 6.16,
+            "unit_price": 36.58,
+            "vat_amount": 2.54
+        }
+    ],
+    "seller": {
+        "address": "7063 Ford Spring Diazville, MN 51466"
+    },
+    "tax": {
+        "amount_excluding_tax": 94.28,
+        "amount_including_tax": 115.95,
+        "tax_amount": 18.14
+    }
+}

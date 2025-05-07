@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "4980 Wallace Green Suite 397 New Nicholas, MS 75045",
+        "company_name": "Morris-Smith",
+        "email": "collinsbrian@example.com",
+        "name": "Patricia Gonzalez",
+        "phone": "797-611-7748x41474"
+    },
+    "invoice": {
+        "date": "20.02.2000",
+        "due_date": "28.04.1991",
+        "number": "OqV76357905873"
+    },
+    "payment": {
+        "account_number": 9423689306,
+        "bank_name": "Miller, Murphy and Benjamin",
+        "routing_number": 328435307
+    },
+    "products": [
+        {
+            "amount": 330.87,
+            "description": "redefine out-of-the-box niches",
+            "index": "6",
+            "quantity": 4.05,
+            "unit_price": 68.77
+        },
+        {
+            "amount": 344.6,
+            "description": "maximize front-end e-business",
+            "index": "6",
+            "quantity": 4.35,
+            "unit_price": 48.7
+        },
+        {
+            "amount": 217.36,
+            "description": "unleash rich architectures",
+            "index": "8",
+            "quantity": 4.2,
+            "unit_price": 54.57
+        },
+        {
+            "amount": 154.0,
+            "description": "incubate web-enabled networks",
+            "index": "2",
+            "quantity": 7.35,
+            "unit_price": 59.27
+        }
+    ],
+    "seller": {
+        "address": "37505 Smith Street Apt. 791 Annefort, ND 53243",
+        "company_name": "Villa Ltd",
+        "email": "saraadams@example.com"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "2125 Chad Highway Apt. 533 Port Dianeland, NE 52948",
+        "company_name": "Dean LLC",
+        "country": "Denmark",
+        "name": "Daniel Evans"
+    },
+    "invoice": {
+        "date": "10.11.2003",
+        "number": 261604
+    },
+    "payment": {
+        "discount_amount": 38.33,
+        "discount_percentage": 7.67,
+        "due": 15.29,
+        "sub_total": 89.61,
+        "total": 324.21
+    },
+    "products": [
+        {
+            "description": "engineer robust metrics",
+            "index": "3",
+            "quantity": 4.51,
+            "total_price": 670.28,
+            "unit_price": 18.95
+        }
+    ],
+    "seller": {
+        "address": "025 Summer Crest Taylorton, SD 52320",
+        "company_name": "Bentley and Sons",
+        "vat_no": "bT69100863888"
+    }
+}

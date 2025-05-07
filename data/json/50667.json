@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "73449 Wyatt Crest Barberfort, PA 53774",
+        "id": "js123"
+    },
+    "invoice": {
+        "bc_no": "eX66778",
+        "currency_code": "MGA",
+        "date": "03.01.2017",
+        "due_date": "17.03.2020",
+        "number": 559313
+    },
+    "payment": {
+        "bank_name": "Young and Sons",
+        "bic": "MVZWGB07J5Z",
+        "iban": "CSSD05576577024269"
+    },
+    "products": [
+        {
+            "amount": 273.93,
+            "description": "brand out-of-the-box interfaces",
+            "index": "5",
+            "price": 301.66,
+            "quantity": 1.93,
+            "tax_amount": 55.09,
+            "total_ttc": 128.34,
+            "vat_amount": 0.66
+        },
+        {
+            "amount": 386.02,
+            "description": "disintermediate rich channels",
+            "index": "6",
+            "price": 44.02,
+            "quantity": 7.75,
+            "tax_amount": 87.76,
+            "total_ttc": 128.99,
+            "vat_amount": 8.16
+        },
+        {
+            "amount": 256.45,
+            "description": "brand integrated deliverables",
+            "index": "4",
+            "price": 395.72,
+            "quantity": 4.56,
+            "tax_amount": 31.37,
+            "total_ttc": 260.6,
+            "vat_amount": 2.37
+        },
+        {
+            "amount": 468.19,
+            "description": "transition innovative relationships",
+            "index": "2",
+            "price": 42.31,
+            "quantity": 1.84,
+            "tax_amount": 48.91,
+            "total_ttc": 291.02,
+            "vat_amount": 5.63
+        }
+    ],
+    "seller": {
+        "name": "Jean Smith"
+    },
+    "supplier": {
+        "address": "00888 Leonard Flat Apt. 833 Nancyville, DE 44046",
+        "name": "Samantha Stevens"
+    },
+    "tax": {
+        "amount_excluding_tax": 171.21,
+        "amount_including_tax": 164.26,
+        "tax_amount": 14.62,
+        "total_ht": 459.45,
+        "total_ttc": 176.18
+    }
+}

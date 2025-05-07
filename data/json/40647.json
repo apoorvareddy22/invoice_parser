@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "92600 Long Drive Suite 637 New Sean, NJ 41663"
+    },
+    "invoice": {
+        "bc_no": "xo33610",
+        "date": "30.12.2017",
+        "maturity_date": "03.06.2003",
+        "number": 700688
+    },
+    "products": [
+        {
+            "amount": 449.27,
+            "description": "embrace real-time convergence",
+            "quantity": 5.19,
+            "unit_price": 95.35,
+            "vat_amount": 0.7
+        },
+        {
+            "amount": 293.37,
+            "description": "revolutionize leading-edge ROI",
+            "quantity": 1.9,
+            "unit_price": 64.03,
+            "vat_amount": 8.88
+        },
+        {
+            "amount": 181.29,
+            "description": "extend next-generation applications",
+            "quantity": 3.57,
+            "unit_price": 39.84,
+            "vat_amount": 0.33
+        },
+        {
+            "amount": 497.23,
+            "description": "matrix robust e-business",
+            "quantity": 8.94,
+            "unit_price": 88.53,
+            "vat_amount": 7.02
+        },
+        {
+            "amount": 336.15,
+            "description": "incubate compelling e-commerce",
+            "quantity": 5.35,
+            "unit_price": 94.76,
+            "vat_amount": 6.64
+        }
+    ],
+    "seller": {
+        "address": "28390 Hale Forest Ramirezport, PA 61469"
+    },
+    "tax": {
+        "amount_excluding_tax": 164.19,
+        "amount_including_tax": 52.32,
+        "tax_amount": 14.24
+    }
+}

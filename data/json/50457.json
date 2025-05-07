@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "7523 Fields Curve Suite 890 Juarezfurt, PR 50094",
+        "id": "Pa605"
+    },
+    "invoice": {
+        "bc_no": "za02316",
+        "currency_code": "GHS",
+        "date": "29.04.2023",
+        "due_date": "05.12.2022",
+        "number": 900082
+    },
+    "payment": {
+        "bank_name": "Diaz-Mitchell",
+        "bic": "BYLYGBZN",
+        "iban": "QZWL02136474624004"
+    },
+    "products": [
+        {
+            "amount": 389.88,
+            "description": "maximize 24/365 supply-chains",
+            "index": "3",
+            "price": 128.18,
+            "quantity": 5.82,
+            "tax_amount": 44.48,
+            "total_ttc": 424.48,
+            "vat_amount": 2.96
+        },
+        {
+            "amount": 375.69,
+            "description": "harness extensible partnerships",
+            "index": "9",
+            "price": 236.72,
+            "quantity": 7.24,
+            "tax_amount": 41.7,
+            "total_ttc": 318.97,
+            "vat_amount": 5.56
+        },
+        {
+            "amount": 479.92,
+            "description": "optimize cross-platform partnerships",
+            "index": "3",
+            "price": 233.51,
+            "quantity": 7.81,
+            "tax_amount": 69.85,
+            "total_ttc": 486.96,
+            "vat_amount": 7.67
+        },
+        {
+            "amount": 462.52,
+            "description": "orchestrate bleeding-edge vortals",
+            "index": "6",
+            "price": 479.49,
+            "quantity": 8.57,
+            "tax_amount": 74.43,
+            "total_ttc": 257.73,
+            "vat_amount": 8.53
+        },
+        {
+            "amount": 46.32,
+            "description": "cultivate distributed initiatives",
+            "index": "1",
+            "price": 244.33,
+            "quantity": 7.56,
+            "tax_amount": 98.41,
+            "total_ttc": 446.2,
+            "vat_amount": 15.24
+        },
+        {
+            "amount": 314.73,
+            "description": "engineer innovative networks",
+            "index": "1",
+            "price": 173.69,
+            "quantity": 8.51,
+            "tax_amount": 16.82,
+            "total_ttc": 142.09,
+            "vat_amount": 5.38
+        }
+    ],
+    "seller": {
+        "name": "Eric Berry"
+    },
+    "supplier": {
+        "address": "87625 Wallace Track Apt. 002 East Karentown, VT 61810",
+        "name": "Sue Lyons MD"
+    },
+    "tax": {
+        "amount_excluding_tax": 120.72,
+        "amount_including_tax": 190.47,
+        "tax_amount": 10.01,
+        "total_ht": 194.45,
+        "total_ttc": 276.48
+    }
+}

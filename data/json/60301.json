@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "32541 Barnes Spur Suite 905 East Michelle, MN 48529",
+        "business_no": "tm521",
+        "id": "ms615"
+    },
+    "invoice": {
+        "date": "06.03.2015",
+        "number": "4066-5261"
+    },
+    "payment": {
+        "due_date": "07.10.2001",
+        "total": 864.1
+    },
+    "products": [
+        {
+            "amount": 56.53,
+            "description": "integrate revolutionary mindshare",
+            "quantity": 4.09,
+            "reference": "zC-513",
+            "unit_price": 22.72
+        }
+    ],
+    "seller": {
+        "address": "49482 Payne Divide Apt. 136 North Deborah, VA 75742"
+    },
+    "tax": {
+        "base_ht": 223.84,
+        "regulations": 19.46,
+        "total_ht": 392.52,
+        "vat_amount": 111.06,
+        "vat_percentage": 18.29
+    }
+}

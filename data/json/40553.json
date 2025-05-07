@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "9345 Carter Fort Apt. 516 West Rebecca, VA 04396"
+    },
+    "invoice": {
+        "bc_no": "AQ24215",
+        "date": "03.12.1990",
+        "maturity_date": "19.02.2004",
+        "number": 451555
+    },
+    "products": [
+        {
+            "amount": 299.64,
+            "description": "syndicate scalable communities",
+            "quantity": 1.36,
+            "unit_price": 21.18,
+            "vat_amount": 12.84
+        },
+        {
+            "amount": 71.28,
+            "description": "whiteboard B2C e-commerce",
+            "quantity": 6.99,
+            "unit_price": 31.69,
+            "vat_amount": 2.21
+        },
+        {
+            "amount": 208.77,
+            "description": "extend bleeding-edge networks",
+            "quantity": 4.58,
+            "unit_price": 27.2,
+            "vat_amount": 1.43
+        },
+        {
+            "amount": 9.96,
+            "description": "enable world-class deliverables",
+            "quantity": 2.31,
+            "unit_price": 79.25,
+            "vat_amount": 1.75
+        }
+    ],
+    "seller": {
+        "address": "31206 Jeremy Springs Apt. 245 Martinbury, OR 87228"
+    },
+    "tax": {
+        "amount_excluding_tax": 160.46,
+        "amount_including_tax": 80.19,
+        "tax_amount": 25.58
+    }
+}

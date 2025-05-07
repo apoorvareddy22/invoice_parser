@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "15843 Thomas Fork Tylerland, IA 96909"
+    },
+    "invoice": {
+        "bc_no": "WH05453",
+        "date": "17.01.2014",
+        "maturity_date": "17.01.2017",
+        "number": 264225
+    },
+    "products": [
+        {
+            "amount": 197.21,
+            "description": "benchmark mission-critical interfaces",
+            "quantity": 6.92,
+            "unit_price": 69.96,
+            "vat_amount": 8.34
+        },
+        {
+            "amount": 336.58,
+            "description": "utilize vertical models",
+            "quantity": 8.93,
+            "unit_price": 30.79,
+            "vat_amount": 15.95
+        },
+        {
+            "amount": 222.59,
+            "description": "aggregate virtual users",
+            "quantity": 2.73,
+            "unit_price": 60.58,
+            "vat_amount": 0.79
+        },
+        {
+            "amount": 454.45,
+            "description": "drive best-of-breed interfaces",
+            "quantity": 4.05,
+            "unit_price": 66.23,
+            "vat_amount": 4.77
+        },
+        {
+            "amount": 233.42,
+            "description": "synthesize best-of-breed e-tailers",
+            "quantity": 5.89,
+            "unit_price": 37.77,
+            "vat_amount": 10.88
+        },
+        {
+            "amount": 139.48,
+            "description": "grow 24/7 info-mediaries",
+            "quantity": 1.26,
+            "unit_price": 63.44,
+            "vat_amount": 6.62
+        }
+    ],
+    "seller": {
+        "address": "9975 Steven Row Apt. 044 New Michael, MN 57254"
+    },
+    "tax": {
+        "amount_excluding_tax": 186.85,
+        "amount_including_tax": 142.27,
+        "tax_amount": 25.16
+    }
+}

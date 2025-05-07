@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "900 Sandra Square Lake Cheryl, MP 09950",
+        "business_no": "Jj417",
+        "id": "EQ598"
+    },
+    "invoice": {
+        "date": "02.08.2018",
+        "number": "5756-0290"
+    },
+    "payment": {
+        "due_date": "28.06.2022",
+        "total": 789.06
+    },
+    "products": [
+        {
+            "amount": 491.71,
+            "description": "enhance web-enabled e-services",
+            "quantity": 1.19,
+            "reference": "cG-751",
+            "unit_price": 18.37
+        },
+        {
+            "amount": 213.19,
+            "description": "unleash open-source synergies",
+            "quantity": 6.41,
+            "reference": "cl-205",
+            "unit_price": 66.74
+        },
+        {
+            "amount": 467.84,
+            "description": "exploit bleeding-edge models",
+            "quantity": 5.2,
+            "reference": "Kj-728",
+            "unit_price": 61.37
+        },
+        {
+            "amount": 254.17,
+            "description": "scale front-end functionalities",
+            "quantity": 5.44,
+            "reference": "kl-092",
+            "unit_price": 12.29
+        },
+        {
+            "amount": 246.38,
+            "description": "whiteboard cutting-edge deliverables",
+            "quantity": 5.73,
+            "reference": "yx-998",
+            "unit_price": 26.17
+        }
+    ],
+    "seller": {
+        "address": "14953 Scott Pine Melissaville, RI 01984"
+    },
+    "tax": {
+        "base_ht": 493.67,
+        "regulations": 21.09,
+        "total_ht": 422.49,
+        "vat_amount": 44.81,
+        "vat_percentage": 13.44
+    }
+}

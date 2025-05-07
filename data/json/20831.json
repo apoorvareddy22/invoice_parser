@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "669 May Ridges Suite 244 Lake Davidside, SC 20839",
+        "company_name": "Burke-Jones",
+        "email": "apeterson@example.com",
+        "name": "Stephen King",
+        "phone": "001-316-772-8817x1223"
+    },
+    "invoice": {
+        "date": "05.05.2016",
+        "due_date": "21.06.2015",
+        "number": "KzQ76019142464"
+    },
+    "payment": {
+        "account_number": 2046104028,
+        "bank_name": "Maxwell-Blankenship",
+        "routing_number": 609308276
+    },
+    "products": [
+        {
+            "amount": 226.32,
+            "description": "architect frictionless technologies",
+            "index": "5",
+            "quantity": 2.69,
+            "unit_price": 77.03
+        },
+        {
+            "amount": 276.17,
+            "description": "enhance 24/365 niches",
+            "index": "9",
+            "quantity": 5.44,
+            "unit_price": 97.14
+        },
+        {
+            "amount": 50.67,
+            "description": "architect leading-edge partnerships",
+            "index": "8",
+            "quantity": 5.95,
+            "unit_price": 75.0
+        },
+        {
+            "amount": 232.77,
+            "description": "cultivate interactive schemas",
+            "index": "10",
+            "quantity": 7.47,
+            "unit_price": 21.62
+        }
+    ],
+    "seller": {
+        "address": "1440 Gay Key Apt. 285 New Paulville, SC 80721",
+        "company_name": "Stewart Ltd",
+        "email": "cristinamyers@example.net"
+    }
+}

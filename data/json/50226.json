@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "7466 Ronald River Apt. 215 Lake Sarahmouth, MT 34501",
+        "id": "IT046"
+    },
+    "invoice": {
+        "bc_no": "IK97092",
+        "currency_code": "FJD",
+        "date": "23.04.2007",
+        "due_date": "13.11.2003",
+        "number": 323408
+    },
+    "payment": {
+        "bank_name": "Lambert, Clark and Beasley",
+        "bic": "UIDUGBFDK9V",
+        "iban": "HJZB60655462411291"
+    },
+    "products": [
+        {
+            "amount": 241.75,
+            "description": "cultivate cross-media architectures",
+            "index": "10",
+            "price": 108.66,
+            "quantity": 9.49,
+            "tax_amount": 20.16,
+            "total_ttc": 337.78,
+            "vat_amount": 14.83
+        },
+        {
+            "amount": 98.92,
+            "description": "seize transparent vortals",
+            "index": "8",
+            "price": 196.97,
+            "quantity": 7.8,
+            "tax_amount": 45.31,
+            "total_ttc": 155.91,
+            "vat_amount": 0.51
+        }
+    ],
+    "seller": {
+        "name": "Daniel Gomez"
+    },
+    "supplier": {
+        "address": "Unit 2774 Box 0222 DPO AP 73395",
+        "name": "Monica King"
+    },
+    "tax": {
+        "amount_excluding_tax": 91.38,
+        "amount_including_tax": 25.7,
+        "tax_amount": 29.68,
+        "total_ht": 385.46,
+        "total_ttc": 375.76
+    }
+}

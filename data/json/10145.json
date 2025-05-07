@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "4023 Kimberly Crossroad Apt. 974 South Mario, MS 86430",
+        "email": "jasonbrennan@example.com",
+        "phone": "482-258-8613x7877",
+        "vat_no": "wj67509625955"
+    },
+    "invoice": {
+        "date": "12.05.2018",
+        "due_date": "18.09.2007",
+        "market_reference": 293593,
+        "notes": "re-contextualize web-enabled infrastructures",
+        "number": "4369-1421",
+        "reference": 263836,
+        "vat_no": "tL04853054095"
+    },
+    "payment": {
+        "net_total": 49.96,
+        "total": 337.12
+    },
+    "products": [
+        {
+            "amount": 450.28,
+            "description": "matrix enterprise markets",
+            "hours": 8.85,
+            "rate": 1.18
+        },
+        {
+            "amount": 229.9,
+            "description": "unleash clicks-and-mortar deliverables",
+            "hours": 9.82,
+            "rate": 6.5
+        },
+        {
+            "amount": 185.44,
+            "description": "empower out-of-the-box e-business",
+            "hours": 5.22,
+            "rate": 5.63
+        },
+        {
+            "amount": 350.97,
+            "description": "e-enable world-class metrics",
+            "hours": 4.52,
+            "rate": 3.05
+        },
+        {
+            "amount": 473.3,
+            "description": "envisioneer end-to-end infrastructures",
+            "hours": 5.83,
+            "rate": 7.48
+        },
+        {
+            "amount": 244.19,
+            "description": "evolve enterprise metrics",
+            "hours": 6.63,
+            "rate": 5.49
+        }
+    ],
+    "seller": {
+        "address": "5645 Weber Drives Brandyberg, VI 04365",
+        "email": "bruce09@example.org",
+        "name": "Thomas Turner"
+    },
+    "tax": {
+        "base": 27.15,
+        "tax_amount": 15.41,
+        "total_tax": 20.0
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "02681 Beth Cove Watkinsbury, VA 59318",
+        "email": "amber32@example.com",
+        "phone": "405-217-0608x0908",
+        "vat_no": "WJ61898194063"
+    },
+    "invoice": {
+        "date": "25.06.2023",
+        "due_date": "16.06.2000",
+        "market_reference": 770609,
+        "notes": "integrate open-source mindshare",
+        "number": "8614-1755",
+        "reference": 857472,
+        "vat_no": "tL87756055227"
+    },
+    "payment": {
+        "net_total": 94.33,
+        "total": 125.47
+    },
+    "products": [
+        {
+            "amount": 59.9,
+            "description": "monetize open-source models",
+            "hours": 1.13,
+            "rate": 9.2
+        },
+        {
+            "amount": 321.73,
+            "description": "engage real-time relationships",
+            "hours": 6.42,
+            "rate": 4.3
+        },
+        {
+            "amount": 241.84,
+            "description": "strategize revolutionary architectures",
+            "hours": 2.45,
+            "rate": 8.85
+        },
+        {
+            "amount": 402.41,
+            "description": "brand 24/365 mindshare",
+            "hours": 9.31,
+            "rate": 6.68
+        }
+    ],
+    "seller": {
+        "address": "973 Gabriel Springs Apt. 244 Wilkersonmouth, CT 22182",
+        "email": "christine83@example.com",
+        "name": "Julie Henderson"
+    },
+    "tax": {
+        "base": 11.58,
+        "tax_amount": 10.75,
+        "total_tax": 19.45
+    }
+}

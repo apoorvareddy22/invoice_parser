@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "43222 Jill Junctions Ashleyville, NV 25697"
+    },
+    "invoice": {
+        "bc_no": "vB41210",
+        "date": "22.05.1990",
+        "maturity_date": "04.06.2011",
+        "number": 227908
+    },
+    "products": [
+        {
+            "amount": 379.17,
+            "description": "transform value-added eyeballs",
+            "quantity": 9.29,
+            "unit_price": 39.06,
+            "vat_amount": 10.4
+        },
+        {
+            "amount": 43.95,
+            "description": "streamline front-end mindshare",
+            "quantity": 5.54,
+            "unit_price": 71.99,
+            "vat_amount": 9.22
+        }
+    ],
+    "seller": {
+        "address": "60424 Brady Estate Zhangland, UT 24002"
+    },
+    "tax": {
+        "amount_excluding_tax": 53.86,
+        "amount_including_tax": 82.27,
+        "tax_amount": 18.85
+    }
+}

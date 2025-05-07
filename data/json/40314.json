@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "8633 Seth Square Suite 636 Carriestad, WV 24381"
+    },
+    "invoice": {
+        "bc_no": "GJ23846",
+        "date": "26.08.2017",
+        "maturity_date": "23.05.2019",
+        "number": 358355
+    },
+    "products": [
+        {
+            "amount": 454.96,
+            "description": "e-enable interactive deliverables",
+            "quantity": 8.58,
+            "unit_price": 38.16,
+            "vat_amount": 13.25
+        }
+    ],
+    "seller": {
+        "address": "1195 Jennifer Harbors Apt. 032 Klinetown, PR 12813"
+    },
+    "tax": {
+        "amount_excluding_tax": 153.0,
+        "amount_including_tax": 77.01,
+        "tax_amount": 13.99
+    }
+}

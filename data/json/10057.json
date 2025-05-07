@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "2424 Kathryn Forest Suite 909 Josephside, MI 43319",
+        "email": "barbermaureen@example.com",
+        "phone": "835.452.5205",
+        "vat_no": "lK51353972026"
+    },
+    "invoice": {
+        "date": "14.03.2007",
+        "due_date": "23.10.2017",
+        "market_reference": 756202,
+        "notes": "strategize leading-edge convergence",
+        "number": "3283-9691",
+        "reference": 482138,
+        "vat_no": "LO29230081117"
+    },
+    "payment": {
+        "net_total": 173.58,
+        "total": 265.73
+    },
+    "products": [
+        {
+            "amount": 73.8,
+            "description": "unleash cross-platform communities",
+            "hours": 2.24,
+            "rate": 5.77
+        },
+        {
+            "amount": 451.22,
+            "description": "productize web-enabled systems",
+            "hours": 6.78,
+            "rate": 9.67
+        },
+        {
+            "amount": 263.25,
+            "description": "redefine 24/365 synergies",
+            "hours": 5.64,
+            "rate": 9.18
+        },
+        {
+            "amount": 301.59,
+            "description": "exploit scalable users",
+            "hours": 4.03,
+            "rate": 6.68
+        },
+        {
+            "amount": 318.16,
+            "description": "re-intermediate vertical methodologies",
+            "hours": 8.81,
+            "rate": 2.55
+        }
+    ],
+    "seller": {
+        "address": "8170 Laura Canyon Suite 657 Jenniferland, TN 75269",
+        "email": "nathancaldwell@example.com",
+        "name": "Timothy Carney"
+    },
+    "tax": {
+        "base": 13.92,
+        "tax_amount": 13.52,
+        "total_tax": 15.93
+    }
+}

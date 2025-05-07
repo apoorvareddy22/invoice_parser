@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "50174 Smith Meadows Cynthiaburgh, AR 84300",
+        "company_name": "Smith, Salas and Ritter",
+        "email": "jennifer98@example.com",
+        "name": "Richard Reyes",
+        "phone": "+1-750-547-5984x68406"
+    },
+    "invoice": {
+        "date": "16.04.2007",
+        "due_date": "07.02.1996",
+        "number": "DBc07906830314"
+    },
+    "payment": {
+        "account_number": 4342811172,
+        "bank_name": "Phillips-Anderson",
+        "routing_number": 163634279
+    },
+    "products": [
+        {
+            "amount": 235.34,
+            "description": "engage B2C bandwidth",
+            "index": "10",
+            "quantity": 3.82,
+            "unit_price": 47.84
+        },
+        {
+            "amount": 456.39,
+            "description": "visualize virtual e-services",
+            "index": "5",
+            "quantity": 7.77,
+            "unit_price": 23.78
+        }
+    ],
+    "seller": {
+        "address": "Unit 9381 Box 1343 DPO AA 82374",
+        "company_name": "Cooper, Garcia and Sanders",
+        "email": "johnsonkim@example.com"
+    }
+}

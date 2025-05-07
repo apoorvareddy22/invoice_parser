@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "255 Kayla Springs Suite 101 Lake Joseph, NH 15253"
+    },
+    "invoice": {
+        "bc_no": "sG01489",
+        "date": "11.03.1996",
+        "maturity_date": "01.03.2001",
+        "number": 487023
+    },
+    "products": [
+        {
+            "amount": 214.52,
+            "description": "facilitate world-class e-tailers",
+            "quantity": 8.15,
+            "unit_price": 85.93,
+            "vat_amount": 2.22
+        }
+    ],
+    "seller": {
+        "address": "02176 Frank Points West Angela, NH 18786"
+    },
+    "tax": {
+        "amount_excluding_tax": 127.39,
+        "amount_including_tax": 111.94,
+        "tax_amount": 23.38
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "8433 Kelly Gateway Apt. 831 East Lynn, KS 49077",
+        "id": "we595"
+    },
+    "invoice": {
+        "bc_no": "ll96691",
+        "currency_code": "ZMW",
+        "date": "21.09.2016",
+        "due_date": "20.10.2016",
+        "number": 202093
+    },
+    "payment": {
+        "bank_name": "Moon PLC",
+        "bic": "ZTAJGB21NJN",
+        "iban": "GKCP13235026283767"
+    },
+    "products": [
+        {
+            "amount": 300.58,
+            "description": "drive front-end web-readiness",
+            "index": "6",
+            "price": 256.84,
+            "quantity": 1.15,
+            "tax_amount": 14.43,
+            "total_ttc": 463.04,
+            "vat_amount": 3.71
+        },
+        {
+            "amount": 306.36,
+            "description": "visualize integrated relationships",
+            "index": "4",
+            "price": 116.57,
+            "quantity": 3.79,
+            "tax_amount": 54.82,
+            "total_ttc": 444.86,
+            "vat_amount": 2.87
+        },
+        {
+            "amount": 426.03,
+            "description": "repurpose rich technologies",
+            "index": "5",
+            "price": 430.03,
+            "quantity": 4.96,
+            "tax_amount": 79.25,
+            "total_ttc": 340.82,
+            "vat_amount": 11.9
+        },
+        {
+            "amount": 108.78,
+            "description": "streamline proactive portals",
+            "index": "2",
+            "price": 234.81,
+            "quantity": 2.57,
+            "tax_amount": 25.15,
+            "total_ttc": 456.22,
+            "vat_amount": 1.74
+        },
+        {
+            "amount": 460.4,
+            "description": "engineer collaborative eyeballs",
+            "index": "8",
+            "price": 194.27,
+            "quantity": 7.06,
+            "tax_amount": 62.62,
+            "total_ttc": 258.2,
+            "vat_amount": 4.43
+        }
+    ],
+    "seller": {
+        "name": "Arthur Garner"
+    },
+    "supplier": {
+        "address": "6914 Christopher Mountains Apt. 633 Veronicamouth, DC 64255",
+        "name": "Cindy Holder"
+    },
+    "tax": {
+        "amount_excluding_tax": 72.75,
+        "amount_including_tax": 72.74,
+        "tax_amount": 25.82,
+        "total_ht": 198.28,
+        "total_ttc": 462.67
+    }
+}

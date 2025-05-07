@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "150 Shawn Manors Suite 734 Christopherville, DC 53750"
+    },
+    "invoice": {
+        "bc_no": "NZ09856",
+        "date": "08.12.2002",
+        "maturity_date": "01.07.2014",
+        "number": 750319
+    },
+    "products": [
+        {
+            "amount": 222.81,
+            "description": "streamline strategic synergies",
+            "quantity": 2.19,
+            "unit_price": 45.68,
+            "vat_amount": 8.54
+        },
+        {
+            "amount": 374.77,
+            "description": "deploy killer partnerships",
+            "quantity": 5.4,
+            "unit_price": 42.9,
+            "vat_amount": 7.39
+        },
+        {
+            "amount": 79.98,
+            "description": "streamline out-of-the-box ROI",
+            "quantity": 3.71,
+            "unit_price": 13.14,
+            "vat_amount": 4.34
+        },
+        {
+            "amount": 390.21,
+            "description": "facilitate B2B infrastructures",
+            "quantity": 8.0,
+            "unit_price": 15.86,
+            "vat_amount": 4.76
+        },
+        {
+            "amount": 108.64,
+            "description": "mesh collaborative models",
+            "quantity": 1.62,
+            "unit_price": 74.24,
+            "vat_amount": 0.81
+        }
+    ],
+    "seller": {
+        "address": "073 Brown Lakes Apt. 800 Port Jeff, MP 55141"
+    },
+    "tax": {
+        "amount_excluding_tax": 73.2,
+        "amount_including_tax": 129.32,
+        "tax_amount": 17.81
+    }
+}

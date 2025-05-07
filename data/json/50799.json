@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "548 Riley Branch Suite 562 Katrinaberg, NJ 91563",
+        "id": "fi332"
+    },
+    "invoice": {
+        "bc_no": "So45419",
+        "currency_code": "LSL",
+        "date": "21.09.2018",
+        "due_date": "07.06.2017",
+        "number": 274324
+    },
+    "payment": {
+        "bank_name": "Weiss-Harrison",
+        "bic": "FCMSGB41",
+        "iban": "ULYV61591723454627"
+    },
+    "products": [
+        {
+            "amount": 73.61,
+            "description": "synthesize sticky content",
+            "index": "6",
+            "price": 135.74,
+            "quantity": 6.98,
+            "tax_amount": 75.1,
+            "total_ttc": 336.85,
+            "vat_amount": 5.68
+        },
+        {
+            "amount": 364.2,
+            "description": "grow innovative niches",
+            "index": "3",
+            "price": 157.27,
+            "quantity": 3.02,
+            "tax_amount": 16.63,
+            "total_ttc": 125.71,
+            "vat_amount": 0.62
+        },
+        {
+            "amount": 202.22,
+            "description": "enhance strategic e-tailers",
+            "index": "8",
+            "price": 491.56,
+            "quantity": 4.5,
+            "tax_amount": 80.41,
+            "total_ttc": 136.11,
+            "vat_amount": 10.83
+        },
+        {
+            "amount": 222.21,
+            "description": "optimize one-to-one architectures",
+            "index": "7",
+            "price": 12.83,
+            "quantity": 9.57,
+            "tax_amount": 36.26,
+            "total_ttc": 357.24,
+            "vat_amount": 16.19
+        }
+    ],
+    "seller": {
+        "name": "Zachary Webb"
+    },
+    "supplier": {
+        "address": "723 Katie Terrace Apt. 476 Jacksonborough, VA 42556",
+        "name": "Tommy Davis"
+    },
+    "tax": {
+        "amount_excluding_tax": 22.91,
+        "amount_including_tax": 100.15,
+        "tax_amount": 29.96,
+        "total_ht": 250.12,
+        "total_ttc": 273.19
+    }
+}

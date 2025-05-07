@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "14088 Jones Rapids Lake Georgeville, TX 96751"
+    },
+    "invoice": {
+        "bc_no": "sq02705",
+        "date": "11.02.2017",
+        "maturity_date": "28.07.2017",
+        "number": 806872
+    },
+    "products": [
+        {
+            "amount": 235.99,
+            "description": "drive next-generation niches",
+            "quantity": 9.29,
+            "unit_price": 46.7,
+            "vat_amount": 14.94
+        },
+        {
+            "amount": 239.85,
+            "description": "extend holistic deliverables",
+            "quantity": 8.89,
+            "unit_price": 87.43,
+            "vat_amount": 1.3
+        }
+    ],
+    "seller": {
+        "address": "367 Amy Cape Loganview, NE 77564"
+    },
+    "tax": {
+        "amount_excluding_tax": 52.71,
+        "amount_including_tax": 151.24,
+        "tax_amount": 26.84
+    }
+}

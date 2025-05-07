@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "46553 Cowan Freeway Suite 248 Wilsonborough, CA 58725",
+        "business_no": "qc082",
+        "id": "zI457"
+    },
+    "invoice": {
+        "date": "03.12.2004",
+        "number": "6780-5108"
+    },
+    "payment": {
+        "due_date": "29.02.1996",
+        "total": 140.02
+    },
+    "products": [
+        {
+            "amount": 250.01,
+            "description": "incentivize web-enabled partnerships",
+            "quantity": 3.04,
+            "reference": "iR-579",
+            "unit_price": 15.5
+        },
+        {
+            "amount": 212.19,
+            "description": "grow holistic eyeballs",
+            "quantity": 6.94,
+            "reference": "rW-267",
+            "unit_price": 30.82
+        },
+        {
+            "amount": 303.63,
+            "description": "visualize holistic action-items",
+            "quantity": 4.35,
+            "reference": "wL-059",
+            "unit_price": 87.36
+        }
+    ],
+    "seller": {
+        "address": "075 Hayes Coves Suite 590 Barbarafort, IL 50737"
+    },
+    "tax": {
+        "base_ht": 270.05,
+        "regulations": 22.66,
+        "total_ht": 406.76,
+        "vat_amount": 194.51,
+        "vat_percentage": 11.9
+    }
+}

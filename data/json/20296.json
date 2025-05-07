@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "54920 Ian Center Haysstad, MS 52304",
+        "company_name": "Beard-Anderson",
+        "email": "wjenkins@example.net",
+        "name": "Margaret Mcbride",
+        "phone": "001-408-524-3147x7172"
+    },
+    "invoice": {
+        "date": "25.10.1999",
+        "due_date": "13.10.2008",
+        "number": "bIs42053177789"
+    },
+    "payment": {
+        "account_number": 4839299153,
+        "bank_name": "Young-Delgado",
+        "routing_number": 292055123
+    },
+    "products": [
+        {
+            "amount": 379.23,
+            "description": "visualize e-business vortals",
+            "index": "3",
+            "quantity": 5.32,
+            "unit_price": 81.69
+        },
+        {
+            "amount": 145.95,
+            "description": "integrate bleeding-edge convergence",
+            "index": "9",
+            "quantity": 6.71,
+            "unit_price": 69.31
+        }
+    ],
+    "seller": {
+        "address": "Unit 6580 Box 2372 DPO AA 34936",
+        "company_name": "Johnson-Ortiz",
+        "email": "vincent99@example.net"
+    }
+}

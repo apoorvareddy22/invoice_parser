@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "616 Nelson Stream Suite 598 West Kathrynfurt, NJ 66523"
+    },
+    "invoice": {
+        "bc_no": "dp81110",
+        "date": "21.05.1990",
+        "maturity_date": "27.03.1991",
+        "number": 928366
+    },
+    "products": [
+        {
+            "amount": 266.01,
+            "description": "generate back-end mindshare",
+            "quantity": 9.61,
+            "unit_price": 25.51,
+            "vat_amount": 1.38
+        },
+        {
+            "amount": 325.99,
+            "description": "mesh bleeding-edge deliverables",
+            "quantity": 5.09,
+            "unit_price": 64.19,
+            "vat_amount": 13.83
+        },
+        {
+            "amount": 112.77,
+            "description": "orchestrate granular solutions",
+            "quantity": 5.91,
+            "unit_price": 39.36,
+            "vat_amount": 12.17
+        }
+    ],
+    "seller": {
+        "address": "6501 Nicole Loaf Port Max, OH 68395"
+    },
+    "tax": {
+        "amount_excluding_tax": 26.79,
+        "amount_including_tax": 60.8,
+        "tax_amount": 21.08
+    }
+}

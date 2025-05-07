@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "8350 Wilkerson Turnpike Apt. 003 Hallport, WI 79490"
+    },
+    "invoice": {
+        "bc_no": "IC36743",
+        "date": "06.12.2004",
+        "maturity_date": "28.10.1991",
+        "number": 579116
+    },
+    "products": [
+        {
+            "amount": 233.12,
+            "description": "benchmark magnetic models",
+            "quantity": 2.76,
+            "unit_price": 77.82,
+            "vat_amount": 1.98
+        },
+        {
+            "amount": 23.94,
+            "description": "empower proactive experiences",
+            "quantity": 1.9,
+            "unit_price": 47.45,
+            "vat_amount": 16.48
+        },
+        {
+            "amount": 288.8,
+            "description": "benchmark proactive ROI",
+            "quantity": 6.53,
+            "unit_price": 14.69,
+            "vat_amount": 4.62
+        }
+    ],
+    "seller": {
+        "address": "6517 Martin Port North Jeffreymouth, GA 90771"
+    },
+    "tax": {
+        "amount_excluding_tax": 42.04,
+        "amount_including_tax": 29.98,
+        "tax_amount": 26.21
+    }
+}

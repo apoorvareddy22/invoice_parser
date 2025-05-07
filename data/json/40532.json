@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "PSC 9868, Box 7187 APO AA 88662"
+    },
+    "invoice": {
+        "bc_no": "uq77515",
+        "date": "22.04.1997",
+        "maturity_date": "07.07.2008",
+        "number": 555997
+    },
+    "products": [
+        {
+            "amount": 322.68,
+            "description": "e-enable turn-key platforms",
+            "quantity": 3.46,
+            "unit_price": 40.81,
+            "vat_amount": 11.3
+        },
+        {
+            "amount": 246.14,
+            "description": "incubate frictionless architectures",
+            "quantity": 6.46,
+            "unit_price": 27.63,
+            "vat_amount": 16.19
+        },
+        {
+            "amount": 232.37,
+            "description": "mesh seamless relationships",
+            "quantity": 8.92,
+            "unit_price": 34.06,
+            "vat_amount": 6.4
+        },
+        {
+            "amount": 401.31,
+            "description": "monetize wireless bandwidth",
+            "quantity": 1.42,
+            "unit_price": 75.45,
+            "vat_amount": 8.96
+        }
+    ],
+    "seller": {
+        "address": "4836 Davis Radial Lake Courtney, ND 51308"
+    },
+    "tax": {
+        "amount_excluding_tax": 107.12,
+        "amount_including_tax": 81.64,
+        "tax_amount": 14.12
+    }
+}

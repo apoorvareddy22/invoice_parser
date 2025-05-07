@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "2189 Edwards Forge Apt. 968 Hollandberg, SC 03990",
+        "business_no": "bj770",
+        "id": "sU128"
+    },
+    "invoice": {
+        "date": "07.06.2002",
+        "number": "6790-1928"
+    },
+    "payment": {
+        "due_date": "22.11.2014",
+        "total": 766.89
+    },
+    "products": [
+        {
+            "amount": 94.0,
+            "description": "revolutionize ubiquitous functionalities",
+            "quantity": 9.53,
+            "reference": "uF-817",
+            "unit_price": 94.9
+        },
+        {
+            "amount": 452.0,
+            "description": "integrate vertical communities",
+            "quantity": 1.43,
+            "reference": "aJ-258",
+            "unit_price": 47.8
+        },
+        {
+            "amount": 194.64,
+            "description": "scale bleeding-edge systems",
+            "quantity": 8.49,
+            "reference": "ru-626",
+            "unit_price": 97.11
+        },
+        {
+            "amount": 167.32,
+            "description": "maximize e-business mindshare",
+            "quantity": 9.76,
+            "reference": "zL-986",
+            "unit_price": 53.5
+        }
+    ],
+    "seller": {
+        "address": "714 Stevens Rue Georgefurt, AR 28028"
+    },
+    "tax": {
+        "base_ht": 478.9,
+        "regulations": 19.78,
+        "total_ht": 487.83,
+        "vat_amount": 187.8,
+        "vat_percentage": 24.75
+    }
+}

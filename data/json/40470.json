@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "2625 Michele Fort Apt. 183 New Deborahside, AR 57411"
+    },
+    "invoice": {
+        "bc_no": "RL59883",
+        "date": "19.12.1991",
+        "maturity_date": "16.08.2020",
+        "number": 899348
+    },
+    "products": [
+        {
+            "amount": 480.88,
+            "description": "integrate extensible relationships",
+            "quantity": 5.35,
+            "unit_price": 40.89,
+            "vat_amount": 2.51
+        },
+        {
+            "amount": 41.33,
+            "description": "scale seamless applications",
+            "quantity": 5.44,
+            "unit_price": 71.58,
+            "vat_amount": 2.45
+        }
+    ],
+    "seller": {
+        "address": "Unit 3849 Box 6672 DPO AA 65642"
+    },
+    "tax": {
+        "amount_excluding_tax": 19.91,
+        "amount_including_tax": 20.42,
+        "tax_amount": 19.84
+    }
+}

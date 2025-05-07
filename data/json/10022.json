@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "6962 Gardner Road East Tara, OH 71088",
+        "email": "mossjoseph@example.org",
+        "phone": "426.278.6047",
+        "vat_no": "Mq43091655320"
+    },
+    "invoice": {
+        "date": "26.11.1990",
+        "due_date": "20.12.1999",
+        "market_reference": 155505,
+        "notes": "e-enable ubiquitous paradigms",
+        "number": "4842-9617",
+        "reference": 392633,
+        "vat_no": "Av05092347468"
+    },
+    "payment": {
+        "net_total": 161.73,
+        "total": 785.21
+    },
+    "products": [
+        {
+            "amount": 59.45,
+            "description": "re-contextualize global mindshare",
+            "hours": 3.66,
+            "rate": 8.67
+        }
+    ],
+    "seller": {
+        "address": "913 Makayla Path Suite 351 Laurietown, MH 13880",
+        "email": "johnsondonna@example.org",
+        "name": "Angel Hale"
+    },
+    "tax": {
+        "base": 19.41,
+        "tax_amount": 24.27,
+        "total_tax": 21.91
+    }
+}

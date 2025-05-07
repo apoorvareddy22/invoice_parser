@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "USNS Gordon FPO AE 28567",
+        "id": "TA942"
+    },
+    "invoice": {
+        "bc_no": "QJ83459",
+        "currency_code": "STD",
+        "date": "22.08.2016",
+        "due_date": "24.03.2017",
+        "number": 315568
+    },
+    "payment": {
+        "bank_name": "Marshall, Schwartz and Price",
+        "bic": "JGQDGBYR",
+        "iban": "ILNX72274926922609"
+    },
+    "products": [
+        {
+            "amount": 255.17,
+            "description": "cultivate rich web services",
+            "index": "9",
+            "price": 207.38,
+            "quantity": 4.42,
+            "tax_amount": 44.78,
+            "total_ttc": 248.87,
+            "vat_amount": 2.37
+        },
+        {
+            "amount": 447.37,
+            "description": "benchmark plug-and-play metrics",
+            "index": "1",
+            "price": 180.94,
+            "quantity": 1.23,
+            "tax_amount": 13.57,
+            "total_ttc": 469.67,
+            "vat_amount": 3.81
+        }
+    ],
+    "seller": {
+        "name": "Dana Hendrix"
+    },
+    "supplier": {
+        "address": "09615 Vargas Harbors Apt. 978 North Abigailberg, MS 16620",
+        "name": "Brenda Sims"
+    },
+    "tax": {
+        "amount_excluding_tax": 181.66,
+        "amount_including_tax": 29.88,
+        "tax_amount": 11.54,
+        "total_ht": 378.67,
+        "total_ttc": 372.19
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "0224 Gray Cape Suite 336 Smithborough, MD 58888",
+        "company_name": "Clark, Moreno and Phillips",
+        "email": "parkslaura@example.org",
+        "name": "Jennifer Stone",
+        "phone": "+1-658-917-7822x384"
+    },
+    "invoice": {
+        "date": "04.08.2020",
+        "due_date": "23.06.2020",
+        "number": "BhV45302657177"
+    },
+    "payment": {
+        "account_number": 2020797000,
+        "bank_name": "Ellis, Werner and Lee",
+        "routing_number": 855294889
+    },
+    "products": [
+        {
+            "amount": 10.34,
+            "description": "revolutionize strategic models",
+            "index": "5",
+            "quantity": 2.69,
+            "unit_price": 79.84
+        },
+        {
+            "amount": 198.64,
+            "description": "reinvent best-of-breed interfaces",
+            "index": "3",
+            "quantity": 4.02,
+            "unit_price": 74.02
+        },
+        {
+            "amount": 221.31,
+            "description": "transform B2B bandwidth",
+            "index": "10",
+            "quantity": 3.88,
+            "unit_price": 22.89
+        },
+        {
+            "amount": 157.87,
+            "description": "brand bleeding-edge partnerships",
+            "index": "8",
+            "quantity": 3.45,
+            "unit_price": 45.3
+        },
+        {
+            "amount": 180.19,
+            "description": "syndicate seamless markets",
+            "index": "5",
+            "quantity": 6.63,
+            "unit_price": 96.88
+        }
+    ],
+    "seller": {
+        "address": "602 Owen Junction Apt. 900 West Katherineside, DE 84291",
+        "company_name": "Gibson Group",
+        "email": "mkoch@example.net"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "6305 Colon Union Apt. 832 Karenfurt, KY 21512",
+        "id": "fq265"
+    },
+    "invoice": {
+        "bc_no": "uU46001",
+        "currency_code": "TJS",
+        "date": "24.04.1998",
+        "due_date": "28.06.1999",
+        "number": 711550
+    },
+    "payment": {
+        "bank_name": "Mendez-Davis",
+        "bic": "SUFRGB9I",
+        "iban": "HRVJ46047136036689"
+    },
+    "products": [
+        {
+            "amount": 60.85,
+            "description": "unleash scalable markets",
+            "index": "4",
+            "price": 389.59,
+            "quantity": 2.7,
+            "tax_amount": 99.57,
+            "total_ttc": 370.92,
+            "vat_amount": 3.02
+        },
+        {
+            "amount": 411.02,
+            "description": "deliver user-centric networks",
+            "index": "8",
+            "price": 445.07,
+            "quantity": 5.57,
+            "tax_amount": 98.85,
+            "total_ttc": 156.88,
+            "vat_amount": 7.15
+        },
+        {
+            "amount": 394.11,
+            "description": "revolutionize turn-key systems",
+            "index": "5",
+            "price": 294.29,
+            "quantity": 4.29,
+            "tax_amount": 67.16,
+            "total_ttc": 326.57,
+            "vat_amount": 4.75
+        },
+        {
+            "amount": 28.59,
+            "description": "morph compelling eyeballs",
+            "index": "1",
+            "price": 468.78,
+            "quantity": 6.41,
+            "tax_amount": 47.43,
+            "total_ttc": 269.95,
+            "vat_amount": 1.46
+        }
+    ],
+    "seller": {
+        "name": "Eric Smith"
+    },
+    "supplier": {
+        "address": "0915 Mary Knolls Apt. 286 Kramerport, TX 81990",
+        "name": "Ivan George"
+    },
+    "tax": {
+        "amount_excluding_tax": 97.58,
+        "amount_including_tax": 41.45,
+        "tax_amount": 29.61,
+        "total_ht": 107.42,
+        "total_ttc": 308.04
+    }
+}

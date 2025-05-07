@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "65747 Collins Glen Port Lisaville, CA 79810",
+        "email": "morganjacob@example.org",
+        "phone": "+1-943-469-0313x206",
+        "vat_no": "eu72884043591"
+    },
+    "invoice": {
+        "date": "13.06.2011",
+        "due_date": "05.04.1997",
+        "market_reference": 733169,
+        "notes": "revolutionize out-of-the-box action-items",
+        "number": "1935-4065",
+        "reference": 171940,
+        "vat_no": "PV20841822536"
+    },
+    "payment": {
+        "net_total": 126.57,
+        "total": 830.41
+    },
+    "products": [
+        {
+            "amount": 201.73,
+            "description": "revolutionize front-end markets",
+            "hours": 2.24,
+            "rate": 5.33
+        },
+        {
+            "amount": 392.27,
+            "description": "architect sticky e-business",
+            "hours": 2.38,
+            "rate": 3.76
+        },
+        {
+            "amount": 296.28,
+            "description": "incubate robust infrastructures",
+            "hours": 4.65,
+            "rate": 9.65
+        },
+        {
+            "amount": 339.66,
+            "description": "expedite frictionless convergence",
+            "hours": 8.83,
+            "rate": 7.05
+        },
+        {
+            "amount": 381.22,
+            "description": "visualize user-centric infrastructures",
+            "hours": 1.91,
+            "rate": 1.42
+        },
+        {
+            "amount": 419.72,
+            "description": "grow mission-critical interfaces",
+            "hours": 1.9,
+            "rate": 2.67
+        }
+    ],
+    "seller": {
+        "address": "5971 Wright Underpass Mcdanielberg, MT 04180",
+        "email": "lewistanya@example.com",
+        "name": "Amanda Patterson"
+    },
+    "tax": {
+        "base": 26.75,
+        "tax_amount": 15.63,
+        "total_tax": 27.82
+    }
+}

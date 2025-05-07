@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "068 Tamara Wall New Kimberly, IA 77307",
+        "id": "SP661"
+    },
+    "invoice": {
+        "bc_no": "SM35848",
+        "currency_code": "UAH",
+        "date": "16.12.1997",
+        "due_date": "27.07.2015",
+        "number": 972616
+    },
+    "payment": {
+        "bank_name": "Davis LLC",
+        "bic": "TUMSGBNR",
+        "iban": "WRNA81833652316563"
+    },
+    "products": [
+        {
+            "amount": 249.95,
+            "description": "monetize frictionless portals",
+            "index": "3",
+            "price": 431.75,
+            "quantity": 7.35,
+            "tax_amount": 63.67,
+            "total_ttc": 348.75,
+            "vat_amount": 6.08
+        },
+        {
+            "amount": 331.59,
+            "description": "visualize cutting-edge convergence",
+            "index": "10",
+            "price": 32.66,
+            "quantity": 5.8,
+            "tax_amount": 26.09,
+            "total_ttc": 389.44,
+            "vat_amount": 4.09
+        },
+        {
+            "amount": 475.79,
+            "description": "innovate viral users",
+            "index": "8",
+            "price": 355.32,
+            "quantity": 1.69,
+            "tax_amount": 49.59,
+            "total_ttc": 485.96,
+            "vat_amount": 1.14
+        }
+    ],
+    "seller": {
+        "name": "Nichole Perez"
+    },
+    "supplier": {
+        "address": "899 Decker Route West Gregory, ME 79239",
+        "name": "Stephanie Morales"
+    },
+    "tax": {
+        "amount_excluding_tax": 119.49,
+        "amount_including_tax": 135.59,
+        "tax_amount": 29.11,
+        "total_ht": 355.07,
+        "total_ttc": 206.93
+    }
+}

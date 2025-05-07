@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "471 Rachel Mall Suite 151 New Debrabury, OR 37790",
+        "company_name": "Figueroa, Fleming and Ford",
+        "country": "Austria",
+        "name": "Penny Torres"
+    },
+    "invoice": {
+        "date": "08.04.2009",
+        "number": 152269
+    },
+    "payment": {
+        "discount_amount": 22.14,
+        "discount_percentage": 5.85,
+        "due": 57.32,
+        "sub_total": 148.83,
+        "total": 124.85
+    },
+    "products": [
+        {
+            "description": "grow cross-platform architectures",
+            "index": "7",
+            "quantity": 6.44,
+            "total_price": 186.53,
+            "unit_price": 60.8
+        },
+        {
+            "description": "extend impactful solutions",
+            "index": "10",
+            "quantity": 9.5,
+            "total_price": 404.05,
+            "unit_price": 35.02
+        },
+        {
+            "description": "expedite best-of-breed convergence",
+            "index": "2",
+            "quantity": 3.6,
+            "total_price": 697.35,
+            "unit_price": 10.49
+        }
+    ],
+    "seller": {
+        "address": "19120 Velasquez Ford Jenniferburgh, AZ 68626",
+        "company_name": "Lloyd-Nolan",
+        "vat_no": "vu94341124408"
+    }
+}

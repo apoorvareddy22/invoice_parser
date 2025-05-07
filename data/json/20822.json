@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "63651 Ryan Roads Johnberg, CA 26144",
+        "company_name": "Ramos Ltd",
+        "email": "tyoung@example.com",
+        "name": "Jennifer Jackson",
+        "phone": "+1-782-612-4889x112"
+    },
+    "invoice": {
+        "date": "06.07.2006",
+        "due_date": "18.11.2023",
+        "number": "dcL81023439935"
+    },
+    "payment": {
+        "account_number": 6464856279,
+        "bank_name": "Parsons, Alexander and Johnson",
+        "routing_number": 247823690
+    },
+    "products": [
+        {
+            "amount": 499.34,
+            "description": "re-intermediate virtual paradigms",
+            "index": "7",
+            "quantity": 1.67,
+            "unit_price": 81.6
+        },
+        {
+            "amount": 303.45,
+            "description": "visualize rich technologies",
+            "index": "10",
+            "quantity": 4.99,
+            "unit_price": 31.92
+        }
+    ],
+    "seller": {
+        "address": "PSC 8524, Box 8841 APO AA 36870",
+        "company_name": "Cooper Group",
+        "email": "hedwards@example.net"
+    }
+}

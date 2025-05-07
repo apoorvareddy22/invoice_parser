@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "7984 Gonzalez Island Suite 134 Lake Claudiaton, CT 24933",
+        "email": "dcarter@example.org",
+        "phone": "001-420-670-1335",
+        "vat_no": "lO00394004438"
+    },
+    "invoice": {
+        "date": "04.02.2018",
+        "due_date": "07.12.2014",
+        "market_reference": 277463,
+        "notes": "syndicate user-centric schemas",
+        "number": "6319-3302",
+        "reference": 561215,
+        "vat_no": "Xo97950414233"
+    },
+    "payment": {
+        "net_total": 185.81,
+        "total": 175.75
+    },
+    "products": [
+        {
+            "amount": 302.19,
+            "description": "visualize synergistic users",
+            "hours": 5.18,
+            "rate": 9.39
+        },
+        {
+            "amount": 468.96,
+            "description": "aggregate clicks-and-mortar users",
+            "hours": 2.28,
+            "rate": 5.11
+        }
+    ],
+    "seller": {
+        "address": "464 House Alley Apt. 502 North Patrickfort, NH 74957",
+        "email": "corteznatalie@example.com",
+        "name": "Sherri Little"
+    },
+    "tax": {
+        "base": 19.43,
+        "tax_amount": 26.69,
+        "total_tax": 28.74
+    }
+}

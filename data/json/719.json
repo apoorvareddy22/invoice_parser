@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "350 Brown Haven Christinaport, AL 49656",
+        "company_name": "Rogers Ltd",
+        "country": "Myanmar",
+        "name": "Casey Jones"
+    },
+    "invoice": {
+        "date": "01.01.2013",
+        "number": 830515
+    },
+    "payment": {
+        "discount_amount": 18.2,
+        "discount_percentage": 19.1,
+        "due": 22.91,
+        "sub_total": 156.24,
+        "total": 345.14
+    },
+    "products": [
+        {
+            "description": "transform intuitive methodologies",
+            "index": "7",
+            "quantity": 1.25,
+            "total_price": 288.8,
+            "unit_price": 65.02
+        },
+        {
+            "description": "engage customized mindshare",
+            "index": "2",
+            "quantity": 4.24,
+            "total_price": 648.97,
+            "unit_price": 77.21
+        },
+        {
+            "description": "envisioneer scalable relationships",
+            "index": "1",
+            "quantity": 4.95,
+            "total_price": 397.6,
+            "unit_price": 76.37
+        },
+        {
+            "description": "implement cutting-edge markets",
+            "index": "4",
+            "quantity": 4.28,
+            "total_price": 817.57,
+            "unit_price": 24.49
+        }
+    ],
+    "seller": {
+        "address": "USNV Mcpherson FPO AE 12723",
+        "company_name": "Marquez Group",
+        "vat_no": "oz99048941256"
+    }
+}

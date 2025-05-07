@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "29109 Courtney Passage Apt. 703 Washingtonfort, AR 40301",
+        "id": "hp471"
+    },
+    "invoice": {
+        "bc_no": "hu28052",
+        "currency_code": "BWP",
+        "date": "27.10.1991",
+        "due_date": "23.02.1993",
+        "number": 251851
+    },
+    "payment": {
+        "bank_name": "Jones LLC",
+        "bic": "GXBIGBD3D1C",
+        "iban": "UKJU39744765588200"
+    },
+    "products": [
+        {
+            "amount": 358.81,
+            "description": "aggregate robust e-tailers",
+            "index": "9",
+            "price": 368.61,
+            "quantity": 4.5,
+            "tax_amount": 38.56,
+            "total_ttc": 324.31,
+            "vat_amount": 2.29
+        },
+        {
+            "amount": 287.16,
+            "description": "synergize frictionless e-tailers",
+            "index": "7",
+            "price": 408.27,
+            "quantity": 3.15,
+            "tax_amount": 30.53,
+            "total_ttc": 172.1,
+            "vat_amount": 5.22
+        },
+        {
+            "amount": 407.43,
+            "description": "streamline vertical interfaces",
+            "index": "2",
+            "price": 244.23,
+            "quantity": 2.45,
+            "tax_amount": 45.62,
+            "total_ttc": 150.32,
+            "vat_amount": 8.52
+        },
+        {
+            "amount": 6.43,
+            "description": "deliver extensible methodologies",
+            "index": "2",
+            "price": 66.63,
+            "quantity": 5.23,
+            "tax_amount": 87.43,
+            "total_ttc": 139.08,
+            "vat_amount": 2.81
+        },
+        {
+            "amount": 71.93,
+            "description": "e-enable value-added eyeballs",
+            "index": "9",
+            "price": 25.9,
+            "quantity": 7.98,
+            "tax_amount": 19.46,
+            "total_ttc": 166.75,
+            "vat_amount": 0.28
+        },
+        {
+            "amount": 85.91,
+            "description": "brand integrated action-items",
+            "index": "6",
+            "price": 339.6,
+            "quantity": 4.09,
+            "tax_amount": 39.71,
+            "total_ttc": 293.37,
+            "vat_amount": 3.6
+        },
+        {
+            "amount": 278.57,
+            "description": "harness scalable relationships",
+            "index": "7",
+            "price": 301.77,
+            "quantity": 7.38,
+            "tax_amount": 64.63,
+            "total_ttc": 268.38,
+            "vat_amount": 3.55
+        }
+    ],
+    "seller": {
+        "name": "Matthew Harris"
+    },
+    "supplier": {
+        "address": "2778 Young Tunnel Suite 153 Port Jacobmouth, NC 42852",
+        "name": "Alicia Moore"
+    },
+    "tax": {
+        "amount_excluding_tax": 187.37,
+        "amount_including_tax": 93.56,
+        "tax_amount": 28.46,
+        "total_ht": 222.09,
+        "total_ttc": 376.21
+    }
+}

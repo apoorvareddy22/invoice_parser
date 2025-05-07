@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "0706 Michael Mission Melissamouth, WY 33840",
+        "company_name": "Jenkins and Sons",
+        "email": "patricia27@example.org",
+        "name": "Cassidy Estes",
+        "phone": "(317)540-7067x025"
+    },
+    "invoice": {
+        "date": "24.10.2019",
+        "due_date": "18.01.2004",
+        "number": "vuD98722896039"
+    },
+    "payment": {
+        "account_number": 9822694284,
+        "bank_name": "Carpenter-Turner",
+        "routing_number": 845140252
+    },
+    "products": [
+        {
+            "amount": 352.4,
+            "description": "reinvent compelling web-readiness",
+            "index": "6",
+            "quantity": 1.64,
+            "unit_price": 27.95
+        },
+        {
+            "amount": 7.47,
+            "description": "seize web-enabled e-services",
+            "index": "3",
+            "quantity": 9.03,
+            "unit_price": 86.15
+        },
+        {
+            "amount": 63.91,
+            "description": "deliver viral systems",
+            "index": "4",
+            "quantity": 7.17,
+            "unit_price": 89.04
+        }
+    ],
+    "seller": {
+        "address": "Unit 1134 Box 0603 DPO AE 57526",
+        "company_name": "Turner Inc",
+        "email": "milesgregory@example.net"
+    }
+}

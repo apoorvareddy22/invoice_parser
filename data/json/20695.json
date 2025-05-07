@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "4713 Kim Rest Suite 706 Codyfurt, VA 85575",
+        "company_name": "Davis, Williams and Larson",
+        "email": "ericknight@example.com",
+        "name": "Timothy Eaton",
+        "phone": "+1-582-388-1213x167"
+    },
+    "invoice": {
+        "date": "30.05.1991",
+        "due_date": "22.05.2018",
+        "number": "own36403376650"
+    },
+    "payment": {
+        "account_number": 1632563716,
+        "bank_name": "Carr, Knox and Johnson",
+        "routing_number": 873934149
+    },
+    "products": [
+        {
+            "amount": 194.81,
+            "description": "evolve revolutionary web services",
+            "index": "1",
+            "quantity": 6.17,
+            "unit_price": 87.24
+        },
+        {
+            "amount": 297.14,
+            "description": "orchestrate open-source functionalities",
+            "index": "5",
+            "quantity": 3.14,
+            "unit_price": 30.45
+        },
+        {
+            "amount": 48.79,
+            "description": "enable next-generation web services",
+            "index": "9",
+            "quantity": 3.77,
+            "unit_price": 96.49
+        },
+        {
+            "amount": 296.21,
+            "description": "maximize global web-readiness",
+            "index": "9",
+            "quantity": 2.92,
+            "unit_price": 26.27
+        }
+    ],
+    "seller": {
+        "address": "86337 Robert Vista Baxterborough, PR 51004",
+        "company_name": "Lambert-Weaver",
+        "email": "kellimoore@example.org"
+    }
+}

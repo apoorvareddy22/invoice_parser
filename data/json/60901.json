@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "69310 Deborah Ford Apt. 001 Lake Cynthiachester, CO 65766",
+        "business_no": "fd373",
+        "id": "ZR409"
+    },
+    "invoice": {
+        "date": "22.06.2000",
+        "number": "0575-0327"
+    },
+    "payment": {
+        "due_date": "03.06.1998",
+        "total": 740.98
+    },
+    "products": [
+        {
+            "amount": 192.15,
+            "description": "benchmark viral schemas",
+            "quantity": 3.46,
+            "reference": "VZ-394",
+            "unit_price": 32.88
+        },
+        {
+            "amount": 376.03,
+            "description": "harness wireless paradigms",
+            "quantity": 5.71,
+            "reference": "tZ-830",
+            "unit_price": 72.28
+        },
+        {
+            "amount": 38.8,
+            "description": "engage leading-edge networks",
+            "quantity": 2.0,
+            "reference": "xE-707",
+            "unit_price": 45.61
+        }
+    ],
+    "seller": {
+        "address": "649 Kerry Spur Woodsland, PR 46724"
+    },
+    "tax": {
+        "base_ht": 273.17,
+        "regulations": 10.85,
+        "total_ht": 372.49,
+        "vat_amount": 17.08,
+        "vat_percentage": 22.6
+    }
+}

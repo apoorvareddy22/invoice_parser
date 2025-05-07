@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "1553 Graham Pike Apt. 487 Lake Lisaview, WV 50073",
+        "id": "Va946"
+    },
+    "invoice": {
+        "bc_no": "nu16411",
+        "currency_code": "CVE",
+        "date": "05.06.2006",
+        "due_date": "17.08.2018",
+        "number": 646954
+    },
+    "payment": {
+        "bank_name": "Carter, Avila and West",
+        "bic": "WELHGBHPLQ4",
+        "iban": "SRHE72815015443355"
+    },
+    "products": [
+        {
+            "amount": 79.85,
+            "description": "iterate rich web-readiness",
+            "index": "10",
+            "price": 141.29,
+            "quantity": 4.81,
+            "tax_amount": 56.01,
+            "total_ttc": 318.09,
+            "vat_amount": 0.11
+        },
+        {
+            "amount": 33.6,
+            "description": "envisioneer cross-media initiatives",
+            "index": "5",
+            "price": 106.46,
+            "quantity": 3.17,
+            "tax_amount": 77.09,
+            "total_ttc": 305.3,
+            "vat_amount": 2.2
+        },
+        {
+            "amount": 112.7,
+            "description": "drive user-centric vortals",
+            "index": "5",
+            "price": 323.69,
+            "quantity": 6.23,
+            "tax_amount": 42.66,
+            "total_ttc": 473.11,
+            "vat_amount": 1.23
+        },
+        {
+            "amount": 341.55,
+            "description": "re-intermediate synergistic mindshare",
+            "index": "4",
+            "price": 56.34,
+            "quantity": 7.78,
+            "tax_amount": 81.78,
+            "total_ttc": 367.8,
+            "vat_amount": 1.74
+        },
+        {
+            "amount": 182.1,
+            "description": "architect mission-critical e-commerce",
+            "index": "9",
+            "price": 232.59,
+            "quantity": 7.14,
+            "tax_amount": 14.82,
+            "total_ttc": 216.0,
+            "vat_amount": 2.62
+        },
+        {
+            "amount": 404.98,
+            "description": "engage scalable metrics",
+            "index": "10",
+            "price": 113.25,
+            "quantity": 8.15,
+            "tax_amount": 56.24,
+            "total_ttc": 198.24,
+            "vat_amount": 8.05
+        }
+    ],
+    "seller": {
+        "name": "Tammy Bailey"
+    },
+    "supplier": {
+        "address": "51338 Gonzalez Coves South Christopherstad, DC 63406",
+        "name": "Michele Rodriguez"
+    },
+    "tax": {
+        "amount_excluding_tax": 45.9,
+        "amount_including_tax": 117.03,
+        "tax_amount": 14.31,
+        "total_ht": 271.31,
+        "total_ttc": 419.67
+    }
+}

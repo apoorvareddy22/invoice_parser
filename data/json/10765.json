@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "738 Monica Spur North Frances, TN 78483",
+        "email": "wwilliams@example.org",
+        "phone": "8359241697",
+        "vat_no": "sy54925654072"
+    },
+    "invoice": {
+        "date": "03.03.2013",
+        "due_date": "16.06.2022",
+        "market_reference": 619983,
+        "notes": "unleash scalable e-markets",
+        "number": "1051-3444",
+        "reference": 202709,
+        "vat_no": "zJ91780903383"
+    },
+    "payment": {
+        "net_total": 54.5,
+        "total": 528.5
+    },
+    "products": [
+        {
+            "amount": 146.14,
+            "description": "re-contextualize scalable content",
+            "hours": 6.82,
+            "rate": 7.5
+        },
+        {
+            "amount": 428.12,
+            "description": "benchmark proactive interfaces",
+            "hours": 3.94,
+            "rate": 1.96
+        },
+        {
+            "amount": 45.27,
+            "description": "expedite bricks-and-clicks vortals",
+            "hours": 2.69,
+            "rate": 5.17
+        }
+    ],
+    "seller": {
+        "address": "USNV Olson FPO AA 46603",
+        "email": "gfaulkner@example.net",
+        "name": "Jason Smith"
+    },
+    "tax": {
+        "base": 17.8,
+        "tax_amount": 14.05,
+        "total_tax": 12.63
+    }
+}

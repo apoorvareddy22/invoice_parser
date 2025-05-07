@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "9460 Jones Ramp Apt. 171 Taylorside, NE 38995"
+    },
+    "invoice": {
+        "bc_no": "Ve09080",
+        "date": "20.06.2001",
+        "maturity_date": "02.11.2011",
+        "number": 976802
+    },
+    "products": [
+        {
+            "amount": 118.31,
+            "description": "aggregate 24/365 web services",
+            "quantity": 4.58,
+            "unit_price": 93.09,
+            "vat_amount": 3.0
+        }
+    ],
+    "seller": {
+        "address": "689 Willis Plains Apt. 757 South Andrewstad, NC 33478"
+    },
+    "tax": {
+        "amount_excluding_tax": 36.61,
+        "amount_including_tax": 94.12,
+        "tax_amount": 22.16
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "7275 Rodriguez Stravenue Grantview, MD 38948"
+    },
+    "invoice": {
+        "bc_no": "CK85190",
+        "date": "27.11.1998",
+        "maturity_date": "23.04.2018",
+        "number": 252591
+    },
+    "products": [
+        {
+            "amount": 310.4,
+            "description": "embrace granular channels",
+            "quantity": 4.64,
+            "unit_price": 18.78,
+            "vat_amount": 10.25
+        },
+        {
+            "amount": 228.41,
+            "description": "unleash scalable web services",
+            "quantity": 4.8,
+            "unit_price": 75.72,
+            "vat_amount": 2.22
+        }
+    ],
+    "seller": {
+        "address": "011 Buchanan Lane New Tinaland, NV 75877"
+    },
+    "tax": {
+        "amount_excluding_tax": 85.41,
+        "amount_including_tax": 69.32,
+        "tax_amount": 20.24
+    }
+}

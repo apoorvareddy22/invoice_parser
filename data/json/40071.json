@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "598 Duran Estate Suite 426 South David, OH 62443"
+    },
+    "invoice": {
+        "bc_no": "pn22244",
+        "date": "23.02.2008",
+        "maturity_date": "31.10.2015",
+        "number": 976137
+    },
+    "products": [
+        {
+            "amount": 53.63,
+            "description": "redefine bleeding-edge mindshare",
+            "quantity": 2.79,
+            "unit_price": 61.8,
+            "vat_amount": 0.73
+        },
+        {
+            "amount": 62.05,
+            "description": "transition customized networks",
+            "quantity": 6.06,
+            "unit_price": 20.52,
+            "vat_amount": 2.21
+        },
+        {
+            "amount": 170.16,
+            "description": "synthesize sticky e-tailers",
+            "quantity": 7.81,
+            "unit_price": 82.21,
+            "vat_amount": 8.5
+        },
+        {
+            "amount": 33.64,
+            "description": "integrate revolutionary supply-chains",
+            "quantity": 8.02,
+            "unit_price": 34.67,
+            "vat_amount": 2.05
+        }
+    ],
+    "seller": {
+        "address": "0730 Thompson Pine Suite 903 West Christian, FL 69852"
+    },
+    "tax": {
+        "amount_excluding_tax": 155.83,
+        "amount_including_tax": 131.13,
+        "tax_amount": 20.8
+    }
+}

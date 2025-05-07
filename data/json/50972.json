@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "68730 Shannon Village East Josephport, NJ 83123",
+        "id": "Sv071"
+    },
+    "invoice": {
+        "bc_no": "sL79570",
+        "currency_code": "MGA",
+        "date": "30.09.1999",
+        "due_date": "19.10.2022",
+        "number": 323414
+    },
+    "payment": {
+        "bank_name": "Ferguson-Snow",
+        "bic": "NJCDGBA3LVW",
+        "iban": "KCAI58314127888629"
+    },
+    "products": [
+        {
+            "amount": 192.25,
+            "description": "expedite mission-critical portals",
+            "index": "2",
+            "price": 14.02,
+            "quantity": 5.27,
+            "tax_amount": 79.11,
+            "total_ttc": 383.94,
+            "vat_amount": 13.26
+        },
+        {
+            "amount": 402.16,
+            "description": "syndicate killer e-business",
+            "index": "1",
+            "price": 310.81,
+            "quantity": 7.07,
+            "tax_amount": 50.33,
+            "total_ttc": 227.61,
+            "vat_amount": 4.98
+        },
+        {
+            "amount": 216.65,
+            "description": "incubate global solutions",
+            "index": "6",
+            "price": 464.79,
+            "quantity": 5.82,
+            "tax_amount": 18.87,
+            "total_ttc": 107.48,
+            "vat_amount": 2.27
+        },
+        {
+            "amount": 451.24,
+            "description": "drive transparent e-tailers",
+            "index": "1",
+            "price": 44.87,
+            "quantity": 2.42,
+            "tax_amount": 36.3,
+            "total_ttc": 171.94,
+            "vat_amount": 6.28
+        }
+    ],
+    "seller": {
+        "name": "Joseph Carter"
+    },
+    "supplier": {
+        "address": "Unit 5094 Box 4994 DPO AA 69525",
+        "name": "Emma Martinez"
+    },
+    "tax": {
+        "amount_excluding_tax": 142.71,
+        "amount_including_tax": 54.09,
+        "tax_amount": 12.06,
+        "total_ht": 367.8,
+        "total_ttc": 101.94
+    }
+}

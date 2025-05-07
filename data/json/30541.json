@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "7396 Armstrong Hollow Cruzhaven, KY 89964",
+        "company_name": "Smith, Massey and Martin",
+        "country": "Palau",
+        "email": "laurarasmussen@example.net",
+        "name": "Janet Bowman",
+        "phone": "(921)990-7090x0439",
+        "vat_no": "SN81829576704"
+    },
+    "invoice": {
+        "date": "19.06.2000",
+        "due_date": "16.05.2013",
+        "linked_invoice": "NL-5574-8655",
+        "notes": "deliver innovative deliverables",
+        "number": "Gb-1861-2184"
+    },
+    "products": [
+        {
+            "description": "synergize back-end models",
+            "discount_percentage": 18.73,
+            "price": 236.68,
+            "quantity": 1.82,
+            "unit_price": 59.88
+        },
+        {
+            "description": "streamline user-centric action-items",
+            "discount_percentage": 16.32,
+            "price": 56.48,
+            "quantity": 2.14,
+            "unit_price": 96.3
+        }
+    ],
+    "seller": {
+        "address": "247 Adam Mall Apt. 953 South Steven, IN 73034",
+        "ape": "4716A",
+        "capital": 82076959,
+        "country": "Tajikistan",
+        "email": "ramseysteven@example.com",
+        "name": "Erin Garcia",
+        "phone_1": "413.478.8343x31399",
+        "phone_2": "(714)283-5325x059",
+        "phone_3": "332.875.5297x76508",
+        "ref_walk": "Uvmj6638",
+        "reference": "aL768",
+        "siret": 24098508255876,
+        "vat_no": "CW40182206838",
+        "website": "http://bell.com/"
+    },
+    "tax": {
+        "amount_0": 11.41,
+        "amount_1": 16.18,
+        "base_0": 24.92,
+        "base_1": 63.64,
+        "total_ht": 133.39,
+        "total_tax": 12.51,
+        "total_ttc": 412.03,
+        "vat_0": 19.97,
+        "vat_1": 17.21
+    }
+}

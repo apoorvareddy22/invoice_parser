@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "7603 Charles Viaduct Suite 201 Danaberg, SC 43048",
+        "email": "matthew15@example.net",
+        "phone": "213-580-7296x095",
+        "vat_no": "Vu05504269910"
+    },
+    "invoice": {
+        "date": "09.10.1999",
+        "due_date": "16.10.2021",
+        "market_reference": 876895,
+        "notes": "unleash integrated portals",
+        "number": "8712-0439",
+        "reference": 953816,
+        "vat_no": "aN65552855272"
+    },
+    "payment": {
+        "net_total": 21.71,
+        "total": 278.92
+    },
+    "products": [
+        {
+            "amount": 425.91,
+            "description": "exploit collaborative partnerships",
+            "hours": 8.52,
+            "rate": 1.91
+        }
+    ],
+    "seller": {
+        "address": "Unit 2633 Box 0706 DPO AP 75422",
+        "email": "vmanning@example.net",
+        "name": "Patrick Smith"
+    },
+    "tax": {
+        "base": 19.68,
+        "tax_amount": 14.5,
+        "total_tax": 25.53
+    }
+}

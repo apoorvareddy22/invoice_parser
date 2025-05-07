@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "85509 Leslie Forge Suite 788 Lintown, MI 33857",
+        "company_name": "Johnson PLC",
+        "email": "pricejulie@example.org",
+        "name": "James Morris",
+        "phone": "001-885-559-5973x7791"
+    },
+    "invoice": {
+        "date": "13.01.2003",
+        "due_date": "22.11.1995",
+        "number": "CUV03278719729"
+    },
+    "payment": {
+        "account_number": 7876130608,
+        "bank_name": "Alvarez, Moss and Taylor",
+        "routing_number": 347791754
+    },
+    "products": [
+        {
+            "amount": 29.56,
+            "description": "reinvent B2B e-markets",
+            "index": "4",
+            "quantity": 5.21,
+            "unit_price": 23.66
+        }
+    ],
+    "seller": {
+        "address": "775 Danielle Plaza Apt. 500 Whiteland, SC 84891",
+        "company_name": "Prince, Johnson and Ho",
+        "email": "michelerocha@example.com"
+    }
+}

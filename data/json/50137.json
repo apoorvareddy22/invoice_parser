@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "63134 Emily Neck Port William, NH 00507",
+        "id": "bB682"
+    },
+    "invoice": {
+        "bc_no": "qz97157",
+        "currency_code": "SVC",
+        "date": "28.10.2002",
+        "due_date": "30.01.2022",
+        "number": 435319
+    },
+    "payment": {
+        "bank_name": "Flores-Moore",
+        "bic": "CVWFGBCWVZX",
+        "iban": "XTEV43708594919193"
+    },
+    "products": [
+        {
+            "amount": 202.99,
+            "description": "expedite ubiquitous methodologies",
+            "index": "7",
+            "price": 130.4,
+            "quantity": 6.31,
+            "tax_amount": 10.57,
+            "total_ttc": 273.86,
+            "vat_amount": 1.91
+        },
+        {
+            "amount": 41.81,
+            "description": "monetize rich web services",
+            "index": "6",
+            "price": 178.13,
+            "quantity": 5.1,
+            "tax_amount": 81.58,
+            "total_ttc": 171.84,
+            "vat_amount": 1.5
+        },
+        {
+            "amount": 302.23,
+            "description": "grow next-generation content",
+            "index": "9",
+            "price": 309.96,
+            "quantity": 5.78,
+            "tax_amount": 88.42,
+            "total_ttc": 419.88,
+            "vat_amount": 1.7
+        },
+        {
+            "amount": 446.98,
+            "description": "generate value-added e-business",
+            "index": "9",
+            "price": 214.18,
+            "quantity": 5.55,
+            "tax_amount": 20.5,
+            "total_ttc": 101.58,
+            "vat_amount": 2.49
+        },
+        {
+            "amount": 135.67,
+            "description": "deliver bricks-and-clicks supply-chains",
+            "index": "1",
+            "price": 183.85,
+            "quantity": 2.23,
+            "tax_amount": 33.78,
+            "total_ttc": 152.85,
+            "vat_amount": 3.56
+        },
+        {
+            "amount": 27.86,
+            "description": "expedite sticky initiatives",
+            "index": "6",
+            "price": 107.96,
+            "quantity": 9.98,
+            "tax_amount": 35.68,
+            "total_ttc": 297.58,
+            "vat_amount": 6.4
+        }
+    ],
+    "seller": {
+        "name": "Justin Williams"
+    },
+    "supplier": {
+        "address": "3092 Brooks Villages Christineside, DC 21912",
+        "name": "Rachel Moran"
+    },
+    "tax": {
+        "amount_excluding_tax": 166.32,
+        "amount_including_tax": 140.76,
+        "tax_amount": 23.72,
+        "total_ht": 212.49,
+        "total_ttc": 384.03
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "040 Bishop Views Apt. 554 West Jessica, AK 49547",
+        "id": "tb019"
+    },
+    "invoice": {
+        "bc_no": "UC92625",
+        "currency_code": "PLN",
+        "date": "26.02.1993",
+        "due_date": "24.02.1995",
+        "number": 939565
+    },
+    "payment": {
+        "bank_name": "Meyer-Weaver",
+        "bic": "GBKBGBLA",
+        "iban": "MPYY99289440187360"
+    },
+    "products": [
+        {
+            "amount": 424.07,
+            "description": "synthesize open-source methodologies",
+            "index": "8",
+            "price": 382.28,
+            "quantity": 3.3,
+            "tax_amount": 40.81,
+            "total_ttc": 272.65,
+            "vat_amount": 0.96
+        },
+        {
+            "amount": 454.95,
+            "description": "facilitate killer e-commerce",
+            "index": "7",
+            "price": 247.14,
+            "quantity": 5.66,
+            "tax_amount": 98.71,
+            "total_ttc": 496.96,
+            "vat_amount": 2.12
+        },
+        {
+            "amount": 387.4,
+            "description": "iterate intuitive users",
+            "index": "4",
+            "price": 279.17,
+            "quantity": 4.56,
+            "tax_amount": 75.83,
+            "total_ttc": 176.26,
+            "vat_amount": 0.29
+        },
+        {
+            "amount": 371.15,
+            "description": "leverage 24/7 architectures",
+            "index": "10",
+            "price": 421.19,
+            "quantity": 2.02,
+            "tax_amount": 17.0,
+            "total_ttc": 220.95,
+            "vat_amount": 8.22
+        },
+        {
+            "amount": 326.95,
+            "description": "empower integrated web services",
+            "index": "1",
+            "price": 476.54,
+            "quantity": 3.09,
+            "tax_amount": 47.64,
+            "total_ttc": 237.97,
+            "vat_amount": 7.23
+        },
+        {
+            "amount": 360.54,
+            "description": "disintermediate back-end models",
+            "index": "3",
+            "price": 25.31,
+            "quantity": 3.93,
+            "tax_amount": 41.98,
+            "total_ttc": 351.13,
+            "vat_amount": 1.28
+        },
+        {
+            "amount": 313.45,
+            "description": "engineer 24/7 platforms",
+            "index": "5",
+            "price": 394.73,
+            "quantity": 3.06,
+            "tax_amount": 47.22,
+            "total_ttc": 145.93,
+            "vat_amount": 8.32
+        }
+    ],
+    "seller": {
+        "name": "Kristin Castro"
+    },
+    "supplier": {
+        "address": "PSC 9859, Box 6228 APO AE 25772",
+        "name": "Carol Fuller"
+    },
+    "tax": {
+        "amount_excluding_tax": 15.7,
+        "amount_including_tax": 103.97,
+        "tax_amount": 21.03,
+        "total_ht": 175.79,
+        "total_ttc": 292.19
+    }
+}

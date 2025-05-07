@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "6758 Anna Turnpike Apt. 351 Michaelville, PA 51758",
+        "id": "YR077"
+    },
+    "invoice": {
+        "bc_no": "mV24703",
+        "currency_code": "TRY",
+        "date": "26.02.2003",
+        "due_date": "25.10.2014",
+        "number": 300089
+    },
+    "payment": {
+        "bank_name": "Moss-Todd",
+        "bic": "GOIVGBNW",
+        "iban": "BRQA41964619399277"
+    },
+    "products": [
+        {
+            "amount": 419.02,
+            "description": "syndicate cutting-edge e-markets",
+            "index": "6",
+            "price": 208.81,
+            "quantity": 5.1,
+            "tax_amount": 42.21,
+            "total_ttc": 399.56,
+            "vat_amount": 3.01
+        },
+        {
+            "amount": 162.62,
+            "description": "streamline 24/365 systems",
+            "index": "2",
+            "price": 327.66,
+            "quantity": 2.2,
+            "tax_amount": 97.47,
+            "total_ttc": 475.27,
+            "vat_amount": 1.2
+        },
+        {
+            "amount": 89.26,
+            "description": "disintermediate seamless e-business",
+            "index": "5",
+            "price": 216.92,
+            "quantity": 9.93,
+            "tax_amount": 70.68,
+            "total_ttc": 259.25,
+            "vat_amount": 6.35
+        },
+        {
+            "amount": 459.27,
+            "description": "incentivize extensible mindshare",
+            "index": "1",
+            "price": 120.18,
+            "quantity": 2.96,
+            "tax_amount": 72.01,
+            "total_ttc": 280.93,
+            "vat_amount": 9.94
+        },
+        {
+            "amount": 265.36,
+            "description": "empower world-class e-commerce",
+            "index": "5",
+            "price": 5.04,
+            "quantity": 9.99,
+            "tax_amount": 44.54,
+            "total_ttc": 329.49,
+            "vat_amount": 9.01
+        },
+        {
+            "amount": 211.88,
+            "description": "iterate extensible supply-chains",
+            "index": "10",
+            "price": 295.17,
+            "quantity": 8.9,
+            "tax_amount": 78.06,
+            "total_ttc": 305.06,
+            "vat_amount": 10.72
+        }
+    ],
+    "seller": {
+        "name": "Christopher Kaufman"
+    },
+    "supplier": {
+        "address": "050 Karen Fields Suite 361 Andersonshire, MO 31542",
+        "name": "Jacqueline Lopez"
+    },
+    "tax": {
+        "amount_excluding_tax": 189.92,
+        "amount_including_tax": 110.54,
+        "tax_amount": 10.13,
+        "total_ht": 147.32,
+        "total_ttc": 403.96
+    }
+}

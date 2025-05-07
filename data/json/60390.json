@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "39728 Steele Drive Apt. 808 Lake Susan, AL 09875",
+        "business_no": "Oc611",
+        "id": "OU220"
+    },
+    "invoice": {
+        "date": "13.01.2009",
+        "number": "5576-7927"
+    },
+    "payment": {
+        "due_date": "23.06.2001",
+        "total": 716.92
+    },
+    "products": [
+        {
+            "amount": 21.6,
+            "description": "disintermediate robust architectures",
+            "quantity": 6.62,
+            "reference": "cb-861",
+            "unit_price": 89.99
+        }
+    ],
+    "seller": {
+        "address": "PSC 7323, Box 1262 APO AA 38824"
+    },
+    "tax": {
+        "base_ht": 141.28,
+        "regulations": 26.68,
+        "total_ht": 494.65,
+        "vat_amount": 78.38,
+        "vat_percentage": 16.49
+    }
+}

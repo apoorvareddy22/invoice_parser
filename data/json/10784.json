@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "PSC 5461, Box 2140 APO AP 77435",
+        "email": "kenneth87@example.org",
+        "phone": "(812)360-3010x224",
+        "vat_no": "yU80589132567"
+    },
+    "invoice": {
+        "date": "02.03.2023",
+        "due_date": "20.12.2007",
+        "market_reference": 444715,
+        "notes": "generate global models",
+        "number": "1006-8271",
+        "reference": 965116,
+        "vat_no": "PN29487117425"
+    },
+    "payment": {
+        "net_total": 186.43,
+        "total": 787.49
+    },
+    "products": [
+        {
+            "amount": 219.06,
+            "description": "strategize revolutionary niches",
+            "hours": 5.59,
+            "rate": 3.78
+        }
+    ],
+    "seller": {
+        "address": "13878 Blake Forges Apt. 865 Hortonberg, NC 14095",
+        "email": "dbraun@example.net",
+        "name": "Kimberly Miller"
+    },
+    "tax": {
+        "base": 10.88,
+        "tax_amount": 26.35,
+        "total_tax": 13.89
+    }
+}

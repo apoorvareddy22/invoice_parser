@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "676 Downs Point Apt. 477 Jeffreyshire, FM 93584"
+    },
+    "invoice": {
+        "bc_no": "Dz00450",
+        "date": "18.12.2022",
+        "maturity_date": "08.04.1993",
+        "number": 883593
+    },
+    "products": [
+        {
+            "amount": 79.38,
+            "description": "e-enable cross-platform vortals",
+            "quantity": 7.61,
+            "unit_price": 92.12,
+            "vat_amount": 14.49
+        },
+        {
+            "amount": 48.88,
+            "description": "envisioneer e-business initiatives",
+            "quantity": 4.66,
+            "unit_price": 31.74,
+            "vat_amount": 4.09
+        },
+        {
+            "amount": 133.13,
+            "description": "benchmark proactive web-readiness",
+            "quantity": 5.45,
+            "unit_price": 84.37,
+            "vat_amount": 7.91
+        },
+        {
+            "amount": 335.4,
+            "description": "re-intermediate B2B bandwidth",
+            "quantity": 5.66,
+            "unit_price": 83.93,
+            "vat_amount": 16.53
+        }
+    ],
+    "seller": {
+        "address": "PSC 4655, Box 3137 APO AE 84872"
+    },
+    "tax": {
+        "amount_excluding_tax": 91.15,
+        "amount_including_tax": 132.41,
+        "tax_amount": 21.22
+    }
+}

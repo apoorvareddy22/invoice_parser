@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "12915 Miller Ville Apt. 878 Devinfurt, ID 97240",
+        "company_name": "Ferrell Ltd",
+        "country": "Poland",
+        "email": "vincent79@example.com",
+        "name": "Amy Ellis",
+        "phone": "583-634-4847x4751",
+        "vat_no": "GR81649020740"
+    },
+    "invoice": {
+        "date": "23.04.2004",
+        "due_date": "23.08.1990",
+        "linked_invoice": "CW-9600-2056",
+        "notes": "strategize clicks-and-mortar web-readiness",
+        "number": "al-7581-0173"
+    },
+    "products": [
+        {
+            "description": "envisioneer out-of-the-box technologies",
+            "discount_percentage": 13.63,
+            "price": 162.11,
+            "quantity": 4.17,
+            "unit_price": 44.1
+        },
+        {
+            "description": "iterate next-generation e-services",
+            "discount_percentage": 13.64,
+            "price": 386.98,
+            "quantity": 1.16,
+            "unit_price": 73.07
+        },
+        {
+            "description": "monetize cross-platform e-commerce",
+            "discount_percentage": 12.74,
+            "price": 436.57,
+            "quantity": 6.59,
+            "unit_price": 29.79
+        },
+        {
+            "description": "harness real-time e-commerce",
+            "discount_percentage": 11.31,
+            "price": 425.73,
+            "quantity": 3.63,
+            "unit_price": 26.48
+        }
+    ],
+    "seller": {
+        "address": "86575 Miles Bypass Apt. 418 Williamsstad, OK 78286",
+        "ape": "8259W",
+        "capital": 34431273,
+        "country": "Dominica",
+        "email": "hudsonmichael@example.com",
+        "name": "Hannah Jones",
+        "phone_1": "539.214.6361",
+        "phone_2": "001-982-756-7255x2718",
+        "phone_3": "919.214.4750x804",
+        "ref_walk": "QgoS7462",
+        "reference": "IS672",
+        "siret": 40514308390878,
+        "vat_no": "Lz93426357175",
+        "website": "https://phillips.info/"
+    },
+    "tax": {
+        "amount_0": 18.11,
+        "amount_1": 20.54,
+        "base_0": 12.81,
+        "base_1": 150.51,
+        "total_ht": 415.84,
+        "total_tax": 19.5,
+        "total_ttc": 468.3,
+        "vat_0": 11.79,
+        "vat_1": 15.86
+    }
+}

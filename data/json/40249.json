@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "1893 Taylor Wells Lake Jeremiah, CT 37995"
+    },
+    "invoice": {
+        "bc_no": "mo33344",
+        "date": "11.07.2019",
+        "maturity_date": "04.04.2017",
+        "number": 421663
+    },
+    "products": [
+        {
+            "amount": 414.1,
+            "description": "engineer distributed paradigms",
+            "quantity": 1.89,
+            "unit_price": 35.17,
+            "vat_amount": 5.03
+        },
+        {
+            "amount": 166.26,
+            "description": "implement innovative communities",
+            "quantity": 9.8,
+            "unit_price": 69.84,
+            "vat_amount": 11.13
+        },
+        {
+            "amount": 187.16,
+            "description": "target B2B models",
+            "quantity": 3.78,
+            "unit_price": 44.48,
+            "vat_amount": 0.32
+        },
+        {
+            "amount": 452.42,
+            "description": "optimize plug-and-play initiatives",
+            "quantity": 5.18,
+            "unit_price": 32.57,
+            "vat_amount": 0.01
+        },
+        {
+            "amount": 211.71,
+            "description": "whiteboard vertical relationships",
+            "quantity": 8.72,
+            "unit_price": 46.15,
+            "vat_amount": 17.87
+        }
+    ],
+    "seller": {
+        "address": "805 Andrew Falls Suite 427 Petersberg, OH 14258"
+    },
+    "tax": {
+        "amount_excluding_tax": 85.87,
+        "amount_including_tax": 109.46,
+        "tax_amount": 10.5
+    }
+}

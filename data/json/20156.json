@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "9242 Timothy View Suite 939 Ballstad, ID 76711",
+        "company_name": "Knight, Stanley and Sutton",
+        "email": "hmills@example.org",
+        "name": "Bethany Benson",
+        "phone": "411.258.0188x0570"
+    },
+    "invoice": {
+        "date": "30.01.2023",
+        "due_date": "07.02.1993",
+        "number": "ACR11010772594"
+    },
+    "payment": {
+        "account_number": 1148224515,
+        "bank_name": "Espinoza, Sims and Schultz",
+        "routing_number": 649112580
+    },
+    "products": [
+        {
+            "amount": 314.56,
+            "description": "facilitate clicks-and-mortar functionalities",
+            "index": "8",
+            "quantity": 8.6,
+            "unit_price": 65.26
+        },
+        {
+            "amount": 306.64,
+            "description": "orchestrate web-enabled applications",
+            "index": "3",
+            "quantity": 7.07,
+            "unit_price": 96.39
+        }
+    ],
+    "seller": {
+        "address": "81208 Todd Village Apt. 106 Port Donnafurt, UT 08411",
+        "company_name": "Alvarado, Thomas and Tran",
+        "email": "theresa87@example.com"
+    }
+}

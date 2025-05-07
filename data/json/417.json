@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "584 Hawkins Glen Crystalhaven, MT 13222",
+        "company_name": "Keller PLC",
+        "country": "Guinea-Bissau",
+        "name": "Todd Clark"
+    },
+    "invoice": {
+        "date": "07.09.2020",
+        "number": 459138
+    },
+    "payment": {
+        "discount_amount": 17.83,
+        "discount_percentage": 7.11,
+        "due": 180.36,
+        "sub_total": 186.74,
+        "total": 983.25
+    },
+    "products": [
+        {
+            "description": "benchmark sticky info-mediaries",
+            "index": "2",
+            "quantity": 3.54,
+            "total_price": 274.74,
+            "unit_price": 90.22
+        },
+        {
+            "description": "empower B2B schemas",
+            "index": "6",
+            "quantity": 4.39,
+            "total_price": 239.27,
+            "unit_price": 64.78
+        },
+        {
+            "description": "exploit best-of-breed technologies",
+            "index": "7",
+            "quantity": 9.95,
+            "total_price": 679.05,
+            "unit_price": 26.89
+        },
+        {
+            "description": "generate magnetic metrics",
+            "index": "9",
+            "quantity": 4.16,
+            "total_price": 309.03,
+            "unit_price": 60.83
+        },
+        {
+            "description": "incubate global solutions",
+            "index": "9",
+            "quantity": 4.16,
+            "total_price": 287.95,
+            "unit_price": 86.14
+        }
+    ],
+    "seller": {
+        "address": "USS Ellis FPO AA 78183",
+        "company_name": "Smith-Freeman",
+        "vat_no": "hg07612107813"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "96343 Ross Alley North Matthewberg, WA 61267",
+        "company_name": "Martinez Ltd",
+        "email": "jonescraig@example.com",
+        "name": "Tyler Wilson",
+        "phone": "524-967-9197x514"
+    },
+    "invoice": {
+        "date": "21.07.1998",
+        "due_date": "02.05.2005",
+        "number": "Ads50589559651"
+    },
+    "payment": {
+        "account_number": 9569352286,
+        "bank_name": "Smith-Mayer",
+        "routing_number": 220238118
+    },
+    "products": [
+        {
+            "amount": 287.28,
+            "description": "monetize wireless initiatives",
+            "index": "4",
+            "quantity": 7.89,
+            "unit_price": 89.02
+        },
+        {
+            "amount": 54.75,
+            "description": "maximize clicks-and-mortar mindshare",
+            "index": "8",
+            "quantity": 8.54,
+            "unit_price": 37.65
+        }
+    ],
+    "seller": {
+        "address": "PSC 2905, Box 8174 APO AA 05038",
+        "company_name": "Wilson Inc",
+        "email": "jamiemoore@example.net"
+    }
+}

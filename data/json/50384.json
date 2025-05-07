@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "7001 Jordan Viaduct East Brenda, RI 53132",
+        "id": "AV037"
+    },
+    "invoice": {
+        "bc_no": "sp65577",
+        "currency_code": "GBP",
+        "date": "21.12.2002",
+        "due_date": "18.10.1994",
+        "number": 671085
+    },
+    "payment": {
+        "bank_name": "Ferguson, Gallagher and Smith",
+        "bic": "KVBIGBOC",
+        "iban": "QRGG20178890760389"
+    },
+    "products": [
+        {
+            "amount": 129.09,
+            "description": "transform web-enabled e-markets",
+            "index": "10",
+            "price": 28.49,
+            "quantity": 5.06,
+            "tax_amount": 78.34,
+            "total_ttc": 263.98,
+            "vat_amount": 7.2
+        },
+        {
+            "amount": 477.88,
+            "description": "visualize web-enabled interfaces",
+            "index": "5",
+            "price": 26.32,
+            "quantity": 2.37,
+            "tax_amount": 92.38,
+            "total_ttc": 225.08,
+            "vat_amount": 6.58
+        },
+        {
+            "amount": 475.01,
+            "description": "utilize 24/7 applications",
+            "index": "8",
+            "price": 144.62,
+            "quantity": 3.79,
+            "tax_amount": 43.14,
+            "total_ttc": 497.95,
+            "vat_amount": 0.24
+        },
+        {
+            "amount": 301.87,
+            "description": "benchmark bricks-and-clicks portals",
+            "index": "1",
+            "price": 496.27,
+            "quantity": 4.93,
+            "tax_amount": 52.07,
+            "total_ttc": 355.03,
+            "vat_amount": 1.77
+        },
+        {
+            "amount": 131.1,
+            "description": "exploit out-of-the-box vortals",
+            "index": "5",
+            "price": 436.86,
+            "quantity": 1.26,
+            "tax_amount": 59.36,
+            "total_ttc": 220.76,
+            "vat_amount": 3.31
+        }
+    ],
+    "seller": {
+        "name": "Daniel Smith"
+    },
+    "supplier": {
+        "address": "30775 James Neck Apt. 431 Port Lisa, NE 77668",
+        "name": "Eric Soto"
+    },
+    "tax": {
+        "amount_excluding_tax": 189.81,
+        "amount_including_tax": 15.52,
+        "tax_amount": 19.54,
+        "total_ht": 373.2,
+        "total_ttc": 300.51
+    }
+}

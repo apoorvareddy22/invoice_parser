@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "4174 Silva Mall Mcdanielview, VA 43876",
+        "email": "icosta@example.com",
+        "phone": "+1-737-725-9886x002",
+        "vat_no": "RQ52610090566"
+    },
+    "invoice": {
+        "date": "13.07.1997",
+        "due_date": "12.02.1995",
+        "market_reference": 595727,
+        "notes": "streamline synergistic deliverables",
+        "number": "7230-0051",
+        "reference": 698313,
+        "vat_no": "Lm29103983877"
+    },
+    "payment": {
+        "net_total": 32.9,
+        "total": 229.99
+    },
+    "products": [
+        {
+            "amount": 405.59,
+            "description": "implement 24/7 infrastructures",
+            "hours": 5.98,
+            "rate": 3.03
+        },
+        {
+            "amount": 272.37,
+            "description": "utilize enterprise ROI",
+            "hours": 3.6,
+            "rate": 6.85
+        },
+        {
+            "amount": 455.69,
+            "description": "cultivate plug-and-play e-business",
+            "hours": 1.95,
+            "rate": 1.87
+        }
+    ],
+    "seller": {
+        "address": "58715 Clark Well North Miketon, RI 79423",
+        "email": "shelly02@example.com",
+        "name": "Bryan Forbes"
+    },
+    "tax": {
+        "base": 11.39,
+        "tax_amount": 13.31,
+        "total_tax": 16.72
+    }
+}

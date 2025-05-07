@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "PSC 8997, Box 8759 APO AP 89972",
+        "company_name": "Baldwin, Logan and Butler",
+        "email": "michael10@example.org",
+        "name": "Robert Little",
+        "phone": "461-246-9040"
+    },
+    "invoice": {
+        "date": "14.05.2019",
+        "due_date": "25.09.2005",
+        "number": "tjk98445838892"
+    },
+    "payment": {
+        "account_number": 9574806006,
+        "bank_name": "Jones-Elliott",
+        "routing_number": 549835510
+    },
+    "products": [
+        {
+            "amount": 44.98,
+            "description": "deliver next-generation functionalities",
+            "index": "1",
+            "quantity": 1.74,
+            "unit_price": 38.65
+        },
+        {
+            "amount": 224.25,
+            "description": "disintermediate magnetic infrastructures",
+            "index": "4",
+            "quantity": 2.15,
+            "unit_price": 29.53
+        },
+        {
+            "amount": 489.87,
+            "description": "revolutionize transparent partnerships",
+            "index": "5",
+            "quantity": 9.25,
+            "unit_price": 41.86
+        },
+        {
+            "amount": 467.17,
+            "description": "innovate collaborative technologies",
+            "index": "10",
+            "quantity": 1.19,
+            "unit_price": 11.4
+        },
+        {
+            "amount": 81.0,
+            "description": "optimize clicks-and-mortar supply-chains",
+            "index": "3",
+            "quantity": 1.7,
+            "unit_price": 91.83
+        },
+        {
+            "amount": 130.45,
+            "description": "leverage B2B e-services",
+            "index": "3",
+            "quantity": 9.69,
+            "unit_price": 78.14
+        },
+        {
+            "amount": 190.84,
+            "description": "facilitate collaborative e-business",
+            "index": "10",
+            "quantity": 4.93,
+            "unit_price": 96.06
+        }
+    ],
+    "seller": {
+        "address": "2089 Turner Square Suite 939 Doylestad, AK 80122",
+        "company_name": "Miller, Velasquez and Morales",
+        "email": "davisjudith@example.org"
+    }
+}

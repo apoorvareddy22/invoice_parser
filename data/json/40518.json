@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "08357 Mark Grove New Brandon, AR 89868"
+    },
+    "invoice": {
+        "bc_no": "yB50309",
+        "date": "17.11.2014",
+        "maturity_date": "07.06.2010",
+        "number": 173595
+    },
+    "products": [
+        {
+            "amount": 86.55,
+            "description": "productize extensible paradigms",
+            "quantity": 6.25,
+            "unit_price": 75.74,
+            "vat_amount": 12.09
+        },
+        {
+            "amount": 310.49,
+            "description": "facilitate transparent web services",
+            "quantity": 9.72,
+            "unit_price": 84.72,
+            "vat_amount": 12.14
+        }
+    ],
+    "seller": {
+        "address": "USS Richards FPO AE 19416"
+    },
+    "tax": {
+        "amount_excluding_tax": 111.98,
+        "amount_including_tax": 145.73,
+        "tax_amount": 17.47
+    }
+}

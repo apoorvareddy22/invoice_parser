@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "114 Christina Walks Port Stacymouth, MD 90632",
+        "company_name": "Lambert-Horton",
+        "country": "Algeria",
+        "name": "Nicholas Holmes"
+    },
+    "invoice": {
+        "date": "25.03.2004",
+        "number": 942168
+    },
+    "payment": {
+        "discount_amount": 38.79,
+        "discount_percentage": 19.08,
+        "due": 54.16,
+        "sub_total": 178.3,
+        "total": 984.07
+    },
+    "products": [
+        {
+            "description": "engage user-centric eyeballs",
+            "index": "1",
+            "quantity": 2.61,
+            "total_price": 135.45,
+            "unit_price": 38.95
+        },
+        {
+            "description": "re-contextualize leading-edge content",
+            "index": "6",
+            "quantity": 8.36,
+            "total_price": 439.63,
+            "unit_price": 86.92
+        },
+        {
+            "description": "deliver enterprise relationships",
+            "index": "5",
+            "quantity": 5.68,
+            "total_price": 758.0,
+            "unit_price": 47.6
+        }
+    ],
+    "seller": {
+        "address": "750 Wilson Fort Apt. 854 Cristianborough, WY 98688",
+        "company_name": "Clark Inc",
+        "vat_no": "oA15747879091"
+    }
+}

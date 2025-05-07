@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "614 Ferguson Underpass Williamsbury, KY 26204",
+        "business_no": "VB654",
+        "id": "FD218"
+    },
+    "invoice": {
+        "date": "02.03.2002",
+        "number": "5375-6952"
+    },
+    "payment": {
+        "due_date": "13.11.1997",
+        "total": 213.63
+    },
+    "products": [
+        {
+            "amount": 389.72,
+            "description": "matrix collaborative schemas",
+            "quantity": 9.52,
+            "reference": "nE-379",
+            "unit_price": 98.65
+        }
+    ],
+    "seller": {
+        "address": "2364 Brian Plains Suite 781 Crawfordtown, CA 49682"
+    },
+    "tax": {
+        "base_ht": 207.39,
+        "regulations": 12.15,
+        "total_ht": 118.0,
+        "vat_amount": 32.99,
+        "vat_percentage": 20.66
+    }
+}

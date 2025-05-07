@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "035 Gregory Path Suite 803 East Joyce, OH 82169"
+    },
+    "invoice": {
+        "bc_no": "zz70899",
+        "date": "31.12.2021",
+        "maturity_date": "29.08.1991",
+        "number": 145199
+    },
+    "products": [
+        {
+            "amount": 492.11,
+            "description": "re-contextualize back-end web-readiness",
+            "quantity": 3.18,
+            "unit_price": 61.31,
+            "vat_amount": 10.72
+        },
+        {
+            "amount": 68.81,
+            "description": "streamline intuitive schemas",
+            "quantity": 6.72,
+            "unit_price": 22.56,
+            "vat_amount": 1.42
+        }
+    ],
+    "seller": {
+        "address": "086 Monica Port Suite 778 South Branditon, ID 98898"
+    },
+    "tax": {
+        "amount_excluding_tax": 197.09,
+        "amount_including_tax": 161.04,
+        "tax_amount": 21.41
+    }
+}

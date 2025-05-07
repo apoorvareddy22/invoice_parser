@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "878 Thompson Terrace Apt. 186 Frankmouth, WY 62799",
+        "email": "barbara00@example.com",
+        "phone": "542.463.7968",
+        "vat_no": "WA13797184188"
+    },
+    "invoice": {
+        "date": "18.07.1991",
+        "due_date": "09.11.2020",
+        "market_reference": 763277,
+        "notes": "transition integrated channels",
+        "number": "7680-5864",
+        "reference": 577188,
+        "vat_no": "NV86696125175"
+    },
+    "payment": {
+        "net_total": 21.6,
+        "total": 668.78
+    },
+    "products": [
+        {
+            "amount": 76.34,
+            "description": "benchmark mission-critical paradigms",
+            "hours": 2.99,
+            "rate": 7.77
+        },
+        {
+            "amount": 158.06,
+            "description": "expedite turn-key solutions",
+            "hours": 8.38,
+            "rate": 8.87
+        },
+        {
+            "amount": 230.36,
+            "description": "drive 24/7 networks",
+            "hours": 7.33,
+            "rate": 7.87
+        },
+        {
+            "amount": 80.65,
+            "description": "deliver bleeding-edge info-mediaries",
+            "hours": 8.72,
+            "rate": 2.49
+        },
+        {
+            "amount": 406.55,
+            "description": "engineer B2B partnerships",
+            "hours": 4.52,
+            "rate": 5.06
+        },
+        {
+            "amount": 176.82,
+            "description": "e-enable holistic vortals",
+            "hours": 6.06,
+            "rate": 2.65
+        }
+    ],
+    "seller": {
+        "address": "02654 Debra Cove Anthonyside, AZ 97533",
+        "email": "williamsbrandon@example.org",
+        "name": "Dr. Jorge Kelley"
+    },
+    "tax": {
+        "base": 12.61,
+        "tax_amount": 15.72,
+        "total_tax": 16.42
+    }
+}

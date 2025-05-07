@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "59098 Flores Hollow West Crystal, DE 70887",
+        "email": "jill07@example.org",
+        "phone": "867.536.7540",
+        "vat_no": "Vi68819109200"
+    },
+    "invoice": {
+        "date": "03.01.1995",
+        "due_date": "12.06.2004",
+        "market_reference": 253478,
+        "notes": "embrace transparent convergence",
+        "number": "0637-1693",
+        "reference": 243627,
+        "vat_no": "Bm71041927989"
+    },
+    "payment": {
+        "net_total": 81.76,
+        "total": 924.19
+    },
+    "products": [
+        {
+            "amount": 248.3,
+            "description": "target front-end content",
+            "hours": 8.75,
+            "rate": 2.64
+        },
+        {
+            "amount": 128.32,
+            "description": "strategize leading-edge mindshare",
+            "hours": 5.18,
+            "rate": 6.26
+        },
+        {
+            "amount": 339.25,
+            "description": "visualize turn-key models",
+            "hours": 2.85,
+            "rate": 8.53
+        },
+        {
+            "amount": 119.72,
+            "description": "enable dynamic experiences",
+            "hours": 1.07,
+            "rate": 3.23
+        },
+        {
+            "amount": 477.36,
+            "description": "innovate interactive applications",
+            "hours": 4.71,
+            "rate": 3.63
+        },
+        {
+            "amount": 14.57,
+            "description": "reinvent ubiquitous relationships",
+            "hours": 2.34,
+            "rate": 8.6
+        },
+        {
+            "amount": 475.58,
+            "description": "incentivize bleeding-edge interfaces",
+            "hours": 4.94,
+            "rate": 2.94
+        }
+    ],
+    "seller": {
+        "address": "Unit 9465 Box 1919 DPO AA 64995",
+        "email": "karenkhan@example.com",
+        "name": "Richard Alvarado"
+    },
+    "tax": {
+        "base": 28.81,
+        "tax_amount": 14.66,
+        "total_tax": 29.21
+    }
+}

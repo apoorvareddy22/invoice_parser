@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "72272 Rice Neck East Paul, TX 31956",
+        "email": "jacquelinejackson@example.net",
+        "phone": "7152170091",
+        "vat_no": "Ol75828154323"
+    },
+    "invoice": {
+        "date": "05.01.2010",
+        "due_date": "24.08.1992",
+        "market_reference": 411048,
+        "notes": "benchmark ubiquitous solutions",
+        "number": "2812-8834",
+        "reference": 546957,
+        "vat_no": "JO44595055254"
+    },
+    "payment": {
+        "net_total": 124.99,
+        "total": 116.66
+    },
+    "products": [
+        {
+            "amount": 163.15,
+            "description": "engage interactive models",
+            "hours": 6.27,
+            "rate": 9.86
+        },
+        {
+            "amount": 246.39,
+            "description": "facilitate transparent action-items",
+            "hours": 7.09,
+            "rate": 6.92
+        },
+        {
+            "amount": 414.13,
+            "description": "scale proactive paradigms",
+            "hours": 5.01,
+            "rate": 2.91
+        },
+        {
+            "amount": 195.46,
+            "description": "maximize wireless ROI",
+            "hours": 3.57,
+            "rate": 9.67
+        },
+        {
+            "amount": 436.74,
+            "description": "empower interactive users",
+            "hours": 4.52,
+            "rate": 5.79
+        },
+        {
+            "amount": 349.75,
+            "description": "mesh e-business channels",
+            "hours": 3.89,
+            "rate": 4.41
+        }
+    ],
+    "seller": {
+        "address": "61674 Lisa Knolls Apt. 382 Markland, KY 45727",
+        "email": "amy79@example.net",
+        "name": "Vincent Phillips"
+    },
+    "tax": {
+        "base": 17.84,
+        "tax_amount": 28.72,
+        "total_tax": 20.03
+    }
+}

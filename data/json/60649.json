@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "5973 Williams Spur Suite 640 Stewarthaven, OH 16427",
+        "business_no": "fV334",
+        "id": "pV618"
+    },
+    "invoice": {
+        "date": "24.07.1999",
+        "number": "3761-8852"
+    },
+    "payment": {
+        "due_date": "01.05.2008",
+        "total": 237.54
+    },
+    "products": [
+        {
+            "amount": 89.4,
+            "description": "embrace turn-key info-mediaries",
+            "quantity": 7.65,
+            "reference": "RP-253",
+            "unit_price": 74.74
+        },
+        {
+            "amount": 120.23,
+            "description": "morph global portals",
+            "quantity": 8.89,
+            "reference": "lx-176",
+            "unit_price": 14.03
+        }
+    ],
+    "seller": {
+        "address": "Unit 3870 Box 7514 DPO AA 50933"
+    },
+    "tax": {
+        "base_ht": 208.55,
+        "regulations": 19.5,
+        "total_ht": 452.58,
+        "vat_amount": 19.07,
+        "vat_percentage": 16.03
+    }
+}

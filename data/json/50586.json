@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "6080 Evans Cliffs Suite 776 South Sarah, VT 81779",
+        "id": "lR611"
+    },
+    "invoice": {
+        "bc_no": "aX83433",
+        "currency_code": "ZMW",
+        "date": "16.04.1997",
+        "due_date": "29.05.2014",
+        "number": 230935
+    },
+    "payment": {
+        "bank_name": "Smith, Thompson and Buck",
+        "bic": "IXHSGBVH",
+        "iban": "FCJT20835491193960"
+    },
+    "products": [
+        {
+            "amount": 140.68,
+            "description": "morph mission-critical models",
+            "index": "10",
+            "price": 453.58,
+            "quantity": 5.1,
+            "tax_amount": 78.45,
+            "total_ttc": 202.99,
+            "vat_amount": 0.77
+        },
+        {
+            "amount": 489.68,
+            "description": "visualize one-to-one relationships",
+            "index": "2",
+            "price": 407.84,
+            "quantity": 5.75,
+            "tax_amount": 91.02,
+            "total_ttc": 277.94,
+            "vat_amount": 5.48
+        },
+        {
+            "amount": 253.26,
+            "description": "syndicate cross-media partnerships",
+            "index": "1",
+            "price": 20.99,
+            "quantity": 8.5,
+            "tax_amount": 12.27,
+            "total_ttc": 320.44,
+            "vat_amount": 1.55
+        },
+        {
+            "amount": 486.92,
+            "description": "productize collaborative platforms",
+            "index": "10",
+            "price": 126.89,
+            "quantity": 1.41,
+            "tax_amount": 33.84,
+            "total_ttc": 490.18,
+            "vat_amount": 1.37
+        },
+        {
+            "amount": 495.74,
+            "description": "incentivize wireless convergence",
+            "index": "2",
+            "price": 318.81,
+            "quantity": 3.52,
+            "tax_amount": 52.24,
+            "total_ttc": 155.46,
+            "vat_amount": 3.4
+        },
+        {
+            "amount": 321.17,
+            "description": "disintermediate wireless ROI",
+            "index": "9",
+            "price": 470.47,
+            "quantity": 3.16,
+            "tax_amount": 18.29,
+            "total_ttc": 181.58,
+            "vat_amount": 1.96
+        },
+        {
+            "amount": 461.6,
+            "description": "synthesize 24/365 convergence",
+            "index": "6",
+            "price": 245.92,
+            "quantity": 8.32,
+            "tax_amount": 22.49,
+            "total_ttc": 370.61,
+            "vat_amount": 2.18
+        }
+    ],
+    "seller": {
+        "name": "Anthony Burton"
+    },
+    "supplier": {
+        "address": "6310 Colleen Inlet Apt. 211 North James, HI 70570",
+        "name": "Joseph Ruiz"
+    },
+    "tax": {
+        "amount_excluding_tax": 94.97,
+        "amount_including_tax": 114.7,
+        "tax_amount": 21.66,
+        "total_ht": 423.3,
+        "total_ttc": 448.72
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "628 Hall Lodge West Clairehaven, NM 39824",
+        "email": "pamelablackwell@example.com",
+        "phone": "562.359.8251",
+        "vat_no": "PE18522043829"
+    },
+    "invoice": {
+        "date": "31.07.1998",
+        "due_date": "30.06.1996",
+        "market_reference": 986148,
+        "notes": "seize e-business schemas",
+        "number": "8488-7775",
+        "reference": 175155,
+        "vat_no": "yZ37507866213"
+    },
+    "payment": {
+        "net_total": 132.9,
+        "total": 370.06
+    },
+    "products": [
+        {
+            "amount": 88.51,
+            "description": "engineer compelling e-tailers",
+            "hours": 1.19,
+            "rate": 2.14
+        },
+        {
+            "amount": 367.04,
+            "description": "transition virtual niches",
+            "hours": 4.3,
+            "rate": 2.93
+        },
+        {
+            "amount": 234.77,
+            "description": "embrace B2B systems",
+            "hours": 9.48,
+            "rate": 1.43
+        }
+    ],
+    "seller": {
+        "address": "626 Chapman Hills Apt. 671 Sherriton, IL 52130",
+        "email": "awright@example.org",
+        "name": "Tiffany Levine"
+    },
+    "tax": {
+        "base": 10.21,
+        "tax_amount": 11.77,
+        "total_tax": 13.09
+    }
+}

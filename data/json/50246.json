@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "9640 Fox Junctions Apt. 408 West Jared, KS 91432",
+        "id": "Qc011"
+    },
+    "invoice": {
+        "bc_no": "Yw28095",
+        "currency_code": "IQD",
+        "date": "23.06.2002",
+        "due_date": "07.11.2001",
+        "number": 396120
+    },
+    "payment": {
+        "bank_name": "Lindsey and Sons",
+        "bic": "HTAOGBQW",
+        "iban": "FFMR45807103269480"
+    },
+    "products": [
+        {
+            "amount": 482.89,
+            "description": "mesh back-end interfaces",
+            "index": "2",
+            "price": 254.14,
+            "quantity": 7.02,
+            "tax_amount": 23.07,
+            "total_ttc": 309.51,
+            "vat_amount": 8.65
+        },
+        {
+            "amount": 497.66,
+            "description": "facilitate 24/7 paradigms",
+            "index": "10",
+            "price": 439.67,
+            "quantity": 5.7,
+            "tax_amount": 70.72,
+            "total_ttc": 428.52,
+            "vat_amount": 3.98
+        },
+        {
+            "amount": 492.31,
+            "description": "redefine turn-key e-tailers",
+            "index": "8",
+            "price": 305.01,
+            "quantity": 3.96,
+            "tax_amount": 82.11,
+            "total_ttc": 309.27,
+            "vat_amount": 2.22
+        },
+        {
+            "amount": 168.56,
+            "description": "transform magnetic e-tailers",
+            "index": "4",
+            "price": 214.51,
+            "quantity": 1.75,
+            "tax_amount": 24.34,
+            "total_ttc": 151.39,
+            "vat_amount": 3.35
+        },
+        {
+            "amount": 413.44,
+            "description": "iterate viral synergies",
+            "index": "5",
+            "price": 138.07,
+            "quantity": 1.24,
+            "tax_amount": 61.81,
+            "total_ttc": 277.86,
+            "vat_amount": 1.64
+        }
+    ],
+    "seller": {
+        "name": "Michael Bishop"
+    },
+    "supplier": {
+        "address": "620 Joan Valley Suite 598 Frankstad, UT 72518",
+        "name": "Donald Holmes"
+    },
+    "tax": {
+        "amount_excluding_tax": 43.55,
+        "amount_including_tax": 48.23,
+        "tax_amount": 15.64,
+        "total_ht": 442.8,
+        "total_ttc": 125.69
+    }
+}

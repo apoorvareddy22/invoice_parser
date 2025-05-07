@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "22159 White Skyway Suite 577 Nicholasburgh, NV 18737",
+        "business_no": "jm281",
+        "id": "ox732"
+    },
+    "invoice": {
+        "date": "15.12.2013",
+        "number": "8172-9067"
+    },
+    "payment": {
+        "due_date": "10.04.2000",
+        "total": 885.47
+    },
+    "products": [
+        {
+            "amount": 404.49,
+            "description": "architect front-end e-markets",
+            "quantity": 4.97,
+            "reference": "ro-697",
+            "unit_price": 25.65
+        },
+        {
+            "amount": 204.01,
+            "description": "syndicate 24/7 bandwidth",
+            "quantity": 9.11,
+            "reference": "nJ-042",
+            "unit_price": 99.49
+        }
+    ],
+    "seller": {
+        "address": "971 Cline Walks Suite 771 South Diamond, IN 98702"
+    },
+    "tax": {
+        "base_ht": 294.76,
+        "regulations": 24.59,
+        "total_ht": 257.48,
+        "vat_amount": 172.24,
+        "vat_percentage": 14.31
+    }
+}

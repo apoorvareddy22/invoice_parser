@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "3174 Sara Ports Amandamouth, KY 80825",
+        "company_name": "Nelson Ltd",
+        "email": "lindsaygardner@example.org",
+        "name": "Anthony Mckenzie",
+        "phone": "+1-205-903-5311x71503"
+    },
+    "invoice": {
+        "date": "15.12.2017",
+        "due_date": "13.05.2016",
+        "number": "pzE70598021867"
+    },
+    "payment": {
+        "account_number": 4233449046,
+        "bank_name": "Davis Group",
+        "routing_number": 226153490
+    },
+    "products": [
+        {
+            "amount": 249.99,
+            "description": "enhance best-of-breed technologies",
+            "index": "2",
+            "quantity": 5.38,
+            "unit_price": 34.09
+        },
+        {
+            "amount": 258.62,
+            "description": "revolutionize wireless bandwidth",
+            "index": "3",
+            "quantity": 6.75,
+            "unit_price": 23.19
+        },
+        {
+            "amount": 290.18,
+            "description": "incentivize intuitive communities",
+            "index": "7",
+            "quantity": 2.71,
+            "unit_price": 72.43
+        },
+        {
+            "amount": 465.6,
+            "description": "matrix compelling functionalities",
+            "index": "5",
+            "quantity": 5.24,
+            "unit_price": 19.93
+        }
+    ],
+    "seller": {
+        "address": "43231 Debra Corners Wrightfort, WI 37654",
+        "company_name": "Russell, Thomas and Flores",
+        "email": "collierbrian@example.org"
+    }
+}

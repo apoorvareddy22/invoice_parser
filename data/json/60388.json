@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "9040 Jessica Turnpike Apt. 707 Joshuamouth, WA 07634",
+        "business_no": "Di254",
+        "id": "qa830"
+    },
+    "invoice": {
+        "date": "07.11.1995",
+        "number": "8209-7761"
+    },
+    "payment": {
+        "due_date": "08.12.1990",
+        "total": 659.08
+    },
+    "products": [
+        {
+            "amount": 308.29,
+            "description": "facilitate B2C convergence",
+            "quantity": 6.22,
+            "reference": "ME-437",
+            "unit_price": 71.8
+        },
+        {
+            "amount": 117.6,
+            "description": "matrix open-source portals",
+            "quantity": 2.93,
+            "reference": "Dm-068",
+            "unit_price": 27.52
+        }
+    ],
+    "seller": {
+        "address": "023 Ryan Fields Apt. 113 Port Michelle, VA 86651"
+    },
+    "tax": {
+        "base_ht": 109.89,
+        "regulations": 25.37,
+        "total_ht": 427.87,
+        "vat_amount": 156.07,
+        "vat_percentage": 15.05
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "9741 Amanda Avenue Ethanhaven, SD 75556",
+        "company_name": "White-Freeman",
+        "country": "Portugal",
+        "name": "Mary Armstrong"
+    },
+    "invoice": {
+        "date": "03.01.1997",
+        "number": 357712
+    },
+    "payment": {
+        "discount_amount": 19.47,
+        "discount_percentage": 18.78,
+        "due": 81.84,
+        "sub_total": 137.89,
+        "total": 441.16
+    },
+    "products": [
+        {
+            "description": "engage e-business partnerships",
+            "index": "9",
+            "quantity": 3.67,
+            "total_price": 380.08,
+            "unit_price": 90.26
+        },
+        {
+            "description": "deliver killer infrastructures",
+            "index": "5",
+            "quantity": 9.77,
+            "total_price": 115.2,
+            "unit_price": 33.97
+        }
+    ],
+    "seller": {
+        "address": "529 Dougherty Roads Suite 736 Greenton, PW 51132",
+        "company_name": "Johnson Group",
+        "vat_no": "AQ20874224195"
+    }
+}

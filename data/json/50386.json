@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "9684 Summer Via Suite 384 Carriehaven, PR 42082",
+        "id": "Ze623"
+    },
+    "invoice": {
+        "bc_no": "BJ22538",
+        "currency_code": "NGN",
+        "date": "16.09.1994",
+        "due_date": "04.07.1994",
+        "number": 460932
+    },
+    "payment": {
+        "bank_name": "Hendricks, White and Cross",
+        "bic": "OFIAGBBY",
+        "iban": "SZMQ69724437830938"
+    },
+    "products": [
+        {
+            "amount": 417.07,
+            "description": "integrate 24/365 infrastructures",
+            "index": "10",
+            "price": 221.65,
+            "quantity": 9.3,
+            "tax_amount": 12.9,
+            "total_ttc": 204.0,
+            "vat_amount": 0.76
+        },
+        {
+            "amount": 31.01,
+            "description": "brand rich web-readiness",
+            "index": "8",
+            "price": 392.0,
+            "quantity": 1.99,
+            "tax_amount": 64.35,
+            "total_ttc": 417.97,
+            "vat_amount": 3.47
+        },
+        {
+            "amount": 173.44,
+            "description": "exploit out-of-the-box architectures",
+            "index": "5",
+            "price": 67.93,
+            "quantity": 1.43,
+            "tax_amount": 30.43,
+            "total_ttc": 291.96,
+            "vat_amount": 6.79
+        },
+        {
+            "amount": 216.97,
+            "description": "productize clicks-and-mortar convergence",
+            "index": "4",
+            "price": 113.41,
+            "quantity": 5.3,
+            "tax_amount": 34.16,
+            "total_ttc": 477.33,
+            "vat_amount": 2.4
+        },
+        {
+            "amount": 128.95,
+            "description": "re-intermediate 24/365 architectures",
+            "index": "2",
+            "price": 164.33,
+            "quantity": 1.48,
+            "tax_amount": 96.37,
+            "total_ttc": 391.91,
+            "vat_amount": 1.69
+        },
+        {
+            "amount": 274.92,
+            "description": "synthesize leading-edge info-mediaries",
+            "index": "8",
+            "price": 406.29,
+            "quantity": 4.32,
+            "tax_amount": 91.78,
+            "total_ttc": 238.12,
+            "vat_amount": 4.58
+        },
+        {
+            "amount": 96.91,
+            "description": "incentivize proactive paradigms",
+            "index": "3",
+            "price": 370.69,
+            "quantity": 2.84,
+            "tax_amount": 21.37,
+            "total_ttc": 281.66,
+            "vat_amount": 5.46
+        }
+    ],
+    "seller": {
+        "name": "Gregory Willis"
+    },
+    "supplier": {
+        "address": "09452 William Well North Marieborough, OK 50503",
+        "name": "Molly Young"
+    },
+    "tax": {
+        "amount_excluding_tax": 16.92,
+        "amount_including_tax": 181.42,
+        "tax_amount": 23.99,
+        "total_ht": 118.63,
+        "total_ttc": 344.11
+    }
+}

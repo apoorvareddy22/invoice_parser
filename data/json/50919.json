@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "828 Park Gardens Austinmouth, DC 53510",
+        "id": "hs149"
+    },
+    "invoice": {
+        "bc_no": "jl24416",
+        "currency_code": "HUF",
+        "date": "20.01.1991",
+        "due_date": "09.06.1998",
+        "number": 622178
+    },
+    "payment": {
+        "bank_name": "Stevens-Ashley",
+        "bic": "CMKQGBFPN4N",
+        "iban": "TMML94096491167535"
+    },
+    "products": [
+        {
+            "amount": 290.11,
+            "description": "innovate rich web-readiness",
+            "index": "1",
+            "price": 175.21,
+            "quantity": 8.44,
+            "tax_amount": 76.5,
+            "total_ttc": 374.61,
+            "vat_amount": 1.25
+        },
+        {
+            "amount": 82.92,
+            "description": "redefine best-of-breed e-services",
+            "index": "1",
+            "price": 168.15,
+            "quantity": 6.54,
+            "tax_amount": 96.51,
+            "total_ttc": 252.22,
+            "vat_amount": 8.89
+        },
+        {
+            "amount": 343.21,
+            "description": "grow dynamic deliverables",
+            "index": "3",
+            "price": 492.89,
+            "quantity": 4.63,
+            "tax_amount": 48.03,
+            "total_ttc": 352.18,
+            "vat_amount": 6.6
+        },
+        {
+            "amount": 166.01,
+            "description": "engineer transparent functionalities",
+            "index": "5",
+            "price": 386.85,
+            "quantity": 1.93,
+            "tax_amount": 40.84,
+            "total_ttc": 328.81,
+            "vat_amount": 6.5
+        },
+        {
+            "amount": 64.09,
+            "description": "utilize cross-platform schemas",
+            "index": "1",
+            "price": 98.1,
+            "quantity": 5.47,
+            "tax_amount": 74.2,
+            "total_ttc": 155.49,
+            "vat_amount": 6.33
+        }
+    ],
+    "seller": {
+        "name": "Joseph Perez"
+    },
+    "supplier": {
+        "address": "555 Flores Course Martinmouth, PA 04952",
+        "name": "Phillip Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 160.47,
+        "amount_including_tax": 176.31,
+        "tax_amount": 17.52,
+        "total_ht": 112.08,
+        "total_ttc": 212.61
+    }
+}

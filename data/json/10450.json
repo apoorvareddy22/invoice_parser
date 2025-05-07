@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "326 Bryan Inlet Apt. 394 West Carl, ID 44396",
+        "email": "jrodriguez@example.net",
+        "phone": "+1-929-259-3308",
+        "vat_no": "kZ56036243079"
+    },
+    "invoice": {
+        "date": "06.02.2004",
+        "due_date": "26.10.2011",
+        "market_reference": 320663,
+        "notes": "orchestrate turn-key technologies",
+        "number": "5394-5390",
+        "reference": 513714,
+        "vat_no": "fQ06793278017"
+    },
+    "payment": {
+        "net_total": 23.68,
+        "total": 929.31
+    },
+    "products": [
+        {
+            "amount": 407.78,
+            "description": "transform dynamic paradigms",
+            "hours": 5.78,
+            "rate": 7.09
+        },
+        {
+            "amount": 158.87,
+            "description": "strategize impactful partnerships",
+            "hours": 5.42,
+            "rate": 4.48
+        }
+    ],
+    "seller": {
+        "address": "Unit 2413 Box 9533 DPO AP 52483",
+        "email": "hartmantammy@example.net",
+        "name": "Ashley Fletcher"
+    },
+    "tax": {
+        "base": 16.99,
+        "tax_amount": 22.71,
+        "total_tax": 17.52
+    }
+}

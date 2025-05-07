@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "220 Little Springs Carneyburgh, CA 92656",
+        "id": "DE047"
+    },
+    "invoice": {
+        "bc_no": "iS50369",
+        "currency_code": "AOA",
+        "date": "18.03.2001",
+        "due_date": "01.06.1996",
+        "number": 611392
+    },
+    "payment": {
+        "bank_name": "Blair and Sons",
+        "bic": "BFNDGBWYL9J",
+        "iban": "DYBR49367194685327"
+    },
+    "products": [
+        {
+            "amount": 6.56,
+            "description": "deliver cross-platform platforms",
+            "index": "3",
+            "price": 156.69,
+            "quantity": 8.16,
+            "tax_amount": 40.12,
+            "total_ttc": 138.85,
+            "vat_amount": 4.1
+        },
+        {
+            "amount": 88.93,
+            "description": "engage user-centric convergence",
+            "index": "8",
+            "price": 261.05,
+            "quantity": 4.83,
+            "tax_amount": 72.86,
+            "total_ttc": 393.17,
+            "vat_amount": 2.52
+        }
+    ],
+    "seller": {
+        "name": "Alexis Ramirez"
+    },
+    "supplier": {
+        "address": "588 Jonathan Plains Apt. 384 Jenningsport, NC 20552",
+        "name": "Daniel Blackwell"
+    },
+    "tax": {
+        "amount_excluding_tax": 192.13,
+        "amount_including_tax": 157.36,
+        "tax_amount": 23.0,
+        "total_ht": 482.75,
+        "total_ttc": 312.74
+    }
+}

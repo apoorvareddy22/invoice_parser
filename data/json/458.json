@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "22636 Connie Wall Taraberg, NC 99744",
+        "company_name": "Osborn-Castaneda",
+        "country": "Iran",
+        "name": "Thomas Johnson"
+    },
+    "invoice": {
+        "date": "15.06.2013",
+        "number": 703532
+    },
+    "payment": {
+        "discount_amount": 20.17,
+        "discount_percentage": 13.05,
+        "due": 136.17,
+        "sub_total": 63.4,
+        "total": 124.33
+    },
+    "products": [
+        {
+            "description": "unleash bleeding-edge models",
+            "index": "9",
+            "quantity": 5.41,
+            "total_price": 516.81,
+            "unit_price": 16.66
+        },
+        {
+            "description": "harness cross-platform infrastructures",
+            "index": "2",
+            "quantity": 2.54,
+            "total_price": 375.94,
+            "unit_price": 95.31
+        },
+        {
+            "description": "evolve out-of-the-box e-commerce",
+            "index": "2",
+            "quantity": 3.19,
+            "total_price": 779.96,
+            "unit_price": 17.51
+        },
+        {
+            "description": "grow compelling functionalities",
+            "index": "1",
+            "quantity": 5.89,
+            "total_price": 922.06,
+            "unit_price": 12.71
+        }
+    ],
+    "seller": {
+        "address": "USNV Vargas FPO AP 63937",
+        "company_name": "Franklin Group",
+        "vat_no": "vX08147230349"
+    }
+}

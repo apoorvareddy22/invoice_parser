@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "886 Dominguez Prairie Westburgh, WA 28387",
+        "company_name": "Ramirez-Wolf",
+        "email": "jonesian@example.net",
+        "name": "Cynthia Martin",
+        "phone": "873-619-9165"
+    },
+    "invoice": {
+        "date": "09.11.2021",
+        "due_date": "10.12.2000",
+        "number": "oLH25051549949"
+    },
+    "payment": {
+        "account_number": 1391354008,
+        "bank_name": "Blair Group",
+        "routing_number": 954076594
+    },
+    "products": [
+        {
+            "amount": 453.35,
+            "description": "extend sticky action-items",
+            "index": "5",
+            "quantity": 4.22,
+            "unit_price": 74.57
+        },
+        {
+            "amount": 100.3,
+            "description": "maximize rich methodologies",
+            "index": "9",
+            "quantity": 4.61,
+            "unit_price": 77.44
+        },
+        {
+            "amount": 475.03,
+            "description": "synergize strategic initiatives",
+            "index": "8",
+            "quantity": 6.01,
+            "unit_price": 34.94
+        },
+        {
+            "amount": 436.05,
+            "description": "engage revolutionary e-services",
+            "index": "10",
+            "quantity": 8.89,
+            "unit_price": 57.58
+        }
+    ],
+    "seller": {
+        "address": "7379 Chad Ranch Greerland, AR 27315",
+        "company_name": "Young Group",
+        "email": "bakerjamie@example.net"
+    }
+}

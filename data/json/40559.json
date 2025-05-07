@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "36906 Osborne Lights Apt. 667 South Melissa, UT 84497"
+    },
+    "invoice": {
+        "bc_no": "wu79993",
+        "date": "26.05.2010",
+        "maturity_date": "01.10.2013",
+        "number": 656755
+    },
+    "products": [
+        {
+            "amount": 208.94,
+            "description": "seize turn-key portals",
+            "quantity": 6.2,
+            "unit_price": 49.88,
+            "vat_amount": 0.84
+        }
+    ],
+    "seller": {
+        "address": "12108 Theresa Keys Apt. 632 Cochranfurt, NV 67348"
+    },
+    "tax": {
+        "amount_excluding_tax": 18.76,
+        "amount_including_tax": 101.4,
+        "tax_amount": 29.16
+    }
+}

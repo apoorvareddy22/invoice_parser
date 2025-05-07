@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "621 Weiss Turnpike Apt. 196 Pollardhaven, SD 18073"
+    },
+    "invoice": {
+        "bc_no": "yU19426",
+        "date": "19.08.2021",
+        "maturity_date": "08.01.2021",
+        "number": 833426
+    },
+    "products": [
+        {
+            "amount": 58.76,
+            "description": "e-enable world-class e-tailers",
+            "quantity": 4.71,
+            "unit_price": 41.65,
+            "vat_amount": 13.14
+        },
+        {
+            "amount": 229.12,
+            "description": "mesh visionary systems",
+            "quantity": 7.27,
+            "unit_price": 16.86,
+            "vat_amount": 10.92
+        },
+        {
+            "amount": 24.73,
+            "description": "optimize distributed action-items",
+            "quantity": 1.59,
+            "unit_price": 27.39,
+            "vat_amount": 7.72
+        }
+    ],
+    "seller": {
+        "address": "2501 Palmer Creek Apt. 781 Kimside, AS 16309"
+    },
+    "tax": {
+        "amount_excluding_tax": 128.11,
+        "amount_including_tax": 151.3,
+        "tax_amount": 10.78
+    }
+}

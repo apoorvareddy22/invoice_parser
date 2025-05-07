@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "2424 Jennifer Haven Port Tylershire, MS 72349",
+        "company_name": "Sutton Inc",
+        "country": "Antigua and Barbuda",
+        "name": "Andrew Smith"
+    },
+    "invoice": {
+        "date": "17.11.1995",
+        "number": 885038
+    },
+    "payment": {
+        "discount_amount": 27.54,
+        "discount_percentage": 9.59,
+        "due": 179.71,
+        "sub_total": 116.22,
+        "total": 433.54
+    },
+    "products": [
+        {
+            "description": "empower scalable web-readiness",
+            "index": "1",
+            "quantity": 5.71,
+            "total_price": 651.35,
+            "unit_price": 78.1
+        },
+        {
+            "description": "cultivate cutting-edge communities",
+            "index": "6",
+            "quantity": 5.62,
+            "total_price": 966.64,
+            "unit_price": 54.11
+        },
+        {
+            "description": "implement rich markets",
+            "index": "7",
+            "quantity": 3.97,
+            "total_price": 125.83,
+            "unit_price": 23.39
+        },
+        {
+            "description": "harness user-centric action-items",
+            "index": "7",
+            "quantity": 3.13,
+            "total_price": 702.73,
+            "unit_price": 95.12
+        },
+        {
+            "description": "unleash value-added metrics",
+            "index": "1",
+            "quantity": 2.97,
+            "total_price": 687.84,
+            "unit_price": 61.28
+        },
+        {
+            "description": "whiteboard seamless users",
+            "index": "9",
+            "quantity": 2.72,
+            "total_price": 850.72,
+            "unit_price": 56.54
+        },
+        {
+            "description": "maximize end-to-end applications",
+            "index": "10",
+            "quantity": 1.31,
+            "total_price": 840.01,
+            "unit_price": 47.14
+        }
+    ],
+    "seller": {
+        "address": "7775 Hernandez Keys Suite 672 West Frederick, CT 54349",
+        "company_name": "Huff, Miles and Ellison",
+        "vat_no": "FA13652046591"
+    }
+}

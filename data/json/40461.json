@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "99131 Charles Fords Port Erinmouth, VA 30729"
+    },
+    "invoice": {
+        "bc_no": "nr07318",
+        "date": "28.04.1996",
+        "maturity_date": "08.08.2011",
+        "number": 540436
+    },
+    "products": [
+        {
+            "amount": 332.58,
+            "description": "optimize revolutionary applications",
+            "quantity": 2.77,
+            "unit_price": 18.21,
+            "vat_amount": 1.88
+        },
+        {
+            "amount": 287.33,
+            "description": "revolutionize B2B interfaces",
+            "quantity": 1.38,
+            "unit_price": 32.32,
+            "vat_amount": 11.14
+        },
+        {
+            "amount": 93.73,
+            "description": "enable customized applications",
+            "quantity": 6.83,
+            "unit_price": 95.46,
+            "vat_amount": 2.96
+        },
+        {
+            "amount": 44.36,
+            "description": "maximize end-to-end bandwidth",
+            "quantity": 2.92,
+            "unit_price": 49.75,
+            "vat_amount": 0.19
+        },
+        {
+            "amount": 486.3,
+            "description": "mesh robust experiences",
+            "quantity": 2.63,
+            "unit_price": 19.03,
+            "vat_amount": 5.21
+        }
+    ],
+    "seller": {
+        "address": "24803 Burch Stravenue Samanthaberg, LA 97262"
+    },
+    "tax": {
+        "amount_excluding_tax": 33.22,
+        "amount_including_tax": 123.0,
+        "tax_amount": 12.52
+    }
+}

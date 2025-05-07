@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "5505 Wright Knoll Suite 054 South Karlland, LA 53209",
+        "email": "epreston@example.net",
+        "phone": "(312)496-5315x784",
+        "vat_no": "zt40186593620"
+    },
+    "invoice": {
+        "date": "10.06.1994",
+        "due_date": "11.02.2022",
+        "market_reference": 141615,
+        "notes": "mesh e-business web services",
+        "number": "0961-3059",
+        "reference": 283323,
+        "vat_no": "hV76721463866"
+    },
+    "payment": {
+        "net_total": 74.7,
+        "total": 783.84
+    },
+    "products": [
+        {
+            "amount": 460.05,
+            "description": "deploy dynamic channels",
+            "hours": 2.96,
+            "rate": 6.12
+        },
+        {
+            "amount": 108.32,
+            "description": "embrace clicks-and-mortar infrastructures",
+            "hours": 7.89,
+            "rate": 2.54
+        }
+    ],
+    "seller": {
+        "address": "78472 Kyle Bridge West Alexhaven, MO 60298",
+        "email": "sdavis@example.com",
+        "name": "Sara Manning"
+    },
+    "tax": {
+        "base": 19.1,
+        "tax_amount": 14.86,
+        "total_tax": 23.57
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "6879 Cooper Spurs Mendezton, WY 95694"
+    },
+    "invoice": {
+        "bc_no": "xx67570",
+        "date": "06.06.2002",
+        "maturity_date": "22.06.2003",
+        "number": 904730
+    },
+    "products": [
+        {
+            "amount": 388.28,
+            "description": "harness intuitive relationships",
+            "quantity": 6.94,
+            "unit_price": 93.61,
+            "vat_amount": 1.9
+        },
+        {
+            "amount": 339.2,
+            "description": "streamline user-centric supply-chains",
+            "quantity": 2.49,
+            "unit_price": 63.99,
+            "vat_amount": 2.09
+        },
+        {
+            "amount": 392.85,
+            "description": "synthesize plug-and-play supply-chains",
+            "quantity": 6.72,
+            "unit_price": 81.45,
+            "vat_amount": 1.11
+        }
+    ],
+    "seller": {
+        "address": "531 Amy Ridge Dannychester, CA 73383"
+    },
+    "tax": {
+        "amount_excluding_tax": 51.56,
+        "amount_including_tax": 136.96,
+        "tax_amount": 27.62
+    }
+}

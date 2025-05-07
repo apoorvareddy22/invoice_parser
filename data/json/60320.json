@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "86298 Emily Divide Apt. 771 North Robert, MS 87686",
+        "business_no": "wl971",
+        "id": "mf210"
+    },
+    "invoice": {
+        "date": "28.12.2000",
+        "number": "3870-6750"
+    },
+    "payment": {
+        "due_date": "21.11.2009",
+        "total": 675.82
+    },
+    "products": [
+        {
+            "amount": 367.54,
+            "description": "engage user-centric deliverables",
+            "quantity": 5.34,
+            "reference": "lY-695",
+            "unit_price": 11.47
+        },
+        {
+            "amount": 8.64,
+            "description": "extend mission-critical users",
+            "quantity": 7.29,
+            "reference": "aL-098",
+            "unit_price": 62.54
+        },
+        {
+            "amount": 452.5,
+            "description": "harness bleeding-edge e-commerce",
+            "quantity": 7.02,
+            "reference": "Rh-900",
+            "unit_price": 32.21
+        },
+        {
+            "amount": 287.27,
+            "description": "redefine plug-and-play content",
+            "quantity": 8.72,
+            "reference": "pI-546",
+            "unit_price": 66.41
+        },
+        {
+            "amount": 459.3,
+            "description": "architect e-business content",
+            "quantity": 2.73,
+            "reference": "KK-434",
+            "unit_price": 60.12
+        }
+    ],
+    "seller": {
+        "address": "491 Andrade Pike South Melissahaven, WI 88585"
+    },
+    "tax": {
+        "base_ht": 321.36,
+        "regulations": 14.14,
+        "total_ht": 348.63,
+        "vat_amount": 84.59,
+        "vat_percentage": 14.67
+    }
+}

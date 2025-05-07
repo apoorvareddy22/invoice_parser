@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "00308 Guzman Tunnel Whiteville, TX 37547"
+    },
+    "invoice": {
+        "bc_no": "ls03552",
+        "date": "08.05.1997",
+        "maturity_date": "16.06.2018",
+        "number": 788822
+    },
+    "products": [
+        {
+            "amount": 128.25,
+            "description": "grow revolutionary content",
+            "quantity": 4.49,
+            "unit_price": 85.29,
+            "vat_amount": 3.55
+        },
+        {
+            "amount": 363.99,
+            "description": "e-enable cross-platform eyeballs",
+            "quantity": 4.31,
+            "unit_price": 99.2,
+            "vat_amount": 4.3
+        },
+        {
+            "amount": 458.9,
+            "description": "harness leading-edge relationships",
+            "quantity": 9.03,
+            "unit_price": 27.23,
+            "vat_amount": 3.45
+        },
+        {
+            "amount": 180.85,
+            "description": "matrix extensible e-business",
+            "quantity": 3.13,
+            "unit_price": 36.14,
+            "vat_amount": 7.85
+        },
+        {
+            "amount": 359.26,
+            "description": "aggregate global supply-chains",
+            "quantity": 9.78,
+            "unit_price": 66.88,
+            "vat_amount": 2.44
+        }
+    ],
+    "seller": {
+        "address": "30958 Matthew Ford Apt. 607 Frenchland, AK 11393"
+    },
+    "tax": {
+        "amount_excluding_tax": 32.54,
+        "amount_including_tax": 13.54,
+        "tax_amount": 28.98
+    }
+}

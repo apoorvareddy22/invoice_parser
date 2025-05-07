@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "92237 Avery Hollow Suite 978 New Allison, DE 62211",
+        "id": "Va348"
+    },
+    "invoice": {
+        "bc_no": "wT01753",
+        "currency_code": "TRY",
+        "date": "30.08.2002",
+        "due_date": "12.11.2014",
+        "number": 998371
+    },
+    "payment": {
+        "bank_name": "Patterson, Mcintosh and Williams",
+        "bic": "AHZSGB18",
+        "iban": "CRDD17074532900974"
+    },
+    "products": [
+        {
+            "amount": 464.46,
+            "description": "visualize bricks-and-clicks ROI",
+            "index": "3",
+            "price": 98.22,
+            "quantity": 4.8,
+            "tax_amount": 32.74,
+            "total_ttc": 199.78,
+            "vat_amount": 3.23
+        },
+        {
+            "amount": 8.77,
+            "description": "cultivate proactive schemas",
+            "index": "6",
+            "price": 245.03,
+            "quantity": 8.67,
+            "tax_amount": 28.47,
+            "total_ttc": 357.62,
+            "vat_amount": 2.69
+        },
+        {
+            "amount": 217.59,
+            "description": "facilitate bleeding-edge metrics",
+            "index": "3",
+            "price": 326.59,
+            "quantity": 2.38,
+            "tax_amount": 56.95,
+            "total_ttc": 227.98,
+            "vat_amount": 1.68
+        },
+        {
+            "amount": 239.79,
+            "description": "aggregate compelling paradigms",
+            "index": "7",
+            "price": 407.5,
+            "quantity": 9.0,
+            "tax_amount": 35.81,
+            "total_ttc": 484.23,
+            "vat_amount": 8.8
+        },
+        {
+            "amount": 114.73,
+            "description": "engineer granular relationships",
+            "index": "8",
+            "price": 450.34,
+            "quantity": 5.43,
+            "tax_amount": 17.37,
+            "total_ttc": 184.72,
+            "vat_amount": 10.5
+        },
+        {
+            "amount": 343.13,
+            "description": "synthesize clicks-and-mortar platforms",
+            "index": "6",
+            "price": 162.22,
+            "quantity": 9.09,
+            "tax_amount": 87.72,
+            "total_ttc": 169.91,
+            "vat_amount": 16.39
+        }
+    ],
+    "seller": {
+        "name": "Joshua Maxwell"
+    },
+    "supplier": {
+        "address": "PSC 0250, Box 2975 APO AP 36033",
+        "name": "Michael Schultz"
+    },
+    "tax": {
+        "amount_excluding_tax": 99.1,
+        "amount_including_tax": 46.02,
+        "tax_amount": 26.54,
+        "total_ht": 109.38,
+        "total_ttc": 182.24
+    }
+}

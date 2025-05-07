@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "5865 Brooks Spurs Apt. 857 New Amandaside, AL 93074",
+        "id": "Pi509"
+    },
+    "invoice": {
+        "bc_no": "hx90667",
+        "currency_code": "OMR",
+        "date": "11.01.2015",
+        "due_date": "06.08.2022",
+        "number": 764358
+    },
+    "payment": {
+        "bank_name": "Johnson and Sons",
+        "bic": "FTVRGBBK9VJ",
+        "iban": "HFQZ54618316281887"
+    },
+    "products": [
+        {
+            "amount": 79.03,
+            "description": "envisioneer granular technologies",
+            "index": "4",
+            "price": 164.11,
+            "quantity": 5.89,
+            "tax_amount": 25.32,
+            "total_ttc": 308.64,
+            "vat_amount": 0.62
+        },
+        {
+            "amount": 413.59,
+            "description": "visualize out-of-the-box e-business",
+            "index": "10",
+            "price": 80.34,
+            "quantity": 4.09,
+            "tax_amount": 60.57,
+            "total_ttc": 365.41,
+            "vat_amount": 1.48
+        },
+        {
+            "amount": 146.91,
+            "description": "facilitate cross-platform experiences",
+            "index": "1",
+            "price": 416.93,
+            "quantity": 8.93,
+            "tax_amount": 52.4,
+            "total_ttc": 391.02,
+            "vat_amount": 4.88
+        },
+        {
+            "amount": 102.24,
+            "description": "drive scalable web-readiness",
+            "index": "10",
+            "price": 395.25,
+            "quantity": 4.0,
+            "tax_amount": 83.67,
+            "total_ttc": 163.0,
+            "vat_amount": 9.63
+        },
+        {
+            "amount": 102.43,
+            "description": "maximize scalable markets",
+            "index": "10",
+            "price": 72.88,
+            "quantity": 9.34,
+            "tax_amount": 43.49,
+            "total_ttc": 209.57,
+            "vat_amount": 15.53
+        },
+        {
+            "amount": 58.35,
+            "description": "enable user-centric supply-chains",
+            "index": "9",
+            "price": 442.91,
+            "quantity": 9.43,
+            "tax_amount": 73.93,
+            "total_ttc": 179.79,
+            "vat_amount": 5.06
+        },
+        {
+            "amount": 455.51,
+            "description": "generate turn-key synergies",
+            "index": "5",
+            "price": 405.1,
+            "quantity": 3.55,
+            "tax_amount": 56.45,
+            "total_ttc": 229.97,
+            "vat_amount": 2.49
+        }
+    ],
+    "seller": {
+        "name": "Laura Peck MD"
+    },
+    "supplier": {
+        "address": "9164 Briana Ridges Port Frank, MN 90878",
+        "name": "Bradley Cohen"
+    },
+    "tax": {
+        "amount_excluding_tax": 87.03,
+        "amount_including_tax": 60.12,
+        "tax_amount": 18.23,
+        "total_ht": 410.36,
+        "total_ttc": 212.66
+    }
+}

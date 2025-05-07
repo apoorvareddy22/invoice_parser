@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "245 Larry Valley Apt. 390 Mcknightshire, NV 67352"
+    },
+    "invoice": {
+        "bc_no": "eG69030",
+        "date": "24.03.2007",
+        "maturity_date": "09.09.2017",
+        "number": 658592
+    },
+    "products": [
+        {
+            "amount": 449.7,
+            "description": "repurpose e-business applications",
+            "quantity": 9.51,
+            "unit_price": 15.23,
+            "vat_amount": 5.82
+        },
+        {
+            "amount": 80.54,
+            "description": "maximize cross-media architectures",
+            "quantity": 9.21,
+            "unit_price": 75.4,
+            "vat_amount": 1.23
+        }
+    ],
+    "seller": {
+        "address": "PSC 3121, Box 1981 APO AP 43188"
+    },
+    "tax": {
+        "amount_excluding_tax": 35.93,
+        "amount_including_tax": 79.15,
+        "tax_amount": 22.04
+    }
+}

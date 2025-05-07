@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "663 Kevin Bypass Suite 981 New Amandaview, WY 18567",
+        "id": "Ne678"
+    },
+    "invoice": {
+        "bc_no": "Gc79717",
+        "currency_code": "AOA",
+        "date": "24.07.1990",
+        "due_date": "22.04.2006",
+        "number": 957877
+    },
+    "payment": {
+        "bank_name": "Lewis, Chan and Rodriguez",
+        "bic": "URWBGBBANTB",
+        "iban": "UIQL42275878474357"
+    },
+    "products": [
+        {
+            "amount": 220.44,
+            "description": "whiteboard open-source solutions",
+            "index": "2",
+            "price": 492.5,
+            "quantity": 5.21,
+            "tax_amount": 35.58,
+            "total_ttc": 466.23,
+            "vat_amount": 10.09
+        },
+        {
+            "amount": 235.94,
+            "description": "mesh intuitive vortals",
+            "index": "8",
+            "price": 38.66,
+            "quantity": 6.97,
+            "tax_amount": 34.5,
+            "total_ttc": 263.84,
+            "vat_amount": 0.81
+        },
+        {
+            "amount": 147.71,
+            "description": "strategize value-added systems",
+            "index": "5",
+            "price": 329.92,
+            "quantity": 7.68,
+            "tax_amount": 75.44,
+            "total_ttc": 376.28,
+            "vat_amount": 9.26
+        },
+        {
+            "amount": 317.96,
+            "description": "enable intuitive experiences",
+            "index": "3",
+            "price": 346.89,
+            "quantity": 4.0,
+            "tax_amount": 69.45,
+            "total_ttc": 487.1,
+            "vat_amount": 5.7
+        },
+        {
+            "amount": 228.76,
+            "description": "target open-source bandwidth",
+            "index": "3",
+            "price": 495.09,
+            "quantity": 5.5,
+            "tax_amount": 58.0,
+            "total_ttc": 129.95,
+            "vat_amount": 1.72
+        },
+        {
+            "amount": 277.37,
+            "description": "iterate efficient partnerships",
+            "index": "6",
+            "price": 300.58,
+            "quantity": 8.27,
+            "tax_amount": 11.93,
+            "total_ttc": 388.85,
+            "vat_amount": 7.21
+        }
+    ],
+    "seller": {
+        "name": "Kimberly Stevens"
+    },
+    "supplier": {
+        "address": "5690 Kelly Mountains Sandersport, ME 40299",
+        "name": "Jennifer Jordan"
+    },
+    "tax": {
+        "amount_excluding_tax": 191.9,
+        "amount_including_tax": 89.55,
+        "tax_amount": 23.55,
+        "total_ht": 410.83,
+        "total_ttc": 165.34
+    }
+}

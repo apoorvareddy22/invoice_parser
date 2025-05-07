@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "319 Leonard Stravenue Apt. 888 Monteshaven, CT 93720",
+        "company_name": "Smith, Bell and Woods",
+        "email": "pinedaashley@example.org",
+        "name": "Christopher Sherman",
+        "phone": "732.466.1966"
+    },
+    "invoice": {
+        "date": "05.01.2002",
+        "due_date": "15.03.2019",
+        "number": "KLS83208414316"
+    },
+    "payment": {
+        "account_number": 3842158522,
+        "bank_name": "Nelson Ltd",
+        "routing_number": 679828825
+    },
+    "products": [
+        {
+            "amount": 239.5,
+            "description": "empower dot-com communities",
+            "index": "2",
+            "quantity": 8.83,
+            "unit_price": 54.4
+        },
+        {
+            "amount": 254.93,
+            "description": "revolutionize dynamic eyeballs",
+            "index": "5",
+            "quantity": 7.14,
+            "unit_price": 55.8
+        }
+    ],
+    "seller": {
+        "address": "450 Christopher Plains Phillipfurt, MD 79323",
+        "company_name": "Sullivan PLC",
+        "email": "lutztara@example.org"
+    }
+}

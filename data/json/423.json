@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "6739 Wells Inlet East Lori, DC 06818",
+        "company_name": "Medina-Ross",
+        "country": "Sao Tome and Principe",
+        "name": "Michael Lee"
+    },
+    "invoice": {
+        "date": "04.08.2004",
+        "number": 561509
+    },
+    "payment": {
+        "discount_amount": 38.64,
+        "discount_percentage": 8.34,
+        "due": 57.26,
+        "sub_total": 183.62,
+        "total": 986.67
+    },
+    "products": [
+        {
+            "description": "syndicate next-generation action-items",
+            "index": "6",
+            "quantity": 7.48,
+            "total_price": 877.86,
+            "unit_price": 34.3
+        },
+        {
+            "description": "reinvent ubiquitous supply-chains",
+            "index": "1",
+            "quantity": 3.54,
+            "total_price": 117.71,
+            "unit_price": 72.74
+        }
+    ],
+    "seller": {
+        "address": "9759 Hinton Isle Suite 092 Robinbury, IA 63103",
+        "company_name": "Gonzalez Ltd",
+        "vat_no": "HL39415549508"
+    }
+}

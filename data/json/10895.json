@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "452 Mason Roads Apt. 031 West Melissaburgh, VT 15343",
+        "email": "xowens@example.org",
+        "phone": "+1-911-398-8701x7614",
+        "vat_no": "Eq40096528999"
+    },
+    "invoice": {
+        "date": "13.02.2008",
+        "due_date": "25.05.2022",
+        "market_reference": 663314,
+        "notes": "seize visionary paradigms",
+        "number": "6308-6365",
+        "reference": 390501,
+        "vat_no": "Xn40438181407"
+    },
+    "payment": {
+        "net_total": 192.42,
+        "total": 357.97
+    },
+    "products": [
+        {
+            "amount": 92.8,
+            "description": "drive 24/365 paradigms",
+            "hours": 5.21,
+            "rate": 1.62
+        },
+        {
+            "amount": 473.74,
+            "description": "brand synergistic channels",
+            "hours": 8.44,
+            "rate": 1.86
+        },
+        {
+            "amount": 251.41,
+            "description": "iterate mission-critical synergies",
+            "hours": 3.38,
+            "rate": 7.76
+        },
+        {
+            "amount": 152.58,
+            "description": "disintermediate turn-key e-tailers",
+            "hours": 5.58,
+            "rate": 8.54
+        },
+        {
+            "amount": 83.31,
+            "description": "enhance dot-com platforms",
+            "hours": 4.46,
+            "rate": 5.98
+        },
+        {
+            "amount": 431.7,
+            "description": "streamline open-source metrics",
+            "hours": 5.64,
+            "rate": 6.5
+        }
+    ],
+    "seller": {
+        "address": "84898 Lang Loop Apt. 086 Wrighttown, MI 41019",
+        "email": "usweeney@example.com",
+        "name": "Charles Hale"
+    },
+    "tax": {
+        "base": 29.21,
+        "tax_amount": 17.95,
+        "total_tax": 20.82
+    }
+}

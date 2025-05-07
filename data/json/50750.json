@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "67996 Novak Fork Suite 639 Port Thomas, VA 09792",
+        "id": "Kl072"
+    },
+    "invoice": {
+        "bc_no": "JQ86035",
+        "currency_code": "CHF",
+        "date": "04.11.2013",
+        "due_date": "21.06.2015",
+        "number": 883670
+    },
+    "payment": {
+        "bank_name": "Jacobs-Perry",
+        "bic": "EAIKGBKV",
+        "iban": "JGDE77348698206406"
+    },
+    "products": [
+        {
+            "amount": 275.15,
+            "description": "architect viral eyeballs",
+            "index": "7",
+            "price": 6.79,
+            "quantity": 7.18,
+            "tax_amount": 83.25,
+            "total_ttc": 428.54,
+            "vat_amount": 5.78
+        },
+        {
+            "amount": 406.78,
+            "description": "utilize rich e-tailers",
+            "index": "9",
+            "price": 87.21,
+            "quantity": 8.44,
+            "tax_amount": 22.23,
+            "total_ttc": 432.69,
+            "vat_amount": 5.03
+        },
+        {
+            "amount": 452.85,
+            "description": "matrix cross-media schemas",
+            "index": "10",
+            "price": 162.26,
+            "quantity": 8.8,
+            "tax_amount": 88.84,
+            "total_ttc": 109.46,
+            "vat_amount": 7.43
+        },
+        {
+            "amount": 179.56,
+            "description": "disintermediate robust e-tailers",
+            "index": "9",
+            "price": 75.93,
+            "quantity": 2.22,
+            "tax_amount": 73.64,
+            "total_ttc": 323.13,
+            "vat_amount": 1.02
+        },
+        {
+            "amount": 305.86,
+            "description": "leverage robust markets",
+            "index": "10",
+            "price": 36.16,
+            "quantity": 7.95,
+            "tax_amount": 63.71,
+            "total_ttc": 272.59,
+            "vat_amount": 1.57
+        },
+        {
+            "amount": 116.96,
+            "description": "synergize real-time systems",
+            "index": "8",
+            "price": 430.56,
+            "quantity": 8.16,
+            "tax_amount": 66.01,
+            "total_ttc": 137.41,
+            "vat_amount": 2.77
+        },
+        {
+            "amount": 307.21,
+            "description": "architect plug-and-play web-readiness",
+            "index": "2",
+            "price": 421.8,
+            "quantity": 7.8,
+            "tax_amount": 86.55,
+            "total_ttc": 102.38,
+            "vat_amount": 1.98
+        }
+    ],
+    "seller": {
+        "name": "Jeremy Martinez"
+    },
+    "supplier": {
+        "address": "827 Justin Drive New Gary, MA 63575",
+        "name": "Lisa Snyder"
+    },
+    "tax": {
+        "amount_excluding_tax": 12.68,
+        "amount_including_tax": 87.38,
+        "tax_amount": 18.9,
+        "total_ht": 105.46,
+        "total_ttc": 293.96
+    }
+}

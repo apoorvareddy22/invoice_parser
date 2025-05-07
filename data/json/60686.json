@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "5225 Brenda Ways Suite 164 Port Brian, NJ 58091",
+        "business_no": "Dd410",
+        "id": "nf897"
+    },
+    "invoice": {
+        "date": "24.02.1994",
+        "number": "2010-9395"
+    },
+    "payment": {
+        "due_date": "23.04.1996",
+        "total": 804.1
+    },
+    "products": [
+        {
+            "amount": 425.91,
+            "description": "scale synergistic solutions",
+            "quantity": 4.17,
+            "reference": "ln-424",
+            "unit_price": 99.51
+        },
+        {
+            "amount": 184.22,
+            "description": "grow collaborative methodologies",
+            "quantity": 2.84,
+            "reference": "Fq-789",
+            "unit_price": 25.84
+        },
+        {
+            "amount": 484.48,
+            "description": "syndicate distributed supply-chains",
+            "quantity": 4.44,
+            "reference": "tB-005",
+            "unit_price": 32.35
+        },
+        {
+            "amount": 253.63,
+            "description": "whiteboard dynamic metrics",
+            "quantity": 5.17,
+            "reference": "MZ-543",
+            "unit_price": 18.32
+        }
+    ],
+    "seller": {
+        "address": "3862 Russell Branch New Lawrence, MS 57571"
+    },
+    "tax": {
+        "base_ht": 246.46,
+        "regulations": 18.65,
+        "total_ht": 443.23,
+        "vat_amount": 44.49,
+        "vat_percentage": 22.11
+    }
+}

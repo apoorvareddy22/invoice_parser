@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "27668 Taylor Groves Suite 600 Seanhaven, MO 26194",
+        "business_no": "jB803",
+        "id": "xw732"
+    },
+    "invoice": {
+        "date": "13.08.2001",
+        "number": "6805-2176"
+    },
+    "payment": {
+        "due_date": "31.12.2003",
+        "total": 766.85
+    },
+    "products": [
+        {
+            "amount": 181.04,
+            "description": "redefine open-source vortals",
+            "quantity": 6.26,
+            "reference": "uL-224",
+            "unit_price": 92.39
+        },
+        {
+            "amount": 16.34,
+            "description": "reinvent integrated niches",
+            "quantity": 4.24,
+            "reference": "ql-789",
+            "unit_price": 91.3
+        },
+        {
+            "amount": 229.71,
+            "description": "utilize cross-platform portals",
+            "quantity": 5.48,
+            "reference": "it-075",
+            "unit_price": 42.98
+        },
+        {
+            "amount": 321.55,
+            "description": "transform sticky methodologies",
+            "quantity": 5.12,
+            "reference": "eW-272",
+            "unit_price": 16.97
+        }
+    ],
+    "seller": {
+        "address": "90256 Collier Run Apt. 560 Port Edward, MS 86074"
+    },
+    "tax": {
+        "base_ht": 222.69,
+        "regulations": 15.16,
+        "total_ht": 323.64,
+        "vat_amount": 106.11,
+        "vat_percentage": 20.9
+    }
+}

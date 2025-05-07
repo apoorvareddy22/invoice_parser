@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "918 Phillips Curve Suite 103 West Alexis, DE 29885",
+        "id": "SU140"
+    },
+    "invoice": {
+        "bc_no": "dw51828",
+        "currency_code": "UYU",
+        "date": "20.05.2006",
+        "due_date": "16.12.2001",
+        "number": 313539
+    },
+    "payment": {
+        "bank_name": "Arroyo-Hunter",
+        "bic": "OCUPGBFE",
+        "iban": "NIRV80664745692109"
+    },
+    "products": [
+        {
+            "amount": 94.42,
+            "description": "embrace B2C convergence",
+            "index": "3",
+            "price": 89.94,
+            "quantity": 1.18,
+            "tax_amount": 43.01,
+            "total_ttc": 229.02,
+            "vat_amount": 9.79
+        },
+        {
+            "amount": 95.86,
+            "description": "utilize robust architectures",
+            "index": "6",
+            "price": 299.08,
+            "quantity": 8.27,
+            "tax_amount": 48.95,
+            "total_ttc": 446.42,
+            "vat_amount": 2.85
+        },
+        {
+            "amount": 82.37,
+            "description": "repurpose turn-key methodologies",
+            "index": "8",
+            "price": 91.53,
+            "quantity": 9.13,
+            "tax_amount": 37.35,
+            "total_ttc": 231.46,
+            "vat_amount": 2.98
+        },
+        {
+            "amount": 419.83,
+            "description": "exploit clicks-and-mortar initiatives",
+            "index": "3",
+            "price": 104.51,
+            "quantity": 8.74,
+            "tax_amount": 74.97,
+            "total_ttc": 157.33,
+            "vat_amount": 13.1
+        },
+        {
+            "amount": 318.69,
+            "description": "revolutionize dynamic networks",
+            "index": "1",
+            "price": 314.56,
+            "quantity": 1.65,
+            "tax_amount": 13.78,
+            "total_ttc": 161.63,
+            "vat_amount": 11.43
+        },
+        {
+            "amount": 104.21,
+            "description": "utilize robust convergence",
+            "index": "5",
+            "price": 395.24,
+            "quantity": 7.34,
+            "tax_amount": 45.06,
+            "total_ttc": 444.68,
+            "vat_amount": 6.81
+        }
+    ],
+    "seller": {
+        "name": "Steven Anderson"
+    },
+    "supplier": {
+        "address": "31399 Lynch Plains Apt. 899 South Michaelfort, OR 60737",
+        "name": "Michelle Lee"
+    },
+    "tax": {
+        "amount_excluding_tax": 121.36,
+        "amount_including_tax": 67.67,
+        "tax_amount": 18.49,
+        "total_ht": 265.57,
+        "total_ttc": 257.52
+    }
+}

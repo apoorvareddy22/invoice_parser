@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "458 Thomas Parkways Apt. 249 Millertown, MT 63488",
+        "id": "aR574"
+    },
+    "invoice": {
+        "bc_no": "na38488",
+        "currency_code": "MXN",
+        "date": "14.07.2017",
+        "due_date": "25.07.1997",
+        "number": 962136
+    },
+    "payment": {
+        "bank_name": "Krueger Group",
+        "bic": "PNSKGB28Z8M",
+        "iban": "HATV54482760374344"
+    },
+    "products": [
+        {
+            "amount": 282.05,
+            "description": "incentivize efficient mindshare",
+            "index": "2",
+            "price": 111.9,
+            "quantity": 7.48,
+            "tax_amount": 66.81,
+            "total_ttc": 338.69,
+            "vat_amount": 4.23
+        }
+    ],
+    "seller": {
+        "name": "Autumn Gardner"
+    },
+    "supplier": {
+        "address": "524 Autumn Mountain Hawkinsport, CT 61500",
+        "name": "Sarah White"
+    },
+    "tax": {
+        "amount_excluding_tax": 144.29,
+        "amount_including_tax": 173.5,
+        "tax_amount": 26.14,
+        "total_ht": 255.68,
+        "total_ttc": 141.06
+    }
+}

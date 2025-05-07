@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "29007 Miller Station Suite 410 Mullinsfurt, WA 40735",
+        "id": "Od739"
+    },
+    "invoice": {
+        "bc_no": "qE09464",
+        "currency_code": "GGP",
+        "date": "21.05.2005",
+        "due_date": "27.01.2019",
+        "number": 502874
+    },
+    "payment": {
+        "bank_name": "Clements, Sullivan and Mccarthy",
+        "bic": "GHOQGBOG",
+        "iban": "LLJI87817849272293"
+    },
+    "products": [
+        {
+            "amount": 320.96,
+            "description": "empower collaborative experiences",
+            "index": "2",
+            "price": 423.16,
+            "quantity": 3.62,
+            "tax_amount": 75.94,
+            "total_ttc": 496.43,
+            "vat_amount": 3.3
+        },
+        {
+            "amount": 58.97,
+            "description": "leverage strategic bandwidth",
+            "index": "9",
+            "price": 19.13,
+            "quantity": 4.22,
+            "tax_amount": 22.62,
+            "total_ttc": 410.25,
+            "vat_amount": 13.59
+        },
+        {
+            "amount": 384.2,
+            "description": "exploit value-added e-services",
+            "index": "7",
+            "price": 124.97,
+            "quantity": 8.76,
+            "tax_amount": 48.48,
+            "total_ttc": 277.2,
+            "vat_amount": 6.26
+        },
+        {
+            "amount": 455.97,
+            "description": "unleash wireless bandwidth",
+            "index": "10",
+            "price": 437.3,
+            "quantity": 9.25,
+            "tax_amount": 70.02,
+            "total_ttc": 190.15,
+            "vat_amount": 5.82
+        },
+        {
+            "amount": 172.24,
+            "description": "syndicate cross-media synergies",
+            "index": "5",
+            "price": 295.92,
+            "quantity": 8.97,
+            "tax_amount": 87.36,
+            "total_ttc": 330.49,
+            "vat_amount": 11.1
+        },
+        {
+            "amount": 276.07,
+            "description": "facilitate virtual ROI",
+            "index": "5",
+            "price": 470.15,
+            "quantity": 2.25,
+            "tax_amount": 62.83,
+            "total_ttc": 385.45,
+            "vat_amount": 1.71
+        }
+    ],
+    "seller": {
+        "name": "Tyler Harris"
+    },
+    "supplier": {
+        "address": "4097 Cole Rest Port Madison, DE 27782",
+        "name": "Christina Landry"
+    },
+    "tax": {
+        "amount_excluding_tax": 59.99,
+        "amount_including_tax": 128.18,
+        "tax_amount": 18.68,
+        "total_ht": 118.15,
+        "total_ttc": 217.08
+    }
+}

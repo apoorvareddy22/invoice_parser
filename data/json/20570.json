@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "527 Roy Estates South Erica, VI 58934",
+        "company_name": "Elliott-Carrillo",
+        "email": "higginscharles@example.org",
+        "name": "Robert Ali",
+        "phone": "643.336.1937"
+    },
+    "invoice": {
+        "date": "04.09.1998",
+        "due_date": "29.06.2012",
+        "number": "IOZ05434140481"
+    },
+    "payment": {
+        "account_number": 7947804703,
+        "bank_name": "Ferguson, Jackson and Juarez",
+        "routing_number": 304503395
+    },
+    "products": [
+        {
+            "amount": 89.32,
+            "description": "engage transparent e-tailers",
+            "index": "1",
+            "quantity": 2.01,
+            "unit_price": 83.63
+        },
+        {
+            "amount": 79.59,
+            "description": "engineer visionary communities",
+            "index": "1",
+            "quantity": 5.11,
+            "unit_price": 48.12
+        },
+        {
+            "amount": 113.76,
+            "description": "leverage intuitive experiences",
+            "index": "8",
+            "quantity": 7.7,
+            "unit_price": 77.92
+        },
+        {
+            "amount": 138.71,
+            "description": "cultivate vertical e-commerce",
+            "index": "9",
+            "quantity": 1.9,
+            "unit_price": 39.73
+        },
+        {
+            "amount": 89.01,
+            "description": "productize vertical e-commerce",
+            "index": "8",
+            "quantity": 8.73,
+            "unit_price": 14.27
+        }
+    ],
+    "seller": {
+        "address": "485 Michelle Manors Johnfort, IA 57430",
+        "company_name": "Garcia Ltd",
+        "email": "carlosmedina@example.com"
+    }
+}

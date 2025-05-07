@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "58476 Sharon Mountains Suite 965 New Timothy, OK 67040",
+        "id": "Cf363"
+    },
+    "invoice": {
+        "bc_no": "eB01536",
+        "currency_code": "KMF",
+        "date": "03.09.2021",
+        "due_date": "05.04.1999",
+        "number": 547024
+    },
+    "payment": {
+        "bank_name": "Stone, Terry and Johnson",
+        "bic": "ABLWGB9EG3S",
+        "iban": "QRMJ42611283926231"
+    },
+    "products": [
+        {
+            "amount": 199.11,
+            "description": "target integrated action-items",
+            "index": "7",
+            "price": 307.97,
+            "quantity": 6.0,
+            "tax_amount": 14.83,
+            "total_ttc": 485.68,
+            "vat_amount": 1.34
+        }
+    ],
+    "seller": {
+        "name": "Daniel Stanley"
+    },
+    "supplier": {
+        "address": "29495 Julia Glens Apt. 770 Smithbury, NC 01463",
+        "name": "Madeline Morales"
+    },
+    "tax": {
+        "amount_excluding_tax": 60.55,
+        "amount_including_tax": 79.37,
+        "tax_amount": 14.29,
+        "total_ht": 375.17,
+        "total_ttc": 359.24
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "12135 Lewis Junction Suite 895 Costaside, WV 80230",
+        "email": "joe84@example.com",
+        "phone": "708-330-1467x495",
+        "vat_no": "Qa61867790783"
+    },
+    "invoice": {
+        "date": "09.12.2017",
+        "due_date": "13.05.2016",
+        "market_reference": 451460,
+        "notes": "benchmark integrated users",
+        "number": "9198-9192",
+        "reference": 593547,
+        "vat_no": "fw36592383665"
+    },
+    "payment": {
+        "net_total": 156.23,
+        "total": 493.02
+    },
+    "products": [
+        {
+            "amount": 290.97,
+            "description": "exploit sticky supply-chains",
+            "hours": 7.34,
+            "rate": 9.18
+        },
+        {
+            "amount": 242.61,
+            "description": "engineer plug-and-play supply-chains",
+            "hours": 7.4,
+            "rate": 4.73
+        },
+        {
+            "amount": 294.5,
+            "description": "harness synergistic initiatives",
+            "hours": 1.92,
+            "rate": 9.91
+        },
+        {
+            "amount": 215.06,
+            "description": "unleash vertical synergies",
+            "hours": 1.54,
+            "rate": 8.78
+        }
+    ],
+    "seller": {
+        "address": "513 Allison Ranch Suite 138 Youngfort, MD 37958",
+        "email": "thompsonnatalie@example.com",
+        "name": "Christopher Rodriguez"
+    },
+    "tax": {
+        "base": 23.82,
+        "tax_amount": 23.04,
+        "total_tax": 25.74
+    }
+}

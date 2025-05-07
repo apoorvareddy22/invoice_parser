@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "7343 Emily Ranch North Sharon, FL 56079",
+        "company_name": "Reyes, Waters and Carlson",
+        "email": "jennifer99@example.com",
+        "name": "Matthew Garcia",
+        "phone": "001-416-246-4992x19836"
+    },
+    "invoice": {
+        "date": "31.05.1997",
+        "due_date": "16.03.2002",
+        "number": "LmT41148795329"
+    },
+    "payment": {
+        "account_number": 4679494085,
+        "bank_name": "King Group",
+        "routing_number": 436223162
+    },
+    "products": [
+        {
+            "amount": 424.38,
+            "description": "transition out-of-the-box web-readiness",
+            "index": "5",
+            "quantity": 9.29,
+            "unit_price": 26.73
+        }
+    ],
+    "seller": {
+        "address": "6334 David Islands Port Kathleenfurt, MP 45167",
+        "company_name": "Figueroa LLC",
+        "email": "jessicahorton@example.org"
+    }
+}

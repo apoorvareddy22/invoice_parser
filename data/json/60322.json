@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "044 Kerry Spur Harrisonchester, LA 86347",
+        "business_no": "lZ756",
+        "id": "lR130"
+    },
+    "invoice": {
+        "date": "10.02.2021",
+        "number": "4480-3000"
+    },
+    "payment": {
+        "due_date": "11.12.2011",
+        "total": 858.47
+    },
+    "products": [
+        {
+            "amount": 28.47,
+            "description": "monetize frictionless applications",
+            "quantity": 6.29,
+            "reference": "aB-795",
+            "unit_price": 59.1
+        },
+        {
+            "amount": 88.94,
+            "description": "reinvent visionary supply-chains",
+            "quantity": 7.6,
+            "reference": "TB-908",
+            "unit_price": 95.99
+        }
+    ],
+    "seller": {
+        "address": "911 May Trail West Mary, MA 25885"
+    },
+    "tax": {
+        "base_ht": 202.94,
+        "regulations": 12.83,
+        "total_ht": 108.06,
+        "vat_amount": 195.72,
+        "vat_percentage": 12.04
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "99738 Amber Vista New Brookeport, IA 68973"
+    },
+    "invoice": {
+        "bc_no": "hX97645",
+        "date": "04.10.2010",
+        "maturity_date": "18.07.1993",
+        "number": 127715
+    },
+    "products": [
+        {
+            "amount": 115.97,
+            "description": "revolutionize turn-key models",
+            "quantity": 6.73,
+            "unit_price": 90.93,
+            "vat_amount": 3.68
+        },
+        {
+            "amount": 79.39,
+            "description": "e-enable innovative platforms",
+            "quantity": 4.91,
+            "unit_price": 66.4,
+            "vat_amount": 1.97
+        }
+    ],
+    "seller": {
+        "address": "30270 John View New Jenniferview, CT 27571"
+    },
+    "tax": {
+        "amount_excluding_tax": 157.8,
+        "amount_including_tax": 62.35,
+        "tax_amount": 21.39
+    }
+}

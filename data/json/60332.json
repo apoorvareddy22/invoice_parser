@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "6855 Lopez Mountains North Crystal, ME 63826",
+        "business_no": "ZR328",
+        "id": "Gb910"
+    },
+    "invoice": {
+        "date": "06.01.2020",
+        "number": "6345-1418"
+    },
+    "payment": {
+        "due_date": "22.01.1993",
+        "total": 309.65
+    },
+    "products": [
+        {
+            "amount": 112.04,
+            "description": "aggregate seamless content",
+            "quantity": 9.74,
+            "reference": "vf-381",
+            "unit_price": 79.18
+        },
+        {
+            "amount": 41.99,
+            "description": "matrix bleeding-edge metrics",
+            "quantity": 5.41,
+            "reference": "Nj-971",
+            "unit_price": 45.77
+        },
+        {
+            "amount": 178.95,
+            "description": "matrix scalable markets",
+            "quantity": 3.04,
+            "reference": "XQ-223",
+            "unit_price": 28.45
+        },
+        {
+            "amount": 242.91,
+            "description": "syndicate dynamic functionalities",
+            "quantity": 5.26,
+            "reference": "TU-398",
+            "unit_price": 78.1
+        }
+    ],
+    "seller": {
+        "address": "5095 Craig Via Apt. 528 Osbornmouth, AR 73989"
+    },
+    "tax": {
+        "base_ht": 463.15,
+        "regulations": 25.0,
+        "total_ht": 435.29,
+        "vat_amount": 62.46,
+        "vat_percentage": 10.68
+    }
+}

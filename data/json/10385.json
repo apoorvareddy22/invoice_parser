@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "621 Jacob Path Apt. 289 Crystalmouth, GU 05410",
+        "email": "chamberskevin@example.org",
+        "phone": "961.754.8284",
+        "vat_no": "GM99387551855"
+    },
+    "invoice": {
+        "date": "26.07.1994",
+        "due_date": "27.06.2001",
+        "market_reference": 507895,
+        "notes": "aggregate strategic convergence",
+        "number": "9209-1154",
+        "reference": 642363,
+        "vat_no": "dR85810085915"
+    },
+    "payment": {
+        "net_total": 142.76,
+        "total": 875.71
+    },
+    "products": [
+        {
+            "amount": 16.64,
+            "description": "envisioneer compelling schemas",
+            "hours": 5.46,
+            "rate": 5.07
+        },
+        {
+            "amount": 71.82,
+            "description": "architect ubiquitous infrastructures",
+            "hours": 2.63,
+            "rate": 8.3
+        },
+        {
+            "amount": 494.61,
+            "description": "enhance user-centric niches",
+            "hours": 5.17,
+            "rate": 4.5
+        },
+        {
+            "amount": 291.23,
+            "description": "target frictionless infrastructures",
+            "hours": 3.73,
+            "rate": 5.69
+        }
+    ],
+    "seller": {
+        "address": "4614 Joshua Cliff Suite 457 Carterborough, VA 53557",
+        "email": "whitejill@example.org",
+        "name": "Stacey Charles"
+    },
+    "tax": {
+        "base": 13.84,
+        "tax_amount": 17.89,
+        "total_tax": 27.81
+    }
+}

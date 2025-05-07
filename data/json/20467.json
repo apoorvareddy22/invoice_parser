@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "9172 Jennifer Shores Apt. 325 Andremouth, GU 96162",
+        "company_name": "Ray Group",
+        "email": "garciamichael@example.com",
+        "name": "Kimberly Gomez",
+        "phone": "461.605.5049"
+    },
+    "invoice": {
+        "date": "02.09.1996",
+        "due_date": "31.08.2011",
+        "number": "FjM51894430843"
+    },
+    "payment": {
+        "account_number": 6747773203,
+        "bank_name": "Contreras Ltd",
+        "routing_number": 560524074
+    },
+    "products": [
+        {
+            "amount": 431.08,
+            "description": "extend leading-edge solutions",
+            "index": "4",
+            "quantity": 2.81,
+            "unit_price": 73.04
+        },
+        {
+            "amount": 439.89,
+            "description": "reinvent world-class bandwidth",
+            "index": "6",
+            "quantity": 2.93,
+            "unit_price": 60.48
+        },
+        {
+            "amount": 97.33,
+            "description": "seize intuitive communities",
+            "index": "4",
+            "quantity": 6.72,
+            "unit_price": 46.42
+        },
+        {
+            "amount": 494.17,
+            "description": "engineer revolutionary applications",
+            "index": "7",
+            "quantity": 7.01,
+            "unit_price": 75.55
+        },
+        {
+            "amount": 486.34,
+            "description": "transition bricks-and-clicks functionalities",
+            "index": "9",
+            "quantity": 9.04,
+            "unit_price": 44.49
+        },
+        {
+            "amount": 27.92,
+            "description": "transition end-to-end systems",
+            "index": "6",
+            "quantity": 2.1,
+            "unit_price": 90.7
+        }
+    ],
+    "seller": {
+        "address": "9031 Castro Tunnel Taylorshire, ME 44179",
+        "company_name": "Martinez-Myers",
+        "email": "katherine94@example.com"
+    }
+}

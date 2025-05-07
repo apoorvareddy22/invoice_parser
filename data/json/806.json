@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "74238 Jose Inlet Suite 029 North Ericaberg, ND 18168",
+        "company_name": "Rose-Perez",
+        "country": "Nigeria",
+        "name": "Stephanie Lin"
+    },
+    "invoice": {
+        "date": "03.01.2008",
+        "number": 297744
+    },
+    "payment": {
+        "discount_amount": 12.94,
+        "discount_percentage": 11.58,
+        "due": 72.81,
+        "sub_total": 136.7,
+        "total": 316.59
+    },
+    "products": [
+        {
+            "description": "matrix clicks-and-mortar web services",
+            "index": "1",
+            "quantity": 3.17,
+            "total_price": 175.64,
+            "unit_price": 13.11
+        },
+        {
+            "description": "redefine mission-critical users",
+            "index": "7",
+            "quantity": 5.01,
+            "total_price": 560.75,
+            "unit_price": 57.14
+        }
+    ],
+    "seller": {
+        "address": "6363 Williams Bridge Jacksonview, GA 69808",
+        "company_name": "Robinson, Goodwin and Juarez",
+        "vat_no": "vq11223201988"
+    }
+}

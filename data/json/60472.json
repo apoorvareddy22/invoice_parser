@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "774 Justin Port Apt. 784 North Michaelburgh, MD 67994",
+        "business_no": "NM287",
+        "id": "gj204"
+    },
+    "invoice": {
+        "date": "30.06.2011",
+        "number": "5750-5692"
+    },
+    "payment": {
+        "due_date": "02.05.2000",
+        "total": 136.37
+    },
+    "products": [
+        {
+            "amount": 332.02,
+            "description": "reinvent rich communities",
+            "quantity": 6.64,
+            "reference": "ta-358",
+            "unit_price": 62.9
+        },
+        {
+            "amount": 161.1,
+            "description": "visualize plug-and-play systems",
+            "quantity": 9.43,
+            "reference": "SH-498",
+            "unit_price": 10.79
+        },
+        {
+            "amount": 190.48,
+            "description": "revolutionize clicks-and-mortar markets",
+            "quantity": 3.15,
+            "reference": "aM-926",
+            "unit_price": 32.07
+        },
+        {
+            "amount": 254.84,
+            "description": "implement revolutionary functionalities",
+            "quantity": 5.61,
+            "reference": "xo-166",
+            "unit_price": 70.85
+        },
+        {
+            "amount": 417.34,
+            "description": "re-contextualize seamless schemas",
+            "quantity": 8.07,
+            "reference": "vZ-169",
+            "unit_price": 42.87
+        }
+    ],
+    "seller": {
+        "address": "2331 Matthew Path Chambersmouth, DC 93974"
+    },
+    "tax": {
+        "base_ht": 342.14,
+        "regulations": 27.15,
+        "total_ht": 226.86,
+        "vat_amount": 153.25,
+        "vat_percentage": 26.5
+    }
+}

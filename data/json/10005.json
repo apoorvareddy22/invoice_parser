@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "8135 Hannah Expressway Apt. 530 South Stacyburgh, UT 26565",
+        "email": "kbenson@example.org",
+        "phone": "(415)878-3222x942",
+        "vat_no": "gR79372876137"
+    },
+    "invoice": {
+        "date": "03.04.2005",
+        "due_date": "29.12.1994",
+        "market_reference": 568555,
+        "notes": "whiteboard integrated synergies",
+        "number": "7609-2896",
+        "reference": 336394,
+        "vat_no": "JE42721960055"
+    },
+    "payment": {
+        "net_total": 173.12,
+        "total": 586.01
+    },
+    "products": [
+        {
+            "amount": 382.94,
+            "description": "innovate integrated methodologies",
+            "hours": 4.87,
+            "rate": 9.32
+        },
+        {
+            "amount": 51.0,
+            "description": "evolve rich infrastructures",
+            "hours": 3.1,
+            "rate": 9.56
+        },
+        {
+            "amount": 65.67,
+            "description": "visualize end-to-end portals",
+            "hours": 5.98,
+            "rate": 5.97
+        },
+        {
+            "amount": 148.21,
+            "description": "maximize ubiquitous relationships",
+            "hours": 2.91,
+            "rate": 7.03
+        },
+        {
+            "amount": 360.74,
+            "description": "implement mission-critical channels",
+            "hours": 5.9,
+            "rate": 2.4
+        },
+        {
+            "amount": 209.95,
+            "description": "morph innovative vortals",
+            "hours": 6.14,
+            "rate": 1.04
+        }
+    ],
+    "seller": {
+        "address": "356 John Spring West Martin, AR 08041",
+        "email": "kevinsmith@example.org",
+        "name": "Mark Williams"
+    },
+    "tax": {
+        "base": 28.34,
+        "tax_amount": 18.79,
+        "total_tax": 13.82
+    }
+}

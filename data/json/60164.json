@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "3629 Flowers Spring Phelpsmouth, GU 45568",
+        "business_no": "kc489",
+        "id": "lI001"
+    },
+    "invoice": {
+        "date": "04.08.2013",
+        "number": "8717-3246"
+    },
+    "payment": {
+        "due_date": "21.09.2020",
+        "total": 689.1
+    },
+    "products": [
+        {
+            "amount": 59.5,
+            "description": "deploy efficient interfaces",
+            "quantity": 3.92,
+            "reference": "Cr-374",
+            "unit_price": 21.65
+        },
+        {
+            "amount": 326.83,
+            "description": "syndicate granular initiatives",
+            "quantity": 2.35,
+            "reference": "qP-918",
+            "unit_price": 82.88
+        },
+        {
+            "amount": 286.98,
+            "description": "revolutionize strategic interfaces",
+            "quantity": 6.69,
+            "reference": "cj-646",
+            "unit_price": 22.97
+        }
+    ],
+    "seller": {
+        "address": "8840 Schmidt Spurs Suite 533 Jasmineport, NC 81312"
+    },
+    "tax": {
+        "base_ht": 421.03,
+        "regulations": 27.02,
+        "total_ht": 475.71,
+        "vat_amount": 119.92,
+        "vat_percentage": 18.47
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "65267 Paul Manors Lake Samanthabury, WY 35765",
+        "company_name": "Hughes-Johnson",
+        "email": "stevenwilson@example.org",
+        "name": "Laura Martinez",
+        "phone": "+1-206-517-1892"
+    },
+    "invoice": {
+        "date": "08.12.1993",
+        "due_date": "09.03.1994",
+        "number": "mkv47671586109"
+    },
+    "payment": {
+        "account_number": 6883584231,
+        "bank_name": "Hays PLC",
+        "routing_number": 866642639
+    },
+    "products": [
+        {
+            "amount": 392.14,
+            "description": "repurpose sticky systems",
+            "index": "5",
+            "quantity": 3.28,
+            "unit_price": 91.19
+        },
+        {
+            "amount": 98.78,
+            "description": "engineer enterprise action-items",
+            "index": "5",
+            "quantity": 1.54,
+            "unit_price": 92.57
+        },
+        {
+            "amount": 73.72,
+            "description": "exploit compelling infrastructures",
+            "index": "6",
+            "quantity": 3.54,
+            "unit_price": 10.54
+        },
+        {
+            "amount": 490.03,
+            "description": "synthesize granular interfaces",
+            "index": "8",
+            "quantity": 4.86,
+            "unit_price": 40.85
+        },
+        {
+            "amount": 161.01,
+            "description": "envisioneer robust e-commerce",
+            "index": "1",
+            "quantity": 5.3,
+            "unit_price": 35.5
+        }
+    ],
+    "seller": {
+        "address": "0532 Davis Underpass Jennifermouth, MH 19483",
+        "company_name": "Watkins Group",
+        "email": "jeffrogers@example.com"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "37957 Sanchez Orchard Mcdowellstad, AZ 08725",
+        "company_name": "Thomas-Roberts",
+        "email": "jason60@example.com",
+        "name": "Taylor Williams",
+        "phone": "001-201-283-8423"
+    },
+    "invoice": {
+        "date": "02.07.2001",
+        "due_date": "22.03.2012",
+        "number": "mDr64897334723"
+    },
+    "payment": {
+        "account_number": 2215099371,
+        "bank_name": "Howard, Jones and Moore",
+        "routing_number": 631044967
+    },
+    "products": [
+        {
+            "amount": 240.48,
+            "description": "unleash best-of-breed methodologies",
+            "index": "7",
+            "quantity": 9.24,
+            "unit_price": 16.23
+        },
+        {
+            "amount": 102.9,
+            "description": "exploit strategic ROI",
+            "index": "4",
+            "quantity": 4.15,
+            "unit_price": 51.77
+        },
+        {
+            "amount": 139.57,
+            "description": "transition web-enabled supply-chains",
+            "index": "9",
+            "quantity": 8.13,
+            "unit_price": 90.65
+        },
+        {
+            "amount": 60.19,
+            "description": "deploy end-to-end initiatives",
+            "index": "3",
+            "quantity": 5.81,
+            "unit_price": 16.02
+        }
+    ],
+    "seller": {
+        "address": "0570 Hayden Rapids Apt. 156 North Laura, KS 74095",
+        "company_name": "Williams-Wells",
+        "email": "pageadam@example.com"
+    }
+}

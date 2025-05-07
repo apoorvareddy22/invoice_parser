@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "513 Robert Island Apt. 753 Scottchester, IL 63206",
+        "email": "alexandercurry@example.net",
+        "phone": "+1-578-430-2948x4926",
+        "vat_no": "qO27905711407"
+    },
+    "invoice": {
+        "date": "27.05.1990",
+        "due_date": "09.04.2001",
+        "market_reference": 527441,
+        "notes": "incubate holistic e-commerce",
+        "number": "7240-5301",
+        "reference": 342136,
+        "vat_no": "FB56468115326"
+    },
+    "payment": {
+        "net_total": 149.3,
+        "total": 561.1
+    },
+    "products": [
+        {
+            "amount": 414.6,
+            "description": "deploy out-of-the-box deliverables",
+            "hours": 4.71,
+            "rate": 7.18
+        }
+    ],
+    "seller": {
+        "address": "00939 Park Parks Torresside, MN 41869",
+        "email": "pmichael@example.org",
+        "name": "Courtney Becker"
+    },
+    "tax": {
+        "base": 19.54,
+        "tax_amount": 16.66,
+        "total_tax": 17.63
+    }
+}

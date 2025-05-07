@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "37588 Fowler Estates Sullivanside, FM 93016",
+        "id": "rS299"
+    },
+    "invoice": {
+        "bc_no": "yY50844",
+        "currency_code": "UZS",
+        "date": "12.08.1997",
+        "due_date": "05.10.2008",
+        "number": 165822
+    },
+    "payment": {
+        "bank_name": "Alexander, Wu and Richards",
+        "bic": "FBYBGBJW",
+        "iban": "IIOZ38685020540457"
+    },
+    "products": [
+        {
+            "amount": 113.5,
+            "description": "transition cross-media action-items",
+            "index": "7",
+            "price": 6.05,
+            "quantity": 1.43,
+            "tax_amount": 44.62,
+            "total_ttc": 144.81,
+            "vat_amount": 5.81
+        },
+        {
+            "amount": 300.21,
+            "description": "streamline integrated mindshare",
+            "index": "10",
+            "price": 217.92,
+            "quantity": 2.21,
+            "tax_amount": 14.16,
+            "total_ttc": 271.82,
+            "vat_amount": 3.67
+        },
+        {
+            "amount": 464.68,
+            "description": "envisioneer plug-and-play e-commerce",
+            "index": "4",
+            "price": 277.05,
+            "quantity": 1.94,
+            "tax_amount": 49.74,
+            "total_ttc": 323.07,
+            "vat_amount": 11.69
+        },
+        {
+            "amount": 228.64,
+            "description": "aggregate frictionless e-services",
+            "index": "5",
+            "price": 332.04,
+            "quantity": 9.35,
+            "tax_amount": 92.55,
+            "total_ttc": 494.36,
+            "vat_amount": 3.98
+        },
+        {
+            "amount": 298.51,
+            "description": "facilitate virtual e-business",
+            "index": "6",
+            "price": 248.76,
+            "quantity": 6.3,
+            "tax_amount": 56.85,
+            "total_ttc": 496.35,
+            "vat_amount": 5.1
+        },
+        {
+            "amount": 159.67,
+            "description": "seize integrated e-markets",
+            "index": "4",
+            "price": 316.43,
+            "quantity": 3.46,
+            "tax_amount": 47.86,
+            "total_ttc": 472.41,
+            "vat_amount": 2.6
+        },
+        {
+            "amount": 445.06,
+            "description": "embrace web-enabled channels",
+            "index": "10",
+            "price": 423.97,
+            "quantity": 8.78,
+            "tax_amount": 79.55,
+            "total_ttc": 472.8,
+            "vat_amount": 1.29
+        }
+    ],
+    "seller": {
+        "name": "Nicole Douglas"
+    },
+    "supplier": {
+        "address": "8593 Ashley Hill Suite 744 New Sharon, OR 30211",
+        "name": "Christopher Mcdonald"
+    },
+    "tax": {
+        "amount_excluding_tax": 50.33,
+        "amount_including_tax": 181.22,
+        "tax_amount": 25.86,
+        "total_ht": 254.54,
+        "total_ttc": 202.92
+    }
+}

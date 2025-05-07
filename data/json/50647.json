@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "78044 Dean Motorway Suite 172 Lake Julia, TN 93895",
+        "id": "yI148"
+    },
+    "invoice": {
+        "bc_no": "Fz59442",
+        "currency_code": "PGK",
+        "date": "29.04.2023",
+        "due_date": "23.07.2003",
+        "number": 387411
+    },
+    "payment": {
+        "bank_name": "Rice-Fritz",
+        "bic": "HXKYGB6H54G",
+        "iban": "ILUS33835455829057"
+    },
+    "products": [
+        {
+            "amount": 182.06,
+            "description": "iterate front-end web services",
+            "index": "5",
+            "price": 488.78,
+            "quantity": 7.97,
+            "tax_amount": 65.23,
+            "total_ttc": 101.46,
+            "vat_amount": 5.29
+        },
+        {
+            "amount": 279.54,
+            "description": "expedite frictionless vortals",
+            "index": "10",
+            "price": 6.46,
+            "quantity": 7.19,
+            "tax_amount": 59.67,
+            "total_ttc": 230.67,
+            "vat_amount": 5.18
+        },
+        {
+            "amount": 409.7,
+            "description": "enhance magnetic relationships",
+            "index": "7",
+            "price": 153.97,
+            "quantity": 8.56,
+            "tax_amount": 40.21,
+            "total_ttc": 253.23,
+            "vat_amount": 4.76
+        },
+        {
+            "amount": 284.87,
+            "description": "incentivize integrated niches",
+            "index": "9",
+            "price": 388.13,
+            "quantity": 2.79,
+            "tax_amount": 77.09,
+            "total_ttc": 282.57,
+            "vat_amount": 2.63
+        },
+        {
+            "amount": 463.66,
+            "description": "engage leading-edge e-markets",
+            "index": "6",
+            "price": 128.17,
+            "quantity": 4.81,
+            "tax_amount": 82.89,
+            "total_ttc": 456.85,
+            "vat_amount": 3.08
+        },
+        {
+            "amount": 435.04,
+            "description": "deploy best-of-breed content",
+            "index": "7",
+            "price": 474.82,
+            "quantity": 7.28,
+            "tax_amount": 45.38,
+            "total_ttc": 377.38,
+            "vat_amount": 0.74
+        }
+    ],
+    "seller": {
+        "name": "Stephanie Lucas"
+    },
+    "supplier": {
+        "address": "14228 Garcia Greens Apt. 349 Sparksburgh, AS 34334",
+        "name": "Sandra Daugherty"
+    },
+    "tax": {
+        "amount_excluding_tax": 162.81,
+        "amount_including_tax": 161.12,
+        "tax_amount": 11.08,
+        "total_ht": 261.14,
+        "total_ttc": 277.98
+    }
+}

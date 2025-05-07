@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "8874 Reynolds Tunnel Suite 167 South Shelbyville, OR 69059",
+        "email": "canderson@example.net",
+        "phone": "(899)261-7135x1620",
+        "vat_no": "im14502480126"
+    },
+    "invoice": {
+        "date": "24.11.2004",
+        "due_date": "27.11.2020",
+        "market_reference": 662965,
+        "notes": "enhance scalable e-commerce",
+        "number": "2876-9261",
+        "reference": 393398,
+        "vat_no": "dr08473955024"
+    },
+    "payment": {
+        "net_total": 65.88,
+        "total": 682.0
+    },
+    "products": [
+        {
+            "amount": 493.17,
+            "description": "repurpose enterprise paradigms",
+            "hours": 6.27,
+            "rate": 9.45
+        },
+        {
+            "amount": 249.6,
+            "description": "productize 24/7 web-readiness",
+            "hours": 2.96,
+            "rate": 9.87
+        },
+        {
+            "amount": 236.84,
+            "description": "productize extensible architectures",
+            "hours": 9.79,
+            "rate": 3.51
+        },
+        {
+            "amount": 485.08,
+            "description": "exploit 24/7 e-markets",
+            "hours": 5.85,
+            "rate": 7.7
+        },
+        {
+            "amount": 260.74,
+            "description": "generate e-business ROI",
+            "hours": 4.08,
+            "rate": 7.65
+        },
+        {
+            "amount": 43.29,
+            "description": "envisioneer cross-media e-business",
+            "hours": 1.82,
+            "rate": 9.45
+        },
+        {
+            "amount": 149.49,
+            "description": "leverage customized relationships",
+            "hours": 7.97,
+            "rate": 4.25
+        }
+    ],
+    "seller": {
+        "address": "3778 Randall Heights Apt. 503 Austinton, IN 34311",
+        "email": "johnlewis@example.org",
+        "name": "Jillian Griffin MD"
+    },
+    "tax": {
+        "base": 26.07,
+        "tax_amount": 12.53,
+        "total_tax": 19.23
+    }
+}

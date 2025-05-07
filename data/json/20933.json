@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "5328 Laura Mountains North Jamesstad, AZ 44875",
+        "company_name": "Johnson PLC",
+        "email": "jbell@example.com",
+        "name": "Tina Hunt",
+        "phone": "+1-788-391-9979x4609"
+    },
+    "invoice": {
+        "date": "28.01.2013",
+        "due_date": "11.05.2002",
+        "number": "rVp53856613098"
+    },
+    "payment": {
+        "account_number": 3935276320,
+        "bank_name": "Holloway, Howard and Haley",
+        "routing_number": 238751730
+    },
+    "products": [
+        {
+            "amount": 203.95,
+            "description": "engage compelling solutions",
+            "index": "10",
+            "quantity": 2.08,
+            "unit_price": 47.46
+        },
+        {
+            "amount": 233.64,
+            "description": "scale cross-media web services",
+            "index": "9",
+            "quantity": 5.84,
+            "unit_price": 93.12
+        },
+        {
+            "amount": 399.33,
+            "description": "harness B2B communities",
+            "index": "7",
+            "quantity": 1.11,
+            "unit_price": 17.51
+        },
+        {
+            "amount": 288.72,
+            "description": "target impactful e-commerce",
+            "index": "6",
+            "quantity": 1.35,
+            "unit_price": 93.51
+        },
+        {
+            "amount": 90.43,
+            "description": "engineer strategic e-services",
+            "index": "1",
+            "quantity": 9.29,
+            "unit_price": 29.68
+        },
+        {
+            "amount": 424.92,
+            "description": "aggregate transparent users",
+            "index": "10",
+            "quantity": 9.16,
+            "unit_price": 58.15
+        }
+    ],
+    "seller": {
+        "address": "2340 Davis Ridges West Margaret, UT 28188",
+        "company_name": "Salas, Yu and Lawrence",
+        "email": "kimberlycarey@example.com"
+    }
+}

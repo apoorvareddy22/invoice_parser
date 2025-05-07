@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "4254 Hodges Canyon Apt. 863 East Stacyside, GA 06918",
+        "email": "bholden@example.org",
+        "phone": "001-505-504-4418",
+        "vat_no": "Kl59950642573"
+    },
+    "invoice": {
+        "date": "05.03.1993",
+        "due_date": "15.10.2010",
+        "market_reference": 440570,
+        "notes": "re-contextualize collaborative applications",
+        "number": "0049-9439",
+        "reference": 667384,
+        "vat_no": "GT68807430087"
+    },
+    "payment": {
+        "net_total": 127.31,
+        "total": 757.2
+    },
+    "products": [
+        {
+            "amount": 296.5,
+            "description": "seize back-end methodologies",
+            "hours": 1.43,
+            "rate": 9.21
+        },
+        {
+            "amount": 214.08,
+            "description": "deliver collaborative e-business",
+            "hours": 8.3,
+            "rate": 6.54
+        },
+        {
+            "amount": 273.25,
+            "description": "re-intermediate cross-media synergies",
+            "hours": 9.69,
+            "rate": 3.91
+        }
+    ],
+    "seller": {
+        "address": "2505 Allison Ford Laneburgh, KY 58406",
+        "email": "wheelerlance@example.net",
+        "name": "Fred Smith"
+    },
+    "tax": {
+        "base": 13.66,
+        "tax_amount": 16.14,
+        "total_tax": 29.11
+    }
+}

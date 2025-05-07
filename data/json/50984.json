@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "18749 Lori Meadow Suite 633 West Kim, NJ 38632",
+        "id": "Kh122"
+    },
+    "invoice": {
+        "bc_no": "ja75951",
+        "currency_code": "HNL",
+        "date": "03.07.2006",
+        "due_date": "28.09.1991",
+        "number": 391138
+    },
+    "payment": {
+        "bank_name": "Bennett LLC",
+        "bic": "DSQCGBC6AKE",
+        "iban": "NDYX27403913776536"
+    },
+    "products": [
+        {
+            "amount": 27.1,
+            "description": "seize intuitive architectures",
+            "index": "1",
+            "price": 34.93,
+            "quantity": 5.62,
+            "tax_amount": 68.54,
+            "total_ttc": 256.4,
+            "vat_amount": 6.49
+        },
+        {
+            "amount": 137.42,
+            "description": "streamline one-to-one synergies",
+            "index": "4",
+            "price": 19.73,
+            "quantity": 6.77,
+            "tax_amount": 54.05,
+            "total_ttc": 134.87,
+            "vat_amount": 6.26
+        },
+        {
+            "amount": 169.51,
+            "description": "facilitate sticky e-markets",
+            "index": "7",
+            "price": 250.0,
+            "quantity": 4.94,
+            "tax_amount": 48.14,
+            "total_ttc": 264.24,
+            "vat_amount": 9.96
+        },
+        {
+            "amount": 184.08,
+            "description": "extend B2B vortals",
+            "index": "9",
+            "price": 328.8,
+            "quantity": 5.48,
+            "tax_amount": 49.18,
+            "total_ttc": 131.88,
+            "vat_amount": 2.23
+        },
+        {
+            "amount": 402.53,
+            "description": "embrace compelling methodologies",
+            "index": "3",
+            "price": 383.71,
+            "quantity": 8.58,
+            "tax_amount": 10.65,
+            "total_ttc": 429.76,
+            "vat_amount": 0.82
+        }
+    ],
+    "seller": {
+        "name": "Heather Willis"
+    },
+    "supplier": {
+        "address": "28461 Moore Cape Apt. 271 Brandonborough, OH 46564",
+        "name": "Gregory Crawford"
+    },
+    "tax": {
+        "amount_excluding_tax": 27.56,
+        "amount_including_tax": 153.08,
+        "tax_amount": 18.17,
+        "total_ht": 433.26,
+        "total_ttc": 356.77
+    }
+}

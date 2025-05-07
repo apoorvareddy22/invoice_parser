@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "14793 Porter Lakes Apt. 611 South Dakotachester, MD 48984",
+        "id": "ap353"
+    },
+    "invoice": {
+        "bc_no": "Jf52642",
+        "currency_code": "MNT",
+        "date": "14.05.2015",
+        "due_date": "14.09.1990",
+        "number": 178722
+    },
+    "payment": {
+        "bank_name": "Barber Ltd",
+        "bic": "KBQWGBDV",
+        "iban": "ZEAU44039175721730"
+    },
+    "products": [
+        {
+            "amount": 23.15,
+            "description": "empower visionary networks",
+            "index": "4",
+            "price": 498.84,
+            "quantity": 9.71,
+            "tax_amount": 32.89,
+            "total_ttc": 449.78,
+            "vat_amount": 1.13
+        },
+        {
+            "amount": 436.49,
+            "description": "exploit distributed action-items",
+            "index": "9",
+            "price": 469.5,
+            "quantity": 9.92,
+            "tax_amount": 63.93,
+            "total_ttc": 136.43,
+            "vat_amount": 1.11
+        },
+        {
+            "amount": 452.58,
+            "description": "target innovative bandwidth",
+            "index": "5",
+            "price": 251.55,
+            "quantity": 6.37,
+            "tax_amount": 48.46,
+            "total_ttc": 247.78,
+            "vat_amount": 7.14
+        },
+        {
+            "amount": 92.99,
+            "description": "envisioneer plug-and-play bandwidth",
+            "index": "1",
+            "price": 38.17,
+            "quantity": 5.16,
+            "tax_amount": 90.18,
+            "total_ttc": 496.99,
+            "vat_amount": 3.09
+        }
+    ],
+    "seller": {
+        "name": "Brittany Morton"
+    },
+    "supplier": {
+        "address": "38326 William Prairie Apt. 474 Brewertown, NV 94142",
+        "name": "Emily Phillips"
+    },
+    "tax": {
+        "amount_excluding_tax": 151.53,
+        "amount_including_tax": 163.33,
+        "tax_amount": 14.17,
+        "total_ht": 476.39,
+        "total_ttc": 436.27
+    }
+}

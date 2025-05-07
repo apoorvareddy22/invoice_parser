@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "1237 Ramirez Harbors Suite 473 Kennethborough, AL 40324",
+        "business_no": "fz161",
+        "id": "CD978"
+    },
+    "invoice": {
+        "date": "09.11.2001",
+        "number": "4200-6942"
+    },
+    "payment": {
+        "due_date": "08.03.1995",
+        "total": 476.76
+    },
+    "products": [
+        {
+            "amount": 45.08,
+            "description": "morph magnetic vortals",
+            "quantity": 4.48,
+            "reference": "AI-351",
+            "unit_price": 61.33
+        },
+        {
+            "amount": 182.38,
+            "description": "deploy distributed web-readiness",
+            "quantity": 9.62,
+            "reference": "TH-013",
+            "unit_price": 41.77
+        },
+        {
+            "amount": 105.04,
+            "description": "re-contextualize frictionless ROI",
+            "quantity": 2.64,
+            "reference": "cM-841",
+            "unit_price": 25.75
+        },
+        {
+            "amount": 7.2,
+            "description": "morph killer methodologies",
+            "quantity": 8.93,
+            "reference": "qQ-417",
+            "unit_price": 36.62
+        }
+    ],
+    "seller": {
+        "address": "2234 Kyle Crest Apt. 094 East Kurtside, CO 73993"
+    },
+    "tax": {
+        "base_ht": 189.6,
+        "regulations": 22.87,
+        "total_ht": 375.63,
+        "vat_amount": 59.47,
+        "vat_percentage": 20.34
+    }
+}

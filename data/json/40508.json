@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "PSC 3654, Box 6678 APO AP 54434"
+    },
+    "invoice": {
+        "bc_no": "jq21245",
+        "date": "26.12.2007",
+        "maturity_date": "09.08.1997",
+        "number": 884217
+    },
+    "products": [
+        {
+            "amount": 20.75,
+            "description": "productize granular synergies",
+            "quantity": 9.19,
+            "unit_price": 95.3,
+            "vat_amount": 7.8
+        }
+    ],
+    "seller": {
+        "address": "122 Pena Lake New Susanfort, MT 44818"
+    },
+    "tax": {
+        "amount_excluding_tax": 177.82,
+        "amount_including_tax": 106.44,
+        "tax_amount": 26.89
+    }
+}

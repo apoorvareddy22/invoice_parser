@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "449 Johnson Forks Apt. 352 Lake Michaelmouth, ID 73772",
+        "company_name": "Sanchez-Smith",
+        "email": "tannerkyle@example.com",
+        "name": "Kristen Williams",
+        "phone": "5616366387"
+    },
+    "invoice": {
+        "date": "18.04.2016",
+        "due_date": "08.05.2013",
+        "number": "JAp62979869558"
+    },
+    "payment": {
+        "account_number": 6270008186,
+        "bank_name": "Moore Inc",
+        "routing_number": 977124357
+    },
+    "products": [
+        {
+            "amount": 473.17,
+            "description": "unleash killer models",
+            "index": "2",
+            "quantity": 6.93,
+            "unit_price": 87.23
+        },
+        {
+            "amount": 72.64,
+            "description": "productize back-end technologies",
+            "index": "7",
+            "quantity": 7.15,
+            "unit_price": 89.8
+        },
+        {
+            "amount": 331.24,
+            "description": "empower virtual web services",
+            "index": "10",
+            "quantity": 3.15,
+            "unit_price": 21.12
+        },
+        {
+            "amount": 344.05,
+            "description": "transform frictionless synergies",
+            "index": "8",
+            "quantity": 3.97,
+            "unit_price": 40.95
+        },
+        {
+            "amount": 351.69,
+            "description": "harness efficient experiences",
+            "index": "5",
+            "quantity": 8.62,
+            "unit_price": 65.38
+        }
+    ],
+    "seller": {
+        "address": "PSC 5935, Box 0927 APO AE 11923",
+        "company_name": "Mccormick, Dean and Lopez",
+        "email": "darryl08@example.com"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "861 Carter Fields Suite 485 Lake John, CO 54621"
+    },
+    "invoice": {
+        "bc_no": "Cm16088",
+        "date": "31.08.2016",
+        "maturity_date": "29.05.2015",
+        "number": 446966
+    },
+    "products": [
+        {
+            "amount": 269.63,
+            "description": "engage collaborative action-items",
+            "quantity": 2.56,
+            "unit_price": 68.65,
+            "vat_amount": 10.38
+        }
+    ],
+    "seller": {
+        "address": "097 Jimmy Cove Jamestown, SD 37685"
+    },
+    "tax": {
+        "amount_excluding_tax": 32.79,
+        "amount_including_tax": 148.24,
+        "tax_amount": 18.83
+    }
+}

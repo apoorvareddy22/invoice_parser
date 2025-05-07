@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "93443 Brown Meadow Richardland, OK 94750",
+        "business_no": "rF850",
+        "id": "RH235"
+    },
+    "invoice": {
+        "date": "10.06.2006",
+        "number": "7146-0905"
+    },
+    "payment": {
+        "due_date": "29.10.2015",
+        "total": 421.59
+    },
+    "products": [
+        {
+            "amount": 411.31,
+            "description": "iterate dot-com info-mediaries",
+            "quantity": 2.54,
+            "reference": "fn-480",
+            "unit_price": 36.76
+        },
+        {
+            "amount": 249.22,
+            "description": "re-contextualize integrated niches",
+            "quantity": 7.15,
+            "reference": "nc-292",
+            "unit_price": 28.47
+        },
+        {
+            "amount": 267.41,
+            "description": "reinvent best-of-breed channels",
+            "quantity": 2.66,
+            "reference": "tu-061",
+            "unit_price": 39.69
+        },
+        {
+            "amount": 358.5,
+            "description": "monetize vertical e-markets",
+            "quantity": 6.44,
+            "reference": "TC-243",
+            "unit_price": 79.35
+        },
+        {
+            "amount": 478.0,
+            "description": "orchestrate cross-platform communities",
+            "quantity": 4.41,
+            "reference": "hl-980",
+            "unit_price": 27.91
+        }
+    ],
+    "seller": {
+        "address": "1720 Stephen Alley Apt. 669 Loganfurt, IN 42515"
+    },
+    "tax": {
+        "base_ht": 397.27,
+        "regulations": 16.87,
+        "total_ht": 381.52,
+        "vat_amount": 28.17,
+        "vat_percentage": 21.38
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "76681 Andersen Hill Apt. 532 West Julieton, IN 85636",
+        "company_name": "Lopez PLC",
+        "country": "Albania",
+        "email": "igarcia@example.com",
+        "name": "Andrea Johnson",
+        "phone": "+1-685-666-0315x257",
+        "vat_no": "eO70829632765"
+    },
+    "invoice": {
+        "date": "08.11.1990",
+        "due_date": "24.11.2019",
+        "linked_invoice": "SO-0169-7509",
+        "notes": "streamline vertical ROI",
+        "number": "xJ-6478-2238"
+    },
+    "products": [
+        {
+            "description": "unleash B2B systems",
+            "discount_percentage": 12.71,
+            "price": 108.93,
+            "quantity": 3.91,
+            "unit_price": 44.33
+        }
+    ],
+    "seller": {
+        "address": "0334 Nolan Unions Westberg, ND 28019",
+        "ape": "8327d",
+        "capital": 99911335,
+        "country": "Thailand",
+        "email": "omcdonald@example.net",
+        "name": "Thomas Rodriguez",
+        "phone_1": "509.236.7246x62091",
+        "phone_2": "737-341-1341",
+        "phone_3": "728.683.6856x635",
+        "ref_walk": "Opws9786",
+        "reference": "mC660",
+        "siret": 34177488457299,
+        "vat_no": "mK52228598226",
+        "website": "https://faulkner.com/"
+    },
+    "tax": {
+        "amount_0": 19.04,
+        "amount_1": 19.83,
+        "base_0": 12.71,
+        "base_1": 131.51,
+        "total_ht": 332.35,
+        "total_tax": 15.04,
+        "total_ttc": 394.53,
+        "vat_0": 24.73,
+        "vat_1": 23.58
+    }
+}

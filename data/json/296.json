@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "6149 Katherine Green New William, NE 11175",
+        "company_name": "Johnson Inc",
+        "country": "Guyana",
+        "name": "Matthew Reyes"
+    },
+    "invoice": {
+        "date": "13.02.2021",
+        "number": 746663
+    },
+    "payment": {
+        "discount_amount": 35.66,
+        "discount_percentage": 14.28,
+        "due": 104.84,
+        "sub_total": 152.35,
+        "total": 238.13
+    },
+    "products": [
+        {
+            "description": "e-enable mission-critical systems",
+            "index": "2",
+            "quantity": 8.5,
+            "total_price": 127.81,
+            "unit_price": 84.49
+        }
+    ],
+    "seller": {
+        "address": "359 Diaz Springs Suite 846 Port Katherinehaven, LA 66269",
+        "company_name": "Myers, Evans and George",
+        "vat_no": "Cn34197331132"
+    }
+}

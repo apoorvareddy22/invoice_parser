@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "9506 Paul Heights Apt. 667 West Scottbury, KS 18342"
+    },
+    "invoice": {
+        "bc_no": "Lg45207",
+        "date": "13.10.1997",
+        "maturity_date": "05.01.2007",
+        "number": 147497
+    },
+    "products": [
+        {
+            "amount": 421.29,
+            "description": "e-enable ubiquitous mindshare",
+            "quantity": 3.7,
+            "unit_price": 28.57,
+            "vat_amount": 0.09
+        },
+        {
+            "amount": 24.44,
+            "description": "scale open-source e-services",
+            "quantity": 9.28,
+            "unit_price": 39.11,
+            "vat_amount": 13.92
+        },
+        {
+            "amount": 153.8,
+            "description": "enable innovative technologies",
+            "quantity": 4.65,
+            "unit_price": 14.83,
+            "vat_amount": 4.04
+        },
+        {
+            "amount": 450.33,
+            "description": "syndicate efficient users",
+            "quantity": 5.36,
+            "unit_price": 45.84,
+            "vat_amount": 12.9
+        }
+    ],
+    "seller": {
+        "address": "2959 Ashley Curve West Daniel, ME 96134"
+    },
+    "tax": {
+        "amount_excluding_tax": 22.55,
+        "amount_including_tax": 118.02,
+        "tax_amount": 18.72
+    }
+}

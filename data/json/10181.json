@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "85232 White Stravenue Apt. 454 Carmenport, OK 69165",
+        "email": "megan95@example.net",
+        "phone": "(429)495-9893x6725",
+        "vat_no": "RW61941566577"
+    },
+    "invoice": {
+        "date": "11.09.1998",
+        "due_date": "10.02.2006",
+        "market_reference": 622655,
+        "notes": "exploit e-business architectures",
+        "number": "7615-6230",
+        "reference": 490509,
+        "vat_no": "et36682237292"
+    },
+    "payment": {
+        "net_total": 109.9,
+        "total": 540.78
+    },
+    "products": [
+        {
+            "amount": 392.94,
+            "description": "seize visionary convergence",
+            "hours": 7.41,
+            "rate": 5.32
+        }
+    ],
+    "seller": {
+        "address": "3723 Ortega Hollow Suite 002 Smithton, VA 43478",
+        "email": "cody12@example.org",
+        "name": "Melissa Martin"
+    },
+    "tax": {
+        "base": 27.69,
+        "tax_amount": 20.39,
+        "total_tax": 20.6
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "02967 Floyd Flat South Corey, NJ 95987"
+    },
+    "invoice": {
+        "bc_no": "uw05994",
+        "date": "10.08.1993",
+        "maturity_date": "20.10.2016",
+        "number": 862803
+    },
+    "products": [
+        {
+            "amount": 259.21,
+            "description": "maximize collaborative e-markets",
+            "quantity": 4.59,
+            "unit_price": 57.62,
+            "vat_amount": 4.06
+        },
+        {
+            "amount": 13.77,
+            "description": "empower enterprise methodologies",
+            "quantity": 3.57,
+            "unit_price": 16.26,
+            "vat_amount": 11.0
+        },
+        {
+            "amount": 375.47,
+            "description": "generate killer e-markets",
+            "quantity": 5.3,
+            "unit_price": 58.19,
+            "vat_amount": 3.12
+        }
+    ],
+    "seller": {
+        "address": "557 Hicks Ferry Adamsport, MA 19150"
+    },
+    "tax": {
+        "amount_excluding_tax": 138.78,
+        "amount_including_tax": 36.22,
+        "tax_amount": 11.74
+    }
+}

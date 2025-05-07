@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "Unit 4780 Box 6018 DPO AA 43484"
+    },
+    "invoice": {
+        "bc_no": "Fd27947",
+        "date": "25.04.1998",
+        "maturity_date": "23.02.2022",
+        "number": 407257
+    },
+    "products": [
+        {
+            "amount": 105.73,
+            "description": "engage 24/365 functionalities",
+            "quantity": 8.04,
+            "unit_price": 61.64,
+            "vat_amount": 2.04
+        },
+        {
+            "amount": 461.32,
+            "description": "enhance strategic channels",
+            "quantity": 6.42,
+            "unit_price": 11.71,
+            "vat_amount": 7.3
+        },
+        {
+            "amount": 288.42,
+            "description": "re-contextualize visionary mindshare",
+            "quantity": 8.0,
+            "unit_price": 18.69,
+            "vat_amount": 1.25
+        }
+    ],
+    "seller": {
+        "address": "133 Nichols Pass South Bethanyburgh, MI 43121"
+    },
+    "tax": {
+        "amount_excluding_tax": 45.86,
+        "amount_including_tax": 56.0,
+        "tax_amount": 16.44
+    }
+}

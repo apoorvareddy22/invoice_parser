@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "488 Campos Freeway Stewartmouth, MP 19572",
+        "id": "sd232"
+    },
+    "invoice": {
+        "bc_no": "Ny24357",
+        "currency_code": "NIS",
+        "date": "22.02.2023",
+        "due_date": "13.04.1992",
+        "number": 249517
+    },
+    "payment": {
+        "bank_name": "Pineda-James",
+        "bic": "VPKYGBCF003",
+        "iban": "UDXM53585709914455"
+    },
+    "products": [
+        {
+            "amount": 436.37,
+            "description": "innovate real-time channels",
+            "index": "10",
+            "price": 490.31,
+            "quantity": 5.46,
+            "tax_amount": 37.76,
+            "total_ttc": 462.97,
+            "vat_amount": 10.86
+        },
+        {
+            "amount": 314.74,
+            "description": "repurpose one-to-one synergies",
+            "index": "5",
+            "price": 400.92,
+            "quantity": 2.78,
+            "tax_amount": 68.77,
+            "total_ttc": 408.86,
+            "vat_amount": 3.67
+        },
+        {
+            "amount": 133.12,
+            "description": "iterate front-end action-items",
+            "index": "6",
+            "price": 324.63,
+            "quantity": 3.47,
+            "tax_amount": 92.92,
+            "total_ttc": 326.87,
+            "vat_amount": 4.73
+        }
+    ],
+    "seller": {
+        "name": "Katherine Valenzuela"
+    },
+    "supplier": {
+        "address": "43463 Thomas Key Thomashaven, AL 27158",
+        "name": "Rachel Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 135.25,
+        "amount_including_tax": 144.63,
+        "tax_amount": 21.75,
+        "total_ht": 316.53,
+        "total_ttc": 153.97
+    }
+}

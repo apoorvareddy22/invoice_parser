@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "8680 Moore Common Apt. 738 Christinatown, AK 42490",
+        "id": "qk091"
+    },
+    "invoice": {
+        "bc_no": "ic47403",
+        "currency_code": "ZWD",
+        "date": "10.04.2011",
+        "due_date": "28.04.2012",
+        "number": 450998
+    },
+    "payment": {
+        "bank_name": "Reynolds-Knapp",
+        "bic": "VNXKGBKL",
+        "iban": "UADN70714574169301"
+    },
+    "products": [
+        {
+            "amount": 124.66,
+            "description": "optimize leading-edge e-markets",
+            "index": "6",
+            "price": 9.92,
+            "quantity": 9.56,
+            "tax_amount": 62.44,
+            "total_ttc": 452.68,
+            "vat_amount": 5.36
+        }
+    ],
+    "seller": {
+        "name": "Joshua Rios"
+    },
+    "supplier": {
+        "address": "8526 Melton Islands Lake Josephtown, IA 96771",
+        "name": "Gary Dixon"
+    },
+    "tax": {
+        "amount_excluding_tax": 136.61,
+        "amount_including_tax": 50.82,
+        "tax_amount": 13.73,
+        "total_ht": 172.81,
+        "total_ttc": 132.88
+    }
+}

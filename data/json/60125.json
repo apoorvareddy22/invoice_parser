@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "122 Snyder Keys Suite 590 Lake Manuelview, WA 56570",
+        "business_no": "Rz303",
+        "id": "iH440"
+    },
+    "invoice": {
+        "date": "03.12.1997",
+        "number": "4648-6077"
+    },
+    "payment": {
+        "due_date": "07.10.1990",
+        "total": 397.01
+    },
+    "products": [
+        {
+            "amount": 119.78,
+            "description": "leverage enterprise synergies",
+            "quantity": 7.71,
+            "reference": "BH-002",
+            "unit_price": 38.4
+        },
+        {
+            "amount": 260.99,
+            "description": "extend one-to-one methodologies",
+            "quantity": 4.22,
+            "reference": "aY-891",
+            "unit_price": 99.7
+        },
+        {
+            "amount": 467.2,
+            "description": "integrate magnetic relationships",
+            "quantity": 8.17,
+            "reference": "fW-981",
+            "unit_price": 12.28
+        }
+    ],
+    "seller": {
+        "address": "USNV Brown FPO AA 94800"
+    },
+    "tax": {
+        "base_ht": 131.54,
+        "regulations": 10.64,
+        "total_ht": 235.24,
+        "vat_amount": 174.74,
+        "vat_percentage": 15.54
+    }
+}

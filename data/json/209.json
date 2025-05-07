@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "34080 Coleman Ranch East Lauraberg, NH 22777",
+        "company_name": "Hall Ltd",
+        "country": "Japan",
+        "name": "Mr. Daniel Myers"
+    },
+    "invoice": {
+        "date": "11.10.2009",
+        "number": 917846
+    },
+    "payment": {
+        "discount_amount": 23.18,
+        "discount_percentage": 11.75,
+        "due": 121.56,
+        "sub_total": 186.6,
+        "total": 225.85
+    },
+    "products": [
+        {
+            "description": "grow granular convergence",
+            "index": "1",
+            "quantity": 8.5,
+            "total_price": 455.27,
+            "unit_price": 71.29
+        },
+        {
+            "description": "optimize seamless ROI",
+            "index": "3",
+            "quantity": 6.26,
+            "total_price": 555.26,
+            "unit_price": 96.43
+        },
+        {
+            "description": "orchestrate extensible niches",
+            "index": "4",
+            "quantity": 3.61,
+            "total_price": 223.22,
+            "unit_price": 78.65
+        },
+        {
+            "description": "exploit real-time interfaces",
+            "index": "10",
+            "quantity": 2.02,
+            "total_price": 27.33,
+            "unit_price": 27.18
+        },
+        {
+            "description": "unleash B2B convergence",
+            "index": "10",
+            "quantity": 4.0,
+            "total_price": 714.36,
+            "unit_price": 97.21
+        }
+    ],
+    "seller": {
+        "address": "431 Amy Vista Apt. 288 Lake Juliaville, NC 01801",
+        "company_name": "Robinson LLC",
+        "vat_no": "tM91571778984"
+    }
+}

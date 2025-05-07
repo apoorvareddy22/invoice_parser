@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "2778 Davis Via New Amanda, NH 13539",
+        "id": "yq670"
+    },
+    "invoice": {
+        "bc_no": "dh41745",
+        "currency_code": "IRR",
+        "date": "28.03.1992",
+        "due_date": "08.11.2016",
+        "number": 655410
+    },
+    "payment": {
+        "bank_name": "Ortiz-Mcmahon",
+        "bic": "SKSSGBRR",
+        "iban": "BVFV56669486370573"
+    },
+    "products": [
+        {
+            "amount": 405.9,
+            "description": "cultivate best-of-breed initiatives",
+            "index": "9",
+            "price": 498.31,
+            "quantity": 7.34,
+            "tax_amount": 10.19,
+            "total_ttc": 368.46,
+            "vat_amount": 2.38
+        },
+        {
+            "amount": 324.85,
+            "description": "target web-enabled applications",
+            "index": "6",
+            "price": 374.62,
+            "quantity": 2.22,
+            "tax_amount": 89.05,
+            "total_ttc": 442.74,
+            "vat_amount": 2.57
+        }
+    ],
+    "seller": {
+        "name": "Nicole Dawson"
+    },
+    "supplier": {
+        "address": "08868 Gould Lodge Apt. 846 East Megan, AL 03202",
+        "name": "Julia Hancock"
+    },
+    "tax": {
+        "amount_excluding_tax": 56.47,
+        "amount_including_tax": 180.45,
+        "tax_amount": 11.56,
+        "total_ht": 452.46,
+        "total_ttc": 441.97
+    }
+}

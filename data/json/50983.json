@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "601 Eaton Crescent Derrickborough, MT 38663",
+        "id": "MI308"
+    },
+    "invoice": {
+        "bc_no": "xO82434",
+        "currency_code": "SEK",
+        "date": "22.02.1990",
+        "due_date": "06.08.1995",
+        "number": 475309
+    },
+    "payment": {
+        "bank_name": "Hill, Beck and Dalton",
+        "bic": "UGPPGBKD4RZ",
+        "iban": "DYKJ83568212450159"
+    },
+    "products": [
+        {
+            "amount": 254.56,
+            "description": "deploy turn-key ROI",
+            "index": "4",
+            "price": 86.88,
+            "quantity": 6.77,
+            "tax_amount": 97.77,
+            "total_ttc": 316.88,
+            "vat_amount": 0.78
+        },
+        {
+            "amount": 271.69,
+            "description": "iterate transparent technologies",
+            "index": "2",
+            "price": 414.36,
+            "quantity": 2.61,
+            "tax_amount": 62.86,
+            "total_ttc": 200.59,
+            "vat_amount": 0.7
+        }
+    ],
+    "seller": {
+        "name": "Frank Little"
+    },
+    "supplier": {
+        "address": "7675 Kelly Walk Apt. 759 Petersonborough, NC 47780",
+        "name": "Vincent Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 13.29,
+        "amount_including_tax": 152.87,
+        "tax_amount": 29.77,
+        "total_ht": 429.75,
+        "total_ttc": 123.58
+    }
+}

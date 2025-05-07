@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "978 Peter Ways Suite 722 East Richardport, SC 76681",
+        "company_name": "Castro Inc",
+        "country": "Cuba",
+        "name": "Yvonne Roberts"
+    },
+    "invoice": {
+        "date": "07.08.2010",
+        "number": 459499
+    },
+    "payment": {
+        "discount_amount": 14.43,
+        "discount_percentage": 6.57,
+        "due": 183.36,
+        "sub_total": 40.29,
+        "total": 258.41
+    },
+    "products": [
+        {
+            "description": "innovate compelling web-readiness",
+            "index": "6",
+            "quantity": 7.3,
+            "total_price": 326.14,
+            "unit_price": 82.98
+        },
+        {
+            "description": "redefine innovative architectures",
+            "index": "7",
+            "quantity": 8.96,
+            "total_price": 876.47,
+            "unit_price": 58.34
+        },
+        {
+            "description": "productize extensible web services",
+            "index": "9",
+            "quantity": 9.65,
+            "total_price": 58.45,
+            "unit_price": 60.38
+        },
+        {
+            "description": "aggregate compelling eyeballs",
+            "index": "5",
+            "quantity": 3.87,
+            "total_price": 668.9,
+            "unit_price": 13.14
+        },
+        {
+            "description": "enhance rich experiences",
+            "index": "3",
+            "quantity": 6.47,
+            "total_price": 915.05,
+            "unit_price": 27.96
+        }
+    ],
+    "seller": {
+        "address": "1840 Stevens Summit North Sheilatown, NE 30825",
+        "company_name": "Powell and Sons",
+        "vat_no": "ej94887637756"
+    }
+}

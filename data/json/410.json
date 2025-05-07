@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "5355 Debbie Summit Suite 949 Guzmanchester, PW 12091",
+        "company_name": "Durham, Taylor and Lee",
+        "country": "Chile",
+        "name": "Ryan Dillon"
+    },
+    "invoice": {
+        "date": "12.10.1997",
+        "number": 575105
+    },
+    "payment": {
+        "discount_amount": 25.42,
+        "discount_percentage": 8.55,
+        "due": 120.32,
+        "sub_total": 127.58,
+        "total": 318.14
+    },
+    "products": [
+        {
+            "description": "enhance rich systems",
+            "index": "8",
+            "quantity": 3.44,
+            "total_price": 995.51,
+            "unit_price": 76.53
+        },
+        {
+            "description": "syndicate B2C bandwidth",
+            "index": "1",
+            "quantity": 2.18,
+            "total_price": 866.79,
+            "unit_price": 11.49
+        }
+    ],
+    "seller": {
+        "address": "79666 Robinson Shoal Suite 040 Lake Kristenberg, IN 24835",
+        "company_name": "Smith, Wright and Jordan",
+        "vat_no": "Cs64785991139"
+    }
+}

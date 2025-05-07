@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "92788 Diane Loop Gabrielatown, KS 67310",
+        "company_name": "Jones-Ferguson",
+        "country": "Andorra",
+        "email": "masonjoseph@example.org",
+        "name": "Christine Gomez",
+        "phone": "(813)909-7164x652",
+        "vat_no": "UV28120375249"
+    },
+    "invoice": {
+        "date": "25.08.1991",
+        "due_date": "14.07.1997",
+        "linked_invoice": "Fh-7093-3580",
+        "notes": "enable out-of-the-box interfaces",
+        "number": "WQ-9840-6388"
+    },
+    "products": [
+        {
+            "description": "engage 24/7 users",
+            "discount_percentage": 9.9,
+            "price": 335.82,
+            "quantity": 2.98,
+            "unit_price": 80.52
+        },
+        {
+            "description": "incubate B2B networks",
+            "discount_percentage": 19.33,
+            "price": 424.78,
+            "quantity": 4.13,
+            "unit_price": 56.31
+        },
+        {
+            "description": "monetize revolutionary schemas",
+            "discount_percentage": 8.62,
+            "price": 257.67,
+            "quantity": 9.88,
+            "unit_price": 99.49
+        },
+        {
+            "description": "transform granular info-mediaries",
+            "discount_percentage": 10.88,
+            "price": 482.23,
+            "quantity": 4.35,
+            "unit_price": 56.04
+        }
+    ],
+    "seller": {
+        "address": "633 Cox Turnpike Butlerport, PA 69027",
+        "ape": "5109W",
+        "capital": 58794176,
+        "country": "Dominican Republic",
+        "email": "rnorman@example.net",
+        "name": "Sara Lane",
+        "phone_1": "001-691-718-8317x501",
+        "phone_2": "653.761.5787x458",
+        "phone_3": "968.442.7895x363",
+        "ref_walk": "kExr0552",
+        "reference": "VA687",
+        "siret": 14284501707902,
+        "vat_no": "ER26402931523",
+        "website": "http://huber.com/"
+    },
+    "tax": {
+        "amount_0": 11.86,
+        "amount_1": 11.45,
+        "base_0": 18.33,
+        "base_1": 153.76,
+        "total_ht": 400.89,
+        "total_tax": 13.11,
+        "total_ttc": 150.91,
+        "vat_0": 22.75,
+        "vat_1": 25.12
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "9620 Lisa Parkways Apt. 050 West Holly, PW 79723"
+    },
+    "invoice": {
+        "bc_no": "Ff01216",
+        "date": "05.10.2022",
+        "maturity_date": "05.02.1995",
+        "number": 858015
+    },
+    "products": [
+        {
+            "amount": 342.43,
+            "description": "generate customized deliverables",
+            "quantity": 1.07,
+            "unit_price": 33.62,
+            "vat_amount": 4.91
+        },
+        {
+            "amount": 124.86,
+            "description": "architect transparent e-services",
+            "quantity": 1.07,
+            "unit_price": 96.92,
+            "vat_amount": 1.82
+        },
+        {
+            "amount": 13.79,
+            "description": "matrix innovative markets",
+            "quantity": 1.48,
+            "unit_price": 63.16,
+            "vat_amount": 3.26
+        },
+        {
+            "amount": 346.58,
+            "description": "matrix ubiquitous solutions",
+            "quantity": 9.18,
+            "unit_price": 63.5,
+            "vat_amount": 9.95
+        },
+        {
+            "amount": 179.03,
+            "description": "optimize next-generation e-commerce",
+            "quantity": 9.11,
+            "unit_price": 45.95,
+            "vat_amount": 3.73
+        },
+        {
+            "amount": 216.17,
+            "description": "transition back-end mindshare",
+            "quantity": 8.01,
+            "unit_price": 67.95,
+            "vat_amount": 16.52
+        }
+    ],
+    "seller": {
+        "address": "215 Ashley Knoll Port Christopherland, AK 50514"
+    },
+    "tax": {
+        "amount_excluding_tax": 69.78,
+        "amount_including_tax": 155.32,
+        "tax_amount": 16.37
+    }
+}

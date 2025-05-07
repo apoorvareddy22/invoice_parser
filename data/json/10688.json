@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "650 Ward Trace Apt. 471 New Howardfort, AR 44414",
+        "email": "hoganjames@example.net",
+        "phone": "908-722-3403",
+        "vat_no": "rj06338501366"
+    },
+    "invoice": {
+        "date": "09.12.2000",
+        "due_date": "28.07.2022",
+        "market_reference": 718713,
+        "notes": "cultivate wireless markets",
+        "number": "1776-4505",
+        "reference": 575316,
+        "vat_no": "MK63292772545"
+    },
+    "payment": {
+        "net_total": 55.22,
+        "total": 530.85
+    },
+    "products": [
+        {
+            "amount": 260.51,
+            "description": "re-contextualize best-of-breed eyeballs",
+            "hours": 7.19,
+            "rate": 2.36
+        },
+        {
+            "amount": 497.25,
+            "description": "visualize customized technologies",
+            "hours": 4.15,
+            "rate": 4.48
+        },
+        {
+            "amount": 136.55,
+            "description": "mesh best-of-breed solutions",
+            "hours": 8.23,
+            "rate": 5.05
+        }
+    ],
+    "seller": {
+        "address": "54196 Blackburn Gateway North Brandy, DE 71973",
+        "email": "mfrench@example.net",
+        "name": "Erik Faulkner"
+    },
+    "tax": {
+        "base": 26.79,
+        "tax_amount": 14.35,
+        "total_tax": 25.45
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "36646 Christopher Hill Suite 226 Valeriefort, KY 92177"
+    },
+    "invoice": {
+        "bc_no": "Cx70081",
+        "date": "23.08.2008",
+        "maturity_date": "06.05.2014",
+        "number": 485433
+    },
+    "products": [
+        {
+            "amount": 96.93,
+            "description": "e-enable leading-edge e-services",
+            "quantity": 7.87,
+            "unit_price": 47.56,
+            "vat_amount": 4.08
+        },
+        {
+            "amount": 250.77,
+            "description": "scale user-centric action-items",
+            "quantity": 6.71,
+            "unit_price": 77.78,
+            "vat_amount": 1.86
+        },
+        {
+            "amount": 124.57,
+            "description": "harness magnetic networks",
+            "quantity": 7.05,
+            "unit_price": 77.34,
+            "vat_amount": 7.57
+        }
+    ],
+    "seller": {
+        "address": "8020 Tanya Lake Lake Troy, RI 09819"
+    },
+    "tax": {
+        "amount_excluding_tax": 192.39,
+        "amount_including_tax": 23.79,
+        "tax_amount": 23.06
+    }
+}

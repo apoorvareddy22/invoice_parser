@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "USNV Nelson FPO AA 44108",
+        "business_no": "Pm370",
+        "id": "JA695"
+    },
+    "invoice": {
+        "date": "18.10.2016",
+        "number": "4021-3120"
+    },
+    "payment": {
+        "due_date": "20.09.2001",
+        "total": 305.84
+    },
+    "products": [
+        {
+            "amount": 100.69,
+            "description": "synergize 24/365 communities",
+            "quantity": 1.54,
+            "reference": "Mu-742",
+            "unit_price": 95.49
+        },
+        {
+            "amount": 43.96,
+            "description": "exploit one-to-one mindshare",
+            "quantity": 2.29,
+            "reference": "kY-323",
+            "unit_price": 94.39
+        },
+        {
+            "amount": 369.41,
+            "description": "generate global portals",
+            "quantity": 4.93,
+            "reference": "iZ-637",
+            "unit_price": 39.95
+        },
+        {
+            "amount": 294.86,
+            "description": "engineer customized deliverables",
+            "quantity": 9.57,
+            "reference": "vG-263",
+            "unit_price": 71.9
+        }
+    ],
+    "seller": {
+        "address": "PSC 4401, Box 1104 APO AP 38309"
+    },
+    "tax": {
+        "base_ht": 297.22,
+        "regulations": 18.13,
+        "total_ht": 141.66,
+        "vat_amount": 79.21,
+        "vat_percentage": 14.17
+    }
+}

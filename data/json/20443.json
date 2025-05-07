@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "13641 French Villages Apt. 684 Kirkhaven, AK 16823",
+        "company_name": "Elliott-Cowan",
+        "email": "cwalker@example.org",
+        "name": "Brian Richardson",
+        "phone": "(982)221-8719"
+    },
+    "invoice": {
+        "date": "06.07.2004",
+        "due_date": "01.06.2018",
+        "number": "fhN14656953785"
+    },
+    "payment": {
+        "account_number": 4092598836,
+        "bank_name": "Burns-Christian",
+        "routing_number": 103405415
+    },
+    "products": [
+        {
+            "amount": 124.14,
+            "description": "facilitate cutting-edge models",
+            "index": "6",
+            "quantity": 7.98,
+            "unit_price": 37.82
+        },
+        {
+            "amount": 294.71,
+            "description": "re-intermediate enterprise synergies",
+            "index": "10",
+            "quantity": 2.11,
+            "unit_price": 47.72
+        },
+        {
+            "amount": 87.47,
+            "description": "mesh value-added partnerships",
+            "index": "1",
+            "quantity": 2.54,
+            "unit_price": 75.11
+        },
+        {
+            "amount": 12.48,
+            "description": "repurpose ubiquitous models",
+            "index": "10",
+            "quantity": 5.64,
+            "unit_price": 19.44
+        }
+    ],
+    "seller": {
+        "address": "66566 Hamilton Row New Courtneychester, FL 57969",
+        "company_name": "Wood and Sons",
+        "email": "patrick09@example.com"
+    }
+}

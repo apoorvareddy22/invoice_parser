@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "6863 Allen Terrace Port Danafurt, VI 96279",
+        "id": "Yn434"
+    },
+    "invoice": {
+        "bc_no": "xI47002",
+        "currency_code": "BRL",
+        "date": "23.09.2001",
+        "due_date": "17.12.2007",
+        "number": 289408
+    },
+    "payment": {
+        "bank_name": "Figueroa PLC",
+        "bic": "NMMYGBHJ",
+        "iban": "SZXY89773572778683"
+    },
+    "products": [
+        {
+            "amount": 231.03,
+            "description": "architect web-enabled e-services",
+            "index": "7",
+            "price": 85.51,
+            "quantity": 1.83,
+            "tax_amount": 31.62,
+            "total_ttc": 119.38,
+            "vat_amount": 7.36
+        }
+    ],
+    "seller": {
+        "name": "Tiffany Santos"
+    },
+    "supplier": {
+        "address": "61083 Lopez Pines Suite 977 Coryport, DE 07454",
+        "name": "Ryan Gonzales"
+    },
+    "tax": {
+        "amount_excluding_tax": 85.06,
+        "amount_including_tax": 125.9,
+        "tax_amount": 23.46,
+        "total_ht": 152.54,
+        "total_ttc": 133.86
+    }
+}

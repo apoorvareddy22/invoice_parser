@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "1251 Stephen Way West Maria, NV 47467",
+        "email": "felicia02@example.org",
+        "phone": "(221)868-0100",
+        "vat_no": "Zk39792216384"
+    },
+    "invoice": {
+        "date": "18.10.1995",
+        "due_date": "15.11.2007",
+        "market_reference": 308547,
+        "notes": "enhance one-to-one vortals",
+        "number": "4541-4150",
+        "reference": 398917,
+        "vat_no": "Yo89582953518"
+    },
+    "payment": {
+        "net_total": 28.29,
+        "total": 536.98
+    },
+    "products": [
+        {
+            "amount": 339.22,
+            "description": "transition 24/365 niches",
+            "hours": 5.85,
+            "rate": 9.55
+        },
+        {
+            "amount": 62.28,
+            "description": "deliver dot-com channels",
+            "hours": 9.92,
+            "rate": 7.25
+        },
+        {
+            "amount": 41.2,
+            "description": "benchmark frictionless interfaces",
+            "hours": 7.55,
+            "rate": 9.06
+        },
+        {
+            "amount": 215.31,
+            "description": "reinvent front-end e-commerce",
+            "hours": 1.66,
+            "rate": 7.82
+        }
+    ],
+    "seller": {
+        "address": "947 Mata Heights Suite 085 Cardenasburgh, SD 35892",
+        "email": "andersonmelvin@example.org",
+        "name": "Steven Torres"
+    },
+    "tax": {
+        "base": 29.17,
+        "tax_amount": 19.95,
+        "total_tax": 28.85
+    }
+}

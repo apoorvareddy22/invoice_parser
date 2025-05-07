@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "34898 Jasmine Mountain Suite 954 North Jessica, PA 98933",
+        "company_name": "Clark and Sons",
+        "email": "ofloyd@example.com",
+        "name": "Thomas Martin",
+        "phone": "001-592-753-9146x6675"
+    },
+    "invoice": {
+        "date": "25.10.2013",
+        "due_date": "14.03.2011",
+        "number": "Mbe85196279344"
+    },
+    "payment": {
+        "account_number": 6233748835,
+        "bank_name": "Weeks and Sons",
+        "routing_number": 440927448
+    },
+    "products": [
+        {
+            "amount": 408.59,
+            "description": "revolutionize one-to-one markets",
+            "index": "6",
+            "quantity": 2.95,
+            "unit_price": 82.73
+        },
+        {
+            "amount": 459.43,
+            "description": "monetize cutting-edge communities",
+            "index": "9",
+            "quantity": 3.38,
+            "unit_price": 11.14
+        }
+    ],
+    "seller": {
+        "address": "679 Jessica Park Suite 086 Barryberg, WA 23361",
+        "company_name": "Harrell, Ross and Griffin",
+        "email": "taylorrobin@example.com"
+    }
+}

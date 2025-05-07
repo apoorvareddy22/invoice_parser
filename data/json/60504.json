@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "68387 Morrison Shore Apt. 210 Mariaside, ND 57390",
+        "business_no": "iu494",
+        "id": "ZQ026"
+    },
+    "invoice": {
+        "date": "06.12.2021",
+        "number": "4564-3810"
+    },
+    "payment": {
+        "due_date": "12.01.2004",
+        "total": 334.1
+    },
+    "products": [
+        {
+            "amount": 229.11,
+            "description": "maximize holistic bandwidth",
+            "quantity": 6.43,
+            "reference": "TD-814",
+            "unit_price": 92.4
+        }
+    ],
+    "seller": {
+        "address": "622 Ian Ridge Lake Charles, PW 16630"
+    },
+    "tax": {
+        "base_ht": 278.37,
+        "regulations": 21.78,
+        "total_ht": 247.18,
+        "vat_amount": 93.33,
+        "vat_percentage": 19.93
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "02673 Atkinson Light Apt. 336 Nicholasmouth, UT 25095"
+    },
+    "invoice": {
+        "bc_no": "Us56316",
+        "date": "31.07.2016",
+        "maturity_date": "08.09.1998",
+        "number": 709838
+    },
+    "products": [
+        {
+            "amount": 184.88,
+            "description": "incubate transparent convergence",
+            "quantity": 7.42,
+            "unit_price": 70.85,
+            "vat_amount": 0.9
+        },
+        {
+            "amount": 282.2,
+            "description": "morph frictionless users",
+            "quantity": 1.14,
+            "unit_price": 50.66,
+            "vat_amount": 1.93
+        },
+        {
+            "amount": 264.56,
+            "description": "harness granular models",
+            "quantity": 6.97,
+            "unit_price": 51.95,
+            "vat_amount": 2.86
+        },
+        {
+            "amount": 273.78,
+            "description": "facilitate B2B experiences",
+            "quantity": 4.38,
+            "unit_price": 63.93,
+            "vat_amount": 6.5
+        }
+    ],
+    "seller": {
+        "address": "730 Anthony Ramp Suite 595 Hollychester, FL 95034"
+    },
+    "tax": {
+        "amount_excluding_tax": 71.35,
+        "amount_including_tax": 108.92,
+        "tax_amount": 25.87
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "Unit 0361 Box 7174 DPO AA 04099",
+        "business_no": "rW328",
+        "id": "lc053"
+    },
+    "invoice": {
+        "date": "10.11.2017",
+        "number": "1180-6262"
+    },
+    "payment": {
+        "due_date": "06.07.1998",
+        "total": 224.63
+    },
+    "products": [
+        {
+            "amount": 273.06,
+            "description": "engage extensible web services",
+            "quantity": 3.94,
+            "reference": "QS-135",
+            "unit_price": 68.56
+        },
+        {
+            "amount": 131.85,
+            "description": "productize synergistic content",
+            "quantity": 9.15,
+            "reference": "YU-736",
+            "unit_price": 32.72
+        },
+        {
+            "amount": 96.16,
+            "description": "engineer world-class supply-chains",
+            "quantity": 3.3,
+            "reference": "gs-784",
+            "unit_price": 51.95
+        }
+    ],
+    "seller": {
+        "address": "823 Gerald Loop Port James, OR 02925"
+    },
+    "tax": {
+        "base_ht": 118.21,
+        "regulations": 26.38,
+        "total_ht": 200.29,
+        "vat_amount": 49.57,
+        "vat_percentage": 10.59
+    }
+}

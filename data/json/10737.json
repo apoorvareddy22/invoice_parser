@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "812 Smith Mountain Apt. 164 Brentside, NE 96255",
+        "email": "brownnicole@example.org",
+        "phone": "246-831-2391",
+        "vat_no": "gn68310162845"
+    },
+    "invoice": {
+        "date": "30.06.1993",
+        "due_date": "21.10.2020",
+        "market_reference": 420958,
+        "notes": "strategize plug-and-play schemas",
+        "number": "6001-5320",
+        "reference": 314102,
+        "vat_no": "Cl18182523245"
+    },
+    "payment": {
+        "net_total": 189.0,
+        "total": 349.02
+    },
+    "products": [
+        {
+            "amount": 203.09,
+            "description": "maximize world-class metrics",
+            "hours": 6.53,
+            "rate": 1.22
+        },
+        {
+            "amount": 333.55,
+            "description": "extend revolutionary systems",
+            "hours": 5.89,
+            "rate": 5.22
+        },
+        {
+            "amount": 389.07,
+            "description": "evolve killer web services",
+            "hours": 5.73,
+            "rate": 2.59
+        },
+        {
+            "amount": 201.34,
+            "description": "cultivate intuitive bandwidth",
+            "hours": 9.52,
+            "rate": 8.95
+        },
+        {
+            "amount": 403.13,
+            "description": "engineer 24/365 solutions",
+            "hours": 2.03,
+            "rate": 7.05
+        }
+    ],
+    "seller": {
+        "address": "494 Salas Prairie Lake Jerryborough, WI 62180",
+        "email": "ilewis@example.net",
+        "name": "Aaron Weaver"
+    },
+    "tax": {
+        "base": 21.42,
+        "tax_amount": 14.56,
+        "total_tax": 26.67
+    }
+}

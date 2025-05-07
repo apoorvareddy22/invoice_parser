@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "PSC 2562, Box 1112 APO AA 26843",
+        "company_name": "Cook Group",
+        "email": "andraderobin@example.org",
+        "name": "Matthew Wright",
+        "phone": "817.495.9216"
+    },
+    "invoice": {
+        "date": "22.12.1993",
+        "due_date": "24.05.1995",
+        "number": "ArR53609397998"
+    },
+    "payment": {
+        "account_number": 5303097967,
+        "bank_name": "Cooper, Green and Castaneda",
+        "routing_number": 383769245
+    },
+    "products": [
+        {
+            "amount": 214.98,
+            "description": "grow cross-media functionalities",
+            "index": "10",
+            "quantity": 8.49,
+            "unit_price": 88.19
+        },
+        {
+            "amount": 241.11,
+            "description": "productize e-business methodologies",
+            "index": "1",
+            "quantity": 4.23,
+            "unit_price": 23.24
+        },
+        {
+            "amount": 425.78,
+            "description": "embrace bricks-and-clicks methodologies",
+            "index": "5",
+            "quantity": 7.33,
+            "unit_price": 40.53
+        },
+        {
+            "amount": 77.63,
+            "description": "engineer granular eyeballs",
+            "index": "1",
+            "quantity": 2.31,
+            "unit_price": 38.35
+        },
+        {
+            "amount": 349.25,
+            "description": "whiteboard clicks-and-mortar solutions",
+            "index": "1",
+            "quantity": 5.0,
+            "unit_price": 98.86
+        }
+    ],
+    "seller": {
+        "address": "997 Serrano Mission Apt. 922 Lindaland, PR 56638",
+        "company_name": "Wilson Inc",
+        "email": "vhayes@example.com"
+    }
+}

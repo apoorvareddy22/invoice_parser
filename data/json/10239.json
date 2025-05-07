@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "15730 Michael Divide Suite 051 Bennettberg, OK 88086",
+        "email": "jerrygraham@example.net",
+        "phone": "530.622.9328",
+        "vat_no": "Rp07672168819"
+    },
+    "invoice": {
+        "date": "09.11.2002",
+        "due_date": "20.10.2020",
+        "market_reference": 723092,
+        "notes": "extend killer e-markets",
+        "number": "6614-9205",
+        "reference": 463519,
+        "vat_no": "XX58715023235"
+    },
+    "payment": {
+        "net_total": 175.45,
+        "total": 962.41
+    },
+    "products": [
+        {
+            "amount": 331.86,
+            "description": "whiteboard plug-and-play initiatives",
+            "hours": 3.02,
+            "rate": 1.17
+        }
+    ],
+    "seller": {
+        "address": "99297 Davis Flats Suite 669 North Sherrimouth, SC 11964",
+        "email": "larry12@example.com",
+        "name": "Deanna Bates"
+    },
+    "tax": {
+        "base": 13.37,
+        "tax_amount": 12.53,
+        "total_tax": 29.58
+    }
+}

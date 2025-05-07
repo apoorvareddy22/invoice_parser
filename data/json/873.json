@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "Unit 6436 Box 2606 DPO AP 47499",
+        "company_name": "Ray PLC",
+        "country": "Venezuela",
+        "name": "Robert Hughes"
+    },
+    "invoice": {
+        "date": "07.04.1995",
+        "number": 522509
+    },
+    "payment": {
+        "discount_amount": 44.38,
+        "discount_percentage": 8.54,
+        "due": 76.78,
+        "sub_total": 143.37,
+        "total": 833.43
+    },
+    "products": [
+        {
+            "description": "deploy extensible supply-chains",
+            "index": "9",
+            "quantity": 3.43,
+            "total_price": 523.75,
+            "unit_price": 91.32
+        },
+        {
+            "description": "deploy back-end mindshare",
+            "index": "10",
+            "quantity": 2.19,
+            "total_price": 391.09,
+            "unit_price": 87.91
+        },
+        {
+            "description": "envisioneer collaborative partnerships",
+            "index": "5",
+            "quantity": 7.63,
+            "total_price": 264.44,
+            "unit_price": 11.97
+        },
+        {
+            "description": "embrace out-of-the-box channels",
+            "index": "10",
+            "quantity": 7.56,
+            "total_price": 146.8,
+            "unit_price": 79.51
+        }
+    ],
+    "seller": {
+        "address": "478 Moore Canyon Lake Lauramouth, GA 23057",
+        "company_name": "Johnston-Allen",
+        "vat_no": "Jo70421337094"
+    }
+}

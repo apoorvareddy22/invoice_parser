@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "654 Williams Overpass Suite 105 Williamsbury, CT 56516",
+        "business_no": "pv834",
+        "id": "DA249"
+    },
+    "invoice": {
+        "date": "30.09.2022",
+        "number": "3436-3575"
+    },
+    "payment": {
+        "due_date": "13.10.2010",
+        "total": 687.12
+    },
+    "products": [
+        {
+            "amount": 76.96,
+            "description": "orchestrate scalable networks",
+            "quantity": 8.37,
+            "reference": "UP-657",
+            "unit_price": 99.31
+        },
+        {
+            "amount": 455.58,
+            "description": "engage bleeding-edge portals",
+            "quantity": 6.79,
+            "reference": "Oe-199",
+            "unit_price": 91.8
+        }
+    ],
+    "seller": {
+        "address": "26461 Becker Courts Port Toddland, NY 54144"
+    },
+    "tax": {
+        "base_ht": 251.77,
+        "regulations": 13.59,
+        "total_ht": 293.62,
+        "vat_amount": 136.08,
+        "vat_percentage": 16.59
+    }
+}

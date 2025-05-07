@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "12639 Harvey Inlet Suite 348 South Jasonton, CT 31074",
+        "id": "IZ994"
+    },
+    "invoice": {
+        "bc_no": "hp06370",
+        "currency_code": "KGS",
+        "date": "25.02.2008",
+        "due_date": "31.01.1998",
+        "number": 658160
+    },
+    "payment": {
+        "bank_name": "Williams Inc",
+        "bic": "MJVHGB7FCE5",
+        "iban": "QVXF61496762978314"
+    },
+    "products": [
+        {
+            "amount": 189.14,
+            "description": "productize proactive solutions",
+            "index": "8",
+            "price": 65.83,
+            "quantity": 3.92,
+            "tax_amount": 81.91,
+            "total_ttc": 214.52,
+            "vat_amount": 0.48
+        },
+        {
+            "amount": 402.53,
+            "description": "engage ubiquitous synergies",
+            "index": "8",
+            "price": 276.26,
+            "quantity": 3.59,
+            "tax_amount": 10.21,
+            "total_ttc": 461.98,
+            "vat_amount": 4.72
+        }
+    ],
+    "seller": {
+        "name": "Jennifer King"
+    },
+    "supplier": {
+        "address": "USNV Ward FPO AP 56939",
+        "name": "Nathan Lam"
+    },
+    "tax": {
+        "amount_excluding_tax": 17.23,
+        "amount_including_tax": 23.02,
+        "tax_amount": 26.77,
+        "total_ht": 264.78,
+        "total_ttc": 149.16
+    }
+}

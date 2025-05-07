@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "2405 Gonzalez Unions Apt. 862 Jessicaview, MD 90325"
+    },
+    "invoice": {
+        "bc_no": "ms38672",
+        "date": "19.04.2002",
+        "maturity_date": "23.01.2012",
+        "number": 117440
+    },
+    "products": [
+        {
+            "amount": 95.97,
+            "description": "innovate global convergence",
+            "quantity": 9.71,
+            "unit_price": 37.83,
+            "vat_amount": 11.39
+        },
+        {
+            "amount": 143.29,
+            "description": "target innovative e-markets",
+            "quantity": 2.72,
+            "unit_price": 45.44,
+            "vat_amount": 6.62
+        }
+    ],
+    "seller": {
+        "address": "0869 Underwood Bypass Suite 154 South Brittney, CO 84039"
+    },
+    "tax": {
+        "amount_excluding_tax": 48.38,
+        "amount_including_tax": 24.21,
+        "tax_amount": 24.44
+    }
+}

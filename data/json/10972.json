@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "3934 Gray Bypass Suite 557 South Javierbury, DC 32239",
+        "email": "kimberly65@example.com",
+        "phone": "001-272-202-5111x990",
+        "vat_no": "zl40172971483"
+    },
+    "invoice": {
+        "date": "28.10.2004",
+        "due_date": "01.12.2011",
+        "market_reference": 276446,
+        "notes": "innovate integrated ROI",
+        "number": "8499-7241",
+        "reference": 361882,
+        "vat_no": "AV80159881804"
+    },
+    "payment": {
+        "net_total": 62.63,
+        "total": 123.84
+    },
+    "products": [
+        {
+            "amount": 107.85,
+            "description": "revolutionize plug-and-play models",
+            "hours": 9.65,
+            "rate": 7.92
+        },
+        {
+            "amount": 318.49,
+            "description": "brand 24/7 infrastructures",
+            "hours": 2.28,
+            "rate": 3.09
+        },
+        {
+            "amount": 481.03,
+            "description": "transform seamless channels",
+            "hours": 5.86,
+            "rate": 3.3
+        }
+    ],
+    "seller": {
+        "address": "1571 Blackwell Summit Suite 739 Flowersside, NJ 04628",
+        "email": "hurstchase@example.com",
+        "name": "Rodney Snow"
+    },
+    "tax": {
+        "base": 16.27,
+        "tax_amount": 17.66,
+        "total_tax": 13.93
+    }
+}

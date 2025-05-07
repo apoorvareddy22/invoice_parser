@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "51589 Timothy Underpass Suite 852 New Dianahaven, TX 69908",
+        "id": "hl742"
+    },
+    "invoice": {
+        "bc_no": "db16930",
+        "currency_code": "TZS",
+        "date": "29.04.2009",
+        "due_date": "23.05.2022",
+        "number": 831902
+    },
+    "payment": {
+        "bank_name": "Olson Inc",
+        "bic": "PHGOGBEG",
+        "iban": "UMET99921584032950"
+    },
+    "products": [
+        {
+            "amount": 58.01,
+            "description": "synthesize customized markets",
+            "index": "6",
+            "price": 301.03,
+            "quantity": 5.78,
+            "tax_amount": 15.06,
+            "total_ttc": 175.92,
+            "vat_amount": 2.67
+        },
+        {
+            "amount": 450.16,
+            "description": "architect wireless initiatives",
+            "index": "7",
+            "price": 273.28,
+            "quantity": 8.03,
+            "tax_amount": 53.66,
+            "total_ttc": 131.75,
+            "vat_amount": 7.67
+        },
+        {
+            "amount": 307.43,
+            "description": "integrate impactful schemas",
+            "index": "1",
+            "price": 34.03,
+            "quantity": 6.68,
+            "tax_amount": 86.54,
+            "total_ttc": 176.96,
+            "vat_amount": 2.74
+        },
+        {
+            "amount": 54.81,
+            "description": "reinvent value-added e-business",
+            "index": "7",
+            "price": 347.83,
+            "quantity": 5.54,
+            "tax_amount": 66.1,
+            "total_ttc": 164.7,
+            "vat_amount": 5.24
+        }
+    ],
+    "seller": {
+        "name": "Anita Reyes"
+    },
+    "supplier": {
+        "address": "PSC 2906, Box 6751 APO AE 92385",
+        "name": "John Arnold"
+    },
+    "tax": {
+        "amount_excluding_tax": 162.51,
+        "amount_including_tax": 140.72,
+        "tax_amount": 10.85,
+        "total_ht": 141.94,
+        "total_ttc": 242.6
+    }
+}

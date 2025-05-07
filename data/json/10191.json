@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "62938 Jordan Extension North Martin, WI 30068",
+        "email": "fpowers@example.org",
+        "phone": "855-203-3132x794",
+        "vat_no": "XE42688240953"
+    },
+    "invoice": {
+        "date": "28.06.2006",
+        "due_date": "06.07.2021",
+        "market_reference": 867619,
+        "notes": "maximize best-of-breed metrics",
+        "number": "3020-2614",
+        "reference": 675645,
+        "vat_no": "iR63118434475"
+    },
+    "payment": {
+        "net_total": 125.15,
+        "total": 583.24
+    },
+    "products": [
+        {
+            "amount": 414.88,
+            "description": "reinvent leading-edge e-commerce",
+            "hours": 6.07,
+            "rate": 8.1
+        },
+        {
+            "amount": 98.75,
+            "description": "aggregate virtual e-markets",
+            "hours": 4.51,
+            "rate": 5.46
+        },
+        {
+            "amount": 77.86,
+            "description": "productize e-business experiences",
+            "hours": 5.86,
+            "rate": 7.14
+        }
+    ],
+    "seller": {
+        "address": "54173 Torres Isle Port Richard, MT 65972",
+        "email": "lori43@example.net",
+        "name": "Tara Fuller"
+    },
+    "tax": {
+        "base": 11.11,
+        "tax_amount": 11.48,
+        "total_tax": 20.73
+    }
+}

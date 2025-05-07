@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "0544 Hill Ports East Kylemouth, SD 65225",
+        "email": "heather10@example.net",
+        "phone": "976-378-8291x83962",
+        "vat_no": "LF04996347171"
+    },
+    "invoice": {
+        "date": "18.09.2018",
+        "due_date": "20.09.2018",
+        "market_reference": 229560,
+        "notes": "drive out-of-the-box relationships",
+        "number": "1117-8571",
+        "reference": 159575,
+        "vat_no": "rS30302501586"
+    },
+    "payment": {
+        "net_total": 78.23,
+        "total": 160.18
+    },
+    "products": [
+        {
+            "amount": 201.65,
+            "description": "evolve user-centric ROI",
+            "hours": 5.62,
+            "rate": 8.1
+        }
+    ],
+    "seller": {
+        "address": "2857 Hanson Spring Suite 947 East Catherinestad, GA 03975",
+        "email": "ubaker@example.org",
+        "name": "James Williams"
+    },
+    "tax": {
+        "base": 22.78,
+        "tax_amount": 27.29,
+        "total_tax": 26.21
+    }
+}

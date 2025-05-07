@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "541 Bryan Burgs Rebeccaside, MH 54531",
+        "company_name": "Hull-Brooks",
+        "email": "michaelhanson@example.com",
+        "name": "Michael Moore",
+        "phone": "550.937.0406x92488"
+    },
+    "invoice": {
+        "date": "27.07.2017",
+        "due_date": "25.07.2000",
+        "number": "IKr09971891562"
+    },
+    "payment": {
+        "account_number": 5374237710,
+        "bank_name": "Black, Rivera and Watkins",
+        "routing_number": 485388509
+    },
+    "products": [
+        {
+            "amount": 206.46,
+            "description": "facilitate distributed e-commerce",
+            "index": "6",
+            "quantity": 7.16,
+            "unit_price": 18.22
+        },
+        {
+            "amount": 224.43,
+            "description": "synergize front-end solutions",
+            "index": "4",
+            "quantity": 8.97,
+            "unit_price": 31.61
+        },
+        {
+            "amount": 432.26,
+            "description": "scale global eyeballs",
+            "index": "1",
+            "quantity": 6.29,
+            "unit_price": 37.19
+        },
+        {
+            "amount": 264.11,
+            "description": "brand vertical interfaces",
+            "index": "6",
+            "quantity": 3.74,
+            "unit_price": 24.08
+        },
+        {
+            "amount": 396.13,
+            "description": "expedite turn-key initiatives",
+            "index": "4",
+            "quantity": 4.58,
+            "unit_price": 89.08
+        }
+    ],
+    "seller": {
+        "address": "PSC 1953, Box 9865 APO AA 63621",
+        "company_name": "Miller LLC",
+        "email": "jonespamela@example.com"
+    }
+}

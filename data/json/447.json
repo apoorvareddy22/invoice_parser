@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "944 Steven Roads Apt. 594 Zimmermanton, PW 59560",
+        "company_name": "Henry and Sons",
+        "country": "United States Virgin Islands",
+        "name": "Ashley Stevens"
+    },
+    "invoice": {
+        "date": "20.01.2009",
+        "number": 525644
+    },
+    "payment": {
+        "discount_amount": 16.5,
+        "discount_percentage": 16.51,
+        "due": 190.73,
+        "sub_total": 47.65,
+        "total": 677.83
+    },
+    "products": [
+        {
+            "description": "deploy virtual models",
+            "index": "5",
+            "quantity": 9.09,
+            "total_price": 885.52,
+            "unit_price": 18.51
+        },
+        {
+            "description": "visualize extensible architectures",
+            "index": "8",
+            "quantity": 7.85,
+            "total_price": 283.87,
+            "unit_price": 18.18
+        }
+    ],
+    "seller": {
+        "address": "543 Alvarez Ridges South Amandaside, ME 06402",
+        "company_name": "Aguirre-Garrett",
+        "vat_no": "uz30789273159"
+    }
+}

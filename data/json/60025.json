@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "957 Holmes Plaza West Michael, CT 62130",
+        "business_no": "Xc398",
+        "id": "JH742"
+    },
+    "invoice": {
+        "date": "28.05.1996",
+        "number": "4730-1917"
+    },
+    "payment": {
+        "due_date": "14.11.2003",
+        "total": 692.91
+    },
+    "products": [
+        {
+            "amount": 444.19,
+            "description": "enhance impactful methodologies",
+            "quantity": 2.88,
+            "reference": "cZ-512",
+            "unit_price": 75.18
+        },
+        {
+            "amount": 221.99,
+            "description": "utilize efficient partnerships",
+            "quantity": 7.28,
+            "reference": "nq-184",
+            "unit_price": 13.56
+        }
+    ],
+    "seller": {
+        "address": "5851 Valerie Pines Marthaville, WY 07308"
+    },
+    "tax": {
+        "base_ht": 414.95,
+        "regulations": 15.84,
+        "total_ht": 261.02,
+        "vat_amount": 39.61,
+        "vat_percentage": 29.67
+    }
+}

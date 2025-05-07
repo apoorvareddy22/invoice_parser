@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "27775 Lang Neck Apt. 777 Deannafort, SD 98236",
+        "id": "nn378"
+    },
+    "invoice": {
+        "bc_no": "bM05232",
+        "currency_code": "VUV",
+        "date": "04.09.1992",
+        "due_date": "30.01.1990",
+        "number": 677857
+    },
+    "payment": {
+        "bank_name": "Alvarez, Barnes and Stephens",
+        "bic": "CNTOGBK8",
+        "iban": "YKYP91282372507746"
+    },
+    "products": [
+        {
+            "amount": 78.88,
+            "description": "streamline clicks-and-mortar e-commerce",
+            "index": "1",
+            "price": 312.9,
+            "quantity": 8.25,
+            "tax_amount": 62.67,
+            "total_ttc": 488.75,
+            "vat_amount": 6.57
+        },
+        {
+            "amount": 166.5,
+            "description": "extend seamless paradigms",
+            "index": "1",
+            "price": 96.08,
+            "quantity": 4.82,
+            "tax_amount": 25.23,
+            "total_ttc": 388.22,
+            "vat_amount": 8.43
+        }
+    ],
+    "seller": {
+        "name": "Jill James"
+    },
+    "supplier": {
+        "address": "85701 Tiffany Alley Apt. 733 West Ryan, SD 12894",
+        "name": "Chad Howard"
+    },
+    "tax": {
+        "amount_excluding_tax": 186.06,
+        "amount_including_tax": 68.07,
+        "tax_amount": 13.4,
+        "total_ht": 425.4,
+        "total_ttc": 370.96
+    }
+}

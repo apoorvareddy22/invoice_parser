@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "674 Ashley Plains Thomasmouth, NY 67286",
+        "id": "bk643"
+    },
+    "invoice": {
+        "bc_no": "SZ43777",
+        "currency_code": "OMR",
+        "date": "10.09.2013",
+        "due_date": "30.07.2002",
+        "number": 770267
+    },
+    "payment": {
+        "bank_name": "Martin PLC",
+        "bic": "OHJMGBST",
+        "iban": "RXAN89039461719620"
+    },
+    "products": [
+        {
+            "amount": 424.25,
+            "description": "target 24/7 experiences",
+            "index": "9",
+            "price": 48.07,
+            "quantity": 2.28,
+            "tax_amount": 22.13,
+            "total_ttc": 372.29,
+            "vat_amount": 4.64
+        },
+        {
+            "amount": 162.08,
+            "description": "re-contextualize synergistic action-items",
+            "index": "4",
+            "price": 180.76,
+            "quantity": 7.39,
+            "tax_amount": 16.89,
+            "total_ttc": 153.4,
+            "vat_amount": 2.32
+        },
+        {
+            "amount": 239.87,
+            "description": "integrate cross-platform interfaces",
+            "index": "1",
+            "price": 287.81,
+            "quantity": 6.01,
+            "tax_amount": 15.84,
+            "total_ttc": 233.69,
+            "vat_amount": 0.93
+        },
+        {
+            "amount": 257.54,
+            "description": "revolutionize innovative convergence",
+            "index": "6",
+            "price": 341.74,
+            "quantity": 2.7,
+            "tax_amount": 40.73,
+            "total_ttc": 152.0,
+            "vat_amount": 1.16
+        },
+        {
+            "amount": 314.87,
+            "description": "matrix leading-edge convergence",
+            "index": "7",
+            "price": 482.56,
+            "quantity": 8.34,
+            "tax_amount": 35.87,
+            "total_ttc": 311.46,
+            "vat_amount": 5.71
+        },
+        {
+            "amount": 302.84,
+            "description": "reinvent proactive communities",
+            "index": "1",
+            "price": 397.38,
+            "quantity": 1.35,
+            "tax_amount": 46.21,
+            "total_ttc": 236.59,
+            "vat_amount": 0.53
+        }
+    ],
+    "seller": {
+        "name": "Christopher Clark"
+    },
+    "supplier": {
+        "address": "4001 Jones Parkway Apt. 725 East Lance, DE 68778",
+        "name": "Jennifer Norton"
+    },
+    "tax": {
+        "amount_excluding_tax": 173.62,
+        "amount_including_tax": 44.62,
+        "tax_amount": 19.9,
+        "total_ht": 199.52,
+        "total_ttc": 137.03
+    }
+}

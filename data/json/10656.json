@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "12153 Ashley Burg Suite 510 Kathystad, ME 78469",
+        "email": "nguyenjohn@example.net",
+        "phone": "001-898-996-8467x7255",
+        "vat_no": "tl95822770629"
+    },
+    "invoice": {
+        "date": "21.04.2017",
+        "due_date": "10.03.2019",
+        "market_reference": 936714,
+        "notes": "re-contextualize robust models",
+        "number": "8997-8820",
+        "reference": 977998,
+        "vat_no": "iO66796922991"
+    },
+    "payment": {
+        "net_total": 30.76,
+        "total": 360.37
+    },
+    "products": [
+        {
+            "amount": 105.76,
+            "description": "exploit real-time solutions",
+            "hours": 3.96,
+            "rate": 3.99
+        },
+        {
+            "amount": 46.17,
+            "description": "re-intermediate out-of-the-box metrics",
+            "hours": 1.89,
+            "rate": 1.42
+        },
+        {
+            "amount": 277.54,
+            "description": "evolve B2B initiatives",
+            "hours": 1.09,
+            "rate": 9.31
+        }
+    ],
+    "seller": {
+        "address": "38342 Gibson Valley Apt. 291 Lake Christyland, ID 18603",
+        "email": "sierra53@example.com",
+        "name": "Miss Heather Williams MD"
+    },
+    "tax": {
+        "base": 29.01,
+        "tax_amount": 18.0,
+        "total_tax": 19.68
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "867 Beth Locks Apt. 535 West Stevenville, ME 97932"
+    },
+    "invoice": {
+        "bc_no": "Xs69036",
+        "date": "19.11.2012",
+        "maturity_date": "21.10.2019",
+        "number": 810623
+    },
+    "products": [
+        {
+            "amount": 127.24,
+            "description": "iterate collaborative infrastructures",
+            "quantity": 7.74,
+            "unit_price": 58.46,
+            "vat_amount": 3.71
+        }
+    ],
+    "seller": {
+        "address": "6765 Smith Shores Stephentown, DC 52189"
+    },
+    "tax": {
+        "amount_excluding_tax": 113.85,
+        "amount_including_tax": 103.72,
+        "tax_amount": 22.92
+    }
+}

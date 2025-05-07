@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "8612 Bridges Ridge Suite 312 Williamschester, LA 82790"
+    },
+    "invoice": {
+        "bc_no": "Ds27118",
+        "date": "05.05.2007",
+        "maturity_date": "12.03.2013",
+        "number": 995065
+    },
+    "products": [
+        {
+            "amount": 252.56,
+            "description": "incubate front-end mindshare",
+            "quantity": 4.2,
+            "unit_price": 66.37,
+            "vat_amount": 15.66
+        },
+        {
+            "amount": 406.6,
+            "description": "unleash robust applications",
+            "quantity": 2.23,
+            "unit_price": 35.36,
+            "vat_amount": 2.93
+        },
+        {
+            "amount": 221.49,
+            "description": "reinvent robust functionalities",
+            "quantity": 2.25,
+            "unit_price": 84.66,
+            "vat_amount": 0.25
+        },
+        {
+            "amount": 362.86,
+            "description": "integrate revolutionary portals",
+            "quantity": 8.86,
+            "unit_price": 52.3,
+            "vat_amount": 4.94
+        },
+        {
+            "amount": 73.19,
+            "description": "envisioneer frictionless technologies",
+            "quantity": 4.38,
+            "unit_price": 21.24,
+            "vat_amount": 2.9
+        },
+        {
+            "amount": 227.73,
+            "description": "implement killer networks",
+            "quantity": 6.77,
+            "unit_price": 21.22,
+            "vat_amount": 4.91
+        }
+    ],
+    "seller": {
+        "address": "8860 Lopez Turnpike West Carmenport, NC 71718"
+    },
+    "tax": {
+        "amount_excluding_tax": 15.37,
+        "amount_including_tax": 179.88,
+        "tax_amount": 17.7
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "8023 Jessica Mall Apt. 246 Kathleenview, NH 83301",
+        "company_name": "Leonard-Thomas",
+        "email": "pweeks@example.com",
+        "name": "Kelly Thomas",
+        "phone": "(380)734-3689"
+    },
+    "invoice": {
+        "date": "12.07.2011",
+        "due_date": "04.11.2009",
+        "number": "fVA34336180590"
+    },
+    "payment": {
+        "account_number": 8310614284,
+        "bank_name": "Graham-Anderson",
+        "routing_number": 420098230
+    },
+    "products": [
+        {
+            "amount": 202.53,
+            "description": "aggregate strategic e-markets",
+            "index": "6",
+            "quantity": 2.15,
+            "unit_price": 17.0
+        }
+    ],
+    "seller": {
+        "address": "77628 Megan Mill Apt. 517 Yorkberg, IL 01792",
+        "company_name": "Morales, Williamson and Castillo",
+        "email": "scottkatelyn@example.net"
+    }
+}

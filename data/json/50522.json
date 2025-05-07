@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "38520 Garcia Loaf Apt. 561 Jessefort, MT 20597",
+        "id": "CK355"
+    },
+    "invoice": {
+        "bc_no": "dR25491",
+        "currency_code": "AED",
+        "date": "07.04.1990",
+        "due_date": "10.03.2007",
+        "number": 311738
+    },
+    "payment": {
+        "bank_name": "Gomez-Norman",
+        "bic": "HHUHGBJS",
+        "iban": "KHKL99400573692129"
+    },
+    "products": [
+        {
+            "amount": 304.14,
+            "description": "transform cross-platform mindshare",
+            "index": "10",
+            "price": 410.67,
+            "quantity": 3.44,
+            "tax_amount": 12.66,
+            "total_ttc": 424.6,
+            "vat_amount": 1.03
+        },
+        {
+            "amount": 448.16,
+            "description": "brand enterprise e-markets",
+            "index": "3",
+            "price": 50.6,
+            "quantity": 4.01,
+            "tax_amount": 46.16,
+            "total_ttc": 242.17,
+            "vat_amount": 11.55
+        },
+        {
+            "amount": 247.37,
+            "description": "matrix compelling communities",
+            "index": "5",
+            "price": 36.96,
+            "quantity": 1.28,
+            "tax_amount": 73.81,
+            "total_ttc": 171.62,
+            "vat_amount": 8.68
+        },
+        {
+            "amount": 457.62,
+            "description": "morph granular vortals",
+            "index": "1",
+            "price": 494.08,
+            "quantity": 1.33,
+            "tax_amount": 41.53,
+            "total_ttc": 326.07,
+            "vat_amount": 8.99
+        },
+        {
+            "amount": 135.99,
+            "description": "reinvent holistic ROI",
+            "index": "10",
+            "price": 264.97,
+            "quantity": 6.74,
+            "tax_amount": 40.64,
+            "total_ttc": 186.24,
+            "vat_amount": 2.31
+        },
+        {
+            "amount": 389.07,
+            "description": "deploy proactive mindshare",
+            "index": "2",
+            "price": 250.38,
+            "quantity": 8.81,
+            "tax_amount": 54.77,
+            "total_ttc": 144.8,
+            "vat_amount": 9.92
+        }
+    ],
+    "seller": {
+        "name": "Richard Jensen"
+    },
+    "supplier": {
+        "address": "71937 Brown Bridge Maryport, ME 21539",
+        "name": "Jamie Beck"
+    },
+    "tax": {
+        "amount_excluding_tax": 92.8,
+        "amount_including_tax": 184.75,
+        "tax_amount": 15.36,
+        "total_ht": 472.6,
+        "total_ttc": 231.24
+    }
+}

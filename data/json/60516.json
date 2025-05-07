@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "USNV Olson FPO AP 69316",
+        "business_no": "SZ921",
+        "id": "ri372"
+    },
+    "invoice": {
+        "date": "25.03.1996",
+        "number": "1885-0511"
+    },
+    "payment": {
+        "due_date": "02.03.2020",
+        "total": 683.35
+    },
+    "products": [
+        {
+            "amount": 422.76,
+            "description": "generate scalable markets",
+            "quantity": 5.53,
+            "reference": "SC-348",
+            "unit_price": 88.97
+        },
+        {
+            "amount": 480.75,
+            "description": "unleash integrated e-business",
+            "quantity": 9.12,
+            "reference": "ne-702",
+            "unit_price": 88.38
+        },
+        {
+            "amount": 306.76,
+            "description": "mesh real-time channels",
+            "quantity": 5.21,
+            "reference": "oY-222",
+            "unit_price": 46.17
+        },
+        {
+            "amount": 239.1,
+            "description": "repurpose robust platforms",
+            "quantity": 4.3,
+            "reference": "Sw-547",
+            "unit_price": 50.13
+        },
+        {
+            "amount": 133.31,
+            "description": "benchmark turn-key bandwidth",
+            "quantity": 9.69,
+            "reference": "tb-556",
+            "unit_price": 71.9
+        }
+    ],
+    "seller": {
+        "address": "602 Price Green Santiagochester, OH 42682"
+    },
+    "tax": {
+        "base_ht": 137.8,
+        "regulations": 17.05,
+        "total_ht": 367.97,
+        "vat_amount": 188.05,
+        "vat_percentage": 21.69
+    }
+}

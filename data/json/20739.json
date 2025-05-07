@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "50803 Angela Turnpike West Melissamouth, VT 60392",
+        "company_name": "Gonzalez-Smith",
+        "email": "amanda68@example.com",
+        "name": "Amanda Gilbert",
+        "phone": "(714)326-5656x65991"
+    },
+    "invoice": {
+        "date": "09.07.2006",
+        "due_date": "20.11.2000",
+        "number": "dfP85421738437"
+    },
+    "payment": {
+        "account_number": 9634882250,
+        "bank_name": "Pineda-Montes",
+        "routing_number": 417984254
+    },
+    "products": [
+        {
+            "amount": 75.31,
+            "description": "architect leading-edge markets",
+            "index": "5",
+            "quantity": 9.9,
+            "unit_price": 10.11
+        },
+        {
+            "amount": 316.9,
+            "description": "repurpose intuitive partnerships",
+            "index": "7",
+            "quantity": 2.65,
+            "unit_price": 92.73
+        },
+        {
+            "amount": 491.41,
+            "description": "extend extensible models",
+            "index": "7",
+            "quantity": 6.15,
+            "unit_price": 58.12
+        },
+        {
+            "amount": 58.09,
+            "description": "integrate mission-critical partnerships",
+            "index": "4",
+            "quantity": 3.59,
+            "unit_price": 53.53
+        }
+    ],
+    "seller": {
+        "address": "USNS Wise FPO AE 95749",
+        "company_name": "Fields, Reynolds and Bailey",
+        "email": "yvonnebennett@example.org"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "3922 Paul Mill Apt. 285 North Alisonside, AK 09486",
+        "company_name": "White-Graham",
+        "country": "Micronesia",
+        "name": "John Keller"
+    },
+    "invoice": {
+        "date": "28.12.1993",
+        "number": 497976
+    },
+    "payment": {
+        "discount_amount": 26.3,
+        "discount_percentage": 8.38,
+        "due": 162.45,
+        "sub_total": 182.68,
+        "total": 375.79
+    },
+    "products": [
+        {
+            "description": "facilitate visionary architectures",
+            "index": "4",
+            "quantity": 5.84,
+            "total_price": 456.67,
+            "unit_price": 99.71
+        },
+        {
+            "description": "generate revolutionary e-services",
+            "index": "9",
+            "quantity": 5.81,
+            "total_price": 107.42,
+            "unit_price": 75.34
+        }
+    ],
+    "seller": {
+        "address": "Unit 1696 Box 1432 DPO AP 30032",
+        "company_name": "Marshall Group",
+        "vat_no": "OI75572451087"
+    }
+}

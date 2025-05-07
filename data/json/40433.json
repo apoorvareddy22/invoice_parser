@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "453 Bolton Junctions Apt. 286 South Charlesmouth, NH 48649"
+    },
+    "invoice": {
+        "bc_no": "fH13626",
+        "date": "10.03.1993",
+        "maturity_date": "09.06.1996",
+        "number": 135798
+    },
+    "products": [
+        {
+            "amount": 347.5,
+            "description": "brand B2C deliverables",
+            "quantity": 5.15,
+            "unit_price": 94.31,
+            "vat_amount": 15.82
+        },
+        {
+            "amount": 62.63,
+            "description": "maximize holistic mindshare",
+            "quantity": 2.07,
+            "unit_price": 19.47,
+            "vat_amount": 7.6
+        }
+    ],
+    "seller": {
+        "address": "626 Michael Ville Apt. 328 Ashleybury, MA 89601"
+    },
+    "tax": {
+        "amount_excluding_tax": 22.14,
+        "amount_including_tax": 197.5,
+        "tax_amount": 24.58
+    }
+}

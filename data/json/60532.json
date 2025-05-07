@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "6101 Edward Islands Suite 235 Brittneybury, NH 90012",
+        "business_no": "GA195",
+        "id": "Nn469"
+    },
+    "invoice": {
+        "date": "30.12.2012",
+        "number": "2311-2174"
+    },
+    "payment": {
+        "due_date": "06.08.1993",
+        "total": 413.79
+    },
+    "products": [
+        {
+            "amount": 264.74,
+            "description": "redefine world-class applications",
+            "quantity": 5.48,
+            "reference": "Dz-133",
+            "unit_price": 39.74
+        }
+    ],
+    "seller": {
+        "address": "0231 Williams Fields Suite 378 New Davidtown, AR 02785"
+    },
+    "tax": {
+        "base_ht": 243.62,
+        "regulations": 10.42,
+        "total_ht": 298.57,
+        "vat_amount": 96.93,
+        "vat_percentage": 23.61
+    }
+}

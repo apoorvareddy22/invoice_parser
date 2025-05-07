@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "2301 Frey Street Suite 265 Port Robert, MD 26093",
+        "company_name": "Johnson PLC",
+        "country": "Denmark",
+        "name": "Deborah Thornton"
+    },
+    "invoice": {
+        "date": "28.12.2020",
+        "number": 783079
+    },
+    "payment": {
+        "discount_amount": 18.7,
+        "discount_percentage": 12.57,
+        "due": 171.54,
+        "sub_total": 82.11,
+        "total": 913.18
+    },
+    "products": [
+        {
+            "description": "revolutionize synergistic systems",
+            "index": "1",
+            "quantity": 1.92,
+            "total_price": 327.18,
+            "unit_price": 26.47
+        },
+        {
+            "description": "whiteboard user-centric systems",
+            "index": "8",
+            "quantity": 5.89,
+            "total_price": 295.62,
+            "unit_price": 61.47
+        },
+        {
+            "description": "streamline dot-com e-tailers",
+            "index": "5",
+            "quantity": 9.16,
+            "total_price": 742.29,
+            "unit_price": 57.87
+        },
+        {
+            "description": "envisioneer e-business content",
+            "index": "5",
+            "quantity": 2.76,
+            "total_price": 718.98,
+            "unit_price": 36.71
+        }
+    ],
+    "seller": {
+        "address": "442 Jessica Spring Suite 155 East Carlashire, AZ 17760",
+        "company_name": "Jackson Inc",
+        "vat_no": "WV14805805059"
+    }
+}

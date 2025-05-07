@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "831 Charles Forks Theodoreside, IN 30750",
+        "business_no": "iD309",
+        "id": "VB246"
+    },
+    "invoice": {
+        "date": "11.11.2023",
+        "number": "9273-1406"
+    },
+    "payment": {
+        "due_date": "12.12.2023",
+        "total": 479.11
+    },
+    "products": [
+        {
+            "amount": 15.06,
+            "description": "drive killer web-readiness",
+            "quantity": 7.69,
+            "reference": "fA-413",
+            "unit_price": 93.85
+        },
+        {
+            "amount": 474.82,
+            "description": "syndicate integrated partnerships",
+            "quantity": 5.12,
+            "reference": "CZ-136",
+            "unit_price": 94.47
+        }
+    ],
+    "seller": {
+        "address": "7537 Evans Crossing Apt. 583 Doyleport, AS 58480"
+    },
+    "tax": {
+        "base_ht": 367.16,
+        "regulations": 17.21,
+        "total_ht": 248.06,
+        "vat_amount": 31.85,
+        "vat_percentage": 14.79
+    }
+}

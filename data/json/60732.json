@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "767 Edwards Branch Suite 258 Port Davidstad, MN 59668",
+        "business_no": "IB235",
+        "id": "Am140"
+    },
+    "invoice": {
+        "date": "07.11.1993",
+        "number": "5408-9692"
+    },
+    "payment": {
+        "due_date": "06.02.2009",
+        "total": 713.75
+    },
+    "products": [
+        {
+            "amount": 230.06,
+            "description": "drive best-of-breed e-tailers",
+            "quantity": 1.08,
+            "reference": "eE-753",
+            "unit_price": 88.05
+        },
+        {
+            "amount": 366.56,
+            "description": "scale real-time info-mediaries",
+            "quantity": 7.19,
+            "reference": "rd-501",
+            "unit_price": 48.07
+        },
+        {
+            "amount": 262.03,
+            "description": "enable viral e-commerce",
+            "quantity": 7.54,
+            "reference": "Bh-841",
+            "unit_price": 27.86
+        }
+    ],
+    "seller": {
+        "address": "USNV Brown FPO AP 77071"
+    },
+    "tax": {
+        "base_ht": 162.42,
+        "regulations": 22.81,
+        "total_ht": 443.86,
+        "vat_amount": 58.2,
+        "vat_percentage": 14.4
+    }
+}

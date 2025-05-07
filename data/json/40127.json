@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "PSC 2915, Box 8086 APO AA 03566"
+    },
+    "invoice": {
+        "bc_no": "Ca62560",
+        "date": "26.06.2010",
+        "maturity_date": "25.10.2003",
+        "number": 537612
+    },
+    "products": [
+        {
+            "amount": 309.99,
+            "description": "scale clicks-and-mortar ROI",
+            "quantity": 7.7,
+            "unit_price": 82.26,
+            "vat_amount": 8.6
+        },
+        {
+            "amount": 10.85,
+            "description": "seize strategic portals",
+            "quantity": 8.87,
+            "unit_price": 88.61,
+            "vat_amount": 7.38
+        },
+        {
+            "amount": 75.3,
+            "description": "extend ubiquitous initiatives",
+            "quantity": 9.08,
+            "unit_price": 82.42,
+            "vat_amount": 2.25
+        },
+        {
+            "amount": 16.77,
+            "description": "visualize 24/365 e-services",
+            "quantity": 2.59,
+            "unit_price": 17.58,
+            "vat_amount": 0.66
+        }
+    ],
+    "seller": {
+        "address": "009 John Greens Apt. 534 Melissaburgh, WV 37447"
+    },
+    "tax": {
+        "amount_excluding_tax": 14.91,
+        "amount_including_tax": 137.44,
+        "tax_amount": 16.73
+    }
+}

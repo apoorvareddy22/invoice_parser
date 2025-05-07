@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "6351 Underwood Union Taylorport, HI 19377",
+        "email": "joshuamata@example.com",
+        "phone": "(549)310-4472",
+        "vat_no": "Zg90346924367"
+    },
+    "invoice": {
+        "date": "08.05.2009",
+        "due_date": "17.10.2010",
+        "market_reference": 709486,
+        "notes": "redefine clicks-and-mortar convergence",
+        "number": "8299-3525",
+        "reference": 573025,
+        "vat_no": "Pk79357655195"
+    },
+    "payment": {
+        "net_total": 52.4,
+        "total": 529.2
+    },
+    "products": [
+        {
+            "amount": 188.91,
+            "description": "envisioneer leading-edge technologies",
+            "hours": 3.71,
+            "rate": 3.69
+        },
+        {
+            "amount": 104.7,
+            "description": "envisioneer out-of-the-box relationships",
+            "hours": 5.48,
+            "rate": 4.83
+        },
+        {
+            "amount": 63.12,
+            "description": "synthesize bleeding-edge e-tailers",
+            "hours": 3.93,
+            "rate": 2.44
+        },
+        {
+            "amount": 179.84,
+            "description": "empower extensible metrics",
+            "hours": 5.39,
+            "rate": 8.68
+        }
+    ],
+    "seller": {
+        "address": "09527 Tina Via Apt. 839 Port Elizabethhaven, DC 12219",
+        "email": "hamiltondiamond@example.com",
+        "name": "Tonya Patterson"
+    },
+    "tax": {
+        "base": 18.84,
+        "tax_amount": 24.77,
+        "total_tax": 17.76
+    }
+}

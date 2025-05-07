@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "Unit 6780 Box 1899 DPO AE 52661",
+        "id": "XO688"
+    },
+    "invoice": {
+        "bc_no": "gs53522",
+        "currency_code": "MZN",
+        "date": "14.10.2018",
+        "due_date": "27.10.1990",
+        "number": 371601
+    },
+    "payment": {
+        "bank_name": "Odonnell LLC",
+        "bic": "NJRAGBHFCQ8",
+        "iban": "ILJA98924031713865"
+    },
+    "products": [
+        {
+            "amount": 175.01,
+            "description": "re-contextualize enterprise e-commerce",
+            "index": "10",
+            "price": 248.62,
+            "quantity": 8.88,
+            "tax_amount": 67.87,
+            "total_ttc": 350.75,
+            "vat_amount": 5.75
+        },
+        {
+            "amount": 207.45,
+            "description": "cultivate next-generation paradigms",
+            "index": "2",
+            "price": 234.31,
+            "quantity": 4.04,
+            "tax_amount": 85.78,
+            "total_ttc": 488.84,
+            "vat_amount": 11.59
+        },
+        {
+            "amount": 449.12,
+            "description": "redefine plug-and-play applications",
+            "index": "4",
+            "price": 78.08,
+            "quantity": 7.15,
+            "tax_amount": 94.24,
+            "total_ttc": 230.32,
+            "vat_amount": 7.63
+        }
+    ],
+    "seller": {
+        "name": "Gene Wells"
+    },
+    "supplier": {
+        "address": "01545 Jeremy Ports New Holly, PW 65908",
+        "name": "Natasha Browning"
+    },
+    "tax": {
+        "amount_excluding_tax": 20.43,
+        "amount_including_tax": 99.14,
+        "tax_amount": 23.44,
+        "total_ht": 322.85,
+        "total_ttc": 159.55
+    }
+}

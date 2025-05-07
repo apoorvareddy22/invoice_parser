@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "9656 Oliver Fort New Brittanyfurt, VT 51934",
+        "email": "lowebrandi@example.org",
+        "phone": "(260)311-5756x407",
+        "vat_no": "OO64931408685"
+    },
+    "invoice": {
+        "date": "23.08.1990",
+        "due_date": "25.09.2010",
+        "market_reference": 855920,
+        "notes": "utilize interactive applications",
+        "number": "4576-9236",
+        "reference": 668439,
+        "vat_no": "wb35023094333"
+    },
+    "payment": {
+        "net_total": 25.12,
+        "total": 669.22
+    },
+    "products": [
+        {
+            "amount": 113.41,
+            "description": "orchestrate cross-platform markets",
+            "hours": 3.55,
+            "rate": 3.27
+        }
+    ],
+    "seller": {
+        "address": "2550 Stokes Light Schwartzton, NM 43696",
+        "email": "thebert@example.com",
+        "name": "Kristen Tucker"
+    },
+    "tax": {
+        "base": 11.07,
+        "tax_amount": 18.82,
+        "total_tax": 25.27
+    }
+}

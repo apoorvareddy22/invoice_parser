@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "894 Whitney Point Brandonhaven, PA 38997",
+        "email": "donna07@example.org",
+        "phone": "+1-610-609-5312x5145",
+        "vat_no": "Hz86467297328"
+    },
+    "invoice": {
+        "date": "24.08.2012",
+        "due_date": "13.02.2006",
+        "market_reference": 987009,
+        "notes": "drive wireless technologies",
+        "number": "9831-4794",
+        "reference": 819930,
+        "vat_no": "jx54340195373"
+    },
+    "payment": {
+        "net_total": 180.81,
+        "total": 577.63
+    },
+    "products": [
+        {
+            "amount": 485.99,
+            "description": "facilitate vertical ROI",
+            "hours": 2.89,
+            "rate": 5.53
+        },
+        {
+            "amount": 111.62,
+            "description": "cultivate best-of-breed functionalities",
+            "hours": 5.43,
+            "rate": 8.75
+        },
+        {
+            "amount": 55.43,
+            "description": "harness visionary e-tailers",
+            "hours": 7.36,
+            "rate": 2.81
+        }
+    ],
+    "seller": {
+        "address": "95982 Good Stream Oconnellland, CA 48521",
+        "email": "ecook@example.org",
+        "name": "Jennifer Terry"
+    },
+    "tax": {
+        "base": 12.41,
+        "tax_amount": 14.33,
+        "total_tax": 24.54
+    }
+}

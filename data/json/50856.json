@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "783 Gonzales Vista East Robertview, AR 72396",
+        "id": "UB155"
+    },
+    "invoice": {
+        "bc_no": "pB51028",
+        "currency_code": "LSL",
+        "date": "02.05.2010",
+        "due_date": "31.12.2006",
+        "number": 599043
+    },
+    "payment": {
+        "bank_name": "Sanchez LLC",
+        "bic": "CZKQGBUR",
+        "iban": "BQUX21984273261578"
+    },
+    "products": [
+        {
+            "amount": 297.3,
+            "description": "visualize 24/7 functionalities",
+            "index": "1",
+            "price": 343.4,
+            "quantity": 4.71,
+            "tax_amount": 40.43,
+            "total_ttc": 266.75,
+            "vat_amount": 11.9
+        },
+        {
+            "amount": 409.82,
+            "description": "target customized metrics",
+            "index": "10",
+            "price": 167.04,
+            "quantity": 4.88,
+            "tax_amount": 26.49,
+            "total_ttc": 233.08,
+            "vat_amount": 5.32
+        },
+        {
+            "amount": 217.48,
+            "description": "repurpose mission-critical experiences",
+            "index": "10",
+            "price": 13.94,
+            "quantity": 4.73,
+            "tax_amount": 84.02,
+            "total_ttc": 142.91,
+            "vat_amount": 9.02
+        },
+        {
+            "amount": 313.51,
+            "description": "expedite magnetic e-commerce",
+            "index": "7",
+            "price": 40.92,
+            "quantity": 7.44,
+            "tax_amount": 10.98,
+            "total_ttc": 253.67,
+            "vat_amount": 15.11
+        },
+        {
+            "amount": 147.13,
+            "description": "leverage global web services",
+            "index": "1",
+            "price": 219.82,
+            "quantity": 3.76,
+            "tax_amount": 45.31,
+            "total_ttc": 233.43,
+            "vat_amount": 5.07
+        }
+    ],
+    "seller": {
+        "name": "Alexander Bishop"
+    },
+    "supplier": {
+        "address": "1637 Tyler Valleys Apt. 181 North Lanceside, MI 00723",
+        "name": "David Johnson"
+    },
+    "tax": {
+        "amount_excluding_tax": 29.19,
+        "amount_including_tax": 33.25,
+        "tax_amount": 21.82,
+        "total_ht": 324.07,
+        "total_ttc": 172.05
+    }
+}

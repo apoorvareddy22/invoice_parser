@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "10629 Ortiz Lock Taraland, IL 15154",
+        "id": "wj561"
+    },
+    "invoice": {
+        "bc_no": "uA33964",
+        "currency_code": "RUB",
+        "date": "25.09.2012",
+        "due_date": "10.04.2020",
+        "number": 239175
+    },
+    "payment": {
+        "bank_name": "Chandler LLC",
+        "bic": "MFIHGBXTWJ0",
+        "iban": "RQCB23423112243115"
+    },
+    "products": [
+        {
+            "amount": 224.33,
+            "description": "re-contextualize bleeding-edge applications",
+            "index": "2",
+            "price": 489.46,
+            "quantity": 8.0,
+            "tax_amount": 50.36,
+            "total_ttc": 285.82,
+            "vat_amount": 2.69
+        },
+        {
+            "amount": 104.0,
+            "description": "benchmark e-business deliverables",
+            "index": "7",
+            "price": 54.17,
+            "quantity": 6.23,
+            "tax_amount": 79.74,
+            "total_ttc": 246.03,
+            "vat_amount": 7.4
+        }
+    ],
+    "seller": {
+        "name": "Anthony Acosta"
+    },
+    "supplier": {
+        "address": "1567 Dunn Port Moralesberg, SD 15315",
+        "name": "Maria Santos"
+    },
+    "tax": {
+        "amount_excluding_tax": 141.52,
+        "amount_including_tax": 173.63,
+        "tax_amount": 10.91,
+        "total_ht": 237.69,
+        "total_ttc": 473.45
+    }
+}

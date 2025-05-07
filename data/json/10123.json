@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "475 Clark Run North Brian, GU 33536",
+        "email": "bmartin@example.net",
+        "phone": "668.903.5227x61095",
+        "vat_no": "bc70081933507"
+    },
+    "invoice": {
+        "date": "29.08.2022",
+        "due_date": "22.12.2022",
+        "market_reference": 208520,
+        "notes": "strategize innovative networks",
+        "number": "5568-8310",
+        "reference": 487293,
+        "vat_no": "vz82174893242"
+    },
+    "payment": {
+        "net_total": 85.45,
+        "total": 284.43
+    },
+    "products": [
+        {
+            "amount": 297.1,
+            "description": "target seamless models",
+            "hours": 9.5,
+            "rate": 6.28
+        },
+        {
+            "amount": 261.48,
+            "description": "visualize compelling networks",
+            "hours": 5.48,
+            "rate": 4.39
+        },
+        {
+            "amount": 382.21,
+            "description": "innovate sticky e-business",
+            "hours": 1.39,
+            "rate": 8.16
+        },
+        {
+            "amount": 173.33,
+            "description": "optimize granular markets",
+            "hours": 3.28,
+            "rate": 9.61
+        },
+        {
+            "amount": 470.02,
+            "description": "utilize virtual systems",
+            "hours": 4.84,
+            "rate": 2.86
+        }
+    ],
+    "seller": {
+        "address": "275 Davis Isle Burchbury, TX 81009",
+        "email": "michael12@example.org",
+        "name": "Mr. Keith Ortiz"
+    },
+    "tax": {
+        "base": 13.61,
+        "tax_amount": 27.59,
+        "total_tax": 13.98
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "473 Hodge Parkway Apt. 634 Bryantstad, NJ 31684",
+        "email": "richardmason@example.net",
+        "phone": "822.567.3121x074",
+        "vat_no": "NL91032171764"
+    },
+    "invoice": {
+        "date": "31.12.2000",
+        "due_date": "30.10.2022",
+        "market_reference": 419049,
+        "notes": "optimize collaborative platforms",
+        "number": "4668-4845",
+        "reference": 887182,
+        "vat_no": "Bs09568491454"
+    },
+    "payment": {
+        "net_total": 138.41,
+        "total": 920.92
+    },
+    "products": [
+        {
+            "amount": 218.99,
+            "description": "leverage scalable ROI",
+            "hours": 2.48,
+            "rate": 8.61
+        },
+        {
+            "amount": 41.57,
+            "description": "cultivate intuitive convergence",
+            "hours": 5.85,
+            "rate": 3.32
+        },
+        {
+            "amount": 227.87,
+            "description": "maximize distributed vortals",
+            "hours": 6.94,
+            "rate": 8.37
+        },
+        {
+            "amount": 381.9,
+            "description": "benchmark compelling infrastructures",
+            "hours": 2.09,
+            "rate": 3.8
+        }
+    ],
+    "seller": {
+        "address": "Unit 4100 Box 0197 DPO AA 37019",
+        "email": "sherrifloyd@example.org",
+        "name": "Joshua Compton"
+    },
+    "tax": {
+        "base": 24.57,
+        "tax_amount": 24.11,
+        "total_tax": 26.8
+    }
+}

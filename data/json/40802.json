@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "062 Katherine Land Ryantown, WI 17714"
+    },
+    "invoice": {
+        "bc_no": "fy36449",
+        "date": "14.12.2016",
+        "maturity_date": "14.02.2004",
+        "number": 284891
+    },
+    "products": [
+        {
+            "amount": 425.12,
+            "description": "productize visionary solutions",
+            "quantity": 9.22,
+            "unit_price": 44.74,
+            "vat_amount": 12.92
+        },
+        {
+            "amount": 472.19,
+            "description": "facilitate enterprise experiences",
+            "quantity": 5.79,
+            "unit_price": 67.24,
+            "vat_amount": 2.05
+        },
+        {
+            "amount": 449.49,
+            "description": "drive clicks-and-mortar action-items",
+            "quantity": 3.02,
+            "unit_price": 98.42,
+            "vat_amount": 3.54
+        },
+        {
+            "amount": 47.06,
+            "description": "benchmark interactive models",
+            "quantity": 10.0,
+            "unit_price": 85.46,
+            "vat_amount": 5.51
+        }
+    ],
+    "seller": {
+        "address": "265 Beltran Court Apt. 710 North Taylorfurt, MD 40839"
+    },
+    "tax": {
+        "amount_excluding_tax": 13.25,
+        "amount_including_tax": 34.57,
+        "tax_amount": 25.02
+    }
+}

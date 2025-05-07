@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "2482 Davis Grove Apt. 164 East Michael, TN 52828",
+        "id": "Nk541"
+    },
+    "invoice": {
+        "bc_no": "ak26214",
+        "currency_code": "MDL",
+        "date": "22.06.2009",
+        "due_date": "07.02.2022",
+        "number": 301416
+    },
+    "payment": {
+        "bank_name": "Nelson-Stout",
+        "bic": "UYDHGBU0",
+        "iban": "CCYV70939367779943"
+    },
+    "products": [
+        {
+            "amount": 234.34,
+            "description": "drive frictionless e-business",
+            "index": "8",
+            "price": 34.14,
+            "quantity": 3.73,
+            "tax_amount": 71.94,
+            "total_ttc": 272.75,
+            "vat_amount": 2.37
+        },
+        {
+            "amount": 497.79,
+            "description": "maximize enterprise methodologies",
+            "index": "2",
+            "price": 287.23,
+            "quantity": 2.31,
+            "tax_amount": 11.18,
+            "total_ttc": 247.14,
+            "vat_amount": 6.01
+        },
+        {
+            "amount": 153.31,
+            "description": "synergize holistic paradigms",
+            "index": "8",
+            "price": 170.93,
+            "quantity": 8.69,
+            "tax_amount": 71.87,
+            "total_ttc": 269.64,
+            "vat_amount": 1.66
+        },
+        {
+            "amount": 379.85,
+            "description": "repurpose synergistic platforms",
+            "index": "8",
+            "price": 15.17,
+            "quantity": 1.02,
+            "tax_amount": 13.01,
+            "total_ttc": 312.53,
+            "vat_amount": 16.63
+        },
+        {
+            "amount": 23.39,
+            "description": "architect viral applications",
+            "index": "9",
+            "price": 165.23,
+            "quantity": 1.88,
+            "tax_amount": 40.6,
+            "total_ttc": 105.86,
+            "vat_amount": 1.13
+        },
+        {
+            "amount": 108.96,
+            "description": "incubate killer channels",
+            "index": "7",
+            "price": 412.1,
+            "quantity": 9.49,
+            "tax_amount": 23.94,
+            "total_ttc": 415.01,
+            "vat_amount": 3.31
+        }
+    ],
+    "seller": {
+        "name": "Nancy Clark"
+    },
+    "supplier": {
+        "address": "3420 Krista View Lauraview, FL 35035",
+        "name": "Dr. Jessica Davila"
+    },
+    "tax": {
+        "amount_excluding_tax": 96.8,
+        "amount_including_tax": 65.86,
+        "tax_amount": 28.73,
+        "total_ht": 107.06,
+        "total_ttc": 346.45
+    }
+}

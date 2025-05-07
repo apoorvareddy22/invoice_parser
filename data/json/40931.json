@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "0851 Ryan Village Apt. 253 Danielburgh, NE 83635"
+    },
+    "invoice": {
+        "bc_no": "OK51676",
+        "date": "04.04.2016",
+        "maturity_date": "05.04.2010",
+        "number": 908894
+    },
+    "products": [
+        {
+            "amount": 276.96,
+            "description": "benchmark virtual convergence",
+            "quantity": 6.52,
+            "unit_price": 81.67,
+            "vat_amount": 5.22
+        },
+        {
+            "amount": 407.57,
+            "description": "unleash intuitive users",
+            "quantity": 4.19,
+            "unit_price": 92.15,
+            "vat_amount": 8.92
+        }
+    ],
+    "seller": {
+        "address": "66226 Patricia Shoals Suite 443 Rogerston, FL 53108"
+    },
+    "tax": {
+        "amount_excluding_tax": 143.6,
+        "amount_including_tax": 146.64,
+        "tax_amount": 18.05
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "1131 Thompson Wells South Kyleborough, MD 99927"
+    },
+    "invoice": {
+        "bc_no": "tk87019",
+        "date": "03.08.2001",
+        "maturity_date": "06.10.2017",
+        "number": 128771
+    },
+    "products": [
+        {
+            "amount": 158.32,
+            "description": "drive world-class users",
+            "quantity": 6.83,
+            "unit_price": 86.25,
+            "vat_amount": 0.64
+        },
+        {
+            "amount": 297.21,
+            "description": "morph back-end eyeballs",
+            "quantity": 8.24,
+            "unit_price": 96.38,
+            "vat_amount": 1.25
+        },
+        {
+            "amount": 78.45,
+            "description": "enable proactive channels",
+            "quantity": 2.67,
+            "unit_price": 92.38,
+            "vat_amount": 9.95
+        },
+        {
+            "amount": 249.78,
+            "description": "unleash web-enabled convergence",
+            "quantity": 2.79,
+            "unit_price": 22.07,
+            "vat_amount": 9.08
+        }
+    ],
+    "seller": {
+        "address": "851 Wood Isle Apt. 076 Jacksonborough, WY 01447"
+    },
+    "tax": {
+        "amount_excluding_tax": 67.04,
+        "amount_including_tax": 123.95,
+        "tax_amount": 17.28
+    }
+}

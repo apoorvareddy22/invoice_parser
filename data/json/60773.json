@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "89266 Chad Curve Thompsonbury, AS 06101",
+        "business_no": "CF355",
+        "id": "re074"
+    },
+    "invoice": {
+        "date": "23.12.2005",
+        "number": "0233-5454"
+    },
+    "payment": {
+        "due_date": "17.10.1999",
+        "total": 315.91
+    },
+    "products": [
+        {
+            "amount": 97.23,
+            "description": "orchestrate extensible models",
+            "quantity": 9.51,
+            "reference": "la-220",
+            "unit_price": 91.6
+        },
+        {
+            "amount": 338.76,
+            "description": "extend mission-critical deliverables",
+            "quantity": 7.88,
+            "reference": "rf-509",
+            "unit_price": 86.07
+        },
+        {
+            "amount": 416.47,
+            "description": "matrix dot-com e-services",
+            "quantity": 2.53,
+            "reference": "hx-352",
+            "unit_price": 15.21
+        },
+        {
+            "amount": 439.92,
+            "description": "empower value-added partnerships",
+            "quantity": 7.88,
+            "reference": "fz-939",
+            "unit_price": 12.98
+        }
+    ],
+    "seller": {
+        "address": "341 Jenkins Island Troytown, ID 70570"
+    },
+    "tax": {
+        "base_ht": 457.26,
+        "regulations": 27.57,
+        "total_ht": 335.24,
+        "vat_amount": 134.16,
+        "vat_percentage": 24.8
+    }
+}

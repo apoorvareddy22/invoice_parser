@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "891 Daniel Garden Apt. 382 Jessicaview, MN 37957",
+        "business_no": "NE915",
+        "id": "HY875"
+    },
+    "invoice": {
+        "date": "28.09.2019",
+        "number": "6396-9978"
+    },
+    "payment": {
+        "due_date": "05.03.1999",
+        "total": 411.07
+    },
+    "products": [
+        {
+            "amount": 328.39,
+            "description": "generate compelling users",
+            "quantity": 5.89,
+            "reference": "Pf-088",
+            "unit_price": 38.77
+        }
+    ],
+    "seller": {
+        "address": "6014 Jennifer Roads Lake Williamport, DC 79049"
+    },
+    "tax": {
+        "base_ht": 214.84,
+        "regulations": 20.43,
+        "total_ht": 470.16,
+        "vat_amount": 102.03,
+        "vat_percentage": 20.26
+    }
+}

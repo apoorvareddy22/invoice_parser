@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "9812 Adkins Summit Suite 713 Sharpside, DE 48445",
+        "company_name": "Flores, King and Buckley",
+        "country": "Cyprus",
+        "name": "Stephanie Thomas"
+    },
+    "invoice": {
+        "date": "15.08.2023",
+        "number": 148133
+    },
+    "payment": {
+        "discount_amount": 23.67,
+        "discount_percentage": 8.38,
+        "due": 12.64,
+        "sub_total": 153.92,
+        "total": 304.75
+    },
+    "products": [
+        {
+            "description": "transition wireless users",
+            "index": "4",
+            "quantity": 5.15,
+            "total_price": 582.0,
+            "unit_price": 52.85
+        },
+        {
+            "description": "reinvent frictionless metrics",
+            "index": "1",
+            "quantity": 8.62,
+            "total_price": 595.69,
+            "unit_price": 20.31
+        },
+        {
+            "description": "drive enterprise markets",
+            "index": "2",
+            "quantity": 2.15,
+            "total_price": 304.41,
+            "unit_price": 19.98
+        },
+        {
+            "description": "incubate enterprise e-services",
+            "index": "9",
+            "quantity": 4.95,
+            "total_price": 117.78,
+            "unit_price": 72.39
+        },
+        {
+            "description": "maximize scalable ROI",
+            "index": "1",
+            "quantity": 2.85,
+            "total_price": 381.06,
+            "unit_price": 97.08
+        }
+    ],
+    "seller": {
+        "address": "0455 Thomas Causeway Apt. 252 Shortville, NC 80632",
+        "company_name": "Cantu Group",
+        "vat_no": "fF75604892985"
+    }
+}

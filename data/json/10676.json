@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "Unit 0441 Box 4106 DPO AA 41877",
+        "email": "caseysmith@example.com",
+        "phone": "001-635-225-8635x412",
+        "vat_no": "Ae25650365380"
+    },
+    "invoice": {
+        "date": "17.01.1990",
+        "due_date": "15.11.2014",
+        "market_reference": 541902,
+        "notes": "engineer best-of-breed info-mediaries",
+        "number": "8642-8946",
+        "reference": 284059,
+        "vat_no": "sj82968061806"
+    },
+    "payment": {
+        "net_total": 20.21,
+        "total": 288.68
+    },
+    "products": [
+        {
+            "amount": 173.81,
+            "description": "extend magnetic models",
+            "hours": 3.29,
+            "rate": 8.67
+        }
+    ],
+    "seller": {
+        "address": "17995 Shawn Mountain Apt. 861 South Emilymouth, AL 56627",
+        "email": "joshuabradley@example.org",
+        "name": "Brianna Crawford"
+    },
+    "tax": {
+        "base": 26.58,
+        "tax_amount": 13.37,
+        "total_tax": 20.75
+    }
+}

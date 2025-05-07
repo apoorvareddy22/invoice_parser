@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "USCGC Jenkins FPO AP 93552"
+    },
+    "invoice": {
+        "bc_no": "zw13002",
+        "date": "30.06.2014",
+        "maturity_date": "16.09.2008",
+        "number": 483464
+    },
+    "products": [
+        {
+            "amount": 323.27,
+            "description": "visualize enterprise eyeballs",
+            "quantity": 1.68,
+            "unit_price": 82.39,
+            "vat_amount": 6.63
+        },
+        {
+            "amount": 16.86,
+            "description": "synergize bricks-and-clicks solutions",
+            "quantity": 7.52,
+            "unit_price": 69.75,
+            "vat_amount": 13.08
+        },
+        {
+            "amount": 282.11,
+            "description": "seize cutting-edge web services",
+            "quantity": 7.43,
+            "unit_price": 86.88,
+            "vat_amount": 0.82
+        }
+    ],
+    "seller": {
+        "address": "1457 Kristen Knolls Apt. 988 Bellport, CT 64816"
+    },
+    "tax": {
+        "amount_excluding_tax": 23.83,
+        "amount_including_tax": 88.23,
+        "tax_amount": 18.61
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "9118 Stone Shore Jenniferview, AK 48603",
+        "email": "johnsonjorge@example.net",
+        "phone": "001-642-764-2082",
+        "vat_no": "sE10858590664"
+    },
+    "invoice": {
+        "date": "21.07.2005",
+        "due_date": "25.06.2020",
+        "market_reference": 322462,
+        "notes": "embrace 24/365 communities",
+        "number": "6857-7038",
+        "reference": 736169,
+        "vat_no": "EJ93495452514"
+    },
+    "payment": {
+        "net_total": 149.18,
+        "total": 802.46
+    },
+    "products": [
+        {
+            "amount": 146.1,
+            "description": "utilize B2C content",
+            "hours": 8.64,
+            "rate": 7.94
+        },
+        {
+            "amount": 458.38,
+            "description": "engage robust e-services",
+            "hours": 5.31,
+            "rate": 7.76
+        },
+        {
+            "amount": 254.1,
+            "description": "optimize granular channels",
+            "hours": 6.1,
+            "rate": 9.85
+        },
+        {
+            "amount": 290.91,
+            "description": "transform 24/7 e-business",
+            "hours": 3.03,
+            "rate": 1.75
+        }
+    ],
+    "seller": {
+        "address": "0200 Maria Viaduct Apt. 449 New Chelseaport, MA 08411",
+        "email": "fergusongary@example.net",
+        "name": "Morgan Ibarra"
+    },
+    "tax": {
+        "base": 20.41,
+        "tax_amount": 29.92,
+        "total_tax": 22.64
+    }
+}

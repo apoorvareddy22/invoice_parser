@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "136 Jessica Mountain Apt. 774 Erikaside, KY 82507",
+        "email": "victoria89@example.org",
+        "phone": "001-658-614-4016x73492",
+        "vat_no": "la41994462883"
+    },
+    "invoice": {
+        "date": "18.10.2008",
+        "due_date": "02.11.1995",
+        "market_reference": 357973,
+        "notes": "integrate rich schemas",
+        "number": "0814-8823",
+        "reference": 852933,
+        "vat_no": "vx53179865047"
+    },
+    "payment": {
+        "net_total": 42.28,
+        "total": 836.38
+    },
+    "products": [
+        {
+            "amount": 141.0,
+            "description": "exploit e-business platforms",
+            "hours": 3.22,
+            "rate": 3.85
+        },
+        {
+            "amount": 115.28,
+            "description": "benchmark intuitive architectures",
+            "hours": 6.52,
+            "rate": 3.78
+        },
+        {
+            "amount": 161.17,
+            "description": "leverage end-to-end vortals",
+            "hours": 2.35,
+            "rate": 5.63
+        }
+    ],
+    "seller": {
+        "address": "524 Kristen Lodge Suite 021 Clayborough, NV 48381",
+        "email": "shawn49@example.org",
+        "name": "Michael Fowler"
+    },
+    "tax": {
+        "base": 29.5,
+        "tax_amount": 20.38,
+        "total_tax": 11.42
+    }
+}

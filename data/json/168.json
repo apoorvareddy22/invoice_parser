@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "600 Timothy Run Apt. 008 West Karen, OR 10965",
+        "company_name": "Mathews Inc",
+        "country": "Mexico",
+        "name": "Kaitlyn Castaneda"
+    },
+    "invoice": {
+        "date": "08.12.2002",
+        "number": 236950
+    },
+    "payment": {
+        "discount_amount": 38.28,
+        "discount_percentage": 7.5,
+        "due": 187.27,
+        "sub_total": 141.09,
+        "total": 883.23
+    },
+    "products": [
+        {
+            "description": "optimize front-end eyeballs",
+            "index": "7",
+            "quantity": 9.6,
+            "total_price": 382.53,
+            "unit_price": 20.61
+        },
+        {
+            "description": "leverage integrated web services",
+            "index": "6",
+            "quantity": 4.2,
+            "total_price": 679.98,
+            "unit_price": 78.78
+        },
+        {
+            "description": "e-enable plug-and-play interfaces",
+            "index": "8",
+            "quantity": 1.45,
+            "total_price": 118.56,
+            "unit_price": 17.88
+        },
+        {
+            "description": "optimize B2C web-readiness",
+            "index": "8",
+            "quantity": 5.61,
+            "total_price": 210.4,
+            "unit_price": 42.59
+        },
+        {
+            "description": "synergize magnetic e-markets",
+            "index": "9",
+            "quantity": 9.94,
+            "total_price": 894.55,
+            "unit_price": 85.97
+        }
+    ],
+    "seller": {
+        "address": "84939 Stewart Underpass Apt. 172 West Rebeccaburgh, AK 39895",
+        "company_name": "Johnson, Fernandez and Wood",
+        "vat_no": "Gg49792015267"
+    }
+}

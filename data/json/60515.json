@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "2920 Perry Extensions Suite 716 Sandovalfort, KS 30488",
+        "business_no": "tO479",
+        "id": "RA396"
+    },
+    "invoice": {
+        "date": "19.12.1997",
+        "number": "5157-4616"
+    },
+    "payment": {
+        "due_date": "15.12.1995",
+        "total": 692.29
+    },
+    "products": [
+        {
+            "amount": 127.86,
+            "description": "deliver magnetic metrics",
+            "quantity": 1.43,
+            "reference": "Av-670",
+            "unit_price": 17.9
+        },
+        {
+            "amount": 114.39,
+            "description": "reinvent e-business vortals",
+            "quantity": 1.7,
+            "reference": "lI-953",
+            "unit_price": 66.55
+        },
+        {
+            "amount": 496.74,
+            "description": "iterate killer architectures",
+            "quantity": 8.4,
+            "reference": "pl-393",
+            "unit_price": 14.91
+        },
+        {
+            "amount": 285.55,
+            "description": "evolve turn-key web services",
+            "quantity": 3.29,
+            "reference": "aR-568",
+            "unit_price": 64.7
+        }
+    ],
+    "seller": {
+        "address": "76620 Ward Union North Cindyton, MT 75632"
+    },
+    "tax": {
+        "base_ht": 338.86,
+        "regulations": 18.3,
+        "total_ht": 336.23,
+        "vat_amount": 152.41,
+        "vat_percentage": 24.04
+    }
+}

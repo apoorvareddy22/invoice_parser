@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "USNS Ashley FPO AP 03647",
+        "company_name": "Coleman PLC",
+        "country": "Korea",
+        "name": "Laura Jones"
+    },
+    "invoice": {
+        "date": "14.01.2003",
+        "number": 195901
+    },
+    "payment": {
+        "discount_amount": 32.72,
+        "discount_percentage": 15.98,
+        "due": 152.26,
+        "sub_total": 47.9,
+        "total": 754.26
+    },
+    "products": [
+        {
+            "description": "target revolutionary interfaces",
+            "index": "3",
+            "quantity": 8.03,
+            "total_price": 71.96,
+            "unit_price": 73.74
+        },
+        {
+            "description": "reinvent interactive methodologies",
+            "index": "2",
+            "quantity": 2.19,
+            "total_price": 741.74,
+            "unit_price": 18.0
+        },
+        {
+            "description": "optimize intuitive synergies",
+            "index": "1",
+            "quantity": 8.27,
+            "total_price": 780.43,
+            "unit_price": 69.97
+        },
+        {
+            "description": "exploit viral deliverables",
+            "index": "10",
+            "quantity": 3.97,
+            "total_price": 831.17,
+            "unit_price": 28.08
+        }
+    ],
+    "seller": {
+        "address": "5898 Jason Tunnel Victoriashire, WV 81182",
+        "company_name": "Steele Group",
+        "vat_no": "ap54182419013"
+    }
+}

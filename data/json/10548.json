@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "410 Green Keys Port Mary, MA 27263",
+        "email": "alexandermelissa@example.net",
+        "phone": "001-700-849-8696x7364",
+        "vat_no": "ym69858361531"
+    },
+    "invoice": {
+        "date": "07.02.2004",
+        "due_date": "25.05.1995",
+        "market_reference": 747788,
+        "notes": "orchestrate mission-critical models",
+        "number": "2688-1009",
+        "reference": 846740,
+        "vat_no": "rO37409514309"
+    },
+    "payment": {
+        "net_total": 21.03,
+        "total": 443.02
+    },
+    "products": [
+        {
+            "amount": 300.16,
+            "description": "architect web-enabled web-readiness",
+            "hours": 1.63,
+            "rate": 9.87
+        },
+        {
+            "amount": 377.8,
+            "description": "architect customized functionalities",
+            "hours": 2.1,
+            "rate": 3.56
+        },
+        {
+            "amount": 362.35,
+            "description": "optimize compelling convergence",
+            "hours": 3.83,
+            "rate": 1.83
+        },
+        {
+            "amount": 279.54,
+            "description": "engage world-class content",
+            "hours": 9.85,
+            "rate": 7.55
+        },
+        {
+            "amount": 366.82,
+            "description": "streamline web-enabled metrics",
+            "hours": 4.23,
+            "rate": 4.04
+        }
+    ],
+    "seller": {
+        "address": "Unit 4516 Box 6171 DPO AE 57981",
+        "email": "banderson@example.net",
+        "name": "Jeremy Adams"
+    },
+    "tax": {
+        "base": 12.83,
+        "tax_amount": 23.94,
+        "total_tax": 20.75
+    }
+}

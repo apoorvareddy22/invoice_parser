@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "125 John Groves Apt. 442 Waltersshire, VI 57443",
+        "company_name": "Fischer, Martin and Mckay",
+        "country": "Mayotte",
+        "email": "jenny55@example.com",
+        "name": "Casey Howard",
+        "phone": "751-452-5808",
+        "vat_no": "aU90796721825"
+    },
+    "invoice": {
+        "date": "11.08.1990",
+        "due_date": "10.06.2000",
+        "linked_invoice": "dE-6618-0700",
+        "notes": "whiteboard killer supply-chains",
+        "number": "vy-7165-7187"
+    },
+    "products": [
+        {
+            "description": "matrix impactful bandwidth",
+            "discount_percentage": 14.13,
+            "price": 58.74,
+            "quantity": 5.74,
+            "unit_price": 43.09
+        }
+    ],
+    "seller": {
+        "address": "USNV Cline FPO AA 11791",
+        "ape": "5942N",
+        "capital": 37004983,
+        "country": "Oman",
+        "email": "meadowsstephen@example.net",
+        "name": "Michael Johnson",
+        "phone_1": "298.235.2943",
+        "phone_2": "859-958-0821",
+        "phone_3": "458.453.7248x697",
+        "ref_walk": "DHEE7832",
+        "reference": "NU573",
+        "siret": 54610350288590,
+        "vat_no": "vI72656376982",
+        "website": "https://peterson.com/"
+    },
+    "tax": {
+        "amount_0": 16.69,
+        "amount_1": 13.68,
+        "base_0": 11.33,
+        "base_1": 35.67,
+        "total_ht": 188.86,
+        "total_tax": 11.09,
+        "total_ttc": 406.64,
+        "vat_0": 22.26,
+        "vat_1": 18.8
+    }
+}

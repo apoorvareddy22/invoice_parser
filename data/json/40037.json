@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "0699 Bradley Island Suite 450 Nicolehaven, MI 77239"
+    },
+    "invoice": {
+        "bc_no": "aM33779",
+        "date": "15.04.2008",
+        "maturity_date": "05.07.1993",
+        "number": 422598
+    },
+    "products": [
+        {
+            "amount": 337.41,
+            "description": "empower B2C partnerships",
+            "quantity": 1.57,
+            "unit_price": 83.33,
+            "vat_amount": 15.95
+        },
+        {
+            "amount": 372.51,
+            "description": "grow proactive platforms",
+            "quantity": 6.14,
+            "unit_price": 12.67,
+            "vat_amount": 3.99
+        },
+        {
+            "amount": 235.22,
+            "description": "implement frictionless platforms",
+            "quantity": 3.76,
+            "unit_price": 32.67,
+            "vat_amount": 10.32
+        }
+    ],
+    "seller": {
+        "address": "811 Kimberly Oval Morganbury, NV 97956"
+    },
+    "tax": {
+        "amount_excluding_tax": 143.25,
+        "amount_including_tax": 125.16,
+        "tax_amount": 20.61
+    }
+}

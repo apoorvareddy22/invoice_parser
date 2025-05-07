@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "4384 Clark Land Jessehaven, AK 52426",
+        "company_name": "Nielsen-Vance",
+        "email": "popemark@example.org",
+        "name": "Ashley Haas",
+        "phone": "+1-351-825-2035"
+    },
+    "invoice": {
+        "date": "31.10.2000",
+        "due_date": "19.07.1996",
+        "number": "UJQ03554340045"
+    },
+    "payment": {
+        "account_number": 7212100403,
+        "bank_name": "Butler, Rogers and Kemp",
+        "routing_number": 402500185
+    },
+    "products": [
+        {
+            "amount": 352.75,
+            "description": "benchmark back-end markets",
+            "index": "2",
+            "quantity": 2.48,
+            "unit_price": 99.48
+        },
+        {
+            "amount": 419.87,
+            "description": "productize mission-critical e-tailers",
+            "index": "2",
+            "quantity": 2.18,
+            "unit_price": 39.78
+        },
+        {
+            "amount": 435.85,
+            "description": "re-intermediate distributed mindshare",
+            "index": "9",
+            "quantity": 9.17,
+            "unit_price": 62.84
+        },
+        {
+            "amount": 35.36,
+            "description": "matrix value-added synergies",
+            "index": "5",
+            "quantity": 1.79,
+            "unit_price": 10.96
+        },
+        {
+            "amount": 401.12,
+            "description": "re-intermediate compelling paradigms",
+            "index": "5",
+            "quantity": 6.53,
+            "unit_price": 34.04
+        }
+    ],
+    "seller": {
+        "address": "380 Price Row Port Patrick, AL 68621",
+        "company_name": "Wheeler, Thompson and Garcia",
+        "email": "aperry@example.org"
+    }
+}

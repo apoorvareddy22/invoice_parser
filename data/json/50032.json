@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "690 Francis Route Watsonfurt, WV 07775",
+        "id": "rg540"
+    },
+    "invoice": {
+        "bc_no": "pT72452",
+        "currency_code": "BIF",
+        "date": "01.12.2006",
+        "due_date": "18.08.2015",
+        "number": 778043
+    },
+    "payment": {
+        "bank_name": "Weber Inc",
+        "bic": "BWUOGB50",
+        "iban": "MKIJ98914785205499"
+    },
+    "products": [
+        {
+            "amount": 193.72,
+            "description": "seize sticky ROI",
+            "index": "5",
+            "price": 239.67,
+            "quantity": 4.32,
+            "tax_amount": 45.82,
+            "total_ttc": 193.71,
+            "vat_amount": 3.47
+        },
+        {
+            "amount": 458.48,
+            "description": "syndicate robust solutions",
+            "index": "6",
+            "price": 325.99,
+            "quantity": 2.87,
+            "tax_amount": 61.65,
+            "total_ttc": 459.33,
+            "vat_amount": 1.4
+        },
+        {
+            "amount": 98.23,
+            "description": "transform 24/365 markets",
+            "index": "5",
+            "price": 175.21,
+            "quantity": 2.99,
+            "tax_amount": 49.39,
+            "total_ttc": 455.55,
+            "vat_amount": 0.67
+        },
+        {
+            "amount": 293.9,
+            "description": "productize dot-com relationships",
+            "index": "9",
+            "price": 164.89,
+            "quantity": 8.78,
+            "tax_amount": 49.04,
+            "total_ttc": 340.74,
+            "vat_amount": 8.15
+        },
+        {
+            "amount": 185.25,
+            "description": "disintermediate sticky infrastructures",
+            "index": "7",
+            "price": 39.77,
+            "quantity": 4.53,
+            "tax_amount": 64.25,
+            "total_ttc": 378.58,
+            "vat_amount": 6.24
+        }
+    ],
+    "seller": {
+        "name": "Austin Peterson"
+    },
+    "supplier": {
+        "address": "2925 Monica Mews North Christopher, OH 48595",
+        "name": "Stephanie Ross"
+    },
+    "tax": {
+        "amount_excluding_tax": 165.1,
+        "amount_including_tax": 37.94,
+        "tax_amount": 20.14,
+        "total_ht": 233.15,
+        "total_ttc": 226.74
+    }
+}

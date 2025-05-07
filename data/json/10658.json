@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "41493 Jeffrey Mission Apt. 343 Lake Samanthaberg, MA 92794",
+        "email": "jcardenas@example.com",
+        "phone": "809-430-1912x5665",
+        "vat_no": "do34658400288"
+    },
+    "invoice": {
+        "date": "23.12.2003",
+        "due_date": "20.08.2005",
+        "market_reference": 468850,
+        "notes": "repurpose visionary technologies",
+        "number": "6386-7365",
+        "reference": 487284,
+        "vat_no": "SL57357298040"
+    },
+    "payment": {
+        "net_total": 124.57,
+        "total": 388.08
+    },
+    "products": [
+        {
+            "amount": 67.32,
+            "description": "e-enable distributed interfaces",
+            "hours": 4.01,
+            "rate": 8.68
+        },
+        {
+            "amount": 95.58,
+            "description": "monetize holistic communities",
+            "hours": 9.16,
+            "rate": 2.62
+        },
+        {
+            "amount": 162.53,
+            "description": "revolutionize one-to-one metrics",
+            "hours": 2.47,
+            "rate": 7.51
+        },
+        {
+            "amount": 222.86,
+            "description": "envisioneer robust technologies",
+            "hours": 8.27,
+            "rate": 3.09
+        }
+    ],
+    "seller": {
+        "address": "USNV Myers FPO AE 22397",
+        "email": "amanda45@example.net",
+        "name": "Levi Allison"
+    },
+    "tax": {
+        "base": 16.76,
+        "tax_amount": 21.02,
+        "total_tax": 15.56
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "20443 Anthony Rue Kimberlyfurt, CT 13954",
+        "company_name": "Taylor-Torres",
+        "email": "kashley@example.net",
+        "name": "Sean Zavala",
+        "phone": "(790)887-2209"
+    },
+    "invoice": {
+        "date": "13.01.2005",
+        "due_date": "14.07.2018",
+        "number": "UPV27390316741"
+    },
+    "payment": {
+        "account_number": 7205209264,
+        "bank_name": "Rivera PLC",
+        "routing_number": 615888562
+    },
+    "products": [
+        {
+            "amount": 469.05,
+            "description": "target ubiquitous e-markets",
+            "index": "2",
+            "quantity": 8.32,
+            "unit_price": 62.78
+        },
+        {
+            "amount": 443.07,
+            "description": "evolve revolutionary initiatives",
+            "index": "1",
+            "quantity": 8.03,
+            "unit_price": 20.24
+        },
+        {
+            "amount": 454.66,
+            "description": "mesh robust schemas",
+            "index": "5",
+            "quantity": 7.91,
+            "unit_price": 57.72
+        }
+    ],
+    "seller": {
+        "address": "43799 Joshua Inlet South Michael, VI 31222",
+        "company_name": "Jones, Cooper and Mullins",
+        "email": "dennis02@example.net"
+    }
+}

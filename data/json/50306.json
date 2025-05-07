@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "Unit 7827 Box 9020 DPO AE 56400",
+        "id": "So579"
+    },
+    "invoice": {
+        "bc_no": "hU83246",
+        "currency_code": "LBP",
+        "date": "22.02.1998",
+        "due_date": "31.01.1994",
+        "number": 290921
+    },
+    "payment": {
+        "bank_name": "Hickman-Alexander",
+        "bic": "ZXDBGB99",
+        "iban": "DTFB15387768981268"
+    },
+    "products": [
+        {
+            "amount": 348.09,
+            "description": "extend front-end supply-chains",
+            "index": "5",
+            "price": 419.82,
+            "quantity": 1.1,
+            "tax_amount": 66.48,
+            "total_ttc": 443.08,
+            "vat_amount": 13.17
+        },
+        {
+            "amount": 168.95,
+            "description": "facilitate value-added partnerships",
+            "index": "10",
+            "price": 272.07,
+            "quantity": 2.78,
+            "tax_amount": 98.53,
+            "total_ttc": 318.19,
+            "vat_amount": 1.2
+        }
+    ],
+    "seller": {
+        "name": "James Allen"
+    },
+    "supplier": {
+        "address": "574 Davis Burgs Suite 764 Allisonburgh, GA 16645",
+        "name": "Louis Peck"
+    },
+    "tax": {
+        "amount_excluding_tax": 163.95,
+        "amount_including_tax": 124.36,
+        "tax_amount": 20.74,
+        "total_ht": 287.69,
+        "total_ttc": 112.74
+    }
+}

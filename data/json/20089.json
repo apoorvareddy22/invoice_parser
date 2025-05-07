@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "USNV Nichols FPO AA 50347",
+        "company_name": "Perry, Moreno and Ryan",
+        "email": "mary97@example.com",
+        "name": "Amanda Williams",
+        "phone": "6018599471"
+    },
+    "invoice": {
+        "date": "13.01.1998",
+        "due_date": "06.03.1997",
+        "number": "mtU33874861366"
+    },
+    "payment": {
+        "account_number": 9633256500,
+        "bank_name": "Lee, Larson and Washington",
+        "routing_number": 344716888
+    },
+    "products": [
+        {
+            "amount": 245.19,
+            "description": "re-contextualize extensible content",
+            "index": "2",
+            "quantity": 8.97,
+            "unit_price": 84.85
+        },
+        {
+            "amount": 149.92,
+            "description": "leverage cross-platform web services",
+            "index": "6",
+            "quantity": 6.66,
+            "unit_price": 64.65
+        },
+        {
+            "amount": 17.84,
+            "description": "envisioneer killer deliverables",
+            "index": "5",
+            "quantity": 4.93,
+            "unit_price": 58.65
+        },
+        {
+            "amount": 35.65,
+            "description": "matrix virtual paradigms",
+            "index": "1",
+            "quantity": 7.03,
+            "unit_price": 31.62
+        }
+    ],
+    "seller": {
+        "address": "860 Jill Knoll Suite 580 Jasonport, TX 35152",
+        "company_name": "Fox-Turner",
+        "email": "johnking@example.org"
+    }
+}

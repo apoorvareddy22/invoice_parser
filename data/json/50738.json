@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "087 Anderson Corners Apt. 238 Williamsborough, TN 55177",
+        "id": "pn985"
+    },
+    "invoice": {
+        "bc_no": "uA85986",
+        "currency_code": "BZD",
+        "date": "07.04.1998",
+        "due_date": "06.03.1992",
+        "number": 713857
+    },
+    "payment": {
+        "bank_name": "Walters, Rios and Perez",
+        "bic": "INYUGBG7",
+        "iban": "ZVSA34113878400056"
+    },
+    "products": [
+        {
+            "amount": 187.99,
+            "description": "benchmark distributed mindshare",
+            "index": "6",
+            "price": 285.61,
+            "quantity": 6.06,
+            "tax_amount": 49.81,
+            "total_ttc": 341.72,
+            "vat_amount": 10.05
+        },
+        {
+            "amount": 495.79,
+            "description": "monetize killer synergies",
+            "index": "10",
+            "price": 140.17,
+            "quantity": 4.24,
+            "tax_amount": 84.82,
+            "total_ttc": 441.74,
+            "vat_amount": 0.6
+        }
+    ],
+    "seller": {
+        "name": "Jennifer Dodson"
+    },
+    "supplier": {
+        "address": "114 Trevor Gardens Christopherberg, SC 46818",
+        "name": "Calvin Stone"
+    },
+    "tax": {
+        "amount_excluding_tax": 100.83,
+        "amount_including_tax": 147.34,
+        "tax_amount": 18.58,
+        "total_ht": 361.67,
+        "total_ttc": 424.36
+    }
+}

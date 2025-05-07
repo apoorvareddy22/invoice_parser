@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "USNV Perez FPO AP 43427",
+        "company_name": "Williams-Davis",
+        "email": "elizabethhamilton@example.net",
+        "name": "Billy Weeks",
+        "phone": "+1-486-523-2672x685"
+    },
+    "invoice": {
+        "date": "15.07.2015",
+        "due_date": "28.06.1994",
+        "number": "rUm44156666296"
+    },
+    "payment": {
+        "account_number": 9878388687,
+        "bank_name": "Martin Inc",
+        "routing_number": 714643719
+    },
+    "products": [
+        {
+            "amount": 99.66,
+            "description": "scale impactful e-commerce",
+            "index": "1",
+            "quantity": 2.61,
+            "unit_price": 58.3
+        },
+        {
+            "amount": 347.35,
+            "description": "mesh distributed methodologies",
+            "index": "10",
+            "quantity": 8.2,
+            "unit_price": 84.17
+        },
+        {
+            "amount": 263.15,
+            "description": "target 24/365 users",
+            "index": "3",
+            "quantity": 3.16,
+            "unit_price": 50.03
+        },
+        {
+            "amount": 262.35,
+            "description": "matrix integrated schemas",
+            "index": "8",
+            "quantity": 8.5,
+            "unit_price": 73.84
+        }
+    ],
+    "seller": {
+        "address": "Unit 8207 Box 4213 DPO AA 58941",
+        "company_name": "Graham LLC",
+        "email": "walkerjohn@example.org"
+    }
+}

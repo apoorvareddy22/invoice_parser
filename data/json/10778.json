@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "144 Medina Brooks East Adamstad, NC 33956",
+        "email": "brianmorgan@example.com",
+        "phone": "338-593-1365x45595",
+        "vat_no": "bN58350798059"
+    },
+    "invoice": {
+        "date": "03.09.2011",
+        "due_date": "27.03.2011",
+        "market_reference": 631578,
+        "notes": "orchestrate next-generation models",
+        "number": "2886-8972",
+        "reference": 887724,
+        "vat_no": "JG13386830389"
+    },
+    "payment": {
+        "net_total": 50.53,
+        "total": 365.46
+    },
+    "products": [
+        {
+            "amount": 13.39,
+            "description": "incubate global action-items",
+            "hours": 9.54,
+            "rate": 1.95
+        },
+        {
+            "amount": 495.6,
+            "description": "aggregate efficient e-commerce",
+            "hours": 1.03,
+            "rate": 1.78
+        }
+    ],
+    "seller": {
+        "address": "22777 Christopher Mews Apt. 021 Port Larry, NC 80118",
+        "email": "grobinson@example.com",
+        "name": "Amber Nixon"
+    },
+    "tax": {
+        "base": 17.42,
+        "tax_amount": 24.35,
+        "total_tax": 23.25
+    }
+}

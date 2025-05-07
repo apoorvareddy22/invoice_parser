@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "640 James Pike North Amanda, OH 33907",
+        "company_name": "Jones and Sons",
+        "country": "Guatemala",
+        "email": "teresa52@example.com",
+        "name": "Amy White",
+        "phone": "578-799-4264x407",
+        "vat_no": "yy73514776811"
+    },
+    "invoice": {
+        "date": "12.12.2019",
+        "due_date": "02.07.2020",
+        "linked_invoice": "qd-3300-3712",
+        "notes": "harness transparent initiatives",
+        "number": "rw-1226-8090"
+    },
+    "products": [
+        {
+            "description": "syndicate end-to-end communities",
+            "discount_percentage": 15.3,
+            "price": 185.0,
+            "quantity": 4.34,
+            "unit_price": 54.01
+        },
+        {
+            "description": "synthesize real-time e-markets",
+            "discount_percentage": 5.4,
+            "price": 307.43,
+            "quantity": 7.15,
+            "unit_price": 69.48
+        }
+    ],
+    "seller": {
+        "address": "4179 Nicole Pass Port Crystal, CA 01447",
+        "ape": "5613F",
+        "capital": 47091929,
+        "country": "Uruguay",
+        "email": "stewartmatthew@example.com",
+        "name": "Sara Luna",
+        "phone_1": "603-238-3768x10455",
+        "phone_2": "2644681914",
+        "phone_3": "263.441.5830x442",
+        "ref_walk": "UmsY4123",
+        "reference": "Ct208",
+        "siret": 62569864353828,
+        "vat_no": "il56464201806",
+        "website": "https://brady-figueroa.biz/"
+    },
+    "tax": {
+        "amount_0": 12.31,
+        "amount_1": 27.18,
+        "base_0": 18.98,
+        "base_1": 131.23,
+        "total_ht": 191.12,
+        "total_tax": 19.98,
+        "total_ttc": 178.32,
+        "vat_0": 26.34,
+        "vat_1": 19.79
+    }
+}

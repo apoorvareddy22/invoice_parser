@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "799 Miller Tunnel Nortonville, IA 58287",
+        "business_no": "FU514",
+        "id": "Sj781"
+    },
+    "invoice": {
+        "date": "15.08.1996",
+        "number": "1134-0415"
+    },
+    "payment": {
+        "due_date": "21.08.2012",
+        "total": 135.02
+    },
+    "products": [
+        {
+            "amount": 138.55,
+            "description": "redefine cross-media metrics",
+            "quantity": 8.09,
+            "reference": "cd-500",
+            "unit_price": 37.24
+        },
+        {
+            "amount": 346.3,
+            "description": "facilitate compelling networks",
+            "quantity": 4.11,
+            "reference": "fg-193",
+            "unit_price": 18.67
+        },
+        {
+            "amount": 457.64,
+            "description": "monetize strategic solutions",
+            "quantity": 3.25,
+            "reference": "zE-940",
+            "unit_price": 13.98
+        }
+    ],
+    "seller": {
+        "address": "012 Roberson Port Apt. 284 Michelleberg, VI 45004"
+    },
+    "tax": {
+        "base_ht": 200.04,
+        "regulations": 19.53,
+        "total_ht": 264.88,
+        "vat_amount": 183.9,
+        "vat_percentage": 17.21
+    }
+}

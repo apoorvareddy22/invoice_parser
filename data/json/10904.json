@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "9120 Gillespie Spur Apt. 113 Powellmouth, OK 96390",
+        "email": "douglasherrera@example.org",
+        "phone": "812-814-6713x055",
+        "vat_no": "EI80226036580"
+    },
+    "invoice": {
+        "date": "03.06.1992",
+        "due_date": "26.11.2013",
+        "market_reference": 789546,
+        "notes": "morph real-time paradigms",
+        "number": "4603-9972",
+        "reference": 216742,
+        "vat_no": "VL81977345642"
+    },
+    "payment": {
+        "net_total": 131.38,
+        "total": 966.7
+    },
+    "products": [
+        {
+            "amount": 261.21,
+            "description": "disintermediate mission-critical architectures",
+            "hours": 1.84,
+            "rate": 5.26
+        },
+        {
+            "amount": 356.76,
+            "description": "maximize end-to-end methodologies",
+            "hours": 6.31,
+            "rate": 3.97
+        },
+        {
+            "amount": 293.04,
+            "description": "matrix plug-and-play architectures",
+            "hours": 4.53,
+            "rate": 9.58
+        },
+        {
+            "amount": 438.87,
+            "description": "target holistic deliverables",
+            "hours": 4.89,
+            "rate": 5.42
+        },
+        {
+            "amount": 218.3,
+            "description": "monetize granular eyeballs",
+            "hours": 9.67,
+            "rate": 5.83
+        },
+        {
+            "amount": 5.1,
+            "description": "unleash granular functionalities",
+            "hours": 1.34,
+            "rate": 5.8
+        }
+    ],
+    "seller": {
+        "address": "1112 Stewart Vista Suite 529 Jimenezberg, TX 49669",
+        "email": "randall58@example.org",
+        "name": "Gregory Hudson"
+    },
+    "tax": {
+        "base": 29.44,
+        "tax_amount": 26.36,
+        "total_tax": 26.57
+    }
+}

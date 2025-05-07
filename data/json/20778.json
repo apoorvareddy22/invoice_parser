@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "1547 Kim Mills Apt. 267 Gregoryville, OH 99710",
+        "company_name": "Beard-Barrett",
+        "email": "awest@example.org",
+        "name": "John Golden",
+        "phone": "237-953-8105x24759"
+    },
+    "invoice": {
+        "date": "07.01.2019",
+        "due_date": "09.04.2019",
+        "number": "Dyw61219057024"
+    },
+    "payment": {
+        "account_number": 8594341012,
+        "bank_name": "Mccoy-Trujillo",
+        "routing_number": 560087501
+    },
+    "products": [
+        {
+            "amount": 72.18,
+            "description": "incubate compelling experiences",
+            "index": "4",
+            "quantity": 4.03,
+            "unit_price": 33.08
+        },
+        {
+            "amount": 15.13,
+            "description": "embrace dynamic web services",
+            "index": "10",
+            "quantity": 9.26,
+            "unit_price": 58.53
+        },
+        {
+            "amount": 381.95,
+            "description": "leverage enterprise schemas",
+            "index": "3",
+            "quantity": 3.15,
+            "unit_price": 17.75
+        },
+        {
+            "amount": 171.02,
+            "description": "redefine efficient niches",
+            "index": "5",
+            "quantity": 4.64,
+            "unit_price": 84.63
+        }
+    ],
+    "seller": {
+        "address": "811 Hanson Fords Suite 261 South Michael, MA 84335",
+        "company_name": "Cooper and Sons",
+        "email": "hmoore@example.net"
+    }
+}

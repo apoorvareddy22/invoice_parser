@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "3099 Willis Ford East Christopherton, CO 79798",
+        "email": "carlsonjeffery@example.org",
+        "phone": "+1-711-239-4582",
+        "vat_no": "SP61868458961"
+    },
+    "invoice": {
+        "date": "20.01.2016",
+        "due_date": "26.05.2017",
+        "market_reference": 390350,
+        "notes": "whiteboard interactive eyeballs",
+        "number": "4280-9740",
+        "reference": 244123,
+        "vat_no": "Fm02345038691"
+    },
+    "payment": {
+        "net_total": 106.51,
+        "total": 312.13
+    },
+    "products": [
+        {
+            "amount": 338.47,
+            "description": "extend viral info-mediaries",
+            "hours": 4.43,
+            "rate": 4.27
+        },
+        {
+            "amount": 298.05,
+            "description": "benchmark collaborative web services",
+            "hours": 3.7,
+            "rate": 8.05
+        },
+        {
+            "amount": 418.73,
+            "description": "cultivate vertical technologies",
+            "hours": 3.31,
+            "rate": 4.71
+        }
+    ],
+    "seller": {
+        "address": "571 Stacey Islands Apt. 982 Stewartmouth, DC 05286",
+        "email": "david24@example.com",
+        "name": "Nathaniel Pennington"
+    },
+    "tax": {
+        "base": 12.7,
+        "tax_amount": 23.06,
+        "total_tax": 23.39
+    }
+}

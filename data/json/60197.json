@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "41620 Jared Spurs West Tracey, WI 63346",
+        "business_no": "AJ456",
+        "id": "jq465"
+    },
+    "invoice": {
+        "date": "27.08.1999",
+        "number": "1763-1668"
+    },
+    "payment": {
+        "due_date": "12.07.2022",
+        "total": 865.44
+    },
+    "products": [
+        {
+            "amount": 428.88,
+            "description": "redefine strategic eyeballs",
+            "quantity": 6.16,
+            "reference": "iY-671",
+            "unit_price": 97.51
+        },
+        {
+            "amount": 100.11,
+            "description": "integrate 24/7 convergence",
+            "quantity": 2.73,
+            "reference": "bh-514",
+            "unit_price": 81.18
+        },
+        {
+            "amount": 411.4,
+            "description": "productize turn-key e-markets",
+            "quantity": 1.72,
+            "reference": "PW-036",
+            "unit_price": 83.96
+        },
+        {
+            "amount": 212.4,
+            "description": "innovate distributed action-items",
+            "quantity": 8.45,
+            "reference": "tq-101",
+            "unit_price": 42.03
+        }
+    ],
+    "seller": {
+        "address": "450 Ashley Radial Mitchellmouth, CA 34316"
+    },
+    "tax": {
+        "base_ht": 176.39,
+        "regulations": 17.77,
+        "total_ht": 108.77,
+        "vat_amount": 47.42,
+        "vat_percentage": 29.71
+    }
+}

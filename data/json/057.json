@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "7468 Catherine Ways Suite 678 Wrightchester, OR 20941",
+        "company_name": "Calhoun, Stephens and Roberts",
+        "country": "Seychelles",
+        "name": "Becky Daniels"
+    },
+    "invoice": {
+        "date": "04.10.1992",
+        "number": 235642
+    },
+    "payment": {
+        "discount_amount": 48.43,
+        "discount_percentage": 12.67,
+        "due": 77.43,
+        "sub_total": 113.77,
+        "total": 937.57
+    },
+    "products": [
+        {
+            "description": "mesh cutting-edge action-items",
+            "index": "7",
+            "quantity": 4.82,
+            "total_price": 705.72,
+            "unit_price": 89.92
+        },
+        {
+            "description": "deploy rich e-commerce",
+            "index": "9",
+            "quantity": 5.63,
+            "total_price": 679.97,
+            "unit_price": 46.62
+        }
+    ],
+    "seller": {
+        "address": "971 Sanders Cliff North Aliciaborough, MS 31793",
+        "company_name": "Collier, Hart and Buchanan",
+        "vat_no": "dT03401327204"
+    }
+}

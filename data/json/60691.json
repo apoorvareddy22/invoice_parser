@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "16029 Derek Motorway Suite 481 Paulside, PA 46574",
+        "business_no": "zO920",
+        "id": "UV180"
+    },
+    "invoice": {
+        "date": "22.04.2008",
+        "number": "3439-9780"
+    },
+    "payment": {
+        "due_date": "26.06.1992",
+        "total": 930.68
+    },
+    "products": [
+        {
+            "amount": 10.29,
+            "description": "disintermediate customized solutions",
+            "quantity": 6.91,
+            "reference": "sI-174",
+            "unit_price": 82.59
+        },
+        {
+            "amount": 63.22,
+            "description": "utilize vertical web services",
+            "quantity": 3.4,
+            "reference": "nX-860",
+            "unit_price": 39.02
+        },
+        {
+            "amount": 294.09,
+            "description": "grow cross-media markets",
+            "quantity": 2.96,
+            "reference": "Vy-806",
+            "unit_price": 11.59
+        },
+        {
+            "amount": 220.32,
+            "description": "orchestrate customized info-mediaries",
+            "quantity": 4.87,
+            "reference": "qp-613",
+            "unit_price": 75.76
+        }
+    ],
+    "seller": {
+        "address": "087 Anderson Shoal Lake Sarah, NE 28618"
+    },
+    "tax": {
+        "base_ht": 124.4,
+        "regulations": 16.0,
+        "total_ht": 253.47,
+        "vat_amount": 60.64,
+        "vat_percentage": 20.95
+    }
+}

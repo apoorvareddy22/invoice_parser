@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "49906 Torres Way West Kiaramouth, DC 78373",
+        "email": "ghorton@example.net",
+        "phone": "+1-579-719-3927x7769",
+        "vat_no": "hZ39485440635"
+    },
+    "invoice": {
+        "date": "11.07.2002",
+        "due_date": "07.08.2003",
+        "market_reference": 203871,
+        "notes": "monetize virtual functionalities",
+        "number": "2090-6573",
+        "reference": 161871,
+        "vat_no": "mM13036499027"
+    },
+    "payment": {
+        "net_total": 89.23,
+        "total": 235.35
+    },
+    "products": [
+        {
+            "amount": 464.21,
+            "description": "re-contextualize global eyeballs",
+            "hours": 5.62,
+            "rate": 8.78
+        },
+        {
+            "amount": 358.85,
+            "description": "morph interactive metrics",
+            "hours": 1.52,
+            "rate": 5.56
+        }
+    ],
+    "seller": {
+        "address": "17257 Jacob Villages Suite 646 Brandonberg, FM 39502",
+        "email": "nmoreno@example.org",
+        "name": "Jessica Garza"
+    },
+    "tax": {
+        "base": 11.46,
+        "tax_amount": 29.6,
+        "total_tax": 14.4
+    }
+}

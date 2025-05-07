@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "927 Connie Extensions Suite 597 West Wayne, OH 83838",
+        "id": "nt667"
+    },
+    "invoice": {
+        "bc_no": "gD88063",
+        "currency_code": "NGN",
+        "date": "24.05.2010",
+        "due_date": "27.04.1995",
+        "number": 642882
+    },
+    "payment": {
+        "bank_name": "Cabrera Group",
+        "bic": "KRBCGBWB",
+        "iban": "WTMX06980305111535"
+    },
+    "products": [
+        {
+            "amount": 18.56,
+            "description": "facilitate impactful synergies",
+            "index": "5",
+            "price": 259.91,
+            "quantity": 5.34,
+            "tax_amount": 78.33,
+            "total_ttc": 359.55,
+            "vat_amount": 12.97
+        },
+        {
+            "amount": 252.53,
+            "description": "cultivate compelling vortals",
+            "index": "6",
+            "price": 48.41,
+            "quantity": 6.32,
+            "tax_amount": 48.78,
+            "total_ttc": 357.49,
+            "vat_amount": 0.56
+        },
+        {
+            "amount": 301.62,
+            "description": "synergize integrated partnerships",
+            "index": "3",
+            "price": 163.43,
+            "quantity": 1.88,
+            "tax_amount": 36.71,
+            "total_ttc": 389.36,
+            "vat_amount": 7.61
+        },
+        {
+            "amount": 83.6,
+            "description": "benchmark distributed niches",
+            "index": "7",
+            "price": 85.26,
+            "quantity": 4.21,
+            "tax_amount": 78.29,
+            "total_ttc": 219.12,
+            "vat_amount": 6.02
+        }
+    ],
+    "seller": {
+        "name": "Martin Wells"
+    },
+    "supplier": {
+        "address": "USS Flowers FPO AA 39804",
+        "name": "Kathleen Stark"
+    },
+    "tax": {
+        "amount_excluding_tax": 104.42,
+        "amount_including_tax": 67.94,
+        "tax_amount": 27.73,
+        "total_ht": 312.22,
+        "total_ttc": 109.38
+    }
+}

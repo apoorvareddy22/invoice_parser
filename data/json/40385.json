@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "92336 Lowe Mills Masonville, AZ 60163"
+    },
+    "invoice": {
+        "bc_no": "QX55719",
+        "date": "25.03.2005",
+        "maturity_date": "11.03.2001",
+        "number": 941584
+    },
+    "products": [
+        {
+            "amount": 74.97,
+            "description": "target dot-com schemas",
+            "quantity": 9.08,
+            "unit_price": 88.23,
+            "vat_amount": 3.01
+        },
+        {
+            "amount": 326.6,
+            "description": "harness viral channels",
+            "quantity": 5.31,
+            "unit_price": 87.84,
+            "vat_amount": 4.41
+        },
+        {
+            "amount": 420.65,
+            "description": "benchmark end-to-end bandwidth",
+            "quantity": 5.46,
+            "unit_price": 93.35,
+            "vat_amount": 6.05
+        },
+        {
+            "amount": 335.96,
+            "description": "deploy seamless e-markets",
+            "quantity": 2.76,
+            "unit_price": 56.87,
+            "vat_amount": 2.61
+        }
+    ],
+    "seller": {
+        "address": "69629 Matthew Highway Perezstad, CO 53552"
+    },
+    "tax": {
+        "amount_excluding_tax": 55.48,
+        "amount_including_tax": 28.03,
+        "tax_amount": 25.62
+    }
+}

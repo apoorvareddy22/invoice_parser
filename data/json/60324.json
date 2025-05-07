@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "16068 Holloway Stravenue West Erica, RI 95221",
+        "business_no": "VN634",
+        "id": "Wc620"
+    },
+    "invoice": {
+        "date": "17.03.1993",
+        "number": "4848-9045"
+    },
+    "payment": {
+        "due_date": "23.05.2004",
+        "total": 619.28
+    },
+    "products": [
+        {
+            "amount": 301.84,
+            "description": "mesh synergistic architectures",
+            "quantity": 4.96,
+            "reference": "OV-295",
+            "unit_price": 24.17
+        },
+        {
+            "amount": 240.35,
+            "description": "drive innovative models",
+            "quantity": 3.32,
+            "reference": "nh-650",
+            "unit_price": 52.28
+        },
+        {
+            "amount": 292.9,
+            "description": "unleash open-source technologies",
+            "quantity": 7.14,
+            "reference": "sM-914",
+            "unit_price": 93.88
+        },
+        {
+            "amount": 467.18,
+            "description": "innovate real-time portals",
+            "quantity": 5.83,
+            "reference": "be-459",
+            "unit_price": 30.24
+        }
+    ],
+    "seller": {
+        "address": "87354 Nguyen Walk Suite 094 East Anna, NH 14474"
+    },
+    "tax": {
+        "base_ht": 261.2,
+        "regulations": 29.58,
+        "total_ht": 327.47,
+        "vat_amount": 80.36,
+        "vat_percentage": 11.37
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "398 Johnson Track Jessicaview, PW 39363",
+        "email": "andrewjones@example.net",
+        "phone": "4798238296",
+        "vat_no": "Ek10850244369"
+    },
+    "invoice": {
+        "date": "10.10.1998",
+        "due_date": "08.10.2004",
+        "market_reference": 847631,
+        "notes": "benchmark customized web services",
+        "number": "2380-4189",
+        "reference": 706926,
+        "vat_no": "Pm07476165315"
+    },
+    "payment": {
+        "net_total": 141.28,
+        "total": 742.66
+    },
+    "products": [
+        {
+            "amount": 148.27,
+            "description": "innovate robust info-mediaries",
+            "hours": 7.96,
+            "rate": 4.31
+        },
+        {
+            "amount": 25.23,
+            "description": "drive frictionless eyeballs",
+            "hours": 3.45,
+            "rate": 3.4
+        },
+        {
+            "amount": 414.49,
+            "description": "morph robust bandwidth",
+            "hours": 4.08,
+            "rate": 3.65
+        },
+        {
+            "amount": 431.53,
+            "description": "whiteboard holistic e-business",
+            "hours": 1.71,
+            "rate": 2.1
+        },
+        {
+            "amount": 388.51,
+            "description": "aggregate user-centric infrastructures",
+            "hours": 4.03,
+            "rate": 8.36
+        },
+        {
+            "amount": 348.91,
+            "description": "leverage synergistic supply-chains",
+            "hours": 3.46,
+            "rate": 4.67
+        }
+    ],
+    "seller": {
+        "address": "Unit 3631 Box 4026 DPO AA 10266",
+        "email": "brent04@example.org",
+        "name": "Leslie Nolan"
+    },
+    "tax": {
+        "base": 17.02,
+        "tax_amount": 12.15,
+        "total_tax": 21.42
+    }
+}

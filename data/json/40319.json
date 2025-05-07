@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "685 Sabrina Drives Jesseton, CT 77448"
+    },
+    "invoice": {
+        "bc_no": "kU37778",
+        "date": "03.04.2007",
+        "maturity_date": "05.05.1999",
+        "number": 467306
+    },
+    "products": [
+        {
+            "amount": 270.15,
+            "description": "optimize B2B portals",
+            "quantity": 4.27,
+            "unit_price": 17.83,
+            "vat_amount": 2.42
+        },
+        {
+            "amount": 290.24,
+            "description": "brand world-class e-commerce",
+            "quantity": 1.47,
+            "unit_price": 54.39,
+            "vat_amount": 1.13
+        },
+        {
+            "amount": 86.2,
+            "description": "architect robust supply-chains",
+            "quantity": 5.57,
+            "unit_price": 14.26,
+            "vat_amount": 5.62
+        },
+        {
+            "amount": 334.21,
+            "description": "orchestrate interactive e-commerce",
+            "quantity": 4.73,
+            "unit_price": 59.97,
+            "vat_amount": 1.64
+        },
+        {
+            "amount": 73.72,
+            "description": "envisioneer revolutionary convergence",
+            "quantity": 6.91,
+            "unit_price": 36.72,
+            "vat_amount": 6.3
+        }
+    ],
+    "seller": {
+        "address": "270 Powell Green Suite 019 Westburgh, MN 32541"
+    },
+    "tax": {
+        "amount_excluding_tax": 35.83,
+        "amount_including_tax": 177.27,
+        "tax_amount": 28.49
+    }
+}

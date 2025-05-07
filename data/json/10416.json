@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "9393 Flores Branch Suite 935 Mccartybury, UT 08278",
+        "email": "patriciajackson@example.com",
+        "phone": "457.689.0273x61880",
+        "vat_no": "kI15084121744"
+    },
+    "invoice": {
+        "date": "17.03.2010",
+        "due_date": "20.10.2023",
+        "market_reference": 131210,
+        "notes": "facilitate interactive platforms",
+        "number": "2223-0061",
+        "reference": 965866,
+        "vat_no": "JO38183926171"
+    },
+    "payment": {
+        "net_total": 91.11,
+        "total": 152.12
+    },
+    "products": [
+        {
+            "amount": 462.79,
+            "description": "e-enable 24/365 metrics",
+            "hours": 7.91,
+            "rate": 6.22
+        },
+        {
+            "amount": 28.13,
+            "description": "architect best-of-breed methodologies",
+            "hours": 8.23,
+            "rate": 4.56
+        }
+    ],
+    "seller": {
+        "address": "1186 Mosley Harbors Johnsonport, VA 10126",
+        "email": "ericdavis@example.org",
+        "name": "Michelle Payne"
+    },
+    "tax": {
+        "base": 17.47,
+        "tax_amount": 24.14,
+        "total_tax": 17.51
+    }
+}

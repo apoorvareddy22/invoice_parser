@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "07890 Kaitlyn Bridge Wardside, AZ 40068",
+        "email": "amber33@example.com",
+        "phone": "798-908-0510",
+        "vat_no": "Yc25174697291"
+    },
+    "invoice": {
+        "date": "19.09.1993",
+        "due_date": "06.06.2013",
+        "market_reference": 955429,
+        "notes": "streamline strategic applications",
+        "number": "1535-7483",
+        "reference": 931829,
+        "vat_no": "Qq96419970959"
+    },
+    "payment": {
+        "net_total": 172.23,
+        "total": 422.82
+    },
+    "products": [
+        {
+            "amount": 152.79,
+            "description": "engage scalable methodologies",
+            "hours": 6.09,
+            "rate": 6.64
+        },
+        {
+            "amount": 348.3,
+            "description": "deliver viral web services",
+            "hours": 2.0,
+            "rate": 7.94
+        },
+        {
+            "amount": 213.44,
+            "description": "exploit cross-platform e-tailers",
+            "hours": 5.46,
+            "rate": 6.31
+        },
+        {
+            "amount": 493.61,
+            "description": "whiteboard revolutionary models",
+            "hours": 3.25,
+            "rate": 4.59
+        },
+        {
+            "amount": 493.55,
+            "description": "reinvent 24/7 markets",
+            "hours": 7.08,
+            "rate": 3.93
+        }
+    ],
+    "seller": {
+        "address": "PSC 2224, Box 0216 APO AA 51930",
+        "email": "coryjones@example.com",
+        "name": "Kenneth Romero"
+    },
+    "tax": {
+        "base": 23.76,
+        "tax_amount": 23.7,
+        "total_tax": 11.68
+    }
+}

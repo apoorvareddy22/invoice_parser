@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "PSC 5157, Box 5290 APO AA 28959"
+    },
+    "invoice": {
+        "bc_no": "kL58671",
+        "date": "22.02.2019",
+        "maturity_date": "08.07.1990",
+        "number": 615869
+    },
+    "products": [
+        {
+            "amount": 243.25,
+            "description": "cultivate real-time applications",
+            "quantity": 9.11,
+            "unit_price": 26.43,
+            "vat_amount": 1.03
+        },
+        {
+            "amount": 92.36,
+            "description": "empower frictionless schemas",
+            "quantity": 5.54,
+            "unit_price": 80.25,
+            "vat_amount": 14.06
+        },
+        {
+            "amount": 58.1,
+            "description": "extend web-enabled experiences",
+            "quantity": 5.67,
+            "unit_price": 94.42,
+            "vat_amount": 1.41
+        },
+        {
+            "amount": 496.33,
+            "description": "iterate vertical web services",
+            "quantity": 4.41,
+            "unit_price": 97.96,
+            "vat_amount": 2.74
+        }
+    ],
+    "seller": {
+        "address": "0017 Diaz Points South Amy, KY 48013"
+    },
+    "tax": {
+        "amount_excluding_tax": 93.36,
+        "amount_including_tax": 37.36,
+        "tax_amount": 16.03
+    }
+}

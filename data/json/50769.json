@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "PSC 1429, Box 0908 APO AE 78127",
+        "id": "NS314"
+    },
+    "invoice": {
+        "bc_no": "nH38855",
+        "currency_code": "BAM",
+        "date": "13.02.2003",
+        "due_date": "25.01.1990",
+        "number": 695238
+    },
+    "payment": {
+        "bank_name": "Moore Group",
+        "bic": "PMFXGBKSGGT",
+        "iban": "ZTNI66996029293566"
+    },
+    "products": [
+        {
+            "amount": 145.58,
+            "description": "scale rich technologies",
+            "index": "9",
+            "price": 86.68,
+            "quantity": 9.76,
+            "tax_amount": 41.18,
+            "total_ttc": 197.46,
+            "vat_amount": 1.49
+        },
+        {
+            "amount": 463.45,
+            "description": "redefine global models",
+            "index": "6",
+            "price": 84.09,
+            "quantity": 8.94,
+            "tax_amount": 63.07,
+            "total_ttc": 437.04,
+            "vat_amount": 6.94
+        },
+        {
+            "amount": 125.04,
+            "description": "grow value-added initiatives",
+            "index": "9",
+            "price": 194.03,
+            "quantity": 6.38,
+            "tax_amount": 80.6,
+            "total_ttc": 310.97,
+            "vat_amount": 5.89
+        },
+        {
+            "amount": 238.59,
+            "description": "streamline integrated eyeballs",
+            "index": "2",
+            "price": 31.97,
+            "quantity": 8.65,
+            "tax_amount": 38.67,
+            "total_ttc": 157.24,
+            "vat_amount": 3.09
+        },
+        {
+            "amount": 110.37,
+            "description": "benchmark best-of-breed functionalities",
+            "index": "2",
+            "price": 306.79,
+            "quantity": 8.4,
+            "tax_amount": 90.25,
+            "total_ttc": 389.67,
+            "vat_amount": 1.22
+        }
+    ],
+    "seller": {
+        "name": "David Cochran"
+    },
+    "supplier": {
+        "address": "6044 Willis Manor West Denisehaven, MO 79658",
+        "name": "Tara Clark"
+    },
+    "tax": {
+        "amount_excluding_tax": 177.73,
+        "amount_including_tax": 53.27,
+        "tax_amount": 28.31,
+        "total_ht": 442.79,
+        "total_ttc": 127.78
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "209 Conrad Alley Apt. 862 New Joe, LA 34841",
+        "id": "jn202"
+    },
+    "invoice": {
+        "bc_no": "Na04254",
+        "currency_code": "INR",
+        "date": "02.06.2003",
+        "due_date": "04.09.2013",
+        "number": 343487
+    },
+    "payment": {
+        "bank_name": "Patterson-Hoover",
+        "bic": "CONJGB88JNY",
+        "iban": "EELT25286371054988"
+    },
+    "products": [
+        {
+            "amount": 324.05,
+            "description": "leverage next-generation e-tailers",
+            "index": "2",
+            "price": 430.19,
+            "quantity": 8.21,
+            "tax_amount": 67.93,
+            "total_ttc": 301.5,
+            "vat_amount": 4.63
+        }
+    ],
+    "seller": {
+        "name": "Amy Kelly"
+    },
+    "supplier": {
+        "address": "3132 Wilson Fall Apt. 960 Melanietown, WA 57093",
+        "name": "Brianna Wagner"
+    },
+    "tax": {
+        "amount_excluding_tax": 189.51,
+        "amount_including_tax": 168.03,
+        "tax_amount": 29.68,
+        "total_ht": 405.23,
+        "total_ttc": 339.55
+    }
+}

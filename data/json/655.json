@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "4051 Payne Springs Apt. 003 Lake Daniel, MA 88403",
+        "company_name": "Harvey and Sons",
+        "country": "Guyana",
+        "name": "Emily Greene"
+    },
+    "invoice": {
+        "date": "21.12.1994",
+        "number": 213181
+    },
+    "payment": {
+        "discount_amount": 21.71,
+        "discount_percentage": 17.39,
+        "due": 42.23,
+        "sub_total": 20.01,
+        "total": 469.65
+    },
+    "products": [
+        {
+            "description": "whiteboard value-added interfaces",
+            "index": "8",
+            "quantity": 4.52,
+            "total_price": 262.08,
+            "unit_price": 97.55
+        },
+        {
+            "description": "embrace strategic channels",
+            "index": "10",
+            "quantity": 7.44,
+            "total_price": 832.81,
+            "unit_price": 36.35
+        },
+        {
+            "description": "target cross-platform infrastructures",
+            "index": "2",
+            "quantity": 8.84,
+            "total_price": 205.73,
+            "unit_price": 70.96
+        }
+    ],
+    "seller": {
+        "address": "43594 Cochran Course Suite 738 North Johnburgh, CT 11368",
+        "company_name": "Wood, Huber and Mccoy",
+        "vat_no": "jR84766903536"
+    }
+}

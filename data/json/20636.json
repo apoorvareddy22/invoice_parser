@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "Unit 7949 Box 6196 DPO AE 41153",
+        "company_name": "Romero Inc",
+        "email": "jespinoza@example.org",
+        "name": "Timothy Macdonald",
+        "phone": "831-349-8748x869"
+    },
+    "invoice": {
+        "date": "06.05.2008",
+        "due_date": "01.04.2003",
+        "number": "Lby88527585900"
+    },
+    "payment": {
+        "account_number": 7394291296,
+        "bank_name": "Sullivan-Payne",
+        "routing_number": 142742706
+    },
+    "products": [
+        {
+            "amount": 25.56,
+            "description": "matrix collaborative technologies",
+            "index": "7",
+            "quantity": 9.65,
+            "unit_price": 14.29
+        }
+    ],
+    "seller": {
+        "address": "158 Michael Cape Suite 181 North Brandonstad, MT 50708",
+        "company_name": "Sanchez Inc",
+        "email": "lward@example.com"
+    }
+}

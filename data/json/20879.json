@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "1902 Smith Port Apt. 626 North Christopher, KY 41864",
+        "company_name": "Thomas LLC",
+        "email": "marychambers@example.net",
+        "name": "Mark Hutchinson",
+        "phone": "9668339601"
+    },
+    "invoice": {
+        "date": "28.11.1994",
+        "due_date": "26.02.2010",
+        "number": "sMu36956292443"
+    },
+    "payment": {
+        "account_number": 7884123772,
+        "bank_name": "Hubbard and Sons",
+        "routing_number": 813684745
+    },
+    "products": [
+        {
+            "amount": 327.85,
+            "description": "innovate B2C synergies",
+            "index": "3",
+            "quantity": 5.27,
+            "unit_price": 87.84
+        },
+        {
+            "amount": 354.61,
+            "description": "drive cross-platform supply-chains",
+            "index": "10",
+            "quantity": 9.68,
+            "unit_price": 35.89
+        }
+    ],
+    "seller": {
+        "address": "297 Julie Flat Suite 832 Ginachester, IA 17831",
+        "company_name": "Malone LLC",
+        "email": "douglasdebbie@example.org"
+    }
+}

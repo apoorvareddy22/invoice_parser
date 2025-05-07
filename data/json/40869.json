@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "Unit 0482 Box 5703 DPO AP 50689"
+    },
+    "invoice": {
+        "bc_no": "Zq80623",
+        "date": "16.02.2022",
+        "maturity_date": "05.03.1997",
+        "number": 608836
+    },
+    "products": [
+        {
+            "amount": 112.45,
+            "description": "engineer enterprise eyeballs",
+            "quantity": 2.42,
+            "unit_price": 47.15,
+            "vat_amount": 5.97
+        }
+    ],
+    "seller": {
+        "address": "07215 West Dale East Michaelside, VT 49773"
+    },
+    "tax": {
+        "amount_excluding_tax": 167.31,
+        "amount_including_tax": 38.65,
+        "tax_amount": 12.97
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "87720 Bates Plaza Suite 436 Mirandahaven, VA 86707"
+    },
+    "invoice": {
+        "bc_no": "PY85412",
+        "date": "23.04.2008",
+        "maturity_date": "20.04.2007",
+        "number": 294367
+    },
+    "products": [
+        {
+            "amount": 478.46,
+            "description": "productize 24/365 functionalities",
+            "quantity": 7.19,
+            "unit_price": 93.71,
+            "vat_amount": 5.13
+        },
+        {
+            "amount": 102.47,
+            "description": "matrix virtual functionalities",
+            "quantity": 7.91,
+            "unit_price": 58.19,
+            "vat_amount": 5.16
+        },
+        {
+            "amount": 232.69,
+            "description": "synergize innovative interfaces",
+            "quantity": 7.79,
+            "unit_price": 60.71,
+            "vat_amount": 8.66
+        },
+        {
+            "amount": 458.93,
+            "description": "generate virtual info-mediaries",
+            "quantity": 1.86,
+            "unit_price": 94.62,
+            "vat_amount": 3.68
+        }
+    ],
+    "seller": {
+        "address": "89324 Charles Inlet Suite 777 North Erik, NC 18409"
+    },
+    "tax": {
+        "amount_excluding_tax": 199.06,
+        "amount_including_tax": 10.13,
+        "tax_amount": 29.06
+    }
+}

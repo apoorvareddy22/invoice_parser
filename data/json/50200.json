@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "39545 Bonnie Meadow Suite 533 Housebury, CT 45455",
+        "id": "Al269"
+    },
+    "invoice": {
+        "bc_no": "ot58571",
+        "currency_code": "KPW",
+        "date": "03.07.2015",
+        "due_date": "04.07.2000",
+        "number": 544110
+    },
+    "payment": {
+        "bank_name": "Simon, Thompson and Wilson",
+        "bic": "NUUUGBO4",
+        "iban": "MGSV71707258055849"
+    },
+    "products": [
+        {
+            "amount": 256.83,
+            "description": "disintermediate 24/365 paradigms",
+            "index": "2",
+            "price": 169.77,
+            "quantity": 6.01,
+            "tax_amount": 30.73,
+            "total_ttc": 154.33,
+            "vat_amount": 1.68
+        },
+        {
+            "amount": 55.38,
+            "description": "disintermediate interactive e-markets",
+            "index": "3",
+            "price": 54.33,
+            "quantity": 6.14,
+            "tax_amount": 88.59,
+            "total_ttc": 480.89,
+            "vat_amount": 9.29
+        },
+        {
+            "amount": 235.14,
+            "description": "mesh clicks-and-mortar web services",
+            "index": "9",
+            "price": 480.53,
+            "quantity": 1.83,
+            "tax_amount": 88.31,
+            "total_ttc": 185.26,
+            "vat_amount": 3.37
+        },
+        {
+            "amount": 384.31,
+            "description": "maximize user-centric eyeballs",
+            "index": "7",
+            "price": 453.6,
+            "quantity": 4.68,
+            "tax_amount": 85.55,
+            "total_ttc": 459.97,
+            "vat_amount": 10.5
+        },
+        {
+            "amount": 8.77,
+            "description": "transform visionary technologies",
+            "index": "2",
+            "price": 47.11,
+            "quantity": 2.81,
+            "tax_amount": 55.02,
+            "total_ttc": 414.98,
+            "vat_amount": 1.98
+        }
+    ],
+    "seller": {
+        "name": "Charles Owen"
+    },
+    "supplier": {
+        "address": "234 Thompson Station Suite 039 East Matthewton, ND 28715",
+        "name": "Joseph Barnett"
+    },
+    "tax": {
+        "amount_excluding_tax": 78.84,
+        "amount_including_tax": 136.37,
+        "tax_amount": 29.98,
+        "total_ht": 361.38,
+        "total_ttc": 146.43
+    }
+}

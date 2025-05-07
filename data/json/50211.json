@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "USNS Carter FPO AA 90576",
+        "id": "fN442"
+    },
+    "invoice": {
+        "bc_no": "xc72289",
+        "currency_code": "PHP",
+        "date": "29.04.2007",
+        "due_date": "06.03.2011",
+        "number": 393963
+    },
+    "payment": {
+        "bank_name": "Lambert, Hines and Fox",
+        "bic": "PFELGBC3AL3",
+        "iban": "ICGK00221324634290"
+    },
+    "products": [
+        {
+            "amount": 455.08,
+            "description": "aggregate holistic solutions",
+            "index": "3",
+            "price": 57.43,
+            "quantity": 1.37,
+            "tax_amount": 37.39,
+            "total_ttc": 443.98,
+            "vat_amount": 3.33
+        },
+        {
+            "amount": 218.4,
+            "description": "integrate granular e-markets",
+            "index": "6",
+            "price": 392.94,
+            "quantity": 9.24,
+            "tax_amount": 59.43,
+            "total_ttc": 308.98,
+            "vat_amount": 0.43
+        },
+        {
+            "amount": 478.31,
+            "description": "incubate back-end bandwidth",
+            "index": "3",
+            "price": 498.07,
+            "quantity": 2.04,
+            "tax_amount": 87.96,
+            "total_ttc": 456.22,
+            "vat_amount": 11.03
+        },
+        {
+            "amount": 463.34,
+            "description": "disintermediate frictionless applications",
+            "index": "9",
+            "price": 234.56,
+            "quantity": 6.78,
+            "tax_amount": 77.33,
+            "total_ttc": 383.99,
+            "vat_amount": 8.64
+        }
+    ],
+    "seller": {
+        "name": "Kelly Wyatt"
+    },
+    "supplier": {
+        "address": "5709 Robert Islands Apt. 747 Stacytown, NC 39392",
+        "name": "Taylor Moore"
+    },
+    "tax": {
+        "amount_excluding_tax": 103.34,
+        "amount_including_tax": 174.62,
+        "tax_amount": 28.89,
+        "total_ht": 317.07,
+        "total_ttc": 382.78
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "8016 Joseph Stream Suite 462 New Sarah, ND 81241",
+        "id": "Ny148"
+    },
+    "invoice": {
+        "bc_no": "ht62964",
+        "currency_code": "BTN",
+        "date": "28.12.1990",
+        "due_date": "21.10.1999",
+        "number": 175075
+    },
+    "payment": {
+        "bank_name": "Smith, Martinez and Morgan",
+        "bic": "ZJJJGB60",
+        "iban": "SRRJ27239483350947"
+    },
+    "products": [
+        {
+            "amount": 137.83,
+            "description": "e-enable bleeding-edge markets",
+            "index": "10",
+            "price": 45.64,
+            "quantity": 9.68,
+            "tax_amount": 68.59,
+            "total_ttc": 323.46,
+            "vat_amount": 4.95
+        },
+        {
+            "amount": 336.86,
+            "description": "aggregate end-to-end convergence",
+            "index": "10",
+            "price": 495.09,
+            "quantity": 9.17,
+            "tax_amount": 80.06,
+            "total_ttc": 383.5,
+            "vat_amount": 1.63
+        },
+        {
+            "amount": 202.58,
+            "description": "embrace killer architectures",
+            "index": "6",
+            "price": 234.58,
+            "quantity": 9.39,
+            "tax_amount": 39.28,
+            "total_ttc": 257.71,
+            "vat_amount": 12.98
+        }
+    ],
+    "seller": {
+        "name": "Joshua Black"
+    },
+    "supplier": {
+        "address": "967 White Hills Lake Johnberg, ID 83571",
+        "name": "Felicia Owen"
+    },
+    "tax": {
+        "amount_excluding_tax": 95.44,
+        "amount_including_tax": 73.01,
+        "tax_amount": 15.43,
+        "total_ht": 334.47,
+        "total_ttc": 496.23
+    }
+}

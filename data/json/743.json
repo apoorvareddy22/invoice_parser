@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "1035 Tiffany Terrace Suite 557 Churchborough, RI 46854",
+        "company_name": "Harris PLC",
+        "country": "Djibouti",
+        "name": "Karen Hoffman"
+    },
+    "invoice": {
+        "date": "27.04.2011",
+        "number": 828943
+    },
+    "payment": {
+        "discount_amount": 46.72,
+        "discount_percentage": 15.74,
+        "due": 90.06,
+        "sub_total": 199.39,
+        "total": 783.73
+    },
+    "products": [
+        {
+            "description": "engineer next-generation infrastructures",
+            "index": "2",
+            "quantity": 8.96,
+            "total_price": 976.67,
+            "unit_price": 27.54
+        },
+        {
+            "description": "maximize global systems",
+            "index": "6",
+            "quantity": 4.5,
+            "total_price": 56.56,
+            "unit_price": 87.83
+        }
+    ],
+    "seller": {
+        "address": "50513 John Trace Suite 677 Port Renee, IL 35725",
+        "company_name": "Campbell-Rios",
+        "vat_no": "uH02469314174"
+    }
+}

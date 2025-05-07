@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "31018 Richard Green Suite 302 New Robertmouth, OR 03626",
+        "business_no": "ZM722",
+        "id": "GP860"
+    },
+    "invoice": {
+        "date": "13.02.2022",
+        "number": "3711-4050"
+    },
+    "payment": {
+        "due_date": "22.06.2006",
+        "total": 506.61
+    },
+    "products": [
+        {
+            "amount": 339.35,
+            "description": "incentivize interactive architectures",
+            "quantity": 9.52,
+            "reference": "ue-095",
+            "unit_price": 31.47
+        },
+        {
+            "amount": 395.61,
+            "description": "morph wireless networks",
+            "quantity": 9.45,
+            "reference": "rs-912",
+            "unit_price": 86.24
+        }
+    ],
+    "seller": {
+        "address": "77798 Andrea Greens Port Brandon, DE 54843"
+    },
+    "tax": {
+        "base_ht": 140.01,
+        "regulations": 21.58,
+        "total_ht": 471.31,
+        "vat_amount": 185.68,
+        "vat_percentage": 21.25
+    }
+}

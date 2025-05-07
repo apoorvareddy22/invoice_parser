@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "984 Sara Oval Apt. 531 South Gabrielle, NC 46350"
+    },
+    "invoice": {
+        "bc_no": "QX38828",
+        "date": "10.07.2011",
+        "maturity_date": "18.06.2023",
+        "number": 495956
+    },
+    "products": [
+        {
+            "amount": 398.02,
+            "description": "deliver efficient markets",
+            "quantity": 5.44,
+            "unit_price": 55.18,
+            "vat_amount": 13.7
+        },
+        {
+            "amount": 125.0,
+            "description": "innovate e-business functionalities",
+            "quantity": 9.68,
+            "unit_price": 73.29,
+            "vat_amount": 3.37
+        },
+        {
+            "amount": 420.06,
+            "description": "revolutionize B2B synergies",
+            "quantity": 9.84,
+            "unit_price": 97.32,
+            "vat_amount": 7.39
+        }
+    ],
+    "seller": {
+        "address": "411 Calderon Walk West Davidburgh, TX 01383"
+    },
+    "tax": {
+        "amount_excluding_tax": 70.93,
+        "amount_including_tax": 31.79,
+        "tax_amount": 26.72
+    }
+}

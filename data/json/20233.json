@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "9165 Anthony Manors Suite 853 Lake Dawn, IN 46991",
+        "company_name": "Meyers LLC",
+        "email": "bennettbreanna@example.org",
+        "name": "Thomas Daniel",
+        "phone": "335-303-0251x654"
+    },
+    "invoice": {
+        "date": "08.12.2002",
+        "due_date": "21.01.2023",
+        "number": "zhc37008083344"
+    },
+    "payment": {
+        "account_number": 3663581366,
+        "bank_name": "Johnson-Collins",
+        "routing_number": 690747965
+    },
+    "products": [
+        {
+            "amount": 325.0,
+            "description": "maximize sticky interfaces",
+            "index": "4",
+            "quantity": 5.38,
+            "unit_price": 96.87
+        },
+        {
+            "amount": 328.22,
+            "description": "envisioneer viral web-readiness",
+            "index": "5",
+            "quantity": 1.75,
+            "unit_price": 86.93
+        },
+        {
+            "amount": 71.0,
+            "description": "orchestrate end-to-end content",
+            "index": "4",
+            "quantity": 2.73,
+            "unit_price": 97.21
+        },
+        {
+            "amount": 132.61,
+            "description": "engineer turn-key web-readiness",
+            "index": "5",
+            "quantity": 7.36,
+            "unit_price": 77.97
+        }
+    ],
+    "seller": {
+        "address": "779 Kristen Plaza Apt. 117 New Jill, WA 88172",
+        "company_name": "Lynch-Green",
+        "email": "mcdanielalexandra@example.org"
+    }
+}

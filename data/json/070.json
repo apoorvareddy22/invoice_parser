@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "9454 Wendy Landing Rachaelfurt, VI 58353",
+        "company_name": "Lee Inc",
+        "country": "Chad",
+        "name": "Aaron Miller"
+    },
+    "invoice": {
+        "date": "10.07.2020",
+        "number": 894405
+    },
+    "payment": {
+        "discount_amount": 28.59,
+        "discount_percentage": 7.43,
+        "due": 46.22,
+        "sub_total": 150.07,
+        "total": 516.27
+    },
+    "products": [
+        {
+            "description": "incubate holistic e-services",
+            "index": "7",
+            "quantity": 1.9,
+            "total_price": 470.85,
+            "unit_price": 65.45
+        }
+    ],
+    "seller": {
+        "address": "PSC 7127, Box 4765 APO AA 20604",
+        "company_name": "Robbins LLC",
+        "vat_no": "PC04795925931"
+    }
+}

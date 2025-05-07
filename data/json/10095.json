@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "4885 Turner Lane Suite 359 Lake Josephberg, OK 05068",
+        "email": "joannaallen@example.org",
+        "phone": "654-855-5853x25805",
+        "vat_no": "JU18820678721"
+    },
+    "invoice": {
+        "date": "26.01.2004",
+        "due_date": "08.01.2015",
+        "market_reference": 575577,
+        "notes": "brand revolutionary niches",
+        "number": "8893-0790",
+        "reference": 806802,
+        "vat_no": "ch08991429024"
+    },
+    "payment": {
+        "net_total": 171.43,
+        "total": 183.5
+    },
+    "products": [
+        {
+            "amount": 157.06,
+            "description": "re-intermediate transparent e-business",
+            "hours": 3.19,
+            "rate": 4.06
+        },
+        {
+            "amount": 96.79,
+            "description": "revolutionize 24/365 portals",
+            "hours": 1.68,
+            "rate": 4.48
+        }
+    ],
+    "seller": {
+        "address": "PSC 0835, Box 6617 APO AA 33288",
+        "email": "danielle76@example.com",
+        "name": "Marissa Glover"
+    },
+    "tax": {
+        "base": 23.4,
+        "tax_amount": 26.0,
+        "total_tax": 27.34
+    }
+}

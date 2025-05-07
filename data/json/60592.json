@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "Unit 2384 Box 1044 DPO AE 60348",
+        "business_no": "Cs740",
+        "id": "vc647"
+    },
+    "invoice": {
+        "date": "03.07.2008",
+        "number": "3674-4238"
+    },
+    "payment": {
+        "due_date": "21.09.2008",
+        "total": 705.86
+    },
+    "products": [
+        {
+            "amount": 98.69,
+            "description": "cultivate end-to-end action-items",
+            "quantity": 1.2,
+            "reference": "KD-699",
+            "unit_price": 21.8
+        },
+        {
+            "amount": 353.29,
+            "description": "optimize dynamic systems",
+            "quantity": 3.02,
+            "reference": "pa-140",
+            "unit_price": 79.14
+        }
+    ],
+    "seller": {
+        "address": "1844 Samantha Drives Schultztown, CT 72481"
+    },
+    "tax": {
+        "base_ht": 251.41,
+        "regulations": 10.19,
+        "total_ht": 424.05,
+        "vat_amount": 70.68,
+        "vat_percentage": 25.14
+    }
+}

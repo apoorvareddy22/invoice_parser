@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "8111 Montoya Heights Suite 054 Walkerton, MT 89174",
+        "company_name": "Koch LLC",
+        "email": "gkidd@example.org",
+        "name": "Paula Henson",
+        "phone": "(546)974-1168x78597"
+    },
+    "invoice": {
+        "date": "05.07.2020",
+        "due_date": "11.01.2022",
+        "number": "vZI47566107541"
+    },
+    "payment": {
+        "account_number": 8325635182,
+        "bank_name": "Harris, Valencia and Wright",
+        "routing_number": 268380766
+    },
+    "products": [
+        {
+            "amount": 354.66,
+            "description": "morph turn-key schemas",
+            "index": "9",
+            "quantity": 9.2,
+            "unit_price": 32.23
+        }
+    ],
+    "seller": {
+        "address": "25125 Holland Fall Suite 534 Kimberlyview, VT 10590",
+        "company_name": "Rose-Lopez",
+        "email": "shawstephanie@example.org"
+    }
+}

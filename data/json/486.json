@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "6360 Abigail Inlet Apt. 738 Steventon, MP 48347",
+        "company_name": "Klein PLC",
+        "country": "Greece",
+        "name": "Vincent Edwards"
+    },
+    "invoice": {
+        "date": "03.03.2017",
+        "number": 358003
+    },
+    "payment": {
+        "discount_amount": 15.29,
+        "discount_percentage": 7.08,
+        "due": 62.59,
+        "sub_total": 125.2,
+        "total": 725.06
+    },
+    "products": [
+        {
+            "description": "orchestrate extensible markets",
+            "index": "4",
+            "quantity": 5.39,
+            "total_price": 797.07,
+            "unit_price": 39.83
+        },
+        {
+            "description": "facilitate sticky action-items",
+            "index": "9",
+            "quantity": 2.89,
+            "total_price": 883.24,
+            "unit_price": 39.58
+        },
+        {
+            "description": "re-contextualize robust content",
+            "index": "1",
+            "quantity": 3.49,
+            "total_price": 337.73,
+            "unit_price": 14.15
+        },
+        {
+            "description": "iterate B2C vortals",
+            "index": "7",
+            "quantity": 3.69,
+            "total_price": 470.42,
+            "unit_price": 31.14
+        }
+    ],
+    "seller": {
+        "address": "USNV Williams FPO AA 63432",
+        "company_name": "Collins-Grant",
+        "vat_no": "iT68270245070"
+    }
+}

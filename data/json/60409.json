@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "64021 Harrison Ville East Richard, AL 12517",
+        "business_no": "VK300",
+        "id": "iV201"
+    },
+    "invoice": {
+        "date": "21.01.2019",
+        "number": "8103-3709"
+    },
+    "payment": {
+        "due_date": "29.05.2018",
+        "total": 234.1
+    },
+    "products": [
+        {
+            "amount": 282.08,
+            "description": "re-intermediate wireless e-tailers",
+            "quantity": 4.67,
+            "reference": "rs-788",
+            "unit_price": 15.1
+        },
+        {
+            "amount": 133.95,
+            "description": "expedite real-time relationships",
+            "quantity": 3.06,
+            "reference": "wg-980",
+            "unit_price": 18.79
+        }
+    ],
+    "seller": {
+        "address": "801 Walter Vista New Toddstad, AL 77199"
+    },
+    "tax": {
+        "base_ht": 115.73,
+        "regulations": 12.44,
+        "total_ht": 103.69,
+        "vat_amount": 196.93,
+        "vat_percentage": 26.03
+    }
+}

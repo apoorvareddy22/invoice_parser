@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "538 Schultz Lane Apt. 710 South Erikaview, AS 92946",
+        "email": "kmalone@example.net",
+        "phone": "7092599799",
+        "vat_no": "GD60308074268"
+    },
+    "invoice": {
+        "date": "21.11.2012",
+        "due_date": "29.01.1993",
+        "market_reference": 324719,
+        "notes": "strategize collaborative e-business",
+        "number": "3008-7601",
+        "reference": 181910,
+        "vat_no": "yw39581713597"
+    },
+    "payment": {
+        "net_total": 146.1,
+        "total": 134.28
+    },
+    "products": [
+        {
+            "amount": 213.13,
+            "description": "target distributed eyeballs",
+            "hours": 2.11,
+            "rate": 4.28
+        },
+        {
+            "amount": 135.86,
+            "description": "re-contextualize back-end interfaces",
+            "hours": 7.58,
+            "rate": 1.22
+        },
+        {
+            "amount": 297.91,
+            "description": "disintermediate seamless schemas",
+            "hours": 8.59,
+            "rate": 7.0
+        },
+        {
+            "amount": 30.26,
+            "description": "integrate dynamic partnerships",
+            "hours": 9.49,
+            "rate": 1.3
+        },
+        {
+            "amount": 32.94,
+            "description": "expedite innovative platforms",
+            "hours": 8.1,
+            "rate": 2.77
+        },
+        {
+            "amount": 115.36,
+            "description": "benchmark e-business experiences",
+            "hours": 4.03,
+            "rate": 4.13
+        }
+    ],
+    "seller": {
+        "address": "003 Miller Field Brandontown, ME 71323",
+        "email": "joshua45@example.net",
+        "name": "Kaitlin Myers"
+    },
+    "tax": {
+        "base": 11.84,
+        "tax_amount": 23.87,
+        "total_tax": 17.59
+    }
+}

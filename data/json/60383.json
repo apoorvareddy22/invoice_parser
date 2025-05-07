@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "43672 Lori Forges Suite 527 New Raymond, AR 95731",
+        "business_no": "wZ629",
+        "id": "yG135"
+    },
+    "invoice": {
+        "date": "28.08.1995",
+        "number": "8458-7843"
+    },
+    "payment": {
+        "due_date": "20.06.2014",
+        "total": 168.98
+    },
+    "products": [
+        {
+            "amount": 98.38,
+            "description": "brand collaborative interfaces",
+            "quantity": 2.22,
+            "reference": "uy-474",
+            "unit_price": 42.18
+        },
+        {
+            "amount": 90.89,
+            "description": "engage bleeding-edge architectures",
+            "quantity": 7.57,
+            "reference": "dF-427",
+            "unit_price": 94.28
+        },
+        {
+            "amount": 359.02,
+            "description": "incentivize 24/365 methodologies",
+            "quantity": 6.25,
+            "reference": "eS-046",
+            "unit_price": 54.51
+        }
+    ],
+    "seller": {
+        "address": "2205 Evans Extension Schultzton, OK 52328"
+    },
+    "tax": {
+        "base_ht": 306.01,
+        "regulations": 24.06,
+        "total_ht": 215.73,
+        "vat_amount": 156.27,
+        "vat_percentage": 27.87
+    }
+}

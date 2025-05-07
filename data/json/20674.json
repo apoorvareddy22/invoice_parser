@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "PSC 3013, Box 8009 APO AP 66147",
+        "company_name": "Barry Inc",
+        "email": "stephensnow@example.com",
+        "name": "Charles Wang",
+        "phone": "001-798-381-6339x646"
+    },
+    "invoice": {
+        "date": "17.10.2008",
+        "due_date": "03.11.1990",
+        "number": "zcn86871848417"
+    },
+    "payment": {
+        "account_number": 3595032692,
+        "bank_name": "Davis, Bond and Hines",
+        "routing_number": 390257928
+    },
+    "products": [
+        {
+            "amount": 262.84,
+            "description": "drive strategic applications",
+            "index": "8",
+            "quantity": 1.08,
+            "unit_price": 71.24
+        },
+        {
+            "amount": 486.24,
+            "description": "e-enable vertical platforms",
+            "index": "1",
+            "quantity": 8.89,
+            "unit_price": 61.71
+        },
+        {
+            "amount": 165.82,
+            "description": "architect strategic mindshare",
+            "index": "7",
+            "quantity": 5.23,
+            "unit_price": 66.82
+        }
+    ],
+    "seller": {
+        "address": "114 Jason Vista East Danielle, WA 03085",
+        "company_name": "Jones, Wilkerson and Pope",
+        "email": "fpowers@example.net"
+    }
+}

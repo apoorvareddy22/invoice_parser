@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "5245 Moore Key Toddburgh, NC 70658",
+        "id": "MV543"
+    },
+    "invoice": {
+        "bc_no": "WD82195",
+        "currency_code": "MUR",
+        "date": "02.04.2020",
+        "due_date": "10.04.2000",
+        "number": 988773
+    },
+    "payment": {
+        "bank_name": "Mcbride-Carey",
+        "bic": "HAASGBN2K8B",
+        "iban": "RRAX03000207833395"
+    },
+    "products": [
+        {
+            "amount": 235.15,
+            "description": "extend seamless web-readiness",
+            "index": "5",
+            "price": 186.18,
+            "quantity": 3.36,
+            "tax_amount": 20.54,
+            "total_ttc": 170.51,
+            "vat_amount": 0.14
+        },
+        {
+            "amount": 124.84,
+            "description": "orchestrate one-to-one channels",
+            "index": "4",
+            "price": 360.44,
+            "quantity": 3.46,
+            "tax_amount": 98.77,
+            "total_ttc": 217.54,
+            "vat_amount": 4.71
+        },
+        {
+            "amount": 230.06,
+            "description": "empower extensible methodologies",
+            "index": "8",
+            "price": 80.86,
+            "quantity": 4.46,
+            "tax_amount": 54.9,
+            "total_ttc": 413.13,
+            "vat_amount": 7.29
+        },
+        {
+            "amount": 353.03,
+            "description": "enhance plug-and-play action-items",
+            "index": "6",
+            "price": 89.87,
+            "quantity": 9.4,
+            "tax_amount": 80.47,
+            "total_ttc": 230.05,
+            "vat_amount": 0.38
+        }
+    ],
+    "seller": {
+        "name": "Kathy Turner"
+    },
+    "supplier": {
+        "address": "462 Jones Spring Port Meganstad, VI 61250",
+        "name": "Micheal Adams"
+    },
+    "tax": {
+        "amount_excluding_tax": 133.53,
+        "amount_including_tax": 22.36,
+        "tax_amount": 26.67,
+        "total_ht": 258.63,
+        "total_ttc": 318.38
+    }
+}

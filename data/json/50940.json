@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "2988 Robert Common Apt. 683 Pamelaside, DC 74363",
+        "id": "vH946"
+    },
+    "invoice": {
+        "bc_no": "LH85001",
+        "currency_code": "HNL",
+        "date": "18.10.2010",
+        "due_date": "05.05.2001",
+        "number": 977888
+    },
+    "payment": {
+        "bank_name": "Gregory-Hill",
+        "bic": "AJSWGB917C5",
+        "iban": "ZUAD14079685067469"
+    },
+    "products": [
+        {
+            "amount": 277.61,
+            "description": "mesh real-time infrastructures",
+            "index": "10",
+            "price": 390.2,
+            "quantity": 7.46,
+            "tax_amount": 19.53,
+            "total_ttc": 361.92,
+            "vat_amount": 8.6
+        },
+        {
+            "amount": 201.67,
+            "description": "facilitate proactive systems",
+            "index": "8",
+            "price": 487.36,
+            "quantity": 7.23,
+            "tax_amount": 78.29,
+            "total_ttc": 351.33,
+            "vat_amount": 0.83
+        },
+        {
+            "amount": 378.01,
+            "description": "transform holistic eyeballs",
+            "index": "6",
+            "price": 391.43,
+            "quantity": 3.9,
+            "tax_amount": 71.02,
+            "total_ttc": 490.48,
+            "vat_amount": 1.47
+        },
+        {
+            "amount": 61.78,
+            "description": "visualize dot-com architectures",
+            "index": "4",
+            "price": 306.41,
+            "quantity": 2.5,
+            "tax_amount": 30.51,
+            "total_ttc": 305.54,
+            "vat_amount": 0.76
+        },
+        {
+            "amount": 311.14,
+            "description": "reinvent frictionless experiences",
+            "index": "5",
+            "price": 427.69,
+            "quantity": 8.51,
+            "tax_amount": 62.88,
+            "total_ttc": 212.01,
+            "vat_amount": 2.65
+        },
+        {
+            "amount": 82.88,
+            "description": "extend one-to-one technologies",
+            "index": "2",
+            "price": 165.01,
+            "quantity": 3.72,
+            "tax_amount": 85.51,
+            "total_ttc": 374.15,
+            "vat_amount": 5.79
+        }
+    ],
+    "seller": {
+        "name": "Jared Russo"
+    },
+    "supplier": {
+        "address": "33501 James Neck Apt. 873 Port Anthonyland, TX 21038",
+        "name": "Brittany Santos"
+    },
+    "tax": {
+        "amount_excluding_tax": 75.74,
+        "amount_including_tax": 91.25,
+        "tax_amount": 23.39,
+        "total_ht": 200.13,
+        "total_ttc": 213.95
+    }
+}

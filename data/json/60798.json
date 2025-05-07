@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "USCGC Lewis FPO AP 73193",
+        "business_no": "pK885",
+        "id": "qk944"
+    },
+    "invoice": {
+        "date": "26.04.1999",
+        "number": "9487-9430"
+    },
+    "payment": {
+        "due_date": "23.11.1994",
+        "total": 992.54
+    },
+    "products": [
+        {
+            "amount": 456.53,
+            "description": "disintermediate B2B web-readiness",
+            "quantity": 2.46,
+            "reference": "lm-649",
+            "unit_price": 85.63
+        },
+        {
+            "amount": 115.76,
+            "description": "enhance extensible portals",
+            "quantity": 7.6,
+            "reference": "hP-793",
+            "unit_price": 82.72
+        },
+        {
+            "amount": 477.37,
+            "description": "implement end-to-end architectures",
+            "quantity": 5.32,
+            "reference": "EQ-892",
+            "unit_price": 41.55
+        },
+        {
+            "amount": 205.4,
+            "description": "syndicate rich deliverables",
+            "quantity": 6.01,
+            "reference": "vu-554",
+            "unit_price": 69.87
+        },
+        {
+            "amount": 331.11,
+            "description": "implement next-generation systems",
+            "quantity": 5.71,
+            "reference": "Oe-810",
+            "unit_price": 65.66
+        }
+    ],
+    "seller": {
+        "address": "597 Bush Highway Suite 960 Alexandratown, WI 66630"
+    },
+    "tax": {
+        "base_ht": 331.25,
+        "regulations": 25.21,
+        "total_ht": 285.85,
+        "vat_amount": 136.39,
+        "vat_percentage": 26.43
+    }
+}

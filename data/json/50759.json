@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "Unit 1271 Box 8307 DPO AE 25866",
+        "id": "yT724"
+    },
+    "invoice": {
+        "bc_no": "bN37786",
+        "currency_code": "BMD",
+        "date": "03.04.2003",
+        "due_date": "02.08.2018",
+        "number": 178165
+    },
+    "payment": {
+        "bank_name": "Jones PLC",
+        "bic": "JPZUGBVR",
+        "iban": "UICH63043605119274"
+    },
+    "products": [
+        {
+            "amount": 137.59,
+            "description": "streamline B2B web-readiness",
+            "index": "1",
+            "price": 427.88,
+            "quantity": 6.84,
+            "tax_amount": 12.38,
+            "total_ttc": 199.09,
+            "vat_amount": 4.6
+        },
+        {
+            "amount": 197.29,
+            "description": "envisioneer scalable experiences",
+            "index": "3",
+            "price": 479.02,
+            "quantity": 1.03,
+            "tax_amount": 13.23,
+            "total_ttc": 191.62,
+            "vat_amount": 11.66
+        },
+        {
+            "amount": 131.24,
+            "description": "exploit end-to-end ROI",
+            "index": "2",
+            "price": 379.51,
+            "quantity": 9.63,
+            "tax_amount": 86.55,
+            "total_ttc": 269.73,
+            "vat_amount": 14.72
+        },
+        {
+            "amount": 265.32,
+            "description": "integrate sticky supply-chains",
+            "index": "2",
+            "price": 332.6,
+            "quantity": 1.62,
+            "tax_amount": 82.35,
+            "total_ttc": 103.64,
+            "vat_amount": 14.28
+        },
+        {
+            "amount": 198.65,
+            "description": "grow plug-and-play portals",
+            "index": "9",
+            "price": 195.23,
+            "quantity": 8.6,
+            "tax_amount": 77.7,
+            "total_ttc": 149.08,
+            "vat_amount": 3.92
+        }
+    ],
+    "seller": {
+        "name": "Kevin Santana"
+    },
+    "supplier": {
+        "address": "59027 Gregory Cove South Edward, NY 11363",
+        "name": "Carol Blake"
+    },
+    "tax": {
+        "amount_excluding_tax": 187.75,
+        "amount_including_tax": 13.05,
+        "tax_amount": 23.75,
+        "total_ht": 432.12,
+        "total_ttc": 331.07
+    }
+}

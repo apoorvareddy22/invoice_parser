@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "37866 Thomas Forge North Jose, CA 19260",
+        "business_no": "it528",
+        "id": "zm195"
+    },
+    "invoice": {
+        "date": "01.08.1995",
+        "number": "5853-5251"
+    },
+    "payment": {
+        "due_date": "24.11.2014",
+        "total": 550.0
+    },
+    "products": [
+        {
+            "amount": 491.79,
+            "description": "utilize best-of-breed action-items",
+            "quantity": 3.37,
+            "reference": "EJ-710",
+            "unit_price": 21.6
+        }
+    ],
+    "seller": {
+        "address": "31922 Phillip Lodge Suite 094 North Kristinfurt, KY 62337"
+    },
+    "tax": {
+        "base_ht": 355.07,
+        "regulations": 24.72,
+        "total_ht": 344.57,
+        "vat_amount": 144.79,
+        "vat_percentage": 26.46
+    }
+}

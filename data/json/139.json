@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "7802 Ellis Mountains Suite 813 New Angelaside, PA 30467",
+        "company_name": "Cruz-Hayes",
+        "country": "Costa Rica",
+        "name": "Rachel Bauer"
+    },
+    "invoice": {
+        "date": "26.08.2011",
+        "number": 972030
+    },
+    "payment": {
+        "discount_amount": 49.47,
+        "discount_percentage": 6.03,
+        "due": 41.63,
+        "sub_total": 71.83,
+        "total": 241.13
+    },
+    "products": [
+        {
+            "description": "grow B2B systems",
+            "index": "4",
+            "quantity": 4.05,
+            "total_price": 408.31,
+            "unit_price": 51.23
+        },
+        {
+            "description": "matrix 24/7 users",
+            "index": "1",
+            "quantity": 1.86,
+            "total_price": 511.37,
+            "unit_price": 31.42
+        },
+        {
+            "description": "integrate vertical infrastructures",
+            "index": "3",
+            "quantity": 6.24,
+            "total_price": 950.47,
+            "unit_price": 80.35
+        },
+        {
+            "description": "streamline seamless functionalities",
+            "index": "4",
+            "quantity": 2.86,
+            "total_price": 766.12,
+            "unit_price": 62.63
+        },
+        {
+            "description": "expedite vertical schemas",
+            "index": "7",
+            "quantity": 5.27,
+            "total_price": 605.42,
+            "unit_price": 20.06
+        }
+    ],
+    "seller": {
+        "address": "USNS Ellis FPO AA 83448",
+        "company_name": "Griffin, Price and Nguyen",
+        "vat_no": "jX27326190608"
+    }
+}

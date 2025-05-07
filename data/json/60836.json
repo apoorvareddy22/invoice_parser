@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "66011 Zimmerman Oval Apt. 915 South Kimberly, FL 11509",
+        "business_no": "XK152",
+        "id": "oy141"
+    },
+    "invoice": {
+        "date": "11.07.1993",
+        "number": "1102-8657"
+    },
+    "payment": {
+        "due_date": "16.01.2001",
+        "total": 187.36
+    },
+    "products": [
+        {
+            "amount": 396.23,
+            "description": "deploy integrated networks",
+            "quantity": 9.84,
+            "reference": "Ko-304",
+            "unit_price": 14.7
+        }
+    ],
+    "seller": {
+        "address": "2409 Patricia Flats Apt. 042 East Josephfort, GA 48895"
+    },
+    "tax": {
+        "base_ht": 102.18,
+        "regulations": 22.2,
+        "total_ht": 234.49,
+        "vat_amount": 39.17,
+        "vat_percentage": 22.37
+    }
+}

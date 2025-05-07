@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "8034 Tracy Path Johnmouth, NJ 82908",
+        "id": "bc356"
+    },
+    "invoice": {
+        "bc_no": "AD78499",
+        "currency_code": "DKK",
+        "date": "17.11.2016",
+        "due_date": "15.08.2021",
+        "number": 888332
+    },
+    "payment": {
+        "bank_name": "Higgins, Parrish and Bowman",
+        "bic": "LTVQGBTHAXS",
+        "iban": "ZIUS86798765445955"
+    },
+    "products": [
+        {
+            "amount": 150.53,
+            "description": "seize cutting-edge e-markets",
+            "index": "5",
+            "price": 228.56,
+            "quantity": 4.48,
+            "tax_amount": 17.46,
+            "total_ttc": 204.25,
+            "vat_amount": 14.71
+        }
+    ],
+    "seller": {
+        "name": "Lorraine Wright"
+    },
+    "supplier": {
+        "address": "0125 Cowan Viaduct Alicialand, PA 71967",
+        "name": "Kelsey Morales"
+    },
+    "tax": {
+        "amount_excluding_tax": 110.6,
+        "amount_including_tax": 176.37,
+        "tax_amount": 26.72,
+        "total_ht": 114.22,
+        "total_ttc": 112.63
+    }
+}

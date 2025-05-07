@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "USNS Finley FPO AA 28541",
+        "company_name": "Wilkins-Trujillo",
+        "email": "bellstacy@example.net",
+        "name": "Danielle Daniel",
+        "phone": "+1-610-276-8764x4391"
+    },
+    "invoice": {
+        "date": "22.09.2000",
+        "due_date": "08.11.2022",
+        "number": "WYA93037106916"
+    },
+    "payment": {
+        "account_number": 5855757091,
+        "bank_name": "Armstrong, Martinez and Patterson",
+        "routing_number": 259430765
+    },
+    "products": [
+        {
+            "amount": 129.94,
+            "description": "integrate real-time architectures",
+            "index": "9",
+            "quantity": 9.27,
+            "unit_price": 80.63
+        },
+        {
+            "amount": 107.06,
+            "description": "facilitate extensible applications",
+            "index": "8",
+            "quantity": 2.65,
+            "unit_price": 77.39
+        },
+        {
+            "amount": 198.03,
+            "description": "seize visionary technologies",
+            "index": "8",
+            "quantity": 1.98,
+            "unit_price": 13.59
+        },
+        {
+            "amount": 60.39,
+            "description": "strategize synergistic markets",
+            "index": "4",
+            "quantity": 7.15,
+            "unit_price": 74.87
+        },
+        {
+            "amount": 268.1,
+            "description": "mesh frictionless infrastructures",
+            "index": "4",
+            "quantity": 4.26,
+            "unit_price": 79.5
+        }
+    ],
+    "seller": {
+        "address": "491 Zimmerman Hollow Suite 611 Lake Bradley, VI 70322",
+        "company_name": "Mcclain Inc",
+        "email": "petertucker@example.net"
+    }
+}

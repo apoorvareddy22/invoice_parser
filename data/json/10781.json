@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "748 Mason Hollow Williamchester, NV 36781",
+        "email": "jimeneznancy@example.net",
+        "phone": "(229)436-3698",
+        "vat_no": "oW73359521722"
+    },
+    "invoice": {
+        "date": "08.04.2000",
+        "due_date": "03.03.2002",
+        "market_reference": 507779,
+        "notes": "empower frictionless e-tailers",
+        "number": "4310-8010",
+        "reference": 348647,
+        "vat_no": "rA15173473340"
+    },
+    "payment": {
+        "net_total": 163.21,
+        "total": 673.31
+    },
+    "products": [
+        {
+            "amount": 374.28,
+            "description": "engineer 24/7 content",
+            "hours": 2.61,
+            "rate": 5.4
+        },
+        {
+            "amount": 334.16,
+            "description": "evolve B2C functionalities",
+            "hours": 5.01,
+            "rate": 4.92
+        }
+    ],
+    "seller": {
+        "address": "Unit 2208 Box 6127 DPO AA 34518",
+        "email": "pmiller@example.net",
+        "name": "Nichole Rivera"
+    },
+    "tax": {
+        "base": 16.42,
+        "tax_amount": 13.72,
+        "total_tax": 14.12
+    }
+}

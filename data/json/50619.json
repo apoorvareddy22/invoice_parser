@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "Unit 2403 Box 2891 DPO AP 89395",
+        "id": "lb974"
+    },
+    "invoice": {
+        "bc_no": "hE75048",
+        "currency_code": "GYD",
+        "date": "05.06.2022",
+        "due_date": "02.09.1990",
+        "number": 432074
+    },
+    "payment": {
+        "bank_name": "Miller LLC",
+        "bic": "NNVKGBRR",
+        "iban": "FVFV94232985073366"
+    },
+    "products": [
+        {
+            "amount": 80.05,
+            "description": "cultivate efficient metrics",
+            "index": "3",
+            "price": 106.73,
+            "quantity": 2.42,
+            "tax_amount": 78.21,
+            "total_ttc": 190.93,
+            "vat_amount": 9.18
+        },
+        {
+            "amount": 40.25,
+            "description": "transition efficient ROI",
+            "index": "3",
+            "price": 346.82,
+            "quantity": 2.38,
+            "tax_amount": 94.05,
+            "total_ttc": 447.02,
+            "vat_amount": 7.7
+        },
+        {
+            "amount": 53.85,
+            "description": "drive holistic communities",
+            "index": "2",
+            "price": 280.7,
+            "quantity": 7.75,
+            "tax_amount": 11.57,
+            "total_ttc": 181.94,
+            "vat_amount": 0.48
+        },
+        {
+            "amount": 20.25,
+            "description": "monetize ubiquitous initiatives",
+            "index": "7",
+            "price": 17.69,
+            "quantity": 2.92,
+            "tax_amount": 74.83,
+            "total_ttc": 280.8,
+            "vat_amount": 2.36
+        }
+    ],
+    "seller": {
+        "name": "Sydney Garcia"
+    },
+    "supplier": {
+        "address": "6013 Mendez Gardens Apt. 767 Port Rachelville, AK 14652",
+        "name": "Stephen Weeks"
+    },
+    "tax": {
+        "amount_excluding_tax": 160.21,
+        "amount_including_tax": 26.71,
+        "tax_amount": 25.99,
+        "total_ht": 332.45,
+        "total_ttc": 371.31
+    }
+}

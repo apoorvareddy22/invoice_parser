@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "96602 Kevin Stravenue Suite 027 Lake Brian, MI 38989"
+    },
+    "invoice": {
+        "bc_no": "in97048",
+        "date": "09.03.2012",
+        "maturity_date": "10.12.2020",
+        "number": 154877
+    },
+    "products": [
+        {
+            "amount": 106.9,
+            "description": "exploit front-end portals",
+            "quantity": 4.34,
+            "unit_price": 32.51,
+            "vat_amount": 11.1
+        },
+        {
+            "amount": 381.41,
+            "description": "transform interactive functionalities",
+            "quantity": 8.0,
+            "unit_price": 57.33,
+            "vat_amount": 3.84
+        },
+        {
+            "amount": 205.12,
+            "description": "enhance revolutionary systems",
+            "quantity": 1.73,
+            "unit_price": 88.8,
+            "vat_amount": 1.05
+        }
+    ],
+    "seller": {
+        "address": "791 Harris Mount North Kirsten, WI 82730"
+    },
+    "tax": {
+        "amount_excluding_tax": 151.96,
+        "amount_including_tax": 47.0,
+        "tax_amount": 15.72
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "8481 Charlotte Island Millerview, AL 96494",
+        "email": "tyler67@example.org",
+        "phone": "518-799-0111",
+        "vat_no": "Od12008707256"
+    },
+    "invoice": {
+        "date": "26.11.1992",
+        "due_date": "01.08.1997",
+        "market_reference": 706775,
+        "notes": "drive frictionless applications",
+        "number": "4025-9788",
+        "reference": 824368,
+        "vat_no": "zZ86403385370"
+    },
+    "payment": {
+        "net_total": 137.67,
+        "total": 351.84
+    },
+    "products": [
+        {
+            "amount": 266.89,
+            "description": "architect turn-key functionalities",
+            "hours": 6.73,
+            "rate": 2.8
+        },
+        {
+            "amount": 260.67,
+            "description": "drive 24/365 interfaces",
+            "hours": 3.41,
+            "rate": 9.76
+        },
+        {
+            "amount": 87.26,
+            "description": "drive frictionless e-markets",
+            "hours": 5.62,
+            "rate": 5.1
+        },
+        {
+            "amount": 388.3,
+            "description": "cultivate distributed applications",
+            "hours": 2.99,
+            "rate": 2.67
+        }
+    ],
+    "seller": {
+        "address": "43094 Joseph Groves Santiagoside, WV 16501",
+        "email": "tracytapia@example.com",
+        "name": "Kathryn Fernandez"
+    },
+    "tax": {
+        "base": 10.19,
+        "tax_amount": 23.81,
+        "total_tax": 13.84
+    }
+}

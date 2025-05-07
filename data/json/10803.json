@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "8809 John Dale Dannytown, RI 74314",
+        "email": "rasmussenmichael@example.org",
+        "phone": "850.529.1034",
+        "vat_no": "Vj87809450362"
+    },
+    "invoice": {
+        "date": "20.12.1994",
+        "due_date": "03.12.2013",
+        "market_reference": 453595,
+        "notes": "streamline open-source schemas",
+        "number": "2514-6411",
+        "reference": 302660,
+        "vat_no": "Tf32394207815"
+    },
+    "payment": {
+        "net_total": 169.38,
+        "total": 493.14
+    },
+    "products": [
+        {
+            "amount": 402.15,
+            "description": "morph dynamic partnerships",
+            "hours": 9.4,
+            "rate": 1.8
+        },
+        {
+            "amount": 120.3,
+            "description": "iterate e-business methodologies",
+            "hours": 5.89,
+            "rate": 8.36
+        }
+    ],
+    "seller": {
+        "address": "4009 Andrews Shoals Jonathonfurt, SD 05457",
+        "email": "kcarpenter@example.org",
+        "name": "Andrew Bell"
+    },
+    "tax": {
+        "base": 19.18,
+        "tax_amount": 16.88,
+        "total_tax": 17.84
+    }
+}

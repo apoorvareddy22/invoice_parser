@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "0237 Long Mountains New Gabriella, IN 49286",
+        "business_no": "Vl375",
+        "id": "xI528"
+    },
+    "invoice": {
+        "date": "21.11.2007",
+        "number": "4957-6210"
+    },
+    "payment": {
+        "due_date": "12.02.2015",
+        "total": 558.28
+    },
+    "products": [
+        {
+            "amount": 176.07,
+            "description": "mesh B2B schemas",
+            "quantity": 5.16,
+            "reference": "cB-600",
+            "unit_price": 11.61
+        },
+        {
+            "amount": 434.66,
+            "description": "enable enterprise networks",
+            "quantity": 7.09,
+            "reference": "si-704",
+            "unit_price": 30.07
+        }
+    ],
+    "seller": {
+        "address": "81493 David Plaza Cameronport, NY 27317"
+    },
+    "tax": {
+        "base_ht": 479.28,
+        "regulations": 17.0,
+        "total_ht": 315.76,
+        "vat_amount": 149.61,
+        "vat_percentage": 26.17
+    }
+}

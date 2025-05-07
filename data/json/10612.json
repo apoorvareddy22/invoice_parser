@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "040 Mcgee Path Port Billystad, VA 71271",
+        "email": "vgilbert@example.org",
+        "phone": "(724)722-1354",
+        "vat_no": "Zs18434281782"
+    },
+    "invoice": {
+        "date": "27.05.2006",
+        "due_date": "26.03.2011",
+        "market_reference": 447638,
+        "notes": "enable enterprise e-tailers",
+        "number": "4925-1911",
+        "reference": 890456,
+        "vat_no": "Fu88652908635"
+    },
+    "payment": {
+        "net_total": 178.69,
+        "total": 828.08
+    },
+    "products": [
+        {
+            "amount": 111.16,
+            "description": "transition out-of-the-box technologies",
+            "hours": 2.73,
+            "rate": 7.18
+        },
+        {
+            "amount": 355.22,
+            "description": "aggregate integrated networks",
+            "hours": 3.08,
+            "rate": 4.42
+        }
+    ],
+    "seller": {
+        "address": "3696 Collins Lake Stoneview, OR 22384",
+        "email": "robert02@example.com",
+        "name": "Dr. Joshua Smith"
+    },
+    "tax": {
+        "base": 27.49,
+        "tax_amount": 11.91,
+        "total_tax": 23.17
+    }
+}

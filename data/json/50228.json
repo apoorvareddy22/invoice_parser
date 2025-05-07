@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "9863 Rivera Station Port Susan, NE 49316",
+        "id": "fP113"
+    },
+    "invoice": {
+        "bc_no": "qh22210",
+        "currency_code": "LTL",
+        "date": "19.03.2017",
+        "due_date": "15.02.2004",
+        "number": 682617
+    },
+    "payment": {
+        "bank_name": "Mcdaniel, Harper and Brown",
+        "bic": "YDILGBPBIJK",
+        "iban": "VXFO59967012644638"
+    },
+    "products": [
+        {
+            "amount": 324.87,
+            "description": "synthesize clicks-and-mortar content",
+            "index": "9",
+            "price": 201.45,
+            "quantity": 1.66,
+            "tax_amount": 94.04,
+            "total_ttc": 145.42,
+            "vat_amount": 5.4
+        },
+        {
+            "amount": 11.68,
+            "description": "evolve viral users",
+            "index": "3",
+            "price": 295.75,
+            "quantity": 6.65,
+            "tax_amount": 40.94,
+            "total_ttc": 286.98,
+            "vat_amount": 2.94
+        },
+        {
+            "amount": 485.53,
+            "description": "innovate interactive schemas",
+            "index": "10",
+            "price": 320.13,
+            "quantity": 2.35,
+            "tax_amount": 19.84,
+            "total_ttc": 296.39,
+            "vat_amount": 1.79
+        },
+        {
+            "amount": 270.75,
+            "description": "revolutionize virtual networks",
+            "index": "9",
+            "price": 93.49,
+            "quantity": 1.81,
+            "tax_amount": 55.87,
+            "total_ttc": 343.3,
+            "vat_amount": 5.69
+        },
+        {
+            "amount": 222.04,
+            "description": "envisioneer cutting-edge deliverables",
+            "index": "4",
+            "price": 410.88,
+            "quantity": 1.01,
+            "tax_amount": 11.18,
+            "total_ttc": 112.58,
+            "vat_amount": 11.31
+        }
+    ],
+    "seller": {
+        "name": "Miranda Keith"
+    },
+    "supplier": {
+        "address": "38488 Pope Locks South Michaelbury, GU 16249",
+        "name": "Patricia Morrison"
+    },
+    "tax": {
+        "amount_excluding_tax": 187.08,
+        "amount_including_tax": 47.47,
+        "tax_amount": 18.65,
+        "total_ht": 465.87,
+        "total_ttc": 439.6
+    }
+}

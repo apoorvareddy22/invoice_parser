@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "192 Sanders Greens Suite 001 North Rickyberg, NJ 16529",
+        "business_no": "zd967",
+        "id": "aF454"
+    },
+    "invoice": {
+        "date": "21.08.2008",
+        "number": "9057-5801"
+    },
+    "payment": {
+        "due_date": "01.01.2001",
+        "total": 189.43
+    },
+    "products": [
+        {
+            "amount": 85.85,
+            "description": "re-intermediate seamless applications",
+            "quantity": 7.65,
+            "reference": "Kd-173",
+            "unit_price": 31.71
+        },
+        {
+            "amount": 411.37,
+            "description": "implement best-of-breed deliverables",
+            "quantity": 4.33,
+            "reference": "Xr-480",
+            "unit_price": 97.84
+        },
+        {
+            "amount": 246.98,
+            "description": "re-intermediate cross-platform web-readiness",
+            "quantity": 9.55,
+            "reference": "Jj-604",
+            "unit_price": 31.08
+        },
+        {
+            "amount": 289.99,
+            "description": "exploit compelling ROI",
+            "quantity": 9.66,
+            "reference": "ZE-656",
+            "unit_price": 82.82
+        },
+        {
+            "amount": 70.97,
+            "description": "mesh clicks-and-mortar markets",
+            "quantity": 1.8,
+            "reference": "SY-398",
+            "unit_price": 46.95
+        },
+        {
+            "amount": 224.24,
+            "description": "cultivate global methodologies",
+            "quantity": 1.65,
+            "reference": "nX-189",
+            "unit_price": 97.71
+        },
+        {
+            "amount": 83.54,
+            "description": "generate e-business metrics",
+            "quantity": 9.72,
+            "reference": "cz-054",
+            "unit_price": 15.31
+        }
+    ],
+    "seller": {
+        "address": "4255 Jones Road Brianborough, SC 24756"
+    },
+    "tax": {
+        "base_ht": 469.99,
+        "regulations": 26.77,
+        "total_ht": 430.67,
+        "vat_amount": 184.86,
+        "vat_percentage": 29.93
+    }
+}

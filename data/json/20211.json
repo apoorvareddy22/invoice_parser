@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "5251 Cindy Trail Williamsbury, CT 18463",
+        "company_name": "Cantrell, Gibson and Reid",
+        "email": "sullivanrichard@example.net",
+        "name": "Holly Anderson",
+        "phone": "982.238.0697x9142"
+    },
+    "invoice": {
+        "date": "24.03.2010",
+        "due_date": "02.08.2016",
+        "number": "acy09656003581"
+    },
+    "payment": {
+        "account_number": 8145498129,
+        "bank_name": "Brown-Beck",
+        "routing_number": 383199498
+    },
+    "products": [
+        {
+            "amount": 415.65,
+            "description": "streamline rich web-readiness",
+            "index": "6",
+            "quantity": 9.57,
+            "unit_price": 83.48
+        },
+        {
+            "amount": 451.19,
+            "description": "scale front-end partnerships",
+            "index": "3",
+            "quantity": 5.32,
+            "unit_price": 47.29
+        },
+        {
+            "amount": 297.7,
+            "description": "target back-end partnerships",
+            "index": "7",
+            "quantity": 8.14,
+            "unit_price": 62.92
+        },
+        {
+            "amount": 400.28,
+            "description": "leverage magnetic models",
+            "index": "9",
+            "quantity": 2.91,
+            "unit_price": 16.17
+        },
+        {
+            "amount": 398.63,
+            "description": "orchestrate synergistic web services",
+            "index": "8",
+            "quantity": 5.58,
+            "unit_price": 87.31
+        }
+    ],
+    "seller": {
+        "address": "64443 Meyer Alley Lake Benjamin, DE 15562",
+        "company_name": "Barnett LLC",
+        "email": "bailey62@example.org"
+    }
+}

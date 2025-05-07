@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "104 Jeffrey Trail Harrisville, OH 28859",
+        "business_no": "cC738",
+        "id": "Xn655"
+    },
+    "invoice": {
+        "date": "09.03.1999",
+        "number": "4865-6809"
+    },
+    "payment": {
+        "due_date": "26.10.2020",
+        "total": 199.38
+    },
+    "products": [
+        {
+            "amount": 498.22,
+            "description": "revolutionize collaborative ROI",
+            "quantity": 8.87,
+            "reference": "kW-551",
+            "unit_price": 62.29
+        }
+    ],
+    "seller": {
+        "address": "821 Stacey Mountain New Wendy, NH 82546"
+    },
+    "tax": {
+        "base_ht": 398.37,
+        "regulations": 12.95,
+        "total_ht": 392.34,
+        "vat_amount": 90.64,
+        "vat_percentage": 14.5
+    }
+}

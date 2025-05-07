@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "405 Stephen Squares Port Paulburgh, TN 44656",
+        "business_no": "nE413",
+        "id": "gQ097"
+    },
+    "invoice": {
+        "date": "10.08.2009",
+        "number": "9037-3033"
+    },
+    "payment": {
+        "due_date": "03.03.2008",
+        "total": 636.81
+    },
+    "products": [
+        {
+            "amount": 465.84,
+            "description": "brand holistic vortals",
+            "quantity": 1.08,
+            "reference": "xw-745",
+            "unit_price": 93.44
+        },
+        {
+            "amount": 92.71,
+            "description": "cultivate efficient channels",
+            "quantity": 2.12,
+            "reference": "Cp-319",
+            "unit_price": 15.34
+        },
+        {
+            "amount": 94.47,
+            "description": "iterate transparent bandwidth",
+            "quantity": 3.79,
+            "reference": "Tk-111",
+            "unit_price": 38.21
+        },
+        {
+            "amount": 85.79,
+            "description": "envisioneer virtual vortals",
+            "quantity": 1.63,
+            "reference": "uR-308",
+            "unit_price": 36.23
+        }
+    ],
+    "seller": {
+        "address": "96896 Nicole Lane Apt. 711 Floresbury, CT 52713"
+    },
+    "tax": {
+        "base_ht": 293.36,
+        "regulations": 13.31,
+        "total_ht": 372.23,
+        "vat_amount": 145.49,
+        "vat_percentage": 11.48
+    }
+}

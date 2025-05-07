@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "30229 Leslie Pike Masonmouth, PA 73156",
+        "business_no": "ZP811",
+        "id": "hP357"
+    },
+    "invoice": {
+        "date": "08.12.2016",
+        "number": "3582-2187"
+    },
+    "payment": {
+        "due_date": "09.01.2011",
+        "total": 890.2
+    },
+    "products": [
+        {
+            "amount": 247.35,
+            "description": "whiteboard revolutionary infrastructures",
+            "quantity": 1.43,
+            "reference": "Mv-431",
+            "unit_price": 37.86
+        }
+    ],
+    "seller": {
+        "address": "31090 Marquez Plaza Casestad, WY 37837"
+    },
+    "tax": {
+        "base_ht": 216.3,
+        "regulations": 24.83,
+        "total_ht": 446.06,
+        "vat_amount": 76.79,
+        "vat_percentage": 15.76
+    }
+}

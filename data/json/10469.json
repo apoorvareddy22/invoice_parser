@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "51627 Phillips Turnpike Port Richard, MT 72487",
+        "email": "brookeprince@example.org",
+        "phone": "001-383-809-5487x7742",
+        "vat_no": "MG35692347572"
+    },
+    "invoice": {
+        "date": "21.09.1997",
+        "due_date": "07.07.2007",
+        "market_reference": 145401,
+        "notes": "optimize end-to-end methodologies",
+        "number": "4107-6293",
+        "reference": 974130,
+        "vat_no": "jA65600079489"
+    },
+    "payment": {
+        "net_total": 35.2,
+        "total": 401.47
+    },
+    "products": [
+        {
+            "amount": 299.55,
+            "description": "enable magnetic methodologies",
+            "hours": 3.3,
+            "rate": 6.3
+        },
+        {
+            "amount": 61.98,
+            "description": "strategize rich web-readiness",
+            "hours": 7.82,
+            "rate": 2.57
+        }
+    ],
+    "seller": {
+        "address": "67162 Dickerson Inlet Josephfort, FM 92422",
+        "email": "maryjohnson@example.org",
+        "name": "Heidi Collins"
+    },
+    "tax": {
+        "base": 15.86,
+        "tax_amount": 15.37,
+        "total_tax": 27.4
+    }
+}

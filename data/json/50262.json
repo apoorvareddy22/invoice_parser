@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "31831 Larry Overpass Port Amanda, MD 82288",
+        "id": "TU158"
+    },
+    "invoice": {
+        "bc_no": "mG41929",
+        "currency_code": "VEF",
+        "date": "25.12.1992",
+        "due_date": "20.08.2011",
+        "number": 286040
+    },
+    "payment": {
+        "bank_name": "Howard-Hudson",
+        "bic": "TMJSGBZP",
+        "iban": "KCAQ73474821077683"
+    },
+    "products": [
+        {
+            "amount": 115.18,
+            "description": "architect collaborative architectures",
+            "index": "2",
+            "price": 341.45,
+            "quantity": 8.11,
+            "tax_amount": 85.3,
+            "total_ttc": 390.38,
+            "vat_amount": 2.75
+        },
+        {
+            "amount": 499.56,
+            "description": "benchmark 24/7 partnerships",
+            "index": "5",
+            "price": 415.23,
+            "quantity": 5.69,
+            "tax_amount": 66.84,
+            "total_ttc": 184.54,
+            "vat_amount": 1.08
+        },
+        {
+            "amount": 470.99,
+            "description": "utilize turn-key e-tailers",
+            "index": "7",
+            "price": 341.54,
+            "quantity": 3.06,
+            "tax_amount": 35.87,
+            "total_ttc": 399.14,
+            "vat_amount": 5.58
+        },
+        {
+            "amount": 378.69,
+            "description": "transform extensible portals",
+            "index": "6",
+            "price": 337.25,
+            "quantity": 2.98,
+            "tax_amount": 52.33,
+            "total_ttc": 429.13,
+            "vat_amount": 11.41
+        },
+        {
+            "amount": 142.56,
+            "description": "envisioneer wireless users",
+            "index": "1",
+            "price": 186.53,
+            "quantity": 5.04,
+            "tax_amount": 91.61,
+            "total_ttc": 131.25,
+            "vat_amount": 1.76
+        },
+        {
+            "amount": 407.41,
+            "description": "grow impactful partnerships",
+            "index": "2",
+            "price": 265.72,
+            "quantity": 3.5,
+            "tax_amount": 43.85,
+            "total_ttc": 375.61,
+            "vat_amount": 6.13
+        }
+    ],
+    "seller": {
+        "name": "Maureen Mcguire"
+    },
+    "supplier": {
+        "address": "351 Amy Turnpike Apt. 613 Rodneystad, OH 91702",
+        "name": "Mark Turner"
+    },
+    "tax": {
+        "amount_excluding_tax": 138.79,
+        "amount_including_tax": 150.24,
+        "tax_amount": 15.75,
+        "total_ht": 144.68,
+        "total_ttc": 128.22
+    }
+}

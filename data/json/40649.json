@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "USS Ware FPO AP 99536"
+    },
+    "invoice": {
+        "bc_no": "kF10395",
+        "date": "02.03.2020",
+        "maturity_date": "04.02.1994",
+        "number": 709154
+    },
+    "products": [
+        {
+            "amount": 433.08,
+            "description": "strategize impactful e-markets",
+            "quantity": 6.98,
+            "unit_price": 69.52,
+            "vat_amount": 6.36
+        },
+        {
+            "amount": 148.95,
+            "description": "enhance holistic eyeballs",
+            "quantity": 6.92,
+            "unit_price": 13.23,
+            "vat_amount": 6.15
+        },
+        {
+            "amount": 315.77,
+            "description": "transform integrated synergies",
+            "quantity": 7.07,
+            "unit_price": 13.08,
+            "vat_amount": 7.35
+        }
+    ],
+    "seller": {
+        "address": "100 Mitchell Passage Suite 166 Smallberg, MP 06630"
+    },
+    "tax": {
+        "amount_excluding_tax": 145.18,
+        "amount_including_tax": 179.12,
+        "tax_amount": 25.46
+    }
+}

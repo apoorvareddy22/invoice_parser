@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "989 Benson Lodge Apt. 974 South Phyllis, NE 94476",
+        "email": "sarahcooper@example.com",
+        "phone": "931.610.5190",
+        "vat_no": "XQ87976461515"
+    },
+    "invoice": {
+        "date": "15.06.2009",
+        "due_date": "01.11.2002",
+        "market_reference": 717527,
+        "notes": "harness clicks-and-mortar info-mediaries",
+        "number": "6898-0146",
+        "reference": 372329,
+        "vat_no": "Lv33361922040"
+    },
+    "payment": {
+        "net_total": 124.8,
+        "total": 891.13
+    },
+    "products": [
+        {
+            "amount": 64.43,
+            "description": "empower best-of-breed applications",
+            "hours": 1.73,
+            "rate": 9.71
+        },
+        {
+            "amount": 354.05,
+            "description": "benchmark turn-key relationships",
+            "hours": 6.11,
+            "rate": 2.35
+        },
+        {
+            "amount": 139.02,
+            "description": "enable holistic e-business",
+            "hours": 8.06,
+            "rate": 4.61
+        },
+        {
+            "amount": 262.03,
+            "description": "leverage value-added platforms",
+            "hours": 7.44,
+            "rate": 5.41
+        },
+        {
+            "amount": 155.96,
+            "description": "integrate world-class e-markets",
+            "hours": 9.35,
+            "rate": 3.64
+        }
+    ],
+    "seller": {
+        "address": "361 Laura Springs New Brendaborough, IA 23881",
+        "email": "xking@example.com",
+        "name": "Mariah Valdez"
+    },
+    "tax": {
+        "base": 17.58,
+        "tax_amount": 28.66,
+        "total_tax": 11.95
+    }
+}

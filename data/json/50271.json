@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "724 Thompson Estates Suite 950 Lake Matthewshire, SD 16958",
+        "id": "pW976"
+    },
+    "invoice": {
+        "bc_no": "yA72222",
+        "currency_code": "CLP",
+        "date": "12.08.2000",
+        "due_date": "06.01.2001",
+        "number": 114121
+    },
+    "payment": {
+        "bank_name": "Crane, Wright and Harris",
+        "bic": "KBERGBOI",
+        "iban": "NPLS00064829898253"
+    },
+    "products": [
+        {
+            "amount": 393.34,
+            "description": "deliver synergistic systems",
+            "index": "5",
+            "price": 77.97,
+            "quantity": 2.01,
+            "tax_amount": 53.67,
+            "total_ttc": 287.99,
+            "vat_amount": 1.64
+        }
+    ],
+    "seller": {
+        "name": "Lauren English"
+    },
+    "supplier": {
+        "address": "6318 Cynthia Manor Apt. 440 Lake Jessica, TX 77268",
+        "name": "Gregory Allen"
+    },
+    "tax": {
+        "amount_excluding_tax": 59.5,
+        "amount_including_tax": 47.97,
+        "tax_amount": 27.58,
+        "total_ht": 423.17,
+        "total_ttc": 275.17
+    }
+}

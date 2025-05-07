@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "2638 Karen Fall Apt. 085 Bryanfort, AS 07778",
+        "email": "jonathan07@example.org",
+        "phone": "928.615.9987x14656",
+        "vat_no": "VM10653041318"
+    },
+    "invoice": {
+        "date": "23.10.2005",
+        "due_date": "13.05.1990",
+        "market_reference": 568287,
+        "notes": "incubate global supply-chains",
+        "number": "0199-8130",
+        "reference": 833711,
+        "vat_no": "Qi83369312557"
+    },
+    "payment": {
+        "net_total": 150.74,
+        "total": 471.44
+    },
+    "products": [
+        {
+            "amount": 297.7,
+            "description": "benchmark proactive e-services",
+            "hours": 1.66,
+            "rate": 3.19
+        },
+        {
+            "amount": 343.97,
+            "description": "scale transparent infrastructures",
+            "hours": 9.68,
+            "rate": 8.1
+        },
+        {
+            "amount": 173.12,
+            "description": "repurpose 24/7 users",
+            "hours": 1.66,
+            "rate": 2.36
+        },
+        {
+            "amount": 131.81,
+            "description": "unleash bleeding-edge infrastructures",
+            "hours": 7.78,
+            "rate": 2.4
+        },
+        {
+            "amount": 75.12,
+            "description": "morph e-business synergies",
+            "hours": 5.68,
+            "rate": 3.51
+        }
+    ],
+    "seller": {
+        "address": "369 Veronica Circle Apt. 265 Lake Matthewfurt, MO 59467",
+        "email": "sarah63@example.net",
+        "name": "Michele Jackson"
+    },
+    "tax": {
+        "base": 18.01,
+        "tax_amount": 24.37,
+        "total_tax": 18.75
+    }
+}

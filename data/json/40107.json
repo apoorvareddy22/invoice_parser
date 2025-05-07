@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "33727 Fisher Vista Hillport, KY 92084"
+    },
+    "invoice": {
+        "bc_no": "Dd32806",
+        "date": "21.11.1999",
+        "maturity_date": "06.10.1999",
+        "number": 103123
+    },
+    "products": [
+        {
+            "amount": 236.5,
+            "description": "synthesize interactive web-readiness",
+            "quantity": 3.43,
+            "unit_price": 59.31,
+            "vat_amount": 14.54
+        },
+        {
+            "amount": 21.37,
+            "description": "streamline granular infrastructures",
+            "quantity": 1.27,
+            "unit_price": 22.82,
+            "vat_amount": 1.43
+        },
+        {
+            "amount": 316.54,
+            "description": "strategize dot-com partnerships",
+            "quantity": 6.38,
+            "unit_price": 78.59,
+            "vat_amount": 4.87
+        }
+    ],
+    "seller": {
+        "address": "PSC 5227, Box 6018 APO AA 49181"
+    },
+    "tax": {
+        "amount_excluding_tax": 114.04,
+        "amount_including_tax": 95.54,
+        "tax_amount": 10.26
+    }
+}

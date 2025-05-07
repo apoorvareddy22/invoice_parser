@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "4827 Johnson Burg Apt. 452 New Susan, NY 84408",
+        "company_name": "Schaefer LLC",
+        "email": "jeff17@example.org",
+        "name": "Lindsey Wood MD",
+        "phone": "592.828.2710"
+    },
+    "invoice": {
+        "date": "10.01.2008",
+        "due_date": "10.09.1990",
+        "number": "WVP76142810075"
+    },
+    "payment": {
+        "account_number": 8813366291,
+        "bank_name": "Garza-Knight",
+        "routing_number": 778243916
+    },
+    "products": [
+        {
+            "amount": 427.21,
+            "description": "re-intermediate dot-com architectures",
+            "index": "3",
+            "quantity": 3.69,
+            "unit_price": 97.79
+        },
+        {
+            "amount": 409.94,
+            "description": "generate best-of-breed infrastructures",
+            "index": "7",
+            "quantity": 4.57,
+            "unit_price": 36.21
+        }
+    ],
+    "seller": {
+        "address": "838 Jessica Place West Ashley, WV 23330",
+        "company_name": "White, Graham and Whitehead",
+        "email": "rachelferguson@example.com"
+    }
+}

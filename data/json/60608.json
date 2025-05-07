@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "260 Lindsay Plaza Suite 503 East Jasonstad, FL 33995",
+        "business_no": "bo113",
+        "id": "Iw393"
+    },
+    "invoice": {
+        "date": "16.03.2020",
+        "number": "5669-8212"
+    },
+    "payment": {
+        "due_date": "31.10.2021",
+        "total": 286.06
+    },
+    "products": [
+        {
+            "amount": 341.21,
+            "description": "benchmark 24/7 web-readiness",
+            "quantity": 6.17,
+            "reference": "gU-101",
+            "unit_price": 53.03
+        },
+        {
+            "amount": 462.91,
+            "description": "scale enterprise systems",
+            "quantity": 1.29,
+            "reference": "ez-540",
+            "unit_price": 63.59
+        },
+        {
+            "amount": 247.4,
+            "description": "harness revolutionary web services",
+            "quantity": 1.08,
+            "reference": "uE-684",
+            "unit_price": 81.39
+        },
+        {
+            "amount": 54.57,
+            "description": "re-intermediate transparent systems",
+            "quantity": 3.32,
+            "reference": "AU-151",
+            "unit_price": 57.84
+        }
+    ],
+    "seller": {
+        "address": "Unit 7303 Box 5281 DPO AE 48373"
+    },
+    "tax": {
+        "base_ht": 242.02,
+        "regulations": 18.3,
+        "total_ht": 202.93,
+        "vat_amount": 128.18,
+        "vat_percentage": 20.99
+    }
+}

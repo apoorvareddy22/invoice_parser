@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "00178 Allen Ports Briannaburgh, MH 30093",
+        "email": "sherrisutton@example.org",
+        "phone": "(516)755-3524x2621",
+        "vat_no": "ha51921940772"
+    },
+    "invoice": {
+        "date": "21.10.2010",
+        "due_date": "01.09.1992",
+        "market_reference": 278833,
+        "notes": "extend plug-and-play convergence",
+        "number": "9246-3993",
+        "reference": 623697,
+        "vat_no": "Ss82191531226"
+    },
+    "payment": {
+        "net_total": 112.14,
+        "total": 911.4
+    },
+    "products": [
+        {
+            "amount": 138.32,
+            "description": "facilitate front-end info-mediaries",
+            "hours": 10.0,
+            "rate": 4.12
+        },
+        {
+            "amount": 479.76,
+            "description": "embrace robust deliverables",
+            "hours": 8.41,
+            "rate": 9.32
+        },
+        {
+            "amount": 330.19,
+            "description": "generate B2B mindshare",
+            "hours": 5.65,
+            "rate": 4.07
+        },
+        {
+            "amount": 92.27,
+            "description": "disintermediate next-generation platforms",
+            "hours": 3.32,
+            "rate": 9.88
+        },
+        {
+            "amount": 329.14,
+            "description": "redefine next-generation e-tailers",
+            "hours": 8.29,
+            "rate": 2.51
+        }
+    ],
+    "seller": {
+        "address": "05041 Brown Groves Triciaside, MA 49189",
+        "email": "katelyn01@example.com",
+        "name": "Christine James"
+    },
+    "tax": {
+        "base": 13.8,
+        "tax_amount": 19.17,
+        "total_tax": 10.28
+    }
+}

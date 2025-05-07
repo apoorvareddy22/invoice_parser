@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "54323 Adams Pines Apt. 484 Toddville, IA 07463",
+        "company_name": "Lambert, Tran and Reid",
+        "email": "michellesmith@example.com",
+        "name": "Andrew Bell",
+        "phone": "001-617-961-8379"
+    },
+    "invoice": {
+        "date": "30.12.1992",
+        "due_date": "11.04.2011",
+        "number": "glZ26748884246"
+    },
+    "payment": {
+        "account_number": 1946943853,
+        "bank_name": "Perez, Love and Johnson",
+        "routing_number": 153534617
+    },
+    "products": [
+        {
+            "amount": 234.08,
+            "description": "incentivize global channels",
+            "index": "2",
+            "quantity": 1.34,
+            "unit_price": 74.69
+        },
+        {
+            "amount": 127.47,
+            "description": "target e-business solutions",
+            "index": "5",
+            "quantity": 5.44,
+            "unit_price": 95.48
+        },
+        {
+            "amount": 39.08,
+            "description": "disintermediate value-added partnerships",
+            "index": "4",
+            "quantity": 4.07,
+            "unit_price": 29.97
+        },
+        {
+            "amount": 227.86,
+            "description": "cultivate user-centric action-items",
+            "index": "4",
+            "quantity": 4.15,
+            "unit_price": 99.94
+        }
+    ],
+    "seller": {
+        "address": "661 Sherry Forks West Monicaberg, MO 26366",
+        "company_name": "Johnson-Burton",
+        "email": "annaevans@example.org"
+    }
+}

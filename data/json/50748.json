@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "31681 Jessica Summit New Matthew, UT 34429",
+        "id": "Nd281"
+    },
+    "invoice": {
+        "bc_no": "UL91888",
+        "currency_code": "MXN",
+        "date": "05.12.1991",
+        "due_date": "01.07.1997",
+        "number": 915777
+    },
+    "payment": {
+        "bank_name": "Ellis LLC",
+        "bic": "TSYFGBLFZUO",
+        "iban": "OOWV56169813167394"
+    },
+    "products": [
+        {
+            "amount": 413.92,
+            "description": "transition dynamic technologies",
+            "index": "5",
+            "price": 105.01,
+            "quantity": 3.89,
+            "tax_amount": 15.21,
+            "total_ttc": 309.84,
+            "vat_amount": 0.54
+        },
+        {
+            "amount": 125.63,
+            "description": "generate dynamic networks",
+            "index": "6",
+            "price": 263.07,
+            "quantity": 8.37,
+            "tax_amount": 37.5,
+            "total_ttc": 139.16,
+            "vat_amount": 13.57
+        },
+        {
+            "amount": 349.35,
+            "description": "envisioneer 24/365 e-services",
+            "index": "3",
+            "price": 156.5,
+            "quantity": 6.52,
+            "tax_amount": 87.41,
+            "total_ttc": 352.35,
+            "vat_amount": 7.51
+        }
+    ],
+    "seller": {
+        "name": "Holly Roberts"
+    },
+    "supplier": {
+        "address": "Unit 1248 Box 2262 DPO AA 92733",
+        "name": "Justin Mcconnell"
+    },
+    "tax": {
+        "amount_excluding_tax": 106.36,
+        "amount_including_tax": 99.86,
+        "tax_amount": 19.6,
+        "total_ht": 157.22,
+        "total_ttc": 398.16
+    }
+}

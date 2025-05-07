@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "18993 Matthew Mall Apt. 488 East Danielburgh, DC 38504",
+        "company_name": "Perkins-Fisher",
+        "country": "Mozambique",
+        "name": "Jessica Cunningham"
+    },
+    "invoice": {
+        "date": "05.10.2008",
+        "number": 787130
+    },
+    "payment": {
+        "discount_amount": 28.61,
+        "discount_percentage": 10.37,
+        "due": 185.35,
+        "sub_total": 79.82,
+        "total": 657.69
+    },
+    "products": [
+        {
+            "description": "iterate end-to-end supply-chains",
+            "index": "1",
+            "quantity": 1.51,
+            "total_price": 382.91,
+            "unit_price": 61.91
+        }
+    ],
+    "seller": {
+        "address": "16241 Brandy Orchard Maynardland, CT 81168",
+        "company_name": "Griffin and Sons",
+        "vat_no": "re77522515635"
+    }
+}

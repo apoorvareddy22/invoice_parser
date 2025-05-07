@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "548 Mitchell Estates Port Wendy, AS 10952",
+        "id": "no627"
+    },
+    "invoice": {
+        "bc_no": "Wx36172",
+        "currency_code": "BHD",
+        "date": "18.08.2017",
+        "due_date": "01.12.2007",
+        "number": 516352
+    },
+    "payment": {
+        "bank_name": "Harris-Mclaughlin",
+        "bic": "OVIAGBEZ",
+        "iban": "LRMG43762538591145"
+    },
+    "products": [
+        {
+            "amount": 338.14,
+            "description": "re-contextualize granular interfaces",
+            "index": "10",
+            "price": 58.82,
+            "quantity": 5.16,
+            "tax_amount": 91.63,
+            "total_ttc": 437.42,
+            "vat_amount": 2.15
+        },
+        {
+            "amount": 195.12,
+            "description": "brand extensible technologies",
+            "index": "7",
+            "price": 241.39,
+            "quantity": 2.51,
+            "tax_amount": 15.1,
+            "total_ttc": 344.9,
+            "vat_amount": 13.03
+        },
+        {
+            "amount": 390.73,
+            "description": "grow B2C e-markets",
+            "index": "4",
+            "price": 320.75,
+            "quantity": 3.35,
+            "tax_amount": 43.84,
+            "total_ttc": 148.0,
+            "vat_amount": 1.21
+        },
+        {
+            "amount": 180.72,
+            "description": "architect interactive partnerships",
+            "index": "4",
+            "price": 222.96,
+            "quantity": 3.25,
+            "tax_amount": 71.25,
+            "total_ttc": 493.79,
+            "vat_amount": 1.44
+        },
+        {
+            "amount": 388.83,
+            "description": "aggregate interactive e-tailers",
+            "index": "5",
+            "price": 325.55,
+            "quantity": 2.71,
+            "tax_amount": 22.47,
+            "total_ttc": 388.75,
+            "vat_amount": 11.52
+        },
+        {
+            "amount": 316.34,
+            "description": "whiteboard distributed synergies",
+            "index": "10",
+            "price": 354.59,
+            "quantity": 3.02,
+            "tax_amount": 34.94,
+            "total_ttc": 395.43,
+            "vat_amount": 2.35
+        },
+        {
+            "amount": 265.26,
+            "description": "expedite scalable bandwidth",
+            "index": "9",
+            "price": 121.72,
+            "quantity": 2.95,
+            "tax_amount": 76.36,
+            "total_ttc": 262.95,
+            "vat_amount": 2.49
+        }
+    ],
+    "seller": {
+        "name": "Alexis Hendricks"
+    },
+    "supplier": {
+        "address": "22123 Anderson Center Suite 288 New Lindsey, IN 23765",
+        "name": "Jose Day"
+    },
+    "tax": {
+        "amount_excluding_tax": 78.15,
+        "amount_including_tax": 104.91,
+        "tax_amount": 18.79,
+        "total_ht": 383.02,
+        "total_ttc": 258.71
+    }
+}

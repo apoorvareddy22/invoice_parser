@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "338 Sara Prairie North Elijahview, FM 79924",
+        "business_no": "Gf837",
+        "id": "KX697"
+    },
+    "invoice": {
+        "date": "25.08.1998",
+        "number": "7741-7692"
+    },
+    "payment": {
+        "due_date": "28.08.2021",
+        "total": 921.21
+    },
+    "products": [
+        {
+            "amount": 99.87,
+            "description": "leverage sticky channels",
+            "quantity": 2.5,
+            "reference": "al-271",
+            "unit_price": 20.25
+        },
+        {
+            "amount": 402.69,
+            "description": "exploit turn-key e-tailers",
+            "quantity": 4.56,
+            "reference": "WH-866",
+            "unit_price": 22.01
+        },
+        {
+            "amount": 81.21,
+            "description": "redefine bricks-and-clicks content",
+            "quantity": 2.25,
+            "reference": "ye-862",
+            "unit_price": 35.58
+        },
+        {
+            "amount": 99.9,
+            "description": "mesh innovative e-business",
+            "quantity": 2.02,
+            "reference": "dp-003",
+            "unit_price": 12.45
+        }
+    ],
+    "seller": {
+        "address": "10352 William Fork Suite 663 North Cole, WA 66682"
+    },
+    "tax": {
+        "base_ht": 412.14,
+        "regulations": 21.1,
+        "total_ht": 472.7,
+        "vat_amount": 128.8,
+        "vat_percentage": 12.81
+    }
+}

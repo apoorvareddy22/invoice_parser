@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "4497 Robert Cliffs Apt. 285 West Frederick, MA 59186",
+        "company_name": "Johnson, Pope and Cummings",
+        "country": "Wallis and Futuna",
+        "name": "Stephanie Salinas"
+    },
+    "invoice": {
+        "date": "25.12.1990",
+        "number": 405104
+    },
+    "payment": {
+        "discount_amount": 37.9,
+        "discount_percentage": 12.5,
+        "due": 161.37,
+        "sub_total": 84.1,
+        "total": 938.81
+    },
+    "products": [
+        {
+            "description": "incentivize open-source info-mediaries",
+            "index": "2",
+            "quantity": 9.49,
+            "total_price": 648.42,
+            "unit_price": 84.2
+        },
+        {
+            "description": "leverage clicks-and-mortar interfaces",
+            "index": "3",
+            "quantity": 9.01,
+            "total_price": 173.62,
+            "unit_price": 95.0
+        },
+        {
+            "description": "drive enterprise markets",
+            "index": "6",
+            "quantity": 7.31,
+            "total_price": 91.55,
+            "unit_price": 72.97
+        }
+    ],
+    "seller": {
+        "address": "814 Leach Circles Apt. 109 West Lori, GA 21269",
+        "company_name": "Velasquez, Garcia and Cooper",
+        "vat_no": "aJ92764968285"
+    }
+}

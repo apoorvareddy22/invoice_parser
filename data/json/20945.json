@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "098 Lindsay Coves South Kevinbury, MT 89528",
+        "company_name": "Young-Estes",
+        "email": "rayerica@example.net",
+        "name": "Janet Perez",
+        "phone": "938-751-2715"
+    },
+    "invoice": {
+        "date": "02.12.1991",
+        "due_date": "13.06.2015",
+        "number": "OmD55217973368"
+    },
+    "payment": {
+        "account_number": 9412236970,
+        "bank_name": "Wilkerson-Moran",
+        "routing_number": 158541752
+    },
+    "products": [
+        {
+            "amount": 249.89,
+            "description": "empower bleeding-edge bandwidth",
+            "index": "10",
+            "quantity": 7.03,
+            "unit_price": 52.76
+        },
+        {
+            "amount": 188.79,
+            "description": "seize interactive systems",
+            "index": "5",
+            "quantity": 9.76,
+            "unit_price": 40.73
+        },
+        {
+            "amount": 293.88,
+            "description": "enable customized interfaces",
+            "index": "10",
+            "quantity": 8.93,
+            "unit_price": 68.6
+        }
+    ],
+    "seller": {
+        "address": "Unit 9070 Box 8805 DPO AA 56421",
+        "company_name": "Jones Ltd",
+        "email": "twood@example.com"
+    }
+}

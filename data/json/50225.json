@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "98756 Flores Causeway Suite 708 Thomasbury, LA 49959",
+        "id": "HX771"
+    },
+    "invoice": {
+        "bc_no": "vO10334",
+        "currency_code": "UYU",
+        "date": "09.10.2005",
+        "due_date": "16.07.2018",
+        "number": 899272
+    },
+    "payment": {
+        "bank_name": "Matthews PLC",
+        "bic": "QJZBGB7P5UJ",
+        "iban": "YPBT47744769051944"
+    },
+    "products": [
+        {
+            "amount": 219.34,
+            "description": "seize holistic supply-chains",
+            "index": "7",
+            "price": 227.12,
+            "quantity": 3.06,
+            "tax_amount": 54.15,
+            "total_ttc": 270.08,
+            "vat_amount": 5.32
+        },
+        {
+            "amount": 10.8,
+            "description": "revolutionize extensible technologies",
+            "index": "8",
+            "price": 395.41,
+            "quantity": 5.61,
+            "tax_amount": 27.55,
+            "total_ttc": 304.14,
+            "vat_amount": 2.04
+        },
+        {
+            "amount": 282.31,
+            "description": "benchmark efficient paradigms",
+            "index": "10",
+            "price": 29.95,
+            "quantity": 8.43,
+            "tax_amount": 66.29,
+            "total_ttc": 432.88,
+            "vat_amount": 6.48
+        }
+    ],
+    "seller": {
+        "name": "Amy Wright"
+    },
+    "supplier": {
+        "address": "6324 Vanessa Lakes North Paulview, MT 17275",
+        "name": "Audrey Savage"
+    },
+    "tax": {
+        "amount_excluding_tax": 187.2,
+        "amount_including_tax": 72.07,
+        "tax_amount": 24.23,
+        "total_ht": 261.77,
+        "total_ttc": 405.33
+    }
+}

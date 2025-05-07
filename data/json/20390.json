@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "6119 Contreras Fall Apt. 310 Stacyland, NM 64569",
+        "company_name": "Parker, Durham and Martin",
+        "email": "jasoncollier@example.com",
+        "name": "Tammy Klein",
+        "phone": "+1-246-546-7747x7484"
+    },
+    "invoice": {
+        "date": "18.10.2011",
+        "due_date": "27.09.2012",
+        "number": "XFC80163187919"
+    },
+    "payment": {
+        "account_number": 6665050267,
+        "bank_name": "Adkins, Nguyen and Rich",
+        "routing_number": 298777427
+    },
+    "products": [
+        {
+            "amount": 260.72,
+            "description": "transform turn-key supply-chains",
+            "index": "10",
+            "quantity": 2.32,
+            "unit_price": 55.98
+        },
+        {
+            "amount": 482.25,
+            "description": "utilize robust schemas",
+            "index": "6",
+            "quantity": 8.86,
+            "unit_price": 67.5
+        },
+        {
+            "amount": 473.16,
+            "description": "enhance vertical action-items",
+            "index": "7",
+            "quantity": 8.04,
+            "unit_price": 51.99
+        },
+        {
+            "amount": 318.55,
+            "description": "reinvent open-source vortals",
+            "index": "10",
+            "quantity": 2.53,
+            "unit_price": 73.01
+        },
+        {
+            "amount": 382.66,
+            "description": "morph vertical technologies",
+            "index": "6",
+            "quantity": 8.97,
+            "unit_price": 86.92
+        },
+        {
+            "amount": 87.52,
+            "description": "deliver holistic models",
+            "index": "5",
+            "quantity": 6.58,
+            "unit_price": 55.06
+        },
+        {
+            "amount": 458.27,
+            "description": "matrix sticky action-items",
+            "index": "1",
+            "quantity": 1.29,
+            "unit_price": 86.86
+        }
+    ],
+    "seller": {
+        "address": "703 Chad Skyway Apt. 568 Lake Erica, KY 35416",
+        "company_name": "Burns-Turner",
+        "email": "allenmonica@example.org"
+    }
+}

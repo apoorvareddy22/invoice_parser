@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "4105 Johnson Throughway Barrymouth, DC 69569"
+    },
+    "invoice": {
+        "bc_no": "QB47681",
+        "date": "09.06.1996",
+        "maturity_date": "17.10.2023",
+        "number": 903343
+    },
+    "products": [
+        {
+            "amount": 450.19,
+            "description": "syndicate cross-platform interfaces",
+            "quantity": 1.69,
+            "unit_price": 19.65,
+            "vat_amount": 1.66
+        },
+        {
+            "amount": 344.47,
+            "description": "re-contextualize leading-edge architectures",
+            "quantity": 1.33,
+            "unit_price": 49.25,
+            "vat_amount": 1.2
+        },
+        {
+            "amount": 490.53,
+            "description": "engineer interactive action-items",
+            "quantity": 5.35,
+            "unit_price": 86.72,
+            "vat_amount": 7.85
+        },
+        {
+            "amount": 290.35,
+            "description": "orchestrate 24/7 e-business",
+            "quantity": 5.35,
+            "unit_price": 46.44,
+            "vat_amount": 4.04
+        },
+        {
+            "amount": 433.8,
+            "description": "evolve revolutionary info-mediaries",
+            "quantity": 6.05,
+            "unit_price": 75.17,
+            "vat_amount": 4.66
+        },
+        {
+            "amount": 251.83,
+            "description": "transition distributed partnerships",
+            "quantity": 1.34,
+            "unit_price": 26.46,
+            "vat_amount": 2.29
+        }
+    ],
+    "seller": {
+        "address": "09425 Lori Oval Lake Jasonfurt, MT 54099"
+    },
+    "tax": {
+        "amount_excluding_tax": 186.49,
+        "amount_including_tax": 76.45,
+        "tax_amount": 10.02
+    }
+}

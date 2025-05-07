@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "592 White Place South Nathanland, MA 36190",
+        "email": "gomezmolly@example.com",
+        "phone": "5317416898",
+        "vat_no": "YF02440999639"
+    },
+    "invoice": {
+        "date": "15.05.2008",
+        "due_date": "01.07.2000",
+        "market_reference": 967191,
+        "notes": "unleash intuitive mindshare",
+        "number": "2410-3100",
+        "reference": 105876,
+        "vat_no": "VI98082709486"
+    },
+    "payment": {
+        "net_total": 192.59,
+        "total": 521.02
+    },
+    "products": [
+        {
+            "amount": 241.75,
+            "description": "grow sticky channels",
+            "hours": 2.09,
+            "rate": 7.25
+        },
+        {
+            "amount": 17.26,
+            "description": "engage rich e-business",
+            "hours": 6.39,
+            "rate": 4.03
+        },
+        {
+            "amount": 269.61,
+            "description": "matrix transparent networks",
+            "hours": 6.87,
+            "rate": 2.57
+        },
+        {
+            "amount": 431.46,
+            "description": "deploy rich deliverables",
+            "hours": 2.04,
+            "rate": 8.28
+        },
+        {
+            "amount": 459.71,
+            "description": "re-contextualize revolutionary networks",
+            "hours": 2.65,
+            "rate": 5.75
+        },
+        {
+            "amount": 116.44,
+            "description": "syndicate dynamic markets",
+            "hours": 2.48,
+            "rate": 6.1
+        },
+        {
+            "amount": 451.08,
+            "description": "deliver integrated ROI",
+            "hours": 7.81,
+            "rate": 5.96
+        }
+    ],
+    "seller": {
+        "address": "99187 Sarah Road Martinezland, RI 98865",
+        "email": "berglisa@example.org",
+        "name": "Christopher Schneider"
+    },
+    "tax": {
+        "base": 28.17,
+        "tax_amount": 13.15,
+        "total_tax": 19.45
+    }
+}

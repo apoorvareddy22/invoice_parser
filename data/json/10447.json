@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "1303 Peter Road Suite 135 East Renee, AZ 50434",
+        "email": "vstevenson@example.com",
+        "phone": "9852883090",
+        "vat_no": "bj14332138697"
+    },
+    "invoice": {
+        "date": "29.04.2010",
+        "due_date": "16.11.2011",
+        "market_reference": 167174,
+        "notes": "visualize user-centric schemas",
+        "number": "0246-6419",
+        "reference": 421458,
+        "vat_no": "SN04799373397"
+    },
+    "payment": {
+        "net_total": 41.37,
+        "total": 972.97
+    },
+    "products": [
+        {
+            "amount": 381.88,
+            "description": "monetize B2B relationships",
+            "hours": 1.22,
+            "rate": 1.95
+        }
+    ],
+    "seller": {
+        "address": "Unit 7957 Box 1236 DPO AP 08848",
+        "email": "melinda04@example.net",
+        "name": "Mary Ross"
+    },
+    "tax": {
+        "base": 26.31,
+        "tax_amount": 20.22,
+        "total_tax": 21.62
+    }
+}

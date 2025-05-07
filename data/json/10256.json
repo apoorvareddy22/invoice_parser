@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "550 Sanders Turnpike Porterfurt, NC 26540",
+        "email": "snyderchelsea@example.net",
+        "phone": "985.913.3668",
+        "vat_no": "TI66390876128"
+    },
+    "invoice": {
+        "date": "14.10.2017",
+        "due_date": "07.12.2023",
+        "market_reference": 705008,
+        "notes": "enable customized solutions",
+        "number": "1891-7024",
+        "reference": 800229,
+        "vat_no": "qO95687596399"
+    },
+    "payment": {
+        "net_total": 151.14,
+        "total": 654.78
+    },
+    "products": [
+        {
+            "amount": 257.59,
+            "description": "target strategic models",
+            "hours": 9.79,
+            "rate": 5.54
+        }
+    ],
+    "seller": {
+        "address": "295 Michael Circle New Patricialand, HI 04282",
+        "email": "daniellejohnson@example.com",
+        "name": "Norma Murphy"
+    },
+    "tax": {
+        "base": 19.11,
+        "tax_amount": 13.13,
+        "total_tax": 21.69
+    }
+}

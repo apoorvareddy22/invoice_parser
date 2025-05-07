@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "Unit 1113 Box 1922 DPO AP 57006",
+        "id": "XZ440"
+    },
+    "invoice": {
+        "bc_no": "wZ42990",
+        "currency_code": "LYD",
+        "date": "10.09.2015",
+        "due_date": "02.05.1996",
+        "number": 325185
+    },
+    "payment": {
+        "bank_name": "Martin, Johnson and Villa",
+        "bic": "GKXLGB0DKBG",
+        "iban": "DLBF78216302216092"
+    },
+    "products": [
+        {
+            "amount": 314.43,
+            "description": "facilitate one-to-one communities",
+            "index": "8",
+            "price": 90.84,
+            "quantity": 8.59,
+            "tax_amount": 73.08,
+            "total_ttc": 320.62,
+            "vat_amount": 13.74
+        }
+    ],
+    "seller": {
+        "name": "Shannon Dyer"
+    },
+    "supplier": {
+        "address": "545 Becker Island Suite 188 Pachecomouth, ND 15454",
+        "name": "Amanda Aguilar"
+    },
+    "tax": {
+        "amount_excluding_tax": 118.44,
+        "amount_including_tax": 52.38,
+        "tax_amount": 13.51,
+        "total_ht": 154.23,
+        "total_ttc": 361.35
+    }
+}

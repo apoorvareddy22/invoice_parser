@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "467 Wang Vista Mariabury, AR 20060",
+        "company_name": "Wilson, Phillips and Armstrong",
+        "country": "Guam",
+        "name": "Sierra Page"
+    },
+    "invoice": {
+        "date": "23.09.2002",
+        "number": 620826
+    },
+    "payment": {
+        "discount_amount": 49.87,
+        "discount_percentage": 14.25,
+        "due": 163.57,
+        "sub_total": 144.07,
+        "total": 746.7
+    },
+    "products": [
+        {
+            "description": "enhance dot-com networks",
+            "index": "3",
+            "quantity": 2.74,
+            "total_price": 207.43,
+            "unit_price": 96.86
+        },
+        {
+            "description": "architect leading-edge e-commerce",
+            "index": "10",
+            "quantity": 6.98,
+            "total_price": 35.52,
+            "unit_price": 27.6
+        },
+        {
+            "description": "repurpose leading-edge content",
+            "index": "5",
+            "quantity": 5.74,
+            "total_price": 931.62,
+            "unit_price": 44.55
+        },
+        {
+            "description": "implement back-end e-markets",
+            "index": "2",
+            "quantity": 4.56,
+            "total_price": 542.22,
+            "unit_price": 85.73
+        },
+        {
+            "description": "matrix enterprise portals",
+            "index": "1",
+            "quantity": 5.69,
+            "total_price": 628.53,
+            "unit_price": 46.37
+        }
+    ],
+    "seller": {
+        "address": "7846 David Camp Suite 878 Crystalton, ME 47239",
+        "company_name": "Nash, Peters and Taylor",
+        "vat_no": "iE29249759800"
+    }
+}

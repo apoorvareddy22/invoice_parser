@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "515 Zimmerman Isle Apt. 613 Millerfort, VT 87250",
+        "email": "eyates@example.com",
+        "phone": "5342829904",
+        "vat_no": "RD98229260351"
+    },
+    "invoice": {
+        "date": "31.10.1991",
+        "due_date": "18.02.2011",
+        "market_reference": 136545,
+        "notes": "synergize cross-platform applications",
+        "number": "8210-5545",
+        "reference": 905266,
+        "vat_no": "sF89212175370"
+    },
+    "payment": {
+        "net_total": 28.1,
+        "total": 806.81
+    },
+    "products": [
+        {
+            "amount": 126.96,
+            "description": "harness dynamic eyeballs",
+            "hours": 2.56,
+            "rate": 1.27
+        },
+        {
+            "amount": 278.19,
+            "description": "redefine wireless e-business",
+            "hours": 6.47,
+            "rate": 4.63
+        },
+        {
+            "amount": 351.53,
+            "description": "expedite value-added platforms",
+            "hours": 6.1,
+            "rate": 9.82
+        },
+        {
+            "amount": 121.38,
+            "description": "harness killer metrics",
+            "hours": 2.33,
+            "rate": 4.58
+        },
+        {
+            "amount": 249.22,
+            "description": "benchmark synergistic convergence",
+            "hours": 2.73,
+            "rate": 4.69
+        },
+        {
+            "amount": 342.35,
+            "description": "drive next-generation functionalities",
+            "hours": 6.16,
+            "rate": 6.35
+        },
+        {
+            "amount": 442.04,
+            "description": "productize next-generation web services",
+            "hours": 4.79,
+            "rate": 4.64
+        }
+    ],
+    "seller": {
+        "address": "65808 John Meadows Carolstad, IL 75247",
+        "email": "sosajames@example.org",
+        "name": "Tara Anderson"
+    },
+    "tax": {
+        "base": 16.37,
+        "tax_amount": 28.7,
+        "total_tax": 15.37
+    }
+}

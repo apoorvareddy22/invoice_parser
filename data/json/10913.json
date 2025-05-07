@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "9810 Moon Drive Apt. 077 Shaunside, KY 51682",
+        "email": "vbeck@example.com",
+        "phone": "465.499.7963x310",
+        "vat_no": "qw11085714932"
+    },
+    "invoice": {
+        "date": "11.02.2009",
+        "due_date": "12.11.2002",
+        "market_reference": 823175,
+        "notes": "cultivate efficient relationships",
+        "number": "7132-2305",
+        "reference": 953177,
+        "vat_no": "kL88152767666"
+    },
+    "payment": {
+        "net_total": 30.97,
+        "total": 483.59
+    },
+    "products": [
+        {
+            "amount": 226.37,
+            "description": "envisioneer plug-and-play partnerships",
+            "hours": 3.76,
+            "rate": 3.59
+        },
+        {
+            "amount": 83.64,
+            "description": "streamline vertical action-items",
+            "hours": 5.51,
+            "rate": 5.95
+        },
+        {
+            "amount": 341.63,
+            "description": "enhance cross-media paradigms",
+            "hours": 8.13,
+            "rate": 9.2
+        }
+    ],
+    "seller": {
+        "address": "29289 Joel Isle Suite 368 Veronicamouth, VT 77904",
+        "email": "nicholasbrown@example.org",
+        "name": "Alison Bennett"
+    },
+    "tax": {
+        "base": 12.88,
+        "tax_amount": 18.02,
+        "total_tax": 28.08
+    }
+}

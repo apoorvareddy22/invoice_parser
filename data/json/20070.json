@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "16410 Michael Lodge Apt. 693 Petersmouth, WA 64563",
+        "company_name": "Moore-Ortega",
+        "email": "austin97@example.com",
+        "name": "Carl Moreno",
+        "phone": "910.678.6439"
+    },
+    "invoice": {
+        "date": "23.01.1991",
+        "due_date": "15.07.1995",
+        "number": "iba50793231962"
+    },
+    "payment": {
+        "account_number": 4489594570,
+        "bank_name": "Garcia and Sons",
+        "routing_number": 755477644
+    },
+    "products": [
+        {
+            "amount": 47.74,
+            "description": "enhance integrated eyeballs",
+            "index": "3",
+            "quantity": 6.93,
+            "unit_price": 85.13
+        }
+    ],
+    "seller": {
+        "address": "002 Danny Pike New Robertshire, IN 48159",
+        "company_name": "Wells LLC",
+        "email": "hwhite@example.net"
+    }
+}

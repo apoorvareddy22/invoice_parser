@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "315 Patrick Locks West Kevinfort, WI 95559",
+        "id": "Lp823"
+    },
+    "invoice": {
+        "bc_no": "Lw87018",
+        "currency_code": "RON",
+        "date": "19.08.1992",
+        "due_date": "30.03.2015",
+        "number": 817306
+    },
+    "payment": {
+        "bank_name": "Campos, Wang and Prince",
+        "bic": "RJKCGBQK",
+        "iban": "VFXK53170836805659"
+    },
+    "products": [
+        {
+            "amount": 460.26,
+            "description": "enable leading-edge vortals",
+            "index": "4",
+            "price": 178.1,
+            "quantity": 2.82,
+            "tax_amount": 61.5,
+            "total_ttc": 138.02,
+            "vat_amount": 1.86
+        }
+    ],
+    "seller": {
+        "name": "Margaret Trevino"
+    },
+    "supplier": {
+        "address": "46369 Brandon Cove Apt. 191 West Jessica, MT 04534",
+        "name": "Lawrence Porter"
+    },
+    "tax": {
+        "amount_excluding_tax": 18.2,
+        "amount_including_tax": 47.73,
+        "tax_amount": 19.23,
+        "total_ht": 115.65,
+        "total_ttc": 463.22
+    }
+}

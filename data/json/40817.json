@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "9226 Hunter Meadow New Shannon, MA 18537"
+    },
+    "invoice": {
+        "bc_no": "Qq05295",
+        "date": "19.12.2011",
+        "maturity_date": "09.08.1994",
+        "number": 585385
+    },
+    "products": [
+        {
+            "amount": 55.39,
+            "description": "deliver enterprise initiatives",
+            "quantity": 4.58,
+            "unit_price": 27.0,
+            "vat_amount": 2.72
+        },
+        {
+            "amount": 456.59,
+            "description": "cultivate cutting-edge bandwidth",
+            "quantity": 1.7,
+            "unit_price": 29.42,
+            "vat_amount": 3.55
+        }
+    ],
+    "seller": {
+        "address": "PSC 5846, Box 7550 APO AE 05233"
+    },
+    "tax": {
+        "amount_excluding_tax": 178.32,
+        "amount_including_tax": 42.2,
+        "tax_amount": 28.06
+    }
+}

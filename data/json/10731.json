@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "36931 Kelly Light South Dennis, MD 26657",
+        "email": "joel86@example.net",
+        "phone": "(796)466-9839",
+        "vat_no": "YL70753011727"
+    },
+    "invoice": {
+        "date": "05.04.2018",
+        "due_date": "13.11.2000",
+        "market_reference": 525783,
+        "notes": "monetize magnetic schemas",
+        "number": "7467-2913",
+        "reference": 807942,
+        "vat_no": "sH79154598445"
+    },
+    "payment": {
+        "net_total": 114.49,
+        "total": 603.09
+    },
+    "products": [
+        {
+            "amount": 292.21,
+            "description": "disintermediate out-of-the-box experiences",
+            "hours": 6.52,
+            "rate": 3.04
+        },
+        {
+            "amount": 156.09,
+            "description": "disintermediate vertical web-readiness",
+            "hours": 6.12,
+            "rate": 1.48
+        },
+        {
+            "amount": 318.73,
+            "description": "benchmark best-of-breed e-markets",
+            "hours": 2.53,
+            "rate": 3.97
+        }
+    ],
+    "seller": {
+        "address": "603 Ramirez Knoll Apt. 130 Janetview, AL 49952",
+        "email": "qhardin@example.net",
+        "name": "Ruben Duffy"
+    },
+    "tax": {
+        "base": 23.75,
+        "tax_amount": 14.63,
+        "total_tax": 24.87
+    }
+}

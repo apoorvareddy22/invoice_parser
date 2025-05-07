@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "9566 Lowe Mews Apt. 195 North Jessica, OH 47668",
+        "business_no": "nu354",
+        "id": "zr501"
+    },
+    "invoice": {
+        "date": "03.03.2017",
+        "number": "2241-5112"
+    },
+    "payment": {
+        "due_date": "15.09.2010",
+        "total": 447.6
+    },
+    "products": [
+        {
+            "amount": 364.87,
+            "description": "brand leading-edge experiences",
+            "quantity": 1.1,
+            "reference": "UZ-603",
+            "unit_price": 89.1
+        },
+        {
+            "amount": 70.84,
+            "description": "deploy seamless eyeballs",
+            "quantity": 3.02,
+            "reference": "VP-536",
+            "unit_price": 85.53
+        },
+        {
+            "amount": 29.73,
+            "description": "evolve world-class mindshare",
+            "quantity": 7.36,
+            "reference": "rS-994",
+            "unit_price": 88.24
+        },
+        {
+            "amount": 451.69,
+            "description": "aggregate wireless mindshare",
+            "quantity": 8.19,
+            "reference": "xU-650",
+            "unit_price": 86.08
+        },
+        {
+            "amount": 291.8,
+            "description": "unleash user-centric markets",
+            "quantity": 9.74,
+            "reference": "sd-559",
+            "unit_price": 71.39
+        },
+        {
+            "amount": 217.23,
+            "description": "redefine sticky e-services",
+            "quantity": 2.56,
+            "reference": "SP-209",
+            "unit_price": 91.77
+        }
+    ],
+    "seller": {
+        "address": "84067 Kevin Knoll Apt. 507 West Robinville, UT 83351"
+    },
+    "tax": {
+        "base_ht": 418.4,
+        "regulations": 14.09,
+        "total_ht": 367.61,
+        "vat_amount": 96.36,
+        "vat_percentage": 12.34
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "37609 Shepard Lights Suite 810 North Tara, DE 96565",
+        "email": "dan01@example.com",
+        "phone": "(680)321-8249x2721",
+        "vat_no": "an62157135434"
+    },
+    "invoice": {
+        "date": "03.08.2023",
+        "due_date": "26.09.1994",
+        "market_reference": 710519,
+        "notes": "facilitate next-generation initiatives",
+        "number": "9072-0712",
+        "reference": 837633,
+        "vat_no": "Yn73659729446"
+    },
+    "payment": {
+        "net_total": 149.33,
+        "total": 415.84
+    },
+    "products": [
+        {
+            "amount": 320.39,
+            "description": "streamline cross-media convergence",
+            "hours": 9.51,
+            "rate": 5.48
+        }
+    ],
+    "seller": {
+        "address": "944 Jamie Flats Suite 485 New Brandifort, CT 18801",
+        "email": "dparks@example.net",
+        "name": "Caitlin Edwards"
+    },
+    "tax": {
+        "base": 24.64,
+        "tax_amount": 14.64,
+        "total_tax": 23.71
+    }
+}

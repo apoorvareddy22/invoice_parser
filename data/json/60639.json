@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "37419 Murphy Union Apt. 874 Pettymouth, IN 65064",
+        "business_no": "mL059",
+        "id": "Db244"
+    },
+    "invoice": {
+        "date": "28.12.2009",
+        "number": "4229-5185"
+    },
+    "payment": {
+        "due_date": "14.08.2007",
+        "total": 850.9
+    },
+    "products": [
+        {
+            "amount": 131.6,
+            "description": "maximize enterprise content",
+            "quantity": 9.24,
+            "reference": "yv-496",
+            "unit_price": 87.25
+        },
+        {
+            "amount": 362.4,
+            "description": "seize scalable interfaces",
+            "quantity": 6.67,
+            "reference": "cJ-642",
+            "unit_price": 50.28
+        }
+    ],
+    "seller": {
+        "address": "USNV Becker FPO AE 66098"
+    },
+    "tax": {
+        "base_ht": 290.91,
+        "regulations": 15.96,
+        "total_ht": 139.18,
+        "vat_amount": 53.58,
+        "vat_percentage": 24.79
+    }
+}

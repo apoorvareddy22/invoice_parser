@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "315 Michael Spurs South Amandastad, IL 02806",
+        "business_no": "lM497",
+        "id": "dI627"
+    },
+    "invoice": {
+        "date": "08.01.1993",
+        "number": "7514-2814"
+    },
+    "payment": {
+        "due_date": "27.03.2011",
+        "total": 252.76
+    },
+    "products": [
+        {
+            "amount": 475.55,
+            "description": "leverage proactive bandwidth",
+            "quantity": 6.41,
+            "reference": "Im-595",
+            "unit_price": 50.76
+        },
+        {
+            "amount": 208.92,
+            "description": "redefine 24/365 schemas",
+            "quantity": 1.21,
+            "reference": "Ve-497",
+            "unit_price": 50.4
+        },
+        {
+            "amount": 384.01,
+            "description": "revolutionize best-of-breed technologies",
+            "quantity": 6.05,
+            "reference": "WM-103",
+            "unit_price": 57.16
+        }
+    ],
+    "seller": {
+        "address": "646 Matthew Branch Suite 191 Bergton, PW 67003"
+    },
+    "tax": {
+        "base_ht": 248.45,
+        "regulations": 10.26,
+        "total_ht": 419.92,
+        "vat_amount": 110.69,
+        "vat_percentage": 19.34
+    }
+}

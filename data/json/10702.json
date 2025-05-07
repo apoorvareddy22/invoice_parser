@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "863 James Inlet Suite 708 North Daniel, GU 12545",
+        "email": "emilymiller@example.net",
+        "phone": "219-988-4836x006",
+        "vat_no": "Rt05245297366"
+    },
+    "invoice": {
+        "date": "01.03.2017",
+        "due_date": "01.02.2018",
+        "market_reference": 192038,
+        "notes": "enhance dot-com e-markets",
+        "number": "0906-2115",
+        "reference": 117777,
+        "vat_no": "wv84072245727"
+    },
+    "payment": {
+        "net_total": 171.74,
+        "total": 248.83
+    },
+    "products": [
+        {
+            "amount": 259.8,
+            "description": "maximize customized systems",
+            "hours": 8.93,
+            "rate": 9.54
+        },
+        {
+            "amount": 332.29,
+            "description": "synergize front-end solutions",
+            "hours": 5.36,
+            "rate": 7.8
+        }
+    ],
+    "seller": {
+        "address": "56628 Brandy Radial Port Lynn, OH 69299",
+        "email": "reginawells@example.com",
+        "name": "Amy Smith"
+    },
+    "tax": {
+        "base": 27.85,
+        "tax_amount": 10.03,
+        "total_tax": 27.77
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "84940 Smith Valley Laurenmouth, HI 22869",
+        "id": "kW404"
+    },
+    "invoice": {
+        "bc_no": "fG08869",
+        "currency_code": "NOK",
+        "date": "19.12.2015",
+        "due_date": "27.11.2020",
+        "number": 434822
+    },
+    "payment": {
+        "bank_name": "Johnson Inc",
+        "bic": "VQDUGBFQ",
+        "iban": "ZJNF68060383349438"
+    },
+    "products": [
+        {
+            "amount": 483.72,
+            "description": "utilize transparent experiences",
+            "index": "8",
+            "price": 289.11,
+            "quantity": 6.52,
+            "tax_amount": 72.24,
+            "total_ttc": 169.86,
+            "vat_amount": 5.06
+        },
+        {
+            "amount": 264.09,
+            "description": "incentivize e-business e-business",
+            "index": "7",
+            "price": 439.65,
+            "quantity": 3.14,
+            "tax_amount": 62.02,
+            "total_ttc": 364.64,
+            "vat_amount": 6.46
+        },
+        {
+            "amount": 146.82,
+            "description": "deliver frictionless metrics",
+            "index": "8",
+            "price": 76.96,
+            "quantity": 7.89,
+            "tax_amount": 23.51,
+            "total_ttc": 252.57,
+            "vat_amount": 0.07
+        },
+        {
+            "amount": 144.63,
+            "description": "deliver rich e-services",
+            "index": "5",
+            "price": 73.19,
+            "quantity": 3.36,
+            "tax_amount": 76.49,
+            "total_ttc": 457.55,
+            "vat_amount": 3.65
+        }
+    ],
+    "seller": {
+        "name": "Robert Flores"
+    },
+    "supplier": {
+        "address": "92634 Crystal Roads Christopherberg, DE 37581",
+        "name": "Dominic Dean"
+    },
+    "tax": {
+        "amount_excluding_tax": 167.92,
+        "amount_including_tax": 60.5,
+        "tax_amount": 11.51,
+        "total_ht": 178.7,
+        "total_ttc": 278.45
+    }
+}

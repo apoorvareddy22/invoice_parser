@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "8361 Williamson Spring Rachelberg, AZ 75508",
+        "id": "ky648"
+    },
+    "invoice": {
+        "bc_no": "iV52552",
+        "currency_code": "OMR",
+        "date": "17.11.1992",
+        "due_date": "11.12.1996",
+        "number": 135686
+    },
+    "payment": {
+        "bank_name": "Alexander-Hodge",
+        "bic": "BBXDGB03XCZ",
+        "iban": "UWEF11020137641075"
+    },
+    "products": [
+        {
+            "amount": 413.15,
+            "description": "orchestrate B2B systems",
+            "index": "1",
+            "price": 184.47,
+            "quantity": 2.58,
+            "tax_amount": 24.54,
+            "total_ttc": 263.42,
+            "vat_amount": 6.61
+        },
+        {
+            "amount": 474.13,
+            "description": "re-contextualize distributed e-business",
+            "index": "3",
+            "price": 47.26,
+            "quantity": 6.74,
+            "tax_amount": 90.18,
+            "total_ttc": 120.05,
+            "vat_amount": 7.9
+        },
+        {
+            "amount": 56.2,
+            "description": "iterate global eyeballs",
+            "index": "1",
+            "price": 335.84,
+            "quantity": 6.05,
+            "tax_amount": 44.32,
+            "total_ttc": 205.35,
+            "vat_amount": 2.98
+        },
+        {
+            "amount": 158.34,
+            "description": "repurpose compelling supply-chains",
+            "index": "7",
+            "price": 207.06,
+            "quantity": 6.51,
+            "tax_amount": 33.81,
+            "total_ttc": 383.69,
+            "vat_amount": 6.41
+        },
+        {
+            "amount": 341.32,
+            "description": "leverage front-end interfaces",
+            "index": "7",
+            "price": 128.51,
+            "quantity": 5.42,
+            "tax_amount": 79.82,
+            "total_ttc": 199.33,
+            "vat_amount": 6.17
+        }
+    ],
+    "seller": {
+        "name": "Justin Case"
+    },
+    "supplier": {
+        "address": "248 Thomas Track New Stefanie, PA 71653",
+        "name": "Jennifer Munoz"
+    },
+    "tax": {
+        "amount_excluding_tax": 40.28,
+        "amount_including_tax": 94.52,
+        "tax_amount": 11.06,
+        "total_ht": 290.72,
+        "total_ttc": 294.39
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "926 Irwin Street Suite 315 East Kathy, NC 42654",
+        "id": "gl527"
+    },
+    "invoice": {
+        "bc_no": "Wb56890",
+        "currency_code": "TND",
+        "date": "02.07.2023",
+        "due_date": "16.05.2018",
+        "number": 255743
+    },
+    "payment": {
+        "bank_name": "Lee, Riley and Hood",
+        "bic": "DKGCGB30",
+        "iban": "NCDA61009676613294"
+    },
+    "products": [
+        {
+            "amount": 277.65,
+            "description": "facilitate extensible schemas",
+            "index": "9",
+            "price": 22.69,
+            "quantity": 5.72,
+            "tax_amount": 94.46,
+            "total_ttc": 261.5,
+            "vat_amount": 11.3
+        }
+    ],
+    "seller": {
+        "name": "Karen Austin"
+    },
+    "supplier": {
+        "address": "006 Sandra Course Apt. 416 North Brianburgh, ND 96542",
+        "name": "Heidi Owens"
+    },
+    "tax": {
+        "amount_excluding_tax": 35.01,
+        "amount_including_tax": 31.94,
+        "tax_amount": 14.1,
+        "total_ht": 151.32,
+        "total_ttc": 135.78
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "160 Preston Gateway Stevenside, OH 98822",
+        "id": "te016"
+    },
+    "invoice": {
+        "bc_no": "MM79352",
+        "currency_code": "SEK",
+        "date": "13.11.2009",
+        "due_date": "19.02.1995",
+        "number": 523082
+    },
+    "payment": {
+        "bank_name": "Terry, Jones and Escobar",
+        "bic": "PVDKGBRA",
+        "iban": "NMHH28354314875310"
+    },
+    "products": [
+        {
+            "amount": 293.13,
+            "description": "target interactive bandwidth",
+            "index": "10",
+            "price": 21.02,
+            "quantity": 6.11,
+            "tax_amount": 55.29,
+            "total_ttc": 148.37,
+            "vat_amount": 2.17
+        },
+        {
+            "amount": 354.67,
+            "description": "re-contextualize user-centric users",
+            "index": "7",
+            "price": 492.61,
+            "quantity": 5.81,
+            "tax_amount": 93.41,
+            "total_ttc": 121.76,
+            "vat_amount": 2.63
+        },
+        {
+            "amount": 306.58,
+            "description": "iterate front-end vortals",
+            "index": "1",
+            "price": 318.99,
+            "quantity": 2.43,
+            "tax_amount": 73.12,
+            "total_ttc": 170.21,
+            "vat_amount": 11.07
+        }
+    ],
+    "seller": {
+        "name": "Matthew Hardy"
+    },
+    "supplier": {
+        "address": "910 James Crossing Danieltown, CT 82764",
+        "name": "James Mack"
+    },
+    "tax": {
+        "amount_excluding_tax": 163.97,
+        "amount_including_tax": 99.38,
+        "tax_amount": 16.59,
+        "total_ht": 429.17,
+        "total_ttc": 456.98
+    }
+}

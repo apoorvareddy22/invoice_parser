@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "0679 Adam Hollow Suite 580 Gabrielberg, FL 79580",
+        "company_name": "Keith, Whitaker and Oconnor",
+        "email": "jeremiahfarmer@example.com",
+        "name": "Julie Jones",
+        "phone": "001-594-744-2354x218"
+    },
+    "invoice": {
+        "date": "01.12.2008",
+        "due_date": "21.01.2020",
+        "number": "YiR26042223706"
+    },
+    "payment": {
+        "account_number": 1704430819,
+        "bank_name": "Garner, Diaz and Harris",
+        "routing_number": 947798191
+    },
+    "products": [
+        {
+            "amount": 121.27,
+            "description": "seize interactive e-markets",
+            "index": "3",
+            "quantity": 1.35,
+            "unit_price": 35.26
+        }
+    ],
+    "seller": {
+        "address": "4792 Tammy Knoll Apt. 758 Montgomeryfort, MH 88097",
+        "company_name": "Martinez-Turner",
+        "email": "igrimes@example.net"
+    }
+}

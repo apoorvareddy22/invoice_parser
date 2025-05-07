@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "754 Frank Glen South Brandontown, VT 84373",
+        "company_name": "Reynolds and Sons",
+        "country": "Colombia",
+        "name": "Karen Myers"
+    },
+    "invoice": {
+        "date": "19.04.1995",
+        "number": 932118
+    },
+    "payment": {
+        "discount_amount": 21.82,
+        "discount_percentage": 13.06,
+        "due": 163.95,
+        "sub_total": 50.74,
+        "total": 490.0
+    },
+    "products": [
+        {
+            "description": "target scalable metrics",
+            "index": "4",
+            "quantity": 1.19,
+            "total_price": 107.87,
+            "unit_price": 26.19
+        },
+        {
+            "description": "envisioneer virtual info-mediaries",
+            "index": "10",
+            "quantity": 3.29,
+            "total_price": 834.31,
+            "unit_price": 29.36
+        }
+    ],
+    "seller": {
+        "address": "3947 Kayla Square Apt. 851 Shannonchester, AR 36712",
+        "company_name": "Nguyen, Harris and Huerta",
+        "vat_no": "hu32080957379"
+    }
+}

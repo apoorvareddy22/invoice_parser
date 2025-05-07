@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "29728 Graham Lock Stokesberg, TN 05092",
+        "id": "pP011"
+    },
+    "invoice": {
+        "bc_no": "sO29020",
+        "currency_code": "UYU",
+        "date": "12.02.2013",
+        "due_date": "20.03.1992",
+        "number": 536136
+    },
+    "payment": {
+        "bank_name": "Smith-Smith",
+        "bic": "IKJHGBMP",
+        "iban": "IRZK29266357830607"
+    },
+    "products": [
+        {
+            "amount": 15.37,
+            "description": "target sticky web services",
+            "index": "3",
+            "price": 197.77,
+            "quantity": 1.1,
+            "tax_amount": 61.98,
+            "total_ttc": 185.8,
+            "vat_amount": 4.08
+        },
+        {
+            "amount": 473.62,
+            "description": "disintermediate sticky e-business",
+            "index": "10",
+            "price": 489.3,
+            "quantity": 7.4,
+            "tax_amount": 71.91,
+            "total_ttc": 260.89,
+            "vat_amount": 10.72
+        },
+        {
+            "amount": 176.49,
+            "description": "enable global supply-chains",
+            "index": "9",
+            "price": 71.08,
+            "quantity": 2.07,
+            "tax_amount": 42.39,
+            "total_ttc": 434.39,
+            "vat_amount": 6.16
+        },
+        {
+            "amount": 14.55,
+            "description": "harness rich infrastructures",
+            "index": "5",
+            "price": 373.06,
+            "quantity": 4.31,
+            "tax_amount": 67.65,
+            "total_ttc": 168.63,
+            "vat_amount": 11.77
+        },
+        {
+            "amount": 395.12,
+            "description": "syndicate one-to-one schemas",
+            "index": "9",
+            "price": 236.16,
+            "quantity": 6.12,
+            "tax_amount": 27.7,
+            "total_ttc": 416.7,
+            "vat_amount": 3.59
+        },
+        {
+            "amount": 455.86,
+            "description": "re-intermediate seamless applications",
+            "index": "6",
+            "price": 185.26,
+            "quantity": 9.39,
+            "tax_amount": 41.83,
+            "total_ttc": 369.93,
+            "vat_amount": 1.16
+        },
+        {
+            "amount": 276.52,
+            "description": "integrate B2C applications",
+            "index": "7",
+            "price": 249.87,
+            "quantity": 8.16,
+            "tax_amount": 74.99,
+            "total_ttc": 419.87,
+            "vat_amount": 2.59
+        }
+    ],
+    "seller": {
+        "name": "John Thompson"
+    },
+    "supplier": {
+        "address": "17034 Johnson Dam Apt. 986 North Melanie, SD 71726",
+        "name": "Jessica Edwards"
+    },
+    "tax": {
+        "amount_excluding_tax": 88.67,
+        "amount_including_tax": 161.02,
+        "tax_amount": 22.05,
+        "total_ht": 461.54,
+        "total_ttc": 455.06
+    }
+}

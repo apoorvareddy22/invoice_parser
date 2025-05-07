@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "7340 Andrew Circle Suite 146 South Shannonborough, MP 26542"
+    },
+    "invoice": {
+        "bc_no": "es54787",
+        "date": "06.08.2001",
+        "maturity_date": "04.07.2008",
+        "number": 771550
+    },
+    "products": [
+        {
+            "amount": 386.15,
+            "description": "seize clicks-and-mortar web-readiness",
+            "quantity": 2.14,
+            "unit_price": 55.2,
+            "vat_amount": 2.28
+        },
+        {
+            "amount": 126.0,
+            "description": "empower vertical markets",
+            "quantity": 1.64,
+            "unit_price": 65.47,
+            "vat_amount": 6.89
+        },
+        {
+            "amount": 181.5,
+            "description": "whiteboard impactful synergies",
+            "quantity": 7.03,
+            "unit_price": 99.76,
+            "vat_amount": 8.13
+        },
+        {
+            "amount": 199.51,
+            "description": "implement 24/7 schemas",
+            "quantity": 9.04,
+            "unit_price": 91.03,
+            "vat_amount": 14.12
+        },
+        {
+            "amount": 413.88,
+            "description": "repurpose leading-edge e-tailers",
+            "quantity": 5.76,
+            "unit_price": 29.47,
+            "vat_amount": 0.15
+        }
+    ],
+    "seller": {
+        "address": "261 Olson Cliffs Joshuastad, OR 27391"
+    },
+    "tax": {
+        "amount_excluding_tax": 32.08,
+        "amount_including_tax": 174.12,
+        "tax_amount": 16.27
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "PSC 6679, Box 9193 APO AA 23503"
+    },
+    "invoice": {
+        "bc_no": "py18926",
+        "date": "21.05.2002",
+        "maturity_date": "18.11.2016",
+        "number": 711118
+    },
+    "products": [
+        {
+            "amount": 363.05,
+            "description": "synergize extensible channels",
+            "quantity": 1.85,
+            "unit_price": 41.91,
+            "vat_amount": 9.5
+        },
+        {
+            "amount": 427.3,
+            "description": "enhance out-of-the-box markets",
+            "quantity": 7.11,
+            "unit_price": 82.52,
+            "vat_amount": 6.36
+        },
+        {
+            "amount": 432.05,
+            "description": "architect cross-platform schemas",
+            "quantity": 3.18,
+            "unit_price": 43.7,
+            "vat_amount": 2.87
+        },
+        {
+            "amount": 333.77,
+            "description": "reinvent B2B interfaces",
+            "quantity": 2.76,
+            "unit_price": 22.13,
+            "vat_amount": 3.47
+        },
+        {
+            "amount": 460.94,
+            "description": "evolve granular eyeballs",
+            "quantity": 8.73,
+            "unit_price": 37.64,
+            "vat_amount": 3.96
+        }
+    ],
+    "seller": {
+        "address": "92337 Christopher Meadows Apt. 497 New Larryborough, WV 91324"
+    },
+    "tax": {
+        "amount_excluding_tax": 114.99,
+        "amount_including_tax": 16.13,
+        "tax_amount": 20.2
+    }
+}

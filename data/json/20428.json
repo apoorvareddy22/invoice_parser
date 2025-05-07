@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "Unit 7869 Box 4091 DPO AP 87888",
+        "company_name": "Brown LLC",
+        "email": "levinepatricia@example.net",
+        "name": "Tom Gallagher",
+        "phone": "(413)394-1737x45182"
+    },
+    "invoice": {
+        "date": "09.06.2000",
+        "due_date": "02.04.2009",
+        "number": "alA92931985081"
+    },
+    "payment": {
+        "account_number": 9840916809,
+        "bank_name": "Valdez, Nelson and Johnson",
+        "routing_number": 431945266
+    },
+    "products": [
+        {
+            "amount": 89.96,
+            "description": "repurpose turn-key platforms",
+            "index": "4",
+            "quantity": 7.25,
+            "unit_price": 42.63
+        },
+        {
+            "amount": 61.66,
+            "description": "reinvent end-to-end metrics",
+            "index": "10",
+            "quantity": 7.95,
+            "unit_price": 81.03
+        },
+        {
+            "amount": 260.71,
+            "description": "grow visionary functionalities",
+            "index": "4",
+            "quantity": 9.06,
+            "unit_price": 84.86
+        },
+        {
+            "amount": 138.83,
+            "description": "evolve extensible paradigms",
+            "index": "10",
+            "quantity": 2.55,
+            "unit_price": 44.53
+        },
+        {
+            "amount": 161.74,
+            "description": "re-intermediate seamless platforms",
+            "index": "3",
+            "quantity": 1.34,
+            "unit_price": 22.55
+        },
+        {
+            "amount": 62.9,
+            "description": "embrace leading-edge experiences",
+            "index": "8",
+            "quantity": 1.11,
+            "unit_price": 92.33
+        },
+        {
+            "amount": 428.02,
+            "description": "synergize integrated markets",
+            "index": "7",
+            "quantity": 3.49,
+            "unit_price": 61.53
+        }
+    ],
+    "seller": {
+        "address": "2993 Lisa Terrace Jasmineview, OK 56326",
+        "company_name": "Santiago, Bowen and Morales",
+        "email": "rbender@example.com"
+    }
+}

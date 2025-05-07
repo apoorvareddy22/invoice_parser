@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "90820 Wu Turnpike Lake Erikahaven, CO 97029",
+        "email": "carolyndean@example.net",
+        "phone": "425-550-9106",
+        "vat_no": "Fc48826006390"
+    },
+    "invoice": {
+        "date": "07.12.2023",
+        "due_date": "07.05.2018",
+        "market_reference": 942136,
+        "notes": "re-intermediate e-business e-tailers",
+        "number": "7509-4911",
+        "reference": 405191,
+        "vat_no": "cK30559211714"
+    },
+    "payment": {
+        "net_total": 137.16,
+        "total": 869.33
+    },
+    "products": [
+        {
+            "amount": 418.92,
+            "description": "synthesize user-centric e-commerce",
+            "hours": 1.26,
+            "rate": 6.05
+        },
+        {
+            "amount": 75.83,
+            "description": "facilitate killer solutions",
+            "hours": 8.8,
+            "rate": 9.21
+        }
+    ],
+    "seller": {
+        "address": "72115 Humphrey Harbors New Paigeburgh, AZ 08871",
+        "email": "christopherdavis@example.org",
+        "name": "Lee Smith"
+    },
+    "tax": {
+        "base": 12.17,
+        "tax_amount": 23.25,
+        "total_tax": 11.12
+    }
+}

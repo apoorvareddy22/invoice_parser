@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "421 Rachel Viaduct South Johnbury, CO 85184",
+        "email": "hahnmolly@example.org",
+        "phone": "577.679.8933x4157",
+        "vat_no": "Mw40690493470"
+    },
+    "invoice": {
+        "date": "04.12.1990",
+        "due_date": "18.04.1996",
+        "market_reference": 936041,
+        "notes": "mesh one-to-one synergies",
+        "number": "0803-7720",
+        "reference": 927567,
+        "vat_no": "xb97715361949"
+    },
+    "payment": {
+        "net_total": 145.65,
+        "total": 112.85
+    },
+    "products": [
+        {
+            "amount": 425.64,
+            "description": "innovate transparent e-tailers",
+            "hours": 6.36,
+            "rate": 2.37
+        },
+        {
+            "amount": 188.44,
+            "description": "aggregate sticky deliverables",
+            "hours": 9.27,
+            "rate": 6.51
+        },
+        {
+            "amount": 164.35,
+            "description": "maximize front-end networks",
+            "hours": 5.28,
+            "rate": 3.3
+        },
+        {
+            "amount": 358.44,
+            "description": "transition mission-critical markets",
+            "hours": 5.79,
+            "rate": 9.77
+        },
+        {
+            "amount": 432.42,
+            "description": "aggregate mission-critical experiences",
+            "hours": 3.62,
+            "rate": 1.1
+        }
+    ],
+    "seller": {
+        "address": "7270 Shane Flat Suite 917 Barnesburgh, MT 79288",
+        "email": "shawn68@example.net",
+        "name": "Carolyn Perry"
+    },
+    "tax": {
+        "base": 13.85,
+        "tax_amount": 27.79,
+        "total_tax": 17.61
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "66647 Erica Forks Martinezfort, ME 47327",
+        "company_name": "Allen Group",
+        "country": "Japan",
+        "name": "Matthew Nash"
+    },
+    "invoice": {
+        "date": "26.10.2008",
+        "number": 136604
+    },
+    "payment": {
+        "discount_amount": 18.56,
+        "discount_percentage": 10.82,
+        "due": 100.39,
+        "sub_total": 55.88,
+        "total": 368.15
+    },
+    "products": [
+        {
+            "description": "re-contextualize innovative e-commerce",
+            "index": "1",
+            "quantity": 5.79,
+            "total_price": 424.65,
+            "unit_price": 82.96
+        },
+        {
+            "description": "evolve best-of-breed e-services",
+            "index": "5",
+            "quantity": 5.11,
+            "total_price": 989.64,
+            "unit_price": 48.92
+        },
+        {
+            "description": "mesh global action-items",
+            "index": "6",
+            "quantity": 4.09,
+            "total_price": 219.08,
+            "unit_price": 44.53
+        },
+        {
+            "description": "drive cutting-edge systems",
+            "index": "1",
+            "quantity": 7.56,
+            "total_price": 114.38,
+            "unit_price": 77.78
+        }
+    ],
+    "seller": {
+        "address": "PSC 2956, Box 1102 APO AP 65336",
+        "company_name": "Fuller-Brown",
+        "vat_no": "EF54375110676"
+    }
+}

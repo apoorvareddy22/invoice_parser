@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "855 Jasmine Walks Jasonmouth, IA 89866",
+        "id": "Wh926"
+    },
+    "invoice": {
+        "bc_no": "qN71160",
+        "currency_code": "IRR",
+        "date": "01.05.2022",
+        "due_date": "28.02.2015",
+        "number": 639003
+    },
+    "payment": {
+        "bank_name": "Young-Le",
+        "bic": "VYTSGBOBZTC",
+        "iban": "WICY87512542512849"
+    },
+    "products": [
+        {
+            "amount": 264.16,
+            "description": "disintermediate robust synergies",
+            "index": "10",
+            "price": 371.29,
+            "quantity": 4.47,
+            "tax_amount": 34.75,
+            "total_ttc": 162.53,
+            "vat_amount": 0.74
+        },
+        {
+            "amount": 287.02,
+            "description": "transition compelling info-mediaries",
+            "index": "7",
+            "price": 397.1,
+            "quantity": 4.74,
+            "tax_amount": 85.87,
+            "total_ttc": 225.02,
+            "vat_amount": 6.67
+        },
+        {
+            "amount": 19.21,
+            "description": "architect cross-platform models",
+            "index": "2",
+            "price": 431.36,
+            "quantity": 6.6,
+            "tax_amount": 97.97,
+            "total_ttc": 230.2,
+            "vat_amount": 3.71
+        },
+        {
+            "amount": 47.56,
+            "description": "morph clicks-and-mortar schemas",
+            "index": "8",
+            "price": 436.26,
+            "quantity": 7.02,
+            "tax_amount": 73.7,
+            "total_ttc": 462.26,
+            "vat_amount": 3.24
+        }
+    ],
+    "seller": {
+        "name": "Samantha Phillips"
+    },
+    "supplier": {
+        "address": "621 Stephen Summit Suite 363 Jenniferchester, RI 10933",
+        "name": "Ryan Greene"
+    },
+    "tax": {
+        "amount_excluding_tax": 142.39,
+        "amount_including_tax": 129.11,
+        "tax_amount": 16.18,
+        "total_ht": 201.95,
+        "total_ttc": 286.19
+    }
+}

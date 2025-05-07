@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "302 Turner Glens Apt. 532 Port Stephen, GU 25967",
+        "id": "Of040"
+    },
+    "invoice": {
+        "bc_no": "fB41592",
+        "currency_code": "MOP",
+        "date": "24.05.1993",
+        "due_date": "21.12.1997",
+        "number": 265301
+    },
+    "payment": {
+        "bank_name": "Johnson, Duarte and Shaw",
+        "bic": "EHLEGBRV",
+        "iban": "XCHQ41377894388270"
+    },
+    "products": [
+        {
+            "amount": 116.9,
+            "description": "benchmark e-business e-services",
+            "index": "6",
+            "price": 188.64,
+            "quantity": 5.98,
+            "tax_amount": 35.66,
+            "total_ttc": 468.08,
+            "vat_amount": 4.44
+        },
+        {
+            "amount": 458.92,
+            "description": "incentivize out-of-the-box markets",
+            "index": "6",
+            "price": 222.49,
+            "quantity": 9.66,
+            "tax_amount": 33.34,
+            "total_ttc": 378.44,
+            "vat_amount": 4.6
+        }
+    ],
+    "seller": {
+        "name": "William Baker"
+    },
+    "supplier": {
+        "address": "PSC 4835, Box 0540 APO AE 70183",
+        "name": "Jennifer Benson"
+    },
+    "tax": {
+        "amount_excluding_tax": 85.56,
+        "amount_including_tax": 198.26,
+        "tax_amount": 10.4,
+        "total_ht": 114.81,
+        "total_ttc": 215.63
+    }
+}

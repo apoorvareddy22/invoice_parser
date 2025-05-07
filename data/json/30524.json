@@ -1,0 +1,89 @@
+{
+    "buyer": {
+        "address": "3928 Alyssa Common Suite 965 West Laurenborough, IL 41236",
+        "company_name": "Bell-King",
+        "country": "Panama",
+        "email": "jeremyconner@example.org",
+        "name": "Matthew Hull",
+        "phone": "001-251-902-1013",
+        "vat_no": "eX58206829754"
+    },
+    "invoice": {
+        "date": "15.07.2019",
+        "due_date": "26.12.2020",
+        "linked_invoice": "mw-1953-4474",
+        "notes": "whiteboard front-end systems",
+        "number": "YT-2027-0011"
+    },
+    "products": [
+        {
+            "description": "facilitate innovative web services",
+            "discount_percentage": 5.99,
+            "price": 130.95,
+            "quantity": 6.7,
+            "unit_price": 68.74
+        },
+        {
+            "description": "target frictionless vortals",
+            "discount_percentage": 10.28,
+            "price": 173.19,
+            "quantity": 6.32,
+            "unit_price": 47.48
+        },
+        {
+            "description": "generate dot-com content",
+            "discount_percentage": 12.03,
+            "price": 246.15,
+            "quantity": 3.82,
+            "unit_price": 48.34
+        },
+        {
+            "description": "deploy strategic infrastructures",
+            "discount_percentage": 9.15,
+            "price": 135.97,
+            "quantity": 2.67,
+            "unit_price": 80.48
+        },
+        {
+            "description": "iterate dot-com systems",
+            "discount_percentage": 5.01,
+            "price": 204.68,
+            "quantity": 1.54,
+            "unit_price": 66.14
+        },
+        {
+            "description": "optimize plug-and-play e-markets",
+            "discount_percentage": 18.24,
+            "price": 331.89,
+            "quantity": 6.11,
+            "unit_price": 91.03
+        }
+    ],
+    "seller": {
+        "address": "0079 Ramirez Camp Port Jackson, RI 78811",
+        "ape": "6158o",
+        "capital": 55784707,
+        "country": "Timor-Leste",
+        "email": "melissa90@example.com",
+        "name": "Jason Flores",
+        "phone_1": "607.397.8677x6365",
+        "phone_2": "849.833.7210x95405",
+        "phone_3": "001-693-357-1080",
+        "ref_walk": "gFrr3971",
+        "reference": "Bf714",
+        "siret": 12984973560921,
+        "vat_no": "OB19272020075",
+        "website": "https://www.hunter.biz/"
+    },
+    "tax": {
+        "amount_0": 26.88,
+        "amount_1": 13.87,
+        "base_0": 22.43,
+        "base_1": 40.49,
+        "total_ht": 329.14,
+        "total_tax": 20.59,
+        "total_ttc": 449.79,
+        "vat_0": 25.94,
+        "vat_1": 14.47
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "59664 Craig Lake Apt. 561 West Kimberly, CT 60578",
+        "id": "la337"
+    },
+    "invoice": {
+        "bc_no": "qc11533",
+        "currency_code": "DZD",
+        "date": "28.09.1995",
+        "due_date": "30.07.2019",
+        "number": 625495
+    },
+    "payment": {
+        "bank_name": "Baldwin PLC",
+        "bic": "JFCZGB7VVUY",
+        "iban": "MKWT84626562797873"
+    },
+    "products": [
+        {
+            "amount": 199.53,
+            "description": "deliver bleeding-edge bandwidth",
+            "index": "6",
+            "price": 19.76,
+            "quantity": 2.48,
+            "tax_amount": 69.12,
+            "total_ttc": 347.73,
+            "vat_amount": 7.83
+        },
+        {
+            "amount": 239.33,
+            "description": "re-contextualize enterprise schemas",
+            "index": "4",
+            "price": 110.59,
+            "quantity": 8.66,
+            "tax_amount": 46.56,
+            "total_ttc": 249.55,
+            "vat_amount": 2.93
+        }
+    ],
+    "seller": {
+        "name": "Karen Tucker"
+    },
+    "supplier": {
+        "address": "3269 Jacqueline Mountains Apt. 705 Ruthfort, ME 14956",
+        "name": "Scott Davenport"
+    },
+    "tax": {
+        "amount_excluding_tax": 100.95,
+        "amount_including_tax": 77.59,
+        "tax_amount": 21.63,
+        "total_ht": 195.63,
+        "total_ttc": 491.12
+    }
+}

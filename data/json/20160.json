@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "8168 Roy Burg West Sydney, MO 32506",
+        "company_name": "Welch-Smith",
+        "email": "fostermeagan@example.com",
+        "name": "Dale Lamb",
+        "phone": "2666743747"
+    },
+    "invoice": {
+        "date": "24.04.2022",
+        "due_date": "09.09.1995",
+        "number": "iWN56795337908"
+    },
+    "payment": {
+        "account_number": 1371136253,
+        "bank_name": "Kennedy, Green and Stanley",
+        "routing_number": 123393974
+    },
+    "products": [
+        {
+            "amount": 77.54,
+            "description": "reinvent distributed users",
+            "index": "2",
+            "quantity": 7.55,
+            "unit_price": 31.12
+        },
+        {
+            "amount": 252.67,
+            "description": "transform mission-critical ROI",
+            "index": "4",
+            "quantity": 1.72,
+            "unit_price": 26.87
+        }
+    ],
+    "seller": {
+        "address": "098 Lee Lodge New Josemouth, TX 35042",
+        "company_name": "Walter Group",
+        "email": "tylerthompson@example.org"
+    }
+}

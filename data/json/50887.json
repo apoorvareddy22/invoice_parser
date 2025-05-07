@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "300 Perez Estate Suite 952 New Brittanymouth, NY 30495",
+        "id": "bP399"
+    },
+    "invoice": {
+        "bc_no": "kR84926",
+        "currency_code": "MUR",
+        "date": "13.06.1998",
+        "due_date": "13.02.2008",
+        "number": 538545
+    },
+    "payment": {
+        "bank_name": "Sanchez Inc",
+        "bic": "ILALGBZEZBT",
+        "iban": "WXFQ71684790779821"
+    },
+    "products": [
+        {
+            "amount": 43.75,
+            "description": "visualize dynamic networks",
+            "index": "8",
+            "price": 17.5,
+            "quantity": 8.04,
+            "tax_amount": 35.23,
+            "total_ttc": 150.37,
+            "vat_amount": 9.18
+        },
+        {
+            "amount": 139.44,
+            "description": "expedite compelling functionalities",
+            "index": "3",
+            "price": 237.65,
+            "quantity": 1.49,
+            "tax_amount": 52.18,
+            "total_ttc": 220.17,
+            "vat_amount": 2.97
+        },
+        {
+            "amount": 331.19,
+            "description": "transform B2B partnerships",
+            "index": "1",
+            "price": 495.82,
+            "quantity": 6.66,
+            "tax_amount": 66.31,
+            "total_ttc": 402.15,
+            "vat_amount": 2.85
+        },
+        {
+            "amount": 79.93,
+            "description": "benchmark e-business supply-chains",
+            "index": "1",
+            "price": 311.29,
+            "quantity": 7.19,
+            "tax_amount": 42.55,
+            "total_ttc": 485.06,
+            "vat_amount": 5.73
+        },
+        {
+            "amount": 268.69,
+            "description": "streamline leading-edge supply-chains",
+            "index": "8",
+            "price": 241.74,
+            "quantity": 7.72,
+            "tax_amount": 14.4,
+            "total_ttc": 257.06,
+            "vat_amount": 3.95
+        },
+        {
+            "amount": 400.66,
+            "description": "exploit e-business niches",
+            "index": "7",
+            "price": 463.8,
+            "quantity": 5.38,
+            "tax_amount": 51.18,
+            "total_ttc": 101.91,
+            "vat_amount": 3.05
+        }
+    ],
+    "seller": {
+        "name": "James White"
+    },
+    "supplier": {
+        "address": "3299 Stewart Pass West Jefferybury, DE 68599",
+        "name": "Dana Graves"
+    },
+    "tax": {
+        "amount_excluding_tax": 143.94,
+        "amount_including_tax": 120.74,
+        "tax_amount": 14.14,
+        "total_ht": 461.73,
+        "total_ttc": 200.75
+    }
+}

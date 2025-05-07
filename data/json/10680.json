@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "Unit 6243 Box 9113 DPO AA 43228",
+        "email": "allenlaura@example.net",
+        "phone": "+1-354-469-8587x9547",
+        "vat_no": "IH93512217324"
+    },
+    "invoice": {
+        "date": "16.08.2021",
+        "due_date": "15.11.1997",
+        "market_reference": 883747,
+        "notes": "seize value-added paradigms",
+        "number": "3588-8968",
+        "reference": 251628,
+        "vat_no": "ar92791645203"
+    },
+    "payment": {
+        "net_total": 70.77,
+        "total": 485.62
+    },
+    "products": [
+        {
+            "amount": 14.11,
+            "description": "cultivate one-to-one markets",
+            "hours": 9.7,
+            "rate": 8.11
+        }
+    ],
+    "seller": {
+        "address": "Unit 1724 Box 0194 DPO AP 84408",
+        "email": "jmiller@example.org",
+        "name": "Joseph Nelson"
+    },
+    "tax": {
+        "base": 27.4,
+        "tax_amount": 17.85,
+        "total_tax": 20.15
+    }
+}

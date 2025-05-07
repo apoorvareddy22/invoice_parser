@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "221 Tammy Oval Suite 400 West Dylanburgh, WY 67944",
+        "business_no": "cU258",
+        "id": "tB199"
+    },
+    "invoice": {
+        "date": "03.04.2007",
+        "number": "8820-6577"
+    },
+    "payment": {
+        "due_date": "24.07.1994",
+        "total": 919.67
+    },
+    "products": [
+        {
+            "amount": 284.28,
+            "description": "deploy enterprise e-services",
+            "quantity": 8.74,
+            "reference": "IB-690",
+            "unit_price": 52.19
+        },
+        {
+            "amount": 489.13,
+            "description": "revolutionize magnetic architectures",
+            "quantity": 7.2,
+            "reference": "Lc-806",
+            "unit_price": 94.2
+        },
+        {
+            "amount": 348.69,
+            "description": "whiteboard dot-com e-tailers",
+            "quantity": 1.88,
+            "reference": "dQ-829",
+            "unit_price": 58.19
+        },
+        {
+            "amount": 423.32,
+            "description": "seize web-enabled architectures",
+            "quantity": 3.22,
+            "reference": "AT-643",
+            "unit_price": 45.7
+        },
+        {
+            "amount": 91.38,
+            "description": "whiteboard killer e-tailers",
+            "quantity": 1.11,
+            "reference": "ea-861",
+            "unit_price": 76.48
+        }
+    ],
+    "seller": {
+        "address": "157 Becker Walks Adamtown, AZ 31649"
+    },
+    "tax": {
+        "base_ht": 377.51,
+        "regulations": 13.85,
+        "total_ht": 335.25,
+        "vat_amount": 167.57,
+        "vat_percentage": 13.85
+    }
+}

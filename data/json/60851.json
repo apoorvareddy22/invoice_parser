@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "080 Johnson Divide Apt. 503 Stantonshire, CO 90044",
+        "business_no": "Jj844",
+        "id": "Xm972"
+    },
+    "invoice": {
+        "date": "02.11.2010",
+        "number": "8905-8587"
+    },
+    "payment": {
+        "due_date": "04.07.2013",
+        "total": 311.81
+    },
+    "products": [
+        {
+            "amount": 487.16,
+            "description": "expedite customized eyeballs",
+            "quantity": 6.47,
+            "reference": "Hx-970",
+            "unit_price": 32.59
+        },
+        {
+            "amount": 401.68,
+            "description": "envisioneer dot-com systems",
+            "quantity": 3.55,
+            "reference": "eQ-525",
+            "unit_price": 60.48
+        },
+        {
+            "amount": 483.44,
+            "description": "deliver virtual content",
+            "quantity": 4.79,
+            "reference": "UA-396",
+            "unit_price": 12.1
+        },
+        {
+            "amount": 31.92,
+            "description": "syndicate cross-media schemas",
+            "quantity": 1.87,
+            "reference": "bB-677",
+            "unit_price": 32.15
+        }
+    ],
+    "seller": {
+        "address": "USS Herrera FPO AE 64454"
+    },
+    "tax": {
+        "base_ht": 383.71,
+        "regulations": 28.35,
+        "total_ht": 274.49,
+        "vat_amount": 40.09,
+        "vat_percentage": 23.06
+    }
+}

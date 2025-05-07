@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "Unit 5678 Box 8681 DPO AP 23753",
+        "email": "leonardmccarty@example.org",
+        "phone": "(308)613-8937x7647",
+        "vat_no": "fK33371649089"
+    },
+    "invoice": {
+        "date": "03.10.2006",
+        "due_date": "29.09.1995",
+        "market_reference": 366592,
+        "notes": "monetize back-end e-markets",
+        "number": "4839-6187",
+        "reference": 255661,
+        "vat_no": "GW99283719473"
+    },
+    "payment": {
+        "net_total": 158.93,
+        "total": 488.5
+    },
+    "products": [
+        {
+            "amount": 400.44,
+            "description": "e-enable ubiquitous web services",
+            "hours": 7.3,
+            "rate": 8.84
+        },
+        {
+            "amount": 190.25,
+            "description": "revolutionize leading-edge partnerships",
+            "hours": 7.34,
+            "rate": 3.73
+        },
+        {
+            "amount": 6.79,
+            "description": "deliver cross-media deliverables",
+            "hours": 9.78,
+            "rate": 2.53
+        }
+    ],
+    "seller": {
+        "address": "USNV Wall FPO AP 72797",
+        "email": "anthonyjohnson@example.com",
+        "name": "David Pacheco"
+    },
+    "tax": {
+        "base": 14.32,
+        "tax_amount": 12.81,
+        "total_tax": 23.6
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "3512 Smith Fork Lake Brandon, MO 86236",
+        "id": "xV379"
+    },
+    "invoice": {
+        "bc_no": "NX93100",
+        "currency_code": "CDF",
+        "date": "08.04.2020",
+        "due_date": "08.01.2002",
+        "number": 104083
+    },
+    "payment": {
+        "bank_name": "Reynolds Ltd",
+        "bic": "KLRPGBEGVM2",
+        "iban": "WXLA90773400037359"
+    },
+    "products": [
+        {
+            "amount": 493.67,
+            "description": "grow cutting-edge solutions",
+            "index": "2",
+            "price": 390.5,
+            "quantity": 5.81,
+            "tax_amount": 24.56,
+            "total_ttc": 120.39,
+            "vat_amount": 13.42
+        }
+    ],
+    "seller": {
+        "name": "Charles Howard"
+    },
+    "supplier": {
+        "address": "7274 Dana Overpass South Markshire, KS 83561",
+        "name": "Emily Walker"
+    },
+    "tax": {
+        "amount_excluding_tax": 166.32,
+        "amount_including_tax": 65.18,
+        "tax_amount": 13.47,
+        "total_ht": 170.26,
+        "total_ttc": 436.86
+    }
+}

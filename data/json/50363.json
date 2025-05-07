@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "4733 Valdez Ways Gonzalezshire, CA 57867",
+        "id": "Tu588"
+    },
+    "invoice": {
+        "bc_no": "Me28523",
+        "currency_code": "SBD",
+        "date": "06.09.2002",
+        "due_date": "08.05.2008",
+        "number": 136031
+    },
+    "payment": {
+        "bank_name": "Wilkinson-Harrison",
+        "bic": "TEUVGB9G",
+        "iban": "KGBI35211580620263"
+    },
+    "products": [
+        {
+            "amount": 477.77,
+            "description": "incubate holistic e-services",
+            "index": "1",
+            "price": 83.0,
+            "quantity": 1.31,
+            "tax_amount": 30.22,
+            "total_ttc": 232.97,
+            "vat_amount": 2.82
+        },
+        {
+            "amount": 50.21,
+            "description": "extend best-of-breed web-readiness",
+            "index": "1",
+            "price": 99.11,
+            "quantity": 4.38,
+            "tax_amount": 65.94,
+            "total_ttc": 470.91,
+            "vat_amount": 2.02
+        },
+        {
+            "amount": 194.02,
+            "description": "morph collaborative experiences",
+            "index": "1",
+            "price": 217.51,
+            "quantity": 9.9,
+            "tax_amount": 70.85,
+            "total_ttc": 225.44,
+            "vat_amount": 3.81
+        },
+        {
+            "amount": 421.05,
+            "description": "re-intermediate distributed interfaces",
+            "index": "10",
+            "price": 47.21,
+            "quantity": 1.59,
+            "tax_amount": 54.26,
+            "total_ttc": 319.65,
+            "vat_amount": 6.62
+        }
+    ],
+    "seller": {
+        "name": "Martin Howell"
+    },
+    "supplier": {
+        "address": "7361 Benton Ferry Suite 327 Lake Adam, LA 38039",
+        "name": "Amber Wheeler"
+    },
+    "tax": {
+        "amount_excluding_tax": 197.24,
+        "amount_including_tax": 71.02,
+        "tax_amount": 12.28,
+        "total_ht": 208.89,
+        "total_ttc": 116.49
+    }
+}

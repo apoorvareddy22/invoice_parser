@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "04192 Weiss Gateway Apt. 012 South Michelle, IA 48148",
+        "id": "sj951"
+    },
+    "invoice": {
+        "bc_no": "gK24140",
+        "currency_code": "BTN",
+        "date": "02.01.2023",
+        "due_date": "09.09.2022",
+        "number": 326257
+    },
+    "payment": {
+        "bank_name": "Barker-Wright",
+        "bic": "YBSBGBB5",
+        "iban": "EEOA88406423604843"
+    },
+    "products": [
+        {
+            "amount": 415.89,
+            "description": "orchestrate innovative eyeballs",
+            "index": "2",
+            "price": 272.79,
+            "quantity": 4.78,
+            "tax_amount": 72.35,
+            "total_ttc": 434.09,
+            "vat_amount": 2.98
+        },
+        {
+            "amount": 240.85,
+            "description": "monetize enterprise channels",
+            "index": "10",
+            "price": 283.74,
+            "quantity": 4.72,
+            "tax_amount": 87.03,
+            "total_ttc": 331.57,
+            "vat_amount": 2.72
+        },
+        {
+            "amount": 409.35,
+            "description": "utilize robust networks",
+            "index": "6",
+            "price": 430.02,
+            "quantity": 1.81,
+            "tax_amount": 71.15,
+            "total_ttc": 197.04,
+            "vat_amount": 8.12
+        }
+    ],
+    "seller": {
+        "name": "Paula Charles"
+    },
+    "supplier": {
+        "address": "841 Mercer Plaza Kimton, LA 25783",
+        "name": "Tony Gibson"
+    },
+    "tax": {
+        "amount_excluding_tax": 38.63,
+        "amount_including_tax": 41.71,
+        "tax_amount": 17.77,
+        "total_ht": 109.01,
+        "total_ttc": 335.85
+    }
+}

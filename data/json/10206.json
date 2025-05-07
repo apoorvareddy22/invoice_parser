@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "039 William Route West Brian, MS 15719",
+        "email": "lewischristina@example.net",
+        "phone": "+1-704-447-2084x5817",
+        "vat_no": "PH94092334009"
+    },
+    "invoice": {
+        "date": "23.05.2023",
+        "due_date": "03.09.2023",
+        "market_reference": 387543,
+        "notes": "enable mission-critical experiences",
+        "number": "5508-9657",
+        "reference": 990089,
+        "vat_no": "aI69955020771"
+    },
+    "payment": {
+        "net_total": 109.4,
+        "total": 551.54
+    },
+    "products": [
+        {
+            "amount": 232.16,
+            "description": "transition end-to-end systems",
+            "hours": 3.15,
+            "rate": 8.73
+        },
+        {
+            "amount": 473.93,
+            "description": "benchmark back-end content",
+            "hours": 3.2,
+            "rate": 9.3
+        },
+        {
+            "amount": 69.83,
+            "description": "repurpose plug-and-play web-readiness",
+            "hours": 4.52,
+            "rate": 2.26
+        },
+        {
+            "amount": 389.86,
+            "description": "unleash efficient e-commerce",
+            "hours": 6.11,
+            "rate": 4.37
+        },
+        {
+            "amount": 346.71,
+            "description": "enhance intuitive methodologies",
+            "hours": 3.58,
+            "rate": 8.25
+        },
+        {
+            "amount": 280.1,
+            "description": "evolve visionary solutions",
+            "hours": 2.87,
+            "rate": 5.78
+        }
+    ],
+    "seller": {
+        "address": "74221 Rebecca Roads Apt. 330 Sierraton, RI 97924",
+        "email": "roystephanie@example.com",
+        "name": "Christopher Ponce"
+    },
+    "tax": {
+        "base": 24.39,
+        "tax_amount": 23.03,
+        "total_tax": 29.79
+    }
+}

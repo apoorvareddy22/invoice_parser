@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "44909 John Forge Apt. 149 Duncanfort, ND 60239",
+        "email": "natalie70@example.org",
+        "phone": "4546680053",
+        "vat_no": "NU61991186091"
+    },
+    "invoice": {
+        "date": "27.03.2021",
+        "due_date": "05.09.2019",
+        "market_reference": 456538,
+        "notes": "syndicate seamless content",
+        "number": "8311-8905",
+        "reference": 300185,
+        "vat_no": "wU86630220230"
+    },
+    "payment": {
+        "net_total": 186.13,
+        "total": 208.13
+    },
+    "products": [
+        {
+            "amount": 169.09,
+            "description": "embrace intuitive networks",
+            "hours": 3.05,
+            "rate": 5.73
+        },
+        {
+            "amount": 328.78,
+            "description": "enable holistic deliverables",
+            "hours": 8.81,
+            "rate": 8.13
+        }
+    ],
+    "seller": {
+        "address": "USNV Torres FPO AA 88044",
+        "email": "jclay@example.net",
+        "name": "Craig Cochran"
+    },
+    "tax": {
+        "base": 15.19,
+        "tax_amount": 28.04,
+        "total_tax": 18.22
+    }
+}

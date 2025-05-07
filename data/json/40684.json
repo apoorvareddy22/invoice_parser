@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "32692 Blair Branch North Dustinview, KS 02823"
+    },
+    "invoice": {
+        "bc_no": "Ej15661",
+        "date": "30.09.2018",
+        "maturity_date": "20.02.2011",
+        "number": 351158
+    },
+    "products": [
+        {
+            "amount": 259.86,
+            "description": "orchestrate granular e-business",
+            "quantity": 5.58,
+            "unit_price": 38.84,
+            "vat_amount": 4.8
+        },
+        {
+            "amount": 343.81,
+            "description": "leverage e-business technologies",
+            "quantity": 6.08,
+            "unit_price": 38.82,
+            "vat_amount": 4.42
+        }
+    ],
+    "seller": {
+        "address": "72666 Hickman Trail Suite 822 South Savannahborough, IN 44989"
+    },
+    "tax": {
+        "amount_excluding_tax": 92.91,
+        "amount_including_tax": 58.95,
+        "tax_amount": 29.27
+    }
+}

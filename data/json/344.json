@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "203 David Villages Apt. 418 Kiaraport, MD 40653",
+        "company_name": "Young, Davis and Schneider",
+        "country": "Latvia",
+        "name": "Michael Campbell"
+    },
+    "invoice": {
+        "date": "07.01.2019",
+        "number": 948574
+    },
+    "payment": {
+        "discount_amount": 12.07,
+        "discount_percentage": 14.78,
+        "due": 35.28,
+        "sub_total": 36.19,
+        "total": 668.0
+    },
+    "products": [
+        {
+            "description": "deploy cutting-edge methodologies",
+            "index": "4",
+            "quantity": 9.47,
+            "total_price": 453.67,
+            "unit_price": 63.27
+        },
+        {
+            "description": "drive leading-edge networks",
+            "index": "8",
+            "quantity": 8.44,
+            "total_price": 158.02,
+            "unit_price": 12.05
+        },
+        {
+            "description": "expedite web-enabled partnerships",
+            "index": "4",
+            "quantity": 7.11,
+            "total_price": 147.04,
+            "unit_price": 85.24
+        }
+    ],
+    "seller": {
+        "address": "PSC 4307, Box 0856 APO AE 83589",
+        "company_name": "Krause Ltd",
+        "vat_no": "aT67533365184"
+    }
+}

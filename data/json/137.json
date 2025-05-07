@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "15434 Connor Station Apt. 129 Markchester, VT 12547",
+        "company_name": "Bush LLC",
+        "country": "Afghanistan",
+        "name": "Amy Perez"
+    },
+    "invoice": {
+        "date": "14.12.2016",
+        "number": 379033
+    },
+    "payment": {
+        "discount_amount": 10.39,
+        "discount_percentage": 10.08,
+        "due": 124.08,
+        "sub_total": 156.02,
+        "total": 854.65
+    },
+    "products": [
+        {
+            "description": "transition world-class e-tailers",
+            "index": "5",
+            "quantity": 9.0,
+            "total_price": 976.92,
+            "unit_price": 76.75
+        },
+        {
+            "description": "integrate wireless mindshare",
+            "index": "7",
+            "quantity": 2.62,
+            "total_price": 297.82,
+            "unit_price": 41.26
+        },
+        {
+            "description": "strategize cross-platform users",
+            "index": "1",
+            "quantity": 6.66,
+            "total_price": 39.09,
+            "unit_price": 31.79
+        }
+    ],
+    "seller": {
+        "address": "47002 Price Fall Suite 491 Davidborough, MS 32144",
+        "company_name": "Peterson, Dennis and Norton",
+        "vat_no": "mz46450855641"
+    }
+}

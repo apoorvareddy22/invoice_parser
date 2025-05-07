@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "2420 Laura Parks Suite 966 Sandovalside, TN 84746",
+        "email": "jennifer71@example.com",
+        "phone": "865-956-3895",
+        "vat_no": "dJ17217247406"
+    },
+    "invoice": {
+        "date": "14.02.2020",
+        "due_date": "24.12.2011",
+        "market_reference": 223002,
+        "notes": "integrate mission-critical eyeballs",
+        "number": "0658-9441",
+        "reference": 650443,
+        "vat_no": "Ef52018839970"
+    },
+    "payment": {
+        "net_total": 32.94,
+        "total": 629.49
+    },
+    "products": [
+        {
+            "amount": 391.79,
+            "description": "target e-business technologies",
+            "hours": 2.97,
+            "rate": 8.19
+        },
+        {
+            "amount": 342.25,
+            "description": "optimize synergistic interfaces",
+            "hours": 1.79,
+            "rate": 1.88
+        }
+    ],
+    "seller": {
+        "address": "98852 Wagner Harbor South Julia, UT 32644",
+        "email": "shaneburnett@example.com",
+        "name": "Vanessa Phillips"
+    },
+    "tax": {
+        "base": 22.9,
+        "tax_amount": 18.96,
+        "total_tax": 22.61
+    }
+}

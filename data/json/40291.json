@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "USNS Phillips FPO AA 41059"
+    },
+    "invoice": {
+        "bc_no": "JX83490",
+        "date": "20.06.2019",
+        "maturity_date": "04.08.2000",
+        "number": 119642
+    },
+    "products": [
+        {
+            "amount": 432.09,
+            "description": "monetize extensible e-tailers",
+            "quantity": 3.08,
+            "unit_price": 81.8,
+            "vat_amount": 0.28
+        },
+        {
+            "amount": 153.45,
+            "description": "harness magnetic communities",
+            "quantity": 8.12,
+            "unit_price": 98.1,
+            "vat_amount": 1.82
+        }
+    ],
+    "seller": {
+        "address": "Unit 4333 Box 6781 DPO AP 64965"
+    },
+    "tax": {
+        "amount_excluding_tax": 16.21,
+        "amount_including_tax": 51.4,
+        "tax_amount": 12.22
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "05826 Walker Heights Apt. 401 Port Donald, SC 70182",
+        "id": "Gt846"
+    },
+    "invoice": {
+        "bc_no": "ZK48499",
+        "currency_code": "PLN",
+        "date": "09.03.2004",
+        "due_date": "11.03.2004",
+        "number": 973091
+    },
+    "payment": {
+        "bank_name": "Robinson LLC",
+        "bic": "MDLUGBT8JHL",
+        "iban": "WEIO33497840194865"
+    },
+    "products": [
+        {
+            "amount": 20.83,
+            "description": "monetize granular partnerships",
+            "index": "2",
+            "price": 466.4,
+            "quantity": 5.27,
+            "tax_amount": 67.06,
+            "total_ttc": 323.89,
+            "vat_amount": 0.7
+        }
+    ],
+    "seller": {
+        "name": "Kiara Andersen"
+    },
+    "supplier": {
+        "address": "830 Goodwin Shore Port Katiestad, IA 30002",
+        "name": "Ashley Sanchez"
+    },
+    "tax": {
+        "amount_excluding_tax": 44.24,
+        "amount_including_tax": 110.46,
+        "tax_amount": 10.98,
+        "total_ht": 122.44,
+        "total_ttc": 391.36
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "05592 Wilson Highway Roberthaven, MT 41869"
+    },
+    "invoice": {
+        "bc_no": "ok64398",
+        "date": "25.05.2003",
+        "maturity_date": "24.10.1993",
+        "number": 427452
+    },
+    "products": [
+        {
+            "amount": 308.84,
+            "description": "innovate real-time e-tailers",
+            "quantity": 5.05,
+            "unit_price": 52.87,
+            "vat_amount": 2.94
+        },
+        {
+            "amount": 312.29,
+            "description": "innovate enterprise action-items",
+            "quantity": 5.69,
+            "unit_price": 15.77,
+            "vat_amount": 5.3
+        }
+    ],
+    "seller": {
+        "address": "Unit 6392 Box 5618 DPO AE 70029"
+    },
+    "tax": {
+        "amount_excluding_tax": 77.33,
+        "amount_including_tax": 162.03,
+        "tax_amount": 15.77
+    }
+}

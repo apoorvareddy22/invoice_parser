@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "67367 Sabrina Junction Apt. 362 Murillofort, LA 35275",
+        "business_no": "lS373",
+        "id": "DQ899"
+    },
+    "invoice": {
+        "date": "25.12.2016",
+        "number": "1419-7833"
+    },
+    "payment": {
+        "due_date": "01.01.2005",
+        "total": 459.29
+    },
+    "products": [
+        {
+            "amount": 221.35,
+            "description": "transition leading-edge action-items",
+            "quantity": 6.67,
+            "reference": "DY-088",
+            "unit_price": 48.42
+        },
+        {
+            "amount": 28.52,
+            "description": "cultivate back-end systems",
+            "quantity": 4.89,
+            "reference": "Jm-706",
+            "unit_price": 45.55
+        }
+    ],
+    "seller": {
+        "address": "USNV Price FPO AE 27345"
+    },
+    "tax": {
+        "base_ht": 265.09,
+        "regulations": 20.8,
+        "total_ht": 293.41,
+        "vat_amount": 13.84,
+        "vat_percentage": 18.89
+    }
+}

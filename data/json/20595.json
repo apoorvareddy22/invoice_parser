@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "USCGC Allen FPO AE 46171",
+        "company_name": "Greene Inc",
+        "email": "ujohnson@example.com",
+        "name": "Janice Edwards",
+        "phone": "+1-475-606-3330"
+    },
+    "invoice": {
+        "date": "30.07.1996",
+        "due_date": "21.03.2020",
+        "number": "lyQ45239761641"
+    },
+    "payment": {
+        "account_number": 8740171785,
+        "bank_name": "Hernandez-Smith",
+        "routing_number": 970781531
+    },
+    "products": [
+        {
+            "amount": 60.85,
+            "description": "empower cutting-edge e-tailers",
+            "index": "10",
+            "quantity": 3.22,
+            "unit_price": 18.98
+        },
+        {
+            "amount": 347.21,
+            "description": "drive leading-edge content",
+            "index": "6",
+            "quantity": 1.53,
+            "unit_price": 89.11
+        }
+    ],
+    "seller": {
+        "address": "769 Michelle Parks Apt. 875 Mistyville, TN 46539",
+        "company_name": "Martin-Watkins",
+        "email": "cwilliams@example.org"
+    }
+}

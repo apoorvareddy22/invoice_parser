@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "6323 Klein Plains Lisaland, MA 21129",
+        "id": "kt970"
+    },
+    "invoice": {
+        "bc_no": "cz37477",
+        "currency_code": "BBD",
+        "date": "22.02.2023",
+        "due_date": "19.12.2001",
+        "number": 482998
+    },
+    "payment": {
+        "bank_name": "Clark, Berger and Flores",
+        "bic": "AWHDGBZ0OWJ",
+        "iban": "GCPC37672431627507"
+    },
+    "products": [
+        {
+            "amount": 295.78,
+            "description": "leverage collaborative systems",
+            "index": "9",
+            "price": 338.29,
+            "quantity": 8.34,
+            "tax_amount": 74.07,
+            "total_ttc": 116.5,
+            "vat_amount": 13.58
+        },
+        {
+            "amount": 409.64,
+            "description": "monetize e-business solutions",
+            "index": "1",
+            "price": 172.3,
+            "quantity": 3.48,
+            "tax_amount": 54.9,
+            "total_ttc": 285.95,
+            "vat_amount": 11.59
+        },
+        {
+            "amount": 411.54,
+            "description": "leverage scalable mindshare",
+            "index": "10",
+            "price": 481.92,
+            "quantity": 9.59,
+            "tax_amount": 16.73,
+            "total_ttc": 303.86,
+            "vat_amount": 1.16
+        },
+        {
+            "amount": 400.79,
+            "description": "implement dynamic applications",
+            "index": "10",
+            "price": 447.44,
+            "quantity": 3.11,
+            "tax_amount": 55.76,
+            "total_ttc": 291.99,
+            "vat_amount": 2.75
+        }
+    ],
+    "seller": {
+        "name": "Krystal Reed"
+    },
+    "supplier": {
+        "address": "657 Cook Fall Suite 538 West Patrickshire, NH 27333",
+        "name": "James Ortiz"
+    },
+    "tax": {
+        "amount_excluding_tax": 107.69,
+        "amount_including_tax": 151.82,
+        "tax_amount": 14.38,
+        "total_ht": 102.46,
+        "total_ttc": 415.93
+    }
+}

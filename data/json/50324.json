@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "15127 Corey Inlet Apt. 566 Molinaburgh, ND 73139",
+        "id": "tz754"
+    },
+    "invoice": {
+        "bc_no": "kn53553",
+        "currency_code": "MRO",
+        "date": "07.01.2004",
+        "due_date": "01.10.2003",
+        "number": 456030
+    },
+    "payment": {
+        "bank_name": "Hopkins LLC",
+        "bic": "VWDTGBX6",
+        "iban": "OJXB86659402682810"
+    },
+    "products": [
+        {
+            "amount": 265.81,
+            "description": "incentivize out-of-the-box models",
+            "index": "10",
+            "price": 220.93,
+            "quantity": 7.2,
+            "tax_amount": 81.41,
+            "total_ttc": 375.4,
+            "vat_amount": 13.27
+        },
+        {
+            "amount": 436.93,
+            "description": "benchmark ubiquitous e-markets",
+            "index": "1",
+            "price": 119.18,
+            "quantity": 2.8,
+            "tax_amount": 98.45,
+            "total_ttc": 406.12,
+            "vat_amount": 2.51
+        },
+        {
+            "amount": 422.49,
+            "description": "scale ubiquitous partnerships",
+            "index": "8",
+            "price": 212.13,
+            "quantity": 5.39,
+            "tax_amount": 36.34,
+            "total_ttc": 257.32,
+            "vat_amount": 3.03
+        },
+        {
+            "amount": 75.52,
+            "description": "reinvent best-of-breed paradigms",
+            "index": "1",
+            "price": 64.76,
+            "quantity": 6.88,
+            "tax_amount": 50.75,
+            "total_ttc": 187.31,
+            "vat_amount": 3.17
+        },
+        {
+            "amount": 154.61,
+            "description": "scale leading-edge infrastructures",
+            "index": "8",
+            "price": 109.52,
+            "quantity": 2.04,
+            "tax_amount": 64.82,
+            "total_ttc": 177.97,
+            "vat_amount": 13.8
+        },
+        {
+            "amount": 402.23,
+            "description": "brand ubiquitous action-items",
+            "index": "1",
+            "price": 486.15,
+            "quantity": 4.91,
+            "tax_amount": 16.4,
+            "total_ttc": 144.44,
+            "vat_amount": 2.18
+        },
+        {
+            "amount": 405.98,
+            "description": "utilize bricks-and-clicks architectures",
+            "index": "2",
+            "price": 182.61,
+            "quantity": 5.91,
+            "tax_amount": 79.92,
+            "total_ttc": 198.12,
+            "vat_amount": 1.6
+        }
+    ],
+    "seller": {
+        "name": "Paul Cook"
+    },
+    "supplier": {
+        "address": "PSC 1771, Box 7539 APO AE 57072",
+        "name": "Justin Harvey"
+    },
+    "tax": {
+        "amount_excluding_tax": 116.47,
+        "amount_including_tax": 36.21,
+        "tax_amount": 17.17,
+        "total_ht": 125.33,
+        "total_ttc": 196.77
+    }
+}

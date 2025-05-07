@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "Unit 1802 Box 1307 DPO AA 82375"
+    },
+    "invoice": {
+        "bc_no": "ig96870",
+        "date": "28.01.2022",
+        "maturity_date": "07.06.2005",
+        "number": 874814
+    },
+    "products": [
+        {
+            "amount": 226.17,
+            "description": "engineer integrated applications",
+            "quantity": 2.61,
+            "unit_price": 16.1,
+            "vat_amount": 4.21
+        },
+        {
+            "amount": 115.86,
+            "description": "re-intermediate front-end e-commerce",
+            "quantity": 3.11,
+            "unit_price": 23.84,
+            "vat_amount": 5.37
+        }
+    ],
+    "seller": {
+        "address": "3809 Sherman Forges Suite 287 Markmouth, NE 30142"
+    },
+    "tax": {
+        "amount_excluding_tax": 145.91,
+        "amount_including_tax": 139.6,
+        "tax_amount": 23.17
+    }
+}

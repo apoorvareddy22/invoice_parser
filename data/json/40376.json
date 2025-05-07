@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "5455 Lane Creek Markland, MO 85593"
+    },
+    "invoice": {
+        "bc_no": "Yq54123",
+        "date": "26.01.2015",
+        "maturity_date": "18.06.2006",
+        "number": 888459
+    },
+    "products": [
+        {
+            "amount": 206.71,
+            "description": "orchestrate holistic e-tailers",
+            "quantity": 3.92,
+            "unit_price": 23.2,
+            "vat_amount": 3.52
+        },
+        {
+            "amount": 470.42,
+            "description": "matrix integrated e-business",
+            "quantity": 7.32,
+            "unit_price": 64.55,
+            "vat_amount": 3.47
+        }
+    ],
+    "seller": {
+        "address": "Unit 9547 Box 6254 DPO AA 41056"
+    },
+    "tax": {
+        "amount_excluding_tax": 101.93,
+        "amount_including_tax": 100.64,
+        "tax_amount": 20.97
+    }
+}

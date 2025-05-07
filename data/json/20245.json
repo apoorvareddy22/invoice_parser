@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "09141 Adam Path Suite 316 Andreaville, AZ 72680",
+        "company_name": "Freeman-Lopez",
+        "email": "john15@example.org",
+        "name": "Tina Hernandez",
+        "phone": "267-273-3695"
+    },
+    "invoice": {
+        "date": "07.07.2002",
+        "due_date": "05.03.2015",
+        "number": "nHN72482732241"
+    },
+    "payment": {
+        "account_number": 6502888010,
+        "bank_name": "Garrett-Bishop",
+        "routing_number": 660347908
+    },
+    "products": [
+        {
+            "amount": 334.09,
+            "description": "whiteboard end-to-end users",
+            "index": "6",
+            "quantity": 8.35,
+            "unit_price": 24.36
+        },
+        {
+            "amount": 437.96,
+            "description": "visualize magnetic infrastructures",
+            "index": "5",
+            "quantity": 5.73,
+            "unit_price": 38.52
+        }
+    ],
+    "seller": {
+        "address": "40286 Lisa Court North Melissa, VA 04565",
+        "company_name": "Wood-Benton",
+        "email": "melissa29@example.net"
+    }
+}

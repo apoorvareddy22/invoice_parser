@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "17500 John Lodge Lake Joshuaberg, VA 54580",
+        "business_no": "CG988",
+        "id": "nA417"
+    },
+    "invoice": {
+        "date": "25.11.2013",
+        "number": "8928-0205"
+    },
+    "payment": {
+        "due_date": "05.06.2015",
+        "total": 945.77
+    },
+    "products": [
+        {
+            "amount": 127.61,
+            "description": "orchestrate robust e-tailers",
+            "quantity": 6.73,
+            "reference": "oz-519",
+            "unit_price": 78.56
+        },
+        {
+            "amount": 223.76,
+            "description": "synthesize robust web-readiness",
+            "quantity": 9.24,
+            "reference": "Ea-476",
+            "unit_price": 74.23
+        },
+        {
+            "amount": 286.24,
+            "description": "mesh plug-and-play technologies",
+            "quantity": 4.23,
+            "reference": "gR-702",
+            "unit_price": 66.65
+        }
+    ],
+    "seller": {
+        "address": "923 Rogers Lakes Apt. 640 East Latoya, VA 04258"
+    },
+    "tax": {
+        "base_ht": 112.5,
+        "regulations": 24.53,
+        "total_ht": 237.46,
+        "vat_amount": 174.21,
+        "vat_percentage": 24.98
+    }
+}

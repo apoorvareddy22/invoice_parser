@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "90604 Bell Drive New Rachelport, WI 97626",
+        "company_name": "Christensen-Hubbard",
+        "email": "wschmidt@example.com",
+        "name": "Mark Cook",
+        "phone": "+1-294-476-4052"
+    },
+    "invoice": {
+        "date": "01.03.1991",
+        "due_date": "02.09.2009",
+        "number": "mSS96378435053"
+    },
+    "payment": {
+        "account_number": 8216780039,
+        "bank_name": "Cox-Rodriguez",
+        "routing_number": 700978393
+    },
+    "products": [
+        {
+            "amount": 494.66,
+            "description": "transition cutting-edge solutions",
+            "index": "9",
+            "quantity": 5.47,
+            "unit_price": 64.91
+        },
+        {
+            "amount": 402.07,
+            "description": "benchmark magnetic channels",
+            "index": "9",
+            "quantity": 5.18,
+            "unit_price": 68.57
+        },
+        {
+            "amount": 197.47,
+            "description": "expedite integrated deliverables",
+            "index": "5",
+            "quantity": 7.33,
+            "unit_price": 16.79
+        },
+        {
+            "amount": 6.89,
+            "description": "whiteboard one-to-one technologies",
+            "index": "4",
+            "quantity": 7.89,
+            "unit_price": 90.66
+        }
+    ],
+    "seller": {
+        "address": "Unit 5751 Box 5440 DPO AP 80783",
+        "company_name": "Wilson LLC",
+        "email": "bradleyrobert@example.org"
+    }
+}

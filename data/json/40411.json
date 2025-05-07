@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "380 Dustin Forks Suite 759 Kendraville, FM 20425"
+    },
+    "invoice": {
+        "bc_no": "tu64992",
+        "date": "26.08.1999",
+        "maturity_date": "15.09.2016",
+        "number": 996327
+    },
+    "products": [
+        {
+            "amount": 300.65,
+            "description": "enable 24/7 communities",
+            "quantity": 5.65,
+            "unit_price": 42.58,
+            "vat_amount": 0.47
+        },
+        {
+            "amount": 370.28,
+            "description": "transform B2B web-readiness",
+            "quantity": 1.84,
+            "unit_price": 98.89,
+            "vat_amount": 17.53
+        },
+        {
+            "amount": 111.07,
+            "description": "syndicate 24/7 e-markets",
+            "quantity": 3.44,
+            "unit_price": 17.07,
+            "vat_amount": 3.8
+        }
+    ],
+    "seller": {
+        "address": "0595 Ashley Causeway Apt. 535 Thompsonburgh, NY 27555"
+    },
+    "tax": {
+        "amount_excluding_tax": 95.02,
+        "amount_including_tax": 69.2,
+        "tax_amount": 23.85
+    }
+}

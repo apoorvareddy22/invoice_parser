@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "28175 Patricia Cliffs Suite 578 West Carol, CO 37060",
+        "email": "keithhernandez@example.com",
+        "phone": "412-754-3189x49319",
+        "vat_no": "nY20059268118"
+    },
+    "invoice": {
+        "date": "25.12.2007",
+        "due_date": "14.07.2001",
+        "market_reference": 173224,
+        "notes": "scale back-end mindshare",
+        "number": "6282-6846",
+        "reference": 593784,
+        "vat_no": "Pi23635098381"
+    },
+    "payment": {
+        "net_total": 124.17,
+        "total": 324.15
+    },
+    "products": [
+        {
+            "amount": 305.68,
+            "description": "re-intermediate leading-edge portals",
+            "hours": 9.83,
+            "rate": 4.34
+        },
+        {
+            "amount": 15.13,
+            "description": "maximize value-added markets",
+            "hours": 6.42,
+            "rate": 2.34
+        },
+        {
+            "amount": 313.96,
+            "description": "deliver back-end action-items",
+            "hours": 10.0,
+            "rate": 5.18
+        },
+        {
+            "amount": 145.56,
+            "description": "innovate web-enabled metrics",
+            "hours": 5.56,
+            "rate": 5.54
+        },
+        {
+            "amount": 336.13,
+            "description": "architect dot-com architectures",
+            "hours": 7.03,
+            "rate": 1.07
+        }
+    ],
+    "seller": {
+        "address": "8577 Richard Hill West Alyssamouth, WA 12708",
+        "email": "william37@example.org",
+        "name": "Michelle Jones"
+    },
+    "tax": {
+        "base": 14.33,
+        "tax_amount": 16.33,
+        "total_tax": 14.99
+    }
+}

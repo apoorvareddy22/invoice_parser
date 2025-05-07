@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "6096 Malone Inlet Suite 931 South Denise, PR 02582",
+        "email": "pricejohn@example.com",
+        "phone": "250-979-8106x96159",
+        "vat_no": "AK75099000991"
+    },
+    "invoice": {
+        "date": "16.05.2007",
+        "due_date": "03.11.2016",
+        "market_reference": 922362,
+        "notes": "transform real-time web-readiness",
+        "number": "0459-4398",
+        "reference": 639627,
+        "vat_no": "Lr60367076915"
+    },
+    "payment": {
+        "net_total": 65.31,
+        "total": 203.0
+    },
+    "products": [
+        {
+            "amount": 401.65,
+            "description": "optimize bricks-and-clicks portals",
+            "hours": 6.99,
+            "rate": 4.74
+        },
+        {
+            "amount": 383.86,
+            "description": "unleash mission-critical paradigms",
+            "hours": 9.15,
+            "rate": 3.61
+        },
+        {
+            "amount": 277.94,
+            "description": "re-intermediate bricks-and-clicks models",
+            "hours": 5.7,
+            "rate": 7.75
+        }
+    ],
+    "seller": {
+        "address": "82849 Bennett Course Suite 289 New Cliffordtown, MO 99948",
+        "email": "emily26@example.org",
+        "name": "Karen Alexander"
+    },
+    "tax": {
+        "base": 23.14,
+        "tax_amount": 13.06,
+        "total_tax": 25.76
+    }
+}

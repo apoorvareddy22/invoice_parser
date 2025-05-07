@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "87314 Theresa Branch Suite 557 Collinsside, ME 86090",
+        "company_name": "Mcdonald Group",
+        "country": "Hungary",
+        "name": "Vanessa Nguyen"
+    },
+    "invoice": {
+        "date": "15.08.2001",
+        "number": 254148
+    },
+    "payment": {
+        "discount_amount": 24.96,
+        "discount_percentage": 14.64,
+        "due": 164.61,
+        "sub_total": 171.48,
+        "total": 910.78
+    },
+    "products": [
+        {
+            "description": "brand magnetic vortals",
+            "index": "2",
+            "quantity": 2.04,
+            "total_price": 390.64,
+            "unit_price": 12.55
+        },
+        {
+            "description": "generate back-end communities",
+            "index": "8",
+            "quantity": 7.62,
+            "total_price": 378.57,
+            "unit_price": 27.73
+        },
+        {
+            "description": "reinvent real-time eyeballs",
+            "index": "6",
+            "quantity": 7.74,
+            "total_price": 189.34,
+            "unit_price": 65.86
+        },
+        {
+            "description": "orchestrate dot-com portals",
+            "index": "8",
+            "quantity": 8.06,
+            "total_price": 550.84,
+            "unit_price": 34.78
+        },
+        {
+            "description": "expedite end-to-end web services",
+            "index": "2",
+            "quantity": 1.25,
+            "total_price": 252.42,
+            "unit_price": 73.64
+        }
+    ],
+    "seller": {
+        "address": "485 Martin Crescent Apt. 116 East Jacob, MH 82834",
+        "company_name": "Wallace-Perez",
+        "vat_no": "vg28433113371"
+    }
+}

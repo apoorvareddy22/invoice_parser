@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "282 Bell Divide Suite 897 South Michael, VI 87711",
+        "business_no": "Dr999",
+        "id": "Bv212"
+    },
+    "invoice": {
+        "date": "08.07.2020",
+        "number": "9170-4767"
+    },
+    "payment": {
+        "due_date": "17.04.1999",
+        "total": 306.02
+    },
+    "products": [
+        {
+            "amount": 307.38,
+            "description": "synthesize bricks-and-clicks networks",
+            "quantity": 4.82,
+            "reference": "Rb-539",
+            "unit_price": 57.79
+        },
+        {
+            "amount": 20.03,
+            "description": "facilitate world-class convergence",
+            "quantity": 7.65,
+            "reference": "WP-430",
+            "unit_price": 55.69
+        },
+        {
+            "amount": 402.7,
+            "description": "iterate innovative interfaces",
+            "quantity": 1.41,
+            "reference": "Zb-904",
+            "unit_price": 98.54
+        },
+        {
+            "amount": 165.76,
+            "description": "empower virtual bandwidth",
+            "quantity": 5.61,
+            "reference": "Ul-305",
+            "unit_price": 26.74
+        }
+    ],
+    "seller": {
+        "address": "8166 Waters Heights Apt. 026 North Lisa, ND 87309"
+    },
+    "tax": {
+        "base_ht": 294.15,
+        "regulations": 20.91,
+        "total_ht": 300.63,
+        "vat_amount": 110.47,
+        "vat_percentage": 29.27
+    }
+}

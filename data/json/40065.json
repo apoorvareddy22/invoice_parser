@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "85688 Hoffman Squares West Nicholas, NV 97834"
+    },
+    "invoice": {
+        "bc_no": "Gu98173",
+        "date": "02.11.1998",
+        "maturity_date": "13.04.2019",
+        "number": 314809
+    },
+    "products": [
+        {
+            "amount": 355.67,
+            "description": "deliver scalable mindshare",
+            "quantity": 9.02,
+            "unit_price": 88.69,
+            "vat_amount": 6.05
+        }
+    ],
+    "seller": {
+        "address": "41714 Liu Fall Michaeltown, OH 92935"
+    },
+    "tax": {
+        "amount_excluding_tax": 54.94,
+        "amount_including_tax": 133.07,
+        "tax_amount": 25.18
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "2581 Alec Overpass Suite 577 Bartlettton, AS 65803",
+        "business_no": "xN229",
+        "id": "WI657"
+    },
+    "invoice": {
+        "date": "04.09.2019",
+        "number": "2273-8734"
+    },
+    "payment": {
+        "due_date": "03.05.1993",
+        "total": 147.82
+    },
+    "products": [
+        {
+            "amount": 249.82,
+            "description": "generate efficient experiences",
+            "quantity": 3.41,
+            "reference": "Cy-022",
+            "unit_price": 95.14
+        },
+        {
+            "amount": 314.72,
+            "description": "unleash value-added channels",
+            "quantity": 2.18,
+            "reference": "Ki-052",
+            "unit_price": 34.58
+        }
+    ],
+    "seller": {
+        "address": "223 Kaufman Wall Apt. 182 New Thomas, KY 26437"
+    },
+    "tax": {
+        "base_ht": 271.69,
+        "regulations": 16.23,
+        "total_ht": 193.48,
+        "vat_amount": 114.48,
+        "vat_percentage": 10.07
+    }
+}

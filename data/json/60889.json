@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "224 Martin Ridges Suite 451 East Ryanburgh, RI 00722",
+        "business_no": "oE334",
+        "id": "dh264"
+    },
+    "invoice": {
+        "date": "19.11.2001",
+        "number": "8608-0687"
+    },
+    "payment": {
+        "due_date": "19.03.1996",
+        "total": 486.86
+    },
+    "products": [
+        {
+            "amount": 267.66,
+            "description": "cultivate leading-edge platforms",
+            "quantity": 5.71,
+            "reference": "lf-229",
+            "unit_price": 24.28
+        },
+        {
+            "amount": 412.66,
+            "description": "generate killer interfaces",
+            "quantity": 8.29,
+            "reference": "Bj-736",
+            "unit_price": 32.68
+        }
+    ],
+    "seller": {
+        "address": "3981 Harmon Parkways Lake Cynthiaburgh, ND 23468"
+    },
+    "tax": {
+        "base_ht": 491.95,
+        "regulations": 25.76,
+        "total_ht": 267.38,
+        "vat_amount": 12.79,
+        "vat_percentage": 28.89
+    }
+}

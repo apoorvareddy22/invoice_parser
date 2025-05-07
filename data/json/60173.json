@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "7325 Jimenez Causeway Apt. 512 South Lisastad, SD 28140",
+        "business_no": "cR542",
+        "id": "gL578"
+    },
+    "invoice": {
+        "date": "28.11.2010",
+        "number": "1862-1327"
+    },
+    "payment": {
+        "due_date": "23.05.2019",
+        "total": 938.57
+    },
+    "products": [
+        {
+            "amount": 27.06,
+            "description": "transform cross-platform synergies",
+            "quantity": 1.57,
+            "reference": "DY-600",
+            "unit_price": 66.08
+        },
+        {
+            "amount": 289.01,
+            "description": "engineer B2B systems",
+            "quantity": 4.89,
+            "reference": "Lj-021",
+            "unit_price": 25.55
+        },
+        {
+            "amount": 311.52,
+            "description": "deliver dynamic architectures",
+            "quantity": 1.94,
+            "reference": "Fn-222",
+            "unit_price": 16.48
+        },
+        {
+            "amount": 261.51,
+            "description": "whiteboard intuitive architectures",
+            "quantity": 4.09,
+            "reference": "Jj-039",
+            "unit_price": 75.7
+        },
+        {
+            "amount": 40.65,
+            "description": "optimize bleeding-edge relationships",
+            "quantity": 1.23,
+            "reference": "Br-101",
+            "unit_price": 21.44
+        }
+    ],
+    "seller": {
+        "address": "21158 Brown Pines Apt. 219 New Michaeltown, WV 86330"
+    },
+    "tax": {
+        "base_ht": 493.48,
+        "regulations": 10.68,
+        "total_ht": 397.28,
+        "vat_amount": 108.04,
+        "vat_percentage": 18.73
+    }
+}

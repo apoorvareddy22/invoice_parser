@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "1111 Thompson Court Apt. 018 West Reneeshire, CA 39557",
+        "email": "glennbrown@example.com",
+        "phone": "001-212-389-4993x86583",
+        "vat_no": "Fz25423783918"
+    },
+    "invoice": {
+        "date": "02.07.1998",
+        "due_date": "13.04.2020",
+        "market_reference": 944531,
+        "notes": "matrix robust portals",
+        "number": "8290-5809",
+        "reference": 877908,
+        "vat_no": "dT73009031187"
+    },
+    "payment": {
+        "net_total": 98.64,
+        "total": 116.42
+    },
+    "products": [
+        {
+            "amount": 487.71,
+            "description": "engage wireless interfaces",
+            "hours": 6.93,
+            "rate": 5.46
+        },
+        {
+            "amount": 467.56,
+            "description": "maximize intuitive systems",
+            "hours": 7.41,
+            "rate": 4.1
+        }
+    ],
+    "seller": {
+        "address": "96953 Mary Field Apt. 334 Lake Donna, PR 78555",
+        "email": "iford@example.net",
+        "name": "Maria Anderson"
+    },
+    "tax": {
+        "base": 24.08,
+        "tax_amount": 10.66,
+        "total_tax": 24.35
+    }
+}

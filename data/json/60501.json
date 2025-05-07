@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "4531 Rodriguez River Apt. 153 Port Barry, WY 34359",
+        "business_no": "vK019",
+        "id": "oF936"
+    },
+    "invoice": {
+        "date": "20.05.2009",
+        "number": "4754-5589"
+    },
+    "payment": {
+        "due_date": "06.02.2002",
+        "total": 281.74
+    },
+    "products": [
+        {
+            "amount": 60.84,
+            "description": "syndicate cross-platform e-commerce",
+            "quantity": 8.29,
+            "reference": "CG-186",
+            "unit_price": 81.05
+        },
+        {
+            "amount": 114.2,
+            "description": "drive B2C initiatives",
+            "quantity": 8.68,
+            "reference": "SX-089",
+            "unit_price": 36.87
+        },
+        {
+            "amount": 165.4,
+            "description": "harness wireless initiatives",
+            "quantity": 4.33,
+            "reference": "ng-299",
+            "unit_price": 97.35
+        }
+    ],
+    "seller": {
+        "address": "13749 Elaine Alley Apt. 546 Jeanneport, AS 00813"
+    },
+    "tax": {
+        "base_ht": 118.0,
+        "regulations": 24.27,
+        "total_ht": 270.34,
+        "vat_amount": 72.99,
+        "vat_percentage": 28.74
+    }
+}

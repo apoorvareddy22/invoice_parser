@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "0121 Swanson Fall East Jenniferberg, AS 62865",
+        "company_name": "Peters-Ward",
+        "country": "Slovakia (Slovak Republic)",
+        "name": "Shane Jones"
+    },
+    "invoice": {
+        "date": "16.09.1995",
+        "number": 676185
+    },
+    "payment": {
+        "discount_amount": 30.1,
+        "discount_percentage": 17.39,
+        "due": 13.1,
+        "sub_total": 44.58,
+        "total": 854.4
+    },
+    "products": [
+        {
+            "description": "extend ubiquitous e-tailers",
+            "index": "7",
+            "quantity": 9.9,
+            "total_price": 49.83,
+            "unit_price": 14.85
+        }
+    ],
+    "seller": {
+        "address": "714 Felicia Inlet Apt. 577 Davenportburgh, NJ 91841",
+        "company_name": "Levy Inc",
+        "vat_no": "nN65131724040"
+    }
+}

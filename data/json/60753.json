@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "11210 Harris Shores West Scott, RI 81878",
+        "business_no": "fL693",
+        "id": "cl554"
+    },
+    "invoice": {
+        "date": "12.05.1997",
+        "number": "7858-5579"
+    },
+    "payment": {
+        "due_date": "17.11.2009",
+        "total": 878.2
+    },
+    "products": [
+        {
+            "amount": 153.06,
+            "description": "optimize open-source web services",
+            "quantity": 8.34,
+            "reference": "mC-840",
+            "unit_price": 92.3
+        },
+        {
+            "amount": 40.21,
+            "description": "mesh intuitive e-markets",
+            "quantity": 1.81,
+            "reference": "Pu-077",
+            "unit_price": 64.38
+        },
+        {
+            "amount": 377.52,
+            "description": "incentivize back-end systems",
+            "quantity": 8.44,
+            "reference": "Ie-818",
+            "unit_price": 82.39
+        },
+        {
+            "amount": 414.95,
+            "description": "streamline collaborative markets",
+            "quantity": 3.35,
+            "reference": "kk-225",
+            "unit_price": 76.21
+        }
+    ],
+    "seller": {
+        "address": "605 Johnston Forge Suite 739 Glennmouth, MH 86814"
+    },
+    "tax": {
+        "base_ht": 418.78,
+        "regulations": 21.74,
+        "total_ht": 339.92,
+        "vat_amount": 91.71,
+        "vat_percentage": 10.37
+    }
+}

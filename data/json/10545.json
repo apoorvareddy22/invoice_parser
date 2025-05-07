@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "3134 Jessica Route Suite 048 West Ryanton, WA 03643",
+        "email": "deborahsanchez@example.net",
+        "phone": "550-738-3270x85568",
+        "vat_no": "Nc03175071576"
+    },
+    "invoice": {
+        "date": "01.07.2004",
+        "due_date": "05.12.2018",
+        "market_reference": 791988,
+        "notes": "enable world-class relationships",
+        "number": "7059-7303",
+        "reference": 375813,
+        "vat_no": "Gu53006918183"
+    },
+    "payment": {
+        "net_total": 71.57,
+        "total": 783.6
+    },
+    "products": [
+        {
+            "amount": 278.99,
+            "description": "leverage 24/365 technologies",
+            "hours": 4.47,
+            "rate": 9.57
+        },
+        {
+            "amount": 121.08,
+            "description": "expedite bricks-and-clicks ROI",
+            "hours": 8.88,
+            "rate": 7.69
+        },
+        {
+            "amount": 461.18,
+            "description": "innovate robust content",
+            "hours": 2.51,
+            "rate": 1.18
+        },
+        {
+            "amount": 359.78,
+            "description": "incentivize ubiquitous applications",
+            "hours": 3.06,
+            "rate": 6.55
+        },
+        {
+            "amount": 76.53,
+            "description": "repurpose proactive initiatives",
+            "hours": 5.32,
+            "rate": 6.22
+        },
+        {
+            "amount": 318.09,
+            "description": "synthesize B2B supply-chains",
+            "hours": 6.54,
+            "rate": 4.1
+        },
+        {
+            "amount": 498.74,
+            "description": "leverage efficient systems",
+            "hours": 4.02,
+            "rate": 8.5
+        }
+    ],
+    "seller": {
+        "address": "4306 Robert Alley Kennethside, CA 82872",
+        "email": "johnsbeth@example.org",
+        "name": "John Kelley Jr."
+    },
+    "tax": {
+        "base": 11.35,
+        "tax_amount": 29.05,
+        "total_tax": 16.43
+    }
+}

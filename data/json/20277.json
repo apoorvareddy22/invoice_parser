@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "63860 Douglas Valleys West David, SC 81010",
+        "company_name": "Martin-Moore",
+        "email": "kristen93@example.com",
+        "name": "Kathryn Johnson",
+        "phone": "968.941.8836"
+    },
+    "invoice": {
+        "date": "31.08.2009",
+        "due_date": "16.08.2022",
+        "number": "Xyy94855036791"
+    },
+    "payment": {
+        "account_number": 5087860358,
+        "bank_name": "Sims, Young and Fernandez",
+        "routing_number": 809721906
+    },
+    "products": [
+        {
+            "amount": 111.63,
+            "description": "incubate killer mindshare",
+            "index": "9",
+            "quantity": 5.05,
+            "unit_price": 39.21
+        }
+    ],
+    "seller": {
+        "address": "3663 Burton Flats New Stephenborough, MO 46526",
+        "company_name": "Gonzalez Ltd",
+        "email": "evansvanessa@example.net"
+    }
+}

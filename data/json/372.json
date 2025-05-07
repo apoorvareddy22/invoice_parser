@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "Unit 0180 Box 7463 DPO AP 12003",
+        "company_name": "Sanders, Jenkins and Stewart",
+        "country": "Korea",
+        "name": "Colton Anthony"
+    },
+    "invoice": {
+        "date": "01.12.2022",
+        "number": 680413
+    },
+    "payment": {
+        "discount_amount": 28.91,
+        "discount_percentage": 18.62,
+        "due": 16.7,
+        "sub_total": 66.77,
+        "total": 835.64
+    },
+    "products": [
+        {
+            "description": "engineer 24/7 niches",
+            "index": "8",
+            "quantity": 9.3,
+            "total_price": 425.92,
+            "unit_price": 47.67
+        },
+        {
+            "description": "deploy visionary synergies",
+            "index": "4",
+            "quantity": 5.59,
+            "total_price": 819.94,
+            "unit_price": 94.54
+        },
+        {
+            "description": "engage integrated functionalities",
+            "index": "6",
+            "quantity": 3.46,
+            "total_price": 56.46,
+            "unit_price": 49.65
+        }
+    ],
+    "seller": {
+        "address": "105 Ruiz Walk North Brianstad, CA 60146",
+        "company_name": "Gray, Conway and Harrington",
+        "vat_no": "Uw77762870452"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "42736 Amanda Drive Suite 036 Lake Hollyborough, CA 54575",
+        "id": "hE862"
+    },
+    "invoice": {
+        "bc_no": "YZ93627",
+        "currency_code": "IMP",
+        "date": "04.06.1998",
+        "due_date": "12.05.1999",
+        "number": 397470
+    },
+    "payment": {
+        "bank_name": "Rogers, Clark and Sweeney",
+        "bic": "VFLAGBWDFWC",
+        "iban": "FVHD87118314413318"
+    },
+    "products": [
+        {
+            "amount": 464.75,
+            "description": "synthesize collaborative ROI",
+            "index": "10",
+            "price": 475.61,
+            "quantity": 1.78,
+            "tax_amount": 46.61,
+            "total_ttc": 430.57,
+            "vat_amount": 10.88
+        },
+        {
+            "amount": 79.24,
+            "description": "transition rich functionalities",
+            "index": "2",
+            "price": 118.79,
+            "quantity": 8.2,
+            "tax_amount": 72.03,
+            "total_ttc": 456.54,
+            "vat_amount": 6.81
+        },
+        {
+            "amount": 234.47,
+            "description": "maximize best-of-breed architectures",
+            "index": "2",
+            "price": 347.23,
+            "quantity": 3.7,
+            "tax_amount": 32.44,
+            "total_ttc": 479.42,
+            "vat_amount": 3.9
+        }
+    ],
+    "seller": {
+        "name": "Sheryl Owens"
+    },
+    "supplier": {
+        "address": "45940 Campbell Skyway Suite 076 Phillipsborough, NY 10582",
+        "name": "Michael Snyder"
+    },
+    "tax": {
+        "amount_excluding_tax": 182.01,
+        "amount_including_tax": 132.87,
+        "tax_amount": 10.05,
+        "total_ht": 322.31,
+        "total_ttc": 485.71
+    }
+}

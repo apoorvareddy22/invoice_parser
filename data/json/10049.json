@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "216 Hernandez Points Nashside, GA 21384",
+        "email": "janet55@example.com",
+        "phone": "337.504.2019",
+        "vat_no": "Ej68688666973"
+    },
+    "invoice": {
+        "date": "18.05.2012",
+        "due_date": "06.04.1991",
+        "market_reference": 966837,
+        "notes": "engage clicks-and-mortar deliverables",
+        "number": "3553-8812",
+        "reference": 713527,
+        "vat_no": "tv66101311768"
+    },
+    "payment": {
+        "net_total": 182.48,
+        "total": 317.85
+    },
+    "products": [
+        {
+            "amount": 58.75,
+            "description": "benchmark global markets",
+            "hours": 5.33,
+            "rate": 9.65
+        },
+        {
+            "amount": 87.43,
+            "description": "transition strategic portals",
+            "hours": 9.78,
+            "rate": 4.73
+        },
+        {
+            "amount": 473.32,
+            "description": "unleash scalable solutions",
+            "hours": 5.45,
+            "rate": 4.86
+        }
+    ],
+    "seller": {
+        "address": "6882 Ramirez Ports Suite 175 South John, DE 78935",
+        "email": "christinacoleman@example.com",
+        "name": "Mr. Gabriel Garcia"
+    },
+    "tax": {
+        "base": 16.43,
+        "tax_amount": 10.83,
+        "total_tax": 22.67
+    }
+}

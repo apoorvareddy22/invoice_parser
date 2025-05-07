@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "630 Green Grove Apt. 070 West Brandi, DE 44964",
+        "id": "vl706"
+    },
+    "invoice": {
+        "bc_no": "HD95870",
+        "currency_code": "MDL",
+        "date": "04.02.2010",
+        "due_date": "03.02.2011",
+        "number": 367298
+    },
+    "payment": {
+        "bank_name": "Rowe LLC",
+        "bic": "GTOVGBJK1V8",
+        "iban": "NJPX08462674943746"
+    },
+    "products": [
+        {
+            "amount": 210.23,
+            "description": "streamline dynamic solutions",
+            "index": "10",
+            "price": 102.29,
+            "quantity": 8.7,
+            "tax_amount": 69.64,
+            "total_ttc": 358.26,
+            "vat_amount": 4.23
+        }
+    ],
+    "seller": {
+        "name": "Brittany Flores"
+    },
+    "supplier": {
+        "address": "553 Ryan Meadows Marioton, AL 64395",
+        "name": "Chelsey Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 103.28,
+        "amount_including_tax": 132.37,
+        "tax_amount": 15.35,
+        "total_ht": 318.7,
+        "total_ttc": 171.09
+    }
+}

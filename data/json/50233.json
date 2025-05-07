@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "USCGC Willis FPO AP 76979",
+        "id": "Kj668"
+    },
+    "invoice": {
+        "bc_no": "NX24614",
+        "currency_code": "BRL",
+        "date": "28.10.2013",
+        "due_date": "12.05.2009",
+        "number": 925083
+    },
+    "payment": {
+        "bank_name": "Bradford LLC",
+        "bic": "DXONGBPNB50",
+        "iban": "BCRZ96057345061258"
+    },
+    "products": [
+        {
+            "amount": 450.79,
+            "description": "scale interactive models",
+            "index": "9",
+            "price": 203.12,
+            "quantity": 2.45,
+            "tax_amount": 77.62,
+            "total_ttc": 261.46,
+            "vat_amount": 9.86
+        },
+        {
+            "amount": 270.54,
+            "description": "monetize innovative partnerships",
+            "index": "2",
+            "price": 195.51,
+            "quantity": 4.15,
+            "tax_amount": 50.4,
+            "total_ttc": 307.02,
+            "vat_amount": 2.67
+        },
+        {
+            "amount": 430.86,
+            "description": "syndicate ubiquitous methodologies",
+            "index": "7",
+            "price": 257.58,
+            "quantity": 6.27,
+            "tax_amount": 19.41,
+            "total_ttc": 122.28,
+            "vat_amount": 0.73
+        },
+        {
+            "amount": 303.24,
+            "description": "matrix vertical partnerships",
+            "index": "7",
+            "price": 211.54,
+            "quantity": 3.14,
+            "tax_amount": 31.69,
+            "total_ttc": 173.17,
+            "vat_amount": 4.47
+        }
+    ],
+    "seller": {
+        "name": "Chase Watson"
+    },
+    "supplier": {
+        "address": "1879 Bean Shores Lake Royburgh, ND 15464",
+        "name": "Monica Underwood"
+    },
+    "tax": {
+        "amount_excluding_tax": 113.49,
+        "amount_including_tax": 157.17,
+        "tax_amount": 18.02,
+        "total_ht": 199.89,
+        "total_ttc": 496.04
+    }
+}

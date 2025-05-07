@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "23296 Beverly Pine Apt. 887 South Jamestown, MI 62972",
+        "email": "hannarichard@example.com",
+        "phone": "+1-361-357-6877",
+        "vat_no": "Nj28361620032"
+    },
+    "invoice": {
+        "date": "14.10.1993",
+        "due_date": "09.11.1996",
+        "market_reference": 685812,
+        "notes": "incentivize one-to-one bandwidth",
+        "number": "3118-3483",
+        "reference": 881219,
+        "vat_no": "YQ57858519771"
+    },
+    "payment": {
+        "net_total": 127.78,
+        "total": 713.41
+    },
+    "products": [
+        {
+            "amount": 334.61,
+            "description": "incubate web-enabled networks",
+            "hours": 1.49,
+            "rate": 4.97
+        },
+        {
+            "amount": 120.14,
+            "description": "leverage intuitive convergence",
+            "hours": 9.98,
+            "rate": 8.51
+        },
+        {
+            "amount": 133.07,
+            "description": "maximize dynamic mindshare",
+            "hours": 6.46,
+            "rate": 6.16
+        },
+        {
+            "amount": 362.16,
+            "description": "transform next-generation functionalities",
+            "hours": 2.29,
+            "rate": 3.47
+        },
+        {
+            "amount": 332.31,
+            "description": "e-enable cutting-edge networks",
+            "hours": 7.4,
+            "rate": 2.22
+        },
+        {
+            "amount": 438.69,
+            "description": "architect killer supply-chains",
+            "hours": 9.64,
+            "rate": 6.14
+        },
+        {
+            "amount": 288.53,
+            "description": "brand granular functionalities",
+            "hours": 1.89,
+            "rate": 4.8
+        }
+    ],
+    "seller": {
+        "address": "PSC 7952, Box 7517 APO AE 96444",
+        "email": "patrick81@example.com",
+        "name": "Richard Strickland"
+    },
+    "tax": {
+        "base": 10.19,
+        "tax_amount": 28.67,
+        "total_tax": 15.01
+    }
+}

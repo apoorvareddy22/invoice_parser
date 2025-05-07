@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "78962 Thompson Plain Jenniferhaven, OH 73506",
+        "email": "phelpsrobert@example.net",
+        "phone": "540-910-4942",
+        "vat_no": "Mu94207825359"
+    },
+    "invoice": {
+        "date": "27.04.2004",
+        "due_date": "03.12.2013",
+        "market_reference": 381731,
+        "notes": "matrix killer paradigms",
+        "number": "5713-0049",
+        "reference": 150517,
+        "vat_no": "oM88810497315"
+    },
+    "payment": {
+        "net_total": 89.51,
+        "total": 467.49
+    },
+    "products": [
+        {
+            "amount": 120.81,
+            "description": "disintermediate proactive functionalities",
+            "hours": 1.37,
+            "rate": 5.35
+        },
+        {
+            "amount": 169.18,
+            "description": "utilize compelling bandwidth",
+            "hours": 7.55,
+            "rate": 3.42
+        },
+        {
+            "amount": 323.8,
+            "description": "reinvent clicks-and-mortar e-markets",
+            "hours": 1.46,
+            "rate": 7.01
+        },
+        {
+            "amount": 277.24,
+            "description": "morph B2B web-readiness",
+            "hours": 2.36,
+            "rate": 8.72
+        }
+    ],
+    "seller": {
+        "address": "865 Stephanie Extensions Suite 805 East Elizabeth, NE 31223",
+        "email": "kennethsimmons@example.com",
+        "name": "Sheila Osborn"
+    },
+    "tax": {
+        "base": 28.41,
+        "tax_amount": 21.27,
+        "total_tax": 10.4
+    }
+}

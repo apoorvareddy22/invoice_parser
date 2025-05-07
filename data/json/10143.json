@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "3045 Parks Ranch Wardview, TN 25145",
+        "email": "cainadam@example.com",
+        "phone": "332-959-3118x444",
+        "vat_no": "zO11866340245"
+    },
+    "invoice": {
+        "date": "20.10.2001",
+        "due_date": "26.04.1994",
+        "market_reference": 945977,
+        "notes": "evolve e-business convergence",
+        "number": "0009-7684",
+        "reference": 665906,
+        "vat_no": "nu57284293862"
+    },
+    "payment": {
+        "net_total": 134.52,
+        "total": 750.61
+    },
+    "products": [
+        {
+            "amount": 215.2,
+            "description": "generate dot-com systems",
+            "hours": 8.76,
+            "rate": 9.94
+        },
+        {
+            "amount": 468.75,
+            "description": "aggregate dot-com methodologies",
+            "hours": 8.92,
+            "rate": 3.71
+        },
+        {
+            "amount": 44.02,
+            "description": "iterate B2C functionalities",
+            "hours": 4.79,
+            "rate": 8.85
+        }
+    ],
+    "seller": {
+        "address": "96374 Cameron Spring West Phillipfort, GA 79268",
+        "email": "rossfrances@example.com",
+        "name": "Victoria Stout"
+    },
+    "tax": {
+        "base": 15.57,
+        "tax_amount": 12.05,
+        "total_tax": 16.17
+    }
+}

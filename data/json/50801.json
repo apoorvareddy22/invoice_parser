@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "24124 Sanford Isle Port Morgan, TN 75883",
+        "id": "MF607"
+    },
+    "invoice": {
+        "bc_no": "gV65463",
+        "currency_code": "AUD",
+        "date": "21.08.2010",
+        "due_date": "21.11.2014",
+        "number": 231189
+    },
+    "payment": {
+        "bank_name": "Morales, Bowen and Stewart",
+        "bic": "OSXZGBXFAD5",
+        "iban": "CEYT19587248568172"
+    },
+    "products": [
+        {
+            "amount": 340.29,
+            "description": "harness innovative interfaces",
+            "index": "8",
+            "price": 123.45,
+            "quantity": 7.1,
+            "tax_amount": 93.48,
+            "total_ttc": 287.43,
+            "vat_amount": 0.7
+        },
+        {
+            "amount": 80.27,
+            "description": "cultivate innovative applications",
+            "index": "2",
+            "price": 131.06,
+            "quantity": 9.72,
+            "tax_amount": 76.18,
+            "total_ttc": 256.04,
+            "vat_amount": 11.17
+        },
+        {
+            "amount": 126.1,
+            "description": "benchmark leading-edge experiences",
+            "index": "6",
+            "price": 153.57,
+            "quantity": 1.75,
+            "tax_amount": 78.76,
+            "total_ttc": 257.8,
+            "vat_amount": 9.88
+        },
+        {
+            "amount": 39.43,
+            "description": "synergize viral synergies",
+            "index": "10",
+            "price": 269.03,
+            "quantity": 5.21,
+            "tax_amount": 23.92,
+            "total_ttc": 487.28,
+            "vat_amount": 1.43
+        }
+    ],
+    "seller": {
+        "name": "Jeffrey Davidson"
+    },
+    "supplier": {
+        "address": "07047 Ayers Ramp Suite 408 Wallaceville, PA 50254",
+        "name": "Amy Diaz"
+    },
+    "tax": {
+        "amount_excluding_tax": 14.0,
+        "amount_including_tax": 167.76,
+        "tax_amount": 28.46,
+        "total_ht": 268.85,
+        "total_ttc": 109.24
+    }
+}

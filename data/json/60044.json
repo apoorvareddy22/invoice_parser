@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "USNS Blanchard FPO AA 62300",
+        "business_no": "fk200",
+        "id": "qo939"
+    },
+    "invoice": {
+        "date": "26.08.1990",
+        "number": "7641-7474"
+    },
+    "payment": {
+        "due_date": "15.06.2000",
+        "total": 970.28
+    },
+    "products": [
+        {
+            "amount": 216.86,
+            "description": "integrate magnetic channels",
+            "quantity": 9.37,
+            "reference": "mz-662",
+            "unit_price": 21.86
+        },
+        {
+            "amount": 331.98,
+            "description": "leverage frictionless functionalities",
+            "quantity": 1.48,
+            "reference": "Pz-522",
+            "unit_price": 65.19
+        }
+    ],
+    "seller": {
+        "address": "02666 Villarreal Pass New Ryanhaven, CO 53824"
+    },
+    "tax": {
+        "base_ht": 182.45,
+        "regulations": 19.9,
+        "total_ht": 317.8,
+        "vat_amount": 76.49,
+        "vat_percentage": 10.19
+    }
+}

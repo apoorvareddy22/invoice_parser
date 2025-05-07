@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "172 Jason Wall Williamsmouth, OH 34890",
+        "id": "VS199"
+    },
+    "invoice": {
+        "bc_no": "gm95766",
+        "currency_code": "UYU",
+        "date": "13.07.2022",
+        "due_date": "13.02.2019",
+        "number": 904104
+    },
+    "payment": {
+        "bank_name": "Jackson, Davis and Rodriguez",
+        "bic": "LMOMGBN13MM",
+        "iban": "MPSH80689560315782"
+    },
+    "products": [
+        {
+            "amount": 451.09,
+            "description": "e-enable clicks-and-mortar platforms",
+            "index": "5",
+            "price": 410.71,
+            "quantity": 9.19,
+            "tax_amount": 44.9,
+            "total_ttc": 492.66,
+            "vat_amount": 1.52
+        },
+        {
+            "amount": 207.88,
+            "description": "revolutionize interactive vortals",
+            "index": "10",
+            "price": 193.22,
+            "quantity": 6.4,
+            "tax_amount": 36.44,
+            "total_ttc": 365.67,
+            "vat_amount": 2.97
+        }
+    ],
+    "seller": {
+        "name": "Christian Holmes"
+    },
+    "supplier": {
+        "address": "92938 Kelly Loaf Suite 747 Hartburgh, ID 11300",
+        "name": "Russell Fernandez"
+    },
+    "tax": {
+        "amount_excluding_tax": 140.7,
+        "amount_including_tax": 139.38,
+        "tax_amount": 13.76,
+        "total_ht": 316.08,
+        "total_ttc": 215.58
+    }
+}

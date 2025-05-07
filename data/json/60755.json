@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "805 Hall Spurs Suite 322 Stephaniefurt, TX 02346",
+        "business_no": "ty165",
+        "id": "Cd097"
+    },
+    "invoice": {
+        "date": "31.08.2023",
+        "number": "5083-6870"
+    },
+    "payment": {
+        "due_date": "05.12.1991",
+        "total": 518.96
+    },
+    "products": [
+        {
+            "amount": 84.27,
+            "description": "empower mission-critical web services",
+            "quantity": 1.83,
+            "reference": "Yo-602",
+            "unit_price": 50.01
+        },
+        {
+            "amount": 399.18,
+            "description": "re-contextualize distributed markets",
+            "quantity": 8.07,
+            "reference": "nq-234",
+            "unit_price": 33.54
+        }
+    ],
+    "seller": {
+        "address": "466 Maria Extension Davidhaven, RI 48383"
+    },
+    "tax": {
+        "base_ht": 128.25,
+        "regulations": 18.13,
+        "total_ht": 373.85,
+        "vat_amount": 44.91,
+        "vat_percentage": 12.35
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "82097 Bernard Ford Lake Frankside, CO 85944",
+        "email": "danielmcguire@example.org",
+        "phone": "6426687963",
+        "vat_no": "sJ29240660957"
+    },
+    "invoice": {
+        "date": "17.06.2013",
+        "due_date": "19.07.2018",
+        "market_reference": 804877,
+        "notes": "visualize proactive web-readiness",
+        "number": "4033-4781",
+        "reference": 210235,
+        "vat_no": "Wb04566263517"
+    },
+    "payment": {
+        "net_total": 157.74,
+        "total": 403.48
+    },
+    "products": [
+        {
+            "amount": 6.64,
+            "description": "drive proactive users",
+            "hours": 4.77,
+            "rate": 8.46
+        },
+        {
+            "amount": 316.17,
+            "description": "repurpose enterprise markets",
+            "hours": 7.08,
+            "rate": 3.37
+        },
+        {
+            "amount": 457.7,
+            "description": "re-intermediate end-to-end supply-chains",
+            "hours": 7.36,
+            "rate": 2.48
+        },
+        {
+            "amount": 181.57,
+            "description": "target extensible e-business",
+            "hours": 4.41,
+            "rate": 7.81
+        },
+        {
+            "amount": 51.7,
+            "description": "harness 24/7 partnerships",
+            "hours": 4.02,
+            "rate": 4.4
+        },
+        {
+            "amount": 364.48,
+            "description": "implement leading-edge convergence",
+            "hours": 5.38,
+            "rate": 4.96
+        }
+    ],
+    "seller": {
+        "address": "488 Anderson Crescent Gregorybury, TN 27217",
+        "email": "taylorjohn@example.org",
+        "name": "Shawn Whitehead"
+    },
+    "tax": {
+        "base": 28.71,
+        "tax_amount": 12.12,
+        "total_tax": 11.13
+    }
+}

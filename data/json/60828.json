@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "52952 Barber Mall Marshallchester, NM 64580",
+        "business_no": "mm700",
+        "id": "Oy174"
+    },
+    "invoice": {
+        "date": "06.06.2021",
+        "number": "3260-4841"
+    },
+    "payment": {
+        "due_date": "10.11.2015",
+        "total": 833.87
+    },
+    "products": [
+        {
+            "amount": 210.55,
+            "description": "re-contextualize distributed paradigms",
+            "quantity": 9.49,
+            "reference": "lN-600",
+            "unit_price": 12.38
+        }
+    ],
+    "seller": {
+        "address": "58428 Robertson Loaf Apt. 739 Chrismouth, IN 94150"
+    },
+    "tax": {
+        "base_ht": 177.02,
+        "regulations": 16.17,
+        "total_ht": 354.64,
+        "vat_amount": 125.75,
+        "vat_percentage": 14.31
+    }
+}

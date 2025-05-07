@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "507 Heidi Courts Charlesport, PA 40561",
+        "email": "lesliejoseph@example.com",
+        "phone": "865.731.4438x641",
+        "vat_no": "Xg30949314709"
+    },
+    "invoice": {
+        "date": "27.04.1999",
+        "due_date": "31.08.1998",
+        "market_reference": 769892,
+        "notes": "harness bleeding-edge schemas",
+        "number": "3716-9117",
+        "reference": 915104,
+        "vat_no": "tJ10574074167"
+    },
+    "payment": {
+        "net_total": 79.05,
+        "total": 701.58
+    },
+    "products": [
+        {
+            "amount": 484.47,
+            "description": "re-intermediate user-centric functionalities",
+            "hours": 5.48,
+            "rate": 4.51
+        },
+        {
+            "amount": 140.82,
+            "description": "brand next-generation bandwidth",
+            "hours": 4.83,
+            "rate": 6.53
+        }
+    ],
+    "seller": {
+        "address": "843 Clay Extensions Suite 001 Lisashire, DE 98679",
+        "email": "bryantstephen@example.com",
+        "name": "Crystal Green"
+    },
+    "tax": {
+        "base": 24.14,
+        "tax_amount": 27.85,
+        "total_tax": 26.84
+    }
+}

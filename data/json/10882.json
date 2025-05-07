@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "56671 William Brooks Suite 042 Schaeferport, AL 47601",
+        "email": "larsenalexandra@example.net",
+        "phone": "+1-899-985-6403x3639",
+        "vat_no": "oJ51932768910"
+    },
+    "invoice": {
+        "date": "08.06.2004",
+        "due_date": "01.02.2007",
+        "market_reference": 536788,
+        "notes": "monetize magnetic web services",
+        "number": "8668-5350",
+        "reference": 351791,
+        "vat_no": "YX56232678741"
+    },
+    "payment": {
+        "net_total": 67.79,
+        "total": 913.27
+    },
+    "products": [
+        {
+            "amount": 408.79,
+            "description": "whiteboard vertical web-readiness",
+            "hours": 6.66,
+            "rate": 6.97
+        },
+        {
+            "amount": 433.07,
+            "description": "re-contextualize B2B e-services",
+            "hours": 5.77,
+            "rate": 1.29
+        },
+        {
+            "amount": 268.26,
+            "description": "maximize strategic partnerships",
+            "hours": 2.12,
+            "rate": 2.17
+        }
+    ],
+    "seller": {
+        "address": "Unit 2098 Box 6192 DPO AP 22087",
+        "email": "lbrown@example.org",
+        "name": "Mr. Jeffrey Pitts DDS"
+    },
+    "tax": {
+        "base": 14.91,
+        "tax_amount": 20.36,
+        "total_tax": 21.64
+    }
+}

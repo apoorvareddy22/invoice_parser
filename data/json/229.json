@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "28061 Jeremy Gardens West David, ME 95227",
+        "company_name": "Gates and Sons",
+        "country": "Jordan",
+        "name": "Diana Atkins"
+    },
+    "invoice": {
+        "date": "18.09.2006",
+        "number": 561357
+    },
+    "payment": {
+        "discount_amount": 19.84,
+        "discount_percentage": 11.06,
+        "due": 144.52,
+        "sub_total": 39.29,
+        "total": 326.83
+    },
+    "products": [
+        {
+            "description": "transition holistic e-tailers",
+            "index": "2",
+            "quantity": 5.28,
+            "total_price": 755.74,
+            "unit_price": 64.4
+        }
+    ],
+    "seller": {
+        "address": "0232 Samuel Grove Josephburgh, KY 56362",
+        "company_name": "Hill Inc",
+        "vat_no": "VP26287400717"
+    }
+}

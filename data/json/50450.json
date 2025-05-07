@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "22476 Alicia Lake Suite 153 South Corey, GA 36437",
+        "id": "Sc820"
+    },
+    "invoice": {
+        "bc_no": "PV18536",
+        "currency_code": "PLN",
+        "date": "24.10.1995",
+        "due_date": "25.10.1997",
+        "number": 961527
+    },
+    "payment": {
+        "bank_name": "Smith-Duran",
+        "bic": "NICKGBU86PV",
+        "iban": "OVAG62088916608305"
+    },
+    "products": [
+        {
+            "amount": 199.1,
+            "description": "evolve web-enabled solutions",
+            "index": "6",
+            "price": 32.29,
+            "quantity": 5.99,
+            "tax_amount": 66.95,
+            "total_ttc": 436.71,
+            "vat_amount": 4.19
+        },
+        {
+            "amount": 288.82,
+            "description": "benchmark 24/7 applications",
+            "index": "6",
+            "price": 115.42,
+            "quantity": 4.66,
+            "tax_amount": 60.47,
+            "total_ttc": 484.38,
+            "vat_amount": 2.13
+        }
+    ],
+    "seller": {
+        "name": "Brooke Wells"
+    },
+    "supplier": {
+        "address": "PSC 9159, Box 1001 APO AP 77707",
+        "name": "Sheri Rodriguez"
+    },
+    "tax": {
+        "amount_excluding_tax": 45.65,
+        "amount_including_tax": 183.63,
+        "tax_amount": 12.96,
+        "total_ht": 385.71,
+        "total_ttc": 489.83
+    }
+}

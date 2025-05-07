@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "13775 Jonathan Cliff Lisachester, OR 84594",
+        "business_no": "dv093",
+        "id": "Kq938"
+    },
+    "invoice": {
+        "date": "12.05.2008",
+        "number": "1694-7295"
+    },
+    "payment": {
+        "due_date": "19.04.1991",
+        "total": 994.26
+    },
+    "products": [
+        {
+            "amount": 280.04,
+            "description": "enhance collaborative applications",
+            "quantity": 1.03,
+            "reference": "Ht-843",
+            "unit_price": 27.99
+        },
+        {
+            "amount": 314.03,
+            "description": "drive real-time interfaces",
+            "quantity": 8.63,
+            "reference": "KB-608",
+            "unit_price": 99.87
+        },
+        {
+            "amount": 294.98,
+            "description": "enhance rich eyeballs",
+            "quantity": 3.21,
+            "reference": "MU-308",
+            "unit_price": 29.17
+        },
+        {
+            "amount": 332.58,
+            "description": "harness leading-edge paradigms",
+            "quantity": 6.35,
+            "reference": "VT-653",
+            "unit_price": 73.34
+        }
+    ],
+    "seller": {
+        "address": "PSC 6315, Box 9893 APO AE 55548"
+    },
+    "tax": {
+        "base_ht": 393.72,
+        "regulations": 17.33,
+        "total_ht": 166.98,
+        "vat_amount": 63.08,
+        "vat_percentage": 29.69
+    }
+}

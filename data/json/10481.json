@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "001 Michael Crescent Kristinaland, AS 02317",
+        "email": "davidsmith@example.org",
+        "phone": "(882)220-9120x13166",
+        "vat_no": "JW09576479656"
+    },
+    "invoice": {
+        "date": "16.05.2002",
+        "due_date": "26.07.2015",
+        "market_reference": 950853,
+        "notes": "mesh cross-media e-services",
+        "number": "6609-7634",
+        "reference": 910906,
+        "vat_no": "sx72471016437"
+    },
+    "payment": {
+        "net_total": 112.85,
+        "total": 658.29
+    },
+    "products": [
+        {
+            "amount": 26.27,
+            "description": "envisioneer compelling niches",
+            "hours": 5.89,
+            "rate": 1.8
+        },
+        {
+            "amount": 276.15,
+            "description": "orchestrate visionary relationships",
+            "hours": 8.81,
+            "rate": 2.45
+        },
+        {
+            "amount": 122.76,
+            "description": "exploit proactive solutions",
+            "hours": 3.31,
+            "rate": 9.08
+        },
+        {
+            "amount": 193.42,
+            "description": "whiteboard integrated functionalities",
+            "hours": 1.9,
+            "rate": 2.31
+        },
+        {
+            "amount": 212.44,
+            "description": "incentivize cross-platform supply-chains",
+            "hours": 7.86,
+            "rate": 3.68
+        },
+        {
+            "amount": 118.71,
+            "description": "innovate visionary action-items",
+            "hours": 8.68,
+            "rate": 4.15
+        },
+        {
+            "amount": 28.52,
+            "description": "benchmark ubiquitous mindshare",
+            "hours": 4.96,
+            "rate": 6.79
+        }
+    ],
+    "seller": {
+        "address": "028 Glenn Mountains Mcgeefort, HI 99346",
+        "email": "lisa72@example.com",
+        "name": "Derrick Watkins"
+    },
+    "tax": {
+        "base": 28.94,
+        "tax_amount": 18.85,
+        "total_tax": 10.59
+    }
+}

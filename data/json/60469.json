@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "870 Saunders Street West Diana, FL 28663",
+        "business_no": "gO807",
+        "id": "QW222"
+    },
+    "invoice": {
+        "date": "01.06.1993",
+        "number": "6351-1369"
+    },
+    "payment": {
+        "due_date": "01.09.2019",
+        "total": 963.26
+    },
+    "products": [
+        {
+            "amount": 164.94,
+            "description": "deliver B2B ROI",
+            "quantity": 2.65,
+            "reference": "Uz-039",
+            "unit_price": 38.61
+        },
+        {
+            "amount": 497.47,
+            "description": "matrix open-source action-items",
+            "quantity": 9.98,
+            "reference": "za-403",
+            "unit_price": 25.43
+        },
+        {
+            "amount": 385.48,
+            "description": "deliver viral relationships",
+            "quantity": 7.04,
+            "reference": "cb-146",
+            "unit_price": 35.16
+        },
+        {
+            "amount": 111.42,
+            "description": "enable next-generation info-mediaries",
+            "quantity": 5.11,
+            "reference": "Iy-130",
+            "unit_price": 99.84
+        },
+        {
+            "amount": 112.48,
+            "description": "architect bleeding-edge niches",
+            "quantity": 9.16,
+            "reference": "OZ-184",
+            "unit_price": 38.61
+        }
+    ],
+    "seller": {
+        "address": "75568 Jimenez Falls Apt. 018 Michelefurt, PA 86522"
+    },
+    "tax": {
+        "base_ht": 158.5,
+        "regulations": 14.45,
+        "total_ht": 345.79,
+        "vat_amount": 155.5,
+        "vat_percentage": 28.31
+    }
+}

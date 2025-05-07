@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "71389 Brady Row Suite 486 Port Ericland, MN 90700",
+        "id": "fD964"
+    },
+    "invoice": {
+        "bc_no": "en51149",
+        "currency_code": "PHP",
+        "date": "29.11.2001",
+        "due_date": "07.09.2008",
+        "number": 284246
+    },
+    "payment": {
+        "bank_name": "Ellis, Mcbride and Montgomery",
+        "bic": "LYBRGBK7P4P",
+        "iban": "RTNQ12139691356339"
+    },
+    "products": [
+        {
+            "amount": 311.77,
+            "description": "aggregate innovative schemas",
+            "index": "3",
+            "price": 110.19,
+            "quantity": 7.5,
+            "tax_amount": 42.39,
+            "total_ttc": 133.57,
+            "vat_amount": 1.13
+        },
+        {
+            "amount": 480.73,
+            "description": "evolve leading-edge ROI",
+            "index": "3",
+            "price": 204.91,
+            "quantity": 3.78,
+            "tax_amount": 98.99,
+            "total_ttc": 244.02,
+            "vat_amount": 0.08
+        },
+        {
+            "amount": 195.75,
+            "description": "facilitate scalable e-services",
+            "index": "6",
+            "price": 113.37,
+            "quantity": 7.96,
+            "tax_amount": 20.01,
+            "total_ttc": 435.83,
+            "vat_amount": 0.49
+        },
+        {
+            "amount": 57.47,
+            "description": "innovate bleeding-edge e-commerce",
+            "index": "1",
+            "price": 424.41,
+            "quantity": 9.08,
+            "tax_amount": 23.42,
+            "total_ttc": 380.51,
+            "vat_amount": 3.4
+        },
+        {
+            "amount": 193.37,
+            "description": "streamline visionary metrics",
+            "index": "6",
+            "price": 387.57,
+            "quantity": 2.44,
+            "tax_amount": 36.97,
+            "total_ttc": 481.27,
+            "vat_amount": 2.18
+        },
+        {
+            "amount": 332.73,
+            "description": "revolutionize e-business solutions",
+            "index": "6",
+            "price": 170.25,
+            "quantity": 4.04,
+            "tax_amount": 16.37,
+            "total_ttc": 229.58,
+            "vat_amount": 1.33
+        },
+        {
+            "amount": 154.26,
+            "description": "evolve open-source platforms",
+            "index": "3",
+            "price": 183.47,
+            "quantity": 3.87,
+            "tax_amount": 94.74,
+            "total_ttc": 234.09,
+            "vat_amount": 4.39
+        }
+    ],
+    "seller": {
+        "name": "Charles Cervantes"
+    },
+    "supplier": {
+        "address": "69324 James Burgs South Justin, AR 90302",
+        "name": "Derek Hughes"
+    },
+    "tax": {
+        "amount_excluding_tax": 152.14,
+        "amount_including_tax": 50.18,
+        "tax_amount": 21.49,
+        "total_ht": 478.15,
+        "total_ttc": 314.06
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "103 Patricia Drive Joseport, OH 14719",
+        "email": "lisabowman@example.org",
+        "phone": "+1-514-389-7574x596",
+        "vat_no": "fz03499587061"
+    },
+    "invoice": {
+        "date": "01.04.2000",
+        "due_date": "26.12.2021",
+        "market_reference": 901176,
+        "notes": "iterate plug-and-play experiences",
+        "number": "8798-9647",
+        "reference": 545384,
+        "vat_no": "MY01018657175"
+    },
+    "payment": {
+        "net_total": 43.77,
+        "total": 629.75
+    },
+    "products": [
+        {
+            "amount": 324.0,
+            "description": "monetize clicks-and-mortar channels",
+            "hours": 6.29,
+            "rate": 9.95
+        },
+        {
+            "amount": 25.9,
+            "description": "incubate distributed e-services",
+            "hours": 3.62,
+            "rate": 7.65
+        },
+        {
+            "amount": 309.19,
+            "description": "revolutionize dot-com models",
+            "hours": 9.69,
+            "rate": 3.92
+        },
+        {
+            "amount": 201.29,
+            "description": "incentivize real-time networks",
+            "hours": 1.95,
+            "rate": 4.0
+        },
+        {
+            "amount": 15.19,
+            "description": "evolve user-centric users",
+            "hours": 5.03,
+            "rate": 1.99
+        },
+        {
+            "amount": 169.09,
+            "description": "incentivize distributed systems",
+            "hours": 1.83,
+            "rate": 2.63
+        }
+    ],
+    "seller": {
+        "address": "774 Rachel Points South Julieland, VI 91099",
+        "email": "heather63@example.com",
+        "name": "Christopher Hernandez"
+    },
+    "tax": {
+        "base": 27.71,
+        "tax_amount": 10.3,
+        "total_tax": 21.73
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "530 Lewis Point Apt. 048 Hooverton, GA 41377",
+        "business_no": "Qs507",
+        "id": "TA334"
+    },
+    "invoice": {
+        "date": "24.05.2005",
+        "number": "1892-8550"
+    },
+    "payment": {
+        "due_date": "18.11.1998",
+        "total": 728.82
+    },
+    "products": [
+        {
+            "amount": 76.83,
+            "description": "revolutionize bricks-and-clicks experiences",
+            "quantity": 1.74,
+            "reference": "Bk-550",
+            "unit_price": 86.91
+        },
+        {
+            "amount": 465.55,
+            "description": "drive scalable technologies",
+            "quantity": 6.64,
+            "reference": "el-960",
+            "unit_price": 10.65
+        },
+        {
+            "amount": 56.78,
+            "description": "engage best-of-breed channels",
+            "quantity": 4.62,
+            "reference": "PF-724",
+            "unit_price": 68.37
+        },
+        {
+            "amount": 54.89,
+            "description": "implement 24/365 channels",
+            "quantity": 3.8,
+            "reference": "Tq-449",
+            "unit_price": 50.25
+        },
+        {
+            "amount": 308.39,
+            "description": "engineer wireless vortals",
+            "quantity": 5.74,
+            "reference": "Vj-712",
+            "unit_price": 82.82
+        },
+        {
+            "amount": 186.31,
+            "description": "iterate real-time convergence",
+            "quantity": 7.03,
+            "reference": "TP-516",
+            "unit_price": 76.31
+        }
+    ],
+    "seller": {
+        "address": "490 Brown Ford Apt. 735 Cindychester, WV 86547"
+    },
+    "tax": {
+        "base_ht": 228.96,
+        "regulations": 21.0,
+        "total_ht": 433.72,
+        "vat_amount": 47.91,
+        "vat_percentage": 19.93
+    }
+}

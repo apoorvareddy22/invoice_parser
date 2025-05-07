@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "464 Harris Isle Suite 735 Samuelchester, MD 34840",
+        "business_no": "Wx390",
+        "id": "oa735"
+    },
+    "invoice": {
+        "date": "20.02.2002",
+        "number": "3132-9390"
+    },
+    "payment": {
+        "due_date": "13.03.2018",
+        "total": 109.85
+    },
+    "products": [
+        {
+            "amount": 442.24,
+            "description": "brand collaborative models",
+            "quantity": 8.5,
+            "reference": "aO-516",
+            "unit_price": 51.21
+        },
+        {
+            "amount": 305.53,
+            "description": "enable scalable infrastructures",
+            "quantity": 3.79,
+            "reference": "Ao-381",
+            "unit_price": 91.37
+        },
+        {
+            "amount": 466.29,
+            "description": "orchestrate bleeding-edge initiatives",
+            "quantity": 6.67,
+            "reference": "JR-722",
+            "unit_price": 60.09
+        },
+        {
+            "amount": 448.18,
+            "description": "brand dot-com bandwidth",
+            "quantity": 5.18,
+            "reference": "fu-867",
+            "unit_price": 31.24
+        }
+    ],
+    "seller": {
+        "address": "619 Andrew Land Landryview, CA 24957"
+    },
+    "tax": {
+        "base_ht": 212.52,
+        "regulations": 25.68,
+        "total_ht": 238.13,
+        "vat_amount": 86.87,
+        "vat_percentage": 26.87
+    }
+}

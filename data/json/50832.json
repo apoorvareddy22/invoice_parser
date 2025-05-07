@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "6753 Carlos Ports Apt. 340 Lake Reginaldtown, GA 38732",
+        "id": "jJ866"
+    },
+    "invoice": {
+        "bc_no": "MC50722",
+        "currency_code": "CDF",
+        "date": "12.11.2000",
+        "due_date": "09.08.1997",
+        "number": 194791
+    },
+    "payment": {
+        "bank_name": "Clarke-Turner",
+        "bic": "HTPNGBYF0NP",
+        "iban": "CQCH64542967133954"
+    },
+    "products": [
+        {
+            "amount": 349.78,
+            "description": "reinvent out-of-the-box deliverables",
+            "index": "5",
+            "price": 291.32,
+            "quantity": 1.08,
+            "tax_amount": 97.88,
+            "total_ttc": 260.14,
+            "vat_amount": 0.39
+        },
+        {
+            "amount": 232.58,
+            "description": "deliver holistic interfaces",
+            "index": "1",
+            "price": 256.13,
+            "quantity": 7.85,
+            "tax_amount": 90.33,
+            "total_ttc": 183.65,
+            "vat_amount": 3.5
+        },
+        {
+            "amount": 224.66,
+            "description": "grow enterprise experiences",
+            "index": "3",
+            "price": 347.29,
+            "quantity": 1.64,
+            "tax_amount": 98.02,
+            "total_ttc": 447.38,
+            "vat_amount": 14.9
+        },
+        {
+            "amount": 438.28,
+            "description": "orchestrate bleeding-edge systems",
+            "index": "5",
+            "price": 108.18,
+            "quantity": 5.26,
+            "tax_amount": 98.52,
+            "total_ttc": 469.88,
+            "vat_amount": 9.65
+        }
+    ],
+    "seller": {
+        "name": "Charles Bradley"
+    },
+    "supplier": {
+        "address": "8684 James Brooks Lake Kellychester, ID 31776",
+        "name": "Daniel Williams"
+    },
+    "tax": {
+        "amount_excluding_tax": 36.46,
+        "amount_including_tax": 10.43,
+        "tax_amount": 13.71,
+        "total_ht": 318.36,
+        "total_ttc": 391.42
+    }
+}

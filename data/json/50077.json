@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "2231 Johnson Station Suite 228 New Aaronmouth, AK 39670",
+        "id": "hH907"
+    },
+    "invoice": {
+        "bc_no": "Rn69842",
+        "currency_code": "BOB",
+        "date": "14.10.1992",
+        "due_date": "05.02.1993",
+        "number": 692451
+    },
+    "payment": {
+        "bank_name": "Thompson, Warren and Baker",
+        "bic": "FYFIGBV3DBT",
+        "iban": "LGHS42904023175896"
+    },
+    "products": [
+        {
+            "amount": 420.14,
+            "description": "incentivize 24/365 convergence",
+            "index": "3",
+            "price": 113.3,
+            "quantity": 4.28,
+            "tax_amount": 38.61,
+            "total_ttc": 167.54,
+            "vat_amount": 12.53
+        },
+        {
+            "amount": 231.95,
+            "description": "leverage user-centric technologies",
+            "index": "7",
+            "price": 483.13,
+            "quantity": 1.84,
+            "tax_amount": 79.07,
+            "total_ttc": 138.73,
+            "vat_amount": 2.0
+        },
+        {
+            "amount": 255.7,
+            "description": "disintermediate ubiquitous info-mediaries",
+            "index": "4",
+            "price": 7.42,
+            "quantity": 6.99,
+            "tax_amount": 33.4,
+            "total_ttc": 146.44,
+            "vat_amount": 9.55
+        },
+        {
+            "amount": 251.26,
+            "description": "embrace bricks-and-clicks networks",
+            "index": "6",
+            "price": 39.65,
+            "quantity": 4.92,
+            "tax_amount": 15.57,
+            "total_ttc": 224.6,
+            "vat_amount": 14.05
+        }
+    ],
+    "seller": {
+        "name": "Amanda Schmidt"
+    },
+    "supplier": {
+        "address": "70358 Shannon Trafficway Suite 200 Duranview, WI 77874",
+        "name": "Clayton Miranda"
+    },
+    "tax": {
+        "amount_excluding_tax": 131.29,
+        "amount_including_tax": 115.59,
+        "tax_amount": 13.54,
+        "total_ht": 156.45,
+        "total_ttc": 132.66
+    }
+}

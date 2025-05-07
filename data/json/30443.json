@@ -1,0 +1,89 @@
+{
+    "buyer": {
+        "address": "2701 Gonzalez Throughway Suite 808 North Cristina, MP 47267",
+        "company_name": "Hancock-Burch",
+        "country": "Saint Pierre and Miquelon",
+        "email": "onunez@example.net",
+        "name": "Rodney Franco",
+        "phone": "001-461-226-7668",
+        "vat_no": "vu69907528067"
+    },
+    "invoice": {
+        "date": "24.04.1992",
+        "due_date": "03.01.1992",
+        "linked_invoice": "KG-7838-5842",
+        "notes": "aggregate impactful metrics",
+        "number": "lb-8421-5145"
+    },
+    "products": [
+        {
+            "description": "envisioneer interactive technologies",
+            "discount_percentage": 16.66,
+            "price": 337.36,
+            "quantity": 7.79,
+            "unit_price": 54.64
+        },
+        {
+            "description": "harness 24/365 content",
+            "discount_percentage": 5.47,
+            "price": 454.91,
+            "quantity": 4.04,
+            "unit_price": 30.16
+        },
+        {
+            "description": "benchmark distributed platforms",
+            "discount_percentage": 6.11,
+            "price": 264.38,
+            "quantity": 5.88,
+            "unit_price": 94.08
+        },
+        {
+            "description": "enable efficient markets",
+            "discount_percentage": 14.9,
+            "price": 195.64,
+            "quantity": 3.54,
+            "unit_price": 92.8
+        },
+        {
+            "description": "engage B2B e-services",
+            "discount_percentage": 5.75,
+            "price": 8.17,
+            "quantity": 3.38,
+            "unit_price": 92.11
+        },
+        {
+            "description": "facilitate leading-edge architectures",
+            "discount_percentage": 8.47,
+            "price": 182.8,
+            "quantity": 9.57,
+            "unit_price": 12.8
+        }
+    ],
+    "seller": {
+        "address": "70219 Amy Village Apt. 078 Lake Ashley, ID 84474",
+        "ape": "6899t",
+        "capital": 85907494,
+        "country": "Swaziland",
+        "email": "james93@example.org",
+        "name": "Dr. Joyce Crawford",
+        "phone_1": "001-353-596-2490",
+        "phone_2": "+1-918-791-0322x48481",
+        "phone_3": "(232)457-1161",
+        "ref_walk": "PGtH3246",
+        "reference": "Li903",
+        "siret": 45041553442549,
+        "vat_no": "YS80847785521",
+        "website": "http://ortiz.biz/"
+    },
+    "tax": {
+        "amount_0": 18.61,
+        "amount_1": 13.6,
+        "base_0": 21.01,
+        "base_1": 128.05,
+        "total_ht": 278.16,
+        "total_tax": 20.98,
+        "total_ttc": 263.65,
+        "vat_0": 29.09,
+        "vat_1": 27.3
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "4371 Bradley Crossroad Apt. 035 South Barbara, CT 59367",
+        "company_name": "Gordon Inc",
+        "email": "raymondestrada@example.net",
+        "name": "Zachary Rios",
+        "phone": "(397)837-9384"
+    },
+    "invoice": {
+        "date": "16.07.1996",
+        "due_date": "02.09.2001",
+        "number": "fxK79622322391"
+    },
+    "payment": {
+        "account_number": 4137446831,
+        "bank_name": "Hernandez, Page and Cherry",
+        "routing_number": 150519499
+    },
+    "products": [
+        {
+            "amount": 406.6,
+            "description": "re-intermediate web-enabled users",
+            "index": "4",
+            "quantity": 3.88,
+            "unit_price": 94.95
+        },
+        {
+            "amount": 143.39,
+            "description": "reinvent collaborative platforms",
+            "index": "7",
+            "quantity": 4.12,
+            "unit_price": 87.2
+        }
+    ],
+    "seller": {
+        "address": "PSC 7489, Box 2082 APO AP 92406",
+        "company_name": "Boyd-Carpenter",
+        "email": "patrickaguilar@example.org"
+    }
+}

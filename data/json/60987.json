@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "3663 Laura Extensions Port Ryanville, ME 87198",
+        "business_no": "CM426",
+        "id": "dt231"
+    },
+    "invoice": {
+        "date": "04.06.2018",
+        "number": "0098-9314"
+    },
+    "payment": {
+        "due_date": "23.09.1993",
+        "total": 807.11
+    },
+    "products": [
+        {
+            "amount": 372.0,
+            "description": "expedite efficient info-mediaries",
+            "quantity": 2.86,
+            "reference": "AH-325",
+            "unit_price": 63.94
+        },
+        {
+            "amount": 114.08,
+            "description": "exploit proactive info-mediaries",
+            "quantity": 7.66,
+            "reference": "KE-172",
+            "unit_price": 87.19
+        }
+    ],
+    "seller": {
+        "address": "58464 Shepherd Forest Port Ronald, OR 41805"
+    },
+    "tax": {
+        "base_ht": 400.12,
+        "regulations": 28.04,
+        "total_ht": 106.76,
+        "vat_amount": 194.78,
+        "vat_percentage": 25.9
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "554 Michael Haven West Danielleview, AZ 83906",
+        "email": "ronald90@example.net",
+        "phone": "(567)462-0113",
+        "vat_no": "NR40636598921"
+    },
+    "invoice": {
+        "date": "23.10.1992",
+        "due_date": "08.12.2010",
+        "market_reference": 994835,
+        "notes": "monetize 24/365 niches",
+        "number": "7840-5903",
+        "reference": 672615,
+        "vat_no": "lI91175285503"
+    },
+    "payment": {
+        "net_total": 126.82,
+        "total": 847.76
+    },
+    "products": [
+        {
+            "amount": 65.97,
+            "description": "orchestrate e-business systems",
+            "hours": 7.17,
+            "rate": 1.33
+        },
+        {
+            "amount": 279.96,
+            "description": "reinvent revolutionary e-business",
+            "hours": 2.68,
+            "rate": 5.56
+        },
+        {
+            "amount": 224.23,
+            "description": "synthesize plug-and-play metrics",
+            "hours": 2.02,
+            "rate": 4.47
+        },
+        {
+            "amount": 187.63,
+            "description": "maximize global schemas",
+            "hours": 2.37,
+            "rate": 8.34
+        },
+        {
+            "amount": 225.13,
+            "description": "aggregate leading-edge architectures",
+            "hours": 2.56,
+            "rate": 3.88
+        },
+        {
+            "amount": 248.24,
+            "description": "re-intermediate cross-platform interfaces",
+            "hours": 3.56,
+            "rate": 4.7
+        },
+        {
+            "amount": 103.15,
+            "description": "implement value-added info-mediaries",
+            "hours": 3.02,
+            "rate": 6.59
+        }
+    ],
+    "seller": {
+        "address": "63889 David Overpass South Glenda, OH 64769",
+        "email": "sandrawalsh@example.org",
+        "name": "Kevin Santiago"
+    },
+    "tax": {
+        "base": 22.43,
+        "tax_amount": 22.9,
+        "total_tax": 27.93
+    }
+}

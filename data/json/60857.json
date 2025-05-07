@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "2838 Carter Avenue Apt. 669 East Veronica, MO 44397",
+        "business_no": "IZ542",
+        "id": "Mv080"
+    },
+    "invoice": {
+        "date": "06.02.2008",
+        "number": "6164-6039"
+    },
+    "payment": {
+        "due_date": "07.08.1992",
+        "total": 538.09
+    },
+    "products": [
+        {
+            "amount": 56.51,
+            "description": "utilize scalable bandwidth",
+            "quantity": 1.91,
+            "reference": "cA-618",
+            "unit_price": 10.28
+        },
+        {
+            "amount": 318.8,
+            "description": "expedite efficient supply-chains",
+            "quantity": 7.84,
+            "reference": "mO-120",
+            "unit_price": 14.2
+        },
+        {
+            "amount": 8.53,
+            "description": "strategize wireless methodologies",
+            "quantity": 3.97,
+            "reference": "PB-761",
+            "unit_price": 11.07
+        },
+        {
+            "amount": 393.27,
+            "description": "morph B2B content",
+            "quantity": 1.22,
+            "reference": "mB-889",
+            "unit_price": 54.33
+        }
+    ],
+    "seller": {
+        "address": "94850 Mcguire Circles New Wendyberg, MO 25865"
+    },
+    "tax": {
+        "base_ht": 296.21,
+        "regulations": 28.41,
+        "total_ht": 155.15,
+        "vat_amount": 195.51,
+        "vat_percentage": 23.1
+    }
+}

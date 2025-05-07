@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "7979 Williams Ridges Apt. 089 East Johnside, TN 24500"
+    },
+    "invoice": {
+        "bc_no": "RJ91777",
+        "date": "30.08.2004",
+        "maturity_date": "05.02.2010",
+        "number": 971284
+    },
+    "products": [
+        {
+            "amount": 204.53,
+            "description": "engineer one-to-one experiences",
+            "quantity": 8.3,
+            "unit_price": 14.88,
+            "vat_amount": 1.22
+        },
+        {
+            "amount": 104.14,
+            "description": "scale killer platforms",
+            "quantity": 9.97,
+            "unit_price": 37.11,
+            "vat_amount": 2.2
+        },
+        {
+            "amount": 52.19,
+            "description": "reinvent one-to-one schemas",
+            "quantity": 8.94,
+            "unit_price": 42.77,
+            "vat_amount": 2.01
+        }
+    ],
+    "seller": {
+        "address": "920 Philip Isle East Nathaniel, GA 70853"
+    },
+    "tax": {
+        "amount_excluding_tax": 51.42,
+        "amount_including_tax": 77.95,
+        "tax_amount": 14.37
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "750 Rivera Well Apt. 527 New Matthew, AL 19390",
+        "email": "mike27@example.net",
+        "phone": "2247711668",
+        "vat_no": "QC07522482568"
+    },
+    "invoice": {
+        "date": "26.10.2004",
+        "due_date": "08.05.2009",
+        "market_reference": 306316,
+        "notes": "strategize cross-platform vortals",
+        "number": "3138-4598",
+        "reference": 802760,
+        "vat_no": "km84842345343"
+    },
+    "payment": {
+        "net_total": 117.73,
+        "total": 928.29
+    },
+    "products": [
+        {
+            "amount": 197.92,
+            "description": "transform synergistic functionalities",
+            "hours": 1.12,
+            "rate": 9.8
+        },
+        {
+            "amount": 487.02,
+            "description": "leverage interactive systems",
+            "hours": 6.0,
+            "rate": 5.94
+        },
+        {
+            "amount": 321.33,
+            "description": "envisioneer leading-edge architectures",
+            "hours": 2.21,
+            "rate": 4.35
+        },
+        {
+            "amount": 390.86,
+            "description": "visualize customized e-commerce",
+            "hours": 4.82,
+            "rate": 4.23
+        },
+        {
+            "amount": 265.66,
+            "description": "monetize back-end channels",
+            "hours": 8.28,
+            "rate": 9.04
+        }
+    ],
+    "seller": {
+        "address": "138 Theresa Land Suite 344 South Alan, PW 32404",
+        "email": "kennethlittle@example.com",
+        "name": "Brandi Brown"
+    },
+    "tax": {
+        "base": 17.76,
+        "tax_amount": 17.65,
+        "total_tax": 17.03
+    }
+}

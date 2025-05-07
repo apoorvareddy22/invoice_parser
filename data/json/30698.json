@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "3206 Virginia Groves West Johnport, MD 01237",
+        "company_name": "Brown LLC",
+        "country": "Uganda",
+        "email": "tbrown@example.org",
+        "name": "Kevin Smith",
+        "phone": "(824)900-9564x28826",
+        "vat_no": "Ku18508344667"
+    },
+    "invoice": {
+        "date": "21.01.1996",
+        "due_date": "31.12.2010",
+        "linked_invoice": "QD-0981-5294",
+        "notes": "optimize value-added models",
+        "number": "Sr-6051-3660"
+    },
+    "products": [
+        {
+            "description": "visualize collaborative networks",
+            "discount_percentage": 19.26,
+            "price": 319.47,
+            "quantity": 5.23,
+            "unit_price": 71.21
+        }
+    ],
+    "seller": {
+        "address": "75885 Smith Freeway Suite 878 Georgestad, ID 53568",
+        "ape": "6629Y",
+        "capital": 87261773,
+        "country": "Malaysia",
+        "email": "vwilliams@example.org",
+        "name": "Danielle Houston",
+        "phone_1": "314.316.1640",
+        "phone_2": "337-385-1581x5517",
+        "phone_3": "915.795.6441",
+        "ref_walk": "xyRg7314",
+        "reference": "ou325",
+        "siret": 27566710002769,
+        "vat_no": "nb55595779899",
+        "website": "https://taylor.com/"
+    },
+    "tax": {
+        "amount_0": 22.94,
+        "amount_1": 28.22,
+        "base_0": 19.01,
+        "base_1": 116.14,
+        "total_ht": 300.1,
+        "total_tax": 21.08,
+        "total_ttc": 310.97,
+        "vat_0": 13.66,
+        "vat_1": 24.78
+    }
+}

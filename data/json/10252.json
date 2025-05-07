@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "1383 Martin Causeway Suite 218 South Tracyport, AR 13584",
+        "email": "kaylajenkins@example.com",
+        "phone": "(892)566-9750",
+        "vat_no": "iq55761821233"
+    },
+    "invoice": {
+        "date": "20.05.1992",
+        "due_date": "22.05.1995",
+        "market_reference": 820178,
+        "notes": "leverage one-to-one e-business",
+        "number": "3188-9089",
+        "reference": 751958,
+        "vat_no": "rq27687957636"
+    },
+    "payment": {
+        "net_total": 128.7,
+        "total": 957.34
+    },
+    "products": [
+        {
+            "amount": 220.85,
+            "description": "innovate holistic applications",
+            "hours": 6.04,
+            "rate": 9.99
+        }
+    ],
+    "seller": {
+        "address": "58481 Michelle Pass Lutzfurt, VI 75906",
+        "email": "ramirezlynn@example.com",
+        "name": "Brady Taylor"
+    },
+    "tax": {
+        "base": 21.06,
+        "tax_amount": 20.04,
+        "total_tax": 10.66
+    }
+}

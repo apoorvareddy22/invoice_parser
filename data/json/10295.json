@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "51597 Boyd Port Floresburgh, ND 27217",
+        "email": "phillip43@example.com",
+        "phone": "001-482-312-7340x5617",
+        "vat_no": "SD69507095726"
+    },
+    "invoice": {
+        "date": "05.06.1997",
+        "due_date": "08.03.2017",
+        "market_reference": 706771,
+        "notes": "disintermediate B2B applications",
+        "number": "9235-0278",
+        "reference": 773676,
+        "vat_no": "yf01166889425"
+    },
+    "payment": {
+        "net_total": 103.04,
+        "total": 876.97
+    },
+    "products": [
+        {
+            "amount": 266.23,
+            "description": "scale vertical networks",
+            "hours": 7.56,
+            "rate": 8.55
+        },
+        {
+            "amount": 82.16,
+            "description": "incubate revolutionary ROI",
+            "hours": 5.7,
+            "rate": 7.97
+        },
+        {
+            "amount": 258.11,
+            "description": "leverage compelling systems",
+            "hours": 5.44,
+            "rate": 3.03
+        },
+        {
+            "amount": 297.48,
+            "description": "visualize efficient mindshare",
+            "hours": 5.48,
+            "rate": 2.05
+        }
+    ],
+    "seller": {
+        "address": "00100 Bryan Mews Suite 697 Riveraberg, VI 76399",
+        "email": "bchurch@example.org",
+        "name": "Darrell Frye"
+    },
+    "tax": {
+        "base": 17.99,
+        "tax_amount": 18.14,
+        "total_tax": 21.44
+    }
+}

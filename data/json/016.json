@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "Unit 4158 Box 2496 DPO AE 59543",
+        "company_name": "Heath, Austin and Bennett",
+        "country": "Madagascar",
+        "name": "Andrea Burke"
+    },
+    "invoice": {
+        "date": "09.11.2023",
+        "number": 764903
+    },
+    "payment": {
+        "discount_amount": 15.53,
+        "discount_percentage": 8.64,
+        "due": 128.59,
+        "sub_total": 129.8,
+        "total": 695.48
+    },
+    "products": [
+        {
+            "description": "leverage ubiquitous supply-chains",
+            "index": "10",
+            "quantity": 8.03,
+            "total_price": 422.19,
+            "unit_price": 23.38
+        },
+        {
+            "description": "matrix front-end interfaces",
+            "index": "6",
+            "quantity": 4.22,
+            "total_price": 124.6,
+            "unit_price": 80.91
+        },
+        {
+            "description": "facilitate virtual infrastructures",
+            "index": "6",
+            "quantity": 2.47,
+            "total_price": 82.4,
+            "unit_price": 82.08
+        }
+    ],
+    "seller": {
+        "address": "784 Aguilar Walks New Gabriel, VA 05161",
+        "company_name": "Phelps, Harvey and Ramirez",
+        "vat_no": "cS73676898766"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "81045 Fitzgerald Ville Apt. 643 Burnetthaven, CO 70977",
+        "id": "Nw574"
+    },
+    "invoice": {
+        "bc_no": "oy24075",
+        "currency_code": "CVE",
+        "date": "29.06.1993",
+        "due_date": "29.05.2019",
+        "number": 740604
+    },
+    "payment": {
+        "bank_name": "Morris, Stewart and Fuller",
+        "bic": "JBNWGBWPLJT",
+        "iban": "ERYU51508678088478"
+    },
+    "products": [
+        {
+            "amount": 432.61,
+            "description": "enhance impactful mindshare",
+            "index": "2",
+            "price": 362.35,
+            "quantity": 5.59,
+            "tax_amount": 30.9,
+            "total_ttc": 222.56,
+            "vat_amount": 8.19
+        },
+        {
+            "amount": 273.85,
+            "description": "revolutionize rich platforms",
+            "index": "3",
+            "price": 407.82,
+            "quantity": 1.83,
+            "tax_amount": 47.82,
+            "total_ttc": 113.44,
+            "vat_amount": 16.67
+        },
+        {
+            "amount": 257.93,
+            "description": "exploit magnetic systems",
+            "index": "7",
+            "price": 364.35,
+            "quantity": 7.35,
+            "tax_amount": 13.84,
+            "total_ttc": 100.31,
+            "vat_amount": 16.07
+        },
+        {
+            "amount": 417.21,
+            "description": "optimize cutting-edge experiences",
+            "index": "2",
+            "price": 214.1,
+            "quantity": 3.77,
+            "tax_amount": 32.61,
+            "total_ttc": 261.59,
+            "vat_amount": 5.22
+        }
+    ],
+    "seller": {
+        "name": "Andrew Mcdaniel"
+    },
+    "supplier": {
+        "address": "18521 Jennifer Place Apt. 917 Lake Katelyn, MT 22650",
+        "name": "Lynn Brooks"
+    },
+    "tax": {
+        "amount_excluding_tax": 181.97,
+        "amount_including_tax": 68.66,
+        "tax_amount": 15.93,
+        "total_ht": 224.44,
+        "total_ttc": 158.28
+    }
+}

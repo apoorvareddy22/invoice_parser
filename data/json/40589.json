@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "1033 Albert Shore Suite 686 Port Williamland, NC 43911"
+    },
+    "invoice": {
+        "bc_no": "lA34790",
+        "date": "10.10.1994",
+        "maturity_date": "26.05.2006",
+        "number": 911303
+    },
+    "products": [
+        {
+            "amount": 430.23,
+            "description": "matrix best-of-breed metrics",
+            "quantity": 8.52,
+            "unit_price": 47.01,
+            "vat_amount": 9.87
+        },
+        {
+            "amount": 88.6,
+            "description": "drive turn-key e-tailers",
+            "quantity": 3.63,
+            "unit_price": 41.74,
+            "vat_amount": 1.25
+        }
+    ],
+    "seller": {
+        "address": "31840 Daniel Ridge Suite 983 Camposfort, PR 48477"
+    },
+    "tax": {
+        "amount_excluding_tax": 72.04,
+        "amount_including_tax": 193.77,
+        "tax_amount": 16.98
+    }
+}

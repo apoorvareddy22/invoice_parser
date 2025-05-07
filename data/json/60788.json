@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "4392 David Estate East Tracyburgh, MO 21477",
+        "business_no": "yT309",
+        "id": "sD750"
+    },
+    "invoice": {
+        "date": "19.07.2011",
+        "number": "6965-7314"
+    },
+    "payment": {
+        "due_date": "05.08.2020",
+        "total": 906.72
+    },
+    "products": [
+        {
+            "amount": 238.64,
+            "description": "optimize global interfaces",
+            "quantity": 5.18,
+            "reference": "tq-283",
+            "unit_price": 23.41
+        },
+        {
+            "amount": 157.82,
+            "description": "revolutionize seamless paradigms",
+            "quantity": 7.48,
+            "reference": "TO-563",
+            "unit_price": 97.5
+        },
+        {
+            "amount": 495.16,
+            "description": "re-intermediate world-class initiatives",
+            "quantity": 6.2,
+            "reference": "FR-682",
+            "unit_price": 89.27
+        },
+        {
+            "amount": 330.18,
+            "description": "unleash open-source synergies",
+            "quantity": 3.25,
+            "reference": "qz-998",
+            "unit_price": 68.24
+        }
+    ],
+    "seller": {
+        "address": "Unit 4512 Box 9623 DPO AE 15844"
+    },
+    "tax": {
+        "base_ht": 309.16,
+        "regulations": 18.86,
+        "total_ht": 275.5,
+        "vat_amount": 93.82,
+        "vat_percentage": 18.87
+    }
+}

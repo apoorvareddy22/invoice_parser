@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "89945 Douglas Overpass Suite 734 Port Kim, MN 76720",
+        "id": "KG651"
+    },
+    "invoice": {
+        "bc_no": "Ee50603",
+        "currency_code": "TJS",
+        "date": "29.09.2021",
+        "due_date": "09.03.1992",
+        "number": 767770
+    },
+    "payment": {
+        "bank_name": "Francis, Lewis and Hunt",
+        "bic": "LNFHGB6TMSM",
+        "iban": "NJMU61980603500280"
+    },
+    "products": [
+        {
+            "amount": 64.52,
+            "description": "unleash best-of-breed technologies",
+            "index": "9",
+            "price": 19.92,
+            "quantity": 5.91,
+            "tax_amount": 32.5,
+            "total_ttc": 467.47,
+            "vat_amount": 6.33
+        },
+        {
+            "amount": 29.97,
+            "description": "brand clicks-and-mortar eyeballs",
+            "index": "9",
+            "price": 205.76,
+            "quantity": 6.39,
+            "tax_amount": 26.67,
+            "total_ttc": 424.22,
+            "vat_amount": 6.45
+        },
+        {
+            "amount": 116.2,
+            "description": "re-contextualize bleeding-edge ROI",
+            "index": "10",
+            "price": 499.02,
+            "quantity": 5.33,
+            "tax_amount": 11.15,
+            "total_ttc": 272.21,
+            "vat_amount": 3.11
+        }
+    ],
+    "seller": {
+        "name": "Darlene Nelson"
+    },
+    "supplier": {
+        "address": "0550 Christopher Coves Phamfurt, GA 51376",
+        "name": "Tina Martinez"
+    },
+    "tax": {
+        "amount_excluding_tax": 15.98,
+        "amount_including_tax": 138.98,
+        "tax_amount": 14.16,
+        "total_ht": 358.15,
+        "total_ttc": 266.51
+    }
+}

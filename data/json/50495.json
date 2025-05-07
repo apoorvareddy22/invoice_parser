@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "18260 Thomas Keys Suite 709 North Sean, PW 97398",
+        "id": "fZ644"
+    },
+    "invoice": {
+        "bc_no": "WG47671",
+        "currency_code": "MYR",
+        "date": "06.04.2011",
+        "due_date": "08.11.2008",
+        "number": 386314
+    },
+    "payment": {
+        "bank_name": "Davis PLC",
+        "bic": "QANYGBSJRTG",
+        "iban": "QTZQ41564836452382"
+    },
+    "products": [
+        {
+            "amount": 79.63,
+            "description": "redefine collaborative web-readiness",
+            "index": "4",
+            "price": 336.75,
+            "quantity": 8.64,
+            "tax_amount": 50.69,
+            "total_ttc": 240.69,
+            "vat_amount": 5.33
+        },
+        {
+            "amount": 189.07,
+            "description": "envisioneer dynamic architectures",
+            "index": "9",
+            "price": 129.96,
+            "quantity": 9.49,
+            "tax_amount": 88.23,
+            "total_ttc": 372.56,
+            "vat_amount": 9.13
+        },
+        {
+            "amount": 435.52,
+            "description": "mesh magnetic e-services",
+            "index": "6",
+            "price": 19.14,
+            "quantity": 4.26,
+            "tax_amount": 50.31,
+            "total_ttc": 371.89,
+            "vat_amount": 6.39
+        },
+        {
+            "amount": 187.61,
+            "description": "leverage one-to-one e-services",
+            "index": "1",
+            "price": 47.84,
+            "quantity": 6.76,
+            "tax_amount": 22.83,
+            "total_ttc": 268.05,
+            "vat_amount": 4.54
+        },
+        {
+            "amount": 236.71,
+            "description": "integrate cross-media channels",
+            "index": "6",
+            "price": 90.69,
+            "quantity": 7.94,
+            "tax_amount": 81.81,
+            "total_ttc": 132.93,
+            "vat_amount": 7.26
+        },
+        {
+            "amount": 389.72,
+            "description": "incentivize proactive interfaces",
+            "index": "1",
+            "price": 179.26,
+            "quantity": 5.12,
+            "tax_amount": 61.13,
+            "total_ttc": 287.12,
+            "vat_amount": 4.43
+        },
+        {
+            "amount": 359.11,
+            "description": "mesh distributed convergence",
+            "index": "3",
+            "price": 169.19,
+            "quantity": 3.24,
+            "tax_amount": 66.2,
+            "total_ttc": 303.38,
+            "vat_amount": 6.94
+        }
+    ],
+    "seller": {
+        "name": "Keith Hayes"
+    },
+    "supplier": {
+        "address": "80180 Rebecca Glen East Joyce, WY 18410",
+        "name": "Mr. Connor Martin"
+    },
+    "tax": {
+        "amount_excluding_tax": 136.28,
+        "amount_including_tax": 153.11,
+        "tax_amount": 14.41,
+        "total_ht": 358.74,
+        "total_ttc": 488.15
+    }
+}

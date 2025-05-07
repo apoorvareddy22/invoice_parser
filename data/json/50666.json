@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "PSC 5259, Box 2388 APO AA 38379",
+        "id": "Fy252"
+    },
+    "invoice": {
+        "bc_no": "GA92848",
+        "currency_code": "NAD",
+        "date": "04.10.1991",
+        "due_date": "17.07.2019",
+        "number": 620243
+    },
+    "payment": {
+        "bank_name": "Higgins-Duran",
+        "bic": "GYJQGBYSNZK",
+        "iban": "SALE70317226648566"
+    },
+    "products": [
+        {
+            "amount": 444.33,
+            "description": "optimize web-enabled markets",
+            "index": "1",
+            "price": 492.8,
+            "quantity": 9.97,
+            "tax_amount": 90.73,
+            "total_ttc": 497.22,
+            "vat_amount": 2.89
+        },
+        {
+            "amount": 455.25,
+            "description": "maximize 24/7 interfaces",
+            "index": "6",
+            "price": 36.95,
+            "quantity": 6.63,
+            "tax_amount": 51.44,
+            "total_ttc": 439.28,
+            "vat_amount": 15.57
+        },
+        {
+            "amount": 365.31,
+            "description": "streamline interactive platforms",
+            "index": "3",
+            "price": 228.4,
+            "quantity": 4.59,
+            "tax_amount": 73.69,
+            "total_ttc": 337.63,
+            "vat_amount": 8.27
+        }
+    ],
+    "seller": {
+        "name": "Denise Sanders"
+    },
+    "supplier": {
+        "address": "PSC 1794, Box 2424 APO AA 58052",
+        "name": "Ashley Dean"
+    },
+    "tax": {
+        "amount_excluding_tax": 81.45,
+        "amount_including_tax": 97.32,
+        "tax_amount": 23.09,
+        "total_ht": 468.75,
+        "total_ttc": 352.9
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "925 Eric Orchard East Amberfort, WY 30306",
+        "id": "VF086"
+    },
+    "invoice": {
+        "bc_no": "vl58919",
+        "currency_code": "KZT",
+        "date": "13.12.2004",
+        "due_date": "28.11.2013",
+        "number": 152408
+    },
+    "payment": {
+        "bank_name": "Martinez LLC",
+        "bic": "YXJEGBIMNZY",
+        "iban": "BBHZ10002069406710"
+    },
+    "products": [
+        {
+            "amount": 246.15,
+            "description": "leverage compelling methodologies",
+            "index": "8",
+            "price": 117.07,
+            "quantity": 1.25,
+            "tax_amount": 63.53,
+            "total_ttc": 237.28,
+            "vat_amount": 0.84
+        }
+    ],
+    "seller": {
+        "name": "Bryan Morales"
+    },
+    "supplier": {
+        "address": "751 Mann Junctions Apt. 427 West Austin, DC 14220",
+        "name": "Tim Scott"
+    },
+    "tax": {
+        "amount_excluding_tax": 119.78,
+        "amount_including_tax": 114.62,
+        "tax_amount": 23.81,
+        "total_ht": 338.35,
+        "total_ttc": 469.6
+    }
+}

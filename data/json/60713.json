@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "129 Brenda Plains Josephville, SC 48317",
+        "business_no": "fv533",
+        "id": "DV932"
+    },
+    "invoice": {
+        "date": "03.12.1999",
+        "number": "5056-0296"
+    },
+    "payment": {
+        "due_date": "12.06.2001",
+        "total": 950.71
+    },
+    "products": [
+        {
+            "amount": 20.49,
+            "description": "seize 24/365 channels",
+            "quantity": 5.34,
+            "reference": "Cb-552",
+            "unit_price": 54.77
+        },
+        {
+            "amount": 447.46,
+            "description": "embrace sticky eyeballs",
+            "quantity": 3.75,
+            "reference": "Xo-455",
+            "unit_price": 86.75
+        },
+        {
+            "amount": 91.51,
+            "description": "envisioneer cutting-edge e-markets",
+            "quantity": 6.57,
+            "reference": "Dr-948",
+            "unit_price": 59.41
+        }
+    ],
+    "seller": {
+        "address": "17057 Anna Lane Suite 514 Longview, PA 19505"
+    },
+    "tax": {
+        "base_ht": 148.31,
+        "regulations": 16.79,
+        "total_ht": 173.74,
+        "vat_amount": 52.15,
+        "vat_percentage": 14.06
+    }
+}

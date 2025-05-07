@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "Unit 9889 Box 9878 DPO AA 35314",
+        "company_name": "Cox Group",
+        "email": "gvaldez@example.org",
+        "name": "Michael Rhodes",
+        "phone": "001-229-632-4587x01839"
+    },
+    "invoice": {
+        "date": "06.10.2014",
+        "due_date": "30.11.2002",
+        "number": "RWv26611518368"
+    },
+    "payment": {
+        "account_number": 5573134588,
+        "bank_name": "Murillo Group",
+        "routing_number": 211208150
+    },
+    "products": [
+        {
+            "amount": 98.05,
+            "description": "generate proactive supply-chains",
+            "index": "10",
+            "quantity": 7.03,
+            "unit_price": 43.45
+        },
+        {
+            "amount": 67.64,
+            "description": "syndicate cross-platform users",
+            "index": "7",
+            "quantity": 6.0,
+            "unit_price": 34.38
+        },
+        {
+            "amount": 55.08,
+            "description": "engineer world-class synergies",
+            "index": "3",
+            "quantity": 1.01,
+            "unit_price": 74.8
+        },
+        {
+            "amount": 58.53,
+            "description": "grow innovative web services",
+            "index": "3",
+            "quantity": 1.76,
+            "unit_price": 58.89
+        },
+        {
+            "amount": 228.3,
+            "description": "embrace dot-com mindshare",
+            "index": "9",
+            "quantity": 2.06,
+            "unit_price": 57.83
+        }
+    ],
+    "seller": {
+        "address": "PSC 1023, Box 5467 APO AA 42681",
+        "company_name": "Horton, Brewer and Williams",
+        "email": "benderjeffrey@example.org"
+    }
+}

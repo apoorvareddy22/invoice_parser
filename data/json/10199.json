@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "3891 Jessica Valley Warrenton, AL 45563",
+        "email": "daviswilliam@example.com",
+        "phone": "+1-404-557-6945x50845",
+        "vat_no": "rv12084998972"
+    },
+    "invoice": {
+        "date": "13.07.2020",
+        "due_date": "10.01.2010",
+        "market_reference": 613698,
+        "notes": "reinvent innovative initiatives",
+        "number": "8806-6483",
+        "reference": 771232,
+        "vat_no": "HZ35700056204"
+    },
+    "payment": {
+        "net_total": 39.82,
+        "total": 452.81
+    },
+    "products": [
+        {
+            "amount": 482.8,
+            "description": "syndicate plug-and-play synergies",
+            "hours": 3.25,
+            "rate": 6.64
+        },
+        {
+            "amount": 386.01,
+            "description": "incubate customized mindshare",
+            "hours": 6.8,
+            "rate": 3.91
+        }
+    ],
+    "seller": {
+        "address": "307 Rachel Skyway Suite 450 New Joshuachester, TN 48347",
+        "email": "michael99@example.net",
+        "name": "Jennifer Williams"
+    },
+    "tax": {
+        "base": 20.25,
+        "tax_amount": 18.39,
+        "total_tax": 14.81
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "69276 Mccormick Creek Kariburgh, TN 13114",
+        "id": "Xy032"
+    },
+    "invoice": {
+        "bc_no": "xZ16427",
+        "currency_code": "KGS",
+        "date": "25.07.2013",
+        "due_date": "29.07.1990",
+        "number": 524171
+    },
+    "payment": {
+        "bank_name": "Shelton, Williams and Harrington",
+        "bic": "UHJLGBDLFGQ",
+        "iban": "TYVD12578191351473"
+    },
+    "products": [
+        {
+            "amount": 482.37,
+            "description": "target plug-and-play e-commerce",
+            "index": "7",
+            "price": 387.32,
+            "quantity": 3.95,
+            "tax_amount": 81.76,
+            "total_ttc": 177.45,
+            "vat_amount": 3.32
+        },
+        {
+            "amount": 41.16,
+            "description": "transform killer metrics",
+            "index": "9",
+            "price": 376.48,
+            "quantity": 9.89,
+            "tax_amount": 59.62,
+            "total_ttc": 216.09,
+            "vat_amount": 9.77
+        }
+    ],
+    "seller": {
+        "name": "Sean Rogers"
+    },
+    "supplier": {
+        "address": "174 Randall Center Suite 392 Patelberg, SD 27305",
+        "name": "Amber Brewer"
+    },
+    "tax": {
+        "amount_excluding_tax": 46.73,
+        "amount_including_tax": 76.73,
+        "tax_amount": 20.1,
+        "total_ht": 261.65,
+        "total_ttc": 310.67
+    }
+}

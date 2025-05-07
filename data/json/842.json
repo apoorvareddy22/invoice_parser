@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "6556 Grant Alley Apt. 522 Davismouth, AK 86155",
+        "company_name": "Brown, Foster and Cook",
+        "country": "United States Virgin Islands",
+        "name": "Julie Salas"
+    },
+    "invoice": {
+        "date": "11.08.2011",
+        "number": 415686
+    },
+    "payment": {
+        "discount_amount": 37.41,
+        "discount_percentage": 10.52,
+        "due": 64.13,
+        "sub_total": 123.23,
+        "total": 307.6
+    },
+    "products": [
+        {
+            "description": "enhance rich paradigms",
+            "index": "2",
+            "quantity": 1.97,
+            "total_price": 608.43,
+            "unit_price": 25.84
+        },
+        {
+            "description": "extend front-end infrastructures",
+            "index": "8",
+            "quantity": 9.67,
+            "total_price": 600.53,
+            "unit_price": 73.59
+        },
+        {
+            "description": "aggregate leading-edge methodologies",
+            "index": "10",
+            "quantity": 5.06,
+            "total_price": 149.86,
+            "unit_price": 36.32
+        }
+    ],
+    "seller": {
+        "address": "819 Maria Fields Port Franciscohaven, OK 56751",
+        "company_name": "Palmer-Morrison",
+        "vat_no": "Sy17749486490"
+    }
+}

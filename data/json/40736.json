@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "773 Young Locks Port Williamberg, UT 14694"
+    },
+    "invoice": {
+        "bc_no": "wM00603",
+        "date": "03.01.2010",
+        "maturity_date": "26.06.2007",
+        "number": 204266
+    },
+    "products": [
+        {
+            "amount": 280.55,
+            "description": "strategize B2C e-commerce",
+            "quantity": 6.26,
+            "unit_price": 50.85,
+            "vat_amount": 1.62
+        }
+    ],
+    "seller": {
+        "address": "PSC 5072, Box 1043 APO AP 78183"
+    },
+    "tax": {
+        "amount_excluding_tax": 161.81,
+        "amount_including_tax": 124.2,
+        "tax_amount": 24.14
+    }
+}

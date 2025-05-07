@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "284 Williams Estates Apt. 432 Andresfort, MS 22676",
+        "id": "us158"
+    },
+    "invoice": {
+        "bc_no": "Ky95664",
+        "currency_code": "MMK",
+        "date": "20.04.2002",
+        "due_date": "06.08.2013",
+        "number": 475611
+    },
+    "payment": {
+        "bank_name": "Hill Inc",
+        "bic": "NUWBGBDQ",
+        "iban": "JGBN88898515558035"
+    },
+    "products": [
+        {
+            "amount": 199.3,
+            "description": "monetize scalable niches",
+            "index": "9",
+            "price": 65.46,
+            "quantity": 1.69,
+            "tax_amount": 32.84,
+            "total_ttc": 409.06,
+            "vat_amount": 12.97
+        },
+        {
+            "amount": 365.98,
+            "description": "cultivate dot-com communities",
+            "index": "6",
+            "price": 81.84,
+            "quantity": 3.21,
+            "tax_amount": 19.06,
+            "total_ttc": 189.02,
+            "vat_amount": 8.96
+        },
+        {
+            "amount": 16.87,
+            "description": "transition cutting-edge methodologies",
+            "index": "7",
+            "price": 42.3,
+            "quantity": 5.6,
+            "tax_amount": 89.88,
+            "total_ttc": 459.08,
+            "vat_amount": 0.13
+        }
+    ],
+    "seller": {
+        "name": "Cindy Brown"
+    },
+    "supplier": {
+        "address": "5294 Andrew Squares Lake James, PW 65610",
+        "name": "Chase Huff Jr."
+    },
+    "tax": {
+        "amount_excluding_tax": 152.68,
+        "amount_including_tax": 171.9,
+        "tax_amount": 13.59,
+        "total_ht": 485.54,
+        "total_ttc": 410.75
+    }
+}

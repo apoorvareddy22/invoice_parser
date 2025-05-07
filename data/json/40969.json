@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "22656 Jody Island Lake Miguel, TN 68058"
+    },
+    "invoice": {
+        "bc_no": "Gx70234",
+        "date": "29.03.2017",
+        "maturity_date": "17.03.2003",
+        "number": 950367
+    },
+    "products": [
+        {
+            "amount": 159.15,
+            "description": "utilize bleeding-edge e-markets",
+            "quantity": 3.02,
+            "unit_price": 22.0,
+            "vat_amount": 4.42
+        },
+        {
+            "amount": 61.99,
+            "description": "drive compelling supply-chains",
+            "quantity": 7.18,
+            "unit_price": 41.41,
+            "vat_amount": 14.9
+        },
+        {
+            "amount": 373.37,
+            "description": "morph bricks-and-clicks systems",
+            "quantity": 5.77,
+            "unit_price": 93.54,
+            "vat_amount": 2.76
+        },
+        {
+            "amount": 57.33,
+            "description": "exploit compelling e-services",
+            "quantity": 3.78,
+            "unit_price": 66.56,
+            "vat_amount": 14.77
+        }
+    ],
+    "seller": {
+        "address": "83535 Sweeney Crossing North David, AS 81569"
+    },
+    "tax": {
+        "amount_excluding_tax": 57.36,
+        "amount_including_tax": 95.13,
+        "tax_amount": 12.14
+    }
+}

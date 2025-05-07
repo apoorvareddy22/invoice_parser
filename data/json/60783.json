@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "087 Stephen Island Suite 224 South Denise, SC 49389",
+        "business_no": "my413",
+        "id": "Db368"
+    },
+    "invoice": {
+        "date": "23.08.1992",
+        "number": "3957-8255"
+    },
+    "payment": {
+        "due_date": "09.02.2014",
+        "total": 396.53
+    },
+    "products": [
+        {
+            "amount": 10.57,
+            "description": "revolutionize distributed metrics",
+            "quantity": 1.26,
+            "reference": "sC-819",
+            "unit_price": 72.0
+        },
+        {
+            "amount": 213.81,
+            "description": "syndicate magnetic channels",
+            "quantity": 6.64,
+            "reference": "Sy-949",
+            "unit_price": 71.15
+        }
+    ],
+    "seller": {
+        "address": "720 Adkins Street Amandaton, AL 89998"
+    },
+    "tax": {
+        "base_ht": 421.28,
+        "regulations": 27.82,
+        "total_ht": 485.65,
+        "vat_amount": 100.77,
+        "vat_percentage": 29.91
+    }
+}

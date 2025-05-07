@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "PSC 1787, Box 8021 APO AP 04651",
+        "id": "gg198"
+    },
+    "invoice": {
+        "bc_no": "pR79076",
+        "currency_code": "CNY",
+        "date": "05.10.1998",
+        "due_date": "20.08.2011",
+        "number": 200252
+    },
+    "payment": {
+        "bank_name": "Pearson LLC",
+        "bic": "KPAEGB5Q",
+        "iban": "IOAE16433748083113"
+    },
+    "products": [
+        {
+            "amount": 463.06,
+            "description": "revolutionize enterprise e-tailers",
+            "index": "9",
+            "price": 474.18,
+            "quantity": 9.17,
+            "tax_amount": 83.26,
+            "total_ttc": 293.23,
+            "vat_amount": 13.56
+        }
+    ],
+    "seller": {
+        "name": "Gabriel Cruz"
+    },
+    "supplier": {
+        "address": "410 Brooks Mills Apt. 538 Duartemouth, PR 07557",
+        "name": "Lisa Jones"
+    },
+    "tax": {
+        "amount_excluding_tax": 110.23,
+        "amount_including_tax": 10.23,
+        "tax_amount": 13.22,
+        "total_ht": 383.0,
+        "total_ttc": 415.95
+    }
+}

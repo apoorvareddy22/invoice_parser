@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "36253 Jennifer Inlet Port Sean, ME 68709",
+        "id": "Ta601"
+    },
+    "invoice": {
+        "bc_no": "nB11819",
+        "currency_code": "SGD",
+        "date": "10.07.1992",
+        "due_date": "26.08.1998",
+        "number": 627704
+    },
+    "payment": {
+        "bank_name": "Benson-Powers",
+        "bic": "QSQVGBG0",
+        "iban": "BNWC06975933389891"
+    },
+    "products": [
+        {
+            "amount": 48.13,
+            "description": "scale intuitive channels",
+            "index": "2",
+            "price": 340.98,
+            "quantity": 9.21,
+            "tax_amount": 33.54,
+            "total_ttc": 330.11,
+            "vat_amount": 1.61
+        },
+        {
+            "amount": 269.51,
+            "description": "revolutionize virtual e-commerce",
+            "index": "8",
+            "price": 297.48,
+            "quantity": 5.25,
+            "tax_amount": 10.86,
+            "total_ttc": 152.63,
+            "vat_amount": 7.5
+        },
+        {
+            "amount": 437.83,
+            "description": "matrix distributed interfaces",
+            "index": "3",
+            "price": 81.07,
+            "quantity": 9.25,
+            "tax_amount": 38.48,
+            "total_ttc": 174.36,
+            "vat_amount": 12.07
+        }
+    ],
+    "seller": {
+        "name": "Edward Colon"
+    },
+    "supplier": {
+        "address": "30102 Sherri Shore South Martintown, NY 43088",
+        "name": "Michael Villanueva"
+    },
+    "tax": {
+        "amount_excluding_tax": 120.2,
+        "amount_including_tax": 144.12,
+        "tax_amount": 24.82,
+        "total_ht": 148.72,
+        "total_ttc": 280.02
+    }
+}

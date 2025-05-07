@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "978 Rebecca Vista Suite 035 Wolfetown, NM 39454",
+        "id": "bh904"
+    },
+    "invoice": {
+        "bc_no": "JN91191",
+        "currency_code": "RSD",
+        "date": "13.02.1992",
+        "due_date": "31.08.2008",
+        "number": 305672
+    },
+    "payment": {
+        "bank_name": "Bowen, Hartman and Spencer",
+        "bic": "DVADGBPL8RU",
+        "iban": "ESOF75486502246963"
+    },
+    "products": [
+        {
+            "amount": 26.09,
+            "description": "embrace world-class channels",
+            "index": "8",
+            "price": 358.05,
+            "quantity": 5.32,
+            "tax_amount": 37.27,
+            "total_ttc": 409.83,
+            "vat_amount": 6.89
+        },
+        {
+            "amount": 307.5,
+            "description": "mesh cross-media web-readiness",
+            "index": "7",
+            "price": 307.66,
+            "quantity": 1.64,
+            "tax_amount": 87.7,
+            "total_ttc": 131.3,
+            "vat_amount": 0.18
+        }
+    ],
+    "seller": {
+        "name": "Billy Ferguson"
+    },
+    "supplier": {
+        "address": "0510 Barnes View Lake James, MD 62383",
+        "name": "Stacey Fox"
+    },
+    "tax": {
+        "amount_excluding_tax": 171.31,
+        "amount_including_tax": 27.89,
+        "tax_amount": 22.91,
+        "total_ht": 227.03,
+        "total_ttc": 125.39
+    }
+}

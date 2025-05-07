@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "4984 Sherry Mews Suite 070 Lake Stephaniefort, VA 78259",
+        "email": "kross@example.com",
+        "phone": "795.304.8743",
+        "vat_no": "KP92252053781"
+    },
+    "invoice": {
+        "date": "15.02.2006",
+        "due_date": "09.09.1992",
+        "market_reference": 210660,
+        "notes": "benchmark viral metrics",
+        "number": "3461-0083",
+        "reference": 407914,
+        "vat_no": "tA57222326515"
+    },
+    "payment": {
+        "net_total": 157.51,
+        "total": 726.49
+    },
+    "products": [
+        {
+            "amount": 212.9,
+            "description": "enable granular technologies",
+            "hours": 6.34,
+            "rate": 1.53
+        },
+        {
+            "amount": 70.41,
+            "description": "benchmark next-generation interfaces",
+            "hours": 8.34,
+            "rate": 8.32
+        }
+    ],
+    "seller": {
+        "address": "07590 Moore Row Apt. 180 Bondborough, MA 86078",
+        "email": "iward@example.net",
+        "name": "Steven Castillo"
+    },
+    "tax": {
+        "base": 16.89,
+        "tax_amount": 20.6,
+        "total_tax": 20.89
+    }
+}

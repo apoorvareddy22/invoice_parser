@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "00212 Brooks Parkway Suite 277 Jessicaport, MO 75025",
+        "email": "tbailey@example.org",
+        "phone": "+1-286-407-7961x01077",
+        "vat_no": "De55029042476"
+    },
+    "invoice": {
+        "date": "13.11.2018",
+        "due_date": "14.02.2021",
+        "market_reference": 115013,
+        "notes": "utilize turn-key bandwidth",
+        "number": "2985-2394",
+        "reference": 466839,
+        "vat_no": "zn58678103598"
+    },
+    "payment": {
+        "net_total": 81.21,
+        "total": 320.23
+    },
+    "products": [
+        {
+            "amount": 316.38,
+            "description": "engage real-time e-markets",
+            "hours": 2.86,
+            "rate": 5.54
+        },
+        {
+            "amount": 200.21,
+            "description": "reinvent B2B communities",
+            "hours": 4.52,
+            "rate": 5.6
+        },
+        {
+            "amount": 457.23,
+            "description": "incubate vertical mindshare",
+            "hours": 4.27,
+            "rate": 2.22
+        },
+        {
+            "amount": 279.24,
+            "description": "benchmark wireless metrics",
+            "hours": 2.39,
+            "rate": 9.74
+        },
+        {
+            "amount": 215.63,
+            "description": "orchestrate one-to-one schemas",
+            "hours": 9.53,
+            "rate": 8.81
+        }
+    ],
+    "seller": {
+        "address": "773 April Park Apt. 878 Stevenfort, NV 23673",
+        "email": "kimberly67@example.org",
+        "name": "Matthew Thompson"
+    },
+    "tax": {
+        "base": 21.06,
+        "tax_amount": 25.29,
+        "total_tax": 23.18
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "360 Douglas Summit Judyfurt, PR 60280",
+        "id": "FD312"
+    },
+    "invoice": {
+        "bc_no": "GM26824",
+        "currency_code": "MAD",
+        "date": "26.04.2011",
+        "due_date": "27.08.2008",
+        "number": 321139
+    },
+    "payment": {
+        "bank_name": "Li-Parsons",
+        "bic": "KBDQGBXG",
+        "iban": "EDZP91943787816615"
+    },
+    "products": [
+        {
+            "amount": 118.61,
+            "description": "streamline bricks-and-clicks vortals",
+            "index": "7",
+            "price": 322.38,
+            "quantity": 3.92,
+            "tax_amount": 14.99,
+            "total_ttc": 366.3,
+            "vat_amount": 4.69
+        },
+        {
+            "amount": 285.47,
+            "description": "whiteboard bleeding-edge e-commerce",
+            "index": "4",
+            "price": 451.39,
+            "quantity": 1.35,
+            "tax_amount": 13.68,
+            "total_ttc": 314.83,
+            "vat_amount": 2.75
+        },
+        {
+            "amount": 264.57,
+            "description": "whiteboard intuitive applications",
+            "index": "3",
+            "price": 42.24,
+            "quantity": 5.1,
+            "tax_amount": 55.13,
+            "total_ttc": 116.55,
+            "vat_amount": 6.39
+        }
+    ],
+    "seller": {
+        "name": "Christine Moore"
+    },
+    "supplier": {
+        "address": "992 Reid Overpass Suite 747 South Carlosfurt, CA 62089",
+        "name": "Vanessa Bush"
+    },
+    "tax": {
+        "amount_excluding_tax": 40.26,
+        "amount_including_tax": 89.29,
+        "tax_amount": 12.71,
+        "total_ht": 266.67,
+        "total_ttc": 291.21
+    }
+}

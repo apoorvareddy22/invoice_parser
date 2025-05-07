@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "1379 Carson Stream West Brittanyton, CA 03454"
+    },
+    "invoice": {
+        "bc_no": "gC00890",
+        "date": "15.04.2019",
+        "maturity_date": "03.12.2018",
+        "number": 102112
+    },
+    "products": [
+        {
+            "amount": 366.7,
+            "description": "incubate B2C architectures",
+            "quantity": 3.57,
+            "unit_price": 67.82,
+            "vat_amount": 2.73
+        },
+        {
+            "amount": 294.48,
+            "description": "matrix cross-platform communities",
+            "quantity": 1.01,
+            "unit_price": 43.66,
+            "vat_amount": 7.01
+        },
+        {
+            "amount": 444.52,
+            "description": "envisioneer bricks-and-clicks methodologies",
+            "quantity": 7.96,
+            "unit_price": 91.92,
+            "vat_amount": 4.64
+        },
+        {
+            "amount": 385.69,
+            "description": "harness revolutionary applications",
+            "quantity": 9.53,
+            "unit_price": 22.64,
+            "vat_amount": 3.35
+        },
+        {
+            "amount": 13.37,
+            "description": "facilitate open-source info-mediaries",
+            "quantity": 4.79,
+            "unit_price": 25.23,
+            "vat_amount": 6.57
+        },
+        {
+            "amount": 321.05,
+            "description": "orchestrate best-of-breed supply-chains",
+            "quantity": 3.97,
+            "unit_price": 13.48,
+            "vat_amount": 1.03
+        }
+    ],
+    "seller": {
+        "address": "508 Stewart Centers Apt. 737 New Brandichester, TX 62107"
+    },
+    "tax": {
+        "amount_excluding_tax": 94.19,
+        "amount_including_tax": 115.34,
+        "tax_amount": 25.01
+    }
+}

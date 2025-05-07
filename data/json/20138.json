@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "3317 Richard Junctions Apt. 745 Reyesmouth, IL 44780",
+        "company_name": "Combs-Cox",
+        "email": "michael03@example.com",
+        "name": "Amy Elliott",
+        "phone": "227-835-4832"
+    },
+    "invoice": {
+        "date": "15.10.2014",
+        "due_date": "26.11.1999",
+        "number": "taS19205600071"
+    },
+    "payment": {
+        "account_number": 8738180514,
+        "bank_name": "Gray, Rogers and Adkins",
+        "routing_number": 195705767
+    },
+    "products": [
+        {
+            "amount": 412.95,
+            "description": "deliver bleeding-edge channels",
+            "index": "3",
+            "quantity": 4.55,
+            "unit_price": 20.82
+        }
+    ],
+    "seller": {
+        "address": "9795 Christina Avenue Stephaniemouth, GU 31373",
+        "company_name": "Black Ltd",
+        "email": "reeddaniel@example.org"
+    }
+}

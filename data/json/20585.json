@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "066 Amber Parks Amyhaven, PA 97305",
+        "company_name": "Cook LLC",
+        "email": "cfrost@example.org",
+        "name": "Thomas Smith",
+        "phone": "+1-434-486-1494x7800"
+    },
+    "invoice": {
+        "date": "28.02.2016",
+        "due_date": "11.11.2002",
+        "number": "wbr48088441513"
+    },
+    "payment": {
+        "account_number": 3641532668,
+        "bank_name": "Barker Group",
+        "routing_number": 201660302
+    },
+    "products": [
+        {
+            "amount": 104.33,
+            "description": "brand clicks-and-mortar vortals",
+            "index": "10",
+            "quantity": 9.7,
+            "unit_price": 30.62
+        },
+        {
+            "amount": 90.87,
+            "description": "grow cross-media initiatives",
+            "index": "7",
+            "quantity": 5.2,
+            "unit_price": 50.16
+        },
+        {
+            "amount": 244.29,
+            "description": "productize virtual paradigms",
+            "index": "7",
+            "quantity": 6.27,
+            "unit_price": 42.13
+        }
+    ],
+    "seller": {
+        "address": "260 Franco Pass Apt. 686 East Pamela, AS 75527",
+        "company_name": "Clark Inc",
+        "email": "thompsonpatricia@example.com"
+    }
+}

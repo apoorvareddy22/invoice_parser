@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "087 Simpson Route Suite 545 Lake Sheilaburgh, CO 13140",
+        "email": "cwade@example.org",
+        "phone": "(854)567-9262x789",
+        "vat_no": "gE00719165717"
+    },
+    "invoice": {
+        "date": "29.03.1994",
+        "due_date": "20.04.2004",
+        "market_reference": 577475,
+        "notes": "syndicate back-end schemas",
+        "number": "9563-8269",
+        "reference": 197724,
+        "vat_no": "XO49542428124"
+    },
+    "payment": {
+        "net_total": 112.7,
+        "total": 900.88
+    },
+    "products": [
+        {
+            "amount": 298.29,
+            "description": "implement visionary e-markets",
+            "hours": 3.89,
+            "rate": 4.61
+        },
+        {
+            "amount": 457.79,
+            "description": "integrate compelling info-mediaries",
+            "hours": 2.6,
+            "rate": 7.49
+        },
+        {
+            "amount": 123.44,
+            "description": "repurpose user-centric paradigms",
+            "hours": 7.01,
+            "rate": 8.31
+        },
+        {
+            "amount": 212.65,
+            "description": "re-contextualize compelling relationships",
+            "hours": 7.72,
+            "rate": 7.55
+        },
+        {
+            "amount": 6.43,
+            "description": "visualize impactful convergence",
+            "hours": 5.44,
+            "rate": 1.21
+        },
+        {
+            "amount": 360.23,
+            "description": "implement mission-critical functionalities",
+            "hours": 4.64,
+            "rate": 9.17
+        }
+    ],
+    "seller": {
+        "address": "334 Alyssa Drives Apt. 494 East Matthew, AK 05835",
+        "email": "medinawhitney@example.org",
+        "name": "Amber Soto"
+    },
+    "tax": {
+        "base": 15.66,
+        "tax_amount": 10.74,
+        "total_tax": 18.49
+    }
+}

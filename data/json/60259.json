@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "222 Fitzpatrick Crossing Suite 182 Hughesville, WY 81333",
+        "business_no": "GK072",
+        "id": "wz330"
+    },
+    "invoice": {
+        "date": "05.05.2020",
+        "number": "0798-3853"
+    },
+    "payment": {
+        "due_date": "25.11.1991",
+        "total": 963.23
+    },
+    "products": [
+        {
+            "amount": 337.41,
+            "description": "visualize front-end experiences",
+            "quantity": 5.34,
+            "reference": "sw-118",
+            "unit_price": 32.61
+        },
+        {
+            "amount": 284.65,
+            "description": "reinvent user-centric web-readiness",
+            "quantity": 5.32,
+            "reference": "iV-476",
+            "unit_price": 63.6
+        },
+        {
+            "amount": 221.8,
+            "description": "optimize proactive e-markets",
+            "quantity": 6.82,
+            "reference": "CT-680",
+            "unit_price": 15.61
+        },
+        {
+            "amount": 325.3,
+            "description": "architect granular methodologies",
+            "quantity": 1.69,
+            "reference": "yB-994",
+            "unit_price": 42.69
+        }
+    ],
+    "seller": {
+        "address": "261 Mccall Walk Marvinport, MH 67948"
+    },
+    "tax": {
+        "base_ht": 181.55,
+        "regulations": 16.15,
+        "total_ht": 457.31,
+        "vat_amount": 162.85,
+        "vat_percentage": 10.79
+    }
+}

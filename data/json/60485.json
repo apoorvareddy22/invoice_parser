@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "2603 Tracey Mount West Tamara, GA 55255",
+        "business_no": "qg768",
+        "id": "ar388"
+    },
+    "invoice": {
+        "date": "22.09.2015",
+        "number": "3474-5254"
+    },
+    "payment": {
+        "due_date": "23.09.2005",
+        "total": 162.91
+    },
+    "products": [
+        {
+            "amount": 73.54,
+            "description": "deliver bricks-and-clicks action-items",
+            "quantity": 9.39,
+            "reference": "IF-613",
+            "unit_price": 63.71
+        },
+        {
+            "amount": 122.01,
+            "description": "utilize bricks-and-clicks paradigms",
+            "quantity": 3.91,
+            "reference": "zQ-801",
+            "unit_price": 93.93
+        },
+        {
+            "amount": 498.75,
+            "description": "streamline seamless ROI",
+            "quantity": 2.03,
+            "reference": "Tw-305",
+            "unit_price": 66.57
+        },
+        {
+            "amount": 78.94,
+            "description": "deliver rich deliverables",
+            "quantity": 6.3,
+            "reference": "Ui-672",
+            "unit_price": 66.44
+        }
+    ],
+    "seller": {
+        "address": "07704 Hall Light Lake Sarah, MD 42599"
+    },
+    "tax": {
+        "base_ht": 283.32,
+        "regulations": 16.49,
+        "total_ht": 205.8,
+        "vat_amount": 97.49,
+        "vat_percentage": 25.33
+    }
+}

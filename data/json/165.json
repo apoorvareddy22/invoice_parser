@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "6664 Hicks Garden Suite 489 Susanport, IN 27938",
+        "company_name": "Matthews, Bishop and Hoffman",
+        "country": "Mauritius",
+        "name": "Tyler Martinez"
+    },
+    "invoice": {
+        "date": "21.02.2004",
+        "number": 146459
+    },
+    "payment": {
+        "discount_amount": 45.72,
+        "discount_percentage": 7.28,
+        "due": 25.31,
+        "sub_total": 23.45,
+        "total": 191.93
+    },
+    "products": [
+        {
+            "description": "integrate front-end platforms",
+            "index": "1",
+            "quantity": 3.99,
+            "total_price": 770.11,
+            "unit_price": 66.44
+        }
+    ],
+    "seller": {
+        "address": "224 Briggs Corner North Davidberg, DE 12855",
+        "company_name": "Hogan-Wilson",
+        "vat_no": "Bh40951669329"
+    }
+}

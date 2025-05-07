@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "95570 Conner Shores Grantport, IL 76192",
+        "business_no": "pr679",
+        "id": "oa750"
+    },
+    "invoice": {
+        "date": "14.04.2003",
+        "number": "2903-8123"
+    },
+    "payment": {
+        "due_date": "20.10.2001",
+        "total": 878.73
+    },
+    "products": [
+        {
+            "amount": 34.07,
+            "description": "envisioneer distributed metrics",
+            "quantity": 9.27,
+            "reference": "jl-601",
+            "unit_price": 52.58
+        },
+        {
+            "amount": 494.4,
+            "description": "empower frictionless platforms",
+            "quantity": 9.74,
+            "reference": "RC-533",
+            "unit_price": 57.91
+        }
+    ],
+    "seller": {
+        "address": "676 Kyle Canyon North Lisa, MD 61608"
+    },
+    "tax": {
+        "base_ht": 222.21,
+        "regulations": 19.5,
+        "total_ht": 221.39,
+        "vat_amount": 95.12,
+        "vat_percentage": 20.16
+    }
+}

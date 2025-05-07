@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "5798 Matthew Extension Apt. 853 Jenniferville, OK 57521"
+    },
+    "invoice": {
+        "bc_no": "iq28776",
+        "date": "04.11.2022",
+        "maturity_date": "10.02.2006",
+        "number": 487611
+    },
+    "products": [
+        {
+            "amount": 205.28,
+            "description": "re-intermediate transparent e-commerce",
+            "quantity": 3.73,
+            "unit_price": 78.75,
+            "vat_amount": 1.76
+        },
+        {
+            "amount": 449.1,
+            "description": "synergize holistic supply-chains",
+            "quantity": 7.88,
+            "unit_price": 12.36,
+            "vat_amount": 7.25
+        },
+        {
+            "amount": 383.17,
+            "description": "envisioneer value-added communities",
+            "quantity": 2.98,
+            "unit_price": 51.84,
+            "vat_amount": 2.43
+        },
+        {
+            "amount": 490.09,
+            "description": "engineer end-to-end models",
+            "quantity": 6.02,
+            "unit_price": 61.44,
+            "vat_amount": 8.2
+        }
+    ],
+    "seller": {
+        "address": "50866 Russo Mission Suite 536 Bettychester, OH 47800"
+    },
+    "tax": {
+        "amount_excluding_tax": 114.24,
+        "amount_including_tax": 82.24,
+        "tax_amount": 16.16
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "Unit 2088 Box 9759 DPO AP 11093",
+        "id": "Hu890"
+    },
+    "invoice": {
+        "bc_no": "rW27060",
+        "currency_code": "XAF",
+        "date": "06.12.2003",
+        "due_date": "13.06.1991",
+        "number": 583914
+    },
+    "payment": {
+        "bank_name": "Flores, Frank and Taylor",
+        "bic": "HSHIGBSHICV",
+        "iban": "NDTR67330522165313"
+    },
+    "products": [
+        {
+            "amount": 29.9,
+            "description": "implement dynamic functionalities",
+            "index": "4",
+            "price": 473.6,
+            "quantity": 2.27,
+            "tax_amount": 13.45,
+            "total_ttc": 396.66,
+            "vat_amount": 1.6
+        },
+        {
+            "amount": 361.0,
+            "description": "aggregate customized partnerships",
+            "index": "4",
+            "price": 126.53,
+            "quantity": 2.64,
+            "tax_amount": 54.41,
+            "total_ttc": 311.68,
+            "vat_amount": 0.34
+        },
+        {
+            "amount": 342.11,
+            "description": "benchmark user-centric content",
+            "index": "5",
+            "price": 199.09,
+            "quantity": 8.08,
+            "tax_amount": 66.48,
+            "total_ttc": 242.86,
+            "vat_amount": 4.65
+        },
+        {
+            "amount": 33.91,
+            "description": "whiteboard bricks-and-clicks partnerships",
+            "index": "7",
+            "price": 143.3,
+            "quantity": 7.22,
+            "tax_amount": 28.27,
+            "total_ttc": 319.22,
+            "vat_amount": 1.04
+        }
+    ],
+    "seller": {
+        "name": "Todd Jackson"
+    },
+    "supplier": {
+        "address": "477 Fox Dam Suite 636 Michaelville, CO 49311",
+        "name": "Olivia Buchanan"
+    },
+    "tax": {
+        "amount_excluding_tax": 55.43,
+        "amount_including_tax": 74.92,
+        "tax_amount": 11.19,
+        "total_ht": 126.67,
+        "total_ttc": 328.44
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "Unit 3578 Box 7317 DPO AP 16648",
+        "email": "garciarebecca@example.net",
+        "phone": "+1-994-790-1873x766",
+        "vat_no": "rt64658902499"
+    },
+    "invoice": {
+        "date": "06.08.2014",
+        "due_date": "09.11.2017",
+        "market_reference": 299299,
+        "notes": "innovate cross-media e-services",
+        "number": "3210-9093",
+        "reference": 467293,
+        "vat_no": "Wi95055771385"
+    },
+    "payment": {
+        "net_total": 162.55,
+        "total": 656.76
+    },
+    "products": [
+        {
+            "amount": 330.96,
+            "description": "evolve rich e-markets",
+            "hours": 8.15,
+            "rate": 4.27
+        },
+        {
+            "amount": 284.27,
+            "description": "brand value-added channels",
+            "hours": 6.07,
+            "rate": 1.36
+        },
+        {
+            "amount": 420.89,
+            "description": "re-contextualize B2C bandwidth",
+            "hours": 2.68,
+            "rate": 8.25
+        },
+        {
+            "amount": 219.01,
+            "description": "repurpose turn-key metrics",
+            "hours": 7.79,
+            "rate": 1.74
+        }
+    ],
+    "seller": {
+        "address": "USCGC Jones FPO AE 88580",
+        "email": "rossgeorge@example.org",
+        "name": "Tracey Herman"
+    },
+    "tax": {
+        "base": 20.29,
+        "tax_amount": 19.39,
+        "total_tax": 24.55
+    }
+}

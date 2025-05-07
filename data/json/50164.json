@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "1688 James Ridge Prestonbury, RI 61629",
+        "id": "sC487"
+    },
+    "invoice": {
+        "bc_no": "Er27561",
+        "currency_code": "NIS",
+        "date": "21.11.2020",
+        "due_date": "04.10.1999",
+        "number": 321197
+    },
+    "payment": {
+        "bank_name": "Elliott-Miller",
+        "bic": "CAORGBB9",
+        "iban": "JVDL21772721033477"
+    },
+    "products": [
+        {
+            "amount": 361.88,
+            "description": "orchestrate rich schemas",
+            "index": "7",
+            "price": 81.73,
+            "quantity": 6.06,
+            "tax_amount": 75.26,
+            "total_ttc": 386.07,
+            "vat_amount": 14.11
+        },
+        {
+            "amount": 166.3,
+            "description": "repurpose ubiquitous e-commerce",
+            "index": "9",
+            "price": 377.23,
+            "quantity": 2.74,
+            "tax_amount": 69.01,
+            "total_ttc": 354.85,
+            "vat_amount": 4.53
+        }
+    ],
+    "seller": {
+        "name": "Jeffrey Strong"
+    },
+    "supplier": {
+        "address": "38125 Kimberly Station Port Jay, WY 72833",
+        "name": "Monica Graves"
+    },
+    "tax": {
+        "amount_excluding_tax": 50.69,
+        "amount_including_tax": 189.13,
+        "tax_amount": 14.78,
+        "total_ht": 234.56,
+        "total_ttc": 268.48
+    }
+}

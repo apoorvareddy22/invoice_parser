@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "465 David Crescent Jeffreyhaven, VT 15046"
+    },
+    "invoice": {
+        "bc_no": "hC84903",
+        "date": "09.06.2020",
+        "maturity_date": "17.05.2014",
+        "number": 589004
+    },
+    "products": [
+        {
+            "amount": 387.85,
+            "description": "matrix out-of-the-box e-markets",
+            "quantity": 8.26,
+            "unit_price": 18.3,
+            "vat_amount": 10.86
+        }
+    ],
+    "seller": {
+        "address": "256 Kaitlin Locks Ambermouth, RI 13008"
+    },
+    "tax": {
+        "amount_excluding_tax": 71.36,
+        "amount_including_tax": 149.91,
+        "tax_amount": 27.53
+    }
+}

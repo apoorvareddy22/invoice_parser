@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "9042 Buchanan Road Lake Andrea, AS 80074",
+        "id": "cG127"
+    },
+    "invoice": {
+        "bc_no": "PJ87321",
+        "currency_code": "KGS",
+        "date": "01.11.1993",
+        "due_date": "08.01.2020",
+        "number": 259934
+    },
+    "payment": {
+        "bank_name": "Haynes, Johnson and Morris",
+        "bic": "RASNGBMHDG2",
+        "iban": "UUKO79878304297388"
+    },
+    "products": [
+        {
+            "amount": 179.81,
+            "description": "generate world-class models",
+            "index": "3",
+            "price": 253.58,
+            "quantity": 1.64,
+            "tax_amount": 47.02,
+            "total_ttc": 386.28,
+            "vat_amount": 3.13
+        },
+        {
+            "amount": 129.7,
+            "description": "visualize integrated infrastructures",
+            "index": "6",
+            "price": 166.48,
+            "quantity": 3.27,
+            "tax_amount": 98.99,
+            "total_ttc": 308.94,
+            "vat_amount": 11.61
+        },
+        {
+            "amount": 248.18,
+            "description": "transform B2C e-commerce",
+            "index": "9",
+            "price": 293.69,
+            "quantity": 1.35,
+            "tax_amount": 28.1,
+            "total_ttc": 368.72,
+            "vat_amount": 2.18
+        },
+        {
+            "amount": 230.49,
+            "description": "syndicate global ROI",
+            "index": "9",
+            "price": 211.4,
+            "quantity": 2.56,
+            "tax_amount": 77.2,
+            "total_ttc": 191.87,
+            "vat_amount": 4.6
+        }
+    ],
+    "seller": {
+        "name": "Eric Hale"
+    },
+    "supplier": {
+        "address": "6564 Rollins Mountain Rodriguezborough, WY 00823",
+        "name": "Stacy Cuevas"
+    },
+    "tax": {
+        "amount_excluding_tax": 55.52,
+        "amount_including_tax": 29.75,
+        "tax_amount": 16.78,
+        "total_ht": 262.72,
+        "total_ttc": 111.76
+    }
+}

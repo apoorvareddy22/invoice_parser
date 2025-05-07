@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "58444 Allison Camp North Allison, CT 62563",
+        "id": "tJ387"
+    },
+    "invoice": {
+        "bc_no": "By29713",
+        "currency_code": "KHR",
+        "date": "12.04.2018",
+        "due_date": "13.06.2005",
+        "number": 782526
+    },
+    "payment": {
+        "bank_name": "George, Underwood and Cline",
+        "bic": "YWNLGBVVM17",
+        "iban": "WMNE67144762755674"
+    },
+    "products": [
+        {
+            "amount": 433.58,
+            "description": "transition synergistic initiatives",
+            "index": "7",
+            "price": 190.09,
+            "quantity": 3.68,
+            "tax_amount": 96.51,
+            "total_ttc": 257.62,
+            "vat_amount": 1.75
+        },
+        {
+            "amount": 77.13,
+            "description": "synergize holistic ROI",
+            "index": "9",
+            "price": 404.5,
+            "quantity": 3.92,
+            "tax_amount": 39.61,
+            "total_ttc": 494.0,
+            "vat_amount": 14.86
+        },
+        {
+            "amount": 5.74,
+            "description": "syndicate bricks-and-clicks relationships",
+            "index": "4",
+            "price": 374.62,
+            "quantity": 4.97,
+            "tax_amount": 26.54,
+            "total_ttc": 267.33,
+            "vat_amount": 9.93
+        },
+        {
+            "amount": 7.6,
+            "description": "deploy bricks-and-clicks schemas",
+            "index": "10",
+            "price": 359.7,
+            "quantity": 4.7,
+            "tax_amount": 80.3,
+            "total_ttc": 118.2,
+            "vat_amount": 2.54
+        },
+        {
+            "amount": 51.45,
+            "description": "transition open-source applications",
+            "index": "7",
+            "price": 315.87,
+            "quantity": 5.83,
+            "tax_amount": 96.17,
+            "total_ttc": 113.52,
+            "vat_amount": 0.74
+        }
+    ],
+    "seller": {
+        "name": "Julie Carter"
+    },
+    "supplier": {
+        "address": "PSC 9599, Box 1913 APO AA 79716",
+        "name": "Tracy Stewart"
+    },
+    "tax": {
+        "amount_excluding_tax": 165.15,
+        "amount_including_tax": 65.81,
+        "tax_amount": 26.95,
+        "total_ht": 277.06,
+        "total_ttc": 370.57
+    }
+}

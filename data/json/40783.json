@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "300 Barbara Burg Maymouth, NM 18272"
+    },
+    "invoice": {
+        "bc_no": "Ad93845",
+        "date": "11.07.2022",
+        "maturity_date": "30.05.2000",
+        "number": 608663
+    },
+    "products": [
+        {
+            "amount": 147.44,
+            "description": "innovate open-source applications",
+            "quantity": 1.62,
+            "unit_price": 58.8,
+            "vat_amount": 4.57
+        },
+        {
+            "amount": 65.9,
+            "description": "reinvent intuitive experiences",
+            "quantity": 7.84,
+            "unit_price": 34.93,
+            "vat_amount": 4.17
+        },
+        {
+            "amount": 255.05,
+            "description": "streamline leading-edge info-mediaries",
+            "quantity": 9.7,
+            "unit_price": 12.75,
+            "vat_amount": 12.94
+        },
+        {
+            "amount": 214.58,
+            "description": "e-enable strategic info-mediaries",
+            "quantity": 8.22,
+            "unit_price": 90.56,
+            "vat_amount": 0.17
+        },
+        {
+            "amount": 156.31,
+            "description": "leverage user-centric models",
+            "quantity": 1.88,
+            "unit_price": 87.88,
+            "vat_amount": 0.01
+        },
+        {
+            "amount": 95.09,
+            "description": "streamline revolutionary eyeballs",
+            "quantity": 3.39,
+            "unit_price": 50.7,
+            "vat_amount": 0.2
+        }
+    ],
+    "seller": {
+        "address": "8356 Allen Branch South William, MS 33265"
+    },
+    "tax": {
+        "amount_excluding_tax": 32.05,
+        "amount_including_tax": 111.16,
+        "tax_amount": 13.59
+    }
+}

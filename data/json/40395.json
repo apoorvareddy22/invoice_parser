@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "95797 Haney Stravenue Williamshire, MH 19162"
+    },
+    "invoice": {
+        "bc_no": "AH28995",
+        "date": "20.10.2006",
+        "maturity_date": "31.03.1991",
+        "number": 548283
+    },
+    "products": [
+        {
+            "amount": 384.53,
+            "description": "deliver turn-key web services",
+            "quantity": 2.49,
+            "unit_price": 21.96,
+            "vat_amount": 0.66
+        },
+        {
+            "amount": 120.25,
+            "description": "re-intermediate dot-com web-readiness",
+            "quantity": 9.27,
+            "unit_price": 39.69,
+            "vat_amount": 5.31
+        }
+    ],
+    "seller": {
+        "address": "7041 Clark Springs Suite 537 West Joshua, MT 27943"
+    },
+    "tax": {
+        "amount_excluding_tax": 102.38,
+        "amount_including_tax": 116.67,
+        "tax_amount": 21.53
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "752 Matthew Burgs Apt. 692 Lake Blake, OK 92636",
+        "id": "ZA151"
+    },
+    "invoice": {
+        "bc_no": "WG58179",
+        "currency_code": "XOF",
+        "date": "01.01.2015",
+        "due_date": "27.07.2011",
+        "number": 749796
+    },
+    "payment": {
+        "bank_name": "Ross, Murray and Hines",
+        "bic": "UIIGGBIH",
+        "iban": "SDMH12527922580147"
+    },
+    "products": [
+        {
+            "amount": 460.83,
+            "description": "drive magnetic solutions",
+            "index": "5",
+            "price": 332.91,
+            "quantity": 9.41,
+            "tax_amount": 43.86,
+            "total_ttc": 310.54,
+            "vat_amount": 5.14
+        },
+        {
+            "amount": 24.59,
+            "description": "re-intermediate wireless initiatives",
+            "index": "1",
+            "price": 484.83,
+            "quantity": 8.43,
+            "tax_amount": 43.95,
+            "total_ttc": 309.25,
+            "vat_amount": 1.01
+        },
+        {
+            "amount": 347.38,
+            "description": "visualize one-to-one paradigms",
+            "index": "1",
+            "price": 184.29,
+            "quantity": 2.46,
+            "tax_amount": 61.74,
+            "total_ttc": 165.19,
+            "vat_amount": 3.72
+        },
+        {
+            "amount": 76.92,
+            "description": "generate B2C e-business",
+            "index": "5",
+            "price": 297.06,
+            "quantity": 9.7,
+            "tax_amount": 19.3,
+            "total_ttc": 190.79,
+            "vat_amount": 0.42
+        },
+        {
+            "amount": 27.12,
+            "description": "drive 24/365 metrics",
+            "index": "9",
+            "price": 471.89,
+            "quantity": 5.42,
+            "tax_amount": 65.77,
+            "total_ttc": 312.62,
+            "vat_amount": 6.16
+        },
+        {
+            "amount": 362.99,
+            "description": "unleash plug-and-play vortals",
+            "index": "4",
+            "price": 333.1,
+            "quantity": 4.26,
+            "tax_amount": 48.45,
+            "total_ttc": 474.37,
+            "vat_amount": 2.66
+        }
+    ],
+    "seller": {
+        "name": "Danny Boyer"
+    },
+    "supplier": {
+        "address": "04739 Franklin View New Jamesfort, MS 84108",
+        "name": "Mary Wise"
+    },
+    "tax": {
+        "amount_excluding_tax": 162.34,
+        "amount_including_tax": 179.9,
+        "tax_amount": 13.76,
+        "total_ht": 152.77,
+        "total_ttc": 351.34
+    }
+}

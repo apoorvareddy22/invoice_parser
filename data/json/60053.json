@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "USNV Bishop FPO AE 88319",
+        "business_no": "qy580",
+        "id": "EN311"
+    },
+    "invoice": {
+        "date": "06.02.2007",
+        "number": "2604-4038"
+    },
+    "payment": {
+        "due_date": "05.07.2011",
+        "total": 560.03
+    },
+    "products": [
+        {
+            "amount": 127.64,
+            "description": "engineer customized interfaces",
+            "quantity": 4.69,
+            "reference": "Qg-729",
+            "unit_price": 58.35
+        },
+        {
+            "amount": 155.47,
+            "description": "orchestrate sticky solutions",
+            "quantity": 5.98,
+            "reference": "QP-502",
+            "unit_price": 98.94
+        },
+        {
+            "amount": 282.45,
+            "description": "transform visionary schemas",
+            "quantity": 4.36,
+            "reference": "Qv-759",
+            "unit_price": 39.72
+        },
+        {
+            "amount": 357.65,
+            "description": "scale impactful action-items",
+            "quantity": 1.34,
+            "reference": "kH-937",
+            "unit_price": 91.37
+        }
+    ],
+    "seller": {
+        "address": "689 Joshua Junctions Apt. 298 Mitchellville, CT 66277"
+    },
+    "tax": {
+        "base_ht": 369.71,
+        "regulations": 28.11,
+        "total_ht": 215.56,
+        "vat_amount": 137.72,
+        "vat_percentage": 15.86
+    }
+}

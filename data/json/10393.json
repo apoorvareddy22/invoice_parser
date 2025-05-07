@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "PSC 9187, Box 8112 APO AA 90390",
+        "email": "johnsonphyllis@example.com",
+        "phone": "(428)505-7687",
+        "vat_no": "Ed00359209850"
+    },
+    "invoice": {
+        "date": "18.10.2017",
+        "due_date": "19.05.1999",
+        "market_reference": 135305,
+        "notes": "matrix proactive content",
+        "number": "8783-3735",
+        "reference": 609130,
+        "vat_no": "ub11788018511"
+    },
+    "payment": {
+        "net_total": 72.73,
+        "total": 989.36
+    },
+    "products": [
+        {
+            "amount": 114.77,
+            "description": "innovate cross-platform synergies",
+            "hours": 2.57,
+            "rate": 2.55
+        },
+        {
+            "amount": 152.31,
+            "description": "exploit next-generation relationships",
+            "hours": 8.5,
+            "rate": 3.16
+        },
+        {
+            "amount": 43.54,
+            "description": "syndicate back-end synergies",
+            "hours": 4.87,
+            "rate": 6.67
+        }
+    ],
+    "seller": {
+        "address": "162 Yvette Motorway North Aaron, CO 65516",
+        "email": "marissadean@example.com",
+        "name": "Charles Wagner"
+    },
+    "tax": {
+        "base": 23.6,
+        "tax_amount": 11.69,
+        "total_tax": 26.32
+    }
+}

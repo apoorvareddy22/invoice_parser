@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "Unit 2941 Box 7999 DPO AP 90899",
+        "company_name": "Marshall-Howell",
+        "email": "martindeborah@example.com",
+        "name": "Eduardo Coleman",
+        "phone": "(905)302-0814"
+    },
+    "invoice": {
+        "date": "24.09.2002",
+        "due_date": "16.01.2023",
+        "number": "MNB03802904412"
+    },
+    "payment": {
+        "account_number": 3042838006,
+        "bank_name": "Rodriguez LLC",
+        "routing_number": 106266308
+    },
+    "products": [
+        {
+            "amount": 422.3,
+            "description": "incubate wireless synergies",
+            "index": "3",
+            "quantity": 5.24,
+            "unit_price": 14.65
+        },
+        {
+            "amount": 310.01,
+            "description": "harness back-end paradigms",
+            "index": "1",
+            "quantity": 4.68,
+            "unit_price": 39.85
+        },
+        {
+            "amount": 187.31,
+            "description": "envisioneer 24/7 relationships",
+            "index": "8",
+            "quantity": 7.97,
+            "unit_price": 30.69
+        }
+    ],
+    "seller": {
+        "address": "PSC 9907, Box 4965 APO AE 99532",
+        "company_name": "Meadows LLC",
+        "email": "megansolis@example.com"
+    }
+}

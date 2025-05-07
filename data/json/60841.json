@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "37129 Ruiz Forges Apt. 569 Lake Amanda, RI 56250",
+        "business_no": "Va424",
+        "id": "ML915"
+    },
+    "invoice": {
+        "date": "03.08.2019",
+        "number": "0271-1462"
+    },
+    "payment": {
+        "due_date": "30.04.2009",
+        "total": 240.48
+    },
+    "products": [
+        {
+            "amount": 190.06,
+            "description": "transition virtual deliverables",
+            "quantity": 2.7,
+            "reference": "QT-923",
+            "unit_price": 54.04
+        },
+        {
+            "amount": 102.45,
+            "description": "re-intermediate frictionless solutions",
+            "quantity": 1.19,
+            "reference": "pu-906",
+            "unit_price": 64.28
+        }
+    ],
+    "seller": {
+        "address": "3785 Mccoy Green Apt. 242 Port Jasmine, KY 35690"
+    },
+    "tax": {
+        "base_ht": 245.64,
+        "regulations": 23.65,
+        "total_ht": 424.85,
+        "vat_amount": 27.27,
+        "vat_percentage": 15.91
+    }
+}

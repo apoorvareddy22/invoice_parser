@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "5400 Brad Orchard Suite 178 Port Tina, ID 95467",
+        "id": "Sq347"
+    },
+    "invoice": {
+        "bc_no": "ZX35275",
+        "currency_code": "BBD",
+        "date": "19.05.2023",
+        "due_date": "14.03.2001",
+        "number": 276410
+    },
+    "payment": {
+        "bank_name": "Cox PLC",
+        "bic": "OKSLGBSSVHG",
+        "iban": "WTHV09098781596836"
+    },
+    "products": [
+        {
+            "amount": 50.44,
+            "description": "envisioneer extensible portals",
+            "index": "7",
+            "price": 412.85,
+            "quantity": 7.53,
+            "tax_amount": 23.92,
+            "total_ttc": 457.05,
+            "vat_amount": 0.21
+        },
+        {
+            "amount": 32.1,
+            "description": "brand transparent infrastructures",
+            "index": "9",
+            "price": 155.54,
+            "quantity": 7.04,
+            "tax_amount": 36.03,
+            "total_ttc": 232.68,
+            "vat_amount": 2.84
+        },
+        {
+            "amount": 124.07,
+            "description": "visualize wireless info-mediaries",
+            "index": "1",
+            "price": 211.3,
+            "quantity": 3.61,
+            "tax_amount": 68.65,
+            "total_ttc": 370.65,
+            "vat_amount": 0.59
+        },
+        {
+            "amount": 276.66,
+            "description": "harness seamless methodologies",
+            "index": "4",
+            "price": 363.59,
+            "quantity": 5.36,
+            "tax_amount": 16.75,
+            "total_ttc": 442.05,
+            "vat_amount": 6.44
+        }
+    ],
+    "seller": {
+        "name": "Michael Morse"
+    },
+    "supplier": {
+        "address": "664 Jason Glens Apt. 295 Allisonfurt, OR 83628",
+        "name": "Taylor Jackson"
+    },
+    "tax": {
+        "amount_excluding_tax": 34.11,
+        "amount_including_tax": 134.46,
+        "tax_amount": 16.59,
+        "total_ht": 448.29,
+        "total_ttc": 121.46
+    }
+}

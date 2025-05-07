@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "5184 Matthew Pine Lake Joseph, PR 43334",
+        "id": "ym889"
+    },
+    "invoice": {
+        "bc_no": "zx27029",
+        "currency_code": "VND",
+        "date": "22.08.2018",
+        "due_date": "17.12.1997",
+        "number": 945095
+    },
+    "payment": {
+        "bank_name": "Garcia, Bates and Brooks",
+        "bic": "YSPYGB4X",
+        "iban": "AHES79378041999147"
+    },
+    "products": [
+        {
+            "amount": 388.85,
+            "description": "integrate B2C e-markets",
+            "index": "1",
+            "price": 144.48,
+            "quantity": 3.37,
+            "tax_amount": 68.59,
+            "total_ttc": 391.02,
+            "vat_amount": 0.94
+        },
+        {
+            "amount": 436.52,
+            "description": "harness ubiquitous e-tailers",
+            "index": "3",
+            "price": 185.88,
+            "quantity": 4.18,
+            "tax_amount": 99.21,
+            "total_ttc": 233.19,
+            "vat_amount": 2.72
+        },
+        {
+            "amount": 8.1,
+            "description": "embrace proactive e-services",
+            "index": "10",
+            "price": 174.89,
+            "quantity": 2.0,
+            "tax_amount": 32.58,
+            "total_ttc": 227.93,
+            "vat_amount": 5.07
+        }
+    ],
+    "seller": {
+        "name": "Desiree Bell"
+    },
+    "supplier": {
+        "address": "978 Booker Springs East Jeffrey, VI 05686",
+        "name": "Brian Shepherd"
+    },
+    "tax": {
+        "amount_excluding_tax": 53.88,
+        "amount_including_tax": 118.43,
+        "tax_amount": 22.94,
+        "total_ht": 272.98,
+        "total_ttc": 401.02
+    }
+}

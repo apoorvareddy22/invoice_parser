@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "926 Joel Burg Laurenside, OH 59527",
+        "email": "frankdurham@example.net",
+        "phone": "(557)701-6226x570",
+        "vat_no": "PI67696646433"
+    },
+    "invoice": {
+        "date": "23.07.2014",
+        "due_date": "10.04.1992",
+        "market_reference": 470801,
+        "notes": "enable killer deliverables",
+        "number": "8933-7098",
+        "reference": 749092,
+        "vat_no": "tl66482382212"
+    },
+    "payment": {
+        "net_total": 74.53,
+        "total": 605.81
+    },
+    "products": [
+        {
+            "amount": 332.85,
+            "description": "e-enable innovative niches",
+            "hours": 2.53,
+            "rate": 5.61
+        },
+        {
+            "amount": 309.6,
+            "description": "incentivize innovative experiences",
+            "hours": 7.03,
+            "rate": 4.4
+        },
+        {
+            "amount": 284.87,
+            "description": "whiteboard B2B e-services",
+            "hours": 7.87,
+            "rate": 2.78
+        }
+    ],
+    "seller": {
+        "address": "067 Karen Road Julieside, DE 87532",
+        "email": "kgalvan@example.org",
+        "name": "Katrina Blake"
+    },
+    "tax": {
+        "base": 20.47,
+        "tax_amount": 29.67,
+        "total_tax": 15.09
+    }
+}

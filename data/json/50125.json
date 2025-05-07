@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "4524 Richmond Landing Suite 422 Jaredshire, IL 89340",
+        "id": "sT520"
+    },
+    "invoice": {
+        "bc_no": "dL53535",
+        "currency_code": "TRY",
+        "date": "05.03.2006",
+        "due_date": "01.07.2016",
+        "number": 191853
+    },
+    "payment": {
+        "bank_name": "Tate-Hernandez",
+        "bic": "EWECGB0V",
+        "iban": "ZMBL63695511908528"
+    },
+    "products": [
+        {
+            "amount": 108.34,
+            "description": "strategize impactful web-readiness",
+            "index": "4",
+            "price": 158.48,
+            "quantity": 9.76,
+            "tax_amount": 60.86,
+            "total_ttc": 296.13,
+            "vat_amount": 2.58
+        },
+        {
+            "amount": 474.55,
+            "description": "redefine magnetic action-items",
+            "index": "6",
+            "price": 290.61,
+            "quantity": 5.56,
+            "tax_amount": 86.96,
+            "total_ttc": 392.13,
+            "vat_amount": 15.01
+        },
+        {
+            "amount": 398.84,
+            "description": "visualize value-added deliverables",
+            "index": "5",
+            "price": 208.22,
+            "quantity": 2.23,
+            "tax_amount": 36.83,
+            "total_ttc": 309.15,
+            "vat_amount": 16.21
+        },
+        {
+            "amount": 50.47,
+            "description": "exploit best-of-breed partnerships",
+            "index": "10",
+            "price": 410.19,
+            "quantity": 9.38,
+            "tax_amount": 49.91,
+            "total_ttc": 156.22,
+            "vat_amount": 0.46
+        },
+        {
+            "amount": 222.33,
+            "description": "reinvent cross-platform metrics",
+            "index": "8",
+            "price": 257.32,
+            "quantity": 1.85,
+            "tax_amount": 70.73,
+            "total_ttc": 436.04,
+            "vat_amount": 3.01
+        },
+        {
+            "amount": 356.14,
+            "description": "synthesize magnetic technologies",
+            "index": "3",
+            "price": 360.4,
+            "quantity": 2.13,
+            "tax_amount": 29.08,
+            "total_ttc": 215.38,
+            "vat_amount": 2.47
+        }
+    ],
+    "seller": {
+        "name": "Jeffrey Johnson"
+    },
+    "supplier": {
+        "address": "4873 Jeffrey Loaf Jefferyview, AK 12056",
+        "name": "Mark Montes"
+    },
+    "tax": {
+        "amount_excluding_tax": 139.05,
+        "amount_including_tax": 189.16,
+        "tax_amount": 16.96,
+        "total_ht": 375.31,
+        "total_ttc": 236.1
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "231 Bates Gateway North Robyn, MO 51395",
+        "id": "FL702"
+    },
+    "invoice": {
+        "bc_no": "FI53369",
+        "currency_code": "SAR",
+        "date": "13.06.2002",
+        "due_date": "27.04.2003",
+        "number": 227118
+    },
+    "payment": {
+        "bank_name": "Rodriguez, Perkins and Smith",
+        "bic": "FNQEGBL1TIE",
+        "iban": "WHYL28262220496481"
+    },
+    "products": [
+        {
+            "amount": 278.64,
+            "description": "exploit magnetic ROI",
+            "index": "6",
+            "price": 319.41,
+            "quantity": 9.02,
+            "tax_amount": 26.7,
+            "total_ttc": 185.05,
+            "vat_amount": 9.6
+        },
+        {
+            "amount": 269.66,
+            "description": "enhance turn-key solutions",
+            "index": "3",
+            "price": 143.81,
+            "quantity": 4.35,
+            "tax_amount": 91.85,
+            "total_ttc": 454.01,
+            "vat_amount": 1.34
+        },
+        {
+            "amount": 72.23,
+            "description": "whiteboard customized methodologies",
+            "index": "3",
+            "price": 219.63,
+            "quantity": 6.96,
+            "tax_amount": 66.01,
+            "total_ttc": 210.81,
+            "vat_amount": 1.86
+        },
+        {
+            "amount": 208.12,
+            "description": "maximize customized paradigms",
+            "index": "10",
+            "price": 494.21,
+            "quantity": 2.49,
+            "tax_amount": 94.29,
+            "total_ttc": 287.13,
+            "vat_amount": 2.97
+        },
+        {
+            "amount": 128.85,
+            "description": "streamline seamless paradigms",
+            "index": "4",
+            "price": 270.09,
+            "quantity": 5.06,
+            "tax_amount": 91.41,
+            "total_ttc": 430.78,
+            "vat_amount": 0.54
+        }
+    ],
+    "seller": {
+        "name": "Anne Gibson"
+    },
+    "supplier": {
+        "address": "Unit 7084 Box 0467 DPO AP 20055",
+        "name": "James Hayes"
+    },
+    "tax": {
+        "amount_excluding_tax": 180.48,
+        "amount_including_tax": 36.88,
+        "tax_amount": 11.63,
+        "total_ht": 492.67,
+        "total_ttc": 403.29
+    }
+}

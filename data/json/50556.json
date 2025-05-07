@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "0776 Danielle Branch Morrisville, WA 93457",
+        "id": "Qm228"
+    },
+    "invoice": {
+        "bc_no": "VS49390",
+        "currency_code": "CHF",
+        "date": "03.03.1994",
+        "due_date": "04.01.2018",
+        "number": 935813
+    },
+    "payment": {
+        "bank_name": "Norris-James",
+        "bic": "VILIGBS7",
+        "iban": "VOJW38143239213734"
+    },
+    "products": [
+        {
+            "amount": 382.38,
+            "description": "mesh bleeding-edge e-business",
+            "index": "3",
+            "price": 483.35,
+            "quantity": 3.75,
+            "tax_amount": 98.99,
+            "total_ttc": 202.76,
+            "vat_amount": 8.93
+        },
+        {
+            "amount": 328.36,
+            "description": "unleash scalable web-readiness",
+            "index": "6",
+            "price": 236.92,
+            "quantity": 7.35,
+            "tax_amount": 54.14,
+            "total_ttc": 374.35,
+            "vat_amount": 8.19
+        },
+        {
+            "amount": 473.04,
+            "description": "e-enable open-source systems",
+            "index": "4",
+            "price": 52.73,
+            "quantity": 6.06,
+            "tax_amount": 40.79,
+            "total_ttc": 240.76,
+            "vat_amount": 2.29
+        },
+        {
+            "amount": 242.75,
+            "description": "scale sticky deliverables",
+            "index": "2",
+            "price": 207.5,
+            "quantity": 8.71,
+            "tax_amount": 85.45,
+            "total_ttc": 364.99,
+            "vat_amount": 13.02
+        },
+        {
+            "amount": 82.04,
+            "description": "transition back-end e-tailers",
+            "index": "8",
+            "price": 481.16,
+            "quantity": 5.45,
+            "tax_amount": 72.81,
+            "total_ttc": 129.57,
+            "vat_amount": 5.29
+        },
+        {
+            "amount": 91.41,
+            "description": "grow rich initiatives",
+            "index": "1",
+            "price": 354.42,
+            "quantity": 2.29,
+            "tax_amount": 57.28,
+            "total_ttc": 474.44,
+            "vat_amount": 1.31
+        }
+    ],
+    "seller": {
+        "name": "Teresa Johnson"
+    },
+    "supplier": {
+        "address": "915 Warren Views Meyerland, CT 22942",
+        "name": "Scott Stewart"
+    },
+    "tax": {
+        "amount_excluding_tax": 144.93,
+        "amount_including_tax": 172.36,
+        "tax_amount": 19.9,
+        "total_ht": 262.91,
+        "total_ttc": 143.72
+    }
+}

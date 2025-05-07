@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "7851 Owens Village Sotoland, NE 85231"
+    },
+    "invoice": {
+        "bc_no": "au92089",
+        "date": "21.06.2013",
+        "maturity_date": "13.07.1997",
+        "number": 194797
+    },
+    "products": [
+        {
+            "amount": 179.48,
+            "description": "productize rich e-business",
+            "quantity": 8.5,
+            "unit_price": 52.26,
+            "vat_amount": 12.96
+        },
+        {
+            "amount": 12.11,
+            "description": "transform intuitive action-items",
+            "quantity": 4.92,
+            "unit_price": 30.07,
+            "vat_amount": 2.79
+        }
+    ],
+    "seller": {
+        "address": "87725 Tonya Summit Apt. 074 South Frank, MP 51121"
+    },
+    "tax": {
+        "amount_excluding_tax": 38.23,
+        "amount_including_tax": 35.62,
+        "tax_amount": 26.53
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "981 Kelsey Avenue Apt. 207 Smithborough, MD 10824",
+        "id": "WN721"
+    },
+    "invoice": {
+        "bc_no": "Oh28258",
+        "currency_code": "IMP",
+        "date": "15.06.2018",
+        "due_date": "06.10.2022",
+        "number": 384937
+    },
+    "payment": {
+        "bank_name": "Smith-Davis",
+        "bic": "PEAHGB37NIJ",
+        "iban": "QCMP36662296653374"
+    },
+    "products": [
+        {
+            "amount": 259.08,
+            "description": "leverage back-end niches",
+            "index": "3",
+            "price": 245.1,
+            "quantity": 1.77,
+            "tax_amount": 92.64,
+            "total_ttc": 448.23,
+            "vat_amount": 5.6
+        },
+        {
+            "amount": 350.79,
+            "description": "orchestrate global e-commerce",
+            "index": "1",
+            "price": 417.16,
+            "quantity": 5.13,
+            "tax_amount": 24.39,
+            "total_ttc": 118.29,
+            "vat_amount": 4.92
+        }
+    ],
+    "seller": {
+        "name": "Thomas Powers"
+    },
+    "supplier": {
+        "address": "727 Mills Points New Christineton, AL 45337",
+        "name": "Jeffrey Boone"
+    },
+    "tax": {
+        "amount_excluding_tax": 23.52,
+        "amount_including_tax": 104.14,
+        "tax_amount": 10.52,
+        "total_ht": 156.27,
+        "total_ttc": 114.54
+    }
+}

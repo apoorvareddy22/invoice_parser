@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "08517 Sara Spur Suite 243 Douglasmouth, CO 33779",
+        "business_no": "Pr318",
+        "id": "lQ981"
+    },
+    "invoice": {
+        "date": "21.02.2018",
+        "number": "8138-4252"
+    },
+    "payment": {
+        "due_date": "24.09.2014",
+        "total": 157.49
+    },
+    "products": [
+        {
+            "amount": 404.62,
+            "description": "mesh extensible e-tailers",
+            "quantity": 6.99,
+            "reference": "yH-663",
+            "unit_price": 49.98
+        },
+        {
+            "amount": 329.88,
+            "description": "deploy ubiquitous portals",
+            "quantity": 5.25,
+            "reference": "Gy-708",
+            "unit_price": 62.06
+        },
+        {
+            "amount": 184.44,
+            "description": "extend holistic e-services",
+            "quantity": 2.59,
+            "reference": "fX-564",
+            "unit_price": 40.28
+        },
+        {
+            "amount": 49.53,
+            "description": "architect magnetic niches",
+            "quantity": 9.9,
+            "reference": "Pb-608",
+            "unit_price": 56.85
+        }
+    ],
+    "seller": {
+        "address": "Unit 1325 Box 3492 DPO AP 51113"
+    },
+    "tax": {
+        "base_ht": 387.05,
+        "regulations": 10.97,
+        "total_ht": 231.83,
+        "vat_amount": 171.81,
+        "vat_percentage": 24.51
+    }
+}

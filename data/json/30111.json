@@ -1,0 +1,82 @@
+{
+    "buyer": {
+        "address": "0901 Sarah Skyway Albertville, PW 24841",
+        "company_name": "Smith-Herrera",
+        "country": "Cuba",
+        "email": "ukane@example.net",
+        "name": "Troy Cooper",
+        "phone": "(993)444-7746x308",
+        "vat_no": "eU01353570097"
+    },
+    "invoice": {
+        "date": "20.07.2005",
+        "due_date": "05.03.2008",
+        "linked_invoice": "Hp-1800-4712",
+        "notes": "grow B2C systems",
+        "number": "Io-5008-1800"
+    },
+    "products": [
+        {
+            "description": "grow web-enabled web-readiness",
+            "discount_percentage": 5.51,
+            "price": 235.68,
+            "quantity": 9.29,
+            "unit_price": 14.83
+        },
+        {
+            "description": "strategize B2B portals",
+            "discount_percentage": 6.45,
+            "price": 415.64,
+            "quantity": 1.06,
+            "unit_price": 73.12
+        },
+        {
+            "description": "e-enable user-centric applications",
+            "discount_percentage": 17.75,
+            "price": 288.9,
+            "quantity": 3.3,
+            "unit_price": 68.91
+        },
+        {
+            "description": "synthesize clicks-and-mortar architectures",
+            "discount_percentage": 17.2,
+            "price": 398.02,
+            "quantity": 7.81,
+            "unit_price": 63.02
+        },
+        {
+            "description": "transition cross-media supply-chains",
+            "discount_percentage": 18.95,
+            "price": 283.98,
+            "quantity": 4.8,
+            "unit_price": 74.87
+        }
+    ],
+    "seller": {
+        "address": "005 Aaron Walk Suite 426 Port Moniqueville, LA 18713",
+        "ape": "3074p",
+        "capital": 92743570,
+        "country": "Dominican Republic",
+        "email": "rrollins@example.org",
+        "name": "Charles Lewis",
+        "phone_1": "(342)548-4184x90152",
+        "phone_2": "315-236-4837x860",
+        "phone_3": "001-937-809-3574x883",
+        "ref_walk": "ZRNm1162",
+        "reference": "HZ127",
+        "siret": 73915746738984,
+        "vat_no": "Zq94710699559",
+        "website": "https://harmon-garcia.info/"
+    },
+    "tax": {
+        "amount_0": 29.45,
+        "amount_1": 15.94,
+        "base_0": 29.38,
+        "base_1": 171.99,
+        "total_ht": 164.17,
+        "total_tax": 25.38,
+        "total_ttc": 289.78,
+        "vat_0": 21.39,
+        "vat_1": 20.9
+    }
+}

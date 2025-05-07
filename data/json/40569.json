@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "071 Travis Station Smithville, ND 85577"
+    },
+    "invoice": {
+        "bc_no": "zi30774",
+        "date": "12.04.1990",
+        "maturity_date": "25.06.2022",
+        "number": 646572
+    },
+    "products": [
+        {
+            "amount": 171.48,
+            "description": "optimize out-of-the-box solutions",
+            "quantity": 5.77,
+            "unit_price": 78.27,
+            "vat_amount": 2.66
+        },
+        {
+            "amount": 74.67,
+            "description": "reinvent next-generation vortals",
+            "quantity": 8.07,
+            "unit_price": 70.71,
+            "vat_amount": 2.56
+        },
+        {
+            "amount": 102.13,
+            "description": "repurpose end-to-end initiatives",
+            "quantity": 1.15,
+            "unit_price": 36.6,
+            "vat_amount": 13.44
+        },
+        {
+            "amount": 427.05,
+            "description": "maximize open-source convergence",
+            "quantity": 5.61,
+            "unit_price": 28.81,
+            "vat_amount": 12.95
+        }
+    ],
+    "seller": {
+        "address": "933 Christine Islands South Kathy, KS 74555"
+    },
+    "tax": {
+        "amount_excluding_tax": 17.14,
+        "amount_including_tax": 45.93,
+        "tax_amount": 15.5
+    }
+}

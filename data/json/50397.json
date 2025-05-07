@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "5252 Smith Estates Apt. 219 Davidfort, OK 74667",
+        "id": "ut204"
+    },
+    "invoice": {
+        "bc_no": "Yl38553",
+        "currency_code": "MVR",
+        "date": "25.05.1995",
+        "due_date": "26.07.2023",
+        "number": 157400
+    },
+    "payment": {
+        "bank_name": "Keller, Dunn and Tran",
+        "bic": "HKVRGB1VAZC",
+        "iban": "NXJV81886399976815"
+    },
+    "products": [
+        {
+            "amount": 410.68,
+            "description": "seize holistic schemas",
+            "index": "8",
+            "price": 106.7,
+            "quantity": 7.73,
+            "tax_amount": 69.25,
+            "total_ttc": 303.15,
+            "vat_amount": 3.9
+        }
+    ],
+    "seller": {
+        "name": "Jennifer Farmer"
+    },
+    "supplier": {
+        "address": "23959 Fisher Pike Apt. 944 Edwardsside, PR 04416",
+        "name": "Jasmine Young"
+    },
+    "tax": {
+        "amount_excluding_tax": 153.61,
+        "amount_including_tax": 74.43,
+        "tax_amount": 12.99,
+        "total_ht": 454.05,
+        "total_ttc": 255.71
+    }
+}

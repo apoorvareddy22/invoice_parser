@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "3747 Darren Islands Warnerport, OR 38485",
+        "email": "batesronald@example.net",
+        "phone": "001-775-909-9250",
+        "vat_no": "il08171447854"
+    },
+    "invoice": {
+        "date": "14.05.1992",
+        "due_date": "17.02.2020",
+        "market_reference": 583559,
+        "notes": "productize dot-com initiatives",
+        "number": "9370-2236",
+        "reference": 755227,
+        "vat_no": "qw35400017159"
+    },
+    "payment": {
+        "net_total": 44.45,
+        "total": 421.95
+    },
+    "products": [
+        {
+            "amount": 390.65,
+            "description": "envisioneer 24/365 niches",
+            "hours": 3.19,
+            "rate": 2.24
+        },
+        {
+            "amount": 394.93,
+            "description": "revolutionize back-end applications",
+            "hours": 2.94,
+            "rate": 2.67
+        },
+        {
+            "amount": 240.82,
+            "description": "target value-added metrics",
+            "hours": 9.75,
+            "rate": 6.13
+        },
+        {
+            "amount": 116.4,
+            "description": "scale web-enabled functionalities",
+            "hours": 4.96,
+            "rate": 6.06
+        },
+        {
+            "amount": 359.69,
+            "description": "deploy virtual technologies",
+            "hours": 7.73,
+            "rate": 9.03
+        },
+        {
+            "amount": 451.53,
+            "description": "orchestrate clicks-and-mortar users",
+            "hours": 6.14,
+            "rate": 9.75
+        },
+        {
+            "amount": 50.87,
+            "description": "visualize web-enabled interfaces",
+            "hours": 9.79,
+            "rate": 5.19
+        }
+    ],
+    "seller": {
+        "address": "199 Joshua Gateway Cruzton, CT 70812",
+        "email": "christopher87@example.com",
+        "name": "Katherine Alexander"
+    },
+    "tax": {
+        "base": 26.3,
+        "tax_amount": 28.6,
+        "total_tax": 16.45
+    }
+}

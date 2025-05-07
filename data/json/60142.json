@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "661 Reynolds Drives West Nicholasstad, NM 09979",
+        "business_no": "Ja867",
+        "id": "pu242"
+    },
+    "invoice": {
+        "date": "07.04.2013",
+        "number": "6663-7808"
+    },
+    "payment": {
+        "due_date": "23.10.2017",
+        "total": 587.51
+    },
+    "products": [
+        {
+            "amount": 346.62,
+            "description": "morph next-generation mindshare",
+            "quantity": 5.33,
+            "reference": "uq-431",
+            "unit_price": 84.13
+        }
+    ],
+    "seller": {
+        "address": "3414 John Fort Garciachester, KY 92629"
+    },
+    "tax": {
+        "base_ht": 211.04,
+        "regulations": 21.41,
+        "total_ht": 245.74,
+        "vat_amount": 105.35,
+        "vat_percentage": 10.84
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "PSC 1511, Box 2769 APO AP 94902"
+    },
+    "invoice": {
+        "bc_no": "nd22887",
+        "date": "22.11.1996",
+        "maturity_date": "15.04.2013",
+        "number": 375150
+    },
+    "products": [
+        {
+            "amount": 150.76,
+            "description": "transition e-business users",
+            "quantity": 3.87,
+            "unit_price": 53.43,
+            "vat_amount": 6.78
+        },
+        {
+            "amount": 304.51,
+            "description": "deploy rich solutions",
+            "quantity": 8.35,
+            "unit_price": 23.48,
+            "vat_amount": 3.54
+        },
+        {
+            "amount": 486.03,
+            "description": "monetize frictionless portals",
+            "quantity": 9.81,
+            "unit_price": 32.29,
+            "vat_amount": 8.9
+        }
+    ],
+    "seller": {
+        "address": "PSC 9012, Box 6935 APO AE 64799"
+    },
+    "tax": {
+        "amount_excluding_tax": 171.94,
+        "amount_including_tax": 53.08,
+        "tax_amount": 14.34
+    }
+}

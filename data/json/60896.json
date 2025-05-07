@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "1650 Baldwin Freeway Suite 308 Caitlinland, AR 00638",
+        "business_no": "qU651",
+        "id": "ou925"
+    },
+    "invoice": {
+        "date": "16.09.1997",
+        "number": "5174-7839"
+    },
+    "payment": {
+        "due_date": "08.05.2017",
+        "total": 539.99
+    },
+    "products": [
+        {
+            "amount": 56.22,
+            "description": "leverage integrated solutions",
+            "quantity": 1.62,
+            "reference": "Ty-171",
+            "unit_price": 35.34
+        },
+        {
+            "amount": 181.33,
+            "description": "evolve viral platforms",
+            "quantity": 2.98,
+            "reference": "YR-399",
+            "unit_price": 95.34
+        }
+    ],
+    "seller": {
+        "address": "154 Eric Crossroad Suite 690 Markside, AL 10596"
+    },
+    "tax": {
+        "base_ht": 156.83,
+        "regulations": 19.97,
+        "total_ht": 142.99,
+        "vat_amount": 27.15,
+        "vat_percentage": 27.88
+    }
+}

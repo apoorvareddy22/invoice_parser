@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "0971 Paul Mount Apt. 301 Christopherville, TX 88881"
+    },
+    "invoice": {
+        "bc_no": "Rt02975",
+        "date": "28.08.2000",
+        "maturity_date": "14.10.2013",
+        "number": 125671
+    },
+    "products": [
+        {
+            "amount": 291.89,
+            "description": "generate robust applications",
+            "quantity": 6.23,
+            "unit_price": 77.97,
+            "vat_amount": 1.58
+        },
+        {
+            "amount": 487.0,
+            "description": "optimize enterprise interfaces",
+            "quantity": 4.67,
+            "unit_price": 95.25,
+            "vat_amount": 1.9
+        },
+        {
+            "amount": 413.76,
+            "description": "embrace e-business experiences",
+            "quantity": 2.56,
+            "unit_price": 81.91,
+            "vat_amount": 9.29
+        },
+        {
+            "amount": 85.46,
+            "description": "aggregate distributed communities",
+            "quantity": 8.54,
+            "unit_price": 92.37,
+            "vat_amount": 7.17
+        }
+    ],
+    "seller": {
+        "address": "1329 Baker Creek Apt. 667 Daviston, PW 18957"
+    },
+    "tax": {
+        "amount_excluding_tax": 79.57,
+        "amount_including_tax": 193.7,
+        "tax_amount": 10.69
+    }
+}

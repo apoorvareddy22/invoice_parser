@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "980 Kristen Dale Suite 663 West Tracytown, AZ 86599"
+    },
+    "invoice": {
+        "bc_no": "GI98829",
+        "date": "05.05.2001",
+        "maturity_date": "16.03.2023",
+        "number": 717775
+    },
+    "products": [
+        {
+            "amount": 164.69,
+            "description": "whiteboard synergistic channels",
+            "quantity": 1.73,
+            "unit_price": 23.66,
+            "vat_amount": 0.52
+        }
+    ],
+    "seller": {
+        "address": "375 Fletcher Valleys Suite 454 Ricetown, NY 09977"
+    },
+    "tax": {
+        "amount_excluding_tax": 156.06,
+        "amount_including_tax": 183.88,
+        "tax_amount": 17.79
+    }
+}

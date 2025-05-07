@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "55868 Rodriguez Stream Apt. 213 Whitechester, HI 88266",
+        "id": "qc037"
+    },
+    "invoice": {
+        "bc_no": "gs00188",
+        "currency_code": "HNL",
+        "date": "25.08.2008",
+        "due_date": "09.02.1998",
+        "number": 108752
+    },
+    "payment": {
+        "bank_name": "Johnson, Livingston and Jarvis",
+        "bic": "OFLSGBCQDVK",
+        "iban": "JFQV23251913671235"
+    },
+    "products": [
+        {
+            "amount": 323.1,
+            "description": "engage holistic ROI",
+            "index": "9",
+            "price": 393.7,
+            "quantity": 7.44,
+            "tax_amount": 52.72,
+            "total_ttc": 233.37,
+            "vat_amount": 1.95
+        },
+        {
+            "amount": 248.01,
+            "description": "exploit robust schemas",
+            "index": "1",
+            "price": 435.9,
+            "quantity": 9.66,
+            "tax_amount": 31.97,
+            "total_ttc": 448.66,
+            "vat_amount": 7.51
+        },
+        {
+            "amount": 383.0,
+            "description": "orchestrate open-source e-commerce",
+            "index": "9",
+            "price": 196.89,
+            "quantity": 8.9,
+            "tax_amount": 76.63,
+            "total_ttc": 441.59,
+            "vat_amount": 1.28
+        },
+        {
+            "amount": 93.95,
+            "description": "matrix end-to-end partnerships",
+            "index": "8",
+            "price": 254.06,
+            "quantity": 6.19,
+            "tax_amount": 19.32,
+            "total_ttc": 145.06,
+            "vat_amount": 5.86
+        },
+        {
+            "amount": 343.11,
+            "description": "mesh clicks-and-mortar platforms",
+            "index": "6",
+            "price": 204.85,
+            "quantity": 8.95,
+            "tax_amount": 87.08,
+            "total_ttc": 271.81,
+            "vat_amount": 11.21
+        },
+        {
+            "amount": 24.86,
+            "description": "drive user-centric mindshare",
+            "index": "7",
+            "price": 281.35,
+            "quantity": 4.68,
+            "tax_amount": 50.14,
+            "total_ttc": 366.95,
+            "vat_amount": 1.35
+        }
+    ],
+    "seller": {
+        "name": "Emily Goodman"
+    },
+    "supplier": {
+        "address": "99002 Padilla Ports Kennethtown, WY 30742",
+        "name": "Scott Andrews"
+    },
+    "tax": {
+        "amount_excluding_tax": 95.86,
+        "amount_including_tax": 84.47,
+        "tax_amount": 16.43,
+        "total_ht": 343.92,
+        "total_ttc": 282.04
+    }
+}

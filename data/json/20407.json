@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "509 Walsh Vista Suite 414 New Kimberly, IL 15739",
+        "company_name": "Davis, Rios and Mcdonald",
+        "email": "xgarcia@example.org",
+        "name": "Sara Wiley",
+        "phone": "200-438-6344"
+    },
+    "invoice": {
+        "date": "15.06.2000",
+        "due_date": "20.06.2007",
+        "number": "akB70679684579"
+    },
+    "payment": {
+        "account_number": 3219675999,
+        "bank_name": "Mitchell, Villanueva and Fleming",
+        "routing_number": 497552442
+    },
+    "products": [
+        {
+            "amount": 376.6,
+            "description": "maximize frictionless communities",
+            "index": "9",
+            "quantity": 1.59,
+            "unit_price": 40.31
+        },
+        {
+            "amount": 297.26,
+            "description": "drive wireless e-services",
+            "index": "8",
+            "quantity": 9.63,
+            "unit_price": 44.28
+        },
+        {
+            "amount": 460.01,
+            "description": "embrace back-end supply-chains",
+            "index": "4",
+            "quantity": 3.62,
+            "unit_price": 88.68
+        },
+        {
+            "amount": 156.01,
+            "description": "generate sticky synergies",
+            "index": "3",
+            "quantity": 1.68,
+            "unit_price": 64.42
+        },
+        {
+            "amount": 366.4,
+            "description": "enable rich content",
+            "index": "10",
+            "quantity": 4.51,
+            "unit_price": 77.93
+        }
+    ],
+    "seller": {
+        "address": "8305 Spencer Ranch Apt. 515 Lake Robertfort, HI 87040",
+        "company_name": "Rios-Proctor",
+        "email": "garrettmatthew@example.com"
+    }
+}

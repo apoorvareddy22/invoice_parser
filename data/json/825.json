@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "59500 Jodi Parkway Barryshire, MN 41827",
+        "company_name": "Valdez PLC",
+        "country": "Suriname",
+        "name": "Eddie Harris"
+    },
+    "invoice": {
+        "date": "20.01.1995",
+        "number": 124781
+    },
+    "payment": {
+        "discount_amount": 14.68,
+        "discount_percentage": 14.65,
+        "due": 116.06,
+        "sub_total": 159.24,
+        "total": 342.82
+    },
+    "products": [
+        {
+            "description": "scale B2B mindshare",
+            "index": "1",
+            "quantity": 3.93,
+            "total_price": 232.66,
+            "unit_price": 72.62
+        }
+    ],
+    "seller": {
+        "address": "4641 Courtney Mills Suite 948 Foxburgh, MN 45521",
+        "company_name": "Gordon-Gilbert",
+        "vat_no": "CQ09379428899"
+    }
+}

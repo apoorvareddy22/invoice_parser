@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "50964 Rebecca Skyway West Heather, KY 25275",
+        "email": "katherineterrell@example.com",
+        "phone": "+1-797-781-2798x0581",
+        "vat_no": "PW42057272585"
+    },
+    "invoice": {
+        "date": "02.08.2002",
+        "due_date": "21.04.2004",
+        "market_reference": 859475,
+        "notes": "engineer e-business methodologies",
+        "number": "5765-1358",
+        "reference": 693171,
+        "vat_no": "uQ65932585414"
+    },
+    "payment": {
+        "net_total": 172.04,
+        "total": 955.72
+    },
+    "products": [
+        {
+            "amount": 338.97,
+            "description": "orchestrate bleeding-edge functionalities",
+            "hours": 8.69,
+            "rate": 4.91
+        }
+    ],
+    "seller": {
+        "address": "277 Hansen Corners Apt. 432 Port Williamfurt, MT 12922",
+        "email": "jonesandres@example.org",
+        "name": "Kathy Evans"
+    },
+    "tax": {
+        "base": 26.1,
+        "tax_amount": 12.92,
+        "total_tax": 28.58
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "79458 Bowen Parkways Port James, FL 31649",
+        "email": "angela07@example.org",
+        "phone": "3219226612",
+        "vat_no": "kT95204240784"
+    },
+    "invoice": {
+        "date": "25.05.2018",
+        "due_date": "17.11.2001",
+        "market_reference": 843140,
+        "notes": "extend impactful niches",
+        "number": "4533-3124",
+        "reference": 805760,
+        "vat_no": "lk61440224595"
+    },
+    "payment": {
+        "net_total": 79.68,
+        "total": 202.18
+    },
+    "products": [
+        {
+            "amount": 167.05,
+            "description": "enable bleeding-edge networks",
+            "hours": 5.01,
+            "rate": 7.77
+        }
+    ],
+    "seller": {
+        "address": "USS Gonzales FPO AE 67175",
+        "email": "erinwhitaker@example.org",
+        "name": "Patricia Ayala"
+    },
+    "tax": {
+        "base": 20.66,
+        "tax_amount": 24.44,
+        "total_tax": 19.4
+    }
+}

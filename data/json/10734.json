@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "677 Kim Wall Suite 118 Barbaraville, GU 89143",
+        "email": "kmitchell@example.org",
+        "phone": "4383708120",
+        "vat_no": "nN27386377301"
+    },
+    "invoice": {
+        "date": "06.11.2005",
+        "due_date": "07.01.1999",
+        "market_reference": 623073,
+        "notes": "redefine integrated interfaces",
+        "number": "6344-1482",
+        "reference": 736500,
+        "vat_no": "bi77164285178"
+    },
+    "payment": {
+        "net_total": 189.63,
+        "total": 229.5
+    },
+    "products": [
+        {
+            "amount": 473.58,
+            "description": "deliver dynamic e-tailers",
+            "hours": 6.56,
+            "rate": 1.67
+        },
+        {
+            "amount": 313.31,
+            "description": "optimize B2C supply-chains",
+            "hours": 3.93,
+            "rate": 7.3
+        },
+        {
+            "amount": 449.96,
+            "description": "whiteboard end-to-end synergies",
+            "hours": 4.65,
+            "rate": 5.43
+        },
+        {
+            "amount": 97.76,
+            "description": "optimize leading-edge info-mediaries",
+            "hours": 9.06,
+            "rate": 4.85
+        },
+        {
+            "amount": 434.53,
+            "description": "visualize compelling interfaces",
+            "hours": 1.41,
+            "rate": 8.9
+        }
+    ],
+    "seller": {
+        "address": "33036 Michelle Court Martinezville, VT 54903",
+        "email": "utaylor@example.com",
+        "name": "Jean Steele"
+    },
+    "tax": {
+        "base": 24.68,
+        "tax_amount": 21.78,
+        "total_tax": 10.24
+    }
+}

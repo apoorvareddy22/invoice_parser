@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "2676 Juarez Well Apt. 059 Roseside, RI 82365",
+        "id": "qj453"
+    },
+    "invoice": {
+        "bc_no": "ZM02934",
+        "currency_code": "PAB",
+        "date": "07.04.1994",
+        "due_date": "21.10.2023",
+        "number": 297394
+    },
+    "payment": {
+        "bank_name": "Mahoney, Allen and Davis",
+        "bic": "ESQNGBCP",
+        "iban": "KHBR12879340467561"
+    },
+    "products": [
+        {
+            "amount": 355.59,
+            "description": "deploy 24/365 e-services",
+            "index": "5",
+            "price": 289.84,
+            "quantity": 6.51,
+            "tax_amount": 17.95,
+            "total_ttc": 285.63,
+            "vat_amount": 4.76
+        },
+        {
+            "amount": 391.57,
+            "description": "harness clicks-and-mortar niches",
+            "index": "3",
+            "price": 419.46,
+            "quantity": 8.98,
+            "tax_amount": 97.33,
+            "total_ttc": 377.85,
+            "vat_amount": 2.59
+        }
+    ],
+    "seller": {
+        "name": "Emily Payne"
+    },
+    "supplier": {
+        "address": "07495 Daniel Vista Apt. 300 Lake Jonathan, IN 63575",
+        "name": "Daniel Daniel"
+    },
+    "tax": {
+        "amount_excluding_tax": 114.13,
+        "amount_including_tax": 108.39,
+        "tax_amount": 29.94,
+        "total_ht": 160.36,
+        "total_ttc": 196.46
+    }
+}

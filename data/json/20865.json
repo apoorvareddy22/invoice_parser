@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "32936 Becker Divide Apt. 328 Contrerastown, OH 35612",
+        "company_name": "Robertson PLC",
+        "email": "michael85@example.com",
+        "name": "Sean Thompson",
+        "phone": "885.741.9189x0652"
+    },
+    "invoice": {
+        "date": "18.12.2001",
+        "due_date": "11.03.2012",
+        "number": "qzI82816773352"
+    },
+    "payment": {
+        "account_number": 1942217073,
+        "bank_name": "Galloway, Gordon and Williams",
+        "routing_number": 416760280
+    },
+    "products": [
+        {
+            "amount": 110.57,
+            "description": "disintermediate bleeding-edge ROI",
+            "index": "6",
+            "quantity": 3.16,
+            "unit_price": 45.98
+        },
+        {
+            "amount": 319.41,
+            "description": "maximize turn-key bandwidth",
+            "index": "2",
+            "quantity": 8.78,
+            "unit_price": 40.19
+        }
+    ],
+    "seller": {
+        "address": "3391 Flores Manors East Hannah, SC 23683",
+        "company_name": "Allen-Cruz",
+        "email": "allencheryl@example.net"
+    }
+}

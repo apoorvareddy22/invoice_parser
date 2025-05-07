@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "6443 Garrett Neck Suite 638 New Diana, AR 98567",
+        "id": "cC549"
+    },
+    "invoice": {
+        "bc_no": "gn85899",
+        "currency_code": "UAH",
+        "date": "22.05.2013",
+        "due_date": "27.02.2002",
+        "number": 740354
+    },
+    "payment": {
+        "bank_name": "Vincent-Gallegos",
+        "bic": "OQRWGBZ7",
+        "iban": "KUVJ65765785528046"
+    },
+    "products": [
+        {
+            "amount": 86.34,
+            "description": "architect out-of-the-box eyeballs",
+            "index": "8",
+            "price": 344.52,
+            "quantity": 1.2,
+            "tax_amount": 86.52,
+            "total_ttc": 268.72,
+            "vat_amount": 4.94
+        },
+        {
+            "amount": 172.69,
+            "description": "drive next-generation e-business",
+            "index": "1",
+            "price": 103.61,
+            "quantity": 1.12,
+            "tax_amount": 43.76,
+            "total_ttc": 149.36,
+            "vat_amount": 0.53
+        }
+    ],
+    "seller": {
+        "name": "Cody Chapman"
+    },
+    "supplier": {
+        "address": "USNV Allen FPO AE 51813",
+        "name": "James Mathis"
+    },
+    "tax": {
+        "amount_excluding_tax": 131.75,
+        "amount_including_tax": 30.25,
+        "tax_amount": 28.19,
+        "total_ht": 200.7,
+        "total_ttc": 208.91
+    }
+}

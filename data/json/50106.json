@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "470 Ashley Meadow Apt. 270 South Jacqueline, TX 42772",
+        "id": "dw834"
+    },
+    "invoice": {
+        "bc_no": "DC33928",
+        "currency_code": "SGD",
+        "date": "28.09.2005",
+        "due_date": "24.04.2013",
+        "number": 768177
+    },
+    "payment": {
+        "bank_name": "Hubbard-Ryan",
+        "bic": "ZGYVGBRJ3OK",
+        "iban": "YTMY67645522674548"
+    },
+    "products": [
+        {
+            "amount": 251.0,
+            "description": "strategize B2B e-commerce",
+            "index": "6",
+            "price": 223.43,
+            "quantity": 3.52,
+            "tax_amount": 15.21,
+            "total_ttc": 496.72,
+            "vat_amount": 8.78
+        },
+        {
+            "amount": 49.78,
+            "description": "engineer B2C portals",
+            "index": "5",
+            "price": 359.17,
+            "quantity": 7.6,
+            "tax_amount": 23.42,
+            "total_ttc": 284.42,
+            "vat_amount": 3.16
+        },
+        {
+            "amount": 442.07,
+            "description": "engage visionary e-business",
+            "index": "1",
+            "price": 433.82,
+            "quantity": 9.03,
+            "tax_amount": 14.75,
+            "total_ttc": 491.27,
+            "vat_amount": 12.1
+        },
+        {
+            "amount": 431.32,
+            "description": "scale viral applications",
+            "index": "6",
+            "price": 370.53,
+            "quantity": 4.49,
+            "tax_amount": 62.18,
+            "total_ttc": 440.23,
+            "vat_amount": 10.15
+        },
+        {
+            "amount": 482.85,
+            "description": "deploy revolutionary metrics",
+            "index": "6",
+            "price": 71.01,
+            "quantity": 2.25,
+            "tax_amount": 43.14,
+            "total_ttc": 164.18,
+            "vat_amount": 12.5
+        },
+        {
+            "amount": 261.8,
+            "description": "morph cutting-edge applications",
+            "index": "8",
+            "price": 36.61,
+            "quantity": 4.87,
+            "tax_amount": 60.19,
+            "total_ttc": 375.53,
+            "vat_amount": 2.94
+        },
+        {
+            "amount": 429.81,
+            "description": "architect clicks-and-mortar models",
+            "index": "4",
+            "price": 287.89,
+            "quantity": 6.41,
+            "tax_amount": 61.47,
+            "total_ttc": 295.96,
+            "vat_amount": 8.73
+        }
+    ],
+    "seller": {
+        "name": "Kimberly Schroeder"
+    },
+    "supplier": {
+        "address": "08450 Michael Stream North Kimberly, PR 46133",
+        "name": "Ian Lewis"
+    },
+    "tax": {
+        "amount_excluding_tax": 119.21,
+        "amount_including_tax": 164.68,
+        "tax_amount": 26.8,
+        "total_ht": 333.07,
+        "total_ttc": 321.47
+    }
+}

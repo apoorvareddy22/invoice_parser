@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "590 Dana Fields West Stephenfort, GA 69218",
+        "email": "ahenry@example.com",
+        "phone": "001-626-911-8782",
+        "vat_no": "Vt13106020917"
+    },
+    "invoice": {
+        "date": "30.04.2002",
+        "due_date": "14.11.2016",
+        "market_reference": 885365,
+        "notes": "enable virtual eyeballs",
+        "number": "9821-6472",
+        "reference": 465228,
+        "vat_no": "gL44504551555"
+    },
+    "payment": {
+        "net_total": 159.26,
+        "total": 933.92
+    },
+    "products": [
+        {
+            "amount": 424.32,
+            "description": "leverage leading-edge synergies",
+            "hours": 8.53,
+            "rate": 9.04
+        },
+        {
+            "amount": 309.17,
+            "description": "embrace world-class e-tailers",
+            "hours": 3.33,
+            "rate": 8.8
+        },
+        {
+            "amount": 424.24,
+            "description": "orchestrate integrated paradigms",
+            "hours": 4.31,
+            "rate": 3.42
+        }
+    ],
+    "seller": {
+        "address": "069 Derek Heights Suite 007 North Emily, WI 25232",
+        "email": "gregorybaxter@example.com",
+        "name": "William Payne"
+    },
+    "tax": {
+        "base": 29.83,
+        "tax_amount": 23.56,
+        "total_tax": 17.91
+    }
+}

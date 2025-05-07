@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "6560 Brown Harbor Apt. 459 Lake Connie, OK 47711"
+    },
+    "invoice": {
+        "bc_no": "ln40584",
+        "date": "06.12.1998",
+        "maturity_date": "21.03.2018",
+        "number": 492035
+    },
+    "products": [
+        {
+            "amount": 439.99,
+            "description": "harness best-of-breed web-readiness",
+            "quantity": 2.46,
+            "unit_price": 66.63,
+            "vat_amount": 0.67
+        }
+    ],
+    "seller": {
+        "address": "7845 Butler Road Suite 330 Jaimeton, NH 74764"
+    },
+    "tax": {
+        "amount_excluding_tax": 14.58,
+        "amount_including_tax": 183.79,
+        "tax_amount": 25.56
+    }
+}

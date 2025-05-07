@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "865 Payne Lodge Suite 426 Harringtonport, MP 11486",
+        "id": "Ia579"
+    },
+    "invoice": {
+        "bc_no": "pO89434",
+        "currency_code": "NOK",
+        "date": "02.12.2021",
+        "due_date": "04.06.1991",
+        "number": 216526
+    },
+    "payment": {
+        "bank_name": "Sutton, Ward and Bass",
+        "bic": "NXTUGBWB",
+        "iban": "BEGF79304192527499"
+    },
+    "products": [
+        {
+            "amount": 22.75,
+            "description": "target open-source solutions",
+            "index": "8",
+            "price": 80.48,
+            "quantity": 7.32,
+            "tax_amount": 53.61,
+            "total_ttc": 481.89,
+            "vat_amount": 1.78
+        },
+        {
+            "amount": 249.68,
+            "description": "optimize B2C models",
+            "index": "7",
+            "price": 35.83,
+            "quantity": 7.08,
+            "tax_amount": 73.2,
+            "total_ttc": 149.54,
+            "vat_amount": 0.97
+        },
+        {
+            "amount": 347.76,
+            "description": "enhance integrated relationships",
+            "index": "10",
+            "price": 285.84,
+            "quantity": 2.46,
+            "tax_amount": 52.69,
+            "total_ttc": 174.92,
+            "vat_amount": 10.04
+        },
+        {
+            "amount": 183.84,
+            "description": "deploy best-of-breed networks",
+            "index": "4",
+            "price": 112.19,
+            "quantity": 8.04,
+            "tax_amount": 15.27,
+            "total_ttc": 345.83,
+            "vat_amount": 0.86
+        }
+    ],
+    "seller": {
+        "name": "Laura Ferguson"
+    },
+    "supplier": {
+        "address": "4341 Hendrix Ports West Jessica, CT 08381",
+        "name": "Kurt Davis"
+    },
+    "tax": {
+        "amount_excluding_tax": 80.63,
+        "amount_including_tax": 31.42,
+        "tax_amount": 25.28,
+        "total_ht": 319.07,
+        "total_ttc": 105.89
+    }
+}

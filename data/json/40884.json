@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "85651 Davis Fields Suite 098 Port Tina, SC 69129"
+    },
+    "invoice": {
+        "bc_no": "bG58748",
+        "date": "25.09.1998",
+        "maturity_date": "19.06.1993",
+        "number": 374424
+    },
+    "products": [
+        {
+            "amount": 123.26,
+            "description": "harness global solutions",
+            "quantity": 1.08,
+            "unit_price": 67.33,
+            "vat_amount": 11.03
+        },
+        {
+            "amount": 303.93,
+            "description": "implement vertical infrastructures",
+            "quantity": 5.81,
+            "unit_price": 77.38,
+            "vat_amount": 16.76
+        },
+        {
+            "amount": 54.48,
+            "description": "productize synergistic web-readiness",
+            "quantity": 1.21,
+            "unit_price": 32.22,
+            "vat_amount": 0.46
+        },
+        {
+            "amount": 160.39,
+            "description": "re-intermediate extensible supply-chains",
+            "quantity": 6.5,
+            "unit_price": 76.98,
+            "vat_amount": 0.52
+        },
+        {
+            "amount": 453.35,
+            "description": "redefine sticky deliverables",
+            "quantity": 2.22,
+            "unit_price": 13.41,
+            "vat_amount": 9.73
+        }
+    ],
+    "seller": {
+        "address": "8217 Rogers Camp West Todd, CO 22797"
+    },
+    "tax": {
+        "amount_excluding_tax": 174.88,
+        "amount_including_tax": 43.4,
+        "tax_amount": 23.46
+    }
+}

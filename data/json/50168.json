@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "PSC 8156, Box 5772 APO AE 46432",
+        "id": "Xw427"
+    },
+    "invoice": {
+        "bc_no": "dK46787",
+        "currency_code": "TZS",
+        "date": "04.09.1990",
+        "due_date": "19.02.2012",
+        "number": 731580
+    },
+    "payment": {
+        "bank_name": "Ramirez-Frost",
+        "bic": "YYGDGBP0",
+        "iban": "XBUS89403463724033"
+    },
+    "products": [
+        {
+            "amount": 251.37,
+            "description": "revolutionize open-source convergence",
+            "index": "10",
+            "price": 431.27,
+            "quantity": 9.02,
+            "tax_amount": 30.58,
+            "total_ttc": 469.24,
+            "vat_amount": 0.07
+        },
+        {
+            "amount": 356.5,
+            "description": "innovate global action-items",
+            "index": "3",
+            "price": 367.92,
+            "quantity": 1.97,
+            "tax_amount": 42.78,
+            "total_ttc": 303.9,
+            "vat_amount": 7.49
+        },
+        {
+            "amount": 223.65,
+            "description": "redefine e-business action-items",
+            "index": "1",
+            "price": 414.69,
+            "quantity": 5.19,
+            "tax_amount": 64.04,
+            "total_ttc": 390.12,
+            "vat_amount": 4.09
+        },
+        {
+            "amount": 256.51,
+            "description": "transition visionary functionalities",
+            "index": "3",
+            "price": 487.72,
+            "quantity": 8.51,
+            "tax_amount": 43.16,
+            "total_ttc": 350.32,
+            "vat_amount": 9.68
+        },
+        {
+            "amount": 352.86,
+            "description": "revolutionize magnetic initiatives",
+            "index": "4",
+            "price": 478.22,
+            "quantity": 8.59,
+            "tax_amount": 59.93,
+            "total_ttc": 155.49,
+            "vat_amount": 0.15
+        }
+    ],
+    "seller": {
+        "name": "Tyler Sanders"
+    },
+    "supplier": {
+        "address": "6025 Hill Stravenue Apt. 373 Floresfurt, IL 27244",
+        "name": "Matthew Thomas"
+    },
+    "tax": {
+        "amount_excluding_tax": 185.25,
+        "amount_including_tax": 179.48,
+        "tax_amount": 13.08,
+        "total_ht": 191.24,
+        "total_ttc": 309.04
+    }
+}

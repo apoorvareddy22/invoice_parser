@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "565 Webster Ford Apt. 521 Abigailfort, MD 56780",
+        "id": "kX801"
+    },
+    "invoice": {
+        "bc_no": "Aq56819",
+        "currency_code": "XCD",
+        "date": "11.02.2014",
+        "due_date": "01.07.2023",
+        "number": 177712
+    },
+    "payment": {
+        "bank_name": "Gardner-Wall",
+        "bic": "FPAWGBZA",
+        "iban": "EVSI02897186262252"
+    },
+    "products": [
+        {
+            "amount": 280.12,
+            "description": "repurpose back-end web services",
+            "index": "6",
+            "price": 373.14,
+            "quantity": 3.18,
+            "tax_amount": 46.42,
+            "total_ttc": 146.5,
+            "vat_amount": 2.23
+        }
+    ],
+    "seller": {
+        "name": "Christopher Medina"
+    },
+    "supplier": {
+        "address": "81933 Powers Green Michaelastad, WV 85493",
+        "name": "Brittney Calhoun"
+    },
+    "tax": {
+        "amount_excluding_tax": 141.3,
+        "amount_including_tax": 24.58,
+        "tax_amount": 20.91,
+        "total_ht": 455.39,
+        "total_ttc": 253.7
+    }
+}

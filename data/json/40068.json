@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "3107 Stanley Burgs Apt. 374 Ericview, MO 01788"
+    },
+    "invoice": {
+        "bc_no": "Qk18108",
+        "date": "21.06.2006",
+        "maturity_date": "16.01.2007",
+        "number": 371501
+    },
+    "products": [
+        {
+            "amount": 287.07,
+            "description": "disintermediate proactive action-items",
+            "quantity": 8.81,
+            "unit_price": 55.03,
+            "vat_amount": 1.19
+        },
+        {
+            "amount": 444.3,
+            "description": "reinvent cross-platform relationships",
+            "quantity": 5.99,
+            "unit_price": 33.1,
+            "vat_amount": 1.63
+        }
+    ],
+    "seller": {
+        "address": "638 Christensen Ville Hobbsview, VA 67144"
+    },
+    "tax": {
+        "amount_excluding_tax": 146.62,
+        "amount_including_tax": 185.26,
+        "tax_amount": 10.86
+    }
+}

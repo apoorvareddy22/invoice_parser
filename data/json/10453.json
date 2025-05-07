@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "USNS Ward FPO AA 05606",
+        "email": "melissarodriguez@example.com",
+        "phone": "796-669-5032x9287",
+        "vat_no": "aE94602125459"
+    },
+    "invoice": {
+        "date": "24.07.2007",
+        "due_date": "30.01.2005",
+        "market_reference": 211784,
+        "notes": "optimize visionary technologies",
+        "number": "7264-7732",
+        "reference": 266511,
+        "vat_no": "iN90137227164"
+    },
+    "payment": {
+        "net_total": 146.68,
+        "total": 436.7
+    },
+    "products": [
+        {
+            "amount": 355.17,
+            "description": "deliver B2B mindshare",
+            "hours": 7.71,
+            "rate": 1.8
+        },
+        {
+            "amount": 75.38,
+            "description": "harness integrated communities",
+            "hours": 9.46,
+            "rate": 5.27
+        },
+        {
+            "amount": 228.04,
+            "description": "grow front-end convergence",
+            "hours": 9.47,
+            "rate": 8.76
+        }
+    ],
+    "seller": {
+        "address": "21642 Fisher Road Suite 407 Danielton, PA 68906",
+        "email": "donnazimmerman@example.com",
+        "name": "Rodney Taylor"
+    },
+    "tax": {
+        "base": 10.2,
+        "tax_amount": 26.49,
+        "total_tax": 20.46
+    }
+}

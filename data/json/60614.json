@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "20775 Wall Well West Joseph, TX 02125",
+        "business_no": "IZ037",
+        "id": "Po792"
+    },
+    "invoice": {
+        "date": "02.07.1992",
+        "number": "7259-4622"
+    },
+    "payment": {
+        "due_date": "30.07.2013",
+        "total": 372.96
+    },
+    "products": [
+        {
+            "amount": 35.73,
+            "description": "brand B2B e-markets",
+            "quantity": 2.55,
+            "reference": "Yz-391",
+            "unit_price": 54.9
+        },
+        {
+            "amount": 389.61,
+            "description": "brand integrated models",
+            "quantity": 7.64,
+            "reference": "Df-833",
+            "unit_price": 54.34
+        },
+        {
+            "amount": 214.0,
+            "description": "re-contextualize web-enabled interfaces",
+            "quantity": 6.03,
+            "reference": "Ke-894",
+            "unit_price": 35.56
+        }
+    ],
+    "seller": {
+        "address": "Unit 0050 Box 0264 DPO AA 46594"
+    },
+    "tax": {
+        "base_ht": 338.85,
+        "regulations": 26.28,
+        "total_ht": 473.0,
+        "vat_amount": 159.04,
+        "vat_percentage": 26.72
+    }
+}

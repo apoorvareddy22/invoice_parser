@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "22706 Harrison Field Apt. 027 Smithhaven, TX 87899",
+        "id": "EH500"
+    },
+    "invoice": {
+        "bc_no": "qZ57322",
+        "currency_code": "DZD",
+        "date": "07.06.2010",
+        "due_date": "03.03.1997",
+        "number": 534301
+    },
+    "payment": {
+        "bank_name": "Gilbert-Fisher",
+        "bic": "CDEVGBNOM4A",
+        "iban": "HFHR34050497241729"
+    },
+    "products": [
+        {
+            "amount": 260.36,
+            "description": "embrace extensible synergies",
+            "index": "10",
+            "price": 81.47,
+            "quantity": 4.31,
+            "tax_amount": 68.56,
+            "total_ttc": 367.38,
+            "vat_amount": 1.57
+        },
+        {
+            "amount": 24.45,
+            "description": "implement cutting-edge systems",
+            "index": "7",
+            "price": 10.66,
+            "quantity": 1.46,
+            "tax_amount": 49.26,
+            "total_ttc": 174.47,
+            "vat_amount": 0.56
+        },
+        {
+            "amount": 377.09,
+            "description": "leverage granular deliverables",
+            "index": "2",
+            "price": 118.57,
+            "quantity": 6.15,
+            "tax_amount": 38.8,
+            "total_ttc": 477.49,
+            "vat_amount": 1.87
+        },
+        {
+            "amount": 141.87,
+            "description": "enhance e-business architectures",
+            "index": "8",
+            "price": 461.91,
+            "quantity": 6.7,
+            "tax_amount": 71.01,
+            "total_ttc": 133.43,
+            "vat_amount": 0.08
+        },
+        {
+            "amount": 391.84,
+            "description": "integrate seamless mindshare",
+            "index": "2",
+            "price": 242.41,
+            "quantity": 1.04,
+            "tax_amount": 13.3,
+            "total_ttc": 477.2,
+            "vat_amount": 0.59
+        }
+    ],
+    "seller": {
+        "name": "Jared Romero"
+    },
+    "supplier": {
+        "address": "582 Martin Spurs Suite 568 Susanview, CA 91163",
+        "name": "Anthony Chan"
+    },
+    "tax": {
+        "amount_excluding_tax": 24.88,
+        "amount_including_tax": 94.39,
+        "tax_amount": 26.5,
+        "total_ht": 205.88,
+        "total_ttc": 318.21
+    }
+}

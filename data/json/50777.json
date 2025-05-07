@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "667 Diaz Highway Lake Valerie, VA 25691",
+        "id": "WX119"
+    },
+    "invoice": {
+        "bc_no": "KK41137",
+        "currency_code": "TOP",
+        "date": "03.03.1996",
+        "due_date": "10.08.1990",
+        "number": 604135
+    },
+    "payment": {
+        "bank_name": "Simpson Group",
+        "bic": "OUVXGBKE",
+        "iban": "JYZE96721983944664"
+    },
+    "products": [
+        {
+            "amount": 10.25,
+            "description": "redefine interactive methodologies",
+            "index": "8",
+            "price": 435.05,
+            "quantity": 5.45,
+            "tax_amount": 95.92,
+            "total_ttc": 352.67,
+            "vat_amount": 0.49
+        },
+        {
+            "amount": 208.58,
+            "description": "engage innovative applications",
+            "index": "5",
+            "price": 307.13,
+            "quantity": 1.62,
+            "tax_amount": 70.58,
+            "total_ttc": 331.88,
+            "vat_amount": 10.0
+        },
+        {
+            "amount": 255.02,
+            "description": "facilitate dot-com mindshare",
+            "index": "10",
+            "price": 441.1,
+            "quantity": 9.99,
+            "tax_amount": 65.36,
+            "total_ttc": 191.53,
+            "vat_amount": 5.39
+        },
+        {
+            "amount": 491.4,
+            "description": "engineer sticky methodologies",
+            "index": "4",
+            "price": 255.73,
+            "quantity": 8.77,
+            "tax_amount": 99.61,
+            "total_ttc": 219.48,
+            "vat_amount": 5.66
+        },
+        {
+            "amount": 387.54,
+            "description": "architect magnetic convergence",
+            "index": "10",
+            "price": 143.62,
+            "quantity": 7.87,
+            "tax_amount": 30.93,
+            "total_ttc": 320.27,
+            "vat_amount": 5.84
+        }
+    ],
+    "seller": {
+        "name": "Geoffrey Robinson"
+    },
+    "supplier": {
+        "address": "558 Williams Path Suite 827 New Christophertown, OK 24980",
+        "name": "Bradley Wang"
+    },
+    "tax": {
+        "amount_excluding_tax": 170.87,
+        "amount_including_tax": 41.41,
+        "tax_amount": 22.1,
+        "total_ht": 106.47,
+        "total_ttc": 370.22
+    }
+}

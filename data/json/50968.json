@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "Unit 4422 Box 6148 DPO AA 22674",
+        "id": "dx514"
+    },
+    "invoice": {
+        "bc_no": "WS56042",
+        "currency_code": "MNT",
+        "date": "25.12.2022",
+        "due_date": "08.09.2018",
+        "number": 330045
+    },
+    "payment": {
+        "bank_name": "Stewart, Baker and Andrade",
+        "bic": "UVWTGB448XJ",
+        "iban": "MZYF53459084610593"
+    },
+    "products": [
+        {
+            "amount": 13.79,
+            "description": "re-contextualize customized vortals",
+            "index": "5",
+            "price": 358.97,
+            "quantity": 9.8,
+            "tax_amount": 13.76,
+            "total_ttc": 147.92,
+            "vat_amount": 8.0
+        },
+        {
+            "amount": 85.39,
+            "description": "engage strategic bandwidth",
+            "index": "5",
+            "price": 487.65,
+            "quantity": 7.77,
+            "tax_amount": 46.21,
+            "total_ttc": 135.48,
+            "vat_amount": 4.31
+        },
+        {
+            "amount": 409.55,
+            "description": "drive turn-key mindshare",
+            "index": "3",
+            "price": 438.47,
+            "quantity": 4.99,
+            "tax_amount": 52.52,
+            "total_ttc": 413.15,
+            "vat_amount": 2.98
+        },
+        {
+            "amount": 308.3,
+            "description": "transition compelling applications",
+            "index": "8",
+            "price": 241.9,
+            "quantity": 1.23,
+            "tax_amount": 53.28,
+            "total_ttc": 165.64,
+            "vat_amount": 8.34
+        },
+        {
+            "amount": 138.25,
+            "description": "re-contextualize next-generation portals",
+            "index": "10",
+            "price": 26.85,
+            "quantity": 6.43,
+            "tax_amount": 22.62,
+            "total_ttc": 215.08,
+            "vat_amount": 3.92
+        },
+        {
+            "amount": 261.5,
+            "description": "mesh visionary e-services",
+            "index": "9",
+            "price": 496.79,
+            "quantity": 7.54,
+            "tax_amount": 29.45,
+            "total_ttc": 268.44,
+            "vat_amount": 1.66
+        }
+    ],
+    "seller": {
+        "name": "Christopher Anderson"
+    },
+    "supplier": {
+        "address": "82683 Hudson Station North Sarah, IA 40421",
+        "name": "Travis Bates"
+    },
+    "tax": {
+        "amount_excluding_tax": 68.04,
+        "amount_including_tax": 176.62,
+        "tax_amount": 21.29,
+        "total_ht": 260.66,
+        "total_ttc": 209.98
+    }
+}

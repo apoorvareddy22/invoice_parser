@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "092 Theresa Green Henryport, OK 95833",
+        "business_no": "hc729",
+        "id": "Vx837"
+    },
+    "invoice": {
+        "date": "08.09.2016",
+        "number": "8599-4227"
+    },
+    "payment": {
+        "due_date": "23.12.2009",
+        "total": 664.38
+    },
+    "products": [
+        {
+            "amount": 93.98,
+            "description": "embrace end-to-end experiences",
+            "quantity": 2.34,
+            "reference": "il-349",
+            "unit_price": 36.58
+        },
+        {
+            "amount": 189.29,
+            "description": "empower clicks-and-mortar synergies",
+            "quantity": 9.1,
+            "reference": "JG-593",
+            "unit_price": 40.07
+        },
+        {
+            "amount": 106.74,
+            "description": "generate intuitive channels",
+            "quantity": 2.27,
+            "reference": "hC-702",
+            "unit_price": 37.57
+        },
+        {
+            "amount": 461.31,
+            "description": "incentivize distributed e-business",
+            "quantity": 6.64,
+            "reference": "ux-599",
+            "unit_price": 18.3
+        }
+    ],
+    "seller": {
+        "address": "5901 Owens Spurs Suite 417 Rubenside, AK 86321"
+    },
+    "tax": {
+        "base_ht": 228.22,
+        "regulations": 24.96,
+        "total_ht": 442.93,
+        "vat_amount": 134.87,
+        "vat_percentage": 25.88
+    }
+}

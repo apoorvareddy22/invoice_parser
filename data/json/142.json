@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "2342 Meghan Views Suite 895 Port Alexandriaport, MA 87900",
+        "company_name": "Reyes-Burton",
+        "country": "Bosnia and Herzegovina",
+        "name": "Chris Garcia"
+    },
+    "invoice": {
+        "date": "21.12.2018",
+        "number": 960900
+    },
+    "payment": {
+        "discount_amount": 16.95,
+        "discount_percentage": 15.32,
+        "due": 153.15,
+        "sub_total": 155.05,
+        "total": 411.7
+    },
+    "products": [
+        {
+            "description": "extend end-to-end systems",
+            "index": "6",
+            "quantity": 3.96,
+            "total_price": 845.81,
+            "unit_price": 93.12
+        }
+    ],
+    "seller": {
+        "address": "USNS Nichols FPO AA 23093",
+        "company_name": "Patterson Group",
+        "vat_no": "Ho65479036766"
+    }
+}

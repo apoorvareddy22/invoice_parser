@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "PSC 6855, Box 4666 APO AA 41615",
+        "business_no": "Vk285",
+        "id": "Mj218"
+    },
+    "invoice": {
+        "date": "18.05.1995",
+        "number": "9277-6760"
+    },
+    "payment": {
+        "due_date": "09.08.2018",
+        "total": 402.53
+    },
+    "products": [
+        {
+            "amount": 414.09,
+            "description": "engineer 24/7 systems",
+            "quantity": 7.13,
+            "reference": "UE-615",
+            "unit_price": 47.34
+        },
+        {
+            "amount": 491.41,
+            "description": "integrate dot-com deliverables",
+            "quantity": 1.45,
+            "reference": "If-772",
+            "unit_price": 83.91
+        }
+    ],
+    "seller": {
+        "address": "592 Murphy Mountains East Jamieland, ID 49485"
+    },
+    "tax": {
+        "base_ht": 159.75,
+        "regulations": 21.31,
+        "total_ht": 183.67,
+        "vat_amount": 65.94,
+        "vat_percentage": 20.81
+    }
+}

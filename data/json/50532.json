@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "Unit 2745 Box 1161 DPO AA 42175",
+        "id": "aq689"
+    },
+    "invoice": {
+        "bc_no": "lz62724",
+        "currency_code": "KZT",
+        "date": "14.04.2002",
+        "due_date": "02.03.2009",
+        "number": 746051
+    },
+    "payment": {
+        "bank_name": "Martin-Dalton",
+        "bic": "BDUIGBL4OK7",
+        "iban": "BUUD39372519590158"
+    },
+    "products": [
+        {
+            "amount": 238.48,
+            "description": "evolve seamless platforms",
+            "index": "1",
+            "price": 169.64,
+            "quantity": 5.75,
+            "tax_amount": 71.87,
+            "total_ttc": 215.3,
+            "vat_amount": 2.09
+        },
+        {
+            "amount": 274.14,
+            "description": "re-contextualize leading-edge functionalities",
+            "index": "2",
+            "price": 220.44,
+            "quantity": 3.09,
+            "tax_amount": 11.28,
+            "total_ttc": 137.9,
+            "vat_amount": 1.41
+        },
+        {
+            "amount": 433.45,
+            "description": "grow world-class info-mediaries",
+            "index": "5",
+            "price": 419.99,
+            "quantity": 4.86,
+            "tax_amount": 77.91,
+            "total_ttc": 415.02,
+            "vat_amount": 2.54
+        },
+        {
+            "amount": 58.54,
+            "description": "innovate efficient solutions",
+            "index": "5",
+            "price": 68.91,
+            "quantity": 4.71,
+            "tax_amount": 95.66,
+            "total_ttc": 367.4,
+            "vat_amount": 9.35
+        },
+        {
+            "amount": 382.61,
+            "description": "aggregate extensible vortals",
+            "index": "3",
+            "price": 139.57,
+            "quantity": 7.76,
+            "tax_amount": 21.31,
+            "total_ttc": 184.16,
+            "vat_amount": 8.64
+        },
+        {
+            "amount": 258.16,
+            "description": "grow B2C e-business",
+            "index": "9",
+            "price": 77.18,
+            "quantity": 6.54,
+            "tax_amount": 80.27,
+            "total_ttc": 162.83,
+            "vat_amount": 1.05
+        }
+    ],
+    "seller": {
+        "name": "Suzanne Schmidt"
+    },
+    "supplier": {
+        "address": "19203 Wilson Road Apt. 049 North Alisha, TN 65683",
+        "name": "Kimberly Parker"
+    },
+    "tax": {
+        "amount_excluding_tax": 53.98,
+        "amount_including_tax": 52.12,
+        "tax_amount": 18.67,
+        "total_ht": 239.53,
+        "total_ttc": 135.41
+    }
+}

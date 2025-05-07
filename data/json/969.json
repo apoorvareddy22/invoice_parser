@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "406 Frederick Island Apt. 848 Hickschester, NC 42800",
+        "company_name": "Smith-Richardson",
+        "country": "Puerto Rico",
+        "name": "Terri Jones"
+    },
+    "invoice": {
+        "date": "30.08.2013",
+        "number": 681482
+    },
+    "payment": {
+        "discount_amount": 46.69,
+        "discount_percentage": 6.41,
+        "due": 174.78,
+        "sub_total": 53.43,
+        "total": 537.25
+    },
+    "products": [
+        {
+            "description": "utilize revolutionary interfaces",
+            "index": "9",
+            "quantity": 8.44,
+            "total_price": 862.1,
+            "unit_price": 16.94
+        },
+        {
+            "description": "transform wireless web-readiness",
+            "index": "3",
+            "quantity": 1.18,
+            "total_price": 429.53,
+            "unit_price": 38.49
+        },
+        {
+            "description": "visualize intuitive e-tailers",
+            "index": "1",
+            "quantity": 9.57,
+            "total_price": 318.16,
+            "unit_price": 58.64
+        },
+        {
+            "description": "brand extensible methodologies",
+            "index": "3",
+            "quantity": 6.16,
+            "total_price": 764.04,
+            "unit_price": 24.03
+        }
+    ],
+    "seller": {
+        "address": "3686 Gill Springs Johnsonhaven, OR 52898",
+        "company_name": "Thomas LLC",
+        "vat_no": "Wp33982180333"
+    }
+}

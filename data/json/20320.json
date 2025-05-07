@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "99503 Doyle Locks Suite 639 West Michaelside, VT 88167",
+        "company_name": "Bender-James",
+        "email": "garciarachel@example.com",
+        "name": "Julie Austin",
+        "phone": "(661)211-4224"
+    },
+    "invoice": {
+        "date": "22.01.2009",
+        "due_date": "28.11.2000",
+        "number": "fqu74548764768"
+    },
+    "payment": {
+        "account_number": 7662576959,
+        "bank_name": "Collier LLC",
+        "routing_number": 502776214
+    },
+    "products": [
+        {
+            "amount": 466.47,
+            "description": "deliver one-to-one ROI",
+            "index": "9",
+            "quantity": 7.54,
+            "unit_price": 50.41
+        },
+        {
+            "amount": 386.49,
+            "description": "deliver distributed deliverables",
+            "index": "1",
+            "quantity": 7.03,
+            "unit_price": 98.13
+        },
+        {
+            "amount": 292.79,
+            "description": "mesh scalable partnerships",
+            "index": "1",
+            "quantity": 8.5,
+            "unit_price": 87.44
+        }
+    ],
+    "seller": {
+        "address": "213 Donna Hollow Suite 172 Taylorhaven, MP 83323",
+        "company_name": "Moran, Schaefer and White",
+        "email": "allenbond@example.net"
+    }
+}

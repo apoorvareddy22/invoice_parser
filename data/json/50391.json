@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "4325 Scott Center Apt. 378 New Patricia, VI 39767",
+        "id": "ug498"
+    },
+    "invoice": {
+        "bc_no": "HK76034",
+        "currency_code": "ERN",
+        "date": "20.04.2014",
+        "due_date": "17.10.2023",
+        "number": 649779
+    },
+    "payment": {
+        "bank_name": "Kennedy, Johnston and Williams",
+        "bic": "SGSQGBDU",
+        "iban": "VSYN35441704479355"
+    },
+    "products": [
+        {
+            "amount": 284.11,
+            "description": "unleash dot-com networks",
+            "index": "2",
+            "price": 478.28,
+            "quantity": 8.36,
+            "tax_amount": 45.78,
+            "total_ttc": 483.25,
+            "vat_amount": 1.61
+        },
+        {
+            "amount": 301.06,
+            "description": "visualize front-end paradigms",
+            "index": "7",
+            "price": 444.0,
+            "quantity": 8.69,
+            "tax_amount": 73.51,
+            "total_ttc": 107.12,
+            "vat_amount": 3.0
+        },
+        {
+            "amount": 261.24,
+            "description": "morph B2C bandwidth",
+            "index": "10",
+            "price": 42.59,
+            "quantity": 6.5,
+            "tax_amount": 99.8,
+            "total_ttc": 401.32,
+            "vat_amount": 13.14
+        },
+        {
+            "amount": 77.93,
+            "description": "re-contextualize world-class mindshare",
+            "index": "2",
+            "price": 464.88,
+            "quantity": 4.09,
+            "tax_amount": 23.91,
+            "total_ttc": 240.26,
+            "vat_amount": 1.89
+        },
+        {
+            "amount": 315.62,
+            "description": "engage intuitive niches",
+            "index": "3",
+            "price": 308.33,
+            "quantity": 4.33,
+            "tax_amount": 12.51,
+            "total_ttc": 182.12,
+            "vat_amount": 0.6
+        },
+        {
+            "amount": 49.05,
+            "description": "engage global action-items",
+            "index": "1",
+            "price": 461.54,
+            "quantity": 3.83,
+            "tax_amount": 25.56,
+            "total_ttc": 249.83,
+            "vat_amount": 5.17
+        }
+    ],
+    "seller": {
+        "name": "Kathy Watkins"
+    },
+    "supplier": {
+        "address": "USNV Flores FPO AE 24694",
+        "name": "Regina Wyatt"
+    },
+    "tax": {
+        "amount_excluding_tax": 171.23,
+        "amount_including_tax": 81.23,
+        "tax_amount": 14.1,
+        "total_ht": 114.46,
+        "total_ttc": 483.46
+    }
+}

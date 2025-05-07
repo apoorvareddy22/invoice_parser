@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "200 Jody Hollow Apt. 518 Lake Chelsea, TN 95181"
+    },
+    "invoice": {
+        "bc_no": "NW83253",
+        "date": "15.06.2022",
+        "maturity_date": "04.08.2009",
+        "number": 718735
+    },
+    "products": [
+        {
+            "amount": 327.67,
+            "description": "re-intermediate rich web services",
+            "quantity": 9.08,
+            "unit_price": 98.01,
+            "vat_amount": 4.79
+        },
+        {
+            "amount": 393.76,
+            "description": "strategize e-business synergies",
+            "quantity": 5.45,
+            "unit_price": 59.2,
+            "vat_amount": 2.24
+        },
+        {
+            "amount": 305.91,
+            "description": "implement leading-edge infrastructures",
+            "quantity": 2.7,
+            "unit_price": 47.03,
+            "vat_amount": 2.82
+        },
+        {
+            "amount": 462.36,
+            "description": "enhance interactive systems",
+            "quantity": 6.63,
+            "unit_price": 57.12,
+            "vat_amount": 0.02
+        }
+    ],
+    "seller": {
+        "address": "3945 John Mountain Apt. 319 Brandonborough, MS 20202"
+    },
+    "tax": {
+        "amount_excluding_tax": 43.83,
+        "amount_including_tax": 27.35,
+        "tax_amount": 15.19
+    }
+}

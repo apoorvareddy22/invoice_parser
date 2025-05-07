@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "028 Sonya Drive New Joseph, MD 61054",
+        "email": "robert13@example.net",
+        "phone": "001-886-953-1240x312",
+        "vat_no": "kY22496337587"
+    },
+    "invoice": {
+        "date": "13.12.2023",
+        "due_date": "10.05.2016",
+        "market_reference": 348530,
+        "notes": "re-intermediate front-end architectures",
+        "number": "6014-0759",
+        "reference": 422262,
+        "vat_no": "rK02667705369"
+    },
+    "payment": {
+        "net_total": 31.41,
+        "total": 445.67
+    },
+    "products": [
+        {
+            "amount": 378.45,
+            "description": "cultivate magnetic metrics",
+            "hours": 3.43,
+            "rate": 3.53
+        }
+    ],
+    "seller": {
+        "address": "466 Mason Cliff Suite 472 Lewiston, WA 90907",
+        "email": "michaelwong@example.net",
+        "name": "Mr. Kevin Garcia DDS"
+    },
+    "tax": {
+        "base": 18.82,
+        "tax_amount": 15.05,
+        "total_tax": 14.84
+    }
+}

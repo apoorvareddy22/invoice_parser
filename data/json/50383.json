@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "149 Albert Crossroad New Danielton, MO 10163",
+        "id": "WT643"
+    },
+    "invoice": {
+        "bc_no": "Fx51447",
+        "currency_code": "MXN",
+        "date": "30.04.2008",
+        "due_date": "23.04.1998",
+        "number": 355343
+    },
+    "payment": {
+        "bank_name": "King Ltd",
+        "bic": "YONSGBME",
+        "iban": "ICYX98492966148726"
+    },
+    "products": [
+        {
+            "amount": 207.63,
+            "description": "target proactive niches",
+            "index": "10",
+            "price": 294.73,
+            "quantity": 7.14,
+            "tax_amount": 59.11,
+            "total_ttc": 374.11,
+            "vat_amount": 14.4
+        },
+        {
+            "amount": 268.56,
+            "description": "iterate magnetic bandwidth",
+            "index": "2",
+            "price": 27.42,
+            "quantity": 6.63,
+            "tax_amount": 46.53,
+            "total_ttc": 273.02,
+            "vat_amount": 1.46
+        },
+        {
+            "amount": 118.15,
+            "description": "transition bleeding-edge models",
+            "index": "3",
+            "price": 123.16,
+            "quantity": 7.74,
+            "tax_amount": 15.14,
+            "total_ttc": 357.74,
+            "vat_amount": 0.84
+        },
+        {
+            "amount": 335.88,
+            "description": "extend front-end web-readiness",
+            "index": "7",
+            "price": 483.71,
+            "quantity": 4.08,
+            "tax_amount": 27.67,
+            "total_ttc": 226.63,
+            "vat_amount": 0.48
+        },
+        {
+            "amount": 107.97,
+            "description": "orchestrate e-business e-business",
+            "index": "3",
+            "price": 158.54,
+            "quantity": 9.94,
+            "tax_amount": 68.36,
+            "total_ttc": 164.13,
+            "vat_amount": 8.03
+        },
+        {
+            "amount": 333.31,
+            "description": "strategize world-class bandwidth",
+            "index": "6",
+            "price": 150.86,
+            "quantity": 6.07,
+            "tax_amount": 22.88,
+            "total_ttc": 325.71,
+            "vat_amount": 5.67
+        },
+        {
+            "amount": 424.14,
+            "description": "reinvent B2C eyeballs",
+            "index": "1",
+            "price": 56.77,
+            "quantity": 3.71,
+            "tax_amount": 23.52,
+            "total_ttc": 222.25,
+            "vat_amount": 1.61
+        }
+    ],
+    "seller": {
+        "name": "James Webb"
+    },
+    "supplier": {
+        "address": "64288 Justin Ramp Suite 646 Melissafort, AK 21533",
+        "name": "David White"
+    },
+    "tax": {
+        "amount_excluding_tax": 33.14,
+        "amount_including_tax": 128.43,
+        "tax_amount": 10.53,
+        "total_ht": 157.8,
+        "total_ttc": 137.28
+    }
+}

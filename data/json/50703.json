@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "1713 Kenneth Walk Apt. 460 Kristintown, MI 50713",
+        "id": "NZ874"
+    },
+    "invoice": {
+        "bc_no": "OD42593",
+        "currency_code": "AFN",
+        "date": "18.11.1990",
+        "due_date": "02.09.2019",
+        "number": 456145
+    },
+    "payment": {
+        "bank_name": "Lawson-Maldonado",
+        "bic": "WYFTGBW9",
+        "iban": "XJVJ74879489130669"
+    },
+    "products": [
+        {
+            "amount": 372.13,
+            "description": "empower back-end initiatives",
+            "index": "1",
+            "price": 469.87,
+            "quantity": 6.41,
+            "tax_amount": 77.45,
+            "total_ttc": 109.24,
+            "vat_amount": 5.6
+        },
+        {
+            "amount": 490.53,
+            "description": "extend real-time e-markets",
+            "index": "2",
+            "price": 412.33,
+            "quantity": 9.22,
+            "tax_amount": 54.09,
+            "total_ttc": 461.86,
+            "vat_amount": 3.38
+        },
+        {
+            "amount": 478.63,
+            "description": "re-intermediate granular models",
+            "index": "9",
+            "price": 371.42,
+            "quantity": 4.2,
+            "tax_amount": 97.85,
+            "total_ttc": 488.07,
+            "vat_amount": 9.35
+        },
+        {
+            "amount": 142.05,
+            "description": "generate killer architectures",
+            "index": "1",
+            "price": 73.56,
+            "quantity": 3.42,
+            "tax_amount": 38.97,
+            "total_ttc": 216.71,
+            "vat_amount": 8.78
+        },
+        {
+            "amount": 490.0,
+            "description": "visualize ubiquitous e-markets",
+            "index": "6",
+            "price": 48.58,
+            "quantity": 6.19,
+            "tax_amount": 73.19,
+            "total_ttc": 216.34,
+            "vat_amount": 6.84
+        },
+        {
+            "amount": 423.23,
+            "description": "iterate global e-services",
+            "index": "6",
+            "price": 243.96,
+            "quantity": 8.71,
+            "tax_amount": 29.16,
+            "total_ttc": 118.45,
+            "vat_amount": 6.51
+        },
+        {
+            "amount": 117.93,
+            "description": "empower back-end networks",
+            "index": "2",
+            "price": 32.38,
+            "quantity": 1.19,
+            "tax_amount": 36.27,
+            "total_ttc": 459.22,
+            "vat_amount": 2.2
+        }
+    ],
+    "seller": {
+        "name": "Kurt Thompson"
+    },
+    "supplier": {
+        "address": "9447 Davies Inlet North Sarahaven, SC 97713",
+        "name": "Jessica Allen"
+    },
+    "tax": {
+        "amount_excluding_tax": 134.13,
+        "amount_including_tax": 45.43,
+        "tax_amount": 20.86,
+        "total_ht": 427.79,
+        "total_ttc": 300.19
+    }
+}

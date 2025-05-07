@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "3380 Lisa Streets Apt. 402 Donaldberg, MH 95853",
+        "company_name": "Benjamin, Russell and Bright",
+        "country": "New Zealand",
+        "name": "Cindy Williams"
+    },
+    "invoice": {
+        "date": "20.02.1991",
+        "number": 689648
+    },
+    "payment": {
+        "discount_amount": 43.6,
+        "discount_percentage": 9.25,
+        "due": 195.49,
+        "sub_total": 91.53,
+        "total": 995.32
+    },
+    "products": [
+        {
+            "description": "harness revolutionary applications",
+            "index": "1",
+            "quantity": 1.02,
+            "total_price": 197.7,
+            "unit_price": 39.58
+        },
+        {
+            "description": "e-enable clicks-and-mortar functionalities",
+            "index": "10",
+            "quantity": 2.32,
+            "total_price": 263.15,
+            "unit_price": 96.08
+        },
+        {
+            "description": "revolutionize front-end systems",
+            "index": "1",
+            "quantity": 8.12,
+            "total_price": 774.97,
+            "unit_price": 76.56
+        }
+    ],
+    "seller": {
+        "address": "119 Michael Place West Michael, TX 42718",
+        "company_name": "Smith-Mendoza",
+        "vat_no": "kl70982322197"
+    }
+}

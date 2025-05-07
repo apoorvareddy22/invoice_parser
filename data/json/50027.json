@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "8773 Jessica Place Suite 280 South Debraburgh, IN 17611",
+        "id": "xC371"
+    },
+    "invoice": {
+        "bc_no": "Xb40907",
+        "currency_code": "EGP",
+        "date": "23.04.2003",
+        "due_date": "03.12.2001",
+        "number": 700543
+    },
+    "payment": {
+        "bank_name": "Vincent, Torres and Johnson",
+        "bic": "MUYOGBWODB9",
+        "iban": "DKNG71498954297654"
+    },
+    "products": [
+        {
+            "amount": 51.0,
+            "description": "synthesize cross-platform platforms",
+            "index": "5",
+            "price": 478.7,
+            "quantity": 1.85,
+            "tax_amount": 17.55,
+            "total_ttc": 231.61,
+            "vat_amount": 1.04
+        },
+        {
+            "amount": 180.95,
+            "description": "seize turn-key web services",
+            "index": "2",
+            "price": 488.7,
+            "quantity": 9.33,
+            "tax_amount": 47.76,
+            "total_ttc": 366.2,
+            "vat_amount": 6.44
+        },
+        {
+            "amount": 390.85,
+            "description": "exploit clicks-and-mortar e-tailers",
+            "index": "3",
+            "price": 129.44,
+            "quantity": 9.54,
+            "tax_amount": 22.6,
+            "total_ttc": 364.63,
+            "vat_amount": 0.21
+        },
+        {
+            "amount": 258.98,
+            "description": "revolutionize best-of-breed e-tailers",
+            "index": "8",
+            "price": 472.03,
+            "quantity": 3.25,
+            "tax_amount": 85.09,
+            "total_ttc": 150.52,
+            "vat_amount": 4.13
+        },
+        {
+            "amount": 75.11,
+            "description": "iterate interactive partnerships",
+            "index": "4",
+            "price": 388.61,
+            "quantity": 8.73,
+            "tax_amount": 16.98,
+            "total_ttc": 262.62,
+            "vat_amount": 3.81
+        },
+        {
+            "amount": 274.23,
+            "description": "deploy web-enabled interfaces",
+            "index": "5",
+            "price": 82.33,
+            "quantity": 8.84,
+            "tax_amount": 28.06,
+            "total_ttc": 393.81,
+            "vat_amount": 2.57
+        },
+        {
+            "amount": 244.97,
+            "description": "deploy virtual users",
+            "index": "8",
+            "price": 402.29,
+            "quantity": 3.84,
+            "tax_amount": 49.72,
+            "total_ttc": 489.86,
+            "vat_amount": 0.52
+        }
+    ],
+    "seller": {
+        "name": "Dr. Melissa Best"
+    },
+    "supplier": {
+        "address": "4497 Rice Avenue Coletown, FM 97411",
+        "name": "Timothy Crawford"
+    },
+    "tax": {
+        "amount_excluding_tax": 63.02,
+        "amount_including_tax": 156.92,
+        "tax_amount": 11.86,
+        "total_ht": 379.78,
+        "total_ttc": 225.41
+    }
+}

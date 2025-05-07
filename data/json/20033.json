@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "Unit 3184 Box 3873 DPO AA 15828",
+        "company_name": "Powell-Oliver",
+        "email": "vanessarose@example.org",
+        "name": "Melissa Welch",
+        "phone": "(988)605-6244"
+    },
+    "invoice": {
+        "date": "15.03.2010",
+        "due_date": "02.04.2014",
+        "number": "Dpk93308846622"
+    },
+    "payment": {
+        "account_number": 1783395361,
+        "bank_name": "Holt, Thompson and Allen",
+        "routing_number": 237483555
+    },
+    "products": [
+        {
+            "amount": 193.45,
+            "description": "repurpose proactive e-tailers",
+            "index": "4",
+            "quantity": 5.82,
+            "unit_price": 34.02
+        },
+        {
+            "amount": 54.04,
+            "description": "incentivize 24/365 ROI",
+            "index": "7",
+            "quantity": 4.95,
+            "unit_price": 92.68
+        },
+        {
+            "amount": 284.22,
+            "description": "visualize collaborative technologies",
+            "index": "5",
+            "quantity": 9.57,
+            "unit_price": 57.87
+        },
+        {
+            "amount": 215.48,
+            "description": "implement vertical info-mediaries",
+            "index": "9",
+            "quantity": 9.56,
+            "unit_price": 74.26
+        },
+        {
+            "amount": 215.02,
+            "description": "enhance cross-media content",
+            "index": "4",
+            "quantity": 4.42,
+            "unit_price": 68.49
+        }
+    ],
+    "seller": {
+        "address": "362 Petersen Skyway Suite 052 Jamesborough, CA 82014",
+        "company_name": "Moore-Mcgee",
+        "email": "uward@example.net"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "50961 Lambert Freeway Suite 271 Lewisburgh, VT 48869",
+        "email": "faguirre@example.com",
+        "phone": "389.958.5465x284",
+        "vat_no": "fY28404874846"
+    },
+    "invoice": {
+        "date": "21.11.2016",
+        "due_date": "04.04.2019",
+        "market_reference": 304345,
+        "notes": "re-contextualize distributed relationships",
+        "number": "2157-6287",
+        "reference": 978548,
+        "vat_no": "vP95693606154"
+    },
+    "payment": {
+        "net_total": 71.84,
+        "total": 553.09
+    },
+    "products": [
+        {
+            "amount": 33.79,
+            "description": "orchestrate B2B e-commerce",
+            "hours": 2.94,
+            "rate": 6.13
+        },
+        {
+            "amount": 468.52,
+            "description": "cultivate cross-platform metrics",
+            "hours": 8.06,
+            "rate": 6.58
+        },
+        {
+            "amount": 161.14,
+            "description": "mesh synergistic channels",
+            "hours": 2.74,
+            "rate": 6.96
+        },
+        {
+            "amount": 79.56,
+            "description": "utilize killer interfaces",
+            "hours": 1.29,
+            "rate": 7.57
+        }
+    ],
+    "seller": {
+        "address": "2753 Johnson Union Apt. 250 Robbinshaven, VA 53434",
+        "email": "nicholas64@example.net",
+        "name": "Sara Nixon"
+    },
+    "tax": {
+        "base": 27.61,
+        "tax_amount": 14.91,
+        "total_tax": 20.86
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "8694 Daniel Club West Laura, WI 23499"
+    },
+    "invoice": {
+        "bc_no": "uq49776",
+        "date": "17.07.2004",
+        "maturity_date": "27.09.2014",
+        "number": 504967
+    },
+    "products": [
+        {
+            "amount": 196.52,
+            "description": "envisioneer best-of-breed initiatives",
+            "quantity": 9.29,
+            "unit_price": 32.32,
+            "vat_amount": 6.85
+        },
+        {
+            "amount": 211.2,
+            "description": "drive user-centric info-mediaries",
+            "quantity": 2.79,
+            "unit_price": 55.78,
+            "vat_amount": 9.53
+        }
+    ],
+    "seller": {
+        "address": "7812 Rodriguez Garden Newmanbury, RI 86157"
+    },
+    "tax": {
+        "amount_excluding_tax": 100.15,
+        "amount_including_tax": 126.77,
+        "tax_amount": 27.32
+    }
+}

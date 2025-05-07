@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "850 Dunlap Canyon Wilkersonshire, FM 21888",
+        "business_no": "bi044",
+        "id": "ST743"
+    },
+    "invoice": {
+        "date": "23.11.2008",
+        "number": "3871-9727"
+    },
+    "payment": {
+        "due_date": "02.01.2022",
+        "total": 474.56
+    },
+    "products": [
+        {
+            "amount": 183.42,
+            "description": "leverage dynamic supply-chains",
+            "quantity": 1.35,
+            "reference": "nS-118",
+            "unit_price": 40.9
+        },
+        {
+            "amount": 256.18,
+            "description": "evolve cross-media functionalities",
+            "quantity": 9.05,
+            "reference": "QR-214",
+            "unit_price": 27.49
+        },
+        {
+            "amount": 90.41,
+            "description": "iterate web-enabled markets",
+            "quantity": 7.78,
+            "reference": "MG-181",
+            "unit_price": 11.95
+        },
+        {
+            "amount": 339.44,
+            "description": "matrix viral markets",
+            "quantity": 8.45,
+            "reference": "Uf-421",
+            "unit_price": 69.05
+        }
+    ],
+    "seller": {
+        "address": "69711 Roy Fork Suite 563 East Michael, GA 48365"
+    },
+    "tax": {
+        "base_ht": 399.09,
+        "regulations": 23.56,
+        "total_ht": 242.22,
+        "vat_amount": 180.8,
+        "vat_percentage": 17.43
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "4337 Fernandez Heights Irwinview, KS 52511",
+        "id": "JT772"
+    },
+    "invoice": {
+        "bc_no": "EC01923",
+        "currency_code": "LRD",
+        "date": "27.03.1993",
+        "due_date": "06.12.1996",
+        "number": 751337
+    },
+    "payment": {
+        "bank_name": "Lewis, Tucker and Peterson",
+        "bic": "UGISGBIP",
+        "iban": "IMLI84619789673417"
+    },
+    "products": [
+        {
+            "amount": 432.3,
+            "description": "transform one-to-one relationships",
+            "index": "2",
+            "price": 301.61,
+            "quantity": 2.0,
+            "tax_amount": 19.22,
+            "total_ttc": 100.54,
+            "vat_amount": 8.51
+        },
+        {
+            "amount": 81.14,
+            "description": "engage dot-com web services",
+            "index": "9",
+            "price": 109.91,
+            "quantity": 4.33,
+            "tax_amount": 43.09,
+            "total_ttc": 145.75,
+            "vat_amount": 0.69
+        },
+        {
+            "amount": 244.06,
+            "description": "empower granular methodologies",
+            "index": "4",
+            "price": 113.95,
+            "quantity": 2.94,
+            "tax_amount": 93.15,
+            "total_ttc": 449.83,
+            "vat_amount": 6.88
+        },
+        {
+            "amount": 351.56,
+            "description": "engage plug-and-play e-tailers",
+            "index": "8",
+            "price": 486.23,
+            "quantity": 4.65,
+            "tax_amount": 76.19,
+            "total_ttc": 403.43,
+            "vat_amount": 12.1
+        },
+        {
+            "amount": 15.25,
+            "description": "scale holistic ROI",
+            "index": "9",
+            "price": 198.56,
+            "quantity": 5.64,
+            "tax_amount": 72.64,
+            "total_ttc": 264.1,
+            "vat_amount": 6.4
+        },
+        {
+            "amount": 486.83,
+            "description": "syndicate extensible relationships",
+            "index": "2",
+            "price": 182.2,
+            "quantity": 5.69,
+            "tax_amount": 20.79,
+            "total_ttc": 187.77,
+            "vat_amount": 2.47
+        },
+        {
+            "amount": 51.69,
+            "description": "monetize turn-key markets",
+            "index": "2",
+            "price": 147.73,
+            "quantity": 8.96,
+            "tax_amount": 62.34,
+            "total_ttc": 348.13,
+            "vat_amount": 4.48
+        }
+    ],
+    "seller": {
+        "name": "Jason York"
+    },
+    "supplier": {
+        "address": "5156 Anderson Port Suite 552 Lake Kimberlyfort, LA 05661",
+        "name": "Peter Fields"
+    },
+    "tax": {
+        "amount_excluding_tax": 20.21,
+        "amount_including_tax": 147.62,
+        "tax_amount": 24.06,
+        "total_ht": 437.85,
+        "total_ttc": 477.92
+    }
+}

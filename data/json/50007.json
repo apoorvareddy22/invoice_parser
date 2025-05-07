@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "40269 Sanchez Harbor Port Tracymouth, LA 68013",
+        "id": "KW048"
+    },
+    "invoice": {
+        "bc_no": "VD70658",
+        "currency_code": "BZD",
+        "date": "27.05.2018",
+        "due_date": "12.12.1991",
+        "number": 339321
+    },
+    "payment": {
+        "bank_name": "Graham PLC",
+        "bic": "YZVFGBHVFO8",
+        "iban": "HROW25221590982694"
+    },
+    "products": [
+        {
+            "amount": 273.51,
+            "description": "mesh proactive markets",
+            "index": "2",
+            "price": 214.96,
+            "quantity": 1.74,
+            "tax_amount": 98.99,
+            "total_ttc": 326.42,
+            "vat_amount": 0.46
+        },
+        {
+            "amount": 43.51,
+            "description": "iterate back-end interfaces",
+            "index": "5",
+            "price": 60.0,
+            "quantity": 1.21,
+            "tax_amount": 64.29,
+            "total_ttc": 129.85,
+            "vat_amount": 16.02
+        }
+    ],
+    "seller": {
+        "name": "Alisha Dalton"
+    },
+    "supplier": {
+        "address": "38112 Michael Cove Suite 984 West Phillipstad, MN 82668",
+        "name": "Gina Ashley"
+    },
+    "tax": {
+        "amount_excluding_tax": 25.53,
+        "amount_including_tax": 81.21,
+        "tax_amount": 18.94,
+        "total_ht": 322.86,
+        "total_ttc": 225.88
+    }
+}

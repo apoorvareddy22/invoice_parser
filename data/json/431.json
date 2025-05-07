@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "3911 Ryan Tunnel Apt. 349 East Penny, NE 99295",
+        "company_name": "Peters, Gentry and Rodriguez",
+        "country": "Poland",
+        "name": "Donna Sherman"
+    },
+    "invoice": {
+        "date": "17.12.1995",
+        "number": 381822
+    },
+    "payment": {
+        "discount_amount": 19.06,
+        "discount_percentage": 19.81,
+        "due": 33.79,
+        "sub_total": 72.4,
+        "total": 570.89
+    },
+    "products": [
+        {
+            "description": "productize 24/365 partnerships",
+            "index": "1",
+            "quantity": 9.56,
+            "total_price": 965.84,
+            "unit_price": 27.18
+        },
+        {
+            "description": "re-contextualize granular vortals",
+            "index": "7",
+            "quantity": 2.32,
+            "total_price": 795.01,
+            "unit_price": 28.76
+        },
+        {
+            "description": "morph enterprise functionalities",
+            "index": "5",
+            "quantity": 1.23,
+            "total_price": 209.71,
+            "unit_price": 72.46
+        },
+        {
+            "description": "utilize wireless systems",
+            "index": "8",
+            "quantity": 3.54,
+            "total_price": 776.55,
+            "unit_price": 59.83
+        },
+        {
+            "description": "maximize best-of-breed platforms",
+            "index": "2",
+            "quantity": 7.02,
+            "total_price": 93.52,
+            "unit_price": 74.3
+        },
+        {
+            "description": "target cutting-edge networks",
+            "index": "3",
+            "quantity": 9.21,
+            "total_price": 971.45,
+            "unit_price": 40.84
+        }
+    ],
+    "seller": {
+        "address": "Unit 4819 Box 3228 DPO AE 95489",
+        "company_name": "Jones, Perez and Copeland",
+        "vat_no": "Al07252216466"
+    }
+}

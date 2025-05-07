@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "268 Payne Court Suite 574 Johnsonmouth, WI 04456",
+        "business_no": "kS822",
+        "id": "QR668"
+    },
+    "invoice": {
+        "date": "06.10.2007",
+        "number": "6382-9893"
+    },
+    "payment": {
+        "due_date": "21.04.2000",
+        "total": 124.69
+    },
+    "products": [
+        {
+            "amount": 427.43,
+            "description": "grow extensible functionalities",
+            "quantity": 2.36,
+            "reference": "EN-395",
+            "unit_price": 96.72
+        }
+    ],
+    "seller": {
+        "address": "373 Perez Neck Apt. 338 Ronaldview, WA 78011"
+    },
+    "tax": {
+        "base_ht": 467.67,
+        "regulations": 16.13,
+        "total_ht": 350.49,
+        "vat_amount": 133.91,
+        "vat_percentage": 22.3
+    }
+}

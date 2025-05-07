@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "0813 Christina Rapid Apt. 746 Port Patrick, AL 18571",
+        "business_no": "SD084",
+        "id": "fm183"
+    },
+    "invoice": {
+        "date": "30.11.1997",
+        "number": "6545-3655"
+    },
+    "payment": {
+        "due_date": "29.03.2014",
+        "total": 279.71
+    },
+    "products": [
+        {
+            "amount": 327.44,
+            "description": "enable front-end users",
+            "quantity": 7.07,
+            "reference": "Xo-866",
+            "unit_price": 74.84
+        }
+    ],
+    "seller": {
+        "address": "0462 Hensley Expressway Kevinfort, VI 83837"
+    },
+    "tax": {
+        "base_ht": 298.8,
+        "regulations": 13.81,
+        "total_ht": 379.46,
+        "vat_amount": 185.71,
+        "vat_percentage": 17.13
+    }
+}

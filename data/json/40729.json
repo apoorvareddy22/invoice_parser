@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "57260 Kelly Streets Suite 695 Lake Kimberlyport, NE 60956"
+    },
+    "invoice": {
+        "bc_no": "NG60112",
+        "date": "26.01.2017",
+        "maturity_date": "05.12.2019",
+        "number": 730967
+    },
+    "products": [
+        {
+            "amount": 417.82,
+            "description": "e-enable killer channels",
+            "quantity": 9.69,
+            "unit_price": 10.79,
+            "vat_amount": 2.58
+        }
+    ],
+    "seller": {
+        "address": "09661 Nichole Neck Suite 382 Sarahborough, IL 07206"
+    },
+    "tax": {
+        "amount_excluding_tax": 180.08,
+        "amount_including_tax": 152.89,
+        "tax_amount": 24.38
+    }
+}

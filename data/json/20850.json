@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "435 Hancock Fall South Johnport, MO 36037",
+        "company_name": "Morgan, Maxwell and Walker",
+        "email": "kdouglas@example.net",
+        "name": "Andrew Pearson",
+        "phone": "001-581-870-9847x5267"
+    },
+    "invoice": {
+        "date": "27.02.1996",
+        "due_date": "18.08.1990",
+        "number": "Abg19276195623"
+    },
+    "payment": {
+        "account_number": 6901918929,
+        "bank_name": "Williams, Robinson and Jones",
+        "routing_number": 213340726
+    },
+    "products": [
+        {
+            "amount": 70.18,
+            "description": "extend granular bandwidth",
+            "index": "9",
+            "quantity": 4.96,
+            "unit_price": 52.9
+        }
+    ],
+    "seller": {
+        "address": "57152 Brown Coves Apt. 113 Lake Vincentport, NC 60929",
+        "company_name": "Hahn, Hanson and Thompson",
+        "email": "uking@example.org"
+    }
+}

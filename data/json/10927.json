@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "413 David Circle Port Brandy, MT 55502",
+        "email": "tpatel@example.net",
+        "phone": "849-440-4551",
+        "vat_no": "Ds48716198727"
+    },
+    "invoice": {
+        "date": "29.12.2018",
+        "due_date": "08.05.1999",
+        "market_reference": 326545,
+        "notes": "matrix sticky architectures",
+        "number": "7080-9943",
+        "reference": 962121,
+        "vat_no": "rT99579298811"
+    },
+    "payment": {
+        "net_total": 82.51,
+        "total": 428.91
+    },
+    "products": [
+        {
+            "amount": 423.05,
+            "description": "optimize next-generation mindshare",
+            "hours": 7.75,
+            "rate": 7.02
+        },
+        {
+            "amount": 185.16,
+            "description": "re-contextualize seamless paradigms",
+            "hours": 1.08,
+            "rate": 5.87
+        },
+        {
+            "amount": 216.52,
+            "description": "re-contextualize ubiquitous functionalities",
+            "hours": 7.02,
+            "rate": 6.56
+        },
+        {
+            "amount": 245.64,
+            "description": "maximize front-end communities",
+            "hours": 9.26,
+            "rate": 5.85
+        },
+        {
+            "amount": 397.54,
+            "description": "iterate web-enabled interfaces",
+            "hours": 3.28,
+            "rate": 3.33
+        },
+        {
+            "amount": 459.06,
+            "description": "embrace cross-platform markets",
+            "hours": 6.52,
+            "rate": 4.74
+        },
+        {
+            "amount": 28.29,
+            "description": "deploy visionary e-services",
+            "hours": 7.88,
+            "rate": 4.67
+        }
+    ],
+    "seller": {
+        "address": "USCGC Turner FPO AA 98619",
+        "email": "williamsbrenda@example.com",
+        "name": "Richard Brown"
+    },
+    "tax": {
+        "base": 20.83,
+        "tax_amount": 20.27,
+        "total_tax": 25.06
+    }
+}

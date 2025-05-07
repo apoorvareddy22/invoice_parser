@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "7925 Moore Forges Apt. 826 East Derrick, OK 21362",
+        "email": "cwilliams@example.com",
+        "phone": "(707)485-4498",
+        "vat_no": "VE00836924698"
+    },
+    "invoice": {
+        "date": "21.03.1994",
+        "due_date": "20.12.1994",
+        "market_reference": 384745,
+        "notes": "e-enable 24/365 e-services",
+        "number": "6281-8997",
+        "reference": 854915,
+        "vat_no": "KD59679668189"
+    },
+    "payment": {
+        "net_total": 75.19,
+        "total": 637.73
+    },
+    "products": [
+        {
+            "amount": 110.93,
+            "description": "engineer interactive e-business",
+            "hours": 1.74,
+            "rate": 9.47
+        },
+        {
+            "amount": 438.18,
+            "description": "incubate integrated e-business",
+            "hours": 1.88,
+            "rate": 2.21
+        }
+    ],
+    "seller": {
+        "address": "55420 Cynthia Heights Suite 859 East Kellyport, VA 87948",
+        "email": "erin72@example.org",
+        "name": "Joseph Anderson"
+    },
+    "tax": {
+        "base": 19.23,
+        "tax_amount": 14.84,
+        "total_tax": 13.4
+    }
+}

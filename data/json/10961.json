@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "1071 Linda Stravenue East Ashleystad, NY 31711",
+        "email": "brianbradley@example.org",
+        "phone": "937.619.6913x13753",
+        "vat_no": "BP57339609069"
+    },
+    "invoice": {
+        "date": "14.12.2004",
+        "due_date": "25.04.1991",
+        "market_reference": 768276,
+        "notes": "productize customized applications",
+        "number": "2950-6189",
+        "reference": 634393,
+        "vat_no": "yn80779425347"
+    },
+    "payment": {
+        "net_total": 32.88,
+        "total": 518.73
+    },
+    "products": [
+        {
+            "amount": 134.05,
+            "description": "repurpose vertical portals",
+            "hours": 1.63,
+            "rate": 6.21
+        },
+        {
+            "amount": 215.9,
+            "description": "leverage front-end communities",
+            "hours": 3.32,
+            "rate": 5.59
+        },
+        {
+            "amount": 83.57,
+            "description": "exploit mission-critical experiences",
+            "hours": 4.7,
+            "rate": 5.77
+        }
+    ],
+    "seller": {
+        "address": "051 Riddle Summit Suite 503 Stacyfurt, UT 93939",
+        "email": "bhall@example.com",
+        "name": "Lisa Lee"
+    },
+    "tax": {
+        "base": 21.47,
+        "tax_amount": 16.01,
+        "total_tax": 26.71
+    }
+}

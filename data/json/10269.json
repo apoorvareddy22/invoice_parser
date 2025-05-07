@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "16634 Luis Drives Apt. 227 Fostermouth, DE 16901",
+        "email": "rebeccabishop@example.org",
+        "phone": "(827)588-8271",
+        "vat_no": "wp26337364110"
+    },
+    "invoice": {
+        "date": "05.08.2012",
+        "due_date": "01.11.1996",
+        "market_reference": 828819,
+        "notes": "extend robust systems",
+        "number": "3790-1869",
+        "reference": 253801,
+        "vat_no": "Tr77663719346"
+    },
+    "payment": {
+        "net_total": 63.29,
+        "total": 212.17
+    },
+    "products": [
+        {
+            "amount": 135.35,
+            "description": "syndicate distributed initiatives",
+            "hours": 5.22,
+            "rate": 2.52
+        }
+    ],
+    "seller": {
+        "address": "985 Brian Forks Lindaberg, IN 57515",
+        "email": "anichols@example.net",
+        "name": "Michael Sosa"
+    },
+    "tax": {
+        "base": 20.99,
+        "tax_amount": 22.94,
+        "total_tax": 19.55
+    }
+}

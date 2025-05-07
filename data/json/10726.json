@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "3950 Hess Expressway Georgeland, ME 88079",
+        "email": "youngjennifer@example.net",
+        "phone": "635-565-7690",
+        "vat_no": "Oq81280595866"
+    },
+    "invoice": {
+        "date": "21.02.2017",
+        "due_date": "08.12.1994",
+        "market_reference": 379172,
+        "notes": "productize compelling deliverables",
+        "number": "5604-7450",
+        "reference": 971300,
+        "vat_no": "LK44727080662"
+    },
+    "payment": {
+        "net_total": 183.92,
+        "total": 838.02
+    },
+    "products": [
+        {
+            "amount": 184.16,
+            "description": "drive enterprise content",
+            "hours": 3.63,
+            "rate": 7.01
+        },
+        {
+            "amount": 342.4,
+            "description": "brand e-business ROI",
+            "hours": 1.87,
+            "rate": 5.82
+        },
+        {
+            "amount": 28.91,
+            "description": "empower collaborative functionalities",
+            "hours": 7.68,
+            "rate": 8.61
+        },
+        {
+            "amount": 223.78,
+            "description": "synthesize cutting-edge web-readiness",
+            "hours": 1.26,
+            "rate": 6.95
+        },
+        {
+            "amount": 228.74,
+            "description": "transform bleeding-edge platforms",
+            "hours": 7.34,
+            "rate": 6.74
+        },
+        {
+            "amount": 358.45,
+            "description": "maximize next-generation partnerships",
+            "hours": 7.14,
+            "rate": 7.3
+        },
+        {
+            "amount": 210.91,
+            "description": "drive clicks-and-mortar e-services",
+            "hours": 9.66,
+            "rate": 4.27
+        }
+    ],
+    "seller": {
+        "address": "776 Moore Throughway Suite 257 Port Johntown, UT 07717",
+        "email": "debbiemcdaniel@example.net",
+        "name": "Whitney Davis"
+    },
+    "tax": {
+        "base": 17.57,
+        "tax_amount": 24.47,
+        "total_tax": 25.09
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "804 James Extension Port Matthewmouth, MO 03886",
+        "business_no": "FZ202",
+        "id": "Ed231"
+    },
+    "invoice": {
+        "date": "15.09.1994",
+        "number": "4965-6805"
+    },
+    "payment": {
+        "due_date": "12.05.2022",
+        "total": 993.46
+    },
+    "products": [
+        {
+            "amount": 397.26,
+            "description": "empower impactful architectures",
+            "quantity": 2.54,
+            "reference": "LX-540",
+            "unit_price": 81.76
+        },
+        {
+            "amount": 312.17,
+            "description": "strategize best-of-breed convergence",
+            "quantity": 5.03,
+            "reference": "BE-830",
+            "unit_price": 95.33
+        },
+        {
+            "amount": 347.96,
+            "description": "morph front-end content",
+            "quantity": 7.72,
+            "reference": "QO-590",
+            "unit_price": 11.12
+        },
+        {
+            "amount": 445.39,
+            "description": "deploy visionary methodologies",
+            "quantity": 1.55,
+            "reference": "JW-707",
+            "unit_price": 82.54
+        }
+    ],
+    "seller": {
+        "address": "5155 Obrien Parkway Suite 996 Lake Dorothyport, MP 60100"
+    },
+    "tax": {
+        "base_ht": 480.74,
+        "regulations": 25.73,
+        "total_ht": 336.0,
+        "vat_amount": 194.45,
+        "vat_percentage": 17.53
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "477 Coleman Valley Mooreborough, RI 15831",
+        "id": "NP528"
+    },
+    "invoice": {
+        "bc_no": "oJ92693",
+        "currency_code": "RSD",
+        "date": "02.09.2022",
+        "due_date": "31.12.1998",
+        "number": 265277
+    },
+    "payment": {
+        "bank_name": "Johnson, Reynolds and Paul",
+        "bic": "FDCIGBQACUA",
+        "iban": "GGCI51846206116137"
+    },
+    "products": [
+        {
+            "amount": 377.34,
+            "description": "grow bricks-and-clicks applications",
+            "index": "6",
+            "price": 210.48,
+            "quantity": 7.95,
+            "tax_amount": 22.6,
+            "total_ttc": 166.08,
+            "vat_amount": 4.23
+        },
+        {
+            "amount": 197.67,
+            "description": "facilitate turn-key experiences",
+            "index": "5",
+            "price": 303.26,
+            "quantity": 9.82,
+            "tax_amount": 81.26,
+            "total_ttc": 109.53,
+            "vat_amount": 6.44
+        }
+    ],
+    "seller": {
+        "name": "Amanda Rosales"
+    },
+    "supplier": {
+        "address": "1020 Amber Lodge South Melissabury, ME 61388",
+        "name": "Dr. Sandra Perez"
+    },
+    "tax": {
+        "amount_excluding_tax": 111.37,
+        "amount_including_tax": 141.77,
+        "tax_amount": 24.31,
+        "total_ht": 154.92,
+        "total_ttc": 107.76
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "61207 Davidson Parkway Apt. 766 Ryanmouth, IA 52242",
+        "business_no": "Ap549",
+        "id": "Fo896"
+    },
+    "invoice": {
+        "date": "17.07.1991",
+        "number": "4044-7136"
+    },
+    "payment": {
+        "due_date": "17.02.2019",
+        "total": 585.25
+    },
+    "products": [
+        {
+            "amount": 446.97,
+            "description": "unleash bleeding-edge channels",
+            "quantity": 9.93,
+            "reference": "jP-197",
+            "unit_price": 42.01
+        },
+        {
+            "amount": 266.08,
+            "description": "disintermediate synergistic channels",
+            "quantity": 4.7,
+            "reference": "lp-022",
+            "unit_price": 37.95
+        },
+        {
+            "amount": 287.1,
+            "description": "harness transparent systems",
+            "quantity": 3.72,
+            "reference": "zp-188",
+            "unit_price": 73.43
+        }
+    ],
+    "seller": {
+        "address": "513 Rosales Flats Lake Gina, KS 56926"
+    },
+    "tax": {
+        "base_ht": 296.83,
+        "regulations": 29.01,
+        "total_ht": 325.25,
+        "vat_amount": 138.45,
+        "vat_percentage": 11.6
+    }
+}

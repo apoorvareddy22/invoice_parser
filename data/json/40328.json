@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "45934 Angie Manor East Jennifer, OR 61997"
+    },
+    "invoice": {
+        "bc_no": "PQ18641",
+        "date": "15.04.2019",
+        "maturity_date": "18.04.1990",
+        "number": 951611
+    },
+    "products": [
+        {
+            "amount": 192.91,
+            "description": "e-enable next-generation info-mediaries",
+            "quantity": 9.69,
+            "unit_price": 73.59,
+            "vat_amount": 7.37
+        },
+        {
+            "amount": 178.71,
+            "description": "optimize one-to-one web services",
+            "quantity": 4.73,
+            "unit_price": 35.27,
+            "vat_amount": 14.22
+        },
+        {
+            "amount": 165.74,
+            "description": "deliver visionary web services",
+            "quantity": 4.1,
+            "unit_price": 48.73,
+            "vat_amount": 1.0
+        },
+        {
+            "amount": 343.13,
+            "description": "expedite out-of-the-box e-commerce",
+            "quantity": 9.19,
+            "unit_price": 57.55,
+            "vat_amount": 0.61
+        }
+    ],
+    "seller": {
+        "address": "Unit 0177 Box 6463 DPO AE 17271"
+    },
+    "tax": {
+        "amount_excluding_tax": 141.61,
+        "amount_including_tax": 24.67,
+        "tax_amount": 25.84
+    }
+}

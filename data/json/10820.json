@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "8479 Moon Avenue Apt. 276 West Kenneth, AK 59603",
+        "email": "johnny26@example.org",
+        "phone": "6528311477",
+        "vat_no": "vj73961685099"
+    },
+    "invoice": {
+        "date": "23.01.2018",
+        "due_date": "24.08.2001",
+        "market_reference": 704266,
+        "notes": "deploy value-added users",
+        "number": "5463-0519",
+        "reference": 525492,
+        "vat_no": "kd49318958022"
+    },
+    "payment": {
+        "net_total": 24.59,
+        "total": 829.12
+    },
+    "products": [
+        {
+            "amount": 332.41,
+            "description": "engineer compelling web services",
+            "hours": 5.69,
+            "rate": 8.67
+        },
+        {
+            "amount": 298.45,
+            "description": "morph 24/7 eyeballs",
+            "hours": 2.28,
+            "rate": 8.04
+        },
+        {
+            "amount": 86.56,
+            "description": "deploy 24/365 initiatives",
+            "hours": 7.17,
+            "rate": 3.62
+        },
+        {
+            "amount": 237.99,
+            "description": "e-enable visionary paradigms",
+            "hours": 8.83,
+            "rate": 1.44
+        }
+    ],
+    "seller": {
+        "address": "33925 Reed Radial Lake Bethany, PR 32272",
+        "email": "andrewrodriguez@example.com",
+        "name": "Christine Cherry"
+    },
+    "tax": {
+        "base": 18.08,
+        "tax_amount": 21.11,
+        "total_tax": 29.29
+    }
+}

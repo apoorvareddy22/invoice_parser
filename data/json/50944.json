@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "2538 Ingram Highway North Eric, MA 16029",
+        "id": "Hh466"
+    },
+    "invoice": {
+        "bc_no": "fx35750",
+        "currency_code": "GMD",
+        "date": "21.07.1998",
+        "due_date": "13.07.1990",
+        "number": 927270
+    },
+    "payment": {
+        "bank_name": "Lopez, Acosta and Baker",
+        "bic": "AEYHGB5IYSK",
+        "iban": "CYTW60893892499863"
+    },
+    "products": [
+        {
+            "amount": 216.29,
+            "description": "re-intermediate distributed platforms",
+            "index": "7",
+            "price": 47.05,
+            "quantity": 5.08,
+            "tax_amount": 53.97,
+            "total_ttc": 115.54,
+            "vat_amount": 3.6
+        }
+    ],
+    "seller": {
+        "name": "Christopher Clark"
+    },
+    "supplier": {
+        "address": "649 Griffin Crest Apt. 724 Robertmouth, NV 04108",
+        "name": "Rachel Lin"
+    },
+    "tax": {
+        "amount_excluding_tax": 35.51,
+        "amount_including_tax": 188.08,
+        "tax_amount": 25.92,
+        "total_ht": 185.19,
+        "total_ttc": 303.4
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "USCGC Clark FPO AE 36637",
+        "business_no": "FU589",
+        "id": "dQ642"
+    },
+    "invoice": {
+        "date": "23.10.1992",
+        "number": "6863-4236"
+    },
+    "payment": {
+        "due_date": "04.10.1998",
+        "total": 378.79
+    },
+    "products": [
+        {
+            "amount": 464.86,
+            "description": "benchmark dot-com e-commerce",
+            "quantity": 8.9,
+            "reference": "gK-307",
+            "unit_price": 93.06
+        },
+        {
+            "amount": 101.87,
+            "description": "unleash robust platforms",
+            "quantity": 5.79,
+            "reference": "sa-606",
+            "unit_price": 26.2
+        },
+        {
+            "amount": 154.64,
+            "description": "deploy integrated systems",
+            "quantity": 7.19,
+            "reference": "Ey-737",
+            "unit_price": 31.99
+        },
+        {
+            "amount": 466.02,
+            "description": "scale viral models",
+            "quantity": 5.44,
+            "reference": "LZ-896",
+            "unit_price": 54.96
+        },
+        {
+            "amount": 60.12,
+            "description": "re-contextualize clicks-and-mortar deliverables",
+            "quantity": 8.66,
+            "reference": "nS-509",
+            "unit_price": 54.04
+        },
+        {
+            "amount": 263.69,
+            "description": "brand web-enabled synergies",
+            "quantity": 9.83,
+            "reference": "ho-545",
+            "unit_price": 12.21
+        }
+    ],
+    "seller": {
+        "address": "23897 Christine Road Suite 187 Tateberg, VT 15587"
+    },
+    "tax": {
+        "base_ht": 141.22,
+        "regulations": 27.86,
+        "total_ht": 315.6,
+        "vat_amount": 34.3,
+        "vat_percentage": 23.52
+    }
+}

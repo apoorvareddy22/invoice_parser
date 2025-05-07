@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "8710 Morgan Courts Suite 787 North Susan, GA 62090",
+        "email": "halldavid@example.org",
+        "phone": "684-753-8945",
+        "vat_no": "Bw25201434852"
+    },
+    "invoice": {
+        "date": "10.08.2011",
+        "due_date": "16.01.1993",
+        "market_reference": 560862,
+        "notes": "optimize revolutionary paradigms",
+        "number": "6815-5451",
+        "reference": 639235,
+        "vat_no": "QE07955228764"
+    },
+    "payment": {
+        "net_total": 34.86,
+        "total": 876.38
+    },
+    "products": [
+        {
+            "amount": 396.61,
+            "description": "innovate real-time interfaces",
+            "hours": 2.69,
+            "rate": 6.69
+        },
+        {
+            "amount": 21.93,
+            "description": "morph wireless supply-chains",
+            "hours": 9.02,
+            "rate": 1.47
+        },
+        {
+            "amount": 136.2,
+            "description": "deploy next-generation solutions",
+            "hours": 8.59,
+            "rate": 3.33
+        },
+        {
+            "amount": 104.43,
+            "description": "optimize B2B e-tailers",
+            "hours": 6.71,
+            "rate": 8.08
+        },
+        {
+            "amount": 406.17,
+            "description": "unleash scalable applications",
+            "hours": 5.55,
+            "rate": 3.77
+        },
+        {
+            "amount": 101.03,
+            "description": "drive enterprise content",
+            "hours": 7.03,
+            "rate": 4.78
+        },
+        {
+            "amount": 170.21,
+            "description": "enhance customized e-business",
+            "hours": 8.77,
+            "rate": 1.44
+        }
+    ],
+    "seller": {
+        "address": "1682 Haley Rue Suite 967 Sherimouth, AZ 92555",
+        "email": "zachary65@example.org",
+        "name": "Jeffrey Stanton"
+    },
+    "tax": {
+        "base": 13.11,
+        "tax_amount": 18.21,
+        "total_tax": 10.36
+    }
+}

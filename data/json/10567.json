@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "258 Williams Walks Dennisfort, NE 92255",
+        "email": "wfuller@example.com",
+        "phone": "371.533.8404x744",
+        "vat_no": "bU58411649751"
+    },
+    "invoice": {
+        "date": "04.02.2012",
+        "due_date": "25.12.2007",
+        "market_reference": 687169,
+        "notes": "envisioneer distributed bandwidth",
+        "number": "9353-7924",
+        "reference": 823638,
+        "vat_no": "Gn57122728838"
+    },
+    "payment": {
+        "net_total": 37.05,
+        "total": 703.16
+    },
+    "products": [
+        {
+            "amount": 395.39,
+            "description": "e-enable wireless synergies",
+            "hours": 7.55,
+            "rate": 3.62
+        }
+    ],
+    "seller": {
+        "address": "3231 Eugene Cliffs Suite 210 West Robert, WY 52409",
+        "email": "lisarandolph@example.org",
+        "name": "Michael Morgan"
+    },
+    "tax": {
+        "base": 15.97,
+        "tax_amount": 11.46,
+        "total_tax": 22.87
+    }
+}

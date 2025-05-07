@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "USCGC Stephens FPO AE 79598"
+    },
+    "invoice": {
+        "bc_no": "Yy07811",
+        "date": "25.03.2019",
+        "maturity_date": "24.11.2012",
+        "number": 157171
+    },
+    "products": [
+        {
+            "amount": 282.76,
+            "description": "mesh real-time content",
+            "quantity": 3.78,
+            "unit_price": 64.21,
+            "vat_amount": 8.52
+        },
+        {
+            "amount": 41.5,
+            "description": "utilize world-class experiences",
+            "quantity": 3.29,
+            "unit_price": 37.15,
+            "vat_amount": 0.89
+        },
+        {
+            "amount": 387.99,
+            "description": "scale compelling users",
+            "quantity": 5.03,
+            "unit_price": 81.47,
+            "vat_amount": 6.27
+        },
+        {
+            "amount": 498.05,
+            "description": "orchestrate rich e-services",
+            "quantity": 3.97,
+            "unit_price": 24.43,
+            "vat_amount": 11.0
+        },
+        {
+            "amount": 260.63,
+            "description": "utilize global e-business",
+            "quantity": 5.77,
+            "unit_price": 39.01,
+            "vat_amount": 10.55
+        },
+        {
+            "amount": 63.19,
+            "description": "leverage global e-commerce",
+            "quantity": 8.95,
+            "unit_price": 54.92,
+            "vat_amount": 17.26
+        }
+    ],
+    "seller": {
+        "address": "97155 Cummings Views South Kathleentown, AL 17362"
+    },
+    "tax": {
+        "amount_excluding_tax": 31.77,
+        "amount_including_tax": 16.7,
+        "tax_amount": 18.55
+    }
+}

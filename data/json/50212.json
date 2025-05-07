@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "PSC 3509, Box 4379 APO AE 28534",
+        "id": "Az551"
+    },
+    "invoice": {
+        "bc_no": "fT32108",
+        "currency_code": "LRD",
+        "date": "14.10.2015",
+        "due_date": "11.11.2008",
+        "number": 234452
+    },
+    "payment": {
+        "bank_name": "House, Castillo and Hansen",
+        "bic": "LTXMGBJKRNC",
+        "iban": "XHFQ36992584217208"
+    },
+    "products": [
+        {
+            "amount": 263.22,
+            "description": "harness bleeding-edge deliverables",
+            "index": "6",
+            "price": 489.49,
+            "quantity": 6.32,
+            "tax_amount": 31.52,
+            "total_ttc": 344.0,
+            "vat_amount": 1.18
+        },
+        {
+            "amount": 213.45,
+            "description": "facilitate back-end deliverables",
+            "index": "5",
+            "price": 220.09,
+            "quantity": 5.42,
+            "tax_amount": 25.67,
+            "total_ttc": 180.58,
+            "vat_amount": 4.48
+        },
+        {
+            "amount": 452.77,
+            "description": "transition ubiquitous action-items",
+            "index": "9",
+            "price": 291.69,
+            "quantity": 1.42,
+            "tax_amount": 52.25,
+            "total_ttc": 447.51,
+            "vat_amount": 4.08
+        },
+        {
+            "amount": 131.82,
+            "description": "morph rich systems",
+            "index": "1",
+            "price": 340.0,
+            "quantity": 9.49,
+            "tax_amount": 98.09,
+            "total_ttc": 264.55,
+            "vat_amount": 4.56
+        },
+        {
+            "amount": 196.93,
+            "description": "architect one-to-one interfaces",
+            "index": "6",
+            "price": 25.77,
+            "quantity": 2.5,
+            "tax_amount": 90.16,
+            "total_ttc": 430.31,
+            "vat_amount": 2.52
+        },
+        {
+            "amount": 153.14,
+            "description": "transition magnetic content",
+            "index": "8",
+            "price": 173.84,
+            "quantity": 1.51,
+            "tax_amount": 57.04,
+            "total_ttc": 293.89,
+            "vat_amount": 3.1
+        },
+        {
+            "amount": 493.36,
+            "description": "streamline value-added web services",
+            "index": "9",
+            "price": 83.35,
+            "quantity": 8.09,
+            "tax_amount": 41.54,
+            "total_ttc": 238.03,
+            "vat_amount": 3.21
+        }
+    ],
+    "seller": {
+        "name": "Cynthia Jones"
+    },
+    "supplier": {
+        "address": "9306 Giles Stream Suite 708 Fordstad, MS 80601",
+        "name": "Johnathan Rivera"
+    },
+    "tax": {
+        "amount_excluding_tax": 103.9,
+        "amount_including_tax": 54.0,
+        "tax_amount": 29.69,
+        "total_ht": 253.04,
+        "total_ttc": 321.13
+    }
+}

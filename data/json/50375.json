@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "352 Kennedy Rapids West Deniseside, IN 41180",
+        "id": "rO595"
+    },
+    "invoice": {
+        "bc_no": "uw87674",
+        "currency_code": "CZK",
+        "date": "05.05.2016",
+        "due_date": "08.06.2009",
+        "number": 813645
+    },
+    "payment": {
+        "bank_name": "Sandoval, Taylor and Miller",
+        "bic": "HTQCGBGGD7V",
+        "iban": "MBPA97785273754031"
+    },
+    "products": [
+        {
+            "amount": 92.9,
+            "description": "whiteboard bricks-and-clicks e-commerce",
+            "index": "10",
+            "price": 203.42,
+            "quantity": 5.21,
+            "tax_amount": 17.25,
+            "total_ttc": 194.98,
+            "vat_amount": 5.48
+        },
+        {
+            "amount": 25.68,
+            "description": "brand sticky bandwidth",
+            "index": "1",
+            "price": 191.99,
+            "quantity": 4.4,
+            "tax_amount": 96.45,
+            "total_ttc": 352.99,
+            "vat_amount": 5.24
+        }
+    ],
+    "seller": {
+        "name": "Ellen Miller"
+    },
+    "supplier": {
+        "address": "1295 Erin Crossroad Apt. 303 Acostahaven, CA 53239",
+        "name": "Kayla Johnston"
+    },
+    "tax": {
+        "amount_excluding_tax": 33.72,
+        "amount_including_tax": 185.97,
+        "tax_amount": 14.82,
+        "total_ht": 494.39,
+        "total_ttc": 243.12
+    }
+}

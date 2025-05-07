@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "88777 Claire Common Bryanberg, WV 68409",
+        "company_name": "Adams LLC",
+        "country": "Liechtenstein",
+        "name": "Ryan Elliott"
+    },
+    "invoice": {
+        "date": "04.08.2015",
+        "number": 398351
+    },
+    "payment": {
+        "discount_amount": 48.23,
+        "discount_percentage": 18.79,
+        "due": 98.77,
+        "sub_total": 37.87,
+        "total": 332.34
+    },
+    "products": [
+        {
+            "description": "scale proactive web-readiness",
+            "index": "8",
+            "quantity": 8.42,
+            "total_price": 668.68,
+            "unit_price": 22.21
+        },
+        {
+            "description": "incentivize user-centric mindshare",
+            "index": "5",
+            "quantity": 4.74,
+            "total_price": 10.55,
+            "unit_price": 36.3
+        }
+    ],
+    "seller": {
+        "address": "683 John Walks Suite 765 Robinsonstad, SD 98287",
+        "company_name": "Mcgee Group",
+        "vat_no": "sn72192995999"
+    }
+}

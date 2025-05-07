@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "Unit 2870 Box 9019 DPO AP 60659",
+        "id": "vF234"
+    },
+    "invoice": {
+        "bc_no": "nv91431",
+        "currency_code": "GNF",
+        "date": "27.12.2018",
+        "due_date": "24.02.1992",
+        "number": 403785
+    },
+    "payment": {
+        "bank_name": "Jones, Lawrence and Cook",
+        "bic": "JVGKGBOQ",
+        "iban": "HCPU26628556900825"
+    },
+    "products": [
+        {
+            "amount": 58.15,
+            "description": "exploit plug-and-play mindshare",
+            "index": "8",
+            "price": 94.41,
+            "quantity": 9.0,
+            "tax_amount": 37.52,
+            "total_ttc": 310.13,
+            "vat_amount": 9.06
+        },
+        {
+            "amount": 273.28,
+            "description": "re-contextualize visionary niches",
+            "index": "5",
+            "price": 58.72,
+            "quantity": 5.32,
+            "tax_amount": 72.73,
+            "total_ttc": 137.42,
+            "vat_amount": 10.43
+        },
+        {
+            "amount": 332.75,
+            "description": "reinvent intuitive solutions",
+            "index": "1",
+            "price": 469.74,
+            "quantity": 2.89,
+            "tax_amount": 40.76,
+            "total_ttc": 301.23,
+            "vat_amount": 0.0
+        }
+    ],
+    "seller": {
+        "name": "Deanna Rodriguez"
+    },
+    "supplier": {
+        "address": "703 Wall Passage Suite 181 North Tammy, VT 58944",
+        "name": "Curtis Mcdonald"
+    },
+    "tax": {
+        "amount_excluding_tax": 96.95,
+        "amount_including_tax": 29.79,
+        "tax_amount": 27.16,
+        "total_ht": 386.78,
+        "total_ttc": 259.63
+    }
+}

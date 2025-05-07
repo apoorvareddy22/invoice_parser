@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "86155 Allison Avenue South Katrina, AZ 75747",
+        "company_name": "Schwartz, Davis and Kim",
+        "email": "garyalexander@example.com",
+        "name": "Shawn Ward",
+        "phone": "273-858-2754x7422"
+    },
+    "invoice": {
+        "date": "12.11.2011",
+        "due_date": "21.09.2023",
+        "number": "woj92362820758"
+    },
+    "payment": {
+        "account_number": 2091358646,
+        "bank_name": "Ellis-Buck",
+        "routing_number": 552968880
+    },
+    "products": [
+        {
+            "amount": 285.87,
+            "description": "engineer interactive eyeballs",
+            "index": "7",
+            "quantity": 2.16,
+            "unit_price": 55.21
+        }
+    ],
+    "seller": {
+        "address": "220 Justin Hills South Laurachester, AK 86826",
+        "company_name": "Ramos Inc",
+        "email": "susan61@example.net"
+    }
+}

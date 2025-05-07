@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "7826 Lin Underpass Suite 753 Taraport, MH 09956",
+        "company_name": "Nguyen Group",
+        "country": "Zambia",
+        "name": "Jennifer Bates"
+    },
+    "invoice": {
+        "date": "21.08.2012",
+        "number": 178761
+    },
+    "payment": {
+        "discount_amount": 16.28,
+        "discount_percentage": 15.88,
+        "due": 182.11,
+        "sub_total": 117.97,
+        "total": 254.31
+    },
+    "products": [
+        {
+            "description": "empower customized technologies",
+            "index": "10",
+            "quantity": 8.0,
+            "total_price": 533.34,
+            "unit_price": 31.54
+        },
+        {
+            "description": "e-enable dot-com schemas",
+            "index": "5",
+            "quantity": 7.45,
+            "total_price": 219.45,
+            "unit_price": 79.9
+        },
+        {
+            "description": "scale open-source communities",
+            "index": "5",
+            "quantity": 3.2,
+            "total_price": 534.1,
+            "unit_price": 82.72
+        },
+        {
+            "description": "maximize collaborative synergies",
+            "index": "1",
+            "quantity": 9.12,
+            "total_price": 996.96,
+            "unit_price": 36.22
+        },
+        {
+            "description": "engage integrated e-business",
+            "index": "5",
+            "quantity": 7.55,
+            "total_price": 461.57,
+            "unit_price": 88.34
+        }
+    ],
+    "seller": {
+        "address": "319 Nicole Oval Suite 387 South Theresa, PA 50189",
+        "company_name": "Martinez LLC",
+        "vat_no": "ZL20821025524"
+    }
+}

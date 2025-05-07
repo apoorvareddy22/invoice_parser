@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "3883 Johnson Isle Suite 941 West Jamestown, MN 68480",
+        "company_name": "Perry, Taylor and Jordan",
+        "country": "Isle of Man",
+        "email": "frose@example.net",
+        "name": "Thomas Stewart",
+        "phone": "6822111889",
+        "vat_no": "SD33027875998"
+    },
+    "invoice": {
+        "date": "29.03.2010",
+        "due_date": "29.08.2022",
+        "linked_invoice": "qC-5261-0436",
+        "notes": "e-enable global models",
+        "number": "tS-4117-9845"
+    },
+    "products": [
+        {
+            "description": "iterate robust e-commerce",
+            "discount_percentage": 17.61,
+            "price": 462.66,
+            "quantity": 6.67,
+            "unit_price": 68.93
+        },
+        {
+            "description": "mesh global partnerships",
+            "discount_percentage": 10.67,
+            "price": 133.07,
+            "quantity": 7.89,
+            "unit_price": 75.05
+        }
+    ],
+    "seller": {
+        "address": "370 Sarah Lights Charlesland, AS 66761",
+        "ape": "8450a",
+        "capital": 92709527,
+        "country": "Latvia",
+        "email": "nicholsoncatherine@example.org",
+        "name": "Cassandra Sullivan",
+        "phone_1": "534-414-1053x3488",
+        "phone_2": "001-212-810-8426x7862",
+        "phone_3": "(289)793-7474x15744",
+        "ref_walk": "syMD1966",
+        "reference": "xR672",
+        "siret": 49933519941405,
+        "vat_no": "oo06193707318",
+        "website": "https://www.rojas-wilson.com/"
+    },
+    "tax": {
+        "amount_0": 12.73,
+        "amount_1": 18.1,
+        "base_0": 12.51,
+        "base_1": 120.89,
+        "total_ht": 165.87,
+        "total_tax": 20.1,
+        "total_ttc": 136.36,
+        "vat_0": 10.83,
+        "vat_1": 28.33
+    }
+}

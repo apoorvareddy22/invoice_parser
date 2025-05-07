@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "46304 Hines Isle Apt. 143 New Bradley, TX 35775",
+        "company_name": "Munoz LLC",
+        "email": "bolsen@example.org",
+        "name": "Scott Cook",
+        "phone": "268.489.4172x29109"
+    },
+    "invoice": {
+        "date": "15.11.2006",
+        "due_date": "22.01.2002",
+        "number": "Xca09148318061"
+    },
+    "payment": {
+        "account_number": 8048010409,
+        "bank_name": "Strickland Group",
+        "routing_number": 415764344
+    },
+    "products": [
+        {
+            "amount": 313.79,
+            "description": "morph bleeding-edge infrastructures",
+            "index": "9",
+            "quantity": 6.84,
+            "unit_price": 87.02
+        },
+        {
+            "amount": 482.12,
+            "description": "unleash robust users",
+            "index": "6",
+            "quantity": 7.48,
+            "unit_price": 54.2
+        },
+        {
+            "amount": 61.83,
+            "description": "seize front-end mindshare",
+            "index": "9",
+            "quantity": 2.7,
+            "unit_price": 84.55
+        },
+        {
+            "amount": 60.89,
+            "description": "e-enable mission-critical applications",
+            "index": "3",
+            "quantity": 5.67,
+            "unit_price": 55.59
+        }
+    ],
+    "seller": {
+        "address": "85832 Hooper Mill Lake Jasonshire, OR 30682",
+        "company_name": "Conley, Kramer and Scott",
+        "email": "jasmineboyd@example.org"
+    }
+}

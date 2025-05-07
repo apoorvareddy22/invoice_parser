@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "543 Chelsea Turnpike Suite 348 West Dylan, WA 22044",
+        "business_no": "bq246",
+        "id": "YF185"
+    },
+    "invoice": {
+        "date": "04.10.2013",
+        "number": "4551-0547"
+    },
+    "payment": {
+        "due_date": "01.02.2023",
+        "total": 383.25
+    },
+    "products": [
+        {
+            "amount": 148.21,
+            "description": "expedite front-end infrastructures",
+            "quantity": 7.86,
+            "reference": "AL-100",
+            "unit_price": 97.69
+        }
+    ],
+    "seller": {
+        "address": "61725 Taylor Passage New Michael, NH 56772"
+    },
+    "tax": {
+        "base_ht": 114.09,
+        "regulations": 20.51,
+        "total_ht": 454.28,
+        "vat_amount": 123.19,
+        "vat_percentage": 17.45
+    }
+}

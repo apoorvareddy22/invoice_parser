@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "8900 Pena Fall East Brandon, MH 17004"
+    },
+    "invoice": {
+        "bc_no": "sO96943",
+        "date": "24.05.1991",
+        "maturity_date": "28.09.2021",
+        "number": 900198
+    },
+    "products": [
+        {
+            "amount": 244.56,
+            "description": "extend sticky e-markets",
+            "quantity": 9.5,
+            "unit_price": 56.3,
+            "vat_amount": 4.26
+        },
+        {
+            "amount": 328.61,
+            "description": "innovate one-to-one systems",
+            "quantity": 9.6,
+            "unit_price": 86.56,
+            "vat_amount": 11.89
+        },
+        {
+            "amount": 450.92,
+            "description": "enhance proactive schemas",
+            "quantity": 3.21,
+            "unit_price": 72.57,
+            "vat_amount": 5.0
+        },
+        {
+            "amount": 58.22,
+            "description": "enable impactful e-commerce",
+            "quantity": 2.9,
+            "unit_price": 67.09,
+            "vat_amount": 1.85
+        },
+        {
+            "amount": 206.36,
+            "description": "repurpose end-to-end architectures",
+            "quantity": 3.84,
+            "unit_price": 83.82,
+            "vat_amount": 0.85
+        }
+    ],
+    "seller": {
+        "address": "548 Ross Knoll Morganside, GU 13190"
+    },
+    "tax": {
+        "amount_excluding_tax": 165.11,
+        "amount_including_tax": 181.31,
+        "tax_amount": 23.2
+    }
+}

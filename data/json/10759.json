@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "60051 Dennis Shoals Apt. 081 Lake David, MD 36285",
+        "email": "jonathanherrera@example.org",
+        "phone": "(272)430-0053x9351",
+        "vat_no": "ZA83959513064"
+    },
+    "invoice": {
+        "date": "06.11.2023",
+        "due_date": "13.05.2000",
+        "market_reference": 442215,
+        "notes": "utilize sticky networks",
+        "number": "0603-8060",
+        "reference": 782421,
+        "vat_no": "LC95051519089"
+    },
+    "payment": {
+        "net_total": 182.47,
+        "total": 655.66
+    },
+    "products": [
+        {
+            "amount": 113.56,
+            "description": "facilitate global networks",
+            "hours": 7.47,
+            "rate": 4.35
+        },
+        {
+            "amount": 316.33,
+            "description": "harness distributed supply-chains",
+            "hours": 3.23,
+            "rate": 5.18
+        }
+    ],
+    "seller": {
+        "address": "4935 Marsh Turnpike Port Melissaland, OK 30230",
+        "email": "joelbanks@example.net",
+        "name": "Lisa Gordon"
+    },
+    "tax": {
+        "base": 21.39,
+        "tax_amount": 14.92,
+        "total_tax": 17.51
+    }
+}

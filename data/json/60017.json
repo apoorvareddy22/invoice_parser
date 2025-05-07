@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "USCGC Schultz FPO AA 44525",
+        "business_no": "CY931",
+        "id": "GS256"
+    },
+    "invoice": {
+        "date": "07.09.2016",
+        "number": "1892-6315"
+    },
+    "payment": {
+        "due_date": "25.11.2004",
+        "total": 440.14
+    },
+    "products": [
+        {
+            "amount": 278.88,
+            "description": "engage viral e-commerce",
+            "quantity": 4.51,
+            "reference": "Sx-777",
+            "unit_price": 76.0
+        }
+    ],
+    "seller": {
+        "address": "14843 Jack Ramp Apt. 280 Lake Warrenfort, CO 72399"
+    },
+    "tax": {
+        "base_ht": 192.31,
+        "regulations": 12.03,
+        "total_ht": 115.52,
+        "vat_amount": 178.63,
+        "vat_percentage": 17.05
+    }
+}

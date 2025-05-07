@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "PSC 7436, Box 8922 APO AP 53321",
+        "business_no": "rt925",
+        "id": "LZ843"
+    },
+    "invoice": {
+        "date": "24.07.2009",
+        "number": "8873-6729"
+    },
+    "payment": {
+        "due_date": "29.08.2018",
+        "total": 837.98
+    },
+    "products": [
+        {
+            "amount": 338.77,
+            "description": "extend front-end ROI",
+            "quantity": 3.02,
+            "reference": "cH-639",
+            "unit_price": 98.91
+        },
+        {
+            "amount": 169.66,
+            "description": "streamline B2C e-business",
+            "quantity": 8.15,
+            "reference": "Na-849",
+            "unit_price": 36.1
+        },
+        {
+            "amount": 402.34,
+            "description": "synergize back-end metrics",
+            "quantity": 4.96,
+            "reference": "MH-799",
+            "unit_price": 51.14
+        }
+    ],
+    "seller": {
+        "address": "78220 Joseph Mission West Kylie, SD 55638"
+    },
+    "tax": {
+        "base_ht": 238.17,
+        "regulations": 14.12,
+        "total_ht": 159.78,
+        "vat_amount": 73.65,
+        "vat_percentage": 26.82
+    }
+}

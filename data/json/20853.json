@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "USS Perez FPO AP 15773",
+        "company_name": "Harris, Payne and Proctor",
+        "email": "leetara@example.com",
+        "name": "Justin Morales",
+        "phone": "377-805-2839"
+    },
+    "invoice": {
+        "date": "22.02.1990",
+        "due_date": "15.05.1992",
+        "number": "MxJ89990619730"
+    },
+    "payment": {
+        "account_number": 7748624051,
+        "bank_name": "Martinez, Lyons and Reed",
+        "routing_number": 867680189
+    },
+    "products": [
+        {
+            "amount": 6.02,
+            "description": "matrix cutting-edge ROI",
+            "index": "9",
+            "quantity": 1.97,
+            "unit_price": 30.13
+        },
+        {
+            "amount": 349.74,
+            "description": "morph innovative ROI",
+            "index": "9",
+            "quantity": 5.93,
+            "unit_price": 33.77
+        },
+        {
+            "amount": 178.68,
+            "description": "transition web-enabled web services",
+            "index": "6",
+            "quantity": 1.44,
+            "unit_price": 28.06
+        }
+    ],
+    "seller": {
+        "address": "069 Miller Rapids Apt. 868 North Wendyport, OH 82899",
+        "company_name": "Lam-Smith",
+        "email": "montesfelicia@example.org"
+    }
+}

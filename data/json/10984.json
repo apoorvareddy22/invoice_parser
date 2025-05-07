@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "753 Phillips Ferry Pooleport, MS 31684",
+        "email": "emily88@example.org",
+        "phone": "001-975-809-1970x504",
+        "vat_no": "fl62629014719"
+    },
+    "invoice": {
+        "date": "15.09.1992",
+        "due_date": "14.10.2005",
+        "market_reference": 390447,
+        "notes": "visualize extensible metrics",
+        "number": "0107-2829",
+        "reference": 323990,
+        "vat_no": "QI17145821744"
+    },
+    "payment": {
+        "net_total": 190.99,
+        "total": 104.07
+    },
+    "products": [
+        {
+            "amount": 218.89,
+            "description": "streamline back-end e-services",
+            "hours": 6.51,
+            "rate": 9.74
+        },
+        {
+            "amount": 498.24,
+            "description": "enable plug-and-play functionalities",
+            "hours": 1.75,
+            "rate": 8.36
+        },
+        {
+            "amount": 460.4,
+            "description": "empower best-of-breed users",
+            "hours": 9.99,
+            "rate": 5.39
+        },
+        {
+            "amount": 14.63,
+            "description": "cultivate robust methodologies",
+            "hours": 4.05,
+            "rate": 5.46
+        }
+    ],
+    "seller": {
+        "address": "Unit 3226 Box 4126 DPO AP 12124",
+        "email": "mclaughlinandrew@example.org",
+        "name": "Aaron Dillon"
+    },
+    "tax": {
+        "base": 14.93,
+        "tax_amount": 24.63,
+        "total_tax": 10.08
+    }
+}

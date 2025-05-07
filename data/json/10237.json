@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "43941 Rhonda Plain West Brooke, DC 90354",
+        "email": "tracy06@example.org",
+        "phone": "854-380-7210",
+        "vat_no": "SP30944578194"
+    },
+    "invoice": {
+        "date": "02.06.2018",
+        "due_date": "08.01.1992",
+        "market_reference": 827093,
+        "notes": "reinvent synergistic eyeballs",
+        "number": "4413-0041",
+        "reference": 381662,
+        "vat_no": "xC96074711095"
+    },
+    "payment": {
+        "net_total": 180.36,
+        "total": 953.05
+    },
+    "products": [
+        {
+            "amount": 394.86,
+            "description": "utilize wireless interfaces",
+            "hours": 7.04,
+            "rate": 8.29
+        },
+        {
+            "amount": 105.32,
+            "description": "incubate magnetic vortals",
+            "hours": 2.22,
+            "rate": 9.16
+        },
+        {
+            "amount": 161.81,
+            "description": "revolutionize rich schemas",
+            "hours": 6.81,
+            "rate": 5.14
+        }
+    ],
+    "seller": {
+        "address": "52192 Cody Valleys Port Ryanberg, GA 62002",
+        "email": "shamilton@example.com",
+        "name": "Shelia Fisher"
+    },
+    "tax": {
+        "base": 20.26,
+        "tax_amount": 16.16,
+        "total_tax": 15.98
+    }
+}

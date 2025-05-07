@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "0061 Mcfarland Lane Suite 582 Troyborough, AZ 18730",
+        "business_no": "wj319",
+        "id": "nu878"
+    },
+    "invoice": {
+        "date": "16.10.1996",
+        "number": "6973-5121"
+    },
+    "payment": {
+        "due_date": "21.07.2022",
+        "total": 434.47
+    },
+    "products": [
+        {
+            "amount": 64.27,
+            "description": "harness synergistic methodologies",
+            "quantity": 1.17,
+            "reference": "qw-388",
+            "unit_price": 82.63
+        }
+    ],
+    "seller": {
+        "address": "122 Michael River East Robertborough, TN 47462"
+    },
+    "tax": {
+        "base_ht": 208.62,
+        "regulations": 26.25,
+        "total_ht": 140.47,
+        "vat_amount": 28.3,
+        "vat_percentage": 20.93
+    }
+}

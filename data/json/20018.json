@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "112 Price Springs Suite 006 Lake Jennifertown, MH 20229",
+        "company_name": "Wilson Inc",
+        "email": "ndougherty@example.com",
+        "name": "Angela Le",
+        "phone": "(540)346-1372x347"
+    },
+    "invoice": {
+        "date": "26.09.2006",
+        "due_date": "11.07.2006",
+        "number": "DPS72099532692"
+    },
+    "payment": {
+        "account_number": 7956331090,
+        "bank_name": "Fuller, Hopkins and Allen",
+        "routing_number": 243359084
+    },
+    "products": [
+        {
+            "amount": 348.83,
+            "description": "facilitate back-end info-mediaries",
+            "index": "8",
+            "quantity": 8.84,
+            "unit_price": 51.68
+        },
+        {
+            "amount": 48.27,
+            "description": "synthesize visionary supply-chains",
+            "index": "1",
+            "quantity": 2.78,
+            "unit_price": 74.78
+        }
+    ],
+    "seller": {
+        "address": "528 Morgan Islands Suite 014 Curtischester, WV 41510",
+        "company_name": "Poole-Thomas",
+        "email": "trankenneth@example.com"
+    }
+}

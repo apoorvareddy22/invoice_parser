@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "6320 David Mall East Rhondaland, TN 35786",
+        "company_name": "Harris-Buchanan",
+        "country": "Northern Mariana Islands",
+        "email": "michael20@example.org",
+        "name": "David Franklin",
+        "phone": "929.483.2834",
+        "vat_no": "lk43821449821"
+    },
+    "invoice": {
+        "date": "28.04.2006",
+        "due_date": "01.03.2012",
+        "linked_invoice": "Dn-1016-1328",
+        "notes": "harness cross-platform e-commerce",
+        "number": "rl-1643-9907"
+    },
+    "products": [
+        {
+            "description": "transition front-end solutions",
+            "discount_percentage": 19.11,
+            "price": 20.95,
+            "quantity": 8.09,
+            "unit_price": 43.79
+        },
+        {
+            "description": "embrace dynamic portals",
+            "discount_percentage": 15.82,
+            "price": 312.66,
+            "quantity": 5.13,
+            "unit_price": 11.89
+        },
+        {
+            "description": "enable web-enabled systems",
+            "discount_percentage": 14.95,
+            "price": 239.2,
+            "quantity": 1.72,
+            "unit_price": 64.38
+        }
+    ],
+    "seller": {
+        "address": "997 Jesus Lakes Suite 678 Davidland, GA 80344",
+        "ape": "9064v",
+        "capital": 49450879,
+        "country": "Bhutan",
+        "email": "vincentchang@example.com",
+        "name": "Jacqueline Olson",
+        "phone_1": "+1-705-982-3733x88213",
+        "phone_2": "001-438-222-6623x7039",
+        "phone_3": "+1-629-820-6253x19908",
+        "ref_walk": "cniG7483",
+        "reference": "UC627",
+        "siret": 47438567256745,
+        "vat_no": "Bp95599301592",
+        "website": "https://www.reed.com/"
+    },
+    "tax": {
+        "amount_0": 14.53,
+        "amount_1": 18.64,
+        "base_0": 21.45,
+        "base_1": 175.66,
+        "total_ht": 436.69,
+        "total_tax": 18.92,
+        "total_ttc": 226.52,
+        "vat_0": 12.54,
+        "vat_1": 12.0
+    }
+}

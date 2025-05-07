@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "PSC 3769, Box 8434 APO AE 18239",
+        "business_no": "SV051",
+        "id": "HV902"
+    },
+    "invoice": {
+        "date": "14.01.1996",
+        "number": "6277-5030"
+    },
+    "payment": {
+        "due_date": "10.01.1991",
+        "total": 997.28
+    },
+    "products": [
+        {
+            "amount": 353.8,
+            "description": "morph vertical models",
+            "quantity": 5.39,
+            "reference": "Qc-519",
+            "unit_price": 16.84
+        },
+        {
+            "amount": 215.98,
+            "description": "integrate bricks-and-clicks synergies",
+            "quantity": 5.5,
+            "reference": "DY-042",
+            "unit_price": 19.08
+        },
+        {
+            "amount": 73.96,
+            "description": "empower cutting-edge web services",
+            "quantity": 6.34,
+            "reference": "hU-015",
+            "unit_price": 58.91
+        },
+        {
+            "amount": 379.02,
+            "description": "seize intuitive initiatives",
+            "quantity": 1.15,
+            "reference": "Tj-983",
+            "unit_price": 95.42
+        }
+    ],
+    "seller": {
+        "address": "72591 Wright Estates Herrerachester, PR 55819"
+    },
+    "tax": {
+        "base_ht": 294.02,
+        "regulations": 16.58,
+        "total_ht": 237.6,
+        "vat_amount": 172.94,
+        "vat_percentage": 20.48
+    }
+}

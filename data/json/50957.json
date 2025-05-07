@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "13945 Alfred Drive Apt. 555 Harrisville, AR 47775",
+        "id": "SP725"
+    },
+    "invoice": {
+        "bc_no": "jo32018",
+        "currency_code": "ZAR",
+        "date": "30.01.2017",
+        "due_date": "13.04.1994",
+        "number": 849584
+    },
+    "payment": {
+        "bank_name": "Myers PLC",
+        "bic": "MPLCGBEE9UQ",
+        "iban": "LZHU30953043615662"
+    },
+    "products": [
+        {
+            "amount": 450.81,
+            "description": "generate impactful experiences",
+            "index": "1",
+            "price": 336.25,
+            "quantity": 6.11,
+            "tax_amount": 75.75,
+            "total_ttc": 398.35,
+            "vat_amount": 0.16
+        },
+        {
+            "amount": 370.97,
+            "description": "drive front-end applications",
+            "index": "2",
+            "price": 347.4,
+            "quantity": 4.56,
+            "tax_amount": 80.23,
+            "total_ttc": 286.61,
+            "vat_amount": 11.07
+        },
+        {
+            "amount": 194.36,
+            "description": "transform bricks-and-clicks relationships",
+            "index": "7",
+            "price": 452.31,
+            "quantity": 6.48,
+            "tax_amount": 45.82,
+            "total_ttc": 244.06,
+            "vat_amount": 0.89
+        }
+    ],
+    "seller": {
+        "name": "Madison Brooks"
+    },
+    "supplier": {
+        "address": "59430 Calderon Land Apt. 665 New Melindaside, KS 63344",
+        "name": "Jason Stewart"
+    },
+    "tax": {
+        "amount_excluding_tax": 177.03,
+        "amount_including_tax": 105.16,
+        "tax_amount": 29.27,
+        "total_ht": 272.34,
+        "total_ttc": 269.26
+    }
+}

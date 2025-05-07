@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "35906 Scott Extensions Andreaport, WY 23759",
+        "business_no": "Ee372",
+        "id": "li105"
+    },
+    "invoice": {
+        "date": "15.01.2002",
+        "number": "7724-8106"
+    },
+    "payment": {
+        "due_date": "12.09.2019",
+        "total": 256.73
+    },
+    "products": [
+        {
+            "amount": 317.39,
+            "description": "target B2B convergence",
+            "quantity": 6.05,
+            "reference": "LI-125",
+            "unit_price": 85.18
+        },
+        {
+            "amount": 340.55,
+            "description": "productize frictionless channels",
+            "quantity": 3.65,
+            "reference": "Iq-123",
+            "unit_price": 70.27
+        },
+        {
+            "amount": 210.44,
+            "description": "evolve dot-com e-services",
+            "quantity": 5.45,
+            "reference": "XR-009",
+            "unit_price": 58.64
+        },
+        {
+            "amount": 59.2,
+            "description": "brand intuitive experiences",
+            "quantity": 4.32,
+            "reference": "mg-018",
+            "unit_price": 66.56
+        },
+        {
+            "amount": 157.14,
+            "description": "whiteboard dynamic experiences",
+            "quantity": 8.23,
+            "reference": "pL-420",
+            "unit_price": 46.51
+        }
+    ],
+    "seller": {
+        "address": "077 Brendan Prairie Suite 625 Lake Renee, KS 88529"
+    },
+    "tax": {
+        "base_ht": 373.74,
+        "regulations": 26.87,
+        "total_ht": 454.13,
+        "vat_amount": 19.47,
+        "vat_percentage": 15.58
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "0544 Miguel Circle Suite 511 Janiceview, MS 22821",
+        "company_name": "Ramirez, Davis and Williams",
+        "email": "smithdonna@example.net",
+        "name": "Bradley Manning",
+        "phone": "001-354-327-2043"
+    },
+    "invoice": {
+        "date": "10.10.2000",
+        "due_date": "16.06.1999",
+        "number": "Zdw14010543958"
+    },
+    "payment": {
+        "account_number": 6640095630,
+        "bank_name": "Carroll Group",
+        "routing_number": 924855049
+    },
+    "products": [
+        {
+            "amount": 108.35,
+            "description": "reinvent killer systems",
+            "index": "2",
+            "quantity": 1.03,
+            "unit_price": 35.0
+        },
+        {
+            "amount": 275.45,
+            "description": "productize end-to-end channels",
+            "index": "1",
+            "quantity": 1.93,
+            "unit_price": 64.0
+        },
+        {
+            "amount": 378.96,
+            "description": "extend extensible info-mediaries",
+            "index": "9",
+            "quantity": 4.82,
+            "unit_price": 43.16
+        },
+        {
+            "amount": 99.99,
+            "description": "exploit best-of-breed models",
+            "index": "8",
+            "quantity": 4.51,
+            "unit_price": 23.47
+        }
+    ],
+    "seller": {
+        "address": "38916 Gibbs Stravenue East John, MO 49152",
+        "company_name": "Hughes-Nguyen",
+        "email": "harrisonkaren@example.org"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "121 Turner Locks Apt. 144 Lake Jack, UT 03387",
+        "company_name": "Reeves-Gomez",
+        "email": "tylerglass@example.com",
+        "name": "Brenda Evans",
+        "phone": "001-258-731-2297"
+    },
+    "invoice": {
+        "date": "27.06.1993",
+        "due_date": "18.05.2020",
+        "number": "mPm78327712804"
+    },
+    "payment": {
+        "account_number": 7831804281,
+        "bank_name": "Anderson Ltd",
+        "routing_number": 194200190
+    },
+    "products": [
+        {
+            "amount": 341.71,
+            "description": "reinvent innovative synergies",
+            "index": "2",
+            "quantity": 3.25,
+            "unit_price": 98.12
+        },
+        {
+            "amount": 129.1,
+            "description": "repurpose e-business convergence",
+            "index": "9",
+            "quantity": 2.71,
+            "unit_price": 31.53
+        },
+        {
+            "amount": 171.57,
+            "description": "envisioneer dot-com e-commerce",
+            "index": "7",
+            "quantity": 9.52,
+            "unit_price": 53.36
+        },
+        {
+            "amount": 18.82,
+            "description": "re-contextualize bricks-and-clicks content",
+            "index": "8",
+            "quantity": 8.38,
+            "unit_price": 73.13
+        },
+        {
+            "amount": 366.25,
+            "description": "integrate web-enabled technologies",
+            "index": "8",
+            "quantity": 3.71,
+            "unit_price": 97.36
+        }
+    ],
+    "seller": {
+        "address": "1310 Jason Isle Jacksonville, NV 73337",
+        "company_name": "Neal, Donovan and Martin",
+        "email": "stephanieholmes@example.com"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "81200 Hayes Stream Apt. 965 Port Samanthabury, MT 12754"
+    },
+    "invoice": {
+        "bc_no": "vx41370",
+        "date": "19.05.1999",
+        "maturity_date": "03.06.2023",
+        "number": 309404
+    },
+    "products": [
+        {
+            "amount": 89.5,
+            "description": "target global bandwidth",
+            "quantity": 4.47,
+            "unit_price": 11.99,
+            "vat_amount": 11.25
+        }
+    ],
+    "seller": {
+        "address": "9449 James Junctions Suite 304 Port Patty, UT 83367"
+    },
+    "tax": {
+        "amount_excluding_tax": 61.12,
+        "amount_including_tax": 102.93,
+        "tax_amount": 15.82
+    }
+}

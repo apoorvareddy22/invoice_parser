@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "28460 Vanessa Lake Edwardsmouth, VT 16150"
+    },
+    "invoice": {
+        "bc_no": "JW22759",
+        "date": "10.10.2015",
+        "maturity_date": "08.11.2018",
+        "number": 160045
+    },
+    "products": [
+        {
+            "amount": 92.66,
+            "description": "empower cutting-edge content",
+            "quantity": 7.35,
+            "unit_price": 91.3,
+            "vat_amount": 6.66
+        },
+        {
+            "amount": 193.72,
+            "description": "cultivate magnetic networks",
+            "quantity": 7.48,
+            "unit_price": 82.95,
+            "vat_amount": 0.06
+        }
+    ],
+    "seller": {
+        "address": "482 Sutton Extensions Tylerburgh, OK 21290"
+    },
+    "tax": {
+        "amount_excluding_tax": 134.32,
+        "amount_including_tax": 35.75,
+        "tax_amount": 15.2
+    }
+}

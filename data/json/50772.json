@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "5478 Emily Loaf Changberg, VI 25995",
+        "id": "et457"
+    },
+    "invoice": {
+        "bc_no": "Xq94053",
+        "currency_code": "HTG",
+        "date": "03.09.2007",
+        "due_date": "26.12.1992",
+        "number": 825429
+    },
+    "payment": {
+        "bank_name": "Torres, Dalton and Larson",
+        "bic": "FJXJGBTT",
+        "iban": "GCVS56558225876144"
+    },
+    "products": [
+        {
+            "amount": 481.78,
+            "description": "drive scalable action-items",
+            "index": "6",
+            "price": 273.45,
+            "quantity": 6.12,
+            "tax_amount": 23.77,
+            "total_ttc": 409.05,
+            "vat_amount": 0.1
+        },
+        {
+            "amount": 451.83,
+            "description": "revolutionize out-of-the-box paradigms",
+            "index": "2",
+            "price": 117.95,
+            "quantity": 7.11,
+            "tax_amount": 73.18,
+            "total_ttc": 409.45,
+            "vat_amount": 11.36
+        },
+        {
+            "amount": 194.71,
+            "description": "seize turn-key networks",
+            "index": "2",
+            "price": 375.79,
+            "quantity": 9.52,
+            "tax_amount": 34.55,
+            "total_ttc": 279.2,
+            "vat_amount": 7.4
+        },
+        {
+            "amount": 27.47,
+            "description": "mesh back-end technologies",
+            "index": "4",
+            "price": 391.91,
+            "quantity": 6.04,
+            "tax_amount": 82.02,
+            "total_ttc": 489.72,
+            "vat_amount": 4.85
+        },
+        {
+            "amount": 322.87,
+            "description": "cultivate interactive partnerships",
+            "index": "8",
+            "price": 438.9,
+            "quantity": 8.58,
+            "tax_amount": 71.81,
+            "total_ttc": 167.67,
+            "vat_amount": 4.85
+        },
+        {
+            "amount": 212.46,
+            "description": "engineer granular e-commerce",
+            "index": "7",
+            "price": 459.78,
+            "quantity": 8.32,
+            "tax_amount": 37.25,
+            "total_ttc": 379.4,
+            "vat_amount": 3.95
+        }
+    ],
+    "seller": {
+        "name": "Jennifer Cook"
+    },
+    "supplier": {
+        "address": "89500 Garza Camp West Ryan, CT 04677",
+        "name": "Abigail Greene"
+    },
+    "tax": {
+        "amount_excluding_tax": 51.23,
+        "amount_including_tax": 69.64,
+        "tax_amount": 29.46,
+        "total_ht": 191.74,
+        "total_ttc": 406.33
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "USS Taylor FPO AA 28634",
+        "company_name": "Erickson, Weaver and Daniels",
+        "email": "annmcmahon@example.net",
+        "name": "Misty Davis",
+        "phone": "+1-747-438-5307x8012"
+    },
+    "invoice": {
+        "date": "18.04.1992",
+        "due_date": "24.11.1991",
+        "number": "ENf13635794059"
+    },
+    "payment": {
+        "account_number": 2241180044,
+        "bank_name": "Diaz and Sons",
+        "routing_number": 519825216
+    },
+    "products": [
+        {
+            "amount": 252.38,
+            "description": "transform collaborative info-mediaries",
+            "index": "2",
+            "quantity": 9.11,
+            "unit_price": 31.79
+        },
+        {
+            "amount": 455.1,
+            "description": "reinvent vertical info-mediaries",
+            "index": "6",
+            "quantity": 5.8,
+            "unit_price": 53.88
+        },
+        {
+            "amount": 462.01,
+            "description": "mesh cross-platform applications",
+            "index": "10",
+            "quantity": 8.44,
+            "unit_price": 59.01
+        },
+        {
+            "amount": 280.15,
+            "description": "leverage world-class portals",
+            "index": "2",
+            "quantity": 5.86,
+            "unit_price": 99.41
+        },
+        {
+            "amount": 445.39,
+            "description": "engage mission-critical relationships",
+            "index": "6",
+            "quantity": 5.26,
+            "unit_price": 18.16
+        }
+    ],
+    "seller": {
+        "address": "0743 Greene Forges South Brittany, TX 37061",
+        "company_name": "Mccann, Marquez and Macdonald",
+        "email": "hmoore@example.com"
+    }
+}

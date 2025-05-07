@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "USNV Flynn FPO AA 02064"
+    },
+    "invoice": {
+        "bc_no": "ax95662",
+        "date": "21.09.2012",
+        "maturity_date": "07.06.2012",
+        "number": 729776
+    },
+    "products": [
+        {
+            "amount": 267.67,
+            "description": "empower B2C initiatives",
+            "quantity": 8.39,
+            "unit_price": 51.95,
+            "vat_amount": 15.38
+        },
+        {
+            "amount": 165.73,
+            "description": "iterate 24/7 communities",
+            "quantity": 2.69,
+            "unit_price": 51.24,
+            "vat_amount": 11.75
+        },
+        {
+            "amount": 44.56,
+            "description": "extend global action-items",
+            "quantity": 9.46,
+            "unit_price": 40.96,
+            "vat_amount": 3.95
+        },
+        {
+            "amount": 458.31,
+            "description": "deploy customized interfaces",
+            "quantity": 4.15,
+            "unit_price": 85.38,
+            "vat_amount": 8.65
+        },
+        {
+            "amount": 18.57,
+            "description": "engineer B2C networks",
+            "quantity": 2.36,
+            "unit_price": 10.42,
+            "vat_amount": 6.4
+        }
+    ],
+    "seller": {
+        "address": "118 King Meadows West Donald, KY 59818"
+    },
+    "tax": {
+        "amount_excluding_tax": 193.17,
+        "amount_including_tax": 126.53,
+        "tax_amount": 13.39
+    }
+}

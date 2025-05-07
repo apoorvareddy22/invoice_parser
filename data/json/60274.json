@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "2297 Sarah Way Suite 624 South Wendymouth, IN 00865",
+        "business_no": "Tz714",
+        "id": "Gj244"
+    },
+    "invoice": {
+        "date": "09.08.1999",
+        "number": "1306-1549"
+    },
+    "payment": {
+        "due_date": "06.10.1993",
+        "total": 785.38
+    },
+    "products": [
+        {
+            "amount": 25.46,
+            "description": "enhance plug-and-play metrics",
+            "quantity": 4.62,
+            "reference": "zy-956",
+            "unit_price": 74.1
+        },
+        {
+            "amount": 325.32,
+            "description": "expedite value-added mindshare",
+            "quantity": 6.28,
+            "reference": "Pv-240",
+            "unit_price": 87.33
+        },
+        {
+            "amount": 476.95,
+            "description": "integrate killer systems",
+            "quantity": 5.39,
+            "reference": "zh-160",
+            "unit_price": 84.71
+        },
+        {
+            "amount": 213.51,
+            "description": "incubate bleeding-edge experiences",
+            "quantity": 8.71,
+            "reference": "hg-214",
+            "unit_price": 99.95
+        }
+    ],
+    "seller": {
+        "address": "93711 Ramos Square Richardstad, KY 18701"
+    },
+    "tax": {
+        "base_ht": 378.56,
+        "regulations": 27.13,
+        "total_ht": 440.54,
+        "vat_amount": 93.22,
+        "vat_percentage": 20.79
+    }
+}

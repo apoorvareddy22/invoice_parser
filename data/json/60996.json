@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "736 Melanie Flats Apt. 567 New Matthew, RI 34681",
+        "business_no": "Ay129",
+        "id": "fM058"
+    },
+    "invoice": {
+        "date": "30.03.2001",
+        "number": "2717-9337"
+    },
+    "payment": {
+        "due_date": "13.03.2017",
+        "total": 276.2
+    },
+    "products": [
+        {
+            "amount": 391.02,
+            "description": "extend end-to-end deliverables",
+            "quantity": 1.75,
+            "reference": "Fi-300",
+            "unit_price": 58.01
+        }
+    ],
+    "seller": {
+        "address": "423 Barnes Rapids Port Marissa, KS 02092"
+    },
+    "tax": {
+        "base_ht": 204.89,
+        "regulations": 10.4,
+        "total_ht": 306.0,
+        "vat_amount": 12.35,
+        "vat_percentage": 24.85
+    }
+}

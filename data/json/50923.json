@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "9195 Tapia Knolls Suite 384 Jaimeport, NV 59137",
+        "id": "wn293"
+    },
+    "invoice": {
+        "bc_no": "Ce94856",
+        "currency_code": "BTN",
+        "date": "25.04.1997",
+        "due_date": "16.01.2019",
+        "number": 837977
+    },
+    "payment": {
+        "bank_name": "Ortiz, Bryant and Nguyen",
+        "bic": "FZFAGB59DL5",
+        "iban": "GCGL74661081856731"
+    },
+    "products": [
+        {
+            "amount": 310.15,
+            "description": "engineer e-business communities",
+            "index": "6",
+            "price": 487.69,
+            "quantity": 4.64,
+            "tax_amount": 21.25,
+            "total_ttc": 273.31,
+            "vat_amount": 4.92
+        },
+        {
+            "amount": 456.98,
+            "description": "reinvent world-class supply-chains",
+            "index": "8",
+            "price": 357.79,
+            "quantity": 8.51,
+            "tax_amount": 72.32,
+            "total_ttc": 438.27,
+            "vat_amount": 3.98
+        },
+        {
+            "amount": 396.62,
+            "description": "embrace open-source portals",
+            "index": "3",
+            "price": 112.9,
+            "quantity": 3.01,
+            "tax_amount": 92.77,
+            "total_ttc": 250.66,
+            "vat_amount": 0.46
+        },
+        {
+            "amount": 17.08,
+            "description": "grow 24/365 metrics",
+            "index": "6",
+            "price": 422.92,
+            "quantity": 2.01,
+            "tax_amount": 37.99,
+            "total_ttc": 389.21,
+            "vat_amount": 11.68
+        }
+    ],
+    "seller": {
+        "name": "Heather Lopez"
+    },
+    "supplier": {
+        "address": "073 Adam Prairie Ericshire, NV 60363",
+        "name": "Amber Hardy"
+    },
+    "tax": {
+        "amount_excluding_tax": 60.83,
+        "amount_including_tax": 148.91,
+        "tax_amount": 26.28,
+        "total_ht": 308.94,
+        "total_ttc": 410.49
+    }
+}

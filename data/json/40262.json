@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "178 Cunningham Mount West Kathleenbury, WV 31554"
+    },
+    "invoice": {
+        "bc_no": "SZ76170",
+        "date": "11.09.1996",
+        "maturity_date": "19.10.2013",
+        "number": 925255
+    },
+    "products": [
+        {
+            "amount": 189.13,
+            "description": "deliver cross-media eyeballs",
+            "quantity": 4.34,
+            "unit_price": 15.53,
+            "vat_amount": 0.19
+        },
+        {
+            "amount": 153.34,
+            "description": "revolutionize virtual convergence",
+            "quantity": 9.67,
+            "unit_price": 89.12,
+            "vat_amount": 8.77
+        },
+        {
+            "amount": 472.54,
+            "description": "architect end-to-end solutions",
+            "quantity": 7.0,
+            "unit_price": 82.35,
+            "vat_amount": 1.37
+        }
+    ],
+    "seller": {
+        "address": "1322 Lyons Valley Apt. 886 Garciabury, GA 51804"
+    },
+    "tax": {
+        "amount_excluding_tax": 109.52,
+        "amount_including_tax": 54.98,
+        "tax_amount": 25.44
+    }
+}

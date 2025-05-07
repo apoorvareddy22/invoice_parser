@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "958 Marcus Street Lake Andreaville, NM 04449",
+        "company_name": "Parsons Group",
+        "country": "Singapore",
+        "name": "Ian Cline"
+    },
+    "invoice": {
+        "date": "25.02.2018",
+        "number": 223861
+    },
+    "payment": {
+        "discount_amount": 16.15,
+        "discount_percentage": 6.5,
+        "due": 124.68,
+        "sub_total": 83.08,
+        "total": 335.02
+    },
+    "products": [
+        {
+            "description": "streamline real-time communities",
+            "index": "8",
+            "quantity": 9.98,
+            "total_price": 58.65,
+            "unit_price": 47.44
+        },
+        {
+            "description": "productize front-end supply-chains",
+            "index": "5",
+            "quantity": 1.48,
+            "total_price": 263.15,
+            "unit_price": 90.09
+        }
+    ],
+    "seller": {
+        "address": "653 Ray Glen Apt. 785 New Marissa, LA 45316",
+        "company_name": "Simmons-Escobar",
+        "vat_no": "nW42191826880"
+    }
+}

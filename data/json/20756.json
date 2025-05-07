@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "932 Jessica Groves Christyshire, IL 34395",
+        "company_name": "Carter, Roberts and Sanchez",
+        "email": "tleblanc@example.org",
+        "name": "Joshua Brown",
+        "phone": "001-630-720-1565x8099"
+    },
+    "invoice": {
+        "date": "09.08.2016",
+        "due_date": "28.02.2020",
+        "number": "smp97316936233"
+    },
+    "payment": {
+        "account_number": 2865950234,
+        "bank_name": "Taylor-Walker",
+        "routing_number": 372963329
+    },
+    "products": [
+        {
+            "amount": 57.86,
+            "description": "deliver efficient web-readiness",
+            "index": "7",
+            "quantity": 5.58,
+            "unit_price": 26.62
+        },
+        {
+            "amount": 55.01,
+            "description": "utilize end-to-end info-mediaries",
+            "index": "6",
+            "quantity": 4.06,
+            "unit_price": 16.93
+        },
+        {
+            "amount": 44.64,
+            "description": "enable visionary portals",
+            "index": "1",
+            "quantity": 1.27,
+            "unit_price": 19.79
+        }
+    ],
+    "seller": {
+        "address": "0676 Brian Station Suite 339 Gonzalezside, FM 37799",
+        "company_name": "Elliott-Tanner",
+        "email": "natashadelgado@example.net"
+    }
+}

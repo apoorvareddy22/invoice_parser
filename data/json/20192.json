@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "637 Becker Island East Kevinfurt, MS 50481",
+        "company_name": "Hicks-Cain",
+        "email": "uyoung@example.net",
+        "name": "Linda Oneill",
+        "phone": "6912901084"
+    },
+    "invoice": {
+        "date": "29.12.2020",
+        "due_date": "25.04.2023",
+        "number": "yso05090912623"
+    },
+    "payment": {
+        "account_number": 1714407811,
+        "bank_name": "Powers LLC",
+        "routing_number": 701104336
+    },
+    "products": [
+        {
+            "amount": 361.89,
+            "description": "drive intuitive web-readiness",
+            "index": "1",
+            "quantity": 5.25,
+            "unit_price": 69.29
+        },
+        {
+            "amount": 106.92,
+            "description": "architect proactive e-markets",
+            "index": "4",
+            "quantity": 1.5,
+            "unit_price": 38.31
+        },
+        {
+            "amount": 42.16,
+            "description": "brand end-to-end deliverables",
+            "index": "3",
+            "quantity": 8.03,
+            "unit_price": 65.99
+        }
+    ],
+    "seller": {
+        "address": "89911 Angela Mountains Suite 930 West Michele, AR 61628",
+        "company_name": "Banks, Valenzuela and Miller",
+        "email": "david62@example.com"
+    }
+}

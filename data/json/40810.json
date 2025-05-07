@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "57559 Watson Brooks Apt. 528 Vincentmouth, AS 38806"
+    },
+    "invoice": {
+        "bc_no": "Vp68230",
+        "date": "05.03.2009",
+        "maturity_date": "04.02.1999",
+        "number": 140187
+    },
+    "products": [
+        {
+            "amount": 450.53,
+            "description": "envisioneer clicks-and-mortar action-items",
+            "quantity": 3.01,
+            "unit_price": 93.26,
+            "vat_amount": 1.07
+        },
+        {
+            "amount": 316.47,
+            "description": "drive web-enabled convergence",
+            "quantity": 4.35,
+            "unit_price": 94.37,
+            "vat_amount": 4.28
+        }
+    ],
+    "seller": {
+        "address": "566 Stephanie Divide North Jessica, PR 45703"
+    },
+    "tax": {
+        "amount_excluding_tax": 55.2,
+        "amount_including_tax": 38.57,
+        "tax_amount": 20.54
+    }
+}

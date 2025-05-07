@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "845 Eric Rapid Suite 754 Rodriguezland, MP 01536",
+        "id": "RW356"
+    },
+    "invoice": {
+        "bc_no": "LC84105",
+        "currency_code": "MMK",
+        "date": "10.12.1993",
+        "due_date": "15.08.2017",
+        "number": 475152
+    },
+    "payment": {
+        "bank_name": "Brown PLC",
+        "bic": "IVAXGBLRTTI",
+        "iban": "ULYU29591306697519"
+    },
+    "products": [
+        {
+            "amount": 187.97,
+            "description": "strategize scalable schemas",
+            "index": "5",
+            "price": 109.63,
+            "quantity": 1.67,
+            "tax_amount": 39.12,
+            "total_ttc": 315.26,
+            "vat_amount": 1.9
+        }
+    ],
+    "seller": {
+        "name": "Kimberly Williams"
+    },
+    "supplier": {
+        "address": "PSC 2040, Box 2469 APO AA 96829",
+        "name": "Victoria Kelly"
+    },
+    "tax": {
+        "amount_excluding_tax": 152.52,
+        "amount_including_tax": 85.41,
+        "tax_amount": 20.3,
+        "total_ht": 153.79,
+        "total_ttc": 227.39
+    }
+}

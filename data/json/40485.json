@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "96465 Washington Village Suite 714 Stevemouth, UT 60994"
+    },
+    "invoice": {
+        "bc_no": "gO55302",
+        "date": "29.01.1993",
+        "maturity_date": "02.07.1995",
+        "number": 142671
+    },
+    "products": [
+        {
+            "amount": 253.9,
+            "description": "empower turn-key schemas",
+            "quantity": 1.91,
+            "unit_price": 63.4,
+            "vat_amount": 4.64
+        },
+        {
+            "amount": 83.36,
+            "description": "scale collaborative eyeballs",
+            "quantity": 2.12,
+            "unit_price": 97.69,
+            "vat_amount": 11.73
+        }
+    ],
+    "seller": {
+        "address": "60454 Jose Garden North Jessicashire, VT 16876"
+    },
+    "tax": {
+        "amount_excluding_tax": 103.09,
+        "amount_including_tax": 60.9,
+        "tax_amount": 19.94
+    }
+}

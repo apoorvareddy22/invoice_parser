@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "97158 Tony Cape Apt. 871 Tanyaside, ID 95647",
+        "id": "vB588"
+    },
+    "invoice": {
+        "bc_no": "Qk27822",
+        "currency_code": "BWP",
+        "date": "19.06.1991",
+        "due_date": "10.01.2004",
+        "number": 828284
+    },
+    "payment": {
+        "bank_name": "Bradley-Giles",
+        "bic": "WALIGBTK",
+        "iban": "GRFB02703945195752"
+    },
+    "products": [
+        {
+            "amount": 20.95,
+            "description": "enhance B2C technologies",
+            "index": "6",
+            "price": 119.91,
+            "quantity": 6.58,
+            "tax_amount": 35.39,
+            "total_ttc": 240.35,
+            "vat_amount": 4.44
+        }
+    ],
+    "seller": {
+        "name": "Melissa Wise"
+    },
+    "supplier": {
+        "address": "141 Jason Estates Chelseyside, OH 26799",
+        "name": "Cynthia Guerrero"
+    },
+    "tax": {
+        "amount_excluding_tax": 75.71,
+        "amount_including_tax": 82.84,
+        "tax_amount": 12.5,
+        "total_ht": 328.59,
+        "total_ttc": 268.76
+    }
+}

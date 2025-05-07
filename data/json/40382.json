@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "1071 Sanders Circle Brianchester, OH 47543"
+    },
+    "invoice": {
+        "bc_no": "mR77317",
+        "date": "18.05.1993",
+        "maturity_date": "10.02.2002",
+        "number": 414554
+    },
+    "products": [
+        {
+            "amount": 39.17,
+            "description": "transform killer systems",
+            "quantity": 3.14,
+            "unit_price": 44.68,
+            "vat_amount": 9.78
+        },
+        {
+            "amount": 409.55,
+            "description": "re-contextualize cross-media applications",
+            "quantity": 1.65,
+            "unit_price": 10.89,
+            "vat_amount": 1.8
+        },
+        {
+            "amount": 227.31,
+            "description": "exploit killer portals",
+            "quantity": 7.3,
+            "unit_price": 94.36,
+            "vat_amount": 11.65
+        },
+        {
+            "amount": 118.27,
+            "description": "reinvent bleeding-edge architectures",
+            "quantity": 7.57,
+            "unit_price": 62.43,
+            "vat_amount": 4.99
+        },
+        {
+            "amount": 25.88,
+            "description": "target distributed ROI",
+            "quantity": 3.74,
+            "unit_price": 97.82,
+            "vat_amount": 5.5
+        }
+    ],
+    "seller": {
+        "address": "683 Brady Manors Rothside, NJ 68966"
+    },
+    "tax": {
+        "amount_excluding_tax": 42.29,
+        "amount_including_tax": 20.91,
+        "tax_amount": 15.62
+    }
+}

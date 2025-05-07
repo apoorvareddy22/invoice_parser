@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "292 John Corners South Joseph, NY 05477",
+        "company_name": "Kelley Ltd",
+        "country": "Liberia",
+        "name": "Mark Brown"
+    },
+    "invoice": {
+        "date": "01.04.1995",
+        "number": 860870
+    },
+    "payment": {
+        "discount_amount": 47.67,
+        "discount_percentage": 5.28,
+        "due": 35.66,
+        "sub_total": 129.24,
+        "total": 628.85
+    },
+    "products": [
+        {
+            "description": "brand frictionless content",
+            "index": "10",
+            "quantity": 4.51,
+            "total_price": 328.3,
+            "unit_price": 23.06
+        },
+        {
+            "description": "matrix real-time infrastructures",
+            "index": "10",
+            "quantity": 1.37,
+            "total_price": 465.28,
+            "unit_price": 51.91
+        }
+    ],
+    "seller": {
+        "address": "964 Taylor Way Suite 199 East Krystalchester, NC 03581",
+        "company_name": "Shannon LLC",
+        "vat_no": "ej62372315903"
+    }
+}

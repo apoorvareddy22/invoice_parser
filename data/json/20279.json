@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "5784 Jennifer Hills Port Robin, CA 41192",
+        "company_name": "Reilly, Petty and Massey",
+        "email": "debbie13@example.org",
+        "name": "Eric Boyer",
+        "phone": "861.839.6496x9570"
+    },
+    "invoice": {
+        "date": "09.10.2013",
+        "due_date": "05.03.2000",
+        "number": "ECM20822525972"
+    },
+    "payment": {
+        "account_number": 8982128589,
+        "bank_name": "Burns Inc",
+        "routing_number": 775657272
+    },
+    "products": [
+        {
+            "amount": 101.21,
+            "description": "harness 24/7 interfaces",
+            "index": "10",
+            "quantity": 7.4,
+            "unit_price": 99.26
+        },
+        {
+            "amount": 476.5,
+            "description": "generate real-time mindshare",
+            "index": "4",
+            "quantity": 3.14,
+            "unit_price": 25.23
+        },
+        {
+            "amount": 434.46,
+            "description": "matrix global metrics",
+            "index": "10",
+            "quantity": 9.01,
+            "unit_price": 70.14
+        },
+        {
+            "amount": 443.37,
+            "description": "engage enterprise portals",
+            "index": "3",
+            "quantity": 6.81,
+            "unit_price": 74.43
+        },
+        {
+            "amount": 428.71,
+            "description": "streamline global functionalities",
+            "index": "4",
+            "quantity": 4.81,
+            "unit_price": 36.52
+        }
+    ],
+    "seller": {
+        "address": "48065 Brian Hollow Apt. 571 Lake Susanmouth, PW 27044",
+        "company_name": "Spears PLC",
+        "email": "opatel@example.org"
+    }
+}

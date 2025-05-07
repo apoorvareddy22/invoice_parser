@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "USS Beltran FPO AP 30361",
+        "company_name": "Foster, Vega and Lyons",
+        "country": "Vietnam",
+        "name": "Mrs. Rachel Smith"
+    },
+    "invoice": {
+        "date": "08.05.2005",
+        "number": 721211
+    },
+    "payment": {
+        "discount_amount": 46.16,
+        "discount_percentage": 13.7,
+        "due": 196.17,
+        "sub_total": 120.13,
+        "total": 201.39
+    },
+    "products": [
+        {
+            "description": "utilize impactful experiences",
+            "index": "8",
+            "quantity": 4.55,
+            "total_price": 567.52,
+            "unit_price": 33.72
+        },
+        {
+            "description": "benchmark global architectures",
+            "index": "1",
+            "quantity": 2.37,
+            "total_price": 440.28,
+            "unit_price": 13.0
+        },
+        {
+            "description": "aggregate synergistic content",
+            "index": "9",
+            "quantity": 7.56,
+            "total_price": 573.6,
+            "unit_price": 37.02
+        },
+        {
+            "description": "exploit frictionless partnerships",
+            "index": "9",
+            "quantity": 9.1,
+            "total_price": 540.49,
+            "unit_price": 70.56
+        },
+        {
+            "description": "maximize viral web-readiness",
+            "index": "1",
+            "quantity": 1.09,
+            "total_price": 288.51,
+            "unit_price": 52.74
+        },
+        {
+            "description": "exploit web-enabled e-tailers",
+            "index": "5",
+            "quantity": 4.81,
+            "total_price": 481.6,
+            "unit_price": 45.24
+        }
+    ],
+    "seller": {
+        "address": "15214 Mark View Heidiborough, MP 29105",
+        "company_name": "Ross and Sons",
+        "vat_no": "HI23651373600"
+    }
+}

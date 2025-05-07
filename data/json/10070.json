@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "30556 Barnes Mountains Apt. 387 Vanessastad, MD 38625",
+        "email": "klewis@example.com",
+        "phone": "607.620.4608",
+        "vat_no": "lI45611139837"
+    },
+    "invoice": {
+        "date": "18.02.2015",
+        "due_date": "03.01.2008",
+        "market_reference": 912748,
+        "notes": "embrace e-business communities",
+        "number": "7140-5351",
+        "reference": 411681,
+        "vat_no": "YT97644348138"
+    },
+    "payment": {
+        "net_total": 70.4,
+        "total": 223.38
+    },
+    "products": [
+        {
+            "amount": 444.84,
+            "description": "iterate holistic niches",
+            "hours": 1.93,
+            "rate": 9.27
+        },
+        {
+            "amount": 62.06,
+            "description": "streamline leading-edge e-services",
+            "hours": 9.56,
+            "rate": 9.49
+        }
+    ],
+    "seller": {
+        "address": "56765 Frank Crest East Shannon, KY 56792",
+        "email": "mitchellheidi@example.org",
+        "name": "Timothy Hill"
+    },
+    "tax": {
+        "base": 24.53,
+        "tax_amount": 16.79,
+        "total_tax": 19.51
+    }
+}

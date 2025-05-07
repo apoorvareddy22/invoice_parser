@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "9510 Jennifer Hollow Apt. 417 New Caleb, PR 97303",
+        "email": "boydstephen@example.com",
+        "phone": "001-385-399-0638x6428",
+        "vat_no": "go94326030607"
+    },
+    "invoice": {
+        "date": "29.11.2009",
+        "due_date": "11.08.2005",
+        "market_reference": 804150,
+        "notes": "enable ubiquitous markets",
+        "number": "2385-5595",
+        "reference": 815942,
+        "vat_no": "bm55732719788"
+    },
+    "payment": {
+        "net_total": 122.21,
+        "total": 529.49
+    },
+    "products": [
+        {
+            "amount": 128.5,
+            "description": "optimize dot-com initiatives",
+            "hours": 3.89,
+            "rate": 2.62
+        },
+        {
+            "amount": 141.51,
+            "description": "implement compelling e-commerce",
+            "hours": 4.04,
+            "rate": 6.72
+        },
+        {
+            "amount": 425.52,
+            "description": "embrace bricks-and-clicks e-tailers",
+            "hours": 1.0,
+            "rate": 1.41
+        },
+        {
+            "amount": 201.09,
+            "description": "engineer value-added infrastructures",
+            "hours": 1.63,
+            "rate": 8.89
+        },
+        {
+            "amount": 341.63,
+            "description": "target B2B interfaces",
+            "hours": 6.18,
+            "rate": 2.78
+        }
+    ],
+    "seller": {
+        "address": "3690 Williams Drive West Debra, GU 42941",
+        "email": "andre04@example.net",
+        "name": "Kathryn Pena"
+    },
+    "tax": {
+        "base": 16.72,
+        "tax_amount": 26.88,
+        "total_tax": 19.64
+    }
+}

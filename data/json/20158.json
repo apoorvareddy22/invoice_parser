@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "5519 Carter Creek North Jeanette, NM 81201",
+        "company_name": "Mcintyre, Cline and Cain",
+        "email": "wcoffey@example.org",
+        "name": "Dr. Eric Pugh PhD",
+        "phone": "(549)889-9670"
+    },
+    "invoice": {
+        "date": "23.11.2019",
+        "due_date": "28.02.1996",
+        "number": "xyX59069552473"
+    },
+    "payment": {
+        "account_number": 1412304994,
+        "bank_name": "Howard, Collins and Carroll",
+        "routing_number": 504429396
+    },
+    "products": [
+        {
+            "amount": 102.41,
+            "description": "unleash value-added interfaces",
+            "index": "7",
+            "quantity": 7.2,
+            "unit_price": 44.11
+        },
+        {
+            "amount": 188.03,
+            "description": "incubate global vortals",
+            "index": "7",
+            "quantity": 2.82,
+            "unit_price": 66.2
+        }
+    ],
+    "seller": {
+        "address": "6528 Gibson Squares New Brandy, TX 29546",
+        "company_name": "Reid-Miller",
+        "email": "robertgonzalez@example.org"
+    }
+}

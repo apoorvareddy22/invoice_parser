@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "39800 Martin Lodge Suite 700 Angelaland, GU 60477",
+        "company_name": "Gonzalez Inc",
+        "email": "xsantos@example.net",
+        "name": "Mr. Peter Sanchez",
+        "phone": "4736571837"
+    },
+    "invoice": {
+        "date": "19.03.1996",
+        "due_date": "13.04.1994",
+        "number": "BAu85994204399"
+    },
+    "payment": {
+        "account_number": 4028008350,
+        "bank_name": "Robertson Inc",
+        "routing_number": 631445045
+    },
+    "products": [
+        {
+            "amount": 318.15,
+            "description": "integrate seamless vortals",
+            "index": "6",
+            "quantity": 4.71,
+            "unit_price": 41.05
+        },
+        {
+            "amount": 125.49,
+            "description": "matrix bleeding-edge interfaces",
+            "index": "5",
+            "quantity": 1.73,
+            "unit_price": 24.16
+        },
+        {
+            "amount": 313.76,
+            "description": "re-contextualize mission-critical e-tailers",
+            "index": "4",
+            "quantity": 1.29,
+            "unit_price": 67.15
+        },
+        {
+            "amount": 424.21,
+            "description": "matrix seamless relationships",
+            "index": "2",
+            "quantity": 3.29,
+            "unit_price": 50.22
+        }
+    ],
+    "seller": {
+        "address": "68372 Yolanda Throughway Apt. 949 Davidchester, PW 70582",
+        "company_name": "Price Inc",
+        "email": "gramos@example.com"
+    }
+}

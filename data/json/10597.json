@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "51186 Jessica Falls Suite 191 New Michael, OK 11263",
+        "email": "jenkinsmelinda@example.net",
+        "phone": "001-675-524-7770",
+        "vat_no": "eu36090721182"
+    },
+    "invoice": {
+        "date": "26.03.2002",
+        "due_date": "27.04.2001",
+        "market_reference": 408674,
+        "notes": "enable robust solutions",
+        "number": "7648-6413",
+        "reference": 542250,
+        "vat_no": "WJ75672313295"
+    },
+    "payment": {
+        "net_total": 62.45,
+        "total": 419.98
+    },
+    "products": [
+        {
+            "amount": 201.71,
+            "description": "harness wireless users",
+            "hours": 1.64,
+            "rate": 5.38
+        },
+        {
+            "amount": 54.01,
+            "description": "whiteboard B2C e-services",
+            "hours": 2.65,
+            "rate": 5.61
+        },
+        {
+            "amount": 111.29,
+            "description": "redefine 24/365 eyeballs",
+            "hours": 6.76,
+            "rate": 1.03
+        },
+        {
+            "amount": 304.59,
+            "description": "incentivize synergistic paradigms",
+            "hours": 6.34,
+            "rate": 7.56
+        },
+        {
+            "amount": 182.82,
+            "description": "orchestrate end-to-end e-markets",
+            "hours": 6.59,
+            "rate": 5.63
+        },
+        {
+            "amount": 165.7,
+            "description": "envisioneer best-of-breed portals",
+            "hours": 8.9,
+            "rate": 3.61
+        }
+    ],
+    "seller": {
+        "address": "780 Brown Causeway Suite 842 East Sarachester, AZ 85229",
+        "email": "ellencox@example.net",
+        "name": "Kevin Davidson"
+    },
+    "tax": {
+        "base": 17.41,
+        "tax_amount": 15.66,
+        "total_tax": 26.93
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "5713 Boyd Vista Apt. 459 Michaelmouth, VA 80626",
+        "id": "aD241"
+    },
+    "invoice": {
+        "bc_no": "Jt93540",
+        "currency_code": "AWG",
+        "date": "24.07.1994",
+        "due_date": "20.12.2004",
+        "number": 935951
+    },
+    "payment": {
+        "bank_name": "Rogers PLC",
+        "bic": "XFGLGBLW",
+        "iban": "VECG59314095502501"
+    },
+    "products": [
+        {
+            "amount": 133.72,
+            "description": "productize 24/365 bandwidth",
+            "index": "3",
+            "price": 183.98,
+            "quantity": 7.21,
+            "tax_amount": 26.34,
+            "total_ttc": 485.01,
+            "vat_amount": 4.18
+        },
+        {
+            "amount": 471.03,
+            "description": "integrate cutting-edge e-markets",
+            "index": "7",
+            "price": 440.59,
+            "quantity": 4.26,
+            "tax_amount": 28.2,
+            "total_ttc": 138.14,
+            "vat_amount": 2.66
+        },
+        {
+            "amount": 186.39,
+            "description": "engage mission-critical paradigms",
+            "index": "7",
+            "price": 122.23,
+            "quantity": 2.51,
+            "tax_amount": 39.07,
+            "total_ttc": 302.65,
+            "vat_amount": 7.73
+        },
+        {
+            "amount": 331.73,
+            "description": "aggregate B2C applications",
+            "index": "1",
+            "price": 87.58,
+            "quantity": 9.17,
+            "tax_amount": 14.86,
+            "total_ttc": 117.7,
+            "vat_amount": 1.7
+        },
+        {
+            "amount": 15.02,
+            "description": "synergize proactive channels",
+            "index": "7",
+            "price": 93.84,
+            "quantity": 1.79,
+            "tax_amount": 63.24,
+            "total_ttc": 243.68,
+            "vat_amount": 10.38
+        }
+    ],
+    "seller": {
+        "name": "Thomas Parsons"
+    },
+    "supplier": {
+        "address": "823 Davis Mountains East Donaldton, WY 75969",
+        "name": "Cynthia Jacobs"
+    },
+    "tax": {
+        "amount_excluding_tax": 170.69,
+        "amount_including_tax": 34.08,
+        "tax_amount": 19.59,
+        "total_ht": 103.58,
+        "total_ttc": 270.29
+    }
+}

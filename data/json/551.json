@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "06559 Meadows Inlet Apt. 286 East Anthonyhaven, CO 63231",
+        "company_name": "Holloway, Hernandez and Duarte",
+        "country": "Malta",
+        "name": "Lisa Vargas"
+    },
+    "invoice": {
+        "date": "13.08.1997",
+        "number": 352819
+    },
+    "payment": {
+        "discount_amount": 24.53,
+        "discount_percentage": 13.68,
+        "due": 197.89,
+        "sub_total": 63.39,
+        "total": 861.26
+    },
+    "products": [
+        {
+            "description": "matrix B2B eyeballs",
+            "index": "3",
+            "quantity": 9.52,
+            "total_price": 978.13,
+            "unit_price": 22.55
+        },
+        {
+            "description": "deploy killer systems",
+            "index": "8",
+            "quantity": 1.61,
+            "total_price": 108.07,
+            "unit_price": 12.54
+        },
+        {
+            "description": "empower dynamic systems",
+            "index": "8",
+            "quantity": 1.8,
+            "total_price": 628.25,
+            "unit_price": 14.27
+        },
+        {
+            "description": "productize ubiquitous convergence",
+            "index": "7",
+            "quantity": 4.2,
+            "total_price": 735.44,
+            "unit_price": 47.67
+        },
+        {
+            "description": "orchestrate web-enabled partnerships",
+            "index": "8",
+            "quantity": 8.89,
+            "total_price": 620.73,
+            "unit_price": 34.18
+        }
+    ],
+    "seller": {
+        "address": "72582 Taylor Squares Apt. 021 Port Dylan, MS 52241",
+        "company_name": "Kim and Sons",
+        "vat_no": "cK30494162743"
+    }
+}

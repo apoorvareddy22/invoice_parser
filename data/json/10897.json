@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "USNV Johnson FPO AE 25831",
+        "email": "shane46@example.org",
+        "phone": "583-679-2951x850",
+        "vat_no": "Du49695296301"
+    },
+    "invoice": {
+        "date": "19.08.1991",
+        "due_date": "24.09.2012",
+        "market_reference": 328467,
+        "notes": "utilize extensible solutions",
+        "number": "2739-6918",
+        "reference": 731045,
+        "vat_no": "oH64531573564"
+    },
+    "payment": {
+        "net_total": 181.92,
+        "total": 931.63
+    },
+    "products": [
+        {
+            "amount": 95.1,
+            "description": "whiteboard dynamic e-markets",
+            "hours": 1.78,
+            "rate": 7.76
+        },
+        {
+            "amount": 391.39,
+            "description": "synthesize enterprise info-mediaries",
+            "hours": 2.26,
+            "rate": 4.18
+        },
+        {
+            "amount": 73.65,
+            "description": "leverage global initiatives",
+            "hours": 1.64,
+            "rate": 5.95
+        },
+        {
+            "amount": 289.89,
+            "description": "revolutionize world-class action-items",
+            "hours": 4.25,
+            "rate": 5.28
+        },
+        {
+            "amount": 171.82,
+            "description": "e-enable transparent channels",
+            "hours": 2.24,
+            "rate": 1.87
+        }
+    ],
+    "seller": {
+        "address": "05421 Arroyo Cliff Apt. 178 Port Gabriel, AK 49333",
+        "email": "winterspamela@example.com",
+        "name": "Nicholas Wagner"
+    },
+    "tax": {
+        "base": 17.84,
+        "tax_amount": 17.1,
+        "total_tax": 23.87
+    }
+}

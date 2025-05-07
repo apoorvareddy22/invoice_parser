@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "775 Julie Shoal Suite 679 Sullivanview, WI 69676",
+        "id": "pq427"
+    },
+    "invoice": {
+        "bc_no": "gb90385",
+        "currency_code": "GMD",
+        "date": "24.04.1991",
+        "due_date": "05.09.2006",
+        "number": 233782
+    },
+    "payment": {
+        "bank_name": "Murray LLC",
+        "bic": "QMSDGBZC",
+        "iban": "YFKS46131846005749"
+    },
+    "products": [
+        {
+            "amount": 197.55,
+            "description": "harness user-centric e-services",
+            "index": "7",
+            "price": 89.94,
+            "quantity": 1.03,
+            "tax_amount": 79.35,
+            "total_ttc": 389.73,
+            "vat_amount": 9.8
+        },
+        {
+            "amount": 82.05,
+            "description": "transform viral metrics",
+            "index": "9",
+            "price": 232.33,
+            "quantity": 6.52,
+            "tax_amount": 98.19,
+            "total_ttc": 255.57,
+            "vat_amount": 15.81
+        }
+    ],
+    "seller": {
+        "name": "Sarah Petersen"
+    },
+    "supplier": {
+        "address": "278 Diane Lock New Darren, SC 21386",
+        "name": "Sean Fischer"
+    },
+    "tax": {
+        "amount_excluding_tax": 163.81,
+        "amount_including_tax": 100.24,
+        "tax_amount": 13.68,
+        "total_ht": 324.51,
+        "total_ttc": 479.34
+    }
+}

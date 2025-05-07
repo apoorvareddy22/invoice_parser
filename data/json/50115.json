@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "63873 Richard Plaza Michaelbury, OH 53678",
+        "id": "Ci959"
+    },
+    "invoice": {
+        "bc_no": "gB78176",
+        "currency_code": "MGA",
+        "date": "03.06.1995",
+        "due_date": "29.07.1995",
+        "number": 791078
+    },
+    "payment": {
+        "bank_name": "James-Silva",
+        "bic": "OJDFGBMETZZ",
+        "iban": "BJMK34176731070042"
+    },
+    "products": [
+        {
+            "amount": 40.76,
+            "description": "deploy sticky niches",
+            "index": "7",
+            "price": 394.03,
+            "quantity": 3.49,
+            "tax_amount": 98.49,
+            "total_ttc": 464.46,
+            "vat_amount": 3.35
+        },
+        {
+            "amount": 328.85,
+            "description": "harness efficient eyeballs",
+            "index": "2",
+            "price": 48.79,
+            "quantity": 7.62,
+            "tax_amount": 56.38,
+            "total_ttc": 258.82,
+            "vat_amount": 4.25
+        },
+        {
+            "amount": 424.25,
+            "description": "unleash frictionless synergies",
+            "index": "7",
+            "price": 366.06,
+            "quantity": 2.55,
+            "tax_amount": 75.78,
+            "total_ttc": 136.77,
+            "vat_amount": 5.28
+        },
+        {
+            "amount": 51.1,
+            "description": "cultivate B2C networks",
+            "index": "4",
+            "price": 214.89,
+            "quantity": 7.96,
+            "tax_amount": 33.9,
+            "total_ttc": 133.15,
+            "vat_amount": 5.61
+        }
+    ],
+    "seller": {
+        "name": "Johnny Jenkins"
+    },
+    "supplier": {
+        "address": "889 Thomas Corner Loriberg, KS 86598",
+        "name": "Jessica Hammond"
+    },
+    "tax": {
+        "amount_excluding_tax": 59.37,
+        "amount_including_tax": 182.49,
+        "tax_amount": 15.02,
+        "total_ht": 302.73,
+        "total_ttc": 366.0
+    }
+}

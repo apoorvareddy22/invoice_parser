@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "9607 Craig Ridges Suite 781 Abbotthaven, RI 74530",
+        "company_name": "Carter Ltd",
+        "email": "quinnbarbara@example.net",
+        "name": "Nicole Watson",
+        "phone": "618.791.0917x4018"
+    },
+    "invoice": {
+        "date": "21.04.2013",
+        "due_date": "21.01.1997",
+        "number": "nFG43416698484"
+    },
+    "payment": {
+        "account_number": 8963222002,
+        "bank_name": "Williams, Thomas and Hall",
+        "routing_number": 560629653
+    },
+    "products": [
+        {
+            "amount": 449.54,
+            "description": "iterate B2B content",
+            "index": "6",
+            "quantity": 9.3,
+            "unit_price": 81.91
+        },
+        {
+            "amount": 87.35,
+            "description": "extend proactive bandwidth",
+            "index": "8",
+            "quantity": 6.9,
+            "unit_price": 32.57
+        },
+        {
+            "amount": 255.88,
+            "description": "extend user-centric systems",
+            "index": "4",
+            "quantity": 2.97,
+            "unit_price": 74.58
+        }
+    ],
+    "seller": {
+        "address": "86711 Melissa Port Aaronmouth, AS 65015",
+        "company_name": "Davis, Carpenter and Watson",
+        "email": "brownemily@example.com"
+    }
+}

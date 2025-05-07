@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "0067 Joseph Park Suite 269 Lake Mariaberg, WV 23756",
+        "id": "TD445"
+    },
+    "invoice": {
+        "bc_no": "pW77246",
+        "currency_code": "DJF",
+        "date": "02.11.2016",
+        "due_date": "15.12.2022",
+        "number": 311983
+    },
+    "payment": {
+        "bank_name": "Harris LLC",
+        "bic": "HOTAGBU8TW6",
+        "iban": "ZTFK88797127763931"
+    },
+    "products": [
+        {
+            "amount": 257.87,
+            "description": "optimize granular e-business",
+            "index": "8",
+            "price": 179.12,
+            "quantity": 2.57,
+            "tax_amount": 48.11,
+            "total_ttc": 253.82,
+            "vat_amount": 2.7
+        },
+        {
+            "amount": 102.98,
+            "description": "exploit killer deliverables",
+            "index": "10",
+            "price": 130.7,
+            "quantity": 8.47,
+            "tax_amount": 30.98,
+            "total_ttc": 109.15,
+            "vat_amount": 2.18
+        },
+        {
+            "amount": 42.02,
+            "description": "drive rich bandwidth",
+            "index": "8",
+            "price": 447.32,
+            "quantity": 3.68,
+            "tax_amount": 92.72,
+            "total_ttc": 372.36,
+            "vat_amount": 3.5
+        },
+        {
+            "amount": 283.11,
+            "description": "benchmark granular markets",
+            "index": "6",
+            "price": 55.81,
+            "quantity": 2.2,
+            "tax_amount": 56.5,
+            "total_ttc": 123.48,
+            "vat_amount": 9.79
+        }
+    ],
+    "seller": {
+        "name": "Jade Parks"
+    },
+    "supplier": {
+        "address": "690 Robertson Branch Suite 661 Jeremiahborough, AR 08917",
+        "name": "Eddie Clay"
+    },
+    "tax": {
+        "amount_excluding_tax": 104.94,
+        "amount_including_tax": 173.36,
+        "tax_amount": 29.24,
+        "total_ht": 414.63,
+        "total_ttc": 144.67
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "316 Johnson Plaza Thomasbury, NC 05462",
+        "business_no": "fX962",
+        "id": "JG051"
+    },
+    "invoice": {
+        "date": "16.05.2018",
+        "number": "6123-8544"
+    },
+    "payment": {
+        "due_date": "08.04.1998",
+        "total": 836.97
+    },
+    "products": [
+        {
+            "amount": 83.72,
+            "description": "synthesize clicks-and-mortar applications",
+            "quantity": 8.86,
+            "reference": "le-816",
+            "unit_price": 34.84
+        }
+    ],
+    "seller": {
+        "address": "5471 Chen Streets Apt. 814 Warrenfurt, LA 26106"
+    },
+    "tax": {
+        "base_ht": 461.61,
+        "regulations": 11.32,
+        "total_ht": 425.71,
+        "vat_amount": 136.46,
+        "vat_percentage": 26.71
+    }
+}

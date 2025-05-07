@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "51447 Pineda Lights Apt. 424 Harriston, DE 82565",
+        "company_name": "Peck-Williams",
+        "country": "Gibraltar",
+        "name": "Lori Green"
+    },
+    "invoice": {
+        "date": "16.04.1995",
+        "number": 427221
+    },
+    "payment": {
+        "discount_amount": 27.64,
+        "discount_percentage": 7.28,
+        "due": 112.67,
+        "sub_total": 56.02,
+        "total": 312.66
+    },
+    "products": [
+        {
+            "description": "cultivate world-class e-commerce",
+            "index": "10",
+            "quantity": 2.18,
+            "total_price": 810.79,
+            "unit_price": 33.03
+        },
+        {
+            "description": "innovate real-time action-items",
+            "index": "4",
+            "quantity": 5.4,
+            "total_price": 33.0,
+            "unit_price": 53.64
+        }
+    ],
+    "seller": {
+        "address": "80821 Daniel Corner Suite 845 North Deborah, KS 68328",
+        "company_name": "Wood Ltd",
+        "vat_no": "xe94822578317"
+    }
+}

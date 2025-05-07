@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "57759 Denise Unions Suite 103 Santiagobury, WV 17949",
+        "email": "briddle@example.com",
+        "phone": "833-526-0754",
+        "vat_no": "Md38569390219"
+    },
+    "invoice": {
+        "date": "14.07.2002",
+        "due_date": "13.05.2011",
+        "market_reference": 826135,
+        "notes": "deploy cutting-edge synergies",
+        "number": "9201-8506",
+        "reference": 809228,
+        "vat_no": "CR03814273329"
+    },
+    "payment": {
+        "net_total": 75.94,
+        "total": 307.02
+    },
+    "products": [
+        {
+            "amount": 77.58,
+            "description": "embrace robust methodologies",
+            "hours": 3.98,
+            "rate": 5.25
+        },
+        {
+            "amount": 327.94,
+            "description": "engage strategic schemas",
+            "hours": 8.19,
+            "rate": 7.01
+        },
+        {
+            "amount": 83.85,
+            "description": "architect cross-media web services",
+            "hours": 6.9,
+            "rate": 2.05
+        },
+        {
+            "amount": 318.57,
+            "description": "orchestrate killer infrastructures",
+            "hours": 4.39,
+            "rate": 8.33
+        }
+    ],
+    "seller": {
+        "address": "94362 Julia Streets Haleyhaven, PR 29315",
+        "email": "rogersholly@example.com",
+        "name": "Susan Brooks"
+    },
+    "tax": {
+        "base": 13.82,
+        "tax_amount": 22.13,
+        "total_tax": 24.14
+    }
+}

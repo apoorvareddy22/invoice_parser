@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "65341 Taylor Camp Apt. 344 Michaelchester, MA 79173",
+        "id": "EZ536"
+    },
+    "invoice": {
+        "bc_no": "Vi85965",
+        "currency_code": "PHP",
+        "date": "29.08.2012",
+        "due_date": "23.04.2004",
+        "number": 962352
+    },
+    "payment": {
+        "bank_name": "Lee, Lindsey and Johnson",
+        "bic": "QMGTGBDH",
+        "iban": "VVSL27637718615903"
+    },
+    "products": [
+        {
+            "amount": 256.13,
+            "description": "innovate world-class niches",
+            "index": "8",
+            "price": 142.39,
+            "quantity": 7.96,
+            "tax_amount": 35.49,
+            "total_ttc": 124.8,
+            "vat_amount": 0.48
+        }
+    ],
+    "seller": {
+        "name": "Robert Baldwin"
+    },
+    "supplier": {
+        "address": "7689 Shaffer Turnpike Apt. 666 Lake Stacy, OK 63491",
+        "name": "Daniel Hayes"
+    },
+    "tax": {
+        "amount_excluding_tax": 32.07,
+        "amount_including_tax": 61.82,
+        "tax_amount": 14.37,
+        "total_ht": 103.7,
+        "total_ttc": 276.75
+    }
+}

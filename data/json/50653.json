@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "214 Nicolas Drive Suite 057 Lake Vincentside, MP 39766",
+        "id": "bA641"
+    },
+    "invoice": {
+        "bc_no": "oI93088",
+        "currency_code": "GTQ",
+        "date": "03.09.1994",
+        "due_date": "30.10.2005",
+        "number": 169885
+    },
+    "payment": {
+        "bank_name": "Jefferson Ltd",
+        "bic": "AHCCGB313MQ",
+        "iban": "THFS54548042912517"
+    },
+    "products": [
+        {
+            "amount": 447.83,
+            "description": "incentivize innovative relationships",
+            "index": "6",
+            "price": 409.33,
+            "quantity": 5.67,
+            "tax_amount": 73.35,
+            "total_ttc": 279.29,
+            "vat_amount": 7.42
+        },
+        {
+            "amount": 218.96,
+            "description": "aggregate scalable e-tailers",
+            "index": "5",
+            "price": 412.27,
+            "quantity": 3.8,
+            "tax_amount": 71.24,
+            "total_ttc": 363.93,
+            "vat_amount": 9.8
+        },
+        {
+            "amount": 275.63,
+            "description": "integrate cross-platform infrastructures",
+            "index": "3",
+            "price": 140.7,
+            "quantity": 2.39,
+            "tax_amount": 38.48,
+            "total_ttc": 134.81,
+            "vat_amount": 0.41
+        },
+        {
+            "amount": 274.51,
+            "description": "orchestrate interactive users",
+            "index": "8",
+            "price": 418.29,
+            "quantity": 4.2,
+            "tax_amount": 94.31,
+            "total_ttc": 115.93,
+            "vat_amount": 13.79
+        }
+    ],
+    "seller": {
+        "name": "Heather Sparks"
+    },
+    "supplier": {
+        "address": "2220 Mitchell Mill Apt. 354 Thomasstad, CO 96977",
+        "name": "Steven Alexander"
+    },
+    "tax": {
+        "amount_excluding_tax": 129.41,
+        "amount_including_tax": 146.09,
+        "tax_amount": 29.96,
+        "total_ht": 133.69,
+        "total_ttc": 154.64
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "47728 Bird Wall Christinaside, CO 98615",
+        "company_name": "Greene, Smith and Warner",
+        "country": "Jordan",
+        "name": "William Willis"
+    },
+    "invoice": {
+        "date": "04.12.2000",
+        "number": 605516
+    },
+    "payment": {
+        "discount_amount": 45.34,
+        "discount_percentage": 13.84,
+        "due": 160.64,
+        "sub_total": 122.79,
+        "total": 693.41
+    },
+    "products": [
+        {
+            "description": "morph wireless solutions",
+            "index": "9",
+            "quantity": 5.97,
+            "total_price": 599.96,
+            "unit_price": 26.09
+        },
+        {
+            "description": "deliver back-end schemas",
+            "index": "5",
+            "quantity": 2.02,
+            "total_price": 644.02,
+            "unit_price": 88.87
+        },
+        {
+            "description": "generate distributed eyeballs",
+            "index": "5",
+            "quantity": 9.26,
+            "total_price": 615.15,
+            "unit_price": 79.82
+        }
+    ],
+    "seller": {
+        "address": "009 Green Fords Apt. 783 West Matthewstad, OR 36734",
+        "company_name": "Moore, Phillips and Simpson",
+        "vat_no": "UQ53302156887"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "2870 Pruitt Rest Apt. 244 Reyesfort, AR 58190",
+        "business_no": "xA138",
+        "id": "ML177"
+    },
+    "invoice": {
+        "date": "17.12.2017",
+        "number": "7039-0077"
+    },
+    "payment": {
+        "due_date": "08.03.1998",
+        "total": 997.97
+    },
+    "products": [
+        {
+            "amount": 344.58,
+            "description": "streamline innovative relationships",
+            "quantity": 4.98,
+            "reference": "zi-957",
+            "unit_price": 11.73
+        },
+        {
+            "amount": 333.96,
+            "description": "transition end-to-end relationships",
+            "quantity": 9.36,
+            "reference": "Ed-247",
+            "unit_price": 36.27
+        }
+    ],
+    "seller": {
+        "address": "33528 Guerrero Rue Suite 306 Michaelhaven, UT 71169"
+    },
+    "tax": {
+        "base_ht": 422.31,
+        "regulations": 22.46,
+        "total_ht": 207.82,
+        "vat_amount": 174.95,
+        "vat_percentage": 13.3
+    }
+}

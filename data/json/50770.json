@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "5178 Shah Camp Jasminemouth, IN 19465",
+        "id": "TY684"
+    },
+    "invoice": {
+        "bc_no": "nq45882",
+        "currency_code": "GGP",
+        "date": "22.03.1991",
+        "due_date": "09.01.2006",
+        "number": 422743
+    },
+    "payment": {
+        "bank_name": "Anderson Group",
+        "bic": "FIWHGBO9",
+        "iban": "ISLK64374623555321"
+    },
+    "products": [
+        {
+            "amount": 89.32,
+            "description": "innovate 24/365 schemas",
+            "index": "1",
+            "price": 441.55,
+            "quantity": 3.52,
+            "tax_amount": 24.41,
+            "total_ttc": 392.87,
+            "vat_amount": 2.68
+        },
+        {
+            "amount": 315.85,
+            "description": "integrate e-business functionalities",
+            "index": "9",
+            "price": 273.79,
+            "quantity": 6.76,
+            "tax_amount": 13.36,
+            "total_ttc": 224.01,
+            "vat_amount": 2.61
+        },
+        {
+            "amount": 146.62,
+            "description": "re-contextualize ubiquitous web services",
+            "index": "7",
+            "price": 433.0,
+            "quantity": 5.59,
+            "tax_amount": 11.32,
+            "total_ttc": 439.71,
+            "vat_amount": 4.3
+        },
+        {
+            "amount": 447.14,
+            "description": "maximize cross-media infrastructures",
+            "index": "6",
+            "price": 127.93,
+            "quantity": 6.61,
+            "tax_amount": 62.59,
+            "total_ttc": 350.74,
+            "vat_amount": 13.08
+        },
+        {
+            "amount": 97.89,
+            "description": "grow dot-com supply-chains",
+            "index": "8",
+            "price": 327.76,
+            "quantity": 2.29,
+            "tax_amount": 46.63,
+            "total_ttc": 297.28,
+            "vat_amount": 1.47
+        }
+    ],
+    "seller": {
+        "name": "Dr. Judith Park"
+    },
+    "supplier": {
+        "address": "588 Walters Mount Apt. 302 South Elizabethhaven, LA 93277",
+        "name": "James Schultz"
+    },
+    "tax": {
+        "amount_excluding_tax": 38.85,
+        "amount_including_tax": 79.52,
+        "tax_amount": 28.27,
+        "total_ht": 168.94,
+        "total_ttc": 339.18
+    }
+}

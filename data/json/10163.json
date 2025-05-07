@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "752 Haney Meadow Apt. 104 Port Karenstad, CT 77440",
+        "email": "wlove@example.net",
+        "phone": "8472404023",
+        "vat_no": "Xk73249014979"
+    },
+    "invoice": {
+        "date": "12.04.2011",
+        "due_date": "15.02.2018",
+        "market_reference": 938770,
+        "notes": "revolutionize real-time markets",
+        "number": "5897-8769",
+        "reference": 595392,
+        "vat_no": "cu09099376465"
+    },
+    "payment": {
+        "net_total": 105.31,
+        "total": 274.65
+    },
+    "products": [
+        {
+            "amount": 178.85,
+            "description": "aggregate viral niches",
+            "hours": 6.82,
+            "rate": 4.96
+        },
+        {
+            "amount": 90.61,
+            "description": "revolutionize distributed niches",
+            "hours": 7.46,
+            "rate": 8.98
+        },
+        {
+            "amount": 262.28,
+            "description": "monetize seamless partnerships",
+            "hours": 6.31,
+            "rate": 6.59
+        }
+    ],
+    "seller": {
+        "address": "807 Newman Cliffs Lake Anthonychester, WI 15500",
+        "email": "kallen@example.com",
+        "name": "Kimberly Palmer"
+    },
+    "tax": {
+        "base": 15.09,
+        "tax_amount": 11.79,
+        "total_tax": 26.97
+    }
+}

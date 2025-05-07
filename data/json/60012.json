@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "PSC 8177, Box 5177 APO AE 84517",
+        "business_no": "bu896",
+        "id": "tK237"
+    },
+    "invoice": {
+        "date": "19.06.2016",
+        "number": "1184-8172"
+    },
+    "payment": {
+        "due_date": "14.03.1992",
+        "total": 500.56
+    },
+    "products": [
+        {
+            "amount": 117.39,
+            "description": "evolve enterprise systems",
+            "quantity": 5.05,
+            "reference": "EX-019",
+            "unit_price": 93.58
+        },
+        {
+            "amount": 320.27,
+            "description": "utilize plug-and-play e-markets",
+            "quantity": 1.0,
+            "reference": "Ut-643",
+            "unit_price": 61.22
+        },
+        {
+            "amount": 458.54,
+            "description": "generate interactive partnerships",
+            "quantity": 3.53,
+            "reference": "dR-047",
+            "unit_price": 91.92
+        },
+        {
+            "amount": 230.13,
+            "description": "re-intermediate extensible e-markets",
+            "quantity": 7.03,
+            "reference": "ca-937",
+            "unit_price": 38.0
+        }
+    ],
+    "seller": {
+        "address": "5855 Dennis Groves Apt. 921 Maciasport, TN 57630"
+    },
+    "tax": {
+        "base_ht": 477.83,
+        "regulations": 22.54,
+        "total_ht": 168.18,
+        "vat_amount": 152.86,
+        "vat_percentage": 12.7
+    }
+}

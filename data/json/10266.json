@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "49461 Vargas Course Lake Janet, MO 85375",
+        "email": "susanjuarez@example.net",
+        "phone": "3486613968",
+        "vat_no": "Ng39948654802"
+    },
+    "invoice": {
+        "date": "29.10.2015",
+        "due_date": "09.09.2020",
+        "market_reference": 945743,
+        "notes": "enable world-class schemas",
+        "number": "5747-1566",
+        "reference": 770019,
+        "vat_no": "ZH09207977474"
+    },
+    "payment": {
+        "net_total": 42.9,
+        "total": 618.69
+    },
+    "products": [
+        {
+            "amount": 81.3,
+            "description": "synthesize B2C markets",
+            "hours": 7.47,
+            "rate": 2.17
+        },
+        {
+            "amount": 432.35,
+            "description": "facilitate open-source convergence",
+            "hours": 8.38,
+            "rate": 7.1
+        },
+        {
+            "amount": 105.23,
+            "description": "harness viral schemas",
+            "hours": 5.17,
+            "rate": 4.97
+        },
+        {
+            "amount": 76.21,
+            "description": "streamline end-to-end systems",
+            "hours": 2.65,
+            "rate": 3.24
+        },
+        {
+            "amount": 6.62,
+            "description": "redefine frictionless convergence",
+            "hours": 4.53,
+            "rate": 6.55
+        },
+        {
+            "amount": 141.61,
+            "description": "implement robust platforms",
+            "hours": 8.43,
+            "rate": 7.19
+        }
+    ],
+    "seller": {
+        "address": "676 Green Plaza Michaelview, AR 08851",
+        "email": "rmartinez@example.net",
+        "name": "David Cooley"
+    },
+    "tax": {
+        "base": 14.45,
+        "tax_amount": 14.99,
+        "total_tax": 11.75
+    }
+}

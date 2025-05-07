@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "9947 Brown Tunnel Ericamouth, TX 23638"
+    },
+    "invoice": {
+        "bc_no": "kk34658",
+        "date": "28.09.1994",
+        "maturity_date": "27.12.2000",
+        "number": 265923
+    },
+    "products": [
+        {
+            "amount": 283.84,
+            "description": "strategize back-end schemas",
+            "quantity": 3.26,
+            "unit_price": 81.5,
+            "vat_amount": 0.28
+        },
+        {
+            "amount": 173.46,
+            "description": "e-enable end-to-end infrastructures",
+            "quantity": 5.78,
+            "unit_price": 47.65,
+            "vat_amount": 0.87
+        },
+        {
+            "amount": 337.27,
+            "description": "monetize sticky markets",
+            "quantity": 9.05,
+            "unit_price": 75.16,
+            "vat_amount": 1.46
+        },
+        {
+            "amount": 113.24,
+            "description": "utilize collaborative experiences",
+            "quantity": 8.32,
+            "unit_price": 75.48,
+            "vat_amount": 8.96
+        }
+    ],
+    "seller": {
+        "address": "29468 Roy Highway Suite 056 Jonesside, AZ 32020"
+    },
+    "tax": {
+        "amount_excluding_tax": 78.78,
+        "amount_including_tax": 50.59,
+        "tax_amount": 19.93
+    }
+}

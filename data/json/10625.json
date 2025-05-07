@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "USS Monroe FPO AE 32126",
+        "email": "timothywong@example.net",
+        "phone": "946.369.4966",
+        "vat_no": "Tr53540523241"
+    },
+    "invoice": {
+        "date": "14.03.2013",
+        "due_date": "27.01.2001",
+        "market_reference": 127626,
+        "notes": "morph B2C solutions",
+        "number": "1126-2295",
+        "reference": 957787,
+        "vat_no": "cC01692321391"
+    },
+    "payment": {
+        "net_total": 114.89,
+        "total": 790.38
+    },
+    "products": [
+        {
+            "amount": 104.59,
+            "description": "revolutionize scalable content",
+            "hours": 8.58,
+            "rate": 8.76
+        },
+        {
+            "amount": 467.44,
+            "description": "revolutionize end-to-end communities",
+            "hours": 5.34,
+            "rate": 1.33
+        },
+        {
+            "amount": 19.16,
+            "description": "innovate clicks-and-mortar mindshare",
+            "hours": 4.55,
+            "rate": 9.89
+        },
+        {
+            "amount": 128.96,
+            "description": "reinvent collaborative networks",
+            "hours": 3.67,
+            "rate": 9.61
+        },
+        {
+            "amount": 347.77,
+            "description": "synergize holistic schemas",
+            "hours": 2.13,
+            "rate": 9.99
+        },
+        {
+            "amount": 343.34,
+            "description": "envisioneer vertical systems",
+            "hours": 1.03,
+            "rate": 9.44
+        }
+    ],
+    "seller": {
+        "address": "USNV Brennan FPO AA 29376",
+        "email": "william51@example.org",
+        "name": "Dillon Romero"
+    },
+    "tax": {
+        "base": 16.3,
+        "tax_amount": 29.42,
+        "total_tax": 21.65
+    }
+}

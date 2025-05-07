@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "85795 Jonathan Coves West Sharonhaven, CT 55220",
+        "email": "karenclark@example.org",
+        "phone": "922-689-3299",
+        "vat_no": "yb85377537874"
+    },
+    "invoice": {
+        "date": "12.03.2020",
+        "due_date": "30.01.2004",
+        "market_reference": 748965,
+        "notes": "maximize clicks-and-mortar web-readiness",
+        "number": "7292-8067",
+        "reference": 904844,
+        "vat_no": "ZZ72948154067"
+    },
+    "payment": {
+        "net_total": 102.14,
+        "total": 357.57
+    },
+    "products": [
+        {
+            "amount": 289.99,
+            "description": "innovate bricks-and-clicks metrics",
+            "hours": 3.85,
+            "rate": 6.04
+        },
+        {
+            "amount": 147.38,
+            "description": "evolve cross-media portals",
+            "hours": 8.2,
+            "rate": 6.33
+        },
+        {
+            "amount": 344.09,
+            "description": "orchestrate real-time infrastructures",
+            "hours": 2.25,
+            "rate": 1.83
+        },
+        {
+            "amount": 201.81,
+            "description": "transition dot-com paradigms",
+            "hours": 2.34,
+            "rate": 9.09
+        },
+        {
+            "amount": 168.61,
+            "description": "revolutionize 24/365 mindshare",
+            "hours": 7.75,
+            "rate": 2.2
+        },
+        {
+            "amount": 429.49,
+            "description": "re-intermediate impactful methodologies",
+            "hours": 9.03,
+            "rate": 4.85
+        }
+    ],
+    "seller": {
+        "address": "076 Lynn Hills Port Jeanne, GU 14643",
+        "email": "umurphy@example.net",
+        "name": "Jennifer Simon"
+    },
+    "tax": {
+        "base": 10.24,
+        "tax_amount": 17.34,
+        "total_tax": 21.46
+    }
+}

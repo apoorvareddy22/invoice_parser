@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "4619 Navarro Viaduct Apt. 803 Johnsonborough, WI 79748",
+        "company_name": "Garcia, Turner and Martin",
+        "email": "paulsmith@example.net",
+        "name": "Nathaniel Lee",
+        "phone": "(562)248-4474"
+    },
+    "invoice": {
+        "date": "12.03.1990",
+        "due_date": "01.05.2022",
+        "number": "ivP67303524159"
+    },
+    "payment": {
+        "account_number": 1883292493,
+        "bank_name": "Morris-Clark",
+        "routing_number": 193114769
+    },
+    "products": [
+        {
+            "amount": 353.46,
+            "description": "visualize customized experiences",
+            "index": "1",
+            "quantity": 8.63,
+            "unit_price": 70.67
+        },
+        {
+            "amount": 297.3,
+            "description": "target customized networks",
+            "index": "7",
+            "quantity": 3.06,
+            "unit_price": 83.32
+        },
+        {
+            "amount": 372.77,
+            "description": "utilize cross-platform portals",
+            "index": "6",
+            "quantity": 9.77,
+            "unit_price": 54.5
+        }
+    ],
+    "seller": {
+        "address": "44533 Christopher Circles Dianaland, MD 58376",
+        "company_name": "Wilson, Cannon and Johnson",
+        "email": "asingleton@example.com"
+    }
+}

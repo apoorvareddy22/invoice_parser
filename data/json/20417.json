@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "23637 Paul Lodge Dawnville, LA 46878",
+        "company_name": "Jones-Mcdonald",
+        "email": "jacksonashley@example.org",
+        "name": "Paul Perry",
+        "phone": "2015568722"
+    },
+    "invoice": {
+        "date": "17.05.2014",
+        "due_date": "13.08.2017",
+        "number": "YtU33074040957"
+    },
+    "payment": {
+        "account_number": 2022268812,
+        "bank_name": "Martin Ltd",
+        "routing_number": 468788230
+    },
+    "products": [
+        {
+            "amount": 359.56,
+            "description": "transform B2C networks",
+            "index": "10",
+            "quantity": 1.16,
+            "unit_price": 54.02
+        },
+        {
+            "amount": 252.78,
+            "description": "target web-enabled channels",
+            "index": "6",
+            "quantity": 1.31,
+            "unit_price": 16.05
+        },
+        {
+            "amount": 393.38,
+            "description": "enhance visionary e-commerce",
+            "index": "7",
+            "quantity": 1.41,
+            "unit_price": 42.31
+        },
+        {
+            "amount": 346.16,
+            "description": "disintermediate bleeding-edge content",
+            "index": "7",
+            "quantity": 5.03,
+            "unit_price": 86.86
+        },
+        {
+            "amount": 282.49,
+            "description": "mesh robust solutions",
+            "index": "10",
+            "quantity": 5.59,
+            "unit_price": 37.44
+        }
+    ],
+    "seller": {
+        "address": "1599 Cabrera Crossroad Suite 289 North Cindyland, GA 50363",
+        "company_name": "Holt-Wiggins",
+        "email": "roy67@example.net"
+    }
+}

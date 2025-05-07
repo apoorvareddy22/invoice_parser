@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "631 Jade Passage Suite 398 East Brendabury, ID 83023",
+        "company_name": "Vaughn Group",
+        "email": "lewisjonathan@example.net",
+        "name": "Debbie Gill",
+        "phone": "+1-855-459-4550x8766"
+    },
+    "invoice": {
+        "date": "04.04.2008",
+        "due_date": "23.10.2013",
+        "number": "TLm87074004264"
+    },
+    "payment": {
+        "account_number": 3349252616,
+        "bank_name": "Parker Inc",
+        "routing_number": 624028823
+    },
+    "products": [
+        {
+            "amount": 443.32,
+            "description": "integrate clicks-and-mortar convergence",
+            "index": "1",
+            "quantity": 3.06,
+            "unit_price": 73.22
+        },
+        {
+            "amount": 320.11,
+            "description": "re-intermediate cross-platform content",
+            "index": "10",
+            "quantity": 4.11,
+            "unit_price": 15.08
+        },
+        {
+            "amount": 63.67,
+            "description": "visualize innovative e-commerce",
+            "index": "3",
+            "quantity": 5.07,
+            "unit_price": 40.36
+        }
+    ],
+    "seller": {
+        "address": "18540 Thompson Place Mullenbury, WA 27935",
+        "company_name": "Hopkins-Lang",
+        "email": "kenneth35@example.net"
+    }
+}

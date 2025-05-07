@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "09739 Chavez Lock Rachelchester, WY 67639",
+        "id": "av253"
+    },
+    "invoice": {
+        "bc_no": "qF75014",
+        "currency_code": "AED",
+        "date": "12.09.1994",
+        "due_date": "04.11.2001",
+        "number": 907514
+    },
+    "payment": {
+        "bank_name": "Hutchinson and Sons",
+        "bic": "IQEFGB47",
+        "iban": "TSJB93886407524912"
+    },
+    "products": [
+        {
+            "amount": 213.98,
+            "description": "drive scalable architectures",
+            "index": "3",
+            "price": 455.4,
+            "quantity": 5.61,
+            "tax_amount": 56.7,
+            "total_ttc": 338.07,
+            "vat_amount": 2.72
+        },
+        {
+            "amount": 336.05,
+            "description": "repurpose killer web services",
+            "index": "7",
+            "price": 151.6,
+            "quantity": 1.47,
+            "tax_amount": 55.1,
+            "total_ttc": 283.03,
+            "vat_amount": 2.03
+        },
+        {
+            "amount": 86.24,
+            "description": "matrix rich schemas",
+            "index": "9",
+            "price": 184.43,
+            "quantity": 6.41,
+            "tax_amount": 86.44,
+            "total_ttc": 104.8,
+            "vat_amount": 13.62
+        },
+        {
+            "amount": 88.46,
+            "description": "re-intermediate value-added infrastructures",
+            "index": "3",
+            "price": 401.85,
+            "quantity": 7.96,
+            "tax_amount": 82.17,
+            "total_ttc": 292.99,
+            "vat_amount": 14.32
+        },
+        {
+            "amount": 31.35,
+            "description": "architect distributed eyeballs",
+            "index": "7",
+            "price": 10.46,
+            "quantity": 6.26,
+            "tax_amount": 88.71,
+            "total_ttc": 434.92,
+            "vat_amount": 12.73
+        }
+    ],
+    "seller": {
+        "name": "James Garrett"
+    },
+    "supplier": {
+        "address": "48549 Yvonne Ranch Delacruzmouth, DC 55317",
+        "name": "Lynn Bowen"
+    },
+    "tax": {
+        "amount_excluding_tax": 92.02,
+        "amount_including_tax": 79.81,
+        "tax_amount": 11.8,
+        "total_ht": 186.01,
+        "total_ttc": 352.71
+    }
+}

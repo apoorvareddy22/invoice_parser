@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "95737 Simpson Ramp Apt. 515 Jamestown, AZ 11883"
+    },
+    "invoice": {
+        "bc_no": "UO95126",
+        "date": "24.04.1999",
+        "maturity_date": "21.05.2022",
+        "number": 665297
+    },
+    "products": [
+        {
+            "amount": 413.31,
+            "description": "benchmark one-to-one e-markets",
+            "quantity": 4.7,
+            "unit_price": 62.66,
+            "vat_amount": 14.01
+        },
+        {
+            "amount": 195.27,
+            "description": "deliver clicks-and-mortar portals",
+            "quantity": 9.94,
+            "unit_price": 54.61,
+            "vat_amount": 5.94
+        },
+        {
+            "amount": 393.06,
+            "description": "unleash leading-edge bandwidth",
+            "quantity": 6.61,
+            "unit_price": 84.03,
+            "vat_amount": 10.15
+        }
+    ],
+    "seller": {
+        "address": "6857 Joseph Lodge West Jill, AS 76070"
+    },
+    "tax": {
+        "amount_excluding_tax": 96.92,
+        "amount_including_tax": 25.17,
+        "tax_amount": 26.36
+    }
+}

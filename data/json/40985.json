@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "07412 Jones Creek Susanville, MI 72364"
+    },
+    "invoice": {
+        "bc_no": "Dh63972",
+        "date": "08.06.1997",
+        "maturity_date": "29.05.2014",
+        "number": 619272
+    },
+    "products": [
+        {
+            "amount": 315.02,
+            "description": "innovate B2C e-business",
+            "quantity": 1.59,
+            "unit_price": 71.02,
+            "vat_amount": 1.16
+        },
+        {
+            "amount": 70.93,
+            "description": "empower synergistic vortals",
+            "quantity": 2.1,
+            "unit_price": 77.72,
+            "vat_amount": 1.39
+        },
+        {
+            "amount": 428.03,
+            "description": "maximize collaborative communities",
+            "quantity": 5.94,
+            "unit_price": 13.58,
+            "vat_amount": 6.16
+        }
+    ],
+    "seller": {
+        "address": "9171 Boyd Orchard Lake Julieside, NE 52625"
+    },
+    "tax": {
+        "amount_excluding_tax": 165.12,
+        "amount_including_tax": 49.63,
+        "tax_amount": 13.35
+    }
+}

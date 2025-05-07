@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "2976 Kelly Dale Apt. 559 Heatherhaven, CA 69012",
+        "id": "PH760"
+    },
+    "invoice": {
+        "bc_no": "IK17340",
+        "currency_code": "CVE",
+        "date": "17.11.2001",
+        "due_date": "10.10.2019",
+        "number": 232250
+    },
+    "payment": {
+        "bank_name": "Guerrero PLC",
+        "bic": "BGKNGB5D",
+        "iban": "GDEP10243083926015"
+    },
+    "products": [
+        {
+            "amount": 106.28,
+            "description": "unleash sticky interfaces",
+            "index": "4",
+            "price": 498.39,
+            "quantity": 8.84,
+            "tax_amount": 32.02,
+            "total_ttc": 436.16,
+            "vat_amount": 5.7
+        },
+        {
+            "amount": 360.05,
+            "description": "deliver mission-critical schemas",
+            "index": "9",
+            "price": 274.11,
+            "quantity": 7.87,
+            "tax_amount": 39.0,
+            "total_ttc": 336.04,
+            "vat_amount": 8.94
+        },
+        {
+            "amount": 354.34,
+            "description": "exploit user-centric relationships",
+            "index": "6",
+            "price": 422.89,
+            "quantity": 6.93,
+            "tax_amount": 48.55,
+            "total_ttc": 274.49,
+            "vat_amount": 3.43
+        },
+        {
+            "amount": 273.25,
+            "description": "cultivate dot-com ROI",
+            "index": "5",
+            "price": 348.0,
+            "quantity": 9.17,
+            "tax_amount": 24.4,
+            "total_ttc": 302.67,
+            "vat_amount": 0.79
+        },
+        {
+            "amount": 303.44,
+            "description": "matrix sticky functionalities",
+            "index": "10",
+            "price": 234.07,
+            "quantity": 7.85,
+            "tax_amount": 50.81,
+            "total_ttc": 163.91,
+            "vat_amount": 1.04
+        },
+        {
+            "amount": 107.79,
+            "description": "harness value-added e-tailers",
+            "index": "6",
+            "price": 52.89,
+            "quantity": 1.44,
+            "tax_amount": 12.43,
+            "total_ttc": 166.69,
+            "vat_amount": 11.46
+        },
+        {
+            "amount": 134.61,
+            "description": "implement sticky methodologies",
+            "index": "6",
+            "price": 165.23,
+            "quantity": 3.3,
+            "tax_amount": 78.02,
+            "total_ttc": 135.02,
+            "vat_amount": 3.29
+        }
+    ],
+    "seller": {
+        "name": "Joseph Bean"
+    },
+    "supplier": {
+        "address": "6238 Ramirez Rapid East Elizabethton, ID 97051",
+        "name": "Matthew Spencer"
+    },
+    "tax": {
+        "amount_excluding_tax": 147.33,
+        "amount_including_tax": 34.2,
+        "tax_amount": 18.09,
+        "total_ht": 284.96,
+        "total_ttc": 297.64
+    }
+}

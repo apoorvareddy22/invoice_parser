@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "USS Macdonald FPO AA 32007",
+        "company_name": "Garcia and Sons",
+        "country": "Uruguay",
+        "email": "tgonzalez@example.net",
+        "name": "Julie Holmes",
+        "phone": "001-285-681-0478x2179",
+        "vat_no": "wl57326129286"
+    },
+    "invoice": {
+        "date": "30.01.1999",
+        "due_date": "23.08.2008",
+        "linked_invoice": "OJ-8652-4390",
+        "notes": "utilize open-source paradigms",
+        "number": "Gn-5733-9234"
+    },
+    "products": [
+        {
+            "description": "deliver cross-media infrastructures",
+            "discount_percentage": 6.02,
+            "price": 65.33,
+            "quantity": 6.27,
+            "unit_price": 82.78
+        }
+    ],
+    "seller": {
+        "address": "01938 Sean Pike West Troy, SC 20681",
+        "ape": "3994r",
+        "capital": 91728581,
+        "country": "Denmark",
+        "email": "janice11@example.com",
+        "name": "Gregory Boyd",
+        "phone_1": "889-389-1605",
+        "phone_2": "9948200913",
+        "phone_3": "(874)836-6648",
+        "ref_walk": "rcAg1034",
+        "reference": "ng456",
+        "siret": 76064401773586,
+        "vat_no": "qv15621745878",
+        "website": "https://www.ramirez.net/"
+    },
+    "tax": {
+        "amount_0": 15.38,
+        "amount_1": 13.48,
+        "base_0": 24.04,
+        "base_1": 273.1,
+        "total_ht": 366.94,
+        "total_tax": 28.82,
+        "total_ttc": 309.45,
+        "vat_0": 23.91,
+        "vat_1": 23.77
+    }
+}

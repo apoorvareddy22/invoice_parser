@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "26523 Stewart Junctions Port Zachary, KS 91163",
+        "company_name": "Anderson, Miller and Medina",
+        "email": "stephanie36@example.com",
+        "name": "Aaron Williams",
+        "phone": "430.523.9427"
+    },
+    "invoice": {
+        "date": "09.12.2016",
+        "due_date": "25.05.2016",
+        "number": "cur67531334070"
+    },
+    "payment": {
+        "account_number": 7277681275,
+        "bank_name": "Farmer-Nash",
+        "routing_number": 944602597
+    },
+    "products": [
+        {
+            "amount": 157.09,
+            "description": "synthesize leading-edge technologies",
+            "index": "8",
+            "quantity": 2.03,
+            "unit_price": 88.14
+        },
+        {
+            "amount": 392.83,
+            "description": "syndicate clicks-and-mortar schemas",
+            "index": "6",
+            "quantity": 7.99,
+            "unit_price": 58.19
+        },
+        {
+            "amount": 82.82,
+            "description": "integrate holistic infrastructures",
+            "index": "1",
+            "quantity": 2.19,
+            "unit_price": 66.52
+        },
+        {
+            "amount": 163.71,
+            "description": "engage seamless models",
+            "index": "9",
+            "quantity": 7.53,
+            "unit_price": 13.22
+        }
+    ],
+    "seller": {
+        "address": "75575 Crawford Plaza South Michaelmouth, MD 39986",
+        "company_name": "Gentry, Adams and Thompson",
+        "email": "lmoreno@example.org"
+    }
+}

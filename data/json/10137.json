@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "890 Amber Pine West Amberborough, DC 05182",
+        "email": "timothygreene@example.org",
+        "phone": "577.664.5343",
+        "vat_no": "Le14095724988"
+    },
+    "invoice": {
+        "date": "05.11.2021",
+        "due_date": "02.01.1998",
+        "market_reference": 484776,
+        "notes": "repurpose leading-edge channels",
+        "number": "3809-6590",
+        "reference": 744474,
+        "vat_no": "PK87730033631"
+    },
+    "payment": {
+        "net_total": 61.24,
+        "total": 481.12
+    },
+    "products": [
+        {
+            "amount": 212.69,
+            "description": "integrate holistic schemas",
+            "hours": 1.16,
+            "rate": 3.9
+        },
+        {
+            "amount": 10.74,
+            "description": "architect real-time metrics",
+            "hours": 9.29,
+            "rate": 2.59
+        }
+    ],
+    "seller": {
+        "address": "PSC 8240, Box 3005 APO AA 94822",
+        "email": "vhicks@example.org",
+        "name": "Kathy Key"
+    },
+    "tax": {
+        "base": 24.82,
+        "tax_amount": 29.67,
+        "total_tax": 27.97
+    }
+}

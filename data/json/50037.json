@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "129 Copeland Forest Apt. 422 Jimenezhaven, MP 58628",
+        "id": "Jo150"
+    },
+    "invoice": {
+        "bc_no": "US10519",
+        "currency_code": "LBP",
+        "date": "25.03.1990",
+        "due_date": "26.05.2014",
+        "number": 802256
+    },
+    "payment": {
+        "bank_name": "Austin-Jones",
+        "bic": "TOOMGB4A",
+        "iban": "QQDY44397483789799"
+    },
+    "products": [
+        {
+            "amount": 66.71,
+            "description": "syndicate value-added supply-chains",
+            "index": "6",
+            "price": 364.26,
+            "quantity": 1.95,
+            "tax_amount": 57.48,
+            "total_ttc": 417.94,
+            "vat_amount": 6.25
+        },
+        {
+            "amount": 340.46,
+            "description": "innovate strategic niches",
+            "index": "4",
+            "price": 437.07,
+            "quantity": 1.76,
+            "tax_amount": 31.95,
+            "total_ttc": 255.89,
+            "vat_amount": 0.5
+        }
+    ],
+    "seller": {
+        "name": "Mr. Chad Chambers PhD"
+    },
+    "supplier": {
+        "address": "1617 Courtney Squares Suite 437 Mullinsmouth, FL 36401",
+        "name": "Kyle Payne"
+    },
+    "tax": {
+        "amount_excluding_tax": 62.41,
+        "amount_including_tax": 17.13,
+        "tax_amount": 16.41,
+        "total_ht": 392.79,
+        "total_ttc": 275.42
+    }
+}

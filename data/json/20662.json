@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "6714 Linda Rapids Suite 745 Watsonberg, RI 78998",
+        "company_name": "Mcgee, Hernandez and Graham",
+        "email": "morganhill@example.org",
+        "name": "Susan Mejia",
+        "phone": "959.268.7036x8822"
+    },
+    "invoice": {
+        "date": "24.04.1994",
+        "due_date": "07.11.1990",
+        "number": "Yvd46776113475"
+    },
+    "payment": {
+        "account_number": 5513104249,
+        "bank_name": "Adams-Hicks",
+        "routing_number": 179216780
+    },
+    "products": [
+        {
+            "amount": 29.6,
+            "description": "target turn-key web services",
+            "index": "1",
+            "quantity": 9.26,
+            "unit_price": 26.08
+        },
+        {
+            "amount": 80.94,
+            "description": "synthesize front-end functionalities",
+            "index": "9",
+            "quantity": 2.02,
+            "unit_price": 44.69
+        },
+        {
+            "amount": 109.74,
+            "description": "innovate dot-com applications",
+            "index": "6",
+            "quantity": 2.0,
+            "unit_price": 48.0
+        }
+    ],
+    "seller": {
+        "address": "555 Roberts Points Lake Elizabethstad, NM 17631",
+        "company_name": "Savage and Sons",
+        "email": "alexandramcdowell@example.net"
+    }
+}

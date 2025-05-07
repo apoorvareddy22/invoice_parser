@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "061 Lori Viaduct Apt. 161 East Heatherborough, MP 81995",
+        "email": "adavis@example.org",
+        "phone": "001-411-733-2257",
+        "vat_no": "Df40894890955"
+    },
+    "invoice": {
+        "date": "31.03.2008",
+        "due_date": "22.11.2021",
+        "market_reference": 938489,
+        "notes": "reinvent dot-com content",
+        "number": "0948-2637",
+        "reference": 857256,
+        "vat_no": "JB09401478282"
+    },
+    "payment": {
+        "net_total": 183.34,
+        "total": 170.63
+    },
+    "products": [
+        {
+            "amount": 139.9,
+            "description": "implement next-generation content",
+            "hours": 9.65,
+            "rate": 5.48
+        },
+        {
+            "amount": 135.96,
+            "description": "optimize open-source vortals",
+            "hours": 7.36,
+            "rate": 2.74
+        },
+        {
+            "amount": 261.81,
+            "description": "incentivize transparent eyeballs",
+            "hours": 6.08,
+            "rate": 1.13
+        },
+        {
+            "amount": 245.28,
+            "description": "monetize out-of-the-box partnerships",
+            "hours": 8.14,
+            "rate": 3.67
+        },
+        {
+            "amount": 489.34,
+            "description": "monetize 24/365 systems",
+            "hours": 4.58,
+            "rate": 6.18
+        },
+        {
+            "amount": 174.18,
+            "description": "streamline one-to-one markets",
+            "hours": 5.24,
+            "rate": 2.97
+        }
+    ],
+    "seller": {
+        "address": "54302 Olivia Brook New Terrence, PR 28405",
+        "email": "jeffreydixon@example.org",
+        "name": "Katie Bowers"
+    },
+    "tax": {
+        "base": 16.13,
+        "tax_amount": 19.66,
+        "total_tax": 27.93
+    }
+}

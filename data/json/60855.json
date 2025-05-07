@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "8317 Jones Coves Cherylstad, NC 71321",
+        "business_no": "eZ853",
+        "id": "Cc645"
+    },
+    "invoice": {
+        "date": "04.02.2021",
+        "number": "3682-2156"
+    },
+    "payment": {
+        "due_date": "18.03.2020",
+        "total": 462.73
+    },
+    "products": [
+        {
+            "amount": 491.11,
+            "description": "streamline front-end synergies",
+            "quantity": 6.72,
+            "reference": "iR-706",
+            "unit_price": 37.72
+        },
+        {
+            "amount": 161.62,
+            "description": "productize open-source experiences",
+            "quantity": 3.28,
+            "reference": "Uo-112",
+            "unit_price": 50.99
+        },
+        {
+            "amount": 499.41,
+            "description": "drive front-end infrastructures",
+            "quantity": 3.05,
+            "reference": "Si-952",
+            "unit_price": 70.31
+        },
+        {
+            "amount": 408.85,
+            "description": "repurpose intuitive users",
+            "quantity": 1.11,
+            "reference": "ng-931",
+            "unit_price": 77.64
+        },
+        {
+            "amount": 162.5,
+            "description": "exploit enterprise systems",
+            "quantity": 2.2,
+            "reference": "QR-693",
+            "unit_price": 77.39
+        }
+    ],
+    "seller": {
+        "address": "37638 Vincent Road Suite 231 Pageton, MI 85138"
+    },
+    "tax": {
+        "base_ht": 352.59,
+        "regulations": 20.02,
+        "total_ht": 387.77,
+        "vat_amount": 196.08,
+        "vat_percentage": 21.88
+    }
+}

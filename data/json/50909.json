@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "65496 Maria Mall Suite 540 West Williamfurt, FL 53989",
+        "id": "op487"
+    },
+    "invoice": {
+        "bc_no": "pR66665",
+        "currency_code": "VUV",
+        "date": "24.05.2014",
+        "due_date": "29.04.1992",
+        "number": 157261
+    },
+    "payment": {
+        "bank_name": "Rogers, Johnson and Navarro",
+        "bic": "CWMEGBAOBI0",
+        "iban": "ZVUG07315200563753"
+    },
+    "products": [
+        {
+            "amount": 171.69,
+            "description": "repurpose world-class ROI",
+            "index": "10",
+            "price": 398.88,
+            "quantity": 7.42,
+            "tax_amount": 19.15,
+            "total_ttc": 385.1,
+            "vat_amount": 7.11
+        },
+        {
+            "amount": 72.42,
+            "description": "reinvent impactful technologies",
+            "index": "9",
+            "price": 354.7,
+            "quantity": 6.28,
+            "tax_amount": 57.04,
+            "total_ttc": 345.98,
+            "vat_amount": 1.57
+        },
+        {
+            "amount": 297.09,
+            "description": "leverage cutting-edge communities",
+            "index": "4",
+            "price": 144.52,
+            "quantity": 2.01,
+            "tax_amount": 12.67,
+            "total_ttc": 137.49,
+            "vat_amount": 1.34
+        },
+        {
+            "amount": 7.02,
+            "description": "scale front-end functionalities",
+            "index": "7",
+            "price": 300.59,
+            "quantity": 5.65,
+            "tax_amount": 31.76,
+            "total_ttc": 140.38,
+            "vat_amount": 2.68
+        }
+    ],
+    "seller": {
+        "name": "Jason Juarez"
+    },
+    "supplier": {
+        "address": "599 Thompson Park Brookeside, LA 33872",
+        "name": "Cassandra Melendez"
+    },
+    "tax": {
+        "amount_excluding_tax": 104.04,
+        "amount_including_tax": 154.13,
+        "tax_amount": 17.32,
+        "total_ht": 106.22,
+        "total_ttc": 345.09
+    }
+}

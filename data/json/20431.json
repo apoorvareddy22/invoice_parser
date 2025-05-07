@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "904 Owen Fords Paulhaven, ID 84626",
+        "company_name": "Ford LLC",
+        "email": "wmartin@example.com",
+        "name": "Karen Johnson",
+        "phone": "543.322.3592"
+    },
+    "invoice": {
+        "date": "10.05.1993",
+        "due_date": "02.12.2013",
+        "number": "FHp30072630081"
+    },
+    "payment": {
+        "account_number": 9209046040,
+        "bank_name": "Olson, Williams and Meyer",
+        "routing_number": 718798345
+    },
+    "products": [
+        {
+            "amount": 125.2,
+            "description": "enable global initiatives",
+            "index": "8",
+            "quantity": 9.16,
+            "unit_price": 11.25
+        },
+        {
+            "amount": 423.62,
+            "description": "expedite compelling supply-chains",
+            "index": "2",
+            "quantity": 9.85,
+            "unit_price": 73.72
+        },
+        {
+            "amount": 419.08,
+            "description": "streamline leading-edge e-tailers",
+            "index": "7",
+            "quantity": 2.85,
+            "unit_price": 87.28
+        },
+        {
+            "amount": 130.42,
+            "description": "harness user-centric architectures",
+            "index": "5",
+            "quantity": 1.69,
+            "unit_price": 65.75
+        }
+    ],
+    "seller": {
+        "address": "524 Scott River Suite 185 East Michael, VI 06348",
+        "company_name": "Carson-Shepard",
+        "email": "jeffreyreyes@example.com"
+    }
+}

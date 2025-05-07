@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "7825 Brown Turnpike Suite 458 North Georgemouth, IA 30904",
+        "email": "kevinhuff@example.net",
+        "phone": "958-257-0797x9556",
+        "vat_no": "QK52975464860"
+    },
+    "invoice": {
+        "date": "08.12.1992",
+        "due_date": "17.02.2010",
+        "market_reference": 855627,
+        "notes": "integrate transparent technologies",
+        "number": "1129-0718",
+        "reference": 639903,
+        "vat_no": "hk24231789211"
+    },
+    "payment": {
+        "net_total": 104.76,
+        "total": 595.95
+    },
+    "products": [
+        {
+            "amount": 449.4,
+            "description": "visualize clicks-and-mortar ROI",
+            "hours": 1.7,
+            "rate": 1.36
+        }
+    ],
+    "seller": {
+        "address": "USNS Stewart FPO AE 38938",
+        "email": "estesjeffrey@example.net",
+        "name": "Amy Kelly"
+    },
+    "tax": {
+        "base": 29.0,
+        "tax_amount": 28.91,
+        "total_tax": 22.72
+    }
+}

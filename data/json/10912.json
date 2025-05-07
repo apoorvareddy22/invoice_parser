@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "70288 Thompson Gardens Apt. 180 Alejandroport, NC 96754",
+        "email": "lambertbetty@example.org",
+        "phone": "7484412683",
+        "vat_no": "Lx34417374760"
+    },
+    "invoice": {
+        "date": "11.01.2000",
+        "due_date": "08.09.2014",
+        "market_reference": 742822,
+        "notes": "incentivize enterprise metrics",
+        "number": "0393-1652",
+        "reference": 913559,
+        "vat_no": "Jg06071469524"
+    },
+    "payment": {
+        "net_total": 78.51,
+        "total": 166.59
+    },
+    "products": [
+        {
+            "amount": 319.76,
+            "description": "benchmark clicks-and-mortar initiatives",
+            "hours": 8.03,
+            "rate": 6.79
+        },
+        {
+            "amount": 199.09,
+            "description": "generate virtual functionalities",
+            "hours": 3.13,
+            "rate": 7.0
+        },
+        {
+            "amount": 209.65,
+            "description": "envisioneer viral deliverables",
+            "hours": 4.04,
+            "rate": 7.71
+        }
+    ],
+    "seller": {
+        "address": "25086 Gonzalez Mall Suite 703 Brianton, OR 45525",
+        "email": "robertgreen@example.org",
+        "name": "Michelle Cox"
+    },
+    "tax": {
+        "base": 14.26,
+        "tax_amount": 11.15,
+        "total_tax": 22.1
+    }
+}

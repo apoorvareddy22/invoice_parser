@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "817 Randy Gardens East Stephanie, AZ 83307",
+        "email": "courtneyjohnston@example.com",
+        "phone": "(686)524-9595x78487",
+        "vat_no": "md64532241458"
+    },
+    "invoice": {
+        "date": "20.09.2012",
+        "due_date": "27.05.2022",
+        "market_reference": 920194,
+        "notes": "engineer ubiquitous deliverables",
+        "number": "3409-9116",
+        "reference": 565228,
+        "vat_no": "Vf37298270048"
+    },
+    "payment": {
+        "net_total": 30.28,
+        "total": 283.73
+    },
+    "products": [
+        {
+            "amount": 181.6,
+            "description": "drive rich action-items",
+            "hours": 2.31,
+            "rate": 6.0
+        },
+        {
+            "amount": 39.03,
+            "description": "re-contextualize frictionless e-services",
+            "hours": 3.85,
+            "rate": 8.57
+        },
+        {
+            "amount": 132.5,
+            "description": "syndicate revolutionary metrics",
+            "hours": 5.62,
+            "rate": 5.79
+        }
+    ],
+    "seller": {
+        "address": "39097 Foster Grove Suite 215 Christophermouth, NE 92146",
+        "email": "kristina16@example.net",
+        "name": "Amanda Lopez"
+    },
+    "tax": {
+        "base": 17.18,
+        "tax_amount": 27.07,
+        "total_tax": 12.6
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "PSC 6281, Box 2774 APO AP 75147"
+    },
+    "invoice": {
+        "bc_no": "lV24365",
+        "date": "14.02.2002",
+        "maturity_date": "14.12.2000",
+        "number": 485681
+    },
+    "products": [
+        {
+            "amount": 429.95,
+            "description": "whiteboard killer experiences",
+            "quantity": 5.16,
+            "unit_price": 42.15,
+            "vat_amount": 1.46
+        },
+        {
+            "amount": 249.94,
+            "description": "scale distributed content",
+            "quantity": 4.51,
+            "unit_price": 44.64,
+            "vat_amount": 1.59
+        },
+        {
+            "amount": 191.07,
+            "description": "brand synergistic interfaces",
+            "quantity": 7.71,
+            "unit_price": 34.32,
+            "vat_amount": 3.52
+        },
+        {
+            "amount": 261.07,
+            "description": "orchestrate customized content",
+            "quantity": 5.96,
+            "unit_price": 93.32,
+            "vat_amount": 3.01
+        },
+        {
+            "amount": 176.96,
+            "description": "innovate extensible bandwidth",
+            "quantity": 4.55,
+            "unit_price": 57.66,
+            "vat_amount": 4.76
+        }
+    ],
+    "seller": {
+        "address": "Unit 4533 Box 0904 DPO AP 70523"
+    },
+    "tax": {
+        "amount_excluding_tax": 31.65,
+        "amount_including_tax": 19.5,
+        "tax_amount": 15.21
+    }
+}

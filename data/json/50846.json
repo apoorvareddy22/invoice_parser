@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "9140 Reynolds Grove Suite 096 South Tiffanymouth, CT 04282",
+        "id": "Or540"
+    },
+    "invoice": {
+        "bc_no": "zf09028",
+        "currency_code": "BWP",
+        "date": "07.11.2020",
+        "due_date": "13.05.1993",
+        "number": 303662
+    },
+    "payment": {
+        "bank_name": "Moore, Bowers and Wright",
+        "bic": "SRPKGBH9I5V",
+        "iban": "DOCN99580670575326"
+    },
+    "products": [
+        {
+            "amount": 235.51,
+            "description": "visualize ubiquitous e-commerce",
+            "index": "2",
+            "price": 488.91,
+            "quantity": 2.18,
+            "tax_amount": 86.01,
+            "total_ttc": 343.35,
+            "vat_amount": 2.56
+        },
+        {
+            "amount": 56.43,
+            "description": "iterate visionary content",
+            "index": "3",
+            "price": 382.27,
+            "quantity": 1.78,
+            "tax_amount": 99.36,
+            "total_ttc": 161.0,
+            "vat_amount": 11.74
+        },
+        {
+            "amount": 384.41,
+            "description": "orchestrate robust e-business",
+            "index": "10",
+            "price": 156.01,
+            "quantity": 6.62,
+            "tax_amount": 54.51,
+            "total_ttc": 182.3,
+            "vat_amount": 11.53
+        },
+        {
+            "amount": 248.17,
+            "description": "disintermediate 24/365 models",
+            "index": "7",
+            "price": 157.56,
+            "quantity": 1.09,
+            "tax_amount": 65.08,
+            "total_ttc": 226.42,
+            "vat_amount": 9.8
+        },
+        {
+            "amount": 170.21,
+            "description": "cultivate mission-critical technologies",
+            "index": "1",
+            "price": 180.11,
+            "quantity": 7.63,
+            "tax_amount": 72.21,
+            "total_ttc": 372.73,
+            "vat_amount": 3.79
+        },
+        {
+            "amount": 118.95,
+            "description": "facilitate scalable schemas",
+            "index": "10",
+            "price": 195.54,
+            "quantity": 7.06,
+            "tax_amount": 27.08,
+            "total_ttc": 295.67,
+            "vat_amount": 0.72
+        }
+    ],
+    "seller": {
+        "name": "Toni Woodard"
+    },
+    "supplier": {
+        "address": "44941 Buchanan Inlet Brittneyside, MA 50222",
+        "name": "Aaron Romero"
+    },
+    "tax": {
+        "amount_excluding_tax": 163.83,
+        "amount_including_tax": 34.83,
+        "tax_amount": 25.02,
+        "total_ht": 431.47,
+        "total_ttc": 359.05
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "583 Paul Estate North Bryanfurt, NH 70343",
+        "email": "angelachavez@example.net",
+        "phone": "001-439-628-1121",
+        "vat_no": "Oe72191978317"
+    },
+    "invoice": {
+        "date": "07.08.2023",
+        "due_date": "31.10.2008",
+        "market_reference": 612692,
+        "notes": "deploy frictionless communities",
+        "number": "7579-6624",
+        "reference": 662867,
+        "vat_no": "oP55952361106"
+    },
+    "payment": {
+        "net_total": 158.72,
+        "total": 978.63
+    },
+    "products": [
+        {
+            "amount": 121.59,
+            "description": "engineer holistic markets",
+            "hours": 9.8,
+            "rate": 6.88
+        }
+    ],
+    "seller": {
+        "address": "3181 Jeffrey Fall Apt. 608 New Anthony, NJ 87365",
+        "email": "cunninghamjustin@example.com",
+        "name": "Angel West"
+    },
+    "tax": {
+        "base": 22.1,
+        "tax_amount": 26.73,
+        "total_tax": 20.28
+    }
+}

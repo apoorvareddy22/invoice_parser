@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "PSC 8893, Box 6317 APO AE 62046"
+    },
+    "invoice": {
+        "bc_no": "um29354",
+        "date": "16.05.2018",
+        "maturity_date": "18.11.2001",
+        "number": 272695
+    },
+    "products": [
+        {
+            "amount": 80.96,
+            "description": "monetize next-generation e-commerce",
+            "quantity": 7.42,
+            "unit_price": 98.59,
+            "vat_amount": 1.79
+        },
+        {
+            "amount": 63.57,
+            "description": "streamline granular solutions",
+            "quantity": 5.55,
+            "unit_price": 67.08,
+            "vat_amount": 14.32
+        },
+        {
+            "amount": 63.43,
+            "description": "morph enterprise e-tailers",
+            "quantity": 9.0,
+            "unit_price": 51.82,
+            "vat_amount": 4.13
+        },
+        {
+            "amount": 92.86,
+            "description": "streamline seamless web-readiness",
+            "quantity": 9.34,
+            "unit_price": 43.63,
+            "vat_amount": 15.0
+        },
+        {
+            "amount": 148.14,
+            "description": "morph robust mindshare",
+            "quantity": 7.17,
+            "unit_price": 84.09,
+            "vat_amount": 2.67
+        },
+        {
+            "amount": 40.15,
+            "description": "utilize best-of-breed e-commerce",
+            "quantity": 5.9,
+            "unit_price": 53.81,
+            "vat_amount": 10.28
+        }
+    ],
+    "seller": {
+        "address": "USNS Salas FPO AP 83372"
+    },
+    "tax": {
+        "amount_excluding_tax": 19.27,
+        "amount_including_tax": 184.57,
+        "tax_amount": 12.62
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "31711 Donald Mission Stewartmouth, AK 95013",
+        "company_name": "Miller-Andrews",
+        "email": "pcross@example.net",
+        "name": "Jonathan Ramos",
+        "phone": "(215)298-6696"
+    },
+    "invoice": {
+        "date": "23.04.1996",
+        "due_date": "16.06.2021",
+        "number": "EKo66800970011"
+    },
+    "payment": {
+        "account_number": 7812364115,
+        "bank_name": "Macias-Thomas",
+        "routing_number": 806728573
+    },
+    "products": [
+        {
+            "amount": 362.9,
+            "description": "matrix user-centric functionalities",
+            "index": "2",
+            "quantity": 2.15,
+            "unit_price": 71.04
+        },
+        {
+            "amount": 318.64,
+            "description": "strategize cross-media markets",
+            "index": "6",
+            "quantity": 3.72,
+            "unit_price": 31.13
+        }
+    ],
+    "seller": {
+        "address": "1722 Christy Parks Suite 756 South Aprilstad, NH 52675",
+        "company_name": "Taylor, Tran and Hicks",
+        "email": "snyderjoseph@example.com"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "258 Wagner Causeway Rebeccabury, MO 20009"
+    },
+    "invoice": {
+        "bc_no": "ZM25702",
+        "date": "17.12.2000",
+        "maturity_date": "26.01.2003",
+        "number": 609889
+    },
+    "products": [
+        {
+            "amount": 148.23,
+            "description": "iterate open-source niches",
+            "quantity": 3.31,
+            "unit_price": 46.33,
+            "vat_amount": 7.67
+        },
+        {
+            "amount": 408.74,
+            "description": "evolve bricks-and-clicks paradigms",
+            "quantity": 1.15,
+            "unit_price": 60.8,
+            "vat_amount": 0.79
+        }
+    ],
+    "seller": {
+        "address": "32314 Mary Wall Amyberg, OR 66566"
+    },
+    "tax": {
+        "amount_excluding_tax": 62.59,
+        "amount_including_tax": 21.95,
+        "tax_amount": 29.42
+    }
+}

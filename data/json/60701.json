@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "78483 Rodgers Fields Hillport, GA 58046",
+        "business_no": "FE532",
+        "id": "eL100"
+    },
+    "invoice": {
+        "date": "23.04.1999",
+        "number": "2146-4839"
+    },
+    "payment": {
+        "due_date": "22.11.2009",
+        "total": 801.43
+    },
+    "products": [
+        {
+            "amount": 468.74,
+            "description": "streamline out-of-the-box convergence",
+            "quantity": 5.75,
+            "reference": "oB-616",
+            "unit_price": 26.95
+        }
+    ],
+    "seller": {
+        "address": "595 Brittany Island East Dustin, KS 92081"
+    },
+    "tax": {
+        "base_ht": 494.64,
+        "regulations": 13.47,
+        "total_ht": 363.41,
+        "vat_amount": 180.82,
+        "vat_percentage": 28.77
+    }
+}

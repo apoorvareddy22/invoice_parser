@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "8128 Nicole Heights Dixonhaven, SD 41703",
+        "email": "reedelizabeth@example.com",
+        "phone": "351-209-2260",
+        "vat_no": "VE96646375070"
+    },
+    "invoice": {
+        "date": "01.08.2004",
+        "due_date": "26.09.2022",
+        "market_reference": 318342,
+        "notes": "drive bricks-and-clicks web services",
+        "number": "2691-7201",
+        "reference": 577998,
+        "vat_no": "wH25936133969"
+    },
+    "payment": {
+        "net_total": 25.91,
+        "total": 933.12
+    },
+    "products": [
+        {
+            "amount": 238.66,
+            "description": "scale back-end action-items",
+            "hours": 6.94,
+            "rate": 3.09
+        },
+        {
+            "amount": 156.98,
+            "description": "embrace efficient e-tailers",
+            "hours": 5.97,
+            "rate": 4.99
+        },
+        {
+            "amount": 249.49,
+            "description": "mesh seamless models",
+            "hours": 5.18,
+            "rate": 2.62
+        }
+    ],
+    "seller": {
+        "address": "81113 King Bypass New Wyattfort, LA 02518",
+        "email": "mbrown@example.com",
+        "name": "Richard Orozco"
+    },
+    "tax": {
+        "base": 21.61,
+        "tax_amount": 25.94,
+        "total_tax": 14.69
+    }
+}

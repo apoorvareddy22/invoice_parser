@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "3458 Allison Drive Stanleybury, GU 14291"
+    },
+    "invoice": {
+        "bc_no": "ku43881",
+        "date": "17.08.1994",
+        "maturity_date": "26.11.2000",
+        "number": 983370
+    },
+    "products": [
+        {
+            "amount": 110.6,
+            "description": "engage 24/365 e-services",
+            "quantity": 6.28,
+            "unit_price": 64.32,
+            "vat_amount": 3.45
+        },
+        {
+            "amount": 240.02,
+            "description": "seize compelling eyeballs",
+            "quantity": 3.15,
+            "unit_price": 98.75,
+            "vat_amount": 7.85
+        },
+        {
+            "amount": 461.83,
+            "description": "incentivize revolutionary applications",
+            "quantity": 6.28,
+            "unit_price": 18.74,
+            "vat_amount": 3.7
+        },
+        {
+            "amount": 421.85,
+            "description": "strategize dot-com infrastructures",
+            "quantity": 8.69,
+            "unit_price": 78.43,
+            "vat_amount": 7.87
+        },
+        {
+            "amount": 16.35,
+            "description": "empower collaborative content",
+            "quantity": 9.14,
+            "unit_price": 33.29,
+            "vat_amount": 5.76
+        }
+    ],
+    "seller": {
+        "address": "48740 Collin Place West Jessica, LA 90267"
+    },
+    "tax": {
+        "amount_excluding_tax": 166.04,
+        "amount_including_tax": 22.9,
+        "tax_amount": 18.71
+    }
+}

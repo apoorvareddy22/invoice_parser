@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "631 Nathaniel Summit Ramseyton, MI 56112",
+        "id": "Dn329"
+    },
+    "invoice": {
+        "bc_no": "xw21961",
+        "currency_code": "ISK",
+        "date": "18.01.1996",
+        "due_date": "12.11.2011",
+        "number": 844426
+    },
+    "payment": {
+        "bank_name": "Wells-Mckay",
+        "bic": "JVNKGBOK",
+        "iban": "FBUA61741883155550"
+    },
+    "products": [
+        {
+            "amount": 169.96,
+            "description": "facilitate magnetic applications",
+            "index": "3",
+            "price": 196.17,
+            "quantity": 6.96,
+            "tax_amount": 93.01,
+            "total_ttc": 476.94,
+            "vat_amount": 1.18
+        },
+        {
+            "amount": 71.43,
+            "description": "harness bricks-and-clicks channels",
+            "index": "10",
+            "price": 61.29,
+            "quantity": 7.45,
+            "tax_amount": 42.59,
+            "total_ttc": 230.42,
+            "vat_amount": 7.71
+        },
+        {
+            "amount": 411.98,
+            "description": "extend B2B experiences",
+            "index": "1",
+            "price": 202.5,
+            "quantity": 1.7,
+            "tax_amount": 69.89,
+            "total_ttc": 175.53,
+            "vat_amount": 0.3
+        },
+        {
+            "amount": 392.93,
+            "description": "embrace enterprise info-mediaries",
+            "index": "8",
+            "price": 184.24,
+            "quantity": 3.67,
+            "tax_amount": 46.92,
+            "total_ttc": 295.63,
+            "vat_amount": 0.54
+        },
+        {
+            "amount": 67.47,
+            "description": "mesh value-added methodologies",
+            "index": "3",
+            "price": 466.1,
+            "quantity": 7.69,
+            "tax_amount": 33.21,
+            "total_ttc": 253.6,
+            "vat_amount": 1.46
+        }
+    ],
+    "seller": {
+        "name": "Edward Campbell"
+    },
+    "supplier": {
+        "address": "413 Miller Gardens Apt. 476 Port Dominique, MP 27728",
+        "name": "John Phillips"
+    },
+    "tax": {
+        "amount_excluding_tax": 84.26,
+        "amount_including_tax": 69.04,
+        "tax_amount": 13.1,
+        "total_ht": 220.24,
+        "total_ttc": 450.01
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "3851 Anthony Keys Kevinton, NV 24581",
+        "id": "FX910"
+    },
+    "invoice": {
+        "bc_no": "OJ60008",
+        "currency_code": "LAK",
+        "date": "19.05.2006",
+        "due_date": "11.03.2019",
+        "number": 143754
+    },
+    "payment": {
+        "bank_name": "Walker, Rice and Barnes",
+        "bic": "UNHEGBMZ80H",
+        "iban": "XXUE26220537394205"
+    },
+    "products": [
+        {
+            "amount": 421.5,
+            "description": "benchmark customized vortals",
+            "index": "10",
+            "price": 464.3,
+            "quantity": 7.42,
+            "tax_amount": 40.7,
+            "total_ttc": 475.21,
+            "vat_amount": 0.93
+        },
+        {
+            "amount": 446.94,
+            "description": "aggregate seamless niches",
+            "index": "4",
+            "price": 337.13,
+            "quantity": 2.45,
+            "tax_amount": 78.79,
+            "total_ttc": 251.71,
+            "vat_amount": 15.42
+        },
+        {
+            "amount": 336.97,
+            "description": "revolutionize extensible infrastructures",
+            "index": "3",
+            "price": 397.6,
+            "quantity": 8.71,
+            "tax_amount": 37.28,
+            "total_ttc": 151.82,
+            "vat_amount": 6.72
+        },
+        {
+            "amount": 237.12,
+            "description": "deploy frictionless niches",
+            "index": "3",
+            "price": 91.8,
+            "quantity": 6.58,
+            "tax_amount": 25.56,
+            "total_ttc": 153.74,
+            "vat_amount": 1.39
+        },
+        {
+            "amount": 356.02,
+            "description": "generate web-enabled markets",
+            "index": "3",
+            "price": 485.49,
+            "quantity": 1.9,
+            "tax_amount": 84.51,
+            "total_ttc": 100.14,
+            "vat_amount": 11.73
+        }
+    ],
+    "seller": {
+        "name": "Kathryn Hayes"
+    },
+    "supplier": {
+        "address": "3158 Bradley Centers Williamsonfort, RI 32183",
+        "name": "Adam Taylor"
+    },
+    "tax": {
+        "amount_excluding_tax": 79.04,
+        "amount_including_tax": 40.31,
+        "tax_amount": 23.63,
+        "total_ht": 293.85,
+        "total_ttc": 333.74
+    }
+}

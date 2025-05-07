@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "0280 Gregory Creek Suite 018 Maryport, VI 72395",
+        "id": "Nz413"
+    },
+    "invoice": {
+        "bc_no": "ti46871",
+        "currency_code": "QAR",
+        "date": "03.03.2005",
+        "due_date": "27.08.2014",
+        "number": 151863
+    },
+    "payment": {
+        "bank_name": "Beck-Harris",
+        "bic": "WWGZGBLEQ5H",
+        "iban": "JZYE52778878482804"
+    },
+    "products": [
+        {
+            "amount": 488.48,
+            "description": "transition granular communities",
+            "index": "6",
+            "price": 321.97,
+            "quantity": 9.35,
+            "tax_amount": 30.49,
+            "total_ttc": 192.02,
+            "vat_amount": 10.72
+        },
+        {
+            "amount": 8.53,
+            "description": "aggregate global deliverables",
+            "index": "1",
+            "price": 218.74,
+            "quantity": 9.62,
+            "tax_amount": 85.45,
+            "total_ttc": 300.32,
+            "vat_amount": 3.95
+        },
+        {
+            "amount": 329.57,
+            "description": "cultivate open-source systems",
+            "index": "7",
+            "price": 113.89,
+            "quantity": 3.07,
+            "tax_amount": 22.58,
+            "total_ttc": 143.08,
+            "vat_amount": 15.62
+        },
+        {
+            "amount": 228.02,
+            "description": "implement collaborative vortals",
+            "index": "9",
+            "price": 149.19,
+            "quantity": 4.84,
+            "tax_amount": 70.46,
+            "total_ttc": 330.25,
+            "vat_amount": 0.91
+        },
+        {
+            "amount": 59.69,
+            "description": "aggregate impactful niches",
+            "index": "9",
+            "price": 310.85,
+            "quantity": 7.54,
+            "tax_amount": 34.13,
+            "total_ttc": 416.0,
+            "vat_amount": 3.55
+        },
+        {
+            "amount": 57.8,
+            "description": "envisioneer strategic methodologies",
+            "index": "10",
+            "price": 76.16,
+            "quantity": 5.84,
+            "tax_amount": 58.88,
+            "total_ttc": 214.93,
+            "vat_amount": 10.62
+        }
+    ],
+    "seller": {
+        "name": "Tamara Flores"
+    },
+    "supplier": {
+        "address": "4865 Robert Prairie South Aprilhaven, DC 05353",
+        "name": "Rodney Bradley"
+    },
+    "tax": {
+        "amount_excluding_tax": 44.22,
+        "amount_including_tax": 54.29,
+        "tax_amount": 16.6,
+        "total_ht": 221.67,
+        "total_ttc": 197.56
+    }
+}

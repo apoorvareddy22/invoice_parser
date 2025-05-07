@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "8844 Jamie Forges Apt. 218 West Brenda, DC 53009",
+        "business_no": "FX042",
+        "id": "ya928"
+    },
+    "invoice": {
+        "date": "28.07.2014",
+        "number": "7791-0638"
+    },
+    "payment": {
+        "due_date": "08.11.1993",
+        "total": 685.76
+    },
+    "products": [
+        {
+            "amount": 31.95,
+            "description": "brand one-to-one partnerships",
+            "quantity": 3.25,
+            "reference": "FL-944",
+            "unit_price": 50.86
+        },
+        {
+            "amount": 477.33,
+            "description": "architect distributed partnerships",
+            "quantity": 9.43,
+            "reference": "Cv-070",
+            "unit_price": 16.6
+        },
+        {
+            "amount": 449.75,
+            "description": "reinvent distributed deliverables",
+            "quantity": 6.3,
+            "reference": "SH-973",
+            "unit_price": 55.55
+        },
+        {
+            "amount": 431.77,
+            "description": "revolutionize ubiquitous communities",
+            "quantity": 2.77,
+            "reference": "WT-047",
+            "unit_price": 61.27
+        }
+    ],
+    "seller": {
+        "address": "9696 Edwards Locks Apt. 398 Terrimouth, WI 28532"
+    },
+    "tax": {
+        "base_ht": 308.01,
+        "regulations": 22.08,
+        "total_ht": 229.58,
+        "vat_amount": 142.57,
+        "vat_percentage": 13.06
+    }
+}

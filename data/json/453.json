@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "06568 Janice Forks Suite 756 Allenshire, CT 44825",
+        "company_name": "Ruiz, Young and Friedman",
+        "country": "Norfolk Island",
+        "name": "John Jennings"
+    },
+    "invoice": {
+        "date": "13.10.1995",
+        "number": 476590
+    },
+    "payment": {
+        "discount_amount": 20.35,
+        "discount_percentage": 9.4,
+        "due": 73.21,
+        "sub_total": 58.0,
+        "total": 974.36
+    },
+    "products": [
+        {
+            "description": "deploy real-time models",
+            "index": "6",
+            "quantity": 1.52,
+            "total_price": 838.43,
+            "unit_price": 29.65
+        },
+        {
+            "description": "implement global solutions",
+            "index": "8",
+            "quantity": 2.31,
+            "total_price": 830.96,
+            "unit_price": 63.6
+        }
+    ],
+    "seller": {
+        "address": "21090 Joseph Flats Wheelerland, GU 99121",
+        "company_name": "Rivera, Johnson and Santos",
+        "vat_no": "Fs46742105209"
+    }
+}

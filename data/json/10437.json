@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "9640 Sarah Isle Apt. 536 Port Nicholasberg, MT 78385",
+        "email": "melissacherry@example.com",
+        "phone": "413-898-6174x2779",
+        "vat_no": "Fh00789029057"
+    },
+    "invoice": {
+        "date": "14.06.2015",
+        "due_date": "13.01.1997",
+        "market_reference": 798574,
+        "notes": "unleash wireless synergies",
+        "number": "6198-6672",
+        "reference": 937836,
+        "vat_no": "ZB43199857753"
+    },
+    "payment": {
+        "net_total": 103.4,
+        "total": 686.65
+    },
+    "products": [
+        {
+            "amount": 319.2,
+            "description": "innovate customized vortals",
+            "hours": 4.62,
+            "rate": 2.47
+        },
+        {
+            "amount": 193.29,
+            "description": "seize customized supply-chains",
+            "hours": 2.63,
+            "rate": 5.19
+        }
+    ],
+    "seller": {
+        "address": "63505 Kline Overpass West Leeburgh, WA 93903",
+        "email": "icannon@example.com",
+        "name": "Teresa Sparks"
+    },
+    "tax": {
+        "base": 15.15,
+        "tax_amount": 28.89,
+        "total_tax": 28.71
+    }
+}

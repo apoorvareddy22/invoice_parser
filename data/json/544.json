@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "144 Harris Bypass Hodgemouth, WA 34650",
+        "company_name": "Peters-Schroeder",
+        "country": "Namibia",
+        "name": "Joe Berg"
+    },
+    "invoice": {
+        "date": "07.10.1994",
+        "number": 993424
+    },
+    "payment": {
+        "discount_amount": 48.18,
+        "discount_percentage": 12.46,
+        "due": 65.53,
+        "sub_total": 57.37,
+        "total": 742.54
+    },
+    "products": [
+        {
+            "description": "enhance compelling methodologies",
+            "index": "4",
+            "quantity": 3.55,
+            "total_price": 577.82,
+            "unit_price": 34.04
+        },
+        {
+            "description": "whiteboard value-added content",
+            "index": "4",
+            "quantity": 3.3,
+            "total_price": 761.87,
+            "unit_price": 12.91
+        }
+    ],
+    "seller": {
+        "address": "5328 Gallegos Corner Apt. 588 Ryanborough, CT 60412",
+        "company_name": "Smith, Moss and Hickman",
+        "vat_no": "hS05287934437"
+    }
+}

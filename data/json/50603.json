@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "02177 Patrick Gardens Cindytown, FM 17050",
+        "id": "xm745"
+    },
+    "invoice": {
+        "bc_no": "gz94757",
+        "currency_code": "WST",
+        "date": "29.07.2003",
+        "due_date": "20.11.2012",
+        "number": 524259
+    },
+    "payment": {
+        "bank_name": "Lawrence Inc",
+        "bic": "LNUYGBJX",
+        "iban": "YQFH65985381394612"
+    },
+    "products": [
+        {
+            "amount": 63.87,
+            "description": "incentivize virtual deliverables",
+            "index": "5",
+            "price": 468.05,
+            "quantity": 5.49,
+            "tax_amount": 70.94,
+            "total_ttc": 350.13,
+            "vat_amount": 4.42
+        },
+        {
+            "amount": 230.72,
+            "description": "re-contextualize granular eyeballs",
+            "index": "8",
+            "price": 216.26,
+            "quantity": 5.63,
+            "tax_amount": 52.61,
+            "total_ttc": 365.12,
+            "vat_amount": 3.17
+        },
+        {
+            "amount": 98.97,
+            "description": "empower B2B architectures",
+            "index": "4",
+            "price": 120.06,
+            "quantity": 8.79,
+            "tax_amount": 48.83,
+            "total_ttc": 416.34,
+            "vat_amount": 10.87
+        },
+        {
+            "amount": 386.93,
+            "description": "exploit end-to-end partnerships",
+            "index": "3",
+            "price": 222.84,
+            "quantity": 8.54,
+            "tax_amount": 91.81,
+            "total_ttc": 381.07,
+            "vat_amount": 3.87
+        }
+    ],
+    "seller": {
+        "name": "Patricia Evans"
+    },
+    "supplier": {
+        "address": "6100 Scott Avenue Apt. 030 Port Jessica, AZ 37643",
+        "name": "Brittney Rodgers"
+    },
+    "tax": {
+        "amount_excluding_tax": 57.53,
+        "amount_including_tax": 162.18,
+        "tax_amount": 29.65,
+        "total_ht": 295.07,
+        "total_ttc": 112.29
+    }
+}

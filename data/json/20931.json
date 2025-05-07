@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "631 Roberts Harbor Apt. 735 North Kevinburgh, WY 07242",
+        "company_name": "Smith, Todd and Harper",
+        "email": "blacktroy@example.org",
+        "name": "Kevin Nelson",
+        "phone": "(357)661-7759"
+    },
+    "invoice": {
+        "date": "07.12.1992",
+        "due_date": "23.12.2014",
+        "number": "Zsm90275082704"
+    },
+    "payment": {
+        "account_number": 2361470189,
+        "bank_name": "Wilson-Hines",
+        "routing_number": 720393942
+    },
+    "products": [
+        {
+            "amount": 405.5,
+            "description": "drive holistic bandwidth",
+            "index": "9",
+            "quantity": 9.71,
+            "unit_price": 98.35
+        }
+    ],
+    "seller": {
+        "address": "894 Flynn Walks Apt. 893 East Tiffanyfurt, TN 65531",
+        "company_name": "Thompson PLC",
+        "email": "ataylor@example.org"
+    }
+}

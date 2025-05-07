@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "9423 Flores Avenue Apt. 084 East Lisaland, CO 93205",
+        "business_no": "MR690",
+        "id": "HR895"
+    },
+    "invoice": {
+        "date": "25.11.2022",
+        "number": "8708-9722"
+    },
+    "payment": {
+        "due_date": "25.05.2014",
+        "total": 971.42
+    },
+    "products": [
+        {
+            "amount": 488.84,
+            "description": "scale 24/365 portals",
+            "quantity": 4.51,
+            "reference": "vn-582",
+            "unit_price": 18.18
+        },
+        {
+            "amount": 286.66,
+            "description": "synthesize global niches",
+            "quantity": 4.58,
+            "reference": "SX-272",
+            "unit_price": 99.84
+        },
+        {
+            "amount": 254.91,
+            "description": "embrace enterprise web services",
+            "quantity": 2.62,
+            "reference": "Ja-338",
+            "unit_price": 29.14
+        },
+        {
+            "amount": 462.94,
+            "description": "empower enterprise architectures",
+            "quantity": 1.74,
+            "reference": "Vp-175",
+            "unit_price": 89.6
+        },
+        {
+            "amount": 253.6,
+            "description": "revolutionize out-of-the-box deliverables",
+            "quantity": 8.13,
+            "reference": "ZB-072",
+            "unit_price": 85.4
+        }
+    ],
+    "seller": {
+        "address": "0265 Thomas Green Suite 032 Hannahport, NE 90408"
+    },
+    "tax": {
+        "base_ht": 368.42,
+        "regulations": 12.39,
+        "total_ht": 280.48,
+        "vat_amount": 24.22,
+        "vat_percentage": 12.64
+    }
+}

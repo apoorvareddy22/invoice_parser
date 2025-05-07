@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "USNV Gibson FPO AE 69430",
+        "company_name": "Morse and Sons",
+        "country": "Lao People's Democratic Republic",
+        "name": "Jennifer Fleming"
+    },
+    "invoice": {
+        "date": "22.05.2003",
+        "number": 237332
+    },
+    "payment": {
+        "discount_amount": 43.46,
+        "discount_percentage": 7.18,
+        "due": 69.34,
+        "sub_total": 162.97,
+        "total": 936.82
+    },
+    "products": [
+        {
+            "description": "productize turn-key e-tailers",
+            "index": "5",
+            "quantity": 5.11,
+            "total_price": 750.37,
+            "unit_price": 40.73
+        },
+        {
+            "description": "matrix collaborative users",
+            "index": "5",
+            "quantity": 3.97,
+            "total_price": 236.78,
+            "unit_price": 83.05
+        }
+    ],
+    "seller": {
+        "address": "719 Patricia Mountain Apt. 380 Carolineshire, AZ 72485",
+        "company_name": "Johnston LLC",
+        "vat_no": "Oo13433914347"
+    }
+}

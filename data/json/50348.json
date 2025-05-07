@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "3182 Jeffrey Gardens South Carmentown, AL 76191",
+        "id": "Iu699"
+    },
+    "invoice": {
+        "bc_no": "Ir86192",
+        "currency_code": "PAB",
+        "date": "08.05.2002",
+        "due_date": "29.07.1992",
+        "number": 963139
+    },
+    "payment": {
+        "bank_name": "Moore-Smith",
+        "bic": "WDHXGB1C",
+        "iban": "UEQV40369981715001"
+    },
+    "products": [
+        {
+            "amount": 213.86,
+            "description": "brand robust partnerships",
+            "index": "5",
+            "price": 406.76,
+            "quantity": 3.74,
+            "tax_amount": 28.54,
+            "total_ttc": 373.6,
+            "vat_amount": 0.02
+        },
+        {
+            "amount": 171.07,
+            "description": "mesh granular ROI",
+            "index": "2",
+            "price": 483.45,
+            "quantity": 7.21,
+            "tax_amount": 82.65,
+            "total_ttc": 486.3,
+            "vat_amount": 0.79
+        },
+        {
+            "amount": 487.97,
+            "description": "empower plug-and-play e-business",
+            "index": "4",
+            "price": 441.7,
+            "quantity": 9.43,
+            "tax_amount": 36.48,
+            "total_ttc": 192.26,
+            "vat_amount": 2.45
+        },
+        {
+            "amount": 104.26,
+            "description": "revolutionize ubiquitous e-tailers",
+            "index": "9",
+            "price": 254.63,
+            "quantity": 6.27,
+            "tax_amount": 44.11,
+            "total_ttc": 351.58,
+            "vat_amount": 4.17
+        },
+        {
+            "amount": 364.95,
+            "description": "target bricks-and-clicks eyeballs",
+            "index": "8",
+            "price": 425.57,
+            "quantity": 5.18,
+            "tax_amount": 39.06,
+            "total_ttc": 155.26,
+            "vat_amount": 0.94
+        }
+    ],
+    "seller": {
+        "name": "Gary Thomas"
+    },
+    "supplier": {
+        "address": "8448 Nicole Locks Suite 805 South Susanchester, PW 53007",
+        "name": "Maria Ward"
+    },
+    "tax": {
+        "amount_excluding_tax": 60.94,
+        "amount_including_tax": 118.47,
+        "tax_amount": 10.43,
+        "total_ht": 484.72,
+        "total_ttc": 189.98
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "0371 David Street Suite 193 Lake Mitchellmouth, PW 23821",
+        "company_name": "Bradford, Stone and Johnson",
+        "country": "Antigua and Barbuda",
+        "name": "Stephanie Nelson"
+    },
+    "invoice": {
+        "date": "16.05.1995",
+        "number": 389879
+    },
+    "payment": {
+        "discount_amount": 36.92,
+        "discount_percentage": 19.14,
+        "due": 72.98,
+        "sub_total": 175.89,
+        "total": 381.44
+    },
+    "products": [
+        {
+            "description": "grow user-centric applications",
+            "index": "3",
+            "quantity": 4.32,
+            "total_price": 710.94,
+            "unit_price": 64.5
+        }
+    ],
+    "seller": {
+        "address": "351 Brown Stream New John, KY 90163",
+        "company_name": "Warner-Smith",
+        "vat_no": "Cl20498143693"
+    }
+}

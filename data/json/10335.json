@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "0098 Lindsay Creek Suite 855 Lake Brandonside, UT 36496",
+        "email": "vstephens@example.com",
+        "phone": "(511)426-6395x38862",
+        "vat_no": "Pn24765345089"
+    },
+    "invoice": {
+        "date": "06.07.2013",
+        "due_date": "15.08.2010",
+        "market_reference": 954135,
+        "notes": "generate next-generation mindshare",
+        "number": "2626-5144",
+        "reference": 815219,
+        "vat_no": "Kj81586267469"
+    },
+    "payment": {
+        "net_total": 152.35,
+        "total": 135.55
+    },
+    "products": [
+        {
+            "amount": 114.52,
+            "description": "implement robust deliverables",
+            "hours": 2.27,
+            "rate": 7.2
+        },
+        {
+            "amount": 121.61,
+            "description": "deliver customized e-tailers",
+            "hours": 5.41,
+            "rate": 6.49
+        },
+        {
+            "amount": 67.67,
+            "description": "generate web-enabled synergies",
+            "hours": 8.95,
+            "rate": 5.34
+        },
+        {
+            "amount": 193.69,
+            "description": "empower wireless portals",
+            "hours": 4.77,
+            "rate": 7.65
+        }
+    ],
+    "seller": {
+        "address": "74414 Penny Cliff Mallorymouth, MT 63053",
+        "email": "emilymartinez@example.net",
+        "name": "Robert Grant"
+    },
+    "tax": {
+        "base": 24.96,
+        "tax_amount": 20.68,
+        "total_tax": 19.73
+    }
+}

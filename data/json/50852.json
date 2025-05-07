@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "14760 Davidson Inlet Christinaburgh, OR 38049",
+        "id": "Kj842"
+    },
+    "invoice": {
+        "bc_no": "yz89099",
+        "currency_code": "LYD",
+        "date": "07.03.2021",
+        "due_date": "05.08.2001",
+        "number": 235248
+    },
+    "payment": {
+        "bank_name": "Mason-Roy",
+        "bic": "TVKBGBC3",
+        "iban": "QKPO46289510571141"
+    },
+    "products": [
+        {
+            "amount": 64.75,
+            "description": "morph robust ROI",
+            "index": "9",
+            "price": 334.96,
+            "quantity": 4.42,
+            "tax_amount": 68.29,
+            "total_ttc": 297.88,
+            "vat_amount": 12.81
+        },
+        {
+            "amount": 318.12,
+            "description": "extend end-to-end e-markets",
+            "index": "3",
+            "price": 152.91,
+            "quantity": 3.75,
+            "tax_amount": 57.89,
+            "total_ttc": 366.96,
+            "vat_amount": 3.42
+        },
+        {
+            "amount": 36.88,
+            "description": "productize synergistic synergies",
+            "index": "9",
+            "price": 373.87,
+            "quantity": 3.09,
+            "tax_amount": 83.44,
+            "total_ttc": 312.09,
+            "vat_amount": 3.83
+        }
+    ],
+    "seller": {
+        "name": "Christina Moore"
+    },
+    "supplier": {
+        "address": "312 Logan Neck Suite 991 Tylerside, MP 43274",
+        "name": "Eric Salas"
+    },
+    "tax": {
+        "amount_excluding_tax": 89.54,
+        "amount_including_tax": 13.18,
+        "tax_amount": 27.07,
+        "total_ht": 322.29,
+        "total_ttc": 455.18
+    }
+}

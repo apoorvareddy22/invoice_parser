@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "3269 Hart Passage Apt. 172 Port Tracey, OH 24099",
+        "id": "yb031"
+    },
+    "invoice": {
+        "bc_no": "yu39665",
+        "currency_code": "CVE",
+        "date": "26.11.2008",
+        "due_date": "23.02.2001",
+        "number": 988208
+    },
+    "payment": {
+        "bank_name": "Riley and Sons",
+        "bic": "KCVNGBKYT1L",
+        "iban": "HKUP53564103255989"
+    },
+    "products": [
+        {
+            "amount": 299.01,
+            "description": "benchmark intuitive networks",
+            "index": "10",
+            "price": 82.54,
+            "quantity": 9.08,
+            "tax_amount": 70.52,
+            "total_ttc": 210.74,
+            "vat_amount": 5.34
+        },
+        {
+            "amount": 243.09,
+            "description": "reinvent robust e-tailers",
+            "index": "8",
+            "price": 49.2,
+            "quantity": 6.93,
+            "tax_amount": 88.45,
+            "total_ttc": 395.32,
+            "vat_amount": 1.25
+        },
+        {
+            "amount": 271.25,
+            "description": "brand 24/7 action-items",
+            "index": "1",
+            "price": 319.73,
+            "quantity": 1.3,
+            "tax_amount": 15.6,
+            "total_ttc": 443.95,
+            "vat_amount": 11.76
+        },
+        {
+            "amount": 132.07,
+            "description": "strategize distributed paradigms",
+            "index": "8",
+            "price": 286.26,
+            "quantity": 9.69,
+            "tax_amount": 72.69,
+            "total_ttc": 432.7,
+            "vat_amount": 7.66
+        }
+    ],
+    "seller": {
+        "name": "Jennifer Jackson"
+    },
+    "supplier": {
+        "address": "055 Erica Gardens East John, KY 28352",
+        "name": "Tracey Williamson"
+    },
+    "tax": {
+        "amount_excluding_tax": 12.98,
+        "amount_including_tax": 84.11,
+        "tax_amount": 15.82,
+        "total_ht": 406.91,
+        "total_ttc": 128.1
+    }
+}

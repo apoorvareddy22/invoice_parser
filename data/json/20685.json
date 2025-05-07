@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "75207 Michael Walk Benjaminport, CO 80452",
+        "company_name": "Thomas Ltd",
+        "email": "normamiller@example.org",
+        "name": "Todd Ellison",
+        "phone": "+1-733-407-6033x15005"
+    },
+    "invoice": {
+        "date": "09.09.2002",
+        "due_date": "20.04.2011",
+        "number": "kNf07490711274"
+    },
+    "payment": {
+        "account_number": 7186273548,
+        "bank_name": "Floyd, Russell and Jenkins",
+        "routing_number": 355019315
+    },
+    "products": [
+        {
+            "amount": 57.05,
+            "description": "leverage turn-key initiatives",
+            "index": "2",
+            "quantity": 5.06,
+            "unit_price": 91.36
+        },
+        {
+            "amount": 257.4,
+            "description": "extend robust action-items",
+            "index": "3",
+            "quantity": 4.39,
+            "unit_price": 97.84
+        }
+    ],
+    "seller": {
+        "address": "45676 Ponce Springs Suite 004 Heatherville, NY 29589",
+        "company_name": "Hudson Inc",
+        "email": "williampowell@example.com"
+    }
+}

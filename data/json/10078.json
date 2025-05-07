@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "188 Morgan Hill Jamesside, SC 50869",
+        "email": "douglaslittle@example.com",
+        "phone": "(693)862-5945",
+        "vat_no": "fW81703311693"
+    },
+    "invoice": {
+        "date": "03.09.1995",
+        "due_date": "18.12.2023",
+        "market_reference": 814607,
+        "notes": "transform bleeding-edge metrics",
+        "number": "4718-5418",
+        "reference": 317486,
+        "vat_no": "wu91017059170"
+    },
+    "payment": {
+        "net_total": 198.61,
+        "total": 861.25
+    },
+    "products": [
+        {
+            "amount": 231.28,
+            "description": "leverage revolutionary info-mediaries",
+            "hours": 8.01,
+            "rate": 7.36
+        },
+        {
+            "amount": 458.91,
+            "description": "architect 24/7 niches",
+            "hours": 3.06,
+            "rate": 8.11
+        },
+        {
+            "amount": 72.47,
+            "description": "deploy turn-key synergies",
+            "hours": 9.52,
+            "rate": 5.38
+        },
+        {
+            "amount": 137.24,
+            "description": "integrate open-source functionalities",
+            "hours": 4.72,
+            "rate": 4.98
+        },
+        {
+            "amount": 381.5,
+            "description": "transform one-to-one channels",
+            "hours": 6.11,
+            "rate": 2.11
+        },
+        {
+            "amount": 388.06,
+            "description": "generate mission-critical channels",
+            "hours": 4.81,
+            "rate": 9.65
+        }
+    ],
+    "seller": {
+        "address": "62532 Brock Spring Apt. 090 Strongmouth, UT 24364",
+        "email": "john09@example.org",
+        "name": "Todd Nicholson"
+    },
+    "tax": {
+        "base": 17.94,
+        "tax_amount": 22.47,
+        "total_tax": 18.17
+    }
+}

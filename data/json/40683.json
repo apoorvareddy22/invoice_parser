@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "67710 Rivera Fort Apt. 413 Christopherland, AR 61867"
+    },
+    "invoice": {
+        "bc_no": "Js46508",
+        "date": "15.02.2006",
+        "maturity_date": "10.03.1993",
+        "number": 382016
+    },
+    "products": [
+        {
+            "amount": 369.9,
+            "description": "harness innovative bandwidth",
+            "quantity": 6.28,
+            "unit_price": 79.03,
+            "vat_amount": 3.27
+        },
+        {
+            "amount": 279.97,
+            "description": "aggregate 24/7 web-readiness",
+            "quantity": 8.83,
+            "unit_price": 67.44,
+            "vat_amount": 10.35
+        },
+        {
+            "amount": 454.92,
+            "description": "drive B2C ROI",
+            "quantity": 5.64,
+            "unit_price": 88.62,
+            "vat_amount": 13.02
+        },
+        {
+            "amount": 65.96,
+            "description": "brand rich applications",
+            "quantity": 1.49,
+            "unit_price": 51.84,
+            "vat_amount": 12.59
+        }
+    ],
+    "seller": {
+        "address": "Unit 6812 Box 6430 DPO AP 85862"
+    },
+    "tax": {
+        "amount_excluding_tax": 20.39,
+        "amount_including_tax": 76.4,
+        "tax_amount": 15.54
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "0848 Nathan Roads Apt. 530 Masonhaven, NH 40151",
+        "email": "josephmiller@example.com",
+        "phone": "610-729-3018x49217",
+        "vat_no": "vx88841630165"
+    },
+    "invoice": {
+        "date": "13.12.2003",
+        "due_date": "10.08.2007",
+        "market_reference": 352710,
+        "notes": "synthesize killer info-mediaries",
+        "number": "9553-4845",
+        "reference": 624883,
+        "vat_no": "Iy86181631924"
+    },
+    "payment": {
+        "net_total": 179.07,
+        "total": 663.9
+    },
+    "products": [
+        {
+            "amount": 82.65,
+            "description": "deploy turn-key supply-chains",
+            "hours": 2.86,
+            "rate": 9.33
+        },
+        {
+            "amount": 424.8,
+            "description": "matrix e-business users",
+            "hours": 4.21,
+            "rate": 4.1
+        },
+        {
+            "amount": 143.15,
+            "description": "enable e-business technologies",
+            "hours": 5.04,
+            "rate": 3.9
+        },
+        {
+            "amount": 318.41,
+            "description": "unleash 24/7 schemas",
+            "hours": 4.18,
+            "rate": 5.31
+        },
+        {
+            "amount": 145.96,
+            "description": "repurpose vertical infrastructures",
+            "hours": 7.37,
+            "rate": 7.04
+        },
+        {
+            "amount": 116.5,
+            "description": "grow web-enabled partnerships",
+            "hours": 3.95,
+            "rate": 6.37
+        },
+        {
+            "amount": 150.91,
+            "description": "optimize mission-critical channels",
+            "hours": 8.05,
+            "rate": 8.01
+        }
+    ],
+    "seller": {
+        "address": "686 Matthew Ports Suite 988 West Zachary, AL 11265",
+        "email": "todd31@example.net",
+        "name": "Stephen Parrish"
+    },
+    "tax": {
+        "base": 19.49,
+        "tax_amount": 27.63,
+        "total_tax": 23.35
+    }
+}

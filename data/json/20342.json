@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "16776 Jessica Flat Suite 715 Watsonchester, ND 72141",
+        "company_name": "Beck, Martinez and Johnson",
+        "email": "dgriffith@example.org",
+        "name": "Justin Livingston",
+        "phone": "+1-578-323-8680x12413"
+    },
+    "invoice": {
+        "date": "11.09.1990",
+        "due_date": "04.06.2021",
+        "number": "UzB82213977462"
+    },
+    "payment": {
+        "account_number": 3143669933,
+        "bank_name": "Davis, Newton and Baker",
+        "routing_number": 239111037
+    },
+    "products": [
+        {
+            "amount": 121.59,
+            "description": "envisioneer viral bandwidth",
+            "index": "3",
+            "quantity": 4.83,
+            "unit_price": 15.18
+        },
+        {
+            "amount": 190.44,
+            "description": "visualize strategic supply-chains",
+            "index": "10",
+            "quantity": 7.04,
+            "unit_price": 53.21
+        }
+    ],
+    "seller": {
+        "address": "USNV Young FPO AE 84464",
+        "company_name": "Robinson-Stark",
+        "email": "hunter43@example.com"
+    }
+}

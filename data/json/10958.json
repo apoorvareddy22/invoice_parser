@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "4656 Smith Canyon Lake Allen, NH 93095",
+        "email": "johnhall@example.com",
+        "phone": "+1-696-360-7700x8799",
+        "vat_no": "Td68413777991"
+    },
+    "invoice": {
+        "date": "18.11.2018",
+        "due_date": "31.12.2001",
+        "market_reference": 251061,
+        "notes": "generate rich vortals",
+        "number": "8673-9482",
+        "reference": 681767,
+        "vat_no": "sJ98565662824"
+    },
+    "payment": {
+        "net_total": 151.54,
+        "total": 511.58
+    },
+    "products": [
+        {
+            "amount": 287.99,
+            "description": "transform distributed bandwidth",
+            "hours": 2.56,
+            "rate": 6.64
+        },
+        {
+            "amount": 471.52,
+            "description": "embrace strategic synergies",
+            "hours": 5.59,
+            "rate": 3.47
+        },
+        {
+            "amount": 378.41,
+            "description": "optimize wireless models",
+            "hours": 8.75,
+            "rate": 3.56
+        },
+        {
+            "amount": 497.99,
+            "description": "optimize distributed e-commerce",
+            "hours": 4.74,
+            "rate": 7.73
+        },
+        {
+            "amount": 214.16,
+            "description": "unleash sticky initiatives",
+            "hours": 2.5,
+            "rate": 1.59
+        },
+        {
+            "amount": 327.06,
+            "description": "evolve ubiquitous experiences",
+            "hours": 6.29,
+            "rate": 9.96
+        },
+        {
+            "amount": 72.58,
+            "description": "orchestrate one-to-one supply-chains",
+            "hours": 9.6,
+            "rate": 3.42
+        }
+    ],
+    "seller": {
+        "address": "2512 Crystal Fork South Reneeport, OH 25926",
+        "email": "william59@example.org",
+        "name": "Gabriel Sanders"
+    },
+    "tax": {
+        "base": 11.21,
+        "tax_amount": 13.86,
+        "total_tax": 22.76
+    }
+}

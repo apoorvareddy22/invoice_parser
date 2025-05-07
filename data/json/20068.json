@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "8558 Morris Way Christensenshire, FL 85634",
+        "company_name": "Peterson, Nicholson and Rivera",
+        "email": "renee82@example.net",
+        "name": "Christopher Miller",
+        "phone": "(692)867-7976"
+    },
+    "invoice": {
+        "date": "08.08.2005",
+        "due_date": "16.01.1993",
+        "number": "KIf83812525780"
+    },
+    "payment": {
+        "account_number": 5865548678,
+        "bank_name": "Collins, Browning and Wilson",
+        "routing_number": 170154261
+    },
+    "products": [
+        {
+            "amount": 118.34,
+            "description": "harness mission-critical interfaces",
+            "index": "2",
+            "quantity": 2.84,
+            "unit_price": 36.91
+        },
+        {
+            "amount": 262.92,
+            "description": "morph distributed paradigms",
+            "index": "4",
+            "quantity": 2.75,
+            "unit_price": 20.02
+        },
+        {
+            "amount": 27.4,
+            "description": "strategize viral initiatives",
+            "index": "7",
+            "quantity": 2.36,
+            "unit_price": 84.54
+        },
+        {
+            "amount": 482.52,
+            "description": "reinvent integrated architectures",
+            "index": "3",
+            "quantity": 2.58,
+            "unit_price": 18.57
+        },
+        {
+            "amount": 117.68,
+            "description": "facilitate plug-and-play initiatives",
+            "index": "6",
+            "quantity": 5.89,
+            "unit_price": 28.25
+        }
+    ],
+    "seller": {
+        "address": "855 Velasquez Loaf Apt. 545 Thomaston, NE 24230",
+        "company_name": "Cohen and Sons",
+        "email": "matthewjones@example.org"
+    }
+}

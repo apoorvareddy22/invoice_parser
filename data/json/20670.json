@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "Unit 1151 Box 7775 DPO AE 14735",
+        "company_name": "Bird-Lopez",
+        "email": "qgeorge@example.com",
+        "name": "Charlotte Walker",
+        "phone": "001-470-604-2205"
+    },
+    "invoice": {
+        "date": "18.11.2013",
+        "due_date": "18.01.1993",
+        "number": "cKv91273156609"
+    },
+    "payment": {
+        "account_number": 3763606622,
+        "bank_name": "Lawrence-Powell",
+        "routing_number": 584617901
+    },
+    "products": [
+        {
+            "amount": 20.13,
+            "description": "productize plug-and-play e-markets",
+            "index": "2",
+            "quantity": 6.35,
+            "unit_price": 56.06
+        },
+        {
+            "amount": 73.38,
+            "description": "synthesize viral interfaces",
+            "index": "2",
+            "quantity": 1.21,
+            "unit_price": 87.72
+        },
+        {
+            "amount": 206.66,
+            "description": "architect customized paradigms",
+            "index": "2",
+            "quantity": 3.65,
+            "unit_price": 10.32
+        },
+        {
+            "amount": 230.7,
+            "description": "brand global web-readiness",
+            "index": "10",
+            "quantity": 5.17,
+            "unit_price": 58.53
+        }
+    ],
+    "seller": {
+        "address": "33780 Joann Shoal Suite 525 East Thomas, AL 95581",
+        "company_name": "Rodriguez, Moody and Walker",
+        "email": "lisamayo@example.org"
+    }
+}

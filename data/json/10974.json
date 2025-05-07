@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "35386 Tiffany Estate Ramirezborough, ID 93042",
+        "email": "isabella56@example.org",
+        "phone": "237.796.5162",
+        "vat_no": "wP71908951497"
+    },
+    "invoice": {
+        "date": "01.04.2017",
+        "due_date": "22.06.2018",
+        "market_reference": 110498,
+        "notes": "synthesize leading-edge e-commerce",
+        "number": "6912-1560",
+        "reference": 876437,
+        "vat_no": "tx14090190177"
+    },
+    "payment": {
+        "net_total": 192.15,
+        "total": 104.58
+    },
+    "products": [
+        {
+            "amount": 78.28,
+            "description": "transition 24/7 applications",
+            "hours": 4.93,
+            "rate": 1.1
+        }
+    ],
+    "seller": {
+        "address": "11146 Kelley Centers East Andrew, TX 55003",
+        "email": "dperez@example.com",
+        "name": "Rhonda Ewing"
+    },
+    "tax": {
+        "base": 20.71,
+        "tax_amount": 21.87,
+        "total_tax": 20.68
+    }
+}

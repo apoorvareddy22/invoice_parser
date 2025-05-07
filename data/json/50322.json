@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "236 Shannon Shoal Apt. 968 Alyssaside, WA 91697",
+        "id": "NW197"
+    },
+    "invoice": {
+        "bc_no": "KM14766",
+        "currency_code": "SDG",
+        "date": "16.09.2011",
+        "due_date": "09.08.2003",
+        "number": 813331
+    },
+    "payment": {
+        "bank_name": "Rodriguez Group",
+        "bic": "LDLSGBA6",
+        "iban": "QXIZ10445337406707"
+    },
+    "products": [
+        {
+            "amount": 131.35,
+            "description": "embrace visionary models",
+            "index": "2",
+            "price": 433.3,
+            "quantity": 9.84,
+            "tax_amount": 82.77,
+            "total_ttc": 376.9,
+            "vat_amount": 0.66
+        },
+        {
+            "amount": 139.49,
+            "description": "engineer out-of-the-box communities",
+            "index": "9",
+            "price": 437.87,
+            "quantity": 1.22,
+            "tax_amount": 41.84,
+            "total_ttc": 459.33,
+            "vat_amount": 0.86
+        },
+        {
+            "amount": 130.25,
+            "description": "integrate out-of-the-box systems",
+            "index": "2",
+            "price": 69.96,
+            "quantity": 7.23,
+            "tax_amount": 20.5,
+            "total_ttc": 242.81,
+            "vat_amount": 1.45
+        },
+        {
+            "amount": 127.37,
+            "description": "aggregate e-business action-items",
+            "index": "9",
+            "price": 139.04,
+            "quantity": 9.78,
+            "tax_amount": 49.89,
+            "total_ttc": 377.41,
+            "vat_amount": 10.61
+        },
+        {
+            "amount": 250.48,
+            "description": "iterate B2C bandwidth",
+            "index": "2",
+            "price": 304.32,
+            "quantity": 2.38,
+            "tax_amount": 76.71,
+            "total_ttc": 339.06,
+            "vat_amount": 5.04
+        },
+        {
+            "amount": 354.1,
+            "description": "expedite global paradigms",
+            "index": "6",
+            "price": 417.7,
+            "quantity": 2.84,
+            "tax_amount": 88.06,
+            "total_ttc": 163.2,
+            "vat_amount": 11.22
+        }
+    ],
+    "seller": {
+        "name": "Michelle Hammond"
+    },
+    "supplier": {
+        "address": "4747 Sherri Via Lake Elizabethtown, MN 44326",
+        "name": "Michael Moore"
+    },
+    "tax": {
+        "amount_excluding_tax": 192.82,
+        "amount_including_tax": 198.44,
+        "tax_amount": 28.55,
+        "total_ht": 346.31,
+        "total_ttc": 213.91
+    }
+}

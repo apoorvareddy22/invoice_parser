@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "69199 Jackson Light Apt. 147 Lake Amanda, VA 26226",
+        "business_no": "ro268",
+        "id": "gw500"
+    },
+    "invoice": {
+        "date": "21.05.2000",
+        "number": "5533-2826"
+    },
+    "payment": {
+        "due_date": "08.05.1996",
+        "total": 947.61
+    },
+    "products": [
+        {
+            "amount": 350.64,
+            "description": "revolutionize customized schemas",
+            "quantity": 5.61,
+            "reference": "Gg-039",
+            "unit_price": 12.39
+        },
+        {
+            "amount": 433.23,
+            "description": "deliver scalable e-commerce",
+            "quantity": 3.96,
+            "reference": "Qp-140",
+            "unit_price": 80.95
+        },
+        {
+            "amount": 92.69,
+            "description": "expedite vertical relationships",
+            "quantity": 8.06,
+            "reference": "xp-797",
+            "unit_price": 33.97
+        },
+        {
+            "amount": 275.52,
+            "description": "leverage robust eyeballs",
+            "quantity": 9.41,
+            "reference": "Vg-325",
+            "unit_price": 86.53
+        },
+        {
+            "amount": 73.8,
+            "description": "deliver cutting-edge solutions",
+            "quantity": 2.53,
+            "reference": "CL-593",
+            "unit_price": 40.72
+        }
+    ],
+    "seller": {
+        "address": "02668 Thomas Ramp Grimesmouth, UT 31385"
+    },
+    "tax": {
+        "base_ht": 226.48,
+        "regulations": 23.32,
+        "total_ht": 388.47,
+        "vat_amount": 184.07,
+        "vat_percentage": 24.3
+    }
+}

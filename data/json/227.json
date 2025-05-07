@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "188 Berry Mews Josephside, WV 98246",
+        "company_name": "Rich PLC",
+        "country": "Heard Island and McDonald Islands",
+        "name": "Kristen Thompson"
+    },
+    "invoice": {
+        "date": "28.01.1996",
+        "number": 919720
+    },
+    "payment": {
+        "discount_amount": 13.96,
+        "discount_percentage": 19.57,
+        "due": 75.53,
+        "sub_total": 82.99,
+        "total": 671.85
+    },
+    "products": [
+        {
+            "description": "integrate sticky web services",
+            "index": "5",
+            "quantity": 9.64,
+            "total_price": 751.64,
+            "unit_price": 23.41
+        },
+        {
+            "description": "facilitate bleeding-edge networks",
+            "index": "6",
+            "quantity": 8.65,
+            "total_price": 740.04,
+            "unit_price": 15.66
+        },
+        {
+            "description": "exploit seamless solutions",
+            "index": "9",
+            "quantity": 2.74,
+            "total_price": 631.53,
+            "unit_price": 29.2
+        },
+        {
+            "description": "optimize transparent web services",
+            "index": "9",
+            "quantity": 4.85,
+            "total_price": 646.17,
+            "unit_price": 14.76
+        }
+    ],
+    "seller": {
+        "address": "71724 Emily Mills Lake Thomasmouth, AZ 59290",
+        "company_name": "Meyer Inc",
+        "vat_no": "EU71578986972"
+    }
+}

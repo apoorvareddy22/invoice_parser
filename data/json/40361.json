@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "558 Shawn Route Suite 089 Hicksview, TN 78908"
+    },
+    "invoice": {
+        "bc_no": "jH59903",
+        "date": "11.11.2006",
+        "maturity_date": "29.04.2017",
+        "number": 516355
+    },
+    "products": [
+        {
+            "amount": 266.28,
+            "description": "productize killer e-markets",
+            "quantity": 4.65,
+            "unit_price": 13.85,
+            "vat_amount": 0.2
+        },
+        {
+            "amount": 166.22,
+            "description": "iterate vertical niches",
+            "quantity": 6.2,
+            "unit_price": 38.5,
+            "vat_amount": 0.27
+        },
+        {
+            "amount": 124.31,
+            "description": "iterate compelling e-tailers",
+            "quantity": 1.74,
+            "unit_price": 76.27,
+            "vat_amount": 1.16
+        },
+        {
+            "amount": 428.18,
+            "description": "optimize collaborative relationships",
+            "quantity": 3.73,
+            "unit_price": 33.24,
+            "vat_amount": 1.46
+        },
+        {
+            "amount": 493.06,
+            "description": "orchestrate mission-critical ROI",
+            "quantity": 5.2,
+            "unit_price": 89.94,
+            "vat_amount": 4.65
+        },
+        {
+            "amount": 328.71,
+            "description": "incentivize wireless ROI",
+            "quantity": 2.82,
+            "unit_price": 30.43,
+            "vat_amount": 8.08
+        }
+    ],
+    "seller": {
+        "address": "019 Jennifer Shore Changberg, LA 99613"
+    },
+    "tax": {
+        "amount_excluding_tax": 92.37,
+        "amount_including_tax": 30.51,
+        "tax_amount": 26.22
+    }
+}

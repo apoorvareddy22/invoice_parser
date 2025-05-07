@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "051 Vicki Fields Apt. 539 Greenborough, TN 77759",
+        "id": "WN831"
+    },
+    "invoice": {
+        "bc_no": "ci18281",
+        "currency_code": "GHS",
+        "date": "17.10.2009",
+        "due_date": "03.09.1994",
+        "number": 374493
+    },
+    "payment": {
+        "bank_name": "Hunt, Robinson and Smith",
+        "bic": "ZJGTGBKNESF",
+        "iban": "JVTH73076032108837"
+    },
+    "products": [
+        {
+            "amount": 473.25,
+            "description": "expedite e-business channels",
+            "index": "2",
+            "price": 301.75,
+            "quantity": 3.72,
+            "tax_amount": 81.38,
+            "total_ttc": 413.05,
+            "vat_amount": 4.5
+        },
+        {
+            "amount": 160.53,
+            "description": "exploit scalable deliverables",
+            "index": "1",
+            "price": 8.92,
+            "quantity": 1.17,
+            "tax_amount": 67.23,
+            "total_ttc": 498.32,
+            "vat_amount": 7.8
+        }
+    ],
+    "seller": {
+        "name": "Christine Pope"
+    },
+    "supplier": {
+        "address": "07880 Fernandez Drives New Sierrafurt, MD 06368",
+        "name": "Bethany Rivera"
+    },
+    "tax": {
+        "amount_excluding_tax": 162.14,
+        "amount_including_tax": 188.75,
+        "tax_amount": 10.08,
+        "total_ht": 143.15,
+        "total_ttc": 483.37
+    }
+}

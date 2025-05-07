@@ -1,0 +1,82 @@
+{
+    "buyer": {
+        "address": "1258 Dean Rest North Lauraview, MH 36854",
+        "company_name": "Ryan Ltd",
+        "country": "Fiji",
+        "email": "cpeterson@example.net",
+        "name": "William Foster",
+        "phone": "001-971-838-8463x0531",
+        "vat_no": "Ba57439920565"
+    },
+    "invoice": {
+        "date": "09.01.2002",
+        "due_date": "10.01.2010",
+        "linked_invoice": "TY-7573-4018",
+        "notes": "deploy intuitive info-mediaries",
+        "number": "Ja-7778-2922"
+    },
+    "products": [
+        {
+            "description": "implement extensible interfaces",
+            "discount_percentage": 11.68,
+            "price": 467.76,
+            "quantity": 5.47,
+            "unit_price": 91.22
+        },
+        {
+            "description": "productize robust models",
+            "discount_percentage": 14.59,
+            "price": 140.86,
+            "quantity": 5.19,
+            "unit_price": 76.22
+        },
+        {
+            "description": "deliver open-source synergies",
+            "discount_percentage": 5.65,
+            "price": 79.26,
+            "quantity": 4.75,
+            "unit_price": 76.15
+        },
+        {
+            "description": "optimize one-to-one synergies",
+            "discount_percentage": 15.85,
+            "price": 256.96,
+            "quantity": 1.6,
+            "unit_price": 85.64
+        },
+        {
+            "description": "leverage visionary initiatives",
+            "discount_percentage": 9.04,
+            "price": 454.24,
+            "quantity": 5.63,
+            "unit_price": 13.64
+        }
+    ],
+    "seller": {
+        "address": "270 Michael Ford Laurenshire, CO 72462",
+        "ape": "4404h",
+        "capital": 68637512,
+        "country": "Mauritania",
+        "email": "sbutler@example.com",
+        "name": "Rebecca Thompson",
+        "phone_1": "989.324.0021x85886",
+        "phone_2": "001-858-724-6406",
+        "phone_3": "227.705.0752x68634",
+        "ref_walk": "SFFi4455",
+        "reference": "ZF015",
+        "siret": 25777034610294,
+        "vat_no": "zL90501097579",
+        "website": "http://www.christensen.com/"
+    },
+    "tax": {
+        "amount_0": 19.42,
+        "amount_1": 22.63,
+        "base_0": 10.03,
+        "base_1": 262.4,
+        "total_ht": 409.78,
+        "total_tax": 13.97,
+        "total_ttc": 486.08,
+        "vat_0": 14.6,
+        "vat_1": 19.04
+    }
+}

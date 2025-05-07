@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "05966 Rachel Highway Jeremyside, UT 09878",
+        "email": "seanpatterson@example.org",
+        "phone": "(558)417-1567x7765",
+        "vat_no": "Eu17449731090"
+    },
+    "invoice": {
+        "date": "06.04.2015",
+        "due_date": "06.10.2001",
+        "market_reference": 440192,
+        "notes": "benchmark one-to-one vortals",
+        "number": "6501-8473",
+        "reference": 234229,
+        "vat_no": "WE97090246707"
+    },
+    "payment": {
+        "net_total": 45.74,
+        "total": 274.3
+    },
+    "products": [
+        {
+            "amount": 59.32,
+            "description": "benchmark impactful e-business",
+            "hours": 9.01,
+            "rate": 3.35
+        },
+        {
+            "amount": 117.3,
+            "description": "generate end-to-end web-readiness",
+            "hours": 3.15,
+            "rate": 3.98
+        },
+        {
+            "amount": 471.93,
+            "description": "incubate next-generation niches",
+            "hours": 5.55,
+            "rate": 8.99
+        },
+        {
+            "amount": 499.67,
+            "description": "leverage integrated systems",
+            "hours": 1.63,
+            "rate": 9.48
+        },
+        {
+            "amount": 112.88,
+            "description": "engage proactive applications",
+            "hours": 2.13,
+            "rate": 4.66
+        },
+        {
+            "amount": 24.23,
+            "description": "integrate e-business interfaces",
+            "hours": 9.83,
+            "rate": 9.36
+        }
+    ],
+    "seller": {
+        "address": "58360 Lynch Viaduct Suite 493 Lake Nathan, ME 26691",
+        "email": "nataliesantos@example.org",
+        "name": "Paul Williams"
+    },
+    "tax": {
+        "base": 22.49,
+        "tax_amount": 19.76,
+        "total_tax": 21.41
+    }
+}

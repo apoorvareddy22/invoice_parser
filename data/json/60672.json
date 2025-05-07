@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "3806 Soto Turnpike Apt. 502 Jasonchester, MI 52389",
+        "business_no": "UZ891",
+        "id": "Uj892"
+    },
+    "invoice": {
+        "date": "28.11.2013",
+        "number": "6007-4677"
+    },
+    "payment": {
+        "due_date": "02.07.2002",
+        "total": 806.15
+    },
+    "products": [
+        {
+            "amount": 394.94,
+            "description": "synthesize innovative eyeballs",
+            "quantity": 5.06,
+            "reference": "Bi-948",
+            "unit_price": 29.76
+        }
+    ],
+    "seller": {
+        "address": "857 Garza Hollow Suite 414 Clarkeborough, OK 59390"
+    },
+    "tax": {
+        "base_ht": 180.64,
+        "regulations": 23.14,
+        "total_ht": 155.95,
+        "vat_amount": 115.48,
+        "vat_percentage": 26.54
+    }
+}

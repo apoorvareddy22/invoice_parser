@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "667 Kimberly Via East Debbiestad, MN 97503",
+        "company_name": "Smith PLC",
+        "email": "knolan@example.net",
+        "name": "Brianna Robinson",
+        "phone": "549-834-9648x535"
+    },
+    "invoice": {
+        "date": "25.08.1997",
+        "due_date": "12.09.2008",
+        "number": "HOe37959162574"
+    },
+    "payment": {
+        "account_number": 2432382932,
+        "bank_name": "Wood, Nelson and Newton",
+        "routing_number": 677576616
+    },
+    "products": [
+        {
+            "amount": 230.52,
+            "description": "re-contextualize open-source technologies",
+            "index": "3",
+            "quantity": 7.31,
+            "unit_price": 95.42
+        },
+        {
+            "amount": 467.14,
+            "description": "optimize synergistic schemas",
+            "index": "9",
+            "quantity": 1.33,
+            "unit_price": 66.83
+        },
+        {
+            "amount": 8.75,
+            "description": "expedite viral applications",
+            "index": "6",
+            "quantity": 1.18,
+            "unit_price": 39.81
+        },
+        {
+            "amount": 10.33,
+            "description": "target real-time applications",
+            "index": "3",
+            "quantity": 8.66,
+            "unit_price": 95.39
+        }
+    ],
+    "seller": {
+        "address": "148 Walker Walk Tiffanyborough, PA 02141",
+        "company_name": "Hart, Reed and Nicholson",
+        "email": "dyermatthew@example.com"
+    }
+}

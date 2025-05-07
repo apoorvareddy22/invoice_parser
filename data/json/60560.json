@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "1331 Christopher Springs Suite 427 Port Amy, VA 18774",
+        "business_no": "QF544",
+        "id": "Km866"
+    },
+    "invoice": {
+        "date": "18.10.2017",
+        "number": "7402-7783"
+    },
+    "payment": {
+        "due_date": "05.06.2018",
+        "total": 856.02
+    },
+    "products": [
+        {
+            "amount": 232.81,
+            "description": "exploit bricks-and-clicks vortals",
+            "quantity": 4.53,
+            "reference": "ap-155",
+            "unit_price": 26.94
+        },
+        {
+            "amount": 252.09,
+            "description": "maximize synergistic technologies",
+            "quantity": 3.25,
+            "reference": "Yp-909",
+            "unit_price": 22.29
+        },
+        {
+            "amount": 378.95,
+            "description": "leverage 24/365 relationships",
+            "quantity": 5.59,
+            "reference": "Rs-252",
+            "unit_price": 62.57
+        }
+    ],
+    "seller": {
+        "address": "9142 Hall Stravenue East Philipfurt, UT 04116"
+    },
+    "tax": {
+        "base_ht": 105.36,
+        "regulations": 15.59,
+        "total_ht": 129.95,
+        "vat_amount": 181.4,
+        "vat_percentage": 11.4
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "104 Smith Way Robertberg, IN 47316",
+        "business_no": "JO109",
+        "id": "GN095"
+    },
+    "invoice": {
+        "date": "13.09.2009",
+        "number": "7748-1450"
+    },
+    "payment": {
+        "due_date": "30.08.2016",
+        "total": 209.11
+    },
+    "products": [
+        {
+            "amount": 477.74,
+            "description": "transition transparent architectures",
+            "quantity": 8.42,
+            "reference": "hy-957",
+            "unit_price": 43.15
+        }
+    ],
+    "seller": {
+        "address": "23204 Stephanie Falls Colliermouth, PR 64391"
+    },
+    "tax": {
+        "base_ht": 124.68,
+        "regulations": 13.51,
+        "total_ht": 209.98,
+        "vat_amount": 67.6,
+        "vat_percentage": 25.15
+    }
+}

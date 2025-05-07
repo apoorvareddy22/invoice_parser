@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "71612 Albert Ridge Suite 647 Smithhaven, OR 69736",
+        "email": "lclay@example.com",
+        "phone": "959-682-2178x2909",
+        "vat_no": "vY08103737850"
+    },
+    "invoice": {
+        "date": "21.04.2020",
+        "due_date": "31.12.2022",
+        "market_reference": 211780,
+        "notes": "streamline dynamic platforms",
+        "number": "4475-0340",
+        "reference": 658361,
+        "vat_no": "Jx64682847826"
+    },
+    "payment": {
+        "net_total": 150.26,
+        "total": 734.43
+    },
+    "products": [
+        {
+            "amount": 33.88,
+            "description": "enhance user-centric web-readiness",
+            "hours": 6.01,
+            "rate": 6.76
+        },
+        {
+            "amount": 25.81,
+            "description": "synthesize value-added e-commerce",
+            "hours": 4.14,
+            "rate": 4.03
+        },
+        {
+            "amount": 11.18,
+            "description": "brand web-enabled e-commerce",
+            "hours": 6.49,
+            "rate": 8.48
+        }
+    ],
+    "seller": {
+        "address": "370 Ronald Parks West William, TX 33419",
+        "email": "juliedaniels@example.org",
+        "name": "Lisa Ochoa"
+    },
+    "tax": {
+        "base": 19.23,
+        "tax_amount": 14.97,
+        "total_tax": 16.92
+    }
+}

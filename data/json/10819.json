@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "264 Long Loaf East Alicia, WI 90738",
+        "email": "uscott@example.org",
+        "phone": "(890)904-8476x1603",
+        "vat_no": "TN33047469153"
+    },
+    "invoice": {
+        "date": "19.04.2021",
+        "due_date": "29.06.2013",
+        "market_reference": 992194,
+        "notes": "productize world-class e-tailers",
+        "number": "4552-0733",
+        "reference": 846424,
+        "vat_no": "cO26458978343"
+    },
+    "payment": {
+        "net_total": 147.0,
+        "total": 980.08
+    },
+    "products": [
+        {
+            "amount": 44.07,
+            "description": "integrate best-of-breed functionalities",
+            "hours": 9.01,
+            "rate": 6.74
+        },
+        {
+            "amount": 372.05,
+            "description": "facilitate efficient models",
+            "hours": 2.5,
+            "rate": 6.84
+        },
+        {
+            "amount": 146.97,
+            "description": "utilize interactive action-items",
+            "hours": 2.88,
+            "rate": 6.55
+        },
+        {
+            "amount": 44.34,
+            "description": "evolve intuitive content",
+            "hours": 7.9,
+            "rate": 9.62
+        },
+        {
+            "amount": 240.34,
+            "description": "whiteboard scalable paradigms",
+            "hours": 1.19,
+            "rate": 7.76
+        },
+        {
+            "amount": 25.11,
+            "description": "incubate plug-and-play synergies",
+            "hours": 8.94,
+            "rate": 7.28
+        }
+    ],
+    "seller": {
+        "address": "8505 Jennifer Glen Apt. 775 Gardnerland, MO 27037",
+        "email": "caitlyn42@example.org",
+        "name": "Kristi Bennett"
+    },
+    "tax": {
+        "base": 24.89,
+        "tax_amount": 11.8,
+        "total_tax": 15.5
+    }
+}

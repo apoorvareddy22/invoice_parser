@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "19871 Cassandra Ridges Suite 056 North Austin, LA 67447",
+        "company_name": "Werner Group",
+        "email": "brownjessica@example.com",
+        "name": "Casey Cooper",
+        "phone": "892.914.3273"
+    },
+    "invoice": {
+        "date": "30.03.2013",
+        "due_date": "28.09.2000",
+        "number": "bDd71802787444"
+    },
+    "payment": {
+        "account_number": 9668180872,
+        "bank_name": "Pennington-Mcdonald",
+        "routing_number": 865039849
+    },
+    "products": [
+        {
+            "amount": 450.26,
+            "description": "envisioneer ubiquitous interfaces",
+            "index": "10",
+            "quantity": 8.42,
+            "unit_price": 97.18
+        }
+    ],
+    "seller": {
+        "address": "18160 Rebecca Street Suite 372 West Claudiaport, OK 98489",
+        "company_name": "Ruiz, Quinn and Werner",
+        "email": "ybutler@example.net"
+    }
+}

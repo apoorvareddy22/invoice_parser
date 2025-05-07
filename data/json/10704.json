@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "9115 Edwards Flats Santiagoburgh, ME 93266",
+        "email": "george00@example.org",
+        "phone": "626.583.6156x0749",
+        "vat_no": "hv74592135711"
+    },
+    "invoice": {
+        "date": "29.01.1999",
+        "due_date": "14.01.2004",
+        "market_reference": 639824,
+        "notes": "productize innovative schemas",
+        "number": "9743-9661",
+        "reference": 361226,
+        "vat_no": "Iq77531177830"
+    },
+    "payment": {
+        "net_total": 116.94,
+        "total": 911.41
+    },
+    "products": [
+        {
+            "amount": 383.0,
+            "description": "syndicate synergistic synergies",
+            "hours": 9.68,
+            "rate": 7.35
+        },
+        {
+            "amount": 311.57,
+            "description": "grow e-business metrics",
+            "hours": 8.45,
+            "rate": 8.46
+        },
+        {
+            "amount": 397.14,
+            "description": "incentivize synergistic initiatives",
+            "hours": 2.12,
+            "rate": 6.11
+        },
+        {
+            "amount": 290.53,
+            "description": "integrate value-added systems",
+            "hours": 9.69,
+            "rate": 4.02
+        }
+    ],
+    "seller": {
+        "address": "32707 Ochoa Terrace South Jessicabury, CT 76909",
+        "email": "derrickduran@example.org",
+        "name": "Scott Jones"
+    },
+    "tax": {
+        "base": 20.09,
+        "tax_amount": 10.25,
+        "total_tax": 11.33
+    }
+}

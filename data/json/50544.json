@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "67686 Kelly Field Suite 632 East Dennis, WA 65381",
+        "id": "Vy576"
+    },
+    "invoice": {
+        "bc_no": "DZ37291",
+        "currency_code": "BRL",
+        "date": "06.01.2017",
+        "due_date": "23.02.1997",
+        "number": 920785
+    },
+    "payment": {
+        "bank_name": "Green, Castillo and Marsh",
+        "bic": "XCNXGB16",
+        "iban": "UGZB29092477577169"
+    },
+    "products": [
+        {
+            "amount": 375.32,
+            "description": "scale killer e-markets",
+            "index": "10",
+            "price": 338.95,
+            "quantity": 5.49,
+            "tax_amount": 98.0,
+            "total_ttc": 106.91,
+            "vat_amount": 4.73
+        },
+        {
+            "amount": 161.02,
+            "description": "expedite cross-media portals",
+            "index": "6",
+            "price": 371.5,
+            "quantity": 9.48,
+            "tax_amount": 77.86,
+            "total_ttc": 489.12,
+            "vat_amount": 6.47
+        },
+        {
+            "amount": 165.3,
+            "description": "mesh 24/365 synergies",
+            "index": "9",
+            "price": 214.43,
+            "quantity": 6.23,
+            "tax_amount": 30.46,
+            "total_ttc": 108.87,
+            "vat_amount": 1.83
+        }
+    ],
+    "seller": {
+        "name": "Mikayla Mcdaniel"
+    },
+    "supplier": {
+        "address": "510 Hood Fort Apt. 560 East Debra, MI 77578",
+        "name": "William White"
+    },
+    "tax": {
+        "amount_excluding_tax": 153.64,
+        "amount_including_tax": 131.22,
+        "tax_amount": 25.9,
+        "total_ht": 291.47,
+        "total_ttc": 304.7
+    }
+}

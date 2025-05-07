@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "8157 Miller Drive Apt. 971 West Shannon, CA 96715",
+        "company_name": "Cook LLC",
+        "country": "Haiti",
+        "name": "Sean Reyes"
+    },
+    "invoice": {
+        "date": "03.11.1990",
+        "number": 396142
+    },
+    "payment": {
+        "discount_amount": 26.83,
+        "discount_percentage": 5.24,
+        "due": 111.48,
+        "sub_total": 184.91,
+        "total": 406.83
+    },
+    "products": [
+        {
+            "description": "revolutionize bricks-and-clicks solutions",
+            "index": "3",
+            "quantity": 4.29,
+            "total_price": 397.16,
+            "unit_price": 52.09
+        },
+        {
+            "description": "exploit global niches",
+            "index": "6",
+            "quantity": 6.51,
+            "total_price": 551.51,
+            "unit_price": 14.33
+        },
+        {
+            "description": "engineer world-class solutions",
+            "index": "5",
+            "quantity": 7.49,
+            "total_price": 213.24,
+            "unit_price": 34.16
+        },
+        {
+            "description": "syndicate cross-platform niches",
+            "index": "5",
+            "quantity": 3.82,
+            "total_price": 544.89,
+            "unit_price": 41.11
+        },
+        {
+            "description": "maximize e-business interfaces",
+            "index": "7",
+            "quantity": 2.84,
+            "total_price": 928.26,
+            "unit_price": 46.64
+        },
+        {
+            "description": "exploit out-of-the-box e-commerce",
+            "index": "8",
+            "quantity": 2.1,
+            "total_price": 590.44,
+            "unit_price": 43.22
+        }
+    ],
+    "seller": {
+        "address": "670 Samantha Walks Suite 049 Lake Amymouth, OH 65902",
+        "company_name": "Hunt, Jackson and Anderson",
+        "vat_no": "zG03581269201"
+    }
+}

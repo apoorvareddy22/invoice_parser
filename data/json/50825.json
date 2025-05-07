@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "1771 Kim Lodge South Sarah, NH 31119",
+        "id": "ko501"
+    },
+    "invoice": {
+        "bc_no": "Ty39518",
+        "currency_code": "CVE",
+        "date": "19.08.2003",
+        "due_date": "04.08.1991",
+        "number": 552601
+    },
+    "payment": {
+        "bank_name": "Lewis, Davis and Rowe",
+        "bic": "AQUEGBG7",
+        "iban": "PIWN20552468462652"
+    },
+    "products": [
+        {
+            "amount": 212.37,
+            "description": "re-contextualize world-class e-markets",
+            "index": "8",
+            "price": 280.35,
+            "quantity": 9.03,
+            "tax_amount": 32.27,
+            "total_ttc": 309.42,
+            "vat_amount": 3.01
+        },
+        {
+            "amount": 194.34,
+            "description": "productize open-source niches",
+            "index": "1",
+            "price": 124.89,
+            "quantity": 6.0,
+            "tax_amount": 17.99,
+            "total_ttc": 457.01,
+            "vat_amount": 4.46
+        }
+    ],
+    "seller": {
+        "name": "Justin Joseph"
+    },
+    "supplier": {
+        "address": "198 Campbell Overpass Wilkinsborough, IL 55685",
+        "name": "Margaret Ramos"
+    },
+    "tax": {
+        "amount_excluding_tax": 194.14,
+        "amount_including_tax": 137.21,
+        "tax_amount": 19.07,
+        "total_ht": 421.35,
+        "total_ttc": 338.76
+    }
+}

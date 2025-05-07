@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "2132 Ortiz Inlet Apt. 398 Rogersborough, MI 41334",
+        "business_no": "bk900",
+        "id": "uW820"
+    },
+    "invoice": {
+        "date": "28.09.2000",
+        "number": "8835-3995"
+    },
+    "payment": {
+        "due_date": "03.10.2018",
+        "total": 971.03
+    },
+    "products": [
+        {
+            "amount": 34.57,
+            "description": "productize seamless niches",
+            "quantity": 1.8,
+            "reference": "je-493",
+            "unit_price": 38.98
+        },
+        {
+            "amount": 14.27,
+            "description": "brand viral functionalities",
+            "quantity": 8.46,
+            "reference": "gG-042",
+            "unit_price": 87.2
+        },
+        {
+            "amount": 101.09,
+            "description": "visualize B2B niches",
+            "quantity": 4.51,
+            "reference": "Rg-258",
+            "unit_price": 47.25
+        }
+    ],
+    "seller": {
+        "address": "747 Aaron Ridges Apt. 230 North Maryburgh, FM 69302"
+    },
+    "tax": {
+        "base_ht": 225.8,
+        "regulations": 23.3,
+        "total_ht": 445.2,
+        "vat_amount": 165.04,
+        "vat_percentage": 19.05
+    }
+}

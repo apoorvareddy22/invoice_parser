@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "769 Kent Inlet Suite 122 Anthonyville, MN 05473",
+        "company_name": "Caldwell-Richard",
+        "country": "French Polynesia",
+        "name": "Kathy Guerrero"
+    },
+    "invoice": {
+        "date": "29.01.2001",
+        "number": 585169
+    },
+    "payment": {
+        "discount_amount": 26.43,
+        "discount_percentage": 5.32,
+        "due": 43.27,
+        "sub_total": 59.52,
+        "total": 623.42
+    },
+    "products": [
+        {
+            "description": "enhance extensible convergence",
+            "index": "1",
+            "quantity": 9.39,
+            "total_price": 279.4,
+            "unit_price": 32.3
+        },
+        {
+            "description": "architect impactful technologies",
+            "index": "10",
+            "quantity": 3.08,
+            "total_price": 712.55,
+            "unit_price": 15.05
+        }
+    ],
+    "seller": {
+        "address": "3456 Heidi Parkways New Christianburgh, DC 20260",
+        "company_name": "Davis, Butler and Briggs",
+        "vat_no": "yG71551333609"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "PSC 0169, Box 2797 APO AE 32359",
+        "company_name": "Mccoy-Duncan",
+        "country": "Panama",
+        "name": "Dylan Cooper"
+    },
+    "invoice": {
+        "date": "17.12.1999",
+        "number": 967882
+    },
+    "payment": {
+        "discount_amount": 48.18,
+        "discount_percentage": 13.45,
+        "due": 46.15,
+        "sub_total": 113.64,
+        "total": 238.58
+    },
+    "products": [
+        {
+            "description": "embrace plug-and-play networks",
+            "index": "7",
+            "quantity": 4.52,
+            "total_price": 476.15,
+            "unit_price": 82.96
+        },
+        {
+            "description": "e-enable integrated action-items",
+            "index": "8",
+            "quantity": 9.32,
+            "total_price": 134.36,
+            "unit_price": 17.84
+        },
+        {
+            "description": "monetize B2B portals",
+            "index": "1",
+            "quantity": 2.68,
+            "total_price": 663.72,
+            "unit_price": 33.07
+        },
+        {
+            "description": "matrix next-generation action-items",
+            "index": "9",
+            "quantity": 8.65,
+            "total_price": 338.74,
+            "unit_price": 56.09
+        }
+    ],
+    "seller": {
+        "address": "44920 Martin View Port Brian, CT 33274",
+        "company_name": "King-Martin",
+        "vat_no": "Oh23481012711"
+    }
+}

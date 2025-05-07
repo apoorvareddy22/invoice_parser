@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "98530 Ryan Unions Sharonstad, MD 26431"
+    },
+    "invoice": {
+        "bc_no": "PR22754",
+        "date": "24.05.1999",
+        "maturity_date": "25.05.2009",
+        "number": 316556
+    },
+    "products": [
+        {
+            "amount": 194.74,
+            "description": "engineer e-business markets",
+            "quantity": 7.29,
+            "unit_price": 44.15,
+            "vat_amount": 1.29
+        },
+        {
+            "amount": 308.01,
+            "description": "integrate impactful functionalities",
+            "quantity": 2.41,
+            "unit_price": 96.65,
+            "vat_amount": 0.61
+        },
+        {
+            "amount": 369.39,
+            "description": "re-intermediate transparent web services",
+            "quantity": 7.74,
+            "unit_price": 66.64,
+            "vat_amount": 4.94
+        },
+        {
+            "amount": 390.14,
+            "description": "engage scalable applications",
+            "quantity": 4.42,
+            "unit_price": 32.68,
+            "vat_amount": 0.52
+        }
+    ],
+    "seller": {
+        "address": "2594 Black Island West Tiffany, MS 16938"
+    },
+    "tax": {
+        "amount_excluding_tax": 79.18,
+        "amount_including_tax": 107.07,
+        "tax_amount": 17.13
+    }
+}

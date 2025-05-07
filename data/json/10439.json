@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "678 Rodriguez Islands West Matthewfurt, MD 23001",
+        "email": "zmcdonald@example.org",
+        "phone": "001-487-407-2845x3712",
+        "vat_no": "cr92424004528"
+    },
+    "invoice": {
+        "date": "29.11.2023",
+        "due_date": "15.03.1992",
+        "market_reference": 743020,
+        "notes": "synergize dot-com applications",
+        "number": "6296-3013",
+        "reference": 495977,
+        "vat_no": "jJ41643768594"
+    },
+    "payment": {
+        "net_total": 80.66,
+        "total": 197.0
+    },
+    "products": [
+        {
+            "amount": 476.8,
+            "description": "benchmark bricks-and-clicks infrastructures",
+            "hours": 7.6,
+            "rate": 5.97
+        },
+        {
+            "amount": 426.61,
+            "description": "deliver open-source web-readiness",
+            "hours": 7.63,
+            "rate": 2.16
+        },
+        {
+            "amount": 136.51,
+            "description": "unleash viral ROI",
+            "hours": 5.65,
+            "rate": 1.25
+        }
+    ],
+    "seller": {
+        "address": "50970 Kara Route South Ashleyburgh, CT 21630",
+        "email": "tylerstrickland@example.org",
+        "name": "Benjamin Torres"
+    },
+    "tax": {
+        "base": 22.45,
+        "tax_amount": 17.17,
+        "total_tax": 29.74
+    }
+}

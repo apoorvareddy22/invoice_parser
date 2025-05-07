@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "34208 William Avenue Christophertown, GU 62347",
+        "business_no": "Bs799",
+        "id": "Ku482"
+    },
+    "invoice": {
+        "date": "09.04.2019",
+        "number": "9616-6614"
+    },
+    "payment": {
+        "due_date": "13.06.2008",
+        "total": 712.95
+    },
+    "products": [
+        {
+            "amount": 444.96,
+            "description": "monetize back-end vortals",
+            "quantity": 9.98,
+            "reference": "ba-403",
+            "unit_price": 23.29
+        },
+        {
+            "amount": 463.2,
+            "description": "matrix impactful mindshare",
+            "quantity": 3.34,
+            "reference": "Xf-512",
+            "unit_price": 34.02
+        },
+        {
+            "amount": 263.49,
+            "description": "repurpose value-added content",
+            "quantity": 4.87,
+            "reference": "zJ-473",
+            "unit_price": 21.81
+        },
+        {
+            "amount": 296.61,
+            "description": "leverage bricks-and-clicks relationships",
+            "quantity": 8.34,
+            "reference": "eb-058",
+            "unit_price": 70.02
+        }
+    ],
+    "seller": {
+        "address": "1860 Carson Corners New Christinachester, NH 54903"
+    },
+    "tax": {
+        "base_ht": 411.57,
+        "regulations": 16.69,
+        "total_ht": 375.69,
+        "vat_amount": 61.61,
+        "vat_percentage": 25.37
+    }
+}

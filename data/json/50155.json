@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "30252 Freeman Hollow Apt. 955 Harrisonstad, NY 06876",
+        "id": "mQ480"
+    },
+    "invoice": {
+        "bc_no": "Ui08002",
+        "currency_code": "COP",
+        "date": "11.03.2003",
+        "due_date": "30.03.1997",
+        "number": 203640
+    },
+    "payment": {
+        "bank_name": "Tanner Ltd",
+        "bic": "MOXPGBQC",
+        "iban": "GIYF30690484043186"
+    },
+    "products": [
+        {
+            "amount": 260.57,
+            "description": "deliver interactive users",
+            "index": "10",
+            "price": 465.45,
+            "quantity": 1.71,
+            "tax_amount": 79.22,
+            "total_ttc": 349.14,
+            "vat_amount": 2.87
+        },
+        {
+            "amount": 350.26,
+            "description": "deliver end-to-end action-items",
+            "index": "5",
+            "price": 494.87,
+            "quantity": 8.31,
+            "tax_amount": 56.36,
+            "total_ttc": 222.35,
+            "vat_amount": 0.72
+        },
+        {
+            "amount": 49.37,
+            "description": "synthesize extensible applications",
+            "index": "10",
+            "price": 17.06,
+            "quantity": 1.09,
+            "tax_amount": 71.73,
+            "total_ttc": 384.73,
+            "vat_amount": 10.8
+        },
+        {
+            "amount": 194.91,
+            "description": "strategize back-end platforms",
+            "index": "8",
+            "price": 391.71,
+            "quantity": 4.59,
+            "tax_amount": 73.9,
+            "total_ttc": 476.89,
+            "vat_amount": 1.46
+        },
+        {
+            "amount": 146.7,
+            "description": "incentivize leading-edge applications",
+            "index": "10",
+            "price": 239.78,
+            "quantity": 2.54,
+            "tax_amount": 72.95,
+            "total_ttc": 356.45,
+            "vat_amount": 4.07
+        }
+    ],
+    "seller": {
+        "name": "Shaun Ramirez"
+    },
+    "supplier": {
+        "address": "346 Joshua Burg Apt. 754 Stephensmouth, WI 34662",
+        "name": "Michael Moreno"
+    },
+    "tax": {
+        "amount_excluding_tax": 54.46,
+        "amount_including_tax": 83.6,
+        "tax_amount": 12.88,
+        "total_ht": 184.78,
+        "total_ttc": 159.92
+    }
+}

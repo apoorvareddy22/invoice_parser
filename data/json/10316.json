@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "4621 Andrew Mission North Philip, DE 96946",
+        "email": "kennethwest@example.com",
+        "phone": "824.782.3522",
+        "vat_no": "jq66868054069"
+    },
+    "invoice": {
+        "date": "12.09.2021",
+        "due_date": "10.06.2016",
+        "market_reference": 384045,
+        "notes": "brand enterprise technologies",
+        "number": "5256-9173",
+        "reference": 232720,
+        "vat_no": "wF50633160998"
+    },
+    "payment": {
+        "net_total": 57.41,
+        "total": 831.8
+    },
+    "products": [
+        {
+            "amount": 149.66,
+            "description": "utilize B2B communities",
+            "hours": 8.86,
+            "rate": 2.47
+        },
+        {
+            "amount": 387.64,
+            "description": "deliver value-added e-markets",
+            "hours": 3.85,
+            "rate": 4.61
+        },
+        {
+            "amount": 384.12,
+            "description": "aggregate proactive initiatives",
+            "hours": 7.07,
+            "rate": 6.43
+        }
+    ],
+    "seller": {
+        "address": "Unit 8773 Box 4826 DPO AP 25494",
+        "email": "tammyjordan@example.net",
+        "name": "James Cervantes"
+    },
+    "tax": {
+        "base": 22.01,
+        "tax_amount": 28.84,
+        "total_tax": 28.17
+    }
+}

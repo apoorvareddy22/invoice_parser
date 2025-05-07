@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "10162 Myers Square Port Angela, ND 88611"
+    },
+    "invoice": {
+        "bc_no": "Vj20718",
+        "date": "13.12.2000",
+        "maturity_date": "25.01.1995",
+        "number": 397028
+    },
+    "products": [
+        {
+            "amount": 258.98,
+            "description": "harness bleeding-edge convergence",
+            "quantity": 6.66,
+            "unit_price": 80.55,
+            "vat_amount": 3.78
+        }
+    ],
+    "seller": {
+        "address": "35367 Montoya Glens Singhfort, KY 70453"
+    },
+    "tax": {
+        "amount_excluding_tax": 45.16,
+        "amount_including_tax": 97.91,
+        "tax_amount": 15.39
+    }
+}

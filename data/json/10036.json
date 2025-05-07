@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "56222 Marc Lights Port Denise, NJ 39783",
+        "email": "woodardregina@example.org",
+        "phone": "9536492795",
+        "vat_no": "sQ44298886429"
+    },
+    "invoice": {
+        "date": "01.08.1996",
+        "due_date": "23.12.2010",
+        "market_reference": 847640,
+        "notes": "e-enable one-to-one niches",
+        "number": "7861-6315",
+        "reference": 150753,
+        "vat_no": "Ho89658474366"
+    },
+    "payment": {
+        "net_total": 169.16,
+        "total": 139.49
+    },
+    "products": [
+        {
+            "amount": 106.12,
+            "description": "benchmark virtual deliverables",
+            "hours": 9.83,
+            "rate": 8.43
+        }
+    ],
+    "seller": {
+        "address": "USS Walker FPO AA 67845",
+        "email": "kristenadams@example.net",
+        "name": "Samuel Hill"
+    },
+    "tax": {
+        "base": 16.54,
+        "tax_amount": 14.41,
+        "total_tax": 11.48
+    }
+}

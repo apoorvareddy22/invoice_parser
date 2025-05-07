@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "589 Courtney Pine East Dana, IA 18266",
+        "business_no": "XB762",
+        "id": "EH121"
+    },
+    "invoice": {
+        "date": "18.04.1998",
+        "number": "9200-2241"
+    },
+    "payment": {
+        "due_date": "08.02.2005",
+        "total": 119.86
+    },
+    "products": [
+        {
+            "amount": 316.63,
+            "description": "evolve world-class niches",
+            "quantity": 1.59,
+            "reference": "mC-458",
+            "unit_price": 97.43
+        },
+        {
+            "amount": 91.43,
+            "description": "syndicate customized solutions",
+            "quantity": 1.09,
+            "reference": "yR-922",
+            "unit_price": 15.79
+        },
+        {
+            "amount": 281.53,
+            "description": "enable scalable infrastructures",
+            "quantity": 7.59,
+            "reference": "nl-776",
+            "unit_price": 37.73
+        },
+        {
+            "amount": 38.96,
+            "description": "seize ubiquitous info-mediaries",
+            "quantity": 7.31,
+            "reference": "GO-339",
+            "unit_price": 97.61
+        },
+        {
+            "amount": 401.23,
+            "description": "facilitate dot-com solutions",
+            "quantity": 8.96,
+            "reference": "UP-717",
+            "unit_price": 11.53
+        }
+    ],
+    "seller": {
+        "address": "USS Grant FPO AP 90150"
+    },
+    "tax": {
+        "base_ht": 367.4,
+        "regulations": 12.59,
+        "total_ht": 450.95,
+        "vat_amount": 89.47,
+        "vat_percentage": 15.28
+    }
+}

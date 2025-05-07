@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "USCGC Gardner FPO AP 11891",
+        "company_name": "Green-Ellis",
+        "email": "hallandrew@example.com",
+        "name": "Larry Miller",
+        "phone": "569-670-7076x70381"
+    },
+    "invoice": {
+        "date": "05.05.2020",
+        "due_date": "27.09.2018",
+        "number": "pdc32057080639"
+    },
+    "payment": {
+        "account_number": 3274109419,
+        "bank_name": "Page, Raymond and Foley",
+        "routing_number": 317949298
+    },
+    "products": [
+        {
+            "amount": 130.37,
+            "description": "orchestrate interactive ROI",
+            "index": "6",
+            "quantity": 1.46,
+            "unit_price": 63.12
+        },
+        {
+            "amount": 304.5,
+            "description": "syndicate viral users",
+            "index": "10",
+            "quantity": 4.27,
+            "unit_price": 65.06
+        }
+    ],
+    "seller": {
+        "address": "88863 Stephanie Wall Apt. 009 Petersonmouth, TX 11014",
+        "company_name": "Schmidt, Koch and Gentry",
+        "email": "bproctor@example.net"
+    }
+}

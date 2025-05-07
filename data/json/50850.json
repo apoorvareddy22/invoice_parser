@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "07626 Christopher Ports Suite 306 Greerfurt, HI 37617",
+        "id": "qM697"
+    },
+    "invoice": {
+        "bc_no": "xi94800",
+        "currency_code": "XCD",
+        "date": "03.11.2002",
+        "due_date": "22.01.2006",
+        "number": 231720
+    },
+    "payment": {
+        "bank_name": "Gonzalez, Stephens and Clark",
+        "bic": "EQQQGBV073R",
+        "iban": "JHBK81302484609429"
+    },
+    "products": [
+        {
+            "amount": 356.58,
+            "description": "strategize clicks-and-mortar niches",
+            "index": "2",
+            "price": 323.17,
+            "quantity": 7.09,
+            "tax_amount": 32.07,
+            "total_ttc": 115.05,
+            "vat_amount": 2.61
+        },
+        {
+            "amount": 332.18,
+            "description": "incubate collaborative models",
+            "index": "5",
+            "price": 171.33,
+            "quantity": 3.88,
+            "tax_amount": 71.37,
+            "total_ttc": 419.87,
+            "vat_amount": 5.35
+        },
+        {
+            "amount": 225.32,
+            "description": "extend ubiquitous users",
+            "index": "3",
+            "price": 292.9,
+            "quantity": 5.74,
+            "tax_amount": 17.56,
+            "total_ttc": 215.0,
+            "vat_amount": 1.67
+        },
+        {
+            "amount": 296.6,
+            "description": "mesh real-time channels",
+            "index": "4",
+            "price": 395.94,
+            "quantity": 1.89,
+            "tax_amount": 98.73,
+            "total_ttc": 332.55,
+            "vat_amount": 2.07
+        },
+        {
+            "amount": 294.23,
+            "description": "re-intermediate real-time schemas",
+            "index": "7",
+            "price": 328.52,
+            "quantity": 3.15,
+            "tax_amount": 44.67,
+            "total_ttc": 450.03,
+            "vat_amount": 7.0
+        },
+        {
+            "amount": 315.07,
+            "description": "iterate turn-key bandwidth",
+            "index": "5",
+            "price": 176.67,
+            "quantity": 8.57,
+            "tax_amount": 28.37,
+            "total_ttc": 266.07,
+            "vat_amount": 2.21
+        },
+        {
+            "amount": 440.94,
+            "description": "aggregate wireless interfaces",
+            "index": "2",
+            "price": 74.66,
+            "quantity": 4.5,
+            "tax_amount": 17.54,
+            "total_ttc": 454.92,
+            "vat_amount": 4.35
+        }
+    ],
+    "seller": {
+        "name": "Jimmy Ingram"
+    },
+    "supplier": {
+        "address": "196 Shannon Pine Apt. 579 Danielhaven, WA 29657",
+        "name": "Emily Davis"
+    },
+    "tax": {
+        "amount_excluding_tax": 74.8,
+        "amount_including_tax": 186.38,
+        "tax_amount": 26.34,
+        "total_ht": 342.8,
+        "total_ttc": 183.58
+    }
+}

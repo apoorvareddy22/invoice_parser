@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "02258 Moss Ridge Murrayview, MO 04018",
+        "company_name": "Clark, Jackson and Harris",
+        "country": "Ireland",
+        "name": "Michael Hughes"
+    },
+    "invoice": {
+        "date": "05.11.2008",
+        "number": 528791
+    },
+    "payment": {
+        "discount_amount": 21.94,
+        "discount_percentage": 15.21,
+        "due": 65.38,
+        "sub_total": 71.62,
+        "total": 989.12
+    },
+    "products": [
+        {
+            "description": "deliver revolutionary e-tailers",
+            "index": "6",
+            "quantity": 8.97,
+            "total_price": 285.77,
+            "unit_price": 77.34
+        },
+        {
+            "description": "deploy scalable info-mediaries",
+            "index": "9",
+            "quantity": 9.16,
+            "total_price": 127.91,
+            "unit_price": 16.96
+        },
+        {
+            "description": "leverage e-business models",
+            "index": "8",
+            "quantity": 2.62,
+            "total_price": 217.36,
+            "unit_price": 98.49
+        }
+    ],
+    "seller": {
+        "address": "8758 Schaefer Locks Ginaborough, GA 38455",
+        "company_name": "Rice, Atkinson and Vang",
+        "vat_no": "Jb23592368576"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "4586 Harmon Dam South Brenda, OR 45614"
+    },
+    "invoice": {
+        "bc_no": "zd23673",
+        "date": "18.08.2012",
+        "maturity_date": "13.09.1992",
+        "number": 631910
+    },
+    "products": [
+        {
+            "amount": 167.63,
+            "description": "implement vertical interfaces",
+            "quantity": 1.65,
+            "unit_price": 92.87,
+            "vat_amount": 10.38
+        },
+        {
+            "amount": 384.68,
+            "description": "scale value-added action-items",
+            "quantity": 3.42,
+            "unit_price": 96.66,
+            "vat_amount": 6.06
+        },
+        {
+            "amount": 406.03,
+            "description": "grow next-generation networks",
+            "quantity": 8.25,
+            "unit_price": 49.84,
+            "vat_amount": 6.03
+        }
+    ],
+    "seller": {
+        "address": "391 Rachael Parkway Suite 345 East Grant, AZ 80155"
+    },
+    "tax": {
+        "amount_excluding_tax": 128.41,
+        "amount_including_tax": 90.65,
+        "tax_amount": 15.4
+    }
+}

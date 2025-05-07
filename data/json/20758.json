@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "1372 Parker Villages Apt. 909 Dariuschester, GU 35242",
+        "company_name": "Torres PLC",
+        "email": "yatesjohn@example.com",
+        "name": "Mary Boyd",
+        "phone": "424-952-5835x8071"
+    },
+    "invoice": {
+        "date": "05.01.2006",
+        "due_date": "14.07.2017",
+        "number": "ARs63278742223"
+    },
+    "payment": {
+        "account_number": 7056711236,
+        "bank_name": "Woods-Smith",
+        "routing_number": 979398720
+    },
+    "products": [
+        {
+            "amount": 67.08,
+            "description": "redefine distributed bandwidth",
+            "index": "6",
+            "quantity": 4.6,
+            "unit_price": 29.73
+        },
+        {
+            "amount": 489.88,
+            "description": "grow dynamic applications",
+            "index": "8",
+            "quantity": 3.38,
+            "unit_price": 43.59
+        },
+        {
+            "amount": 443.77,
+            "description": "incubate turn-key web-readiness",
+            "index": "6",
+            "quantity": 2.43,
+            "unit_price": 27.3
+        },
+        {
+            "amount": 269.99,
+            "description": "synthesize holistic channels",
+            "index": "2",
+            "quantity": 9.33,
+            "unit_price": 26.0
+        }
+    ],
+    "seller": {
+        "address": "17648 Suzanne Unions Romerofort, WV 66174",
+        "company_name": "Aguirre PLC",
+        "email": "hguzman@example.org"
+    }
+}

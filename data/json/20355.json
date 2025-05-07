@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "5850 Jeremy Hills Shaneberg, MN 05853",
+        "company_name": "Johnson, Underwood and Blackburn",
+        "email": "seanbell@example.org",
+        "name": "Audrey Schmidt",
+        "phone": "001-398-210-5429x405"
+    },
+    "invoice": {
+        "date": "06.07.2001",
+        "due_date": "10.08.2005",
+        "number": "dtx46736947233"
+    },
+    "payment": {
+        "account_number": 5552388957,
+        "bank_name": "Avila PLC",
+        "routing_number": 376353798
+    },
+    "products": [
+        {
+            "amount": 183.37,
+            "description": "exploit compelling convergence",
+            "index": "3",
+            "quantity": 7.7,
+            "unit_price": 23.99
+        },
+        {
+            "amount": 53.97,
+            "description": "transform visionary interfaces",
+            "index": "4",
+            "quantity": 6.93,
+            "unit_price": 47.87
+        },
+        {
+            "amount": 475.11,
+            "description": "mesh collaborative synergies",
+            "index": "2",
+            "quantity": 6.98,
+            "unit_price": 69.15
+        },
+        {
+            "amount": 94.94,
+            "description": "streamline dynamic web-readiness",
+            "index": "1",
+            "quantity": 1.7,
+            "unit_price": 51.95
+        }
+    ],
+    "seller": {
+        "address": "14930 Jones Path East Frankshire, TN 09348",
+        "company_name": "Carrillo, Murphy and Ellis",
+        "email": "michael77@example.com"
+    }
+}

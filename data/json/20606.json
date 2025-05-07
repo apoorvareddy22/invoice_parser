@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "PSC 7239, Box 4585 APO AP 37843",
+        "company_name": "Butler LLC",
+        "email": "kmeyers@example.org",
+        "name": "Robert Anderson",
+        "phone": "+1-679-264-9652x858"
+    },
+    "invoice": {
+        "date": "21.09.2018",
+        "due_date": "16.03.1998",
+        "number": "ntH77541765551"
+    },
+    "payment": {
+        "account_number": 5025347179,
+        "bank_name": "Waters Ltd",
+        "routing_number": 936867013
+    },
+    "products": [
+        {
+            "amount": 290.27,
+            "description": "strategize cross-platform synergies",
+            "index": "1",
+            "quantity": 4.4,
+            "unit_price": 33.78
+        },
+        {
+            "amount": 73.28,
+            "description": "extend B2B interfaces",
+            "index": "2",
+            "quantity": 8.49,
+            "unit_price": 57.85
+        },
+        {
+            "amount": 410.45,
+            "description": "drive extensible experiences",
+            "index": "1",
+            "quantity": 5.14,
+            "unit_price": 59.94
+        },
+        {
+            "amount": 468.89,
+            "description": "enhance scalable convergence",
+            "index": "7",
+            "quantity": 8.2,
+            "unit_price": 16.84
+        },
+        {
+            "amount": 76.25,
+            "description": "grow vertical web-readiness",
+            "index": "10",
+            "quantity": 3.9,
+            "unit_price": 53.55
+        }
+    ],
+    "seller": {
+        "address": "037 Perez Knoll Suite 946 Susanport, IN 47160",
+        "company_name": "Rodgers and Sons",
+        "email": "laurieroberts@example.com"
+    }
+}

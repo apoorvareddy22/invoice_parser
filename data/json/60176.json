@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "2373 James Land Suite 308 Amyland, IN 38840",
+        "business_no": "OJ810",
+        "id": "ui353"
+    },
+    "invoice": {
+        "date": "23.09.2012",
+        "number": "9583-8061"
+    },
+    "payment": {
+        "due_date": "09.02.2006",
+        "total": 755.42
+    },
+    "products": [
+        {
+            "amount": 87.14,
+            "description": "deploy collaborative infrastructures",
+            "quantity": 8.24,
+            "reference": "Xh-574",
+            "unit_price": 18.11
+        },
+        {
+            "amount": 78.18,
+            "description": "iterate web-enabled interfaces",
+            "quantity": 1.51,
+            "reference": "Nk-313",
+            "unit_price": 54.86
+        },
+        {
+            "amount": 206.21,
+            "description": "deploy dynamic schemas",
+            "quantity": 4.54,
+            "reference": "ov-905",
+            "unit_price": 12.89
+        },
+        {
+            "amount": 70.53,
+            "description": "utilize efficient channels",
+            "quantity": 3.4,
+            "reference": "aI-850",
+            "unit_price": 37.42
+        }
+    ],
+    "seller": {
+        "address": "66834 Justin Club Port Courtneyton, HI 02830"
+    },
+    "tax": {
+        "base_ht": 462.53,
+        "regulations": 11.42,
+        "total_ht": 145.62,
+        "vat_amount": 93.87,
+        "vat_percentage": 24.43
+    }
+}

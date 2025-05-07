@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "Unit 6757 Box 5720 DPO AP 51566",
+        "company_name": "Hall Inc",
+        "country": "Papua New Guinea",
+        "name": "Sean Smith"
+    },
+    "invoice": {
+        "date": "29.05.2019",
+        "number": 250487
+    },
+    "payment": {
+        "discount_amount": 30.97,
+        "discount_percentage": 12.74,
+        "due": 47.93,
+        "sub_total": 198.11,
+        "total": 405.39
+    },
+    "products": [
+        {
+            "description": "scale one-to-one content",
+            "index": "10",
+            "quantity": 6.06,
+            "total_price": 499.45,
+            "unit_price": 81.95
+        },
+        {
+            "description": "embrace compelling e-tailers",
+            "index": "2",
+            "quantity": 8.21,
+            "total_price": 585.81,
+            "unit_price": 14.84
+        },
+        {
+            "description": "incentivize compelling initiatives",
+            "index": "1",
+            "quantity": 3.3,
+            "total_price": 561.69,
+            "unit_price": 93.29
+        }
+    ],
+    "seller": {
+        "address": "56156 Mayo Corner Murilloborough, RI 32044",
+        "company_name": "Cook-Wheeler",
+        "vat_no": "dq37500172613"
+    }
+}

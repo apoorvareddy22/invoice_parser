@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "USCGC Wallace FPO AP 44229",
+        "id": "ab351"
+    },
+    "invoice": {
+        "bc_no": "sZ32927",
+        "currency_code": "UAH",
+        "date": "16.07.2014",
+        "due_date": "27.05.2022",
+        "number": 535990
+    },
+    "payment": {
+        "bank_name": "Fox Group",
+        "bic": "ZFGWGBS267O",
+        "iban": "HWAX34178975180192"
+    },
+    "products": [
+        {
+            "amount": 177.0,
+            "description": "deploy web-enabled vortals",
+            "index": "7",
+            "price": 357.14,
+            "quantity": 4.24,
+            "tax_amount": 88.99,
+            "total_ttc": 265.75,
+            "vat_amount": 3.27
+        },
+        {
+            "amount": 483.21,
+            "description": "re-contextualize e-business e-business",
+            "index": "1",
+            "price": 131.37,
+            "quantity": 2.45,
+            "tax_amount": 59.37,
+            "total_ttc": 263.56,
+            "vat_amount": 8.08
+        },
+        {
+            "amount": 76.0,
+            "description": "iterate e-business portals",
+            "index": "1",
+            "price": 146.7,
+            "quantity": 6.11,
+            "tax_amount": 98.41,
+            "total_ttc": 353.09,
+            "vat_amount": 10.29
+        },
+        {
+            "amount": 197.82,
+            "description": "harness collaborative convergence",
+            "index": "5",
+            "price": 250.65,
+            "quantity": 6.58,
+            "tax_amount": 27.41,
+            "total_ttc": 376.9,
+            "vat_amount": 3.26
+        },
+        {
+            "amount": 406.45,
+            "description": "transition B2C e-business",
+            "index": "1",
+            "price": 25.72,
+            "quantity": 4.82,
+            "tax_amount": 80.84,
+            "total_ttc": 205.74,
+            "vat_amount": 0.03
+        },
+        {
+            "amount": 99.24,
+            "description": "leverage cross-platform relationships",
+            "index": "2",
+            "price": 182.91,
+            "quantity": 1.14,
+            "tax_amount": 24.38,
+            "total_ttc": 141.82,
+            "vat_amount": 2.37
+        }
+    ],
+    "seller": {
+        "name": "James Bailey"
+    },
+    "supplier": {
+        "address": "Unit 6268 Box 5363 DPO AA 22810",
+        "name": "Jimmy Nguyen"
+    },
+    "tax": {
+        "amount_excluding_tax": 82.11,
+        "amount_including_tax": 107.81,
+        "tax_amount": 20.67,
+        "total_ht": 334.16,
+        "total_ttc": 225.68
+    }
+}

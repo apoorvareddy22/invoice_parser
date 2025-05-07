@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "480 Gina Land Chloechester, IA 05006",
+        "id": "Jn849"
+    },
+    "invoice": {
+        "bc_no": "iL07524",
+        "currency_code": "ANG",
+        "date": "22.07.2004",
+        "due_date": "17.05.1995",
+        "number": 630492
+    },
+    "payment": {
+        "bank_name": "Vazquez-Price",
+        "bic": "TBCSGBSM99S",
+        "iban": "GBHG25453429974219"
+    },
+    "products": [
+        {
+            "amount": 368.6,
+            "description": "expedite scalable e-commerce",
+            "index": "5",
+            "price": 381.19,
+            "quantity": 5.09,
+            "tax_amount": 22.48,
+            "total_ttc": 119.93,
+            "vat_amount": 1.99
+        },
+        {
+            "amount": 200.14,
+            "description": "aggregate dot-com portals",
+            "index": "2",
+            "price": 366.83,
+            "quantity": 6.24,
+            "tax_amount": 53.56,
+            "total_ttc": 254.02,
+            "vat_amount": 5.72
+        },
+        {
+            "amount": 263.2,
+            "description": "utilize efficient ROI",
+            "index": "4",
+            "price": 31.04,
+            "quantity": 8.65,
+            "tax_amount": 26.2,
+            "total_ttc": 237.82,
+            "vat_amount": 2.78
+        },
+        {
+            "amount": 314.03,
+            "description": "generate revolutionary eyeballs",
+            "index": "2",
+            "price": 472.02,
+            "quantity": 2.22,
+            "tax_amount": 67.53,
+            "total_ttc": 468.66,
+            "vat_amount": 7.81
+        }
+    ],
+    "seller": {
+        "name": "Nicole Grimes"
+    },
+    "supplier": {
+        "address": "13375 Keith Roads Suite 815 New Gabriellebury, WY 28671",
+        "name": "Melinda Brown"
+    },
+    "tax": {
+        "amount_excluding_tax": 130.98,
+        "amount_including_tax": 111.08,
+        "tax_amount": 14.1,
+        "total_ht": 298.2,
+        "total_ttc": 360.97
+    }
+}

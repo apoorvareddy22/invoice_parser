@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "003 Heather Hollow Apt. 901 Richardmouth, SC 94636",
+        "email": "heathersanders@example.org",
+        "phone": "595-460-6619x94588",
+        "vat_no": "WD32502717612"
+    },
+    "invoice": {
+        "date": "08.11.1996",
+        "due_date": "10.06.2013",
+        "market_reference": 630479,
+        "notes": "e-enable interactive e-services",
+        "number": "1597-2720",
+        "reference": 825994,
+        "vat_no": "DS90187410429"
+    },
+    "payment": {
+        "net_total": 93.16,
+        "total": 962.89
+    },
+    "products": [
+        {
+            "amount": 179.04,
+            "description": "e-enable value-added e-services",
+            "hours": 3.27,
+            "rate": 1.85
+        },
+        {
+            "amount": 489.83,
+            "description": "drive frictionless metrics",
+            "hours": 4.7,
+            "rate": 3.77
+        },
+        {
+            "amount": 263.11,
+            "description": "target front-end bandwidth",
+            "hours": 1.39,
+            "rate": 9.74
+        },
+        {
+            "amount": 147.59,
+            "description": "visualize customized infrastructures",
+            "hours": 6.42,
+            "rate": 3.25
+        }
+    ],
+    "seller": {
+        "address": "00110 Miranda Crossing West Mary, IN 63799",
+        "email": "hudsonterry@example.com",
+        "name": "Terry Sims"
+    },
+    "tax": {
+        "base": 22.36,
+        "tax_amount": 22.1,
+        "total_tax": 15.34
+    }
+}

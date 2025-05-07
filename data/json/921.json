@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "2428 Miller Club Allenborough, UT 35607",
+        "company_name": "Nguyen, Christian and Henry",
+        "country": "Mali",
+        "name": "Lauren Miller"
+    },
+    "invoice": {
+        "date": "23.11.2010",
+        "number": 133308
+    },
+    "payment": {
+        "discount_amount": 49.27,
+        "discount_percentage": 10.07,
+        "due": 121.22,
+        "sub_total": 199.41,
+        "total": 379.93
+    },
+    "products": [
+        {
+            "description": "maximize strategic platforms",
+            "index": "4",
+            "quantity": 5.57,
+            "total_price": 84.87,
+            "unit_price": 68.66
+        },
+        {
+            "description": "strategize revolutionary platforms",
+            "index": "3",
+            "quantity": 1.68,
+            "total_price": 380.87,
+            "unit_price": 31.0
+        }
+    ],
+    "seller": {
+        "address": "9551 Sanchez Drive West Amy, MH 11711",
+        "company_name": "Nixon-Moore",
+        "vat_no": "mV26072502744"
+    }
+}

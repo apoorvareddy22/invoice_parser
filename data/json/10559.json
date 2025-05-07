@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "02530 Oneal Meadows Suite 619 Richardburgh, KY 83886",
+        "email": "jamessmith@example.net",
+        "phone": "001-594-868-8059x743",
+        "vat_no": "sd26728168961"
+    },
+    "invoice": {
+        "date": "23.10.2020",
+        "due_date": "02.11.2016",
+        "market_reference": 926607,
+        "notes": "expedite innovative experiences",
+        "number": "7665-0638",
+        "reference": 503429,
+        "vat_no": "MS69461225443"
+    },
+    "payment": {
+        "net_total": 190.93,
+        "total": 160.16
+    },
+    "products": [
+        {
+            "amount": 197.7,
+            "description": "facilitate seamless architectures",
+            "hours": 8.51,
+            "rate": 6.31
+        },
+        {
+            "amount": 252.68,
+            "description": "seize back-end bandwidth",
+            "hours": 7.84,
+            "rate": 3.66
+        },
+        {
+            "amount": 121.22,
+            "description": "iterate distributed web services",
+            "hours": 6.63,
+            "rate": 2.86
+        }
+    ],
+    "seller": {
+        "address": "319 Medina Harbor Apt. 073 Everettberg, NM 20631",
+        "email": "avilachelsea@example.org",
+        "name": "David Conway"
+    },
+    "tax": {
+        "base": 19.64,
+        "tax_amount": 27.81,
+        "total_tax": 19.42
+    }
+}

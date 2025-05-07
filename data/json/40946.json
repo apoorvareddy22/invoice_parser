@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "99412 Jessica Burgs Apt. 369 Port Richardburgh, IL 48090"
+    },
+    "invoice": {
+        "bc_no": "zf60640",
+        "date": "06.10.2001",
+        "maturity_date": "02.12.1992",
+        "number": 340835
+    },
+    "products": [
+        {
+            "amount": 45.96,
+            "description": "scale granular content",
+            "quantity": 9.7,
+            "unit_price": 28.47,
+            "vat_amount": 5.39
+        },
+        {
+            "amount": 375.0,
+            "description": "enhance proactive bandwidth",
+            "quantity": 8.41,
+            "unit_price": 13.54,
+            "vat_amount": 2.17
+        }
+    ],
+    "seller": {
+        "address": "7466 Rachel Circle Suite 595 Port Christopher, WV 52013"
+    },
+    "tax": {
+        "amount_excluding_tax": 35.34,
+        "amount_including_tax": 157.16,
+        "tax_amount": 22.98
+    }
+}

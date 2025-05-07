@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "Unit 3068 Box 8175 DPO AE 23370",
+        "id": "jE766"
+    },
+    "invoice": {
+        "bc_no": "tG70506",
+        "currency_code": "KZT",
+        "date": "08.07.1997",
+        "due_date": "28.06.1995",
+        "number": 686789
+    },
+    "payment": {
+        "bank_name": "Evans LLC",
+        "bic": "CNGOGB58",
+        "iban": "OORH03820447996067"
+    },
+    "products": [
+        {
+            "amount": 64.98,
+            "description": "revolutionize mission-critical markets",
+            "index": "3",
+            "price": 67.04,
+            "quantity": 3.25,
+            "tax_amount": 87.53,
+            "total_ttc": 166.59,
+            "vat_amount": 2.1
+        },
+        {
+            "amount": 26.23,
+            "description": "enable magnetic info-mediaries",
+            "index": "6",
+            "price": 277.09,
+            "quantity": 2.82,
+            "tax_amount": 59.96,
+            "total_ttc": 125.23,
+            "vat_amount": 7.56
+        },
+        {
+            "amount": 355.96,
+            "description": "streamline cutting-edge infrastructures",
+            "index": "2",
+            "price": 440.64,
+            "quantity": 3.12,
+            "tax_amount": 86.39,
+            "total_ttc": 386.35,
+            "vat_amount": 8.28
+        },
+        {
+            "amount": 13.61,
+            "description": "re-intermediate intuitive relationships",
+            "index": "10",
+            "price": 115.68,
+            "quantity": 1.92,
+            "tax_amount": 82.8,
+            "total_ttc": 492.39,
+            "vat_amount": 0.84
+        },
+        {
+            "amount": 416.92,
+            "description": "evolve end-to-end markets",
+            "index": "10",
+            "price": 55.12,
+            "quantity": 4.39,
+            "tax_amount": 39.48,
+            "total_ttc": 466.27,
+            "vat_amount": 4.74
+        },
+        {
+            "amount": 471.24,
+            "description": "engage strategic e-markets",
+            "index": "1",
+            "price": 396.35,
+            "quantity": 7.03,
+            "tax_amount": 33.4,
+            "total_ttc": 245.64,
+            "vat_amount": 11.94
+        }
+    ],
+    "seller": {
+        "name": "Kara Dougherty"
+    },
+    "supplier": {
+        "address": "284 Klein Mall Apt. 903 South Edwardtown, WV 40113",
+        "name": "John Berg"
+    },
+    "tax": {
+        "amount_excluding_tax": 154.23,
+        "amount_including_tax": 163.01,
+        "tax_amount": 26.32,
+        "total_ht": 109.07,
+        "total_ttc": 104.52
+    }
+}

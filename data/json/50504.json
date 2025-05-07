@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "PSC 0568, Box 1368 APO AA 32331",
+        "id": "Sk930"
+    },
+    "invoice": {
+        "bc_no": "fj11119",
+        "currency_code": "SBD",
+        "date": "11.04.2018",
+        "due_date": "06.12.2002",
+        "number": 636744
+    },
+    "payment": {
+        "bank_name": "Sanchez, Lyons and Miller",
+        "bic": "VPCOGBUS",
+        "iban": "ASUS53827011911516"
+    },
+    "products": [
+        {
+            "amount": 315.37,
+            "description": "re-contextualize customized convergence",
+            "index": "7",
+            "price": 128.65,
+            "quantity": 2.22,
+            "tax_amount": 54.85,
+            "total_ttc": 287.35,
+            "vat_amount": 12.26
+        },
+        {
+            "amount": 364.87,
+            "description": "grow collaborative methodologies",
+            "index": "9",
+            "price": 98.58,
+            "quantity": 6.76,
+            "tax_amount": 56.27,
+            "total_ttc": 156.37,
+            "vat_amount": 6.6
+        }
+    ],
+    "seller": {
+        "name": "Kimberly Miller"
+    },
+    "supplier": {
+        "address": "702 Bethany Groves Chapmantown, WA 36598",
+        "name": "Stephanie Chen"
+    },
+    "tax": {
+        "amount_excluding_tax": 149.34,
+        "amount_including_tax": 53.94,
+        "tax_amount": 11.46,
+        "total_ht": 404.02,
+        "total_ttc": 107.08
+    }
+}

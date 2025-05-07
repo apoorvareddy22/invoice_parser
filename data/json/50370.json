@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "PSC 5169, Box 8280 APO AE 07464",
+        "id": "HY341"
+    },
+    "invoice": {
+        "bc_no": "AX51718",
+        "currency_code": "ZWD",
+        "date": "02.07.2007",
+        "due_date": "17.11.2018",
+        "number": 762954
+    },
+    "payment": {
+        "bank_name": "French-Rush",
+        "bic": "PYATGBNQFZC",
+        "iban": "DNDZ48527896091204"
+    },
+    "products": [
+        {
+            "amount": 308.79,
+            "description": "enhance cross-platform methodologies",
+            "index": "10",
+            "price": 491.83,
+            "quantity": 7.96,
+            "tax_amount": 28.31,
+            "total_ttc": 497.32,
+            "vat_amount": 0.53
+        },
+        {
+            "amount": 381.38,
+            "description": "seize proactive e-business",
+            "index": "6",
+            "price": 417.75,
+            "quantity": 8.62,
+            "tax_amount": 83.91,
+            "total_ttc": 367.96,
+            "vat_amount": 4.19
+        },
+        {
+            "amount": 130.87,
+            "description": "transition B2C methodologies",
+            "index": "8",
+            "price": 299.65,
+            "quantity": 2.45,
+            "tax_amount": 13.12,
+            "total_ttc": 497.98,
+            "vat_amount": 0.83
+        }
+    ],
+    "seller": {
+        "name": "Kirsten Leon"
+    },
+    "supplier": {
+        "address": "5186 Keith Corner Suite 118 Brenttown, TN 86615",
+        "name": "Anthony Gross"
+    },
+    "tax": {
+        "amount_excluding_tax": 37.22,
+        "amount_including_tax": 194.6,
+        "tax_amount": 24.68,
+        "total_ht": 319.43,
+        "total_ttc": 214.53
+    }
+}

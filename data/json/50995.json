@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "0936 Riley Locks Apt. 675 Christensenmouth, MP 20765",
+        "id": "Lr896"
+    },
+    "invoice": {
+        "bc_no": "le98438",
+        "currency_code": "INR",
+        "date": "04.01.2014",
+        "due_date": "14.07.1990",
+        "number": 653351
+    },
+    "payment": {
+        "bank_name": "Bennett-Mckay",
+        "bic": "KUYFGBW5",
+        "iban": "PULN46078729272309"
+    },
+    "products": [
+        {
+            "amount": 388.51,
+            "description": "target sticky e-services",
+            "index": "9",
+            "price": 111.86,
+            "quantity": 9.9,
+            "tax_amount": 60.62,
+            "total_ttc": 373.21,
+            "vat_amount": 2.45
+        },
+        {
+            "amount": 432.68,
+            "description": "implement ubiquitous synergies",
+            "index": "4",
+            "price": 479.06,
+            "quantity": 9.33,
+            "tax_amount": 60.28,
+            "total_ttc": 329.53,
+            "vat_amount": 1.12
+        },
+        {
+            "amount": 86.01,
+            "description": "facilitate transparent models",
+            "index": "3",
+            "price": 97.58,
+            "quantity": 2.28,
+            "tax_amount": 31.25,
+            "total_ttc": 388.1,
+            "vat_amount": 13.69
+        }
+    ],
+    "seller": {
+        "name": "Anna Murray"
+    },
+    "supplier": {
+        "address": "40033 Daniel Lake Smithchester, ID 94242",
+        "name": "Jeffrey Cunningham"
+    },
+    "tax": {
+        "amount_excluding_tax": 25.48,
+        "amount_including_tax": 15.47,
+        "tax_amount": 10.59,
+        "total_ht": 366.66,
+        "total_ttc": 145.72
+    }
+}

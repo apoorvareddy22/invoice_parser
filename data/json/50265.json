@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "PSC 4529, Box 0535 APO AA 67555",
+        "id": "jz258"
+    },
+    "invoice": {
+        "bc_no": "Ju28778",
+        "currency_code": "SRD",
+        "date": "27.07.2020",
+        "due_date": "19.05.2007",
+        "number": 599432
+    },
+    "payment": {
+        "bank_name": "Conley, Underwood and Steele",
+        "bic": "ILJWGBH3DUZ",
+        "iban": "ZFBU45153617166113"
+    },
+    "products": [
+        {
+            "amount": 326.72,
+            "description": "streamline open-source initiatives",
+            "index": "4",
+            "price": 190.29,
+            "quantity": 8.71,
+            "tax_amount": 77.92,
+            "total_ttc": 356.12,
+            "vat_amount": 1.19
+        },
+        {
+            "amount": 394.89,
+            "description": "target bricks-and-clicks ROI",
+            "index": "9",
+            "price": 61.65,
+            "quantity": 7.92,
+            "tax_amount": 67.52,
+            "total_ttc": 390.36,
+            "vat_amount": 9.23
+        },
+        {
+            "amount": 38.85,
+            "description": "optimize efficient e-markets",
+            "index": "3",
+            "price": 140.33,
+            "quantity": 1.68,
+            "tax_amount": 61.38,
+            "total_ttc": 330.26,
+            "vat_amount": 13.17
+        },
+        {
+            "amount": 7.31,
+            "description": "streamline best-of-breed applications",
+            "index": "4",
+            "price": 275.03,
+            "quantity": 1.41,
+            "tax_amount": 38.44,
+            "total_ttc": 212.12,
+            "vat_amount": 2.36
+        },
+        {
+            "amount": 447.02,
+            "description": "deploy interactive content",
+            "index": "9",
+            "price": 216.61,
+            "quantity": 6.21,
+            "tax_amount": 69.86,
+            "total_ttc": 434.29,
+            "vat_amount": 2.61
+        },
+        {
+            "amount": 345.84,
+            "description": "disintermediate cutting-edge platforms",
+            "index": "2",
+            "price": 341.01,
+            "quantity": 4.57,
+            "tax_amount": 22.55,
+            "total_ttc": 238.5,
+            "vat_amount": 0.59
+        },
+        {
+            "amount": 50.61,
+            "description": "seize turn-key platforms",
+            "index": "3",
+            "price": 70.01,
+            "quantity": 7.32,
+            "tax_amount": 43.43,
+            "total_ttc": 241.29,
+            "vat_amount": 2.62
+        }
+    ],
+    "seller": {
+        "name": "David Lynch PhD"
+    },
+    "supplier": {
+        "address": "63900 Adam Causeway Suite 309 Aguirrechester, GU 67073",
+        "name": "Robert Robinson"
+    },
+    "tax": {
+        "amount_excluding_tax": 23.28,
+        "amount_including_tax": 151.83,
+        "tax_amount": 17.28,
+        "total_ht": 180.9,
+        "total_ttc": 137.27
+    }
+}

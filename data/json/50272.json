@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "6221 Brian Springs Suite 492 New Christine, MS 93198",
+        "id": "zU064"
+    },
+    "invoice": {
+        "bc_no": "Kc27027",
+        "currency_code": "JEP",
+        "date": "09.10.2012",
+        "due_date": "09.06.2021",
+        "number": 243948
+    },
+    "payment": {
+        "bank_name": "Porter Group",
+        "bic": "XBBLGB4Y",
+        "iban": "JDKP04214258664093"
+    },
+    "products": [
+        {
+            "amount": 393.28,
+            "description": "mesh real-time networks",
+            "index": "8",
+            "price": 487.51,
+            "quantity": 1.1,
+            "tax_amount": 21.48,
+            "total_ttc": 376.6,
+            "vat_amount": 0.03
+        },
+        {
+            "amount": 496.14,
+            "description": "embrace ubiquitous eyeballs",
+            "index": "6",
+            "price": 233.33,
+            "quantity": 5.27,
+            "tax_amount": 39.13,
+            "total_ttc": 239.23,
+            "vat_amount": 2.76
+        },
+        {
+            "amount": 289.31,
+            "description": "synthesize impactful info-mediaries",
+            "index": "10",
+            "price": 246.74,
+            "quantity": 1.92,
+            "tax_amount": 54.03,
+            "total_ttc": 158.57,
+            "vat_amount": 1.61
+        },
+        {
+            "amount": 155.69,
+            "description": "deploy strategic e-tailers",
+            "index": "9",
+            "price": 23.11,
+            "quantity": 2.07,
+            "tax_amount": 95.55,
+            "total_ttc": 356.97,
+            "vat_amount": 2.35
+        },
+        {
+            "amount": 356.76,
+            "description": "architect end-to-end methodologies",
+            "index": "6",
+            "price": 417.66,
+            "quantity": 9.28,
+            "tax_amount": 64.33,
+            "total_ttc": 494.12,
+            "vat_amount": 6.9
+        },
+        {
+            "amount": 125.19,
+            "description": "deliver impactful e-tailers",
+            "index": "9",
+            "price": 263.83,
+            "quantity": 9.3,
+            "tax_amount": 40.18,
+            "total_ttc": 436.46,
+            "vat_amount": 11.93
+        },
+        {
+            "amount": 365.73,
+            "description": "revolutionize world-class e-tailers",
+            "index": "5",
+            "price": 254.84,
+            "quantity": 7.24,
+            "tax_amount": 34.14,
+            "total_ttc": 466.1,
+            "vat_amount": 2.37
+        }
+    ],
+    "seller": {
+        "name": "Scott Frazier"
+    },
+    "supplier": {
+        "address": "81360 Smith Glens South Paulmouth, CT 28831",
+        "name": "Sydney Wong"
+    },
+    "tax": {
+        "amount_excluding_tax": 168.79,
+        "amount_including_tax": 33.65,
+        "tax_amount": 14.14,
+        "total_ht": 363.67,
+        "total_ttc": 150.2
+    }
+}

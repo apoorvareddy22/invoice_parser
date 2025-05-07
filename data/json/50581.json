@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "Unit 1358 Box 7824 DPO AA 55570",
+        "id": "fC669"
+    },
+    "invoice": {
+        "bc_no": "dY40196",
+        "currency_code": "QAR",
+        "date": "19.03.2020",
+        "due_date": "17.07.2000",
+        "number": 509302
+    },
+    "payment": {
+        "bank_name": "Robles-Barnes",
+        "bic": "PHUSGBNL",
+        "iban": "MBCV99607652592999"
+    },
+    "products": [
+        {
+            "amount": 110.52,
+            "description": "unleash ubiquitous deliverables",
+            "index": "9",
+            "price": 85.71,
+            "quantity": 9.24,
+            "tax_amount": 85.41,
+            "total_ttc": 281.52,
+            "vat_amount": 5.39
+        },
+        {
+            "amount": 27.09,
+            "description": "orchestrate transparent niches",
+            "index": "2",
+            "price": 245.55,
+            "quantity": 3.6,
+            "tax_amount": 61.87,
+            "total_ttc": 169.74,
+            "vat_amount": 9.65
+        }
+    ],
+    "seller": {
+        "name": "Jennifer Black"
+    },
+    "supplier": {
+        "address": "6354 Crystal Street New Wesley, IA 39089",
+        "name": "Joseph Duran"
+    },
+    "tax": {
+        "amount_excluding_tax": 104.06,
+        "amount_including_tax": 42.69,
+        "tax_amount": 21.91,
+        "total_ht": 110.88,
+        "total_ttc": 386.17
+    }
+}

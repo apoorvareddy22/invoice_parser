@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "22123 Becker Way Churchchester, CA 55413",
+        "company_name": "Brown-White",
+        "email": "fwolfe@example.com",
+        "name": "Michele Reed",
+        "phone": "001-992-336-6488x94056"
+    },
+    "invoice": {
+        "date": "01.12.2001",
+        "due_date": "14.10.2020",
+        "number": "zre83240951121"
+    },
+    "payment": {
+        "account_number": 8103053272,
+        "bank_name": "Martinez-Oconnor",
+        "routing_number": 746932298
+    },
+    "products": [
+        {
+            "amount": 474.5,
+            "description": "deliver transparent vortals",
+            "index": "3",
+            "quantity": 4.18,
+            "unit_price": 26.11
+        }
+    ],
+    "seller": {
+        "address": "39359 Katelyn Forest Suite 293 South Joshuashire, NE 74072",
+        "company_name": "Baker, Byrd and Stevens",
+        "email": "daltonpatton@example.net"
+    }
+}

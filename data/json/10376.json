@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "0209 Perry Vista Suite 422 Raymondmouth, ID 44190",
+        "email": "taylor49@example.com",
+        "phone": "6087839935",
+        "vat_no": "vv70513744640"
+    },
+    "invoice": {
+        "date": "01.07.2023",
+        "due_date": "29.04.2019",
+        "market_reference": 701256,
+        "notes": "incubate holistic models",
+        "number": "6302-6165",
+        "reference": 151449,
+        "vat_no": "Mr27964779882"
+    },
+    "payment": {
+        "net_total": 165.18,
+        "total": 943.67
+    },
+    "products": [
+        {
+            "amount": 60.25,
+            "description": "iterate virtual technologies",
+            "hours": 4.67,
+            "rate": 8.71
+        }
+    ],
+    "seller": {
+        "address": "656 Parker Neck West Robertview, GU 41128",
+        "email": "justinhinton@example.net",
+        "name": "Sarah Valdez"
+    },
+    "tax": {
+        "base": 20.81,
+        "tax_amount": 21.47,
+        "total_tax": 24.14
+    }
+}

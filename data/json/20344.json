@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "7765 Gibson Vista Apt. 993 Mccormickfurt, RI 99420",
+        "company_name": "Davis PLC",
+        "email": "nelsontammy@example.com",
+        "name": "Mark Baker",
+        "phone": "+1-772-629-2627"
+    },
+    "invoice": {
+        "date": "09.02.2014",
+        "due_date": "28.11.2012",
+        "number": "CgI55015308447"
+    },
+    "payment": {
+        "account_number": 4817830366,
+        "bank_name": "Jackson, White and Jones",
+        "routing_number": 196974062
+    },
+    "products": [
+        {
+            "amount": 252.25,
+            "description": "iterate wireless e-business",
+            "index": "9",
+            "quantity": 7.22,
+            "unit_price": 61.81
+        },
+        {
+            "amount": 89.44,
+            "description": "engage best-of-breed methodologies",
+            "index": "5",
+            "quantity": 5.96,
+            "unit_price": 61.96
+        },
+        {
+            "amount": 400.66,
+            "description": "evolve wireless users",
+            "index": "5",
+            "quantity": 5.92,
+            "unit_price": 66.21
+        },
+        {
+            "amount": 138.04,
+            "description": "utilize back-end models",
+            "index": "4",
+            "quantity": 1.9,
+            "unit_price": 98.11
+        }
+    ],
+    "seller": {
+        "address": "Unit 1750 Box 3997 DPO AA 17616",
+        "company_name": "Benjamin, Vega and Ware",
+        "email": "zbrown@example.com"
+    }
+}

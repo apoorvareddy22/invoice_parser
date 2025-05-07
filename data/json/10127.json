@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "Unit 4272 Box 9573 DPO AE 16788",
+        "email": "christian26@example.net",
+        "phone": "(361)897-0811",
+        "vat_no": "SL48267874427"
+    },
+    "invoice": {
+        "date": "13.06.2005",
+        "due_date": "21.07.2005",
+        "market_reference": 114589,
+        "notes": "extend synergistic deliverables",
+        "number": "1437-5839",
+        "reference": 913736,
+        "vat_no": "KW31292207902"
+    },
+    "payment": {
+        "net_total": 37.79,
+        "total": 717.97
+    },
+    "products": [
+        {
+            "amount": 234.32,
+            "description": "disintermediate bleeding-edge infrastructures",
+            "hours": 9.45,
+            "rate": 7.66
+        },
+        {
+            "amount": 369.08,
+            "description": "enable collaborative action-items",
+            "hours": 9.29,
+            "rate": 9.53
+        },
+        {
+            "amount": 360.03,
+            "description": "enable out-of-the-box schemas",
+            "hours": 5.69,
+            "rate": 6.95
+        },
+        {
+            "amount": 267.72,
+            "description": "matrix best-of-breed web services",
+            "hours": 3.43,
+            "rate": 3.59
+        },
+        {
+            "amount": 462.05,
+            "description": "unleash end-to-end web services",
+            "hours": 1.69,
+            "rate": 6.44
+        }
+    ],
+    "seller": {
+        "address": "6175 Kirk Isle Suite 881 West Alexis, CT 91214",
+        "email": "awalsh@example.com",
+        "name": "Linda Bennett"
+    },
+    "tax": {
+        "base": 12.22,
+        "tax_amount": 17.39,
+        "total_tax": 26.22
+    }
+}

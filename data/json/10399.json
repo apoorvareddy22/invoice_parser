@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "535 Smith Glen Brianbury, MO 88589",
+        "email": "umiller@example.org",
+        "phone": "001-438-837-3502",
+        "vat_no": "FR11436168059"
+    },
+    "invoice": {
+        "date": "24.09.2014",
+        "due_date": "29.07.2009",
+        "market_reference": 892340,
+        "notes": "monetize open-source content",
+        "number": "5646-3560",
+        "reference": 963582,
+        "vat_no": "TK17042326369"
+    },
+    "payment": {
+        "net_total": 21.49,
+        "total": 532.83
+    },
+    "products": [
+        {
+            "amount": 437.93,
+            "description": "redefine clicks-and-mortar mindshare",
+            "hours": 8.25,
+            "rate": 4.22
+        },
+        {
+            "amount": 246.84,
+            "description": "streamline strategic info-mediaries",
+            "hours": 4.34,
+            "rate": 8.82
+        },
+        {
+            "amount": 218.14,
+            "description": "leverage cutting-edge functionalities",
+            "hours": 7.08,
+            "rate": 5.44
+        },
+        {
+            "amount": 336.52,
+            "description": "productize viral schemas",
+            "hours": 4.18,
+            "rate": 2.26
+        },
+        {
+            "amount": 10.37,
+            "description": "target cross-media synergies",
+            "hours": 9.88,
+            "rate": 3.22
+        }
+    ],
+    "seller": {
+        "address": "390 John Port Suite 541 East Juliaburgh, AK 37519",
+        "email": "prestonmelanie@example.com",
+        "name": "Gerald Osborne"
+    },
+    "tax": {
+        "base": 22.47,
+        "tax_amount": 29.37,
+        "total_tax": 21.42
+    }
+}

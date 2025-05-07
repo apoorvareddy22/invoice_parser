@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "1437 Edwin Prairie Suite 219 North Nicholas, AZ 36544",
+        "company_name": "Nelson PLC",
+        "email": "yevans@example.net",
+        "name": "Sabrina Spencer",
+        "phone": "986-438-6490x2091"
+    },
+    "invoice": {
+        "date": "17.11.1991",
+        "due_date": "02.03.2014",
+        "number": "EUr05135770704"
+    },
+    "payment": {
+        "account_number": 8935990910,
+        "bank_name": "Chambers-Cole",
+        "routing_number": 833235759
+    },
+    "products": [
+        {
+            "amount": 184.28,
+            "description": "utilize leading-edge info-mediaries",
+            "index": "5",
+            "quantity": 6.27,
+            "unit_price": 51.2
+        },
+        {
+            "amount": 163.54,
+            "description": "incentivize plug-and-play methodologies",
+            "index": "10",
+            "quantity": 1.29,
+            "unit_price": 48.36
+        },
+        {
+            "amount": 263.12,
+            "description": "grow rich web-readiness",
+            "index": "3",
+            "quantity": 1.5,
+            "unit_price": 70.47
+        },
+        {
+            "amount": 87.97,
+            "description": "utilize vertical eyeballs",
+            "index": "7",
+            "quantity": 5.92,
+            "unit_price": 25.79
+        }
+    ],
+    "seller": {
+        "address": "Unit 9260 Box 8677 DPO AP 10655",
+        "company_name": "Wood, West and Davidson",
+        "email": "gperry@example.net"
+    }
+}

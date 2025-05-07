@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "81069 Becky Hills Erinview, NH 69932",
+        "business_no": "Ai759",
+        "id": "QQ031"
+    },
+    "invoice": {
+        "date": "13.07.1993",
+        "number": "1726-8407"
+    },
+    "payment": {
+        "due_date": "02.10.2005",
+        "total": 262.6
+    },
+    "products": [
+        {
+            "amount": 177.59,
+            "description": "strategize integrated markets",
+            "quantity": 7.26,
+            "reference": "yH-488",
+            "unit_price": 47.67
+        },
+        {
+            "amount": 322.25,
+            "description": "synergize clicks-and-mortar platforms",
+            "quantity": 3.17,
+            "reference": "WC-239",
+            "unit_price": 48.74
+        }
+    ],
+    "seller": {
+        "address": "USCGC Jenkins FPO AA 40069"
+    },
+    "tax": {
+        "base_ht": 164.19,
+        "regulations": 23.39,
+        "total_ht": 424.01,
+        "vat_amount": 74.25,
+        "vat_percentage": 28.19
+    }
+}

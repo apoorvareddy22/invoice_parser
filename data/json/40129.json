@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "437 Shannon Brook Suite 004 Hollyton, SC 77332"
+    },
+    "invoice": {
+        "bc_no": "ZT52336",
+        "date": "10.06.2014",
+        "maturity_date": "14.04.2014",
+        "number": 573080
+    },
+    "products": [
+        {
+            "amount": 483.02,
+            "description": "maximize cross-platform action-items",
+            "quantity": 2.34,
+            "unit_price": 69.92,
+            "vat_amount": 15.52
+        },
+        {
+            "amount": 237.86,
+            "description": "evolve global e-commerce",
+            "quantity": 3.0,
+            "unit_price": 74.32,
+            "vat_amount": 0.82
+        },
+        {
+            "amount": 95.69,
+            "description": "seize customized networks",
+            "quantity": 1.59,
+            "unit_price": 75.46,
+            "vat_amount": 2.0
+        },
+        {
+            "amount": 469.37,
+            "description": "drive e-business paradigms",
+            "quantity": 8.62,
+            "unit_price": 60.78,
+            "vat_amount": 2.03
+        }
+    ],
+    "seller": {
+        "address": "938 Shirley Overpass Suite 009 Matthewbury, AL 91949"
+    },
+    "tax": {
+        "amount_excluding_tax": 36.99,
+        "amount_including_tax": 65.37,
+        "tax_amount": 23.62
+    }
+}

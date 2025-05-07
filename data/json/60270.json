@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "617 Jones Corners Suite 949 Ginastad, CT 33959",
+        "business_no": "LE198",
+        "id": "ks011"
+    },
+    "invoice": {
+        "date": "13.07.1999",
+        "number": "4586-6593"
+    },
+    "payment": {
+        "due_date": "12.09.2006",
+        "total": 302.83
+    },
+    "products": [
+        {
+            "amount": 469.92,
+            "description": "generate next-generation mindshare",
+            "quantity": 8.1,
+            "reference": "in-003",
+            "unit_price": 47.38
+        },
+        {
+            "amount": 416.86,
+            "description": "whiteboard rich e-business",
+            "quantity": 3.57,
+            "reference": "eo-152",
+            "unit_price": 86.34
+        }
+    ],
+    "seller": {
+        "address": "614 Gutierrez Path East Anthonyborough, NC 75589"
+    },
+    "tax": {
+        "base_ht": 481.99,
+        "regulations": 23.92,
+        "total_ht": 301.24,
+        "vat_amount": 132.48,
+        "vat_percentage": 14.2
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "Unit 1378 Box 1084 DPO AE 05176",
+        "email": "andersonbrandon@example.com",
+        "phone": "491-905-3160x36493",
+        "vat_no": "Eu64999595070"
+    },
+    "invoice": {
+        "date": "29.07.2014",
+        "due_date": "10.07.2013",
+        "market_reference": 765284,
+        "notes": "evolve dynamic vortals",
+        "number": "6005-4625",
+        "reference": 300127,
+        "vat_no": "DP86538352987"
+    },
+    "payment": {
+        "net_total": 119.78,
+        "total": 939.86
+    },
+    "products": [
+        {
+            "amount": 163.6,
+            "description": "optimize one-to-one markets",
+            "hours": 8.79,
+            "rate": 6.11
+        },
+        {
+            "amount": 432.95,
+            "description": "architect integrated e-markets",
+            "hours": 3.82,
+            "rate": 6.48
+        },
+        {
+            "amount": 400.35,
+            "description": "re-intermediate turn-key metrics",
+            "hours": 4.18,
+            "rate": 5.07
+        },
+        {
+            "amount": 369.97,
+            "description": "re-contextualize cutting-edge content",
+            "hours": 1.46,
+            "rate": 2.94
+        },
+        {
+            "amount": 274.99,
+            "description": "deploy synergistic e-markets",
+            "hours": 1.36,
+            "rate": 4.37
+        }
+    ],
+    "seller": {
+        "address": "69960 Jason Springs Apt. 155 East Donnaland, CA 82288",
+        "email": "chadgraham@example.org",
+        "name": "Ryan Ellis"
+    },
+    "tax": {
+        "base": 16.93,
+        "tax_amount": 21.31,
+        "total_tax": 11.22
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "9430 Alexandria Spur Anthonyland, DE 50908",
+        "email": "michael35@example.org",
+        "phone": "991-215-2787",
+        "vat_no": "bb62689838622"
+    },
+    "invoice": {
+        "date": "26.11.2015",
+        "due_date": "08.10.2000",
+        "market_reference": 755599,
+        "notes": "leverage compelling mindshare",
+        "number": "0159-7350",
+        "reference": 130481,
+        "vat_no": "GC60657520328"
+    },
+    "payment": {
+        "net_total": 87.82,
+        "total": 582.16
+    },
+    "products": [
+        {
+            "amount": 22.05,
+            "description": "transform user-centric technologies",
+            "hours": 7.42,
+            "rate": 9.55
+        },
+        {
+            "amount": 72.54,
+            "description": "envisioneer dot-com architectures",
+            "hours": 8.29,
+            "rate": 2.37
+        },
+        {
+            "amount": 195.09,
+            "description": "empower clicks-and-mortar technologies",
+            "hours": 1.65,
+            "rate": 2.44
+        },
+        {
+            "amount": 22.42,
+            "description": "grow transparent vortals",
+            "hours": 3.41,
+            "rate": 8.3
+        },
+        {
+            "amount": 479.95,
+            "description": "exploit robust convergence",
+            "hours": 7.63,
+            "rate": 2.79
+        },
+        {
+            "amount": 365.32,
+            "description": "implement extensible platforms",
+            "hours": 5.14,
+            "rate": 4.5
+        },
+        {
+            "amount": 294.99,
+            "description": "repurpose interactive functionalities",
+            "hours": 1.88,
+            "rate": 6.55
+        }
+    ],
+    "seller": {
+        "address": "46037 Derek Canyon Ricardoside, VA 66184",
+        "email": "scottbailey@example.org",
+        "name": "Steven Ware"
+    },
+    "tax": {
+        "base": 29.57,
+        "tax_amount": 14.28,
+        "total_tax": 13.49
+    }
+}

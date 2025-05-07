@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "60534 Johns Plains Suite 011 South Carolynton, GA 88980",
+        "id": "OV966"
+    },
+    "invoice": {
+        "bc_no": "ZD74017",
+        "currency_code": "BSD",
+        "date": "05.07.2015",
+        "due_date": "04.03.1997",
+        "number": 676016
+    },
+    "payment": {
+        "bank_name": "Williams, Thomas and Hammond",
+        "bic": "HDZNGBNR",
+        "iban": "EBOO74329202912726"
+    },
+    "products": [
+        {
+            "amount": 109.63,
+            "description": "embrace frictionless e-business",
+            "index": "10",
+            "price": 350.19,
+            "quantity": 8.42,
+            "tax_amount": 42.17,
+            "total_ttc": 142.0,
+            "vat_amount": 0.81
+        },
+        {
+            "amount": 75.43,
+            "description": "synthesize dynamic infrastructures",
+            "index": "5",
+            "price": 394.11,
+            "quantity": 3.48,
+            "tax_amount": 83.78,
+            "total_ttc": 340.61,
+            "vat_amount": 9.48
+        },
+        {
+            "amount": 126.41,
+            "description": "incubate granular content",
+            "index": "4",
+            "price": 477.11,
+            "quantity": 9.04,
+            "tax_amount": 90.93,
+            "total_ttc": 216.56,
+            "vat_amount": 8.32
+        },
+        {
+            "amount": 354.72,
+            "description": "deliver sticky functionalities",
+            "index": "3",
+            "price": 478.17,
+            "quantity": 6.99,
+            "tax_amount": 77.81,
+            "total_ttc": 175.03,
+            "vat_amount": 12.22
+        },
+        {
+            "amount": 370.85,
+            "description": "facilitate revolutionary relationships",
+            "index": "4",
+            "price": 333.74,
+            "quantity": 1.35,
+            "tax_amount": 33.87,
+            "total_ttc": 344.1,
+            "vat_amount": 4.91
+        }
+    ],
+    "seller": {
+        "name": "Emily Hardy"
+    },
+    "supplier": {
+        "address": "PSC 4702, Box 9227 APO AP 07497",
+        "name": "David Lewis"
+    },
+    "tax": {
+        "amount_excluding_tax": 57.4,
+        "amount_including_tax": 130.51,
+        "tax_amount": 11.44,
+        "total_ht": 361.87,
+        "total_ttc": 213.68
+    }
+}

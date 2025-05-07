@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "87766 Garcia Groves Jacksonfurt, WY 85533",
+        "id": "eZ041"
+    },
+    "invoice": {
+        "bc_no": "IK39244",
+        "currency_code": "MZN",
+        "date": "04.08.1991",
+        "due_date": "06.04.1991",
+        "number": 378984
+    },
+    "payment": {
+        "bank_name": "Rodriguez Ltd",
+        "bic": "TBXLGB0Q",
+        "iban": "RWWE46379869368126"
+    },
+    "products": [
+        {
+            "amount": 53.92,
+            "description": "leverage B2B vortals",
+            "index": "3",
+            "price": 392.33,
+            "quantity": 6.1,
+            "tax_amount": 80.98,
+            "total_ttc": 338.01,
+            "vat_amount": 17.76
+        },
+        {
+            "amount": 227.88,
+            "description": "transform virtual networks",
+            "index": "2",
+            "price": 184.68,
+            "quantity": 3.7,
+            "tax_amount": 98.9,
+            "total_ttc": 497.94,
+            "vat_amount": 6.48
+        }
+    ],
+    "seller": {
+        "name": "Willie Hutchinson"
+    },
+    "supplier": {
+        "address": "521 Richard Road Krystalton, PW 97048",
+        "name": "Laura Brown"
+    },
+    "tax": {
+        "amount_excluding_tax": 110.83,
+        "amount_including_tax": 120.33,
+        "tax_amount": 12.29,
+        "total_ht": 460.02,
+        "total_ttc": 170.41
+    }
+}

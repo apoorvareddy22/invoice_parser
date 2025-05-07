@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "29079 Odom Wells Apt. 275 Markfort, IN 44664"
+    },
+    "invoice": {
+        "bc_no": "rm71206",
+        "date": "11.02.2004",
+        "maturity_date": "26.07.1994",
+        "number": 926913
+    },
+    "products": [
+        {
+            "amount": 195.39,
+            "description": "engineer impactful solutions",
+            "quantity": 6.89,
+            "unit_price": 78.61,
+            "vat_amount": 17.22
+        },
+        {
+            "amount": 475.19,
+            "description": "monetize virtual e-commerce",
+            "quantity": 1.24,
+            "unit_price": 42.63,
+            "vat_amount": 1.78
+        },
+        {
+            "amount": 453.32,
+            "description": "drive dot-com schemas",
+            "quantity": 6.97,
+            "unit_price": 83.6,
+            "vat_amount": 3.79
+        }
+    ],
+    "seller": {
+        "address": "6428 Paige Estate North Tonyborough, TN 94751"
+    },
+    "tax": {
+        "amount_excluding_tax": 105.98,
+        "amount_including_tax": 22.47,
+        "tax_amount": 11.08
+    }
+}

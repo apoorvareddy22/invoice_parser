@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "238 Ramirez River East Samantha, AS 43539",
+        "email": "bhartman@example.com",
+        "phone": "899-207-0902",
+        "vat_no": "Nf61321035858"
+    },
+    "invoice": {
+        "date": "18.04.2010",
+        "due_date": "14.01.2016",
+        "market_reference": 663289,
+        "notes": "architect transparent markets",
+        "number": "6678-7492",
+        "reference": 414046,
+        "vat_no": "Sn36806525160"
+    },
+    "payment": {
+        "net_total": 199.04,
+        "total": 663.36
+    },
+    "products": [
+        {
+            "amount": 8.49,
+            "description": "seize global e-services",
+            "hours": 5.95,
+            "rate": 9.63
+        },
+        {
+            "amount": 66.0,
+            "description": "exploit strategic e-tailers",
+            "hours": 7.99,
+            "rate": 6.09
+        },
+        {
+            "amount": 254.66,
+            "description": "evolve user-centric synergies",
+            "hours": 5.01,
+            "rate": 8.37
+        },
+        {
+            "amount": 176.05,
+            "description": "engage turn-key channels",
+            "hours": 6.18,
+            "rate": 7.53
+        }
+    ],
+    "seller": {
+        "address": "USNV Hammond FPO AA 38134",
+        "email": "wriddle@example.org",
+        "name": "Mrs. Patricia Shaw"
+    },
+    "tax": {
+        "base": 28.63,
+        "tax_amount": 12.84,
+        "total_tax": 18.64
+    }
+}

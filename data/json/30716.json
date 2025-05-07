@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "949 Heather Crossing North Tiffany, VI 56327",
+        "company_name": "Guzman, Miranda and Crane",
+        "country": "Andorra",
+        "email": "pashley@example.com",
+        "name": "Jennifer Rich",
+        "phone": "3334923512",
+        "vat_no": "Ab20038362386"
+    },
+    "invoice": {
+        "date": "07.09.1993",
+        "due_date": "10.06.2021",
+        "linked_invoice": "Go-9022-9876",
+        "notes": "scale integrated markets",
+        "number": "SZ-3962-6979"
+    },
+    "products": [
+        {
+            "description": "innovate bricks-and-clicks convergence",
+            "discount_percentage": 14.28,
+            "price": 257.09,
+            "quantity": 1.35,
+            "unit_price": 69.63
+        },
+        {
+            "description": "synergize integrated web-readiness",
+            "discount_percentage": 15.42,
+            "price": 328.14,
+            "quantity": 7.12,
+            "unit_price": 85.48
+        },
+        {
+            "description": "seize virtual applications",
+            "discount_percentage": 19.36,
+            "price": 254.06,
+            "quantity": 4.66,
+            "unit_price": 26.5
+        },
+        {
+            "description": "grow mission-critical channels",
+            "discount_percentage": 10.07,
+            "price": 283.04,
+            "quantity": 6.31,
+            "unit_price": 29.04
+        }
+    ],
+    "seller": {
+        "address": "432 Simmons Ford Suite 939 Martinezfurt, VT 95896",
+        "ape": "5451O",
+        "capital": 31966197,
+        "country": "Swaziland",
+        "email": "sparker@example.com",
+        "name": "Dawn Hester",
+        "phone_1": "861.708.9859x97530",
+        "phone_2": "266-985-3189x11509",
+        "phone_3": "+1-313-359-0890x638",
+        "ref_walk": "ESHv4130",
+        "reference": "Lq791",
+        "siret": 72301976728990,
+        "vat_no": "pZ89653686188",
+        "website": "http://www.jones-harris.com/"
+    },
+    "tax": {
+        "amount_0": 23.19,
+        "amount_1": 22.35,
+        "base_0": 22.99,
+        "base_1": 63.1,
+        "total_ht": 333.49,
+        "total_tax": 26.29,
+        "total_ttc": 342.03,
+        "vat_0": 25.97,
+        "vat_1": 11.76
+    }
+}

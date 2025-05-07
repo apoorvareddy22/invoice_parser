@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "6946 Jordan Oval Suite 888 Port Jimmyburgh, IL 59507",
+        "email": "xmiller@example.net",
+        "phone": "+1-315-679-4696",
+        "vat_no": "Pf30421708612"
+    },
+    "invoice": {
+        "date": "16.08.2009",
+        "due_date": "24.11.2016",
+        "market_reference": 136417,
+        "notes": "brand visionary platforms",
+        "number": "0716-5009",
+        "reference": 438035,
+        "vat_no": "fC03309406562"
+    },
+    "payment": {
+        "net_total": 198.29,
+        "total": 564.91
+    },
+    "products": [
+        {
+            "amount": 436.47,
+            "description": "enable dynamic platforms",
+            "hours": 4.33,
+            "rate": 2.05
+        },
+        {
+            "amount": 94.3,
+            "description": "implement out-of-the-box action-items",
+            "hours": 4.33,
+            "rate": 9.21
+        },
+        {
+            "amount": 24.22,
+            "description": "evolve holistic metrics",
+            "hours": 8.29,
+            "rate": 4.74
+        },
+        {
+            "amount": 402.47,
+            "description": "morph virtual systems",
+            "hours": 1.02,
+            "rate": 6.6
+        }
+    ],
+    "seller": {
+        "address": "346 Nathan Manors Burkemouth, MI 63294",
+        "email": "craigwilson@example.org",
+        "name": "Donna Berry"
+    },
+    "tax": {
+        "base": 26.29,
+        "tax_amount": 11.69,
+        "total_tax": 27.33
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "19480 David Light North Mariachester, GU 76679"
+    },
+    "invoice": {
+        "bc_no": "kZ77001",
+        "date": "19.06.1995",
+        "maturity_date": "04.11.2020",
+        "number": 820528
+    },
+    "products": [
+        {
+            "amount": 190.13,
+            "description": "engineer best-of-breed systems",
+            "quantity": 7.24,
+            "unit_price": 73.87,
+            "vat_amount": 8.27
+        },
+        {
+            "amount": 288.37,
+            "description": "generate mission-critical technologies",
+            "quantity": 4.41,
+            "unit_price": 49.19,
+            "vat_amount": 5.53
+        },
+        {
+            "amount": 276.65,
+            "description": "cultivate leading-edge users",
+            "quantity": 8.75,
+            "unit_price": 61.22,
+            "vat_amount": 11.51
+        },
+        {
+            "amount": 17.73,
+            "description": "unleash efficient paradigms",
+            "quantity": 3.15,
+            "unit_price": 58.36,
+            "vat_amount": 3.79
+        }
+    ],
+    "seller": {
+        "address": "69479 Christine Street Dylanmouth, OH 54903"
+    },
+    "tax": {
+        "amount_excluding_tax": 58.58,
+        "amount_including_tax": 14.65,
+        "tax_amount": 13.55
+    }
+}

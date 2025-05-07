@@ -1,0 +1,82 @@
+{
+    "buyer": {
+        "address": "951 Bauer Branch Valeriestad, IA 56763",
+        "company_name": "Webb-Kim",
+        "country": "Guyana",
+        "email": "katherine05@example.org",
+        "name": "Paul Reynolds",
+        "phone": "6603454352",
+        "vat_no": "LN03657179435"
+    },
+    "invoice": {
+        "date": "16.07.2012",
+        "due_date": "13.01.2010",
+        "linked_invoice": "gy-2702-6832",
+        "notes": "incubate innovative technologies",
+        "number": "Xy-3183-6169"
+    },
+    "products": [
+        {
+            "description": "empower extensible supply-chains",
+            "discount_percentage": 19.5,
+            "price": 316.98,
+            "quantity": 1.59,
+            "unit_price": 10.31
+        },
+        {
+            "description": "optimize web-enabled metrics",
+            "discount_percentage": 6.39,
+            "price": 335.59,
+            "quantity": 2.2,
+            "unit_price": 10.22
+        },
+        {
+            "description": "revolutionize B2B ROI",
+            "discount_percentage": 17.37,
+            "price": 352.14,
+            "quantity": 2.85,
+            "unit_price": 25.51
+        },
+        {
+            "description": "re-intermediate back-end metrics",
+            "discount_percentage": 15.68,
+            "price": 389.37,
+            "quantity": 5.65,
+            "unit_price": 46.75
+        },
+        {
+            "description": "expedite best-of-breed e-business",
+            "discount_percentage": 11.88,
+            "price": 292.8,
+            "quantity": 1.09,
+            "unit_price": 37.04
+        }
+    ],
+    "seller": {
+        "address": "Unit 2632 Box 1421 DPO AA 48957",
+        "ape": "0026B",
+        "capital": 84926452,
+        "country": "Malaysia",
+        "email": "amy56@example.com",
+        "name": "Jose Humphrey",
+        "phone_1": "473.764.8415x7930",
+        "phone_2": "8988094078",
+        "phone_3": "327-222-1201x90364",
+        "ref_walk": "kFdX7805",
+        "reference": "nZ651",
+        "siret": 56926630736578,
+        "vat_no": "ZW10467313124",
+        "website": "http://www.bishop-santos.com/"
+    },
+    "tax": {
+        "amount_0": 22.47,
+        "amount_1": 25.76,
+        "base_0": 11.2,
+        "base_1": 112.5,
+        "total_ht": 433.32,
+        "total_tax": 26.13,
+        "total_ttc": 183.03,
+        "vat_0": 24.63,
+        "vat_1": 22.32
+    }
+}

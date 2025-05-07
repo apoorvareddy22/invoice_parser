@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "27278 Thomas Viaduct Apt. 081 East Ricardofort, LA 97899",
+        "email": "lisa07@example.com",
+        "phone": "(416)464-9430x707",
+        "vat_no": "it77912430660"
+    },
+    "invoice": {
+        "date": "04.05.2018",
+        "due_date": "11.08.2018",
+        "market_reference": 722684,
+        "notes": "incubate open-source supply-chains",
+        "number": "8075-3734",
+        "reference": 862239,
+        "vat_no": "nj11571132164"
+    },
+    "payment": {
+        "net_total": 199.63,
+        "total": 718.65
+    },
+    "products": [
+        {
+            "amount": 23.05,
+            "description": "architect innovative portals",
+            "hours": 4.25,
+            "rate": 4.22
+        },
+        {
+            "amount": 8.3,
+            "description": "deploy 24/7 partnerships",
+            "hours": 5.47,
+            "rate": 5.81
+        },
+        {
+            "amount": 462.82,
+            "description": "target magnetic supply-chains",
+            "hours": 6.74,
+            "rate": 3.98
+        },
+        {
+            "amount": 353.56,
+            "description": "enhance next-generation initiatives",
+            "hours": 9.64,
+            "rate": 6.19
+        },
+        {
+            "amount": 45.04,
+            "description": "iterate cross-media users",
+            "hours": 8.77,
+            "rate": 2.9
+        },
+        {
+            "amount": 464.39,
+            "description": "streamline 24/365 initiatives",
+            "hours": 3.18,
+            "rate": 5.65
+        },
+        {
+            "amount": 217.82,
+            "description": "deliver leading-edge e-services",
+            "hours": 7.05,
+            "rate": 7.87
+        }
+    ],
+    "seller": {
+        "address": "2133 Adrian Cliffs Diazbury, KS 73190",
+        "email": "lynchcynthia@example.org",
+        "name": "Lisa Winters"
+    },
+    "tax": {
+        "base": 12.28,
+        "tax_amount": 15.11,
+        "total_tax": 21.49
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "4284 Roberts Ramp East Barbara, VT 53322",
+        "business_no": "qY996",
+        "id": "Dx417"
+    },
+    "invoice": {
+        "date": "28.03.1992",
+        "number": "6944-2904"
+    },
+    "payment": {
+        "due_date": "24.12.2000",
+        "total": 240.56
+    },
+    "products": [
+        {
+            "amount": 20.29,
+            "description": "synthesize out-of-the-box metrics",
+            "quantity": 5.88,
+            "reference": "QJ-722",
+            "unit_price": 82.8
+        },
+        {
+            "amount": 201.48,
+            "description": "seize transparent portals",
+            "quantity": 8.17,
+            "reference": "EC-926",
+            "unit_price": 66.29
+        },
+        {
+            "amount": 463.05,
+            "description": "benchmark out-of-the-box schemas",
+            "quantity": 4.24,
+            "reference": "px-338",
+            "unit_price": 54.47
+        },
+        {
+            "amount": 34.15,
+            "description": "utilize 24/7 systems",
+            "quantity": 9.71,
+            "reference": "gi-841",
+            "unit_price": 15.84
+        },
+        {
+            "amount": 426.25,
+            "description": "orchestrate B2B models",
+            "quantity": 5.95,
+            "reference": "ZM-039",
+            "unit_price": 32.86
+        },
+        {
+            "amount": 183.15,
+            "description": "extend efficient relationships",
+            "quantity": 6.44,
+            "reference": "zX-872",
+            "unit_price": 54.54
+        }
+    ],
+    "seller": {
+        "address": "Unit 6100 Box 5763 DPO AA 28454"
+    },
+    "tax": {
+        "base_ht": 189.21,
+        "regulations": 15.71,
+        "total_ht": 413.65,
+        "vat_amount": 107.81,
+        "vat_percentage": 20.9
+    }
+}

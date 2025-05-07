@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "468 Harris Orchard Port Codyport, OR 07996",
+        "company_name": "Burton, Mills and Mitchell",
+        "country": "Martinique",
+        "name": "Jack Acosta"
+    },
+    "invoice": {
+        "date": "23.01.2002",
+        "number": 638802
+    },
+    "payment": {
+        "discount_amount": 26.38,
+        "discount_percentage": 18.08,
+        "due": 60.9,
+        "sub_total": 166.9,
+        "total": 974.81
+    },
+    "products": [
+        {
+            "description": "implement transparent bandwidth",
+            "index": "1",
+            "quantity": 2.06,
+            "total_price": 102.32,
+            "unit_price": 14.29
+        }
+    ],
+    "seller": {
+        "address": "708 William Fall Port Gary, AK 13370",
+        "company_name": "Mccall LLC",
+        "vat_no": "MA89302287022"
+    }
+}

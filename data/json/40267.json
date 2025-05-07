@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "52233 Brandi Mills Suite 025 Smithberg, PW 51923"
+    },
+    "invoice": {
+        "bc_no": "kY18708",
+        "date": "08.06.2017",
+        "maturity_date": "11.11.2022",
+        "number": 408553
+    },
+    "products": [
+        {
+            "amount": 305.36,
+            "description": "engage 24/365 e-markets",
+            "quantity": 3.24,
+            "unit_price": 78.17,
+            "vat_amount": 2.58
+        }
+    ],
+    "seller": {
+        "address": "5352 Taylor Views East Melissamouth, AK 70231"
+    },
+    "tax": {
+        "amount_excluding_tax": 40.04,
+        "amount_including_tax": 119.22,
+        "tax_amount": 14.06
+    }
+}

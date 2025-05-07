@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "8080 Martin Isle Williamview, IA 31448",
+        "business_no": "lN191",
+        "id": "PV288"
+    },
+    "invoice": {
+        "date": "18.08.1992",
+        "number": "9500-1537"
+    },
+    "payment": {
+        "due_date": "03.02.2023",
+        "total": 612.93
+    },
+    "products": [
+        {
+            "amount": 431.54,
+            "description": "incubate integrated solutions",
+            "quantity": 8.32,
+            "reference": "zr-062",
+            "unit_price": 22.91
+        },
+        {
+            "amount": 266.68,
+            "description": "maximize customized functionalities",
+            "quantity": 7.98,
+            "reference": "bA-527",
+            "unit_price": 10.26
+        },
+        {
+            "amount": 5.31,
+            "description": "innovate user-centric vortals",
+            "quantity": 2.45,
+            "reference": "gt-851",
+            "unit_price": 59.37
+        },
+        {
+            "amount": 266.58,
+            "description": "productize robust mindshare",
+            "quantity": 7.09,
+            "reference": "pM-822",
+            "unit_price": 34.15
+        },
+        {
+            "amount": 118.58,
+            "description": "re-contextualize B2C action-items",
+            "quantity": 1.17,
+            "reference": "Us-001",
+            "unit_price": 17.12
+        },
+        {
+            "amount": 225.57,
+            "description": "productize vertical e-tailers",
+            "quantity": 7.09,
+            "reference": "WR-912",
+            "unit_price": 34.0
+        },
+        {
+            "amount": 474.86,
+            "description": "visualize 24/7 e-business",
+            "quantity": 9.18,
+            "reference": "BK-622",
+            "unit_price": 14.73
+        }
+    ],
+    "seller": {
+        "address": "839 Benjamin Shore Apt. 770 Danielview, OR 43960"
+    },
+    "tax": {
+        "base_ht": 399.76,
+        "regulations": 12.22,
+        "total_ht": 354.99,
+        "vat_amount": 94.45,
+        "vat_percentage": 13.21
+    }
+}

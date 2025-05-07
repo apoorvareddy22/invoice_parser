@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "33497 Kyle River South Jamesfurt, NH 75336",
+        "email": "cainjeffery@example.org",
+        "phone": "8209428949",
+        "vat_no": "kN08906268989"
+    },
+    "invoice": {
+        "date": "02.05.2005",
+        "due_date": "14.05.2020",
+        "market_reference": 464102,
+        "notes": "architect back-end e-commerce",
+        "number": "5097-9047",
+        "reference": 781952,
+        "vat_no": "Oo97777765225"
+    },
+    "payment": {
+        "net_total": 24.26,
+        "total": 537.46
+    },
+    "products": [
+        {
+            "amount": 96.46,
+            "description": "redefine seamless architectures",
+            "hours": 9.22,
+            "rate": 8.62
+        },
+        {
+            "amount": 264.8,
+            "description": "redefine value-added niches",
+            "hours": 5.84,
+            "rate": 8.38
+        },
+        {
+            "amount": 435.53,
+            "description": "disintermediate cross-media paradigms",
+            "hours": 2.86,
+            "rate": 2.22
+        },
+        {
+            "amount": 352.53,
+            "description": "drive transparent portals",
+            "hours": 2.06,
+            "rate": 3.38
+        }
+    ],
+    "seller": {
+        "address": "USS Smith FPO AE 77041",
+        "email": "pbell@example.net",
+        "name": "Lori Bryant"
+    },
+    "tax": {
+        "base": 16.38,
+        "tax_amount": 10.54,
+        "total_tax": 18.75
+    }
+}

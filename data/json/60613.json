@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "5545 Amanda Greens Suite 337 Lake Kristiberg, DC 62801",
+        "business_no": "Jo715",
+        "id": "Vm878"
+    },
+    "invoice": {
+        "date": "11.06.2019",
+        "number": "1324-3859"
+    },
+    "payment": {
+        "due_date": "19.04.2013",
+        "total": 489.14
+    },
+    "products": [
+        {
+            "amount": 428.82,
+            "description": "strategize ubiquitous web services",
+            "quantity": 9.56,
+            "reference": "sS-952",
+            "unit_price": 52.03
+        },
+        {
+            "amount": 356.95,
+            "description": "enhance compelling portals",
+            "quantity": 5.02,
+            "reference": "Gz-237",
+            "unit_price": 22.15
+        },
+        {
+            "amount": 486.07,
+            "description": "maximize dot-com markets",
+            "quantity": 6.73,
+            "reference": "qM-224",
+            "unit_price": 67.53
+        }
+    ],
+    "seller": {
+        "address": "05175 Savannah Pines Apt. 805 Donnaside, MA 03642"
+    },
+    "tax": {
+        "base_ht": 161.82,
+        "regulations": 16.75,
+        "total_ht": 148.92,
+        "vat_amount": 58.38,
+        "vat_percentage": 11.95
+    }
+}

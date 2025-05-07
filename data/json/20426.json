@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "752 Miller Route Apt. 060 Vasquezport, FM 22259",
+        "company_name": "Hartman, Thompson and Simpson",
+        "email": "christina93@example.net",
+        "name": "Alex Cisneros",
+        "phone": "+1-496-241-1271x696"
+    },
+    "invoice": {
+        "date": "03.08.2007",
+        "due_date": "22.08.2021",
+        "number": "Ksi19466784705"
+    },
+    "payment": {
+        "account_number": 5271737850,
+        "bank_name": "Alexander, Joyce and Hooper",
+        "routing_number": 154869537
+    },
+    "products": [
+        {
+            "amount": 280.99,
+            "description": "reinvent turn-key content",
+            "index": "4",
+            "quantity": 5.16,
+            "unit_price": 34.34
+        },
+        {
+            "amount": 464.39,
+            "description": "leverage leading-edge mindshare",
+            "index": "3",
+            "quantity": 2.45,
+            "unit_price": 29.5
+        },
+        {
+            "amount": 72.95,
+            "description": "e-enable real-time web-readiness",
+            "index": "2",
+            "quantity": 6.0,
+            "unit_price": 54.27
+        }
+    ],
+    "seller": {
+        "address": "90304 Walters Parkway Guerreroview, HI 60388",
+        "company_name": "Foster, Yoder and Weber",
+        "email": "miranda01@example.com"
+    }
+}

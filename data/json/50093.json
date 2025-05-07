@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "5325 Moyer Rapid South John, PR 95186",
+        "id": "Ar438"
+    },
+    "invoice": {
+        "bc_no": "BR93798",
+        "currency_code": "NGN",
+        "date": "08.07.2010",
+        "due_date": "11.11.2005",
+        "number": 836720
+    },
+    "payment": {
+        "bank_name": "Howard Inc",
+        "bic": "LRBGGB56",
+        "iban": "NNWD21439758303340"
+    },
+    "products": [
+        {
+            "amount": 443.49,
+            "description": "generate vertical methodologies",
+            "index": "9",
+            "price": 359.86,
+            "quantity": 8.96,
+            "tax_amount": 62.18,
+            "total_ttc": 245.91,
+            "vat_amount": 3.64
+        },
+        {
+            "amount": 266.11,
+            "description": "transform one-to-one ROI",
+            "index": "6",
+            "price": 393.7,
+            "quantity": 7.35,
+            "tax_amount": 58.83,
+            "total_ttc": 301.53,
+            "vat_amount": 0.92
+        },
+        {
+            "amount": 326.19,
+            "description": "extend seamless systems",
+            "index": "5",
+            "price": 265.2,
+            "quantity": 8.86,
+            "tax_amount": 80.68,
+            "total_ttc": 115.83,
+            "vat_amount": 15.86
+        },
+        {
+            "amount": 112.46,
+            "description": "expedite turn-key convergence",
+            "index": "5",
+            "price": 386.46,
+            "quantity": 5.56,
+            "tax_amount": 50.44,
+            "total_ttc": 419.83,
+            "vat_amount": 0.82
+        }
+    ],
+    "seller": {
+        "name": "Yvette Smith"
+    },
+    "supplier": {
+        "address": "9632 Caitlin Corners Lake Clarence, WY 85961",
+        "name": "Karen Sanchez"
+    },
+    "tax": {
+        "amount_excluding_tax": 51.18,
+        "amount_including_tax": 22.32,
+        "tax_amount": 10.01,
+        "total_ht": 244.02,
+        "total_ttc": 311.65
+    }
+}

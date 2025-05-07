@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "40398 Mcintosh Court Apt. 742 Andrewfort, CT 07302",
+        "id": "Fe875"
+    },
+    "invoice": {
+        "bc_no": "jq44660",
+        "currency_code": "PAB",
+        "date": "12.06.2007",
+        "due_date": "02.03.2009",
+        "number": 273684
+    },
+    "payment": {
+        "bank_name": "Johnson Inc",
+        "bic": "UPVCGBTDXB1",
+        "iban": "MONW27471311522106"
+    },
+    "products": [
+        {
+            "amount": 332.52,
+            "description": "disintermediate collaborative experiences",
+            "index": "10",
+            "price": 169.43,
+            "quantity": 7.11,
+            "tax_amount": 77.84,
+            "total_ttc": 278.04,
+            "vat_amount": 13.57
+        },
+        {
+            "amount": 154.48,
+            "description": "engineer next-generation e-tailers",
+            "index": "4",
+            "price": 424.15,
+            "quantity": 8.72,
+            "tax_amount": 69.45,
+            "total_ttc": 485.91,
+            "vat_amount": 0.16
+        }
+    ],
+    "seller": {
+        "name": "Keith Johnson"
+    },
+    "supplier": {
+        "address": "0065 Robin Well West Jason, PA 14461",
+        "name": "Christopher Davis"
+    },
+    "tax": {
+        "amount_excluding_tax": 121.68,
+        "amount_including_tax": 147.9,
+        "tax_amount": 19.62,
+        "total_ht": 136.09,
+        "total_ttc": 466.54
+    }
+}

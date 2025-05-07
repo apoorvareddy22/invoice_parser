@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "562 Jennifer Summit Gregorychester, MH 32732",
+        "business_no": "Pm583",
+        "id": "np833"
+    },
+    "invoice": {
+        "date": "16.01.1996",
+        "number": "4698-8606"
+    },
+    "payment": {
+        "due_date": "16.09.2008",
+        "total": 759.94
+    },
+    "products": [
+        {
+            "amount": 369.83,
+            "description": "streamline value-added users",
+            "quantity": 8.22,
+            "reference": "Fu-586",
+            "unit_price": 90.59
+        },
+        {
+            "amount": 78.67,
+            "description": "streamline world-class e-tailers",
+            "quantity": 8.64,
+            "reference": "QW-101",
+            "unit_price": 55.57
+        },
+        {
+            "amount": 330.61,
+            "description": "innovate magnetic e-business",
+            "quantity": 3.21,
+            "reference": "vU-534",
+            "unit_price": 52.49
+        }
+    ],
+    "seller": {
+        "address": "82591 Elizabeth Cliff Walkerborough, CA 88058"
+    },
+    "tax": {
+        "base_ht": 155.45,
+        "regulations": 22.11,
+        "total_ht": 329.79,
+        "vat_amount": 34.43,
+        "vat_percentage": 16.84
+    }
+}

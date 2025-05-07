@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "577 Arroyo Key South Lanceland, WI 64807",
+        "id": "AD808"
+    },
+    "invoice": {
+        "bc_no": "Hr06478",
+        "currency_code": "AED",
+        "date": "24.11.2002",
+        "due_date": "03.11.2005",
+        "number": 427806
+    },
+    "payment": {
+        "bank_name": "Mack Group",
+        "bic": "XFSIGBVJKY2",
+        "iban": "FKOY59112500494353"
+    },
+    "products": [
+        {
+            "amount": 96.53,
+            "description": "implement real-time convergence",
+            "index": "4",
+            "price": 403.57,
+            "quantity": 5.99,
+            "tax_amount": 11.47,
+            "total_ttc": 333.64,
+            "vat_amount": 0.23
+        },
+        {
+            "amount": 59.75,
+            "description": "deliver customized systems",
+            "index": "5",
+            "price": 458.49,
+            "quantity": 8.54,
+            "tax_amount": 89.45,
+            "total_ttc": 427.64,
+            "vat_amount": 12.96
+        }
+    ],
+    "seller": {
+        "name": "Grace Craig"
+    },
+    "supplier": {
+        "address": "8789 Antonio Meadows Pennychester, MI 78908",
+        "name": "Emily Gonzalez"
+    },
+    "tax": {
+        "amount_excluding_tax": 165.11,
+        "amount_including_tax": 181.51,
+        "tax_amount": 11.25,
+        "total_ht": 370.85,
+        "total_ttc": 311.49
+    }
+}

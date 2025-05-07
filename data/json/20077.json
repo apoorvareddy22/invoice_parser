@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "4442 Tom Grove East Anthonymouth, RI 26743",
+        "company_name": "Duran LLC",
+        "email": "csullivan@example.net",
+        "name": "Cassandra Smith",
+        "phone": "941.429.8968"
+    },
+    "invoice": {
+        "date": "15.01.2008",
+        "due_date": "27.08.2001",
+        "number": "GEq44905575962"
+    },
+    "payment": {
+        "account_number": 3704027507,
+        "bank_name": "Rios and Sons",
+        "routing_number": 630994642
+    },
+    "products": [
+        {
+            "amount": 356.8,
+            "description": "engage rich platforms",
+            "index": "3",
+            "quantity": 8.27,
+            "unit_price": 29.86
+        },
+        {
+            "amount": 466.58,
+            "description": "cultivate next-generation architectures",
+            "index": "9",
+            "quantity": 5.99,
+            "unit_price": 16.41
+        }
+    ],
+    "seller": {
+        "address": "15533 Kristin Parks Apt. 408 Port Caitlynshire, MP 98463",
+        "company_name": "Davis, Medina and White",
+        "email": "dominique07@example.org"
+    }
+}

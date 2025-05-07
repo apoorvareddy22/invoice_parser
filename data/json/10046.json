@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "84996 Arroyo Stream New Tracyhaven, IN 67002",
+        "email": "victoria74@example.net",
+        "phone": "424-447-1781x758",
+        "vat_no": "JO25254686476"
+    },
+    "invoice": {
+        "date": "24.05.2003",
+        "due_date": "20.10.2015",
+        "market_reference": 473861,
+        "notes": "expedite world-class eyeballs",
+        "number": "6225-6643",
+        "reference": 955403,
+        "vat_no": "wo17546106453"
+    },
+    "payment": {
+        "net_total": 76.07,
+        "total": 283.8
+    },
+    "products": [
+        {
+            "amount": 457.21,
+            "description": "deploy one-to-one experiences",
+            "hours": 1.41,
+            "rate": 1.88
+        },
+        {
+            "amount": 368.58,
+            "description": "mesh wireless convergence",
+            "hours": 1.65,
+            "rate": 9.52
+        },
+        {
+            "amount": 306.35,
+            "description": "re-intermediate world-class web-readiness",
+            "hours": 4.42,
+            "rate": 4.66
+        }
+    ],
+    "seller": {
+        "address": "29329 Nancy Turnpike Suite 295 Olivertown, MO 04541",
+        "email": "autumnnorman@example.com",
+        "name": "Cheryl Herrera"
+    },
+    "tax": {
+        "base": 25.59,
+        "tax_amount": 17.49,
+        "total_tax": 10.15
+    }
+}

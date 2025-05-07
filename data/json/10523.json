@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "285 Kelly Route Apt. 207 Hallfurt, VI 93312",
+        "email": "jamiemendoza@example.org",
+        "phone": "247.939.9910x12874",
+        "vat_no": "sN25068331849"
+    },
+    "invoice": {
+        "date": "21.04.2002",
+        "due_date": "29.01.2009",
+        "market_reference": 117125,
+        "notes": "visualize clicks-and-mortar eyeballs",
+        "number": "4045-8127",
+        "reference": 894096,
+        "vat_no": "Zo19202311407"
+    },
+    "payment": {
+        "net_total": 144.5,
+        "total": 344.95
+    },
+    "products": [
+        {
+            "amount": 28.85,
+            "description": "drive real-time bandwidth",
+            "hours": 7.78,
+            "rate": 1.92
+        },
+        {
+            "amount": 381.39,
+            "description": "redefine dot-com e-markets",
+            "hours": 1.85,
+            "rate": 3.94
+        },
+        {
+            "amount": 448.39,
+            "description": "integrate synergistic e-business",
+            "hours": 4.07,
+            "rate": 4.24
+        },
+        {
+            "amount": 329.34,
+            "description": "unleash killer deliverables",
+            "hours": 3.44,
+            "rate": 4.04
+        },
+        {
+            "amount": 415.48,
+            "description": "scale back-end users",
+            "hours": 6.52,
+            "rate": 7.4
+        },
+        {
+            "amount": 45.74,
+            "description": "engage leading-edge eyeballs",
+            "hours": 2.94,
+            "rate": 4.49
+        },
+        {
+            "amount": 201.39,
+            "description": "whiteboard sticky eyeballs",
+            "hours": 2.48,
+            "rate": 2.58
+        }
+    ],
+    "seller": {
+        "address": "Unit 2331 Box 0021 DPO AP 44059",
+        "email": "erikadouglas@example.com",
+        "name": "Dalton Walters"
+    },
+    "tax": {
+        "base": 11.5,
+        "tax_amount": 10.08,
+        "total_tax": 10.8
+    }
+}

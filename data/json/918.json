@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "51588 Miller Ports Apt. 633 Ramirezfort, NE 29300",
+        "company_name": "Davis-Dunlap",
+        "country": "Panama",
+        "name": "Melinda Villarreal"
+    },
+    "invoice": {
+        "date": "05.03.2006",
+        "number": 107287
+    },
+    "payment": {
+        "discount_amount": 10.24,
+        "discount_percentage": 19.85,
+        "due": 158.02,
+        "sub_total": 106.8,
+        "total": 631.72
+    },
+    "products": [
+        {
+            "description": "visualize ubiquitous vortals",
+            "index": "10",
+            "quantity": 2.37,
+            "total_price": 112.53,
+            "unit_price": 86.25
+        },
+        {
+            "description": "synergize user-centric convergence",
+            "index": "6",
+            "quantity": 6.75,
+            "total_price": 906.05,
+            "unit_price": 70.32
+        },
+        {
+            "description": "visualize efficient e-commerce",
+            "index": "9",
+            "quantity": 1.65,
+            "total_price": 747.52,
+            "unit_price": 14.79
+        }
+    ],
+    "seller": {
+        "address": "458 Newman Village Suite 244 Wendyside, CO 39723",
+        "company_name": "Thompson-Grimes",
+        "vat_no": "UA74998807895"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "36989 Sue Spring Suite 984 Port Samuel, PW 22935",
+        "company_name": "Howard PLC",
+        "country": "Namibia",
+        "name": "Erin Kim"
+    },
+    "invoice": {
+        "date": "09.12.2010",
+        "number": 243552
+    },
+    "payment": {
+        "discount_amount": 30.93,
+        "discount_percentage": 11.9,
+        "due": 95.01,
+        "sub_total": 104.35,
+        "total": 371.07
+    },
+    "products": [
+        {
+            "description": "iterate ubiquitous experiences",
+            "index": "2",
+            "quantity": 2.22,
+            "total_price": 835.43,
+            "unit_price": 38.13
+        },
+        {
+            "description": "morph collaborative synergies",
+            "index": "2",
+            "quantity": 6.63,
+            "total_price": 311.97,
+            "unit_price": 50.43
+        },
+        {
+            "description": "utilize innovative info-mediaries",
+            "index": "4",
+            "quantity": 4.55,
+            "total_price": 781.1,
+            "unit_price": 52.5
+        },
+        {
+            "description": "incentivize plug-and-play communities",
+            "index": "1",
+            "quantity": 6.19,
+            "total_price": 405.15,
+            "unit_price": 88.34
+        },
+        {
+            "description": "disintermediate open-source e-commerce",
+            "index": "7",
+            "quantity": 1.15,
+            "total_price": 776.48,
+            "unit_price": 43.88
+        }
+    ],
+    "seller": {
+        "address": "451 Keith Pines Apt. 383 Curtisview, KY 38406",
+        "company_name": "Mills Inc",
+        "vat_no": "UN73533409632"
+    }
+}

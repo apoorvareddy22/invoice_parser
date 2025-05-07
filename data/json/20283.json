@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "615 Phillips Squares Hillchester, PR 39883",
+        "company_name": "Cameron Inc",
+        "email": "heidimoore@example.net",
+        "name": "Juan Meadows",
+        "phone": "(388)631-3957"
+    },
+    "invoice": {
+        "date": "05.02.2002",
+        "due_date": "04.10.1994",
+        "number": "XUW45546153620"
+    },
+    "payment": {
+        "account_number": 4818407510,
+        "bank_name": "Hardin-Goodman",
+        "routing_number": 647902854
+    },
+    "products": [
+        {
+            "amount": 325.54,
+            "description": "aggregate cross-media e-commerce",
+            "index": "3",
+            "quantity": 7.19,
+            "unit_price": 91.73
+        },
+        {
+            "amount": 297.8,
+            "description": "implement wireless networks",
+            "index": "2",
+            "quantity": 1.51,
+            "unit_price": 91.84
+        }
+    ],
+    "seller": {
+        "address": "USNV Turner FPO AP 33062",
+        "company_name": "Norton-Wilson",
+        "email": "badams@example.org"
+    }
+}

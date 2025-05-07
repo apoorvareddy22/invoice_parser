@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "USS Ortiz FPO AE 24787",
+        "company_name": "Padilla, Lucero and Fitzgerald",
+        "country": "Lao People's Democratic Republic",
+        "email": "eugene72@example.net",
+        "name": "Molly Torres",
+        "phone": "(638)715-6916x5971",
+        "vat_no": "qn77112615442"
+    },
+    "invoice": {
+        "date": "19.09.2016",
+        "due_date": "11.11.2017",
+        "linked_invoice": "fL-4071-2218",
+        "notes": "engineer bricks-and-clicks architectures",
+        "number": "ZS-3010-8020"
+    },
+    "products": [
+        {
+            "description": "e-enable web-enabled channels",
+            "discount_percentage": 18.4,
+            "price": 72.13,
+            "quantity": 5.23,
+            "unit_price": 69.4
+        },
+        {
+            "description": "mesh proactive networks",
+            "discount_percentage": 12.47,
+            "price": 319.75,
+            "quantity": 3.56,
+            "unit_price": 14.9
+        }
+    ],
+    "seller": {
+        "address": "815 Glenn Roads Apt. 862 Port Katherineberg, DC 63810",
+        "ape": "1647v",
+        "capital": 79343606,
+        "country": "Tonga",
+        "email": "krobinson@example.com",
+        "name": "Joanna Merritt",
+        "phone_1": "3995964666",
+        "phone_2": "(403)592-1029x568",
+        "phone_3": "503.296.9215",
+        "ref_walk": "wqDt4956",
+        "reference": "QC379",
+        "siret": 99293590875438,
+        "vat_no": "OY77368836344",
+        "website": "http://gonzalez.info/"
+    },
+    "tax": {
+        "amount_0": 27.67,
+        "amount_1": 14.4,
+        "base_0": 12.23,
+        "base_1": 221.13,
+        "total_ht": 448.79,
+        "total_tax": 26.25,
+        "total_ttc": 488.92,
+        "vat_0": 12.38,
+        "vat_1": 14.77
+    }
+}

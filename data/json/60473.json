@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "763 Lisa Corner Apt. 118 Melissaton, NY 13955",
+        "business_no": "op113",
+        "id": "BB169"
+    },
+    "invoice": {
+        "date": "16.02.1990",
+        "number": "8613-3262"
+    },
+    "payment": {
+        "due_date": "23.05.2019",
+        "total": 716.56
+    },
+    "products": [
+        {
+            "amount": 467.43,
+            "description": "whiteboard cross-media solutions",
+            "quantity": 5.81,
+            "reference": "lh-929",
+            "unit_price": 38.03
+        },
+        {
+            "amount": 123.37,
+            "description": "iterate next-generation e-markets",
+            "quantity": 1.97,
+            "reference": "aL-166",
+            "unit_price": 87.57
+        }
+    ],
+    "seller": {
+        "address": "38802 Perez Squares East Jennifermouth, GU 19115"
+    },
+    "tax": {
+        "base_ht": 410.99,
+        "regulations": 13.79,
+        "total_ht": 189.2,
+        "vat_amount": 131.65,
+        "vat_percentage": 12.09
+    }
+}

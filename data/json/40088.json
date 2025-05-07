@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "3012 Luis Mount Apt. 362 Hartville, PA 22750"
+    },
+    "invoice": {
+        "bc_no": "Dn10010",
+        "date": "19.07.2006",
+        "maturity_date": "16.02.1991",
+        "number": 718244
+    },
+    "products": [
+        {
+            "amount": 117.84,
+            "description": "enhance end-to-end ROI",
+            "quantity": 2.5,
+            "unit_price": 31.42,
+            "vat_amount": 5.55
+        },
+        {
+            "amount": 23.99,
+            "description": "engage distributed interfaces",
+            "quantity": 6.35,
+            "unit_price": 64.25,
+            "vat_amount": 7.21
+        },
+        {
+            "amount": 235.67,
+            "description": "extend interactive partnerships",
+            "quantity": 1.06,
+            "unit_price": 92.36,
+            "vat_amount": 5.38
+        },
+        {
+            "amount": 395.03,
+            "description": "disintermediate revolutionary communities",
+            "quantity": 8.88,
+            "unit_price": 42.63,
+            "vat_amount": 0.85
+        }
+    ],
+    "seller": {
+        "address": "80642 Riley Key Kellystad, FL 62752"
+    },
+    "tax": {
+        "amount_excluding_tax": 108.63,
+        "amount_including_tax": 186.59,
+        "tax_amount": 18.05
+    }
+}

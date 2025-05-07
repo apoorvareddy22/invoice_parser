@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "444 Roger Highway Apt. 097 South Monicabury, TN 37113",
+        "id": "LX722"
+    },
+    "invoice": {
+        "bc_no": "aG25791",
+        "currency_code": "LSL",
+        "date": "05.09.1991",
+        "due_date": "08.06.2015",
+        "number": 543730
+    },
+    "payment": {
+        "bank_name": "Hopkins and Sons",
+        "bic": "IZSTGB9A",
+        "iban": "HOVH14665672394580"
+    },
+    "products": [
+        {
+            "amount": 230.4,
+            "description": "strategize value-added communities",
+            "index": "9",
+            "price": 48.3,
+            "quantity": 4.55,
+            "tax_amount": 23.09,
+            "total_ttc": 391.12,
+            "vat_amount": 13.14
+        },
+        {
+            "amount": 166.06,
+            "description": "visualize distributed vortals",
+            "index": "2",
+            "price": 410.85,
+            "quantity": 7.51,
+            "tax_amount": 28.79,
+            "total_ttc": 494.97,
+            "vat_amount": 12.38
+        },
+        {
+            "amount": 282.8,
+            "description": "exploit 24/7 vortals",
+            "index": "3",
+            "price": 166.75,
+            "quantity": 4.11,
+            "tax_amount": 17.58,
+            "total_ttc": 250.25,
+            "vat_amount": 1.16
+        },
+        {
+            "amount": 11.94,
+            "description": "engineer ubiquitous bandwidth",
+            "index": "2",
+            "price": 317.15,
+            "quantity": 5.72,
+            "tax_amount": 46.82,
+            "total_ttc": 219.39,
+            "vat_amount": 1.53
+        },
+        {
+            "amount": 320.5,
+            "description": "orchestrate extensible portals",
+            "index": "5",
+            "price": 154.74,
+            "quantity": 4.71,
+            "tax_amount": 61.39,
+            "total_ttc": 221.14,
+            "vat_amount": 2.4
+        },
+        {
+            "amount": 91.02,
+            "description": "expedite 24/365 functionalities",
+            "index": "9",
+            "price": 375.8,
+            "quantity": 8.26,
+            "tax_amount": 20.5,
+            "total_ttc": 481.04,
+            "vat_amount": 7.48
+        }
+    ],
+    "seller": {
+        "name": "Dr. Kelly Wilson"
+    },
+    "supplier": {
+        "address": "98245 Kelly Garden West Wesleyfort, SD 44694",
+        "name": "Brandi Ortiz"
+    },
+    "tax": {
+        "amount_excluding_tax": 156.57,
+        "amount_including_tax": 175.18,
+        "tax_amount": 18.95,
+        "total_ht": 404.7,
+        "total_ttc": 222.85
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "Unit 5051 Box 0853 DPO AE 22846"
+    },
+    "invoice": {
+        "bc_no": "yT27599",
+        "date": "08.09.1997",
+        "maturity_date": "15.10.2001",
+        "number": 952010
+    },
+    "products": [
+        {
+            "amount": 372.67,
+            "description": "engage B2B supply-chains",
+            "quantity": 2.8,
+            "unit_price": 79.08,
+            "vat_amount": 14.31
+        },
+        {
+            "amount": 378.36,
+            "description": "streamline viral applications",
+            "quantity": 8.71,
+            "unit_price": 33.22,
+            "vat_amount": 2.81
+        },
+        {
+            "amount": 427.77,
+            "description": "architect wireless models",
+            "quantity": 7.48,
+            "unit_price": 80.08,
+            "vat_amount": 0.9
+        }
+    ],
+    "seller": {
+        "address": "1780 King Roads Bullockberg, CT 99830"
+    },
+    "tax": {
+        "amount_excluding_tax": 34.3,
+        "amount_including_tax": 39.62,
+        "tax_amount": 13.62
+    }
+}

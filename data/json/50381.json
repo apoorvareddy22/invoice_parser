@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "2126 Peters Spring Apt. 297 New Christopher, TX 24132",
+        "id": "rv824"
+    },
+    "invoice": {
+        "bc_no": "zN75492",
+        "currency_code": "LYD",
+        "date": "24.10.2009",
+        "due_date": "04.12.1997",
+        "number": 406093
+    },
+    "payment": {
+        "bank_name": "Hodge, Patton and Boyd",
+        "bic": "WIPIGBL3",
+        "iban": "JJUP74711679985681"
+    },
+    "products": [
+        {
+            "amount": 127.11,
+            "description": "harness robust e-tailers",
+            "index": "4",
+            "price": 442.29,
+            "quantity": 7.78,
+            "tax_amount": 91.43,
+            "total_ttc": 106.57,
+            "vat_amount": 2.16
+        },
+        {
+            "amount": 172.52,
+            "description": "reinvent user-centric communities",
+            "index": "6",
+            "price": 431.6,
+            "quantity": 5.87,
+            "tax_amount": 27.92,
+            "total_ttc": 198.22,
+            "vat_amount": 2.64
+        },
+        {
+            "amount": 132.99,
+            "description": "leverage B2C platforms",
+            "index": "8",
+            "price": 142.4,
+            "quantity": 3.02,
+            "tax_amount": 77.36,
+            "total_ttc": 496.77,
+            "vat_amount": 1.09
+        },
+        {
+            "amount": 94.93,
+            "description": "scale holistic initiatives",
+            "index": "6",
+            "price": 88.08,
+            "quantity": 2.9,
+            "tax_amount": 56.66,
+            "total_ttc": 330.13,
+            "vat_amount": 0.85
+        },
+        {
+            "amount": 424.29,
+            "description": "facilitate dot-com ROI",
+            "index": "4",
+            "price": 227.67,
+            "quantity": 8.49,
+            "tax_amount": 53.84,
+            "total_ttc": 346.41,
+            "vat_amount": 2.26
+        },
+        {
+            "amount": 23.06,
+            "description": "re-contextualize mission-critical partnerships",
+            "index": "8",
+            "price": 225.04,
+            "quantity": 4.97,
+            "tax_amount": 34.33,
+            "total_ttc": 150.75,
+            "vat_amount": 5.77
+        }
+    ],
+    "seller": {
+        "name": "Kristy Floyd"
+    },
+    "supplier": {
+        "address": "182 Donald Mountain Apt. 085 North Karenborough, NE 82642",
+        "name": "Willie Nunez"
+    },
+    "tax": {
+        "amount_excluding_tax": 87.6,
+        "amount_including_tax": 90.28,
+        "tax_amount": 15.6,
+        "total_ht": 165.59,
+        "total_ttc": 361.43
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "35789 Robinson Court New Jillland, MI 17486",
+        "id": "lj631"
+    },
+    "invoice": {
+        "bc_no": "yp75331",
+        "currency_code": "MWK",
+        "date": "16.05.2008",
+        "due_date": "04.06.2016",
+        "number": 402522
+    },
+    "payment": {
+        "bank_name": "Arnold Inc",
+        "bic": "QJNVGBR0",
+        "iban": "KGRR00400000727942"
+    },
+    "products": [
+        {
+            "amount": 103.07,
+            "description": "benchmark viral systems",
+            "index": "8",
+            "price": 381.62,
+            "quantity": 9.21,
+            "tax_amount": 51.98,
+            "total_ttc": 218.54,
+            "vat_amount": 12.19
+        },
+        {
+            "amount": 272.51,
+            "description": "monetize synergistic niches",
+            "index": "2",
+            "price": 129.48,
+            "quantity": 8.01,
+            "tax_amount": 78.36,
+            "total_ttc": 483.37,
+            "vat_amount": 1.09
+        },
+        {
+            "amount": 218.9,
+            "description": "aggregate cross-platform infrastructures",
+            "index": "7",
+            "price": 164.23,
+            "quantity": 4.6,
+            "tax_amount": 92.68,
+            "total_ttc": 442.76,
+            "vat_amount": 7.95
+        }
+    ],
+    "seller": {
+        "name": "Karen Morris"
+    },
+    "supplier": {
+        "address": "371 Cobb Way Suite 638 Moralesville, NM 89696",
+        "name": "Sheryl Ellison"
+    },
+    "tax": {
+        "amount_excluding_tax": 69.64,
+        "amount_including_tax": 55.53,
+        "tax_amount": 10.39,
+        "total_ht": 131.91,
+        "total_ttc": 159.8
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "5607 Nicole Pass Suite 301 New John, TX 69645",
+        "company_name": "Quinn-Anderson",
+        "country": "Andorra",
+        "name": "Debra Jones"
+    },
+    "invoice": {
+        "date": "08.09.2016",
+        "number": 356943
+    },
+    "payment": {
+        "discount_amount": 18.98,
+        "discount_percentage": 7.91,
+        "due": 165.88,
+        "sub_total": 134.98,
+        "total": 543.52
+    },
+    "products": [
+        {
+            "description": "enhance world-class e-business",
+            "index": "1",
+            "quantity": 3.8,
+            "total_price": 561.39,
+            "unit_price": 61.0
+        },
+        {
+            "description": "re-intermediate compelling experiences",
+            "index": "3",
+            "quantity": 2.49,
+            "total_price": 853.99,
+            "unit_price": 36.7
+        },
+        {
+            "description": "incentivize innovative supply-chains",
+            "index": "7",
+            "quantity": 6.02,
+            "total_price": 192.73,
+            "unit_price": 68.98
+        }
+    ],
+    "seller": {
+        "address": "Unit 6974 Box 0347 DPO AP 90734",
+        "company_name": "Valentine LLC",
+        "vat_no": "yQ05845043103"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "USS Miles FPO AP 78750",
+        "id": "BO065"
+    },
+    "invoice": {
+        "bc_no": "Tt32950",
+        "currency_code": "CHF",
+        "date": "25.11.1991",
+        "due_date": "28.07.2001",
+        "number": 754061
+    },
+    "payment": {
+        "bank_name": "Owens, Brooks and Knight",
+        "bic": "MJYKGBO8",
+        "iban": "MPPI87111249114344"
+    },
+    "products": [
+        {
+            "amount": 387.51,
+            "description": "maximize dot-com niches",
+            "index": "8",
+            "price": 299.61,
+            "quantity": 7.42,
+            "tax_amount": 63.07,
+            "total_ttc": 286.41,
+            "vat_amount": 7.39
+        },
+        {
+            "amount": 95.49,
+            "description": "leverage virtual metrics",
+            "index": "8",
+            "price": 262.13,
+            "quantity": 2.08,
+            "tax_amount": 12.24,
+            "total_ttc": 422.34,
+            "vat_amount": 8.6
+        }
+    ],
+    "seller": {
+        "name": "Jordan Ho"
+    },
+    "supplier": {
+        "address": "Unit 7518 Box 3365 DPO AA 62171",
+        "name": "Amanda Pearson"
+    },
+    "tax": {
+        "amount_excluding_tax": 123.69,
+        "amount_including_tax": 41.81,
+        "tax_amount": 25.22,
+        "total_ht": 153.24,
+        "total_ttc": 205.26
+    }
+}

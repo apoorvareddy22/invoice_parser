@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "05964 Martinez Path Apt. 899 Larryport, VA 95060",
+        "id": "mX095"
+    },
+    "invoice": {
+        "bc_no": "tD40595",
+        "currency_code": "KHR",
+        "date": "16.05.2012",
+        "due_date": "14.06.1994",
+        "number": 228076
+    },
+    "payment": {
+        "bank_name": "Scott, Williams and Martinez",
+        "bic": "NEFAGBJH",
+        "iban": "ASHI70686906500240"
+    },
+    "products": [
+        {
+            "amount": 314.45,
+            "description": "maximize front-end interfaces",
+            "index": "1",
+            "price": 53.53,
+            "quantity": 7.08,
+            "tax_amount": 15.68,
+            "total_ttc": 334.77,
+            "vat_amount": 2.57
+        },
+        {
+            "amount": 495.09,
+            "description": "syndicate interactive web services",
+            "index": "6",
+            "price": 242.41,
+            "quantity": 4.16,
+            "tax_amount": 39.65,
+            "total_ttc": 100.47,
+            "vat_amount": 3.75
+        },
+        {
+            "amount": 64.33,
+            "description": "re-intermediate compelling users",
+            "index": "1",
+            "price": 478.97,
+            "quantity": 9.12,
+            "tax_amount": 99.81,
+            "total_ttc": 361.2,
+            "vat_amount": 4.5
+        },
+        {
+            "amount": 60.16,
+            "description": "synergize frictionless users",
+            "index": "3",
+            "price": 165.58,
+            "quantity": 6.18,
+            "tax_amount": 11.76,
+            "total_ttc": 421.48,
+            "vat_amount": 2.34
+        },
+        {
+            "amount": 273.09,
+            "description": "monetize 24/7 channels",
+            "index": "5",
+            "price": 138.4,
+            "quantity": 4.43,
+            "tax_amount": 93.12,
+            "total_ttc": 358.87,
+            "vat_amount": 4.65
+        },
+        {
+            "amount": 113.95,
+            "description": "architect leading-edge channels",
+            "index": "2",
+            "price": 289.29,
+            "quantity": 1.56,
+            "tax_amount": 60.05,
+            "total_ttc": 290.47,
+            "vat_amount": 0.97
+        }
+    ],
+    "seller": {
+        "name": "Katherine Martin"
+    },
+    "supplier": {
+        "address": "28130 Martin Tunnel Suite 657 Dayborough, AZ 80212",
+        "name": "Ivan Guzman"
+    },
+    "tax": {
+        "amount_excluding_tax": 42.7,
+        "amount_including_tax": 106.33,
+        "tax_amount": 29.08,
+        "total_ht": 231.79,
+        "total_ttc": 226.05
+    }
+}

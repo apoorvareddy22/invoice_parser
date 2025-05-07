@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "8348 Brad Harbors Apt. 549 North Edward, OH 65587",
+        "email": "matthewberger@example.org",
+        "phone": "9965260033",
+        "vat_no": "ks68368263245"
+    },
+    "invoice": {
+        "date": "16.09.2001",
+        "due_date": "27.09.2000",
+        "market_reference": 788048,
+        "notes": "facilitate real-time partnerships",
+        "number": "5235-0819",
+        "reference": 938948,
+        "vat_no": "QF65173268721"
+    },
+    "payment": {
+        "net_total": 175.73,
+        "total": 466.74
+    },
+    "products": [
+        {
+            "amount": 289.2,
+            "description": "incubate enterprise models",
+            "hours": 7.48,
+            "rate": 1.03
+        }
+    ],
+    "seller": {
+        "address": "7892 Lewis Haven Hoffmanborough, MD 69464",
+        "email": "mitchelljonathan@example.org",
+        "name": "Christopher Lane"
+    },
+    "tax": {
+        "base": 10.4,
+        "tax_amount": 17.95,
+        "total_tax": 12.48
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "57101 Michelle Common Suite 764 North Cynthia, KY 36589"
+    },
+    "invoice": {
+        "bc_no": "xX87127",
+        "date": "31.01.2021",
+        "maturity_date": "04.01.2018",
+        "number": 154201
+    },
+    "products": [
+        {
+            "amount": 119.32,
+            "description": "embrace end-to-end convergence",
+            "quantity": 8.53,
+            "unit_price": 61.58,
+            "vat_amount": 4.7
+        },
+        {
+            "amount": 276.87,
+            "description": "morph strategic ROI",
+            "quantity": 5.51,
+            "unit_price": 62.25,
+            "vat_amount": 7.24
+        },
+        {
+            "amount": 70.48,
+            "description": "optimize magnetic niches",
+            "quantity": 5.59,
+            "unit_price": 87.94,
+            "vat_amount": 1.0
+        }
+    ],
+    "seller": {
+        "address": "62199 Choi Radial Apt. 089 Hannahton, UT 19091"
+    },
+    "tax": {
+        "amount_excluding_tax": 31.2,
+        "amount_including_tax": 129.4,
+        "tax_amount": 10.2
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "600 Alexis Corner Michaelshire, NH 57270",
+        "business_no": "xe813",
+        "id": "nQ252"
+    },
+    "invoice": {
+        "date": "30.07.1990",
+        "number": "8756-8486"
+    },
+    "payment": {
+        "due_date": "20.09.2012",
+        "total": 507.59
+    },
+    "products": [
+        {
+            "amount": 443.13,
+            "description": "embrace user-centric content",
+            "quantity": 3.05,
+            "reference": "ZX-120",
+            "unit_price": 18.22
+        },
+        {
+            "amount": 10.0,
+            "description": "maximize intuitive platforms",
+            "quantity": 5.78,
+            "reference": "sL-514",
+            "unit_price": 58.95
+        },
+        {
+            "amount": 370.65,
+            "description": "evolve cross-media e-business",
+            "quantity": 3.7,
+            "reference": "VT-595",
+            "unit_price": 21.6
+        }
+    ],
+    "seller": {
+        "address": "698 Farmer Mews Port Alyssaton, WY 37980"
+    },
+    "tax": {
+        "base_ht": 470.08,
+        "regulations": 26.15,
+        "total_ht": 430.91,
+        "vat_amount": 91.52,
+        "vat_percentage": 10.86
+    }
+}

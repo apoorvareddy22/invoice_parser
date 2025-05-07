@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "47270 Linda View Port Timothy, MO 60801",
+        "business_no": "vK371",
+        "id": "SU613"
+    },
+    "invoice": {
+        "date": "06.10.2018",
+        "number": "6261-9563"
+    },
+    "payment": {
+        "due_date": "02.02.1990",
+        "total": 355.62
+    },
+    "products": [
+        {
+            "amount": 119.27,
+            "description": "visualize user-centric interfaces",
+            "quantity": 8.05,
+            "reference": "PK-129",
+            "unit_price": 12.96
+        },
+        {
+            "amount": 102.27,
+            "description": "engage dynamic applications",
+            "quantity": 9.04,
+            "reference": "DN-574",
+            "unit_price": 18.92
+        },
+        {
+            "amount": 495.27,
+            "description": "monetize robust relationships",
+            "quantity": 7.96,
+            "reference": "pJ-744",
+            "unit_price": 72.54
+        }
+    ],
+    "seller": {
+        "address": "37578 Tammy Hollow Suite 901 Port Jodi, OK 76658"
+    },
+    "tax": {
+        "base_ht": 177.34,
+        "regulations": 26.91,
+        "total_ht": 491.06,
+        "vat_amount": 182.25,
+        "vat_percentage": 19.09
+    }
+}

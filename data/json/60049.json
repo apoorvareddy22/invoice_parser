@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "71054 Bradley Throughway Johnsonshire, PW 06903",
+        "business_no": "Nt059",
+        "id": "AR909"
+    },
+    "invoice": {
+        "date": "21.11.1998",
+        "number": "8764-7332"
+    },
+    "payment": {
+        "due_date": "07.03.1997",
+        "total": 971.23
+    },
+    "products": [
+        {
+            "amount": 470.54,
+            "description": "strategize synergistic convergence",
+            "quantity": 8.29,
+            "reference": "uj-840",
+            "unit_price": 10.34
+        },
+        {
+            "amount": 111.25,
+            "description": "scale plug-and-play schemas",
+            "quantity": 3.8,
+            "reference": "DS-879",
+            "unit_price": 53.87
+        },
+        {
+            "amount": 278.91,
+            "description": "envisioneer cutting-edge metrics",
+            "quantity": 5.69,
+            "reference": "oz-523",
+            "unit_price": 20.94
+        },
+        {
+            "amount": 477.94,
+            "description": "synergize seamless markets",
+            "quantity": 3.74,
+            "reference": "PZ-555",
+            "unit_price": 46.16
+        }
+    ],
+    "seller": {
+        "address": "7116 David Roads Apt. 698 East Frank, NJ 54181"
+    },
+    "tax": {
+        "base_ht": 495.34,
+        "regulations": 21.1,
+        "total_ht": 157.4,
+        "vat_amount": 52.42,
+        "vat_percentage": 12.06
+    }
+}

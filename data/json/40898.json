@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "372 Scott Underpass Mccarthyfort, DC 17824"
+    },
+    "invoice": {
+        "bc_no": "fN32892",
+        "date": "15.06.1993",
+        "maturity_date": "11.08.1991",
+        "number": 258575
+    },
+    "products": [
+        {
+            "amount": 392.54,
+            "description": "evolve B2B e-tailers",
+            "quantity": 3.84,
+            "unit_price": 26.3,
+            "vat_amount": 0.44
+        }
+    ],
+    "seller": {
+        "address": "060 Holmes Curve Leslietown, OK 73439"
+    },
+    "tax": {
+        "amount_excluding_tax": 177.03,
+        "amount_including_tax": 125.5,
+        "tax_amount": 23.23
+    }
+}

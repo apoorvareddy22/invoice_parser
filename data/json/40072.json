@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "98209 Barry Cape Apt. 740 New Anaview, AS 67922"
+    },
+    "invoice": {
+        "bc_no": "eX67793",
+        "date": "06.01.2023",
+        "maturity_date": "08.08.2018",
+        "number": 824433
+    },
+    "products": [
+        {
+            "amount": 322.54,
+            "description": "implement cutting-edge partnerships",
+            "quantity": 4.75,
+            "unit_price": 62.3,
+            "vat_amount": 0.62
+        },
+        {
+            "amount": 122.54,
+            "description": "benchmark turn-key e-tailers",
+            "quantity": 5.05,
+            "unit_price": 57.1,
+            "vat_amount": 14.28
+        },
+        {
+            "amount": 24.67,
+            "description": "re-contextualize integrated web-readiness",
+            "quantity": 4.97,
+            "unit_price": 79.17,
+            "vat_amount": 1.48
+        }
+    ],
+    "seller": {
+        "address": "8298 Mary Glen Cabreraborough, AL 26556"
+    },
+    "tax": {
+        "amount_excluding_tax": 113.55,
+        "amount_including_tax": 71.52,
+        "tax_amount": 17.0
+    }
+}

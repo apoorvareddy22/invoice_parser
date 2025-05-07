@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "302 Elizabeth Burg Suite 170 Jasonland, MS 93581"
+    },
+    "invoice": {
+        "bc_no": "Px60907",
+        "date": "02.12.2021",
+        "maturity_date": "04.06.2009",
+        "number": 455940
+    },
+    "products": [
+        {
+            "amount": 240.96,
+            "description": "empower world-class experiences",
+            "quantity": 7.35,
+            "unit_price": 62.3,
+            "vat_amount": 0.48
+        },
+        {
+            "amount": 200.5,
+            "description": "mesh distributed niches",
+            "quantity": 7.2,
+            "unit_price": 30.82,
+            "vat_amount": 1.85
+        },
+        {
+            "amount": 287.92,
+            "description": "visualize real-time e-business",
+            "quantity": 4.77,
+            "unit_price": 12.96,
+            "vat_amount": 0.7
+        }
+    ],
+    "seller": {
+        "address": "PSC 5346, Box 1221 APO AP 38606"
+    },
+    "tax": {
+        "amount_excluding_tax": 57.74,
+        "amount_including_tax": 193.48,
+        "tax_amount": 23.36
+    }
+}

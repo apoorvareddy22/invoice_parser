@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "USNV Ramirez FPO AP 70626",
+        "id": "pc028"
+    },
+    "invoice": {
+        "bc_no": "AV21321",
+        "currency_code": "HUF",
+        "date": "02.11.2015",
+        "due_date": "18.02.2001",
+        "number": 826309
+    },
+    "payment": {
+        "bank_name": "Boone-Murray",
+        "bic": "VJYOGBGV",
+        "iban": "KMQA69610838765449"
+    },
+    "products": [
+        {
+            "amount": 424.67,
+            "description": "whiteboard 24/365 synergies",
+            "index": "9",
+            "price": 199.28,
+            "quantity": 2.5,
+            "tax_amount": 65.75,
+            "total_ttc": 295.18,
+            "vat_amount": 6.61
+        },
+        {
+            "amount": 154.63,
+            "description": "reinvent sticky users",
+            "index": "8",
+            "price": 89.55,
+            "quantity": 1.84,
+            "tax_amount": 44.39,
+            "total_ttc": 237.73,
+            "vat_amount": 0.43
+        },
+        {
+            "amount": 375.07,
+            "description": "transform best-of-breed solutions",
+            "index": "8",
+            "price": 125.42,
+            "quantity": 5.63,
+            "tax_amount": 35.11,
+            "total_ttc": 329.52,
+            "vat_amount": 3.31
+        },
+        {
+            "amount": 86.09,
+            "description": "mesh bleeding-edge methodologies",
+            "index": "6",
+            "price": 387.81,
+            "quantity": 7.56,
+            "tax_amount": 93.31,
+            "total_ttc": 204.08,
+            "vat_amount": 6.91
+        },
+        {
+            "amount": 423.06,
+            "description": "generate killer functionalities",
+            "index": "9",
+            "price": 181.92,
+            "quantity": 6.11,
+            "tax_amount": 31.88,
+            "total_ttc": 439.66,
+            "vat_amount": 5.73
+        },
+        {
+            "amount": 103.19,
+            "description": "utilize user-centric technologies",
+            "index": "5",
+            "price": 280.84,
+            "quantity": 4.5,
+            "tax_amount": 11.13,
+            "total_ttc": 125.77,
+            "vat_amount": 16.17
+        },
+        {
+            "amount": 498.05,
+            "description": "productize transparent technologies",
+            "index": "3",
+            "price": 276.33,
+            "quantity": 9.78,
+            "tax_amount": 75.01,
+            "total_ttc": 313.61,
+            "vat_amount": 0.07
+        }
+    ],
+    "seller": {
+        "name": "Sarah Mcguire"
+    },
+    "supplier": {
+        "address": "96225 Tanya Stream Jamesville, KY 58918",
+        "name": "Daniel Rodriguez"
+    },
+    "tax": {
+        "amount_excluding_tax": 50.12,
+        "amount_including_tax": 102.02,
+        "tax_amount": 28.54,
+        "total_ht": 398.08,
+        "total_ttc": 495.31
+    }
+}

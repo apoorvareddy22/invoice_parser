@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "5683 Arthur Freeway Millerview, ID 33376",
+        "company_name": "Davies, Maxwell and Gibson",
+        "email": "stevenrodriguez@example.com",
+        "name": "Victoria Palmer",
+        "phone": "494.291.0398x106"
+    },
+    "invoice": {
+        "date": "25.04.2016",
+        "due_date": "08.12.2023",
+        "number": "Sby57416837759"
+    },
+    "payment": {
+        "account_number": 6508305553,
+        "bank_name": "Perry PLC",
+        "routing_number": 958131323
+    },
+    "products": [
+        {
+            "amount": 464.37,
+            "description": "optimize sticky e-tailers",
+            "index": "5",
+            "quantity": 9.93,
+            "unit_price": 56.61
+        },
+        {
+            "amount": 104.18,
+            "description": "grow ubiquitous bandwidth",
+            "index": "7",
+            "quantity": 7.52,
+            "unit_price": 83.99
+        },
+        {
+            "amount": 408.69,
+            "description": "embrace 24/365 models",
+            "index": "6",
+            "quantity": 8.51,
+            "unit_price": 10.81
+        },
+        {
+            "amount": 135.45,
+            "description": "streamline bleeding-edge functionalities",
+            "index": "2",
+            "quantity": 8.23,
+            "unit_price": 36.89
+        },
+        {
+            "amount": 300.73,
+            "description": "morph back-end systems",
+            "index": "6",
+            "quantity": 1.2,
+            "unit_price": 20.36
+        }
+    ],
+    "seller": {
+        "address": "7145 Hunter Road Suite 528 New Katherinetown, NY 09871",
+        "company_name": "Ryan-Cook",
+        "email": "georgejones@example.org"
+    }
+}

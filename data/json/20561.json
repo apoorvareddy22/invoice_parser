@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "629 Kelly Shores Clarkhaven, ND 67867",
+        "company_name": "Ellis Inc",
+        "email": "marymendez@example.com",
+        "name": "Hannah Smith",
+        "phone": "001-894-617-2892"
+    },
+    "invoice": {
+        "date": "14.07.1998",
+        "due_date": "26.08.2017",
+        "number": "Xme49838856487"
+    },
+    "payment": {
+        "account_number": 4567832490,
+        "bank_name": "Obrien LLC",
+        "routing_number": 642792587
+    },
+    "products": [
+        {
+            "amount": 242.3,
+            "description": "synthesize e-business action-items",
+            "index": "3",
+            "quantity": 5.22,
+            "unit_price": 39.05
+        },
+        {
+            "amount": 456.55,
+            "description": "morph next-generation paradigms",
+            "index": "1",
+            "quantity": 9.1,
+            "unit_price": 32.17
+        },
+        {
+            "amount": 221.5,
+            "description": "revolutionize revolutionary methodologies",
+            "index": "7",
+            "quantity": 6.69,
+            "unit_price": 40.9
+        }
+    ],
+    "seller": {
+        "address": "553 Laura Trafficway Wolfeland, NV 66941",
+        "company_name": "Johnson-Fischer",
+        "email": "hamiltonjennifer@example.net"
+    }
+}

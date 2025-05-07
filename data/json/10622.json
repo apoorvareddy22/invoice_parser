@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "3750 David Port Suite 380 Michaelfurt, CA 35760",
+        "email": "abigailgaines@example.org",
+        "phone": "(769)643-1485x89491",
+        "vat_no": "ho62010731830"
+    },
+    "invoice": {
+        "date": "09.11.1994",
+        "due_date": "22.04.2005",
+        "market_reference": 773595,
+        "notes": "orchestrate proactive convergence",
+        "number": "6583-5067",
+        "reference": 832195,
+        "vat_no": "ZU95820967397"
+    },
+    "payment": {
+        "net_total": 198.17,
+        "total": 612.64
+    },
+    "products": [
+        {
+            "amount": 386.18,
+            "description": "productize enterprise e-tailers",
+            "hours": 6.49,
+            "rate": 5.01
+        },
+        {
+            "amount": 221.03,
+            "description": "morph open-source schemas",
+            "hours": 7.32,
+            "rate": 7.84
+        },
+        {
+            "amount": 110.43,
+            "description": "implement ubiquitous systems",
+            "hours": 8.56,
+            "rate": 4.66
+        },
+        {
+            "amount": 306.74,
+            "description": "evolve best-of-breed applications",
+            "hours": 8.51,
+            "rate": 1.11
+        }
+    ],
+    "seller": {
+        "address": "98772 Hoffman Valley Suite 946 Port Anthonyfort, MI 69880",
+        "email": "naustin@example.com",
+        "name": "Donna Cole"
+    },
+    "tax": {
+        "base": 24.35,
+        "tax_amount": 22.53,
+        "total_tax": 12.51
+    }
+}

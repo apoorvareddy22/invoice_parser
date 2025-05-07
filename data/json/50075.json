@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "USNV Rocha FPO AE 71135",
+        "id": "LS222"
+    },
+    "invoice": {
+        "bc_no": "EL21487",
+        "currency_code": "BBD",
+        "date": "03.03.1992",
+        "due_date": "01.10.2015",
+        "number": 408252
+    },
+    "payment": {
+        "bank_name": "White, Mcknight and Cortez",
+        "bic": "WOGRGBIU",
+        "iban": "GUIL21153697292674"
+    },
+    "products": [
+        {
+            "amount": 226.05,
+            "description": "benchmark killer solutions",
+            "index": "6",
+            "price": 463.91,
+            "quantity": 8.01,
+            "tax_amount": 43.49,
+            "total_ttc": 478.27,
+            "vat_amount": 6.14
+        },
+        {
+            "amount": 480.1,
+            "description": "unleash 24/365 synergies",
+            "index": "1",
+            "price": 336.68,
+            "quantity": 2.45,
+            "tax_amount": 60.34,
+            "total_ttc": 165.24,
+            "vat_amount": 15.13
+        },
+        {
+            "amount": 223.34,
+            "description": "enhance web-enabled architectures",
+            "index": "2",
+            "price": 438.23,
+            "quantity": 7.93,
+            "tax_amount": 24.7,
+            "total_ttc": 480.11,
+            "vat_amount": 10.43
+        }
+    ],
+    "seller": {
+        "name": "Maria Pennington"
+    },
+    "supplier": {
+        "address": "7690 Kelly Mountain New Alexandratown, NY 42336",
+        "name": "Shannon Schroeder"
+    },
+    "tax": {
+        "amount_excluding_tax": 15.55,
+        "amount_including_tax": 64.72,
+        "tax_amount": 20.23,
+        "total_ht": 184.59,
+        "total_ttc": 404.66
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "893 Lisa Union Suite 136 East Ana, VI 09778",
+        "business_no": "SM370",
+        "id": "Yf321"
+    },
+    "invoice": {
+        "date": "08.11.1995",
+        "number": "4942-8591"
+    },
+    "payment": {
+        "due_date": "07.03.2001",
+        "total": 627.02
+    },
+    "products": [
+        {
+            "amount": 378.9,
+            "description": "expedite one-to-one channels",
+            "quantity": 7.32,
+            "reference": "pl-828",
+            "unit_price": 12.17
+        },
+        {
+            "amount": 147.7,
+            "description": "grow end-to-end portals",
+            "quantity": 8.12,
+            "reference": "MA-552",
+            "unit_price": 47.71
+        },
+        {
+            "amount": 20.49,
+            "description": "deploy enterprise schemas",
+            "quantity": 3.24,
+            "reference": "ts-180",
+            "unit_price": 96.62
+        },
+        {
+            "amount": 423.02,
+            "description": "scale frictionless platforms",
+            "quantity": 5.69,
+            "reference": "fY-663",
+            "unit_price": 60.16
+        },
+        {
+            "amount": 496.38,
+            "description": "whiteboard 24/7 e-services",
+            "quantity": 8.09,
+            "reference": "Qo-946",
+            "unit_price": 56.46
+        },
+        {
+            "amount": 302.81,
+            "description": "integrate front-end mindshare",
+            "quantity": 7.07,
+            "reference": "Yu-909",
+            "unit_price": 84.52
+        },
+        {
+            "amount": 28.14,
+            "description": "iterate scalable solutions",
+            "quantity": 3.96,
+            "reference": "Yo-005",
+            "unit_price": 77.71
+        }
+    ],
+    "seller": {
+        "address": "44554 Fitzpatrick Ports Suite 721 Lake Andrewmouth, NV 71000"
+    },
+    "tax": {
+        "base_ht": 447.18,
+        "regulations": 13.26,
+        "total_ht": 380.79,
+        "vat_amount": 197.26,
+        "vat_percentage": 19.82
+    }
+}

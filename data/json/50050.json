@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "73389 Harvey Circles Suite 459 North Jacobton, OH 31912",
+        "id": "NM466"
+    },
+    "invoice": {
+        "bc_no": "IH75853",
+        "currency_code": "DJF",
+        "date": "06.10.2018",
+        "due_date": "11.07.2011",
+        "number": 311091
+    },
+    "payment": {
+        "bank_name": "Mcdonald, Griffin and Simon",
+        "bic": "UWNMGB1RP5S",
+        "iban": "NVSF27150336037600"
+    },
+    "products": [
+        {
+            "amount": 106.88,
+            "description": "harness world-class infrastructures",
+            "index": "4",
+            "price": 321.54,
+            "quantity": 1.97,
+            "tax_amount": 93.81,
+            "total_ttc": 318.6,
+            "vat_amount": 7.05
+        },
+        {
+            "amount": 228.87,
+            "description": "evolve front-end web-readiness",
+            "index": "8",
+            "price": 193.9,
+            "quantity": 3.65,
+            "tax_amount": 92.15,
+            "total_ttc": 442.07,
+            "vat_amount": 5.95
+        },
+        {
+            "amount": 363.39,
+            "description": "morph strategic deliverables",
+            "index": "2",
+            "price": 72.76,
+            "quantity": 4.96,
+            "tax_amount": 37.35,
+            "total_ttc": 453.08,
+            "vat_amount": 1.53
+        },
+        {
+            "amount": 224.42,
+            "description": "revolutionize cross-platform action-items",
+            "index": "3",
+            "price": 495.43,
+            "quantity": 9.29,
+            "tax_amount": 65.74,
+            "total_ttc": 338.39,
+            "vat_amount": 3.46
+        },
+        {
+            "amount": 199.75,
+            "description": "transform transparent users",
+            "index": "10",
+            "price": 151.05,
+            "quantity": 7.99,
+            "tax_amount": 49.65,
+            "total_ttc": 398.75,
+            "vat_amount": 2.5
+        },
+        {
+            "amount": 33.73,
+            "description": "streamline web-enabled architectures",
+            "index": "2",
+            "price": 388.97,
+            "quantity": 9.18,
+            "tax_amount": 21.41,
+            "total_ttc": 163.35,
+            "vat_amount": 5.63
+        }
+    ],
+    "seller": {
+        "name": "Amber Mills"
+    },
+    "supplier": {
+        "address": "9244 Hayes Corner Kristybury, DC 07290",
+        "name": "Kimberly Wright"
+    },
+    "tax": {
+        "amount_excluding_tax": 47.71,
+        "amount_including_tax": 100.52,
+        "tax_amount": 27.45,
+        "total_ht": 435.19,
+        "total_ttc": 190.74
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "89002 Evans Lake Apt. 391 Stevenport, VA 57608",
+        "id": "qc144"
+    },
+    "invoice": {
+        "bc_no": "Ct86794",
+        "currency_code": "CUC",
+        "date": "17.08.1995",
+        "due_date": "20.11.2009",
+        "number": 311713
+    },
+    "payment": {
+        "bank_name": "Williams, Jenkins and Allen",
+        "bic": "GRXEGB1Y",
+        "iban": "WGAV46520846848551"
+    },
+    "products": [
+        {
+            "amount": 83.08,
+            "description": "visualize magnetic communities",
+            "index": "6",
+            "price": 175.91,
+            "quantity": 1.36,
+            "tax_amount": 40.61,
+            "total_ttc": 195.05,
+            "vat_amount": 0.49
+        },
+        {
+            "amount": 67.57,
+            "description": "generate B2C e-markets",
+            "index": "9",
+            "price": 390.62,
+            "quantity": 7.88,
+            "tax_amount": 45.38,
+            "total_ttc": 136.58,
+            "vat_amount": 0.29
+        }
+    ],
+    "seller": {
+        "name": "Edward Cunningham"
+    },
+    "supplier": {
+        "address": "Unit 6661 Box 8455 DPO AA 22821",
+        "name": "Jade Gaines"
+    },
+    "tax": {
+        "amount_excluding_tax": 94.44,
+        "amount_including_tax": 78.93,
+        "tax_amount": 25.5,
+        "total_ht": 151.95,
+        "total_ttc": 430.56
+    }
+}

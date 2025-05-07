@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "0141 Jennifer Freeway Suite 137 Cooperport, CA 50174",
+        "id": "Ru296"
+    },
+    "invoice": {
+        "bc_no": "Fd42351",
+        "currency_code": "SAR",
+        "date": "12.07.1993",
+        "due_date": "14.07.1997",
+        "number": 384712
+    },
+    "payment": {
+        "bank_name": "Sampson, Pierce and Haas",
+        "bic": "SNYUGB9UANN",
+        "iban": "RFMF94935796776647"
+    },
+    "products": [
+        {
+            "amount": 68.67,
+            "description": "extend customized niches",
+            "index": "7",
+            "price": 382.93,
+            "quantity": 3.54,
+            "tax_amount": 93.47,
+            "total_ttc": 337.83,
+            "vat_amount": 1.63
+        },
+        {
+            "amount": 165.41,
+            "description": "whiteboard B2C relationships",
+            "index": "10",
+            "price": 276.51,
+            "quantity": 8.61,
+            "tax_amount": 11.83,
+            "total_ttc": 392.76,
+            "vat_amount": 18.61
+        },
+        {
+            "amount": 460.77,
+            "description": "empower killer architectures",
+            "index": "6",
+            "price": 347.03,
+            "quantity": 3.45,
+            "tax_amount": 29.54,
+            "total_ttc": 384.01,
+            "vat_amount": 12.65
+        },
+        {
+            "amount": 105.62,
+            "description": "extend out-of-the-box action-items",
+            "index": "5",
+            "price": 100.51,
+            "quantity": 4.79,
+            "tax_amount": 68.61,
+            "total_ttc": 219.61,
+            "vat_amount": 4.36
+        }
+    ],
+    "seller": {
+        "name": "Gary Arnold"
+    },
+    "supplier": {
+        "address": "0955 Hunt Way Munozchester, IN 76849",
+        "name": "Carl Griffith"
+    },
+    "tax": {
+        "amount_excluding_tax": 130.87,
+        "amount_including_tax": 150.27,
+        "tax_amount": 26.76,
+        "total_ht": 305.39,
+        "total_ttc": 103.8
+    }
+}

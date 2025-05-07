@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "200 Andrea Vista Suite 031 South Kellistad, OK 37029",
+        "company_name": "Jones-Gonzalez",
+        "email": "amandabernard@example.org",
+        "name": "Janice Wheeler",
+        "phone": "619.461.3747x892"
+    },
+    "invoice": {
+        "date": "09.01.2016",
+        "due_date": "23.03.2015",
+        "number": "xbI44117725654"
+    },
+    "payment": {
+        "account_number": 5618465248,
+        "bank_name": "Johnson LLC",
+        "routing_number": 918064102
+    },
+    "products": [
+        {
+            "amount": 117.61,
+            "description": "architect dynamic ROI",
+            "index": "2",
+            "quantity": 9.25,
+            "unit_price": 39.31
+        },
+        {
+            "amount": 213.57,
+            "description": "exploit visionary relationships",
+            "index": "3",
+            "quantity": 8.14,
+            "unit_price": 22.39
+        },
+        {
+            "amount": 331.34,
+            "description": "harness integrated convergence",
+            "index": "4",
+            "quantity": 3.09,
+            "unit_price": 10.47
+        }
+    ],
+    "seller": {
+        "address": "2939 Ricky Trail Susanberg, SC 65383",
+        "company_name": "Griffin Ltd",
+        "email": "martinezmelissa@example.net"
+    }
+}

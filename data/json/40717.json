@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "4386 Connor Fords Suite 825 Stephenmouth, SD 08220"
+    },
+    "invoice": {
+        "bc_no": "hy01416",
+        "date": "09.05.1996",
+        "maturity_date": "15.09.2016",
+        "number": 662121
+    },
+    "products": [
+        {
+            "amount": 13.76,
+            "description": "cultivate next-generation action-items",
+            "quantity": 1.9,
+            "unit_price": 75.71,
+            "vat_amount": 4.86
+        },
+        {
+            "amount": 255.81,
+            "description": "redefine dot-com metrics",
+            "quantity": 2.07,
+            "unit_price": 93.42,
+            "vat_amount": 8.65
+        },
+        {
+            "amount": 241.93,
+            "description": "synergize strategic synergies",
+            "quantity": 9.34,
+            "unit_price": 51.67,
+            "vat_amount": 1.92
+        },
+        {
+            "amount": 443.52,
+            "description": "implement bricks-and-clicks convergence",
+            "quantity": 6.37,
+            "unit_price": 78.69,
+            "vat_amount": 0.46
+        },
+        {
+            "amount": 208.63,
+            "description": "transform interactive networks",
+            "quantity": 8.65,
+            "unit_price": 24.34,
+            "vat_amount": 5.06
+        },
+        {
+            "amount": 262.08,
+            "description": "engineer next-generation experiences",
+            "quantity": 9.46,
+            "unit_price": 44.06,
+            "vat_amount": 4.61
+        }
+    ],
+    "seller": {
+        "address": "86169 Johnson Circles Apt. 432 Williamstown, MO 15063"
+    },
+    "tax": {
+        "amount_excluding_tax": 101.28,
+        "amount_including_tax": 168.61,
+        "tax_amount": 21.92
+    }
+}

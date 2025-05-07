@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "747 John Glen Briantown, ND 32461"
+    },
+    "invoice": {
+        "bc_no": "GB83833",
+        "date": "27.03.2022",
+        "maturity_date": "14.12.2023",
+        "number": 734287
+    },
+    "products": [
+        {
+            "amount": 169.57,
+            "description": "redefine efficient action-items",
+            "quantity": 4.07,
+            "unit_price": 11.17,
+            "vat_amount": 1.25
+        },
+        {
+            "amount": 120.44,
+            "description": "engage strategic action-items",
+            "quantity": 4.02,
+            "unit_price": 87.2,
+            "vat_amount": 15.61
+        },
+        {
+            "amount": 75.96,
+            "description": "productize holistic e-services",
+            "quantity": 9.03,
+            "unit_price": 83.6,
+            "vat_amount": 1.89
+        },
+        {
+            "amount": 234.18,
+            "description": "strategize e-business partnerships",
+            "quantity": 6.17,
+            "unit_price": 69.18,
+            "vat_amount": 4.96
+        },
+        {
+            "amount": 334.19,
+            "description": "embrace global web services",
+            "quantity": 8.92,
+            "unit_price": 73.33,
+            "vat_amount": 1.16
+        },
+        {
+            "amount": 247.5,
+            "description": "transform cross-media schemas",
+            "quantity": 6.25,
+            "unit_price": 50.47,
+            "vat_amount": 8.22
+        }
+    ],
+    "seller": {
+        "address": "3798 Vasquez Mall Apt. 283 Lake Amber, GU 25857"
+    },
+    "tax": {
+        "amount_excluding_tax": 73.73,
+        "amount_including_tax": 16.19,
+        "tax_amount": 20.7
+    }
+}

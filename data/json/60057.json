@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "14570 Garcia Parks Apt. 482 South Ronald, MA 31159",
+        "business_no": "ar947",
+        "id": "cu668"
+    },
+    "invoice": {
+        "date": "10.03.2007",
+        "number": "8633-4514"
+    },
+    "payment": {
+        "due_date": "04.10.1994",
+        "total": 653.17
+    },
+    "products": [
+        {
+            "amount": 343.23,
+            "description": "target clicks-and-mortar e-services",
+            "quantity": 6.11,
+            "reference": "GN-241",
+            "unit_price": 32.54
+        },
+        {
+            "amount": 196.23,
+            "description": "facilitate collaborative architectures",
+            "quantity": 2.6,
+            "reference": "GC-249",
+            "unit_price": 43.81
+        },
+        {
+            "amount": 442.3,
+            "description": "maximize strategic e-business",
+            "quantity": 9.19,
+            "reference": "Gc-831",
+            "unit_price": 98.29
+        },
+        {
+            "amount": 82.17,
+            "description": "synergize proactive communities",
+            "quantity": 5.02,
+            "reference": "gm-237",
+            "unit_price": 10.15
+        }
+    ],
+    "seller": {
+        "address": "445 Richard Grove Suite 684 Timothyberg, MI 98051"
+    },
+    "tax": {
+        "base_ht": 132.68,
+        "regulations": 26.35,
+        "total_ht": 324.97,
+        "vat_amount": 172.07,
+        "vat_percentage": 13.53
+    }
+}

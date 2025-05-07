@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "228 Michael Row Port Amanda, IA 76616",
+        "business_no": "bd672",
+        "id": "Re521"
+    },
+    "invoice": {
+        "date": "07.05.1993",
+        "number": "3475-4578"
+    },
+    "payment": {
+        "due_date": "16.05.2011",
+        "total": 511.91
+    },
+    "products": [
+        {
+            "amount": 203.49,
+            "description": "deliver user-centric info-mediaries",
+            "quantity": 1.78,
+            "reference": "nB-514",
+            "unit_price": 86.0
+        }
+    ],
+    "seller": {
+        "address": "37900 Huang Unions Suite 810 Lake Joseborough, FM 97514"
+    },
+    "tax": {
+        "base_ht": 429.5,
+        "regulations": 23.68,
+        "total_ht": 296.82,
+        "vat_amount": 32.44,
+        "vat_percentage": 27.14
+    }
+}

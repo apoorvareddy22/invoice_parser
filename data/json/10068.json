@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "36954 Thomas Club Franciscobury, CT 06932",
+        "email": "martinkaren@example.org",
+        "phone": "+1-231-281-3407x3187",
+        "vat_no": "Hs47265505126"
+    },
+    "invoice": {
+        "date": "12.11.2014",
+        "due_date": "06.01.2000",
+        "market_reference": 615456,
+        "notes": "whiteboard enterprise action-items",
+        "number": "9572-7519",
+        "reference": 331453,
+        "vat_no": "Fw11675786956"
+    },
+    "payment": {
+        "net_total": 154.53,
+        "total": 882.92
+    },
+    "products": [
+        {
+            "amount": 404.18,
+            "description": "deploy cutting-edge applications",
+            "hours": 5.32,
+            "rate": 1.66
+        }
+    ],
+    "seller": {
+        "address": "020 Amanda River Michaeltown, AL 50457",
+        "email": "lozanogina@example.com",
+        "name": "Kevin Richards"
+    },
+    "tax": {
+        "base": 13.0,
+        "tax_amount": 16.98,
+        "total_tax": 11.57
+    }
+}

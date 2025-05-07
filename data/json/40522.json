@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "08365 Perry Terrace Suite 793 West Richard, AZ 27753"
+    },
+    "invoice": {
+        "bc_no": "BO51816",
+        "date": "25.07.2004",
+        "maturity_date": "03.05.2014",
+        "number": 259345
+    },
+    "products": [
+        {
+            "amount": 367.99,
+            "description": "iterate e-business technologies",
+            "quantity": 6.85,
+            "unit_price": 52.27,
+            "vat_amount": 9.42
+        },
+        {
+            "amount": 98.09,
+            "description": "extend cross-platform markets",
+            "quantity": 5.58,
+            "unit_price": 67.99,
+            "vat_amount": 18.31
+        },
+        {
+            "amount": 371.28,
+            "description": "deliver innovative e-business",
+            "quantity": 7.88,
+            "unit_price": 67.87,
+            "vat_amount": 11.27
+        }
+    ],
+    "seller": {
+        "address": "9034 Andrew Mount Feliciaville, HI 45616"
+    },
+    "tax": {
+        "amount_excluding_tax": 116.01,
+        "amount_including_tax": 93.32,
+        "tax_amount": 13.34
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "7945 Cummings Court Rebeccaside, HI 94485"
+    },
+    "invoice": {
+        "bc_no": "eN48444",
+        "date": "13.10.1998",
+        "maturity_date": "07.01.2009",
+        "number": 578773
+    },
+    "products": [
+        {
+            "amount": 448.44,
+            "description": "target dot-com metrics",
+            "quantity": 4.25,
+            "unit_price": 14.39,
+            "vat_amount": 8.79
+        },
+        {
+            "amount": 406.58,
+            "description": "cultivate cross-platform partnerships",
+            "quantity": 5.2,
+            "unit_price": 66.81,
+            "vat_amount": 5.66
+        },
+        {
+            "amount": 71.23,
+            "description": "cultivate best-of-breed initiatives",
+            "quantity": 5.96,
+            "unit_price": 55.26,
+            "vat_amount": 1.02
+        },
+        {
+            "amount": 207.02,
+            "description": "synergize one-to-one web-readiness",
+            "quantity": 3.23,
+            "unit_price": 16.01,
+            "vat_amount": 12.65
+        },
+        {
+            "amount": 83.87,
+            "description": "unleash 24/7 models",
+            "quantity": 2.31,
+            "unit_price": 59.93,
+            "vat_amount": 4.03
+        }
+    ],
+    "seller": {
+        "address": "68106 Calderon Parks Yolandaborough, ID 50929"
+    },
+    "tax": {
+        "amount_excluding_tax": 162.69,
+        "amount_including_tax": 93.49,
+        "tax_amount": 29.17
+    }
+}

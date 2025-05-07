@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "12812 Sheila Hollow Suite 891 Port Danielberg, OR 13459"
+    },
+    "invoice": {
+        "bc_no": "An45102",
+        "date": "09.12.1996",
+        "maturity_date": "18.09.2006",
+        "number": 132853
+    },
+    "products": [
+        {
+            "amount": 480.49,
+            "description": "synergize e-business e-markets",
+            "quantity": 4.79,
+            "unit_price": 41.03,
+            "vat_amount": 5.64
+        },
+        {
+            "amount": 276.94,
+            "description": "productize synergistic convergence",
+            "quantity": 8.61,
+            "unit_price": 22.06,
+            "vat_amount": 4.32
+        },
+        {
+            "amount": 149.33,
+            "description": "optimize bricks-and-clicks synergies",
+            "quantity": 4.6,
+            "unit_price": 25.83,
+            "vat_amount": 13.63
+        },
+        {
+            "amount": 306.09,
+            "description": "monetize impactful deliverables",
+            "quantity": 4.65,
+            "unit_price": 76.09,
+            "vat_amount": 6.11
+        }
+    ],
+    "seller": {
+        "address": "2050 Holland Orchard Apt. 465 Lake Derek, PA 15124"
+    },
+    "tax": {
+        "amount_excluding_tax": 42.58,
+        "amount_including_tax": 125.67,
+        "tax_amount": 15.09
+    }
+}

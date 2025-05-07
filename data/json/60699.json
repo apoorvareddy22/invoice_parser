@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "28838 Ryan Overpass Apt. 208 Port Kennethfurt, MT 19817",
+        "business_no": "NH873",
+        "id": "Ij708"
+    },
+    "invoice": {
+        "date": "04.11.2003",
+        "number": "9752-1291"
+    },
+    "payment": {
+        "due_date": "07.02.2001",
+        "total": 986.04
+    },
+    "products": [
+        {
+            "amount": 479.94,
+            "description": "monetize mission-critical infrastructures",
+            "quantity": 2.0,
+            "reference": "Bt-837",
+            "unit_price": 15.84
+        },
+        {
+            "amount": 233.47,
+            "description": "engineer customized users",
+            "quantity": 6.74,
+            "reference": "pW-360",
+            "unit_price": 30.43
+        },
+        {
+            "amount": 348.01,
+            "description": "extend 24/365 networks",
+            "quantity": 9.91,
+            "reference": "Bj-922",
+            "unit_price": 43.99
+        }
+    ],
+    "seller": {
+        "address": "9439 Vaughan Mountains Apt. 963 Shawhaven, ID 93679"
+    },
+    "tax": {
+        "base_ht": 455.55,
+        "regulations": 24.79,
+        "total_ht": 481.08,
+        "vat_amount": 43.39,
+        "vat_percentage": 14.72
+    }
+}

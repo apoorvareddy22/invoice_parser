@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "3326 Adrian Underpass Michaeltown, ME 88066",
+        "email": "russellklein@example.com",
+        "phone": "+1-796-567-9119x998",
+        "vat_no": "ig21952335940"
+    },
+    "invoice": {
+        "date": "16.08.2012",
+        "due_date": "26.06.2022",
+        "market_reference": 938070,
+        "notes": "synergize 24/365 e-commerce",
+        "number": "5404-7304",
+        "reference": 717913,
+        "vat_no": "fV30128788939"
+    },
+    "payment": {
+        "net_total": 138.39,
+        "total": 251.75
+    },
+    "products": [
+        {
+            "amount": 33.6,
+            "description": "implement killer applications",
+            "hours": 6.44,
+            "rate": 9.66
+        },
+        {
+            "amount": 183.32,
+            "description": "harness customized models",
+            "hours": 8.68,
+            "rate": 5.3
+        },
+        {
+            "amount": 484.99,
+            "description": "seize global markets",
+            "hours": 4.25,
+            "rate": 4.9
+        },
+        {
+            "amount": 42.26,
+            "description": "productize back-end metrics",
+            "hours": 3.15,
+            "rate": 2.49
+        },
+        {
+            "amount": 443.34,
+            "description": "empower magnetic infrastructures",
+            "hours": 4.57,
+            "rate": 1.26
+        },
+        {
+            "amount": 270.7,
+            "description": "enhance synergistic e-business",
+            "hours": 2.08,
+            "rate": 6.12
+        }
+    ],
+    "seller": {
+        "address": "2763 Bianca Gardens Apt. 198 Port Edwardport, AL 53565",
+        "email": "doughertymichelle@example.org",
+        "name": "Mary Buchanan"
+    },
+    "tax": {
+        "base": 23.65,
+        "tax_amount": 21.83,
+        "total_tax": 25.72
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "09627 Anthony Springs Apt. 522 Thompsonton, ME 43118",
+        "company_name": "Galvan Group",
+        "country": "Austria",
+        "name": "Timothy Reyes"
+    },
+    "invoice": {
+        "date": "23.06.2007",
+        "number": 702302
+    },
+    "payment": {
+        "discount_amount": 15.58,
+        "discount_percentage": 6.46,
+        "due": 124.8,
+        "sub_total": 92.71,
+        "total": 591.3
+    },
+    "products": [
+        {
+            "description": "mesh back-end mindshare",
+            "index": "2",
+            "quantity": 6.45,
+            "total_price": 213.74,
+            "unit_price": 60.96
+        },
+        {
+            "description": "incentivize bricks-and-clicks metrics",
+            "index": "10",
+            "quantity": 8.01,
+            "total_price": 437.74,
+            "unit_price": 29.26
+        },
+        {
+            "description": "iterate bricks-and-clicks initiatives",
+            "index": "3",
+            "quantity": 9.0,
+            "total_price": 856.45,
+            "unit_price": 57.64
+        }
+    ],
+    "seller": {
+        "address": "4276 Joseph Prairie North Christopher, NM 07093",
+        "company_name": "Mason, Marsh and Kent",
+        "vat_no": "QR32396448835"
+    }
+}

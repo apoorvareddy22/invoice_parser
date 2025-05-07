@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "57423 Powell Pass Suite 119 New Coreymouth, MH 58429",
+        "company_name": "Rios Group",
+        "country": "Mongolia",
+        "name": "Jared Fitzgerald"
+    },
+    "invoice": {
+        "date": "23.02.2019",
+        "number": 178714
+    },
+    "payment": {
+        "discount_amount": 29.55,
+        "discount_percentage": 13.67,
+        "due": 97.71,
+        "sub_total": 144.34,
+        "total": 450.43
+    },
+    "products": [
+        {
+            "description": "benchmark dot-com niches",
+            "index": "9",
+            "quantity": 8.43,
+            "total_price": 854.05,
+            "unit_price": 43.73
+        },
+        {
+            "description": "whiteboard web-enabled supply-chains",
+            "index": "5",
+            "quantity": 1.31,
+            "total_price": 572.29,
+            "unit_price": 67.37
+        }
+    ],
+    "seller": {
+        "address": "74007 Pineda Forest Lake Craig, KS 51348",
+        "company_name": "Clarke PLC",
+        "vat_no": "ks16990151410"
+    }
+}

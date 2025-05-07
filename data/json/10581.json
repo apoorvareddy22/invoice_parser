@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "158 Heather Overpass New Tiffanyport, NJ 50264",
+        "email": "robertcoffey@example.org",
+        "phone": "+1-499-797-3846x399",
+        "vat_no": "rn27725006321"
+    },
+    "invoice": {
+        "date": "28.06.2006",
+        "due_date": "08.02.2021",
+        "market_reference": 900379,
+        "notes": "brand vertical architectures",
+        "number": "4023-3063",
+        "reference": 649315,
+        "vat_no": "ia70301597456"
+    },
+    "payment": {
+        "net_total": 54.62,
+        "total": 436.48
+    },
+    "products": [
+        {
+            "amount": 476.68,
+            "description": "monetize back-end communities",
+            "hours": 4.6,
+            "rate": 2.88
+        }
+    ],
+    "seller": {
+        "address": "8830 Elizabeth Underpass Suite 238 North Lindsay, PA 45865",
+        "email": "jessica89@example.org",
+        "name": "Jasmine Carpenter"
+    },
+    "tax": {
+        "base": 27.37,
+        "tax_amount": 23.9,
+        "total_tax": 14.22
+    }
+}

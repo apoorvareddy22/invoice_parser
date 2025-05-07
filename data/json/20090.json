@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "2133 John Parkway Richardburgh, MA 50691",
+        "company_name": "Gray LLC",
+        "email": "johnsonsabrina@example.com",
+        "name": "Austin Cannon",
+        "phone": "887.482.8573"
+    },
+    "invoice": {
+        "date": "02.03.2006",
+        "due_date": "21.07.2022",
+        "number": "tPd25422402424"
+    },
+    "payment": {
+        "account_number": 8628253683,
+        "bank_name": "Hall, Patterson and Brennan",
+        "routing_number": 138566550
+    },
+    "products": [
+        {
+            "amount": 269.13,
+            "description": "engage B2C bandwidth",
+            "index": "4",
+            "quantity": 4.37,
+            "unit_price": 79.13
+        }
+    ],
+    "seller": {
+        "address": "12709 Jared Centers Port Joyce, VI 52370",
+        "company_name": "Davis-Smith",
+        "email": "tyler67@example.net"
+    }
+}

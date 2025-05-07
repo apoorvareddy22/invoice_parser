@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "PSC 1097, Box 8967 APO AE 06442",
+        "id": "gx659"
+    },
+    "invoice": {
+        "bc_no": "uY58290",
+        "currency_code": "INR",
+        "date": "22.03.1997",
+        "due_date": "02.08.1990",
+        "number": 226883
+    },
+    "payment": {
+        "bank_name": "Farrell-Zavala",
+        "bic": "UANAGBWY",
+        "iban": "ZPHZ92419787537704"
+    },
+    "products": [
+        {
+            "amount": 227.59,
+            "description": "expedite interactive mindshare",
+            "index": "8",
+            "price": 188.2,
+            "quantity": 4.03,
+            "tax_amount": 94.38,
+            "total_ttc": 407.78,
+            "vat_amount": 5.93
+        },
+        {
+            "amount": 302.06,
+            "description": "architect clicks-and-mortar architectures",
+            "index": "3",
+            "price": 369.87,
+            "quantity": 1.69,
+            "tax_amount": 72.3,
+            "total_ttc": 281.01,
+            "vat_amount": 5.84
+        }
+    ],
+    "seller": {
+        "name": "Dorothy Kelly"
+    },
+    "supplier": {
+        "address": "157 Santana Landing Apt. 321 East Ariana, VA 69492",
+        "name": "Miss Teresa Alvarez MD"
+    },
+    "tax": {
+        "amount_excluding_tax": 124.72,
+        "amount_including_tax": 178.02,
+        "tax_amount": 24.13,
+        "total_ht": 287.36,
+        "total_ttc": 484.18
+    }
+}

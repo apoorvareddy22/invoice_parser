@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "537 Jimmy Dale Apt. 480 West David, ND 82938"
+    },
+    "invoice": {
+        "bc_no": "qX40295",
+        "date": "09.11.2000",
+        "maturity_date": "02.05.2009",
+        "number": 704795
+    },
+    "products": [
+        {
+            "amount": 222.01,
+            "description": "morph one-to-one solutions",
+            "quantity": 9.42,
+            "unit_price": 57.73,
+            "vat_amount": 3.05
+        }
+    ],
+    "seller": {
+        "address": "USCGC Holder FPO AA 66029"
+    },
+    "tax": {
+        "amount_excluding_tax": 107.19,
+        "amount_including_tax": 178.71,
+        "tax_amount": 19.81
+    }
+}

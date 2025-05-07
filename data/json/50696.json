@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "9167 Linda Station Danielleburgh, NV 80356",
+        "id": "yL224"
+    },
+    "invoice": {
+        "bc_no": "ul20857",
+        "currency_code": "CRC",
+        "date": "29.12.1999",
+        "due_date": "25.06.1998",
+        "number": 390202
+    },
+    "payment": {
+        "bank_name": "Reed PLC",
+        "bic": "QTGUGBK7",
+        "iban": "DILK39840293382913"
+    },
+    "products": [
+        {
+            "amount": 325.89,
+            "description": "drive viral content",
+            "index": "1",
+            "price": 119.09,
+            "quantity": 5.26,
+            "tax_amount": 95.47,
+            "total_ttc": 121.88,
+            "vat_amount": 1.43
+        },
+        {
+            "amount": 424.28,
+            "description": "scale front-end e-services",
+            "index": "1",
+            "price": 222.9,
+            "quantity": 6.41,
+            "tax_amount": 44.08,
+            "total_ttc": 151.13,
+            "vat_amount": 2.56
+        },
+        {
+            "amount": 131.05,
+            "description": "deliver B2B technologies",
+            "index": "2",
+            "price": 33.74,
+            "quantity": 4.26,
+            "tax_amount": 80.08,
+            "total_ttc": 298.33,
+            "vat_amount": 3.84
+        }
+    ],
+    "seller": {
+        "name": "Carlos Gonzales"
+    },
+    "supplier": {
+        "address": "299 Bush Center Port Kimberly, WV 39653",
+        "name": "Alexander Olson"
+    },
+    "tax": {
+        "amount_excluding_tax": 110.85,
+        "amount_including_tax": 128.94,
+        "tax_amount": 10.94,
+        "total_ht": 455.08,
+        "total_ttc": 337.88
+    }
+}

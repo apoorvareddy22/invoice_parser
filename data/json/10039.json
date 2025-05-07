@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "16108 Sara Isle New Kayla, GU 17659",
+        "email": "nchoi@example.net",
+        "phone": "298.389.9174",
+        "vat_no": "mh83185657469"
+    },
+    "invoice": {
+        "date": "23.05.1996",
+        "due_date": "21.01.1995",
+        "market_reference": 347694,
+        "notes": "orchestrate visionary metrics",
+        "number": "2414-2123",
+        "reference": 821317,
+        "vat_no": "Az86536050987"
+    },
+    "payment": {
+        "net_total": 59.06,
+        "total": 926.54
+    },
+    "products": [
+        {
+            "amount": 118.28,
+            "description": "maximize 24/365 channels",
+            "hours": 8.85,
+            "rate": 5.49
+        },
+        {
+            "amount": 433.64,
+            "description": "empower collaborative schemas",
+            "hours": 8.94,
+            "rate": 1.86
+        }
+    ],
+    "seller": {
+        "address": "3998 Gordon Row West Jennifershire, AS 99772",
+        "email": "cartermichael@example.org",
+        "name": "Mr. Paul Mclaughlin"
+    },
+    "tax": {
+        "base": 26.33,
+        "tax_amount": 12.34,
+        "total_tax": 23.67
+    }
+}

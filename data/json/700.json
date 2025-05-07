@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "PSC 1938, Box 7259 APO AA 36905",
+        "company_name": "Woods Group",
+        "country": "Isle of Man",
+        "name": "John Ruiz"
+    },
+    "invoice": {
+        "date": "11.12.2009",
+        "number": 715873
+    },
+    "payment": {
+        "discount_amount": 49.05,
+        "discount_percentage": 14.61,
+        "due": 164.91,
+        "sub_total": 27.08,
+        "total": 813.32
+    },
+    "products": [
+        {
+            "description": "drive transparent interfaces",
+            "index": "2",
+            "quantity": 1.23,
+            "total_price": 673.53,
+            "unit_price": 86.19
+        },
+        {
+            "description": "exploit best-of-breed e-markets",
+            "index": "3",
+            "quantity": 8.88,
+            "total_price": 644.12,
+            "unit_price": 90.36
+        },
+        {
+            "description": "synthesize revolutionary e-business",
+            "index": "5",
+            "quantity": 1.76,
+            "total_price": 538.51,
+            "unit_price": 19.63
+        }
+    ],
+    "seller": {
+        "address": "9744 Martinez Trail Ambertown, HI 10337",
+        "company_name": "Smith Inc",
+        "vat_no": "SS91076425544"
+    }
+}

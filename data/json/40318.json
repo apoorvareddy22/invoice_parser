@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "1077 Murphy Hollow Apt. 176 South Jessica, ND 18292"
+    },
+    "invoice": {
+        "bc_no": "Tm41200",
+        "date": "01.08.2003",
+        "maturity_date": "22.01.2012",
+        "number": 632680
+    },
+    "products": [
+        {
+            "amount": 158.43,
+            "description": "redefine enterprise functionalities",
+            "quantity": 2.01,
+            "unit_price": 91.39,
+            "vat_amount": 6.73
+        }
+    ],
+    "seller": {
+        "address": "7314 Tina Shore Josephport, KS 78925"
+    },
+    "tax": {
+        "amount_excluding_tax": 95.81,
+        "amount_including_tax": 100.07,
+        "tax_amount": 29.62
+    }
+}

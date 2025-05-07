@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "0947 Darlene Knoll Port Kellyburgh, NC 07847",
+        "email": "bowenbrandon@example.org",
+        "phone": "(211)387-9012x9155",
+        "vat_no": "dv72584145278"
+    },
+    "invoice": {
+        "date": "12.08.2008",
+        "due_date": "28.09.2022",
+        "market_reference": 601336,
+        "notes": "empower granular e-business",
+        "number": "7987-4053",
+        "reference": 247484,
+        "vat_no": "RT05330607515"
+    },
+    "payment": {
+        "net_total": 177.77,
+        "total": 375.3
+    },
+    "products": [
+        {
+            "amount": 241.87,
+            "description": "architect synergistic e-commerce",
+            "hours": 4.19,
+            "rate": 1.12
+        }
+    ],
+    "seller": {
+        "address": "PSC 3182, Box 9051 APO AE 84709",
+        "email": "rileymark@example.com",
+        "name": "Rachel Davis"
+    },
+    "tax": {
+        "base": 13.53,
+        "tax_amount": 12.34,
+        "total_tax": 23.14
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "684 Jennifer Locks Kevinville, CO 91726",
+        "id": "GQ761"
+    },
+    "invoice": {
+        "bc_no": "wI80273",
+        "currency_code": "CUP",
+        "date": "17.05.1991",
+        "due_date": "14.08.2009",
+        "number": 736677
+    },
+    "payment": {
+        "bank_name": "Vasquez, Brooks and Alvarez",
+        "bic": "EZFWGB3G9F3",
+        "iban": "THRX04129333904102"
+    },
+    "products": [
+        {
+            "amount": 352.38,
+            "description": "maximize holistic architectures",
+            "index": "3",
+            "price": 207.23,
+            "quantity": 2.42,
+            "tax_amount": 85.46,
+            "total_ttc": 405.26,
+            "vat_amount": 5.68
+        },
+        {
+            "amount": 266.12,
+            "description": "visualize customized partnerships",
+            "index": "3",
+            "price": 8.91,
+            "quantity": 1.92,
+            "tax_amount": 82.72,
+            "total_ttc": 480.09,
+            "vat_amount": 13.08
+        }
+    ],
+    "seller": {
+        "name": "Susan Hansen"
+    },
+    "supplier": {
+        "address": "30577 Lewis Ford Suite 612 Richardburgh, PR 39312",
+        "name": "Anita Jordan"
+    },
+    "tax": {
+        "amount_excluding_tax": 40.11,
+        "amount_including_tax": 107.24,
+        "tax_amount": 22.89,
+        "total_ht": 164.91,
+        "total_ttc": 256.99
+    }
+}

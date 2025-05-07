@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "9515 Michael Extension North Joyce, KS 72686",
+        "email": "owenbrooke@example.net",
+        "phone": "328.521.8148",
+        "vat_no": "DQ84487152192"
+    },
+    "invoice": {
+        "date": "28.05.2005",
+        "due_date": "12.05.2015",
+        "market_reference": 697626,
+        "notes": "exploit B2C functionalities",
+        "number": "7483-8252",
+        "reference": 138386,
+        "vat_no": "NO63917850868"
+    },
+    "payment": {
+        "net_total": 107.4,
+        "total": 251.94
+    },
+    "products": [
+        {
+            "amount": 380.54,
+            "description": "re-intermediate end-to-end eyeballs",
+            "hours": 5.67,
+            "rate": 9.31
+        },
+        {
+            "amount": 400.03,
+            "description": "optimize one-to-one e-tailers",
+            "hours": 1.7,
+            "rate": 5.29
+        },
+        {
+            "amount": 334.08,
+            "description": "evolve revolutionary mindshare",
+            "hours": 2.09,
+            "rate": 7.34
+        },
+        {
+            "amount": 468.49,
+            "description": "integrate frictionless models",
+            "hours": 5.48,
+            "rate": 2.9
+        },
+        {
+            "amount": 124.99,
+            "description": "integrate one-to-one portals",
+            "hours": 2.8,
+            "rate": 5.46
+        }
+    ],
+    "seller": {
+        "address": "8695 Maurice Brook Suite 551 Hortonmouth, MD 21711",
+        "email": "goodwinbryan@example.com",
+        "name": "Brittany Arnold"
+    },
+    "tax": {
+        "base": 21.76,
+        "tax_amount": 13.39,
+        "total_tax": 12.68
+    }
+}

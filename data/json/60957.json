@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "534 Cox Creek Nathanberg, AS 13199",
+        "business_no": "Cw190",
+        "id": "fs122"
+    },
+    "invoice": {
+        "date": "10.12.2004",
+        "number": "0081-0357"
+    },
+    "payment": {
+        "due_date": "24.02.1996",
+        "total": 619.18
+    },
+    "products": [
+        {
+            "amount": 16.59,
+            "description": "engineer real-time deliverables",
+            "quantity": 4.84,
+            "reference": "BW-922",
+            "unit_price": 10.68
+        },
+        {
+            "amount": 414.99,
+            "description": "envisioneer B2C users",
+            "quantity": 2.75,
+            "reference": "Li-025",
+            "unit_price": 81.1
+        },
+        {
+            "amount": 100.31,
+            "description": "harness scalable interfaces",
+            "quantity": 2.02,
+            "reference": "Qu-688",
+            "unit_price": 16.48
+        },
+        {
+            "amount": 187.3,
+            "description": "cultivate frictionless markets",
+            "quantity": 4.74,
+            "reference": "lG-772",
+            "unit_price": 20.46
+        }
+    ],
+    "seller": {
+        "address": "4503 Annette Grove Apt. 253 Danamouth, RI 82142"
+    },
+    "tax": {
+        "base_ht": 132.2,
+        "regulations": 25.07,
+        "total_ht": 168.77,
+        "vat_amount": 117.8,
+        "vat_percentage": 17.17
+    }
+}

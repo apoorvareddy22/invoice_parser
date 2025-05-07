@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "37894 Bryan Summit Annetteborough, MT 90428"
+    },
+    "invoice": {
+        "bc_no": "xJ28106",
+        "date": "30.03.1998",
+        "maturity_date": "30.04.2005",
+        "number": 880072
+    },
+    "products": [
+        {
+            "amount": 52.88,
+            "description": "aggregate integrated e-markets",
+            "quantity": 2.2,
+            "unit_price": 23.84,
+            "vat_amount": 3.66
+        }
+    ],
+    "seller": {
+        "address": "4947 Taylor Track Suite 915 West Davidfort, MN 88916"
+    },
+    "tax": {
+        "amount_excluding_tax": 171.59,
+        "amount_including_tax": 69.75,
+        "tax_amount": 27.18
+    }
+}

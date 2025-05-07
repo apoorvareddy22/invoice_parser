@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "314 Melissa Tunnel Apt. 319 South Paul, WV 76778",
+        "id": "NK797"
+    },
+    "invoice": {
+        "bc_no": "Fp92667",
+        "currency_code": "FJD",
+        "date": "14.11.1999",
+        "due_date": "13.08.1998",
+        "number": 570269
+    },
+    "payment": {
+        "bank_name": "Ross, Riggs and Coleman",
+        "bic": "LELXGBXC",
+        "iban": "YNKY94543590465208"
+    },
+    "products": [
+        {
+            "amount": 78.53,
+            "description": "repurpose end-to-end experiences",
+            "index": "3",
+            "price": 17.01,
+            "quantity": 3.93,
+            "tax_amount": 12.07,
+            "total_ttc": 326.45,
+            "vat_amount": 1.07
+        },
+        {
+            "amount": 397.21,
+            "description": "utilize e-business systems",
+            "index": "4",
+            "price": 61.24,
+            "quantity": 2.86,
+            "tax_amount": 40.21,
+            "total_ttc": 475.42,
+            "vat_amount": 10.37
+        },
+        {
+            "amount": 254.12,
+            "description": "monetize e-business convergence",
+            "index": "1",
+            "price": 395.61,
+            "quantity": 9.88,
+            "tax_amount": 87.36,
+            "total_ttc": 130.22,
+            "vat_amount": 0.9
+        }
+    ],
+    "seller": {
+        "name": "Claudia Anderson"
+    },
+    "supplier": {
+        "address": "72141 Kim Haven Suite 207 Monicatown, MH 66583",
+        "name": "Steven Mcgee"
+    },
+    "tax": {
+        "amount_excluding_tax": 67.09,
+        "amount_including_tax": 129.73,
+        "tax_amount": 24.97,
+        "total_ht": 459.96,
+        "total_ttc": 192.94
+    }
+}

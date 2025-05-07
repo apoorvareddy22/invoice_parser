@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "60671 Lucas Flats East Ryanfort, NV 37752",
+        "id": "ug208"
+    },
+    "invoice": {
+        "bc_no": "Px38147",
+        "currency_code": "PGK",
+        "date": "31.08.1990",
+        "due_date": "29.11.1999",
+        "number": 305724
+    },
+    "payment": {
+        "bank_name": "Blanchard and Sons",
+        "bic": "GHZNGBQ6FT3",
+        "iban": "RXGI42049879924780"
+    },
+    "products": [
+        {
+            "amount": 453.49,
+            "description": "syndicate scalable metrics",
+            "index": "3",
+            "price": 373.96,
+            "quantity": 2.06,
+            "tax_amount": 58.25,
+            "total_ttc": 163.16,
+            "vat_amount": 4.62
+        },
+        {
+            "amount": 421.2,
+            "description": "benchmark visionary communities",
+            "index": "6",
+            "price": 427.25,
+            "quantity": 8.45,
+            "tax_amount": 49.96,
+            "total_ttc": 112.26,
+            "vat_amount": 3.38
+        },
+        {
+            "amount": 450.02,
+            "description": "transition clicks-and-mortar platforms",
+            "index": "3",
+            "price": 30.08,
+            "quantity": 1.89,
+            "tax_amount": 74.43,
+            "total_ttc": 386.54,
+            "vat_amount": 5.06
+        },
+        {
+            "amount": 226.88,
+            "description": "matrix customized bandwidth",
+            "index": "1",
+            "price": 355.07,
+            "quantity": 8.45,
+            "tax_amount": 94.2,
+            "total_ttc": 405.35,
+            "vat_amount": 12.93
+        },
+        {
+            "amount": 327.22,
+            "description": "transition visionary portals",
+            "index": "6",
+            "price": 25.9,
+            "quantity": 1.28,
+            "tax_amount": 81.15,
+            "total_ttc": 378.16,
+            "vat_amount": 2.23
+        }
+    ],
+    "seller": {
+        "name": "Antonio Martin"
+    },
+    "supplier": {
+        "address": "47230 Maria Groves Gregorybury, DC 67507",
+        "name": "Sarah Carlson"
+    },
+    "tax": {
+        "amount_excluding_tax": 49.22,
+        "amount_including_tax": 54.77,
+        "tax_amount": 21.64,
+        "total_ht": 251.77,
+        "total_ttc": 276.02
+    }
+}

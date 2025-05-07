@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "04443 Anne Lock Suite 560 Blackburnfort, NJ 35537",
+        "id": "Ki981"
+    },
+    "invoice": {
+        "bc_no": "AN63802",
+        "currency_code": "MAD",
+        "date": "29.07.1996",
+        "due_date": "30.10.2022",
+        "number": 768691
+    },
+    "payment": {
+        "bank_name": "Barton and Sons",
+        "bic": "YVPRGBPQ",
+        "iban": "VYSB24568293095636"
+    },
+    "products": [
+        {
+            "amount": 57.62,
+            "description": "innovate viral solutions",
+            "index": "3",
+            "price": 344.36,
+            "quantity": 9.28,
+            "tax_amount": 10.55,
+            "total_ttc": 115.8,
+            "vat_amount": 2.92
+        },
+        {
+            "amount": 362.61,
+            "description": "evolve out-of-the-box niches",
+            "index": "4",
+            "price": 472.58,
+            "quantity": 7.65,
+            "tax_amount": 73.14,
+            "total_ttc": 319.8,
+            "vat_amount": 7.63
+        },
+        {
+            "amount": 330.72,
+            "description": "cultivate integrated relationships",
+            "index": "8",
+            "price": 185.22,
+            "quantity": 4.99,
+            "tax_amount": 66.53,
+            "total_ttc": 255.53,
+            "vat_amount": 1.15
+        },
+        {
+            "amount": 308.25,
+            "description": "synergize sticky e-services",
+            "index": "4",
+            "price": 267.68,
+            "quantity": 3.64,
+            "tax_amount": 23.93,
+            "total_ttc": 398.09,
+            "vat_amount": 14.14
+        },
+        {
+            "amount": 228.83,
+            "description": "generate visionary portals",
+            "index": "5",
+            "price": 477.57,
+            "quantity": 8.17,
+            "tax_amount": 66.95,
+            "total_ttc": 108.79,
+            "vat_amount": 0.61
+        }
+    ],
+    "seller": {
+        "name": "Samantha Clarke"
+    },
+    "supplier": {
+        "address": "2942 Jeremy Mills North Faith, MT 96452",
+        "name": "Leah Martinez"
+    },
+    "tax": {
+        "amount_excluding_tax": 86.9,
+        "amount_including_tax": 43.27,
+        "tax_amount": 21.11,
+        "total_ht": 152.91,
+        "total_ttc": 178.51
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "2880 Thomas Mission Suite 313 Gatesbury, OR 87266",
+        "company_name": "Anderson and Sons",
+        "email": "williamcannon@example.net",
+        "name": "Dawn Barton DVM",
+        "phone": "(424)268-4074x7488"
+    },
+    "invoice": {
+        "date": "09.07.2002",
+        "due_date": "10.03.2014",
+        "number": "iSL82172401392"
+    },
+    "payment": {
+        "account_number": 1784283840,
+        "bank_name": "Kaufman-Lewis",
+        "routing_number": 923141262
+    },
+    "products": [
+        {
+            "amount": 316.73,
+            "description": "streamline plug-and-play schemas",
+            "index": "9",
+            "quantity": 1.68,
+            "unit_price": 74.15
+        },
+        {
+            "amount": 367.88,
+            "description": "harness end-to-end initiatives",
+            "index": "5",
+            "quantity": 7.38,
+            "unit_price": 45.1
+        }
+    ],
+    "seller": {
+        "address": "6227 Parker Burgs Suite 864 South Barbaramouth, CO 41687",
+        "company_name": "Flores-Chen",
+        "email": "marvinschmidt@example.org"
+    }
+}

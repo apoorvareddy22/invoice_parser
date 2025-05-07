@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "576 John Expressway Apt. 403 Meyerstad, WA 87610",
+        "business_no": "UB201",
+        "id": "nq375"
+    },
+    "invoice": {
+        "date": "16.03.1990",
+        "number": "8058-8943"
+    },
+    "payment": {
+        "due_date": "05.09.2011",
+        "total": 729.34
+    },
+    "products": [
+        {
+            "amount": 357.97,
+            "description": "re-contextualize 24/7 synergies",
+            "quantity": 9.15,
+            "reference": "iN-233",
+            "unit_price": 88.37
+        },
+        {
+            "amount": 75.98,
+            "description": "extend one-to-one deliverables",
+            "quantity": 6.37,
+            "reference": "Jo-508",
+            "unit_price": 45.62
+        },
+        {
+            "amount": 53.81,
+            "description": "enable strategic web-readiness",
+            "quantity": 7.18,
+            "reference": "hB-538",
+            "unit_price": 13.03
+        },
+        {
+            "amount": 202.05,
+            "description": "transform transparent e-tailers",
+            "quantity": 8.09,
+            "reference": "FR-001",
+            "unit_price": 39.12
+        },
+        {
+            "amount": 438.63,
+            "description": "harness dot-com e-tailers",
+            "quantity": 3.19,
+            "reference": "Si-853",
+            "unit_price": 83.43
+        },
+        {
+            "amount": 164.4,
+            "description": "engineer enterprise infrastructures",
+            "quantity": 8.34,
+            "reference": "Vw-390",
+            "unit_price": 62.78
+        }
+    ],
+    "seller": {
+        "address": "2297 Bradley Pike North Jennifermouth, MP 91450"
+    },
+    "tax": {
+        "base_ht": 334.13,
+        "regulations": 12.92,
+        "total_ht": 285.77,
+        "vat_amount": 54.38,
+        "vat_percentage": 15.75
+    }
+}

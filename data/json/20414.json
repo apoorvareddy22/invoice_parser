@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "57842 Susan Turnpike Apt. 461 Port Juan, MS 93355",
+        "company_name": "Stokes, Fisher and Mcgee",
+        "email": "ydaniel@example.org",
+        "name": "Rose White",
+        "phone": "001-538-725-0270x5557"
+    },
+    "invoice": {
+        "date": "23.12.1990",
+        "due_date": "22.02.2000",
+        "number": "RYR83869206786"
+    },
+    "payment": {
+        "account_number": 1223770587,
+        "bank_name": "Becker Ltd",
+        "routing_number": 686220940
+    },
+    "products": [
+        {
+            "amount": 29.74,
+            "description": "scale open-source e-markets",
+            "index": "4",
+            "quantity": 1.01,
+            "unit_price": 91.8
+        },
+        {
+            "amount": 51.12,
+            "description": "mesh dynamic paradigms",
+            "index": "1",
+            "quantity": 8.36,
+            "unit_price": 53.06
+        }
+    ],
+    "seller": {
+        "address": "7168 Chang Vista West Wayne, CT 68994",
+        "company_name": "Haynes-Baker",
+        "email": "paul42@example.net"
+    }
+}

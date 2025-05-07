@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "14009 Margaret Mall Rayborough, NH 31912",
+        "company_name": "Warner Inc",
+        "country": "Puerto Rico",
+        "name": "Alexander Oneal"
+    },
+    "invoice": {
+        "date": "15.07.2011",
+        "number": 804547
+    },
+    "payment": {
+        "discount_amount": 27.84,
+        "discount_percentage": 16.72,
+        "due": 161.61,
+        "sub_total": 140.57,
+        "total": 519.85
+    },
+    "products": [
+        {
+            "description": "matrix viral partnerships",
+            "index": "3",
+            "quantity": 3.05,
+            "total_price": 20.89,
+            "unit_price": 23.02
+        },
+        {
+            "description": "innovate global markets",
+            "index": "3",
+            "quantity": 7.32,
+            "total_price": 831.91,
+            "unit_price": 58.93
+        },
+        {
+            "description": "monetize real-time e-business",
+            "index": "2",
+            "quantity": 9.04,
+            "total_price": 354.91,
+            "unit_price": 33.28
+        },
+        {
+            "description": "incubate seamless mindshare",
+            "index": "6",
+            "quantity": 5.11,
+            "total_price": 915.69,
+            "unit_price": 32.37
+        }
+    ],
+    "seller": {
+        "address": "501 Matthew Island Apt. 728 Traceyville, NY 14821",
+        "company_name": "Reynolds LLC",
+        "vat_no": "vJ30920790595"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "771 Allison Ports Cindyport, NC 03077"
+    },
+    "invoice": {
+        "bc_no": "jT24845",
+        "date": "21.04.1990",
+        "maturity_date": "25.03.2001",
+        "number": 508778
+    },
+    "products": [
+        {
+            "amount": 193.97,
+            "description": "deliver out-of-the-box experiences",
+            "quantity": 2.74,
+            "unit_price": 12.25,
+            "vat_amount": 6.25
+        }
+    ],
+    "seller": {
+        "address": "7303 Rivera Center Suite 649 New Stephanie, WY 98477"
+    },
+    "tax": {
+        "amount_excluding_tax": 61.54,
+        "amount_including_tax": 112.98,
+        "tax_amount": 14.09
+    }
+}

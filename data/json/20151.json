@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "908 Gonzalez Green North Lisa, MO 43843",
+        "company_name": "Jacobs, Perez and Wells",
+        "email": "gwagner@example.com",
+        "name": "William Miller",
+        "phone": "+1-882-609-9927x19973"
+    },
+    "invoice": {
+        "date": "16.10.2010",
+        "due_date": "09.06.2005",
+        "number": "Mnu28919705053"
+    },
+    "payment": {
+        "account_number": 7045171577,
+        "bank_name": "Jones, Cooper and Cox",
+        "routing_number": 785705362
+    },
+    "products": [
+        {
+            "amount": 279.13,
+            "description": "envisioneer frictionless e-business",
+            "index": "3",
+            "quantity": 8.4,
+            "unit_price": 11.29
+        },
+        {
+            "amount": 415.43,
+            "description": "enable cross-platform functionalities",
+            "index": "2",
+            "quantity": 4.7,
+            "unit_price": 62.04
+        },
+        {
+            "amount": 96.51,
+            "description": "transition interactive schemas",
+            "index": "7",
+            "quantity": 8.87,
+            "unit_price": 25.23
+        },
+        {
+            "amount": 48.73,
+            "description": "mesh one-to-one markets",
+            "index": "9",
+            "quantity": 1.7,
+            "unit_price": 47.76
+        },
+        {
+            "amount": 470.81,
+            "description": "productize killer web services",
+            "index": "6",
+            "quantity": 3.85,
+            "unit_price": 70.04
+        },
+        {
+            "amount": 209.26,
+            "description": "aggregate cross-media models",
+            "index": "8",
+            "quantity": 4.11,
+            "unit_price": 20.2
+        }
+    ],
+    "seller": {
+        "address": "2905 Anita Vista North Christian, MI 26612",
+        "company_name": "Brown, Dennis and Gonzalez",
+        "email": "steven83@example.org"
+    }
+}

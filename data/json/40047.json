@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "959 Sullivan Dam Meltonberg, WI 55136"
+    },
+    "invoice": {
+        "bc_no": "ES66906",
+        "date": "13.02.1999",
+        "maturity_date": "12.08.2011",
+        "number": 502511
+    },
+    "products": [
+        {
+            "amount": 263.38,
+            "description": "target holistic systems",
+            "quantity": 6.71,
+            "unit_price": 58.84,
+            "vat_amount": 9.89
+        }
+    ],
+    "seller": {
+        "address": "88902 Rebecca Walks Huffborough, WV 99192"
+    },
+    "tax": {
+        "amount_excluding_tax": 61.14,
+        "amount_including_tax": 55.9,
+        "tax_amount": 19.51
+    }
+}

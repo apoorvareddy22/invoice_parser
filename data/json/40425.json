@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "0618 Stanley Parkways Samuelport, FL 95768"
+    },
+    "invoice": {
+        "bc_no": "Ct17860",
+        "date": "07.04.1997",
+        "maturity_date": "28.12.2017",
+        "number": 535980
+    },
+    "products": [
+        {
+            "amount": 407.88,
+            "description": "morph open-source markets",
+            "quantity": 2.02,
+            "unit_price": 39.17,
+            "vat_amount": 10.46
+        },
+        {
+            "amount": 137.89,
+            "description": "re-contextualize clicks-and-mortar convergence",
+            "quantity": 5.85,
+            "unit_price": 77.42,
+            "vat_amount": 0.0
+        }
+    ],
+    "seller": {
+        "address": "621 Roberts Groves Jonesview, MN 56085"
+    },
+    "tax": {
+        "amount_excluding_tax": 141.39,
+        "amount_including_tax": 65.66,
+        "tax_amount": 14.99
+    }
+}

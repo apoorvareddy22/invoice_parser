@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "694 Samantha Curve Andreaton, MD 51883",
+        "id": "jI421"
+    },
+    "invoice": {
+        "bc_no": "ql70198",
+        "currency_code": "JMD",
+        "date": "22.07.2021",
+        "due_date": "04.12.1995",
+        "number": 677286
+    },
+    "payment": {
+        "bank_name": "Crawford, Walker and Williams",
+        "bic": "HKSFGB5M",
+        "iban": "DLTR05242883771502"
+    },
+    "products": [
+        {
+            "amount": 299.5,
+            "description": "re-intermediate dynamic solutions",
+            "index": "1",
+            "price": 341.8,
+            "quantity": 1.65,
+            "tax_amount": 73.02,
+            "total_ttc": 496.58,
+            "vat_amount": 11.34
+        },
+        {
+            "amount": 466.13,
+            "description": "redefine transparent bandwidth",
+            "index": "3",
+            "price": 96.64,
+            "quantity": 9.19,
+            "tax_amount": 98.03,
+            "total_ttc": 206.53,
+            "vat_amount": 2.78
+        }
+    ],
+    "seller": {
+        "name": "Tommy Goodman"
+    },
+    "supplier": {
+        "address": "9188 Todd Via Maryland, GU 41088",
+        "name": "Brittany Johnson"
+    },
+    "tax": {
+        "amount_excluding_tax": 160.55,
+        "amount_including_tax": 58.63,
+        "tax_amount": 18.1,
+        "total_ht": 263.73,
+        "total_ttc": 220.6
+    }
+}

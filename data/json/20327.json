@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "PSC 7649, Box 3135 APO AE 15708",
+        "company_name": "Williams, Gonzalez and Johnson",
+        "email": "nguyenmelissa@example.com",
+        "name": "Haley Copeland",
+        "phone": "596-305-2435x411"
+    },
+    "invoice": {
+        "date": "08.05.1996",
+        "due_date": "13.05.2008",
+        "number": "DMr04297201170"
+    },
+    "payment": {
+        "account_number": 3703999496,
+        "bank_name": "Thompson, Davis and Johnson",
+        "routing_number": 543361464
+    },
+    "products": [
+        {
+            "amount": 232.66,
+            "description": "mesh vertical content",
+            "index": "10",
+            "quantity": 9.15,
+            "unit_price": 78.56
+        },
+        {
+            "amount": 239.48,
+            "description": "re-contextualize user-centric bandwidth",
+            "index": "7",
+            "quantity": 5.04,
+            "unit_price": 76.09
+        }
+    ],
+    "seller": {
+        "address": "5613 Mcdowell Valley Apt. 801 South Mckenziemouth, KY 14583",
+        "company_name": "Owens, Howard and Moore",
+        "email": "brandonpowers@example.com"
+    }
+}

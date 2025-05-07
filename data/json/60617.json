@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "Unit 8163 Box 7539 DPO AP 70915",
+        "business_no": "fQ929",
+        "id": "jG726"
+    },
+    "invoice": {
+        "date": "06.10.2018",
+        "number": "4284-2346"
+    },
+    "payment": {
+        "due_date": "31.03.1999",
+        "total": 535.98
+    },
+    "products": [
+        {
+            "amount": 127.03,
+            "description": "whiteboard strategic ROI",
+            "quantity": 5.23,
+            "reference": "om-843",
+            "unit_price": 37.84
+        },
+        {
+            "amount": 291.92,
+            "description": "incubate distributed metrics",
+            "quantity": 2.4,
+            "reference": "OV-131",
+            "unit_price": 96.01
+        },
+        {
+            "amount": 478.31,
+            "description": "cultivate rich markets",
+            "quantity": 7.73,
+            "reference": "Cp-108",
+            "unit_price": 29.0
+        }
+    ],
+    "seller": {
+        "address": "4345 Martinez Grove Apt. 614 New Katherine, LA 70080"
+    },
+    "tax": {
+        "base_ht": 229.6,
+        "regulations": 24.56,
+        "total_ht": 238.14,
+        "vat_amount": 135.1,
+        "vat_percentage": 24.31
+    }
+}

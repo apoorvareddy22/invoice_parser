@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "161 David Junctions Apt. 447 Port Jason, MH 64528",
+        "company_name": "Jacobson-Hughes",
+        "country": "Andorra",
+        "name": "Keith Russo"
+    },
+    "invoice": {
+        "date": "17.02.2000",
+        "number": 359620
+    },
+    "payment": {
+        "discount_amount": 31.98,
+        "discount_percentage": 13.95,
+        "due": 13.88,
+        "sub_total": 55.41,
+        "total": 407.47
+    },
+    "products": [
+        {
+            "description": "engage synergistic technologies",
+            "index": "2",
+            "quantity": 4.85,
+            "total_price": 517.61,
+            "unit_price": 35.53
+        },
+        {
+            "description": "seize transparent partnerships",
+            "index": "5",
+            "quantity": 5.22,
+            "total_price": 544.99,
+            "unit_price": 13.96
+        },
+        {
+            "description": "revolutionize one-to-one mindshare",
+            "index": "4",
+            "quantity": 3.22,
+            "total_price": 136.04,
+            "unit_price": 45.69
+        }
+    ],
+    "seller": {
+        "address": "527 Torres Square Port Lori, KY 31407",
+        "company_name": "Waters Inc",
+        "vat_no": "HQ99712541710"
+    }
+}

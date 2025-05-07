@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "3355 Laurie Falls Suite 918 Lisabury, DC 79222",
+        "email": "kramsey@example.org",
+        "phone": "306-409-6393",
+        "vat_no": "Rt55538831535"
+    },
+    "invoice": {
+        "date": "17.01.2013",
+        "due_date": "16.06.1997",
+        "market_reference": 279875,
+        "notes": "reinvent end-to-end portals",
+        "number": "4138-9423",
+        "reference": 817327,
+        "vat_no": "fT04064544960"
+    },
+    "payment": {
+        "net_total": 61.58,
+        "total": 299.53
+    },
+    "products": [
+        {
+            "amount": 466.18,
+            "description": "expedite impactful ROI",
+            "hours": 6.91,
+            "rate": 7.55
+        },
+        {
+            "amount": 150.22,
+            "description": "deploy real-time e-commerce",
+            "hours": 4.94,
+            "rate": 5.59
+        },
+        {
+            "amount": 325.52,
+            "description": "facilitate plug-and-play architectures",
+            "hours": 8.15,
+            "rate": 5.42
+        },
+        {
+            "amount": 413.27,
+            "description": "implement e-business convergence",
+            "hours": 5.84,
+            "rate": 6.54
+        },
+        {
+            "amount": 490.83,
+            "description": "utilize e-business content",
+            "hours": 4.95,
+            "rate": 2.29
+        },
+        {
+            "amount": 385.1,
+            "description": "envisioneer innovative networks",
+            "hours": 3.05,
+            "rate": 6.49
+        },
+        {
+            "amount": 152.64,
+            "description": "revolutionize synergistic networks",
+            "hours": 7.52,
+            "rate": 3.16
+        }
+    ],
+    "seller": {
+        "address": "Unit 8206 Box 5042 DPO AA 28701",
+        "email": "jennifer03@example.org",
+        "name": "Tyler Kim"
+    },
+    "tax": {
+        "base": 17.57,
+        "tax_amount": 20.19,
+        "total_tax": 10.25
+    }
+}

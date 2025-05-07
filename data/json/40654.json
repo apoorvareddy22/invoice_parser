@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "66078 Andrew Road Apt. 947 Lake Timothyfurt, CA 24989"
+    },
+    "invoice": {
+        "bc_no": "oZ24773",
+        "date": "02.07.1998",
+        "maturity_date": "01.07.2003",
+        "number": 843488
+    },
+    "products": [
+        {
+            "amount": 231.86,
+            "description": "streamline bleeding-edge schemas",
+            "quantity": 8.23,
+            "unit_price": 26.19,
+            "vat_amount": 4.46
+        },
+        {
+            "amount": 376.58,
+            "description": "re-intermediate bricks-and-clicks communities",
+            "quantity": 9.53,
+            "unit_price": 68.49,
+            "vat_amount": 0.05
+        }
+    ],
+    "seller": {
+        "address": "5720 Isaac Avenue Suite 198 Ronaldburgh, WY 09831"
+    },
+    "tax": {
+        "amount_excluding_tax": 27.62,
+        "amount_including_tax": 53.51,
+        "tax_amount": 25.33
+    }
+}

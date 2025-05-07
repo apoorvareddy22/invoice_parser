@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "52607 Alison Row Apt. 283 North Jason, AL 42011"
+    },
+    "invoice": {
+        "bc_no": "xz82685",
+        "date": "28.02.2012",
+        "maturity_date": "27.02.2011",
+        "number": 255638
+    },
+    "products": [
+        {
+            "amount": 334.16,
+            "description": "unleash dynamic paradigms",
+            "quantity": 9.4,
+            "unit_price": 86.39,
+            "vat_amount": 2.64
+        },
+        {
+            "amount": 313.27,
+            "description": "target cutting-edge supply-chains",
+            "quantity": 6.76,
+            "unit_price": 78.7,
+            "vat_amount": 0.83
+        }
+    ],
+    "seller": {
+        "address": "171 Tammy Overpass Apt. 140 Baileyhaven, FL 61731"
+    },
+    "tax": {
+        "amount_excluding_tax": 71.66,
+        "amount_including_tax": 68.13,
+        "tax_amount": 25.14
+    }
+}

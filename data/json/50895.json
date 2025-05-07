@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "79752 Robert Motorway Suite 660 Taylorchester, OH 12520",
+        "id": "Th667"
+    },
+    "invoice": {
+        "bc_no": "cw23683",
+        "currency_code": "YER",
+        "date": "27.12.2016",
+        "due_date": "20.01.2018",
+        "number": 168710
+    },
+    "payment": {
+        "bank_name": "Ross, Roach and Wallace",
+        "bic": "DKGIGB4O",
+        "iban": "FAMJ38952588784264"
+    },
+    "products": [
+        {
+            "amount": 481.81,
+            "description": "expedite end-to-end eyeballs",
+            "index": "5",
+            "price": 151.72,
+            "quantity": 4.45,
+            "tax_amount": 65.23,
+            "total_ttc": 146.48,
+            "vat_amount": 4.08
+        },
+        {
+            "amount": 18.05,
+            "description": "unleash back-end relationships",
+            "index": "8",
+            "price": 481.66,
+            "quantity": 1.53,
+            "tax_amount": 98.13,
+            "total_ttc": 493.2,
+            "vat_amount": 1.17
+        }
+    ],
+    "seller": {
+        "name": "Robert Munoz"
+    },
+    "supplier": {
+        "address": "917 Jackson Avenue Suite 091 West Paula, RI 24111",
+        "name": "Alyssa Wheeler"
+    },
+    "tax": {
+        "amount_excluding_tax": 145.0,
+        "amount_including_tax": 117.15,
+        "tax_amount": 27.72,
+        "total_ht": 195.95,
+        "total_ttc": 183.09
+    }
+}

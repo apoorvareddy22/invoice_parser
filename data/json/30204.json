@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "Unit 0477 Box 4756 DPO AA 98307",
+        "company_name": "Powell-Anderson",
+        "country": "Latvia",
+        "email": "vruiz@example.net",
+        "name": "Brian Singleton",
+        "phone": "230.776.3880",
+        "vat_no": "mp71197799132"
+    },
+    "invoice": {
+        "date": "19.10.1993",
+        "due_date": "13.08.1999",
+        "linked_invoice": "oR-8126-7078",
+        "notes": "seize e-business deliverables",
+        "number": "KH-3161-6673"
+    },
+    "products": [
+        {
+            "description": "evolve magnetic systems",
+            "discount_percentage": 11.7,
+            "price": 327.3,
+            "quantity": 8.08,
+            "unit_price": 72.47
+        },
+        {
+            "description": "e-enable customized methodologies",
+            "discount_percentage": 6.25,
+            "price": 25.88,
+            "quantity": 7.37,
+            "unit_price": 53.06
+        },
+        {
+            "description": "envisioneer interactive applications",
+            "discount_percentage": 11.78,
+            "price": 70.02,
+            "quantity": 3.49,
+            "unit_price": 12.27
+        },
+        {
+            "description": "strategize innovative architectures",
+            "discount_percentage": 12.23,
+            "price": 38.65,
+            "quantity": 1.48,
+            "unit_price": 23.22
+        }
+    ],
+    "seller": {
+        "address": "97044 Miller Center Suite 504 East Joy, ID 00515",
+        "ape": "9381y",
+        "capital": 71875451,
+        "country": "Cape Verde",
+        "email": "mike47@example.com",
+        "name": "Dylan Thompson",
+        "phone_1": "(538)407-2258x486",
+        "phone_2": "575.919.6624x91063",
+        "phone_3": "(888)926-7968",
+        "ref_walk": "OeJb1507",
+        "reference": "lg834",
+        "siret": 44479229725312,
+        "vat_no": "do20815248837",
+        "website": "http://www.dixon.com/"
+    },
+    "tax": {
+        "amount_0": 14.22,
+        "amount_1": 18.26,
+        "base_0": 19.52,
+        "base_1": 281.59,
+        "total_ht": 314.67,
+        "total_tax": 25.0,
+        "total_ttc": 153.8,
+        "vat_0": 13.53,
+        "vat_1": 13.97
+    }
+}

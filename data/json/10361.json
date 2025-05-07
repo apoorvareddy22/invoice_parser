@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "564 Karen Inlet Apt. 876 Carpenterport, OR 30899",
+        "email": "heatherjames@example.org",
+        "phone": "001-749-396-9974x93959",
+        "vat_no": "Xz42696128508"
+    },
+    "invoice": {
+        "date": "03.04.2010",
+        "due_date": "30.01.1992",
+        "market_reference": 883558,
+        "notes": "deliver magnetic platforms",
+        "number": "2526-8295",
+        "reference": 376947,
+        "vat_no": "Bs12578543659"
+    },
+    "payment": {
+        "net_total": 47.15,
+        "total": 339.28
+    },
+    "products": [
+        {
+            "amount": 135.67,
+            "description": "monetize intuitive networks",
+            "hours": 3.63,
+            "rate": 8.11
+        },
+        {
+            "amount": 141.29,
+            "description": "facilitate mission-critical users",
+            "hours": 7.5,
+            "rate": 6.2
+        },
+        {
+            "amount": 418.33,
+            "description": "incubate robust architectures",
+            "hours": 7.67,
+            "rate": 9.34
+        }
+    ],
+    "seller": {
+        "address": "7280 Bruce Avenue Apt. 378 Lisabury, WA 85995",
+        "email": "fchen@example.org",
+        "name": "Aaron Davis"
+    },
+    "tax": {
+        "base": 20.15,
+        "tax_amount": 22.09,
+        "total_tax": 23.78
+    }
+}

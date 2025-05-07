@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "9219 Douglas Throughway Ruizborough, NV 97248",
+        "business_no": "YN948",
+        "id": "rF195"
+    },
+    "invoice": {
+        "date": "21.04.2002",
+        "number": "9343-4613"
+    },
+    "payment": {
+        "due_date": "21.06.2003",
+        "total": 592.4
+    },
+    "products": [
+        {
+            "amount": 28.47,
+            "description": "orchestrate cross-media channels",
+            "quantity": 4.5,
+            "reference": "ab-483",
+            "unit_price": 88.98
+        }
+    ],
+    "seller": {
+        "address": "084 Sarah Plains New Linda, CT 34010"
+    },
+    "tax": {
+        "base_ht": 319.11,
+        "regulations": 13.33,
+        "total_ht": 108.44,
+        "vat_amount": 119.81,
+        "vat_percentage": 11.01
+    }
+}

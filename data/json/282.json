@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "7527 Matthew Pike Ericton, AZ 18707",
+        "company_name": "Carroll and Sons",
+        "country": "Bahamas",
+        "name": "Natasha Mendoza"
+    },
+    "invoice": {
+        "date": "26.02.1997",
+        "number": 960365
+    },
+    "payment": {
+        "discount_amount": 48.76,
+        "discount_percentage": 18.5,
+        "due": 196.64,
+        "sub_total": 191.07,
+        "total": 300.84
+    },
+    "products": [
+        {
+            "description": "strategize frictionless channels",
+            "index": "3",
+            "quantity": 7.87,
+            "total_price": 292.24,
+            "unit_price": 39.53
+        },
+        {
+            "description": "evolve proactive architectures",
+            "index": "3",
+            "quantity": 9.98,
+            "total_price": 598.29,
+            "unit_price": 29.44
+        }
+    ],
+    "seller": {
+        "address": "434 Richards Shoals Suite 698 Maryton, CA 04757",
+        "company_name": "Smith Inc",
+        "vat_no": "JS89780352310"
+    }
+}

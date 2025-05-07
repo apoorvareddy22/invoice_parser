@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "008 Bobby Forks Johnsonhaven, NY 92824",
+        "id": "vZ353"
+    },
+    "invoice": {
+        "bc_no": "wV75003",
+        "currency_code": "PAB",
+        "date": "02.12.2004",
+        "due_date": "15.08.2000",
+        "number": 493839
+    },
+    "payment": {
+        "bank_name": "Nelson and Sons",
+        "bic": "ARPXGB16",
+        "iban": "SPCW67117285625684"
+    },
+    "products": [
+        {
+            "amount": 136.28,
+            "description": "engineer impactful portals",
+            "index": "7",
+            "price": 490.04,
+            "quantity": 6.53,
+            "tax_amount": 39.35,
+            "total_ttc": 153.82,
+            "vat_amount": 2.05
+        },
+        {
+            "amount": 376.71,
+            "description": "visualize bricks-and-clicks partnerships",
+            "index": "8",
+            "price": 112.62,
+            "quantity": 1.45,
+            "tax_amount": 34.15,
+            "total_ttc": 392.34,
+            "vat_amount": 2.71
+        },
+        {
+            "amount": 58.64,
+            "description": "matrix cutting-edge markets",
+            "index": "4",
+            "price": 312.97,
+            "quantity": 3.62,
+            "tax_amount": 41.48,
+            "total_ttc": 219.81,
+            "vat_amount": 8.39
+        },
+        {
+            "amount": 117.31,
+            "description": "deploy out-of-the-box action-items",
+            "index": "6",
+            "price": 100.05,
+            "quantity": 6.49,
+            "tax_amount": 74.36,
+            "total_ttc": 122.96,
+            "vat_amount": 0.47
+        },
+        {
+            "amount": 399.55,
+            "description": "benchmark cross-media action-items",
+            "index": "7",
+            "price": 33.5,
+            "quantity": 3.51,
+            "tax_amount": 65.4,
+            "total_ttc": 360.24,
+            "vat_amount": 1.61
+        },
+        {
+            "amount": 411.41,
+            "description": "drive distributed eyeballs",
+            "index": "6",
+            "price": 454.11,
+            "quantity": 5.02,
+            "tax_amount": 86.78,
+            "total_ttc": 323.7,
+            "vat_amount": 1.39
+        },
+        {
+            "amount": 260.04,
+            "description": "enable extensible partnerships",
+            "index": "3",
+            "price": 180.58,
+            "quantity": 9.87,
+            "tax_amount": 22.87,
+            "total_ttc": 228.43,
+            "vat_amount": 13.58
+        }
+    ],
+    "seller": {
+        "name": "Megan Hill"
+    },
+    "supplier": {
+        "address": "1375 Beck Gardens Belltown, MH 71073",
+        "name": "Carlos Dean"
+    },
+    "tax": {
+        "amount_excluding_tax": 175.85,
+        "amount_including_tax": 155.44,
+        "tax_amount": 18.33,
+        "total_ht": 426.51,
+        "total_ttc": 212.54
+    }
+}

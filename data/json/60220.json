@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "958 Joshua Row Suite 831 Port Brittanyberg, MI 74701",
+        "business_no": "be128",
+        "id": "kq038"
+    },
+    "invoice": {
+        "date": "29.12.2020",
+        "number": "6010-3056"
+    },
+    "payment": {
+        "due_date": "24.04.1996",
+        "total": 703.13
+    },
+    "products": [
+        {
+            "amount": 275.02,
+            "description": "synthesize mission-critical supply-chains",
+            "quantity": 3.82,
+            "reference": "VE-446",
+            "unit_price": 70.32
+        },
+        {
+            "amount": 145.61,
+            "description": "enable efficient solutions",
+            "quantity": 9.14,
+            "reference": "Ag-990",
+            "unit_price": 77.84
+        },
+        {
+            "amount": 41.23,
+            "description": "enhance back-end networks",
+            "quantity": 4.41,
+            "reference": "zH-522",
+            "unit_price": 17.01
+        }
+    ],
+    "seller": {
+        "address": "119 Mackenzie Greens East Laurieview, DC 97466"
+    },
+    "tax": {
+        "base_ht": 322.17,
+        "regulations": 24.73,
+        "total_ht": 277.62,
+        "vat_amount": 82.31,
+        "vat_percentage": 19.04
+    }
+}

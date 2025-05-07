@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "107 Charles Grove Apt. 474 Littleshire, VA 54171",
+        "id": "fe980"
+    },
+    "invoice": {
+        "bc_no": "TQ90322",
+        "currency_code": "KZT",
+        "date": "18.02.2013",
+        "due_date": "27.12.2016",
+        "number": 742098
+    },
+    "payment": {
+        "bank_name": "Brown PLC",
+        "bic": "AQKWGBJA",
+        "iban": "PXQW77150171057454"
+    },
+    "products": [
+        {
+            "amount": 113.76,
+            "description": "extend collaborative deliverables",
+            "index": "4",
+            "price": 107.83,
+            "quantity": 9.4,
+            "tax_amount": 59.65,
+            "total_ttc": 284.42,
+            "vat_amount": 3.85
+        },
+        {
+            "amount": 79.3,
+            "description": "benchmark virtual relationships",
+            "index": "4",
+            "price": 257.74,
+            "quantity": 6.77,
+            "tax_amount": 39.33,
+            "total_ttc": 106.69,
+            "vat_amount": 1.8
+        }
+    ],
+    "seller": {
+        "name": "Elizabeth Schaefer"
+    },
+    "supplier": {
+        "address": "38768 Reyes Grove Suite 889 Gordonside, RI 46852",
+        "name": "Margaret Freeman"
+    },
+    "tax": {
+        "amount_excluding_tax": 178.32,
+        "amount_including_tax": 140.8,
+        "tax_amount": 14.17,
+        "total_ht": 231.81,
+        "total_ttc": 170.68
+    }
+}

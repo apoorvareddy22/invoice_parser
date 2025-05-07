@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "5661 Flores Square Apt. 926 Bradleyburgh, TN 23499",
+        "business_no": "kM982",
+        "id": "Md050"
+    },
+    "invoice": {
+        "date": "17.11.2006",
+        "number": "9102-7233"
+    },
+    "payment": {
+        "due_date": "05.08.2002",
+        "total": 583.74
+    },
+    "products": [
+        {
+            "amount": 340.52,
+            "description": "reinvent synergistic methodologies",
+            "quantity": 3.86,
+            "reference": "Zt-274",
+            "unit_price": 58.88
+        },
+        {
+            "amount": 478.41,
+            "description": "target 24/7 content",
+            "quantity": 2.85,
+            "reference": "CH-202",
+            "unit_price": 98.9
+        },
+        {
+            "amount": 171.73,
+            "description": "harness turn-key web services",
+            "quantity": 4.41,
+            "reference": "zJ-921",
+            "unit_price": 22.8
+        }
+    ],
+    "seller": {
+        "address": "05761 Jones Hill Haroldland, KS 51965"
+    },
+    "tax": {
+        "base_ht": 408.28,
+        "regulations": 27.28,
+        "total_ht": 170.84,
+        "vat_amount": 194.64,
+        "vat_percentage": 25.33
+    }
+}

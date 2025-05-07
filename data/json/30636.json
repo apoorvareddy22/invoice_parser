@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "PSC 1105, Box 2379 APO AE 96709",
+        "company_name": "Smith, Williams and Davenport",
+        "country": "Korea",
+        "email": "thompsoncarrie@example.org",
+        "name": "Troy Johnson",
+        "phone": "467-398-3347x483",
+        "vat_no": "eU25398741689"
+    },
+    "invoice": {
+        "date": "26.12.2001",
+        "due_date": "10.06.2003",
+        "linked_invoice": "VB-1841-9988",
+        "notes": "redefine innovative solutions",
+        "number": "EZ-4358-2819"
+    },
+    "products": [
+        {
+            "description": "integrate virtual models",
+            "discount_percentage": 17.42,
+            "price": 314.95,
+            "quantity": 7.68,
+            "unit_price": 29.33
+        }
+    ],
+    "seller": {
+        "address": "97986 Ruben Wall Apt. 995 Davidshire, PR 72173",
+        "ape": "0091t",
+        "capital": 60261163,
+        "country": "Nauru",
+        "email": "christopheranderson@example.com",
+        "name": "Paul Mueller",
+        "phone_1": "379-965-1273",
+        "phone_2": "224-822-7149x1854",
+        "phone_3": "3203402564",
+        "ref_walk": "djde2035",
+        "reference": "ED657",
+        "siret": 35882989896731,
+        "vat_no": "pi16249599975",
+        "website": "http://www.daugherty-lee.net/"
+    },
+    "tax": {
+        "amount_0": 22.65,
+        "amount_1": 12.85,
+        "base_0": 23.86,
+        "base_1": 10.89,
+        "total_ht": 252.17,
+        "total_tax": 10.46,
+        "total_ttc": 130.86,
+        "vat_0": 10.75,
+        "vat_1": 23.34
+    }
+}

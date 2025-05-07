@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "687 Charles Neck Suite 053 Lake James, ME 70484",
+        "business_no": "Tm569",
+        "id": "Qk741"
+    },
+    "invoice": {
+        "date": "04.02.2004",
+        "number": "6084-7471"
+    },
+    "payment": {
+        "due_date": "18.11.2003",
+        "total": 981.31
+    },
+    "products": [
+        {
+            "amount": 155.22,
+            "description": "synthesize enterprise synergies",
+            "quantity": 7.96,
+            "reference": "nc-181",
+            "unit_price": 78.73
+        }
+    ],
+    "seller": {
+        "address": "0396 Christopher Forest New Rogerland, NC 19156"
+    },
+    "tax": {
+        "base_ht": 410.08,
+        "regulations": 14.81,
+        "total_ht": 421.31,
+        "vat_amount": 43.61,
+        "vat_percentage": 15.61
+    }
+}

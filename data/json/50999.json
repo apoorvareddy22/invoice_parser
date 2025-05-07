@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "3371 Solis Coves Apt. 103 West Scottport, OK 24406",
+        "id": "YX974"
+    },
+    "invoice": {
+        "bc_no": "ZN38193",
+        "currency_code": "DZD",
+        "date": "22.03.2005",
+        "due_date": "18.11.2013",
+        "number": 465967
+    },
+    "payment": {
+        "bank_name": "Gordon LLC",
+        "bic": "LVKJGBL0ILB",
+        "iban": "SDVI21685401693395"
+    },
+    "products": [
+        {
+            "amount": 199.96,
+            "description": "generate clicks-and-mortar deliverables",
+            "index": "10",
+            "price": 441.48,
+            "quantity": 7.57,
+            "tax_amount": 41.69,
+            "total_ttc": 425.75,
+            "vat_amount": 1.56
+        },
+        {
+            "amount": 431.25,
+            "description": "engage integrated eyeballs",
+            "index": "7",
+            "price": 108.43,
+            "quantity": 8.76,
+            "tax_amount": 46.89,
+            "total_ttc": 487.71,
+            "vat_amount": 3.99
+        },
+        {
+            "amount": 304.92,
+            "description": "re-intermediate intuitive architectures",
+            "index": "2",
+            "price": 335.18,
+            "quantity": 3.12,
+            "tax_amount": 97.98,
+            "total_ttc": 333.33,
+            "vat_amount": 4.24
+        }
+    ],
+    "seller": {
+        "name": "Suzanne Greene"
+    },
+    "supplier": {
+        "address": "83040 James Garden South Scott, GA 75247",
+        "name": "Chad Schmidt"
+    },
+    "tax": {
+        "amount_excluding_tax": 45.66,
+        "amount_including_tax": 135.43,
+        "tax_amount": 24.73,
+        "total_ht": 211.63,
+        "total_ttc": 239.37
+    }
+}

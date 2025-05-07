@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "4356 Kathryn Shoal South Alexander, NV 40749",
+        "business_no": "hA166",
+        "id": "hw631"
+    },
+    "invoice": {
+        "date": "02.04.1998",
+        "number": "3370-5371"
+    },
+    "payment": {
+        "due_date": "11.10.2014",
+        "total": 944.84
+    },
+    "products": [
+        {
+            "amount": 193.95,
+            "description": "reinvent distributed e-markets",
+            "quantity": 3.64,
+            "reference": "SX-570",
+            "unit_price": 64.82
+        },
+        {
+            "amount": 219.01,
+            "description": "scale open-source experiences",
+            "quantity": 6.61,
+            "reference": "OP-695",
+            "unit_price": 10.15
+        },
+        {
+            "amount": 370.88,
+            "description": "brand robust solutions",
+            "quantity": 5.39,
+            "reference": "zN-375",
+            "unit_price": 63.73
+        },
+        {
+            "amount": 84.72,
+            "description": "transform sticky info-mediaries",
+            "quantity": 4.91,
+            "reference": "Br-500",
+            "unit_price": 27.24
+        },
+        {
+            "amount": 248.48,
+            "description": "mesh innovative applications",
+            "quantity": 6.87,
+            "reference": "Wc-968",
+            "unit_price": 86.27
+        },
+        {
+            "amount": 182.03,
+            "description": "drive frictionless web services",
+            "quantity": 8.33,
+            "reference": "UA-409",
+            "unit_price": 79.61
+        }
+    ],
+    "seller": {
+        "address": "6458 Thomas Shores East Stephanie, NV 86203"
+    },
+    "tax": {
+        "base_ht": 255.77,
+        "regulations": 13.46,
+        "total_ht": 335.61,
+        "vat_amount": 164.04,
+        "vat_percentage": 11.29
+    }
+}

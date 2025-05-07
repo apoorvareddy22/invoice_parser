@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "1228 Dale Park Brentburgh, MI 92862",
+        "company_name": "Henson and Sons",
+        "country": "Turkey",
+        "name": "Jessica Mcclain"
+    },
+    "invoice": {
+        "date": "20.12.2021",
+        "number": 270726
+    },
+    "payment": {
+        "discount_amount": 44.75,
+        "discount_percentage": 17.09,
+        "due": 83.43,
+        "sub_total": 183.13,
+        "total": 452.63
+    },
+    "products": [
+        {
+            "description": "enable best-of-breed niches",
+            "index": "4",
+            "quantity": 4.77,
+            "total_price": 279.24,
+            "unit_price": 77.97
+        },
+        {
+            "description": "optimize 24/365 initiatives",
+            "index": "10",
+            "quantity": 6.04,
+            "total_price": 532.29,
+            "unit_price": 52.64
+        }
+    ],
+    "seller": {
+        "address": "8846 Mitchell Points Suite 371 East Christopher, VT 91708",
+        "company_name": "Riley, Anderson and Williams",
+        "vat_no": "FL88976412621"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "319 Stephens Station Suite 297 South David, VI 57192",
+        "company_name": "Cisneros PLC",
+        "country": "Georgia",
+        "name": "John Burns"
+    },
+    "invoice": {
+        "date": "28.08.2016",
+        "number": 131384
+    },
+    "payment": {
+        "discount_amount": 41.09,
+        "discount_percentage": 7.16,
+        "due": 36.34,
+        "sub_total": 47.61,
+        "total": 846.39
+    },
+    "products": [
+        {
+            "description": "unleash cutting-edge ROI",
+            "index": "4",
+            "quantity": 4.95,
+            "total_price": 677.1,
+            "unit_price": 44.72
+        },
+        {
+            "description": "monetize mission-critical eyeballs",
+            "index": "10",
+            "quantity": 3.8,
+            "total_price": 217.98,
+            "unit_price": 81.22
+        }
+    ],
+    "seller": {
+        "address": "13267 Felicia Loaf Apt. 558 West Troy, MO 81165",
+        "company_name": "Wu Ltd",
+        "vat_no": "SB65484140787"
+    }
+}

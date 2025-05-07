@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "USNS Buckley FPO AA 52972",
+        "id": "Kf671"
+    },
+    "invoice": {
+        "bc_no": "QR36784",
+        "currency_code": "SDG",
+        "date": "12.04.2001",
+        "due_date": "26.12.1999",
+        "number": 978412
+    },
+    "payment": {
+        "bank_name": "Hernandez, Patterson and Martinez",
+        "bic": "KTRAGB8Y4UK",
+        "iban": "LIPX22198958274632"
+    },
+    "products": [
+        {
+            "amount": 257.43,
+            "description": "e-enable open-source architectures",
+            "index": "4",
+            "price": 128.12,
+            "quantity": 5.44,
+            "tax_amount": 65.12,
+            "total_ttc": 485.51,
+            "vat_amount": 5.72
+        },
+        {
+            "amount": 120.15,
+            "description": "target integrated niches",
+            "index": "9",
+            "price": 416.68,
+            "quantity": 6.29,
+            "tax_amount": 62.3,
+            "total_ttc": 156.93,
+            "vat_amount": 1.47
+        },
+        {
+            "amount": 163.65,
+            "description": "transform impactful eyeballs",
+            "index": "6",
+            "price": 237.78,
+            "quantity": 1.66,
+            "tax_amount": 60.35,
+            "total_ttc": 415.28,
+            "vat_amount": 1.41
+        },
+        {
+            "amount": 74.15,
+            "description": "engineer dynamic web-readiness",
+            "index": "7",
+            "price": 281.33,
+            "quantity": 1.95,
+            "tax_amount": 39.77,
+            "total_ttc": 163.1,
+            "vat_amount": 3.83
+        }
+    ],
+    "seller": {
+        "name": "Austin Perez"
+    },
+    "supplier": {
+        "address": "617 Anthony Road Dillonhaven, ND 51528",
+        "name": "William Wilson"
+    },
+    "tax": {
+        "amount_excluding_tax": 60.8,
+        "amount_including_tax": 112.38,
+        "tax_amount": 19.95,
+        "total_ht": 118.77,
+        "total_ttc": 327.77
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "5807 Christina Village Apt. 396 New Melanietown, DE 33558",
+        "id": "rE113"
+    },
+    "invoice": {
+        "bc_no": "zK15053",
+        "currency_code": "KWD",
+        "date": "29.08.2018",
+        "due_date": "19.02.2016",
+        "number": 505179
+    },
+    "payment": {
+        "bank_name": "Montgomery Inc",
+        "bic": "WYTFGB51ZLP",
+        "iban": "KKEG20541478668453"
+    },
+    "products": [
+        {
+            "amount": 34.12,
+            "description": "innovate interactive channels",
+            "index": "4",
+            "price": 400.42,
+            "quantity": 8.46,
+            "tax_amount": 33.29,
+            "total_ttc": 387.68,
+            "vat_amount": 3.87
+        },
+        {
+            "amount": 252.84,
+            "description": "envisioneer viral paradigms",
+            "index": "8",
+            "price": 478.29,
+            "quantity": 4.93,
+            "tax_amount": 37.66,
+            "total_ttc": 427.35,
+            "vat_amount": 0.04
+        },
+        {
+            "amount": 342.11,
+            "description": "disintermediate holistic functionalities",
+            "index": "10",
+            "price": 309.36,
+            "quantity": 8.84,
+            "tax_amount": 91.66,
+            "total_ttc": 154.64,
+            "vat_amount": 1.24
+        },
+        {
+            "amount": 146.98,
+            "description": "cultivate open-source platforms",
+            "index": "3",
+            "price": 276.47,
+            "quantity": 7.06,
+            "tax_amount": 25.61,
+            "total_ttc": 294.94,
+            "vat_amount": 2.98
+        }
+    ],
+    "seller": {
+        "name": "Daniel Joseph"
+    },
+    "supplier": {
+        "address": "65395 Salinas Court Suite 736 West Maria, MS 16350",
+        "name": "Amanda Hamilton"
+    },
+    "tax": {
+        "amount_excluding_tax": 42.89,
+        "amount_including_tax": 151.98,
+        "tax_amount": 19.3,
+        "total_ht": 365.51,
+        "total_ttc": 270.42
+    }
+}

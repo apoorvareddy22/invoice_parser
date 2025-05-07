@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "8227 Cervantes Haven Apt. 844 North Ryan, MN 38859",
+        "company_name": "Moon Inc",
+        "email": "thomas42@example.net",
+        "name": "Elizabeth Blanchard",
+        "phone": "001-864-356-1868x915"
+    },
+    "invoice": {
+        "date": "16.02.2016",
+        "due_date": "31.07.1996",
+        "number": "fBK94883725769"
+    },
+    "payment": {
+        "account_number": 3208546439,
+        "bank_name": "Wilson LLC",
+        "routing_number": 546127953
+    },
+    "products": [
+        {
+            "amount": 29.08,
+            "description": "whiteboard back-end supply-chains",
+            "index": "8",
+            "quantity": 8.62,
+            "unit_price": 91.85
+        }
+    ],
+    "seller": {
+        "address": "3691 Howard Parkway Apt. 605 Lake Keithberg, MS 64691",
+        "company_name": "Esparza-Smith",
+        "email": "william89@example.com"
+    }
+}

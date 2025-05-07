@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "257 Nichols Islands West Lee, VA 01759",
+        "id": "Mi660"
+    },
+    "invoice": {
+        "bc_no": "QX63834",
+        "currency_code": "MDL",
+        "date": "14.12.1997",
+        "due_date": "31.10.2001",
+        "number": 582720
+    },
+    "payment": {
+        "bank_name": "Cortez, Morse and Sullivan",
+        "bic": "FHUFGBBJQN1",
+        "iban": "XQZM68869316659178"
+    },
+    "products": [
+        {
+            "amount": 222.6,
+            "description": "engage enterprise web services",
+            "index": "9",
+            "price": 350.21,
+            "quantity": 7.31,
+            "tax_amount": 47.61,
+            "total_ttc": 396.96,
+            "vat_amount": 2.34
+        },
+        {
+            "amount": 494.32,
+            "description": "syndicate customized deliverables",
+            "index": "2",
+            "price": 432.82,
+            "quantity": 5.43,
+            "tax_amount": 71.46,
+            "total_ttc": 375.96,
+            "vat_amount": 1.9
+        },
+        {
+            "amount": 38.47,
+            "description": "incentivize bricks-and-clicks content",
+            "index": "4",
+            "price": 143.98,
+            "quantity": 2.45,
+            "tax_amount": 98.11,
+            "total_ttc": 350.17,
+            "vat_amount": 2.22
+        }
+    ],
+    "seller": {
+        "name": "Mrs. Alison Ramos"
+    },
+    "supplier": {
+        "address": "PSC 6187, Box 0533 APO AE 44922",
+        "name": "Barbara Gonzales"
+    },
+    "tax": {
+        "amount_excluding_tax": 24.13,
+        "amount_including_tax": 118.19,
+        "tax_amount": 26.35,
+        "total_ht": 259.26,
+        "total_ttc": 329.12
+    }
+}

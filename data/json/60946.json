@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "4524 Moran Trail North Susan, PA 08884",
+        "business_no": "Uz526",
+        "id": "dw041"
+    },
+    "invoice": {
+        "date": "30.01.2012",
+        "number": "8766-7851"
+    },
+    "payment": {
+        "due_date": "10.12.2023",
+        "total": 970.86
+    },
+    "products": [
+        {
+            "amount": 436.45,
+            "description": "whiteboard B2B content",
+            "quantity": 6.09,
+            "reference": "pa-156",
+            "unit_price": 19.61
+        },
+        {
+            "amount": 409.85,
+            "description": "architect customized supply-chains",
+            "quantity": 3.52,
+            "reference": "pt-057",
+            "unit_price": 42.16
+        },
+        {
+            "amount": 224.28,
+            "description": "implement sticky users",
+            "quantity": 4.79,
+            "reference": "Ch-708",
+            "unit_price": 74.21
+        },
+        {
+            "amount": 317.34,
+            "description": "streamline enterprise applications",
+            "quantity": 5.11,
+            "reference": "yw-769",
+            "unit_price": 23.33
+        },
+        {
+            "amount": 437.73,
+            "description": "mesh viral functionalities",
+            "quantity": 4.67,
+            "reference": "pG-590",
+            "unit_price": 39.68
+        },
+        {
+            "amount": 383.59,
+            "description": "integrate interactive infrastructures",
+            "quantity": 8.76,
+            "reference": "ZJ-770",
+            "unit_price": 51.82
+        }
+    ],
+    "seller": {
+        "address": "18473 Peter Inlet Apt. 735 Jenkinsmouth, MD 92175"
+    },
+    "tax": {
+        "base_ht": 424.52,
+        "regulations": 14.17,
+        "total_ht": 437.96,
+        "vat_amount": 92.94,
+        "vat_percentage": 29.66
+    }
+}

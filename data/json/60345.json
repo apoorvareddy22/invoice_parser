@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "403 Deborah Prairie Aaronland, WA 47865",
+        "business_no": "GY889",
+        "id": "RE748"
+    },
+    "invoice": {
+        "date": "16.04.2005",
+        "number": "0423-3852"
+    },
+    "payment": {
+        "due_date": "27.04.2002",
+        "total": 691.12
+    },
+    "products": [
+        {
+            "amount": 494.34,
+            "description": "engage seamless synergies",
+            "quantity": 4.7,
+            "reference": "dS-148",
+            "unit_price": 28.22
+        },
+        {
+            "amount": 393.31,
+            "description": "innovate out-of-the-box communities",
+            "quantity": 3.43,
+            "reference": "Il-063",
+            "unit_price": 40.47
+        },
+        {
+            "amount": 127.59,
+            "description": "whiteboard open-source action-items",
+            "quantity": 3.75,
+            "reference": "wv-702",
+            "unit_price": 54.48
+        },
+        {
+            "amount": 87.38,
+            "description": "strategize vertical web-readiness",
+            "quantity": 1.87,
+            "reference": "OP-331",
+            "unit_price": 74.19
+        }
+    ],
+    "seller": {
+        "address": "12940 Miller Port New Kristineland, ID 81370"
+    },
+    "tax": {
+        "base_ht": 495.29,
+        "regulations": 16.1,
+        "total_ht": 391.36,
+        "vat_amount": 96.87,
+        "vat_percentage": 23.39
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "5471 Charles Ridges New Nicholas, AZ 45461",
+        "id": "Zv124"
+    },
+    "invoice": {
+        "bc_no": "PJ81494",
+        "currency_code": "SZL",
+        "date": "12.07.1993",
+        "due_date": "21.10.2012",
+        "number": 117093
+    },
+    "payment": {
+        "bank_name": "Roach-Marshall",
+        "bic": "QXYGGBQFJBH",
+        "iban": "SVPA82718993963653"
+    },
+    "products": [
+        {
+            "amount": 254.11,
+            "description": "extend turn-key schemas",
+            "index": "8",
+            "price": 212.62,
+            "quantity": 8.98,
+            "tax_amount": 74.12,
+            "total_ttc": 175.92,
+            "vat_amount": 16.35
+        },
+        {
+            "amount": 317.14,
+            "description": "extend efficient systems",
+            "index": "5",
+            "price": 48.23,
+            "quantity": 3.38,
+            "tax_amount": 43.83,
+            "total_ttc": 215.79,
+            "vat_amount": 3.3
+        },
+        {
+            "amount": 422.14,
+            "description": "extend wireless channels",
+            "index": "8",
+            "price": 34.78,
+            "quantity": 6.87,
+            "tax_amount": 83.39,
+            "total_ttc": 241.99,
+            "vat_amount": 6.01
+        },
+        {
+            "amount": 202.69,
+            "description": "extend open-source synergies",
+            "index": "2",
+            "price": 194.68,
+            "quantity": 1.52,
+            "tax_amount": 41.17,
+            "total_ttc": 400.12,
+            "vat_amount": 5.38
+        },
+        {
+            "amount": 475.04,
+            "description": "enhance visionary platforms",
+            "index": "1",
+            "price": 334.99,
+            "quantity": 5.17,
+            "tax_amount": 41.77,
+            "total_ttc": 181.62,
+            "vat_amount": 2.41
+        }
+    ],
+    "seller": {
+        "name": "James Jacobs"
+    },
+    "supplier": {
+        "address": "282 Smith Mountains Suite 987 Mathewsside, AS 16344",
+        "name": "Kristi Hall"
+    },
+    "tax": {
+        "amount_excluding_tax": 86.63,
+        "amount_including_tax": 134.89,
+        "tax_amount": 14.46,
+        "total_ht": 425.22,
+        "total_ttc": 253.83
+    }
+}

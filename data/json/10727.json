@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "37280 Heather Port Suite 496 Port Richardbury, NM 89465",
+        "email": "dhays@example.com",
+        "phone": "001-818-256-3956",
+        "vat_no": "qm01692312798"
+    },
+    "invoice": {
+        "date": "01.08.2010",
+        "due_date": "06.02.1997",
+        "market_reference": 132327,
+        "notes": "expedite bricks-and-clicks portals",
+        "number": "1946-6465",
+        "reference": 718003,
+        "vat_no": "DU50067762632"
+    },
+    "payment": {
+        "net_total": 126.1,
+        "total": 762.16
+    },
+    "products": [
+        {
+            "amount": 68.75,
+            "description": "engage robust portals",
+            "hours": 2.31,
+            "rate": 9.99
+        },
+        {
+            "amount": 117.59,
+            "description": "enhance compelling e-business",
+            "hours": 3.35,
+            "rate": 5.7
+        }
+    ],
+    "seller": {
+        "address": "543 Mccullough Falls Apt. 820 Romanstad, NV 41252",
+        "email": "kathrynharris@example.com",
+        "name": "Edwin Kelly"
+    },
+    "tax": {
+        "base": 21.43,
+        "tax_amount": 15.78,
+        "total_tax": 10.37
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "429 Richard Station Josephmouth, VI 06721",
+        "id": "gn110"
+    },
+    "invoice": {
+        "bc_no": "WG84262",
+        "currency_code": "GIP",
+        "date": "09.07.1992",
+        "due_date": "16.09.2011",
+        "number": 448591
+    },
+    "payment": {
+        "bank_name": "Benson PLC",
+        "bic": "ZDMZGBERAX4",
+        "iban": "CVMV69731239722038"
+    },
+    "products": [
+        {
+            "amount": 243.87,
+            "description": "aggregate efficient deliverables",
+            "index": "1",
+            "price": 15.43,
+            "quantity": 2.96,
+            "tax_amount": 13.78,
+            "total_ttc": 273.14,
+            "vat_amount": 1.67
+        },
+        {
+            "amount": 385.02,
+            "description": "seize bricks-and-clicks markets",
+            "index": "2",
+            "price": 360.92,
+            "quantity": 2.45,
+            "tax_amount": 70.47,
+            "total_ttc": 304.9,
+            "vat_amount": 0.49
+        },
+        {
+            "amount": 222.34,
+            "description": "syndicate vertical web services",
+            "index": "6",
+            "price": 203.88,
+            "quantity": 2.92,
+            "tax_amount": 99.65,
+            "total_ttc": 411.54,
+            "vat_amount": 2.81
+        },
+        {
+            "amount": 225.03,
+            "description": "integrate vertical networks",
+            "index": "7",
+            "price": 272.63,
+            "quantity": 2.13,
+            "tax_amount": 27.15,
+            "total_ttc": 120.71,
+            "vat_amount": 8.47
+        },
+        {
+            "amount": 64.0,
+            "description": "transition turn-key web-readiness",
+            "index": "3",
+            "price": 269.91,
+            "quantity": 8.92,
+            "tax_amount": 36.48,
+            "total_ttc": 108.55,
+            "vat_amount": 2.93
+        },
+        {
+            "amount": 404.86,
+            "description": "scale vertical e-business",
+            "index": "2",
+            "price": 185.0,
+            "quantity": 6.92,
+            "tax_amount": 44.03,
+            "total_ttc": 292.55,
+            "vat_amount": 1.7
+        },
+        {
+            "amount": 70.18,
+            "description": "exploit innovative interfaces",
+            "index": "8",
+            "price": 311.21,
+            "quantity": 4.36,
+            "tax_amount": 61.96,
+            "total_ttc": 469.05,
+            "vat_amount": 7.11
+        }
+    ],
+    "seller": {
+        "name": "Shane Cole"
+    },
+    "supplier": {
+        "address": "2611 Michelle Plaza East Cynthia, NH 84326",
+        "name": "Dennis Dunn"
+    },
+    "tax": {
+        "amount_excluding_tax": 156.0,
+        "amount_including_tax": 171.12,
+        "tax_amount": 11.16,
+        "total_ht": 128.36,
+        "total_ttc": 296.1
+    }
+}

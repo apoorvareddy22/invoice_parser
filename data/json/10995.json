@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "3652 Amber Manors Apt. 468 Port Melodyborough, IA 74605",
+        "email": "amanda16@example.org",
+        "phone": "428-403-6705x57900",
+        "vat_no": "EE90593223999"
+    },
+    "invoice": {
+        "date": "11.02.1991",
+        "due_date": "26.01.2022",
+        "market_reference": 361772,
+        "notes": "engineer mission-critical content",
+        "number": "4039-6855",
+        "reference": 212446,
+        "vat_no": "oD13439296740"
+    },
+    "payment": {
+        "net_total": 151.57,
+        "total": 151.9
+    },
+    "products": [
+        {
+            "amount": 408.79,
+            "description": "optimize 24/365 vortals",
+            "hours": 1.71,
+            "rate": 6.25
+        },
+        {
+            "amount": 44.34,
+            "description": "whiteboard cutting-edge relationships",
+            "hours": 5.55,
+            "rate": 6.88
+        },
+        {
+            "amount": 99.57,
+            "description": "whiteboard cutting-edge paradigms",
+            "hours": 6.47,
+            "rate": 4.5
+        }
+    ],
+    "seller": {
+        "address": "3384 Veronica Keys Allenport, MP 34418",
+        "email": "milleremma@example.com",
+        "name": "Michelle Hammond"
+    },
+    "tax": {
+        "base": 19.89,
+        "tax_amount": 22.85,
+        "total_tax": 12.79
+    }
+}

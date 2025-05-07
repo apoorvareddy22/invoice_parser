@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "31159 Jonathan Lane West Faith, TX 05182",
+        "business_no": "HX600",
+        "id": "Vf902"
+    },
+    "invoice": {
+        "date": "27.01.2016",
+        "number": "9830-4105"
+    },
+    "payment": {
+        "due_date": "21.03.1997",
+        "total": 320.87
+    },
+    "products": [
+        {
+            "amount": 109.51,
+            "description": "extend one-to-one interfaces",
+            "quantity": 3.71,
+            "reference": "RX-607",
+            "unit_price": 41.07
+        }
+    ],
+    "seller": {
+        "address": "43112 Gamble Road Alanshire, NM 97203"
+    },
+    "tax": {
+        "base_ht": 318.68,
+        "regulations": 28.72,
+        "total_ht": 200.9,
+        "vat_amount": 190.24,
+        "vat_percentage": 20.13
+    }
+}

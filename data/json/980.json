@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "1021 Amber Square South David, ME 23309",
+        "company_name": "Jennings-Buck",
+        "country": "Gabon",
+        "name": "Adam Keller"
+    },
+    "invoice": {
+        "date": "27.05.2008",
+        "number": 502423
+    },
+    "payment": {
+        "discount_amount": 27.67,
+        "discount_percentage": 7.64,
+        "due": 68.31,
+        "sub_total": 65.98,
+        "total": 457.78
+    },
+    "products": [
+        {
+            "description": "redefine vertical models",
+            "index": "2",
+            "quantity": 4.55,
+            "total_price": 663.52,
+            "unit_price": 12.34
+        },
+        {
+            "description": "maximize open-source metrics",
+            "index": "1",
+            "quantity": 8.93,
+            "total_price": 357.44,
+            "unit_price": 82.27
+        }
+    ],
+    "seller": {
+        "address": "USNS Lyons FPO AA 90705",
+        "company_name": "Jackson, Dickson and Mccarthy",
+        "vat_no": "if04398401027"
+    }
+}

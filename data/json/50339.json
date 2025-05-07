@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "48073 Woods Court Christopherfurt, LA 80813",
+        "id": "WQ678"
+    },
+    "invoice": {
+        "bc_no": "dD57399",
+        "currency_code": "GTQ",
+        "date": "01.03.1995",
+        "due_date": "04.09.2018",
+        "number": 173832
+    },
+    "payment": {
+        "bank_name": "Hampton-Collins",
+        "bic": "ZJQNGB9DYK9",
+        "iban": "JOOG85853655678678"
+    },
+    "products": [
+        {
+            "amount": 17.47,
+            "description": "synergize killer experiences",
+            "index": "7",
+            "price": 325.92,
+            "quantity": 5.38,
+            "tax_amount": 35.55,
+            "total_ttc": 187.21,
+            "vat_amount": 6.71
+        },
+        {
+            "amount": 433.49,
+            "description": "deploy scalable paradigms",
+            "index": "5",
+            "price": 70.55,
+            "quantity": 2.79,
+            "tax_amount": 26.3,
+            "total_ttc": 352.7,
+            "vat_amount": 2.84
+        },
+        {
+            "amount": 15.6,
+            "description": "empower interactive ROI",
+            "index": "6",
+            "price": 63.4,
+            "quantity": 2.96,
+            "tax_amount": 27.14,
+            "total_ttc": 159.86,
+            "vat_amount": 1.11
+        },
+        {
+            "amount": 171.52,
+            "description": "transform real-time users",
+            "index": "5",
+            "price": 448.22,
+            "quantity": 1.96,
+            "tax_amount": 47.05,
+            "total_ttc": 254.03,
+            "vat_amount": 12.92
+        },
+        {
+            "amount": 71.46,
+            "description": "exploit viral eyeballs",
+            "index": "3",
+            "price": 54.39,
+            "quantity": 4.06,
+            "tax_amount": 84.63,
+            "total_ttc": 159.12,
+            "vat_amount": 1.22
+        },
+        {
+            "amount": 280.41,
+            "description": "productize granular interfaces",
+            "index": "4",
+            "price": 400.05,
+            "quantity": 8.45,
+            "tax_amount": 49.31,
+            "total_ttc": 424.15,
+            "vat_amount": 1.66
+        },
+        {
+            "amount": 259.86,
+            "description": "leverage world-class experiences",
+            "index": "10",
+            "price": 47.47,
+            "quantity": 5.06,
+            "tax_amount": 44.38,
+            "total_ttc": 396.61,
+            "vat_amount": 2.06
+        }
+    ],
+    "seller": {
+        "name": "Victoria Herrera"
+    },
+    "supplier": {
+        "address": "35523 Sims Springs Lake Justinmouth, CA 15044",
+        "name": "Tara Jordan"
+    },
+    "tax": {
+        "amount_excluding_tax": 40.46,
+        "amount_including_tax": 10.59,
+        "tax_amount": 12.65,
+        "total_ht": 426.16,
+        "total_ttc": 211.67
+    }
+}

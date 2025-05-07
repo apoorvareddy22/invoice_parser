@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "009 Chang Hills Apt. 677 New David, MH 33061",
+        "business_no": "or327",
+        "id": "VN633"
+    },
+    "invoice": {
+        "date": "30.06.2013",
+        "number": "1849-9860"
+    },
+    "payment": {
+        "due_date": "09.10.1997",
+        "total": 941.5
+    },
+    "products": [
+        {
+            "amount": 100.61,
+            "description": "redefine wireless bandwidth",
+            "quantity": 1.02,
+            "reference": "WP-487",
+            "unit_price": 25.92
+        },
+        {
+            "amount": 213.19,
+            "description": "benchmark revolutionary synergies",
+            "quantity": 5.35,
+            "reference": "eF-232",
+            "unit_price": 55.19
+        }
+    ],
+    "seller": {
+        "address": "PSC 8147, Box 8302 APO AA 66398"
+    },
+    "tax": {
+        "base_ht": 463.83,
+        "regulations": 26.54,
+        "total_ht": 125.58,
+        "vat_amount": 16.2,
+        "vat_percentage": 23.04
+    }
+}

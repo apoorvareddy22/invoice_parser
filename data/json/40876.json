@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "42142 Mary Road West Meghanmouth, VT 54961"
+    },
+    "invoice": {
+        "bc_no": "FI39249",
+        "date": "23.11.2005",
+        "maturity_date": "23.06.2006",
+        "number": 881903
+    },
+    "products": [
+        {
+            "amount": 294.72,
+            "description": "mesh visionary mindshare",
+            "quantity": 5.84,
+            "unit_price": 10.61,
+            "vat_amount": 4.71
+        },
+        {
+            "amount": 216.99,
+            "description": "brand extensible vortals",
+            "quantity": 6.84,
+            "unit_price": 93.94,
+            "vat_amount": 5.43
+        }
+    ],
+    "seller": {
+        "address": "6687 Sarah Lodge North Robert, GU 39593"
+    },
+    "tax": {
+        "amount_excluding_tax": 54.32,
+        "amount_including_tax": 192.78,
+        "tax_amount": 17.9
+    }
+}

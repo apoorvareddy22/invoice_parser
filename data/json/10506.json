@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "501 David Glen Suite 937 Bondbury, KS 57174",
+        "email": "rachel79@example.net",
+        "phone": "988-850-4147",
+        "vat_no": "UB74507159002"
+    },
+    "invoice": {
+        "date": "19.12.2023",
+        "due_date": "15.07.2016",
+        "market_reference": 228351,
+        "notes": "reinvent 24/365 functionalities",
+        "number": "3841-9595",
+        "reference": 304825,
+        "vat_no": "MK29854477243"
+    },
+    "payment": {
+        "net_total": 96.18,
+        "total": 475.79
+    },
+    "products": [
+        {
+            "amount": 347.55,
+            "description": "brand cross-media schemas",
+            "hours": 7.03,
+            "rate": 8.62
+        },
+        {
+            "amount": 404.36,
+            "description": "transform virtual applications",
+            "hours": 1.47,
+            "rate": 2.08
+        }
+    ],
+    "seller": {
+        "address": "91399 Jackson Ramp East Christina, MH 88182",
+        "email": "uchung@example.com",
+        "name": "Lisa Arellano"
+    },
+    "tax": {
+        "base": 18.31,
+        "tax_amount": 21.75,
+        "total_tax": 11.39
+    }
+}

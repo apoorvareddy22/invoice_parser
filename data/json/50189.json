@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "USCGC Dawson FPO AA 99254",
+        "id": "vu132"
+    },
+    "invoice": {
+        "bc_no": "fP54088",
+        "currency_code": "GHS",
+        "date": "13.08.1990",
+        "due_date": "09.06.2022",
+        "number": 224883
+    },
+    "payment": {
+        "bank_name": "Christensen-Serrano",
+        "bic": "LFCKGBP0",
+        "iban": "MILJ67649900372971"
+    },
+    "products": [
+        {
+            "amount": 328.34,
+            "description": "enable innovative platforms",
+            "index": "5",
+            "price": 106.81,
+            "quantity": 9.77,
+            "tax_amount": 54.75,
+            "total_ttc": 136.45,
+            "vat_amount": 1.96
+        },
+        {
+            "amount": 454.25,
+            "description": "morph clicks-and-mortar web-readiness",
+            "index": "7",
+            "price": 78.21,
+            "quantity": 3.33,
+            "tax_amount": 48.84,
+            "total_ttc": 143.61,
+            "vat_amount": 7.51
+        },
+        {
+            "amount": 346.32,
+            "description": "revolutionize vertical relationships",
+            "index": "3",
+            "price": 235.61,
+            "quantity": 9.34,
+            "tax_amount": 61.2,
+            "total_ttc": 118.02,
+            "vat_amount": 4.15
+        },
+        {
+            "amount": 41.06,
+            "description": "seize clicks-and-mortar paradigms",
+            "index": "8",
+            "price": 199.46,
+            "quantity": 2.88,
+            "tax_amount": 35.21,
+            "total_ttc": 371.1,
+            "vat_amount": 3.97
+        },
+        {
+            "amount": 95.45,
+            "description": "innovate best-of-breed networks",
+            "index": "4",
+            "price": 237.53,
+            "quantity": 6.84,
+            "tax_amount": 86.48,
+            "total_ttc": 215.89,
+            "vat_amount": 1.55
+        }
+    ],
+    "seller": {
+        "name": "Jason Clark"
+    },
+    "supplier": {
+        "address": "61948 Berg Extension Suite 874 New Kristin, LA 23351",
+        "name": "Krystal Pope"
+    },
+    "tax": {
+        "amount_excluding_tax": 53.27,
+        "amount_including_tax": 17.64,
+        "tax_amount": 10.05,
+        "total_ht": 244.79,
+        "total_ttc": 128.88
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "99435 Jake Mews Suite 118 Michelleland, SD 29493",
+        "id": "Rp767"
+    },
+    "invoice": {
+        "bc_no": "uZ44727",
+        "currency_code": "AZN",
+        "date": "24.07.1992",
+        "due_date": "27.09.2016",
+        "number": 779072
+    },
+    "payment": {
+        "bank_name": "Horn-Garcia",
+        "bic": "ERRAGBUMHJT",
+        "iban": "UBRD10519863030530"
+    },
+    "products": [
+        {
+            "amount": 334.75,
+            "description": "aggregate bleeding-edge partnerships",
+            "index": "3",
+            "price": 272.89,
+            "quantity": 1.29,
+            "tax_amount": 34.77,
+            "total_ttc": 329.11,
+            "vat_amount": 1.25
+        },
+        {
+            "amount": 306.44,
+            "description": "orchestrate vertical relationships",
+            "index": "3",
+            "price": 18.52,
+            "quantity": 1.92,
+            "tax_amount": 56.75,
+            "total_ttc": 336.36,
+            "vat_amount": 1.31
+        },
+        {
+            "amount": 268.41,
+            "description": "transform cross-media communities",
+            "index": "7",
+            "price": 23.34,
+            "quantity": 2.88,
+            "tax_amount": 87.95,
+            "total_ttc": 499.9,
+            "vat_amount": 8.7
+        },
+        {
+            "amount": 176.13,
+            "description": "cultivate B2C e-markets",
+            "index": "4",
+            "price": 64.48,
+            "quantity": 7.76,
+            "tax_amount": 73.86,
+            "total_ttc": 443.97,
+            "vat_amount": 4.25
+        }
+    ],
+    "seller": {
+        "name": "Marcus Green"
+    },
+    "supplier": {
+        "address": "91005 Alan Lodge Lake Cameron, CA 04579",
+        "name": "Anthony Benitez"
+    },
+    "tax": {
+        "amount_excluding_tax": 68.93,
+        "amount_including_tax": 69.88,
+        "tax_amount": 28.55,
+        "total_ht": 306.95,
+        "total_ttc": 392.95
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "835 Blake Island Dianafort, DE 94275",
+        "business_no": "is178",
+        "id": "CZ386"
+    },
+    "invoice": {
+        "date": "08.03.2015",
+        "number": "2327-2030"
+    },
+    "payment": {
+        "due_date": "31.12.1993",
+        "total": 141.63
+    },
+    "products": [
+        {
+            "amount": 200.23,
+            "description": "enable end-to-end e-services",
+            "quantity": 5.79,
+            "reference": "TF-796",
+            "unit_price": 39.78
+        },
+        {
+            "amount": 139.17,
+            "description": "engineer 24/7 content",
+            "quantity": 8.51,
+            "reference": "ZV-949",
+            "unit_price": 99.72
+        },
+        {
+            "amount": 98.78,
+            "description": "matrix best-of-breed interfaces",
+            "quantity": 9.99,
+            "reference": "em-097",
+            "unit_price": 31.7
+        },
+        {
+            "amount": 458.41,
+            "description": "redefine granular communities",
+            "quantity": 6.18,
+            "reference": "Sg-260",
+            "unit_price": 88.36
+        }
+    ],
+    "seller": {
+        "address": "0344 Moore Flats Apt. 939 West Alexanderchester, OH 03217"
+    },
+    "tax": {
+        "base_ht": 265.77,
+        "regulations": 22.64,
+        "total_ht": 305.84,
+        "vat_amount": 51.68,
+        "vat_percentage": 21.9
+    }
+}

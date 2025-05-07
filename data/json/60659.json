@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "364 Tran Summit Suite 870 Stefanieshire, MI 80180",
+        "business_no": "as119",
+        "id": "mN640"
+    },
+    "invoice": {
+        "date": "08.10.1994",
+        "number": "4557-9219"
+    },
+    "payment": {
+        "due_date": "02.10.2020",
+        "total": 680.37
+    },
+    "products": [
+        {
+            "amount": 257.26,
+            "description": "whiteboard e-business ROI",
+            "quantity": 7.73,
+            "reference": "Ml-660",
+            "unit_price": 31.56
+        },
+        {
+            "amount": 77.42,
+            "description": "streamline frictionless portals",
+            "quantity": 8.07,
+            "reference": "gx-628",
+            "unit_price": 12.72
+        },
+        {
+            "amount": 221.3,
+            "description": "embrace enterprise convergence",
+            "quantity": 7.59,
+            "reference": "gf-098",
+            "unit_price": 98.79
+        },
+        {
+            "amount": 120.8,
+            "description": "syndicate innovative ROI",
+            "quantity": 4.8,
+            "reference": "Qb-642",
+            "unit_price": 89.22
+        },
+        {
+            "amount": 151.02,
+            "description": "deploy mission-critical functionalities",
+            "quantity": 3.51,
+            "reference": "Lg-013",
+            "unit_price": 64.39
+        }
+    ],
+    "seller": {
+        "address": "620 Tammy Via Johnfort, IL 65573"
+    },
+    "tax": {
+        "base_ht": 142.55,
+        "regulations": 21.07,
+        "total_ht": 180.55,
+        "vat_amount": 153.88,
+        "vat_percentage": 18.63
+    }
+}

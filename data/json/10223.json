@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "0471 Amber Vista Justinview, MA 73946",
+        "email": "austinbarry@example.net",
+        "phone": "001-327-868-5970x11235",
+        "vat_no": "yy26195697106"
+    },
+    "invoice": {
+        "date": "10.04.2018",
+        "due_date": "28.02.1990",
+        "market_reference": 873071,
+        "notes": "extend cross-platform portals",
+        "number": "3457-6748",
+        "reference": 518212,
+        "vat_no": "iK11618666416"
+    },
+    "payment": {
+        "net_total": 186.69,
+        "total": 812.33
+    },
+    "products": [
+        {
+            "amount": 246.6,
+            "description": "innovate world-class methodologies",
+            "hours": 4.57,
+            "rate": 1.09
+        },
+        {
+            "amount": 280.31,
+            "description": "target user-centric models",
+            "hours": 1.0,
+            "rate": 6.7
+        },
+        {
+            "amount": 56.19,
+            "description": "scale frictionless platforms",
+            "hours": 1.69,
+            "rate": 4.01
+        },
+        {
+            "amount": 172.04,
+            "description": "syndicate clicks-and-mortar action-items",
+            "hours": 9.16,
+            "rate": 5.29
+        },
+        {
+            "amount": 222.75,
+            "description": "expedite transparent eyeballs",
+            "hours": 8.64,
+            "rate": 8.7
+        }
+    ],
+    "seller": {
+        "address": "01649 Sanders Inlet Apt. 103 South Mariohaven, MI 89027",
+        "email": "pagedavid@example.com",
+        "name": "Tracy Bray"
+    },
+    "tax": {
+        "base": 14.77,
+        "tax_amount": 18.98,
+        "total_tax": 11.36
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "USNS Barnes FPO AP 83813",
+        "company_name": "Hopkins, Barron and Clark",
+        "email": "rliu@example.org",
+        "name": "Elizabeth Becker",
+        "phone": "681-674-6131"
+    },
+    "invoice": {
+        "date": "04.07.1997",
+        "due_date": "19.11.2015",
+        "number": "avd73738650317"
+    },
+    "payment": {
+        "account_number": 8298118238,
+        "bank_name": "Reese, Ramos and Wang",
+        "routing_number": 230628811
+    },
+    "products": [
+        {
+            "amount": 388.37,
+            "description": "visualize value-added interfaces",
+            "index": "5",
+            "quantity": 8.54,
+            "unit_price": 40.38
+        },
+        {
+            "amount": 447.49,
+            "description": "implement impactful infrastructures",
+            "index": "3",
+            "quantity": 8.64,
+            "unit_price": 25.13
+        }
+    ],
+    "seller": {
+        "address": "632 Joseph Lights Lake Alison, VA 35270",
+        "company_name": "Fernandez-Weber",
+        "email": "maryking@example.com"
+    }
+}

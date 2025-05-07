@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "7623 Allison Locks Apt. 242 Piercebury, KY 86283",
+        "company_name": "Love Ltd",
+        "country": "Croatia",
+        "name": "Gabrielle Armstrong"
+    },
+    "invoice": {
+        "date": "22.04.1996",
+        "number": 630801
+    },
+    "payment": {
+        "discount_amount": 49.68,
+        "discount_percentage": 11.97,
+        "due": 199.23,
+        "sub_total": 38.87,
+        "total": 338.79
+    },
+    "products": [
+        {
+            "description": "grow cutting-edge markets",
+            "index": "8",
+            "quantity": 5.31,
+            "total_price": 705.61,
+            "unit_price": 84.21
+        },
+        {
+            "description": "utilize visionary eyeballs",
+            "index": "9",
+            "quantity": 3.25,
+            "total_price": 450.89,
+            "unit_price": 21.13
+        }
+    ],
+    "seller": {
+        "address": "96029 Katherine Branch Suite 796 East Christian, PW 37910",
+        "company_name": "Ortiz PLC",
+        "vat_no": "mg25210192482"
+    }
+}

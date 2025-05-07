@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "610 Ashley Bypass Christopherland, ME 87688",
+        "email": "qrojas@example.net",
+        "phone": "+1-993-531-8137x5791",
+        "vat_no": "UF78275997751"
+    },
+    "invoice": {
+        "date": "16.06.2008",
+        "due_date": "08.05.2013",
+        "market_reference": 998045,
+        "notes": "leverage value-added e-commerce",
+        "number": "2936-7346",
+        "reference": 613343,
+        "vat_no": "qb92127832634"
+    },
+    "payment": {
+        "net_total": 55.32,
+        "total": 751.92
+    },
+    "products": [
+        {
+            "amount": 257.71,
+            "description": "revolutionize bleeding-edge portals",
+            "hours": 2.81,
+            "rate": 7.55
+        },
+        {
+            "amount": 26.98,
+            "description": "engage value-added channels",
+            "hours": 5.17,
+            "rate": 9.59
+        },
+        {
+            "amount": 414.97,
+            "description": "empower integrated platforms",
+            "hours": 1.85,
+            "rate": 1.73
+        },
+        {
+            "amount": 301.34,
+            "description": "innovate strategic convergence",
+            "hours": 6.77,
+            "rate": 1.19
+        },
+        {
+            "amount": 167.12,
+            "description": "incubate viral interfaces",
+            "hours": 3.26,
+            "rate": 9.55
+        },
+        {
+            "amount": 264.25,
+            "description": "incubate front-end metrics",
+            "hours": 8.64,
+            "rate": 7.3
+        }
+    ],
+    "seller": {
+        "address": "7763 Franco Way West Kyleshire, NM 37280",
+        "email": "ashley22@example.net",
+        "name": "Kelly Miller"
+    },
+    "tax": {
+        "base": 17.28,
+        "tax_amount": 13.33,
+        "total_tax": 29.36
+    }
+}

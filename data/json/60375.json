@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "PSC 5710, Box 8567 APO AP 97767",
+        "business_no": "dG516",
+        "id": "cU075"
+    },
+    "invoice": {
+        "date": "03.09.2009",
+        "number": "1465-5545"
+    },
+    "payment": {
+        "due_date": "26.10.2004",
+        "total": 207.33
+    },
+    "products": [
+        {
+            "amount": 68.86,
+            "description": "whiteboard scalable e-business",
+            "quantity": 9.09,
+            "reference": "ed-736",
+            "unit_price": 53.02
+        },
+        {
+            "amount": 213.5,
+            "description": "integrate extensible users",
+            "quantity": 8.03,
+            "reference": "wK-499",
+            "unit_price": 38.2
+        }
+    ],
+    "seller": {
+        "address": "709 Jonathan Estates Suite 264 Adamsmouth, KS 06291"
+    },
+    "tax": {
+        "base_ht": 258.86,
+        "regulations": 25.52,
+        "total_ht": 475.26,
+        "vat_amount": 134.54,
+        "vat_percentage": 28.34
+    }
+}

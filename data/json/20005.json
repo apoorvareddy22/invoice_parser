@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "91873 Nancy Brooks East Thomasborough, NJ 74047",
+        "company_name": "Adams-Shelton",
+        "email": "jacqueline43@example.net",
+        "name": "Kristina Bailey",
+        "phone": "516.814.5010"
+    },
+    "invoice": {
+        "date": "08.08.2005",
+        "due_date": "07.09.2017",
+        "number": "Avx64768781894"
+    },
+    "payment": {
+        "account_number": 8871478674,
+        "bank_name": "Newman Ltd",
+        "routing_number": 394176913
+    },
+    "products": [
+        {
+            "amount": 303.03,
+            "description": "transform granular vortals",
+            "index": "10",
+            "quantity": 4.26,
+            "unit_price": 62.95
+        },
+        {
+            "amount": 84.27,
+            "description": "e-enable magnetic e-markets",
+            "index": "9",
+            "quantity": 8.33,
+            "unit_price": 46.42
+        }
+    ],
+    "seller": {
+        "address": "USCGC Gonzalez FPO AA 16026",
+        "company_name": "Price Group",
+        "email": "asmith@example.com"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "07884 Kimberly Forks Suite 550 Greenetown, KS 57435",
+        "id": "WX690"
+    },
+    "invoice": {
+        "bc_no": "vV96525",
+        "currency_code": "HTG",
+        "date": "17.04.1993",
+        "due_date": "25.12.2011",
+        "number": 266441
+    },
+    "payment": {
+        "bank_name": "Shields and Sons",
+        "bic": "DFMUGBYR",
+        "iban": "DWUD32314679275475"
+    },
+    "products": [
+        {
+            "amount": 123.32,
+            "description": "mesh transparent supply-chains",
+            "index": "6",
+            "price": 29.07,
+            "quantity": 6.75,
+            "tax_amount": 63.4,
+            "total_ttc": 386.53,
+            "vat_amount": 1.39
+        },
+        {
+            "amount": 97.9,
+            "description": "mesh frictionless technologies",
+            "index": "8",
+            "price": 248.75,
+            "quantity": 8.57,
+            "tax_amount": 96.81,
+            "total_ttc": 375.33,
+            "vat_amount": 8.76
+        },
+        {
+            "amount": 478.51,
+            "description": "re-contextualize plug-and-play supply-chains",
+            "index": "1",
+            "price": 188.23,
+            "quantity": 5.9,
+            "tax_amount": 20.22,
+            "total_ttc": 328.6,
+            "vat_amount": 1.39
+        },
+        {
+            "amount": 68.33,
+            "description": "innovate ubiquitous mindshare",
+            "index": "1",
+            "price": 368.37,
+            "quantity": 9.62,
+            "tax_amount": 71.13,
+            "total_ttc": 115.71,
+            "vat_amount": 2.36
+        },
+        {
+            "amount": 99.94,
+            "description": "re-contextualize 24/365 web-readiness",
+            "index": "8",
+            "price": 474.81,
+            "quantity": 9.98,
+            "tax_amount": 94.28,
+            "total_ttc": 291.95,
+            "vat_amount": 6.64
+        }
+    ],
+    "seller": {
+        "name": "Billy Johnson"
+    },
+    "supplier": {
+        "address": "645 Kara Port Suite 833 Lake Lucasport, MT 50387",
+        "name": "Blake Howard"
+    },
+    "tax": {
+        "amount_excluding_tax": 97.32,
+        "amount_including_tax": 82.59,
+        "tax_amount": 15.87,
+        "total_ht": 249.02,
+        "total_ttc": 499.88
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "5109 Samuel Street Dudleyfurt, SC 24862"
+    },
+    "invoice": {
+        "bc_no": "LI02991",
+        "date": "20.11.2019",
+        "maturity_date": "08.07.1992",
+        "number": 183288
+    },
+    "products": [
+        {
+            "amount": 283.86,
+            "description": "empower 24/365 networks",
+            "quantity": 1.49,
+            "unit_price": 83.97,
+            "vat_amount": 1.97
+        },
+        {
+            "amount": 83.59,
+            "description": "aggregate frictionless e-business",
+            "quantity": 7.7,
+            "unit_price": 10.22,
+            "vat_amount": 1.37
+        },
+        {
+            "amount": 471.36,
+            "description": "enable revolutionary partnerships",
+            "quantity": 1.68,
+            "unit_price": 71.29,
+            "vat_amount": 5.88
+        },
+        {
+            "amount": 437.85,
+            "description": "aggregate transparent users",
+            "quantity": 2.2,
+            "unit_price": 18.43,
+            "vat_amount": 1.89
+        }
+    ],
+    "seller": {
+        "address": "6289 Ashley Springs Patriciahaven, AR 75564"
+    },
+    "tax": {
+        "amount_excluding_tax": 143.5,
+        "amount_including_tax": 30.91,
+        "tax_amount": 13.56
+    }
+}

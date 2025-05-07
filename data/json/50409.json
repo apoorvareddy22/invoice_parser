@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "9280 Stewart Parkways Markton, VA 85458",
+        "id": "Rz509"
+    },
+    "invoice": {
+        "bc_no": "Pz11093",
+        "currency_code": "MZN",
+        "date": "26.02.1996",
+        "due_date": "07.05.1998",
+        "number": 657123
+    },
+    "payment": {
+        "bank_name": "Solis PLC",
+        "bic": "QUJFGBYU1JC",
+        "iban": "XSJX30819345750984"
+    },
+    "products": [
+        {
+            "amount": 468.32,
+            "description": "benchmark transparent mindshare",
+            "index": "9",
+            "price": 290.81,
+            "quantity": 7.53,
+            "tax_amount": 60.79,
+            "total_ttc": 104.14,
+            "vat_amount": 3.37
+        },
+        {
+            "amount": 446.15,
+            "description": "redefine open-source networks",
+            "index": "4",
+            "price": 235.63,
+            "quantity": 1.18,
+            "tax_amount": 57.73,
+            "total_ttc": 499.96,
+            "vat_amount": 5.88
+        },
+        {
+            "amount": 485.57,
+            "description": "incubate extensible partnerships",
+            "index": "7",
+            "price": 252.88,
+            "quantity": 7.92,
+            "tax_amount": 66.34,
+            "total_ttc": 375.21,
+            "vat_amount": 7.11
+        }
+    ],
+    "seller": {
+        "name": "Dennis Jordan"
+    },
+    "supplier": {
+        "address": "819 Kyle Summit Suite 511 South George, WY 86993",
+        "name": "Catherine Davis"
+    },
+    "tax": {
+        "amount_excluding_tax": 140.12,
+        "amount_including_tax": 170.72,
+        "tax_amount": 28.67,
+        "total_ht": 360.56,
+        "total_ttc": 193.87
+    }
+}

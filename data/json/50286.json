@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "41813 Maldonado Pike Leeberg, MH 77665",
+        "id": "Oq237"
+    },
+    "invoice": {
+        "bc_no": "WX05367",
+        "currency_code": "LTL",
+        "date": "06.09.2011",
+        "due_date": "05.12.2017",
+        "number": 992102
+    },
+    "payment": {
+        "bank_name": "Jensen, Ramirez and Stout",
+        "bic": "DTJKGBML2Z5",
+        "iban": "FKVI43199741239069"
+    },
+    "products": [
+        {
+            "amount": 212.87,
+            "description": "empower real-time web services",
+            "index": "1",
+            "price": 87.25,
+            "quantity": 7.68,
+            "tax_amount": 55.21,
+            "total_ttc": 401.84,
+            "vat_amount": 11.04
+        },
+        {
+            "amount": 457.35,
+            "description": "morph cutting-edge experiences",
+            "index": "1",
+            "price": 429.31,
+            "quantity": 4.22,
+            "tax_amount": 88.67,
+            "total_ttc": 484.21,
+            "vat_amount": 11.51
+        },
+        {
+            "amount": 178.05,
+            "description": "integrate one-to-one technologies",
+            "index": "3",
+            "price": 222.65,
+            "quantity": 7.55,
+            "tax_amount": 40.44,
+            "total_ttc": 382.15,
+            "vat_amount": 3.1
+        },
+        {
+            "amount": 281.67,
+            "description": "optimize 24/7 portals",
+            "index": "9",
+            "price": 223.28,
+            "quantity": 9.4,
+            "tax_amount": 49.99,
+            "total_ttc": 358.27,
+            "vat_amount": 4.73
+        },
+        {
+            "amount": 406.26,
+            "description": "deliver out-of-the-box web-readiness",
+            "index": "1",
+            "price": 149.49,
+            "quantity": 3.0,
+            "tax_amount": 81.58,
+            "total_ttc": 438.11,
+            "vat_amount": 1.86
+        },
+        {
+            "amount": 393.73,
+            "description": "re-contextualize cross-media partnerships",
+            "index": "7",
+            "price": 182.61,
+            "quantity": 1.02,
+            "tax_amount": 80.33,
+            "total_ttc": 227.76,
+            "vat_amount": 2.55
+        }
+    ],
+    "seller": {
+        "name": "Tiffany Jones"
+    },
+    "supplier": {
+        "address": "130 Shawn Centers Careyfurt, WY 41147",
+        "name": "Cassandra Wilkerson"
+    },
+    "tax": {
+        "amount_excluding_tax": 168.7,
+        "amount_including_tax": 17.59,
+        "tax_amount": 22.85,
+        "total_ht": 430.28,
+        "total_ttc": 128.51
+    }
+}

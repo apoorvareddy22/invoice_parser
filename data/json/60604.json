@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "51411 Gregory Garden Suite 002 West Mary, AK 06080",
+        "business_no": "Pj705",
+        "id": "hE763"
+    },
+    "invoice": {
+        "date": "21.03.2014",
+        "number": "9910-5173"
+    },
+    "payment": {
+        "due_date": "07.06.2010",
+        "total": 135.42
+    },
+    "products": [
+        {
+            "amount": 351.27,
+            "description": "expedite dot-com web-readiness",
+            "quantity": 6.37,
+            "reference": "Az-575",
+            "unit_price": 91.42
+        },
+        {
+            "amount": 290.35,
+            "description": "engage extensible bandwidth",
+            "quantity": 2.76,
+            "reference": "wh-270",
+            "unit_price": 10.49
+        },
+        {
+            "amount": 404.0,
+            "description": "engineer dynamic niches",
+            "quantity": 1.66,
+            "reference": "QN-854",
+            "unit_price": 93.35
+        }
+    ],
+    "seller": {
+        "address": "1222 Johnson Well Suite 528 Julieberg, RI 29514"
+    },
+    "tax": {
+        "base_ht": 335.8,
+        "regulations": 29.55,
+        "total_ht": 389.79,
+        "vat_amount": 176.51,
+        "vat_percentage": 20.57
+    }
+}

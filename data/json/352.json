@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "57746 Keith Summit Apt. 698 East Oscarmouth, AS 45660",
+        "company_name": "Sosa Group",
+        "country": "French Southern Territories",
+        "name": "Laura Harmon MD"
+    },
+    "invoice": {
+        "date": "23.12.2012",
+        "number": 463277
+    },
+    "payment": {
+        "discount_amount": 28.35,
+        "discount_percentage": 9.15,
+        "due": 105.02,
+        "sub_total": 30.19,
+        "total": 801.03
+    },
+    "products": [
+        {
+            "description": "enhance leading-edge e-commerce",
+            "index": "4",
+            "quantity": 2.77,
+            "total_price": 645.1,
+            "unit_price": 32.08
+        }
+    ],
+    "seller": {
+        "address": "USNS Weaver FPO AP 75634",
+        "company_name": "Smith-Reeves",
+        "vat_no": "ks71096714327"
+    }
+}

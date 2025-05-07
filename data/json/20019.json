@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "37975 Boyd Knolls Ericbury, UT 88745",
+        "company_name": "Miller, Solomon and Myers",
+        "email": "norman64@example.org",
+        "name": "Sean Silva",
+        "phone": "313-722-6460"
+    },
+    "invoice": {
+        "date": "27.04.1996",
+        "due_date": "09.03.1994",
+        "number": "Lnh19725110477"
+    },
+    "payment": {
+        "account_number": 7083812681,
+        "bank_name": "Gonzales-Valenzuela",
+        "routing_number": 518666428
+    },
+    "products": [
+        {
+            "amount": 428.91,
+            "description": "leverage dynamic solutions",
+            "index": "6",
+            "quantity": 5.08,
+            "unit_price": 39.01
+        },
+        {
+            "amount": 210.34,
+            "description": "harness integrated metrics",
+            "index": "1",
+            "quantity": 8.23,
+            "unit_price": 73.8
+        },
+        {
+            "amount": 257.5,
+            "description": "redefine strategic communities",
+            "index": "3",
+            "quantity": 7.99,
+            "unit_price": 14.38
+        },
+        {
+            "amount": 226.44,
+            "description": "innovate intuitive solutions",
+            "index": "4",
+            "quantity": 6.1,
+            "unit_price": 93.65
+        }
+    ],
+    "seller": {
+        "address": "USNS Wells FPO AP 79915",
+        "company_name": "Gonzalez Group",
+        "email": "grayleslie@example.com"
+    }
+}

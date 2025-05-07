@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "8414 Campbell Landing North Marcstad, PA 20029",
+        "id": "uj705"
+    },
+    "invoice": {
+        "bc_no": "cg20452",
+        "currency_code": "TZS",
+        "date": "16.08.2007",
+        "due_date": "24.09.2008",
+        "number": 168086
+    },
+    "payment": {
+        "bank_name": "Reilly PLC",
+        "bic": "OSBLGBDD3VO",
+        "iban": "NHTQ17598249401233"
+    },
+    "products": [
+        {
+            "amount": 55.81,
+            "description": "facilitate rich architectures",
+            "index": "4",
+            "price": 71.77,
+            "quantity": 6.39,
+            "tax_amount": 86.74,
+            "total_ttc": 462.02,
+            "vat_amount": 2.68
+        },
+        {
+            "amount": 361.65,
+            "description": "monetize holistic action-items",
+            "index": "7",
+            "price": 273.3,
+            "quantity": 4.35,
+            "tax_amount": 86.73,
+            "total_ttc": 310.75,
+            "vat_amount": 4.72
+        },
+        {
+            "amount": 225.8,
+            "description": "cultivate robust paradigms",
+            "index": "3",
+            "price": 289.76,
+            "quantity": 7.36,
+            "tax_amount": 80.22,
+            "total_ttc": 202.25,
+            "vat_amount": 8.44
+        },
+        {
+            "amount": 363.89,
+            "description": "unleash best-of-breed relationships",
+            "index": "8",
+            "price": 482.34,
+            "quantity": 4.46,
+            "tax_amount": 19.01,
+            "total_ttc": 199.57,
+            "vat_amount": 9.35
+        },
+        {
+            "amount": 264.54,
+            "description": "monetize clicks-and-mortar e-markets",
+            "index": "1",
+            "price": 281.45,
+            "quantity": 3.23,
+            "tax_amount": 31.33,
+            "total_ttc": 338.81,
+            "vat_amount": 6.22
+        }
+    ],
+    "seller": {
+        "name": "Kelly Lucas"
+    },
+    "supplier": {
+        "address": "4584 Humphrey Causeway Suite 265 Carrburgh, RI 39075",
+        "name": "Michelle Murphy"
+    },
+    "tax": {
+        "amount_excluding_tax": 146.76,
+        "amount_including_tax": 73.87,
+        "tax_amount": 29.76,
+        "total_ht": 374.02,
+        "total_ttc": 344.05
+    }
+}

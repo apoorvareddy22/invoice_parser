@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "38039 Sims Highway Suite 211 Rogerland, AR 49350",
+        "email": "lewischristina@example.com",
+        "phone": "3515816518",
+        "vat_no": "hc06559533672"
+    },
+    "invoice": {
+        "date": "01.03.1994",
+        "due_date": "24.02.2020",
+        "market_reference": 264649,
+        "notes": "cultivate clicks-and-mortar channels",
+        "number": "4130-6413",
+        "reference": 786320,
+        "vat_no": "Sl27824056025"
+    },
+    "payment": {
+        "net_total": 176.65,
+        "total": 357.49
+    },
+    "products": [
+        {
+            "amount": 134.77,
+            "description": "envisioneer sticky niches",
+            "hours": 9.02,
+            "rate": 5.0
+        },
+        {
+            "amount": 235.96,
+            "description": "generate efficient deliverables",
+            "hours": 3.86,
+            "rate": 5.75
+        },
+        {
+            "amount": 389.21,
+            "description": "visualize clicks-and-mortar systems",
+            "hours": 5.93,
+            "rate": 4.32
+        },
+        {
+            "amount": 345.63,
+            "description": "reinvent global e-services",
+            "hours": 7.18,
+            "rate": 8.46
+        }
+    ],
+    "seller": {
+        "address": "97800 Sarah Path Suite 728 Stephaniefurt, NJ 54769",
+        "email": "cassandratrujillo@example.com",
+        "name": "Margaret Shaffer"
+    },
+    "tax": {
+        "base": 15.97,
+        "tax_amount": 23.24,
+        "total_tax": 21.23
+    }
+}

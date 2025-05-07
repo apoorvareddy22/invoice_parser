@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "55338 Murray Crescent Apt. 886 Woodsport, CO 14011",
+        "company_name": "Paul-Rosales",
+        "email": "nicholasharper@example.net",
+        "name": "Alyssa Stevens",
+        "phone": "2728864761"
+    },
+    "invoice": {
+        "date": "08.08.2001",
+        "due_date": "05.10.1991",
+        "number": "bXi30744452604"
+    },
+    "payment": {
+        "account_number": 2001188577,
+        "bank_name": "Reid, Crawford and Sullivan",
+        "routing_number": 878541355
+    },
+    "products": [
+        {
+            "amount": 483.78,
+            "description": "implement cutting-edge methodologies",
+            "index": "4",
+            "quantity": 6.82,
+            "unit_price": 48.92
+        },
+        {
+            "amount": 103.45,
+            "description": "disintermediate cross-media mindshare",
+            "index": "9",
+            "quantity": 5.97,
+            "unit_price": 70.8
+        },
+        {
+            "amount": 205.36,
+            "description": "engineer plug-and-play models",
+            "index": "4",
+            "quantity": 5.03,
+            "unit_price": 38.29
+        }
+    ],
+    "seller": {
+        "address": "187 Jackson Bypass South Nicoleville, OK 89775",
+        "company_name": "Johnson Group",
+        "email": "williamtran@example.net"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "0892 Clifford Harbors Apt. 552 North Joseburgh, PW 74047",
+        "id": "cU509"
+    },
+    "invoice": {
+        "bc_no": "jb24521",
+        "currency_code": "HTG",
+        "date": "22.12.1992",
+        "due_date": "23.09.2004",
+        "number": 178185
+    },
+    "payment": {
+        "bank_name": "Nelson, Clark and Miller",
+        "bic": "GFXFGBSCMJ6",
+        "iban": "IZKZ32655515885486"
+    },
+    "products": [
+        {
+            "amount": 175.63,
+            "description": "implement robust ROI",
+            "index": "7",
+            "price": 315.6,
+            "quantity": 8.66,
+            "tax_amount": 63.83,
+            "total_ttc": 343.24,
+            "vat_amount": 3.38
+        },
+        {
+            "amount": 231.53,
+            "description": "utilize virtual ROI",
+            "index": "7",
+            "price": 220.19,
+            "quantity": 3.39,
+            "tax_amount": 35.98,
+            "total_ttc": 493.46,
+            "vat_amount": 7.77
+        }
+    ],
+    "seller": {
+        "name": "Michelle Mcbride"
+    },
+    "supplier": {
+        "address": "3518 Joel Bridge Apt. 122 Kevinland, VT 81091",
+        "name": "Kim Roberts"
+    },
+    "tax": {
+        "amount_excluding_tax": 125.41,
+        "amount_including_tax": 119.16,
+        "tax_amount": 17.19,
+        "total_ht": 193.41,
+        "total_ttc": 330.06
+    }
+}

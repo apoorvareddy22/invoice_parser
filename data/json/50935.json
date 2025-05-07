@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "94880 Zimmerman Rue Foxchester, WI 28031",
+        "id": "kQ888"
+    },
+    "invoice": {
+        "bc_no": "uH50261",
+        "currency_code": "SZL",
+        "date": "15.09.2007",
+        "due_date": "13.06.1999",
+        "number": 999907
+    },
+    "payment": {
+        "bank_name": "Brown-Stewart",
+        "bic": "VVADGBU1QME",
+        "iban": "MSCX97827265638842"
+    },
+    "products": [
+        {
+            "amount": 267.01,
+            "description": "unleash vertical e-tailers",
+            "index": "5",
+            "price": 48.98,
+            "quantity": 1.46,
+            "tax_amount": 12.68,
+            "total_ttc": 444.72,
+            "vat_amount": 10.11
+        },
+        {
+            "amount": 336.29,
+            "description": "expedite 24/7 networks",
+            "index": "9",
+            "price": 241.15,
+            "quantity": 2.04,
+            "tax_amount": 25.65,
+            "total_ttc": 416.84,
+            "vat_amount": 10.05
+        },
+        {
+            "amount": 194.78,
+            "description": "utilize turn-key users",
+            "index": "2",
+            "price": 39.17,
+            "quantity": 5.27,
+            "tax_amount": 68.68,
+            "total_ttc": 436.74,
+            "vat_amount": 0.26
+        },
+        {
+            "amount": 94.74,
+            "description": "extend wireless synergies",
+            "index": "3",
+            "price": 414.85,
+            "quantity": 7.38,
+            "tax_amount": 84.06,
+            "total_ttc": 328.83,
+            "vat_amount": 2.47
+        },
+        {
+            "amount": 350.06,
+            "description": "redefine value-added info-mediaries",
+            "index": "3",
+            "price": 7.63,
+            "quantity": 6.0,
+            "tax_amount": 78.38,
+            "total_ttc": 454.03,
+            "vat_amount": 2.35
+        },
+        {
+            "amount": 377.97,
+            "description": "deploy open-source initiatives",
+            "index": "9",
+            "price": 257.77,
+            "quantity": 6.06,
+            "tax_amount": 37.57,
+            "total_ttc": 469.25,
+            "vat_amount": 9.91
+        },
+        {
+            "amount": 412.66,
+            "description": "brand e-business convergence",
+            "index": "8",
+            "price": 148.47,
+            "quantity": 9.96,
+            "tax_amount": 25.41,
+            "total_ttc": 234.98,
+            "vat_amount": 1.85
+        }
+    ],
+    "seller": {
+        "name": "Jamie Washington"
+    },
+    "supplier": {
+        "address": "072 Johnston Mount Suite 142 Jessicaborough, WY 87665",
+        "name": "James Rose"
+    },
+    "tax": {
+        "amount_excluding_tax": 191.25,
+        "amount_including_tax": 24.8,
+        "tax_amount": 27.75,
+        "total_ht": 310.65,
+        "total_ttc": 449.37
+    }
+}

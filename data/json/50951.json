@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "USNS Wilkerson FPO AA 11364",
+        "id": "ev226"
+    },
+    "invoice": {
+        "bc_no": "jY70754",
+        "currency_code": "BDT",
+        "date": "23.02.1991",
+        "due_date": "23.09.1996",
+        "number": 286545
+    },
+    "payment": {
+        "bank_name": "Thomas, Key and Miller",
+        "bic": "DLFXGBPU6AL",
+        "iban": "UJUS59554195414158"
+    },
+    "products": [
+        {
+            "amount": 68.62,
+            "description": "synthesize 24/365 e-commerce",
+            "index": "4",
+            "price": 188.4,
+            "quantity": 1.43,
+            "tax_amount": 21.35,
+            "total_ttc": 250.67,
+            "vat_amount": 6.15
+        },
+        {
+            "amount": 30.3,
+            "description": "matrix e-business supply-chains",
+            "index": "9",
+            "price": 427.04,
+            "quantity": 9.69,
+            "tax_amount": 33.09,
+            "total_ttc": 261.44,
+            "vat_amount": 5.86
+        },
+        {
+            "amount": 109.24,
+            "description": "innovate viral channels",
+            "index": "10",
+            "price": 287.65,
+            "quantity": 5.84,
+            "tax_amount": 38.78,
+            "total_ttc": 125.23,
+            "vat_amount": 0.06
+        },
+        {
+            "amount": 497.22,
+            "description": "morph distributed functionalities",
+            "index": "2",
+            "price": 382.17,
+            "quantity": 4.18,
+            "tax_amount": 87.68,
+            "total_ttc": 112.59,
+            "vat_amount": 0.89
+        }
+    ],
+    "seller": {
+        "name": "Lindsey Rhodes"
+    },
+    "supplier": {
+        "address": "Unit 3261 Box 8906 DPO AP 04598",
+        "name": "Brian Shepherd"
+    },
+    "tax": {
+        "amount_excluding_tax": 15.13,
+        "amount_including_tax": 70.28,
+        "tax_amount": 19.96,
+        "total_ht": 374.15,
+        "total_ttc": 453.85
+    }
+}

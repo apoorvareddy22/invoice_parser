@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "4236 Arnold Stream Suite 660 West Jameschester, NC 85573",
+        "email": "williamschneider@example.org",
+        "phone": "240.799.8844x8445",
+        "vat_no": "KW84892044485"
+    },
+    "invoice": {
+        "date": "02.10.2020",
+        "due_date": "27.06.2023",
+        "market_reference": 214894,
+        "notes": "brand distributed metrics",
+        "number": "5058-2291",
+        "reference": 282127,
+        "vat_no": "VN50481172855"
+    },
+    "payment": {
+        "net_total": 107.08,
+        "total": 228.67
+    },
+    "products": [
+        {
+            "amount": 204.64,
+            "description": "brand distributed action-items",
+            "hours": 6.84,
+            "rate": 5.27
+        },
+        {
+            "amount": 270.43,
+            "description": "expedite rich applications",
+            "hours": 8.15,
+            "rate": 2.7
+        },
+        {
+            "amount": 146.16,
+            "description": "scale one-to-one communities",
+            "hours": 6.63,
+            "rate": 9.9
+        },
+        {
+            "amount": 236.97,
+            "description": "iterate plug-and-play web services",
+            "hours": 5.6,
+            "rate": 1.02
+        }
+    ],
+    "seller": {
+        "address": "357 Brandi Locks Suite 142 Morrisonmouth, VA 02346",
+        "email": "kcervantes@example.org",
+        "name": "Michael Holt"
+    },
+    "tax": {
+        "base": 11.98,
+        "tax_amount": 20.73,
+        "total_tax": 24.87
+    }
+}

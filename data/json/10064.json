@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "7261 Carter Glens West Albert, IA 65416",
+        "email": "ykaiser@example.com",
+        "phone": "001-728-746-5827",
+        "vat_no": "iG36948736989"
+    },
+    "invoice": {
+        "date": "17.05.2016",
+        "due_date": "12.01.1997",
+        "market_reference": 336895,
+        "notes": "implement collaborative relationships",
+        "number": "1700-4525",
+        "reference": 723090,
+        "vat_no": "Fg48861177127"
+    },
+    "payment": {
+        "net_total": 71.26,
+        "total": 950.74
+    },
+    "products": [
+        {
+            "amount": 317.88,
+            "description": "productize dot-com synergies",
+            "hours": 2.69,
+            "rate": 3.14
+        },
+        {
+            "amount": 172.85,
+            "description": "transform bricks-and-clicks functionalities",
+            "hours": 4.71,
+            "rate": 1.08
+        },
+        {
+            "amount": 207.14,
+            "description": "deliver cutting-edge info-mediaries",
+            "hours": 4.95,
+            "rate": 1.76
+        },
+        {
+            "amount": 147.84,
+            "description": "transition mission-critical synergies",
+            "hours": 4.48,
+            "rate": 2.63
+        },
+        {
+            "amount": 263.53,
+            "description": "exploit synergistic bandwidth",
+            "hours": 3.1,
+            "rate": 6.88
+        },
+        {
+            "amount": 390.55,
+            "description": "reinvent innovative synergies",
+            "hours": 1.6,
+            "rate": 4.5
+        }
+    ],
+    "seller": {
+        "address": "391 Parker Trace Apt. 489 Jeffreybury, WA 33650",
+        "email": "michelle71@example.com",
+        "name": "Anthony Oconnor"
+    },
+    "tax": {
+        "base": 11.91,
+        "tax_amount": 16.3,
+        "total_tax": 20.37
+    }
+}

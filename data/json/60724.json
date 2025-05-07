@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "32079 David Ramp Suite 335 Lake Richardchester, NV 98936",
+        "business_no": "wd870",
+        "id": "Gz443"
+    },
+    "invoice": {
+        "date": "16.12.1992",
+        "number": "3080-9695"
+    },
+    "payment": {
+        "due_date": "13.01.2009",
+        "total": 214.13
+    },
+    "products": [
+        {
+            "amount": 356.88,
+            "description": "repurpose one-to-one experiences",
+            "quantity": 7.92,
+            "reference": "oA-207",
+            "unit_price": 17.0
+        },
+        {
+            "amount": 175.28,
+            "description": "deploy turn-key niches",
+            "quantity": 6.47,
+            "reference": "rq-303",
+            "unit_price": 93.54
+        }
+    ],
+    "seller": {
+        "address": "15572 Brewer Isle West Mary, MS 66127"
+    },
+    "tax": {
+        "base_ht": 426.02,
+        "regulations": 24.16,
+        "total_ht": 279.16,
+        "vat_amount": 140.86,
+        "vat_percentage": 18.69
+    }
+}

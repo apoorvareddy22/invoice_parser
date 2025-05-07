@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "1650 Joseph Summit South Connie, ID 10323",
+        "company_name": "Sanchez-Glass",
+        "country": "Argentina",
+        "email": "igill@example.org",
+        "name": "Heidi Rodriguez",
+        "phone": "(972)952-1652x170",
+        "vat_no": "bi58320136970"
+    },
+    "invoice": {
+        "date": "07.02.1990",
+        "due_date": "06.12.2001",
+        "linked_invoice": "IU-4576-0924",
+        "notes": "unleash 24/7 communities",
+        "number": "SH-8106-0234"
+    },
+    "products": [
+        {
+            "description": "aggregate best-of-breed channels",
+            "discount_percentage": 17.65,
+            "price": 126.01,
+            "quantity": 5.3,
+            "unit_price": 14.69
+        },
+        {
+            "description": "generate compelling bandwidth",
+            "discount_percentage": 19.32,
+            "price": 31.68,
+            "quantity": 9.7,
+            "unit_price": 95.55
+        },
+        {
+            "description": "transition mission-critical systems",
+            "discount_percentage": 15.94,
+            "price": 398.73,
+            "quantity": 1.14,
+            "unit_price": 96.79
+        },
+        {
+            "description": "redefine intuitive channels",
+            "discount_percentage": 17.95,
+            "price": 100.73,
+            "quantity": 5.41,
+            "unit_price": 54.78
+        }
+    ],
+    "seller": {
+        "address": "53328 Dana Light Franciscoton, GA 33927",
+        "ape": "7580y",
+        "capital": 25732389,
+        "country": "Lesotho",
+        "email": "beangina@example.net",
+        "name": "Daniel Baker",
+        "phone_1": "254.286.1692x356",
+        "phone_2": "+1-959-823-4137",
+        "phone_3": "635-787-9856",
+        "ref_walk": "LjsC9833",
+        "reference": "PP282",
+        "siret": 88978733284007,
+        "vat_no": "KN73933449601",
+        "website": "https://www.gould.com/"
+    },
+    "tax": {
+        "amount_0": 21.03,
+        "amount_1": 18.39,
+        "base_0": 17.69,
+        "base_1": 145.52,
+        "total_ht": 308.17,
+        "total_tax": 26.49,
+        "total_ttc": 240.35,
+        "vat_0": 11.41,
+        "vat_1": 28.43
+    }
+}

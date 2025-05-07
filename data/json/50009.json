@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "8365 Jessica Flat Marieville, VT 68284",
+        "id": "ME045"
+    },
+    "invoice": {
+        "bc_no": "WR46871",
+        "currency_code": "YER",
+        "date": "27.08.2020",
+        "due_date": "23.10.1993",
+        "number": 287747
+    },
+    "payment": {
+        "bank_name": "Walker-Smith",
+        "bic": "DAUBGBYG",
+        "iban": "VSYR74162153048274"
+    },
+    "products": [
+        {
+            "amount": 456.45,
+            "description": "benchmark synergistic schemas",
+            "index": "5",
+            "price": 126.94,
+            "quantity": 9.47,
+            "tax_amount": 95.71,
+            "total_ttc": 169.79,
+            "vat_amount": 2.26
+        },
+        {
+            "amount": 299.3,
+            "description": "iterate plug-and-play supply-chains",
+            "index": "5",
+            "price": 275.15,
+            "quantity": 6.39,
+            "tax_amount": 83.74,
+            "total_ttc": 287.72,
+            "vat_amount": 1.36
+        },
+        {
+            "amount": 414.18,
+            "description": "syndicate open-source models",
+            "index": "9",
+            "price": 488.32,
+            "quantity": 6.1,
+            "tax_amount": 98.57,
+            "total_ttc": 184.75,
+            "vat_amount": 0.34
+        },
+        {
+            "amount": 129.33,
+            "description": "engineer 24/365 eyeballs",
+            "index": "3",
+            "price": 303.91,
+            "quantity": 9.04,
+            "tax_amount": 35.37,
+            "total_ttc": 310.59,
+            "vat_amount": 4.7
+        }
+    ],
+    "seller": {
+        "name": "Jill Baker"
+    },
+    "supplier": {
+        "address": "2378 Wiggins Forks Suite 604 Loganborough, TX 97193",
+        "name": "Sharon Allen"
+    },
+    "tax": {
+        "amount_excluding_tax": 77.31,
+        "amount_including_tax": 117.75,
+        "tax_amount": 17.38,
+        "total_ht": 137.94,
+        "total_ttc": 150.78
+    }
+}

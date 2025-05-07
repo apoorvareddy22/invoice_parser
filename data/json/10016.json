@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "183 Thompson Lake Potterberg, WA 11476",
+        "email": "katherinesmith@example.net",
+        "phone": "001-550-999-1607x4610",
+        "vat_no": "sX19266257809"
+    },
+    "invoice": {
+        "date": "27.11.2017",
+        "due_date": "13.09.2002",
+        "market_reference": 850700,
+        "notes": "facilitate real-time e-tailers",
+        "number": "1552-7135",
+        "reference": 961060,
+        "vat_no": "GT02715622098"
+    },
+    "payment": {
+        "net_total": 83.9,
+        "total": 689.26
+    },
+    "products": [
+        {
+            "amount": 197.46,
+            "description": "evolve global relationships",
+            "hours": 2.69,
+            "rate": 9.42
+        }
+    ],
+    "seller": {
+        "address": "58247 Davis Fall Suite 763 Haynesberg, FL 55734",
+        "email": "victor32@example.com",
+        "name": "Stephanie Ferguson"
+    },
+    "tax": {
+        "base": 12.25,
+        "tax_amount": 14.5,
+        "total_tax": 22.77
+    }
+}

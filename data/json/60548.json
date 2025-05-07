@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "56293 Adam Pine West Nicholashaven, ID 78706",
+        "business_no": "QX364",
+        "id": "Fx697"
+    },
+    "invoice": {
+        "date": "09.03.2009",
+        "number": "7759-2850"
+    },
+    "payment": {
+        "due_date": "29.11.1999",
+        "total": 102.57
+    },
+    "products": [
+        {
+            "amount": 486.32,
+            "description": "integrate clicks-and-mortar metrics",
+            "quantity": 6.44,
+            "reference": "pD-555",
+            "unit_price": 46.47
+        },
+        {
+            "amount": 196.45,
+            "description": "maximize cross-media e-tailers",
+            "quantity": 9.21,
+            "reference": "yK-495",
+            "unit_price": 35.27
+        }
+    ],
+    "seller": {
+        "address": "USCGC Martin FPO AA 71338"
+    },
+    "tax": {
+        "base_ht": 403.73,
+        "regulations": 16.32,
+        "total_ht": 137.96,
+        "vat_amount": 149.17,
+        "vat_percentage": 26.58
+    }
+}

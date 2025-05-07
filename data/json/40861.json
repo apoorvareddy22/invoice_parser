@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "5758 Krista Underpass New Hollyside, OH 83576"
+    },
+    "invoice": {
+        "bc_no": "MW63569",
+        "date": "22.10.2007",
+        "maturity_date": "19.11.2022",
+        "number": 752355
+    },
+    "products": [
+        {
+            "amount": 42.44,
+            "description": "facilitate scalable web services",
+            "quantity": 8.27,
+            "unit_price": 67.7,
+            "vat_amount": 8.85
+        },
+        {
+            "amount": 334.84,
+            "description": "harness mission-critical e-business",
+            "quantity": 5.83,
+            "unit_price": 32.36,
+            "vat_amount": 5.37
+        },
+        {
+            "amount": 219.36,
+            "description": "transform mission-critical action-items",
+            "quantity": 4.87,
+            "unit_price": 42.76,
+            "vat_amount": 2.71
+        },
+        {
+            "amount": 459.63,
+            "description": "mesh extensible action-items",
+            "quantity": 6.92,
+            "unit_price": 80.8,
+            "vat_amount": 4.08
+        },
+        {
+            "amount": 434.42,
+            "description": "harness one-to-one applications",
+            "quantity": 6.54,
+            "unit_price": 49.31,
+            "vat_amount": 3.42
+        }
+    ],
+    "seller": {
+        "address": "4834 Julie Extension Suite 781 East Katiebury, OR 03759"
+    },
+    "tax": {
+        "amount_excluding_tax": 119.77,
+        "amount_including_tax": 28.43,
+        "tax_amount": 12.82
+    }
+}

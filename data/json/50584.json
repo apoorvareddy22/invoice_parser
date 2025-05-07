@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "6419 Hernandez Court Shariland, OH 15159",
+        "id": "Ed692"
+    },
+    "invoice": {
+        "bc_no": "zG69430",
+        "currency_code": "RWF",
+        "date": "13.10.1996",
+        "due_date": "13.12.2013",
+        "number": 969139
+    },
+    "payment": {
+        "bank_name": "Mcgrath-Joyce",
+        "bic": "CSDFGB6H",
+        "iban": "CPPD20918610351774"
+    },
+    "products": [
+        {
+            "amount": 295.01,
+            "description": "exploit rich infrastructures",
+            "index": "2",
+            "price": 186.95,
+            "quantity": 6.77,
+            "tax_amount": 41.12,
+            "total_ttc": 322.44,
+            "vat_amount": 1.49
+        },
+        {
+            "amount": 174.81,
+            "description": "strategize leading-edge interfaces",
+            "index": "4",
+            "price": 384.75,
+            "quantity": 1.75,
+            "tax_amount": 32.69,
+            "total_ttc": 299.19,
+            "vat_amount": 9.47
+        },
+        {
+            "amount": 488.76,
+            "description": "disintermediate out-of-the-box metrics",
+            "index": "8",
+            "price": 104.63,
+            "quantity": 6.16,
+            "tax_amount": 74.52,
+            "total_ttc": 159.2,
+            "vat_amount": 0.32
+        },
+        {
+            "amount": 380.45,
+            "description": "envisioneer out-of-the-box technologies",
+            "index": "1",
+            "price": 133.6,
+            "quantity": 5.24,
+            "tax_amount": 59.32,
+            "total_ttc": 123.04,
+            "vat_amount": 2.54
+        },
+        {
+            "amount": 305.34,
+            "description": "extend frictionless deliverables",
+            "index": "5",
+            "price": 471.47,
+            "quantity": 2.31,
+            "tax_amount": 95.98,
+            "total_ttc": 285.77,
+            "vat_amount": 4.29
+        },
+        {
+            "amount": 127.47,
+            "description": "enhance holistic web services",
+            "index": "3",
+            "price": 298.37,
+            "quantity": 1.52,
+            "tax_amount": 21.93,
+            "total_ttc": 205.51,
+            "vat_amount": 6.17
+        }
+    ],
+    "seller": {
+        "name": "Amy Ruiz"
+    },
+    "supplier": {
+        "address": "4583 Holland Viaduct Suite 343 Haydenside, MO 48240",
+        "name": "Edward Patrick"
+    },
+    "tax": {
+        "amount_excluding_tax": 74.96,
+        "amount_including_tax": 197.77,
+        "tax_amount": 24.5,
+        "total_ht": 138.75,
+        "total_ttc": 264.35
+    }
+}

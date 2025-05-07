@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "6245 Kathy Burgs Apt. 560 Port Darrell, VT 70403",
+        "id": "uC585"
+    },
+    "invoice": {
+        "bc_no": "dI18028",
+        "currency_code": "THB",
+        "date": "11.04.2022",
+        "due_date": "15.01.2000",
+        "number": 115135
+    },
+    "payment": {
+        "bank_name": "Clark Ltd",
+        "bic": "TVIZGBDT",
+        "iban": "OOKV67472794466208"
+    },
+    "products": [
+        {
+            "amount": 218.05,
+            "description": "deliver seamless supply-chains",
+            "index": "10",
+            "price": 128.96,
+            "quantity": 2.94,
+            "tax_amount": 72.03,
+            "total_ttc": 358.11,
+            "vat_amount": 3.73
+        },
+        {
+            "amount": 161.38,
+            "description": "enhance value-added applications",
+            "index": "1",
+            "price": 70.59,
+            "quantity": 1.39,
+            "tax_amount": 57.79,
+            "total_ttc": 469.54,
+            "vat_amount": 11.65
+        }
+    ],
+    "seller": {
+        "name": "Mary Gonzalez"
+    },
+    "supplier": {
+        "address": "43978 Lester Square Apt. 813 New Grace, UT 84445",
+        "name": "Mrs. Rhonda Peters"
+    },
+    "tax": {
+        "amount_excluding_tax": 194.51,
+        "amount_including_tax": 171.78,
+        "tax_amount": 16.36,
+        "total_ht": 378.63,
+        "total_ttc": 233.54
+    }
+}

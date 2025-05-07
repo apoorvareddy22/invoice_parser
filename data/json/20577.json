@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "5010 Phillip Forges Suite 354 West Alexis, GU 47474",
+        "company_name": "Watts PLC",
+        "email": "pturner@example.org",
+        "name": "Tamara Hall",
+        "phone": "9778260248"
+    },
+    "invoice": {
+        "date": "12.04.1992",
+        "due_date": "23.06.2012",
+        "number": "wrA48230157795"
+    },
+    "payment": {
+        "account_number": 9297996722,
+        "bank_name": "Martinez LLC",
+        "routing_number": 819160055
+    },
+    "products": [
+        {
+            "amount": 41.24,
+            "description": "synergize integrated content",
+            "index": "5",
+            "quantity": 5.14,
+            "unit_price": 29.99
+        },
+        {
+            "amount": 390.6,
+            "description": "embrace strategic interfaces",
+            "index": "8",
+            "quantity": 3.14,
+            "unit_price": 58.58
+        },
+        {
+            "amount": 339.52,
+            "description": "matrix robust experiences",
+            "index": "4",
+            "quantity": 3.58,
+            "unit_price": 16.14
+        },
+        {
+            "amount": 183.2,
+            "description": "morph viral action-items",
+            "index": "8",
+            "quantity": 7.2,
+            "unit_price": 78.99
+        }
+    ],
+    "seller": {
+        "address": "Unit 3295 Box 1062 DPO AA 03264",
+        "company_name": "Patel, Koch and Richards",
+        "email": "imcguire@example.net"
+    }
+}

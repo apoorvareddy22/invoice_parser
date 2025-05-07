@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "44204 Hobbs Overpass Patricialand, UT 71496",
+        "id": "gM808"
+    },
+    "invoice": {
+        "bc_no": "fm59604",
+        "currency_code": "ANG",
+        "date": "02.09.2008",
+        "due_date": "12.09.2001",
+        "number": 401470
+    },
+    "payment": {
+        "bank_name": "Ayala, Macdonald and Lee",
+        "bic": "XSZMGB35CI4",
+        "iban": "JKHM86658679728476"
+    },
+    "products": [
+        {
+            "amount": 159.32,
+            "description": "redefine killer action-items",
+            "index": "4",
+            "price": 407.77,
+            "quantity": 8.91,
+            "tax_amount": 11.15,
+            "total_ttc": 276.27,
+            "vat_amount": 6.03
+        },
+        {
+            "amount": 348.05,
+            "description": "repurpose bricks-and-clicks users",
+            "index": "1",
+            "price": 398.85,
+            "quantity": 5.61,
+            "tax_amount": 42.14,
+            "total_ttc": 248.18,
+            "vat_amount": 13.53
+        },
+        {
+            "amount": 169.74,
+            "description": "revolutionize world-class bandwidth",
+            "index": "3",
+            "price": 485.76,
+            "quantity": 8.89,
+            "tax_amount": 23.8,
+            "total_ttc": 210.71,
+            "vat_amount": 5.68
+        },
+        {
+            "amount": 176.55,
+            "description": "reinvent sticky info-mediaries",
+            "index": "1",
+            "price": 184.01,
+            "quantity": 6.64,
+            "tax_amount": 84.72,
+            "total_ttc": 263.91,
+            "vat_amount": 0.97
+        },
+        {
+            "amount": 288.12,
+            "description": "redefine efficient schemas",
+            "index": "1",
+            "price": 333.06,
+            "quantity": 2.59,
+            "tax_amount": 49.02,
+            "total_ttc": 144.85,
+            "vat_amount": 0.27
+        },
+        {
+            "amount": 328.46,
+            "description": "transition killer platforms",
+            "index": "5",
+            "price": 213.58,
+            "quantity": 7.05,
+            "tax_amount": 51.5,
+            "total_ttc": 111.11,
+            "vat_amount": 7.21
+        },
+        {
+            "amount": 116.44,
+            "description": "engineer world-class metrics",
+            "index": "5",
+            "price": 496.16,
+            "quantity": 6.21,
+            "tax_amount": 75.9,
+            "total_ttc": 110.38,
+            "vat_amount": 1.47
+        }
+    ],
+    "seller": {
+        "name": "Christopher White"
+    },
+    "supplier": {
+        "address": "3672 Michael Burg Lake Leslie, ID 21230",
+        "name": "Nancy Wallace"
+    },
+    "tax": {
+        "amount_excluding_tax": 99.21,
+        "amount_including_tax": 109.1,
+        "tax_amount": 15.69,
+        "total_ht": 423.87,
+        "total_ttc": 349.26
+    }
+}

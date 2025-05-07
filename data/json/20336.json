@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "25167 Reese River Apt. 084 Mannmouth, AZ 73958",
+        "company_name": "Parsons Inc",
+        "email": "lynchrandy@example.com",
+        "name": "Taylor Murphy",
+        "phone": "463-601-3985"
+    },
+    "invoice": {
+        "date": "22.10.2022",
+        "due_date": "25.04.2020",
+        "number": "LWn45959733885"
+    },
+    "payment": {
+        "account_number": 5736988056,
+        "bank_name": "Bernard and Sons",
+        "routing_number": 321933348
+    },
+    "products": [
+        {
+            "amount": 399.67,
+            "description": "deliver user-centric vortals",
+            "index": "2",
+            "quantity": 7.71,
+            "unit_price": 84.99
+        },
+        {
+            "amount": 167.43,
+            "description": "redefine magnetic action-items",
+            "index": "7",
+            "quantity": 6.91,
+            "unit_price": 18.52
+        },
+        {
+            "amount": 260.99,
+            "description": "mesh best-of-breed experiences",
+            "index": "8",
+            "quantity": 4.96,
+            "unit_price": 97.83
+        },
+        {
+            "amount": 176.84,
+            "description": "enhance 24/365 metrics",
+            "index": "9",
+            "quantity": 5.4,
+            "unit_price": 48.04
+        }
+    ],
+    "seller": {
+        "address": "895 Smith Burgs Apt. 807 New Teresa, RI 07823",
+        "company_name": "Collins LLC",
+        "email": "jamierobertson@example.org"
+    }
+}

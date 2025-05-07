@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "6426 Johnson Mission Apt. 936 Tiffanyton, KY 43249",
+        "business_no": "PI533",
+        "id": "eM120"
+    },
+    "invoice": {
+        "date": "16.01.1990",
+        "number": "6557-2624"
+    },
+    "payment": {
+        "due_date": "01.09.2009",
+        "total": 335.1
+    },
+    "products": [
+        {
+            "amount": 242.99,
+            "description": "evolve wireless infrastructures",
+            "quantity": 3.23,
+            "reference": "yY-516",
+            "unit_price": 32.78
+        },
+        {
+            "amount": 21.9,
+            "description": "expedite dot-com convergence",
+            "quantity": 3.6,
+            "reference": "xw-894",
+            "unit_price": 49.23
+        },
+        {
+            "amount": 88.95,
+            "description": "enable seamless interfaces",
+            "quantity": 8.32,
+            "reference": "zV-798",
+            "unit_price": 99.47
+        },
+        {
+            "amount": 47.47,
+            "description": "generate dot-com platforms",
+            "quantity": 6.05,
+            "reference": "xC-413",
+            "unit_price": 47.0
+        },
+        {
+            "amount": 281.31,
+            "description": "orchestrate robust applications",
+            "quantity": 9.56,
+            "reference": "Dp-138",
+            "unit_price": 53.74
+        }
+    ],
+    "seller": {
+        "address": "3711 Tiffany Forges Courtneystad, MT 92825"
+    },
+    "tax": {
+        "base_ht": 386.52,
+        "regulations": 25.05,
+        "total_ht": 472.49,
+        "vat_amount": 28.57,
+        "vat_percentage": 24.63
+    }
+}

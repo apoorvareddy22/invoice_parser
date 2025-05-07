@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "85924 Baker Drive Suite 210 Lake Jason, ID 11563"
+    },
+    "invoice": {
+        "bc_no": "UP62490",
+        "date": "09.09.2006",
+        "maturity_date": "27.07.1994",
+        "number": 854181
+    },
+    "products": [
+        {
+            "amount": 25.4,
+            "description": "visualize bricks-and-clicks eyeballs",
+            "quantity": 2.99,
+            "unit_price": 79.38,
+            "vat_amount": 7.33
+        },
+        {
+            "amount": 362.99,
+            "description": "enable web-enabled ROI",
+            "quantity": 5.29,
+            "unit_price": 71.81,
+            "vat_amount": 5.64
+        },
+        {
+            "amount": 431.77,
+            "description": "incentivize magnetic systems",
+            "quantity": 5.19,
+            "unit_price": 69.97,
+            "vat_amount": 4.19
+        },
+        {
+            "amount": 334.51,
+            "description": "architect end-to-end e-commerce",
+            "quantity": 5.54,
+            "unit_price": 53.75,
+            "vat_amount": 3.13
+        }
+    ],
+    "seller": {
+        "address": "5142 Alexandra Trail Chadland, PR 11608"
+    },
+    "tax": {
+        "amount_excluding_tax": 100.88,
+        "amount_including_tax": 69.91,
+        "tax_amount": 13.32
+    }
+}

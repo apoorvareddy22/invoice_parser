@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "2199 James Ridge Apt. 343 North Courtneyview, MA 86101",
+        "email": "kathysandoval@example.net",
+        "phone": "5953858106",
+        "vat_no": "vm12137492277"
+    },
+    "invoice": {
+        "date": "08.10.1992",
+        "due_date": "22.12.2000",
+        "market_reference": 260114,
+        "notes": "innovate end-to-end action-items",
+        "number": "2543-3431",
+        "reference": 744058,
+        "vat_no": "QQ90610832248"
+    },
+    "payment": {
+        "net_total": 119.89,
+        "total": 310.13
+    },
+    "products": [
+        {
+            "amount": 88.44,
+            "description": "mesh wireless interfaces",
+            "hours": 8.6,
+            "rate": 8.32
+        },
+        {
+            "amount": 379.13,
+            "description": "drive world-class eyeballs",
+            "hours": 7.13,
+            "rate": 3.03
+        },
+        {
+            "amount": 139.67,
+            "description": "harness world-class e-business",
+            "hours": 1.05,
+            "rate": 8.17
+        },
+        {
+            "amount": 266.27,
+            "description": "re-intermediate B2B vortals",
+            "hours": 4.81,
+            "rate": 8.4
+        },
+        {
+            "amount": 67.88,
+            "description": "target ubiquitous supply-chains",
+            "hours": 2.77,
+            "rate": 3.51
+        }
+    ],
+    "seller": {
+        "address": "2511 Mark Prairie Port Jill, LA 48927",
+        "email": "bowmansonya@example.org",
+        "name": "John Ramirez"
+    },
+    "tax": {
+        "base": 18.26,
+        "tax_amount": 13.64,
+        "total_tax": 18.92
+    }
+}

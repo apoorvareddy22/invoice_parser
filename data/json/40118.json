@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "USNV Marquez FPO AA 68278"
+    },
+    "invoice": {
+        "bc_no": "Tf77346",
+        "date": "11.04.2021",
+        "maturity_date": "22.08.2021",
+        "number": 420466
+    },
+    "products": [
+        {
+            "amount": 97.5,
+            "description": "reinvent global vortals",
+            "quantity": 7.86,
+            "unit_price": 69.94,
+            "vat_amount": 5.99
+        },
+        {
+            "amount": 284.66,
+            "description": "expedite scalable experiences",
+            "quantity": 5.44,
+            "unit_price": 87.14,
+            "vat_amount": 2.79
+        }
+    ],
+    "seller": {
+        "address": "989 Sanders Prairie Kinghaven, MS 93226"
+    },
+    "tax": {
+        "amount_excluding_tax": 118.72,
+        "amount_including_tax": 129.78,
+        "tax_amount": 29.57
+    }
+}

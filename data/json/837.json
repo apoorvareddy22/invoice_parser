@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "187 Michael Drive Suite 165 South Chadberg, OH 67891",
+        "company_name": "Williams, Moreno and Allen",
+        "country": "Argentina",
+        "name": "Douglas Guzman"
+    },
+    "invoice": {
+        "date": "02.05.2006",
+        "number": 350016
+    },
+    "payment": {
+        "discount_amount": 41.3,
+        "discount_percentage": 15.56,
+        "due": 25.88,
+        "sub_total": 141.83,
+        "total": 829.52
+    },
+    "products": [
+        {
+            "description": "facilitate real-time e-services",
+            "index": "3",
+            "quantity": 2.05,
+            "total_price": 520.92,
+            "unit_price": 16.75
+        }
+    ],
+    "seller": {
+        "address": "USNV Carter FPO AA 81363",
+        "company_name": "Morrison, Kirk and Cooper",
+        "vat_no": "sO61039286764"
+    }
+}

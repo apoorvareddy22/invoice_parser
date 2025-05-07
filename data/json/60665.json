@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "41987 Cooper Passage Williamsonstad, GU 82151",
+        "business_no": "Fm917",
+        "id": "KR729"
+    },
+    "invoice": {
+        "date": "02.02.2019",
+        "number": "6192-1993"
+    },
+    "payment": {
+        "due_date": "03.09.2001",
+        "total": 972.78
+    },
+    "products": [
+        {
+            "amount": 341.7,
+            "description": "e-enable bleeding-edge mindshare",
+            "quantity": 4.61,
+            "reference": "Ql-819",
+            "unit_price": 30.86
+        },
+        {
+            "amount": 96.52,
+            "description": "monetize rich content",
+            "quantity": 7.11,
+            "reference": "gE-069",
+            "unit_price": 68.83
+        },
+        {
+            "amount": 444.65,
+            "description": "visualize global e-business",
+            "quantity": 6.19,
+            "reference": "AM-204",
+            "unit_price": 10.65
+        },
+        {
+            "amount": 301.45,
+            "description": "extend cross-platform e-markets",
+            "quantity": 3.47,
+            "reference": "It-466",
+            "unit_price": 90.74
+        }
+    ],
+    "seller": {
+        "address": "402 Gomez Hill Suite 780 Davisburgh, LA 53838"
+    },
+    "tax": {
+        "base_ht": 445.94,
+        "regulations": 20.12,
+        "total_ht": 254.45,
+        "vat_amount": 58.63,
+        "vat_percentage": 18.99
+    }
+}

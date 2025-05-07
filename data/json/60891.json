@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "49350 Gregory Wall Apt. 193 New Ashley, NE 09918",
+        "business_no": "IX453",
+        "id": "Bz082"
+    },
+    "invoice": {
+        "date": "28.01.1992",
+        "number": "7366-1243"
+    },
+    "payment": {
+        "due_date": "02.05.2007",
+        "total": 161.63
+    },
+    "products": [
+        {
+            "amount": 404.48,
+            "description": "optimize collaborative platforms",
+            "quantity": 6.26,
+            "reference": "xq-868",
+            "unit_price": 24.82
+        },
+        {
+            "amount": 64.57,
+            "description": "deploy scalable e-tailers",
+            "quantity": 4.44,
+            "reference": "zX-741",
+            "unit_price": 97.24
+        },
+        {
+            "amount": 469.72,
+            "description": "utilize bricks-and-clicks mindshare",
+            "quantity": 7.78,
+            "reference": "NU-143",
+            "unit_price": 97.82
+        },
+        {
+            "amount": 356.3,
+            "description": "architect rich vortals",
+            "quantity": 1.07,
+            "reference": "Ex-567",
+            "unit_price": 47.74
+        }
+    ],
+    "seller": {
+        "address": "PSC 7202, Box 0966 APO AA 86592"
+    },
+    "tax": {
+        "base_ht": 438.47,
+        "regulations": 24.82,
+        "total_ht": 238.9,
+        "vat_amount": 170.48,
+        "vat_percentage": 29.66
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "Unit 0344 Box 4931 DPO AE 10659",
+        "company_name": "White and Sons",
+        "email": "rnelson@example.org",
+        "name": "Jonathan Schmidt",
+        "phone": "001-871-722-1430"
+    },
+    "invoice": {
+        "date": "22.04.2023",
+        "due_date": "12.11.2019",
+        "number": "Awo68279301835"
+    },
+    "payment": {
+        "account_number": 4359502690,
+        "bank_name": "Williams and Sons",
+        "routing_number": 240939194
+    },
+    "products": [
+        {
+            "amount": 310.96,
+            "description": "re-contextualize intuitive niches",
+            "index": "10",
+            "quantity": 5.32,
+            "unit_price": 36.4
+        },
+        {
+            "amount": 404.22,
+            "description": "redefine extensible e-commerce",
+            "index": "4",
+            "quantity": 8.22,
+            "unit_price": 32.14
+        },
+        {
+            "amount": 71.12,
+            "description": "revolutionize bricks-and-clicks communities",
+            "index": "5",
+            "quantity": 8.85,
+            "unit_price": 52.64
+        },
+        {
+            "amount": 243.32,
+            "description": "innovate web-enabled networks",
+            "index": "10",
+            "quantity": 3.6,
+            "unit_price": 79.85
+        },
+        {
+            "amount": 334.21,
+            "description": "maximize dynamic paradigms",
+            "index": "9",
+            "quantity": 7.21,
+            "unit_price": 61.79
+        }
+    ],
+    "seller": {
+        "address": "Unit 5997 Box 6747 DPO AA 82937",
+        "company_name": "Stevens Ltd",
+        "email": "lambthomas@example.com"
+    }
+}

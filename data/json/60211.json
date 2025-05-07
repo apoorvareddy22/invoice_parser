@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "749 Bobby Point Jameshaven, SD 07049",
+        "business_no": "KF394",
+        "id": "ZP719"
+    },
+    "invoice": {
+        "date": "30.01.2013",
+        "number": "0018-7415"
+    },
+    "payment": {
+        "due_date": "04.11.2018",
+        "total": 863.6
+    },
+    "products": [
+        {
+            "amount": 362.35,
+            "description": "monetize efficient functionalities",
+            "quantity": 7.46,
+            "reference": "Ci-179",
+            "unit_price": 67.96
+        },
+        {
+            "amount": 73.52,
+            "description": "engineer magnetic ROI",
+            "quantity": 5.59,
+            "reference": "dV-502",
+            "unit_price": 48.55
+        },
+        {
+            "amount": 121.34,
+            "description": "iterate web-enabled supply-chains",
+            "quantity": 2.71,
+            "reference": "ba-538",
+            "unit_price": 61.71
+        }
+    ],
+    "seller": {
+        "address": "1986 Sylvia Glens Apt. 703 South Joseph, DE 50994"
+    },
+    "tax": {
+        "base_ht": 100.28,
+        "regulations": 18.14,
+        "total_ht": 434.73,
+        "vat_amount": 107.6,
+        "vat_percentage": 28.83
+    }
+}

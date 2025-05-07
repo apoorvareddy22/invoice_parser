@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "454 Paula Ridge North Patriciaview, ME 38051",
+        "company_name": "Jones, Reynolds and Smith",
+        "country": "Zambia",
+        "name": "Elizabeth Reed"
+    },
+    "invoice": {
+        "date": "08.05.2021",
+        "number": 904755
+    },
+    "payment": {
+        "discount_amount": 27.01,
+        "discount_percentage": 12.85,
+        "due": 75.08,
+        "sub_total": 34.41,
+        "total": 721.04
+    },
+    "products": [
+        {
+            "description": "engage cross-media niches",
+            "index": "10",
+            "quantity": 3.85,
+            "total_price": 128.33,
+            "unit_price": 81.06
+        },
+        {
+            "description": "seize sticky experiences",
+            "index": "2",
+            "quantity": 3.12,
+            "total_price": 667.75,
+            "unit_price": 99.74
+        },
+        {
+            "description": "leverage efficient action-items",
+            "index": "10",
+            "quantity": 2.51,
+            "total_price": 386.17,
+            "unit_price": 75.35
+        }
+    ],
+    "seller": {
+        "address": "7541 Miller Drives Apt. 705 West Edward, AK 82850",
+        "company_name": "Cross Group",
+        "vat_no": "RL04220719924"
+    }
+}

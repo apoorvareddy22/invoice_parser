@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "34262 White Rapids Whitechester, PW 58187",
+        "id": "Rh024"
+    },
+    "invoice": {
+        "bc_no": "xt94152",
+        "currency_code": "PKR",
+        "date": "04.10.2000",
+        "due_date": "18.12.1990",
+        "number": 496891
+    },
+    "payment": {
+        "bank_name": "Smith, Miranda and Davis",
+        "bic": "HGZOGBEMG7Y",
+        "iban": "QJOE82998290324708"
+    },
+    "products": [
+        {
+            "amount": 188.62,
+            "description": "productize end-to-end interfaces",
+            "index": "8",
+            "price": 399.97,
+            "quantity": 9.16,
+            "tax_amount": 43.07,
+            "total_ttc": 481.83,
+            "vat_amount": 1.58
+        },
+        {
+            "amount": 401.55,
+            "description": "repurpose front-end models",
+            "index": "2",
+            "price": 410.41,
+            "quantity": 7.15,
+            "tax_amount": 48.57,
+            "total_ttc": 380.47,
+            "vat_amount": 11.57
+        }
+    ],
+    "seller": {
+        "name": "Joshua Rodriguez"
+    },
+    "supplier": {
+        "address": "700 Sarah Village Apt. 349 Westville, ID 49950",
+        "name": "Amy Schaefer"
+    },
+    "tax": {
+        "amount_excluding_tax": 138.9,
+        "amount_including_tax": 151.74,
+        "tax_amount": 18.8,
+        "total_ht": 142.29,
+        "total_ttc": 235.47
+    }
+}

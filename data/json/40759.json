@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "861 Hunter Bridge Alexamouth, VI 09422"
+    },
+    "invoice": {
+        "bc_no": "Hk34517",
+        "date": "02.06.2005",
+        "maturity_date": "01.03.2004",
+        "number": 302559
+    },
+    "products": [
+        {
+            "amount": 161.06,
+            "description": "strategize real-time e-commerce",
+            "quantity": 7.9,
+            "unit_price": 33.09,
+            "vat_amount": 7.5
+        }
+    ],
+    "seller": {
+        "address": "1337 Wesley Corners East Donald, IN 86210"
+    },
+    "tax": {
+        "amount_excluding_tax": 85.24,
+        "amount_including_tax": 45.83,
+        "tax_amount": 25.98
+    }
+}

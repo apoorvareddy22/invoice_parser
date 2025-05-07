@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "8126 James Trafficway Suite 349 Jordanville, AL 17863",
+        "business_no": "la048",
+        "id": "CH991"
+    },
+    "invoice": {
+        "date": "15.01.2021",
+        "number": "4719-3359"
+    },
+    "payment": {
+        "due_date": "24.12.1999",
+        "total": 506.99
+    },
+    "products": [
+        {
+            "amount": 154.0,
+            "description": "seize cutting-edge e-business",
+            "quantity": 2.85,
+            "reference": "Pi-825",
+            "unit_price": 42.38
+        },
+        {
+            "amount": 73.99,
+            "description": "utilize scalable vortals",
+            "quantity": 3.18,
+            "reference": "Tu-891",
+            "unit_price": 45.48
+        },
+        {
+            "amount": 365.37,
+            "description": "enhance B2B channels",
+            "quantity": 3.01,
+            "reference": "Mq-618",
+            "unit_price": 29.89
+        }
+    ],
+    "seller": {
+        "address": "3422 Ellis Mills Apt. 591 Lake Lucas, KS 47277"
+    },
+    "tax": {
+        "base_ht": 304.51,
+        "regulations": 16.09,
+        "total_ht": 283.91,
+        "vat_amount": 177.57,
+        "vat_percentage": 29.22
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "73427 Adam Cape Suite 660 Lake Linda, OK 47924",
+        "id": "FU820"
+    },
+    "invoice": {
+        "bc_no": "mQ05264",
+        "currency_code": "NPR",
+        "date": "27.01.1991",
+        "due_date": "21.04.2018",
+        "number": 428792
+    },
+    "payment": {
+        "bank_name": "Kaiser LLC",
+        "bic": "CATVGB5WKP0",
+        "iban": "BMFV64129916711404"
+    },
+    "products": [
+        {
+            "amount": 200.31,
+            "description": "seize visionary networks",
+            "index": "2",
+            "price": 176.46,
+            "quantity": 5.92,
+            "tax_amount": 82.7,
+            "total_ttc": 170.05,
+            "vat_amount": 1.64
+        },
+        {
+            "amount": 175.03,
+            "description": "orchestrate cutting-edge applications",
+            "index": "1",
+            "price": 123.5,
+            "quantity": 1.73,
+            "tax_amount": 73.17,
+            "total_ttc": 436.42,
+            "vat_amount": 1.59
+        },
+        {
+            "amount": 435.88,
+            "description": "implement clicks-and-mortar deliverables",
+            "index": "7",
+            "price": 299.29,
+            "quantity": 1.64,
+            "tax_amount": 77.27,
+            "total_ttc": 327.33,
+            "vat_amount": 3.94
+        }
+    ],
+    "seller": {
+        "name": "Shirley Olson"
+    },
+    "supplier": {
+        "address": "223 Christian Branch Nobleview, GA 04685",
+        "name": "Amber Bass"
+    },
+    "tax": {
+        "amount_excluding_tax": 89.2,
+        "amount_including_tax": 35.0,
+        "tax_amount": 15.37,
+        "total_ht": 197.6,
+        "total_ttc": 423.92
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "55553 Sierra Lake Suite 986 Jonesbury, OK 23042",
+        "id": "As527"
+    },
+    "invoice": {
+        "bc_no": "qJ92924",
+        "currency_code": "VND",
+        "date": "04.12.1999",
+        "due_date": "10.06.1998",
+        "number": 792776
+    },
+    "payment": {
+        "bank_name": "Guzman Group",
+        "bic": "XSGPGBDU",
+        "iban": "YBSI40917351667041"
+    },
+    "products": [
+        {
+            "amount": 261.77,
+            "description": "morph world-class systems",
+            "index": "5",
+            "price": 429.51,
+            "quantity": 9.97,
+            "tax_amount": 71.97,
+            "total_ttc": 131.94,
+            "vat_amount": 12.34
+        }
+    ],
+    "seller": {
+        "name": "Brent Livingston"
+    },
+    "supplier": {
+        "address": "03128 Marcus Locks Apt. 693 Port Linda, VT 66217",
+        "name": "Sherri Grant"
+    },
+    "tax": {
+        "amount_excluding_tax": 81.56,
+        "amount_including_tax": 67.88,
+        "tax_amount": 26.73,
+        "total_ht": 268.24,
+        "total_ttc": 473.18
+    }
+}

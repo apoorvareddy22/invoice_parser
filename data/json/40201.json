@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "32370 Christopher Parkways Apt. 933 North Lisatown, PA 30758"
+    },
+    "invoice": {
+        "bc_no": "LR61703",
+        "date": "23.09.2013",
+        "maturity_date": "07.10.1994",
+        "number": 323522
+    },
+    "products": [
+        {
+            "amount": 120.14,
+            "description": "envisioneer visionary web services",
+            "quantity": 3.82,
+            "unit_price": 10.38,
+            "vat_amount": 11.34
+        },
+        {
+            "amount": 63.23,
+            "description": "grow one-to-one architectures",
+            "quantity": 3.95,
+            "unit_price": 85.84,
+            "vat_amount": 2.39
+        },
+        {
+            "amount": 493.15,
+            "description": "mesh collaborative architectures",
+            "quantity": 7.44,
+            "unit_price": 40.65,
+            "vat_amount": 3.12
+        },
+        {
+            "amount": 293.95,
+            "description": "engage customized initiatives",
+            "quantity": 1.13,
+            "unit_price": 70.04,
+            "vat_amount": 1.91
+        },
+        {
+            "amount": 328.74,
+            "description": "maximize leading-edge networks",
+            "quantity": 1.8,
+            "unit_price": 94.69,
+            "vat_amount": 9.4
+        },
+        {
+            "amount": 337.76,
+            "description": "synthesize virtual technologies",
+            "quantity": 2.61,
+            "unit_price": 18.76,
+            "vat_amount": 8.4
+        }
+    ],
+    "seller": {
+        "address": "0925 Martinez River Lake Luis, RI 30087"
+    },
+    "tax": {
+        "amount_excluding_tax": 182.98,
+        "amount_including_tax": 162.23,
+        "tax_amount": 18.37
+    }
+}

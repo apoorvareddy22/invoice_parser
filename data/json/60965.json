@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "535 Nicole Glen Apt. 180 Zimmermanport, DC 46053",
+        "business_no": "hp433",
+        "id": "FQ956"
+    },
+    "invoice": {
+        "date": "23.02.1995",
+        "number": "7463-1769"
+    },
+    "payment": {
+        "due_date": "10.12.2010",
+        "total": 382.04
+    },
+    "products": [
+        {
+            "amount": 186.05,
+            "description": "extend virtual networks",
+            "quantity": 2.65,
+            "reference": "am-928",
+            "unit_price": 18.18
+        },
+        {
+            "amount": 430.32,
+            "description": "architect bleeding-edge architectures",
+            "quantity": 9.53,
+            "reference": "gX-865",
+            "unit_price": 97.35
+        }
+    ],
+    "seller": {
+        "address": "PSC 4254, Box 3824 APO AP 61641"
+    },
+    "tax": {
+        "base_ht": 352.73,
+        "regulations": 18.17,
+        "total_ht": 287.89,
+        "vat_amount": 137.27,
+        "vat_percentage": 16.11
+    }
+}

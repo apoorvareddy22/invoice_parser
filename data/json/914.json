@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "PSC 2161, Box 5341 APO AP 83172",
+        "company_name": "Harrison, Garcia and Chambers",
+        "country": "Equatorial Guinea",
+        "name": "Sara Miller"
+    },
+    "invoice": {
+        "date": "06.06.2020",
+        "number": 155387
+    },
+    "payment": {
+        "discount_amount": 14.4,
+        "discount_percentage": 16.72,
+        "due": 164.58,
+        "sub_total": 42.1,
+        "total": 779.9
+    },
+    "products": [
+        {
+            "description": "e-enable dynamic methodologies",
+            "index": "3",
+            "quantity": 7.45,
+            "total_price": 579.29,
+            "unit_price": 35.16
+        },
+        {
+            "description": "productize magnetic e-commerce",
+            "index": "8",
+            "quantity": 7.1,
+            "total_price": 735.6,
+            "unit_price": 62.25
+        },
+        {
+            "description": "harness virtual metrics",
+            "index": "10",
+            "quantity": 3.43,
+            "total_price": 638.15,
+            "unit_price": 50.71
+        },
+        {
+            "description": "exploit strategic users",
+            "index": "5",
+            "quantity": 9.55,
+            "total_price": 586.63,
+            "unit_price": 67.56
+        }
+    ],
+    "seller": {
+        "address": "300 Ford Wall Ryanton, CT 56850",
+        "company_name": "Logan-Gray",
+        "vat_no": "gA29195158332"
+    }
+}

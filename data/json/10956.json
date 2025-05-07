@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "504 Garcia Landing West Curtis, OH 81548",
+        "email": "taylorkristina@example.net",
+        "phone": "001-900-537-7352",
+        "vat_no": "Kh98762432702"
+    },
+    "invoice": {
+        "date": "31.03.2000",
+        "due_date": "24.02.2005",
+        "market_reference": 797125,
+        "notes": "transition dot-com supply-chains",
+        "number": "8157-2007",
+        "reference": 336306,
+        "vat_no": "Ui56390166751"
+    },
+    "payment": {
+        "net_total": 141.35,
+        "total": 896.0
+    },
+    "products": [
+        {
+            "amount": 85.47,
+            "description": "repurpose viral action-items",
+            "hours": 7.73,
+            "rate": 4.38
+        },
+        {
+            "amount": 48.13,
+            "description": "incubate mission-critical infrastructures",
+            "hours": 7.5,
+            "rate": 6.97
+        },
+        {
+            "amount": 491.87,
+            "description": "reinvent mission-critical experiences",
+            "hours": 6.99,
+            "rate": 3.13
+        }
+    ],
+    "seller": {
+        "address": "Unit 4638 Box 8405 DPO AE 09171",
+        "email": "olee@example.org",
+        "name": "Michelle Bullock"
+    },
+    "tax": {
+        "base": 26.4,
+        "tax_amount": 18.9,
+        "total_tax": 26.48
+    }
+}

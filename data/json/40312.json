@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "PSC 1339, Box 1528 APO AE 85086"
+    },
+    "invoice": {
+        "bc_no": "jT26407",
+        "date": "20.04.2013",
+        "maturity_date": "03.05.2019",
+        "number": 845525
+    },
+    "products": [
+        {
+            "amount": 150.47,
+            "description": "unleash cross-platform systems",
+            "quantity": 6.07,
+            "unit_price": 69.59,
+            "vat_amount": 0.78
+        },
+        {
+            "amount": 87.76,
+            "description": "transition ubiquitous solutions",
+            "quantity": 5.59,
+            "unit_price": 19.44,
+            "vat_amount": 6.16
+        },
+        {
+            "amount": 227.52,
+            "description": "mesh B2B schemas",
+            "quantity": 5.75,
+            "unit_price": 76.71,
+            "vat_amount": 8.67
+        },
+        {
+            "amount": 341.96,
+            "description": "synergize one-to-one paradigms",
+            "quantity": 9.78,
+            "unit_price": 32.21,
+            "vat_amount": 7.56
+        }
+    ],
+    "seller": {
+        "address": "Unit 4948 Box 5473 DPO AA 39140"
+    },
+    "tax": {
+        "amount_excluding_tax": 142.64,
+        "amount_including_tax": 142.36,
+        "tax_amount": 18.18
+    }
+}

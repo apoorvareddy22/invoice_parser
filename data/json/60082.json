@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "746 Melissa Route East Johnnyhaven, OH 05645",
+        "business_no": "yj961",
+        "id": "UG110"
+    },
+    "invoice": {
+        "date": "26.12.2002",
+        "number": "9442-4307"
+    },
+    "payment": {
+        "due_date": "16.12.2023",
+        "total": 213.28
+    },
+    "products": [
+        {
+            "amount": 405.11,
+            "description": "empower end-to-end functionalities",
+            "quantity": 4.56,
+            "reference": "nI-634",
+            "unit_price": 33.01
+        },
+        {
+            "amount": 121.22,
+            "description": "morph innovative architectures",
+            "quantity": 8.09,
+            "reference": "fz-078",
+            "unit_price": 42.54
+        }
+    ],
+    "seller": {
+        "address": "87093 Ray Roads Apt. 518 Obrienmouth, NV 07016"
+    },
+    "tax": {
+        "base_ht": 457.5,
+        "regulations": 29.19,
+        "total_ht": 316.81,
+        "vat_amount": 134.17,
+        "vat_percentage": 12.18
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "762 Paul Ports Kennethland, GA 27567",
+        "business_no": "nt486",
+        "id": "oP362"
+    },
+    "invoice": {
+        "date": "16.02.1999",
+        "number": "2802-4295"
+    },
+    "payment": {
+        "due_date": "31.03.2001",
+        "total": 169.52
+    },
+    "products": [
+        {
+            "amount": 148.07,
+            "description": "unleash ubiquitous paradigms",
+            "quantity": 3.43,
+            "reference": "JN-322",
+            "unit_price": 79.55
+        },
+        {
+            "amount": 483.78,
+            "description": "reinvent next-generation eyeballs",
+            "quantity": 4.3,
+            "reference": "Dg-115",
+            "unit_price": 28.66
+        },
+        {
+            "amount": 290.06,
+            "description": "grow bricks-and-clicks applications",
+            "quantity": 4.89,
+            "reference": "KR-774",
+            "unit_price": 79.09
+        },
+        {
+            "amount": 387.37,
+            "description": "productize revolutionary paradigms",
+            "quantity": 3.26,
+            "reference": "pL-772",
+            "unit_price": 28.19
+        }
+    ],
+    "seller": {
+        "address": "63936 Ortega Plain Apt. 751 East Stacey, PR 30829"
+    },
+    "tax": {
+        "base_ht": 182.81,
+        "regulations": 16.86,
+        "total_ht": 144.14,
+        "vat_amount": 78.46,
+        "vat_percentage": 25.19
+    }
+}

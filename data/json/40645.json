@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "415 Timothy Rue Alexanderberg, IL 87068"
+    },
+    "invoice": {
+        "bc_no": "hD28032",
+        "date": "19.05.2000",
+        "maturity_date": "30.08.1994",
+        "number": 905969
+    },
+    "products": [
+        {
+            "amount": 447.55,
+            "description": "architect back-end synergies",
+            "quantity": 2.12,
+            "unit_price": 33.29,
+            "vat_amount": 3.66
+        },
+        {
+            "amount": 118.23,
+            "description": "enhance intuitive partnerships",
+            "quantity": 9.07,
+            "unit_price": 82.77,
+            "vat_amount": 2.1
+        }
+    ],
+    "seller": {
+        "address": "7330 Stevens Lake Jamesfort, NY 12647"
+    },
+    "tax": {
+        "amount_excluding_tax": 148.81,
+        "amount_including_tax": 11.79,
+        "tax_amount": 13.49
+    }
+}

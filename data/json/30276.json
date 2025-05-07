@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "824 Heather Field Suite 239 North Justin, PW 28727",
+        "company_name": "Chang and Sons",
+        "country": "Pakistan",
+        "email": "dean59@example.com",
+        "name": "Richard Wise",
+        "phone": "+1-411-717-0236x96640",
+        "vat_no": "Vs31729235264"
+    },
+    "invoice": {
+        "date": "07.12.2004",
+        "due_date": "01.09.2015",
+        "linked_invoice": "UI-8293-4243",
+        "notes": "e-enable back-end systems",
+        "number": "iX-2950-4889"
+    },
+    "products": [
+        {
+            "description": "facilitate web-enabled experiences",
+            "discount_percentage": 7.46,
+            "price": 357.81,
+            "quantity": 8.5,
+            "unit_price": 62.89
+        }
+    ],
+    "seller": {
+        "address": "043 Sherri Lock Suite 820 Rojasville, IA 46062",
+        "ape": "3465b",
+        "capital": 96519617,
+        "country": "Belarus",
+        "email": "hayleymccarty@example.org",
+        "name": "Laura Kane",
+        "phone_1": "001-306-428-6504",
+        "phone_2": "001-822-595-5284x78013",
+        "phone_3": "4245188580",
+        "ref_walk": "AsvX2792",
+        "reference": "Yp395",
+        "siret": 52714533793600,
+        "vat_no": "ta45658422577",
+        "website": "https://www.barnes.com/"
+    },
+    "tax": {
+        "amount_0": 19.68,
+        "amount_1": 15.64,
+        "base_0": 14.26,
+        "base_1": 162.18,
+        "total_ht": 385.33,
+        "total_tax": 11.35,
+        "total_ttc": 113.63,
+        "vat_0": 11.06,
+        "vat_1": 28.64
+    }
+}

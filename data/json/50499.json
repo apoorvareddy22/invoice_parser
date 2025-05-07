@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "5209 Jones Common Suite 480 Huffmanport, NJ 12116",
+        "id": "HQ165"
+    },
+    "invoice": {
+        "bc_no": "fI43291",
+        "currency_code": "TVD",
+        "date": "04.08.2004",
+        "due_date": "19.10.1990",
+        "number": 230184
+    },
+    "payment": {
+        "bank_name": "Harris-Flynn",
+        "bic": "NZCUGBO6",
+        "iban": "EWYU37180971594890"
+    },
+    "products": [
+        {
+            "amount": 416.64,
+            "description": "scale transparent ROI",
+            "index": "6",
+            "price": 171.1,
+            "quantity": 3.45,
+            "tax_amount": 50.46,
+            "total_ttc": 386.55,
+            "vat_amount": 2.94
+        },
+        {
+            "amount": 190.24,
+            "description": "synergize 24/7 portals",
+            "index": "2",
+            "price": 398.35,
+            "quantity": 2.58,
+            "tax_amount": 90.6,
+            "total_ttc": 475.13,
+            "vat_amount": 2.84
+        },
+        {
+            "amount": 319.05,
+            "description": "embrace magnetic eyeballs",
+            "index": "1",
+            "price": 489.17,
+            "quantity": 2.19,
+            "tax_amount": 22.9,
+            "total_ttc": 296.83,
+            "vat_amount": 13.32
+        }
+    ],
+    "seller": {
+        "name": "Joseph Lee"
+    },
+    "supplier": {
+        "address": "99269 Reynolds Glen Merrittton, MI 63386",
+        "name": "James Martin"
+    },
+    "tax": {
+        "amount_excluding_tax": 157.08,
+        "amount_including_tax": 54.28,
+        "tax_amount": 28.1,
+        "total_ht": 202.09,
+        "total_ttc": 450.06
+    }
+}

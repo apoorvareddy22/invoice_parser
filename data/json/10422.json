@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "7492 Contreras Track Suite 912 Wilsonport, WA 61537",
+        "email": "weaverallison@example.com",
+        "phone": "963-781-3841x0412",
+        "vat_no": "Qv07347634076"
+    },
+    "invoice": {
+        "date": "23.11.2013",
+        "due_date": "15.05.2016",
+        "market_reference": 109332,
+        "notes": "expedite leading-edge web services",
+        "number": "4101-8190",
+        "reference": 782493,
+        "vat_no": "NS04735040589"
+    },
+    "payment": {
+        "net_total": 55.13,
+        "total": 739.01
+    },
+    "products": [
+        {
+            "amount": 450.68,
+            "description": "brand transparent e-business",
+            "hours": 3.65,
+            "rate": 1.04
+        },
+        {
+            "amount": 168.39,
+            "description": "engage holistic markets",
+            "hours": 9.16,
+            "rate": 9.77
+        }
+    ],
+    "seller": {
+        "address": "14717 Gentry Haven Andrewchester, DE 74494",
+        "email": "vanessaharrison@example.org",
+        "name": "Mary Valdez"
+    },
+    "tax": {
+        "base": 10.55,
+        "tax_amount": 16.03,
+        "total_tax": 28.94
+    }
+}

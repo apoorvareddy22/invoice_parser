@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "Unit 8159 Box 6702 DPO AE 35741",
+        "company_name": "Daniels, Gallegos and Williams",
+        "country": "Antigua and Barbuda",
+        "name": "Jessica Sanchez"
+    },
+    "invoice": {
+        "date": "25.03.2021",
+        "number": 301123
+    },
+    "payment": {
+        "discount_amount": 16.98,
+        "discount_percentage": 10.57,
+        "due": 51.07,
+        "sub_total": 109.15,
+        "total": 188.19
+    },
+    "products": [
+        {
+            "description": "monetize cross-media vortals",
+            "index": "5",
+            "quantity": 1.75,
+            "total_price": 194.71,
+            "unit_price": 97.57
+        },
+        {
+            "description": "scale dot-com models",
+            "index": "4",
+            "quantity": 8.21,
+            "total_price": 376.8,
+            "unit_price": 35.73
+        },
+        {
+            "description": "reinvent frictionless ROI",
+            "index": "6",
+            "quantity": 4.77,
+            "total_price": 490.87,
+            "unit_price": 64.8
+        }
+    ],
+    "seller": {
+        "address": "58686 Becky Corners New Lindaburgh, UT 69062",
+        "company_name": "Duncan, Duncan and Scott",
+        "vat_no": "SU64141419690"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "97762 Parker Fall Lake Sheilaport, SD 42464",
+        "id": "XR493"
+    },
+    "invoice": {
+        "bc_no": "Ih81193",
+        "currency_code": "ZWD",
+        "date": "28.05.2004",
+        "due_date": "30.10.2007",
+        "number": 227145
+    },
+    "payment": {
+        "bank_name": "Dougherty PLC",
+        "bic": "NYTFGBHM",
+        "iban": "EFDG96843318502994"
+    },
+    "products": [
+        {
+            "amount": 424.15,
+            "description": "seize 24/365 web-readiness",
+            "index": "3",
+            "price": 204.9,
+            "quantity": 8.62,
+            "tax_amount": 31.69,
+            "total_ttc": 256.02,
+            "vat_amount": 3.09
+        },
+        {
+            "amount": 17.01,
+            "description": "optimize holistic infrastructures",
+            "index": "5",
+            "price": 232.27,
+            "quantity": 7.64,
+            "tax_amount": 55.97,
+            "total_ttc": 472.68,
+            "vat_amount": 4.35
+        },
+        {
+            "amount": 186.19,
+            "description": "streamline robust mindshare",
+            "index": "7",
+            "price": 347.91,
+            "quantity": 6.89,
+            "tax_amount": 76.71,
+            "total_ttc": 100.1,
+            "vat_amount": 2.06
+        },
+        {
+            "amount": 399.27,
+            "description": "extend one-to-one metrics",
+            "index": "5",
+            "price": 483.82,
+            "quantity": 1.03,
+            "tax_amount": 80.1,
+            "total_ttc": 206.93,
+            "vat_amount": 2.23
+        }
+    ],
+    "seller": {
+        "name": "John Campbell"
+    },
+    "supplier": {
+        "address": "6400 Taylor Springs Patriciaborough, CO 01209",
+        "name": "Heather Walters"
+    },
+    "tax": {
+        "amount_excluding_tax": 93.49,
+        "amount_including_tax": 185.04,
+        "tax_amount": 27.85,
+        "total_ht": 433.37,
+        "total_ttc": 373.59
+    }
+}

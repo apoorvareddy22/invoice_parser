@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "8322 Hartman Shores Mendozabury, WA 49955",
+        "email": "brandon29@example.org",
+        "phone": "(345)653-1189x654",
+        "vat_no": "Tv78528927238"
+    },
+    "invoice": {
+        "date": "09.01.2009",
+        "due_date": "02.11.2019",
+        "market_reference": 984572,
+        "notes": "utilize 24/365 schemas",
+        "number": "7140-5433",
+        "reference": 663893,
+        "vat_no": "bl91159177685"
+    },
+    "payment": {
+        "net_total": 96.12,
+        "total": 192.45
+    },
+    "products": [
+        {
+            "amount": 140.89,
+            "description": "productize leading-edge models",
+            "hours": 4.17,
+            "rate": 5.63
+        },
+        {
+            "amount": 27.06,
+            "description": "harness B2C e-business",
+            "hours": 5.18,
+            "rate": 6.71
+        }
+    ],
+    "seller": {
+        "address": "5251 Catherine Road Lake Timothytown, GU 59305",
+        "email": "melissa14@example.org",
+        "name": "Vincent Duran"
+    },
+    "tax": {
+        "base": 15.95,
+        "tax_amount": 16.48,
+        "total_tax": 14.93
+    }
+}

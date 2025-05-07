@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "979 White Rue Port Kristopher, TX 73923"
+    },
+    "invoice": {
+        "bc_no": "np76476",
+        "date": "07.01.1991",
+        "maturity_date": "29.12.2007",
+        "number": 469110
+    },
+    "products": [
+        {
+            "amount": 467.6,
+            "description": "re-intermediate B2C solutions",
+            "quantity": 6.87,
+            "unit_price": 54.82,
+            "vat_amount": 5.27
+        },
+        {
+            "amount": 183.3,
+            "description": "re-intermediate wireless platforms",
+            "quantity": 7.31,
+            "unit_price": 88.95,
+            "vat_amount": 6.67
+        },
+        {
+            "amount": 480.61,
+            "description": "deploy value-added e-business",
+            "quantity": 6.54,
+            "unit_price": 64.5,
+            "vat_amount": 4.2
+        },
+        {
+            "amount": 181.93,
+            "description": "strategize ubiquitous portals",
+            "quantity": 6.37,
+            "unit_price": 71.14,
+            "vat_amount": 5.84
+        }
+    ],
+    "seller": {
+        "address": "3166 Perez Isle Apt. 211 Leeview, PR 79090"
+    },
+    "tax": {
+        "amount_excluding_tax": 33.94,
+        "amount_including_tax": 56.96,
+        "tax_amount": 12.8
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "0208 Lopez Streets Apt. 985 West Connie, ID 80003",
+        "company_name": "Thompson, Salazar and Gutierrez",
+        "email": "sandra50@example.net",
+        "name": "Derrick Jones",
+        "phone": "001-419-236-9560x9980"
+    },
+    "invoice": {
+        "date": "13.05.2012",
+        "due_date": "07.10.2023",
+        "number": "DIA20563612746"
+    },
+    "payment": {
+        "account_number": 9896581291,
+        "bank_name": "Cooper-Pierce",
+        "routing_number": 411402390
+    },
+    "products": [
+        {
+            "amount": 124.99,
+            "description": "re-contextualize revolutionary partnerships",
+            "index": "6",
+            "quantity": 4.19,
+            "unit_price": 70.3
+        },
+        {
+            "amount": 438.04,
+            "description": "streamline B2C web services",
+            "index": "6",
+            "quantity": 9.73,
+            "unit_price": 69.58
+        },
+        {
+            "amount": 14.27,
+            "description": "exploit vertical platforms",
+            "index": "8",
+            "quantity": 3.37,
+            "unit_price": 56.73
+        },
+        {
+            "amount": 470.22,
+            "description": "target cross-platform interfaces",
+            "index": "9",
+            "quantity": 9.6,
+            "unit_price": 52.94
+        },
+        {
+            "amount": 289.99,
+            "description": "synergize leading-edge e-tailers",
+            "index": "2",
+            "quantity": 1.75,
+            "unit_price": 76.54
+        },
+        {
+            "amount": 139.01,
+            "description": "revolutionize cross-media relationships",
+            "index": "7",
+            "quantity": 6.97,
+            "unit_price": 82.07
+        }
+    ],
+    "seller": {
+        "address": "521 David Stravenue Port Luis, WI 69110",
+        "company_name": "Thompson Group",
+        "email": "sholloway@example.net"
+    }
+}

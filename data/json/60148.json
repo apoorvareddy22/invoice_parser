@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "2755 Allen Court Suite 860 Theresafort, SD 99581",
+        "business_no": "Ri818",
+        "id": "ma402"
+    },
+    "invoice": {
+        "date": "30.12.2015",
+        "number": "8491-2344"
+    },
+    "payment": {
+        "due_date": "19.02.1991",
+        "total": 640.55
+    },
+    "products": [
+        {
+            "amount": 326.28,
+            "description": "empower front-end experiences",
+            "quantity": 8.91,
+            "reference": "PT-671",
+            "unit_price": 98.38
+        },
+        {
+            "amount": 409.27,
+            "description": "maximize sticky schemas",
+            "quantity": 9.81,
+            "reference": "bM-396",
+            "unit_price": 92.31
+        },
+        {
+            "amount": 46.55,
+            "description": "visualize virtual portals",
+            "quantity": 6.86,
+            "reference": "cG-135",
+            "unit_price": 18.69
+        }
+    ],
+    "seller": {
+        "address": "9084 Matthew Curve South Jose, PW 36811"
+    },
+    "tax": {
+        "base_ht": 374.39,
+        "regulations": 25.63,
+        "total_ht": 301.4,
+        "vat_amount": 115.63,
+        "vat_percentage": 21.57
+    }
+}

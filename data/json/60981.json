@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "USNS Houston FPO AE 25184",
+        "business_no": "Mq516",
+        "id": "Ne278"
+    },
+    "invoice": {
+        "date": "09.10.2020",
+        "number": "6763-5481"
+    },
+    "payment": {
+        "due_date": "16.07.2005",
+        "total": 391.14
+    },
+    "products": [
+        {
+            "amount": 205.24,
+            "description": "extend transparent vortals",
+            "quantity": 6.21,
+            "reference": "eX-534",
+            "unit_price": 77.7
+        },
+        {
+            "amount": 298.56,
+            "description": "revolutionize plug-and-play networks",
+            "quantity": 6.63,
+            "reference": "JX-914",
+            "unit_price": 42.13
+        }
+    ],
+    "seller": {
+        "address": "3365 Williams Fields Lake James, IA 20734"
+    },
+    "tax": {
+        "base_ht": 250.79,
+        "regulations": 25.98,
+        "total_ht": 486.73,
+        "vat_amount": 125.95,
+        "vat_percentage": 26.02
+    }
+}

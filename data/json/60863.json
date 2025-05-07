@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "29917 Oneal Crossroad Apt. 811 Adamshire, AK 84402",
+        "business_no": "xc780",
+        "id": "MY290"
+    },
+    "invoice": {
+        "date": "02.01.2003",
+        "number": "3216-1775"
+    },
+    "payment": {
+        "due_date": "09.11.2007",
+        "total": 512.16
+    },
+    "products": [
+        {
+            "amount": 191.21,
+            "description": "seize real-time e-commerce",
+            "quantity": 8.37,
+            "reference": "Sy-719",
+            "unit_price": 68.23
+        },
+        {
+            "amount": 112.47,
+            "description": "grow granular functionalities",
+            "quantity": 6.43,
+            "reference": "Wu-939",
+            "unit_price": 29.05
+        },
+        {
+            "amount": 198.01,
+            "description": "deploy real-time networks",
+            "quantity": 2.96,
+            "reference": "ot-864",
+            "unit_price": 22.82
+        },
+        {
+            "amount": 17.1,
+            "description": "utilize frictionless networks",
+            "quantity": 7.02,
+            "reference": "OC-027",
+            "unit_price": 46.67
+        }
+    ],
+    "seller": {
+        "address": "00548 Lee Via Davidmouth, GU 09341"
+    },
+    "tax": {
+        "base_ht": 190.24,
+        "regulations": 29.09,
+        "total_ht": 440.7,
+        "vat_amount": 116.73,
+        "vat_percentage": 11.09
+    }
+}

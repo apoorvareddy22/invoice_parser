@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "USNV Martin FPO AA 08018",
+        "company_name": "Jones Inc",
+        "email": "saramitchell@example.com",
+        "name": "Dustin Mclean",
+        "phone": "+1-499-823-4745x490"
+    },
+    "invoice": {
+        "date": "08.11.1993",
+        "due_date": "25.06.2010",
+        "number": "JnI33348005076"
+    },
+    "payment": {
+        "account_number": 6635942100,
+        "bank_name": "Brown PLC",
+        "routing_number": 477609244
+    },
+    "products": [
+        {
+            "amount": 376.88,
+            "description": "re-contextualize transparent methodologies",
+            "index": "1",
+            "quantity": 1.51,
+            "unit_price": 58.27
+        },
+        {
+            "amount": 21.5,
+            "description": "facilitate 24/365 web services",
+            "index": "1",
+            "quantity": 3.03,
+            "unit_price": 55.42
+        }
+    ],
+    "seller": {
+        "address": "PSC 6424, Box 6389 APO AP 29420",
+        "company_name": "Winters-Oconnell",
+        "email": "lori68@example.org"
+    }
+}

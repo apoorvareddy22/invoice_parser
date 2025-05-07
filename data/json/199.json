@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "8862 James Mission South Williammouth, PA 95591",
+        "company_name": "Miller, Ramirez and Harris",
+        "country": "Guadeloupe",
+        "name": "Stacy Weber"
+    },
+    "invoice": {
+        "date": "12.01.2022",
+        "number": 249972
+    },
+    "payment": {
+        "discount_amount": 47.02,
+        "discount_percentage": 11.86,
+        "due": 93.25,
+        "sub_total": 73.32,
+        "total": 826.11
+    },
+    "products": [
+        {
+            "description": "extend dynamic e-tailers",
+            "index": "9",
+            "quantity": 6.3,
+            "total_price": 154.38,
+            "unit_price": 91.5
+        },
+        {
+            "description": "innovate value-added e-markets",
+            "index": "1",
+            "quantity": 2.98,
+            "total_price": 97.07,
+            "unit_price": 36.99
+        },
+        {
+            "description": "leverage e-business niches",
+            "index": "9",
+            "quantity": 7.11,
+            "total_price": 627.96,
+            "unit_price": 26.13
+        },
+        {
+            "description": "harness virtual communities",
+            "index": "4",
+            "quantity": 7.22,
+            "total_price": 616.8,
+            "unit_price": 71.99
+        }
+    ],
+    "seller": {
+        "address": "093 Rush Burgs South Laura, WV 53962",
+        "company_name": "Oconnor and Sons",
+        "vat_no": "ho65268651235"
+    }
+}

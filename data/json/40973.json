@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "354 Stacey Drive South Stephanie, MS 45857"
+    },
+    "invoice": {
+        "bc_no": "eR94251",
+        "date": "09.12.2012",
+        "maturity_date": "10.10.2014",
+        "number": 915448
+    },
+    "products": [
+        {
+            "amount": 68.82,
+            "description": "unleash cutting-edge vortals",
+            "quantity": 4.66,
+            "unit_price": 68.9,
+            "vat_amount": 1.83
+        },
+        {
+            "amount": 103.36,
+            "description": "unleash sticky systems",
+            "quantity": 6.93,
+            "unit_price": 35.46,
+            "vat_amount": 15.38
+        }
+    ],
+    "seller": {
+        "address": "097 Walton Roads Apt. 283 Alvaradoshire, TN 98290"
+    },
+    "tax": {
+        "amount_excluding_tax": 191.8,
+        "amount_including_tax": 114.07,
+        "tax_amount": 23.6
+    }
+}

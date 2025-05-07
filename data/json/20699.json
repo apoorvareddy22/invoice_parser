@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "25482 Scott Well Apt. 945 Lake Amyside, VI 91773",
+        "company_name": "Campbell Group",
+        "email": "reynoldschristina@example.org",
+        "name": "Jordan Duarte",
+        "phone": "001-909-546-3389x786"
+    },
+    "invoice": {
+        "date": "29.10.2016",
+        "due_date": "28.11.2015",
+        "number": "mAN63255028353"
+    },
+    "payment": {
+        "account_number": 9675827502,
+        "bank_name": "Miller LLC",
+        "routing_number": 111405302
+    },
+    "products": [
+        {
+            "amount": 105.73,
+            "description": "re-contextualize B2C portals",
+            "index": "7",
+            "quantity": 5.77,
+            "unit_price": 28.58
+        },
+        {
+            "amount": 247.77,
+            "description": "grow global architectures",
+            "index": "10",
+            "quantity": 4.18,
+            "unit_price": 70.44
+        },
+        {
+            "amount": 336.53,
+            "description": "innovate seamless info-mediaries",
+            "index": "4",
+            "quantity": 8.89,
+            "unit_price": 27.55
+        },
+        {
+            "amount": 260.39,
+            "description": "benchmark open-source infrastructures",
+            "index": "1",
+            "quantity": 4.67,
+            "unit_price": 85.21
+        },
+        {
+            "amount": 168.49,
+            "description": "facilitate impactful supply-chains",
+            "index": "9",
+            "quantity": 9.09,
+            "unit_price": 58.61
+        },
+        {
+            "amount": 246.92,
+            "description": "re-intermediate front-end experiences",
+            "index": "9",
+            "quantity": 5.36,
+            "unit_price": 83.79
+        },
+        {
+            "amount": 306.59,
+            "description": "transform impactful communities",
+            "index": "1",
+            "quantity": 1.29,
+            "unit_price": 21.69
+        }
+    ],
+    "seller": {
+        "address": "PSC 3920, Box 2006 APO AP 97693",
+        "company_name": "Meyer-Golden",
+        "email": "smorton@example.org"
+    }
+}

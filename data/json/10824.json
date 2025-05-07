@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "4973 Austin Pass Elizabethstad, AZ 64511",
+        "email": "williamsshawn@example.org",
+        "phone": "917-773-3115x411",
+        "vat_no": "mN97284919124"
+    },
+    "invoice": {
+        "date": "13.09.1991",
+        "due_date": "03.08.1996",
+        "market_reference": 642314,
+        "notes": "engineer robust supply-chains",
+        "number": "0666-6403",
+        "reference": 228966,
+        "vat_no": "Xj26773516122"
+    },
+    "payment": {
+        "net_total": 154.66,
+        "total": 792.29
+    },
+    "products": [
+        {
+            "amount": 342.96,
+            "description": "empower one-to-one systems",
+            "hours": 1.44,
+            "rate": 8.44
+        },
+        {
+            "amount": 280.8,
+            "description": "enhance strategic infrastructures",
+            "hours": 6.21,
+            "rate": 8.84
+        },
+        {
+            "amount": 75.6,
+            "description": "extend synergistic metrics",
+            "hours": 1.02,
+            "rate": 7.65
+        },
+        {
+            "amount": 191.25,
+            "description": "morph back-end relationships",
+            "hours": 6.09,
+            "rate": 2.6
+        },
+        {
+            "amount": 289.78,
+            "description": "embrace cross-platform web services",
+            "hours": 7.53,
+            "rate": 2.52
+        }
+    ],
+    "seller": {
+        "address": "USNS Duncan FPO AP 50420",
+        "email": "lindseyhall@example.net",
+        "name": "Michael Howard"
+    },
+    "tax": {
+        "base": 19.92,
+        "tax_amount": 18.85,
+        "total_tax": 29.72
+    }
+}

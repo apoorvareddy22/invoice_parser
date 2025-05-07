@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "8327 Snyder Key Apt. 549 Port Nicoleport, MN 91831",
+        "company_name": "Greene PLC",
+        "email": "smithdavid@example.org",
+        "name": "Brian Taylor",
+        "phone": "300-980-0994x155"
+    },
+    "invoice": {
+        "date": "27.12.2018",
+        "due_date": "07.06.1999",
+        "number": "xOo17621495449"
+    },
+    "payment": {
+        "account_number": 6368387784,
+        "bank_name": "Vasquez Group",
+        "routing_number": 797241977
+    },
+    "products": [
+        {
+            "amount": 141.48,
+            "description": "transition web-enabled functionalities",
+            "index": "9",
+            "quantity": 1.82,
+            "unit_price": 23.15
+        },
+        {
+            "amount": 307.16,
+            "description": "enable best-of-breed functionalities",
+            "index": "5",
+            "quantity": 6.35,
+            "unit_price": 82.02
+        },
+        {
+            "amount": 197.63,
+            "description": "brand dot-com e-markets",
+            "index": "1",
+            "quantity": 5.13,
+            "unit_price": 75.73
+        }
+    ],
+    "seller": {
+        "address": "1053 Travis Way Ellisfort, CA 44663",
+        "company_name": "Murphy-Johnson",
+        "email": "rodriguezrobin@example.net"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "839 Taylor Fort Apt. 833 Perkinsfort, HI 48759",
+        "company_name": "Evans PLC",
+        "country": "Myanmar",
+        "name": "Mackenzie Howell"
+    },
+    "invoice": {
+        "date": "02.02.2008",
+        "number": 393707
+    },
+    "payment": {
+        "discount_amount": 37.93,
+        "discount_percentage": 14.97,
+        "due": 51.86,
+        "sub_total": 197.82,
+        "total": 476.18
+    },
+    "products": [
+        {
+            "description": "visualize strategic e-business",
+            "index": "5",
+            "quantity": 7.11,
+            "total_price": 286.14,
+            "unit_price": 57.0
+        },
+        {
+            "description": "scale front-end channels",
+            "index": "3",
+            "quantity": 9.89,
+            "total_price": 625.6,
+            "unit_price": 63.09
+        },
+        {
+            "description": "benchmark interactive interfaces",
+            "index": "1",
+            "quantity": 4.89,
+            "total_price": 901.9,
+            "unit_price": 55.51
+        }
+    ],
+    "seller": {
+        "address": "61132 Decker Mews Williamsview, GU 47383",
+        "company_name": "Singh Inc",
+        "vat_no": "Ds13183250835"
+    }
+}

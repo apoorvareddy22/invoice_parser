@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "PSC 1871, Box 0576 APO AE 98990",
+        "email": "smithanthony@example.net",
+        "phone": "+1-877-284-8787x01547",
+        "vat_no": "NB68254216653"
+    },
+    "invoice": {
+        "date": "19.04.1996",
+        "due_date": "07.04.2015",
+        "market_reference": 829710,
+        "notes": "maximize visionary e-tailers",
+        "number": "3866-5646",
+        "reference": 226789,
+        "vat_no": "gZ36023721611"
+    },
+    "payment": {
+        "net_total": 150.69,
+        "total": 337.8
+    },
+    "products": [
+        {
+            "amount": 489.28,
+            "description": "visualize one-to-one e-services",
+            "hours": 6.11,
+            "rate": 1.56
+        },
+        {
+            "amount": 97.71,
+            "description": "streamline seamless models",
+            "hours": 7.1,
+            "rate": 8.25
+        },
+        {
+            "amount": 477.27,
+            "description": "synergize global users",
+            "hours": 1.03,
+            "rate": 7.65
+        }
+    ],
+    "seller": {
+        "address": "0685 Horn Row Johnsonberg, VT 36083",
+        "email": "vanderson@example.org",
+        "name": "Kenneth Cortez"
+    },
+    "tax": {
+        "base": 16.51,
+        "tax_amount": 12.25,
+        "total_tax": 20.31
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "3596 Brittany Ville Alexanderside, TX 94899",
+        "email": "uallison@example.com",
+        "phone": "+1-200-433-9536x177",
+        "vat_no": "St79046587219"
+    },
+    "invoice": {
+        "date": "06.10.2013",
+        "due_date": "03.11.2013",
+        "market_reference": 192384,
+        "notes": "productize bleeding-edge technologies",
+        "number": "0552-6673",
+        "reference": 227596,
+        "vat_no": "Lj68260354613"
+    },
+    "payment": {
+        "net_total": 160.39,
+        "total": 398.06
+    },
+    "products": [
+        {
+            "amount": 126.12,
+            "description": "orchestrate collaborative synergies",
+            "hours": 6.86,
+            "rate": 2.28
+        },
+        {
+            "amount": 50.02,
+            "description": "extend ubiquitous web-readiness",
+            "hours": 9.47,
+            "rate": 3.71
+        },
+        {
+            "amount": 75.63,
+            "description": "synergize e-business communities",
+            "hours": 9.71,
+            "rate": 6.98
+        },
+        {
+            "amount": 454.26,
+            "description": "cultivate ubiquitous synergies",
+            "hours": 5.45,
+            "rate": 6.19
+        },
+        {
+            "amount": 356.07,
+            "description": "extend customized methodologies",
+            "hours": 9.31,
+            "rate": 6.19
+        },
+        {
+            "amount": 338.04,
+            "description": "matrix killer e-markets",
+            "hours": 2.72,
+            "rate": 2.46
+        },
+        {
+            "amount": 253.75,
+            "description": "monetize intuitive channels",
+            "hours": 9.9,
+            "rate": 4.86
+        }
+    ],
+    "seller": {
+        "address": "PSC 0976, Box 5608 APO AA 38435",
+        "email": "criley@example.net",
+        "name": "Gina Wong"
+    },
+    "tax": {
+        "base": 16.79,
+        "tax_amount": 27.45,
+        "total_tax": 23.1
+    }
+}

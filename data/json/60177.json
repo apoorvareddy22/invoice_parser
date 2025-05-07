@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "64489 Melissa Squares Suite 625 Port Amy, PW 78615",
+        "business_no": "kw511",
+        "id": "BM201"
+    },
+    "invoice": {
+        "date": "13.10.2011",
+        "number": "0066-8464"
+    },
+    "payment": {
+        "due_date": "13.07.2016",
+        "total": 137.9
+    },
+    "products": [
+        {
+            "amount": 338.3,
+            "description": "optimize enterprise models",
+            "quantity": 8.53,
+            "reference": "Qb-003",
+            "unit_price": 85.9
+        },
+        {
+            "amount": 481.17,
+            "description": "whiteboard 24/365 relationships",
+            "quantity": 5.48,
+            "reference": "yS-154",
+            "unit_price": 71.16
+        },
+        {
+            "amount": 272.91,
+            "description": "e-enable intuitive networks",
+            "quantity": 5.49,
+            "reference": "jS-171",
+            "unit_price": 68.85
+        },
+        {
+            "amount": 207.03,
+            "description": "exploit B2C content",
+            "quantity": 3.92,
+            "reference": "jQ-715",
+            "unit_price": 24.48
+        },
+        {
+            "amount": 171.93,
+            "description": "exploit 24/7 markets",
+            "quantity": 7.08,
+            "reference": "DK-527",
+            "unit_price": 90.16
+        }
+    ],
+    "seller": {
+        "address": "926 Diana Plains West Peter, LA 44019"
+    },
+    "tax": {
+        "base_ht": 229.52,
+        "regulations": 12.47,
+        "total_ht": 304.86,
+        "vat_amount": 193.45,
+        "vat_percentage": 28.32
+    }
+}

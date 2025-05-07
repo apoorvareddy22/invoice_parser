@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "62728 Howard Road Charlesborough, WY 05716",
+        "id": "dA184"
+    },
+    "invoice": {
+        "bc_no": "kM14243",
+        "currency_code": "PKR",
+        "date": "28.06.1995",
+        "due_date": "01.11.1994",
+        "number": 418402
+    },
+    "payment": {
+        "bank_name": "Mills LLC",
+        "bic": "UMVQGBOI",
+        "iban": "TFID32057417000892"
+    },
+    "products": [
+        {
+            "amount": 471.58,
+            "description": "strategize plug-and-play models",
+            "index": "9",
+            "price": 403.14,
+            "quantity": 8.15,
+            "tax_amount": 99.45,
+            "total_ttc": 386.71,
+            "vat_amount": 3.59
+        },
+        {
+            "amount": 286.84,
+            "description": "expedite real-time markets",
+            "index": "8",
+            "price": 29.16,
+            "quantity": 4.77,
+            "tax_amount": 23.77,
+            "total_ttc": 108.6,
+            "vat_amount": 17.02
+        },
+        {
+            "amount": 131.61,
+            "description": "repurpose out-of-the-box mindshare",
+            "index": "5",
+            "price": 346.64,
+            "quantity": 1.91,
+            "tax_amount": 98.92,
+            "total_ttc": 318.74,
+            "vat_amount": 3.14
+        },
+        {
+            "amount": 456.26,
+            "description": "exploit real-time paradigms",
+            "index": "7",
+            "price": 479.37,
+            "quantity": 6.31,
+            "tax_amount": 96.95,
+            "total_ttc": 499.77,
+            "vat_amount": 7.61
+        },
+        {
+            "amount": 37.61,
+            "description": "deliver user-centric models",
+            "index": "8",
+            "price": 146.02,
+            "quantity": 8.05,
+            "tax_amount": 29.47,
+            "total_ttc": 210.47,
+            "vat_amount": 4.36
+        },
+        {
+            "amount": 90.67,
+            "description": "maximize end-to-end users",
+            "index": "1",
+            "price": 275.2,
+            "quantity": 2.21,
+            "tax_amount": 97.05,
+            "total_ttc": 237.66,
+            "vat_amount": 3.01
+        }
+    ],
+    "seller": {
+        "name": "Taylor Crawford"
+    },
+    "supplier": {
+        "address": "4950 James Plaza West Eugeneburgh, WV 48837",
+        "name": "Patricia Myers"
+    },
+    "tax": {
+        "amount_excluding_tax": 52.64,
+        "amount_including_tax": 75.5,
+        "tax_amount": 27.44,
+        "total_ht": 485.09,
+        "total_ttc": 178.02
+    }
+}

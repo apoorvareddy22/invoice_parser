@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "Unit 5609 Box 7873 DPO AA 19646",
+        "id": "nW036"
+    },
+    "invoice": {
+        "bc_no": "Ym74594",
+        "currency_code": "AFN",
+        "date": "04.10.2003",
+        "due_date": "04.01.2011",
+        "number": 634133
+    },
+    "payment": {
+        "bank_name": "Stevens, Hogan and Morgan",
+        "bic": "HSOIGB3Y",
+        "iban": "IJPK10726552928057"
+    },
+    "products": [
+        {
+            "amount": 263.56,
+            "description": "implement strategic e-commerce",
+            "index": "7",
+            "price": 393.94,
+            "quantity": 3.52,
+            "tax_amount": 72.08,
+            "total_ttc": 112.4,
+            "vat_amount": 0.5
+        },
+        {
+            "amount": 271.94,
+            "description": "embrace e-business mindshare",
+            "index": "10",
+            "price": 159.7,
+            "quantity": 8.27,
+            "tax_amount": 51.33,
+            "total_ttc": 152.81,
+            "vat_amount": 0.52
+        },
+        {
+            "amount": 133.97,
+            "description": "maximize vertical interfaces",
+            "index": "9",
+            "price": 420.14,
+            "quantity": 6.95,
+            "tax_amount": 36.89,
+            "total_ttc": 252.56,
+            "vat_amount": 0.48
+        },
+        {
+            "amount": 295.25,
+            "description": "target scalable portals",
+            "index": "5",
+            "price": 240.31,
+            "quantity": 1.09,
+            "tax_amount": 58.58,
+            "total_ttc": 455.71,
+            "vat_amount": 8.26
+        },
+        {
+            "amount": 295.41,
+            "description": "evolve intuitive action-items",
+            "index": "10",
+            "price": 246.66,
+            "quantity": 2.35,
+            "tax_amount": 58.24,
+            "total_ttc": 468.11,
+            "vat_amount": 10.04
+        },
+        {
+            "amount": 477.67,
+            "description": "utilize global e-markets",
+            "index": "8",
+            "price": 416.58,
+            "quantity": 3.41,
+            "tax_amount": 19.64,
+            "total_ttc": 151.2,
+            "vat_amount": 6.5
+        }
+    ],
+    "seller": {
+        "name": "William Dominguez"
+    },
+    "supplier": {
+        "address": "322 Williams Rapids Port Robert, MT 61632",
+        "name": "Charles Moore"
+    },
+    "tax": {
+        "amount_excluding_tax": 184.29,
+        "amount_including_tax": 151.29,
+        "tax_amount": 18.78,
+        "total_ht": 211.72,
+        "total_ttc": 420.9
+    }
+}

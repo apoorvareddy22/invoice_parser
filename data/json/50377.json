@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "80718 Boyer Pass North Robertchester, NY 37697",
+        "id": "Jv353"
+    },
+    "invoice": {
+        "bc_no": "Wk49890",
+        "currency_code": "TND",
+        "date": "05.01.2010",
+        "due_date": "19.05.1995",
+        "number": 229408
+    },
+    "payment": {
+        "bank_name": "Brown-Hicks",
+        "bic": "QHHPGB06AJC",
+        "iban": "TGSM02623392321159"
+    },
+    "products": [
+        {
+            "amount": 148.51,
+            "description": "productize cross-platform convergence",
+            "index": "3",
+            "price": 300.72,
+            "quantity": 4.02,
+            "tax_amount": 21.12,
+            "total_ttc": 252.72,
+            "vat_amount": 5.31
+        },
+        {
+            "amount": 480.43,
+            "description": "empower mission-critical solutions",
+            "index": "6",
+            "price": 396.19,
+            "quantity": 4.26,
+            "tax_amount": 72.71,
+            "total_ttc": 435.22,
+            "vat_amount": 11.93
+        }
+    ],
+    "seller": {
+        "name": "Diana Jones"
+    },
+    "supplier": {
+        "address": "PSC 0585, Box 5481 APO AE 00553",
+        "name": "Andrew Barron"
+    },
+    "tax": {
+        "amount_excluding_tax": 34.53,
+        "amount_including_tax": 75.11,
+        "tax_amount": 15.12,
+        "total_ht": 165.16,
+        "total_ttc": 196.21
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "USS Schmidt FPO AP 12079",
+        "id": "YY370"
+    },
+    "invoice": {
+        "bc_no": "xr86391",
+        "currency_code": "CRC",
+        "date": "19.08.2015",
+        "due_date": "15.11.2019",
+        "number": 737888
+    },
+    "payment": {
+        "bank_name": "Davis Group",
+        "bic": "WCKKGB1W9XN",
+        "iban": "TVCY29175655234678"
+    },
+    "products": [
+        {
+            "amount": 270.13,
+            "description": "enable open-source architectures",
+            "index": "6",
+            "price": 330.29,
+            "quantity": 3.81,
+            "tax_amount": 25.73,
+            "total_ttc": 491.32,
+            "vat_amount": 0.89
+        },
+        {
+            "amount": 147.66,
+            "description": "visualize front-end e-services",
+            "index": "1",
+            "price": 414.49,
+            "quantity": 9.36,
+            "tax_amount": 28.68,
+            "total_ttc": 481.04,
+            "vat_amount": 1.86
+        },
+        {
+            "amount": 402.46,
+            "description": "matrix visionary communities",
+            "index": "10",
+            "price": 125.05,
+            "quantity": 8.98,
+            "tax_amount": 52.98,
+            "total_ttc": 398.66,
+            "vat_amount": 12.28
+        },
+        {
+            "amount": 460.37,
+            "description": "mesh clicks-and-mortar technologies",
+            "index": "2",
+            "price": 241.1,
+            "quantity": 6.08,
+            "tax_amount": 18.12,
+            "total_ttc": 358.03,
+            "vat_amount": 2.71
+        }
+    ],
+    "seller": {
+        "name": "Lisa Turner"
+    },
+    "supplier": {
+        "address": "966 Martinez Mount Millsshire, GA 58850",
+        "name": "Adam Jones"
+    },
+    "tax": {
+        "amount_excluding_tax": 130.17,
+        "amount_including_tax": 20.28,
+        "tax_amount": 28.72,
+        "total_ht": 162.83,
+        "total_ttc": 332.22
+    }
+}

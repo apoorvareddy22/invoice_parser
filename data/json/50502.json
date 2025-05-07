@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "8183 Amber Inlet Alexanderberg, AS 06657",
+        "id": "KA529"
+    },
+    "invoice": {
+        "bc_no": "MU34059",
+        "currency_code": "KRW",
+        "date": "10.01.1992",
+        "due_date": "11.12.2006",
+        "number": 925927
+    },
+    "payment": {
+        "bank_name": "Acevedo LLC",
+        "bic": "VNGDGBVC",
+        "iban": "VSHR30358351669186"
+    },
+    "products": [
+        {
+            "amount": 92.13,
+            "description": "grow visionary ROI",
+            "index": "9",
+            "price": 471.74,
+            "quantity": 5.81,
+            "tax_amount": 92.69,
+            "total_ttc": 260.87,
+            "vat_amount": 7.41
+        },
+        {
+            "amount": 26.95,
+            "description": "empower strategic e-services",
+            "index": "10",
+            "price": 409.85,
+            "quantity": 3.71,
+            "tax_amount": 35.36,
+            "total_ttc": 446.24,
+            "vat_amount": 0.2
+        },
+        {
+            "amount": 117.11,
+            "description": "iterate intuitive deliverables",
+            "index": "2",
+            "price": 193.32,
+            "quantity": 8.94,
+            "tax_amount": 69.31,
+            "total_ttc": 283.07,
+            "vat_amount": 13.39
+        },
+        {
+            "amount": 200.22,
+            "description": "orchestrate front-end niches",
+            "index": "9",
+            "price": 357.62,
+            "quantity": 5.56,
+            "tax_amount": 19.43,
+            "total_ttc": 490.62,
+            "vat_amount": 9.57
+        },
+        {
+            "amount": 156.56,
+            "description": "envisioneer B2C content",
+            "index": "4",
+            "price": 60.57,
+            "quantity": 5.33,
+            "tax_amount": 85.73,
+            "total_ttc": 336.03,
+            "vat_amount": 3.76
+        },
+        {
+            "amount": 121.97,
+            "description": "re-intermediate dynamic communities",
+            "index": "4",
+            "price": 6.72,
+            "quantity": 7.93,
+            "tax_amount": 64.4,
+            "total_ttc": 376.56,
+            "vat_amount": 1.39
+        }
+    ],
+    "seller": {
+        "name": "Scott Figueroa"
+    },
+    "supplier": {
+        "address": "892 Tiffany Track Apt. 525 Nathanhaven, NC 50924",
+        "name": "Joe Barker"
+    },
+    "tax": {
+        "amount_excluding_tax": 80.56,
+        "amount_including_tax": 197.33,
+        "tax_amount": 14.1,
+        "total_ht": 384.28,
+        "total_ttc": 294.4
+    }
+}

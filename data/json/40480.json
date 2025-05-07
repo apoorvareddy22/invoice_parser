@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "880 Price Shoal Howardchester, MO 77591"
+    },
+    "invoice": {
+        "bc_no": "LN29331",
+        "date": "24.02.2023",
+        "maturity_date": "23.10.1996",
+        "number": 351610
+    },
+    "products": [
+        {
+            "amount": 31.82,
+            "description": "grow granular convergence",
+            "quantity": 6.24,
+            "unit_price": 80.84,
+            "vat_amount": 1.04
+        },
+        {
+            "amount": 14.82,
+            "description": "embrace leading-edge convergence",
+            "quantity": 9.54,
+            "unit_price": 92.12,
+            "vat_amount": 2.9
+        }
+    ],
+    "seller": {
+        "address": "7823 Gibson Mountain Apt. 939 Anthonyland, ME 07816"
+    },
+    "tax": {
+        "amount_excluding_tax": 140.18,
+        "amount_including_tax": 92.9,
+        "tax_amount": 15.92
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "411 Jorge Plains Suite 199 Port Loriton, WV 45495",
+        "id": "nS173"
+    },
+    "invoice": {
+        "bc_no": "Rp42717",
+        "currency_code": "THB",
+        "date": "13.05.1992",
+        "due_date": "07.02.1994",
+        "number": 540856
+    },
+    "payment": {
+        "bank_name": "Velez, Gross and Golden",
+        "bic": "XXYMGB9A",
+        "iban": "JBXE05536631170597"
+    },
+    "products": [
+        {
+            "amount": 401.11,
+            "description": "incentivize customized bandwidth",
+            "index": "3",
+            "price": 443.19,
+            "quantity": 7.72,
+            "tax_amount": 68.33,
+            "total_ttc": 256.33,
+            "vat_amount": 0.16
+        },
+        {
+            "amount": 241.27,
+            "description": "architect intuitive ROI",
+            "index": "1",
+            "price": 32.48,
+            "quantity": 9.66,
+            "tax_amount": 47.34,
+            "total_ttc": 304.22,
+            "vat_amount": 5.81
+        },
+        {
+            "amount": 491.63,
+            "description": "visualize open-source supply-chains",
+            "index": "9",
+            "price": 180.42,
+            "quantity": 4.68,
+            "tax_amount": 31.6,
+            "total_ttc": 315.99,
+            "vat_amount": 0.41
+        },
+        {
+            "amount": 212.04,
+            "description": "re-intermediate virtual applications",
+            "index": "10",
+            "price": 134.38,
+            "quantity": 7.56,
+            "tax_amount": 90.54,
+            "total_ttc": 101.34,
+            "vat_amount": 3.5
+        },
+        {
+            "amount": 271.8,
+            "description": "redefine wireless experiences",
+            "index": "4",
+            "price": 364.32,
+            "quantity": 8.0,
+            "tax_amount": 51.81,
+            "total_ttc": 164.92,
+            "vat_amount": 1.02
+        }
+    ],
+    "seller": {
+        "name": "Kelli Jones"
+    },
+    "supplier": {
+        "address": "Unit 3530 Box 7411 DPO AE 36586",
+        "name": "George Alvarado"
+    },
+    "tax": {
+        "amount_excluding_tax": 178.14,
+        "amount_including_tax": 112.77,
+        "tax_amount": 12.45,
+        "total_ht": 180.81,
+        "total_ttc": 368.79
+    }
+}

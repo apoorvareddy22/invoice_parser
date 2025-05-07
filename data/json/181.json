@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "284 Bennett Stream Apt. 841 Lake Rebekah, PA 33549",
+        "company_name": "Lee and Sons",
+        "country": "Antarctica (the territory South of 60 deg S)",
+        "name": "Matthew Morales"
+    },
+    "invoice": {
+        "date": "09.09.2014",
+        "number": 489738
+    },
+    "payment": {
+        "discount_amount": 18.55,
+        "discount_percentage": 16.72,
+        "due": 187.68,
+        "sub_total": 87.59,
+        "total": 104.28
+    },
+    "products": [
+        {
+            "description": "target dynamic e-tailers",
+            "index": "7",
+            "quantity": 1.79,
+            "total_price": 404.84,
+            "unit_price": 82.83
+        },
+        {
+            "description": "optimize B2B vortals",
+            "index": "2",
+            "quantity": 8.34,
+            "total_price": 764.95,
+            "unit_price": 76.6
+        },
+        {
+            "description": "iterate enterprise relationships",
+            "index": "5",
+            "quantity": 1.43,
+            "total_price": 800.63,
+            "unit_price": 99.56
+        }
+    ],
+    "seller": {
+        "address": "4698 Peggy Drive Suite 239 Port Anthonyborough, CO 20061",
+        "company_name": "Smith Ltd",
+        "vat_no": "GU07818970516"
+    }
+}

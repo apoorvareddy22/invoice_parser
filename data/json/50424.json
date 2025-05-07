@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "USCGC Mcdaniel FPO AA 39135",
+        "id": "Sj849"
+    },
+    "invoice": {
+        "bc_no": "UZ78282",
+        "currency_code": "KYD",
+        "date": "11.07.2005",
+        "due_date": "03.05.2009",
+        "number": 116149
+    },
+    "payment": {
+        "bank_name": "Sanchez, Mcclain and Navarro",
+        "bic": "KWTPGB0A",
+        "iban": "FQEA56915824842666"
+    },
+    "products": [
+        {
+            "amount": 469.21,
+            "description": "transform visionary relationships",
+            "index": "3",
+            "price": 322.08,
+            "quantity": 2.64,
+            "tax_amount": 41.17,
+            "total_ttc": 230.84,
+            "vat_amount": 5.8
+        },
+        {
+            "amount": 309.34,
+            "description": "benchmark customized info-mediaries",
+            "index": "9",
+            "price": 421.88,
+            "quantity": 8.73,
+            "tax_amount": 16.89,
+            "total_ttc": 280.61,
+            "vat_amount": 3.49
+        },
+        {
+            "amount": 304.13,
+            "description": "revolutionize 24/7 web services",
+            "index": "6",
+            "price": 221.04,
+            "quantity": 7.87,
+            "tax_amount": 75.89,
+            "total_ttc": 495.44,
+            "vat_amount": 4.51
+        }
+    ],
+    "seller": {
+        "name": "Gary Johnston"
+    },
+    "supplier": {
+        "address": "878 Rebekah Drive Apt. 319 Jasonville, OK 72572",
+        "name": "Joseph Torres"
+    },
+    "tax": {
+        "amount_excluding_tax": 132.28,
+        "amount_including_tax": 154.36,
+        "tax_amount": 16.36,
+        "total_ht": 424.01,
+        "total_ttc": 347.47
+    }
+}

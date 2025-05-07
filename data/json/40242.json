@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "8113 Wendy Garden Suite 177 West Travis, MA 86210"
+    },
+    "invoice": {
+        "bc_no": "sM09208",
+        "date": "03.12.2013",
+        "maturity_date": "16.07.1996",
+        "number": 315637
+    },
+    "products": [
+        {
+            "amount": 154.96,
+            "description": "utilize plug-and-play ROI",
+            "quantity": 7.71,
+            "unit_price": 51.7,
+            "vat_amount": 2.4
+        },
+        {
+            "amount": 106.33,
+            "description": "mesh strategic synergies",
+            "quantity": 9.44,
+            "unit_price": 25.33,
+            "vat_amount": 12.86
+        }
+    ],
+    "seller": {
+        "address": "25012 Ricardo Track Suite 041 Carolville, WV 01501"
+    },
+    "tax": {
+        "amount_excluding_tax": 125.23,
+        "amount_including_tax": 134.97,
+        "tax_amount": 18.48
+    }
+}

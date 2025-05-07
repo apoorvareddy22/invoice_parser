@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "5997 Martinez Park West Joseph, MO 94349",
+        "id": "bA595"
+    },
+    "invoice": {
+        "bc_no": "Dp65563",
+        "currency_code": "OMR",
+        "date": "02.02.2021",
+        "due_date": "27.08.1991",
+        "number": 919435
+    },
+    "payment": {
+        "bank_name": "Henry and Sons",
+        "bic": "ULMEGBEI",
+        "iban": "YSWO12717783917407"
+    },
+    "products": [
+        {
+            "amount": 380.39,
+            "description": "enhance cutting-edge e-commerce",
+            "index": "5",
+            "price": 183.76,
+            "quantity": 4.57,
+            "tax_amount": 22.04,
+            "total_ttc": 393.85,
+            "vat_amount": 1.6
+        },
+        {
+            "amount": 40.6,
+            "description": "architect granular infrastructures",
+            "index": "7",
+            "price": 118.72,
+            "quantity": 7.49,
+            "tax_amount": 81.19,
+            "total_ttc": 123.54,
+            "vat_amount": 1.92
+        }
+    ],
+    "seller": {
+        "name": "Brittany Santos"
+    },
+    "supplier": {
+        "address": "569 Murray Harbor Davismouth, KS 80470",
+        "name": "Blake Trevino"
+    },
+    "tax": {
+        "amount_excluding_tax": 86.56,
+        "amount_including_tax": 124.44,
+        "tax_amount": 29.22,
+        "total_ht": 327.71,
+        "total_ttc": 183.64
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "6204 Vasquez Pine Apt. 767 New Roger, CT 66517",
+        "company_name": "Morales, Potter and Matthews",
+        "email": "floresjeffrey@example.net",
+        "name": "Stacy Acosta",
+        "phone": "581.219.9335x51925"
+    },
+    "invoice": {
+        "date": "25.05.2017",
+        "due_date": "20.01.2012",
+        "number": "eNz09783812101"
+    },
+    "payment": {
+        "account_number": 9214833532,
+        "bank_name": "Thomas-Hudson",
+        "routing_number": 711572509
+    },
+    "products": [
+        {
+            "amount": 251.35,
+            "description": "unleash end-to-end portals",
+            "index": "8",
+            "quantity": 8.67,
+            "unit_price": 48.55
+        },
+        {
+            "amount": 238.29,
+            "description": "iterate cross-media applications",
+            "index": "2",
+            "quantity": 7.35,
+            "unit_price": 21.52
+        },
+        {
+            "amount": 264.48,
+            "description": "leverage granular deliverables",
+            "index": "4",
+            "quantity": 6.73,
+            "unit_price": 91.42
+        },
+        {
+            "amount": 315.69,
+            "description": "enhance extensible experiences",
+            "index": "9",
+            "quantity": 9.4,
+            "unit_price": 27.86
+        },
+        {
+            "amount": 185.17,
+            "description": "harness bleeding-edge paradigms",
+            "index": "3",
+            "quantity": 1.29,
+            "unit_price": 58.91
+        }
+    ],
+    "seller": {
+        "address": "22401 Cobb Park Apt. 686 Kyleville, CA 00992",
+        "company_name": "Orozco, Simmons and Morrison",
+        "email": "tuckerrebecca@example.org"
+    }
+}

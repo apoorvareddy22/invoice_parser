@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "216 Jacob Summit New Ray, ME 98725",
+        "email": "brittany94@example.net",
+        "phone": "001-323-961-6791x9278",
+        "vat_no": "vj27535037154"
+    },
+    "invoice": {
+        "date": "26.12.1993",
+        "due_date": "01.05.2015",
+        "market_reference": 545557,
+        "notes": "e-enable holistic technologies",
+        "number": "1337-3123",
+        "reference": 929820,
+        "vat_no": "Uc28211257546"
+    },
+    "payment": {
+        "net_total": 120.94,
+        "total": 816.12
+    },
+    "products": [
+        {
+            "amount": 261.04,
+            "description": "mesh B2B users",
+            "hours": 7.79,
+            "rate": 9.41
+        },
+        {
+            "amount": 386.18,
+            "description": "syndicate viral schemas",
+            "hours": 2.93,
+            "rate": 4.21
+        },
+        {
+            "amount": 281.29,
+            "description": "utilize extensible e-business",
+            "hours": 1.0,
+            "rate": 4.96
+        },
+        {
+            "amount": 337.0,
+            "description": "reinvent global niches",
+            "hours": 7.72,
+            "rate": 7.96
+        }
+    ],
+    "seller": {
+        "address": "422 Ronald River Lake Christopherburgh, VT 74825",
+        "email": "lisa40@example.org",
+        "name": "Austin Boyer"
+    },
+    "tax": {
+        "base": 18.72,
+        "tax_amount": 21.93,
+        "total_tax": 18.62
+    }
+}

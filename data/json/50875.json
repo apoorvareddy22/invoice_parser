@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "4395 Odonnell Radial Farmerside, OR 25395",
+        "id": "eC492"
+    },
+    "invoice": {
+        "bc_no": "JB13383",
+        "currency_code": "TND",
+        "date": "03.02.2013",
+        "due_date": "23.05.1997",
+        "number": 813331
+    },
+    "payment": {
+        "bank_name": "Morris Group",
+        "bic": "FBZDGBAVJCR",
+        "iban": "SEIO63800286579093"
+    },
+    "products": [
+        {
+            "amount": 125.37,
+            "description": "enable bricks-and-clicks interfaces",
+            "index": "7",
+            "price": 78.64,
+            "quantity": 8.91,
+            "tax_amount": 70.12,
+            "total_ttc": 278.02,
+            "vat_amount": 11.12
+        },
+        {
+            "amount": 164.81,
+            "description": "harness one-to-one bandwidth",
+            "index": "5",
+            "price": 404.39,
+            "quantity": 2.21,
+            "tax_amount": 98.85,
+            "total_ttc": 466.51,
+            "vat_amount": 4.54
+        },
+        {
+            "amount": 277.95,
+            "description": "synthesize open-source users",
+            "index": "3",
+            "price": 375.57,
+            "quantity": 9.67,
+            "tax_amount": 97.74,
+            "total_ttc": 315.1,
+            "vat_amount": 3.62
+        },
+        {
+            "amount": 116.53,
+            "description": "integrate front-end vortals",
+            "index": "7",
+            "price": 362.08,
+            "quantity": 1.98,
+            "tax_amount": 34.25,
+            "total_ttc": 421.47,
+            "vat_amount": 9.23
+        },
+        {
+            "amount": 486.3,
+            "description": "drive cross-media infrastructures",
+            "index": "10",
+            "price": 354.36,
+            "quantity": 3.4,
+            "tax_amount": 62.53,
+            "total_ttc": 462.67,
+            "vat_amount": 2.17
+        },
+        {
+            "amount": 200.91,
+            "description": "deploy efficient networks",
+            "index": "7",
+            "price": 443.5,
+            "quantity": 6.61,
+            "tax_amount": 18.13,
+            "total_ttc": 124.23,
+            "vat_amount": 2.8
+        }
+    ],
+    "seller": {
+        "name": "Patrick Lucero"
+    },
+    "supplier": {
+        "address": "35402 King Spur Apt. 012 West Michaeltown, PA 52129",
+        "name": "Wesley Townsend"
+    },
+    "tax": {
+        "amount_excluding_tax": 102.72,
+        "amount_including_tax": 182.41,
+        "tax_amount": 13.99,
+        "total_ht": 410.23,
+        "total_ttc": 491.73
+    }
+}

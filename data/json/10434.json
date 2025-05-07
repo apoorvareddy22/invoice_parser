@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "82989 Johnson Views Norrisside, ME 65640",
+        "email": "hallperry@example.net",
+        "phone": "577-763-0852",
+        "vat_no": "iB72863438651"
+    },
+    "invoice": {
+        "date": "18.10.2016",
+        "due_date": "03.03.2001",
+        "market_reference": 654300,
+        "notes": "brand B2C metrics",
+        "number": "4049-8793",
+        "reference": 872201,
+        "vat_no": "Ur69075135176"
+    },
+    "payment": {
+        "net_total": 152.05,
+        "total": 512.51
+    },
+    "products": [
+        {
+            "amount": 129.48,
+            "description": "implement revolutionary schemas",
+            "hours": 7.5,
+            "rate": 2.07
+        }
+    ],
+    "seller": {
+        "address": "227 Jenkins Views Justinburgh, WI 82260",
+        "email": "williamcruz@example.com",
+        "name": "Samuel Ortiz"
+    },
+    "tax": {
+        "base": 19.85,
+        "tax_amount": 22.95,
+        "total_tax": 19.17
+    }
+}

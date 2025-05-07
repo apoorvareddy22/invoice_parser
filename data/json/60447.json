@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "10388 Angela Forge North Paul, NH 86619",
+        "business_no": "AH690",
+        "id": "FM062"
+    },
+    "invoice": {
+        "date": "31.10.1997",
+        "number": "5973-9085"
+    },
+    "payment": {
+        "due_date": "25.11.1995",
+        "total": 521.93
+    },
+    "products": [
+        {
+            "amount": 82.25,
+            "description": "maximize plug-and-play web-readiness",
+            "quantity": 9.15,
+            "reference": "SK-978",
+            "unit_price": 59.62
+        },
+        {
+            "amount": 468.06,
+            "description": "engineer out-of-the-box experiences",
+            "quantity": 8.4,
+            "reference": "nj-832",
+            "unit_price": 17.42
+        },
+        {
+            "amount": 444.58,
+            "description": "target vertical platforms",
+            "quantity": 4.06,
+            "reference": "zo-077",
+            "unit_price": 40.02
+        },
+        {
+            "amount": 91.48,
+            "description": "e-enable back-end mindshare",
+            "quantity": 1.33,
+            "reference": "vu-252",
+            "unit_price": 84.5
+        },
+        {
+            "amount": 319.83,
+            "description": "target open-source e-business",
+            "quantity": 1.05,
+            "reference": "EV-626",
+            "unit_price": 11.74
+        }
+    ],
+    "seller": {
+        "address": "9699 Timothy Curve Lake Craig, IA 25464"
+    },
+    "tax": {
+        "base_ht": 107.34,
+        "regulations": 15.06,
+        "total_ht": 332.15,
+        "vat_amount": 76.59,
+        "vat_percentage": 14.72
+    }
+}

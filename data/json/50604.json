@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "7926 Clark Mission Apt. 403 Heidiberg, PR 31077",
+        "id": "zm518"
+    },
+    "invoice": {
+        "bc_no": "PT73169",
+        "currency_code": "XDR",
+        "date": "03.04.1999",
+        "due_date": "03.12.2021",
+        "number": 594697
+    },
+    "payment": {
+        "bank_name": "Simmons, Harris and Wall",
+        "bic": "LDTHGBKAEJT",
+        "iban": "EUMT86056048786635"
+    },
+    "products": [
+        {
+            "amount": 26.49,
+            "description": "evolve visionary e-markets",
+            "index": "10",
+            "price": 60.29,
+            "quantity": 9.9,
+            "tax_amount": 14.05,
+            "total_ttc": 380.2,
+            "vat_amount": 0.1
+        },
+        {
+            "amount": 377.78,
+            "description": "redefine innovative deliverables",
+            "index": "10",
+            "price": 73.73,
+            "quantity": 9.98,
+            "tax_amount": 38.33,
+            "total_ttc": 359.7,
+            "vat_amount": 5.3
+        },
+        {
+            "amount": 335.21,
+            "description": "incubate revolutionary niches",
+            "index": "5",
+            "price": 261.64,
+            "quantity": 2.38,
+            "tax_amount": 51.13,
+            "total_ttc": 456.81,
+            "vat_amount": 9.55
+        },
+        {
+            "amount": 359.29,
+            "description": "deploy clicks-and-mortar channels",
+            "index": "7",
+            "price": 89.37,
+            "quantity": 4.41,
+            "tax_amount": 14.02,
+            "total_ttc": 207.92,
+            "vat_amount": 14.64
+        }
+    ],
+    "seller": {
+        "name": "April Serrano"
+    },
+    "supplier": {
+        "address": "98877 Robinson Mount East Meghan, IN 14594",
+        "name": "Kristy Harvey"
+    },
+    "tax": {
+        "amount_excluding_tax": 155.72,
+        "amount_including_tax": 74.58,
+        "tax_amount": 21.66,
+        "total_ht": 441.18,
+        "total_ttc": 150.91
+    }
+}

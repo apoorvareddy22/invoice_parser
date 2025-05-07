@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "USNS Shaw FPO AE 78014",
+        "id": "XJ565"
+    },
+    "invoice": {
+        "bc_no": "mZ35292",
+        "currency_code": "SRD",
+        "date": "02.01.1992",
+        "due_date": "23.03.2007",
+        "number": 843399
+    },
+    "payment": {
+        "bank_name": "Rivas, Russell and Williams",
+        "bic": "KNHDGBIA",
+        "iban": "HDYM70863261272197"
+    },
+    "products": [
+        {
+            "amount": 28.0,
+            "description": "target holistic deliverables",
+            "index": "4",
+            "price": 11.93,
+            "quantity": 8.47,
+            "tax_amount": 30.87,
+            "total_ttc": 311.98,
+            "vat_amount": 1.57
+        },
+        {
+            "amount": 415.68,
+            "description": "scale magnetic channels",
+            "index": "10",
+            "price": 29.14,
+            "quantity": 1.07,
+            "tax_amount": 83.63,
+            "total_ttc": 230.73,
+            "vat_amount": 3.9
+        },
+        {
+            "amount": 56.44,
+            "description": "scale enterprise models",
+            "index": "6",
+            "price": 303.91,
+            "quantity": 3.54,
+            "tax_amount": 27.42,
+            "total_ttc": 446.02,
+            "vat_amount": 3.07
+        },
+        {
+            "amount": 19.03,
+            "description": "streamline bleeding-edge e-services",
+            "index": "9",
+            "price": 228.49,
+            "quantity": 3.07,
+            "tax_amount": 63.89,
+            "total_ttc": 110.58,
+            "vat_amount": 7.04
+        },
+        {
+            "amount": 396.39,
+            "description": "orchestrate open-source platforms",
+            "index": "9",
+            "price": 313.69,
+            "quantity": 2.25,
+            "tax_amount": 51.78,
+            "total_ttc": 301.23,
+            "vat_amount": 9.77
+        },
+        {
+            "amount": 352.12,
+            "description": "synergize 24/365 bandwidth",
+            "index": "8",
+            "price": 158.88,
+            "quantity": 5.17,
+            "tax_amount": 62.24,
+            "total_ttc": 440.08,
+            "vat_amount": 5.78
+        },
+        {
+            "amount": 76.36,
+            "description": "target customized infrastructures",
+            "index": "7",
+            "price": 188.04,
+            "quantity": 7.95,
+            "tax_amount": 21.59,
+            "total_ttc": 469.27,
+            "vat_amount": 2.57
+        }
+    ],
+    "seller": {
+        "name": "Jamie Peters"
+    },
+    "supplier": {
+        "address": "50455 Mark Freeway Suite 910 North Williambury, NE 35081",
+        "name": "Mrs. Hannah Bradley"
+    },
+    "tax": {
+        "amount_excluding_tax": 68.91,
+        "amount_including_tax": 151.79,
+        "tax_amount": 17.04,
+        "total_ht": 290.85,
+        "total_ttc": 225.25
+    }
+}

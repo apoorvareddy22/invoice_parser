@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "887 Austin Forges South Ashleyburgh, GA 46422",
+        "company_name": "Anderson Inc",
+        "email": "moorekenneth@example.com",
+        "name": "Rita Wilson",
+        "phone": "001-265-427-9812x43710"
+    },
+    "invoice": {
+        "date": "13.08.1997",
+        "due_date": "22.08.2004",
+        "number": "iUm00568422187"
+    },
+    "payment": {
+        "account_number": 7930136043,
+        "bank_name": "Edwards and Sons",
+        "routing_number": 547498393
+    },
+    "products": [
+        {
+            "amount": 95.53,
+            "description": "whiteboard back-end e-tailers",
+            "index": "3",
+            "quantity": 9.4,
+            "unit_price": 25.56
+        },
+        {
+            "amount": 258.13,
+            "description": "embrace revolutionary e-markets",
+            "index": "9",
+            "quantity": 2.32,
+            "unit_price": 32.68
+        },
+        {
+            "amount": 152.67,
+            "description": "architect integrated users",
+            "index": "3",
+            "quantity": 2.45,
+            "unit_price": 17.72
+        }
+    ],
+    "seller": {
+        "address": "08240 Joe Village Lake Kimberly, ME 15162",
+        "company_name": "Evans Inc",
+        "email": "stephengarner@example.com"
+    }
+}

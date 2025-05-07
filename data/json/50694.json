@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "354 Bonilla Mews Apt. 846 Lake Donnaberg, AS 00843",
+        "id": "le113"
+    },
+    "invoice": {
+        "bc_no": "fO76296",
+        "currency_code": "KZT",
+        "date": "08.10.1990",
+        "due_date": "11.12.2019",
+        "number": 103065
+    },
+    "payment": {
+        "bank_name": "Cruz-Dixon",
+        "bic": "GSWSGBO8",
+        "iban": "BJGM25851557585792"
+    },
+    "products": [
+        {
+            "amount": 456.59,
+            "description": "expedite compelling systems",
+            "index": "8",
+            "price": 318.73,
+            "quantity": 3.83,
+            "tax_amount": 49.73,
+            "total_ttc": 475.11,
+            "vat_amount": 10.92
+        },
+        {
+            "amount": 286.4,
+            "description": "aggregate bricks-and-clicks partnerships",
+            "index": "9",
+            "price": 417.59,
+            "quantity": 7.7,
+            "tax_amount": 90.07,
+            "total_ttc": 203.57,
+            "vat_amount": 11.28
+        },
+        {
+            "amount": 136.29,
+            "description": "empower value-added ROI",
+            "index": "4",
+            "price": 463.83,
+            "quantity": 8.48,
+            "tax_amount": 30.52,
+            "total_ttc": 178.76,
+            "vat_amount": 4.04
+        },
+        {
+            "amount": 455.44,
+            "description": "generate front-end web-readiness",
+            "index": "6",
+            "price": 306.99,
+            "quantity": 7.04,
+            "tax_amount": 73.93,
+            "total_ttc": 246.64,
+            "vat_amount": 1.95
+        },
+        {
+            "amount": 177.8,
+            "description": "whiteboard efficient applications",
+            "index": "8",
+            "price": 213.57,
+            "quantity": 5.34,
+            "tax_amount": 49.52,
+            "total_ttc": 467.56,
+            "vat_amount": 4.79
+        },
+        {
+            "amount": 334.68,
+            "description": "seize open-source portals",
+            "index": "7",
+            "price": 272.78,
+            "quantity": 7.57,
+            "tax_amount": 17.29,
+            "total_ttc": 314.24,
+            "vat_amount": 15.32
+        }
+    ],
+    "seller": {
+        "name": "Robert Foster"
+    },
+    "supplier": {
+        "address": "5256 Carlson Mill East Yolanda, AL 54325",
+        "name": "Mario Simmons"
+    },
+    "tax": {
+        "amount_excluding_tax": 100.03,
+        "amount_including_tax": 126.41,
+        "tax_amount": 18.89,
+        "total_ht": 363.91,
+        "total_ttc": 490.74
+    }
+}

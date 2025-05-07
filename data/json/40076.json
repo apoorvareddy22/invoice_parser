@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "2668 Marc Mission Stokesview, VA 68209"
+    },
+    "invoice": {
+        "bc_no": "Yo43204",
+        "date": "11.09.2016",
+        "maturity_date": "19.04.2000",
+        "number": 521367
+    },
+    "products": [
+        {
+            "amount": 206.58,
+            "description": "seize out-of-the-box solutions",
+            "quantity": 1.75,
+            "unit_price": 47.09,
+            "vat_amount": 0.79
+        },
+        {
+            "amount": 264.96,
+            "description": "whiteboard world-class paradigms",
+            "quantity": 8.2,
+            "unit_price": 71.81,
+            "vat_amount": 5.18
+        },
+        {
+            "amount": 382.72,
+            "description": "engage ubiquitous paradigms",
+            "quantity": 3.1,
+            "unit_price": 75.12,
+            "vat_amount": 2.36
+        },
+        {
+            "amount": 57.13,
+            "description": "monetize cross-platform users",
+            "quantity": 6.31,
+            "unit_price": 62.41,
+            "vat_amount": 1.32
+        },
+        {
+            "amount": 497.8,
+            "description": "implement value-added e-tailers",
+            "quantity": 4.4,
+            "unit_price": 25.19,
+            "vat_amount": 1.62
+        }
+    ],
+    "seller": {
+        "address": "5228 Alicia Cliffs Apt. 973 New Leslieville, AZ 59824"
+    },
+    "tax": {
+        "amount_excluding_tax": 145.51,
+        "amount_including_tax": 23.9,
+        "tax_amount": 29.61
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "482 Andrew Tunnel Michaelland, CT 69091",
+        "business_no": "Bz611",
+        "id": "my403"
+    },
+    "invoice": {
+        "date": "06.10.1998",
+        "number": "4144-3929"
+    },
+    "payment": {
+        "due_date": "17.06.2014",
+        "total": 466.44
+    },
+    "products": [
+        {
+            "amount": 69.97,
+            "description": "reinvent frictionless ROI",
+            "quantity": 8.97,
+            "reference": "AO-912",
+            "unit_price": 55.34
+        },
+        {
+            "amount": 181.39,
+            "description": "facilitate strategic e-markets",
+            "quantity": 5.74,
+            "reference": "uu-582",
+            "unit_price": 78.94
+        },
+        {
+            "amount": 428.3,
+            "description": "architect 24/365 portals",
+            "quantity": 2.91,
+            "reference": "wQ-209",
+            "unit_price": 61.53
+        },
+        {
+            "amount": 142.33,
+            "description": "cultivate extensible interfaces",
+            "quantity": 4.71,
+            "reference": "gA-991",
+            "unit_price": 56.11
+        },
+        {
+            "amount": 99.4,
+            "description": "incentivize dot-com web-readiness",
+            "quantity": 2.52,
+            "reference": "th-200",
+            "unit_price": 22.91
+        },
+        {
+            "amount": 230.07,
+            "description": "visualize B2B schemas",
+            "quantity": 6.6,
+            "reference": "UM-286",
+            "unit_price": 29.21
+        },
+        {
+            "amount": 145.48,
+            "description": "brand bricks-and-clicks ROI",
+            "quantity": 2.5,
+            "reference": "xc-816",
+            "unit_price": 96.97
+        }
+    ],
+    "seller": {
+        "address": "33230 Smith Crossing East Tina, MI 03800"
+    },
+    "tax": {
+        "base_ht": 106.73,
+        "regulations": 11.8,
+        "total_ht": 388.97,
+        "vat_amount": 125.86,
+        "vat_percentage": 20.99
+    }
+}

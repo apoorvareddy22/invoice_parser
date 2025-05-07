@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "Unit 1195 Box 3886 DPO AP 54985",
+        "company_name": "Garza, Todd and Ramsey",
+        "country": "Gambia",
+        "name": "Jackson Kane"
+    },
+    "invoice": {
+        "date": "23.05.1993",
+        "number": 418487
+    },
+    "payment": {
+        "discount_amount": 10.02,
+        "discount_percentage": 15.99,
+        "due": 67.65,
+        "sub_total": 162.54,
+        "total": 309.2
+    },
+    "products": [
+        {
+            "description": "deliver distributed functionalities",
+            "index": "9",
+            "quantity": 8.32,
+            "total_price": 143.74,
+            "unit_price": 92.6
+        },
+        {
+            "description": "repurpose back-end models",
+            "index": "10",
+            "quantity": 6.36,
+            "total_price": 714.65,
+            "unit_price": 41.94
+        }
+    ],
+    "seller": {
+        "address": "900 George Gardens Maddoxfort, WV 30337",
+        "company_name": "Rogers-Gray",
+        "vat_no": "tE76049282214"
+    }
+}

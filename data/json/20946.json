@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "4743 Page Parkways Lake Sherry, HI 57182",
+        "company_name": "Duncan and Sons",
+        "email": "cynthiachaney@example.com",
+        "name": "David Waters",
+        "phone": "241-458-2517"
+    },
+    "invoice": {
+        "date": "24.05.2007",
+        "due_date": "17.12.1995",
+        "number": "imm37121239752"
+    },
+    "payment": {
+        "account_number": 3120441836,
+        "bank_name": "Fischer-Payne",
+        "routing_number": 761130110
+    },
+    "products": [
+        {
+            "amount": 222.15,
+            "description": "benchmark value-added ROI",
+            "index": "4",
+            "quantity": 7.98,
+            "unit_price": 94.34
+        },
+        {
+            "amount": 71.09,
+            "description": "extend e-business markets",
+            "index": "4",
+            "quantity": 5.77,
+            "unit_price": 15.55
+        }
+    ],
+    "seller": {
+        "address": "USNV Dunn FPO AA 46652",
+        "company_name": "Boyle-Mueller",
+        "email": "kenneth78@example.net"
+    }
+}

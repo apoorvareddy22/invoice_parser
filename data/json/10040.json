@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "20495 Ryan Crescent Suite 918 Westchester, PA 02202",
+        "email": "sperry@example.org",
+        "phone": "648.986.6693x7373",
+        "vat_no": "zU06320900544"
+    },
+    "invoice": {
+        "date": "13.08.2010",
+        "due_date": "07.12.2010",
+        "market_reference": 975487,
+        "notes": "brand dot-com e-services",
+        "number": "7630-6577",
+        "reference": 522255,
+        "vat_no": "xP46741750408"
+    },
+    "payment": {
+        "net_total": 104.32,
+        "total": 551.75
+    },
+    "products": [
+        {
+            "amount": 73.6,
+            "description": "disintermediate transparent eyeballs",
+            "hours": 1.14,
+            "rate": 7.88
+        },
+        {
+            "amount": 164.66,
+            "description": "monetize dynamic solutions",
+            "hours": 3.1,
+            "rate": 4.94
+        },
+        {
+            "amount": 490.69,
+            "description": "incentivize intuitive markets",
+            "hours": 9.79,
+            "rate": 6.5
+        }
+    ],
+    "seller": {
+        "address": "766 Felicia Spurs Jessicafort, AZ 34116",
+        "email": "vbright@example.org",
+        "name": "Russell Fuller"
+    },
+    "tax": {
+        "base": 23.77,
+        "tax_amount": 16.36,
+        "total_tax": 15.14
+    }
+}

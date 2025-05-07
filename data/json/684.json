@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "23430 Maynard Common West Regina, OH 13018",
+        "company_name": "Blackwell PLC",
+        "country": "Zambia",
+        "name": "Matthew Martin"
+    },
+    "invoice": {
+        "date": "04.12.2012",
+        "number": 314804
+    },
+    "payment": {
+        "discount_amount": 23.83,
+        "discount_percentage": 15.15,
+        "due": 82.7,
+        "sub_total": 161.41,
+        "total": 391.03
+    },
+    "products": [
+        {
+            "description": "scale efficient users",
+            "index": "7",
+            "quantity": 5.13,
+            "total_price": 665.15,
+            "unit_price": 40.6
+        },
+        {
+            "description": "enable virtual paradigms",
+            "index": "8",
+            "quantity": 2.93,
+            "total_price": 997.71,
+            "unit_price": 64.58
+        },
+        {
+            "description": "orchestrate cross-media niches",
+            "index": "5",
+            "quantity": 6.63,
+            "total_price": 528.22,
+            "unit_price": 98.42
+        },
+        {
+            "description": "innovate magnetic e-tailers",
+            "index": "1",
+            "quantity": 3.02,
+            "total_price": 232.32,
+            "unit_price": 64.41
+        }
+    ],
+    "seller": {
+        "address": "321 Kenneth Hollow Apt. 495 Lake Paulshire, VA 83094",
+        "company_name": "Chapman PLC",
+        "vat_no": "Kh41274425774"
+    }
+}

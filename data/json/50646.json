@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "73817 Mathew Groves Cardenasberg, AZ 80498",
+        "id": "Op452"
+    },
+    "invoice": {
+        "bc_no": "hu63191",
+        "currency_code": "GBP",
+        "date": "13.10.1997",
+        "due_date": "22.03.2022",
+        "number": 233651
+    },
+    "payment": {
+        "bank_name": "Barnett, Munoz and Davidson",
+        "bic": "IYQQGB4T",
+        "iban": "DXDZ60444797323873"
+    },
+    "products": [
+        {
+            "amount": 384.0,
+            "description": "implement granular synergies",
+            "index": "9",
+            "price": 59.89,
+            "quantity": 3.55,
+            "tax_amount": 26.63,
+            "total_ttc": 243.28,
+            "vat_amount": 1.9
+        },
+        {
+            "amount": 316.29,
+            "description": "architect next-generation content",
+            "index": "10",
+            "price": 322.8,
+            "quantity": 5.54,
+            "tax_amount": 28.87,
+            "total_ttc": 156.1,
+            "vat_amount": 17.69
+        },
+        {
+            "amount": 352.22,
+            "description": "disintermediate killer info-mediaries",
+            "index": "7",
+            "price": 388.22,
+            "quantity": 4.2,
+            "tax_amount": 74.85,
+            "total_ttc": 449.52,
+            "vat_amount": 8.05
+        },
+        {
+            "amount": 273.9,
+            "description": "whiteboard extensible architectures",
+            "index": "4",
+            "price": 277.09,
+            "quantity": 7.37,
+            "tax_amount": 85.26,
+            "total_ttc": 323.18,
+            "vat_amount": 6.26
+        },
+        {
+            "amount": 163.47,
+            "description": "grow magnetic partnerships",
+            "index": "1",
+            "price": 183.84,
+            "quantity": 1.48,
+            "tax_amount": 64.1,
+            "total_ttc": 413.56,
+            "vat_amount": 9.09
+        }
+    ],
+    "seller": {
+        "name": "Brian Morse"
+    },
+    "supplier": {
+        "address": "0039 Perez Squares Suite 871 Bradfordshire, NH 43223",
+        "name": "Monica Nelson"
+    },
+    "tax": {
+        "amount_excluding_tax": 128.41,
+        "amount_including_tax": 113.45,
+        "tax_amount": 17.83,
+        "total_ht": 114.62,
+        "total_ttc": 456.7
+    }
+}

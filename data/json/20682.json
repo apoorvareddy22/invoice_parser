@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "813 Rivera Ville Port Barry, MS 48026",
+        "company_name": "Conrad PLC",
+        "email": "ybailey@example.org",
+        "name": "Elaine Rosales",
+        "phone": "779.227.6441"
+    },
+    "invoice": {
+        "date": "07.05.2004",
+        "due_date": "20.06.2017",
+        "number": "USb84100277511"
+    },
+    "payment": {
+        "account_number": 9870543697,
+        "bank_name": "Moore-Mcdaniel",
+        "routing_number": 475413576
+    },
+    "products": [
+        {
+            "amount": 37.16,
+            "description": "innovate dot-com initiatives",
+            "index": "5",
+            "quantity": 5.8,
+            "unit_price": 49.02
+        },
+        {
+            "amount": 100.2,
+            "description": "synergize end-to-end solutions",
+            "index": "10",
+            "quantity": 3.72,
+            "unit_price": 89.06
+        }
+    ],
+    "seller": {
+        "address": "4723 Travis Station Johnview, AZ 83291",
+        "company_name": "Black, Taylor and Williams",
+        "email": "william95@example.com"
+    }
+}

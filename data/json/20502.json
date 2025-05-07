@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "2907 Meghan Glens Ritastad, WI 24043",
+        "company_name": "Johnson-Davis",
+        "email": "nleblanc@example.com",
+        "name": "Jay Dennis",
+        "phone": "(456)982-1323x836"
+    },
+    "invoice": {
+        "date": "20.01.2006",
+        "due_date": "28.02.2007",
+        "number": "YES46037566352"
+    },
+    "payment": {
+        "account_number": 6718882917,
+        "bank_name": "Reilly, Meyer and Thomas",
+        "routing_number": 981478052
+    },
+    "products": [
+        {
+            "amount": 89.41,
+            "description": "re-intermediate cutting-edge ROI",
+            "index": "6",
+            "quantity": 2.49,
+            "unit_price": 48.02
+        },
+        {
+            "amount": 363.74,
+            "description": "implement end-to-end web services",
+            "index": "6",
+            "quantity": 1.28,
+            "unit_price": 24.86
+        },
+        {
+            "amount": 439.81,
+            "description": "matrix cutting-edge networks",
+            "index": "7",
+            "quantity": 9.86,
+            "unit_price": 13.67
+        }
+    ],
+    "seller": {
+        "address": "292 Galloway Pass Suite 327 North Edwinhaven, MT 36190",
+        "company_name": "Mcclure PLC",
+        "email": "emilyaustin@example.com"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "477 Ware Spurs Robinsontown, NC 00767",
+        "id": "LV192"
+    },
+    "invoice": {
+        "bc_no": "un62967",
+        "currency_code": "SCR",
+        "date": "02.02.2018",
+        "due_date": "21.10.2021",
+        "number": 878433
+    },
+    "payment": {
+        "bank_name": "Benson-Greene",
+        "bic": "OBLWGBR9",
+        "iban": "SWIA87375715394993"
+    },
+    "products": [
+        {
+            "amount": 204.29,
+            "description": "deliver value-added ROI",
+            "index": "3",
+            "price": 152.89,
+            "quantity": 9.79,
+            "tax_amount": 93.68,
+            "total_ttc": 115.34,
+            "vat_amount": 5.93
+        },
+        {
+            "amount": 236.53,
+            "description": "exploit cross-media technologies",
+            "index": "3",
+            "price": 390.26,
+            "quantity": 2.98,
+            "tax_amount": 38.17,
+            "total_ttc": 452.68,
+            "vat_amount": 8.63
+        },
+        {
+            "amount": 238.64,
+            "description": "aggregate impactful e-tailers",
+            "index": "2",
+            "price": 6.88,
+            "quantity": 2.93,
+            "tax_amount": 20.07,
+            "total_ttc": 285.81,
+            "vat_amount": 2.93
+        },
+        {
+            "amount": 101.23,
+            "description": "revolutionize frictionless web services",
+            "index": "2",
+            "price": 236.1,
+            "quantity": 7.92,
+            "tax_amount": 70.31,
+            "total_ttc": 194.56,
+            "vat_amount": 0.2
+        }
+    ],
+    "seller": {
+        "name": "Bradley Marsh"
+    },
+    "supplier": {
+        "address": "139 Nancy Turnpike Apt. 371 Jenniferberg, ND 03324",
+        "name": "Charles Martin"
+    },
+    "tax": {
+        "amount_excluding_tax": 138.59,
+        "amount_including_tax": 198.35,
+        "tax_amount": 23.72,
+        "total_ht": 477.84,
+        "total_ttc": 233.01
+    }
+}

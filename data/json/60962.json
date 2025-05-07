@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "6445 Kelly Prairie Apt. 770 West Brittany, WY 87639",
+        "business_no": "FG833",
+        "id": "uI685"
+    },
+    "invoice": {
+        "date": "11.04.2021",
+        "number": "5677-6379"
+    },
+    "payment": {
+        "due_date": "07.10.1997",
+        "total": 877.64
+    },
+    "products": [
+        {
+            "amount": 384.36,
+            "description": "mesh revolutionary ROI",
+            "quantity": 4.65,
+            "reference": "nA-360",
+            "unit_price": 32.77
+        },
+        {
+            "amount": 327.75,
+            "description": "innovate seamless action-items",
+            "quantity": 2.84,
+            "reference": "oS-573",
+            "unit_price": 85.71
+        }
+    ],
+    "seller": {
+        "address": "4790 Brown Port Hillshire, UT 22137"
+    },
+    "tax": {
+        "base_ht": 239.1,
+        "regulations": 29.33,
+        "total_ht": 490.0,
+        "vat_amount": 54.09,
+        "vat_percentage": 17.9
+    }
+}

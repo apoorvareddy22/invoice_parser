@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "404 Hernandez Trail Suite 863 Lake John, HI 34195"
+    },
+    "invoice": {
+        "bc_no": "Ki97625",
+        "date": "28.04.2015",
+        "maturity_date": "04.03.2017",
+        "number": 424970
+    },
+    "products": [
+        {
+            "amount": 84.32,
+            "description": "cultivate interactive vortals",
+            "quantity": 1.01,
+            "unit_price": 73.57,
+            "vat_amount": 3.47
+        },
+        {
+            "amount": 12.83,
+            "description": "harness innovative ROI",
+            "quantity": 6.61,
+            "unit_price": 39.34,
+            "vat_amount": 3.08
+        },
+        {
+            "amount": 479.74,
+            "description": "grow innovative action-items",
+            "quantity": 4.32,
+            "unit_price": 54.74,
+            "vat_amount": 5.43
+        },
+        {
+            "amount": 38.46,
+            "description": "orchestrate cross-platform e-tailers",
+            "quantity": 6.99,
+            "unit_price": 25.93,
+            "vat_amount": 7.25
+        },
+        {
+            "amount": 130.66,
+            "description": "leverage transparent mindshare",
+            "quantity": 6.53,
+            "unit_price": 45.3,
+            "vat_amount": 2.18
+        },
+        {
+            "amount": 73.76,
+            "description": "disintermediate dynamic e-commerce",
+            "quantity": 8.62,
+            "unit_price": 61.02,
+            "vat_amount": 0.96
+        }
+    ],
+    "seller": {
+        "address": "1315 Smith Viaduct West Jenniferfort, MS 67580"
+    },
+    "tax": {
+        "amount_excluding_tax": 55.32,
+        "amount_including_tax": 174.36,
+        "tax_amount": 29.73
+    }
+}

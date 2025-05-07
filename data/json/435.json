@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "1099 Amber Prairie Apt. 947 Rogersmouth, AK 57515",
+        "company_name": "Price PLC",
+        "country": "Cambodia",
+        "name": "Jacqueline Mays"
+    },
+    "invoice": {
+        "date": "30.12.2019",
+        "number": 949358
+    },
+    "payment": {
+        "discount_amount": 11.13,
+        "discount_percentage": 16.6,
+        "due": 102.05,
+        "sub_total": 62.63,
+        "total": 584.87
+    },
+    "products": [
+        {
+            "description": "deploy integrated architectures",
+            "index": "4",
+            "quantity": 5.6,
+            "total_price": 770.34,
+            "unit_price": 95.7
+        },
+        {
+            "description": "orchestrate ubiquitous e-markets",
+            "index": "5",
+            "quantity": 9.22,
+            "total_price": 215.37,
+            "unit_price": 50.19
+        },
+        {
+            "description": "harness bricks-and-clicks relationships",
+            "index": "4",
+            "quantity": 2.96,
+            "total_price": 504.66,
+            "unit_price": 77.33
+        },
+        {
+            "description": "exploit enterprise experiences",
+            "index": "1",
+            "quantity": 1.57,
+            "total_price": 580.58,
+            "unit_price": 37.17
+        },
+        {
+            "description": "optimize holistic users",
+            "index": "3",
+            "quantity": 6.94,
+            "total_price": 645.93,
+            "unit_price": 63.39
+        }
+    ],
+    "seller": {
+        "address": "192 Shah Mountains Apt. 349 East Thomasview, VA 46700",
+        "company_name": "Guerra-Gibson",
+        "vat_no": "XF63534808790"
+    }
+}

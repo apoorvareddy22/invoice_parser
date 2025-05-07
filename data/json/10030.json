@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "69360 Fields Club Suite 641 Duffyton, ID 66318",
+        "email": "nicholassimon@example.com",
+        "phone": "420-633-9365",
+        "vat_no": "iU44486301449"
+    },
+    "invoice": {
+        "date": "25.05.1991",
+        "due_date": "25.08.2012",
+        "market_reference": 552782,
+        "notes": "re-intermediate out-of-the-box relationships",
+        "number": "7016-7705",
+        "reference": 888091,
+        "vat_no": "Jk61992751243"
+    },
+    "payment": {
+        "net_total": 45.87,
+        "total": 133.14
+    },
+    "products": [
+        {
+            "amount": 464.42,
+            "description": "evolve 24/7 info-mediaries",
+            "hours": 1.73,
+            "rate": 3.26
+        },
+        {
+            "amount": 311.99,
+            "description": "reinvent one-to-one info-mediaries",
+            "hours": 9.16,
+            "rate": 4.57
+        },
+        {
+            "amount": 81.19,
+            "description": "mesh clicks-and-mortar solutions",
+            "hours": 8.32,
+            "rate": 2.97
+        },
+        {
+            "amount": 491.8,
+            "description": "syndicate scalable web services",
+            "hours": 4.63,
+            "rate": 8.63
+        },
+        {
+            "amount": 234.55,
+            "description": "utilize collaborative interfaces",
+            "hours": 9.27,
+            "rate": 8.18
+        }
+    ],
+    "seller": {
+        "address": "Unit 9913 Box 7295 DPO AA 76650",
+        "email": "slucas@example.net",
+        "name": "Tara Vazquez"
+    },
+    "tax": {
+        "base": 11.34,
+        "tax_amount": 16.06,
+        "total_tax": 11.68
+    }
+}

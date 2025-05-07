@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "82581 Brandon Springs Gomezborough, CO 33405"
+    },
+    "invoice": {
+        "bc_no": "GT36317",
+        "date": "22.06.1993",
+        "maturity_date": "01.12.2008",
+        "number": 297241
+    },
+    "products": [
+        {
+            "amount": 53.37,
+            "description": "empower compelling supply-chains",
+            "quantity": 7.47,
+            "unit_price": 28.5,
+            "vat_amount": 3.3
+        },
+        {
+            "amount": 419.98,
+            "description": "empower turn-key relationships",
+            "quantity": 3.53,
+            "unit_price": 96.21,
+            "vat_amount": 0.55
+        }
+    ],
+    "seller": {
+        "address": "711 Rachel Ridges Suite 449 Howardtown, OK 37402"
+    },
+    "tax": {
+        "amount_excluding_tax": 155.47,
+        "amount_including_tax": 10.57,
+        "tax_amount": 13.13
+    }
+}

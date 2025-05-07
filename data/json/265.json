@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "8522 Kyle Circles Suite 170 South Codystad, AS 33849",
+        "company_name": "Larson-Cummings",
+        "country": "Guyana",
+        "name": "Melissa Flores"
+    },
+    "invoice": {
+        "date": "13.12.2015",
+        "number": 394711
+    },
+    "payment": {
+        "discount_amount": 12.63,
+        "discount_percentage": 10.81,
+        "due": 43.62,
+        "sub_total": 96.22,
+        "total": 139.77
+    },
+    "products": [
+        {
+            "description": "visualize cross-media e-tailers",
+            "index": "3",
+            "quantity": 1.1,
+            "total_price": 703.99,
+            "unit_price": 50.77
+        },
+        {
+            "description": "transform B2C architectures",
+            "index": "1",
+            "quantity": 9.78,
+            "total_price": 788.89,
+            "unit_price": 11.49
+        },
+        {
+            "description": "orchestrate B2B ROI",
+            "index": "10",
+            "quantity": 6.26,
+            "total_price": 258.03,
+            "unit_price": 40.54
+        }
+    ],
+    "seller": {
+        "address": "6106 Charles Falls Parkfurt, AZ 34044",
+        "company_name": "Hughes-Thompson",
+        "vat_no": "wW64781928703"
+    }
+}

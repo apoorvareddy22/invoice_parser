@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "804 Bethany Street Suite 287 South Omartown, OR 83929",
+        "business_no": "US825",
+        "id": "uw696"
+    },
+    "invoice": {
+        "date": "29.09.1998",
+        "number": "7011-8829"
+    },
+    "payment": {
+        "due_date": "16.04.2023",
+        "total": 491.01
+    },
+    "products": [
+        {
+            "amount": 248.43,
+            "description": "extend real-time partnerships",
+            "quantity": 4.7,
+            "reference": "FO-868",
+            "unit_price": 96.55
+        },
+        {
+            "amount": 62.44,
+            "description": "re-intermediate e-business markets",
+            "quantity": 7.72,
+            "reference": "Ya-327",
+            "unit_price": 38.5
+        },
+        {
+            "amount": 26.94,
+            "description": "harness web-enabled markets",
+            "quantity": 5.37,
+            "reference": "nd-228",
+            "unit_price": 26.89
+        },
+        {
+            "amount": 495.07,
+            "description": "streamline turn-key supply-chains",
+            "quantity": 1.08,
+            "reference": "xL-998",
+            "unit_price": 16.58
+        },
+        {
+            "amount": 438.17,
+            "description": "integrate bricks-and-clicks e-services",
+            "quantity": 9.34,
+            "reference": "uk-621",
+            "unit_price": 72.8
+        }
+    ],
+    "seller": {
+        "address": "372 Gonzales Trace Kylefurt, OK 34678"
+    },
+    "tax": {
+        "base_ht": 219.28,
+        "regulations": 28.75,
+        "total_ht": 442.5,
+        "vat_amount": 131.73,
+        "vat_percentage": 28.41
+    }
+}

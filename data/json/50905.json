@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "1220 Baker Ramp Apt. 849 Kimchester, WI 89759",
+        "id": "Hr065"
+    },
+    "invoice": {
+        "bc_no": "Kx63377",
+        "currency_code": "CHF",
+        "date": "15.08.2002",
+        "due_date": "09.07.2000",
+        "number": 260995
+    },
+    "payment": {
+        "bank_name": "Castro Ltd",
+        "bic": "GQBPGBBJ",
+        "iban": "SCBE69525068643553"
+    },
+    "products": [
+        {
+            "amount": 377.61,
+            "description": "syndicate cross-platform channels",
+            "index": "1",
+            "price": 78.65,
+            "quantity": 8.29,
+            "tax_amount": 20.71,
+            "total_ttc": 499.53,
+            "vat_amount": 5.94
+        },
+        {
+            "amount": 115.24,
+            "description": "engage impactful metrics",
+            "index": "9",
+            "price": 45.59,
+            "quantity": 3.88,
+            "tax_amount": 82.36,
+            "total_ttc": 126.29,
+            "vat_amount": 7.83
+        },
+        {
+            "amount": 169.47,
+            "description": "orchestrate rich paradigms",
+            "index": "2",
+            "price": 409.79,
+            "quantity": 7.53,
+            "tax_amount": 52.2,
+            "total_ttc": 260.8,
+            "vat_amount": 14.74
+        },
+        {
+            "amount": 232.61,
+            "description": "synergize frictionless action-items",
+            "index": "6",
+            "price": 455.1,
+            "quantity": 8.8,
+            "tax_amount": 93.04,
+            "total_ttc": 147.52,
+            "vat_amount": 10.26
+        },
+        {
+            "amount": 214.81,
+            "description": "visualize interactive methodologies",
+            "index": "4",
+            "price": 97.77,
+            "quantity": 9.75,
+            "tax_amount": 46.34,
+            "total_ttc": 120.0,
+            "vat_amount": 1.78
+        },
+        {
+            "amount": 487.97,
+            "description": "streamline real-time mindshare",
+            "index": "8",
+            "price": 54.33,
+            "quantity": 5.49,
+            "tax_amount": 23.25,
+            "total_ttc": 456.1,
+            "vat_amount": 7.42
+        },
+        {
+            "amount": 494.03,
+            "description": "morph efficient interfaces",
+            "index": "6",
+            "price": 207.53,
+            "quantity": 3.36,
+            "tax_amount": 35.66,
+            "total_ttc": 427.74,
+            "vat_amount": 6.68
+        }
+    ],
+    "seller": {
+        "name": "Yvonne Beasley"
+    },
+    "supplier": {
+        "address": "683 Pollard Drives Tonyview, KS 87445",
+        "name": "Anthony Brown"
+    },
+    "tax": {
+        "amount_excluding_tax": 174.59,
+        "amount_including_tax": 43.12,
+        "tax_amount": 22.85,
+        "total_ht": 444.83,
+        "total_ttc": 217.82
+    }
+}

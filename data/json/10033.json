@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "78233 Sarah Road Marcfort, NJ 24877",
+        "email": "schmittvincent@example.com",
+        "phone": "5799774475",
+        "vat_no": "HM96341730651"
+    },
+    "invoice": {
+        "date": "18.12.2023",
+        "due_date": "19.07.2014",
+        "market_reference": 101411,
+        "notes": "mesh transparent web services",
+        "number": "2874-2639",
+        "reference": 686926,
+        "vat_no": "Zk00607707394"
+    },
+    "payment": {
+        "net_total": 169.1,
+        "total": 977.76
+    },
+    "products": [
+        {
+            "amount": 405.03,
+            "description": "morph cross-platform experiences",
+            "hours": 6.61,
+            "rate": 9.42
+        },
+        {
+            "amount": 317.08,
+            "description": "synthesize open-source experiences",
+            "hours": 8.26,
+            "rate": 5.34
+        },
+        {
+            "amount": 197.13,
+            "description": "enhance cutting-edge relationships",
+            "hours": 3.74,
+            "rate": 1.59
+        },
+        {
+            "amount": 378.82,
+            "description": "generate bleeding-edge schemas",
+            "hours": 4.74,
+            "rate": 8.84
+        },
+        {
+            "amount": 496.06,
+            "description": "aggregate virtual communities",
+            "hours": 7.6,
+            "rate": 9.88
+        }
+    ],
+    "seller": {
+        "address": "63085 Eric Street Apt. 033 Lake Tammy, CT 13098",
+        "email": "kevin42@example.org",
+        "name": "Martin Brown"
+    },
+    "tax": {
+        "base": 13.33,
+        "tax_amount": 29.91,
+        "total_tax": 17.62
+    }
+}

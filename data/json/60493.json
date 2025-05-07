@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "52483 Oliver Club Reynoldschester, ND 07552",
+        "business_no": "db079",
+        "id": "aY250"
+    },
+    "invoice": {
+        "date": "03.02.1993",
+        "number": "4754-1633"
+    },
+    "payment": {
+        "due_date": "17.05.2013",
+        "total": 564.79
+    },
+    "products": [
+        {
+            "amount": 379.98,
+            "description": "architect virtual infrastructures",
+            "quantity": 6.9,
+            "reference": "ma-163",
+            "unit_price": 81.77
+        },
+        {
+            "amount": 73.71,
+            "description": "generate intuitive schemas",
+            "quantity": 2.03,
+            "reference": "GX-388",
+            "unit_price": 75.15
+        },
+        {
+            "amount": 290.7,
+            "description": "evolve viral networks",
+            "quantity": 1.86,
+            "reference": "Ih-682",
+            "unit_price": 49.12
+        },
+        {
+            "amount": 46.54,
+            "description": "facilitate 24/365 vortals",
+            "quantity": 3.26,
+            "reference": "pj-359",
+            "unit_price": 27.92
+        },
+        {
+            "amount": 368.18,
+            "description": "e-enable 24/7 e-commerce",
+            "quantity": 5.56,
+            "reference": "xa-017",
+            "unit_price": 63.0
+        },
+        {
+            "amount": 177.55,
+            "description": "monetize strategic e-services",
+            "quantity": 1.64,
+            "reference": "Rm-274",
+            "unit_price": 12.53
+        }
+    ],
+    "seller": {
+        "address": "938 Garcia Cape East Alison, IL 26588"
+    },
+    "tax": {
+        "base_ht": 123.69,
+        "regulations": 14.13,
+        "total_ht": 462.52,
+        "vat_amount": 121.64,
+        "vat_percentage": 23.81
+    }
+}

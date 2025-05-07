@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "3868 Turner Parkway Apt. 378 East Jessicaburgh, GU 72216",
+        "id": "Kq166"
+    },
+    "invoice": {
+        "bc_no": "rs81737",
+        "currency_code": "MVR",
+        "date": "18.03.2007",
+        "due_date": "19.07.1993",
+        "number": 354820
+    },
+    "payment": {
+        "bank_name": "Lee and Sons",
+        "bic": "JRGVGBPZNC2",
+        "iban": "ZXVS27615454838749"
+    },
+    "products": [
+        {
+            "amount": 410.34,
+            "description": "evolve turn-key bandwidth",
+            "index": "8",
+            "price": 294.63,
+            "quantity": 6.88,
+            "tax_amount": 45.86,
+            "total_ttc": 317.83,
+            "vat_amount": 1.33
+        },
+        {
+            "amount": 433.19,
+            "description": "disintermediate granular architectures",
+            "index": "8",
+            "price": 206.74,
+            "quantity": 5.3,
+            "tax_amount": 47.94,
+            "total_ttc": 249.36,
+            "vat_amount": 0.74
+        },
+        {
+            "amount": 80.44,
+            "description": "evolve out-of-the-box e-markets",
+            "index": "2",
+            "price": 58.75,
+            "quantity": 9.42,
+            "tax_amount": 89.82,
+            "total_ttc": 176.34,
+            "vat_amount": 1.96
+        },
+        {
+            "amount": 322.55,
+            "description": "revolutionize 24/7 niches",
+            "index": "8",
+            "price": 60.74,
+            "quantity": 9.23,
+            "tax_amount": 91.72,
+            "total_ttc": 132.02,
+            "vat_amount": 11.31
+        }
+    ],
+    "seller": {
+        "name": "Veronica Smith"
+    },
+    "supplier": {
+        "address": "PSC 3415, Box 3515 APO AE 90870",
+        "name": "Linda Ward"
+    },
+    "tax": {
+        "amount_excluding_tax": 168.98,
+        "amount_including_tax": 144.0,
+        "tax_amount": 12.22,
+        "total_ht": 106.05,
+        "total_ttc": 349.59
+    }
+}

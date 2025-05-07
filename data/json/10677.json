@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "Unit 0468 Box 9068 DPO AA 43034",
+        "email": "emily59@example.org",
+        "phone": "001-684-592-1932",
+        "vat_no": "cG56915966662"
+    },
+    "invoice": {
+        "date": "28.06.2023",
+        "due_date": "24.02.2016",
+        "market_reference": 398341,
+        "notes": "syndicate web-enabled functionalities",
+        "number": "9633-3870",
+        "reference": 306069,
+        "vat_no": "Ra45223876416"
+    },
+    "payment": {
+        "net_total": 56.67,
+        "total": 801.02
+    },
+    "products": [
+        {
+            "amount": 42.86,
+            "description": "envisioneer killer web services",
+            "hours": 7.14,
+            "rate": 3.91
+        },
+        {
+            "amount": 292.17,
+            "description": "deploy wireless e-services",
+            "hours": 6.4,
+            "rate": 7.41
+        },
+        {
+            "amount": 268.73,
+            "description": "syndicate viral networks",
+            "hours": 8.68,
+            "rate": 8.11
+        },
+        {
+            "amount": 304.99,
+            "description": "extend holistic methodologies",
+            "hours": 3.44,
+            "rate": 6.28
+        }
+    ],
+    "seller": {
+        "address": "6354 White Cove Lake Alex, NC 74722",
+        "email": "yvonne58@example.com",
+        "name": "Olivia Mcgrath"
+    },
+    "tax": {
+        "base": 20.55,
+        "tax_amount": 22.97,
+        "total_tax": 15.93
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "30530 Johnson Avenue Apt. 094 East Cynthiamouth, PW 25592",
+        "email": "christina97@example.com",
+        "phone": "(509)673-2849",
+        "vat_no": "ap60746280280"
+    },
+    "invoice": {
+        "date": "30.03.2014",
+        "due_date": "19.05.2018",
+        "market_reference": 644740,
+        "notes": "deploy innovative networks",
+        "number": "9984-0433",
+        "reference": 480950,
+        "vat_no": "vX45557628473"
+    },
+    "payment": {
+        "net_total": 101.72,
+        "total": 964.17
+    },
+    "products": [
+        {
+            "amount": 482.68,
+            "description": "redefine value-added info-mediaries",
+            "hours": 6.95,
+            "rate": 5.4
+        },
+        {
+            "amount": 231.22,
+            "description": "embrace dot-com functionalities",
+            "hours": 4.95,
+            "rate": 2.5
+        },
+        {
+            "amount": 294.49,
+            "description": "harness enterprise supply-chains",
+            "hours": 7.66,
+            "rate": 7.65
+        },
+        {
+            "amount": 152.07,
+            "description": "disintermediate efficient web services",
+            "hours": 1.89,
+            "rate": 3.06
+        },
+        {
+            "amount": 208.72,
+            "description": "facilitate integrated e-commerce",
+            "hours": 4.91,
+            "rate": 9.33
+        },
+        {
+            "amount": 407.61,
+            "description": "reinvent magnetic ROI",
+            "hours": 5.39,
+            "rate": 9.26
+        }
+    ],
+    "seller": {
+        "address": "USCGC Baker FPO AE 49619",
+        "email": "qstrong@example.com",
+        "name": "Christopher Hernandez"
+    },
+    "tax": {
+        "base": 18.59,
+        "tax_amount": 17.98,
+        "total_tax": 13.23
+    }
+}

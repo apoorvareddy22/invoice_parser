@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "41393 Navarro Common Apt. 517 Lake Heather, SD 65702",
+        "id": "rw979"
+    },
+    "invoice": {
+        "bc_no": "jF54336",
+        "currency_code": "KRW",
+        "date": "22.06.1997",
+        "due_date": "07.11.1992",
+        "number": 740249
+    },
+    "payment": {
+        "bank_name": "Morton-Rose",
+        "bic": "SYFPGBDE",
+        "iban": "ZFDF72359950363632"
+    },
+    "products": [
+        {
+            "amount": 367.23,
+            "description": "implement intuitive users",
+            "index": "6",
+            "price": 174.07,
+            "quantity": 8.94,
+            "tax_amount": 56.93,
+            "total_ttc": 390.84,
+            "vat_amount": 5.24
+        },
+        {
+            "amount": 254.64,
+            "description": "morph bricks-and-clicks convergence",
+            "index": "1",
+            "price": 58.18,
+            "quantity": 7.86,
+            "tax_amount": 77.07,
+            "total_ttc": 247.71,
+            "vat_amount": 4.07
+        },
+        {
+            "amount": 445.29,
+            "description": "enhance user-centric channels",
+            "index": "4",
+            "price": 231.02,
+            "quantity": 4.22,
+            "tax_amount": 98.94,
+            "total_ttc": 144.8,
+            "vat_amount": 6.17
+        }
+    ],
+    "seller": {
+        "name": "Bradley Diaz"
+    },
+    "supplier": {
+        "address": "4740 Fisher Views East Alex, AL 46937",
+        "name": "Kevin Carter"
+    },
+    "tax": {
+        "amount_excluding_tax": 121.98,
+        "amount_including_tax": 77.22,
+        "tax_amount": 14.49,
+        "total_ht": 263.93,
+        "total_ttc": 355.44
+    }
+}

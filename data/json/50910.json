@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "815 Dennis Circle Jonathanville, CA 58639",
+        "id": "Yo179"
+    },
+    "invoice": {
+        "bc_no": "PF95514",
+        "currency_code": "SAR",
+        "date": "09.06.2003",
+        "due_date": "09.09.2002",
+        "number": 945600
+    },
+    "payment": {
+        "bank_name": "Williams, Campbell and Sanders",
+        "bic": "CLTOGB4X",
+        "iban": "HAXL66948588517990"
+    },
+    "products": [
+        {
+            "amount": 461.43,
+            "description": "drive cross-media deliverables",
+            "index": "2",
+            "price": 281.69,
+            "quantity": 8.76,
+            "tax_amount": 87.14,
+            "total_ttc": 207.01,
+            "vat_amount": 1.99
+        },
+        {
+            "amount": 390.95,
+            "description": "e-enable ubiquitous supply-chains",
+            "index": "10",
+            "price": 229.44,
+            "quantity": 3.98,
+            "tax_amount": 72.66,
+            "total_ttc": 465.62,
+            "vat_amount": 0.96
+        }
+    ],
+    "seller": {
+        "name": "Jaime Mora MD"
+    },
+    "supplier": {
+        "address": "17665 Brown Drive Apt. 894 East Michael, RI 80574",
+        "name": "Robert Reyes"
+    },
+    "tax": {
+        "amount_excluding_tax": 150.76,
+        "amount_including_tax": 163.06,
+        "tax_amount": 23.45,
+        "total_ht": 231.73,
+        "total_ttc": 118.07
+    }
+}

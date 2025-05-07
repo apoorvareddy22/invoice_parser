@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "45161 Kramer Mall Suite 734 Port Brian, MA 75320",
+        "company_name": "Morrow-Camacho",
+        "email": "elliottdenise@example.org",
+        "name": "Mark Davila",
+        "phone": "665.742.7773x4672"
+    },
+    "invoice": {
+        "date": "02.10.2004",
+        "due_date": "17.11.2023",
+        "number": "sMT18032992660"
+    },
+    "payment": {
+        "account_number": 5357942923,
+        "bank_name": "Hutchinson, Skinner and Williamson",
+        "routing_number": 611018731
+    },
+    "products": [
+        {
+            "amount": 205.96,
+            "description": "engage clicks-and-mortar technologies",
+            "index": "3",
+            "quantity": 1.19,
+            "unit_price": 16.83
+        },
+        {
+            "amount": 446.72,
+            "description": "expedite wireless functionalities",
+            "index": "6",
+            "quantity": 3.15,
+            "unit_price": 14.54
+        },
+        {
+            "amount": 408.67,
+            "description": "syndicate end-to-end infrastructures",
+            "index": "1",
+            "quantity": 9.85,
+            "unit_price": 32.1
+        },
+        {
+            "amount": 396.9,
+            "description": "enhance value-added e-business",
+            "index": "6",
+            "quantity": 5.55,
+            "unit_price": 82.91
+        },
+        {
+            "amount": 58.3,
+            "description": "empower enterprise mindshare",
+            "index": "8",
+            "quantity": 8.03,
+            "unit_price": 43.77
+        }
+    ],
+    "seller": {
+        "address": "43831 Rivera Square Suite 707 West Miguel, ME 55580",
+        "company_name": "Clark, Robertson and Moran",
+        "email": "abbottwilliam@example.com"
+    }
+}

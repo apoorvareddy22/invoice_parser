@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "0274 Stewart Shores Suite 658 Prestonview, AZ 80176",
+        "company_name": "Smith-Mckenzie",
+        "country": "Netherlands Antilles",
+        "name": "Rachael Armstrong"
+    },
+    "invoice": {
+        "date": "12.06.2020",
+        "number": 315350
+    },
+    "payment": {
+        "discount_amount": 25.33,
+        "discount_percentage": 16.52,
+        "due": 45.7,
+        "sub_total": 112.93,
+        "total": 179.51
+    },
+    "products": [
+        {
+            "description": "enhance strategic networks",
+            "index": "7",
+            "quantity": 9.09,
+            "total_price": 609.65,
+            "unit_price": 21.96
+        },
+        {
+            "description": "deploy visionary markets",
+            "index": "2",
+            "quantity": 2.27,
+            "total_price": 616.05,
+            "unit_price": 72.57
+        },
+        {
+            "description": "extend impactful partnerships",
+            "index": "1",
+            "quantity": 6.49,
+            "total_price": 826.11,
+            "unit_price": 29.8
+        },
+        {
+            "description": "re-intermediate best-of-breed eyeballs",
+            "index": "9",
+            "quantity": 1.79,
+            "total_price": 513.87,
+            "unit_price": 17.84
+        }
+    ],
+    "seller": {
+        "address": "6403 Hernandez Knoll West Kathleen, NV 71375",
+        "company_name": "Pacheco Group",
+        "vat_no": "un29366763988"
+    }
+}

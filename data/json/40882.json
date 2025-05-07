@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "938 Antonio Flat Apt. 251 Amberberg, TX 91394"
+    },
+    "invoice": {
+        "bc_no": "UQ80510",
+        "date": "28.06.2017",
+        "maturity_date": "11.04.2002",
+        "number": 524494
+    },
+    "products": [
+        {
+            "amount": 315.54,
+            "description": "iterate customized web services",
+            "quantity": 5.38,
+            "unit_price": 69.54,
+            "vat_amount": 9.28
+        },
+        {
+            "amount": 376.97,
+            "description": "envisioneer e-business content",
+            "quantity": 3.36,
+            "unit_price": 15.8,
+            "vat_amount": 2.88
+        },
+        {
+            "amount": 265.95,
+            "description": "grow global web services",
+            "quantity": 7.37,
+            "unit_price": 66.76,
+            "vat_amount": 1.81
+        },
+        {
+            "amount": 324.69,
+            "description": "innovate interactive supply-chains",
+            "quantity": 2.87,
+            "unit_price": 20.72,
+            "vat_amount": 4.84
+        },
+        {
+            "amount": 159.16,
+            "description": "exploit turn-key platforms",
+            "quantity": 2.06,
+            "unit_price": 37.53,
+            "vat_amount": 13.99
+        },
+        {
+            "amount": 338.2,
+            "description": "engage world-class initiatives",
+            "quantity": 1.92,
+            "unit_price": 10.27,
+            "vat_amount": 5.9
+        }
+    ],
+    "seller": {
+        "address": "932 Shannon Rest Apt. 718 Myerston, CA 79953"
+    },
+    "tax": {
+        "amount_excluding_tax": 57.52,
+        "amount_including_tax": 79.12,
+        "tax_amount": 10.54
+    }
+}

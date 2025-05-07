@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "95769 Peters Garden Port Dakotashire, CT 91525",
+        "company_name": "Williams LLC",
+        "email": "johnsonjulie@example.net",
+        "name": "Michael Reed",
+        "phone": "(634)444-8452x93150"
+    },
+    "invoice": {
+        "date": "03.12.2011",
+        "due_date": "11.03.2020",
+        "number": "NSq96830822214"
+    },
+    "payment": {
+        "account_number": 9084160165,
+        "bank_name": "Cabrera-Williams",
+        "routing_number": 578731507
+    },
+    "products": [
+        {
+            "amount": 163.66,
+            "description": "optimize virtual markets",
+            "index": "1",
+            "quantity": 3.79,
+            "unit_price": 69.63
+        },
+        {
+            "amount": 317.86,
+            "description": "brand next-generation functionalities",
+            "index": "1",
+            "quantity": 8.77,
+            "unit_price": 65.08
+        },
+        {
+            "amount": 489.3,
+            "description": "embrace best-of-breed channels",
+            "index": "10",
+            "quantity": 3.36,
+            "unit_price": 66.55
+        }
+    ],
+    "seller": {
+        "address": "99611 Alicia Wells Apt. 095 South Erinland, OH 26369",
+        "company_name": "Lewis-Smith",
+        "email": "jbaker@example.com"
+    }
+}

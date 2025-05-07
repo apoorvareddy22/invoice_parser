@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "777 Baker Cliffs Port Kristi, CT 26473",
+        "id": "iU643"
+    },
+    "invoice": {
+        "bc_no": "VG80862",
+        "currency_code": "KYD",
+        "date": "28.07.2002",
+        "due_date": "08.12.2016",
+        "number": 269267
+    },
+    "payment": {
+        "bank_name": "Flowers and Sons",
+        "bic": "HUGPGBC7",
+        "iban": "CTZV52047596577212"
+    },
+    "products": [
+        {
+            "amount": 205.57,
+            "description": "enhance intuitive users",
+            "index": "4",
+            "price": 44.62,
+            "quantity": 3.64,
+            "tax_amount": 87.33,
+            "total_ttc": 156.02,
+            "vat_amount": 4.24
+        },
+        {
+            "amount": 444.21,
+            "description": "engineer B2C niches",
+            "index": "1",
+            "price": 415.15,
+            "quantity": 7.38,
+            "tax_amount": 96.53,
+            "total_ttc": 145.41,
+            "vat_amount": 6.68
+        },
+        {
+            "amount": 282.16,
+            "description": "empower open-source channels",
+            "index": "2",
+            "price": 299.05,
+            "quantity": 1.26,
+            "tax_amount": 70.69,
+            "total_ttc": 498.85,
+            "vat_amount": 1.44
+        },
+        {
+            "amount": 214.3,
+            "description": "incentivize virtual eyeballs",
+            "index": "9",
+            "price": 103.68,
+            "quantity": 8.33,
+            "tax_amount": 70.17,
+            "total_ttc": 259.56,
+            "vat_amount": 3.37
+        }
+    ],
+    "seller": {
+        "name": "Derek Maddox"
+    },
+    "supplier": {
+        "address": "72772 Chen Glens Bakerstad, SC 97615",
+        "name": "John Drake"
+    },
+    "tax": {
+        "amount_excluding_tax": 199.43,
+        "amount_including_tax": 74.38,
+        "tax_amount": 22.66,
+        "total_ht": 495.83,
+        "total_ttc": 443.95
+    }
+}

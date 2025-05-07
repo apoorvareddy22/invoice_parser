@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "95879 Alvarez Turnpike Lake Jerryburgh, HI 46684",
+        "business_no": "Dz596",
+        "id": "EZ431"
+    },
+    "invoice": {
+        "date": "11.01.2005",
+        "number": "2540-8179"
+    },
+    "payment": {
+        "due_date": "25.10.2006",
+        "total": 142.97
+    },
+    "products": [
+        {
+            "amount": 348.29,
+            "description": "incentivize revolutionary eyeballs",
+            "quantity": 3.85,
+            "reference": "ED-098",
+            "unit_price": 81.29
+        },
+        {
+            "amount": 112.97,
+            "description": "scale 24/7 e-business",
+            "quantity": 6.31,
+            "reference": "em-464",
+            "unit_price": 57.26
+        },
+        {
+            "amount": 212.85,
+            "description": "brand real-time metrics",
+            "quantity": 3.58,
+            "reference": "Em-698",
+            "unit_price": 23.93
+        },
+        {
+            "amount": 241.11,
+            "description": "mesh sticky channels",
+            "quantity": 6.11,
+            "reference": "WG-392",
+            "unit_price": 58.26
+        }
+    ],
+    "seller": {
+        "address": "88181 Anthony Junction New Ariana, CO 44418"
+    },
+    "tax": {
+        "base_ht": 347.34,
+        "regulations": 23.12,
+        "total_ht": 361.85,
+        "vat_amount": 107.65,
+        "vat_percentage": 19.1
+    }
+}

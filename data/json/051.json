@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "348 Rodriguez Corners Apt. 870 Thomasmouth, MI 91635",
+        "company_name": "Bell-Nguyen",
+        "country": "Morocco",
+        "name": "Brenda Caldwell"
+    },
+    "invoice": {
+        "date": "12.11.2018",
+        "number": 539370
+    },
+    "payment": {
+        "discount_amount": 18.42,
+        "discount_percentage": 17.5,
+        "due": 127.11,
+        "sub_total": 105.03,
+        "total": 392.92
+    },
+    "products": [
+        {
+            "description": "benchmark dot-com users",
+            "index": "10",
+            "quantity": 8.24,
+            "total_price": 221.2,
+            "unit_price": 97.18
+        },
+        {
+            "description": "morph global web services",
+            "index": "8",
+            "quantity": 8.6,
+            "total_price": 917.12,
+            "unit_price": 93.88
+        },
+        {
+            "description": "reinvent plug-and-play deliverables",
+            "index": "8",
+            "quantity": 5.15,
+            "total_price": 915.76,
+            "unit_price": 32.22
+        }
+    ],
+    "seller": {
+        "address": "USNV Robinson FPO AE 61970",
+        "company_name": "Conley Ltd",
+        "vat_no": "uO17350866724"
+    }
+}

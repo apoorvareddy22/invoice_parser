@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "PSC 8803, Box 8705 APO AA 85612",
+        "id": "on706"
+    },
+    "invoice": {
+        "bc_no": "rf70128",
+        "currency_code": "BRL",
+        "date": "24.10.2023",
+        "due_date": "04.04.2009",
+        "number": 930762
+    },
+    "payment": {
+        "bank_name": "Duncan-Guerra",
+        "bic": "FVKTGBPVVSP",
+        "iban": "IFSQ70877745447871"
+    },
+    "products": [
+        {
+            "amount": 79.44,
+            "description": "implement impactful mindshare",
+            "index": "3",
+            "price": 356.1,
+            "quantity": 9.42,
+            "tax_amount": 22.69,
+            "total_ttc": 413.74,
+            "vat_amount": 0.57
+        },
+        {
+            "amount": 288.36,
+            "description": "re-intermediate one-to-one applications",
+            "index": "9",
+            "price": 186.31,
+            "quantity": 6.34,
+            "tax_amount": 21.01,
+            "total_ttc": 285.87,
+            "vat_amount": 0.73
+        },
+        {
+            "amount": 278.57,
+            "description": "iterate viral interfaces",
+            "index": "6",
+            "price": 478.24,
+            "quantity": 1.64,
+            "tax_amount": 61.67,
+            "total_ttc": 428.83,
+            "vat_amount": 4.1
+        }
+    ],
+    "seller": {
+        "name": "David Leonard"
+    },
+    "supplier": {
+        "address": "07241 Mcdonald Plaza Hunterburgh, KS 11535",
+        "name": "Ashley Mejia"
+    },
+    "tax": {
+        "amount_excluding_tax": 85.9,
+        "amount_including_tax": 196.38,
+        "tax_amount": 26.25,
+        "total_ht": 360.24,
+        "total_ttc": 172.26
+    }
+}

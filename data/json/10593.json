@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "8213 Cross Mill Suite 648 West Jason, KY 79217",
+        "email": "jenkinskenneth@example.org",
+        "phone": "734-597-4902x87887",
+        "vat_no": "Ij64335625255"
+    },
+    "invoice": {
+        "date": "20.11.2003",
+        "due_date": "14.12.2015",
+        "market_reference": 165393,
+        "notes": "re-contextualize cutting-edge models",
+        "number": "4306-9095",
+        "reference": 831335,
+        "vat_no": "eb72803973725"
+    },
+    "payment": {
+        "net_total": 27.78,
+        "total": 103.87
+    },
+    "products": [
+        {
+            "amount": 464.2,
+            "description": "embrace B2B platforms",
+            "hours": 6.61,
+            "rate": 9.13
+        },
+        {
+            "amount": 51.26,
+            "description": "productize cross-platform communities",
+            "hours": 6.43,
+            "rate": 2.91
+        },
+        {
+            "amount": 317.48,
+            "description": "facilitate global mindshare",
+            "hours": 6.7,
+            "rate": 6.31
+        },
+        {
+            "amount": 419.95,
+            "description": "exploit frictionless architectures",
+            "hours": 1.51,
+            "rate": 9.84
+        },
+        {
+            "amount": 394.78,
+            "description": "repurpose ubiquitous systems",
+            "hours": 7.8,
+            "rate": 4.41
+        }
+    ],
+    "seller": {
+        "address": "6253 Jennifer Valleys Apt. 461 Bergburgh, MT 17313",
+        "email": "william46@example.com",
+        "name": "Albert Aguilar"
+    },
+    "tax": {
+        "base": 15.11,
+        "tax_amount": 20.39,
+        "total_tax": 29.28
+    }
+}

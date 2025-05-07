@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "8747 Joe Valley Apt. 011 Wilsonstad, AL 94000",
+        "company_name": "Sanders PLC",
+        "email": "ericalee@example.org",
+        "name": "Kimberly Kelly",
+        "phone": "527.209.0229"
+    },
+    "invoice": {
+        "date": "18.10.2003",
+        "due_date": "13.10.2016",
+        "number": "xEd30101561088"
+    },
+    "payment": {
+        "account_number": 3455957074,
+        "bank_name": "Vargas, Davis and Gordon",
+        "routing_number": 324213914
+    },
+    "products": [
+        {
+            "amount": 342.64,
+            "description": "matrix efficient partnerships",
+            "index": "8",
+            "quantity": 1.57,
+            "unit_price": 75.48
+        },
+        {
+            "amount": 423.3,
+            "description": "utilize strategic partnerships",
+            "index": "10",
+            "quantity": 9.87,
+            "unit_price": 25.11
+        }
+    ],
+    "seller": {
+        "address": "PSC 1893, Box 6496 APO AP 18049",
+        "company_name": "Garcia, Snyder and Benitez",
+        "email": "snowjoshua@example.net"
+    }
+}

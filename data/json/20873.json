@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "PSC 0962, Box 9767 APO AE 51340",
+        "company_name": "Lee and Sons",
+        "email": "amanda05@example.com",
+        "name": "Catherine Sampson",
+        "phone": "839-904-1894"
+    },
+    "invoice": {
+        "date": "14.11.2023",
+        "due_date": "11.06.2003",
+        "number": "aZn81991439700"
+    },
+    "payment": {
+        "account_number": 4980664878,
+        "bank_name": "Bradshaw, Shepherd and Davidson",
+        "routing_number": 224291502
+    },
+    "products": [
+        {
+            "amount": 455.43,
+            "description": "reinvent compelling e-business",
+            "index": "3",
+            "quantity": 8.38,
+            "unit_price": 10.25
+        },
+        {
+            "amount": 346.95,
+            "description": "redefine holistic eyeballs",
+            "index": "9",
+            "quantity": 2.81,
+            "unit_price": 11.11
+        },
+        {
+            "amount": 214.95,
+            "description": "seize killer e-tailers",
+            "index": "6",
+            "quantity": 6.17,
+            "unit_price": 68.63
+        }
+    ],
+    "seller": {
+        "address": "445 Vargas Keys Suite 284 New Cynthiaburgh, NV 08254",
+        "company_name": "Rich LLC",
+        "email": "dana09@example.org"
+    }
+}

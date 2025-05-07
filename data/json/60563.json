@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "9411 Matthew Gateway Suite 411 New Scottstad, AS 85169",
+        "business_no": "yu846",
+        "id": "sP000"
+    },
+    "invoice": {
+        "date": "28.12.2023",
+        "number": "2663-9972"
+    },
+    "payment": {
+        "due_date": "25.09.1997",
+        "total": 145.14
+    },
+    "products": [
+        {
+            "amount": 473.86,
+            "description": "benchmark 24/7 platforms",
+            "quantity": 6.57,
+            "reference": "qS-174",
+            "unit_price": 62.65
+        },
+        {
+            "amount": 96.38,
+            "description": "streamline B2B bandwidth",
+            "quantity": 2.25,
+            "reference": "tb-024",
+            "unit_price": 88.29
+        },
+        {
+            "amount": 243.88,
+            "description": "leverage scalable mindshare",
+            "quantity": 1.24,
+            "reference": "Wt-167",
+            "unit_price": 97.89
+        },
+        {
+            "amount": 149.68,
+            "description": "repurpose plug-and-play markets",
+            "quantity": 9.11,
+            "reference": "QE-353",
+            "unit_price": 60.88
+        }
+    ],
+    "seller": {
+        "address": "84392 Prince Grove Hallfurt, AK 09377"
+    },
+    "tax": {
+        "base_ht": 415.87,
+        "regulations": 26.55,
+        "total_ht": 162.22,
+        "vat_amount": 163.88,
+        "vat_percentage": 27.65
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "6064 Carlson Field Suite 642 East Christian, MS 70969"
+    },
+    "invoice": {
+        "bc_no": "jF21476",
+        "date": "19.07.1995",
+        "maturity_date": "21.04.2018",
+        "number": 963225
+    },
+    "products": [
+        {
+            "amount": 150.88,
+            "description": "aggregate bricks-and-clicks e-commerce",
+            "quantity": 2.65,
+            "unit_price": 28.79,
+            "vat_amount": 3.04
+        },
+        {
+            "amount": 203.42,
+            "description": "implement dot-com methodologies",
+            "quantity": 3.79,
+            "unit_price": 49.14,
+            "vat_amount": 2.03
+        },
+        {
+            "amount": 211.89,
+            "description": "incubate scalable partnerships",
+            "quantity": 9.59,
+            "unit_price": 82.35,
+            "vat_amount": 3.07
+        },
+        {
+            "amount": 166.87,
+            "description": "incentivize e-business methodologies",
+            "quantity": 1.1,
+            "unit_price": 83.85,
+            "vat_amount": 12.97
+        },
+        {
+            "amount": 102.24,
+            "description": "deliver cutting-edge technologies",
+            "quantity": 3.39,
+            "unit_price": 28.12,
+            "vat_amount": 0.73
+        },
+        {
+            "amount": 252.76,
+            "description": "drive clicks-and-mortar deliverables",
+            "quantity": 5.28,
+            "unit_price": 23.08,
+            "vat_amount": 3.15
+        }
+    ],
+    "seller": {
+        "address": "147 Phyllis Oval New Alexandermouth, AL 15049"
+    },
+    "tax": {
+        "amount_excluding_tax": 81.36,
+        "amount_including_tax": 103.57,
+        "tax_amount": 22.33
+    }
+}

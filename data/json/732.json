@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "90120 Edward Highway Kennethbury, NH 12486",
+        "company_name": "Ramos-Smith",
+        "country": "Barbados",
+        "name": "Thomas Andrade"
+    },
+    "invoice": {
+        "date": "03.01.2018",
+        "number": 557395
+    },
+    "payment": {
+        "discount_amount": 34.56,
+        "discount_percentage": 17.02,
+        "due": 129.9,
+        "sub_total": 175.29,
+        "total": 679.25
+    },
+    "products": [
+        {
+            "description": "iterate collaborative technologies",
+            "index": "7",
+            "quantity": 6.13,
+            "total_price": 587.07,
+            "unit_price": 47.52
+        },
+        {
+            "description": "reinvent cross-media web-readiness",
+            "index": "3",
+            "quantity": 1.64,
+            "total_price": 874.92,
+            "unit_price": 12.29
+        },
+        {
+            "description": "drive bricks-and-clicks bandwidth",
+            "index": "1",
+            "quantity": 3.06,
+            "total_price": 181.97,
+            "unit_price": 47.6
+        },
+        {
+            "description": "re-contextualize next-generation interfaces",
+            "index": "1",
+            "quantity": 3.82,
+            "total_price": 119.28,
+            "unit_price": 81.88
+        },
+        {
+            "description": "e-enable B2C content",
+            "index": "9",
+            "quantity": 3.24,
+            "total_price": 627.37,
+            "unit_price": 12.38
+        }
+    ],
+    "seller": {
+        "address": "0598 Melissa Forks Suite 038 East Haleyville, MP 35062",
+        "company_name": "Andrews, Ryan and Barr",
+        "vat_no": "Tx95429788991"
+    }
+}

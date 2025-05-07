@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "76503 Martha Port Brewertown, FM 95781",
+        "company_name": "Barr Inc",
+        "country": "Congo",
+        "email": "gsmith@example.net",
+        "name": "Ashley Jacobson",
+        "phone": "520-206-9784x76697",
+        "vat_no": "qR73671987217"
+    },
+    "invoice": {
+        "date": "22.05.2022",
+        "due_date": "24.11.2015",
+        "linked_invoice": "FK-9232-7569",
+        "notes": "implement global eyeballs",
+        "number": "jy-3273-4276"
+    },
+    "products": [
+        {
+            "description": "enable frictionless interfaces",
+            "discount_percentage": 13.98,
+            "price": 437.39,
+            "quantity": 7.22,
+            "unit_price": 40.68
+        },
+        {
+            "description": "transition next-generation methodologies",
+            "discount_percentage": 6.4,
+            "price": 249.31,
+            "quantity": 3.92,
+            "unit_price": 55.44
+        }
+    ],
+    "seller": {
+        "address": "702 Newman Mission Suite 196 Sabrinaton, RI 22167",
+        "ape": "3330F",
+        "capital": 79814267,
+        "country": "Senegal",
+        "email": "mariehill@example.com",
+        "name": "Carl Hatfield",
+        "phone_1": "5604780134",
+        "phone_2": "230.804.8132x353",
+        "phone_3": "353.354.5603",
+        "ref_walk": "Edif9991",
+        "reference": "nH381",
+        "siret": 84243852271430,
+        "vat_no": "sp40135501581",
+        "website": "https://www.vazquez.com/"
+    },
+    "tax": {
+        "amount_0": 13.45,
+        "amount_1": 13.92,
+        "base_0": 13.24,
+        "base_1": 173.6,
+        "total_ht": 488.27,
+        "total_tax": 11.77,
+        "total_ttc": 477.72,
+        "vat_0": 15.85,
+        "vat_1": 19.23
+    }
+}

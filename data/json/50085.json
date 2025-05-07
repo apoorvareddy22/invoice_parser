@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "72385 Evans Brooks Suite 348 Port Krista, WV 86109",
+        "id": "sg009"
+    },
+    "invoice": {
+        "bc_no": "rR35667",
+        "currency_code": "FKP",
+        "date": "23.04.2002",
+        "due_date": "25.09.2010",
+        "number": 641841
+    },
+    "payment": {
+        "bank_name": "Shields Group",
+        "bic": "YRJOGB5J",
+        "iban": "ISBQ84982077132305"
+    },
+    "products": [
+        {
+            "amount": 231.09,
+            "description": "generate synergistic portals",
+            "index": "9",
+            "price": 159.0,
+            "quantity": 1.08,
+            "tax_amount": 74.96,
+            "total_ttc": 300.03,
+            "vat_amount": 4.84
+        }
+    ],
+    "seller": {
+        "name": "Jacob Morris"
+    },
+    "supplier": {
+        "address": "PSC 6927, Box 0706 APO AP 11008",
+        "name": "Amanda Barr"
+    },
+    "tax": {
+        "amount_excluding_tax": 23.83,
+        "amount_including_tax": 122.84,
+        "tax_amount": 19.83,
+        "total_ht": 167.37,
+        "total_ttc": 313.44
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "22960 Erin Walks Apt. 447 Nicolebury, NJ 36668",
+        "email": "brittanybean@example.com",
+        "phone": "643-925-4537",
+        "vat_no": "QP99266071214"
+    },
+    "invoice": {
+        "date": "02.07.2019",
+        "due_date": "07.03.2005",
+        "market_reference": 792066,
+        "notes": "revolutionize transparent vortals",
+        "number": "2956-7364",
+        "reference": 687286,
+        "vat_no": "RL64988448756"
+    },
+    "payment": {
+        "net_total": 59.81,
+        "total": 571.05
+    },
+    "products": [
+        {
+            "amount": 42.61,
+            "description": "optimize mission-critical vortals",
+            "hours": 5.37,
+            "rate": 2.54
+        },
+        {
+            "amount": 134.24,
+            "description": "optimize bleeding-edge platforms",
+            "hours": 2.98,
+            "rate": 9.87
+        },
+        {
+            "amount": 421.13,
+            "description": "iterate world-class niches",
+            "hours": 6.54,
+            "rate": 8.14
+        },
+        {
+            "amount": 369.36,
+            "description": "harness bricks-and-clicks eyeballs",
+            "hours": 9.37,
+            "rate": 5.55
+        }
+    ],
+    "seller": {
+        "address": "5808 Campbell Crossroad Valenciachester, CA 50678",
+        "email": "anthonylewis@example.org",
+        "name": "Chelsea Valencia"
+    },
+    "tax": {
+        "base": 21.06,
+        "tax_amount": 16.7,
+        "total_tax": 26.23
+    }
+}

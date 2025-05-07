@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "9986 James Cliff New Brandon, MA 05691",
+        "email": "anthony47@example.com",
+        "phone": "902.244.0520x787",
+        "vat_no": "rn10520183719"
+    },
+    "invoice": {
+        "date": "17.05.2013",
+        "due_date": "01.02.2008",
+        "market_reference": 393824,
+        "notes": "streamline strategic info-mediaries",
+        "number": "2413-2944",
+        "reference": 214104,
+        "vat_no": "Jp80310306803"
+    },
+    "payment": {
+        "net_total": 194.66,
+        "total": 544.54
+    },
+    "products": [
+        {
+            "amount": 72.82,
+            "description": "brand sticky metrics",
+            "hours": 9.07,
+            "rate": 4.0
+        },
+        {
+            "amount": 95.08,
+            "description": "re-contextualize front-end models",
+            "hours": 4.5,
+            "rate": 5.72
+        },
+        {
+            "amount": 205.72,
+            "description": "deliver cross-media methodologies",
+            "hours": 5.18,
+            "rate": 8.2
+        },
+        {
+            "amount": 245.12,
+            "description": "incentivize B2B metrics",
+            "hours": 5.03,
+            "rate": 3.67
+        }
+    ],
+    "seller": {
+        "address": "8835 Potter Roads Apt. 392 Youngmouth, AZ 56529",
+        "email": "lindawinters@example.org",
+        "name": "James Chapman"
+    },
+    "tax": {
+        "base": 27.32,
+        "tax_amount": 26.72,
+        "total_tax": 22.4
+    }
+}

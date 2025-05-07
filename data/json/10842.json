@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "PSC 4374, Box 1364 APO AA 46489",
+        "email": "halepatrick@example.org",
+        "phone": "001-604-627-5261x3440",
+        "vat_no": "XV01342795452"
+    },
+    "invoice": {
+        "date": "28.03.1992",
+        "due_date": "21.03.2008",
+        "market_reference": 834638,
+        "notes": "syndicate strategic action-items",
+        "number": "9070-6969",
+        "reference": 945210,
+        "vat_no": "Ju59856288780"
+    },
+    "payment": {
+        "net_total": 56.64,
+        "total": 457.14
+    },
+    "products": [
+        {
+            "amount": 260.45,
+            "description": "innovate seamless e-business",
+            "hours": 8.54,
+            "rate": 2.86
+        },
+        {
+            "amount": 25.53,
+            "description": "envisioneer viral convergence",
+            "hours": 9.74,
+            "rate": 6.34
+        },
+        {
+            "amount": 69.44,
+            "description": "benchmark back-end networks",
+            "hours": 8.03,
+            "rate": 8.77
+        },
+        {
+            "amount": 282.79,
+            "description": "maximize B2B web-readiness",
+            "hours": 1.63,
+            "rate": 8.93
+        },
+        {
+            "amount": 8.19,
+            "description": "whiteboard 24/365 synergies",
+            "hours": 1.18,
+            "rate": 6.64
+        },
+        {
+            "amount": 96.5,
+            "description": "deliver innovative solutions",
+            "hours": 5.11,
+            "rate": 9.08
+        },
+        {
+            "amount": 316.99,
+            "description": "streamline turn-key networks",
+            "hours": 6.77,
+            "rate": 7.92
+        }
+    ],
+    "seller": {
+        "address": "59183 Robinson Fords Debrastad, AS 93314",
+        "email": "charles62@example.com",
+        "name": "Gabrielle White"
+    },
+    "tax": {
+        "base": 26.12,
+        "tax_amount": 21.19,
+        "total_tax": 28.84
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "671 Tran Stravenue Suite 271 Bellshire, GU 86750",
+        "email": "kurt33@example.com",
+        "phone": "(516)764-5398",
+        "vat_no": "DV82193356729"
+    },
+    "invoice": {
+        "date": "06.02.1999",
+        "due_date": "28.08.2001",
+        "market_reference": 473492,
+        "notes": "redefine holistic vortals",
+        "number": "2267-6706",
+        "reference": 927295,
+        "vat_no": "ZR74560701112"
+    },
+    "payment": {
+        "net_total": 75.33,
+        "total": 739.67
+    },
+    "products": [
+        {
+            "amount": 99.84,
+            "description": "repurpose holistic ROI",
+            "hours": 5.77,
+            "rate": 6.24
+        }
+    ],
+    "seller": {
+        "address": "2751 Costa Wells Suite 340 New Jessicaborough, NH 95573",
+        "email": "shawbenjamin@example.com",
+        "name": "Charles Herrera"
+    },
+    "tax": {
+        "base": 12.82,
+        "tax_amount": 18.29,
+        "total_tax": 19.92
+    }
+}

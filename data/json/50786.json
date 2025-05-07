@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "405 Angela Oval Lake Alyssa, FL 12479",
+        "id": "vd625"
+    },
+    "invoice": {
+        "bc_no": "Cv10680",
+        "currency_code": "COP",
+        "date": "18.05.2021",
+        "due_date": "13.04.2021",
+        "number": 140011
+    },
+    "payment": {
+        "bank_name": "Sampson, Bird and Hernandez",
+        "bic": "KHRFGBT6",
+        "iban": "NHOX07402047835612"
+    },
+    "products": [
+        {
+            "amount": 36.86,
+            "description": "mesh distributed bandwidth",
+            "index": "8",
+            "price": 378.74,
+            "quantity": 5.0,
+            "tax_amount": 43.23,
+            "total_ttc": 222.59,
+            "vat_amount": 8.3
+        },
+        {
+            "amount": 44.2,
+            "description": "brand out-of-the-box interfaces",
+            "index": "5",
+            "price": 120.09,
+            "quantity": 6.03,
+            "tax_amount": 34.05,
+            "total_ttc": 324.3,
+            "vat_amount": 10.24
+        },
+        {
+            "amount": 136.14,
+            "description": "syndicate mission-critical portals",
+            "index": "10",
+            "price": 206.01,
+            "quantity": 4.79,
+            "tax_amount": 90.48,
+            "total_ttc": 169.78,
+            "vat_amount": 5.31
+        },
+        {
+            "amount": 402.78,
+            "description": "morph robust synergies",
+            "index": "3",
+            "price": 426.62,
+            "quantity": 1.48,
+            "tax_amount": 32.24,
+            "total_ttc": 164.56,
+            "vat_amount": 0.09
+        },
+        {
+            "amount": 338.12,
+            "description": "brand visionary channels",
+            "index": "1",
+            "price": 127.69,
+            "quantity": 2.0,
+            "tax_amount": 70.48,
+            "total_ttc": 145.25,
+            "vat_amount": 1.71
+        },
+        {
+            "amount": 366.46,
+            "description": "innovate cross-media platforms",
+            "index": "3",
+            "price": 61.32,
+            "quantity": 7.24,
+            "tax_amount": 76.09,
+            "total_ttc": 316.28,
+            "vat_amount": 1.09
+        },
+        {
+            "amount": 165.95,
+            "description": "brand scalable deliverables",
+            "index": "8",
+            "price": 196.47,
+            "quantity": 1.24,
+            "tax_amount": 90.34,
+            "total_ttc": 341.86,
+            "vat_amount": 5.72
+        }
+    ],
+    "seller": {
+        "name": "Kevin Randall"
+    },
+    "supplier": {
+        "address": "8892 Weber Highway Port Renee, TX 04000",
+        "name": "Jennifer Jordan"
+    },
+    "tax": {
+        "amount_excluding_tax": 175.32,
+        "amount_including_tax": 19.08,
+        "tax_amount": 12.5,
+        "total_ht": 381.96,
+        "total_ttc": 123.67
+    }
+}

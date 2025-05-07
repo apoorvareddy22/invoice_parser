@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "6975 Holt Mountain East Patricia, LA 57698",
+        "id": "VU026"
+    },
+    "invoice": {
+        "bc_no": "Yf19175",
+        "currency_code": "SDG",
+        "date": "14.09.2012",
+        "due_date": "26.12.2011",
+        "number": 728867
+    },
+    "payment": {
+        "bank_name": "Young Ltd",
+        "bic": "BIYQGBD5",
+        "iban": "IUMD34972750072640"
+    },
+    "products": [
+        {
+            "amount": 302.02,
+            "description": "synthesize plug-and-play partnerships",
+            "index": "8",
+            "price": 78.49,
+            "quantity": 7.8,
+            "tax_amount": 83.09,
+            "total_ttc": 190.11,
+            "vat_amount": 6.63
+        },
+        {
+            "amount": 124.5,
+            "description": "visualize frictionless platforms",
+            "index": "3",
+            "price": 135.4,
+            "quantity": 4.43,
+            "tax_amount": 17.14,
+            "total_ttc": 495.61,
+            "vat_amount": 10.99
+        },
+        {
+            "amount": 331.71,
+            "description": "enable distributed niches",
+            "index": "3",
+            "price": 318.34,
+            "quantity": 9.25,
+            "tax_amount": 75.78,
+            "total_ttc": 455.03,
+            "vat_amount": 7.54
+        },
+        {
+            "amount": 449.3,
+            "description": "matrix magnetic e-commerce",
+            "index": "7",
+            "price": 371.96,
+            "quantity": 1.13,
+            "tax_amount": 92.6,
+            "total_ttc": 341.03,
+            "vat_amount": 10.5
+        },
+        {
+            "amount": 268.9,
+            "description": "redefine compelling e-services",
+            "index": "6",
+            "price": 432.86,
+            "quantity": 3.22,
+            "tax_amount": 27.29,
+            "total_ttc": 137.15,
+            "vat_amount": 4.4
+        },
+        {
+            "amount": 119.1,
+            "description": "matrix one-to-one content",
+            "index": "6",
+            "price": 163.87,
+            "quantity": 3.83,
+            "tax_amount": 50.95,
+            "total_ttc": 184.18,
+            "vat_amount": 0.21
+        }
+    ],
+    "seller": {
+        "name": "Sandra Miranda"
+    },
+    "supplier": {
+        "address": "660 Ashley Lock West Walterfurt, AR 67647",
+        "name": "Marcus Thomas"
+    },
+    "tax": {
+        "amount_excluding_tax": 96.33,
+        "amount_including_tax": 11.44,
+        "tax_amount": 12.08,
+        "total_ht": 179.61,
+        "total_ttc": 313.39
+    }
+}

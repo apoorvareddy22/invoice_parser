@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "839 Mendez Points Apt. 618 Port Megan, TN 60383",
+        "id": "Ty776"
+    },
+    "invoice": {
+        "bc_no": "ox96536",
+        "currency_code": "MYR",
+        "date": "05.09.1999",
+        "due_date": "06.10.2010",
+        "number": 951956
+    },
+    "payment": {
+        "bank_name": "Crawford, Collins and Mccarthy",
+        "bic": "SJJOGB2NDE7",
+        "iban": "RRCC14108578003220"
+    },
+    "products": [
+        {
+            "amount": 151.5,
+            "description": "cultivate integrated models",
+            "index": "5",
+            "price": 410.71,
+            "quantity": 2.92,
+            "tax_amount": 51.19,
+            "total_ttc": 347.72,
+            "vat_amount": 7.68
+        },
+        {
+            "amount": 327.08,
+            "description": "drive user-centric supply-chains",
+            "index": "7",
+            "price": 418.03,
+            "quantity": 9.07,
+            "tax_amount": 22.69,
+            "total_ttc": 394.51,
+            "vat_amount": 2.13
+        }
+    ],
+    "seller": {
+        "name": "Brittany Steele"
+    },
+    "supplier": {
+        "address": "60657 Payne Expressway Hendersonville, SD 02028",
+        "name": "Carol Moss"
+    },
+    "tax": {
+        "amount_excluding_tax": 54.39,
+        "amount_including_tax": 12.75,
+        "tax_amount": 13.8,
+        "total_ht": 324.22,
+        "total_ttc": 419.83
+    }
+}

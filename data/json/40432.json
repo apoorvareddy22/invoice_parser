@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "7143 Mullins Mountain New Edwardfurt, CO 70017"
+    },
+    "invoice": {
+        "bc_no": "aQ40792",
+        "date": "17.05.2000",
+        "maturity_date": "18.12.2006",
+        "number": 208052
+    },
+    "products": [
+        {
+            "amount": 391.53,
+            "description": "architect robust systems",
+            "quantity": 5.75,
+            "unit_price": 29.99,
+            "vat_amount": 10.48
+        },
+        {
+            "amount": 256.15,
+            "description": "benchmark 24/7 infrastructures",
+            "quantity": 9.67,
+            "unit_price": 86.87,
+            "vat_amount": 1.13
+        },
+        {
+            "amount": 296.14,
+            "description": "re-contextualize open-source convergence",
+            "quantity": 9.48,
+            "unit_price": 27.69,
+            "vat_amount": 5.21
+        },
+        {
+            "amount": 325.55,
+            "description": "re-contextualize 24/7 web services",
+            "quantity": 4.0,
+            "unit_price": 38.66,
+            "vat_amount": 3.23
+        }
+    ],
+    "seller": {
+        "address": "27319 Carolyn Path Kevinmouth, VT 54243"
+    },
+    "tax": {
+        "amount_excluding_tax": 71.18,
+        "amount_including_tax": 109.93,
+        "tax_amount": 20.19
+    }
+}

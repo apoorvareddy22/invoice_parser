@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "2048 Jacqueline Rest Apt. 506 Michaelshire, NC 70984"
+    },
+    "invoice": {
+        "bc_no": "Pk83551",
+        "date": "27.08.2022",
+        "maturity_date": "07.01.2001",
+        "number": 553800
+    },
+    "products": [
+        {
+            "amount": 190.78,
+            "description": "re-contextualize out-of-the-box paradigms",
+            "quantity": 8.85,
+            "unit_price": 46.87,
+            "vat_amount": 3.91
+        },
+        {
+            "amount": 249.32,
+            "description": "revolutionize one-to-one users",
+            "quantity": 4.41,
+            "unit_price": 74.73,
+            "vat_amount": 1.9
+        },
+        {
+            "amount": 498.9,
+            "description": "leverage impactful architectures",
+            "quantity": 4.84,
+            "unit_price": 10.22,
+            "vat_amount": 0.66
+        },
+        {
+            "amount": 81.71,
+            "description": "seize proactive systems",
+            "quantity": 2.78,
+            "unit_price": 55.49,
+            "vat_amount": 1.25
+        },
+        {
+            "amount": 282.29,
+            "description": "scale best-of-breed infrastructures",
+            "quantity": 8.66,
+            "unit_price": 77.11,
+            "vat_amount": 5.95
+        }
+    ],
+    "seller": {
+        "address": "USCGC Harrison FPO AA 40874"
+    },
+    "tax": {
+        "amount_excluding_tax": 81.85,
+        "amount_including_tax": 63.89,
+        "tax_amount": 10.33
+    }
+}

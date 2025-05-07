@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "01435 Shawn Branch Simmonsview, MS 38902",
+        "company_name": "French and Sons",
+        "country": "Bangladesh",
+        "email": "kathy51@example.net",
+        "name": "Mr. Tyler Burnett",
+        "phone": "6324274865",
+        "vat_no": "VV63621122923"
+    },
+    "invoice": {
+        "date": "08.09.2005",
+        "due_date": "16.02.2007",
+        "linked_invoice": "BC-6900-4840",
+        "notes": "exploit end-to-end mindshare",
+        "number": "AA-6379-1364"
+    },
+    "products": [
+        {
+            "description": "re-contextualize compelling technologies",
+            "discount_percentage": 7.9,
+            "price": 482.37,
+            "quantity": 5.97,
+            "unit_price": 19.71
+        },
+        {
+            "description": "grow leading-edge content",
+            "discount_percentage": 11.01,
+            "price": 78.18,
+            "quantity": 7.12,
+            "unit_price": 46.28
+        },
+        {
+            "description": "incentivize extensible eyeballs",
+            "discount_percentage": 6.06,
+            "price": 15.35,
+            "quantity": 5.39,
+            "unit_price": 21.85
+        },
+        {
+            "description": "target best-of-breed technologies",
+            "discount_percentage": 9.23,
+            "price": 39.53,
+            "quantity": 4.0,
+            "unit_price": 70.71
+        }
+    ],
+    "seller": {
+        "address": "2950 Smith Valley Suite 260 Kimberlyshire, KY 45565",
+        "ape": "9321h",
+        "capital": 52388462,
+        "country": "Chile",
+        "email": "hmiller@example.net",
+        "name": "Daniel Jimenez",
+        "phone_1": "(303)904-3230x8477",
+        "phone_2": "942-670-7235x1752",
+        "phone_3": "809-769-0860x466",
+        "ref_walk": "haSW0887",
+        "reference": "RO156",
+        "siret": 59227604563368,
+        "vat_no": "mZ75485909183",
+        "website": "http://bailey.com/"
+    },
+    "tax": {
+        "amount_0": 10.81,
+        "amount_1": 15.34,
+        "base_0": 19.69,
+        "base_1": 74.18,
+        "total_ht": 138.85,
+        "total_tax": 27.83,
+        "total_ttc": 151.25,
+        "vat_0": 26.3,
+        "vat_1": 24.64
+    }
+}

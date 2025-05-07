@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "191 Stephens Courts Mejiaburgh, WA 79316",
+        "email": "thomas77@example.net",
+        "phone": "(584)515-4837x63426",
+        "vat_no": "Mo37646414031"
+    },
+    "invoice": {
+        "date": "06.07.2006",
+        "due_date": "08.10.2022",
+        "market_reference": 288012,
+        "notes": "disintermediate innovative users",
+        "number": "9227-8302",
+        "reference": 437567,
+        "vat_no": "hA74979156142"
+    },
+    "payment": {
+        "net_total": 91.4,
+        "total": 571.5
+    },
+    "products": [
+        {
+            "amount": 390.29,
+            "description": "evolve global vortals",
+            "hours": 2.32,
+            "rate": 4.7
+        },
+        {
+            "amount": 474.27,
+            "description": "maximize synergistic bandwidth",
+            "hours": 9.9,
+            "rate": 9.08
+        },
+        {
+            "amount": 54.67,
+            "description": "e-enable global content",
+            "hours": 1.69,
+            "rate": 2.58
+        },
+        {
+            "amount": 52.91,
+            "description": "facilitate sticky e-markets",
+            "hours": 5.5,
+            "rate": 1.78
+        }
+    ],
+    "seller": {
+        "address": "169 Jackson Highway Suite 746 Danielston, CO 26913",
+        "email": "debra12@example.net",
+        "name": "Scott Mclaughlin"
+    },
+    "tax": {
+        "base": 22.08,
+        "tax_amount": 20.21,
+        "total_tax": 29.15
+    }
+}

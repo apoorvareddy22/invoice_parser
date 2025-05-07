@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "1495 James Expressway Jimmyville, AL 70691",
+        "email": "wwagner@example.org",
+        "phone": "(625)991-8859",
+        "vat_no": "Pu08090077186"
+    },
+    "invoice": {
+        "date": "26.04.2020",
+        "due_date": "10.04.2014",
+        "market_reference": 337527,
+        "notes": "engage virtual content",
+        "number": "6445-0881",
+        "reference": 285001,
+        "vat_no": "UZ19026266285"
+    },
+    "payment": {
+        "net_total": 148.25,
+        "total": 489.75
+    },
+    "products": [
+        {
+            "amount": 433.04,
+            "description": "syndicate real-time methodologies",
+            "hours": 7.54,
+            "rate": 7.19
+        },
+        {
+            "amount": 450.56,
+            "description": "repurpose bricks-and-clicks web services",
+            "hours": 7.34,
+            "rate": 5.48
+        },
+        {
+            "amount": 275.19,
+            "description": "drive next-generation applications",
+            "hours": 2.71,
+            "rate": 2.83
+        },
+        {
+            "amount": 325.71,
+            "description": "productize impactful methodologies",
+            "hours": 2.45,
+            "rate": 7.89
+        },
+        {
+            "amount": 368.34,
+            "description": "incubate intuitive initiatives",
+            "hours": 9.05,
+            "rate": 7.47
+        }
+    ],
+    "seller": {
+        "address": "1305 Torres Roads Apt. 350 Lake Michaelborough, CA 47572",
+        "email": "michaelsmith@example.com",
+        "name": "Dawn Oneill"
+    },
+    "tax": {
+        "base": 20.45,
+        "tax_amount": 11.34,
+        "total_tax": 25.14
+    }
+}

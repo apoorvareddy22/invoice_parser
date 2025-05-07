@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "06504 Brent Island Michellechester, TN 30291",
+        "email": "dana26@example.org",
+        "phone": "+1-834-782-1793x4644",
+        "vat_no": "cH62067820615"
+    },
+    "invoice": {
+        "date": "07.12.1996",
+        "due_date": "09.03.2000",
+        "market_reference": 970242,
+        "notes": "embrace integrated channels",
+        "number": "8141-5026",
+        "reference": 154925,
+        "vat_no": "Nf12525568477"
+    },
+    "payment": {
+        "net_total": 46.59,
+        "total": 462.87
+    },
+    "products": [
+        {
+            "amount": 46.98,
+            "description": "evolve e-business web-readiness",
+            "hours": 3.8,
+            "rate": 3.77
+        },
+        {
+            "amount": 393.48,
+            "description": "facilitate synergistic experiences",
+            "hours": 1.91,
+            "rate": 2.03
+        },
+        {
+            "amount": 416.74,
+            "description": "morph global markets",
+            "hours": 3.57,
+            "rate": 3.68
+        },
+        {
+            "amount": 365.58,
+            "description": "aggregate end-to-end synergies",
+            "hours": 1.2,
+            "rate": 9.51
+        },
+        {
+            "amount": 125.45,
+            "description": "scale next-generation interfaces",
+            "hours": 4.53,
+            "rate": 2.95
+        }
+    ],
+    "seller": {
+        "address": "24983 Singh Walk Apt. 327 Port Andrewport, KS 63611",
+        "email": "hansonbrandon@example.com",
+        "name": "Melissa Kim"
+    },
+    "tax": {
+        "base": 18.32,
+        "tax_amount": 14.53,
+        "total_tax": 12.76
+    }
+}

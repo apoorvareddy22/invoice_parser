@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "627 Smith Lakes Bradleyside, OK 33591",
+        "id": "WH581"
+    },
+    "invoice": {
+        "bc_no": "rZ36743",
+        "currency_code": "XCD",
+        "date": "01.02.2022",
+        "due_date": "13.02.2005",
+        "number": 739815
+    },
+    "payment": {
+        "bank_name": "Dalton, Peck and Johnson",
+        "bic": "FNFNGB7JPAG",
+        "iban": "BSVJ75634322541205"
+    },
+    "products": [
+        {
+            "amount": 471.18,
+            "description": "strategize intuitive partnerships",
+            "index": "3",
+            "price": 283.79,
+            "quantity": 4.59,
+            "tax_amount": 90.5,
+            "total_ttc": 476.43,
+            "vat_amount": 7.45
+        },
+        {
+            "amount": 447.08,
+            "description": "envisioneer 24/7 experiences",
+            "index": "8",
+            "price": 496.02,
+            "quantity": 3.14,
+            "tax_amount": 74.42,
+            "total_ttc": 117.94,
+            "vat_amount": 12.99
+        },
+        {
+            "amount": 137.69,
+            "description": "optimize robust architectures",
+            "index": "9",
+            "price": 251.97,
+            "quantity": 6.12,
+            "tax_amount": 27.52,
+            "total_ttc": 496.53,
+            "vat_amount": 2.12
+        }
+    ],
+    "seller": {
+        "name": "Bryan Henson"
+    },
+    "supplier": {
+        "address": "PSC 2682, Box 7556 APO AE 68599",
+        "name": "Heather Hall"
+    },
+    "tax": {
+        "amount_excluding_tax": 59.09,
+        "amount_including_tax": 187.13,
+        "tax_amount": 29.03,
+        "total_ht": 265.43,
+        "total_ttc": 353.26
+    }
+}

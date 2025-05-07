@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "7769 Carrie Trafficway Apt. 736 Lesliefurt, TN 61926",
+        "business_no": "BH180",
+        "id": "yC375"
+    },
+    "invoice": {
+        "date": "30.10.1995",
+        "number": "3900-2950"
+    },
+    "payment": {
+        "due_date": "29.04.2006",
+        "total": 561.7
+    },
+    "products": [
+        {
+            "amount": 486.76,
+            "description": "incentivize open-source e-markets",
+            "quantity": 1.86,
+            "reference": "Iq-892",
+            "unit_price": 51.43
+        }
+    ],
+    "seller": {
+        "address": "133 Kevin Stream Johnchester, CT 79275"
+    },
+    "tax": {
+        "base_ht": 135.85,
+        "regulations": 24.6,
+        "total_ht": 332.74,
+        "vat_amount": 64.57,
+        "vat_percentage": 26.43
+    }
+}

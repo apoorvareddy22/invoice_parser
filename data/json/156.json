@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "229 Walker Bridge Apt. 017 North Daniel, WV 05332",
+        "company_name": "Short, Schmidt and Roberts",
+        "country": "Croatia",
+        "name": "Eric Kaiser"
+    },
+    "invoice": {
+        "date": "09.09.2010",
+        "number": 395688
+    },
+    "payment": {
+        "discount_amount": 24.71,
+        "discount_percentage": 8.8,
+        "due": 109.33,
+        "sub_total": 68.88,
+        "total": 471.75
+    },
+    "products": [
+        {
+            "description": "envisioneer impactful e-markets",
+            "index": "1",
+            "quantity": 4.11,
+            "total_price": 477.84,
+            "unit_price": 83.51
+        },
+        {
+            "description": "integrate value-added users",
+            "index": "3",
+            "quantity": 6.45,
+            "total_price": 339.8,
+            "unit_price": 67.18
+        },
+        {
+            "description": "evolve front-end channels",
+            "index": "10",
+            "quantity": 6.85,
+            "total_price": 599.74,
+            "unit_price": 63.31
+        },
+        {
+            "description": "visualize compelling convergence",
+            "index": "3",
+            "quantity": 3.17,
+            "total_price": 302.89,
+            "unit_price": 38.78
+        }
+    ],
+    "seller": {
+        "address": "PSC 7688, Box 2844 APO AP 16376",
+        "company_name": "Hamilton-Stanton",
+        "vat_no": "cb45499354975"
+    }
+}

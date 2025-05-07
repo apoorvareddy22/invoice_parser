@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "647 Dennis Forge Nicholaston, VA 65698",
+        "email": "webbjack@example.com",
+        "phone": "763.414.8028",
+        "vat_no": "cy88308170164"
+    },
+    "invoice": {
+        "date": "18.02.2021",
+        "due_date": "24.07.2021",
+        "market_reference": 937379,
+        "notes": "orchestrate efficient users",
+        "number": "2211-0099",
+        "reference": 790256,
+        "vat_no": "Mb87738829961"
+    },
+    "payment": {
+        "net_total": 150.81,
+        "total": 477.3
+    },
+    "products": [
+        {
+            "amount": 290.74,
+            "description": "maximize best-of-breed systems",
+            "hours": 8.25,
+            "rate": 6.47
+        },
+        {
+            "amount": 375.85,
+            "description": "exploit dot-com vortals",
+            "hours": 8.9,
+            "rate": 6.26
+        },
+        {
+            "amount": 41.83,
+            "description": "facilitate world-class web-readiness",
+            "hours": 6.73,
+            "rate": 1.34
+        },
+        {
+            "amount": 164.19,
+            "description": "strategize integrated methodologies",
+            "hours": 1.97,
+            "rate": 8.9
+        },
+        {
+            "amount": 78.53,
+            "description": "e-enable viral experiences",
+            "hours": 8.88,
+            "rate": 3.6
+        },
+        {
+            "amount": 75.95,
+            "description": "reinvent collaborative infrastructures",
+            "hours": 5.48,
+            "rate": 3.63
+        }
+    ],
+    "seller": {
+        "address": "USNV Brown FPO AP 32678",
+        "email": "howardleslie@example.net",
+        "name": "Stephen Parker"
+    },
+    "tax": {
+        "base": 29.99,
+        "tax_amount": 13.75,
+        "total_tax": 23.33
+    }
+}

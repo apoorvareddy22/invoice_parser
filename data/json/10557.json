@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "50341 Lisa Roads Apt. 548 Tranbury, MH 74435",
+        "email": "ksmith@example.net",
+        "phone": "204.783.5390",
+        "vat_no": "Rq49631515382"
+    },
+    "invoice": {
+        "date": "05.06.1992",
+        "due_date": "03.06.1996",
+        "market_reference": 592241,
+        "notes": "empower intuitive infrastructures",
+        "number": "8441-5586",
+        "reference": 602151,
+        "vat_no": "Ow30313453970"
+    },
+    "payment": {
+        "net_total": 31.53,
+        "total": 764.45
+    },
+    "products": [
+        {
+            "amount": 99.57,
+            "description": "embrace world-class experiences",
+            "hours": 5.77,
+            "rate": 7.4
+        },
+        {
+            "amount": 38.1,
+            "description": "envisioneer user-centric paradigms",
+            "hours": 5.45,
+            "rate": 1.31
+        },
+        {
+            "amount": 412.25,
+            "description": "streamline seamless interfaces",
+            "hours": 6.38,
+            "rate": 6.22
+        }
+    ],
+    "seller": {
+        "address": "89447 Amanda Plain Brittanyhaven, FM 41749",
+        "email": "oscar28@example.org",
+        "name": "Jeffrey Jones"
+    },
+    "tax": {
+        "base": 19.14,
+        "tax_amount": 24.87,
+        "total_tax": 18.65
+    }
+}

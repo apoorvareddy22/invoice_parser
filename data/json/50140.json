@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "3199 Angela Glen South Jamie, PR 33730",
+        "id": "ms799"
+    },
+    "invoice": {
+        "bc_no": "yY96308",
+        "currency_code": "MGA",
+        "date": "02.07.1999",
+        "due_date": "02.02.2019",
+        "number": 955004
+    },
+    "payment": {
+        "bank_name": "Dominguez Group",
+        "bic": "GAKXGBKT",
+        "iban": "VXVA31399969900564"
+    },
+    "products": [
+        {
+            "amount": 195.44,
+            "description": "evolve clicks-and-mortar content",
+            "index": "1",
+            "price": 233.04,
+            "quantity": 4.22,
+            "tax_amount": 54.44,
+            "total_ttc": 256.42,
+            "vat_amount": 8.08
+        },
+        {
+            "amount": 416.62,
+            "description": "brand viral solutions",
+            "index": "10",
+            "price": 134.07,
+            "quantity": 7.95,
+            "tax_amount": 36.8,
+            "total_ttc": 138.07,
+            "vat_amount": 6.33
+        }
+    ],
+    "seller": {
+        "name": "John Martin"
+    },
+    "supplier": {
+        "address": "683 Campbell Mountain New Wandahaven, OH 44773",
+        "name": "Lindsey Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 79.47,
+        "amount_including_tax": 160.33,
+        "tax_amount": 18.75,
+        "total_ht": 326.36,
+        "total_ttc": 426.34
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "5124 Joan Stream Port Laura, AK 78208",
+        "email": "ubrady@example.org",
+        "phone": "549.959.5705x36828",
+        "vat_no": "ij32420859727"
+    },
+    "invoice": {
+        "date": "29.09.2018",
+        "due_date": "19.05.2012",
+        "market_reference": 581274,
+        "notes": "scale B2B e-business",
+        "number": "5533-0649",
+        "reference": 180178,
+        "vat_no": "yq68594909454"
+    },
+    "payment": {
+        "net_total": 120.18,
+        "total": 670.65
+    },
+    "products": [
+        {
+            "amount": 481.55,
+            "description": "visualize plug-and-play bandwidth",
+            "hours": 4.19,
+            "rate": 5.02
+        },
+        {
+            "amount": 163.54,
+            "description": "strategize e-business interfaces",
+            "hours": 9.12,
+            "rate": 5.41
+        },
+        {
+            "amount": 406.75,
+            "description": "whiteboard cross-platform web services",
+            "hours": 5.73,
+            "rate": 9.71
+        }
+    ],
+    "seller": {
+        "address": "PSC 8165, Box 1661 APO AE 00547",
+        "email": "cody78@example.org",
+        "name": "Stephen Morales"
+    },
+    "tax": {
+        "base": 29.61,
+        "tax_amount": 24.3,
+        "total_tax": 16.49
+    }
+}

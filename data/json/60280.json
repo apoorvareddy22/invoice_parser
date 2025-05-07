@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "45014 Devin Isle Apt. 697 South Ericburgh, KY 27970",
+        "business_no": "Ts064",
+        "id": "aQ128"
+    },
+    "invoice": {
+        "date": "18.01.2011",
+        "number": "9928-8185"
+    },
+    "payment": {
+        "due_date": "14.02.2022",
+        "total": 844.34
+    },
+    "products": [
+        {
+            "amount": 238.06,
+            "description": "transition one-to-one mindshare",
+            "quantity": 2.61,
+            "reference": "bj-709",
+            "unit_price": 58.79
+        },
+        {
+            "amount": 422.02,
+            "description": "synergize plug-and-play web-readiness",
+            "quantity": 8.87,
+            "reference": "Fs-115",
+            "unit_price": 79.56
+        },
+        {
+            "amount": 129.62,
+            "description": "optimize cross-media users",
+            "quantity": 1.91,
+            "reference": "dk-843",
+            "unit_price": 35.23
+        },
+        {
+            "amount": 54.86,
+            "description": "cultivate web-enabled e-services",
+            "quantity": 8.43,
+            "reference": "cB-058",
+            "unit_price": 49.52
+        },
+        {
+            "amount": 260.17,
+            "description": "target wireless e-business",
+            "quantity": 9.59,
+            "reference": "Pi-994",
+            "unit_price": 12.31
+        },
+        {
+            "amount": 250.45,
+            "description": "streamline dynamic applications",
+            "quantity": 8.97,
+            "reference": "Kj-126",
+            "unit_price": 63.71
+        }
+    ],
+    "seller": {
+        "address": "2372 Reed Falls Suite 352 East Adam, NJ 53034"
+    },
+    "tax": {
+        "base_ht": 253.2,
+        "regulations": 11.94,
+        "total_ht": 467.05,
+        "vat_amount": 58.2,
+        "vat_percentage": 22.74
+    }
+}

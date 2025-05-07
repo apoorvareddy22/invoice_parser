@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "837 Bauer Port Suite 280 Wendyfort, WV 24451",
+        "business_no": "BF648",
+        "id": "wj138"
+    },
+    "invoice": {
+        "date": "28.05.2011",
+        "number": "1603-8691"
+    },
+    "payment": {
+        "due_date": "22.12.2007",
+        "total": 770.71
+    },
+    "products": [
+        {
+            "amount": 369.69,
+            "description": "scale viral e-markets",
+            "quantity": 9.39,
+            "reference": "FH-253",
+            "unit_price": 85.42
+        },
+        {
+            "amount": 390.6,
+            "description": "engage transparent applications",
+            "quantity": 8.81,
+            "reference": "rk-887",
+            "unit_price": 94.03
+        }
+    ],
+    "seller": {
+        "address": "913 Rebecca Hollow Lopezborough, IA 85801"
+    },
+    "tax": {
+        "base_ht": 103.44,
+        "regulations": 23.76,
+        "total_ht": 257.4,
+        "vat_amount": 50.44,
+        "vat_percentage": 16.19
+    }
+}

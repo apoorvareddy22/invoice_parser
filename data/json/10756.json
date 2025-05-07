@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "166 Randy Camp Novakville, IN 14733",
+        "email": "thomasamanda@example.org",
+        "phone": "440-621-1542x0708",
+        "vat_no": "vp16992249325"
+    },
+    "invoice": {
+        "date": "13.11.2005",
+        "due_date": "10.10.1991",
+        "market_reference": 343986,
+        "notes": "extend scalable ROI",
+        "number": "8602-0523",
+        "reference": 637126,
+        "vat_no": "Tq47823154778"
+    },
+    "payment": {
+        "net_total": 194.36,
+        "total": 421.49
+    },
+    "products": [
+        {
+            "amount": 317.09,
+            "description": "implement B2C architectures",
+            "hours": 1.12,
+            "rate": 5.69
+        },
+        {
+            "amount": 7.56,
+            "description": "aggregate magnetic initiatives",
+            "hours": 8.68,
+            "rate": 6.64
+        },
+        {
+            "amount": 317.65,
+            "description": "expedite plug-and-play platforms",
+            "hours": 6.07,
+            "rate": 6.0
+        }
+    ],
+    "seller": {
+        "address": "29257 Hernandez Drives Michellebury, MD 17738",
+        "email": "amanda72@example.net",
+        "name": "Joanna Fuentes"
+    },
+    "tax": {
+        "base": 25.75,
+        "tax_amount": 23.14,
+        "total_tax": 29.08
+    }
+}

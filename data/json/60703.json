@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "738 Watkins Park Apt. 108 Baldwinhaven, AL 81989",
+        "business_no": "yX890",
+        "id": "aV625"
+    },
+    "invoice": {
+        "date": "18.07.2013",
+        "number": "2938-4035"
+    },
+    "payment": {
+        "due_date": "09.06.1998",
+        "total": 888.22
+    },
+    "products": [
+        {
+            "amount": 178.76,
+            "description": "incentivize cross-media mindshare",
+            "quantity": 9.5,
+            "reference": "me-788",
+            "unit_price": 82.73
+        },
+        {
+            "amount": 115.2,
+            "description": "incubate end-to-end web services",
+            "quantity": 4.59,
+            "reference": "vX-367",
+            "unit_price": 40.09
+        },
+        {
+            "amount": 46.99,
+            "description": "streamline vertical bandwidth",
+            "quantity": 7.58,
+            "reference": "Gt-606",
+            "unit_price": 99.79
+        },
+        {
+            "amount": 24.46,
+            "description": "architect compelling portals",
+            "quantity": 6.77,
+            "reference": "zk-071",
+            "unit_price": 46.61
+        }
+    ],
+    "seller": {
+        "address": "Unit 8110 Box 8866 DPO AE 83663"
+    },
+    "tax": {
+        "base_ht": 217.14,
+        "regulations": 23.57,
+        "total_ht": 154.59,
+        "vat_amount": 146.61,
+        "vat_percentage": 15.67
+    }
+}

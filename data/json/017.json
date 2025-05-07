@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "2433 Virginia Prairie Apt. 123 Davidton, TX 19498",
+        "company_name": "Cox, Dean and Simmons",
+        "country": "French Southern Territories",
+        "name": "Margaret Brown"
+    },
+    "invoice": {
+        "date": "13.10.2016",
+        "number": 790538
+    },
+    "payment": {
+        "discount_amount": 34.65,
+        "discount_percentage": 7.67,
+        "due": 114.2,
+        "sub_total": 61.01,
+        "total": 770.85
+    },
+    "products": [
+        {
+            "description": "synthesize end-to-end metrics",
+            "index": "3",
+            "quantity": 8.92,
+            "total_price": 88.13,
+            "unit_price": 48.99
+        }
+    ],
+    "seller": {
+        "address": "52868 Hardy Greens Port Tonyamouth, WA 84719",
+        "company_name": "Cabrera, Hall and Drake",
+        "vat_no": "qE95355905579"
+    }
+}

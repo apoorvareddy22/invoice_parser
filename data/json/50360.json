@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "5530 Kenneth Park Fernandofurt, MA 02491",
+        "id": "au015"
+    },
+    "invoice": {
+        "bc_no": "lP07672",
+        "currency_code": "TZS",
+        "date": "12.01.1998",
+        "due_date": "19.05.2003",
+        "number": 752052
+    },
+    "payment": {
+        "bank_name": "Burns-Andrade",
+        "bic": "EAUKGBHTF4P",
+        "iban": "UTXD91852547498769"
+    },
+    "products": [
+        {
+            "amount": 333.8,
+            "description": "innovate vertical platforms",
+            "index": "7",
+            "price": 124.37,
+            "quantity": 2.0,
+            "tax_amount": 46.01,
+            "total_ttc": 103.0,
+            "vat_amount": 10.21
+        },
+        {
+            "amount": 327.69,
+            "description": "implement holistic e-commerce",
+            "index": "7",
+            "price": 179.85,
+            "quantity": 6.24,
+            "tax_amount": 68.1,
+            "total_ttc": 450.9,
+            "vat_amount": 10.05
+        },
+        {
+            "amount": 430.61,
+            "description": "synergize cross-platform ROI",
+            "index": "8",
+            "price": 141.22,
+            "quantity": 8.78,
+            "tax_amount": 71.69,
+            "total_ttc": 205.27,
+            "vat_amount": 8.93
+        },
+        {
+            "amount": 124.82,
+            "description": "transition scalable niches",
+            "index": "5",
+            "price": 340.94,
+            "quantity": 8.54,
+            "tax_amount": 72.71,
+            "total_ttc": 208.39,
+            "vat_amount": 1.13
+        },
+        {
+            "amount": 418.45,
+            "description": "seize killer functionalities",
+            "index": "4",
+            "price": 55.22,
+            "quantity": 8.4,
+            "tax_amount": 76.64,
+            "total_ttc": 331.96,
+            "vat_amount": 2.94
+        },
+        {
+            "amount": 205.25,
+            "description": "target ubiquitous architectures",
+            "index": "10",
+            "price": 149.04,
+            "quantity": 4.39,
+            "tax_amount": 91.93,
+            "total_ttc": 435.03,
+            "vat_amount": 6.49
+        }
+    ],
+    "seller": {
+        "name": "Erica Woods"
+    },
+    "supplier": {
+        "address": "5752 Rodriguez Locks Nelsonfurt, SC 37569",
+        "name": "Sara Perry"
+    },
+    "tax": {
+        "amount_excluding_tax": 160.9,
+        "amount_including_tax": 22.88,
+        "tax_amount": 17.32,
+        "total_ht": 456.98,
+        "total_ttc": 499.84
+    }
+}

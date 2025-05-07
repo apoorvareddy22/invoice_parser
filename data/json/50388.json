@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "755 Wayne Square Lake Henryport, OR 02165",
+        "id": "CC423"
+    },
+    "invoice": {
+        "bc_no": "hK93524",
+        "currency_code": "SPL",
+        "date": "05.11.2003",
+        "due_date": "27.01.2005",
+        "number": 924119
+    },
+    "payment": {
+        "bank_name": "Williams-Mendez",
+        "bic": "LHSDGB7O",
+        "iban": "DEMT29597129489270"
+    },
+    "products": [
+        {
+            "amount": 371.49,
+            "description": "benchmark integrated schemas",
+            "index": "3",
+            "price": 168.08,
+            "quantity": 7.78,
+            "tax_amount": 12.78,
+            "total_ttc": 251.1,
+            "vat_amount": 8.97
+        },
+        {
+            "amount": 196.38,
+            "description": "target mission-critical convergence",
+            "index": "2",
+            "price": 286.28,
+            "quantity": 8.15,
+            "tax_amount": 71.24,
+            "total_ttc": 403.47,
+            "vat_amount": 10.73
+        },
+        {
+            "amount": 16.41,
+            "description": "repurpose cutting-edge portals",
+            "index": "1",
+            "price": 294.5,
+            "quantity": 8.83,
+            "tax_amount": 52.68,
+            "total_ttc": 438.73,
+            "vat_amount": 2.42
+        },
+        {
+            "amount": 153.81,
+            "description": "utilize revolutionary vortals",
+            "index": "3",
+            "price": 78.23,
+            "quantity": 3.82,
+            "tax_amount": 54.37,
+            "total_ttc": 463.62,
+            "vat_amount": 8.06
+        }
+    ],
+    "seller": {
+        "name": "Sara Ramirez"
+    },
+    "supplier": {
+        "address": "8477 Hernandez Spurs Rebekahfurt, MO 33841",
+        "name": "Keith Cox"
+    },
+    "tax": {
+        "amount_excluding_tax": 153.38,
+        "amount_including_tax": 160.69,
+        "tax_amount": 25.89,
+        "total_ht": 466.12,
+        "total_ttc": 464.67
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "PSC 8805, Box 8967 APO AP 79062",
+        "id": "nw948"
+    },
+    "invoice": {
+        "bc_no": "RM50417",
+        "currency_code": "CVE",
+        "date": "05.12.2013",
+        "due_date": "04.12.1991",
+        "number": 896299
+    },
+    "payment": {
+        "bank_name": "Becker LLC",
+        "bic": "PQKPGBL2D0U",
+        "iban": "KGJH74243365595173"
+    },
+    "products": [
+        {
+            "amount": 85.68,
+            "description": "monetize intuitive solutions",
+            "index": "5",
+            "price": 493.41,
+            "quantity": 4.29,
+            "tax_amount": 56.39,
+            "total_ttc": 193.36,
+            "vat_amount": 11.27
+        },
+        {
+            "amount": 127.77,
+            "description": "exploit one-to-one e-markets",
+            "index": "6",
+            "price": 14.26,
+            "quantity": 4.5,
+            "tax_amount": 17.83,
+            "total_ttc": 310.03,
+            "vat_amount": 15.61
+        },
+        {
+            "amount": 215.08,
+            "description": "implement virtual markets",
+            "index": "9",
+            "price": 136.53,
+            "quantity": 8.88,
+            "tax_amount": 83.2,
+            "total_ttc": 270.26,
+            "vat_amount": 2.24
+        },
+        {
+            "amount": 350.5,
+            "description": "redefine distributed systems",
+            "index": "8",
+            "price": 38.24,
+            "quantity": 7.6,
+            "tax_amount": 62.66,
+            "total_ttc": 180.22,
+            "vat_amount": 3.23
+        },
+        {
+            "amount": 190.25,
+            "description": "benchmark turn-key e-markets",
+            "index": "5",
+            "price": 407.43,
+            "quantity": 9.3,
+            "tax_amount": 41.31,
+            "total_ttc": 435.19,
+            "vat_amount": 6.99
+        },
+        {
+            "amount": 66.98,
+            "description": "productize synergistic bandwidth",
+            "index": "5",
+            "price": 141.53,
+            "quantity": 2.7,
+            "tax_amount": 52.24,
+            "total_ttc": 447.94,
+            "vat_amount": 2.95
+        },
+        {
+            "amount": 293.59,
+            "description": "integrate open-source deliverables",
+            "index": "4",
+            "price": 316.22,
+            "quantity": 5.16,
+            "tax_amount": 75.4,
+            "total_ttc": 231.7,
+            "vat_amount": 8.25
+        }
+    ],
+    "seller": {
+        "name": "Miss Jennifer Rich"
+    },
+    "supplier": {
+        "address": "3121 Heather Fields Port Carlosborough, CA 64810",
+        "name": "Christopher Dominguez"
+    },
+    "tax": {
+        "amount_excluding_tax": 21.07,
+        "amount_including_tax": 143.79,
+        "tax_amount": 16.14,
+        "total_ht": 413.71,
+        "total_ttc": 242.23
+    }
+}

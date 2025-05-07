@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "2128 Benjamin Prairie Suite 696 New Monica, OH 83743",
+        "email": "tgill@example.net",
+        "phone": "001-859-216-8323x556",
+        "vat_no": "tW66869850379"
+    },
+    "invoice": {
+        "date": "21.11.1995",
+        "due_date": "08.10.2011",
+        "market_reference": 820694,
+        "notes": "embrace front-end infrastructures",
+        "number": "7329-6359",
+        "reference": 696300,
+        "vat_no": "dz08635104075"
+    },
+    "payment": {
+        "net_total": 163.83,
+        "total": 391.63
+    },
+    "products": [
+        {
+            "amount": 283.66,
+            "description": "innovate out-of-the-box communities",
+            "hours": 7.98,
+            "rate": 5.5
+        },
+        {
+            "amount": 148.52,
+            "description": "morph synergistic functionalities",
+            "hours": 3.57,
+            "rate": 5.34
+        },
+        {
+            "amount": 130.19,
+            "description": "re-contextualize B2B relationships",
+            "hours": 7.53,
+            "rate": 2.22
+        },
+        {
+            "amount": 383.63,
+            "description": "optimize viral content",
+            "hours": 3.66,
+            "rate": 3.13
+        },
+        {
+            "amount": 320.13,
+            "description": "streamline integrated interfaces",
+            "hours": 1.76,
+            "rate": 6.02
+        }
+    ],
+    "seller": {
+        "address": "60748 Morton Ville Melissahaven, CT 92839",
+        "email": "emily04@example.net",
+        "name": "Ashley Massey MD"
+    },
+    "tax": {
+        "base": 21.13,
+        "tax_amount": 25.43,
+        "total_tax": 28.3
+    }
+}

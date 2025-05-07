@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "4048 Stanley Meadow Petersenberg, HI 50032",
+        "id": "Yj977"
+    },
+    "invoice": {
+        "bc_no": "VT51809",
+        "currency_code": "BZD",
+        "date": "25.05.2000",
+        "due_date": "03.06.1993",
+        "number": 964795
+    },
+    "payment": {
+        "bank_name": "Ballard LLC",
+        "bic": "FVTEGBQB",
+        "iban": "MKQY55158110255006"
+    },
+    "products": [
+        {
+            "amount": 422.5,
+            "description": "unleash enterprise mindshare",
+            "index": "4",
+            "price": 316.11,
+            "quantity": 2.73,
+            "tax_amount": 84.7,
+            "total_ttc": 117.31,
+            "vat_amount": 1.16
+        },
+        {
+            "amount": 305.08,
+            "description": "whiteboard killer paradigms",
+            "index": "6",
+            "price": 482.74,
+            "quantity": 7.19,
+            "tax_amount": 30.58,
+            "total_ttc": 194.24,
+            "vat_amount": 11.71
+        },
+        {
+            "amount": 380.25,
+            "description": "exploit out-of-the-box eyeballs",
+            "index": "6",
+            "price": 319.3,
+            "quantity": 9.05,
+            "tax_amount": 15.9,
+            "total_ttc": 453.42,
+            "vat_amount": 5.98
+        },
+        {
+            "amount": 476.25,
+            "description": "visualize 24/7 technologies",
+            "index": "10",
+            "price": 277.13,
+            "quantity": 4.22,
+            "tax_amount": 80.17,
+            "total_ttc": 174.34,
+            "vat_amount": 0.23
+        },
+        {
+            "amount": 161.33,
+            "description": "repurpose cross-media action-items",
+            "index": "6",
+            "price": 5.07,
+            "quantity": 4.58,
+            "tax_amount": 41.23,
+            "total_ttc": 226.67,
+            "vat_amount": 2.74
+        },
+        {
+            "amount": 119.47,
+            "description": "leverage innovative info-mediaries",
+            "index": "3",
+            "price": 21.56,
+            "quantity": 1.72,
+            "tax_amount": 70.17,
+            "total_ttc": 296.57,
+            "vat_amount": 10.74
+        },
+        {
+            "amount": 323.75,
+            "description": "grow compelling models",
+            "index": "4",
+            "price": 42.73,
+            "quantity": 6.79,
+            "tax_amount": 56.93,
+            "total_ttc": 427.2,
+            "vat_amount": 3.2
+        }
+    ],
+    "seller": {
+        "name": "Michael Bailey"
+    },
+    "supplier": {
+        "address": "PSC 3160, Box 1020 APO AA 96668",
+        "name": "Ruth Sharp"
+    },
+    "tax": {
+        "amount_excluding_tax": 58.57,
+        "amount_including_tax": 128.54,
+        "tax_amount": 21.51,
+        "total_ht": 483.63,
+        "total_ttc": 106.48
+    }
+}

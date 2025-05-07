@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "866 Jones Pike Thomasberg, VT 39707"
+    },
+    "invoice": {
+        "bc_no": "Ht81607",
+        "date": "25.09.2006",
+        "maturity_date": "19.09.2015",
+        "number": 583104
+    },
+    "products": [
+        {
+            "amount": 317.58,
+            "description": "iterate enterprise e-tailers",
+            "quantity": 3.0,
+            "unit_price": 18.98,
+            "vat_amount": 1.36
+        },
+        {
+            "amount": 489.34,
+            "description": "productize bricks-and-clicks platforms",
+            "quantity": 3.85,
+            "unit_price": 72.32,
+            "vat_amount": 9.67
+        },
+        {
+            "amount": 176.15,
+            "description": "transform scalable content",
+            "quantity": 7.74,
+            "unit_price": 12.99,
+            "vat_amount": 2.77
+        },
+        {
+            "amount": 79.94,
+            "description": "matrix dot-com methodologies",
+            "quantity": 4.93,
+            "unit_price": 15.81,
+            "vat_amount": 2.23
+        },
+        {
+            "amount": 356.29,
+            "description": "envisioneer extensible technologies",
+            "quantity": 6.73,
+            "unit_price": 24.17,
+            "vat_amount": 0.59
+        }
+    ],
+    "seller": {
+        "address": "9751 Bradford Corners Apt. 900 East Matthewchester, NE 16666"
+    },
+    "tax": {
+        "amount_excluding_tax": 118.17,
+        "amount_including_tax": 33.9,
+        "tax_amount": 16.24
+    }
+}

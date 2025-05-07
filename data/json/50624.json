@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "577 Jason Burg Jacquelineview, IN 82976",
+        "id": "ei040"
+    },
+    "invoice": {
+        "bc_no": "Vn90842",
+        "currency_code": "NIS",
+        "date": "23.12.1999",
+        "due_date": "15.02.2013",
+        "number": 595081
+    },
+    "payment": {
+        "bank_name": "Tapia Group",
+        "bic": "PGJKGBDS",
+        "iban": "WGID77625297408645"
+    },
+    "products": [
+        {
+            "amount": 466.89,
+            "description": "transform out-of-the-box infrastructures",
+            "index": "1",
+            "price": 428.83,
+            "quantity": 4.74,
+            "tax_amount": 78.58,
+            "total_ttc": 252.93,
+            "vat_amount": 8.84
+        },
+        {
+            "amount": 154.96,
+            "description": "innovate synergistic schemas",
+            "index": "10",
+            "price": 71.39,
+            "quantity": 5.58,
+            "tax_amount": 71.3,
+            "total_ttc": 280.37,
+            "vat_amount": 6.91
+        },
+        {
+            "amount": 430.18,
+            "description": "harness leading-edge relationships",
+            "index": "7",
+            "price": 272.07,
+            "quantity": 6.09,
+            "tax_amount": 99.52,
+            "total_ttc": 239.67,
+            "vat_amount": 1.18
+        },
+        {
+            "amount": 29.96,
+            "description": "engage open-source eyeballs",
+            "index": "8",
+            "price": 308.89,
+            "quantity": 5.96,
+            "tax_amount": 62.26,
+            "total_ttc": 442.35,
+            "vat_amount": 4.15
+        }
+    ],
+    "seller": {
+        "name": "Jessica Martinez"
+    },
+    "supplier": {
+        "address": "916 Andrea Street Port Desireehaven, TX 97771",
+        "name": "Nancy Martinez"
+    },
+    "tax": {
+        "amount_excluding_tax": 130.41,
+        "amount_including_tax": 60.24,
+        "tax_amount": 16.46,
+        "total_ht": 363.67,
+        "total_ttc": 106.43
+    }
+}

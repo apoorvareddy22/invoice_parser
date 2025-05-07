@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "6023 Antonio Avenue Suite 363 Port Johnstad, AR 87990",
+        "business_no": "pw418",
+        "id": "vp270"
+    },
+    "invoice": {
+        "date": "25.05.2005",
+        "number": "6163-7673"
+    },
+    "payment": {
+        "due_date": "23.02.2011",
+        "total": 119.94
+    },
+    "products": [
+        {
+            "amount": 251.67,
+            "description": "leverage synergistic schemas",
+            "quantity": 4.78,
+            "reference": "pu-565",
+            "unit_price": 47.58
+        }
+    ],
+    "seller": {
+        "address": "155 Sarah Plaza New Stevenfort, ME 00586"
+    },
+    "tax": {
+        "base_ht": 188.31,
+        "regulations": 27.0,
+        "total_ht": 250.26,
+        "vat_amount": 113.54,
+        "vat_percentage": 21.91
+    }
+}

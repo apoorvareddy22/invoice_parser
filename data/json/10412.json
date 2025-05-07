@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "0088 Matthew Creek Levystad, TX 53859",
+        "email": "stephaniemurray@example.net",
+        "phone": "(371)814-6268x03390",
+        "vat_no": "CL66815984814"
+    },
+    "invoice": {
+        "date": "28.10.2023",
+        "due_date": "09.09.2019",
+        "market_reference": 371988,
+        "notes": "orchestrate customized vortals",
+        "number": "7690-6901",
+        "reference": 171274,
+        "vat_no": "Na65839026901"
+    },
+    "payment": {
+        "net_total": 21.83,
+        "total": 606.65
+    },
+    "products": [
+        {
+            "amount": 321.33,
+            "description": "unleash integrated convergence",
+            "hours": 9.6,
+            "rate": 1.86
+        },
+        {
+            "amount": 281.6,
+            "description": "disintermediate user-centric supply-chains",
+            "hours": 6.82,
+            "rate": 2.54
+        },
+        {
+            "amount": 239.25,
+            "description": "unleash transparent bandwidth",
+            "hours": 2.1,
+            "rate": 4.45
+        }
+    ],
+    "seller": {
+        "address": "7640 Watkins Views Apt. 696 Darylchester, ME 40289",
+        "email": "barberdavid@example.net",
+        "name": "Samuel Ward"
+    },
+    "tax": {
+        "base": 19.68,
+        "tax_amount": 11.31,
+        "total_tax": 23.83
+    }
+}

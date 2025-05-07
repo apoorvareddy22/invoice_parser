@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "96876 Barnes Plaza Apt. 096 Matafort, PR 20770",
+        "id": "Gi796"
+    },
+    "invoice": {
+        "bc_no": "fS37758",
+        "currency_code": "GEL",
+        "date": "04.06.2006",
+        "due_date": "21.12.1990",
+        "number": 160329
+    },
+    "payment": {
+        "bank_name": "Collins PLC",
+        "bic": "KPZPGBSO",
+        "iban": "FIAM61737504871533"
+    },
+    "products": [
+        {
+            "amount": 11.26,
+            "description": "drive value-added architectures",
+            "index": "2",
+            "price": 381.59,
+            "quantity": 3.68,
+            "tax_amount": 74.81,
+            "total_ttc": 401.17,
+            "vat_amount": 1.12
+        }
+    ],
+    "seller": {
+        "name": "Kimberly Young"
+    },
+    "supplier": {
+        "address": "52088 Karen Station West Donna, MP 63607",
+        "name": "Stephanie Allen"
+    },
+    "tax": {
+        "amount_excluding_tax": 109.76,
+        "amount_including_tax": 102.79,
+        "tax_amount": 22.1,
+        "total_ht": 470.46,
+        "total_ttc": 178.72
+    }
+}

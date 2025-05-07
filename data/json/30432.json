@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "495 Charles Mountain Laneberg, CO 07575",
+        "company_name": "Johnson Inc",
+        "country": "Norway",
+        "email": "robertssarah@example.com",
+        "name": "Arthur Brown",
+        "phone": "688.230.5567x958",
+        "vat_no": "OP19692658959"
+    },
+    "invoice": {
+        "date": "04.01.1997",
+        "due_date": "05.10.2005",
+        "linked_invoice": "NU-0702-2209",
+        "notes": "engineer global systems",
+        "number": "GK-0549-9238"
+    },
+    "products": [
+        {
+            "description": "whiteboard synergistic solutions",
+            "discount_percentage": 5.76,
+            "price": 391.28,
+            "quantity": 9.39,
+            "unit_price": 48.94
+        },
+        {
+            "description": "enable visionary info-mediaries",
+            "discount_percentage": 10.42,
+            "price": 225.25,
+            "quantity": 4.13,
+            "unit_price": 85.83
+        }
+    ],
+    "seller": {
+        "address": "963 Harrington Loaf Kirkburgh, AR 21438",
+        "ape": "8556G",
+        "capital": 84746078,
+        "country": "Macao",
+        "email": "jason79@example.net",
+        "name": "Alison Coleman",
+        "phone_1": "3419484476",
+        "phone_2": "6797386135",
+        "phone_3": "+1-796-966-6034x4344",
+        "ref_walk": "KVNG7549",
+        "reference": "QN831",
+        "siret": 68625054922146,
+        "vat_no": "lN84280924337",
+        "website": "http://www.campbell.net/"
+    },
+    "tax": {
+        "amount_0": 13.86,
+        "amount_1": 10.41,
+        "base_0": 21.11,
+        "base_1": 51.14,
+        "total_ht": 396.24,
+        "total_tax": 18.63,
+        "total_ttc": 145.84,
+        "vat_0": 17.81,
+        "vat_1": 29.28
+    }
+}

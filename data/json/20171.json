@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "38569 Francis Ways East Hunterbury, GA 08452",
+        "company_name": "Avila, May and Bell",
+        "email": "lisarangel@example.com",
+        "name": "Hector Williams",
+        "phone": "(804)933-0552"
+    },
+    "invoice": {
+        "date": "08.04.2009",
+        "due_date": "15.09.2000",
+        "number": "osd53930449250"
+    },
+    "payment": {
+        "account_number": 8213509060,
+        "bank_name": "Byrd-Franco",
+        "routing_number": 724852659
+    },
+    "products": [
+        {
+            "amount": 312.18,
+            "description": "enable distributed functionalities",
+            "index": "5",
+            "quantity": 5.45,
+            "unit_price": 85.97
+        },
+        {
+            "amount": 52.84,
+            "description": "evolve real-time action-items",
+            "index": "7",
+            "quantity": 5.23,
+            "unit_price": 79.22
+        },
+        {
+            "amount": 6.15,
+            "description": "reinvent real-time ROI",
+            "index": "5",
+            "quantity": 9.52,
+            "unit_price": 79.82
+        }
+    ],
+    "seller": {
+        "address": "917 Andrea Summit Suite 511 Hughesfort, ND 89100",
+        "company_name": "Campbell and Sons",
+        "email": "osmith@example.org"
+    }
+}

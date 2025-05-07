@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "6947 Campbell Row Allisonmouth, IA 01489",
+        "email": "wnorton@example.com",
+        "phone": "001-577-563-7251",
+        "vat_no": "XW26515539746"
+    },
+    "invoice": {
+        "date": "25.12.1995",
+        "due_date": "26.07.1992",
+        "market_reference": 586980,
+        "notes": "leverage value-added e-tailers",
+        "number": "4744-8135",
+        "reference": 618976,
+        "vat_no": "IS28141324810"
+    },
+    "payment": {
+        "net_total": 74.53,
+        "total": 486.55
+    },
+    "products": [
+        {
+            "amount": 12.04,
+            "description": "engage customized deliverables",
+            "hours": 9.11,
+            "rate": 8.56
+        },
+        {
+            "amount": 284.43,
+            "description": "target scalable infrastructures",
+            "hours": 9.62,
+            "rate": 9.41
+        }
+    ],
+    "seller": {
+        "address": "545 Rangel Fall North Robertshire, NJ 81671",
+        "email": "ugarcia@example.net",
+        "name": "Ronald Allen PhD"
+    },
+    "tax": {
+        "base": 13.94,
+        "tax_amount": 23.72,
+        "total_tax": 17.45
+    }
+}

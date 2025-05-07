@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "18903 Jacqueline Road Port Joann, ME 10537"
+    },
+    "invoice": {
+        "bc_no": "MQ14588",
+        "date": "08.05.2019",
+        "maturity_date": "22.07.2002",
+        "number": 828595
+    },
+    "products": [
+        {
+            "amount": 306.92,
+            "description": "e-enable robust systems",
+            "quantity": 9.41,
+            "unit_price": 67.38,
+            "vat_amount": 1.46
+        },
+        {
+            "amount": 138.66,
+            "description": "brand cutting-edge web services",
+            "quantity": 1.01,
+            "unit_price": 26.26,
+            "vat_amount": 8.32
+        },
+        {
+            "amount": 107.14,
+            "description": "evolve user-centric solutions",
+            "quantity": 5.85,
+            "unit_price": 39.66,
+            "vat_amount": 8.83
+        }
+    ],
+    "seller": {
+        "address": "6609 Jackson Lock Apt. 467 Poncemouth, NJ 95383"
+    },
+    "tax": {
+        "amount_excluding_tax": 184.45,
+        "amount_including_tax": 10.4,
+        "tax_amount": 24.62
+    }
+}

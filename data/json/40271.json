@@ -1,0 +1,70 @@
+{
+    "buyer": {
+        "address": "9448 Butler Underpass Suite 249 South Haileybury, DC 06541"
+    },
+    "invoice": {
+        "bc_no": "Bn30449",
+        "date": "11.04.2007",
+        "maturity_date": "29.01.2000",
+        "number": 868080
+    },
+    "products": [
+        {
+            "amount": 192.23,
+            "description": "implement end-to-end models",
+            "quantity": 9.75,
+            "unit_price": 54.02,
+            "vat_amount": 2.77
+        },
+        {
+            "amount": 366.21,
+            "description": "envisioneer distributed e-markets",
+            "quantity": 3.26,
+            "unit_price": 11.85,
+            "vat_amount": 4.1
+        },
+        {
+            "amount": 286.05,
+            "description": "engineer integrated convergence",
+            "quantity": 1.7,
+            "unit_price": 62.27,
+            "vat_amount": 8.53
+        },
+        {
+            "amount": 85.59,
+            "description": "embrace out-of-the-box schemas",
+            "quantity": 3.84,
+            "unit_price": 19.31,
+            "vat_amount": 11.51
+        },
+        {
+            "amount": 322.8,
+            "description": "transform clicks-and-mortar functionalities",
+            "quantity": 3.26,
+            "unit_price": 56.17,
+            "vat_amount": 6.95
+        },
+        {
+            "amount": 235.56,
+            "description": "cultivate world-class info-mediaries",
+            "quantity": 4.51,
+            "unit_price": 76.35,
+            "vat_amount": 5.45
+        },
+        {
+            "amount": 45.34,
+            "description": "evolve front-end technologies",
+            "quantity": 5.5,
+            "unit_price": 47.04,
+            "vat_amount": 13.56
+        }
+    ],
+    "seller": {
+        "address": "11280 Mills Valleys Suite 495 Susanside, MD 06775"
+    },
+    "tax": {
+        "amount_excluding_tax": 145.13,
+        "amount_including_tax": 103.59,
+        "tax_amount": 22.09
+    }
+}

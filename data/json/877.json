@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "6258 Tiffany Highway Suite 245 Lake Samanthaburgh, VA 78884",
+        "company_name": "Rogers Inc",
+        "country": "Dominica",
+        "name": "Robert Williams"
+    },
+    "invoice": {
+        "date": "28.04.2001",
+        "number": 654908
+    },
+    "payment": {
+        "discount_amount": 20.6,
+        "discount_percentage": 12.68,
+        "due": 62.46,
+        "sub_total": 157.74,
+        "total": 791.02
+    },
+    "products": [
+        {
+            "description": "aggregate innovative e-commerce",
+            "index": "3",
+            "quantity": 9.18,
+            "total_price": 95.89,
+            "unit_price": 11.92
+        },
+        {
+            "description": "innovate scalable functionalities",
+            "index": "4",
+            "quantity": 1.63,
+            "total_price": 696.94,
+            "unit_price": 75.16
+        },
+        {
+            "description": "reinvent vertical niches",
+            "index": "7",
+            "quantity": 1.7,
+            "total_price": 486.62,
+            "unit_price": 12.8
+        },
+        {
+            "description": "synergize ubiquitous e-services",
+            "index": "7",
+            "quantity": 8.1,
+            "total_price": 793.39,
+            "unit_price": 71.13
+        }
+    ],
+    "seller": {
+        "address": "USNS Cross FPO AP 53446",
+        "company_name": "Rodriguez-Burton",
+        "vat_no": "nU24714211709"
+    }
+}

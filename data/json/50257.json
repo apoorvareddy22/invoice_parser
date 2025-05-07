@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "2213 Logan Rapids Apt. 696 Port Jennifer, FL 26426",
+        "id": "jh817"
+    },
+    "invoice": {
+        "bc_no": "ya04014",
+        "currency_code": "ARS",
+        "date": "27.04.2001",
+        "due_date": "15.01.2011",
+        "number": 589131
+    },
+    "payment": {
+        "bank_name": "Meyer PLC",
+        "bic": "NRNDGB5O",
+        "iban": "RYTU28623519673986"
+    },
+    "products": [
+        {
+            "amount": 208.13,
+            "description": "scale innovative technologies",
+            "index": "1",
+            "price": 359.82,
+            "quantity": 1.36,
+            "tax_amount": 65.16,
+            "total_ttc": 241.65,
+            "vat_amount": 0.1
+        },
+        {
+            "amount": 413.42,
+            "description": "drive next-generation action-items",
+            "index": "4",
+            "price": 348.68,
+            "quantity": 9.0,
+            "tax_amount": 51.35,
+            "total_ttc": 300.44,
+            "vat_amount": 4.43
+        },
+        {
+            "amount": 63.0,
+            "description": "grow customized channels",
+            "index": "2",
+            "price": 375.66,
+            "quantity": 6.53,
+            "tax_amount": 58.37,
+            "total_ttc": 205.55,
+            "vat_amount": 2.55
+        },
+        {
+            "amount": 312.94,
+            "description": "mesh B2C schemas",
+            "index": "10",
+            "price": 245.11,
+            "quantity": 6.88,
+            "tax_amount": 44.47,
+            "total_ttc": 220.2,
+            "vat_amount": 5.01
+        },
+        {
+            "amount": 48.35,
+            "description": "strategize revolutionary synergies",
+            "index": "9",
+            "price": 478.22,
+            "quantity": 5.18,
+            "tax_amount": 68.19,
+            "total_ttc": 173.46,
+            "vat_amount": 7.85
+        },
+        {
+            "amount": 183.17,
+            "description": "mesh global e-markets",
+            "index": "6",
+            "price": 291.09,
+            "quantity": 6.27,
+            "tax_amount": 37.04,
+            "total_ttc": 458.43,
+            "vat_amount": 4.5
+        }
+    ],
+    "seller": {
+        "name": "Courtney Phillips"
+    },
+    "supplier": {
+        "address": "8245 Joseph Key West Scott, IN 27411",
+        "name": "Eric Johnson"
+    },
+    "tax": {
+        "amount_excluding_tax": 62.87,
+        "amount_including_tax": 121.7,
+        "tax_amount": 18.73,
+        "total_ht": 156.36,
+        "total_ttc": 156.79
+    }
+}

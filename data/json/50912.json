@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "65065 Adriana Prairie Suite 716 Port Sean, ID 41964",
+        "id": "eE514"
+    },
+    "invoice": {
+        "bc_no": "lr27241",
+        "currency_code": "SYP",
+        "date": "11.07.2005",
+        "due_date": "30.10.2015",
+        "number": 155939
+    },
+    "payment": {
+        "bank_name": "Craig, Williams and Burke",
+        "bic": "UQOXGBLQ",
+        "iban": "IHVC77812396517149"
+    },
+    "products": [
+        {
+            "amount": 145.94,
+            "description": "unleash value-added infrastructures",
+            "index": "5",
+            "price": 50.49,
+            "quantity": 5.18,
+            "tax_amount": 26.15,
+            "total_ttc": 336.43,
+            "vat_amount": 6.09
+        },
+        {
+            "amount": 491.51,
+            "description": "exploit value-added markets",
+            "index": "10",
+            "price": 359.4,
+            "quantity": 6.64,
+            "tax_amount": 70.11,
+            "total_ttc": 180.56,
+            "vat_amount": 7.63
+        },
+        {
+            "amount": 381.17,
+            "description": "seize plug-and-play functionalities",
+            "index": "7",
+            "price": 111.86,
+            "quantity": 1.31,
+            "tax_amount": 44.76,
+            "total_ttc": 239.42,
+            "vat_amount": 9.83
+        }
+    ],
+    "seller": {
+        "name": "Jessica Clark"
+    },
+    "supplier": {
+        "address": "34187 Ramirez Point Apt. 638 North Amanda, PA 24543",
+        "name": "Kristine Odom"
+    },
+    "tax": {
+        "amount_excluding_tax": 94.97,
+        "amount_including_tax": 182.49,
+        "tax_amount": 27.37,
+        "total_ht": 262.07,
+        "total_ttc": 439.11
+    }
+}

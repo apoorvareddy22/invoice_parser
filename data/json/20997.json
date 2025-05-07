@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "3458 Wilson Shoal Jonesview, WI 75144",
+        "company_name": "Hamilton Ltd",
+        "email": "uwashington@example.net",
+        "name": "Kelly Little",
+        "phone": "(727)434-3209"
+    },
+    "invoice": {
+        "date": "16.08.2017",
+        "due_date": "07.02.1995",
+        "number": "PUL23864405856"
+    },
+    "payment": {
+        "account_number": 7291966519,
+        "bank_name": "West-Dillon",
+        "routing_number": 651127608
+    },
+    "products": [
+        {
+            "amount": 339.44,
+            "description": "extend out-of-the-box users",
+            "index": "10",
+            "quantity": 8.56,
+            "unit_price": 53.59
+        },
+        {
+            "amount": 408.99,
+            "description": "envisioneer proactive ROI",
+            "index": "2",
+            "quantity": 6.64,
+            "unit_price": 28.35
+        },
+        {
+            "amount": 264.56,
+            "description": "evolve strategic metrics",
+            "index": "9",
+            "quantity": 3.45,
+            "unit_price": 63.03
+        },
+        {
+            "amount": 358.63,
+            "description": "integrate intuitive web-readiness",
+            "index": "2",
+            "quantity": 6.26,
+            "unit_price": 85.75
+        },
+        {
+            "amount": 375.6,
+            "description": "seize visionary schemas",
+            "index": "1",
+            "quantity": 3.44,
+            "unit_price": 61.92
+        }
+    ],
+    "seller": {
+        "address": "9583 Kristen Hollow Suite 263 Murphyport, NV 89749",
+        "company_name": "Rhodes, Hill and Smith",
+        "email": "christopherthomas@example.org"
+    }
+}

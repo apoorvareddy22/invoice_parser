@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "0558 John Hills Suite 431 Brownburgh, WY 47372",
+        "email": "haleyjones@example.org",
+        "phone": "7145663488",
+        "vat_no": "VN97065700221"
+    },
+    "invoice": {
+        "date": "07.02.2022",
+        "due_date": "11.10.2015",
+        "market_reference": 119033,
+        "notes": "extend front-end portals",
+        "number": "3513-8382",
+        "reference": 341356,
+        "vat_no": "kc11447652920"
+    },
+    "payment": {
+        "net_total": 94.26,
+        "total": 398.0
+    },
+    "products": [
+        {
+            "amount": 108.79,
+            "description": "disintermediate revolutionary e-markets",
+            "hours": 2.91,
+            "rate": 6.78
+        },
+        {
+            "amount": 146.2,
+            "description": "evolve real-time schemas",
+            "hours": 7.62,
+            "rate": 3.86
+        },
+        {
+            "amount": 215.72,
+            "description": "orchestrate end-to-end web services",
+            "hours": 7.15,
+            "rate": 3.32
+        },
+        {
+            "amount": 428.83,
+            "description": "matrix vertical architectures",
+            "hours": 8.52,
+            "rate": 2.72
+        },
+        {
+            "amount": 10.39,
+            "description": "leverage out-of-the-box e-tailers",
+            "hours": 1.59,
+            "rate": 9.79
+        },
+        {
+            "amount": 246.34,
+            "description": "morph user-centric e-markets",
+            "hours": 1.7,
+            "rate": 2.29
+        }
+    ],
+    "seller": {
+        "address": "8840 Cruz Forest South Wayne, IN 12403",
+        "email": "patrick34@example.net",
+        "name": "Cynthia Savage"
+    },
+    "tax": {
+        "base": 15.37,
+        "tax_amount": 24.12,
+        "total_tax": 12.96
+    }
+}

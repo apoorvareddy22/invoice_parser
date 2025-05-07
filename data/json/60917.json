@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "619 Benjamin Alley Apt. 343 New Williamshire, MI 20257",
+        "business_no": "Wn026",
+        "id": "eD880"
+    },
+    "invoice": {
+        "date": "07.07.2010",
+        "number": "6163-0800"
+    },
+    "payment": {
+        "due_date": "26.11.2002",
+        "total": 944.31
+    },
+    "products": [
+        {
+            "amount": 9.16,
+            "description": "seize leading-edge schemas",
+            "quantity": 2.89,
+            "reference": "ht-064",
+            "unit_price": 14.05
+        },
+        {
+            "amount": 333.37,
+            "description": "cultivate world-class architectures",
+            "quantity": 4.09,
+            "reference": "TO-252",
+            "unit_price": 14.66
+        }
+    ],
+    "seller": {
+        "address": "996 Paul Greens Mcclainbury, OR 33593"
+    },
+    "tax": {
+        "base_ht": 381.44,
+        "regulations": 12.6,
+        "total_ht": 498.85,
+        "vat_amount": 168.53,
+        "vat_percentage": 10.49
+    }
+}

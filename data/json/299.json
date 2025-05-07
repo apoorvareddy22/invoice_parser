@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "18602 Joe Corner Carlaville, MT 35261",
+        "company_name": "Howard, Pennington and Todd",
+        "country": "El Salvador",
+        "name": "Paul Jones"
+    },
+    "invoice": {
+        "date": "24.05.2008",
+        "number": 724740
+    },
+    "payment": {
+        "discount_amount": 13.64,
+        "discount_percentage": 15.88,
+        "due": 115.92,
+        "sub_total": 111.45,
+        "total": 193.2
+    },
+    "products": [
+        {
+            "description": "syndicate magnetic users",
+            "index": "3",
+            "quantity": 6.48,
+            "total_price": 572.21,
+            "unit_price": 18.11
+        }
+    ],
+    "seller": {
+        "address": "288 Andrea Extension Edwardton, OR 77250",
+        "company_name": "Adams, Weaver and Miller",
+        "vat_no": "wE48026503810"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "Unit 0284 Box 9101 DPO AP 39994",
+        "id": "VS418"
+    },
+    "invoice": {
+        "bc_no": "to31535",
+        "currency_code": "INR",
+        "date": "05.09.2018",
+        "due_date": "12.05.2017",
+        "number": 912572
+    },
+    "payment": {
+        "bank_name": "Mills-Griffin",
+        "bic": "IFKDGBB0",
+        "iban": "FQJE15386030476843"
+    },
+    "products": [
+        {
+            "amount": 203.33,
+            "description": "engage real-time e-business",
+            "index": "10",
+            "price": 354.75,
+            "quantity": 3.08,
+            "tax_amount": 99.94,
+            "total_ttc": 457.7,
+            "vat_amount": 1.68
+        },
+        {
+            "amount": 83.53,
+            "description": "re-intermediate killer metrics",
+            "index": "10",
+            "price": 116.09,
+            "quantity": 3.45,
+            "tax_amount": 46.21,
+            "total_ttc": 495.58,
+            "vat_amount": 0.36
+        },
+        {
+            "amount": 148.5,
+            "description": "unleash dot-com functionalities",
+            "index": "2",
+            "price": 386.76,
+            "quantity": 8.91,
+            "tax_amount": 13.56,
+            "total_ttc": 322.94,
+            "vat_amount": 2.65
+        }
+    ],
+    "seller": {
+        "name": "Kevin Garza"
+    },
+    "supplier": {
+        "address": "6441 Hodges Harbor East Jonathan, CA 21536",
+        "name": "Christina Lewis"
+    },
+    "tax": {
+        "amount_excluding_tax": 81.13,
+        "amount_including_tax": 79.1,
+        "tax_amount": 15.36,
+        "total_ht": 375.73,
+        "total_ttc": 423.81
+    }
+}

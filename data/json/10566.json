@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "2920 Jessica Haven North Robert, NC 55634",
+        "email": "andrew09@example.org",
+        "phone": "771-706-9587",
+        "vat_no": "bj17048151501"
+    },
+    "invoice": {
+        "date": "18.02.2009",
+        "due_date": "20.10.1999",
+        "market_reference": 491122,
+        "notes": "optimize dot-com interfaces",
+        "number": "5418-7040",
+        "reference": 123101,
+        "vat_no": "kW65837869745"
+    },
+    "payment": {
+        "net_total": 70.35,
+        "total": 824.14
+    },
+    "products": [
+        {
+            "amount": 33.39,
+            "description": "synthesize scalable experiences",
+            "hours": 7.53,
+            "rate": 6.86
+        },
+        {
+            "amount": 147.22,
+            "description": "integrate global partnerships",
+            "hours": 3.24,
+            "rate": 6.52
+        },
+        {
+            "amount": 110.88,
+            "description": "architect bricks-and-clicks methodologies",
+            "hours": 6.18,
+            "rate": 1.04
+        },
+        {
+            "amount": 181.33,
+            "description": "syndicate cross-media synergies",
+            "hours": 5.93,
+            "rate": 8.96
+        },
+        {
+            "amount": 452.67,
+            "description": "engineer extensible architectures",
+            "hours": 5.11,
+            "rate": 8.18
+        },
+        {
+            "amount": 215.08,
+            "description": "engineer vertical portals",
+            "hours": 1.96,
+            "rate": 9.95
+        }
+    ],
+    "seller": {
+        "address": "69653 Dennis Stream Apt. 036 Meganhaven, AZ 36368",
+        "email": "caitlin39@example.org",
+        "name": "Travis Haney"
+    },
+    "tax": {
+        "base": 26.07,
+        "tax_amount": 15.64,
+        "total_tax": 27.27
+    }
+}

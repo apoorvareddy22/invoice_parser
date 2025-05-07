@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "3454 Derrick Squares Suite 379 Gonzaleztown, RI 91787"
+    },
+    "invoice": {
+        "bc_no": "Ya44402",
+        "date": "23.01.2005",
+        "maturity_date": "13.11.2011",
+        "number": 290212
+    },
+    "products": [
+        {
+            "amount": 302.34,
+            "description": "streamline B2B content",
+            "quantity": 8.08,
+            "unit_price": 37.15,
+            "vat_amount": 1.67
+        },
+        {
+            "amount": 24.62,
+            "description": "scale enterprise schemas",
+            "quantity": 5.52,
+            "unit_price": 78.17,
+            "vat_amount": 4.51
+        }
+    ],
+    "seller": {
+        "address": "817 Kimberly River West Melissa, MP 59824"
+    },
+    "tax": {
+        "amount_excluding_tax": 77.67,
+        "amount_including_tax": 96.33,
+        "tax_amount": 21.73
+    }
+}

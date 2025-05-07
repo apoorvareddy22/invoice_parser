@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "52726 Smith Drive Scottborough, MO 66844",
+        "business_no": "dD524",
+        "id": "wa095"
+    },
+    "invoice": {
+        "date": "26.12.1992",
+        "number": "1399-8654"
+    },
+    "payment": {
+        "due_date": "04.05.2020",
+        "total": 179.88
+    },
+    "products": [
+        {
+            "amount": 74.48,
+            "description": "visualize holistic mindshare",
+            "quantity": 3.84,
+            "reference": "zv-113",
+            "unit_price": 18.89
+        },
+        {
+            "amount": 280.14,
+            "description": "re-contextualize vertical experiences",
+            "quantity": 6.37,
+            "reference": "Ld-220",
+            "unit_price": 21.73
+        },
+        {
+            "amount": 135.83,
+            "description": "monetize holistic eyeballs",
+            "quantity": 4.19,
+            "reference": "NP-972",
+            "unit_price": 56.89
+        },
+        {
+            "amount": 285.36,
+            "description": "optimize e-business action-items",
+            "quantity": 9.21,
+            "reference": "Pi-112",
+            "unit_price": 79.84
+        },
+        {
+            "amount": 72.44,
+            "description": "harness revolutionary e-markets",
+            "quantity": 4.12,
+            "reference": "nf-458",
+            "unit_price": 87.41
+        }
+    ],
+    "seller": {
+        "address": "8122 Pamela Lock Apt. 909 New Stephenview, IL 97507"
+    },
+    "tax": {
+        "base_ht": 493.61,
+        "regulations": 11.0,
+        "total_ht": 464.48,
+        "vat_amount": 140.82,
+        "vat_percentage": 17.09
+    }
+}

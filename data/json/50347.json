@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "63562 Huff Extension Apt. 469 Mcmahonbury, NE 51413",
+        "id": "Zm911"
+    },
+    "invoice": {
+        "bc_no": "cW62269",
+        "currency_code": "CHF",
+        "date": "08.06.1991",
+        "due_date": "20.02.2012",
+        "number": 669285
+    },
+    "payment": {
+        "bank_name": "Reid-Floyd",
+        "bic": "ZLKHGBVCUCC",
+        "iban": "KNTF72316280626687"
+    },
+    "products": [
+        {
+            "amount": 301.12,
+            "description": "revolutionize wireless ROI",
+            "index": "4",
+            "price": 61.15,
+            "quantity": 2.65,
+            "tax_amount": 59.85,
+            "total_ttc": 281.6,
+            "vat_amount": 5.06
+        }
+    ],
+    "seller": {
+        "name": "Cynthia Kelly"
+    },
+    "supplier": {
+        "address": "357 Smith Lodge Wardmouth, IA 23488",
+        "name": "Katie Thornton"
+    },
+    "tax": {
+        "amount_excluding_tax": 155.47,
+        "amount_including_tax": 49.96,
+        "tax_amount": 23.62,
+        "total_ht": 488.11,
+        "total_ttc": 474.34
+    }
+}

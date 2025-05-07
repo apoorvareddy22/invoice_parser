@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "1990 Hobbs Plains Apt. 679 Allenport, FM 57883",
+        "business_no": "AN956",
+        "id": "eP186"
+    },
+    "invoice": {
+        "date": "04.06.2013",
+        "number": "4958-6229"
+    },
+    "payment": {
+        "due_date": "10.02.2018",
+        "total": 812.52
+    },
+    "products": [
+        {
+            "amount": 15.43,
+            "description": "transform e-business supply-chains",
+            "quantity": 9.45,
+            "reference": "lS-352",
+            "unit_price": 26.43
+        },
+        {
+            "amount": 438.48,
+            "description": "orchestrate dot-com convergence",
+            "quantity": 8.2,
+            "reference": "hw-569",
+            "unit_price": 14.6
+        },
+        {
+            "amount": 238.92,
+            "description": "disintermediate value-added architectures",
+            "quantity": 1.33,
+            "reference": "GZ-587",
+            "unit_price": 83.94
+        },
+        {
+            "amount": 338.11,
+            "description": "repurpose 24/7 web-readiness",
+            "quantity": 4.12,
+            "reference": "iY-713",
+            "unit_price": 68.04
+        },
+        {
+            "amount": 444.67,
+            "description": "seize cross-platform architectures",
+            "quantity": 1.35,
+            "reference": "hl-434",
+            "unit_price": 32.2
+        },
+        {
+            "amount": 62.91,
+            "description": "re-contextualize one-to-one e-services",
+            "quantity": 6.4,
+            "reference": "Tj-335",
+            "unit_price": 96.24
+        },
+        {
+            "amount": 163.07,
+            "description": "grow 24/365 experiences",
+            "quantity": 3.5,
+            "reference": "ns-215",
+            "unit_price": 33.43
+        }
+    ],
+    "seller": {
+        "address": "4739 Adams Pine East Derekborough, CT 04251"
+    },
+    "tax": {
+        "base_ht": 245.56,
+        "regulations": 25.16,
+        "total_ht": 285.72,
+        "vat_amount": 117.63,
+        "vat_percentage": 15.88
+    }
+}

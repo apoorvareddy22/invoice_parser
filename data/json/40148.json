@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "933 Rojas Lodge Priceland, SD 01364"
+    },
+    "invoice": {
+        "bc_no": "Vy63976",
+        "date": "16.01.2002",
+        "maturity_date": "02.04.2002",
+        "number": 326534
+    },
+    "products": [
+        {
+            "amount": 15.64,
+            "description": "cultivate holistic ROI",
+            "quantity": 4.27,
+            "unit_price": 51.8,
+            "vat_amount": 10.84
+        },
+        {
+            "amount": 138.58,
+            "description": "target open-source web-readiness",
+            "quantity": 7.09,
+            "unit_price": 47.67,
+            "vat_amount": 10.85
+        },
+        {
+            "amount": 470.05,
+            "description": "monetize e-business solutions",
+            "quantity": 5.63,
+            "unit_price": 91.0,
+            "vat_amount": 9.08
+        }
+    ],
+    "seller": {
+        "address": "050 Jonathan Coves Meltonville, CA 16941"
+    },
+    "tax": {
+        "amount_excluding_tax": 59.72,
+        "amount_including_tax": 76.34,
+        "tax_amount": 25.21
+    }
+}

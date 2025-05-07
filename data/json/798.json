@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "PSC 1112, Box 8431 APO AP 83236",
+        "company_name": "Hughes-Solis",
+        "country": "Iceland",
+        "name": "John Moore"
+    },
+    "invoice": {
+        "date": "16.06.2003",
+        "number": 603113
+    },
+    "payment": {
+        "discount_amount": 43.44,
+        "discount_percentage": 6.84,
+        "due": 188.77,
+        "sub_total": 106.8,
+        "total": 500.02
+    },
+    "products": [
+        {
+            "description": "syndicate 24/365 info-mediaries",
+            "index": "6",
+            "quantity": 9.91,
+            "total_price": 936.24,
+            "unit_price": 20.29
+        },
+        {
+            "description": "unleash distributed ROI",
+            "index": "10",
+            "quantity": 3.65,
+            "total_price": 493.02,
+            "unit_price": 65.73
+        },
+        {
+            "description": "aggregate front-end ROI",
+            "index": "1",
+            "quantity": 7.84,
+            "total_price": 851.07,
+            "unit_price": 51.51
+        },
+        {
+            "description": "productize transparent vortals",
+            "index": "8",
+            "quantity": 2.12,
+            "total_price": 474.26,
+            "unit_price": 34.11
+        }
+    ],
+    "seller": {
+        "address": "7032 Robin Mill Suite 841 Angelbury, ME 82693",
+        "company_name": "Harding, Pittman and Jones",
+        "vat_no": "zv06644155761"
+    }
+}

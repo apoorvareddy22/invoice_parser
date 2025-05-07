@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "665 Mcclain Station Wilsonport, MO 85256",
+        "company_name": "Bradley and Sons",
+        "email": "andrewsmith@example.net",
+        "name": "Patricia Anderson",
+        "phone": "+1-417-371-6442x120"
+    },
+    "invoice": {
+        "date": "29.03.1994",
+        "due_date": "07.03.1995",
+        "number": "dei91452799838"
+    },
+    "payment": {
+        "account_number": 5397236725,
+        "bank_name": "Jimenez, Munoz and Marshall",
+        "routing_number": 813614553
+    },
+    "products": [
+        {
+            "amount": 24.04,
+            "description": "enhance world-class web-readiness",
+            "index": "5",
+            "quantity": 2.33,
+            "unit_price": 12.52
+        }
+    ],
+    "seller": {
+        "address": "83451 Perry Dam Apt. 651 New Jeffreystad, RI 48273",
+        "company_name": "Parker-Allen",
+        "email": "xsmith@example.com"
+    }
+}

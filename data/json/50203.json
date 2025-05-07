@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "PSC 7267, Box 5911 APO AA 34304",
+        "id": "fj560"
+    },
+    "invoice": {
+        "bc_no": "rE40392",
+        "currency_code": "THB",
+        "date": "19.08.2021",
+        "due_date": "02.08.2016",
+        "number": 183855
+    },
+    "payment": {
+        "bank_name": "Sanchez, Gibbs and Meadows",
+        "bic": "VGBQGBOR",
+        "iban": "YMMM17501075262315"
+    },
+    "products": [
+        {
+            "amount": 79.18,
+            "description": "engage customized applications",
+            "index": "5",
+            "price": 293.56,
+            "quantity": 6.47,
+            "tax_amount": 55.02,
+            "total_ttc": 324.33,
+            "vat_amount": 1.43
+        },
+        {
+            "amount": 332.69,
+            "description": "implement web-enabled architectures",
+            "index": "10",
+            "price": 149.51,
+            "quantity": 6.72,
+            "tax_amount": 41.88,
+            "total_ttc": 458.58,
+            "vat_amount": 14.17
+        },
+        {
+            "amount": 11.25,
+            "description": "e-enable e-business e-business",
+            "index": "10",
+            "price": 215.05,
+            "quantity": 2.08,
+            "tax_amount": 21.33,
+            "total_ttc": 114.81,
+            "vat_amount": 2.09
+        },
+        {
+            "amount": 387.61,
+            "description": "scale ubiquitous networks",
+            "index": "6",
+            "price": 383.95,
+            "quantity": 5.82,
+            "tax_amount": 99.52,
+            "total_ttc": 490.4,
+            "vat_amount": 0.48
+        }
+    ],
+    "seller": {
+        "name": "Andrew Bright"
+    },
+    "supplier": {
+        "address": "028 Cox Meadows Suite 192 New Amandachester, RI 17679",
+        "name": "Eric Byrd"
+    },
+    "tax": {
+        "amount_excluding_tax": 166.87,
+        "amount_including_tax": 115.65,
+        "tax_amount": 10.34,
+        "total_ht": 381.66,
+        "total_ttc": 251.13
+    }
+}

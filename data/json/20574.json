@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "Unit 4115 Box 8029 DPO AA 98269",
+        "company_name": "Golden Inc",
+        "email": "zjones@example.org",
+        "name": "Samantha Smith",
+        "phone": "(307)920-4826"
+    },
+    "invoice": {
+        "date": "23.08.2007",
+        "due_date": "18.03.2012",
+        "number": "pex36655218474"
+    },
+    "payment": {
+        "account_number": 7420288764,
+        "bank_name": "Ramirez, Acevedo and Griffin",
+        "routing_number": 490703224
+    },
+    "products": [
+        {
+            "amount": 480.61,
+            "description": "integrate viral paradigms",
+            "index": "10",
+            "quantity": 4.99,
+            "unit_price": 13.5
+        },
+        {
+            "amount": 433.62,
+            "description": "enhance sticky web-readiness",
+            "index": "9",
+            "quantity": 2.79,
+            "unit_price": 19.63
+        },
+        {
+            "amount": 268.97,
+            "description": "embrace one-to-one technologies",
+            "index": "2",
+            "quantity": 1.58,
+            "unit_price": 52.36
+        },
+        {
+            "amount": 44.08,
+            "description": "deploy magnetic schemas",
+            "index": "4",
+            "quantity": 8.25,
+            "unit_price": 92.99
+        },
+        {
+            "amount": 447.27,
+            "description": "facilitate revolutionary schemas",
+            "index": "8",
+            "quantity": 7.65,
+            "unit_price": 84.24
+        }
+    ],
+    "seller": {
+        "address": "761 West Parkways Suite 609 North Jasonville, MS 68778",
+        "company_name": "Owens and Sons",
+        "email": "fabbott@example.com"
+    }
+}

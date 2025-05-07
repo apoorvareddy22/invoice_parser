@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "23015 Kristin Overpass Apt. 930 Curtiston, AL 98652"
+    },
+    "invoice": {
+        "bc_no": "lT90111",
+        "date": "27.06.1993",
+        "maturity_date": "08.09.1994",
+        "number": 935229
+    },
+    "products": [
+        {
+            "amount": 114.26,
+            "description": "seize magnetic infrastructures",
+            "quantity": 5.76,
+            "unit_price": 41.23,
+            "vat_amount": 9.21
+        },
+        {
+            "amount": 34.74,
+            "description": "mesh killer bandwidth",
+            "quantity": 3.82,
+            "unit_price": 15.91,
+            "vat_amount": 8.51
+        },
+        {
+            "amount": 484.02,
+            "description": "redefine enterprise vortals",
+            "quantity": 1.08,
+            "unit_price": 63.56,
+            "vat_amount": 3.07
+        }
+    ],
+    "seller": {
+        "address": "494 George Forge Johntown, AK 95997"
+    },
+    "tax": {
+        "amount_excluding_tax": 42.68,
+        "amount_including_tax": 125.85,
+        "tax_amount": 15.08
+    }
+}

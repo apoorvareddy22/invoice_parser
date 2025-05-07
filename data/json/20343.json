@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "169 Jimenez Street Port Jennifer, MD 08506",
+        "company_name": "Arnold Group",
+        "email": "tracimcguire@example.com",
+        "name": "Jeffery Smith",
+        "phone": "353.906.4711"
+    },
+    "invoice": {
+        "date": "12.01.2023",
+        "due_date": "05.05.2022",
+        "number": "sYG90760411420"
+    },
+    "payment": {
+        "account_number": 5574973631,
+        "bank_name": "Dawson, Weeks and Love",
+        "routing_number": 825753181
+    },
+    "products": [
+        {
+            "amount": 334.65,
+            "description": "whiteboard granular vortals",
+            "index": "1",
+            "quantity": 4.54,
+            "unit_price": 30.36
+        },
+        {
+            "amount": 128.18,
+            "description": "productize vertical functionalities",
+            "index": "6",
+            "quantity": 7.19,
+            "unit_price": 81.96
+        },
+        {
+            "amount": 358.04,
+            "description": "deliver front-end models",
+            "index": "2",
+            "quantity": 3.11,
+            "unit_price": 31.88
+        },
+        {
+            "amount": 376.49,
+            "description": "reinvent customized experiences",
+            "index": "4",
+            "quantity": 2.71,
+            "unit_price": 23.53
+        },
+        {
+            "amount": 227.26,
+            "description": "target integrated portals",
+            "index": "8",
+            "quantity": 4.66,
+            "unit_price": 99.67
+        },
+        {
+            "amount": 191.22,
+            "description": "strategize next-generation relationships",
+            "index": "9",
+            "quantity": 2.44,
+            "unit_price": 80.43
+        }
+    ],
+    "seller": {
+        "address": "2526 Joan Mews Suite 058 Gallagherborough, MS 93502",
+        "company_name": "Wheeler-Herrera",
+        "email": "odavenport@example.net"
+    }
+}

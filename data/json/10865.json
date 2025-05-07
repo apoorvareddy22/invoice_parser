@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "3775 Benjamin Crossroad New Victoria, WA 29807",
+        "email": "rmorgan@example.net",
+        "phone": "7082816524",
+        "vat_no": "PD75998766494"
+    },
+    "invoice": {
+        "date": "13.06.1999",
+        "due_date": "05.02.2004",
+        "market_reference": 709544,
+        "notes": "reinvent extensible niches",
+        "number": "8219-3557",
+        "reference": 240959,
+        "vat_no": "gv25581510383"
+    },
+    "payment": {
+        "net_total": 143.05,
+        "total": 916.3
+    },
+    "products": [
+        {
+            "amount": 269.78,
+            "description": "repurpose global mindshare",
+            "hours": 7.85,
+            "rate": 3.73
+        },
+        {
+            "amount": 356.09,
+            "description": "empower 24/7 vortals",
+            "hours": 9.28,
+            "rate": 1.12
+        },
+        {
+            "amount": 321.53,
+            "description": "synergize killer solutions",
+            "hours": 8.33,
+            "rate": 9.75
+        },
+        {
+            "amount": 203.5,
+            "description": "mesh interactive interfaces",
+            "hours": 8.57,
+            "rate": 5.25
+        },
+        {
+            "amount": 321.53,
+            "description": "cultivate plug-and-play interfaces",
+            "hours": 1.1,
+            "rate": 9.51
+        },
+        {
+            "amount": 155.04,
+            "description": "unleash value-added e-business",
+            "hours": 1.97,
+            "rate": 1.18
+        },
+        {
+            "amount": 430.26,
+            "description": "incentivize scalable mindshare",
+            "hours": 4.62,
+            "rate": 9.21
+        }
+    ],
+    "seller": {
+        "address": "5023 Theresa Club Apt. 531 East Brianmouth, DC 99134",
+        "email": "lbrown@example.com",
+        "name": "Wanda Powell"
+    },
+    "tax": {
+        "base": 11.69,
+        "tax_amount": 11.85,
+        "total_tax": 20.27
+    }
+}

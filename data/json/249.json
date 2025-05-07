@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "02373 Parsons Shores Nathanmouth, MO 60333",
+        "company_name": "Ramsey LLC",
+        "country": "Iran",
+        "name": "Joshua Myers"
+    },
+    "invoice": {
+        "date": "22.05.1997",
+        "number": 844633
+    },
+    "payment": {
+        "discount_amount": 43.19,
+        "discount_percentage": 16.13,
+        "due": 59.83,
+        "sub_total": 150.25,
+        "total": 603.36
+    },
+    "products": [
+        {
+            "description": "strategize intuitive methodologies",
+            "index": "8",
+            "quantity": 6.5,
+            "total_price": 754.62,
+            "unit_price": 24.77
+        },
+        {
+            "description": "seize collaborative web-readiness",
+            "index": "7",
+            "quantity": 3.38,
+            "total_price": 403.49,
+            "unit_price": 74.45
+        },
+        {
+            "description": "unleash dynamic niches",
+            "index": "2",
+            "quantity": 9.93,
+            "total_price": 471.33,
+            "unit_price": 91.38
+        }
+    ],
+    "seller": {
+        "address": "45678 Shawna Track East Josefort, NJ 62921",
+        "company_name": "Perkins Inc",
+        "vat_no": "PQ58788437927"
+    }
+}

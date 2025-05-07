@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "52553 Lawrence Stravenue East Veronica, CT 18949",
+        "id": "BL101"
+    },
+    "invoice": {
+        "bc_no": "jL28511",
+        "currency_code": "PGK",
+        "date": "24.07.2007",
+        "due_date": "16.09.2010",
+        "number": 326311
+    },
+    "payment": {
+        "bank_name": "Wade PLC",
+        "bic": "TBACGB2X",
+        "iban": "DQAR76328543025138"
+    },
+    "products": [
+        {
+            "amount": 186.39,
+            "description": "scale web-enabled metrics",
+            "index": "8",
+            "price": 441.44,
+            "quantity": 2.97,
+            "tax_amount": 61.82,
+            "total_ttc": 461.65,
+            "vat_amount": 0.22
+        }
+    ],
+    "seller": {
+        "name": "Jonathan Owens"
+    },
+    "supplier": {
+        "address": "098 Tara Roads Suite 148 North Samanthastad, MA 80787",
+        "name": "Kelly Thompson"
+    },
+    "tax": {
+        "amount_excluding_tax": 94.06,
+        "amount_including_tax": 40.97,
+        "tax_amount": 23.57,
+        "total_ht": 382.22,
+        "total_ttc": 397.85
+    }
+}

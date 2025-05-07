@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "3304 Mayo Rapid North Elizabethport, TX 89927"
+    },
+    "invoice": {
+        "bc_no": "qe61817",
+        "date": "18.08.2007",
+        "maturity_date": "06.05.2000",
+        "number": 994614
+    },
+    "products": [
+        {
+            "amount": 295.39,
+            "description": "morph transparent synergies",
+            "quantity": 1.97,
+            "unit_price": 68.44,
+            "vat_amount": 1.63
+        },
+        {
+            "amount": 420.54,
+            "description": "integrate interactive e-business",
+            "quantity": 3.28,
+            "unit_price": 15.3,
+            "vat_amount": 5.17
+        }
+    ],
+    "seller": {
+        "address": "5178 Isabella Harbors Suite 965 Joeton, AZ 34186"
+    },
+    "tax": {
+        "amount_excluding_tax": 139.38,
+        "amount_including_tax": 113.13,
+        "tax_amount": 12.43
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "79936 Chavez Locks Apt. 490 Randallton, MO 25068",
+        "business_no": "jt930",
+        "id": "sY066"
+    },
+    "invoice": {
+        "date": "14.07.2017",
+        "number": "4440-7908"
+    },
+    "payment": {
+        "due_date": "13.01.2018",
+        "total": 104.87
+    },
+    "products": [
+        {
+            "amount": 329.35,
+            "description": "benchmark interactive e-commerce",
+            "quantity": 8.9,
+            "reference": "Lh-882",
+            "unit_price": 85.53
+        },
+        {
+            "amount": 147.6,
+            "description": "innovate scalable architectures",
+            "quantity": 6.49,
+            "reference": "IG-474",
+            "unit_price": 67.44
+        },
+        {
+            "amount": 255.68,
+            "description": "iterate sticky applications",
+            "quantity": 2.94,
+            "reference": "kK-156",
+            "unit_price": 71.05
+        },
+        {
+            "amount": 219.85,
+            "description": "incentivize mission-critical deliverables",
+            "quantity": 8.84,
+            "reference": "Sv-935",
+            "unit_price": 73.43
+        },
+        {
+            "amount": 152.67,
+            "description": "revolutionize bricks-and-clicks models",
+            "quantity": 9.06,
+            "reference": "vd-386",
+            "unit_price": 43.38
+        },
+        {
+            "amount": 145.24,
+            "description": "engage extensible communities",
+            "quantity": 7.88,
+            "reference": "SX-348",
+            "unit_price": 46.75
+        },
+        {
+            "amount": 234.84,
+            "description": "e-enable open-source architectures",
+            "quantity": 3.95,
+            "reference": "Hv-261",
+            "unit_price": 42.39
+        }
+    ],
+    "seller": {
+        "address": "5533 Katie Expressway Bakerville, OK 75307"
+    },
+    "tax": {
+        "base_ht": 147.3,
+        "regulations": 14.88,
+        "total_ht": 201.66,
+        "vat_amount": 76.71,
+        "vat_percentage": 20.2
+    }
+}

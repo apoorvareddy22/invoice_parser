@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "3786 Justin Path Suite 670 Phillipsberg, NM 70130",
+        "email": "treid@example.org",
+        "phone": "(204)760-8928x003",
+        "vat_no": "us26287521270"
+    },
+    "invoice": {
+        "date": "06.02.2023",
+        "due_date": "24.04.2016",
+        "market_reference": 163348,
+        "notes": "enhance strategic paradigms",
+        "number": "6988-8993",
+        "reference": 288290,
+        "vat_no": "Ql79412513407"
+    },
+    "payment": {
+        "net_total": 165.6,
+        "total": 802.1
+    },
+    "products": [
+        {
+            "amount": 202.23,
+            "description": "monetize collaborative web-readiness",
+            "hours": 1.94,
+            "rate": 8.96
+        },
+        {
+            "amount": 115.93,
+            "description": "grow ubiquitous content",
+            "hours": 7.13,
+            "rate": 6.98
+        }
+    ],
+    "seller": {
+        "address": "1527 Juarez Rue Apt. 939 Hunterhaven, SD 07069",
+        "email": "randy17@example.org",
+        "name": "Felicia Brooks"
+    },
+    "tax": {
+        "base": 23.24,
+        "tax_amount": 12.87,
+        "total_tax": 22.34
+    }
+}

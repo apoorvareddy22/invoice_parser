@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "945 Gregory Run Frankhaven, AK 20351",
+        "business_no": "WT068",
+        "id": "qX813"
+    },
+    "invoice": {
+        "date": "24.09.1996",
+        "number": "3439-7853"
+    },
+    "payment": {
+        "due_date": "16.04.2006",
+        "total": 324.38
+    },
+    "products": [
+        {
+            "amount": 98.62,
+            "description": "target transparent content",
+            "quantity": 4.96,
+            "reference": "ea-167",
+            "unit_price": 78.76
+        },
+        {
+            "amount": 29.02,
+            "description": "synthesize extensible web-readiness",
+            "quantity": 4.48,
+            "reference": "MM-561",
+            "unit_price": 32.69
+        }
+    ],
+    "seller": {
+        "address": "281 Philip Inlet Audreyside, CO 60930"
+    },
+    "tax": {
+        "base_ht": 396.58,
+        "regulations": 26.01,
+        "total_ht": 286.05,
+        "vat_amount": 73.56,
+        "vat_percentage": 18.46
+    }
+}

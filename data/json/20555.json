@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "Unit 6293 Box 2395 DPO AA 54475",
+        "company_name": "Holland, Sanchez and Gross",
+        "email": "juarezjeremy@example.org",
+        "name": "Terry Robinson",
+        "phone": "417-888-1849x934"
+    },
+    "invoice": {
+        "date": "15.01.1996",
+        "due_date": "21.02.2001",
+        "number": "euV41519883268"
+    },
+    "payment": {
+        "account_number": 6981934273,
+        "bank_name": "Bender, James and Barnes",
+        "routing_number": 643593960
+    },
+    "products": [
+        {
+            "amount": 126.32,
+            "description": "aggregate revolutionary metrics",
+            "index": "6",
+            "quantity": 7.83,
+            "unit_price": 69.03
+        }
+    ],
+    "seller": {
+        "address": "3394 Laura Groves Apt. 389 Port Andreabury, IN 91417",
+        "company_name": "Freeman, Taylor and Alvarado",
+        "email": "devinjohnson@example.com"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "805 Wright Rapid Suite 046 Davidton, WV 30661",
+        "id": "Wn906"
+    },
+    "invoice": {
+        "bc_no": "PT52309",
+        "currency_code": "PGK",
+        "date": "25.05.1991",
+        "due_date": "28.11.2021",
+        "number": 175250
+    },
+    "payment": {
+        "bank_name": "Stephens LLC",
+        "bic": "CTRHGBL3IIE",
+        "iban": "BCVM85279536055441"
+    },
+    "products": [
+        {
+            "amount": 461.44,
+            "description": "benchmark integrated channels",
+            "index": "1",
+            "price": 493.19,
+            "quantity": 6.42,
+            "tax_amount": 71.1,
+            "total_ttc": 310.29,
+            "vat_amount": 6.72
+        },
+        {
+            "amount": 301.66,
+            "description": "enhance virtual experiences",
+            "index": "1",
+            "price": 475.43,
+            "quantity": 5.75,
+            "tax_amount": 88.57,
+            "total_ttc": 380.26,
+            "vat_amount": 3.11
+        },
+        {
+            "amount": 407.04,
+            "description": "repurpose dot-com networks",
+            "index": "8",
+            "price": 402.25,
+            "quantity": 5.01,
+            "tax_amount": 82.26,
+            "total_ttc": 159.25,
+            "vat_amount": 0.22
+        }
+    ],
+    "seller": {
+        "name": "Virginia Foster"
+    },
+    "supplier": {
+        "address": "342 Perez Streets Apt. 803 North David, DC 54851",
+        "name": "Joshua Lowe"
+    },
+    "tax": {
+        "amount_excluding_tax": 148.04,
+        "amount_including_tax": 105.94,
+        "tax_amount": 14.36,
+        "total_ht": 456.28,
+        "total_ttc": 115.74
+    }
+}

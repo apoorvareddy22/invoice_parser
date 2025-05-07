@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "PSC 3617, Box 1383 APO AE 46428",
+        "company_name": "Hubbard, Hernandez and Jones",
+        "email": "richard97@example.com",
+        "name": "Olivia Garcia",
+        "phone": "(244)970-0265"
+    },
+    "invoice": {
+        "date": "29.04.2005",
+        "due_date": "26.09.2008",
+        "number": "SCW81643814650"
+    },
+    "payment": {
+        "account_number": 6291261105,
+        "bank_name": "Zimmerman, Rodriguez and Castillo",
+        "routing_number": 263877697
+    },
+    "products": [
+        {
+            "amount": 415.78,
+            "description": "grow collaborative experiences",
+            "index": "5",
+            "quantity": 4.14,
+            "unit_price": 49.57
+        },
+        {
+            "amount": 212.07,
+            "description": "cultivate killer web-readiness",
+            "index": "3",
+            "quantity": 3.66,
+            "unit_price": 32.83
+        },
+        {
+            "amount": 287.68,
+            "description": "empower robust channels",
+            "index": "6",
+            "quantity": 5.88,
+            "unit_price": 80.28
+        }
+    ],
+    "seller": {
+        "address": "1220 Samantha Gateway Apt. 844 West Conniehaven, MA 31206",
+        "company_name": "Smith-Wright",
+        "email": "jacksonmark@example.net"
+    }
+}

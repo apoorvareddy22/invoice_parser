@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "USCGC Smith FPO AP 36659",
+        "email": "hscott@example.com",
+        "phone": "001-684-223-7643",
+        "vat_no": "pv62942943838"
+    },
+    "invoice": {
+        "date": "02.01.2021",
+        "due_date": "08.04.1995",
+        "market_reference": 499071,
+        "notes": "synergize enterprise systems",
+        "number": "0020-1039",
+        "reference": 698288,
+        "vat_no": "zv12566915138"
+    },
+    "payment": {
+        "net_total": 189.2,
+        "total": 127.21
+    },
+    "products": [
+        {
+            "amount": 40.99,
+            "description": "scale enterprise vortals",
+            "hours": 5.64,
+            "rate": 4.25
+        },
+        {
+            "amount": 119.35,
+            "description": "harness customized paradigms",
+            "hours": 6.62,
+            "rate": 4.3
+        },
+        {
+            "amount": 431.8,
+            "description": "visualize mission-critical applications",
+            "hours": 3.76,
+            "rate": 1.21
+        }
+    ],
+    "seller": {
+        "address": "PSC 0560, Box 9638 APO AE 96139",
+        "email": "icunningham@example.com",
+        "name": "Samantha Carpenter"
+    },
+    "tax": {
+        "base": 23.99,
+        "tax_amount": 16.95,
+        "total_tax": 16.86
+    }
+}

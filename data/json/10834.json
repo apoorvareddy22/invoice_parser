@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "395 Ortiz Lodge Ruizton, OK 61566",
+        "email": "pgaines@example.net",
+        "phone": "4425414851",
+        "vat_no": "EP67033461329"
+    },
+    "invoice": {
+        "date": "29.01.2019",
+        "due_date": "17.04.2010",
+        "market_reference": 562011,
+        "notes": "enable revolutionary web-readiness",
+        "number": "9996-9467",
+        "reference": 214528,
+        "vat_no": "ec70194636529"
+    },
+    "payment": {
+        "net_total": 48.44,
+        "total": 799.92
+    },
+    "products": [
+        {
+            "amount": 194.63,
+            "description": "generate one-to-one partnerships",
+            "hours": 9.68,
+            "rate": 7.96
+        },
+        {
+            "amount": 29.12,
+            "description": "iterate transparent portals",
+            "hours": 2.23,
+            "rate": 9.92
+        },
+        {
+            "amount": 141.47,
+            "description": "whiteboard open-source applications",
+            "hours": 1.59,
+            "rate": 5.86
+        },
+        {
+            "amount": 337.35,
+            "description": "redefine bricks-and-clicks synergies",
+            "hours": 5.55,
+            "rate": 6.21
+        },
+        {
+            "amount": 378.48,
+            "description": "redefine compelling users",
+            "hours": 6.54,
+            "rate": 4.96
+        },
+        {
+            "amount": 77.82,
+            "description": "facilitate sticky applications",
+            "hours": 8.06,
+            "rate": 6.07
+        }
+    ],
+    "seller": {
+        "address": "19933 Rubio Mission Suite 160 North Joshua, AR 79076",
+        "email": "michael54@example.com",
+        "name": "Judy Price"
+    },
+    "tax": {
+        "base": 16.01,
+        "tax_amount": 27.21,
+        "total_tax": 28.3
+    }
+}

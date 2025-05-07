@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "479 Smith Manor Steelefort, AL 89279",
+        "company_name": "Moore-Mccullough",
+        "email": "parrishcharles@example.com",
+        "name": "Emily Mcmillan",
+        "phone": "4936276959"
+    },
+    "invoice": {
+        "date": "29.06.2001",
+        "due_date": "07.05.2005",
+        "number": "vTn13010375419"
+    },
+    "payment": {
+        "account_number": 2057238727,
+        "bank_name": "Morris, Dunlap and Waters",
+        "routing_number": 212769749
+    },
+    "products": [
+        {
+            "amount": 92.91,
+            "description": "extend revolutionary networks",
+            "index": "5",
+            "quantity": 5.9,
+            "unit_price": 80.39
+        },
+        {
+            "amount": 180.11,
+            "description": "revolutionize granular communities",
+            "index": "1",
+            "quantity": 9.53,
+            "unit_price": 34.88
+        },
+        {
+            "amount": 476.23,
+            "description": "innovate wireless partnerships",
+            "index": "2",
+            "quantity": 5.65,
+            "unit_price": 17.94
+        }
+    ],
+    "seller": {
+        "address": "003 Michael Rue Thomastown, OH 37945",
+        "company_name": "Martinez Ltd",
+        "email": "kimdavid@example.com"
+    }
+}

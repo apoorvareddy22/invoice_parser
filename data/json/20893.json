@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "87301 Brown Drive South Amymouth, ND 98705",
+        "company_name": "Fernandez-Wise",
+        "email": "david76@example.org",
+        "name": "Elizabeth Alexander",
+        "phone": "897.450.4497"
+    },
+    "invoice": {
+        "date": "17.03.1990",
+        "due_date": "30.01.2003",
+        "number": "rJv94048503394"
+    },
+    "payment": {
+        "account_number": 1269367817,
+        "bank_name": "Miller LLC",
+        "routing_number": 281115374
+    },
+    "products": [
+        {
+            "amount": 252.9,
+            "description": "repurpose impactful content",
+            "index": "1",
+            "quantity": 3.8,
+            "unit_price": 61.29
+        },
+        {
+            "amount": 273.08,
+            "description": "matrix killer mindshare",
+            "index": "7",
+            "quantity": 3.28,
+            "unit_price": 67.96
+        },
+        {
+            "amount": 441.63,
+            "description": "engineer wireless interfaces",
+            "index": "10",
+            "quantity": 1.37,
+            "unit_price": 92.88
+        },
+        {
+            "amount": 114.9,
+            "description": "integrate granular e-commerce",
+            "index": "1",
+            "quantity": 2.86,
+            "unit_price": 12.06
+        }
+    ],
+    "seller": {
+        "address": "5129 Thompson Orchard West Michaelhaven, NC 58286",
+        "company_name": "Manning LLC",
+        "email": "cwhite@example.net"
+    }
+}

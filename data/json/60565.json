@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "6684 Martinez Row Suite 488 Port Sharonshire, GU 64987",
+        "business_no": "tW276",
+        "id": "sq863"
+    },
+    "invoice": {
+        "date": "19.05.2008",
+        "number": "0431-3245"
+    },
+    "payment": {
+        "due_date": "27.10.2002",
+        "total": 195.69
+    },
+    "products": [
+        {
+            "amount": 372.64,
+            "description": "benchmark value-added paradigms",
+            "quantity": 2.08,
+            "reference": "ce-412",
+            "unit_price": 82.68
+        },
+        {
+            "amount": 274.52,
+            "description": "target cutting-edge info-mediaries",
+            "quantity": 5.62,
+            "reference": "ry-011",
+            "unit_price": 50.19
+        }
+    ],
+    "seller": {
+        "address": "705 Patrick Skyway Port Lindsey, WV 74564"
+    },
+    "tax": {
+        "base_ht": 461.21,
+        "regulations": 10.25,
+        "total_ht": 242.29,
+        "vat_amount": 194.63,
+        "vat_percentage": 13.59
+    }
+}

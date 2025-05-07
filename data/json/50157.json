@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "5598 Allison Stream Jessicaburgh, WI 60916",
+        "id": "Ly070"
+    },
+    "invoice": {
+        "bc_no": "Uu73703",
+        "currency_code": "RSD",
+        "date": "03.03.1993",
+        "due_date": "19.06.2012",
+        "number": 878992
+    },
+    "payment": {
+        "bank_name": "Noble, Schmidt and Barron",
+        "bic": "HGPWGBWH47C",
+        "iban": "OZSP81541652458402"
+    },
+    "products": [
+        {
+            "amount": 323.51,
+            "description": "integrate extensible e-services",
+            "index": "5",
+            "price": 365.95,
+            "quantity": 3.01,
+            "tax_amount": 58.98,
+            "total_ttc": 286.97,
+            "vat_amount": 1.91
+        },
+        {
+            "amount": 271.55,
+            "description": "synthesize world-class e-services",
+            "index": "6",
+            "price": 122.06,
+            "quantity": 5.17,
+            "tax_amount": 45.81,
+            "total_ttc": 178.0,
+            "vat_amount": 1.83
+        },
+        {
+            "amount": 461.5,
+            "description": "envisioneer leading-edge initiatives",
+            "index": "4",
+            "price": 153.28,
+            "quantity": 8.42,
+            "tax_amount": 68.66,
+            "total_ttc": 448.78,
+            "vat_amount": 3.74
+        },
+        {
+            "amount": 146.17,
+            "description": "envisioneer end-to-end solutions",
+            "index": "6",
+            "price": 46.08,
+            "quantity": 7.23,
+            "tax_amount": 27.33,
+            "total_ttc": 328.96,
+            "vat_amount": 3.19
+        }
+    ],
+    "seller": {
+        "name": "John Adams"
+    },
+    "supplier": {
+        "address": "USNV Thomas FPO AA 91720",
+        "name": "Jessica Little"
+    },
+    "tax": {
+        "amount_excluding_tax": 77.72,
+        "amount_including_tax": 11.29,
+        "tax_amount": 12.65,
+        "total_ht": 238.38,
+        "total_ttc": 400.82
+    }
+}

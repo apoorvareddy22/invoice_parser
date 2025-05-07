@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "1572 Cook Expressway Apt. 404 New William, NY 54814",
+        "id": "Iy879"
+    },
+    "invoice": {
+        "bc_no": "by54860",
+        "currency_code": "AED",
+        "date": "07.07.1998",
+        "due_date": "28.07.1999",
+        "number": 916603
+    },
+    "payment": {
+        "bank_name": "Douglas Group",
+        "bic": "ALGLGBKQMVT",
+        "iban": "PHOC67544547646257"
+    },
+    "products": [
+        {
+            "amount": 275.99,
+            "description": "expedite granular deliverables",
+            "index": "6",
+            "price": 454.28,
+            "quantity": 8.91,
+            "tax_amount": 54.13,
+            "total_ttc": 367.92,
+            "vat_amount": 0.1
+        },
+        {
+            "amount": 6.92,
+            "description": "scale B2B e-commerce",
+            "index": "2",
+            "price": 73.53,
+            "quantity": 6.18,
+            "tax_amount": 13.91,
+            "total_ttc": 203.59,
+            "vat_amount": 4.38
+        },
+        {
+            "amount": 387.56,
+            "description": "optimize killer architectures",
+            "index": "9",
+            "price": 490.62,
+            "quantity": 2.97,
+            "tax_amount": 76.19,
+            "total_ttc": 433.88,
+            "vat_amount": 8.38
+        },
+        {
+            "amount": 357.06,
+            "description": "innovate wireless info-mediaries",
+            "index": "2",
+            "price": 72.24,
+            "quantity": 2.62,
+            "tax_amount": 97.05,
+            "total_ttc": 357.4,
+            "vat_amount": 1.58
+        }
+    ],
+    "seller": {
+        "name": "Christina Jones"
+    },
+    "supplier": {
+        "address": "67866 Martinez Lights Suite 670 Banksland, MO 77328",
+        "name": "Ann Moore"
+    },
+    "tax": {
+        "amount_excluding_tax": 158.04,
+        "amount_including_tax": 30.33,
+        "tax_amount": 23.41,
+        "total_ht": 448.62,
+        "total_ttc": 372.54
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "33540 Collins Center Andersonshire, CA 07457",
+        "company_name": "Williams, Davis and Olson",
+        "email": "willisdanielle@example.com",
+        "name": "Elizabeth Kelly",
+        "phone": "001-508-817-2736"
+    },
+    "invoice": {
+        "date": "03.05.1990",
+        "due_date": "25.11.2013",
+        "number": "VJx66460754995"
+    },
+    "payment": {
+        "account_number": 6209276388,
+        "bank_name": "Harper-Williams",
+        "routing_number": 154399391
+    },
+    "products": [
+        {
+            "amount": 369.92,
+            "description": "reinvent ubiquitous supply-chains",
+            "index": "3",
+            "quantity": 3.29,
+            "unit_price": 58.39
+        },
+        {
+            "amount": 447.06,
+            "description": "enable transparent experiences",
+            "index": "2",
+            "quantity": 4.19,
+            "unit_price": 95.64
+        }
+    ],
+    "seller": {
+        "address": "USNV Douglas FPO AP 87997",
+        "company_name": "Munoz PLC",
+        "email": "halljacqueline@example.com"
+    }
+}

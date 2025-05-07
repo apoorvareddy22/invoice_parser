@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "02161 Jamie Lakes Suite 890 Gregoryland, DE 27797",
+        "business_no": "CV809",
+        "id": "ab672"
+    },
+    "invoice": {
+        "date": "15.07.2023",
+        "number": "0156-7778"
+    },
+    "payment": {
+        "due_date": "15.02.2001",
+        "total": 554.71
+    },
+    "products": [
+        {
+            "amount": 358.92,
+            "description": "empower rich systems",
+            "quantity": 6.78,
+            "reference": "NW-214",
+            "unit_price": 88.94
+        },
+        {
+            "amount": 443.46,
+            "description": "revolutionize e-business content",
+            "quantity": 2.11,
+            "reference": "LR-160",
+            "unit_price": 26.85
+        },
+        {
+            "amount": 146.99,
+            "description": "enhance ubiquitous mindshare",
+            "quantity": 4.11,
+            "reference": "aW-752",
+            "unit_price": 95.36
+        },
+        {
+            "amount": 34.17,
+            "description": "e-enable one-to-one e-markets",
+            "quantity": 8.7,
+            "reference": "La-270",
+            "unit_price": 49.53
+        }
+    ],
+    "seller": {
+        "address": "798 Lucas Ramp West Jason, OR 78829"
+    },
+    "tax": {
+        "base_ht": 314.22,
+        "regulations": 21.34,
+        "total_ht": 441.75,
+        "vat_amount": 156.52,
+        "vat_percentage": 20.57
+    }
+}

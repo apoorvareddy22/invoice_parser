@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "20250 Elliott Spring Nicholasberg, VI 69959",
+        "business_no": "IG527",
+        "id": "PX533"
+    },
+    "invoice": {
+        "date": "16.01.2016",
+        "number": "9235-6994"
+    },
+    "payment": {
+        "due_date": "10.07.1998",
+        "total": 899.48
+    },
+    "products": [
+        {
+            "amount": 145.94,
+            "description": "seize turn-key systems",
+            "quantity": 4.32,
+            "reference": "Qs-067",
+            "unit_price": 13.14
+        },
+        {
+            "amount": 395.04,
+            "description": "strategize scalable methodologies",
+            "quantity": 8.04,
+            "reference": "dp-784",
+            "unit_price": 58.85
+        }
+    ],
+    "seller": {
+        "address": "56096 Judith Unions Jessicaport, NJ 49925"
+    },
+    "tax": {
+        "base_ht": 154.19,
+        "regulations": 26.14,
+        "total_ht": 279.39,
+        "vat_amount": 83.39,
+        "vat_percentage": 14.92
+    }
+}

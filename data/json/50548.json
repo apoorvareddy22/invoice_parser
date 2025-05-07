@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "9996 Jeffrey Oval Mcdonaldburgh, MI 75048",
+        "id": "ne565"
+    },
+    "invoice": {
+        "bc_no": "su50264",
+        "currency_code": "VND",
+        "date": "25.07.1993",
+        "due_date": "04.01.2009",
+        "number": 657992
+    },
+    "payment": {
+        "bank_name": "Wade-Bell",
+        "bic": "WYNPGBS2",
+        "iban": "UVPC12460791693411"
+    },
+    "products": [
+        {
+            "amount": 413.73,
+            "description": "exploit value-added content",
+            "index": "2",
+            "price": 79.99,
+            "quantity": 4.75,
+            "tax_amount": 18.85,
+            "total_ttc": 161.18,
+            "vat_amount": 7.07
+        },
+        {
+            "amount": 355.22,
+            "description": "harness enterprise channels",
+            "index": "8",
+            "price": 366.79,
+            "quantity": 8.9,
+            "tax_amount": 47.58,
+            "total_ttc": 446.59,
+            "vat_amount": 1.24
+        }
+    ],
+    "seller": {
+        "name": "Rebecca Torres"
+    },
+    "supplier": {
+        "address": "13043 Garrison Lakes Suite 911 Adamfort, ND 60773",
+        "name": "Anthony Berry"
+    },
+    "tax": {
+        "amount_excluding_tax": 124.82,
+        "amount_including_tax": 61.68,
+        "tax_amount": 28.01,
+        "total_ht": 250.37,
+        "total_ttc": 159.01
+    }
+}

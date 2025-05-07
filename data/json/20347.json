@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "PSC 4614, Box 9101 APO AA 17350",
+        "company_name": "Warren LLC",
+        "email": "rrogers@example.net",
+        "name": "Melanie Wright",
+        "phone": "+1-597-977-6915x767"
+    },
+    "invoice": {
+        "date": "19.07.1994",
+        "due_date": "03.03.2003",
+        "number": "VvB05489479791"
+    },
+    "payment": {
+        "account_number": 4594761998,
+        "bank_name": "Smith-Freeman",
+        "routing_number": 423780781
+    },
+    "products": [
+        {
+            "amount": 64.51,
+            "description": "strategize e-business technologies",
+            "index": "6",
+            "quantity": 1.78,
+            "unit_price": 98.45
+        },
+        {
+            "amount": 406.83,
+            "description": "exploit leading-edge mindshare",
+            "index": "6",
+            "quantity": 3.83,
+            "unit_price": 51.37
+        },
+        {
+            "amount": 165.54,
+            "description": "strategize user-centric models",
+            "index": "5",
+            "quantity": 8.63,
+            "unit_price": 19.15
+        },
+        {
+            "amount": 133.22,
+            "description": "streamline back-end relationships",
+            "index": "9",
+            "quantity": 6.96,
+            "unit_price": 61.91
+        },
+        {
+            "amount": 225.79,
+            "description": "productize value-added action-items",
+            "index": "7",
+            "quantity": 7.57,
+            "unit_price": 47.34
+        },
+        {
+            "amount": 113.99,
+            "description": "syndicate interactive interfaces",
+            "index": "5",
+            "quantity": 2.93,
+            "unit_price": 64.45
+        }
+    ],
+    "seller": {
+        "address": "9805 Daniel Knoll West Melinda, MT 55322",
+        "company_name": "Sanchez Ltd",
+        "email": "stacey98@example.org"
+    }
+}

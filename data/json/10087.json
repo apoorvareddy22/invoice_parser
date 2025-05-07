@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "294 Anthony Forest Miaborough, NJ 99581",
+        "email": "ayersdustin@example.net",
+        "phone": "001-569-536-4710x537",
+        "vat_no": "in49634043388"
+    },
+    "invoice": {
+        "date": "10.05.2002",
+        "due_date": "16.07.1997",
+        "market_reference": 550077,
+        "notes": "facilitate distributed systems",
+        "number": "4564-4450",
+        "reference": 563882,
+        "vat_no": "KG83036329215"
+    },
+    "payment": {
+        "net_total": 48.08,
+        "total": 905.53
+    },
+    "products": [
+        {
+            "amount": 463.1,
+            "description": "embrace 24/365 eyeballs",
+            "hours": 5.2,
+            "rate": 3.33
+        },
+        {
+            "amount": 89.68,
+            "description": "leverage B2C models",
+            "hours": 8.41,
+            "rate": 4.76
+        }
+    ],
+    "seller": {
+        "address": "Unit 7482 Box 5742 DPO AE 32779",
+        "email": "timothy64@example.net",
+        "name": "Jason Joseph"
+    },
+    "tax": {
+        "base": 11.81,
+        "tax_amount": 21.0,
+        "total_tax": 29.69
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "590 Courtney Estate Johnsonville, AS 50085"
+    },
+    "invoice": {
+        "bc_no": "wU34008",
+        "date": "20.04.1992",
+        "maturity_date": "21.02.2019",
+        "number": 366145
+    },
+    "products": [
+        {
+            "amount": 206.8,
+            "description": "re-contextualize cross-platform technologies",
+            "quantity": 9.73,
+            "unit_price": 97.47,
+            "vat_amount": 3.92
+        },
+        {
+            "amount": 134.53,
+            "description": "mesh revolutionary experiences",
+            "quantity": 6.43,
+            "unit_price": 60.06,
+            "vat_amount": 0.26
+        },
+        {
+            "amount": 401.1,
+            "description": "facilitate plug-and-play web-readiness",
+            "quantity": 3.3,
+            "unit_price": 61.28,
+            "vat_amount": 9.03
+        }
+    ],
+    "seller": {
+        "address": "8626 Rowe Grove Apt. 036 Port Michael, NY 44613"
+    },
+    "tax": {
+        "amount_excluding_tax": 83.04,
+        "amount_including_tax": 102.91,
+        "tax_amount": 12.93
+    }
+}

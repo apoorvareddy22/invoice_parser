@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "399 John Shoals South Daniel, MH 82943",
+        "id": "sL967"
+    },
+    "invoice": {
+        "bc_no": "eu00684",
+        "currency_code": "XDR",
+        "date": "28.04.2018",
+        "due_date": "17.05.2016",
+        "number": 970225
+    },
+    "payment": {
+        "bank_name": "Hodges LLC",
+        "bic": "XGHUGBQK",
+        "iban": "PRTF34307088736917"
+    },
+    "products": [
+        {
+            "amount": 104.45,
+            "description": "incubate proactive niches",
+            "index": "10",
+            "price": 475.15,
+            "quantity": 6.24,
+            "tax_amount": 80.82,
+            "total_ttc": 339.76,
+            "vat_amount": 2.22
+        },
+        {
+            "amount": 335.58,
+            "description": "integrate best-of-breed portals",
+            "index": "4",
+            "price": 301.28,
+            "quantity": 3.08,
+            "tax_amount": 85.0,
+            "total_ttc": 404.86,
+            "vat_amount": 6.38
+        },
+        {
+            "amount": 252.46,
+            "description": "leverage dynamic e-commerce",
+            "index": "5",
+            "price": 363.12,
+            "quantity": 3.24,
+            "tax_amount": 98.18,
+            "total_ttc": 190.68,
+            "vat_amount": 1.05
+        },
+        {
+            "amount": 440.59,
+            "description": "deliver one-to-one vortals",
+            "index": "2",
+            "price": 211.55,
+            "quantity": 1.06,
+            "tax_amount": 39.67,
+            "total_ttc": 315.01,
+            "vat_amount": 12.9
+        },
+        {
+            "amount": 17.69,
+            "description": "seize best-of-breed infrastructures",
+            "index": "4",
+            "price": 475.63,
+            "quantity": 9.7,
+            "tax_amount": 68.18,
+            "total_ttc": 224.41,
+            "vat_amount": 14.5
+        }
+    ],
+    "seller": {
+        "name": "Joshua Rivers"
+    },
+    "supplier": {
+        "address": "6412 Susan Mountains Apt. 443 Port Angela, SD 61511",
+        "name": "Tyler Frey"
+    },
+    "tax": {
+        "amount_excluding_tax": 39.3,
+        "amount_including_tax": 157.68,
+        "tax_amount": 22.76,
+        "total_ht": 270.57,
+        "total_ttc": 394.61
+    }
+}

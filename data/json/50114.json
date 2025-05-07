@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "0430 Catherine Shores Johnsonshire, ME 12026",
+        "id": "si018"
+    },
+    "invoice": {
+        "bc_no": "lg27061",
+        "currency_code": "ILS",
+        "date": "11.07.1990",
+        "due_date": "15.08.1997",
+        "number": 280246
+    },
+    "payment": {
+        "bank_name": "Velasquez, Howard and Odonnell",
+        "bic": "LVIEGBJT",
+        "iban": "TCFA49182218928259"
+    },
+    "products": [
+        {
+            "amount": 209.01,
+            "description": "incentivize world-class supply-chains",
+            "index": "6",
+            "price": 266.14,
+            "quantity": 6.98,
+            "tax_amount": 39.54,
+            "total_ttc": 291.08,
+            "vat_amount": 3.36
+        },
+        {
+            "amount": 86.43,
+            "description": "re-contextualize interactive applications",
+            "index": "9",
+            "price": 464.46,
+            "quantity": 1.44,
+            "tax_amount": 54.16,
+            "total_ttc": 440.54,
+            "vat_amount": 17.77
+        },
+        {
+            "amount": 7.61,
+            "description": "scale extensible interfaces",
+            "index": "4",
+            "price": 5.76,
+            "quantity": 2.41,
+            "tax_amount": 62.1,
+            "total_ttc": 370.93,
+            "vat_amount": 8.57
+        },
+        {
+            "amount": 34.15,
+            "description": "exploit ubiquitous markets",
+            "index": "4",
+            "price": 486.7,
+            "quantity": 9.27,
+            "tax_amount": 16.19,
+            "total_ttc": 381.49,
+            "vat_amount": 2.45
+        },
+        {
+            "amount": 237.61,
+            "description": "orchestrate granular ROI",
+            "index": "2",
+            "price": 27.81,
+            "quantity": 9.14,
+            "tax_amount": 90.64,
+            "total_ttc": 259.22,
+            "vat_amount": 1.03
+        },
+        {
+            "amount": 396.62,
+            "description": "orchestrate one-to-one e-tailers",
+            "index": "3",
+            "price": 486.56,
+            "quantity": 5.68,
+            "tax_amount": 49.52,
+            "total_ttc": 379.64,
+            "vat_amount": 5.94
+        }
+    ],
+    "seller": {
+        "name": "Jeffrey Morse"
+    },
+    "supplier": {
+        "address": "932 Jennifer Springs West Jacquelineview, AS 54604",
+        "name": "Mason Schmidt"
+    },
+    "tax": {
+        "amount_excluding_tax": 21.22,
+        "amount_including_tax": 115.74,
+        "tax_amount": 20.83,
+        "total_ht": 308.47,
+        "total_ttc": 224.1
+    }
+}

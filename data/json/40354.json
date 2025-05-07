@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "281 Gentry Trail Apt. 546 Williamsburgh, MH 69855"
+    },
+    "invoice": {
+        "bc_no": "sm12566",
+        "date": "11.02.1997",
+        "maturity_date": "17.10.2018",
+        "number": 315611
+    },
+    "products": [
+        {
+            "amount": 168.12,
+            "description": "re-intermediate back-end content",
+            "quantity": 3.65,
+            "unit_price": 42.74,
+            "vat_amount": 2.29
+        },
+        {
+            "amount": 46.07,
+            "description": "re-contextualize rich bandwidth",
+            "quantity": 2.16,
+            "unit_price": 69.21,
+            "vat_amount": 5.11
+        },
+        {
+            "amount": 201.74,
+            "description": "re-contextualize cutting-edge channels",
+            "quantity": 6.31,
+            "unit_price": 37.94,
+            "vat_amount": 0.4
+        }
+    ],
+    "seller": {
+        "address": "2248 Logan Alley East Denise, FL 78319"
+    },
+    "tax": {
+        "amount_excluding_tax": 67.06,
+        "amount_including_tax": 188.61,
+        "tax_amount": 29.27
+    }
+}

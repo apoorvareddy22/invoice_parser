@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "4416 White Harbor Apt. 824 Matthewshire, VI 24968",
+        "email": "kevin30@example.com",
+        "phone": "+1-210-645-1550x68355",
+        "vat_no": "Ty32678885652"
+    },
+    "invoice": {
+        "date": "19.11.2002",
+        "due_date": "24.08.2021",
+        "market_reference": 503206,
+        "notes": "generate cutting-edge ROI",
+        "number": "2231-6488",
+        "reference": 708465,
+        "vat_no": "KK38929157144"
+    },
+    "payment": {
+        "net_total": 198.4,
+        "total": 861.44
+    },
+    "products": [
+        {
+            "amount": 410.13,
+            "description": "harness best-of-breed channels",
+            "hours": 7.11,
+            "rate": 1.14
+        },
+        {
+            "amount": 92.26,
+            "description": "transition out-of-the-box initiatives",
+            "hours": 5.65,
+            "rate": 4.01
+        },
+        {
+            "amount": 274.06,
+            "description": "revolutionize value-added platforms",
+            "hours": 3.9,
+            "rate": 5.02
+        },
+        {
+            "amount": 487.41,
+            "description": "strategize innovative solutions",
+            "hours": 9.63,
+            "rate": 4.81
+        },
+        {
+            "amount": 457.39,
+            "description": "synergize global applications",
+            "hours": 5.97,
+            "rate": 7.36
+        },
+        {
+            "amount": 329.03,
+            "description": "cultivate compelling relationships",
+            "hours": 2.72,
+            "rate": 8.56
+        }
+    ],
+    "seller": {
+        "address": "828 Beard Isle West Marcus, ID 38727",
+        "email": "jacob45@example.com",
+        "name": "Ashley Rocha"
+    },
+    "tax": {
+        "base": 27.64,
+        "tax_amount": 25.77,
+        "total_tax": 14.79
+    }
+}

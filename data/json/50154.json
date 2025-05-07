@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "798 Baxter Mountains Apt. 360 Robinsonburgh, IL 31792",
+        "id": "sb143"
+    },
+    "invoice": {
+        "bc_no": "SC16205",
+        "currency_code": "BOB",
+        "date": "29.04.2006",
+        "due_date": "10.04.2019",
+        "number": 339875
+    },
+    "payment": {
+        "bank_name": "Salas, Diaz and Burns",
+        "bic": "KVJMGBR293P",
+        "iban": "TZVO77833004901020"
+    },
+    "products": [
+        {
+            "amount": 81.14,
+            "description": "harness seamless interfaces",
+            "index": "2",
+            "price": 155.55,
+            "quantity": 3.5,
+            "tax_amount": 45.25,
+            "total_ttc": 176.39,
+            "vat_amount": 10.35
+        },
+        {
+            "amount": 389.76,
+            "description": "streamline web-enabled networks",
+            "index": "3",
+            "price": 124.9,
+            "quantity": 9.77,
+            "tax_amount": 59.28,
+            "total_ttc": 395.34,
+            "vat_amount": 3.03
+        },
+        {
+            "amount": 114.88,
+            "description": "brand 24/365 architectures",
+            "index": "4",
+            "price": 290.66,
+            "quantity": 2.14,
+            "tax_amount": 38.98,
+            "total_ttc": 410.29,
+            "vat_amount": 6.72
+        },
+        {
+            "amount": 227.85,
+            "description": "deploy wireless deliverables",
+            "index": "2",
+            "price": 174.12,
+            "quantity": 9.96,
+            "tax_amount": 62.24,
+            "total_ttc": 303.14,
+            "vat_amount": 4.99
+        },
+        {
+            "amount": 206.13,
+            "description": "whiteboard next-generation paradigms",
+            "index": "1",
+            "price": 260.84,
+            "quantity": 7.33,
+            "tax_amount": 93.86,
+            "total_ttc": 340.31,
+            "vat_amount": 14.24
+        },
+        {
+            "amount": 440.39,
+            "description": "architect robust bandwidth",
+            "index": "3",
+            "price": 113.76,
+            "quantity": 9.31,
+            "tax_amount": 95.37,
+            "total_ttc": 191.6,
+            "vat_amount": 10.96
+        },
+        {
+            "amount": 186.77,
+            "description": "aggregate ubiquitous vortals",
+            "index": "5",
+            "price": 123.05,
+            "quantity": 3.69,
+            "tax_amount": 82.23,
+            "total_ttc": 409.73,
+            "vat_amount": 0.64
+        }
+    ],
+    "seller": {
+        "name": "Mikayla Jackson"
+    },
+    "supplier": {
+        "address": "603 Shane Station Dillonberg, NJ 81503",
+        "name": "Jason Jimenez"
+    },
+    "tax": {
+        "amount_excluding_tax": 131.24,
+        "amount_including_tax": 156.43,
+        "tax_amount": 28.31,
+        "total_ht": 252.46,
+        "total_ttc": 113.03
+    }
+}

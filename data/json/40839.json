@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "USNS Gutierrez FPO AE 80490"
+    },
+    "invoice": {
+        "bc_no": "xI16594",
+        "date": "19.12.1998",
+        "maturity_date": "03.12.1996",
+        "number": 241997
+    },
+    "products": [
+        {
+            "amount": 232.21,
+            "description": "transform intuitive interfaces",
+            "quantity": 9.13,
+            "unit_price": 10.69,
+            "vat_amount": 0.03
+        },
+        {
+            "amount": 407.21,
+            "description": "productize synergistic content",
+            "quantity": 5.17,
+            "unit_price": 45.34,
+            "vat_amount": 14.35
+        },
+        {
+            "amount": 45.83,
+            "description": "facilitate killer ROI",
+            "quantity": 6.62,
+            "unit_price": 49.31,
+            "vat_amount": 7.43
+        },
+        {
+            "amount": 325.95,
+            "description": "integrate ubiquitous markets",
+            "quantity": 5.6,
+            "unit_price": 53.35,
+            "vat_amount": 7.23
+        }
+    ],
+    "seller": {
+        "address": "3028 William Turnpike Apt. 257 West Johnathanport, AL 20470"
+    },
+    "tax": {
+        "amount_excluding_tax": 32.07,
+        "amount_including_tax": 49.66,
+        "tax_amount": 15.05
+    }
+}

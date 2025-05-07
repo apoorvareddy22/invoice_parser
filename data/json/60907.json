@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "2914 Robert Alley Suite 985 Brownbury, NC 41659",
+        "business_no": "Qk878",
+        "id": "RI885"
+    },
+    "invoice": {
+        "date": "13.10.2004",
+        "number": "2877-6861"
+    },
+    "payment": {
+        "due_date": "22.11.2004",
+        "total": 436.17
+    },
+    "products": [
+        {
+            "amount": 18.09,
+            "description": "revolutionize dynamic metrics",
+            "quantity": 1.27,
+            "reference": "Tg-269",
+            "unit_price": 57.14
+        },
+        {
+            "amount": 179.2,
+            "description": "streamline 24/365 content",
+            "quantity": 1.71,
+            "reference": "px-544",
+            "unit_price": 20.5
+        },
+        {
+            "amount": 71.0,
+            "description": "benchmark global content",
+            "quantity": 4.3,
+            "reference": "yO-675",
+            "unit_price": 23.46
+        },
+        {
+            "amount": 420.22,
+            "description": "synergize web-enabled platforms",
+            "quantity": 6.15,
+            "reference": "Qj-772",
+            "unit_price": 78.37
+        }
+    ],
+    "seller": {
+        "address": "USCGC Brown FPO AA 69011"
+    },
+    "tax": {
+        "base_ht": 110.35,
+        "regulations": 28.15,
+        "total_ht": 103.71,
+        "vat_amount": 169.29,
+        "vat_percentage": 29.79
+    }
+}

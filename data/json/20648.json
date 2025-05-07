@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "31854 Ramos Brook Suite 209 Johnsonland, WA 88111",
+        "company_name": "Bernard Ltd",
+        "email": "madison80@example.net",
+        "name": "Vanessa Dixon",
+        "phone": "567-497-6981"
+    },
+    "invoice": {
+        "date": "27.09.1995",
+        "due_date": "02.12.2009",
+        "number": "gkx11304867003"
+    },
+    "payment": {
+        "account_number": 8121378736,
+        "bank_name": "Smith, Roman and Rice",
+        "routing_number": 270214862
+    },
+    "products": [
+        {
+            "amount": 320.95,
+            "description": "reinvent end-to-end applications",
+            "index": "6",
+            "quantity": 2.1,
+            "unit_price": 30.48
+        },
+        {
+            "amount": 205.28,
+            "description": "scale next-generation partnerships",
+            "index": "5",
+            "quantity": 6.56,
+            "unit_price": 17.0
+        },
+        {
+            "amount": 18.35,
+            "description": "mesh plug-and-play convergence",
+            "index": "1",
+            "quantity": 4.03,
+            "unit_price": 26.15
+        },
+        {
+            "amount": 275.49,
+            "description": "iterate global action-items",
+            "index": "9",
+            "quantity": 3.07,
+            "unit_price": 27.32
+        }
+    ],
+    "seller": {
+        "address": "PSC 9896, Box 8836 APO AE 86160",
+        "company_name": "Wilson-Flores",
+        "email": "jason50@example.net"
+    }
+}

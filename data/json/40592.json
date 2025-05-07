@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "452 Teresa Drive Suite 477 Hollandstad, WY 19474"
+    },
+    "invoice": {
+        "bc_no": "ii88533",
+        "date": "21.10.2017",
+        "maturity_date": "15.05.2018",
+        "number": 155050
+    },
+    "products": [
+        {
+            "amount": 197.5,
+            "description": "benchmark bricks-and-clicks niches",
+            "quantity": 7.02,
+            "unit_price": 37.02,
+            "vat_amount": 0.57
+        }
+    ],
+    "seller": {
+        "address": "559 Joseph Trafficway North Bryanfort, NJ 26674"
+    },
+    "tax": {
+        "amount_excluding_tax": 71.09,
+        "amount_including_tax": 171.52,
+        "tax_amount": 20.44
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "163 Garcia Vista Apt. 349 North Michelle, SD 58557",
+        "email": "tonyholland@example.net",
+        "phone": "+1-611-984-3792x11414",
+        "vat_no": "Nk07038447814"
+    },
+    "invoice": {
+        "date": "19.11.1994",
+        "due_date": "19.08.1999",
+        "market_reference": 881459,
+        "notes": "reinvent seamless vortals",
+        "number": "9856-4068",
+        "reference": 547392,
+        "vat_no": "Dm80399991634"
+    },
+    "payment": {
+        "net_total": 187.63,
+        "total": 510.64
+    },
+    "products": [
+        {
+            "amount": 488.04,
+            "description": "incubate cross-platform action-items",
+            "hours": 9.55,
+            "rate": 2.18
+        }
+    ],
+    "seller": {
+        "address": "358 Webster Roads Joelport, FL 92304",
+        "email": "pramirez@example.org",
+        "name": "Chloe Chandler"
+    },
+    "tax": {
+        "base": 11.22,
+        "tax_amount": 27.41,
+        "total_tax": 12.4
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "501 Cynthia Island Suite 771 North Melissahaven, RI 31869",
+        "email": "boothalbert@example.org",
+        "phone": "+1-617-318-3172x758",
+        "vat_no": "SW28128318661"
+    },
+    "invoice": {
+        "date": "28.06.2005",
+        "due_date": "07.03.2013",
+        "market_reference": 383675,
+        "notes": "scale cross-media relationships",
+        "number": "7523-2253",
+        "reference": 523759,
+        "vat_no": "Ek40617609425"
+    },
+    "payment": {
+        "net_total": 52.21,
+        "total": 164.99
+    },
+    "products": [
+        {
+            "amount": 301.33,
+            "description": "engineer revolutionary platforms",
+            "hours": 5.24,
+            "rate": 3.62
+        },
+        {
+            "amount": 180.49,
+            "description": "aggregate bleeding-edge e-business",
+            "hours": 7.1,
+            "rate": 5.25
+        },
+        {
+            "amount": 29.98,
+            "description": "expedite virtual infrastructures",
+            "hours": 7.02,
+            "rate": 4.21
+        },
+        {
+            "amount": 388.34,
+            "description": "redefine leading-edge markets",
+            "hours": 2.75,
+            "rate": 9.89
+        },
+        {
+            "amount": 67.52,
+            "description": "synergize user-centric infrastructures",
+            "hours": 1.68,
+            "rate": 6.21
+        },
+        {
+            "amount": 312.64,
+            "description": "evolve transparent markets",
+            "hours": 2.27,
+            "rate": 9.95
+        },
+        {
+            "amount": 244.54,
+            "description": "redefine open-source platforms",
+            "hours": 3.97,
+            "rate": 8.64
+        }
+    ],
+    "seller": {
+        "address": "610 Rachel Divide Suite 785 North Jennifer, IN 43380",
+        "email": "fernandezbrent@example.com",
+        "name": "Justin Wade"
+    },
+    "tax": {
+        "base": 15.58,
+        "tax_amount": 11.75,
+        "total_tax": 18.45
+    }
+}

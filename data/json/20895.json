@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "0688 Maureen Falls Port Krystalville, WA 15887",
+        "company_name": "Colon Ltd",
+        "email": "george27@example.com",
+        "name": "Mrs. Jennifer Sullivan MD",
+        "phone": "(204)452-0539"
+    },
+    "invoice": {
+        "date": "11.12.2012",
+        "due_date": "13.12.2001",
+        "number": "VGA32084032213"
+    },
+    "payment": {
+        "account_number": 8262302149,
+        "bank_name": "Marshall Inc",
+        "routing_number": 302047777
+    },
+    "products": [
+        {
+            "amount": 219.52,
+            "description": "grow front-end e-business",
+            "index": "1",
+            "quantity": 6.22,
+            "unit_price": 35.47
+        },
+        {
+            "amount": 422.51,
+            "description": "unleash enterprise convergence",
+            "index": "6",
+            "quantity": 9.36,
+            "unit_price": 13.74
+        }
+    ],
+    "seller": {
+        "address": "5807 Kenneth Trail Suite 290 Port Lisa, UT 32610",
+        "company_name": "Velasquez-Graham",
+        "email": "natalienelson@example.org"
+    }
+}

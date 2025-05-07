@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "52238 Bell River Apt. 627 North Heatherport, AS 44855",
+        "company_name": "Velez, Taylor and Hamilton",
+        "country": "Dominica",
+        "name": "Darlene Hayden MD"
+    },
+    "invoice": {
+        "date": "16.04.2006",
+        "number": 709497
+    },
+    "payment": {
+        "discount_amount": 32.98,
+        "discount_percentage": 14.17,
+        "due": 35.97,
+        "sub_total": 107.51,
+        "total": 770.13
+    },
+    "products": [
+        {
+            "description": "evolve front-end bandwidth",
+            "index": "6",
+            "quantity": 7.44,
+            "total_price": 689.77,
+            "unit_price": 68.66
+        },
+        {
+            "description": "unleash viral users",
+            "index": "10",
+            "quantity": 2.18,
+            "total_price": 485.37,
+            "unit_price": 93.5
+        }
+    ],
+    "seller": {
+        "address": "88812 Erin Crossing Suite 993 Lake Amandamouth, GU 06558",
+        "company_name": "Perez-Powell",
+        "vat_no": "ij56286929278"
+    }
+}

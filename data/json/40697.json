@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "18055 James Springs Apt. 722 Kimberlyton, SD 06216"
+    },
+    "invoice": {
+        "bc_no": "pY28258",
+        "date": "26.07.1994",
+        "maturity_date": "06.12.2023",
+        "number": 843231
+    },
+    "products": [
+        {
+            "amount": 15.26,
+            "description": "engineer 24/7 platforms",
+            "quantity": 5.83,
+            "unit_price": 12.69,
+            "vat_amount": 6.37
+        },
+        {
+            "amount": 232.36,
+            "description": "benchmark value-added interfaces",
+            "quantity": 3.2,
+            "unit_price": 51.99,
+            "vat_amount": 8.54
+        },
+        {
+            "amount": 34.54,
+            "description": "generate 24/365 partnerships",
+            "quantity": 4.28,
+            "unit_price": 36.16,
+            "vat_amount": 2.61
+        },
+        {
+            "amount": 214.34,
+            "description": "visualize 24/365 relationships",
+            "quantity": 7.27,
+            "unit_price": 90.27,
+            "vat_amount": 8.48
+        }
+    ],
+    "seller": {
+        "address": "92949 Ramirez Ville Apt. 755 Sydneyberg, WI 07578"
+    },
+    "tax": {
+        "amount_excluding_tax": 32.09,
+        "amount_including_tax": 114.4,
+        "tax_amount": 26.68
+    }
+}

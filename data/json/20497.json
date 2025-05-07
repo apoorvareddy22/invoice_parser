@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "738 Davis Plaza Apt. 905 Davismouth, VA 69576",
+        "company_name": "Evans Ltd",
+        "email": "foleyclaire@example.com",
+        "name": "Susan Williams",
+        "phone": "(589)469-6543"
+    },
+    "invoice": {
+        "date": "25.07.2006",
+        "due_date": "19.03.1999",
+        "number": "XFZ07560987881"
+    },
+    "payment": {
+        "account_number": 8693724628,
+        "bank_name": "Smith and Sons",
+        "routing_number": 197043214
+    },
+    "products": [
+        {
+            "amount": 190.41,
+            "description": "disintermediate bricks-and-clicks platforms",
+            "index": "2",
+            "quantity": 7.4,
+            "unit_price": 36.6
+        },
+        {
+            "amount": 330.59,
+            "description": "aggregate front-end partnerships",
+            "index": "4",
+            "quantity": 3.86,
+            "unit_price": 47.65
+        },
+        {
+            "amount": 69.37,
+            "description": "synergize distributed deliverables",
+            "index": "8",
+            "quantity": 1.07,
+            "unit_price": 94.24
+        }
+    ],
+    "seller": {
+        "address": "900 Dixon Expressway Suite 734 Hopkinstown, PA 30977",
+        "company_name": "Sanchez Ltd",
+        "email": "sawyerdavid@example.org"
+    }
+}

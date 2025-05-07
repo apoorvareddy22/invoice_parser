@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "71244 Powell Circle New Jamestown, CT 71774",
+        "company_name": "Gonzales-Frazier",
+        "country": "Ecuador",
+        "name": "Jesse King"
+    },
+    "invoice": {
+        "date": "16.12.2019",
+        "number": 375219
+    },
+    "payment": {
+        "discount_amount": 35.07,
+        "discount_percentage": 15.7,
+        "due": 44.93,
+        "sub_total": 97.65,
+        "total": 723.03
+    },
+    "products": [
+        {
+            "description": "optimize web-enabled convergence",
+            "index": "1",
+            "quantity": 6.5,
+            "total_price": 114.8,
+            "unit_price": 34.0
+        },
+        {
+            "description": "target killer eyeballs",
+            "index": "3",
+            "quantity": 9.77,
+            "total_price": 630.51,
+            "unit_price": 72.23
+        }
+    ],
+    "seller": {
+        "address": "335 Parsons Point Apt. 483 Moorestad, HI 63185",
+        "company_name": "Caldwell PLC",
+        "vat_no": "Nf74250956090"
+    }
+}

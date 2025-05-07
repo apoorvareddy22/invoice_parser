@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "Unit 9823 Box 1854 DPO AP 48224",
+        "company_name": "Graham Group",
+        "country": "Hungary",
+        "email": "igraham@example.com",
+        "name": "Kenneth Clark",
+        "phone": "869-471-8805",
+        "vat_no": "iA93326889288"
+    },
+    "invoice": {
+        "date": "15.08.2001",
+        "due_date": "22.06.2006",
+        "linked_invoice": "Rm-2656-1268",
+        "notes": "e-enable turn-key initiatives",
+        "number": "MA-4088-7589"
+    },
+    "products": [
+        {
+            "description": "empower rich communities",
+            "discount_percentage": 10.52,
+            "price": 249.64,
+            "quantity": 6.14,
+            "unit_price": 38.27
+        },
+        {
+            "description": "visualize sticky communities",
+            "discount_percentage": 10.36,
+            "price": 148.85,
+            "quantity": 6.17,
+            "unit_price": 30.04
+        },
+        {
+            "description": "synthesize innovative partnerships",
+            "discount_percentage": 12.02,
+            "price": 106.69,
+            "quantity": 6.59,
+            "unit_price": 64.53
+        },
+        {
+            "description": "embrace world-class e-business",
+            "discount_percentage": 6.59,
+            "price": 468.69,
+            "quantity": 8.39,
+            "unit_price": 46.47
+        }
+    ],
+    "seller": {
+        "address": "237 Lisa Village Jessicachester, MO 10867",
+        "ape": "6495K",
+        "capital": 98456219,
+        "country": "Canada",
+        "email": "kevin28@example.net",
+        "name": "Claudia Villarreal",
+        "phone_1": "(523)658-4488x373",
+        "phone_2": "+1-395-697-2595x175",
+        "phone_3": "+1-811-744-7517",
+        "ref_walk": "ohpW1104",
+        "reference": "Ih619",
+        "siret": 94677872230322,
+        "vat_no": "Tr77448038230",
+        "website": "http://martinez.biz/"
+    },
+    "tax": {
+        "amount_0": 27.35,
+        "amount_1": 24.81,
+        "base_0": 13.19,
+        "base_1": 184.24,
+        "total_ht": 127.45,
+        "total_tax": 11.09,
+        "total_ttc": 147.44,
+        "vat_0": 16.85,
+        "vat_1": 20.52
+    }
+}

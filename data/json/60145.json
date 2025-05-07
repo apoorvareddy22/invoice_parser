@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "45810 Shawn Fords Williamstown, VT 20628",
+        "business_no": "ir314",
+        "id": "Na129"
+    },
+    "invoice": {
+        "date": "21.02.2015",
+        "number": "7533-6707"
+    },
+    "payment": {
+        "due_date": "02.01.2006",
+        "total": 229.32
+    },
+    "products": [
+        {
+            "amount": 92.16,
+            "description": "expedite user-centric models",
+            "quantity": 7.86,
+            "reference": "Kd-088",
+            "unit_price": 40.85
+        },
+        {
+            "amount": 263.4,
+            "description": "leverage sticky deliverables",
+            "quantity": 3.33,
+            "reference": "GX-415",
+            "unit_price": 48.85
+        },
+        {
+            "amount": 291.08,
+            "description": "reinvent collaborative paradigms",
+            "quantity": 7.85,
+            "reference": "gk-505",
+            "unit_price": 48.45
+        }
+    ],
+    "seller": {
+        "address": "35551 Carson Meadows South Rodneyland, SC 61866"
+    },
+    "tax": {
+        "base_ht": 442.97,
+        "regulations": 20.58,
+        "total_ht": 444.0,
+        "vat_amount": 75.71,
+        "vat_percentage": 20.65
+    }
+}

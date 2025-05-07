@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "28453 Michelle Drive Suite 318 Lake Davidland, IL 31918"
+    },
+    "invoice": {
+        "bc_no": "vX87337",
+        "date": "25.11.2016",
+        "maturity_date": "06.11.1991",
+        "number": 202315
+    },
+    "products": [
+        {
+            "amount": 397.19,
+            "description": "embrace dot-com mindshare",
+            "quantity": 9.21,
+            "unit_price": 85.02,
+            "vat_amount": 0.75
+        },
+        {
+            "amount": 250.14,
+            "description": "matrix dot-com interfaces",
+            "quantity": 3.22,
+            "unit_price": 66.75,
+            "vat_amount": 2.1
+        },
+        {
+            "amount": 143.63,
+            "description": "whiteboard scalable eyeballs",
+            "quantity": 1.45,
+            "unit_price": 88.19,
+            "vat_amount": 5.56
+        },
+        {
+            "amount": 397.94,
+            "description": "enable 24/365 interfaces",
+            "quantity": 5.49,
+            "unit_price": 66.91,
+            "vat_amount": 4.66
+        },
+        {
+            "amount": 200.49,
+            "description": "strategize clicks-and-mortar markets",
+            "quantity": 7.19,
+            "unit_price": 18.85,
+            "vat_amount": 1.82
+        },
+        {
+            "amount": 439.73,
+            "description": "innovate out-of-the-box platforms",
+            "quantity": 6.18,
+            "unit_price": 34.61,
+            "vat_amount": 6.94
+        }
+    ],
+    "seller": {
+        "address": "4197 Hunt Center Apt. 183 Valenzuelaport, CT 83942"
+    },
+    "tax": {
+        "amount_excluding_tax": 149.54,
+        "amount_including_tax": 110.9,
+        "tax_amount": 28.84
+    }
+}

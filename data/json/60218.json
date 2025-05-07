@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "02675 Martinez Corner Apt. 856 New Bryan, KY 77191",
+        "business_no": "Rn705",
+        "id": "lg849"
+    },
+    "invoice": {
+        "date": "04.01.1994",
+        "number": "0298-0405"
+    },
+    "payment": {
+        "due_date": "26.01.1996",
+        "total": 248.33
+    },
+    "products": [
+        {
+            "amount": 437.04,
+            "description": "empower integrated eyeballs",
+            "quantity": 3.57,
+            "reference": "ID-320",
+            "unit_price": 71.29
+        },
+        {
+            "amount": 60.12,
+            "description": "leverage killer info-mediaries",
+            "quantity": 2.36,
+            "reference": "zp-641",
+            "unit_price": 47.23
+        }
+    ],
+    "seller": {
+        "address": "617 Lori Estates Apt. 455 New Meagan, ND 37611"
+    },
+    "tax": {
+        "base_ht": 387.64,
+        "regulations": 23.21,
+        "total_ht": 184.76,
+        "vat_amount": 128.23,
+        "vat_percentage": 19.09
+    }
+}

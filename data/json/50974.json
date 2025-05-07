@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "500 Melissa Ferry Lake Austin, CO 61244",
+        "id": "CZ659"
+    },
+    "invoice": {
+        "bc_no": "MT35886",
+        "currency_code": "TRY",
+        "date": "19.11.2019",
+        "due_date": "13.06.1995",
+        "number": 404528
+    },
+    "payment": {
+        "bank_name": "Price, Lowery and Walker",
+        "bic": "ZHPHGB8T",
+        "iban": "GCSN73369198187702"
+    },
+    "products": [
+        {
+            "amount": 419.68,
+            "description": "evolve dynamic ROI",
+            "index": "8",
+            "price": 19.61,
+            "quantity": 6.87,
+            "tax_amount": 49.53,
+            "total_ttc": 211.91,
+            "vat_amount": 1.75
+        }
+    ],
+    "seller": {
+        "name": "Ashley David MD"
+    },
+    "supplier": {
+        "address": "164 Rachel Row West Jonathanhaven, PW 74973",
+        "name": "Zachary Thompson"
+    },
+    "tax": {
+        "amount_excluding_tax": 28.9,
+        "amount_including_tax": 130.23,
+        "tax_amount": 23.62,
+        "total_ht": 458.2,
+        "total_ttc": 466.44
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "USNV Clark FPO AE 09931",
+        "email": "fgarner@example.com",
+        "phone": "793.259.0138x8455",
+        "vat_no": "Ir98349224290"
+    },
+    "invoice": {
+        "date": "28.04.2023",
+        "due_date": "06.02.2007",
+        "market_reference": 963173,
+        "notes": "monetize real-time e-services",
+        "number": "5073-2398",
+        "reference": 357662,
+        "vat_no": "HW41497678426"
+    },
+    "payment": {
+        "net_total": 104.9,
+        "total": 784.57
+    },
+    "products": [
+        {
+            "amount": 327.75,
+            "description": "transition cutting-edge action-items",
+            "hours": 5.87,
+            "rate": 2.42
+        },
+        {
+            "amount": 11.8,
+            "description": "incubate killer ROI",
+            "hours": 8.05,
+            "rate": 9.93
+        }
+    ],
+    "seller": {
+        "address": "66150 Zachary Lakes Thompsonmouth, OR 74621",
+        "email": "edgarsmith@example.net",
+        "name": "Kayla Ferguson"
+    },
+    "tax": {
+        "base": 12.61,
+        "tax_amount": 19.08,
+        "total_tax": 21.95
+    }
+}

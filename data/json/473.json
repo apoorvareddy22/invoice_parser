@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "224 Vanessa Lane Lake Melissaland, RI 93217",
+        "company_name": "Raymond Inc",
+        "country": "Eritrea",
+        "name": "Sherri Boyd"
+    },
+    "invoice": {
+        "date": "17.02.2005",
+        "number": 802845
+    },
+    "payment": {
+        "discount_amount": 49.3,
+        "discount_percentage": 8.23,
+        "due": 25.16,
+        "sub_total": 113.18,
+        "total": 963.9
+    },
+    "products": [
+        {
+            "description": "re-contextualize enterprise e-markets",
+            "index": "9",
+            "quantity": 1.39,
+            "total_price": 444.11,
+            "unit_price": 76.38
+        },
+        {
+            "description": "re-contextualize value-added functionalities",
+            "index": "3",
+            "quantity": 4.94,
+            "total_price": 238.36,
+            "unit_price": 29.56
+        }
+    ],
+    "seller": {
+        "address": "737 Andrew Drives Catherinemouth, OH 16873",
+        "company_name": "Martinez-Melton",
+        "vat_no": "dh19858876948"
+    }
+}

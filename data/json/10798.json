@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "41247 Brooke Crossing Samanthaburgh, DE 78848",
+        "email": "steven73@example.net",
+        "phone": "(509)330-5877x06229",
+        "vat_no": "xV81059045889"
+    },
+    "invoice": {
+        "date": "04.12.2002",
+        "due_date": "26.02.1995",
+        "market_reference": 382999,
+        "notes": "evolve ubiquitous networks",
+        "number": "3666-6370",
+        "reference": 389915,
+        "vat_no": "zK03986930244"
+    },
+    "payment": {
+        "net_total": 105.54,
+        "total": 231.64
+    },
+    "products": [
+        {
+            "amount": 13.34,
+            "description": "engineer one-to-one e-business",
+            "hours": 4.64,
+            "rate": 7.11
+        },
+        {
+            "amount": 126.74,
+            "description": "re-contextualize real-time web services",
+            "hours": 1.76,
+            "rate": 7.85
+        },
+        {
+            "amount": 282.84,
+            "description": "utilize granular systems",
+            "hours": 2.82,
+            "rate": 3.07
+        }
+    ],
+    "seller": {
+        "address": "79119 Vernon Plains Suite 795 Wrightshire, FL 55262",
+        "email": "melissaschmidt@example.net",
+        "name": "Michael Smith"
+    },
+    "tax": {
+        "base": 29.39,
+        "tax_amount": 27.44,
+        "total_tax": 21.75
+    }
+}

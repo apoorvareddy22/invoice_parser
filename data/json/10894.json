@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "USNS Patterson FPO AA 40634",
+        "email": "uortega@example.net",
+        "phone": "(945)376-4791x512",
+        "vat_no": "nJ67152063293"
+    },
+    "invoice": {
+        "date": "01.09.1991",
+        "due_date": "14.09.2016",
+        "market_reference": 639817,
+        "notes": "e-enable dot-com functionalities",
+        "number": "3350-3272",
+        "reference": 413476,
+        "vat_no": "Mr41529436858"
+    },
+    "payment": {
+        "net_total": 65.55,
+        "total": 249.62
+    },
+    "products": [
+        {
+            "amount": 62.53,
+            "description": "enable ubiquitous solutions",
+            "hours": 2.72,
+            "rate": 2.41
+        },
+        {
+            "amount": 380.81,
+            "description": "disintermediate sticky convergence",
+            "hours": 9.86,
+            "rate": 9.35
+        },
+        {
+            "amount": 272.08,
+            "description": "innovate B2B paradigms",
+            "hours": 10.0,
+            "rate": 2.4
+        },
+        {
+            "amount": 199.75,
+            "description": "brand end-to-end applications",
+            "hours": 2.6,
+            "rate": 4.06
+        },
+        {
+            "amount": 412.01,
+            "description": "grow synergistic networks",
+            "hours": 3.07,
+            "rate": 2.27
+        },
+        {
+            "amount": 109.6,
+            "description": "deliver innovative relationships",
+            "hours": 5.71,
+            "rate": 9.7
+        }
+    ],
+    "seller": {
+        "address": "10750 Frank Mill Mccannside, NY 59557",
+        "email": "zbarker@example.net",
+        "name": "Christopher Gibson"
+    },
+    "tax": {
+        "base": 27.32,
+        "tax_amount": 21.61,
+        "total_tax": 11.34
+    }
+}

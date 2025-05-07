@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "Unit 1486 Box 2605 DPO AE 88250",
+        "email": "rebecca32@example.org",
+        "phone": "001-728-948-0908x728",
+        "vat_no": "cw48303291677"
+    },
+    "invoice": {
+        "date": "17.09.2023",
+        "due_date": "04.12.2018",
+        "market_reference": 488968,
+        "notes": "revolutionize proactive e-tailers",
+        "number": "9704-1218",
+        "reference": 116404,
+        "vat_no": "OF53027335458"
+    },
+    "payment": {
+        "net_total": 153.68,
+        "total": 165.82
+    },
+    "products": [
+        {
+            "amount": 322.63,
+            "description": "deploy proactive functionalities",
+            "hours": 9.13,
+            "rate": 7.55
+        },
+        {
+            "amount": 497.73,
+            "description": "target open-source content",
+            "hours": 5.35,
+            "rate": 1.45
+        }
+    ],
+    "seller": {
+        "address": "89379 Alexander Plain Apt. 175 Sarahmouth, NJ 76377",
+        "email": "stevemoore@example.com",
+        "name": "David Jones"
+    },
+    "tax": {
+        "base": 28.76,
+        "tax_amount": 21.85,
+        "total_tax": 27.14
+    }
+}

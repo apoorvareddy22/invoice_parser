@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "977 Robert Brooks Suite 166 Port Frank, MN 25741",
+        "email": "toni40@example.net",
+        "phone": "822-917-1484x928",
+        "vat_no": "sC68988904958"
+    },
+    "invoice": {
+        "date": "24.12.2009",
+        "due_date": "08.04.2013",
+        "market_reference": 512804,
+        "notes": "repurpose user-centric systems",
+        "number": "5117-0928",
+        "reference": 930221,
+        "vat_no": "ST33756433722"
+    },
+    "payment": {
+        "net_total": 55.35,
+        "total": 608.78
+    },
+    "products": [
+        {
+            "amount": 378.47,
+            "description": "incentivize one-to-one vortals",
+            "hours": 2.26,
+            "rate": 4.69
+        },
+        {
+            "amount": 91.03,
+            "description": "productize best-of-breed web services",
+            "hours": 3.69,
+            "rate": 3.83
+        },
+        {
+            "amount": 162.19,
+            "description": "reinvent ubiquitous users",
+            "hours": 7.21,
+            "rate": 1.39
+        },
+        {
+            "amount": 260.73,
+            "description": "grow revolutionary systems",
+            "hours": 1.03,
+            "rate": 2.43
+        },
+        {
+            "amount": 434.32,
+            "description": "redefine visionary ROI",
+            "hours": 3.59,
+            "rate": 3.68
+        },
+        {
+            "amount": 469.89,
+            "description": "e-enable killer eyeballs",
+            "hours": 3.07,
+            "rate": 8.89
+        }
+    ],
+    "seller": {
+        "address": "46054 Cody Squares East John, KY 97898",
+        "email": "boonekeith@example.com",
+        "name": "Renee Hunter"
+    },
+    "tax": {
+        "base": 28.5,
+        "tax_amount": 11.76,
+        "total_tax": 23.36
+    }
+}

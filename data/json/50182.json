@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "46028 Reyes Manor Toddtown, UT 69817",
+        "id": "bl326"
+    },
+    "invoice": {
+        "bc_no": "gB22061",
+        "currency_code": "GIP",
+        "date": "24.07.1998",
+        "due_date": "11.07.1996",
+        "number": 968928
+    },
+    "payment": {
+        "bank_name": "Sosa Inc",
+        "bic": "TQPDGBPA57A",
+        "iban": "TLXA55054893821230"
+    },
+    "products": [
+        {
+            "amount": 300.82,
+            "description": "e-enable revolutionary relationships",
+            "index": "8",
+            "price": 477.82,
+            "quantity": 7.72,
+            "tax_amount": 11.35,
+            "total_ttc": 111.96,
+            "vat_amount": 1.22
+        },
+        {
+            "amount": 109.08,
+            "description": "innovate cross-platform solutions",
+            "index": "6",
+            "price": 433.85,
+            "quantity": 2.56,
+            "tax_amount": 45.52,
+            "total_ttc": 498.62,
+            "vat_amount": 5.42
+        },
+        {
+            "amount": 61.12,
+            "description": "enable turn-key e-markets",
+            "index": "1",
+            "price": 437.39,
+            "quantity": 4.35,
+            "tax_amount": 78.79,
+            "total_ttc": 481.38,
+            "vat_amount": 9.34
+        },
+        {
+            "amount": 249.28,
+            "description": "exploit rich e-markets",
+            "index": "10",
+            "price": 340.35,
+            "quantity": 2.32,
+            "tax_amount": 21.44,
+            "total_ttc": 406.66,
+            "vat_amount": 6.95
+        },
+        {
+            "amount": 269.25,
+            "description": "synergize bricks-and-clicks e-tailers",
+            "index": "1",
+            "price": 289.03,
+            "quantity": 9.17,
+            "tax_amount": 59.85,
+            "total_ttc": 250.99,
+            "vat_amount": 1.5
+        },
+        {
+            "amount": 83.54,
+            "description": "revolutionize seamless paradigms",
+            "index": "2",
+            "price": 456.0,
+            "quantity": 4.0,
+            "tax_amount": 53.51,
+            "total_ttc": 338.3,
+            "vat_amount": 2.63
+        }
+    ],
+    "seller": {
+        "name": "Daniel Calderon"
+    },
+    "supplier": {
+        "address": "Unit 8701 Box 1286 DPO AE 25102",
+        "name": "Breanna Hart"
+    },
+    "tax": {
+        "amount_excluding_tax": 50.9,
+        "amount_including_tax": 161.59,
+        "tax_amount": 25.86,
+        "total_ht": 204.31,
+        "total_ttc": 391.07
+    }
+}

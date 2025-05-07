@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "47853 Kevin Prairie Apt. 556 North Alejandrostad, IA 47022"
+    },
+    "invoice": {
+        "bc_no": "mT37616",
+        "date": "08.03.2003",
+        "maturity_date": "24.06.2021",
+        "number": 800687
+    },
+    "products": [
+        {
+            "amount": 29.85,
+            "description": "orchestrate interactive models",
+            "quantity": 8.89,
+            "unit_price": 87.05,
+            "vat_amount": 8.14
+        },
+        {
+            "amount": 378.89,
+            "description": "enable next-generation e-services",
+            "quantity": 3.64,
+            "unit_price": 94.07,
+            "vat_amount": 0.5
+        }
+    ],
+    "seller": {
+        "address": "3285 Isabella Trafficway Apt. 378 Smithfurt, WV 83191"
+    },
+    "tax": {
+        "amount_excluding_tax": 25.1,
+        "amount_including_tax": 155.25,
+        "tax_amount": 14.2
+    }
+}

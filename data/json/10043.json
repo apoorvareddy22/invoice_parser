@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "9867 Vincent Dale South Elizabeth, GA 72210",
+        "email": "meyermichelle@example.org",
+        "phone": "(921)497-0311",
+        "vat_no": "lM23468687417"
+    },
+    "invoice": {
+        "date": "29.09.1995",
+        "due_date": "11.01.2010",
+        "market_reference": 667985,
+        "notes": "incubate best-of-breed networks",
+        "number": "0751-9474",
+        "reference": 437435,
+        "vat_no": "Bt40753320714"
+    },
+    "payment": {
+        "net_total": 176.29,
+        "total": 449.53
+    },
+    "products": [
+        {
+            "amount": 423.67,
+            "description": "visualize synergistic synergies",
+            "hours": 5.45,
+            "rate": 3.14
+        },
+        {
+            "amount": 323.06,
+            "description": "aggregate plug-and-play functionalities",
+            "hours": 1.39,
+            "rate": 4.2
+        },
+        {
+            "amount": 247.78,
+            "description": "matrix B2C eyeballs",
+            "hours": 3.52,
+            "rate": 2.01
+        },
+        {
+            "amount": 398.82,
+            "description": "expedite world-class relationships",
+            "hours": 5.69,
+            "rate": 4.86
+        }
+    ],
+    "seller": {
+        "address": "68974 Wilson Hollow Apt. 447 West Richardfurt, GA 83559",
+        "email": "pmiller@example.org",
+        "name": "David Johnson"
+    },
+    "tax": {
+        "base": 11.09,
+        "tax_amount": 13.1,
+        "total_tax": 26.58
+    }
+}

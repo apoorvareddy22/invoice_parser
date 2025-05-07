@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "8992 Collins Crossroad Shannonmouth, IL 27018",
+        "business_no": "VE550",
+        "id": "Ho620"
+    },
+    "invoice": {
+        "date": "13.04.1992",
+        "number": "5297-1460"
+    },
+    "payment": {
+        "due_date": "06.11.2007",
+        "total": 953.59
+    },
+    "products": [
+        {
+            "amount": 249.55,
+            "description": "utilize collaborative solutions",
+            "quantity": 7.02,
+            "reference": "By-034",
+            "unit_price": 43.71
+        }
+    ],
+    "seller": {
+        "address": "2447 Chelsea Field Apt. 978 Marcview, MH 91887"
+    },
+    "tax": {
+        "base_ht": 125.08,
+        "regulations": 15.86,
+        "total_ht": 121.44,
+        "vat_amount": 149.11,
+        "vat_percentage": 15.98
+    }
+}

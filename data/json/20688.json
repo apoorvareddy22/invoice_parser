@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "4062 Michelle Center Suite 700 North Robert, MH 75578",
+        "company_name": "Wiley and Sons",
+        "email": "yhernandez@example.com",
+        "name": "James Parrish",
+        "phone": "001-272-553-4689x39997"
+    },
+    "invoice": {
+        "date": "13.05.2004",
+        "due_date": "15.01.2022",
+        "number": "VbJ35406994597"
+    },
+    "payment": {
+        "account_number": 5406131975,
+        "bank_name": "Soto, Taylor and Hull",
+        "routing_number": 913081867
+    },
+    "products": [
+        {
+            "amount": 288.84,
+            "description": "matrix viral e-business",
+            "index": "7",
+            "quantity": 2.55,
+            "unit_price": 88.96
+        },
+        {
+            "amount": 333.78,
+            "description": "extend seamless mindshare",
+            "index": "8",
+            "quantity": 8.01,
+            "unit_price": 68.64
+        },
+        {
+            "amount": 336.31,
+            "description": "strategize plug-and-play e-commerce",
+            "index": "1",
+            "quantity": 8.93,
+            "unit_price": 37.89
+        }
+    ],
+    "seller": {
+        "address": "74363 Jose Circles Suite 840 Lake Tina, CO 78647",
+        "company_name": "Howard, Browning and Shelton",
+        "email": "nguzman@example.net"
+    }
+}

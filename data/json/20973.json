@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "033 Everett Lane Port Michaelmouth, OH 87271",
+        "company_name": "Christensen, Williamson and Bartlett",
+        "email": "kgilbert@example.com",
+        "name": "Joshua Hernandez",
+        "phone": "001-249-669-6586x301"
+    },
+    "invoice": {
+        "date": "08.12.1990",
+        "due_date": "18.11.1996",
+        "number": "cSj60034609088"
+    },
+    "payment": {
+        "account_number": 9146996056,
+        "bank_name": "Walker Ltd",
+        "routing_number": 753798746
+    },
+    "products": [
+        {
+            "amount": 263.36,
+            "description": "envisioneer bleeding-edge solutions",
+            "index": "1",
+            "quantity": 9.97,
+            "unit_price": 96.42
+        },
+        {
+            "amount": 8.72,
+            "description": "synthesize customized e-tailers",
+            "index": "6",
+            "quantity": 3.57,
+            "unit_price": 74.06
+        },
+        {
+            "amount": 419.63,
+            "description": "aggregate innovative ROI",
+            "index": "6",
+            "quantity": 3.27,
+            "unit_price": 96.74
+        },
+        {
+            "amount": 397.79,
+            "description": "cultivate innovative channels",
+            "index": "5",
+            "quantity": 4.88,
+            "unit_price": 53.32
+        }
+    ],
+    "seller": {
+        "address": "Unit 0115 Box 6254 DPO AP 07487",
+        "company_name": "Calhoun, Gordon and West",
+        "email": "tara42@example.net"
+    }
+}

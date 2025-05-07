@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "1992 Hall Underpass Angelaberg, MH 75614",
+        "business_no": "di146",
+        "id": "jq933"
+    },
+    "invoice": {
+        "date": "20.12.2015",
+        "number": "8548-1582"
+    },
+    "payment": {
+        "due_date": "04.06.2017",
+        "total": 910.82
+    },
+    "products": [
+        {
+            "amount": 466.15,
+            "description": "productize clicks-and-mortar solutions",
+            "quantity": 8.82,
+            "reference": "fr-685",
+            "unit_price": 49.03
+        },
+        {
+            "amount": 88.13,
+            "description": "extend seamless networks",
+            "quantity": 8.84,
+            "reference": "rF-512",
+            "unit_price": 46.64
+        },
+        {
+            "amount": 467.02,
+            "description": "morph synergistic functionalities",
+            "quantity": 5.94,
+            "reference": "uA-210",
+            "unit_price": 34.53
+        },
+        {
+            "amount": 23.73,
+            "description": "incentivize strategic info-mediaries",
+            "quantity": 7.34,
+            "reference": "EA-960",
+            "unit_price": 88.83
+        },
+        {
+            "amount": 440.65,
+            "description": "architect mission-critical methodologies",
+            "quantity": 6.35,
+            "reference": "yn-148",
+            "unit_price": 20.56
+        }
+    ],
+    "seller": {
+        "address": "023 Peters Land Lake Marymouth, PW 44770"
+    },
+    "tax": {
+        "base_ht": 386.7,
+        "regulations": 21.54,
+        "total_ht": 416.03,
+        "vat_amount": 70.13,
+        "vat_percentage": 22.36
+    }
+}

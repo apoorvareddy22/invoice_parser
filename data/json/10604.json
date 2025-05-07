@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "8970 Ryan Lock Apt. 861 Emilymouth, CT 73317",
+        "email": "jcalhoun@example.org",
+        "phone": "001-510-495-5989x77324",
+        "vat_no": "dn88087986349"
+    },
+    "invoice": {
+        "date": "25.12.2002",
+        "due_date": "16.05.2020",
+        "market_reference": 469540,
+        "notes": "drive web-enabled e-commerce",
+        "number": "1027-8619",
+        "reference": 286145,
+        "vat_no": "NW36681656592"
+    },
+    "payment": {
+        "net_total": 34.29,
+        "total": 966.45
+    },
+    "products": [
+        {
+            "amount": 37.01,
+            "description": "orchestrate B2C action-items",
+            "hours": 7.89,
+            "rate": 9.15
+        },
+        {
+            "amount": 368.22,
+            "description": "disintermediate out-of-the-box communities",
+            "hours": 7.81,
+            "rate": 7.43
+        },
+        {
+            "amount": 78.47,
+            "description": "productize distributed solutions",
+            "hours": 3.59,
+            "rate": 5.55
+        },
+        {
+            "amount": 436.59,
+            "description": "leverage vertical action-items",
+            "hours": 1.66,
+            "rate": 3.02
+        },
+        {
+            "amount": 463.59,
+            "description": "enhance bricks-and-clicks e-tailers",
+            "hours": 1.16,
+            "rate": 2.96
+        },
+        {
+            "amount": 103.22,
+            "description": "enhance cross-media markets",
+            "hours": 9.81,
+            "rate": 6.37
+        }
+    ],
+    "seller": {
+        "address": "38799 Poole Mews Apt. 455 Brendaburgh, GA 13641",
+        "email": "camposstephen@example.net",
+        "name": "Maria Chapman"
+    },
+    "tax": {
+        "base": 28.74,
+        "tax_amount": 25.19,
+        "total_tax": 14.17
+    }
+}

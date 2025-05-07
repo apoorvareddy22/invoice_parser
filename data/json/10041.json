@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "63361 Brooks Route Suite 272 Andrewside, GU 82119",
+        "email": "trandall@example.net",
+        "phone": "(886)830-0487x55561",
+        "vat_no": "In72593856613"
+    },
+    "invoice": {
+        "date": "27.12.2015",
+        "due_date": "06.11.1993",
+        "market_reference": 213500,
+        "notes": "orchestrate visionary bandwidth",
+        "number": "4217-2562",
+        "reference": 177552,
+        "vat_no": "mP99215141449"
+    },
+    "payment": {
+        "net_total": 199.89,
+        "total": 649.09
+    },
+    "products": [
+        {
+            "amount": 102.88,
+            "description": "maximize clicks-and-mortar web-readiness",
+            "hours": 1.89,
+            "rate": 9.19
+        },
+        {
+            "amount": 166.86,
+            "description": "redefine impactful relationships",
+            "hours": 6.71,
+            "rate": 3.81
+        },
+        {
+            "amount": 333.46,
+            "description": "engage dot-com partnerships",
+            "hours": 6.6,
+            "rate": 6.03
+        }
+    ],
+    "seller": {
+        "address": "81498 Amanda Trail Apt. 754 Wilcoxview, NH 79190",
+        "email": "oadams@example.com",
+        "name": "Stephanie Vaughan"
+    },
+    "tax": {
+        "base": 25.19,
+        "tax_amount": 10.88,
+        "total_tax": 20.29
+    }
+}

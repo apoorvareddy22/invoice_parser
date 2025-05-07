@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "77596 Cooper Road Suite 181 West Jade, PA 05701",
+        "company_name": "Wilson-Alvarez",
+        "email": "alex18@example.org",
+        "name": "Sarah Bradley",
+        "phone": "+1-751-848-2668x381"
+    },
+    "invoice": {
+        "date": "23.02.2001",
+        "due_date": "06.01.2009",
+        "number": "eaT70198229243"
+    },
+    "payment": {
+        "account_number": 5577329057,
+        "bank_name": "Thomas PLC",
+        "routing_number": 476194055
+    },
+    "products": [
+        {
+            "amount": 403.06,
+            "description": "reinvent turn-key relationships",
+            "index": "4",
+            "quantity": 4.33,
+            "unit_price": 53.46
+        },
+        {
+            "amount": 67.34,
+            "description": "syndicate turn-key experiences",
+            "index": "9",
+            "quantity": 2.15,
+            "unit_price": 66.37
+        },
+        {
+            "amount": 373.69,
+            "description": "streamline collaborative e-business",
+            "index": "3",
+            "quantity": 3.14,
+            "unit_price": 41.83
+        },
+        {
+            "amount": 195.37,
+            "description": "mesh turn-key schemas",
+            "index": "2",
+            "quantity": 3.68,
+            "unit_price": 79.87
+        },
+        {
+            "amount": 25.16,
+            "description": "orchestrate customized partnerships",
+            "index": "5",
+            "quantity": 7.58,
+            "unit_price": 78.34
+        }
+    ],
+    "seller": {
+        "address": "Unit 9435 Box 7417 DPO AE 25087",
+        "company_name": "Baker, Moyer and Riley",
+        "email": "hnelson@example.net"
+    }
+}

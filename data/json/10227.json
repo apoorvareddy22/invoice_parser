@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "4629 Mercedes Station Apt. 088 Marthatown, SD 07971",
+        "email": "heatherroberts@example.org",
+        "phone": "(783)810-2189x60330",
+        "vat_no": "Cw51361136604"
+    },
+    "invoice": {
+        "date": "05.08.2007",
+        "due_date": "11.07.2007",
+        "market_reference": 227949,
+        "notes": "unleash real-time convergence",
+        "number": "5137-3656",
+        "reference": 566184,
+        "vat_no": "Se84049591565"
+    },
+    "payment": {
+        "net_total": 189.25,
+        "total": 608.07
+    },
+    "products": [
+        {
+            "amount": 250.61,
+            "description": "utilize seamless systems",
+            "hours": 9.42,
+            "rate": 9.45
+        }
+    ],
+    "seller": {
+        "address": "4596 Ray Burg Apt. 767 Evansberg, NH 73708",
+        "email": "michaelstewart@example.net",
+        "name": "Amber White"
+    },
+    "tax": {
+        "base": 23.78,
+        "tax_amount": 25.16,
+        "total_tax": 29.6
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "122 Stephanie Cove Lake Loriburgh, MS 12705",
+        "company_name": "Graves Inc",
+        "country": "Madagascar",
+        "name": "Derek Taylor"
+    },
+    "invoice": {
+        "date": "21.11.2007",
+        "number": 721513
+    },
+    "payment": {
+        "discount_amount": 30.44,
+        "discount_percentage": 9.23,
+        "due": 26.9,
+        "sub_total": 143.19,
+        "total": 527.56
+    },
+    "products": [
+        {
+            "description": "grow value-added architectures",
+            "index": "1",
+            "quantity": 9.22,
+            "total_price": 685.89,
+            "unit_price": 95.18
+        },
+        {
+            "description": "drive innovative markets",
+            "index": "1",
+            "quantity": 2.95,
+            "total_price": 302.3,
+            "unit_price": 82.47
+        }
+    ],
+    "seller": {
+        "address": "2898 Dakota Groves Port Jennifer, KY 28503",
+        "company_name": "Sloan-Dunlap",
+        "vat_no": "qj86848336464"
+    }
+}

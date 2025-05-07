@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "99203 Hall Junctions Williamport, AS 49826",
+        "company_name": "Orr-Smith",
+        "email": "alyssa11@example.org",
+        "name": "Betty Murphy",
+        "phone": "(797)323-7751"
+    },
+    "invoice": {
+        "date": "07.01.2015",
+        "due_date": "03.05.2020",
+        "number": "aAe10500732083"
+    },
+    "payment": {
+        "account_number": 5412051997,
+        "bank_name": "Woodard-Barnett",
+        "routing_number": 805725786
+    },
+    "products": [
+        {
+            "amount": 358.71,
+            "description": "target transparent bandwidth",
+            "index": "5",
+            "quantity": 3.96,
+            "unit_price": 79.06
+        },
+        {
+            "amount": 304.48,
+            "description": "aggregate magnetic interfaces",
+            "index": "10",
+            "quantity": 3.14,
+            "unit_price": 34.73
+        },
+        {
+            "amount": 458.1,
+            "description": "seize frictionless e-tailers",
+            "index": "6",
+            "quantity": 2.72,
+            "unit_price": 83.67
+        }
+    ],
+    "seller": {
+        "address": "Unit 8777 Box 2364 DPO AA 20784",
+        "company_name": "Cole-Clements",
+        "email": "barbaraadams@example.net"
+    }
+}

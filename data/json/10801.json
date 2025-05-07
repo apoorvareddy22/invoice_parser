@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "24812 Mccann View Apt. 118 Johnview, KY 39718",
+        "email": "frankcindy@example.com",
+        "phone": "(393)424-0004x376",
+        "vat_no": "vB11741216403"
+    },
+    "invoice": {
+        "date": "07.09.2007",
+        "due_date": "20.08.2016",
+        "market_reference": 747213,
+        "notes": "utilize bleeding-edge e-tailers",
+        "number": "7543-7028",
+        "reference": 316320,
+        "vat_no": "mW26448894508"
+    },
+    "payment": {
+        "net_total": 60.97,
+        "total": 141.65
+    },
+    "products": [
+        {
+            "amount": 32.72,
+            "description": "enable enterprise technologies",
+            "hours": 3.17,
+            "rate": 4.22
+        },
+        {
+            "amount": 276.34,
+            "description": "scale transparent technologies",
+            "hours": 2.1,
+            "rate": 5.24
+        },
+        {
+            "amount": 441.35,
+            "description": "synthesize innovative relationships",
+            "hours": 1.97,
+            "rate": 3.71
+        },
+        {
+            "amount": 380.7,
+            "description": "disintermediate out-of-the-box convergence",
+            "hours": 1.68,
+            "rate": 4.56
+        },
+        {
+            "amount": 209.63,
+            "description": "evolve bricks-and-clicks solutions",
+            "hours": 9.52,
+            "rate": 5.67
+        },
+        {
+            "amount": 415.43,
+            "description": "unleash real-time e-markets",
+            "hours": 4.93,
+            "rate": 9.22
+        }
+    ],
+    "seller": {
+        "address": "41447 Adrian Valley Christineburgh, AR 63539",
+        "email": "vkennedy@example.net",
+        "name": "Marie Miller"
+    },
+    "tax": {
+        "base": 28.28,
+        "tax_amount": 22.69,
+        "total_tax": 11.54
+    }
+}

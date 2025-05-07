@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "34332 Sarah Point Suite 925 West Johnhaven, NH 38923",
+        "company_name": "Bradford PLC",
+        "country": "Georgia",
+        "name": "Kristen Morales"
+    },
+    "invoice": {
+        "date": "05.10.2021",
+        "number": 584085
+    },
+    "payment": {
+        "discount_amount": 20.21,
+        "discount_percentage": 5.58,
+        "due": 31.72,
+        "sub_total": 168.0,
+        "total": 234.5
+    },
+    "products": [
+        {
+            "description": "transition web-enabled web-readiness",
+            "index": "2",
+            "quantity": 9.76,
+            "total_price": 518.89,
+            "unit_price": 44.43
+        },
+        {
+            "description": "facilitate B2C portals",
+            "index": "3",
+            "quantity": 5.45,
+            "total_price": 811.56,
+            "unit_price": 15.62
+        },
+        {
+            "description": "revolutionize B2C technologies",
+            "index": "3",
+            "quantity": 5.19,
+            "total_price": 765.12,
+            "unit_price": 13.89
+        }
+    ],
+    "seller": {
+        "address": "043 Richardson Point Apt. 155 New Ashleyburgh, MI 26837",
+        "company_name": "Mercado LLC",
+        "vat_no": "Kr44452374062"
+    }
+}

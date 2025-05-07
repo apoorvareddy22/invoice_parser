@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "USS Baker FPO AP 71429",
+        "company_name": "Moran, Trevino and Harris",
+        "email": "anthony38@example.org",
+        "name": "Erica Lewis",
+        "phone": "972.409.8819x024"
+    },
+    "invoice": {
+        "date": "25.02.1996",
+        "due_date": "26.05.2008",
+        "number": "uFW45825573704"
+    },
+    "payment": {
+        "account_number": 5869013447,
+        "bank_name": "Smith, Anderson and Wilson",
+        "routing_number": 572282216
+    },
+    "products": [
+        {
+            "amount": 141.0,
+            "description": "mesh sticky interfaces",
+            "index": "10",
+            "quantity": 7.23,
+            "unit_price": 35.11
+        },
+        {
+            "amount": 490.64,
+            "description": "scale dot-com bandwidth",
+            "index": "9",
+            "quantity": 4.49,
+            "unit_price": 15.68
+        },
+        {
+            "amount": 141.96,
+            "description": "optimize web-enabled systems",
+            "index": "6",
+            "quantity": 7.53,
+            "unit_price": 35.36
+        }
+    ],
+    "seller": {
+        "address": "18407 Frank Center South Melinda, PW 62709",
+        "company_name": "Weaver, Bell and Clark",
+        "email": "johnschneider@example.com"
+    }
+}

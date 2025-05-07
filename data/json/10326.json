@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "8157 Johnson Dam Suite 804 West Kennethberg, MH 46342",
+        "email": "carolyn94@example.net",
+        "phone": "001-857-807-1127x774",
+        "vat_no": "JB19700086751"
+    },
+    "invoice": {
+        "date": "01.04.2014",
+        "due_date": "17.08.2021",
+        "market_reference": 218059,
+        "notes": "re-contextualize front-end info-mediaries",
+        "number": "5789-3929",
+        "reference": 533431,
+        "vat_no": "zv52771689383"
+    },
+    "payment": {
+        "net_total": 116.73,
+        "total": 293.35
+    },
+    "products": [
+        {
+            "amount": 80.47,
+            "description": "enhance granular functionalities",
+            "hours": 7.89,
+            "rate": 1.56
+        }
+    ],
+    "seller": {
+        "address": "89744 Lee Village North Eddiestad, UT 17764",
+        "email": "marissalee@example.com",
+        "name": "Stephanie Gross"
+    },
+    "tax": {
+        "base": 12.32,
+        "tax_amount": 13.07,
+        "total_tax": 25.82
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "60304 Crawford Trace Apt. 069 New Aaron, ID 76969",
+        "id": "uP730"
+    },
+    "invoice": {
+        "bc_no": "TW27540",
+        "currency_code": "IMP",
+        "date": "09.05.2014",
+        "due_date": "13.05.1992",
+        "number": 829839
+    },
+    "payment": {
+        "bank_name": "Coleman-Watkins",
+        "bic": "SNOMGB60EU4",
+        "iban": "UDYJ63951388880527"
+    },
+    "products": [
+        {
+            "amount": 24.12,
+            "description": "enable distributed action-items",
+            "index": "10",
+            "price": 427.99,
+            "quantity": 1.05,
+            "tax_amount": 61.17,
+            "total_ttc": 346.91,
+            "vat_amount": 4.07
+        },
+        {
+            "amount": 487.72,
+            "description": "seize integrated mindshare",
+            "index": "5",
+            "price": 115.8,
+            "quantity": 3.34,
+            "tax_amount": 96.9,
+            "total_ttc": 301.52,
+            "vat_amount": 6.36
+        }
+    ],
+    "seller": {
+        "name": "Jennifer Williams"
+    },
+    "supplier": {
+        "address": "93059 Mercado Canyon Suite 069 Williamston, MO 59416",
+        "name": "Kiara Parks"
+    },
+    "tax": {
+        "amount_excluding_tax": 52.98,
+        "amount_including_tax": 168.96,
+        "tax_amount": 10.3,
+        "total_ht": 265.33,
+        "total_ttc": 162.93
+    }
+}

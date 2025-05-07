@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "3819 Tammy Divide Suite 108 Flowersshire, AS 86666",
+        "id": "OR384"
+    },
+    "invoice": {
+        "bc_no": "Fr46557",
+        "currency_code": "LBP",
+        "date": "16.12.2017",
+        "due_date": "22.07.1996",
+        "number": 121503
+    },
+    "payment": {
+        "bank_name": "Andrade Inc",
+        "bic": "HPEWGBLRQMC",
+        "iban": "AZIP45745336226626"
+    },
+    "products": [
+        {
+            "amount": 451.86,
+            "description": "facilitate turn-key functionalities",
+            "index": "9",
+            "price": 202.24,
+            "quantity": 6.7,
+            "tax_amount": 34.32,
+            "total_ttc": 422.25,
+            "vat_amount": 13.93
+        },
+        {
+            "amount": 254.42,
+            "description": "maximize wireless ROI",
+            "index": "10",
+            "price": 113.49,
+            "quantity": 8.52,
+            "tax_amount": 77.98,
+            "total_ttc": 469.38,
+            "vat_amount": 10.59
+        },
+        {
+            "amount": 239.64,
+            "description": "syndicate vertical experiences",
+            "index": "4",
+            "price": 306.96,
+            "quantity": 3.6,
+            "tax_amount": 41.39,
+            "total_ttc": 132.17,
+            "vat_amount": 5.56
+        },
+        {
+            "amount": 49.63,
+            "description": "engineer dynamic vortals",
+            "index": "10",
+            "price": 414.83,
+            "quantity": 1.7,
+            "tax_amount": 16.11,
+            "total_ttc": 116.23,
+            "vat_amount": 6.47
+        }
+    ],
+    "seller": {
+        "name": "Linda Roman"
+    },
+    "supplier": {
+        "address": "112 Smith Centers Apt. 867 Lake Carolynside, ME 01625",
+        "name": "James Jones"
+    },
+    "tax": {
+        "amount_excluding_tax": 190.71,
+        "amount_including_tax": 118.73,
+        "tax_amount": 22.66,
+        "total_ht": 222.47,
+        "total_ttc": 137.35
+    }
+}

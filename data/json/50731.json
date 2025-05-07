@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "27748 Bruce View Apt. 475 New Elizabethburgh, KS 25797",
+        "id": "wV867"
+    },
+    "invoice": {
+        "bc_no": "oq21988",
+        "currency_code": "SEK",
+        "date": "09.02.1990",
+        "due_date": "18.05.2005",
+        "number": 732959
+    },
+    "payment": {
+        "bank_name": "Morrow Inc",
+        "bic": "UOEGGB2B",
+        "iban": "IHXO96022220329001"
+    },
+    "products": [
+        {
+            "amount": 371.29,
+            "description": "incentivize cross-media users",
+            "index": "10",
+            "price": 445.28,
+            "quantity": 8.9,
+            "tax_amount": 67.89,
+            "total_ttc": 273.52,
+            "vat_amount": 0.34
+        },
+        {
+            "amount": 319.91,
+            "description": "iterate killer deliverables",
+            "index": "4",
+            "price": 346.11,
+            "quantity": 1.37,
+            "tax_amount": 31.56,
+            "total_ttc": 432.04,
+            "vat_amount": 6.68
+        },
+        {
+            "amount": 39.78,
+            "description": "architect distributed channels",
+            "index": "3",
+            "price": 273.8,
+            "quantity": 3.73,
+            "tax_amount": 44.22,
+            "total_ttc": 226.49,
+            "vat_amount": 9.68
+        },
+        {
+            "amount": 269.6,
+            "description": "brand B2B networks",
+            "index": "1",
+            "price": 318.6,
+            "quantity": 8.18,
+            "tax_amount": 33.49,
+            "total_ttc": 312.97,
+            "vat_amount": 3.2
+        },
+        {
+            "amount": 157.73,
+            "description": "iterate best-of-breed paradigms",
+            "index": "9",
+            "price": 210.04,
+            "quantity": 2.24,
+            "tax_amount": 59.03,
+            "total_ttc": 278.95,
+            "vat_amount": 8.48
+        }
+    ],
+    "seller": {
+        "name": "Laura Bradley"
+    },
+    "supplier": {
+        "address": "28900 Jennifer Pines Apt. 373 Port Karenside, WV 45749",
+        "name": "Rhonda Landry"
+    },
+    "tax": {
+        "amount_excluding_tax": 167.03,
+        "amount_including_tax": 168.67,
+        "tax_amount": 19.87,
+        "total_ht": 151.07,
+        "total_ttc": 144.25
+    }
+}

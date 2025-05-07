@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "92616 Patel Locks Apt. 735 Lake Davidchester, TN 83341",
+        "id": "Vc072"
+    },
+    "invoice": {
+        "bc_no": "WN88669",
+        "currency_code": "IMP",
+        "date": "03.05.2016",
+        "due_date": "24.10.1995",
+        "number": 968400
+    },
+    "payment": {
+        "bank_name": "Moore-Perez",
+        "bic": "OMRHGB2J",
+        "iban": "SWHW70761369738550"
+    },
+    "products": [
+        {
+            "amount": 109.02,
+            "description": "synthesize extensible applications",
+            "index": "4",
+            "price": 307.09,
+            "quantity": 7.14,
+            "tax_amount": 20.9,
+            "total_ttc": 396.51,
+            "vat_amount": 0.41
+        },
+        {
+            "amount": 331.25,
+            "description": "optimize dot-com schemas",
+            "index": "9",
+            "price": 279.5,
+            "quantity": 9.54,
+            "tax_amount": 46.57,
+            "total_ttc": 233.45,
+            "vat_amount": 10.33
+        },
+        {
+            "amount": 302.01,
+            "description": "leverage dynamic eyeballs",
+            "index": "1",
+            "price": 121.93,
+            "quantity": 9.49,
+            "tax_amount": 76.57,
+            "total_ttc": 494.61,
+            "vat_amount": 0.12
+        }
+    ],
+    "seller": {
+        "name": "Victoria Taylor"
+    },
+    "supplier": {
+        "address": "660 Megan Row New Jessica, NJ 41062",
+        "name": "Nicole Leblanc"
+    },
+    "tax": {
+        "amount_excluding_tax": 116.27,
+        "amount_including_tax": 161.79,
+        "tax_amount": 11.55,
+        "total_ht": 148.43,
+        "total_ttc": 441.61
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "8314 William Flats South Gina, ID 92224",
+        "email": "erik93@example.org",
+        "phone": "5074107883",
+        "vat_no": "Yc87809364626"
+    },
+    "invoice": {
+        "date": "06.03.2022",
+        "due_date": "04.11.1993",
+        "market_reference": 578754,
+        "notes": "transform killer mindshare",
+        "number": "8045-6553",
+        "reference": 435140,
+        "vat_no": "Ar94996308539"
+    },
+    "payment": {
+        "net_total": 172.45,
+        "total": 185.99
+    },
+    "products": [
+        {
+            "amount": 391.04,
+            "description": "maximize impactful networks",
+            "hours": 2.4,
+            "rate": 3.18
+        }
+    ],
+    "seller": {
+        "address": "USNS Oliver FPO AP 67518",
+        "email": "mooremichael@example.net",
+        "name": "Laura Frederick"
+    },
+    "tax": {
+        "base": 12.48,
+        "tax_amount": 18.72,
+        "total_tax": 26.09
+    }
+}

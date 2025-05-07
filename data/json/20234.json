@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "63372 Foster Canyon South Luis, OH 50941",
+        "company_name": "Morgan, Wilson and Skinner",
+        "email": "markhodges@example.com",
+        "name": "Stacy Pearson",
+        "phone": "846-276-0169x595"
+    },
+    "invoice": {
+        "date": "26.06.2018",
+        "due_date": "10.02.2015",
+        "number": "rvM66536726122"
+    },
+    "payment": {
+        "account_number": 4184460443,
+        "bank_name": "Sweeney LLC",
+        "routing_number": 617451767
+    },
+    "products": [
+        {
+            "amount": 345.25,
+            "description": "envisioneer user-centric e-business",
+            "index": "5",
+            "quantity": 2.1,
+            "unit_price": 56.72
+        },
+        {
+            "amount": 426.2,
+            "description": "revolutionize virtual mindshare",
+            "index": "5",
+            "quantity": 7.33,
+            "unit_price": 12.0
+        },
+        {
+            "amount": 28.15,
+            "description": "grow bricks-and-clicks synergies",
+            "index": "9",
+            "quantity": 1.8,
+            "unit_price": 90.78
+        }
+    ],
+    "seller": {
+        "address": "373 Owens Views Suite 331 Port Joseville, WA 26099",
+        "company_name": "Collier Group",
+        "email": "grantdaisy@example.org"
+    }
+}

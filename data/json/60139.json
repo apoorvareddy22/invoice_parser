@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "226 Cook Lock Michaelmouth, NC 06546",
+        "business_no": "Qi197",
+        "id": "JD567"
+    },
+    "invoice": {
+        "date": "05.11.2016",
+        "number": "2985-3117"
+    },
+    "payment": {
+        "due_date": "10.10.2015",
+        "total": 261.19
+    },
+    "products": [
+        {
+            "amount": 52.71,
+            "description": "unleash proactive web services",
+            "quantity": 4.32,
+            "reference": "ts-671",
+            "unit_price": 88.9
+        },
+        {
+            "amount": 338.76,
+            "description": "generate sticky platforms",
+            "quantity": 6.94,
+            "reference": "BJ-011",
+            "unit_price": 17.29
+        },
+        {
+            "amount": 314.02,
+            "description": "morph out-of-the-box e-business",
+            "quantity": 1.52,
+            "reference": "Ia-841",
+            "unit_price": 11.38
+        },
+        {
+            "amount": 90.45,
+            "description": "syndicate value-added e-business",
+            "quantity": 6.99,
+            "reference": "wD-154",
+            "unit_price": 26.62
+        }
+    ],
+    "seller": {
+        "address": "70978 Heidi Drive Suite 782 Port Victoria, CT 37366"
+    },
+    "tax": {
+        "base_ht": 282.5,
+        "regulations": 26.17,
+        "total_ht": 471.96,
+        "vat_amount": 109.31,
+        "vat_percentage": 10.99
+    }
+}

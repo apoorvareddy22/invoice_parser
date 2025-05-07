@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "18512 Chelsea Points Suite 562 Ronaldside, FM 73289",
+        "company_name": "Pham and Sons",
+        "email": "juan45@example.org",
+        "name": "Peter Gates",
+        "phone": "876-354-4922"
+    },
+    "invoice": {
+        "date": "28.04.2006",
+        "due_date": "01.12.2013",
+        "number": "gbU40040588730"
+    },
+    "payment": {
+        "account_number": 8904287059,
+        "bank_name": "Lewis Group",
+        "routing_number": 534037987
+    },
+    "products": [
+        {
+            "amount": 139.5,
+            "description": "productize efficient networks",
+            "index": "3",
+            "quantity": 7.14,
+            "unit_price": 78.4
+        },
+        {
+            "amount": 367.1,
+            "description": "mesh best-of-breed models",
+            "index": "6",
+            "quantity": 1.7,
+            "unit_price": 95.67
+        }
+    ],
+    "seller": {
+        "address": "201 Stewart Circle Sharonview, ME 59395",
+        "company_name": "Collins-Gray",
+        "email": "ehall@example.net"
+    }
+}

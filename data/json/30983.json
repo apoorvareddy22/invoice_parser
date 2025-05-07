@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "USNS Dunn FPO AA 73359",
+        "company_name": "Day-Zimmerman",
+        "country": "South Georgia and the South Sandwich Islands",
+        "email": "farcher@example.net",
+        "name": "Joanna Fleming",
+        "phone": "2969632083",
+        "vat_no": "NV53637206819"
+    },
+    "invoice": {
+        "date": "03.07.2011",
+        "due_date": "15.09.2013",
+        "linked_invoice": "Fo-4137-8583",
+        "notes": "e-enable B2C channels",
+        "number": "ac-7922-4552"
+    },
+    "products": [
+        {
+            "description": "e-enable bricks-and-clicks users",
+            "discount_percentage": 10.13,
+            "price": 113.99,
+            "quantity": 7.44,
+            "unit_price": 66.71
+        },
+        {
+            "description": "grow interactive interfaces",
+            "discount_percentage": 14.23,
+            "price": 114.59,
+            "quantity": 2.75,
+            "unit_price": 98.06
+        }
+    ],
+    "seller": {
+        "address": "0089 Cooper Spring Smithstad, HI 84629",
+        "ape": "9177I",
+        "capital": 19301433,
+        "country": "Sao Tome and Principe",
+        "email": "robertmunoz@example.com",
+        "name": "Andrew Smith",
+        "phone_1": "+1-623-814-2908",
+        "phone_2": "750-687-4504x67179",
+        "phone_3": "983-300-1216x8694",
+        "ref_walk": "nArb2175",
+        "reference": "Fl039",
+        "siret": 19910362150414,
+        "vat_no": "Yu96955056161",
+        "website": "https://clark.org/"
+    },
+    "tax": {
+        "amount_0": 19.72,
+        "amount_1": 22.51,
+        "base_0": 15.96,
+        "base_1": 84.45,
+        "total_ht": 142.91,
+        "total_tax": 26.76,
+        "total_ttc": 325.28,
+        "vat_0": 27.28,
+        "vat_1": 21.5
+    }
+}

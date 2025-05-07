@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "260 Edwards Plaza Lake Luke, MS 36557",
+        "email": "rkennedy@example.com",
+        "phone": "+1-936-995-6961",
+        "vat_no": "kX92597423447"
+    },
+    "invoice": {
+        "date": "06.03.2018",
+        "due_date": "09.10.2010",
+        "market_reference": 907907,
+        "notes": "transform revolutionary models",
+        "number": "8672-9035",
+        "reference": 291554,
+        "vat_no": "kJ50584572052"
+    },
+    "payment": {
+        "net_total": 123.17,
+        "total": 596.41
+    },
+    "products": [
+        {
+            "amount": 249.46,
+            "description": "iterate killer initiatives",
+            "hours": 4.37,
+            "rate": 5.73
+        },
+        {
+            "amount": 34.6,
+            "description": "monetize cross-platform methodologies",
+            "hours": 9.31,
+            "rate": 2.03
+        },
+        {
+            "amount": 319.5,
+            "description": "cultivate B2B mindshare",
+            "hours": 4.51,
+            "rate": 2.31
+        },
+        {
+            "amount": 117.31,
+            "description": "streamline strategic architectures",
+            "hours": 4.22,
+            "rate": 8.9
+        },
+        {
+            "amount": 430.53,
+            "description": "deploy holistic schemas",
+            "hours": 6.26,
+            "rate": 8.21
+        },
+        {
+            "amount": 284.72,
+            "description": "re-contextualize end-to-end functionalities",
+            "hours": 2.82,
+            "rate": 9.0
+        },
+        {
+            "amount": 409.82,
+            "description": "revolutionize wireless partnerships",
+            "hours": 3.33,
+            "rate": 6.25
+        }
+    ],
+    "seller": {
+        "address": "429 Adams Pines South John, MI 30475",
+        "email": "tanner24@example.net",
+        "name": "Cathy Ramirez"
+    },
+    "tax": {
+        "base": 23.34,
+        "tax_amount": 11.17,
+        "total_tax": 16.53
+    }
+}

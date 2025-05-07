@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "9277 Stephanie Ridge Lake Michelleside, AS 12155",
+        "company_name": "Parks, Underwood and Sparks",
+        "country": "Netherlands Antilles",
+        "name": "James Lamb"
+    },
+    "invoice": {
+        "date": "19.04.2004",
+        "number": 727610
+    },
+    "payment": {
+        "discount_amount": 13.46,
+        "discount_percentage": 12.88,
+        "due": 28.35,
+        "sub_total": 39.33,
+        "total": 507.36
+    },
+    "products": [
+        {
+            "description": "whiteboard mission-critical platforms",
+            "index": "5",
+            "quantity": 3.62,
+            "total_price": 116.21,
+            "unit_price": 41.06
+        },
+        {
+            "description": "incubate extensible supply-chains",
+            "index": "1",
+            "quantity": 9.42,
+            "total_price": 510.79,
+            "unit_price": 99.49
+        },
+        {
+            "description": "exploit world-class mindshare",
+            "index": "9",
+            "quantity": 9.94,
+            "total_price": 629.92,
+            "unit_price": 68.29
+        },
+        {
+            "description": "architect proactive schemas",
+            "index": "8",
+            "quantity": 7.11,
+            "total_price": 483.68,
+            "unit_price": 37.81
+        }
+    ],
+    "seller": {
+        "address": "139 Melissa Island Apt. 680 North Amber, WI 36441",
+        "company_name": "Haney-Smith",
+        "vat_no": "Ld17277681107"
+    }
+}

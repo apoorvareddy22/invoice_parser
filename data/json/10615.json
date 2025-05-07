@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "74428 Kelly Turnpike Obrienburgh, MT 34082",
+        "email": "vwilliams@example.org",
+        "phone": "(974)472-6534x474",
+        "vat_no": "op79545429487"
+    },
+    "invoice": {
+        "date": "05.03.1999",
+        "due_date": "01.04.2012",
+        "market_reference": 383557,
+        "notes": "mesh front-end e-services",
+        "number": "1138-4734",
+        "reference": 948717,
+        "vat_no": "pr61451382231"
+    },
+    "payment": {
+        "net_total": 41.85,
+        "total": 982.49
+    },
+    "products": [
+        {
+            "amount": 106.1,
+            "description": "transform user-centric schemas",
+            "hours": 1.69,
+            "rate": 1.15
+        },
+        {
+            "amount": 171.56,
+            "description": "generate transparent e-business",
+            "hours": 1.45,
+            "rate": 6.12
+        },
+        {
+            "amount": 70.29,
+            "description": "e-enable frictionless experiences",
+            "hours": 4.92,
+            "rate": 8.81
+        },
+        {
+            "amount": 31.55,
+            "description": "enable B2C e-services",
+            "hours": 7.03,
+            "rate": 2.84
+        }
+    ],
+    "seller": {
+        "address": "19132 Joanne Gateway Suite 792 North Summer, IN 70033",
+        "email": "michael57@example.net",
+        "name": "Chad Estrada"
+    },
+    "tax": {
+        "base": 16.37,
+        "tax_amount": 16.74,
+        "total_tax": 21.08
+    }
+}

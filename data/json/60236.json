@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "0203 West Junction Suite 094 Richardview, DC 21923",
+        "business_no": "PY981",
+        "id": "QA157"
+    },
+    "invoice": {
+        "date": "26.01.2000",
+        "number": "2616-8830"
+    },
+    "payment": {
+        "due_date": "09.01.2005",
+        "total": 611.95
+    },
+    "products": [
+        {
+            "amount": 388.19,
+            "description": "reinvent wireless models",
+            "quantity": 4.28,
+            "reference": "ga-073",
+            "unit_price": 11.77
+        }
+    ],
+    "seller": {
+        "address": "89302 Emily Shore Lake Melanietown, KS 74801"
+    },
+    "tax": {
+        "base_ht": 388.06,
+        "regulations": 11.26,
+        "total_ht": 366.79,
+        "vat_amount": 189.31,
+        "vat_percentage": 22.26
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "0122 Erin Shores Halechester, CA 23487",
+        "id": "uU330"
+    },
+    "invoice": {
+        "bc_no": "ZE22371",
+        "currency_code": "ILS",
+        "date": "05.02.2013",
+        "due_date": "21.12.2004",
+        "number": 100632
+    },
+    "payment": {
+        "bank_name": "Montoya Group",
+        "bic": "YLGXGBJEKVG",
+        "iban": "ESCN99284299415682"
+    },
+    "products": [
+        {
+            "amount": 467.95,
+            "description": "extend rich functionalities",
+            "index": "5",
+            "price": 21.2,
+            "quantity": 1.03,
+            "tax_amount": 92.18,
+            "total_ttc": 289.93,
+            "vat_amount": 2.69
+        },
+        {
+            "amount": 288.17,
+            "description": "repurpose proactive communities",
+            "index": "5",
+            "price": 209.58,
+            "quantity": 2.65,
+            "tax_amount": 16.12,
+            "total_ttc": 310.11,
+            "vat_amount": 5.55
+        }
+    ],
+    "seller": {
+        "name": "Doris Phelps"
+    },
+    "supplier": {
+        "address": "16833 Krista Circle Apt. 385 Port Christopher, HI 11831",
+        "name": "Melissa Austin"
+    },
+    "tax": {
+        "amount_excluding_tax": 25.42,
+        "amount_including_tax": 66.97,
+        "tax_amount": 29.13,
+        "total_ht": 479.65,
+        "total_ttc": 252.36
+    }
+}

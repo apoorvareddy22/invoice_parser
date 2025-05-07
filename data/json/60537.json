@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "4711 Natalie Island Russotown, AL 23620",
+        "business_no": "vt155",
+        "id": "lq686"
+    },
+    "invoice": {
+        "date": "18.01.2004",
+        "number": "7509-8685"
+    },
+    "payment": {
+        "due_date": "13.09.1997",
+        "total": 332.66
+    },
+    "products": [
+        {
+            "amount": 140.73,
+            "description": "aggregate enterprise architectures",
+            "quantity": 1.7,
+            "reference": "Sb-188",
+            "unit_price": 15.92
+        },
+        {
+            "amount": 111.38,
+            "description": "target dynamic models",
+            "quantity": 7.62,
+            "reference": "Xc-480",
+            "unit_price": 33.32
+        }
+    ],
+    "seller": {
+        "address": "7092 Morris Ports Hendersonport, ID 99548"
+    },
+    "tax": {
+        "base_ht": 409.26,
+        "regulations": 23.8,
+        "total_ht": 169.37,
+        "vat_amount": 164.91,
+        "vat_percentage": 13.51
+    }
+}

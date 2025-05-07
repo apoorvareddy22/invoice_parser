@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "202 Vasquez Fork Apt. 782 New Jasmineshire, ND 19214",
+        "id": "rV122"
+    },
+    "invoice": {
+        "bc_no": "PU74671",
+        "currency_code": "TWD",
+        "date": "02.08.2001",
+        "due_date": "20.04.2023",
+        "number": 625461
+    },
+    "payment": {
+        "bank_name": "Torres, Miller and Monroe",
+        "bic": "ILWAGB7LGUR",
+        "iban": "IGUJ61847622255553"
+    },
+    "products": [
+        {
+            "amount": 21.67,
+            "description": "mesh value-added paradigms",
+            "index": "7",
+            "price": 147.98,
+            "quantity": 6.57,
+            "tax_amount": 75.15,
+            "total_ttc": 126.8,
+            "vat_amount": 1.36
+        },
+        {
+            "amount": 210.25,
+            "description": "redefine innovative e-tailers",
+            "index": "7",
+            "price": 65.84,
+            "quantity": 6.51,
+            "tax_amount": 63.37,
+            "total_ttc": 483.35,
+            "vat_amount": 14.54
+        },
+        {
+            "amount": 266.22,
+            "description": "grow dynamic models",
+            "index": "6",
+            "price": 176.41,
+            "quantity": 3.32,
+            "tax_amount": 56.44,
+            "total_ttc": 334.25,
+            "vat_amount": 10.99
+        }
+    ],
+    "seller": {
+        "name": "Sharon Herrera"
+    },
+    "supplier": {
+        "address": "9910 Peterson Square Apt. 722 Lake Sarahshire, AK 25033",
+        "name": "Joshua Middleton"
+    },
+    "tax": {
+        "amount_excluding_tax": 155.84,
+        "amount_including_tax": 30.09,
+        "tax_amount": 29.48,
+        "total_ht": 450.37,
+        "total_ttc": 172.31
+    }
+}

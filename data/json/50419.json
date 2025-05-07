@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "USNV Boyer FPO AP 31850",
+        "id": "Sy023"
+    },
+    "invoice": {
+        "bc_no": "Qo03787",
+        "currency_code": "FJD",
+        "date": "10.08.1997",
+        "due_date": "14.01.2003",
+        "number": 104644
+    },
+    "payment": {
+        "bank_name": "Hogan, Lopez and Bonilla",
+        "bic": "JWEHGBJOWW4",
+        "iban": "DGWI37666688744403"
+    },
+    "products": [
+        {
+            "amount": 147.65,
+            "description": "enhance cross-platform convergence",
+            "index": "4",
+            "price": 78.58,
+            "quantity": 1.67,
+            "tax_amount": 80.2,
+            "total_ttc": 453.06,
+            "vat_amount": 4.42
+        },
+        {
+            "amount": 23.6,
+            "description": "enable killer e-commerce",
+            "index": "2",
+            "price": 195.31,
+            "quantity": 3.45,
+            "tax_amount": 55.97,
+            "total_ttc": 105.18,
+            "vat_amount": 0.52
+        },
+        {
+            "amount": 259.45,
+            "description": "architect best-of-breed mindshare",
+            "index": "1",
+            "price": 140.19,
+            "quantity": 1.17,
+            "tax_amount": 20.37,
+            "total_ttc": 482.35,
+            "vat_amount": 3.54
+        },
+        {
+            "amount": 259.54,
+            "description": "redefine revolutionary partnerships",
+            "index": "6",
+            "price": 401.07,
+            "quantity": 8.41,
+            "tax_amount": 25.95,
+            "total_ttc": 444.37,
+            "vat_amount": 5.16
+        },
+        {
+            "amount": 108.88,
+            "description": "expedite holistic architectures",
+            "index": "3",
+            "price": 259.35,
+            "quantity": 8.89,
+            "tax_amount": 49.29,
+            "total_ttc": 205.27,
+            "vat_amount": 13.38
+        },
+        {
+            "amount": 354.12,
+            "description": "optimize enterprise deliverables",
+            "index": "8",
+            "price": 46.97,
+            "quantity": 8.66,
+            "tax_amount": 81.45,
+            "total_ttc": 363.38,
+            "vat_amount": 9.92
+        }
+    ],
+    "seller": {
+        "name": "Kimberly Acosta"
+    },
+    "supplier": {
+        "address": "950 Krista Garden East Jacqueline, DE 90925",
+        "name": "Rose Johnson"
+    },
+    "tax": {
+        "amount_excluding_tax": 110.96,
+        "amount_including_tax": 149.5,
+        "tax_amount": 20.08,
+        "total_ht": 421.3,
+        "total_ttc": 395.81
+    }
+}

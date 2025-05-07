@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "79883 Bryce Stream Suite 950 Amyport, MH 59668",
+        "business_no": "HE569",
+        "id": "mj613"
+    },
+    "invoice": {
+        "date": "20.01.2015",
+        "number": "3594-8787"
+    },
+    "payment": {
+        "due_date": "11.12.2011",
+        "total": 313.11
+    },
+    "products": [
+        {
+            "amount": 140.95,
+            "description": "expedite transparent mindshare",
+            "quantity": 5.07,
+            "reference": "Jq-877",
+            "unit_price": 86.81
+        },
+        {
+            "amount": 225.93,
+            "description": "drive B2B vortals",
+            "quantity": 7.53,
+            "reference": "iX-417",
+            "unit_price": 20.54
+        }
+    ],
+    "seller": {
+        "address": "9826 Emily Falls Shannonport, MI 85512"
+    },
+    "tax": {
+        "base_ht": 180.98,
+        "regulations": 22.36,
+        "total_ht": 360.89,
+        "vat_amount": 185.71,
+        "vat_percentage": 29.09
+    }
+}

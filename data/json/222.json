@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "581 Beth Forges South Andrew, VT 61410",
+        "company_name": "Griffin, White and Alvarez",
+        "country": "Lebanon",
+        "name": "Michael Beltran"
+    },
+    "invoice": {
+        "date": "14.01.2010",
+        "number": 751778
+    },
+    "payment": {
+        "discount_amount": 13.35,
+        "discount_percentage": 13.43,
+        "due": 17.67,
+        "sub_total": 47.23,
+        "total": 269.5
+    },
+    "products": [
+        {
+            "description": "transition real-time synergies",
+            "index": "5",
+            "quantity": 2.47,
+            "total_price": 939.74,
+            "unit_price": 19.68
+        },
+        {
+            "description": "repurpose one-to-one action-items",
+            "index": "9",
+            "quantity": 8.28,
+            "total_price": 520.32,
+            "unit_price": 52.93
+        },
+        {
+            "description": "morph out-of-the-box platforms",
+            "index": "3",
+            "quantity": 2.38,
+            "total_price": 851.88,
+            "unit_price": 98.63
+        },
+        {
+            "description": "deploy B2B technologies",
+            "index": "4",
+            "quantity": 2.75,
+            "total_price": 570.24,
+            "unit_price": 21.67
+        },
+        {
+            "description": "disintermediate impactful bandwidth",
+            "index": "8",
+            "quantity": 6.62,
+            "total_price": 344.03,
+            "unit_price": 93.28
+        }
+    ],
+    "seller": {
+        "address": "74144 Schmidt Throughway Apt. 339 North Lisa, IN 14675",
+        "company_name": "Chase-Fry",
+        "vat_no": "dF49018682946"
+    }
+}

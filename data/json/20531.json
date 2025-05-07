@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "509 Krause Hills Apt. 021 Nelsonshire, MT 40462",
+        "company_name": "Sweeney-Watson",
+        "email": "josephreynolds@example.net",
+        "name": "Tony Taylor",
+        "phone": "+1-622-592-1452"
+    },
+    "invoice": {
+        "date": "30.03.2019",
+        "due_date": "15.09.2013",
+        "number": "vUY00364011219"
+    },
+    "payment": {
+        "account_number": 5543340109,
+        "bank_name": "King, Martin and Hansen",
+        "routing_number": 919397958
+    },
+    "products": [
+        {
+            "amount": 225.72,
+            "description": "drive one-to-one partnerships",
+            "index": "5",
+            "quantity": 2.69,
+            "unit_price": 67.65
+        },
+        {
+            "amount": 413.22,
+            "description": "revolutionize mission-critical bandwidth",
+            "index": "8",
+            "quantity": 9.74,
+            "unit_price": 28.47
+        },
+        {
+            "amount": 76.18,
+            "description": "benchmark value-added solutions",
+            "index": "6",
+            "quantity": 6.47,
+            "unit_price": 34.69
+        }
+    ],
+    "seller": {
+        "address": "2365 Angela Pass Suite 972 South Mary, MP 41271",
+        "company_name": "Travis-Sanchez",
+        "email": "ana59@example.org"
+    }
+}

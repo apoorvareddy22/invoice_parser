@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "416 Ramsey Islands Suite 245 Davidside, TN 99041",
+        "business_no": "bV298",
+        "id": "zA086"
+    },
+    "invoice": {
+        "date": "22.08.1998",
+        "number": "3411-8136"
+    },
+    "payment": {
+        "due_date": "23.03.2011",
+        "total": 302.96
+    },
+    "products": [
+        {
+            "amount": 355.24,
+            "description": "evolve granular applications",
+            "quantity": 3.21,
+            "reference": "hL-727",
+            "unit_price": 17.17
+        },
+        {
+            "amount": 485.52,
+            "description": "transform mission-critical paradigms",
+            "quantity": 4.61,
+            "reference": "im-988",
+            "unit_price": 30.39
+        },
+        {
+            "amount": 128.87,
+            "description": "harness seamless web-readiness",
+            "quantity": 4.68,
+            "reference": "gy-319",
+            "unit_price": 17.14
+        },
+        {
+            "amount": 207.57,
+            "description": "optimize cutting-edge web services",
+            "quantity": 9.58,
+            "reference": "CZ-277",
+            "unit_price": 55.47
+        },
+        {
+            "amount": 485.84,
+            "description": "utilize web-enabled metrics",
+            "quantity": 7.03,
+            "reference": "AA-214",
+            "unit_price": 81.32
+        }
+    ],
+    "seller": {
+        "address": "317 Lewis Island South Nancyfurt, AS 67565"
+    },
+    "tax": {
+        "base_ht": 149.77,
+        "regulations": 11.78,
+        "total_ht": 178.92,
+        "vat_amount": 89.5,
+        "vat_percentage": 24.35
+    }
+}

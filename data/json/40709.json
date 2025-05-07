@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "PSC 7596, Box 9959 APO AA 64446"
+    },
+    "invoice": {
+        "bc_no": "JK72384",
+        "date": "14.08.2015",
+        "maturity_date": "12.06.2010",
+        "number": 420464
+    },
+    "products": [
+        {
+            "amount": 440.95,
+            "description": "exploit wireless networks",
+            "quantity": 5.56,
+            "unit_price": 45.29,
+            "vat_amount": 0.04
+        },
+        {
+            "amount": 240.97,
+            "description": "cultivate collaborative solutions",
+            "quantity": 7.27,
+            "unit_price": 16.08,
+            "vat_amount": 3.3
+        }
+    ],
+    "seller": {
+        "address": "21308 Montes Lane Peterschester, NM 55497"
+    },
+    "tax": {
+        "amount_excluding_tax": 144.55,
+        "amount_including_tax": 43.0,
+        "tax_amount": 25.41
+    }
+}

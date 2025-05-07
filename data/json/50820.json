@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "89685 Nelson Mountain Suite 644 Brianahaven, GU 40404",
+        "id": "RW849"
+    },
+    "invoice": {
+        "bc_no": "eb34055",
+        "currency_code": "TTD",
+        "date": "30.03.2000",
+        "due_date": "27.02.2022",
+        "number": 944003
+    },
+    "payment": {
+        "bank_name": "Haney, Osborne and Wilson",
+        "bic": "DANWGBSNEI1",
+        "iban": "EQCM75231579440035"
+    },
+    "products": [
+        {
+            "amount": 131.38,
+            "description": "reinvent front-end web-readiness",
+            "index": "8",
+            "price": 50.02,
+            "quantity": 7.84,
+            "tax_amount": 48.44,
+            "total_ttc": 178.89,
+            "vat_amount": 3.28
+        },
+        {
+            "amount": 47.82,
+            "description": "revolutionize B2C systems",
+            "index": "9",
+            "price": 398.91,
+            "quantity": 4.1,
+            "tax_amount": 33.58,
+            "total_ttc": 296.3,
+            "vat_amount": 0.77
+        },
+        {
+            "amount": 74.21,
+            "description": "mesh seamless mindshare",
+            "index": "9",
+            "price": 160.51,
+            "quantity": 8.88,
+            "tax_amount": 82.31,
+            "total_ttc": 449.52,
+            "vat_amount": 5.84
+        },
+        {
+            "amount": 24.64,
+            "description": "brand 24/365 niches",
+            "index": "4",
+            "price": 406.82,
+            "quantity": 5.36,
+            "tax_amount": 17.41,
+            "total_ttc": 233.75,
+            "vat_amount": 1.05
+        },
+        {
+            "amount": 184.25,
+            "description": "seize next-generation paradigms",
+            "index": "2",
+            "price": 431.27,
+            "quantity": 4.03,
+            "tax_amount": 33.41,
+            "total_ttc": 474.67,
+            "vat_amount": 8.56
+        },
+        {
+            "amount": 206.1,
+            "description": "envisioneer vertical ROI",
+            "index": "10",
+            "price": 195.05,
+            "quantity": 5.35,
+            "tax_amount": 53.57,
+            "total_ttc": 252.7,
+            "vat_amount": 6.1
+        },
+        {
+            "amount": 114.75,
+            "description": "generate turn-key e-business",
+            "index": "4",
+            "price": 89.25,
+            "quantity": 2.32,
+            "tax_amount": 53.99,
+            "total_ttc": 472.51,
+            "vat_amount": 8.45
+        }
+    ],
+    "seller": {
+        "name": "Matthew Kennedy"
+    },
+    "supplier": {
+        "address": "PSC 4841, Box 7907 APO AP 11809",
+        "name": "Patricia Gonzalez"
+    },
+    "tax": {
+        "amount_excluding_tax": 33.7,
+        "amount_including_tax": 86.26,
+        "tax_amount": 23.14,
+        "total_ht": 492.93,
+        "total_ttc": 232.21
+    }
+}

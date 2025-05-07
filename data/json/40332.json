@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "41908 Glover Forge Suite 749 Port Brian, MD 27138"
+    },
+    "invoice": {
+        "bc_no": "FM59153",
+        "date": "10.09.2001",
+        "maturity_date": "04.05.2022",
+        "number": 683524
+    },
+    "products": [
+        {
+            "amount": 152.82,
+            "description": "implement interactive applications",
+            "quantity": 9.1,
+            "unit_price": 56.58,
+            "vat_amount": 5.62
+        }
+    ],
+    "seller": {
+        "address": "2681 Steven Shores South Mary, NJ 58054"
+    },
+    "tax": {
+        "amount_excluding_tax": 130.65,
+        "amount_including_tax": 31.11,
+        "tax_amount": 10.42
+    }
+}

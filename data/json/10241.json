@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "908 Hodge Ways Kellyport, SC 56073",
+        "email": "pgood@example.org",
+        "phone": "+1-593-675-8711",
+        "vat_no": "XZ95768926468"
+    },
+    "invoice": {
+        "date": "09.12.2001",
+        "due_date": "17.11.2015",
+        "market_reference": 289366,
+        "notes": "matrix collaborative eyeballs",
+        "number": "1665-7395",
+        "reference": 765093,
+        "vat_no": "SG30800817549"
+    },
+    "payment": {
+        "net_total": 112.56,
+        "total": 479.42
+    },
+    "products": [
+        {
+            "amount": 498.94,
+            "description": "extend clicks-and-mortar systems",
+            "hours": 8.83,
+            "rate": 2.52
+        },
+        {
+            "amount": 361.93,
+            "description": "monetize dynamic functionalities",
+            "hours": 6.21,
+            "rate": 6.35
+        },
+        {
+            "amount": 389.45,
+            "description": "implement value-added systems",
+            "hours": 5.65,
+            "rate": 1.87
+        },
+        {
+            "amount": 209.0,
+            "description": "syndicate ubiquitous e-business",
+            "hours": 3.2,
+            "rate": 7.39
+        }
+    ],
+    "seller": {
+        "address": "1924 Steven Route Apt. 109 East Nicholasfort, MH 30462",
+        "email": "jonesnicholas@example.net",
+        "name": "Amanda Reilly"
+    },
+    "tax": {
+        "base": 20.95,
+        "tax_amount": 27.63,
+        "total_tax": 21.35
+    }
+}

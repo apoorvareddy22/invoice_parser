@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "4443 Williams Heights Suite 377 Wrightport, NE 37251"
+    },
+    "invoice": {
+        "bc_no": "ZY14577",
+        "date": "05.02.2004",
+        "maturity_date": "10.09.1992",
+        "number": 505183
+    },
+    "products": [
+        {
+            "amount": 83.02,
+            "description": "scale integrated e-services",
+            "quantity": 3.22,
+            "unit_price": 83.67,
+            "vat_amount": 4.34
+        },
+        {
+            "amount": 360.93,
+            "description": "incentivize granular e-services",
+            "quantity": 8.47,
+            "unit_price": 24.02,
+            "vat_amount": 4.22
+        }
+    ],
+    "seller": {
+        "address": "0728 Steven Springs Apt. 872 Wyattburgh, FL 44144"
+    },
+    "tax": {
+        "amount_excluding_tax": 73.25,
+        "amount_including_tax": 54.16,
+        "tax_amount": 14.36
+    }
+}

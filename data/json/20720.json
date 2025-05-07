@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "60298 Callahan Highway Lake Michael, TN 41549",
+        "company_name": "Miller, Newton and Hart",
+        "email": "emilyfaulkner@example.net",
+        "name": "George Sanders",
+        "phone": "253-337-7140"
+    },
+    "invoice": {
+        "date": "25.09.2010",
+        "due_date": "06.06.2009",
+        "number": "EbT97438471961"
+    },
+    "payment": {
+        "account_number": 6778946990,
+        "bank_name": "Oconnell Ltd",
+        "routing_number": 493583615
+    },
+    "products": [
+        {
+            "amount": 153.07,
+            "description": "monetize enterprise ROI",
+            "index": "10",
+            "quantity": 3.33,
+            "unit_price": 82.73
+        }
+    ],
+    "seller": {
+        "address": "336 Sullivan Skyway Andersonland, OH 16378",
+        "company_name": "Figueroa Group",
+        "email": "cwaller@example.org"
+    }
+}

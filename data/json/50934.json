@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "646 Wong Roads Lake Alisonbury, KS 86729",
+        "id": "zr840"
+    },
+    "invoice": {
+        "bc_no": "UU57603",
+        "currency_code": "FJD",
+        "date": "06.10.2005",
+        "due_date": "16.09.2000",
+        "number": 836938
+    },
+    "payment": {
+        "bank_name": "Sutton Group",
+        "bic": "FPRPGB43XV8",
+        "iban": "CCNA66070641053207"
+    },
+    "products": [
+        {
+            "amount": 336.9,
+            "description": "utilize user-centric action-items",
+            "index": "10",
+            "price": 115.28,
+            "quantity": 2.61,
+            "tax_amount": 53.82,
+            "total_ttc": 417.92,
+            "vat_amount": 4.94
+        },
+        {
+            "amount": 219.52,
+            "description": "drive killer e-commerce",
+            "index": "5",
+            "price": 222.13,
+            "quantity": 1.02,
+            "tax_amount": 14.11,
+            "total_ttc": 410.86,
+            "vat_amount": 0.71
+        }
+    ],
+    "seller": {
+        "name": "Jonathan Frost Jr."
+    },
+    "supplier": {
+        "address": "45112 Hannah Shore Torresshire, WA 61703",
+        "name": "Eric Clark"
+    },
+    "tax": {
+        "amount_excluding_tax": 130.48,
+        "amount_including_tax": 90.42,
+        "tax_amount": 12.0,
+        "total_ht": 221.51,
+        "total_ttc": 338.16
+    }
+}

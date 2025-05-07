@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "7495 Luna Ports Apt. 133 Moodyshire, WA 42208",
+        "id": "pn776"
+    },
+    "invoice": {
+        "bc_no": "jC75008",
+        "currency_code": "SYP",
+        "date": "22.12.1991",
+        "due_date": "31.05.2022",
+        "number": 125631
+    },
+    "payment": {
+        "bank_name": "Turner, Lowe and Carter",
+        "bic": "CSWMGBN5865",
+        "iban": "IFFG50401516556810"
+    },
+    "products": [
+        {
+            "amount": 312.7,
+            "description": "productize robust functionalities",
+            "index": "3",
+            "price": 495.4,
+            "quantity": 7.89,
+            "tax_amount": 34.77,
+            "total_ttc": 398.64,
+            "vat_amount": 11.34
+        },
+        {
+            "amount": 296.69,
+            "description": "monetize robust bandwidth",
+            "index": "5",
+            "price": 356.89,
+            "quantity": 3.81,
+            "tax_amount": 71.52,
+            "total_ttc": 374.42,
+            "vat_amount": 0.29
+        },
+        {
+            "amount": 298.26,
+            "description": "facilitate mission-critical e-tailers",
+            "index": "6",
+            "price": 302.45,
+            "quantity": 9.44,
+            "tax_amount": 60.1,
+            "total_ttc": 289.21,
+            "vat_amount": 4.35
+        },
+        {
+            "amount": 345.38,
+            "description": "seize real-time e-business",
+            "index": "1",
+            "price": 441.27,
+            "quantity": 6.96,
+            "tax_amount": 66.68,
+            "total_ttc": 375.81,
+            "vat_amount": 5.21
+        }
+    ],
+    "seller": {
+        "name": "Kevin Robinson"
+    },
+    "supplier": {
+        "address": "786 Allison Views Apt. 543 Robynhaven, LA 42775",
+        "name": "Erika Miller"
+    },
+    "tax": {
+        "amount_excluding_tax": 60.39,
+        "amount_including_tax": 162.59,
+        "tax_amount": 27.76,
+        "total_ht": 157.65,
+        "total_ttc": 288.99
+    }
+}

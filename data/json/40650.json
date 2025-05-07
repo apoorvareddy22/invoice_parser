@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "973 Wilson Grove Port Wendyport, TX 57273"
+    },
+    "invoice": {
+        "bc_no": "qy27689",
+        "date": "26.05.1991",
+        "maturity_date": "07.04.2014",
+        "number": 819083
+    },
+    "products": [
+        {
+            "amount": 394.16,
+            "description": "redefine one-to-one applications",
+            "quantity": 6.32,
+            "unit_price": 19.03,
+            "vat_amount": 1.25
+        },
+        {
+            "amount": 15.08,
+            "description": "revolutionize e-business synergies",
+            "quantity": 9.35,
+            "unit_price": 25.12,
+            "vat_amount": 4.42
+        },
+        {
+            "amount": 162.44,
+            "description": "syndicate B2C schemas",
+            "quantity": 5.24,
+            "unit_price": 63.15,
+            "vat_amount": 9.88
+        }
+    ],
+    "seller": {
+        "address": "74424 Nathan Viaduct Brianport, IA 95376"
+    },
+    "tax": {
+        "amount_excluding_tax": 21.38,
+        "amount_including_tax": 103.44,
+        "tax_amount": 10.05
+    }
+}

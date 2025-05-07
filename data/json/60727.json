@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "72353 Douglas Throughway West Cory, AR 32451",
+        "business_no": "lE107",
+        "id": "qP427"
+    },
+    "invoice": {
+        "date": "10.08.2005",
+        "number": "9809-3554"
+    },
+    "payment": {
+        "due_date": "03.11.2000",
+        "total": 311.01
+    },
+    "products": [
+        {
+            "amount": 467.34,
+            "description": "engineer user-centric schemas",
+            "quantity": 2.13,
+            "reference": "Ol-858",
+            "unit_price": 25.18
+        }
+    ],
+    "seller": {
+        "address": "78070 Melanie Key Apt. 021 Charlesfurt, VI 79603"
+    },
+    "tax": {
+        "base_ht": 280.75,
+        "regulations": 13.94,
+        "total_ht": 345.39,
+        "vat_amount": 196.06,
+        "vat_percentage": 15.76
+    }
+}

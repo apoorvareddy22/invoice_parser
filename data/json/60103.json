@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "74646 Nash Prairie North Natalieton, CT 47643",
+        "business_no": "eb916",
+        "id": "vu240"
+    },
+    "invoice": {
+        "date": "05.08.2019",
+        "number": "9896-9965"
+    },
+    "payment": {
+        "due_date": "03.03.1992",
+        "total": 359.54
+    },
+    "products": [
+        {
+            "amount": 428.73,
+            "description": "envisioneer impactful markets",
+            "quantity": 4.05,
+            "reference": "hq-282",
+            "unit_price": 64.42
+        },
+        {
+            "amount": 423.21,
+            "description": "streamline killer systems",
+            "quantity": 9.69,
+            "reference": "qT-379",
+            "unit_price": 10.85
+        },
+        {
+            "amount": 386.7,
+            "description": "redefine transparent e-tailers",
+            "quantity": 7.05,
+            "reference": "dL-850",
+            "unit_price": 62.44
+        },
+        {
+            "amount": 91.64,
+            "description": "envisioneer B2C partnerships",
+            "quantity": 1.46,
+            "reference": "Kp-141",
+            "unit_price": 60.19
+        }
+    ],
+    "seller": {
+        "address": "5140 Kristin Bypass South Sharon, NV 32951"
+    },
+    "tax": {
+        "base_ht": 378.34,
+        "regulations": 17.12,
+        "total_ht": 119.3,
+        "vat_amount": 64.3,
+        "vat_percentage": 24.65
+    }
+}

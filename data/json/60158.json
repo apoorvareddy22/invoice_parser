@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "USCGC Ballard FPO AA 98163",
+        "business_no": "Nr053",
+        "id": "YQ294"
+    },
+    "invoice": {
+        "date": "13.10.2005",
+        "number": "4172-6764"
+    },
+    "payment": {
+        "due_date": "09.03.2005",
+        "total": 793.0
+    },
+    "products": [
+        {
+            "amount": 244.79,
+            "description": "extend world-class users",
+            "quantity": 7.58,
+            "reference": "qJ-312",
+            "unit_price": 57.13
+        },
+        {
+            "amount": 234.53,
+            "description": "integrate wireless ROI",
+            "quantity": 1.06,
+            "reference": "UW-260",
+            "unit_price": 48.9
+        },
+        {
+            "amount": 94.67,
+            "description": "transition global experiences",
+            "quantity": 7.21,
+            "reference": "tF-555",
+            "unit_price": 44.36
+        },
+        {
+            "amount": 333.17,
+            "description": "reinvent open-source architectures",
+            "quantity": 6.76,
+            "reference": "XJ-324",
+            "unit_price": 47.42
+        },
+        {
+            "amount": 230.62,
+            "description": "architect 24/365 ROI",
+            "quantity": 9.56,
+            "reference": "Mk-713",
+            "unit_price": 81.24
+        }
+    ],
+    "seller": {
+        "address": "2039 Hannah Hill Suite 287 Tammystad, WV 42804"
+    },
+    "tax": {
+        "base_ht": 150.31,
+        "regulations": 28.13,
+        "total_ht": 287.61,
+        "vat_amount": 122.57,
+        "vat_percentage": 17.51
+    }
+}

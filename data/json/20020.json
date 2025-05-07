@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "PSC 2888, Box 2575 APO AE 21486",
+        "company_name": "Vargas, Adams and Rodriguez",
+        "email": "hollowaymeagan@example.org",
+        "name": "Monica Johnson",
+        "phone": "338-422-6919"
+    },
+    "invoice": {
+        "date": "04.07.2022",
+        "due_date": "28.07.2005",
+        "number": "Onm54717732046"
+    },
+    "payment": {
+        "account_number": 9715861428,
+        "bank_name": "Smith-Thompson",
+        "routing_number": 845181991
+    },
+    "products": [
+        {
+            "amount": 174.45,
+            "description": "incubate extensible ROI",
+            "index": "1",
+            "quantity": 8.11,
+            "unit_price": 29.63
+        },
+        {
+            "amount": 114.69,
+            "description": "engineer cross-media web services",
+            "index": "4",
+            "quantity": 6.57,
+            "unit_price": 24.53
+        }
+    ],
+    "seller": {
+        "address": "990 Tyler Key Apt. 010 Smithhaven, SD 62986",
+        "company_name": "Fernandez Group",
+        "email": "mooncandace@example.net"
+    }
+}

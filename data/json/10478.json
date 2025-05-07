@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "768 Lopez Pike Suite 917 Christopherbury, NC 54589",
+        "email": "deborahwilliams@example.org",
+        "phone": "(952)540-3118",
+        "vat_no": "WW31128707787"
+    },
+    "invoice": {
+        "date": "04.09.2006",
+        "due_date": "26.04.2012",
+        "market_reference": 348507,
+        "notes": "brand seamless e-tailers",
+        "number": "4037-9577",
+        "reference": 150965,
+        "vat_no": "oi37426722039"
+    },
+    "payment": {
+        "net_total": 160.97,
+        "total": 539.61
+    },
+    "products": [
+        {
+            "amount": 133.71,
+            "description": "monetize seamless technologies",
+            "hours": 4.94,
+            "rate": 8.23
+        },
+        {
+            "amount": 20.22,
+            "description": "seize visionary systems",
+            "hours": 7.41,
+            "rate": 3.23
+        },
+        {
+            "amount": 311.79,
+            "description": "transform plug-and-play interfaces",
+            "hours": 1.81,
+            "rate": 4.56
+        },
+        {
+            "amount": 208.49,
+            "description": "engage global vortals",
+            "hours": 7.54,
+            "rate": 2.19
+        },
+        {
+            "amount": 278.65,
+            "description": "streamline clicks-and-mortar portals",
+            "hours": 9.21,
+            "rate": 3.11
+        },
+        {
+            "amount": 253.44,
+            "description": "transform compelling eyeballs",
+            "hours": 5.49,
+            "rate": 5.71
+        }
+    ],
+    "seller": {
+        "address": "70276 Johnson Green Crystalport, FL 92922",
+        "email": "xschmidt@example.net",
+        "name": "Gregory Franco"
+    },
+    "tax": {
+        "base": 29.95,
+        "tax_amount": 29.6,
+        "total_tax": 24.56
+    }
+}

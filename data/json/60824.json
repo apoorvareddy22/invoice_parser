@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "43404 Nathan Field Suite 904 New Seanton, NC 38687",
+        "business_no": "RG343",
+        "id": "RL125"
+    },
+    "invoice": {
+        "date": "14.09.1999",
+        "number": "0470-8706"
+    },
+    "payment": {
+        "due_date": "19.09.2001",
+        "total": 523.28
+    },
+    "products": [
+        {
+            "amount": 477.24,
+            "description": "disintermediate cutting-edge action-items",
+            "quantity": 2.36,
+            "reference": "Bl-295",
+            "unit_price": 63.13
+        },
+        {
+            "amount": 310.39,
+            "description": "envisioneer extensible initiatives",
+            "quantity": 3.55,
+            "reference": "ub-404",
+            "unit_price": 15.17
+        },
+        {
+            "amount": 104.4,
+            "description": "maximize best-of-breed experiences",
+            "quantity": 8.48,
+            "reference": "Wp-093",
+            "unit_price": 85.52
+        },
+        {
+            "amount": 440.91,
+            "description": "synergize cross-media systems",
+            "quantity": 4.74,
+            "reference": "ip-867",
+            "unit_price": 42.05
+        },
+        {
+            "amount": 261.59,
+            "description": "enhance dot-com relationships",
+            "quantity": 4.22,
+            "reference": "Su-767",
+            "unit_price": 66.03
+        },
+        {
+            "amount": 77.65,
+            "description": "productize bricks-and-clicks convergence",
+            "quantity": 3.98,
+            "reference": "Ou-443",
+            "unit_price": 38.69
+        },
+        {
+            "amount": 113.01,
+            "description": "syndicate best-of-breed paradigms",
+            "quantity": 1.46,
+            "reference": "pw-590",
+            "unit_price": 59.39
+        }
+    ],
+    "seller": {
+        "address": "762 Tony Cliff Suite 535 Chadhaven, AL 89377"
+    },
+    "tax": {
+        "base_ht": 464.16,
+        "regulations": 16.92,
+        "total_ht": 430.19,
+        "vat_amount": 173.16,
+        "vat_percentage": 20.52
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "772 Ryan Stravenue Port Tracy, MI 92764",
+        "company_name": "Chen-Glover",
+        "email": "billy05@example.org",
+        "name": "Ariel Hughes",
+        "phone": "(896)354-1105x24113"
+    },
+    "invoice": {
+        "date": "22.11.1998",
+        "due_date": "27.11.2016",
+        "number": "eBD72755220391"
+    },
+    "payment": {
+        "account_number": 9827996290,
+        "bank_name": "Torres, Fletcher and Harris",
+        "routing_number": 754959507
+    },
+    "products": [
+        {
+            "amount": 200.75,
+            "description": "revolutionize 24/365 ROI",
+            "index": "2",
+            "quantity": 2.1,
+            "unit_price": 36.78
+        },
+        {
+            "amount": 384.46,
+            "description": "grow interactive channels",
+            "index": "2",
+            "quantity": 8.97,
+            "unit_price": 20.72
+        },
+        {
+            "amount": 273.93,
+            "description": "unleash efficient e-tailers",
+            "index": "9",
+            "quantity": 4.23,
+            "unit_price": 88.94
+        },
+        {
+            "amount": 499.22,
+            "description": "harness customized e-markets",
+            "index": "9",
+            "quantity": 1.04,
+            "unit_price": 72.36
+        },
+        {
+            "amount": 469.26,
+            "description": "scale 24/365 methodologies",
+            "index": "5",
+            "quantity": 6.58,
+            "unit_price": 93.02
+        }
+    ],
+    "seller": {
+        "address": "31516 Chavez Ports Suite 053 Port Tracymouth, OR 63733",
+        "company_name": "Chandler-Jones",
+        "email": "sanchezjessica@example.com"
+    }
+}

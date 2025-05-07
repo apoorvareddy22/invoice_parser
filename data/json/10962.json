@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "09851 Gutierrez Village Suite 214 Lake Jared, WA 25667",
+        "email": "steven18@example.org",
+        "phone": "836-225-1806x73803",
+        "vat_no": "LE93630587303"
+    },
+    "invoice": {
+        "date": "04.07.1995",
+        "due_date": "26.04.2020",
+        "market_reference": 989149,
+        "notes": "incubate turn-key infrastructures",
+        "number": "8404-2977",
+        "reference": 115140,
+        "vat_no": "uT42481987440"
+    },
+    "payment": {
+        "net_total": 96.5,
+        "total": 462.05
+    },
+    "products": [
+        {
+            "amount": 235.82,
+            "description": "scale visionary synergies",
+            "hours": 2.01,
+            "rate": 4.38
+        },
+        {
+            "amount": 46.07,
+            "description": "envisioneer web-enabled architectures",
+            "hours": 3.58,
+            "rate": 9.14
+        },
+        {
+            "amount": 391.99,
+            "description": "empower cutting-edge e-services",
+            "hours": 1.72,
+            "rate": 6.08
+        },
+        {
+            "amount": 16.59,
+            "description": "synergize intuitive content",
+            "hours": 2.48,
+            "rate": 6.77
+        },
+        {
+            "amount": 104.76,
+            "description": "visualize collaborative technologies",
+            "hours": 5.04,
+            "rate": 8.02
+        }
+    ],
+    "seller": {
+        "address": "3649 Barrera Parkway Mooreport, NJ 36010",
+        "email": "jasoncharles@example.org",
+        "name": "Bruce Montgomery"
+    },
+    "tax": {
+        "base": 26.99,
+        "tax_amount": 19.76,
+        "total_tax": 27.06
+    }
+}

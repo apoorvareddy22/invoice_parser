@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "18063 Jennifer Spring Apt. 631 Georgeview, NE 86286",
+        "id": "aR990"
+    },
+    "invoice": {
+        "bc_no": "Ei29001",
+        "currency_code": "BWP",
+        "date": "14.04.2022",
+        "due_date": "01.07.2016",
+        "number": 296911
+    },
+    "payment": {
+        "bank_name": "Mckay, Smith and Watts",
+        "bic": "DCIDGBTO2IT",
+        "iban": "EQMK64336937870892"
+    },
+    "products": [
+        {
+            "amount": 270.72,
+            "description": "syndicate scalable info-mediaries",
+            "index": "4",
+            "price": 95.16,
+            "quantity": 4.42,
+            "tax_amount": 35.43,
+            "total_ttc": 385.53,
+            "vat_amount": 8.41
+        }
+    ],
+    "seller": {
+        "name": "Katie Patel"
+    },
+    "supplier": {
+        "address": "41659 Baxter Manors Lake Susan, AS 66565",
+        "name": "Crystal Paul"
+    },
+    "tax": {
+        "amount_excluding_tax": 172.83,
+        "amount_including_tax": 135.68,
+        "tax_amount": 12.25,
+        "total_ht": 460.85,
+        "total_ttc": 101.82
+    }
+}

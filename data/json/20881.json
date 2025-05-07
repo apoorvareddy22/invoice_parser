@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "Unit 4009 Box 9355 DPO AP 36139",
+        "company_name": "Cruz Group",
+        "email": "dgeorge@example.org",
+        "name": "Christopher Erickson",
+        "phone": "(251)700-7954x66106"
+    },
+    "invoice": {
+        "date": "17.11.2015",
+        "due_date": "20.01.2020",
+        "number": "LnY49706120039"
+    },
+    "payment": {
+        "account_number": 5417447487,
+        "bank_name": "Conway PLC",
+        "routing_number": 872775296
+    },
+    "products": [
+        {
+            "amount": 8.66,
+            "description": "evolve customized synergies",
+            "index": "7",
+            "quantity": 2.86,
+            "unit_price": 89.11
+        }
+    ],
+    "seller": {
+        "address": "8322 Bradley Port Michaelchester, ID 16954",
+        "company_name": "West LLC",
+        "email": "andrea97@example.org"
+    }
+}

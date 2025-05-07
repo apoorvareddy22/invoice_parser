@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "598 Dodson Center Apt. 624 Nicolefort, NC 70137"
+    },
+    "invoice": {
+        "bc_no": "GC44345",
+        "date": "06.02.2006",
+        "maturity_date": "27.10.1992",
+        "number": 289863
+    },
+    "products": [
+        {
+            "amount": 96.46,
+            "description": "scale frictionless deliverables",
+            "quantity": 4.85,
+            "unit_price": 91.14,
+            "vat_amount": 1.89
+        },
+        {
+            "amount": 457.96,
+            "description": "incentivize ubiquitous schemas",
+            "quantity": 2.64,
+            "unit_price": 83.33,
+            "vat_amount": 0.75
+        },
+        {
+            "amount": 82.01,
+            "description": "engage global partnerships",
+            "quantity": 7.24,
+            "unit_price": 61.36,
+            "vat_amount": 4.96
+        },
+        {
+            "amount": 487.66,
+            "description": "facilitate 24/365 bandwidth",
+            "quantity": 5.4,
+            "unit_price": 85.73,
+            "vat_amount": 5.29
+        }
+    ],
+    "seller": {
+        "address": "318 Richard Stravenue Davidbury, UT 58614"
+    },
+    "tax": {
+        "amount_excluding_tax": 186.37,
+        "amount_including_tax": 124.98,
+        "tax_amount": 18.29
+    }
+}

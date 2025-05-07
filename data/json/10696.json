@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "5489 Clark Burg North Hannahborough, FL 97464",
+        "email": "pinedachristopher@example.com",
+        "phone": "444.965.5984",
+        "vat_no": "BZ24473757666"
+    },
+    "invoice": {
+        "date": "13.07.2004",
+        "due_date": "30.04.2016",
+        "market_reference": 755687,
+        "notes": "extend back-end solutions",
+        "number": "2821-3675",
+        "reference": 660281,
+        "vat_no": "Ya86905562997"
+    },
+    "payment": {
+        "net_total": 56.75,
+        "total": 668.43
+    },
+    "products": [
+        {
+            "amount": 347.18,
+            "description": "re-intermediate cutting-edge content",
+            "hours": 6.32,
+            "rate": 6.26
+        },
+        {
+            "amount": 80.59,
+            "description": "cultivate front-end applications",
+            "hours": 3.78,
+            "rate": 5.4
+        },
+        {
+            "amount": 214.03,
+            "description": "evolve distributed schemas",
+            "hours": 5.47,
+            "rate": 8.0
+        },
+        {
+            "amount": 306.32,
+            "description": "harness next-generation mindshare",
+            "hours": 4.77,
+            "rate": 4.64
+        },
+        {
+            "amount": 389.67,
+            "description": "implement global convergence",
+            "hours": 2.15,
+            "rate": 3.71
+        },
+        {
+            "amount": 265.05,
+            "description": "brand value-added eyeballs",
+            "hours": 2.58,
+            "rate": 5.21
+        },
+        {
+            "amount": 452.59,
+            "description": "embrace real-time supply-chains",
+            "hours": 8.75,
+            "rate": 2.07
+        }
+    ],
+    "seller": {
+        "address": "4769 Knight Vista Butlermouth, MO 67128",
+        "email": "lisa90@example.com",
+        "name": "Tiffany Frank DVM"
+    },
+    "tax": {
+        "base": 22.58,
+        "tax_amount": 17.35,
+        "total_tax": 10.02
+    }
+}

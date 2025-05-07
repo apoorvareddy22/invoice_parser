@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "68451 Mcdonald Tunnel West Jennifermouth, NM 26298",
+        "id": "Ay010"
+    },
+    "invoice": {
+        "bc_no": "GQ10134",
+        "currency_code": "VUV",
+        "date": "13.09.1998",
+        "due_date": "06.11.2016",
+        "number": 930264
+    },
+    "payment": {
+        "bank_name": "Gordon, Adams and Smith",
+        "bic": "KISAGB0S",
+        "iban": "LRPP96143375270139"
+    },
+    "products": [
+        {
+            "amount": 466.3,
+            "description": "grow killer e-markets",
+            "index": "6",
+            "price": 348.2,
+            "quantity": 5.72,
+            "tax_amount": 34.38,
+            "total_ttc": 251.29,
+            "vat_amount": 13.47
+        },
+        {
+            "amount": 197.59,
+            "description": "target real-time experiences",
+            "index": "4",
+            "price": 65.24,
+            "quantity": 8.17,
+            "tax_amount": 48.09,
+            "total_ttc": 297.92,
+            "vat_amount": 1.19
+        },
+        {
+            "amount": 381.75,
+            "description": "incentivize 24/7 portals",
+            "index": "5",
+            "price": 244.93,
+            "quantity": 9.67,
+            "tax_amount": 36.07,
+            "total_ttc": 312.41,
+            "vat_amount": 10.51
+        },
+        {
+            "amount": 134.57,
+            "description": "generate B2C mindshare",
+            "index": "7",
+            "price": 66.13,
+            "quantity": 4.52,
+            "tax_amount": 34.48,
+            "total_ttc": 281.15,
+            "vat_amount": 1.1
+        },
+        {
+            "amount": 495.36,
+            "description": "re-contextualize customized paradigms",
+            "index": "7",
+            "price": 435.23,
+            "quantity": 3.14,
+            "tax_amount": 12.05,
+            "total_ttc": 454.39,
+            "vat_amount": 12.49
+        },
+        {
+            "amount": 422.0,
+            "description": "revolutionize scalable content",
+            "index": "2",
+            "price": 107.7,
+            "quantity": 1.75,
+            "tax_amount": 80.59,
+            "total_ttc": 207.95,
+            "vat_amount": 1.79
+        },
+        {
+            "amount": 335.19,
+            "description": "engineer B2B partnerships",
+            "index": "3",
+            "price": 108.62,
+            "quantity": 3.13,
+            "tax_amount": 19.08,
+            "total_ttc": 154.49,
+            "vat_amount": 3.26
+        }
+    ],
+    "seller": {
+        "name": "Alexis Johnson"
+    },
+    "supplier": {
+        "address": "USS Phillips FPO AA 70296",
+        "name": "Shannon Rivas"
+    },
+    "tax": {
+        "amount_excluding_tax": 12.77,
+        "amount_including_tax": 61.98,
+        "tax_amount": 27.53,
+        "total_ht": 204.85,
+        "total_ttc": 497.58
+    }
+}

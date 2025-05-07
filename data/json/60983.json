@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "43140 Jennifer Station Nicoletown, OR 73982",
+        "business_no": "RN345",
+        "id": "Cb826"
+    },
+    "invoice": {
+        "date": "14.08.2001",
+        "number": "7340-1625"
+    },
+    "payment": {
+        "due_date": "17.01.1995",
+        "total": 388.75
+    },
+    "products": [
+        {
+            "amount": 97.92,
+            "description": "unleash rich e-services",
+            "quantity": 1.58,
+            "reference": "jC-039",
+            "unit_price": 89.92
+        }
+    ],
+    "seller": {
+        "address": "53909 Holland Port Hunterchester, CA 05709"
+    },
+    "tax": {
+        "base_ht": 183.41,
+        "regulations": 12.7,
+        "total_ht": 158.35,
+        "vat_amount": 100.13,
+        "vat_percentage": 27.27
+    }
+}

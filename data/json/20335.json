@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "39853 Brian Locks Apt. 603 Taylorshire, NY 09594",
+        "company_name": "Becker, Eaton and Russell",
+        "email": "traviszamora@example.com",
+        "name": "Pamela Davis",
+        "phone": "431.923.0762x770"
+    },
+    "invoice": {
+        "date": "18.09.1990",
+        "due_date": "20.07.1993",
+        "number": "wIt54032373711"
+    },
+    "payment": {
+        "account_number": 4522628417,
+        "bank_name": "Duncan Inc",
+        "routing_number": 971044671
+    },
+    "products": [
+        {
+            "amount": 237.7,
+            "description": "synergize revolutionary technologies",
+            "index": "10",
+            "quantity": 6.68,
+            "unit_price": 71.61
+        },
+        {
+            "amount": 239.75,
+            "description": "innovate turn-key content",
+            "index": "4",
+            "quantity": 8.39,
+            "unit_price": 36.96
+        },
+        {
+            "amount": 161.57,
+            "description": "reinvent impactful functionalities",
+            "index": "8",
+            "quantity": 6.49,
+            "unit_price": 17.11
+        }
+    ],
+    "seller": {
+        "address": "Unit 3291 Box 0250 DPO AE 01363",
+        "company_name": "King Group",
+        "email": "gillespiekathryn@example.org"
+    }
+}

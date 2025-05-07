@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "USNV Melendez FPO AE 82337",
+        "company_name": "Taylor and Sons",
+        "country": "Serbia",
+        "name": "Danielle Johnson"
+    },
+    "invoice": {
+        "date": "08.01.2000",
+        "number": 778102
+    },
+    "payment": {
+        "discount_amount": 17.51,
+        "discount_percentage": 13.43,
+        "due": 11.2,
+        "sub_total": 76.28,
+        "total": 995.07
+    },
+    "products": [
+        {
+            "description": "transform world-class vortals",
+            "index": "6",
+            "quantity": 3.07,
+            "total_price": 665.52,
+            "unit_price": 64.72
+        },
+        {
+            "description": "synthesize viral synergies",
+            "index": "4",
+            "quantity": 4.9,
+            "total_price": 846.99,
+            "unit_price": 36.38
+        },
+        {
+            "description": "engage strategic communities",
+            "index": "2",
+            "quantity": 3.63,
+            "total_price": 710.39,
+            "unit_price": 59.26
+        }
+    ],
+    "seller": {
+        "address": "24513 Travis Via Apt. 745 Lake Briantown, ME 01429",
+        "company_name": "Mann-Green",
+        "vat_no": "Ip38852729099"
+    }
+}

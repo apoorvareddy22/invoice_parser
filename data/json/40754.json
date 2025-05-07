@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "6092 Michael Island Suite 494 Kevinberg, NY 90760"
+    },
+    "invoice": {
+        "bc_no": "VH49887",
+        "date": "03.08.2008",
+        "maturity_date": "05.11.2003",
+        "number": 611370
+    },
+    "products": [
+        {
+            "amount": 428.97,
+            "description": "enable rich e-markets",
+            "quantity": 6.16,
+            "unit_price": 48.69,
+            "vat_amount": 5.37
+        },
+        {
+            "amount": 236.22,
+            "description": "harness open-source architectures",
+            "quantity": 8.48,
+            "unit_price": 47.44,
+            "vat_amount": 10.75
+        },
+        {
+            "amount": 223.46,
+            "description": "drive rich channels",
+            "quantity": 2.17,
+            "unit_price": 99.93,
+            "vat_amount": 5.05
+        },
+        {
+            "amount": 336.16,
+            "description": "monetize compelling communities",
+            "quantity": 5.42,
+            "unit_price": 25.86,
+            "vat_amount": 9.75
+        }
+    ],
+    "seller": {
+        "address": "549 Gregory Parkway Suite 225 South Stephenfurt, SC 38389"
+    },
+    "tax": {
+        "amount_excluding_tax": 191.82,
+        "amount_including_tax": 65.07,
+        "tax_amount": 29.82
+    }
+}

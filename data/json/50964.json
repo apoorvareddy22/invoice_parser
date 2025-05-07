@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "25034 Jeffery Ferry East Laura, IN 78969",
+        "id": "ZW217"
+    },
+    "invoice": {
+        "bc_no": "hl19827",
+        "currency_code": "PGK",
+        "date": "02.12.2021",
+        "due_date": "16.12.1993",
+        "number": 764037
+    },
+    "payment": {
+        "bank_name": "Garcia, Robinson and Marquez",
+        "bic": "PSQZGB6QN5K",
+        "iban": "UNHP86508031859152"
+    },
+    "products": [
+        {
+            "amount": 171.57,
+            "description": "e-enable granular interfaces",
+            "index": "9",
+            "price": 218.59,
+            "quantity": 5.2,
+            "tax_amount": 37.39,
+            "total_ttc": 433.66,
+            "vat_amount": 1.27
+        },
+        {
+            "amount": 374.67,
+            "description": "productize one-to-one mindshare",
+            "index": "2",
+            "price": 231.62,
+            "quantity": 8.75,
+            "tax_amount": 44.85,
+            "total_ttc": 148.56,
+            "vat_amount": 1.18
+        },
+        {
+            "amount": 454.67,
+            "description": "matrix dot-com web services",
+            "index": "4",
+            "price": 457.25,
+            "quantity": 7.56,
+            "tax_amount": 43.06,
+            "total_ttc": 278.15,
+            "vat_amount": 9.81
+        },
+        {
+            "amount": 479.86,
+            "description": "whiteboard revolutionary content",
+            "index": "7",
+            "price": 407.55,
+            "quantity": 2.5,
+            "tax_amount": 87.13,
+            "total_ttc": 352.84,
+            "vat_amount": 2.85
+        },
+        {
+            "amount": 150.71,
+            "description": "expedite integrated paradigms",
+            "index": "3",
+            "price": 368.16,
+            "quantity": 6.88,
+            "tax_amount": 19.95,
+            "total_ttc": 229.92,
+            "vat_amount": 3.68
+        }
+    ],
+    "seller": {
+        "name": "Marcus Eaton"
+    },
+    "supplier": {
+        "address": "385 Ashley Rue Apt. 605 South Edward, UT 17470",
+        "name": "Tina Johnson"
+    },
+    "tax": {
+        "amount_excluding_tax": 59.0,
+        "amount_including_tax": 15.88,
+        "tax_amount": 27.57,
+        "total_ht": 446.39,
+        "total_ttc": 120.93
+    }
+}

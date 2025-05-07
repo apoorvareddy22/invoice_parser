@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "7892 Rebecca Via Suite 199 Justinville, AS 65084",
+        "email": "pschwartz@example.org",
+        "phone": "(919)405-4649",
+        "vat_no": "ec41461193169"
+    },
+    "invoice": {
+        "date": "21.02.2015",
+        "due_date": "10.09.2002",
+        "market_reference": 854491,
+        "notes": "generate integrated users",
+        "number": "5996-9852",
+        "reference": 264335,
+        "vat_no": "Ec83093404102"
+    },
+    "payment": {
+        "net_total": 114.84,
+        "total": 576.98
+    },
+    "products": [
+        {
+            "amount": 351.15,
+            "description": "maximize extensible models",
+            "hours": 1.7,
+            "rate": 8.05
+        },
+        {
+            "amount": 106.45,
+            "description": "harness value-added relationships",
+            "hours": 6.01,
+            "rate": 6.59
+        },
+        {
+            "amount": 11.12,
+            "description": "productize efficient synergies",
+            "hours": 1.22,
+            "rate": 5.99
+        },
+        {
+            "amount": 462.9,
+            "description": "utilize best-of-breed niches",
+            "hours": 2.84,
+            "rate": 3.79
+        },
+        {
+            "amount": 137.12,
+            "description": "mesh interactive info-mediaries",
+            "hours": 4.8,
+            "rate": 5.74
+        }
+    ],
+    "seller": {
+        "address": "6399 Peterson Run Suite 610 Lambertland, NC 35089",
+        "email": "bwise@example.com",
+        "name": "Patrick Jones"
+    },
+    "tax": {
+        "base": 28.67,
+        "tax_amount": 19.87,
+        "total_tax": 10.97
+    }
+}

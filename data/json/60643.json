@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "02173 Walsh Drive Suzanneburgh, MT 84048",
+        "business_no": "LV110",
+        "id": "yC171"
+    },
+    "invoice": {
+        "date": "13.08.2009",
+        "number": "7965-3612"
+    },
+    "payment": {
+        "due_date": "23.04.2009",
+        "total": 290.37
+    },
+    "products": [
+        {
+            "amount": 176.27,
+            "description": "envisioneer synergistic interfaces",
+            "quantity": 7.91,
+            "reference": "nW-233",
+            "unit_price": 89.38
+        },
+        {
+            "amount": 72.5,
+            "description": "visualize proactive initiatives",
+            "quantity": 2.93,
+            "reference": "hP-672",
+            "unit_price": 49.48
+        },
+        {
+            "amount": 271.6,
+            "description": "monetize B2C mindshare",
+            "quantity": 6.44,
+            "reference": "Au-701",
+            "unit_price": 16.13
+        },
+        {
+            "amount": 270.58,
+            "description": "evolve plug-and-play schemas",
+            "quantity": 2.98,
+            "reference": "Xz-897",
+            "unit_price": 65.19
+        },
+        {
+            "amount": 69.17,
+            "description": "enhance back-end interfaces",
+            "quantity": 7.28,
+            "reference": "QZ-341",
+            "unit_price": 28.41
+        },
+        {
+            "amount": 481.78,
+            "description": "seize ubiquitous communities",
+            "quantity": 4.3,
+            "reference": "ud-350",
+            "unit_price": 83.58
+        }
+    ],
+    "seller": {
+        "address": "776 Wallace Forges Port Michelletown, SC 66462"
+    },
+    "tax": {
+        "base_ht": 340.82,
+        "regulations": 28.0,
+        "total_ht": 225.0,
+        "vat_amount": 112.87,
+        "vat_percentage": 20.01
+    }
+}

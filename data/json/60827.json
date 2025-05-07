@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "491 Shari Streets Apt. 045 Johnville, CT 29587",
+        "business_no": "nP105",
+        "id": "ek274"
+    },
+    "invoice": {
+        "date": "01.12.2019",
+        "number": "1928-1414"
+    },
+    "payment": {
+        "due_date": "11.04.2004",
+        "total": 658.78
+    },
+    "products": [
+        {
+            "amount": 290.58,
+            "description": "leverage granular channels",
+            "quantity": 6.71,
+            "reference": "vg-432",
+            "unit_price": 73.81
+        },
+        {
+            "amount": 316.82,
+            "description": "maximize collaborative partnerships",
+            "quantity": 2.72,
+            "reference": "uu-653",
+            "unit_price": 89.21
+        },
+        {
+            "amount": 17.32,
+            "description": "morph B2C ROI",
+            "quantity": 2.42,
+            "reference": "kG-445",
+            "unit_price": 62.06
+        },
+        {
+            "amount": 468.29,
+            "description": "matrix clicks-and-mortar metrics",
+            "quantity": 9.62,
+            "reference": "Dn-226",
+            "unit_price": 52.44
+        }
+    ],
+    "seller": {
+        "address": "4418 Jacqueline Common Lake Cindytown, DC 18490"
+    },
+    "tax": {
+        "base_ht": 202.39,
+        "regulations": 18.31,
+        "total_ht": 236.85,
+        "vat_amount": 165.57,
+        "vat_percentage": 23.26
+    }
+}

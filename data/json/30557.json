@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "56845 Robert Rapid Suite 532 Anthonyhaven, OR 75081",
+        "company_name": "Dunn-Mitchell",
+        "country": "Uganda",
+        "email": "xgarrett@example.com",
+        "name": "Erica Tran",
+        "phone": "580-581-6727",
+        "vat_no": "BK48661435604"
+    },
+    "invoice": {
+        "date": "09.01.2005",
+        "due_date": "05.11.2010",
+        "linked_invoice": "wr-0477-1485",
+        "notes": "synergize dynamic web services",
+        "number": "cR-1189-3736"
+    },
+    "products": [
+        {
+            "description": "mesh 24/7 markets",
+            "discount_percentage": 12.09,
+            "price": 440.65,
+            "quantity": 3.77,
+            "unit_price": 81.48
+        },
+        {
+            "description": "matrix leading-edge solutions",
+            "discount_percentage": 9.34,
+            "price": 126.27,
+            "quantity": 4.02,
+            "unit_price": 72.68
+        },
+        {
+            "description": "syndicate vertical e-services",
+            "discount_percentage": 12.56,
+            "price": 76.08,
+            "quantity": 5.49,
+            "unit_price": 98.02
+        }
+    ],
+    "seller": {
+        "address": "Unit 5530 Box 4827 DPO AP 85315",
+        "ape": "7123h",
+        "capital": 32078577,
+        "country": "Western Sahara",
+        "email": "mcmillansarah@example.com",
+        "name": "Kristin Melton",
+        "phone_1": "001-406-280-5332x0342",
+        "phone_2": "221-829-1151x08893",
+        "phone_3": "796-838-3851x61339",
+        "ref_walk": "PIIa5810",
+        "reference": "LH641",
+        "siret": 28026420097576,
+        "vat_no": "Iu56684096571",
+        "website": "http://www.maxwell.net/"
+    },
+    "tax": {
+        "amount_0": 17.52,
+        "amount_1": 26.81,
+        "base_0": 24.67,
+        "base_1": 72.58,
+        "total_ht": 451.12,
+        "total_tax": 28.45,
+        "total_ttc": 198.01,
+        "vat_0": 12.93,
+        "vat_1": 24.69
+    }
+}

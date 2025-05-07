@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "6243 Reynolds Groves Rodneyberg, VT 66917",
+        "business_no": "TK198",
+        "id": "GI069"
+    },
+    "invoice": {
+        "date": "25.04.2020",
+        "number": "8003-7788"
+    },
+    "payment": {
+        "due_date": "26.05.2022",
+        "total": 486.01
+    },
+    "products": [
+        {
+            "amount": 245.95,
+            "description": "reinvent rich systems",
+            "quantity": 2.27,
+            "reference": "ZX-028",
+            "unit_price": 72.7
+        },
+        {
+            "amount": 296.6,
+            "description": "exploit front-end action-items",
+            "quantity": 1.05,
+            "reference": "ZD-687",
+            "unit_price": 63.37
+        },
+        {
+            "amount": 81.08,
+            "description": "transition magnetic supply-chains",
+            "quantity": 9.66,
+            "reference": "do-482",
+            "unit_price": 92.82
+        },
+        {
+            "amount": 203.1,
+            "description": "reinvent distributed markets",
+            "quantity": 8.23,
+            "reference": "DO-906",
+            "unit_price": 23.55
+        },
+        {
+            "amount": 97.67,
+            "description": "incentivize scalable functionalities",
+            "quantity": 6.1,
+            "reference": "oi-525",
+            "unit_price": 92.89
+        },
+        {
+            "amount": 239.14,
+            "description": "incubate B2C channels",
+            "quantity": 9.5,
+            "reference": "il-711",
+            "unit_price": 23.63
+        },
+        {
+            "amount": 447.13,
+            "description": "revolutionize visionary ROI",
+            "quantity": 2.37,
+            "reference": "AR-698",
+            "unit_price": 49.36
+        }
+    ],
+    "seller": {
+        "address": "678 Torres Green Apt. 990 Lake Ryan, WY 01811"
+    },
+    "tax": {
+        "base_ht": 173.11,
+        "regulations": 12.16,
+        "total_ht": 364.19,
+        "vat_amount": 117.54,
+        "vat_percentage": 21.58
+    }
+}

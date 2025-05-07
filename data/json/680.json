@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "1759 Long Common Suite 704 Port Angelicaside, MT 93100",
+        "company_name": "Boyd PLC",
+        "country": "Venezuela",
+        "name": "Ronnie Young"
+    },
+    "invoice": {
+        "date": "08.10.2013",
+        "number": 709512
+    },
+    "payment": {
+        "discount_amount": 43.03,
+        "discount_percentage": 19.73,
+        "due": 158.69,
+        "sub_total": 188.46,
+        "total": 416.01
+    },
+    "products": [
+        {
+            "description": "scale extensible web services",
+            "index": "1",
+            "quantity": 9.85,
+            "total_price": 156.35,
+            "unit_price": 90.61
+        },
+        {
+            "description": "iterate bleeding-edge eyeballs",
+            "index": "5",
+            "quantity": 1.06,
+            "total_price": 821.15,
+            "unit_price": 85.2
+        },
+        {
+            "description": "deploy killer e-business",
+            "index": "3",
+            "quantity": 5.04,
+            "total_price": 526.34,
+            "unit_price": 63.34
+        }
+    ],
+    "seller": {
+        "address": "522 Beck Rest Apt. 154 Lake Theresaton, CA 52107",
+        "company_name": "Dennis, Flores and Padilla",
+        "vat_no": "Ns86770024282"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "3991 Brian Locks Suite 366 East Shane, TX 35303",
+        "id": "LM236"
+    },
+    "invoice": {
+        "bc_no": "BP97165",
+        "currency_code": "STD",
+        "date": "01.04.2008",
+        "due_date": "11.02.2009",
+        "number": 785316
+    },
+    "payment": {
+        "bank_name": "Griffin Group",
+        "bic": "FRVSGBK8",
+        "iban": "XROH23282588028432"
+    },
+    "products": [
+        {
+            "amount": 306.85,
+            "description": "architect granular e-markets",
+            "index": "6",
+            "price": 99.5,
+            "quantity": 6.82,
+            "tax_amount": 86.89,
+            "total_ttc": 421.74,
+            "vat_amount": 0.33
+        },
+        {
+            "amount": 429.25,
+            "description": "enhance value-added e-commerce",
+            "index": "1",
+            "price": 164.23,
+            "quantity": 5.64,
+            "tax_amount": 40.99,
+            "total_ttc": 429.94,
+            "vat_amount": 3.32
+        },
+        {
+            "amount": 70.14,
+            "description": "leverage efficient networks",
+            "index": "5",
+            "price": 402.39,
+            "quantity": 4.49,
+            "tax_amount": 31.36,
+            "total_ttc": 299.78,
+            "vat_amount": 6.91
+        }
+    ],
+    "seller": {
+        "name": "Travis Velez"
+    },
+    "supplier": {
+        "address": "1320 Hill Wall Apt. 936 Amandaview, MT 09574",
+        "name": "Charles Riggs"
+    },
+    "tax": {
+        "amount_excluding_tax": 165.05,
+        "amount_including_tax": 93.95,
+        "tax_amount": 21.6,
+        "total_ht": 259.56,
+        "total_ttc": 411.95
+    }
+}

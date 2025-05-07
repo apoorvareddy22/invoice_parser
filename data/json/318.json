@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "059 Adam Row East Brookemouth, TX 42137",
+        "company_name": "Collins-Reyes",
+        "country": "Mayotte",
+        "name": "Mark Smith"
+    },
+    "invoice": {
+        "date": "28.08.2002",
+        "number": 765345
+    },
+    "payment": {
+        "discount_amount": 10.59,
+        "discount_percentage": 15.93,
+        "due": 167.62,
+        "sub_total": 142.8,
+        "total": 949.36
+    },
+    "products": [
+        {
+            "description": "synergize compelling networks",
+            "index": "1",
+            "quantity": 4.87,
+            "total_price": 371.09,
+            "unit_price": 54.29
+        },
+        {
+            "description": "envisioneer visionary channels",
+            "index": "4",
+            "quantity": 3.86,
+            "total_price": 780.15,
+            "unit_price": 71.75
+        },
+        {
+            "description": "re-contextualize strategic functionalities",
+            "index": "4",
+            "quantity": 8.27,
+            "total_price": 16.6,
+            "unit_price": 27.18
+        },
+        {
+            "description": "maximize web-enabled relationships",
+            "index": "10",
+            "quantity": 5.11,
+            "total_price": 284.65,
+            "unit_price": 74.48
+        }
+    ],
+    "seller": {
+        "address": "5874 Kyle Estates Apt. 563 Ramosbury, MI 53698",
+        "company_name": "Patterson, Jacobs and Bennett",
+        "vat_no": "FI79870917680"
+    }
+}

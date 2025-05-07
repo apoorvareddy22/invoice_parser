@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "6093 Lopez Mission New Russell, FL 37794",
+        "id": "mH040"
+    },
+    "invoice": {
+        "bc_no": "kv57777",
+        "currency_code": "SHP",
+        "date": "15.08.2017",
+        "due_date": "25.06.1997",
+        "number": 305487
+    },
+    "payment": {
+        "bank_name": "Miller, Huff and Calderon",
+        "bic": "WJEEGBDPYZG",
+        "iban": "LTBD93169282578774"
+    },
+    "products": [
+        {
+            "amount": 453.33,
+            "description": "expedite robust interfaces",
+            "index": "9",
+            "price": 334.86,
+            "quantity": 4.44,
+            "tax_amount": 16.38,
+            "total_ttc": 173.76,
+            "vat_amount": 2.43
+        },
+        {
+            "amount": 80.89,
+            "description": "facilitate ubiquitous niches",
+            "index": "9",
+            "price": 438.06,
+            "quantity": 5.39,
+            "tax_amount": 26.39,
+            "total_ttc": 432.2,
+            "vat_amount": 4.19
+        },
+        {
+            "amount": 354.51,
+            "description": "matrix global methodologies",
+            "index": "5",
+            "price": 121.1,
+            "quantity": 3.94,
+            "tax_amount": 28.02,
+            "total_ttc": 229.05,
+            "vat_amount": 0.49
+        },
+        {
+            "amount": 400.94,
+            "description": "utilize end-to-end metrics",
+            "index": "6",
+            "price": 397.64,
+            "quantity": 7.51,
+            "tax_amount": 83.28,
+            "total_ttc": 309.62,
+            "vat_amount": 1.03
+        },
+        {
+            "amount": 158.53,
+            "description": "transition user-centric applications",
+            "index": "8",
+            "price": 135.18,
+            "quantity": 6.93,
+            "tax_amount": 58.87,
+            "total_ttc": 289.08,
+            "vat_amount": 2.27
+        },
+        {
+            "amount": 421.86,
+            "description": "harness killer content",
+            "index": "6",
+            "price": 193.79,
+            "quantity": 5.94,
+            "tax_amount": 26.12,
+            "total_ttc": 135.59,
+            "vat_amount": 2.3
+        }
+    ],
+    "seller": {
+        "name": "Thomas Casey"
+    },
+    "supplier": {
+        "address": "727 Ryan Junctions Suite 743 Joneschester, CT 73637",
+        "name": "Allison Miller"
+    },
+    "tax": {
+        "amount_excluding_tax": 145.86,
+        "amount_including_tax": 167.46,
+        "tax_amount": 27.92,
+        "total_ht": 391.55,
+        "total_ttc": 178.92
+    }
+}

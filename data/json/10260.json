@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "25413 Baker Lake Apt. 476 Andrewhaven, KY 48657",
+        "email": "lucasmann@example.net",
+        "phone": "001-721-667-2713x1266",
+        "vat_no": "rs93387651402"
+    },
+    "invoice": {
+        "date": "07.11.1996",
+        "due_date": "09.01.2014",
+        "market_reference": 707306,
+        "notes": "brand best-of-breed convergence",
+        "number": "0137-3111",
+        "reference": 828087,
+        "vat_no": "SA00760912835"
+    },
+    "payment": {
+        "net_total": 187.84,
+        "total": 678.93
+    },
+    "products": [
+        {
+            "amount": 201.15,
+            "description": "grow one-to-one deliverables",
+            "hours": 5.14,
+            "rate": 2.06
+        },
+        {
+            "amount": 119.88,
+            "description": "integrate efficient technologies",
+            "hours": 2.24,
+            "rate": 6.5
+        }
+    ],
+    "seller": {
+        "address": "64467 Holmes River East Christinaton, MO 79441",
+        "email": "christinagreen@example.org",
+        "name": "Daniel Gordon"
+    },
+    "tax": {
+        "base": 13.4,
+        "tax_amount": 29.28,
+        "total_tax": 26.22
+    }
+}

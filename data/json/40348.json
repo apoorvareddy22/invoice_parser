@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "23292 Michelle Heights Apt. 417 Sarahmouth, PW 53885"
+    },
+    "invoice": {
+        "bc_no": "Gt41152",
+        "date": "23.08.2017",
+        "maturity_date": "09.11.2011",
+        "number": 766742
+    },
+    "products": [
+        {
+            "amount": 490.14,
+            "description": "benchmark proactive bandwidth",
+            "quantity": 8.56,
+            "unit_price": 40.31,
+            "vat_amount": 0.73
+        }
+    ],
+    "seller": {
+        "address": "0465 Winters Mission Jonesburgh, HI 96633"
+    },
+    "tax": {
+        "amount_excluding_tax": 139.98,
+        "amount_including_tax": 63.4,
+        "tax_amount": 18.15
+    }
+}

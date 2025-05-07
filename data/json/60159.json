@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "584 Hamilton Streets Apt. 571 East Deborahville, VA 32333",
+        "business_no": "HJ447",
+        "id": "Xy010"
+    },
+    "invoice": {
+        "date": "26.07.2018",
+        "number": "4900-1544"
+    },
+    "payment": {
+        "due_date": "12.11.2013",
+        "total": 959.4
+    },
+    "products": [
+        {
+            "amount": 385.68,
+            "description": "deliver compelling schemas",
+            "quantity": 2.8,
+            "reference": "Qs-452",
+            "unit_price": 99.85
+        },
+        {
+            "amount": 255.76,
+            "description": "aggregate vertical experiences",
+            "quantity": 7.61,
+            "reference": "zG-519",
+            "unit_price": 49.76
+        },
+        {
+            "amount": 123.57,
+            "description": "architect bleeding-edge mindshare",
+            "quantity": 9.31,
+            "reference": "CR-701",
+            "unit_price": 67.79
+        },
+        {
+            "amount": 133.81,
+            "description": "incubate B2B web-readiness",
+            "quantity": 4.34,
+            "reference": "zJ-707",
+            "unit_price": 72.77
+        },
+        {
+            "amount": 309.61,
+            "description": "implement ubiquitous schemas",
+            "quantity": 6.8,
+            "reference": "lT-086",
+            "unit_price": 81.88
+        },
+        {
+            "amount": 374.35,
+            "description": "engage one-to-one convergence",
+            "quantity": 9.04,
+            "reference": "sF-062",
+            "unit_price": 19.04
+        },
+        {
+            "amount": 171.52,
+            "description": "deploy dot-com deliverables",
+            "quantity": 4.6,
+            "reference": "sS-413",
+            "unit_price": 81.6
+        }
+    ],
+    "seller": {
+        "address": "422 Blackburn Junction North Emily, VT 28658"
+    },
+    "tax": {
+        "base_ht": 131.12,
+        "regulations": 25.4,
+        "total_ht": 387.73,
+        "vat_amount": 37.05,
+        "vat_percentage": 25.94
+    }
+}

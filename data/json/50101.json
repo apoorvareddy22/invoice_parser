@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "528 James Locks East Samantha, UT 46908",
+        "id": "VX190"
+    },
+    "invoice": {
+        "bc_no": "iJ49636",
+        "currency_code": "GIP",
+        "date": "06.02.1995",
+        "due_date": "10.10.2017",
+        "number": 522278
+    },
+    "payment": {
+        "bank_name": "Moreno LLC",
+        "bic": "LXRSGB26",
+        "iban": "KDVY63176688659668"
+    },
+    "products": [
+        {
+            "amount": 28.77,
+            "description": "seize best-of-breed platforms",
+            "index": "2",
+            "price": 35.13,
+            "quantity": 7.57,
+            "tax_amount": 33.41,
+            "total_ttc": 441.37,
+            "vat_amount": 0.45
+        },
+        {
+            "amount": 19.17,
+            "description": "implement enterprise relationships",
+            "index": "7",
+            "price": 162.2,
+            "quantity": 4.1,
+            "tax_amount": 74.11,
+            "total_ttc": 489.72,
+            "vat_amount": 11.73
+        },
+        {
+            "amount": 38.53,
+            "description": "optimize clicks-and-mortar applications",
+            "index": "7",
+            "price": 345.91,
+            "quantity": 4.02,
+            "tax_amount": 29.04,
+            "total_ttc": 110.08,
+            "vat_amount": 3.83
+        },
+        {
+            "amount": 248.26,
+            "description": "drive enterprise infrastructures",
+            "index": "9",
+            "price": 451.65,
+            "quantity": 1.03,
+            "tax_amount": 60.92,
+            "total_ttc": 442.64,
+            "vat_amount": 1.87
+        },
+        {
+            "amount": 383.89,
+            "description": "integrate granular partnerships",
+            "index": "4",
+            "price": 427.57,
+            "quantity": 7.92,
+            "tax_amount": 15.84,
+            "total_ttc": 392.59,
+            "vat_amount": 7.17
+        },
+        {
+            "amount": 227.57,
+            "description": "deploy dynamic initiatives",
+            "index": "3",
+            "price": 135.1,
+            "quantity": 6.11,
+            "tax_amount": 84.37,
+            "total_ttc": 416.84,
+            "vat_amount": 2.22
+        }
+    ],
+    "seller": {
+        "name": "Nathaniel Robinson"
+    },
+    "supplier": {
+        "address": "84024 Michael Station Apt. 099 Gutierrezland, GU 79459",
+        "name": "Paul Lopez"
+    },
+    "tax": {
+        "amount_excluding_tax": 56.9,
+        "amount_including_tax": 38.32,
+        "tax_amount": 26.15,
+        "total_ht": 488.18,
+        "total_ttc": 206.61
+    }
+}

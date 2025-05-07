@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "8016 Kennedy Locks Suite 978 Port Amanda, LA 28414",
+        "company_name": "Davila, Lucas and Wright",
+        "country": "Panama",
+        "name": "Joshua Spencer"
+    },
+    "invoice": {
+        "date": "20.07.2017",
+        "number": 113487
+    },
+    "payment": {
+        "discount_amount": 17.47,
+        "discount_percentage": 14.08,
+        "due": 172.61,
+        "sub_total": 180.83,
+        "total": 224.59
+    },
+    "products": [
+        {
+            "description": "revolutionize dot-com e-markets",
+            "index": "6",
+            "quantity": 1.78,
+            "total_price": 537.84,
+            "unit_price": 76.02
+        },
+        {
+            "description": "engineer bricks-and-clicks relationships",
+            "index": "7",
+            "quantity": 1.25,
+            "total_price": 649.17,
+            "unit_price": 57.27
+        }
+    ],
+    "seller": {
+        "address": "386 Andrea Pines Apt. 501 West Scott, IN 17371",
+        "company_name": "Garza-Adams",
+        "vat_no": "wX70208204809"
+    }
+}

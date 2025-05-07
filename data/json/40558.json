@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "2415 Amanda Courts Apt. 387 Johnsonberg, OR 80872"
+    },
+    "invoice": {
+        "bc_no": "Pe19360",
+        "date": "14.07.2010",
+        "maturity_date": "08.11.2021",
+        "number": 841041
+    },
+    "products": [
+        {
+            "amount": 296.92,
+            "description": "innovate B2B action-items",
+            "quantity": 7.61,
+            "unit_price": 66.51,
+            "vat_amount": 8.49
+        },
+        {
+            "amount": 428.71,
+            "description": "engineer back-end vortals",
+            "quantity": 1.85,
+            "unit_price": 84.25,
+            "vat_amount": 8.4
+        },
+        {
+            "amount": 319.95,
+            "description": "synergize innovative networks",
+            "quantity": 1.02,
+            "unit_price": 95.65,
+            "vat_amount": 7.32
+        }
+    ],
+    "seller": {
+        "address": "PSC 0431, Box 2835 APO AP 31780"
+    },
+    "tax": {
+        "amount_excluding_tax": 173.53,
+        "amount_including_tax": 172.85,
+        "tax_amount": 25.68
+    }
+}

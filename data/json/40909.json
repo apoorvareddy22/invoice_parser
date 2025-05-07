@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "90946 Porter Ford West Cynthiaville, MI 08724"
+    },
+    "invoice": {
+        "bc_no": "Fe00196",
+        "date": "07.12.2002",
+        "maturity_date": "12.12.2021",
+        "number": 839151
+    },
+    "products": [
+        {
+            "amount": 457.83,
+            "description": "evolve integrated metrics",
+            "quantity": 6.04,
+            "unit_price": 10.08,
+            "vat_amount": 6.91
+        },
+        {
+            "amount": 494.22,
+            "description": "implement scalable content",
+            "quantity": 3.96,
+            "unit_price": 63.34,
+            "vat_amount": 7.21
+        }
+    ],
+    "seller": {
+        "address": "33399 Shepherd Road New Rebeccaborough, LA 83185"
+    },
+    "tax": {
+        "amount_excluding_tax": 28.44,
+        "amount_including_tax": 109.14,
+        "tax_amount": 18.2
+    }
+}

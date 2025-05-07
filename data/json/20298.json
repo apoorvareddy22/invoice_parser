@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "50047 Newman Forks Williammouth, OR 50944",
+        "company_name": "Avila-Turner",
+        "email": "woodbruce@example.org",
+        "name": "Lisa Scott",
+        "phone": "+1-514-825-5575x083"
+    },
+    "invoice": {
+        "date": "18.09.1999",
+        "due_date": "21.03.2012",
+        "number": "NQG53883408272"
+    },
+    "payment": {
+        "account_number": 5207438045,
+        "bank_name": "Frost PLC",
+        "routing_number": 531359741
+    },
+    "products": [
+        {
+            "amount": 275.48,
+            "description": "mesh real-time convergence",
+            "index": "7",
+            "quantity": 2.47,
+            "unit_price": 85.63
+        }
+    ],
+    "seller": {
+        "address": "531 Brown Extensions Bakerburgh, TN 30428",
+        "company_name": "Mahoney-Robertson",
+        "email": "thomas71@example.net"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "319 Nunez Heights Apt. 339 East Robert, MH 89774",
+        "email": "robert73@example.org",
+        "phone": "7298967235",
+        "vat_no": "NW67330773673"
+    },
+    "invoice": {
+        "date": "31.05.1995",
+        "due_date": "29.04.2010",
+        "market_reference": 782640,
+        "notes": "evolve back-end content",
+        "number": "9110-3808",
+        "reference": 363203,
+        "vat_no": "mC91205083764"
+    },
+    "payment": {
+        "net_total": 150.55,
+        "total": 408.8
+    },
+    "products": [
+        {
+            "amount": 127.8,
+            "description": "transform leading-edge methodologies",
+            "hours": 8.06,
+            "rate": 3.61
+        },
+        {
+            "amount": 39.41,
+            "description": "deploy value-added web services",
+            "hours": 7.58,
+            "rate": 3.18
+        },
+        {
+            "amount": 123.4,
+            "description": "reinvent enterprise users",
+            "hours": 7.45,
+            "rate": 3.78
+        },
+        {
+            "amount": 471.88,
+            "description": "redefine granular markets",
+            "hours": 5.34,
+            "rate": 6.43
+        },
+        {
+            "amount": 284.38,
+            "description": "engineer cutting-edge content",
+            "hours": 1.28,
+            "rate": 1.35
+        },
+        {
+            "amount": 393.39,
+            "description": "maximize killer architectures",
+            "hours": 7.14,
+            "rate": 2.98
+        },
+        {
+            "amount": 363.65,
+            "description": "implement killer web-readiness",
+            "hours": 3.07,
+            "rate": 1.42
+        }
+    ],
+    "seller": {
+        "address": "87778 Timothy Mews Suite 552 Port Jeffrey, PA 89243",
+        "email": "lgrant@example.org",
+        "name": "Brandi Quinn"
+    },
+    "tax": {
+        "base": 10.92,
+        "tax_amount": 13.21,
+        "total_tax": 12.85
+    }
+}

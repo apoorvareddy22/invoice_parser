@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "1901 Hoffman Ranch Suite 710 West Jonport, SD 15204",
+        "email": "courtneyashley@example.net",
+        "phone": "001-917-745-7232x64197",
+        "vat_no": "av06418950088"
+    },
+    "invoice": {
+        "date": "15.12.2006",
+        "due_date": "17.07.2011",
+        "market_reference": 695457,
+        "notes": "transition ubiquitous systems",
+        "number": "9668-8581",
+        "reference": 938504,
+        "vat_no": "zV61662349934"
+    },
+    "payment": {
+        "net_total": 80.88,
+        "total": 532.35
+    },
+    "products": [
+        {
+            "amount": 158.02,
+            "description": "re-intermediate compelling vortals",
+            "hours": 2.25,
+            "rate": 8.04
+        },
+        {
+            "amount": 183.62,
+            "description": "revolutionize front-end portals",
+            "hours": 7.81,
+            "rate": 1.93
+        }
+    ],
+    "seller": {
+        "address": "03076 Brian Manor North Debra, LA 94763",
+        "email": "jsmith@example.com",
+        "name": "Kevin Cochran"
+    },
+    "tax": {
+        "base": 23.15,
+        "tax_amount": 23.3,
+        "total_tax": 23.76
+    }
+}

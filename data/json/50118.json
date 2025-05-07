@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "2373 Richard Plaza Port Kristinborough, FL 18634",
+        "id": "QI645"
+    },
+    "invoice": {
+        "bc_no": "ix82546",
+        "currency_code": "CLP",
+        "date": "19.08.2020",
+        "due_date": "27.11.2011",
+        "number": 866877
+    },
+    "payment": {
+        "bank_name": "Mahoney, Wolfe and Ferrell",
+        "bic": "ARLDGB7IJOI",
+        "iban": "CBEQ95430906075224"
+    },
+    "products": [
+        {
+            "amount": 300.67,
+            "description": "re-intermediate turn-key web services",
+            "index": "10",
+            "price": 270.22,
+            "quantity": 3.22,
+            "tax_amount": 67.87,
+            "total_ttc": 220.74,
+            "vat_amount": 9.84
+        },
+        {
+            "amount": 49.32,
+            "description": "drive open-source methodologies",
+            "index": "9",
+            "price": 361.25,
+            "quantity": 4.51,
+            "tax_amount": 60.33,
+            "total_ttc": 477.41,
+            "vat_amount": 2.09
+        },
+        {
+            "amount": 52.22,
+            "description": "exploit dynamic applications",
+            "index": "8",
+            "price": 370.0,
+            "quantity": 2.52,
+            "tax_amount": 89.03,
+            "total_ttc": 417.1,
+            "vat_amount": 0.97
+        }
+    ],
+    "seller": {
+        "name": "Sarah Morris"
+    },
+    "supplier": {
+        "address": "32315 Jason River East Robertchester, AL 58179",
+        "name": "Sean Jones"
+    },
+    "tax": {
+        "amount_excluding_tax": 11.85,
+        "amount_including_tax": 152.09,
+        "tax_amount": 29.2,
+        "total_ht": 438.26,
+        "total_ttc": 345.21
+    }
+}

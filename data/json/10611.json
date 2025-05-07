@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "87317 Robert Port Suite 276 Clarkbury, NJ 93434",
+        "email": "ivelazquez@example.com",
+        "phone": "+1-204-801-0743x15443",
+        "vat_no": "HF72960431090"
+    },
+    "invoice": {
+        "date": "16.07.2008",
+        "due_date": "18.03.2016",
+        "market_reference": 123259,
+        "notes": "maximize ubiquitous info-mediaries",
+        "number": "0779-3003",
+        "reference": 175115,
+        "vat_no": "AZ24778290957"
+    },
+    "payment": {
+        "net_total": 106.44,
+        "total": 246.1
+    },
+    "products": [
+        {
+            "amount": 61.15,
+            "description": "monetize clicks-and-mortar e-tailers",
+            "hours": 6.01,
+            "rate": 2.43
+        },
+        {
+            "amount": 185.45,
+            "description": "cultivate end-to-end interfaces",
+            "hours": 6.26,
+            "rate": 4.85
+        },
+        {
+            "amount": 51.51,
+            "description": "visualize one-to-one solutions",
+            "hours": 4.94,
+            "rate": 8.48
+        }
+    ],
+    "seller": {
+        "address": "1288 Timothy Haven Apt. 612 Jeffreyfurt, KS 92177",
+        "email": "jerrywalker@example.net",
+        "name": "Andrew Steele"
+    },
+    "tax": {
+        "base": 29.27,
+        "tax_amount": 25.84,
+        "total_tax": 10.98
+    }
+}

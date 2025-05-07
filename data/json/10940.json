@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "98609 Wayne Corners Andrewview, OK 77191",
+        "email": "joshua34@example.net",
+        "phone": "001-306-524-4563x5011",
+        "vat_no": "WU45512710486"
+    },
+    "invoice": {
+        "date": "28.12.1998",
+        "due_date": "07.09.2011",
+        "market_reference": 877318,
+        "notes": "deploy enterprise technologies",
+        "number": "2448-1231",
+        "reference": 957925,
+        "vat_no": "xg47437650264"
+    },
+    "payment": {
+        "net_total": 193.18,
+        "total": 734.32
+    },
+    "products": [
+        {
+            "amount": 34.0,
+            "description": "utilize B2B experiences",
+            "hours": 3.85,
+            "rate": 7.9
+        },
+        {
+            "amount": 481.77,
+            "description": "leverage cross-media deliverables",
+            "hours": 8.76,
+            "rate": 6.04
+        },
+        {
+            "amount": 261.99,
+            "description": "leverage sticky content",
+            "hours": 4.32,
+            "rate": 1.15
+        }
+    ],
+    "seller": {
+        "address": "PSC 7944, Box 8742 APO AP 17085",
+        "email": "andersonandrew@example.org",
+        "name": "Nathan Daniels"
+    },
+    "tax": {
+        "base": 19.84,
+        "tax_amount": 15.27,
+        "total_tax": 17.61
+    }
+}

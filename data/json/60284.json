@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "1456 Bruce Loop Owensmouth, OK 91684",
+        "business_no": "sa453",
+        "id": "Ga442"
+    },
+    "invoice": {
+        "date": "27.09.2021",
+        "number": "3597-2001"
+    },
+    "payment": {
+        "due_date": "13.10.2015",
+        "total": 754.55
+    },
+    "products": [
+        {
+            "amount": 46.42,
+            "description": "enable viral web-readiness",
+            "quantity": 8.81,
+            "reference": "OA-827",
+            "unit_price": 89.9
+        },
+        {
+            "amount": 123.57,
+            "description": "whiteboard end-to-end users",
+            "quantity": 8.46,
+            "reference": "JX-306",
+            "unit_price": 59.95
+        }
+    ],
+    "seller": {
+        "address": "3945 Paul Wall Suite 140 North Mary, MO 36593"
+    },
+    "tax": {
+        "base_ht": 400.51,
+        "regulations": 14.66,
+        "total_ht": 108.97,
+        "vat_amount": 177.31,
+        "vat_percentage": 10.28
+    }
+}

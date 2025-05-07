@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "2225 James Track Michaelfurt, MT 13348",
+        "id": "TD093"
+    },
+    "invoice": {
+        "bc_no": "Ue76756",
+        "currency_code": "ZMW",
+        "date": "21.08.2010",
+        "due_date": "07.02.2015",
+        "number": 812494
+    },
+    "payment": {
+        "bank_name": "Tyler, Foster and Davis",
+        "bic": "GAXVGBTT",
+        "iban": "MEYF77415657434693"
+    },
+    "products": [
+        {
+            "amount": 480.09,
+            "description": "aggregate efficient methodologies",
+            "index": "5",
+            "price": 307.52,
+            "quantity": 6.18,
+            "tax_amount": 56.9,
+            "total_ttc": 356.09,
+            "vat_amount": 6.65
+        },
+        {
+            "amount": 273.05,
+            "description": "maximize cross-media deliverables",
+            "index": "5",
+            "price": 180.34,
+            "quantity": 9.59,
+            "tax_amount": 77.54,
+            "total_ttc": 414.96,
+            "vat_amount": 1.69
+        },
+        {
+            "amount": 301.24,
+            "description": "enable turn-key relationships",
+            "index": "2",
+            "price": 355.54,
+            "quantity": 6.61,
+            "tax_amount": 87.77,
+            "total_ttc": 442.66,
+            "vat_amount": 4.31
+        },
+        {
+            "amount": 402.38,
+            "description": "benchmark distributed web-readiness",
+            "index": "3",
+            "price": 221.39,
+            "quantity": 9.66,
+            "tax_amount": 98.58,
+            "total_ttc": 293.29,
+            "vat_amount": 7.77
+        }
+    ],
+    "seller": {
+        "name": "Zachary Fisher"
+    },
+    "supplier": {
+        "address": "2870 Herrera Roads Williamland, WV 60489",
+        "name": "Katelyn Adams"
+    },
+    "tax": {
+        "amount_excluding_tax": 11.96,
+        "amount_including_tax": 153.92,
+        "tax_amount": 11.9,
+        "total_ht": 242.18,
+        "total_ttc": 132.62
+    }
+}

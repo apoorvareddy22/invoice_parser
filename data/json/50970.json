@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "779 Barry Loop Lake Michael, GU 77938",
+        "id": "ux051"
+    },
+    "invoice": {
+        "bc_no": "MN64724",
+        "currency_code": "BBD",
+        "date": "23.04.1995",
+        "due_date": "03.03.2021",
+        "number": 211989
+    },
+    "payment": {
+        "bank_name": "Case, Shea and Lara",
+        "bic": "LCLBGBKYVWE",
+        "iban": "WLKW50227085833490"
+    },
+    "products": [
+        {
+            "amount": 282.98,
+            "description": "iterate robust synergies",
+            "index": "2",
+            "price": 499.87,
+            "quantity": 7.89,
+            "tax_amount": 62.73,
+            "total_ttc": 147.54,
+            "vat_amount": 6.16
+        },
+        {
+            "amount": 258.47,
+            "description": "revolutionize compelling portals",
+            "index": "6",
+            "price": 62.75,
+            "quantity": 9.14,
+            "tax_amount": 79.38,
+            "total_ttc": 355.04,
+            "vat_amount": 4.75
+        },
+        {
+            "amount": 5.78,
+            "description": "grow best-of-breed infrastructures",
+            "index": "7",
+            "price": 54.13,
+            "quantity": 9.33,
+            "tax_amount": 37.4,
+            "total_ttc": 482.82,
+            "vat_amount": 10.89
+        },
+        {
+            "amount": 138.86,
+            "description": "enhance viral solutions",
+            "index": "10",
+            "price": 200.88,
+            "quantity": 6.44,
+            "tax_amount": 78.27,
+            "total_ttc": 299.05,
+            "vat_amount": 6.7
+        },
+        {
+            "amount": 122.05,
+            "description": "embrace e-business web-readiness",
+            "index": "5",
+            "price": 364.43,
+            "quantity": 4.78,
+            "tax_amount": 27.6,
+            "total_ttc": 246.73,
+            "vat_amount": 2.92
+        },
+        {
+            "amount": 23.93,
+            "description": "deliver dot-com methodologies",
+            "index": "5",
+            "price": 325.95,
+            "quantity": 3.2,
+            "tax_amount": 96.15,
+            "total_ttc": 434.6,
+            "vat_amount": 3.75
+        }
+    ],
+    "seller": {
+        "name": "Jacob Russell"
+    },
+    "supplier": {
+        "address": "65055 Kimberly Pine Matthewberg, NH 96092",
+        "name": "Todd Wright"
+    },
+    "tax": {
+        "amount_excluding_tax": 13.06,
+        "amount_including_tax": 163.69,
+        "tax_amount": 29.79,
+        "total_ht": 237.96,
+        "total_ttc": 292.6
+    }
+}

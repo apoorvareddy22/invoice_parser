@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "880 Harmon Springs Suite 017 Lake Donald, MS 94503",
+        "id": "cU816"
+    },
+    "invoice": {
+        "bc_no": "vd33698",
+        "currency_code": "NIO",
+        "date": "24.10.2000",
+        "due_date": "14.05.2020",
+        "number": 472068
+    },
+    "payment": {
+        "bank_name": "Johnson, Schmitt and Morales",
+        "bic": "BGIJGBY3",
+        "iban": "HVBI03244663846616"
+    },
+    "products": [
+        {
+            "amount": 171.58,
+            "description": "generate efficient infrastructures",
+            "index": "6",
+            "price": 7.43,
+            "quantity": 4.87,
+            "tax_amount": 27.74,
+            "total_ttc": 496.03,
+            "vat_amount": 1.84
+        },
+        {
+            "amount": 348.06,
+            "description": "optimize compelling vortals",
+            "index": "10",
+            "price": 490.99,
+            "quantity": 8.86,
+            "tax_amount": 71.33,
+            "total_ttc": 378.7,
+            "vat_amount": 13.81
+        },
+        {
+            "amount": 16.96,
+            "description": "e-enable synergistic bandwidth",
+            "index": "1",
+            "price": 341.12,
+            "quantity": 2.51,
+            "tax_amount": 80.07,
+            "total_ttc": 263.16,
+            "vat_amount": 2.07
+        }
+    ],
+    "seller": {
+        "name": "William Miller"
+    },
+    "supplier": {
+        "address": "4809 Mason Landing Apt. 606 Jessicaton, WA 29284",
+        "name": "Rachel Murphy"
+    },
+    "tax": {
+        "amount_excluding_tax": 43.75,
+        "amount_including_tax": 54.72,
+        "tax_amount": 26.99,
+        "total_ht": 251.85,
+        "total_ttc": 203.23
+    }
+}

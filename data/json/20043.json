@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "64823 Donaldson Station Suite 268 West Jodymouth, AK 93548",
+        "company_name": "May, Thompson and Barron",
+        "email": "stephaniegreene@example.com",
+        "name": "Teresa Campbell",
+        "phone": "570-640-2321x051"
+    },
+    "invoice": {
+        "date": "17.09.1992",
+        "due_date": "21.04.1998",
+        "number": "HFo46402183570"
+    },
+    "payment": {
+        "account_number": 4851117173,
+        "bank_name": "Brown-Mayer",
+        "routing_number": 935448587
+    },
+    "products": [
+        {
+            "amount": 88.22,
+            "description": "grow rich metrics",
+            "index": "9",
+            "quantity": 1.55,
+            "unit_price": 73.8
+        },
+        {
+            "amount": 175.33,
+            "description": "monetize web-enabled functionalities",
+            "index": "9",
+            "quantity": 1.88,
+            "unit_price": 97.33
+        },
+        {
+            "amount": 438.28,
+            "description": "deploy front-end architectures",
+            "index": "7",
+            "quantity": 2.02,
+            "unit_price": 31.45
+        },
+        {
+            "amount": 192.84,
+            "description": "expedite back-end systems",
+            "index": "10",
+            "quantity": 6.69,
+            "unit_price": 40.45
+        }
+    ],
+    "seller": {
+        "address": "530 Johnson Gateway South Cindy, FM 75442",
+        "company_name": "Steele, Thornton and Pierce",
+        "email": "ngreene@example.org"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "1410 Shelley Lodge Davisville, DE 57319",
+        "business_no": "IR219",
+        "id": "Te942"
+    },
+    "invoice": {
+        "date": "17.03.1994",
+        "number": "2637-4913"
+    },
+    "payment": {
+        "due_date": "17.03.2022",
+        "total": 641.32
+    },
+    "products": [
+        {
+            "amount": 315.14,
+            "description": "visualize seamless relationships",
+            "quantity": 3.25,
+            "reference": "fx-063",
+            "unit_price": 29.23
+        },
+        {
+            "amount": 248.73,
+            "description": "engineer extensible methodologies",
+            "quantity": 6.62,
+            "reference": "IG-396",
+            "unit_price": 65.28
+        },
+        {
+            "amount": 226.38,
+            "description": "repurpose global markets",
+            "quantity": 2.21,
+            "reference": "nb-430",
+            "unit_price": 91.81
+        }
+    ],
+    "seller": {
+        "address": "5134 Moyer Isle Zacharyborough, SD 05177"
+    },
+    "tax": {
+        "base_ht": 383.28,
+        "regulations": 25.14,
+        "total_ht": 132.85,
+        "vat_amount": 76.64,
+        "vat_percentage": 11.36
+    }
+}

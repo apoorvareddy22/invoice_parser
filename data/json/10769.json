@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "Unit 9202 Box 4563 DPO AP 87773",
+        "email": "howardjasmine@example.org",
+        "phone": "+1-621-595-5325x3748",
+        "vat_no": "TD46523961301"
+    },
+    "invoice": {
+        "date": "11.10.2008",
+        "due_date": "16.02.1994",
+        "market_reference": 498345,
+        "notes": "seize e-business paradigms",
+        "number": "2309-5553",
+        "reference": 740745,
+        "vat_no": "uL13610048491"
+    },
+    "payment": {
+        "net_total": 110.9,
+        "total": 992.66
+    },
+    "products": [
+        {
+            "amount": 254.12,
+            "description": "redefine seamless markets",
+            "hours": 2.27,
+            "rate": 8.04
+        }
+    ],
+    "seller": {
+        "address": "230 Regina Junction Jesseville, NE 43983",
+        "email": "hannacory@example.com",
+        "name": "Megan Kelley"
+    },
+    "tax": {
+        "base": 15.48,
+        "tax_amount": 13.72,
+        "total_tax": 25.39
+    }
+}

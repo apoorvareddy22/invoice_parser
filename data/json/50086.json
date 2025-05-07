@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "2742 Moreno Knoll Suite 355 Elizabethside, MD 33120",
+        "id": "Gw806"
+    },
+    "invoice": {
+        "bc_no": "Uk94934",
+        "currency_code": "KZT",
+        "date": "03.02.1990",
+        "due_date": "28.11.2016",
+        "number": 763824
+    },
+    "payment": {
+        "bank_name": "Martinez Group",
+        "bic": "YOGBGBOQ",
+        "iban": "EDZV96433974942868"
+    },
+    "products": [
+        {
+            "amount": 191.59,
+            "description": "integrate cross-media e-commerce",
+            "index": "2",
+            "price": 496.87,
+            "quantity": 7.51,
+            "tax_amount": 71.53,
+            "total_ttc": 497.03,
+            "vat_amount": 4.37
+        },
+        {
+            "amount": 306.8,
+            "description": "deploy transparent initiatives",
+            "index": "1",
+            "price": 60.37,
+            "quantity": 8.33,
+            "tax_amount": 15.52,
+            "total_ttc": 471.81,
+            "vat_amount": 9.5
+        },
+        {
+            "amount": 259.49,
+            "description": "envisioneer rich markets",
+            "index": "9",
+            "price": 489.14,
+            "quantity": 2.7,
+            "tax_amount": 36.22,
+            "total_ttc": 335.45,
+            "vat_amount": 13.61
+        }
+    ],
+    "seller": {
+        "name": "Stephanie Coffey"
+    },
+    "supplier": {
+        "address": "176 Lindsay Street Apt. 782 New Kari, VI 04003",
+        "name": "Jeffrey Fowler"
+    },
+    "tax": {
+        "amount_excluding_tax": 166.89,
+        "amount_including_tax": 69.89,
+        "tax_amount": 21.3,
+        "total_ht": 298.46,
+        "total_ttc": 312.7
+    }
+}

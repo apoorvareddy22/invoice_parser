@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "565 Johnson Prairie Apt. 343 Lucasberg, NC 69068",
+        "id": "ie438"
+    },
+    "invoice": {
+        "bc_no": "Kj07149",
+        "currency_code": "ZWD",
+        "date": "11.07.2017",
+        "due_date": "01.02.2022",
+        "number": 583659
+    },
+    "payment": {
+        "bank_name": "Bradley-Blanchard",
+        "bic": "PZBQGBYW",
+        "iban": "TZLX33781968141844"
+    },
+    "products": [
+        {
+            "amount": 463.17,
+            "description": "re-intermediate leading-edge mindshare",
+            "index": "7",
+            "price": 244.27,
+            "quantity": 2.51,
+            "tax_amount": 88.07,
+            "total_ttc": 442.43,
+            "vat_amount": 12.08
+        },
+        {
+            "amount": 241.3,
+            "description": "implement customized schemas",
+            "index": "8",
+            "price": 392.06,
+            "quantity": 1.87,
+            "tax_amount": 39.65,
+            "total_ttc": 396.94,
+            "vat_amount": 12.71
+        },
+        {
+            "amount": 423.31,
+            "description": "streamline 24/7 e-services",
+            "index": "10",
+            "price": 259.28,
+            "quantity": 1.85,
+            "tax_amount": 62.19,
+            "total_ttc": 348.02,
+            "vat_amount": 7.91
+        },
+        {
+            "amount": 204.11,
+            "description": "deliver compelling channels",
+            "index": "7",
+            "price": 498.96,
+            "quantity": 6.16,
+            "tax_amount": 33.86,
+            "total_ttc": 193.71,
+            "vat_amount": 0.77
+        },
+        {
+            "amount": 240.56,
+            "description": "matrix proactive info-mediaries",
+            "index": "6",
+            "price": 207.27,
+            "quantity": 6.53,
+            "tax_amount": 30.88,
+            "total_ttc": 385.51,
+            "vat_amount": 2.8
+        }
+    ],
+    "seller": {
+        "name": "Chad Cook"
+    },
+    "supplier": {
+        "address": "12181 Katrina Station Suite 800 East Jessica, PA 14356",
+        "name": "Brian Robertson"
+    },
+    "tax": {
+        "amount_excluding_tax": 165.07,
+        "amount_including_tax": 192.47,
+        "tax_amount": 19.71,
+        "total_ht": 323.38,
+        "total_ttc": 267.33
+    }
+}

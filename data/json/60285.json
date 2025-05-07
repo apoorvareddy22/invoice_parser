@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "39362 Parks Loop Suite 262 Jenniferview, TX 28431",
+        "business_no": "bB929",
+        "id": "cy279"
+    },
+    "invoice": {
+        "date": "05.10.2019",
+        "number": "5683-3316"
+    },
+    "payment": {
+        "due_date": "02.11.1998",
+        "total": 515.28
+    },
+    "products": [
+        {
+            "amount": 343.66,
+            "description": "scale integrated communities",
+            "quantity": 2.73,
+            "reference": "va-057",
+            "unit_price": 90.68
+        },
+        {
+            "amount": 136.62,
+            "description": "visualize next-generation synergies",
+            "quantity": 2.71,
+            "reference": "sy-835",
+            "unit_price": 38.74
+        }
+    ],
+    "seller": {
+        "address": "Unit 9597 Box 0867 DPO AP 71334"
+    },
+    "tax": {
+        "base_ht": 439.27,
+        "regulations": 29.36,
+        "total_ht": 197.76,
+        "vat_amount": 89.15,
+        "vat_percentage": 26.02
+    }
+}

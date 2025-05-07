@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "612 Wright Lane Whiteland, MP 33893",
+        "business_no": "ld268",
+        "id": "Cl238"
+    },
+    "invoice": {
+        "date": "29.05.2013",
+        "number": "1480-1227"
+    },
+    "payment": {
+        "due_date": "10.09.1992",
+        "total": 174.29
+    },
+    "products": [
+        {
+            "amount": 52.5,
+            "description": "brand intuitive solutions",
+            "quantity": 4.76,
+            "reference": "ga-452",
+            "unit_price": 79.01
+        },
+        {
+            "amount": 453.18,
+            "description": "re-contextualize granular web services",
+            "quantity": 4.77,
+            "reference": "RZ-088",
+            "unit_price": 61.52
+        },
+        {
+            "amount": 475.69,
+            "description": "matrix magnetic web services",
+            "quantity": 2.28,
+            "reference": "oR-719",
+            "unit_price": 21.93
+        },
+        {
+            "amount": 371.47,
+            "description": "facilitate interactive convergence",
+            "quantity": 9.37,
+            "reference": "Cs-413",
+            "unit_price": 22.62
+        },
+        {
+            "amount": 263.78,
+            "description": "redefine rich technologies",
+            "quantity": 2.89,
+            "reference": "IG-808",
+            "unit_price": 41.41
+        },
+        {
+            "amount": 204.72,
+            "description": "facilitate viral content",
+            "quantity": 2.35,
+            "reference": "oq-041",
+            "unit_price": 26.81
+        }
+    ],
+    "seller": {
+        "address": "USNS Phillips FPO AP 39148"
+    },
+    "tax": {
+        "base_ht": 429.98,
+        "regulations": 26.41,
+        "total_ht": 400.94,
+        "vat_amount": 57.04,
+        "vat_percentage": 25.16
+    }
+}

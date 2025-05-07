@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "3676 Sheri Terrace West Amyfurt, IN 99498",
+        "email": "leslie15@example.org",
+        "phone": "431-463-7003",
+        "vat_no": "jw14454496982"
+    },
+    "invoice": {
+        "date": "09.09.2001",
+        "due_date": "24.06.2016",
+        "market_reference": 310410,
+        "notes": "reinvent scalable e-commerce",
+        "number": "6980-5017",
+        "reference": 463664,
+        "vat_no": "xt45789110400"
+    },
+    "payment": {
+        "net_total": 46.85,
+        "total": 491.35
+    },
+    "products": [
+        {
+            "amount": 209.06,
+            "description": "seize value-added schemas",
+            "hours": 8.23,
+            "rate": 9.86
+        },
+        {
+            "amount": 166.43,
+            "description": "seize web-enabled platforms",
+            "hours": 4.28,
+            "rate": 6.89
+        },
+        {
+            "amount": 127.86,
+            "description": "monetize vertical partnerships",
+            "hours": 6.06,
+            "rate": 5.88
+        },
+        {
+            "amount": 223.14,
+            "description": "embrace user-centric eyeballs",
+            "hours": 2.7,
+            "rate": 5.45
+        },
+        {
+            "amount": 252.63,
+            "description": "evolve seamless supply-chains",
+            "hours": 1.4,
+            "rate": 6.03
+        },
+        {
+            "amount": 224.95,
+            "description": "seize integrated e-services",
+            "hours": 8.47,
+            "rate": 2.81
+        },
+        {
+            "amount": 149.37,
+            "description": "streamline sticky methodologies",
+            "hours": 4.38,
+            "rate": 4.46
+        }
+    ],
+    "seller": {
+        "address": "704 Emily Hollow Apt. 297 Michaelmouth, NJ 94003",
+        "email": "xdodson@example.org",
+        "name": "Dave Johnson"
+    },
+    "tax": {
+        "base": 18.06,
+        "tax_amount": 16.02,
+        "total_tax": 10.42
+    }
+}

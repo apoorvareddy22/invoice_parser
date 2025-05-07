@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "8012 Powell Meadows Suite 997 West David, NY 09317",
+        "business_no": "ZT917",
+        "id": "sG151"
+    },
+    "invoice": {
+        "date": "01.09.2003",
+        "number": "9932-8937"
+    },
+    "payment": {
+        "due_date": "07.11.1995",
+        "total": 178.5
+    },
+    "products": [
+        {
+            "amount": 52.04,
+            "description": "architect rich bandwidth",
+            "quantity": 3.43,
+            "reference": "TW-562",
+            "unit_price": 74.48
+        },
+        {
+            "amount": 448.07,
+            "description": "productize best-of-breed models",
+            "quantity": 5.55,
+            "reference": "UL-642",
+            "unit_price": 62.58
+        },
+        {
+            "amount": 72.56,
+            "description": "mesh synergistic e-tailers",
+            "quantity": 1.36,
+            "reference": "pd-867",
+            "unit_price": 44.39
+        },
+        {
+            "amount": 165.18,
+            "description": "integrate B2B bandwidth",
+            "quantity": 4.91,
+            "reference": "Fy-518",
+            "unit_price": 64.22
+        },
+        {
+            "amount": 35.0,
+            "description": "evolve vertical deliverables",
+            "quantity": 7.14,
+            "reference": "Rn-235",
+            "unit_price": 52.75
+        },
+        {
+            "amount": 326.9,
+            "description": "revolutionize 24/365 users",
+            "quantity": 5.22,
+            "reference": "Pr-145",
+            "unit_price": 63.32
+        },
+        {
+            "amount": 40.99,
+            "description": "unleash integrated infrastructures",
+            "quantity": 2.67,
+            "reference": "yt-314",
+            "unit_price": 66.27
+        }
+    ],
+    "seller": {
+        "address": "76897 White Meadow Suite 618 Michaelside, AL 05864"
+    },
+    "tax": {
+        "base_ht": 181.18,
+        "regulations": 29.91,
+        "total_ht": 297.49,
+        "vat_amount": 103.46,
+        "vat_percentage": 21.26
+    }
+}

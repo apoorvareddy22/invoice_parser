@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "88790 Wilson Mission South Stephanie, MT 68503",
+        "id": "tS841"
+    },
+    "invoice": {
+        "bc_no": "Ww50483",
+        "currency_code": "BWP",
+        "date": "31.10.2010",
+        "due_date": "26.10.2019",
+        "number": 647816
+    },
+    "payment": {
+        "bank_name": "Kim PLC",
+        "bic": "RGDZGBMXNS7",
+        "iban": "ZJLC18978914573065"
+    },
+    "products": [
+        {
+            "amount": 323.38,
+            "description": "cultivate intuitive e-commerce",
+            "index": "1",
+            "price": 223.64,
+            "quantity": 8.65,
+            "tax_amount": 30.92,
+            "total_ttc": 214.37,
+            "vat_amount": 9.28
+        },
+        {
+            "amount": 200.3,
+            "description": "strategize rich infrastructures",
+            "index": "3",
+            "price": 200.34,
+            "quantity": 5.75,
+            "tax_amount": 71.36,
+            "total_ttc": 367.84,
+            "vat_amount": 6.07
+        },
+        {
+            "amount": 49.49,
+            "description": "scale next-generation vortals",
+            "index": "3",
+            "price": 374.96,
+            "quantity": 9.26,
+            "tax_amount": 50.53,
+            "total_ttc": 161.31,
+            "vat_amount": 10.95
+        },
+        {
+            "amount": 322.13,
+            "description": "disintermediate web-enabled functionalities",
+            "index": "7",
+            "price": 411.48,
+            "quantity": 6.4,
+            "tax_amount": 89.99,
+            "total_ttc": 424.26,
+            "vat_amount": 6.38
+        },
+        {
+            "amount": 74.5,
+            "description": "innovate killer e-markets",
+            "index": "10",
+            "price": 337.87,
+            "quantity": 6.91,
+            "tax_amount": 88.56,
+            "total_ttc": 329.96,
+            "vat_amount": 0.79
+        },
+        {
+            "amount": 474.57,
+            "description": "aggregate sticky bandwidth",
+            "index": "1",
+            "price": 24.28,
+            "quantity": 3.94,
+            "tax_amount": 63.36,
+            "total_ttc": 250.74,
+            "vat_amount": 7.2
+        },
+        {
+            "amount": 312.78,
+            "description": "synthesize efficient methodologies",
+            "index": "4",
+            "price": 182.6,
+            "quantity": 1.87,
+            "tax_amount": 45.21,
+            "total_ttc": 193.27,
+            "vat_amount": 4.73
+        }
+    ],
+    "seller": {
+        "name": "Sonya Owens"
+    },
+    "supplier": {
+        "address": "382 Brown Camp Lucasmouth, UT 71639",
+        "name": "Brett Beasley"
+    },
+    "tax": {
+        "amount_excluding_tax": 145.26,
+        "amount_including_tax": 132.19,
+        "tax_amount": 16.0,
+        "total_ht": 252.74,
+        "total_ttc": 256.16
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "287 Joshua Lock Suite 829 Danielburgh, ME 81298",
+        "company_name": "Davis-Williamson",
+        "email": "gonzalezalexander@example.com",
+        "name": "Cynthia Thomas",
+        "phone": "516-501-3497"
+    },
+    "invoice": {
+        "date": "24.11.1995",
+        "due_date": "05.10.2012",
+        "number": "fMY78761226488"
+    },
+    "payment": {
+        "account_number": 6557287917,
+        "bank_name": "Warren Inc",
+        "routing_number": 527638725
+    },
+    "products": [
+        {
+            "amount": 115.37,
+            "description": "implement B2C eyeballs",
+            "index": "6",
+            "quantity": 9.36,
+            "unit_price": 71.73
+        },
+        {
+            "amount": 302.07,
+            "description": "morph innovative interfaces",
+            "index": "5",
+            "quantity": 9.86,
+            "unit_price": 10.47
+        },
+        {
+            "amount": 435.63,
+            "description": "morph dot-com interfaces",
+            "index": "7",
+            "quantity": 5.37,
+            "unit_price": 39.22
+        },
+        {
+            "amount": 339.28,
+            "description": "monetize plug-and-play metrics",
+            "index": "9",
+            "quantity": 2.0,
+            "unit_price": 51.07
+        }
+    ],
+    "seller": {
+        "address": "22272 Jonathan Junction East Christopher, MT 49837",
+        "company_name": "Mendoza-Williams",
+        "email": "pboyd@example.com"
+    }
+}

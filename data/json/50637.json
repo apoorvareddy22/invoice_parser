@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "910 Hooper Neck Justinberg, UT 80085",
+        "id": "Qr685"
+    },
+    "invoice": {
+        "bc_no": "LV24964",
+        "currency_code": "BRL",
+        "date": "11.07.2006",
+        "due_date": "15.10.1997",
+        "number": 943001
+    },
+    "payment": {
+        "bank_name": "Strickland-Smith",
+        "bic": "SUTLGBOZYWK",
+        "iban": "HGXU10854115777694"
+    },
+    "products": [
+        {
+            "amount": 44.15,
+            "description": "whiteboard innovative applications",
+            "index": "5",
+            "price": 324.23,
+            "quantity": 1.47,
+            "tax_amount": 66.89,
+            "total_ttc": 142.18,
+            "vat_amount": 2.62
+        },
+        {
+            "amount": 74.35,
+            "description": "empower compelling interfaces",
+            "index": "3",
+            "price": 306.42,
+            "quantity": 9.28,
+            "tax_amount": 48.13,
+            "total_ttc": 133.71,
+            "vat_amount": 8.37
+        }
+    ],
+    "seller": {
+        "name": "Kyle Hartman"
+    },
+    "supplier": {
+        "address": "035 Destiny Causeway Brownview, PA 42221",
+        "name": "Jason Mcdonald"
+    },
+    "tax": {
+        "amount_excluding_tax": 197.93,
+        "amount_including_tax": 145.49,
+        "tax_amount": 10.8,
+        "total_ht": 397.12,
+        "total_ttc": 336.17
+    }
+}

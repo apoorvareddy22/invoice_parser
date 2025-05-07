@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "3563 Deborah Mill Apt. 342 Smithberg, CA 85266",
+        "company_name": "Johnson-Reyes",
+        "email": "vrobinson@example.net",
+        "name": "Samantha Vaughn",
+        "phone": "810-642-7410x56461"
+    },
+    "invoice": {
+        "date": "24.02.2023",
+        "due_date": "12.07.2014",
+        "number": "qJD08613262260"
+    },
+    "payment": {
+        "account_number": 6501566316,
+        "bank_name": "Frye-Lucero",
+        "routing_number": 180919838
+    },
+    "products": [
+        {
+            "amount": 273.21,
+            "description": "deliver best-of-breed interfaces",
+            "index": "6",
+            "quantity": 5.26,
+            "unit_price": 89.71
+        },
+        {
+            "amount": 399.33,
+            "description": "scale mission-critical e-business",
+            "index": "5",
+            "quantity": 2.89,
+            "unit_price": 45.98
+        },
+        {
+            "amount": 222.55,
+            "description": "visualize intuitive synergies",
+            "index": "10",
+            "quantity": 4.79,
+            "unit_price": 22.42
+        }
+    ],
+    "seller": {
+        "address": "46886 Rose Brooks Suite 761 New Jessica, MN 79475",
+        "company_name": "Mcdonald-Wilson",
+        "email": "jcraig@example.com"
+    }
+}

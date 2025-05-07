@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "PSC 7835, Box 5768 APO AA 07468",
+        "business_no": "Kl415",
+        "id": "oL778"
+    },
+    "invoice": {
+        "date": "29.10.1997",
+        "number": "0446-3590"
+    },
+    "payment": {
+        "due_date": "26.12.2007",
+        "total": 357.23
+    },
+    "products": [
+        {
+            "amount": 476.81,
+            "description": "engage e-business e-tailers",
+            "quantity": 7.93,
+            "reference": "FJ-642",
+            "unit_price": 32.56
+        },
+        {
+            "amount": 269.63,
+            "description": "deploy virtual eyeballs",
+            "quantity": 2.13,
+            "reference": "Ai-297",
+            "unit_price": 97.82
+        }
+    ],
+    "seller": {
+        "address": "05299 Amanda Cape New Amber, PW 81252"
+    },
+    "tax": {
+        "base_ht": 329.63,
+        "regulations": 22.51,
+        "total_ht": 212.4,
+        "vat_amount": 162.26,
+        "vat_percentage": 12.01
+    }
+}

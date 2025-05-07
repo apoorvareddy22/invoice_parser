@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "2753 Lynch Cape Port Marcside, IN 83088",
+        "business_no": "mW839",
+        "id": "Rr938"
+    },
+    "invoice": {
+        "date": "09.02.2020",
+        "number": "1149-3396"
+    },
+    "payment": {
+        "due_date": "13.10.2021",
+        "total": 323.23
+    },
+    "products": [
+        {
+            "amount": 74.94,
+            "description": "innovate seamless platforms",
+            "quantity": 6.14,
+            "reference": "DD-156",
+            "unit_price": 17.09
+        },
+        {
+            "amount": 378.04,
+            "description": "cultivate user-centric paradigms",
+            "quantity": 5.43,
+            "reference": "OP-486",
+            "unit_price": 98.01
+        },
+        {
+            "amount": 305.2,
+            "description": "facilitate seamless infrastructures",
+            "quantity": 2.97,
+            "reference": "rC-648",
+            "unit_price": 67.25
+        },
+        {
+            "amount": 479.47,
+            "description": "target proactive action-items",
+            "quantity": 7.08,
+            "reference": "hp-882",
+            "unit_price": 10.55
+        }
+    ],
+    "seller": {
+        "address": "19519 Jason Dam Port Amandatown, AL 30160"
+    },
+    "tax": {
+        "base_ht": 121.42,
+        "regulations": 27.97,
+        "total_ht": 478.65,
+        "vat_amount": 42.49,
+        "vat_percentage": 15.1
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "PSC 3029, Box 9463 APO AP 81130",
+        "id": "To896"
+    },
+    "invoice": {
+        "bc_no": "Xq46154",
+        "currency_code": "DKK",
+        "date": "15.01.2011",
+        "due_date": "25.04.2002",
+        "number": 808792
+    },
+    "payment": {
+        "bank_name": "Lee, Kelly and Michael",
+        "bic": "TXGLGBXQ",
+        "iban": "ZNZP18475508557382"
+    },
+    "products": [
+        {
+            "amount": 8.86,
+            "description": "benchmark value-added models",
+            "index": "3",
+            "price": 175.99,
+            "quantity": 2.68,
+            "tax_amount": 55.94,
+            "total_ttc": 331.86,
+            "vat_amount": 3.62
+        },
+        {
+            "amount": 85.23,
+            "description": "streamline collaborative experiences",
+            "index": "3",
+            "price": 173.15,
+            "quantity": 5.51,
+            "tax_amount": 86.8,
+            "total_ttc": 486.25,
+            "vat_amount": 7.23
+        },
+        {
+            "amount": 248.99,
+            "description": "unleash compelling e-business",
+            "index": "5",
+            "price": 319.92,
+            "quantity": 9.49,
+            "tax_amount": 82.13,
+            "total_ttc": 240.69,
+            "vat_amount": 1.22
+        }
+    ],
+    "seller": {
+        "name": "Barbara Reed"
+    },
+    "supplier": {
+        "address": "1695 Shelly Rue Suite 537 Robinsonstad, KS 66919",
+        "name": "Patricia Hardy"
+    },
+    "tax": {
+        "amount_excluding_tax": 144.88,
+        "amount_including_tax": 13.91,
+        "tax_amount": 23.41,
+        "total_ht": 289.04,
+        "total_ttc": 257.46
+    }
+}

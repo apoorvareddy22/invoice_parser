@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "084 Jones Light Port Sharon, CT 90950",
+        "email": "dsmith@example.net",
+        "phone": "275-231-9091x9111",
+        "vat_no": "mQ08236399894"
+    },
+    "invoice": {
+        "date": "27.09.2021",
+        "due_date": "05.10.1999",
+        "market_reference": 315432,
+        "notes": "whiteboard frictionless platforms",
+        "number": "7740-4013",
+        "reference": 687632,
+        "vat_no": "DM53726381512"
+    },
+    "payment": {
+        "net_total": 180.09,
+        "total": 340.84
+    },
+    "products": [
+        {
+            "amount": 218.2,
+            "description": "streamline user-centric markets",
+            "hours": 7.04,
+            "rate": 3.77
+        },
+        {
+            "amount": 23.71,
+            "description": "innovate synergistic convergence",
+            "hours": 5.47,
+            "rate": 4.61
+        },
+        {
+            "amount": 286.01,
+            "description": "evolve rich web services",
+            "hours": 7.47,
+            "rate": 2.05
+        },
+        {
+            "amount": 101.85,
+            "description": "enhance seamless solutions",
+            "hours": 2.13,
+            "rate": 1.59
+        },
+        {
+            "amount": 120.72,
+            "description": "productize best-of-breed methodologies",
+            "hours": 8.47,
+            "rate": 2.48
+        },
+        {
+            "amount": 432.94,
+            "description": "enhance revolutionary solutions",
+            "hours": 5.52,
+            "rate": 6.93
+        },
+        {
+            "amount": 132.87,
+            "description": "innovate virtual technologies",
+            "hours": 9.46,
+            "rate": 1.54
+        }
+    ],
+    "seller": {
+        "address": "770 Sabrina Skyway Suite 897 Cunninghamchester, OH 40014",
+        "email": "deantanya@example.com",
+        "name": "Kelly Hernandez"
+    },
+    "tax": {
+        "base": 25.17,
+        "tax_amount": 25.88,
+        "total_tax": 19.84
+    }
+}

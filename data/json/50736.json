@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "64079 Stephen Skyway Marystad, SD 14999",
+        "id": "mS274"
+    },
+    "invoice": {
+        "bc_no": "Tw12643",
+        "currency_code": "BWP",
+        "date": "27.05.1999",
+        "due_date": "10.11.2011",
+        "number": 770447
+    },
+    "payment": {
+        "bank_name": "Chavez-Richardson",
+        "bic": "HNWFGBW35A7",
+        "iban": "SXOM97628949685526"
+    },
+    "products": [
+        {
+            "amount": 427.51,
+            "description": "benchmark innovative architectures",
+            "index": "10",
+            "price": 208.82,
+            "quantity": 1.07,
+            "tax_amount": 44.11,
+            "total_ttc": 499.07,
+            "vat_amount": 0.46
+        },
+        {
+            "amount": 331.39,
+            "description": "synthesize turn-key systems",
+            "index": "6",
+            "price": 423.57,
+            "quantity": 4.59,
+            "tax_amount": 32.3,
+            "total_ttc": 457.21,
+            "vat_amount": 1.84
+        }
+    ],
+    "seller": {
+        "name": "Jennifer Ramos"
+    },
+    "supplier": {
+        "address": "4247 Amber Roads Apt. 225 Ginamouth, AL 25525",
+        "name": "Cole Cox"
+    },
+    "tax": {
+        "amount_excluding_tax": 83.74,
+        "amount_including_tax": 150.32,
+        "tax_amount": 11.45,
+        "total_ht": 200.47,
+        "total_ttc": 163.08
+    }
+}

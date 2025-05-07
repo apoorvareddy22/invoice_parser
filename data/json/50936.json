@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "2397 Robert Park Suite 862 Seanbury, VI 89822",
+        "id": "ol313"
+    },
+    "invoice": {
+        "bc_no": "kQ36844",
+        "currency_code": "UAH",
+        "date": "05.08.2019",
+        "due_date": "10.07.1996",
+        "number": 627147
+    },
+    "payment": {
+        "bank_name": "Monroe-Bradley",
+        "bic": "FYTKGB6J",
+        "iban": "UGQT46209677482458"
+    },
+    "products": [
+        {
+            "amount": 71.62,
+            "description": "reinvent back-end interfaces",
+            "index": "1",
+            "price": 352.19,
+            "quantity": 5.52,
+            "tax_amount": 93.88,
+            "total_ttc": 262.2,
+            "vat_amount": 7.99
+        },
+        {
+            "amount": 485.24,
+            "description": "incentivize proactive paradigms",
+            "index": "5",
+            "price": 252.66,
+            "quantity": 7.8,
+            "tax_amount": 99.98,
+            "total_ttc": 353.05,
+            "vat_amount": 3.2
+        },
+        {
+            "amount": 130.07,
+            "description": "productize one-to-one paradigms",
+            "index": "1",
+            "price": 378.27,
+            "quantity": 9.89,
+            "tax_amount": 68.68,
+            "total_ttc": 336.5,
+            "vat_amount": 1.22
+        }
+    ],
+    "seller": {
+        "name": "Michael Burch"
+    },
+    "supplier": {
+        "address": "5410 Kristin Cliffs Lake Tracy, PW 93775",
+        "name": "Lisa Galvan"
+    },
+    "tax": {
+        "amount_excluding_tax": 98.72,
+        "amount_including_tax": 38.03,
+        "tax_amount": 25.94,
+        "total_ht": 414.27,
+        "total_ttc": 371.63
+    }
+}

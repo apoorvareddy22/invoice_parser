@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "5065 Porter Springs Suite 337 North Melissa, OH 30568"
+    },
+    "invoice": {
+        "bc_no": "fw13819",
+        "date": "22.09.2019",
+        "maturity_date": "08.03.2007",
+        "number": 960757
+    },
+    "products": [
+        {
+            "amount": 481.8,
+            "description": "unleash efficient architectures",
+            "quantity": 1.25,
+            "unit_price": 83.7,
+            "vat_amount": 5.28
+        }
+    ],
+    "seller": {
+        "address": "USNV Walsh FPO AP 99754"
+    },
+    "tax": {
+        "amount_excluding_tax": 11.84,
+        "amount_including_tax": 138.97,
+        "tax_amount": 22.8
+    }
+}

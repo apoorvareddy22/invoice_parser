@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "USS Wiggins FPO AA 49945",
+        "id": "PM850"
+    },
+    "invoice": {
+        "bc_no": "sg12141",
+        "currency_code": "QAR",
+        "date": "30.08.1995",
+        "due_date": "14.05.2012",
+        "number": 896436
+    },
+    "payment": {
+        "bank_name": "Carr, Kim and Ramirez",
+        "bic": "WOIIGBGLLXE",
+        "iban": "PUMT69369848609769"
+    },
+    "products": [
+        {
+            "amount": 490.7,
+            "description": "matrix end-to-end paradigms",
+            "index": "2",
+            "price": 249.03,
+            "quantity": 9.19,
+            "tax_amount": 37.84,
+            "total_ttc": 166.72,
+            "vat_amount": 5.41
+        },
+        {
+            "amount": 61.16,
+            "description": "target out-of-the-box markets",
+            "index": "6",
+            "price": 152.05,
+            "quantity": 3.74,
+            "tax_amount": 48.54,
+            "total_ttc": 354.87,
+            "vat_amount": 4.13
+        },
+        {
+            "amount": 473.71,
+            "description": "brand proactive models",
+            "index": "6",
+            "price": 493.37,
+            "quantity": 4.93,
+            "tax_amount": 28.66,
+            "total_ttc": 422.53,
+            "vat_amount": 3.34
+        },
+        {
+            "amount": 293.44,
+            "description": "strategize enterprise portals",
+            "index": "4",
+            "price": 371.87,
+            "quantity": 6.24,
+            "tax_amount": 15.24,
+            "total_ttc": 466.38,
+            "vat_amount": 4.47
+        }
+    ],
+    "seller": {
+        "name": "Eric Cooper"
+    },
+    "supplier": {
+        "address": "81064 Hughes Squares Michaelborough, DC 63212",
+        "name": "Stacey Simon"
+    },
+    "tax": {
+        "amount_excluding_tax": 79.58,
+        "amount_including_tax": 88.31,
+        "tax_amount": 22.43,
+        "total_ht": 122.72,
+        "total_ttc": 268.92
+    }
+}

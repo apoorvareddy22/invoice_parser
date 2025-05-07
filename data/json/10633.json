@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "987 Billy Stream Suite 877 Ramosstad, MD 65064",
+        "email": "lfisher@example.org",
+        "phone": "+1-581-240-7344x898",
+        "vat_no": "yM41138420188"
+    },
+    "invoice": {
+        "date": "06.06.2012",
+        "due_date": "26.03.2005",
+        "market_reference": 884397,
+        "notes": "synergize viral e-tailers",
+        "number": "8845-2180",
+        "reference": 439064,
+        "vat_no": "gQ20497715125"
+    },
+    "payment": {
+        "net_total": 176.03,
+        "total": 460.47
+    },
+    "products": [
+        {
+            "amount": 263.67,
+            "description": "deploy global deliverables",
+            "hours": 5.62,
+            "rate": 4.41
+        },
+        {
+            "amount": 135.35,
+            "description": "generate out-of-the-box e-markets",
+            "hours": 6.46,
+            "rate": 7.1
+        },
+        {
+            "amount": 199.2,
+            "description": "streamline clicks-and-mortar action-items",
+            "hours": 7.74,
+            "rate": 7.38
+        },
+        {
+            "amount": 355.4,
+            "description": "syndicate user-centric e-business",
+            "hours": 2.29,
+            "rate": 9.96
+        }
+    ],
+    "seller": {
+        "address": "7424 Jodi Neck North Gregoryside, MP 28762",
+        "email": "stonechristina@example.com",
+        "name": "Robert Barton"
+    },
+    "tax": {
+        "base": 20.82,
+        "tax_amount": 21.46,
+        "total_tax": 18.28
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "0803 Andrew Mews Benjaminhaven, AK 39745",
+        "company_name": "Walker-Gray",
+        "country": "Armenia",
+        "name": "Lauren Smith"
+    },
+    "invoice": {
+        "date": "02.02.2005",
+        "number": 737251
+    },
+    "payment": {
+        "discount_amount": 27.8,
+        "discount_percentage": 10.29,
+        "due": 100.64,
+        "sub_total": 165.3,
+        "total": 470.6
+    },
+    "products": [
+        {
+            "description": "empower cross-platform action-items",
+            "index": "1",
+            "quantity": 9.23,
+            "total_price": 71.83,
+            "unit_price": 37.69
+        },
+        {
+            "description": "re-contextualize scalable initiatives",
+            "index": "3",
+            "quantity": 6.29,
+            "total_price": 560.68,
+            "unit_price": 81.54
+        }
+    ],
+    "seller": {
+        "address": "793 Hannah Station Caseport, AL 60350",
+        "company_name": "Crawford PLC",
+        "vat_no": "Yx14908638244"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "9585 Terrell Alley Parkbury, CT 29241",
+        "id": "Wn490"
+    },
+    "invoice": {
+        "bc_no": "ZK49652",
+        "currency_code": "ALL",
+        "date": "31.05.2010",
+        "due_date": "09.10.2002",
+        "number": 793943
+    },
+    "payment": {
+        "bank_name": "Davis Group",
+        "bic": "QYWKGBNI",
+        "iban": "KMOY73585910252003"
+    },
+    "products": [
+        {
+            "amount": 191.63,
+            "description": "empower real-time functionalities",
+            "index": "7",
+            "price": 393.81,
+            "quantity": 6.67,
+            "tax_amount": 50.9,
+            "total_ttc": 363.16,
+            "vat_amount": 2.81
+        }
+    ],
+    "seller": {
+        "name": "Glenda Anderson"
+    },
+    "supplier": {
+        "address": "984 Bartlett Cove Port Anthony, UT 37717",
+        "name": "Cynthia Murray"
+    },
+    "tax": {
+        "amount_excluding_tax": 149.29,
+        "amount_including_tax": 133.29,
+        "tax_amount": 12.3,
+        "total_ht": 499.69,
+        "total_ttc": 474.31
+    }
+}

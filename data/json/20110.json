@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "340 Brandon Knoll West Johnfort, IL 12313",
+        "company_name": "Caldwell Group",
+        "email": "larry94@example.com",
+        "name": "April Parrish",
+        "phone": "609.444.3347x282"
+    },
+    "invoice": {
+        "date": "17.07.2000",
+        "due_date": "19.01.2010",
+        "number": "zPA84374438409"
+    },
+    "payment": {
+        "account_number": 2318243026,
+        "bank_name": "Rodriguez PLC",
+        "routing_number": 502590437
+    },
+    "products": [
+        {
+            "amount": 288.12,
+            "description": "envisioneer magnetic synergies",
+            "index": "9",
+            "quantity": 2.16,
+            "unit_price": 13.38
+        },
+        {
+            "amount": 76.84,
+            "description": "e-enable bleeding-edge channels",
+            "index": "9",
+            "quantity": 6.27,
+            "unit_price": 26.85
+        },
+        {
+            "amount": 461.03,
+            "description": "matrix proactive bandwidth",
+            "index": "4",
+            "quantity": 1.12,
+            "unit_price": 61.86
+        }
+    ],
+    "seller": {
+        "address": "59409 Yates Locks Port Gary, PR 75226",
+        "company_name": "Casey-Taylor",
+        "email": "vanessamarshall@example.net"
+    }
+}

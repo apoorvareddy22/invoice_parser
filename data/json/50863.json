@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "521 Lee Spurs Apt. 106 Jenniferside, TX 19732",
+        "id": "LP213"
+    },
+    "invoice": {
+        "bc_no": "Qa93846",
+        "currency_code": "KMF",
+        "date": "30.08.2003",
+        "due_date": "03.12.2012",
+        "number": 949879
+    },
+    "payment": {
+        "bank_name": "Hayes, Baker and Johnson",
+        "bic": "SMAJGBV6",
+        "iban": "DERK79762154504936"
+    },
+    "products": [
+        {
+            "amount": 144.45,
+            "description": "unleash seamless e-tailers",
+            "index": "10",
+            "price": 407.93,
+            "quantity": 8.72,
+            "tax_amount": 43.1,
+            "total_ttc": 196.57,
+            "vat_amount": 0.15
+        },
+        {
+            "amount": 178.32,
+            "description": "embrace out-of-the-box supply-chains",
+            "index": "1",
+            "price": 423.72,
+            "quantity": 7.89,
+            "tax_amount": 73.05,
+            "total_ttc": 233.35,
+            "vat_amount": 9.1
+        },
+        {
+            "amount": 166.84,
+            "description": "optimize interactive solutions",
+            "index": "5",
+            "price": 498.22,
+            "quantity": 9.22,
+            "tax_amount": 45.47,
+            "total_ttc": 427.68,
+            "vat_amount": 1.27
+        }
+    ],
+    "seller": {
+        "name": "William Willis"
+    },
+    "supplier": {
+        "address": "15564 Anna Inlet Suite 329 East Aaron, SC 62286",
+        "name": "Garrett Archer"
+    },
+    "tax": {
+        "amount_excluding_tax": 171.73,
+        "amount_including_tax": 188.29,
+        "tax_amount": 26.1,
+        "total_ht": 367.46,
+        "total_ttc": 263.55
+    }
+}

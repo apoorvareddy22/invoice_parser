@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "181 Beth Extensions Carolfurt, AZ 11035",
+        "email": "olsenchelsea@example.net",
+        "phone": "(390)884-4843x9591",
+        "vat_no": "ZX87924429473"
+    },
+    "invoice": {
+        "date": "11.11.2009",
+        "due_date": "28.05.2004",
+        "market_reference": 275047,
+        "notes": "engineer virtual infrastructures",
+        "number": "4156-9840",
+        "reference": 605546,
+        "vat_no": "PR75396786695"
+    },
+    "payment": {
+        "net_total": 66.49,
+        "total": 537.91
+    },
+    "products": [
+        {
+            "amount": 107.44,
+            "description": "innovate strategic functionalities",
+            "hours": 2.31,
+            "rate": 6.49
+        },
+        {
+            "amount": 327.63,
+            "description": "matrix scalable communities",
+            "hours": 6.02,
+            "rate": 5.17
+        },
+        {
+            "amount": 491.65,
+            "description": "evolve rich interfaces",
+            "hours": 1.53,
+            "rate": 1.72
+        },
+        {
+            "amount": 257.77,
+            "description": "incentivize rich info-mediaries",
+            "hours": 6.57,
+            "rate": 5.12
+        }
+    ],
+    "seller": {
+        "address": "8734 Brandi Underpass Suite 979 North Jessica, OK 09714",
+        "email": "ibrown@example.net",
+        "name": "Dr. Courtney Scott"
+    },
+    "tax": {
+        "base": 17.6,
+        "tax_amount": 18.22,
+        "total_tax": 26.05
+    }
+}

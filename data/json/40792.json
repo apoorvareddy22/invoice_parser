@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "57014 Payne Ridges Apt. 557 Emilymouth, SC 47928"
+    },
+    "invoice": {
+        "bc_no": "vf08405",
+        "date": "27.03.1994",
+        "maturity_date": "19.05.2008",
+        "number": 234374
+    },
+    "products": [
+        {
+            "amount": 375.49,
+            "description": "mesh plug-and-play channels",
+            "quantity": 7.34,
+            "unit_price": 12.25,
+            "vat_amount": 0.69
+        }
+    ],
+    "seller": {
+        "address": "745 Kelley Hill Suite 830 Kelseymouth, IN 10667"
+    },
+    "tax": {
+        "amount_excluding_tax": 165.35,
+        "amount_including_tax": 61.8,
+        "tax_amount": 20.02
+    }
+}

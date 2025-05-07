@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "3578 Williams Keys Port Debraland, WA 53217",
+        "id": "Ph875"
+    },
+    "invoice": {
+        "bc_no": "ad76890",
+        "currency_code": "CDF",
+        "date": "18.07.2013",
+        "due_date": "12.12.2009",
+        "number": 845918
+    },
+    "payment": {
+        "bank_name": "Murphy, Reyes and Stone",
+        "bic": "UTUMGBHCNHD",
+        "iban": "IVQH58173523473523"
+    },
+    "products": [
+        {
+            "amount": 12.08,
+            "description": "monetize customized web services",
+            "index": "3",
+            "price": 326.23,
+            "quantity": 3.07,
+            "tax_amount": 49.59,
+            "total_ttc": 387.84,
+            "vat_amount": 7.27
+        }
+    ],
+    "seller": {
+        "name": "Kaylee Brown"
+    },
+    "supplier": {
+        "address": "648 Bright Trace Suite 139 North Richard, PW 74791",
+        "name": "Karen Morris"
+    },
+    "tax": {
+        "amount_excluding_tax": 103.3,
+        "amount_including_tax": 66.64,
+        "tax_amount": 19.6,
+        "total_ht": 477.28,
+        "total_ttc": 493.87
+    }
+}

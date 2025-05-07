@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "91966 Virginia Highway Apt. 259 Port Evelynside, AR 05687",
+        "email": "hernandezian@example.org",
+        "phone": "+1-925-498-3216x026",
+        "vat_no": "Nu09141807797"
+    },
+    "invoice": {
+        "date": "25.09.1994",
+        "due_date": "27.05.2020",
+        "market_reference": 661201,
+        "notes": "grow scalable niches",
+        "number": "7466-8468",
+        "reference": 805304,
+        "vat_no": "bT14901709617"
+    },
+    "payment": {
+        "net_total": 168.49,
+        "total": 913.13
+    },
+    "products": [
+        {
+            "amount": 91.59,
+            "description": "transform web-enabled markets",
+            "hours": 3.94,
+            "rate": 1.36
+        }
+    ],
+    "seller": {
+        "address": "07515 Andrew Junctions Victoriamouth, AR 50652",
+        "email": "robinkrause@example.com",
+        "name": "Kathryn Gutierrez"
+    },
+    "tax": {
+        "base": 27.06,
+        "tax_amount": 24.0,
+        "total_tax": 17.67
+    }
+}

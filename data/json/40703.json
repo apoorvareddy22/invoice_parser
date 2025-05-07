@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "645 Timothy Brook Apt. 170 Ericastad, DC 45968"
+    },
+    "invoice": {
+        "bc_no": "nN38881",
+        "date": "19.08.2019",
+        "maturity_date": "26.03.2021",
+        "number": 779660
+    },
+    "products": [
+        {
+            "amount": 378.95,
+            "description": "unleash plug-and-play vortals",
+            "quantity": 5.77,
+            "unit_price": 85.85,
+            "vat_amount": 3.63
+        }
+    ],
+    "seller": {
+        "address": "629 Brenda Bridge Apt. 100 Lake Bryanstad, AR 22054"
+    },
+    "tax": {
+        "amount_excluding_tax": 147.62,
+        "amount_including_tax": 190.86,
+        "tax_amount": 12.53
+    }
+}

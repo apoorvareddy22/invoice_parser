@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "43185 Schwartz Keys Suite 203 West Diane, HI 10254",
+        "email": "james23@example.org",
+        "phone": "273.555.7563",
+        "vat_no": "Hq32114194454"
+    },
+    "invoice": {
+        "date": "28.08.2004",
+        "due_date": "08.03.2016",
+        "market_reference": 164335,
+        "notes": "synergize clicks-and-mortar e-tailers",
+        "number": "1209-9778",
+        "reference": 512162,
+        "vat_no": "zW91837535530"
+    },
+    "payment": {
+        "net_total": 191.93,
+        "total": 772.08
+    },
+    "products": [
+        {
+            "amount": 293.39,
+            "description": "re-intermediate plug-and-play deliverables",
+            "hours": 8.4,
+            "rate": 1.24
+        },
+        {
+            "amount": 444.78,
+            "description": "visualize dynamic web services",
+            "hours": 8.36,
+            "rate": 7.5
+        },
+        {
+            "amount": 279.67,
+            "description": "visualize sticky infrastructures",
+            "hours": 4.14,
+            "rate": 7.1
+        }
+    ],
+    "seller": {
+        "address": "PSC 0980, Box 1768 APO AP 05115",
+        "email": "vrodgers@example.org",
+        "name": "Emily Yoder"
+    },
+    "tax": {
+        "base": 15.95,
+        "tax_amount": 16.37,
+        "total_tax": 24.13
+    }
+}

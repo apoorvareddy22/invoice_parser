@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "17110 Moore Meadows Suite 747 North Jordanside, OR 57342"
+    },
+    "invoice": {
+        "bc_no": "RM86591",
+        "date": "09.11.2019",
+        "maturity_date": "31.12.2013",
+        "number": 686330
+    },
+    "products": [
+        {
+            "amount": 260.72,
+            "description": "aggregate one-to-one interfaces",
+            "quantity": 6.26,
+            "unit_price": 52.15,
+            "vat_amount": 3.01
+        },
+        {
+            "amount": 262.69,
+            "description": "monetize distributed e-commerce",
+            "quantity": 5.43,
+            "unit_price": 77.58,
+            "vat_amount": 8.78
+        },
+        {
+            "amount": 461.1,
+            "description": "maximize user-centric functionalities",
+            "quantity": 6.97,
+            "unit_price": 78.94,
+            "vat_amount": 0.94
+        },
+        {
+            "amount": 214.01,
+            "description": "enable scalable technologies",
+            "quantity": 5.76,
+            "unit_price": 56.22,
+            "vat_amount": 4.91
+        }
+    ],
+    "seller": {
+        "address": "4197 Alexander Wells Byrdland, DC 06293"
+    },
+    "tax": {
+        "amount_excluding_tax": 190.91,
+        "amount_including_tax": 147.9,
+        "tax_amount": 13.52
+    }
+}

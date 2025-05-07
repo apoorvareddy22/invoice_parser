@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "7759 Charles Spur West Robert, NM 75052",
+        "id": "ZW299"
+    },
+    "invoice": {
+        "bc_no": "MM64330",
+        "currency_code": "CUP",
+        "date": "15.06.2014",
+        "due_date": "29.07.2003",
+        "number": 874022
+    },
+    "payment": {
+        "bank_name": "Lawson PLC",
+        "bic": "OUYJGBJ0",
+        "iban": "MYHW29903554458700"
+    },
+    "products": [
+        {
+            "amount": 486.82,
+            "description": "productize out-of-the-box markets",
+            "index": "8",
+            "price": 372.94,
+            "quantity": 8.15,
+            "tax_amount": 43.79,
+            "total_ttc": 375.65,
+            "vat_amount": 3.65
+        }
+    ],
+    "seller": {
+        "name": "Adrienne Clark"
+    },
+    "supplier": {
+        "address": "39325 Jessica Stream North Johnbury, KS 41804",
+        "name": "Rebecca Jensen"
+    },
+    "tax": {
+        "amount_excluding_tax": 47.45,
+        "amount_including_tax": 176.87,
+        "tax_amount": 17.68,
+        "total_ht": 122.41,
+        "total_ttc": 315.23
+    }
+}

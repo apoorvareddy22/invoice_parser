@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "401 Richard Inlet Apt. 629 Dominguezburgh, TX 77502",
+        "company_name": "Oliver, Gonzalez and Garcia",
+        "country": "Bahamas",
+        "name": "Anna Walsh"
+    },
+    "invoice": {
+        "date": "23.07.2006",
+        "number": 247694
+    },
+    "payment": {
+        "discount_amount": 27.93,
+        "discount_percentage": 14.79,
+        "due": 93.72,
+        "sub_total": 147.04,
+        "total": 149.47
+    },
+    "products": [
+        {
+            "description": "brand killer applications",
+            "index": "1",
+            "quantity": 9.43,
+            "total_price": 49.77,
+            "unit_price": 52.91
+        },
+        {
+            "description": "unleash web-enabled platforms",
+            "index": "4",
+            "quantity": 7.35,
+            "total_price": 28.59,
+            "unit_price": 11.56
+        }
+    ],
+    "seller": {
+        "address": "62900 Lacey Stream Port Patricia, RI 10872",
+        "company_name": "Sellers PLC",
+        "vat_no": "dY41628887247"
+    }
+}

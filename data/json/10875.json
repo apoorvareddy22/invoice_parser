@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "7139 Joel Underpass Sparkshaven, KY 50039",
+        "email": "carrie10@example.net",
+        "phone": "(372)789-0084",
+        "vat_no": "UU92921650068"
+    },
+    "invoice": {
+        "date": "03.12.2005",
+        "due_date": "23.01.2000",
+        "market_reference": 430788,
+        "notes": "incubate e-business metrics",
+        "number": "4609-6676",
+        "reference": 492576,
+        "vat_no": "we04561034761"
+    },
+    "payment": {
+        "net_total": 63.78,
+        "total": 233.31
+    },
+    "products": [
+        {
+            "amount": 66.37,
+            "description": "strategize extensible e-tailers",
+            "hours": 3.84,
+            "rate": 5.03
+        },
+        {
+            "amount": 120.34,
+            "description": "enable viral metrics",
+            "hours": 6.69,
+            "rate": 6.08
+        }
+    ],
+    "seller": {
+        "address": "9904 Rachel Meadows Floresville, FL 14001",
+        "email": "xcook@example.com",
+        "name": "Susan Bell"
+    },
+    "tax": {
+        "base": 20.3,
+        "tax_amount": 16.9,
+        "total_tax": 27.65
+    }
+}

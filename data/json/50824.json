@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "PSC 2914, Box 0374 APO AE 43907",
+        "id": "LO492"
+    },
+    "invoice": {
+        "bc_no": "eh72485",
+        "currency_code": "TZS",
+        "date": "07.10.2016",
+        "due_date": "10.10.2000",
+        "number": 768208
+    },
+    "payment": {
+        "bank_name": "Velasquez, Simmons and Reyes",
+        "bic": "BEPPGBEIL6B",
+        "iban": "DFAJ81592588673881"
+    },
+    "products": [
+        {
+            "amount": 344.79,
+            "description": "repurpose integrated methodologies",
+            "index": "6",
+            "price": 243.01,
+            "quantity": 7.18,
+            "tax_amount": 98.36,
+            "total_ttc": 405.1,
+            "vat_amount": 1.12
+        },
+        {
+            "amount": 8.95,
+            "description": "innovate magnetic e-services",
+            "index": "4",
+            "price": 207.01,
+            "quantity": 8.59,
+            "tax_amount": 25.24,
+            "total_ttc": 390.75,
+            "vat_amount": 6.75
+        },
+        {
+            "amount": 445.26,
+            "description": "syndicate real-time mindshare",
+            "index": "2",
+            "price": 439.28,
+            "quantity": 7.08,
+            "tax_amount": 73.61,
+            "total_ttc": 359.91,
+            "vat_amount": 4.07
+        },
+        {
+            "amount": 336.93,
+            "description": "engineer distributed metrics",
+            "index": "5",
+            "price": 412.1,
+            "quantity": 8.96,
+            "tax_amount": 55.83,
+            "total_ttc": 152.76,
+            "vat_amount": 2.12
+        },
+        {
+            "amount": 183.48,
+            "description": "exploit innovative experiences",
+            "index": "8",
+            "price": 51.99,
+            "quantity": 8.68,
+            "tax_amount": 16.99,
+            "total_ttc": 348.94,
+            "vat_amount": 11.39
+        }
+    ],
+    "seller": {
+        "name": "Veronica Stone"
+    },
+    "supplier": {
+        "address": "9191 Chavez Forest Hernandezfurt, MD 09493",
+        "name": "Joseph Hughes"
+    },
+    "tax": {
+        "amount_excluding_tax": 94.76,
+        "amount_including_tax": 152.72,
+        "tax_amount": 20.21,
+        "total_ht": 294.22,
+        "total_ttc": 414.59
+    }
+}

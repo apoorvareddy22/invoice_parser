@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "Unit 6773 Box 9834 DPO AE 59333"
+    },
+    "invoice": {
+        "bc_no": "YA21398",
+        "date": "19.11.2018",
+        "maturity_date": "22.02.2008",
+        "number": 929710
+    },
+    "products": [
+        {
+            "amount": 122.16,
+            "description": "engineer virtual content",
+            "quantity": 3.08,
+            "unit_price": 44.01,
+            "vat_amount": 9.0
+        },
+        {
+            "amount": 41.0,
+            "description": "strategize 24/365 channels",
+            "quantity": 1.99,
+            "unit_price": 85.54,
+            "vat_amount": 8.86
+        }
+    ],
+    "seller": {
+        "address": "29476 Teresa Hill Port Angela, NM 19861"
+    },
+    "tax": {
+        "amount_excluding_tax": 30.9,
+        "amount_including_tax": 194.34,
+        "tax_amount": 29.52
+    }
+}

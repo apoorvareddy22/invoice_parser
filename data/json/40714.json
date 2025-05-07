@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "287 Rogers Meadows Apt. 981 West Jennifertown, SC 13831"
+    },
+    "invoice": {
+        "bc_no": "BJ53531",
+        "date": "07.07.2020",
+        "maturity_date": "14.11.1998",
+        "number": 735419
+    },
+    "products": [
+        {
+            "amount": 120.59,
+            "description": "implement magnetic systems",
+            "quantity": 8.19,
+            "unit_price": 49.37,
+            "vat_amount": 5.03
+        },
+        {
+            "amount": 178.97,
+            "description": "enhance visionary relationships",
+            "quantity": 9.55,
+            "unit_price": 17.96,
+            "vat_amount": 4.02
+        },
+        {
+            "amount": 71.46,
+            "description": "deliver transparent models",
+            "quantity": 2.19,
+            "unit_price": 42.06,
+            "vat_amount": 7.81
+        },
+        {
+            "amount": 215.46,
+            "description": "architect robust channels",
+            "quantity": 3.9,
+            "unit_price": 17.44,
+            "vat_amount": 5.78
+        },
+        {
+            "amount": 434.45,
+            "description": "whiteboard best-of-breed portals",
+            "quantity": 2.64,
+            "unit_price": 42.81,
+            "vat_amount": 2.8
+        }
+    ],
+    "seller": {
+        "address": "PSC 5243, Box 1385 APO AA 43884"
+    },
+    "tax": {
+        "amount_excluding_tax": 70.36,
+        "amount_including_tax": 25.38,
+        "tax_amount": 21.93
+    }
+}

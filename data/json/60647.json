@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "71439 White Haven Suite 291 Jonesborough, IL 75110",
+        "business_no": "zR397",
+        "id": "sN458"
+    },
+    "invoice": {
+        "date": "11.08.2003",
+        "number": "6810-7473"
+    },
+    "payment": {
+        "due_date": "08.07.2023",
+        "total": 901.1
+    },
+    "products": [
+        {
+            "amount": 158.23,
+            "description": "benchmark user-centric communities",
+            "quantity": 9.46,
+            "reference": "Xx-542",
+            "unit_price": 20.35
+        },
+        {
+            "amount": 153.49,
+            "description": "harness world-class schemas",
+            "quantity": 5.6,
+            "reference": "mJ-587",
+            "unit_price": 81.09
+        },
+        {
+            "amount": 55.68,
+            "description": "grow frictionless info-mediaries",
+            "quantity": 5.11,
+            "reference": "Kw-443",
+            "unit_price": 80.02
+        },
+        {
+            "amount": 376.78,
+            "description": "empower best-of-breed channels",
+            "quantity": 4.42,
+            "reference": "vh-515",
+            "unit_price": 93.03
+        }
+    ],
+    "seller": {
+        "address": "15646 Michael Tunnel Apt. 347 Brianmouth, MD 87353"
+    },
+    "tax": {
+        "base_ht": 393.75,
+        "regulations": 11.92,
+        "total_ht": 157.49,
+        "vat_amount": 135.51,
+        "vat_percentage": 25.87
+    }
+}

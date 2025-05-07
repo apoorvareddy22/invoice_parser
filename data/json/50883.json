@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "355 Ward Summit Moorestad, WV 55499",
+        "id": "ek114"
+    },
+    "invoice": {
+        "bc_no": "Ec57848",
+        "currency_code": "ARS",
+        "date": "14.06.1995",
+        "due_date": "17.11.2001",
+        "number": 478441
+    },
+    "payment": {
+        "bank_name": "Huber-Lee",
+        "bic": "CCNMGBHLZAM",
+        "iban": "CZYW77436561093360"
+    },
+    "products": [
+        {
+            "amount": 248.32,
+            "description": "transform scalable infrastructures",
+            "index": "9",
+            "price": 349.51,
+            "quantity": 1.12,
+            "tax_amount": 80.51,
+            "total_ttc": 348.59,
+            "vat_amount": 6.39
+        },
+        {
+            "amount": 316.45,
+            "description": "repurpose cross-media paradigms",
+            "index": "1",
+            "price": 496.18,
+            "quantity": 6.79,
+            "tax_amount": 11.07,
+            "total_ttc": 189.77,
+            "vat_amount": 10.12
+        },
+        {
+            "amount": 126.53,
+            "description": "re-intermediate cutting-edge eyeballs",
+            "index": "2",
+            "price": 113.69,
+            "quantity": 4.65,
+            "tax_amount": 44.31,
+            "total_ttc": 400.31,
+            "vat_amount": 4.08
+        },
+        {
+            "amount": 332.38,
+            "description": "aggregate cross-media mindshare",
+            "index": "1",
+            "price": 342.6,
+            "quantity": 2.21,
+            "tax_amount": 25.65,
+            "total_ttc": 260.22,
+            "vat_amount": 6.05
+        },
+        {
+            "amount": 305.68,
+            "description": "transition interactive architectures",
+            "index": "1",
+            "price": 406.29,
+            "quantity": 7.98,
+            "tax_amount": 42.33,
+            "total_ttc": 242.88,
+            "vat_amount": 8.86
+        },
+        {
+            "amount": 474.42,
+            "description": "iterate cross-media e-business",
+            "index": "3",
+            "price": 94.23,
+            "quantity": 9.48,
+            "tax_amount": 44.43,
+            "total_ttc": 361.01,
+            "vat_amount": 4.05
+        },
+        {
+            "amount": 484.01,
+            "description": "exploit virtual relationships",
+            "index": "10",
+            "price": 203.14,
+            "quantity": 8.58,
+            "tax_amount": 37.3,
+            "total_ttc": 365.39,
+            "vat_amount": 1.92
+        }
+    ],
+    "seller": {
+        "name": "Jodi Sherman"
+    },
+    "supplier": {
+        "address": "USNS Davis FPO AE 81687",
+        "name": "Noah Spears"
+    },
+    "tax": {
+        "amount_excluding_tax": 194.29,
+        "amount_including_tax": 144.86,
+        "tax_amount": 26.69,
+        "total_ht": 402.55,
+        "total_ttc": 158.59
+    }
+}

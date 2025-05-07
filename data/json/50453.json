@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "9856 Griffith Street Suite 533 West Allen, IL 67778",
+        "id": "iA695"
+    },
+    "invoice": {
+        "bc_no": "bM04817",
+        "currency_code": "KZT",
+        "date": "04.01.2010",
+        "due_date": "05.06.2022",
+        "number": 436589
+    },
+    "payment": {
+        "bank_name": "Freeman, Williamson and Rose",
+        "bic": "TVTPGBO6LKK",
+        "iban": "GXUS14241963226535"
+    },
+    "products": [
+        {
+            "amount": 96.58,
+            "description": "architect magnetic markets",
+            "index": "4",
+            "price": 148.67,
+            "quantity": 8.56,
+            "tax_amount": 54.5,
+            "total_ttc": 105.84,
+            "vat_amount": 4.45
+        }
+    ],
+    "seller": {
+        "name": "Tiffany Moss"
+    },
+    "supplier": {
+        "address": "19637 Cynthia Vista Suite 361 Howardmouth, PR 88471",
+        "name": "Veronica Brown"
+    },
+    "tax": {
+        "amount_excluding_tax": 80.21,
+        "amount_including_tax": 139.11,
+        "tax_amount": 23.57,
+        "total_ht": 468.15,
+        "total_ttc": 497.2
+    }
+}

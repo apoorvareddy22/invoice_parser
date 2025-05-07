@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "47419 Jackson Street Suite 208 East Pamela, OK 21568",
+        "company_name": "Alexander Ltd",
+        "email": "bryananderson@example.org",
+        "name": "Kimberly Phillips",
+        "phone": "628-784-1083"
+    },
+    "invoice": {
+        "date": "28.05.2000",
+        "due_date": "26.10.2006",
+        "number": "dEr52340619952"
+    },
+    "payment": {
+        "account_number": 6726973457,
+        "bank_name": "Porter Group",
+        "routing_number": 581195852
+    },
+    "products": [
+        {
+            "amount": 290.93,
+            "description": "grow transparent content",
+            "index": "1",
+            "quantity": 6.51,
+            "unit_price": 99.04
+        }
+    ],
+    "seller": {
+        "address": "113 Horne Glen Annton, PA 10429",
+        "company_name": "Adams-Tran",
+        "email": "jonathankennedy@example.com"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "0834 Rachel Path Suite 503 East Chad, MP 00678",
+        "company_name": "Padilla, Perez and Ryan",
+        "email": "pierceheather@example.net",
+        "name": "Chris Frye",
+        "phone": "+1-616-459-1766"
+    },
+    "invoice": {
+        "date": "24.07.2016",
+        "due_date": "18.12.2008",
+        "number": "WeN48672661123"
+    },
+    "payment": {
+        "account_number": 5295056926,
+        "bank_name": "Gilbert, Miller and Richard",
+        "routing_number": 376123874
+    },
+    "products": [
+        {
+            "amount": 327.25,
+            "description": "revolutionize wireless platforms",
+            "index": "3",
+            "quantity": 9.37,
+            "unit_price": 75.88
+        },
+        {
+            "amount": 359.18,
+            "description": "transition innovative e-commerce",
+            "index": "1",
+            "quantity": 5.42,
+            "unit_price": 36.9
+        }
+    ],
+    "seller": {
+        "address": "60337 Henson Prairie Suite 803 Harpershire, AR 87013",
+        "company_name": "Baker and Sons",
+        "email": "ywong@example.com"
+    }
+}

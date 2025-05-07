@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "3766 Margaret Canyon Apt. 273 East Cynthiaside, MD 40732",
+        "email": "williambenson@example.com",
+        "phone": "465.345.0331",
+        "vat_no": "QC81035420287"
+    },
+    "invoice": {
+        "date": "08.01.2009",
+        "due_date": "10.03.2005",
+        "market_reference": 360869,
+        "notes": "empower real-time users",
+        "number": "1872-1032",
+        "reference": 151213,
+        "vat_no": "dm26032607665"
+    },
+    "payment": {
+        "net_total": 131.49,
+        "total": 893.24
+    },
+    "products": [
+        {
+            "amount": 188.15,
+            "description": "utilize cutting-edge action-items",
+            "hours": 9.57,
+            "rate": 4.57
+        },
+        {
+            "amount": 407.25,
+            "description": "facilitate intuitive metrics",
+            "hours": 9.75,
+            "rate": 2.87
+        },
+        {
+            "amount": 233.43,
+            "description": "visualize front-end e-tailers",
+            "hours": 2.59,
+            "rate": 5.46
+        }
+    ],
+    "seller": {
+        "address": "623 Amanda Manors Suite 993 Lake Jenniferville, WY 70141",
+        "email": "joelkim@example.com",
+        "name": "Julie Stevenson"
+    },
+    "tax": {
+        "base": 26.36,
+        "tax_amount": 27.22,
+        "total_tax": 23.13
+    }
+}

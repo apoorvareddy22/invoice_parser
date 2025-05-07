@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "731 Russell Loaf Apt. 266 Coopertown, VI 54294"
+    },
+    "invoice": {
+        "bc_no": "gs40645",
+        "date": "07.07.1997",
+        "maturity_date": "21.08.2007",
+        "number": 867119
+    },
+    "products": [
+        {
+            "amount": 375.57,
+            "description": "scale plug-and-play channels",
+            "quantity": 6.84,
+            "unit_price": 55.41,
+            "vat_amount": 2.32
+        },
+        {
+            "amount": 214.31,
+            "description": "strategize sticky web services",
+            "quantity": 2.76,
+            "unit_price": 65.55,
+            "vat_amount": 6.35
+        },
+        {
+            "amount": 41.63,
+            "description": "synergize best-of-breed content",
+            "quantity": 8.96,
+            "unit_price": 70.37,
+            "vat_amount": 1.55
+        }
+    ],
+    "seller": {
+        "address": "427 Christine Valleys New Nathanview, CT 31936"
+    },
+    "tax": {
+        "amount_excluding_tax": 144.92,
+        "amount_including_tax": 78.97,
+        "tax_amount": 19.66
+    }
+}

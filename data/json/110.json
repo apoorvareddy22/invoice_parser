@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "Unit 9221 Box 0267 DPO AP 95820",
+        "company_name": "Taylor Inc",
+        "country": "Mozambique",
+        "name": "Joseph Maxwell"
+    },
+    "invoice": {
+        "date": "30.11.1997",
+        "number": 379857
+    },
+    "payment": {
+        "discount_amount": 32.9,
+        "discount_percentage": 14.62,
+        "due": 107.12,
+        "sub_total": 145.78,
+        "total": 815.46
+    },
+    "products": [
+        {
+            "description": "architect bricks-and-clicks experiences",
+            "index": "1",
+            "quantity": 9.4,
+            "total_price": 384.04,
+            "unit_price": 58.42
+        },
+        {
+            "description": "visualize visionary info-mediaries",
+            "index": "4",
+            "quantity": 2.51,
+            "total_price": 164.22,
+            "unit_price": 15.82
+        },
+        {
+            "description": "disintermediate next-generation architectures",
+            "index": "1",
+            "quantity": 7.51,
+            "total_price": 584.44,
+            "unit_price": 79.8
+        }
+    ],
+    "seller": {
+        "address": "61577 Amy Corner Suite 443 Liuchester, CO 71130",
+        "company_name": "Burnett LLC",
+        "vat_no": "kr06779251792"
+    }
+}

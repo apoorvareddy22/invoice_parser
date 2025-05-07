@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "45169 John Loop Daviston, PA 26316",
+        "business_no": "KR741",
+        "id": "iB457"
+    },
+    "invoice": {
+        "date": "22.07.1998",
+        "number": "0565-0669"
+    },
+    "payment": {
+        "due_date": "13.03.2005",
+        "total": 399.96
+    },
+    "products": [
+        {
+            "amount": 341.88,
+            "description": "leverage collaborative applications",
+            "quantity": 6.04,
+            "reference": "MI-604",
+            "unit_price": 12.91
+        },
+        {
+            "amount": 196.13,
+            "description": "iterate B2C vortals",
+            "quantity": 9.81,
+            "reference": "hh-313",
+            "unit_price": 61.27
+        },
+        {
+            "amount": 419.75,
+            "description": "extend compelling metrics",
+            "quantity": 3.7,
+            "reference": "iY-787",
+            "unit_price": 78.56
+        },
+        {
+            "amount": 302.38,
+            "description": "expedite vertical e-commerce",
+            "quantity": 3.47,
+            "reference": "Iq-396",
+            "unit_price": 43.34
+        },
+        {
+            "amount": 99.19,
+            "description": "enable e-business synergies",
+            "quantity": 8.54,
+            "reference": "PN-601",
+            "unit_price": 59.94
+        }
+    ],
+    "seller": {
+        "address": "343 Jerry Drive West Jeffrey, NC 49666"
+    },
+    "tax": {
+        "base_ht": 111.4,
+        "regulations": 16.32,
+        "total_ht": 420.11,
+        "vat_amount": 196.45,
+        "vat_percentage": 13.32
+    }
+}

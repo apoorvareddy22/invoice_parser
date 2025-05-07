@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "55528 Brandon Course New Joseph, NH 52943",
+        "business_no": "JR480",
+        "id": "ep337"
+    },
+    "invoice": {
+        "date": "21.05.2016",
+        "number": "5486-7672"
+    },
+    "payment": {
+        "due_date": "01.04.2021",
+        "total": 683.37
+    },
+    "products": [
+        {
+            "amount": 75.1,
+            "description": "cultivate enterprise web-readiness",
+            "quantity": 8.02,
+            "reference": "uu-131",
+            "unit_price": 90.11
+        },
+        {
+            "amount": 432.59,
+            "description": "expedite efficient mindshare",
+            "quantity": 3.37,
+            "reference": "ke-812",
+            "unit_price": 89.36
+        },
+        {
+            "amount": 26.03,
+            "description": "e-enable e-business action-items",
+            "quantity": 8.42,
+            "reference": "qT-080",
+            "unit_price": 31.92
+        }
+    ],
+    "seller": {
+        "address": "Unit 8802 Box 7654 DPO AA 40010"
+    },
+    "tax": {
+        "base_ht": 346.17,
+        "regulations": 23.93,
+        "total_ht": 143.63,
+        "vat_amount": 90.5,
+        "vat_percentage": 28.36
+    }
+}

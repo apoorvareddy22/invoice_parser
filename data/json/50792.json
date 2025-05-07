@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "8921 Tiffany Square Alexton, MI 30670",
+        "id": "nX913"
+    },
+    "invoice": {
+        "bc_no": "Bf28519",
+        "currency_code": "CLP",
+        "date": "04.04.2015",
+        "due_date": "02.02.2008",
+        "number": 412157
+    },
+    "payment": {
+        "bank_name": "Rodriguez LLC",
+        "bic": "TFPFGB7B",
+        "iban": "TNNK92314785068852"
+    },
+    "products": [
+        {
+            "amount": 188.32,
+            "description": "drive ubiquitous markets",
+            "index": "8",
+            "price": 456.34,
+            "quantity": 1.49,
+            "tax_amount": 16.27,
+            "total_ttc": 253.55,
+            "vat_amount": 3.02
+        },
+        {
+            "amount": 28.49,
+            "description": "synthesize innovative channels",
+            "index": "3",
+            "price": 189.95,
+            "quantity": 7.71,
+            "tax_amount": 86.73,
+            "total_ttc": 328.77,
+            "vat_amount": 3.17
+        },
+        {
+            "amount": 165.54,
+            "description": "iterate dynamic users",
+            "index": "7",
+            "price": 124.72,
+            "quantity": 9.38,
+            "tax_amount": 95.08,
+            "total_ttc": 460.38,
+            "vat_amount": 1.45
+        }
+    ],
+    "seller": {
+        "name": "Jenna Richardson"
+    },
+    "supplier": {
+        "address": "11546 Lauren Cliff Apt. 400 Courtneybury, MD 12053",
+        "name": "Bailey Lee"
+    },
+    "tax": {
+        "amount_excluding_tax": 70.56,
+        "amount_including_tax": 176.76,
+        "tax_amount": 12.62,
+        "total_ht": 183.8,
+        "total_ttc": 328.27
+    }
+}

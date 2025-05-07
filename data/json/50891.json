@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "08337 Wilson Ridge Lake Nathanbury, ME 84013",
+        "id": "JP476"
+    },
+    "invoice": {
+        "bc_no": "zB09996",
+        "currency_code": "BRL",
+        "date": "28.09.2011",
+        "due_date": "01.05.2012",
+        "number": 323297
+    },
+    "payment": {
+        "bank_name": "Santos, Morales and Fletcher",
+        "bic": "INXYGBJS",
+        "iban": "FRIY74688640055669"
+    },
+    "products": [
+        {
+            "amount": 490.24,
+            "description": "disintermediate holistic info-mediaries",
+            "index": "8",
+            "price": 297.48,
+            "quantity": 4.49,
+            "tax_amount": 82.98,
+            "total_ttc": 184.38,
+            "vat_amount": 8.7
+        },
+        {
+            "amount": 409.57,
+            "description": "morph enterprise mindshare",
+            "index": "2",
+            "price": 21.04,
+            "quantity": 9.79,
+            "tax_amount": 91.67,
+            "total_ttc": 414.8,
+            "vat_amount": 3.36
+        },
+        {
+            "amount": 31.46,
+            "description": "generate 24/365 users",
+            "index": "9",
+            "price": 201.08,
+            "quantity": 7.59,
+            "tax_amount": 57.96,
+            "total_ttc": 252.87,
+            "vat_amount": 4.26
+        },
+        {
+            "amount": 388.7,
+            "description": "target value-added initiatives",
+            "index": "10",
+            "price": 348.59,
+            "quantity": 9.72,
+            "tax_amount": 27.25,
+            "total_ttc": 317.28,
+            "vat_amount": 1.51
+        }
+    ],
+    "seller": {
+        "name": "Marissa Sherman"
+    },
+    "supplier": {
+        "address": "74238 Patton Lakes Suite 869 Jessicaborough, DE 43176",
+        "name": "Amy Black"
+    },
+    "tax": {
+        "amount_excluding_tax": 146.23,
+        "amount_including_tax": 133.04,
+        "tax_amount": 18.88,
+        "total_ht": 320.78,
+        "total_ttc": 227.77
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "960 Brittany Lodge North Benjaminchester, MS 95218",
+        "business_no": "iZ078",
+        "id": "be391"
+    },
+    "invoice": {
+        "date": "26.01.1995",
+        "number": "6497-6978"
+    },
+    "payment": {
+        "due_date": "19.05.2004",
+        "total": 479.43
+    },
+    "products": [
+        {
+            "amount": 245.84,
+            "description": "expedite magnetic ROI",
+            "quantity": 3.48,
+            "reference": "ld-866",
+            "unit_price": 19.64
+        },
+        {
+            "amount": 263.58,
+            "description": "generate wireless bandwidth",
+            "quantity": 1.52,
+            "reference": "DP-212",
+            "unit_price": 37.97
+        }
+    ],
+    "seller": {
+        "address": "03704 Michael Hill Christopherview, PR 87930"
+    },
+    "tax": {
+        "base_ht": 247.67,
+        "regulations": 23.53,
+        "total_ht": 171.34,
+        "vat_amount": 41.95,
+        "vat_percentage": 18.57
+    }
+}

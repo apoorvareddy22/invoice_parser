@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "4200 Lindsay Ports Suite 131 Port Chadhaven, WY 32443",
+        "id": "dj239"
+    },
+    "invoice": {
+        "bc_no": "Qv51126",
+        "currency_code": "LYD",
+        "date": "19.01.2007",
+        "due_date": "26.03.2022",
+        "number": 352226
+    },
+    "payment": {
+        "bank_name": "Hawkins-Fleming",
+        "bic": "DSFBGBVE",
+        "iban": "YGLL14630466573519"
+    },
+    "products": [
+        {
+            "amount": 174.67,
+            "description": "monetize holistic content",
+            "index": "3",
+            "price": 400.44,
+            "quantity": 8.68,
+            "tax_amount": 94.89,
+            "total_ttc": 148.35,
+            "vat_amount": 7.61
+        }
+    ],
+    "seller": {
+        "name": "Shawn Lewis"
+    },
+    "supplier": {
+        "address": "1512 Ortiz Track South Stephanieview, VI 05079",
+        "name": "Dwayne Scott"
+    },
+    "tax": {
+        "amount_excluding_tax": 125.41,
+        "amount_including_tax": 11.05,
+        "tax_amount": 28.23,
+        "total_ht": 321.1,
+        "total_ttc": 282.87
+    }
+}

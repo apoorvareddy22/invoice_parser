@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "USNS Fuller FPO AE 45860",
+        "business_no": "rc289",
+        "id": "pn073"
+    },
+    "invoice": {
+        "date": "27.04.1990",
+        "number": "2105-1308"
+    },
+    "payment": {
+        "due_date": "26.06.2017",
+        "total": 532.37
+    },
+    "products": [
+        {
+            "amount": 440.13,
+            "description": "evolve compelling niches",
+            "quantity": 8.69,
+            "reference": "xd-608",
+            "unit_price": 18.96
+        }
+    ],
+    "seller": {
+        "address": "28322 Joshua Underpass Cynthiaberg, MT 28757"
+    },
+    "tax": {
+        "base_ht": 241.64,
+        "regulations": 27.4,
+        "total_ht": 293.99,
+        "vat_amount": 68.43,
+        "vat_percentage": 20.85
+    }
+}

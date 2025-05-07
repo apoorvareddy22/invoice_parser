@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "24326 Brenda Glen Port Jacobbury, MT 15310",
+        "id": "ID559"
+    },
+    "invoice": {
+        "bc_no": "sL85759",
+        "currency_code": "KZT",
+        "date": "06.04.1995",
+        "due_date": "05.02.1992",
+        "number": 179565
+    },
+    "payment": {
+        "bank_name": "Wright, Cox and Thompson",
+        "bic": "CGEPGBXW",
+        "iban": "DLRZ72708245853734"
+    },
+    "products": [
+        {
+            "amount": 323.02,
+            "description": "repurpose frictionless interfaces",
+            "index": "5",
+            "price": 70.6,
+            "quantity": 8.54,
+            "tax_amount": 78.84,
+            "total_ttc": 208.14,
+            "vat_amount": 1.04
+        },
+        {
+            "amount": 170.22,
+            "description": "utilize magnetic e-business",
+            "index": "10",
+            "price": 97.42,
+            "quantity": 9.43,
+            "tax_amount": 25.8,
+            "total_ttc": 495.83,
+            "vat_amount": 2.06
+        },
+        {
+            "amount": 144.84,
+            "description": "e-enable extensible relationships",
+            "index": "6",
+            "price": 394.83,
+            "quantity": 3.35,
+            "tax_amount": 55.82,
+            "total_ttc": 332.69,
+            "vat_amount": 0.19
+        },
+        {
+            "amount": 365.92,
+            "description": "re-intermediate strategic systems",
+            "index": "9",
+            "price": 156.96,
+            "quantity": 7.4,
+            "tax_amount": 44.56,
+            "total_ttc": 388.3,
+            "vat_amount": 2.89
+        },
+        {
+            "amount": 100.21,
+            "description": "aggregate integrated synergies",
+            "index": "4",
+            "price": 98.11,
+            "quantity": 2.63,
+            "tax_amount": 74.83,
+            "total_ttc": 319.74,
+            "vat_amount": 4.69
+        },
+        {
+            "amount": 339.47,
+            "description": "innovate cross-media infrastructures",
+            "index": "6",
+            "price": 75.1,
+            "quantity": 1.6,
+            "tax_amount": 11.27,
+            "total_ttc": 258.08,
+            "vat_amount": 1.67
+        }
+    ],
+    "seller": {
+        "name": "Dawn Yu"
+    },
+    "supplier": {
+        "address": "99403 Daniel Vista Paulberg, NJ 84897",
+        "name": "Sherry Mathis"
+    },
+    "tax": {
+        "amount_excluding_tax": 141.98,
+        "amount_including_tax": 57.83,
+        "tax_amount": 21.1,
+        "total_ht": 305.62,
+        "total_ttc": 202.0
+    }
+}

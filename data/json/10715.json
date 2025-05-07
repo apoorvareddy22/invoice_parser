@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "66235 Juarez Route Suite 958 Wardmouth, DE 52460",
+        "email": "zrios@example.org",
+        "phone": "800-566-3412",
+        "vat_no": "Lm75641320449"
+    },
+    "invoice": {
+        "date": "31.10.1996",
+        "due_date": "18.07.2008",
+        "market_reference": 777020,
+        "notes": "benchmark virtual metrics",
+        "number": "7061-1631",
+        "reference": 495598,
+        "vat_no": "Bi99202360953"
+    },
+    "payment": {
+        "net_total": 78.2,
+        "total": 738.78
+    },
+    "products": [
+        {
+            "amount": 362.22,
+            "description": "grow real-time networks",
+            "hours": 2.33,
+            "rate": 3.9
+        },
+        {
+            "amount": 470.59,
+            "description": "cultivate B2B e-markets",
+            "hours": 6.6,
+            "rate": 5.57
+        },
+        {
+            "amount": 55.31,
+            "description": "engineer holistic schemas",
+            "hours": 6.75,
+            "rate": 5.71
+        },
+        {
+            "amount": 161.85,
+            "description": "generate one-to-one communities",
+            "hours": 9.95,
+            "rate": 6.9
+        }
+    ],
+    "seller": {
+        "address": "3321 Roger Alley Apt. 896 Dylanport, FL 47682",
+        "email": "hmartin@example.net",
+        "name": "Michelle Baker"
+    },
+    "tax": {
+        "base": 12.43,
+        "tax_amount": 12.67,
+        "total_tax": 17.08
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "Unit 1861 Box 9249 DPO AA 65190",
+        "id": "PY240"
+    },
+    "invoice": {
+        "bc_no": "zz46179",
+        "currency_code": "SGD",
+        "date": "12.11.2004",
+        "due_date": "25.09.1997",
+        "number": 890097
+    },
+    "payment": {
+        "bank_name": "Davis Inc",
+        "bic": "FLWTGB1K",
+        "iban": "TBIL81815309146941"
+    },
+    "products": [
+        {
+            "amount": 432.82,
+            "description": "visualize rich web-readiness",
+            "index": "4",
+            "price": 74.97,
+            "quantity": 1.76,
+            "tax_amount": 77.7,
+            "total_ttc": 395.17,
+            "vat_amount": 1.24
+        },
+        {
+            "amount": 301.93,
+            "description": "generate cross-platform architectures",
+            "index": "10",
+            "price": 319.91,
+            "quantity": 4.65,
+            "tax_amount": 21.03,
+            "total_ttc": 258.83,
+            "vat_amount": 5.95
+        },
+        {
+            "amount": 182.03,
+            "description": "drive dynamic metrics",
+            "index": "4",
+            "price": 168.82,
+            "quantity": 4.91,
+            "tax_amount": 87.19,
+            "total_ttc": 300.05,
+            "vat_amount": 3.61
+        },
+        {
+            "amount": 44.55,
+            "description": "maximize collaborative relationships",
+            "index": "7",
+            "price": 245.33,
+            "quantity": 7.68,
+            "tax_amount": 81.39,
+            "total_ttc": 446.04,
+            "vat_amount": 2.4
+        },
+        {
+            "amount": 324.13,
+            "description": "monetize magnetic models",
+            "index": "8",
+            "price": 147.97,
+            "quantity": 8.05,
+            "tax_amount": 76.57,
+            "total_ttc": 143.23,
+            "vat_amount": 2.67
+        },
+        {
+            "amount": 160.57,
+            "description": "drive out-of-the-box e-commerce",
+            "index": "1",
+            "price": 483.99,
+            "quantity": 4.15,
+            "tax_amount": 61.45,
+            "total_ttc": 163.34,
+            "vat_amount": 2.11
+        }
+    ],
+    "seller": {
+        "name": "Diana Miller"
+    },
+    "supplier": {
+        "address": "131 Chan Inlet Suite 021 Barrstad, UT 90932",
+        "name": "Tracy Ramos"
+    },
+    "tax": {
+        "amount_excluding_tax": 156.64,
+        "amount_including_tax": 136.87,
+        "tax_amount": 13.18,
+        "total_ht": 403.06,
+        "total_ttc": 296.5
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "86241 Sarah Mission West Joseph, AZ 49149",
+        "business_no": "DM461",
+        "id": "Aq546"
+    },
+    "invoice": {
+        "date": "11.05.2023",
+        "number": "5502-6253"
+    },
+    "payment": {
+        "due_date": "08.02.2008",
+        "total": 878.94
+    },
+    "products": [
+        {
+            "amount": 156.65,
+            "description": "incentivize open-source markets",
+            "quantity": 6.44,
+            "reference": "vU-430",
+            "unit_price": 95.12
+        },
+        {
+            "amount": 366.65,
+            "description": "utilize holistic content",
+            "quantity": 9.99,
+            "reference": "ph-364",
+            "unit_price": 13.23
+        },
+        {
+            "amount": 32.45,
+            "description": "aggregate compelling relationships",
+            "quantity": 5.4,
+            "reference": "lk-966",
+            "unit_price": 38.06
+        },
+        {
+            "amount": 252.67,
+            "description": "leverage cross-platform infrastructures",
+            "quantity": 6.1,
+            "reference": "oB-932",
+            "unit_price": 94.8
+        }
+    ],
+    "seller": {
+        "address": "31689 Porter Walks Kevinland, MH 55312"
+    },
+    "tax": {
+        "base_ht": 332.12,
+        "regulations": 24.93,
+        "total_ht": 217.95,
+        "vat_amount": 83.98,
+        "vat_percentage": 12.42
+    }
+}

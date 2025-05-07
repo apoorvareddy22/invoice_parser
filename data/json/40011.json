@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "2884 Cathy Bridge Apt. 815 West Michaelhaven, AS 99448"
+    },
+    "invoice": {
+        "bc_no": "Id45698",
+        "date": "20.02.2020",
+        "maturity_date": "23.01.1991",
+        "number": 371024
+    },
+    "products": [
+        {
+            "amount": 103.16,
+            "description": "scale innovative e-services",
+            "quantity": 6.44,
+            "unit_price": 76.68,
+            "vat_amount": 11.61
+        },
+        {
+            "amount": 441.14,
+            "description": "brand ubiquitous supply-chains",
+            "quantity": 5.91,
+            "unit_price": 74.59,
+            "vat_amount": 3.31
+        },
+        {
+            "amount": 132.73,
+            "description": "brand out-of-the-box models",
+            "quantity": 5.66,
+            "unit_price": 69.71,
+            "vat_amount": 3.97
+        }
+    ],
+    "seller": {
+        "address": "605 Paul Way Apt. 155 Lake Duanefort, ND 68811"
+    },
+    "tax": {
+        "amount_excluding_tax": 190.34,
+        "amount_including_tax": 151.91,
+        "tax_amount": 14.9
+    }
+}

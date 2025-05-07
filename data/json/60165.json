@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "9094 Patricia Ports Suite 643 Adamhaven, TN 29466",
+        "business_no": "fo959",
+        "id": "Mz830"
+    },
+    "invoice": {
+        "date": "01.10.2001",
+        "number": "2048-9609"
+    },
+    "payment": {
+        "due_date": "25.09.1999",
+        "total": 306.6
+    },
+    "products": [
+        {
+            "amount": 423.98,
+            "description": "brand 24/7 initiatives",
+            "quantity": 8.13,
+            "reference": "Bq-718",
+            "unit_price": 64.24
+        },
+        {
+            "amount": 374.39,
+            "description": "repurpose wireless e-commerce",
+            "quantity": 7.46,
+            "reference": "Lp-990",
+            "unit_price": 26.66
+        },
+        {
+            "amount": 64.57,
+            "description": "seize B2B infrastructures",
+            "quantity": 8.79,
+            "reference": "nJ-307",
+            "unit_price": 53.21
+        },
+        {
+            "amount": 258.21,
+            "description": "transition B2C interfaces",
+            "quantity": 8.23,
+            "reference": "JY-826",
+            "unit_price": 84.03
+        },
+        {
+            "amount": 261.29,
+            "description": "enhance 24/365 relationships",
+            "quantity": 5.26,
+            "reference": "oZ-342",
+            "unit_price": 92.34
+        }
+    ],
+    "seller": {
+        "address": "26935 Jones Locks North Johnshire, WA 07903"
+    },
+    "tax": {
+        "base_ht": 473.41,
+        "regulations": 23.5,
+        "total_ht": 447.2,
+        "vat_amount": 66.78,
+        "vat_percentage": 13.59
+    }
+}

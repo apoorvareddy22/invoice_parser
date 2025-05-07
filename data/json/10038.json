@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "24706 Mendoza Spurs West Davidton, AS 53760",
+        "email": "jonesmargaret@example.org",
+        "phone": "981-455-3411x84263",
+        "vat_no": "Qa48596825765"
+    },
+    "invoice": {
+        "date": "23.11.1999",
+        "due_date": "09.07.1999",
+        "market_reference": 113335,
+        "notes": "synergize frictionless info-mediaries",
+        "number": "4469-7260",
+        "reference": 973581,
+        "vat_no": "FN20636858736"
+    },
+    "payment": {
+        "net_total": 109.45,
+        "total": 310.81
+    },
+    "products": [
+        {
+            "amount": 43.44,
+            "description": "utilize global synergies",
+            "hours": 1.6,
+            "rate": 9.69
+        },
+        {
+            "amount": 112.02,
+            "description": "drive robust web services",
+            "hours": 6.52,
+            "rate": 5.05
+        },
+        {
+            "amount": 249.33,
+            "description": "innovate customized ROI",
+            "hours": 4.25,
+            "rate": 9.67
+        },
+        {
+            "amount": 291.72,
+            "description": "incentivize real-time architectures",
+            "hours": 2.89,
+            "rate": 1.13
+        },
+        {
+            "amount": 52.65,
+            "description": "empower synergistic systems",
+            "hours": 4.58,
+            "rate": 7.79
+        }
+    ],
+    "seller": {
+        "address": "652 Garcia Park Suite 229 New Jesuston, MH 85136",
+        "email": "medwards@example.net",
+        "name": "Erin Peck"
+    },
+    "tax": {
+        "base": 10.57,
+        "tax_amount": 15.84,
+        "total_tax": 18.74
+    }
+}

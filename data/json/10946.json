@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "17689 Eric Plain Port Jesse, NH 48403",
+        "email": "micheal53@example.com",
+        "phone": "+1-359-601-2647x32535",
+        "vat_no": "QM87747441530"
+    },
+    "invoice": {
+        "date": "11.09.1991",
+        "due_date": "03.12.2006",
+        "market_reference": 164131,
+        "notes": "leverage bleeding-edge web services",
+        "number": "5329-9154",
+        "reference": 753385,
+        "vat_no": "el27695741547"
+    },
+    "payment": {
+        "net_total": 111.4,
+        "total": 810.09
+    },
+    "products": [
+        {
+            "amount": 287.41,
+            "description": "aggregate value-added convergence",
+            "hours": 2.9,
+            "rate": 5.32
+        },
+        {
+            "amount": 80.21,
+            "description": "productize collaborative technologies",
+            "hours": 9.17,
+            "rate": 3.73
+        },
+        {
+            "amount": 263.58,
+            "description": "drive proactive markets",
+            "hours": 6.87,
+            "rate": 7.0
+        },
+        {
+            "amount": 456.4,
+            "description": "benchmark bricks-and-clicks relationships",
+            "hours": 2.55,
+            "rate": 3.67
+        },
+        {
+            "amount": 226.45,
+            "description": "revolutionize value-added web-readiness",
+            "hours": 8.69,
+            "rate": 2.91
+        },
+        {
+            "amount": 373.7,
+            "description": "engineer next-generation e-business",
+            "hours": 1.94,
+            "rate": 4.28
+        }
+    ],
+    "seller": {
+        "address": "900 Christine Dale Meyerberg, TN 88999",
+        "email": "kylegonzalez@example.org",
+        "name": "Dr. Daniel Grant"
+    },
+    "tax": {
+        "base": 18.11,
+        "tax_amount": 20.29,
+        "total_tax": 12.77
+    }
+}

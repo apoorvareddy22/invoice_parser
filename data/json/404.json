@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "199 Nicole Loop Kathyhaven, MO 85936",
+        "company_name": "Gilbert, Garcia and Richardson",
+        "country": "Azerbaijan",
+        "name": "Sierra Lozano"
+    },
+    "invoice": {
+        "date": "07.07.1992",
+        "number": 443820
+    },
+    "payment": {
+        "discount_amount": 33.27,
+        "discount_percentage": 5.58,
+        "due": 45.0,
+        "sub_total": 33.09,
+        "total": 356.3
+    },
+    "products": [
+        {
+            "description": "harness enterprise initiatives",
+            "index": "1",
+            "quantity": 3.6,
+            "total_price": 501.43,
+            "unit_price": 26.04
+        },
+        {
+            "description": "utilize transparent relationships",
+            "index": "2",
+            "quantity": 8.81,
+            "total_price": 285.29,
+            "unit_price": 62.44
+        }
+    ],
+    "seller": {
+        "address": "PSC 7444, Box 9857 APO AP 87248",
+        "company_name": "Howard-Luna",
+        "vat_no": "xT49121293519"
+    }
+}

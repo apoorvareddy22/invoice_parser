@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "PSC 8964, Box 9937 APO AP 64658",
+        "id": "wp549"
+    },
+    "invoice": {
+        "bc_no": "cS66494",
+        "currency_code": "USD",
+        "date": "28.06.2021",
+        "due_date": "12.03.1998",
+        "number": 206746
+    },
+    "payment": {
+        "bank_name": "Kirby-Davila",
+        "bic": "IZYBGBJX1GR",
+        "iban": "UAHJ69107811278511"
+    },
+    "products": [
+        {
+            "amount": 258.07,
+            "description": "optimize dynamic partnerships",
+            "index": "4",
+            "price": 146.75,
+            "quantity": 9.22,
+            "tax_amount": 75.34,
+            "total_ttc": 246.02,
+            "vat_amount": 2.84
+        }
+    ],
+    "seller": {
+        "name": "Carolyn Porter MD"
+    },
+    "supplier": {
+        "address": "8772 Wilson Ranch Suite 569 East Dennis, NH 77705",
+        "name": "Kimberly Montgomery"
+    },
+    "tax": {
+        "amount_excluding_tax": 190.8,
+        "amount_including_tax": 31.02,
+        "tax_amount": 18.46,
+        "total_ht": 298.82,
+        "total_ttc": 103.95
+    }
+}

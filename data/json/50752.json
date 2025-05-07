@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "576 Walter Mills Apt. 306 Roberthaven, VA 08123",
+        "id": "IM862"
+    },
+    "invoice": {
+        "bc_no": "oC23711",
+        "currency_code": "SLL",
+        "date": "09.01.2003",
+        "due_date": "22.09.1999",
+        "number": 786068
+    },
+    "payment": {
+        "bank_name": "Valdez, Villarreal and Barnes",
+        "bic": "ZBNEGB7OBT3",
+        "iban": "WEOV93011480964130"
+    },
+    "products": [
+        {
+            "amount": 69.9,
+            "description": "engage virtual interfaces",
+            "index": "3",
+            "price": 269.28,
+            "quantity": 5.84,
+            "tax_amount": 17.2,
+            "total_ttc": 236.96,
+            "vat_amount": 0.52
+        },
+        {
+            "amount": 53.44,
+            "description": "redefine ubiquitous mindshare",
+            "index": "6",
+            "price": 221.91,
+            "quantity": 7.77,
+            "tax_amount": 66.36,
+            "total_ttc": 118.11,
+            "vat_amount": 1.21
+        },
+        {
+            "amount": 84.47,
+            "description": "grow holistic eyeballs",
+            "index": "5",
+            "price": 191.16,
+            "quantity": 9.15,
+            "tax_amount": 78.41,
+            "total_ttc": 203.68,
+            "vat_amount": 0.66
+        },
+        {
+            "amount": 482.55,
+            "description": "architect back-end solutions",
+            "index": "4",
+            "price": 343.21,
+            "quantity": 2.36,
+            "tax_amount": 15.1,
+            "total_ttc": 433.23,
+            "vat_amount": 2.31
+        },
+        {
+            "amount": 445.78,
+            "description": "scale user-centric schemas",
+            "index": "1",
+            "price": 453.88,
+            "quantity": 1.45,
+            "tax_amount": 52.7,
+            "total_ttc": 295.83,
+            "vat_amount": 6.21
+        },
+        {
+            "amount": 320.72,
+            "description": "deliver open-source synergies",
+            "index": "4",
+            "price": 33.07,
+            "quantity": 6.65,
+            "tax_amount": 44.86,
+            "total_ttc": 237.47,
+            "vat_amount": 0.2
+        },
+        {
+            "amount": 122.66,
+            "description": "whiteboard granular technologies",
+            "index": "6",
+            "price": 18.22,
+            "quantity": 6.91,
+            "tax_amount": 48.62,
+            "total_ttc": 474.49,
+            "vat_amount": 1.5
+        }
+    ],
+    "seller": {
+        "name": "Jason Fletcher"
+    },
+    "supplier": {
+        "address": "260 Martinez Square Suite 908 Lake William, MN 87822",
+        "name": "Julia Clark"
+    },
+    "tax": {
+        "amount_excluding_tax": 142.31,
+        "amount_including_tax": 26.72,
+        "tax_amount": 25.54,
+        "total_ht": 428.87,
+        "total_ttc": 334.79
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "35231 Moore Courts Apt. 714 Masseyfort, TX 14386",
+        "id": "yg445"
+    },
+    "invoice": {
+        "bc_no": "nt31742",
+        "currency_code": "IRR",
+        "date": "27.05.2005",
+        "due_date": "24.01.2022",
+        "number": 379282
+    },
+    "payment": {
+        "bank_name": "Garcia, Rodgers and Mitchell",
+        "bic": "NRRRGB0YCB0",
+        "iban": "AUZZ96282097540884"
+    },
+    "products": [
+        {
+            "amount": 110.52,
+            "description": "orchestrate cross-platform bandwidth",
+            "index": "6",
+            "price": 440.48,
+            "quantity": 6.71,
+            "tax_amount": 97.28,
+            "total_ttc": 108.09,
+            "vat_amount": 0.67
+        },
+        {
+            "amount": 108.18,
+            "description": "streamline dynamic markets",
+            "index": "5",
+            "price": 53.99,
+            "quantity": 8.4,
+            "tax_amount": 72.13,
+            "total_ttc": 407.92,
+            "vat_amount": 12.28
+        },
+        {
+            "amount": 261.34,
+            "description": "synergize clicks-and-mortar relationships",
+            "index": "4",
+            "price": 110.87,
+            "quantity": 8.29,
+            "tax_amount": 33.77,
+            "total_ttc": 481.0,
+            "vat_amount": 10.41
+        },
+        {
+            "amount": 485.64,
+            "description": "reinvent interactive e-services",
+            "index": "9",
+            "price": 418.01,
+            "quantity": 8.65,
+            "tax_amount": 63.1,
+            "total_ttc": 450.47,
+            "vat_amount": 1.38
+        },
+        {
+            "amount": 385.25,
+            "description": "repurpose one-to-one deliverables",
+            "index": "4",
+            "price": 445.71,
+            "quantity": 1.03,
+            "tax_amount": 29.23,
+            "total_ttc": 291.24,
+            "vat_amount": 1.5
+        },
+        {
+            "amount": 326.99,
+            "description": "deliver best-of-breed supply-chains",
+            "index": "8",
+            "price": 61.1,
+            "quantity": 5.83,
+            "tax_amount": 62.27,
+            "total_ttc": 403.83,
+            "vat_amount": 7.68
+        },
+        {
+            "amount": 432.62,
+            "description": "utilize compelling applications",
+            "index": "1",
+            "price": 19.06,
+            "quantity": 1.11,
+            "tax_amount": 83.71,
+            "total_ttc": 170.87,
+            "vat_amount": 1.55
+        }
+    ],
+    "seller": {
+        "name": "Andrew Schneider"
+    },
+    "supplier": {
+        "address": "8317 Arias Ramp Apt. 146 Fitzgeraldberg, MO 22942",
+        "name": "Tina Yang"
+    },
+    "tax": {
+        "amount_excluding_tax": 62.81,
+        "amount_including_tax": 125.18,
+        "tax_amount": 17.15,
+        "total_ht": 332.64,
+        "total_ttc": 326.0
+    }
+}

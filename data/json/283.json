@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "354 Munoz Loop Suite 142 West David, AK 63929",
+        "company_name": "Guzman, Smith and Mills",
+        "country": "Ecuador",
+        "name": "Rhonda Morrow"
+    },
+    "invoice": {
+        "date": "23.02.2004",
+        "number": 805451
+    },
+    "payment": {
+        "discount_amount": 31.15,
+        "discount_percentage": 7.36,
+        "due": 115.1,
+        "sub_total": 103.69,
+        "total": 506.02
+    },
+    "products": [
+        {
+            "description": "architect viral convergence",
+            "index": "9",
+            "quantity": 3.06,
+            "total_price": 329.91,
+            "unit_price": 57.47
+        },
+        {
+            "description": "drive impactful markets",
+            "index": "5",
+            "quantity": 8.49,
+            "total_price": 258.04,
+            "unit_price": 80.08
+        },
+        {
+            "description": "utilize leading-edge content",
+            "index": "5",
+            "quantity": 1.48,
+            "total_price": 442.67,
+            "unit_price": 24.45
+        }
+    ],
+    "seller": {
+        "address": "49325 Long Ridge Port Patricia, AZ 81855",
+        "company_name": "Allen Ltd",
+        "vat_no": "FE59156477304"
+    }
+}

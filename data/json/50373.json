@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "79181 Turner Lodge Apt. 702 New Sarahville, CA 11757",
+        "id": "bd605"
+    },
+    "invoice": {
+        "bc_no": "fy54479",
+        "currency_code": "LRD",
+        "date": "23.07.1994",
+        "due_date": "17.10.1990",
+        "number": 276044
+    },
+    "payment": {
+        "bank_name": "Burns, Vaughan and Conway",
+        "bic": "NQGUGBOG",
+        "iban": "HYQL01256206397168"
+    },
+    "products": [
+        {
+            "amount": 264.54,
+            "description": "e-enable back-end paradigms",
+            "index": "1",
+            "price": 293.83,
+            "quantity": 9.3,
+            "tax_amount": 30.33,
+            "total_ttc": 432.42,
+            "vat_amount": 0.19
+        },
+        {
+            "amount": 98.98,
+            "description": "scale intuitive solutions",
+            "index": "2",
+            "price": 340.48,
+            "quantity": 2.51,
+            "tax_amount": 28.92,
+            "total_ttc": 354.27,
+            "vat_amount": 4.79
+        },
+        {
+            "amount": 57.7,
+            "description": "engineer one-to-one bandwidth",
+            "index": "9",
+            "price": 464.8,
+            "quantity": 4.86,
+            "tax_amount": 69.06,
+            "total_ttc": 486.64,
+            "vat_amount": 0.25
+        },
+        {
+            "amount": 73.81,
+            "description": "revolutionize killer partnerships",
+            "index": "2",
+            "price": 105.19,
+            "quantity": 8.01,
+            "tax_amount": 87.36,
+            "total_ttc": 195.06,
+            "vat_amount": 6.27
+        },
+        {
+            "amount": 183.19,
+            "description": "unleash holistic action-items",
+            "index": "5",
+            "price": 99.67,
+            "quantity": 9.04,
+            "tax_amount": 42.84,
+            "total_ttc": 452.71,
+            "vat_amount": 0.43
+        },
+        {
+            "amount": 358.72,
+            "description": "repurpose revolutionary supply-chains",
+            "index": "8",
+            "price": 223.21,
+            "quantity": 7.62,
+            "tax_amount": 42.6,
+            "total_ttc": 373.26,
+            "vat_amount": 3.64
+        }
+    ],
+    "seller": {
+        "name": "Cheryl Jackson"
+    },
+    "supplier": {
+        "address": "98044 Rachel Terrace Port Joseph, AR 52119",
+        "name": "Joe Peters"
+    },
+    "tax": {
+        "amount_excluding_tax": 164.81,
+        "amount_including_tax": 75.21,
+        "tax_amount": 25.13,
+        "total_ht": 386.12,
+        "total_ttc": 269.16
+    }
+}

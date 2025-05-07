@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "6700 Smith Extension Apt. 557 South Christopher, AL 45047"
+    },
+    "invoice": {
+        "bc_no": "Cq06606",
+        "date": "26.03.1997",
+        "maturity_date": "13.10.2008",
+        "number": 510786
+    },
+    "products": [
+        {
+            "amount": 211.36,
+            "description": "exploit value-added web-readiness",
+            "quantity": 5.52,
+            "unit_price": 92.35,
+            "vat_amount": 1.53
+        },
+        {
+            "amount": 353.16,
+            "description": "streamline open-source infrastructures",
+            "quantity": 2.78,
+            "unit_price": 78.09,
+            "vat_amount": 7.96
+        },
+        {
+            "amount": 358.81,
+            "description": "empower end-to-end synergies",
+            "quantity": 5.53,
+            "unit_price": 36.08,
+            "vat_amount": 15.54
+        },
+        {
+            "amount": 282.32,
+            "description": "architect impactful web services",
+            "quantity": 10.0,
+            "unit_price": 69.35,
+            "vat_amount": 1.16
+        },
+        {
+            "amount": 360.32,
+            "description": "mesh leading-edge info-mediaries",
+            "quantity": 7.54,
+            "unit_price": 48.14,
+            "vat_amount": 3.21
+        },
+        {
+            "amount": 38.12,
+            "description": "harness clicks-and-mortar experiences",
+            "quantity": 8.45,
+            "unit_price": 68.62,
+            "vat_amount": 6.62
+        }
+    ],
+    "seller": {
+        "address": "082 Benson Ports Apt. 789 Kimberlyshire, AS 81009"
+    },
+    "tax": {
+        "amount_excluding_tax": 88.31,
+        "amount_including_tax": 142.22,
+        "tax_amount": 20.07
+    }
+}

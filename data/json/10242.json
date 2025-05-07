@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "8576 Zachary Cliff Suite 412 East Jennifer, KY 67892",
+        "email": "lbush@example.org",
+        "phone": "939.647.1969",
+        "vat_no": "oY00219487358"
+    },
+    "invoice": {
+        "date": "17.05.2015",
+        "due_date": "07.09.1998",
+        "market_reference": 256546,
+        "notes": "cultivate bricks-and-clicks deliverables",
+        "number": "1387-3465",
+        "reference": 116173,
+        "vat_no": "LF59254007805"
+    },
+    "payment": {
+        "net_total": 25.89,
+        "total": 755.64
+    },
+    "products": [
+        {
+            "amount": 73.76,
+            "description": "re-contextualize web-enabled functionalities",
+            "hours": 8.49,
+            "rate": 2.85
+        },
+        {
+            "amount": 123.34,
+            "description": "re-contextualize cross-media architectures",
+            "hours": 6.73,
+            "rate": 5.89
+        },
+        {
+            "amount": 345.41,
+            "description": "transition turn-key channels",
+            "hours": 2.08,
+            "rate": 7.77
+        }
+    ],
+    "seller": {
+        "address": "USS Baird FPO AP 25712",
+        "email": "jonathan93@example.org",
+        "name": "Jennifer Holmes"
+    },
+    "tax": {
+        "base": 26.88,
+        "tax_amount": 27.66,
+        "total_tax": 16.32
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "077 Richard Fields Suite 889 Jacksonshire, NJ 86963"
+    },
+    "invoice": {
+        "bc_no": "nV98927",
+        "date": "10.06.2019",
+        "maturity_date": "13.08.1991",
+        "number": 769456
+    },
+    "products": [
+        {
+            "amount": 429.37,
+            "description": "embrace dynamic info-mediaries",
+            "quantity": 2.42,
+            "unit_price": 83.19,
+            "vat_amount": 3.65
+        },
+        {
+            "amount": 161.1,
+            "description": "envisioneer extensible e-services",
+            "quantity": 5.01,
+            "unit_price": 92.66,
+            "vat_amount": 6.98
+        },
+        {
+            "amount": 204.93,
+            "description": "harness 24/7 communities",
+            "quantity": 3.09,
+            "unit_price": 64.27,
+            "vat_amount": 0.4
+        }
+    ],
+    "seller": {
+        "address": "25366 Alicia Turnpike Apt. 653 Toddland, WV 51270"
+    },
+    "tax": {
+        "amount_excluding_tax": 113.23,
+        "amount_including_tax": 170.11,
+        "tax_amount": 13.19
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "4751 Brandon Pine Leachfurt, MT 91593",
+        "id": "IS556"
+    },
+    "invoice": {
+        "bc_no": "Qm88398",
+        "currency_code": "LSL",
+        "date": "23.01.2008",
+        "due_date": "10.10.2020",
+        "number": 563648
+    },
+    "payment": {
+        "bank_name": "Kennedy, Davis and Noble",
+        "bic": "CUPQGBRZSQ4",
+        "iban": "SZOW74783931012106"
+    },
+    "products": [
+        {
+            "amount": 408.61,
+            "description": "monetize virtual infrastructures",
+            "index": "4",
+            "price": 68.57,
+            "quantity": 4.45,
+            "tax_amount": 32.48,
+            "total_ttc": 252.62,
+            "vat_amount": 0.58
+        },
+        {
+            "amount": 470.88,
+            "description": "mesh B2C e-commerce",
+            "index": "10",
+            "price": 111.17,
+            "quantity": 6.31,
+            "tax_amount": 52.16,
+            "total_ttc": 187.1,
+            "vat_amount": 0.37
+        },
+        {
+            "amount": 314.08,
+            "description": "utilize real-time infrastructures",
+            "index": "1",
+            "price": 423.84,
+            "quantity": 3.48,
+            "tax_amount": 52.28,
+            "total_ttc": 218.67,
+            "vat_amount": 1.78
+        },
+        {
+            "amount": 470.65,
+            "description": "redefine next-generation e-commerce",
+            "index": "10",
+            "price": 273.43,
+            "quantity": 2.11,
+            "tax_amount": 59.7,
+            "total_ttc": 388.3,
+            "vat_amount": 15.11
+        },
+        {
+            "amount": 220.83,
+            "description": "aggregate turn-key web-readiness",
+            "index": "10",
+            "price": 93.73,
+            "quantity": 1.44,
+            "tax_amount": 54.63,
+            "total_ttc": 121.5,
+            "vat_amount": 10.61
+        },
+        {
+            "amount": 139.07,
+            "description": "embrace impactful portals",
+            "index": "2",
+            "price": 84.71,
+            "quantity": 9.7,
+            "tax_amount": 81.96,
+            "total_ttc": 439.03,
+            "vat_amount": 1.1
+        }
+    ],
+    "seller": {
+        "name": "Joshua Jones"
+    },
+    "supplier": {
+        "address": "18166 Jennings Radial East Jeffreyshire, FM 47249",
+        "name": "Eric Martinez"
+    },
+    "tax": {
+        "amount_excluding_tax": 39.74,
+        "amount_including_tax": 97.77,
+        "tax_amount": 11.56,
+        "total_ht": 403.73,
+        "total_ttc": 137.47
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "3200 Oscar Views East Tylerbury, NC 97116",
+        "email": "wyoung@example.net",
+        "phone": "947.898.8551x9766",
+        "vat_no": "xI23697855048"
+    },
+    "invoice": {
+        "date": "05.04.2006",
+        "due_date": "10.04.2017",
+        "market_reference": 736914,
+        "notes": "empower interactive supply-chains",
+        "number": "8789-1539",
+        "reference": 868686,
+        "vat_no": "IN50683769353"
+    },
+    "payment": {
+        "net_total": 79.47,
+        "total": 985.26
+    },
+    "products": [
+        {
+            "amount": 441.11,
+            "description": "expedite bricks-and-clicks convergence",
+            "hours": 7.81,
+            "rate": 2.19
+        },
+        {
+            "amount": 424.39,
+            "description": "re-contextualize clicks-and-mortar convergence",
+            "hours": 8.41,
+            "rate": 1.66
+        },
+        {
+            "amount": 186.89,
+            "description": "disintermediate e-business portals",
+            "hours": 3.98,
+            "rate": 3.99
+        },
+        {
+            "amount": 341.0,
+            "description": "architect innovative web-readiness",
+            "hours": 7.73,
+            "rate": 1.91
+        },
+        {
+            "amount": 461.73,
+            "description": "maximize plug-and-play e-markets",
+            "hours": 6.91,
+            "rate": 6.26
+        },
+        {
+            "amount": 201.77,
+            "description": "syndicate user-centric infrastructures",
+            "hours": 6.81,
+            "rate": 6.55
+        },
+        {
+            "amount": 246.08,
+            "description": "incentivize dynamic solutions",
+            "hours": 6.2,
+            "rate": 4.81
+        }
+    ],
+    "seller": {
+        "address": "48499 Rachel Run Suite 315 Leachberg, NM 81955",
+        "email": "george27@example.com",
+        "name": "Elizabeth Porter"
+    },
+    "tax": {
+        "base": 16.0,
+        "tax_amount": 14.42,
+        "total_tax": 22.99
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "4421 Alvarez Curve Suite 513 Rebeccaside, MO 04668",
+        "id": "kr798"
+    },
+    "invoice": {
+        "bc_no": "jt24888",
+        "currency_code": "TRY",
+        "date": "03.02.1991",
+        "due_date": "17.07.1996",
+        "number": 355177
+    },
+    "payment": {
+        "bank_name": "Matthews-Wall",
+        "bic": "XVQGGB9G",
+        "iban": "PJJB50012920498642"
+    },
+    "products": [
+        {
+            "amount": 489.18,
+            "description": "empower cutting-edge methodologies",
+            "index": "9",
+            "price": 197.43,
+            "quantity": 2.86,
+            "tax_amount": 29.2,
+            "total_ttc": 213.81,
+            "vat_amount": 1.67
+        },
+        {
+            "amount": 465.75,
+            "description": "synthesize leading-edge eyeballs",
+            "index": "8",
+            "price": 399.05,
+            "quantity": 9.85,
+            "tax_amount": 51.29,
+            "total_ttc": 462.44,
+            "vat_amount": 4.94
+        },
+        {
+            "amount": 191.59,
+            "description": "extend open-source vortals",
+            "index": "10",
+            "price": 367.26,
+            "quantity": 4.77,
+            "tax_amount": 23.01,
+            "total_ttc": 230.52,
+            "vat_amount": 0.0
+        },
+        {
+            "amount": 7.81,
+            "description": "seize distributed relationships",
+            "index": "8",
+            "price": 482.65,
+            "quantity": 5.39,
+            "tax_amount": 80.4,
+            "total_ttc": 495.55,
+            "vat_amount": 5.46
+        }
+    ],
+    "seller": {
+        "name": "Sarah Meyer"
+    },
+    "supplier": {
+        "address": "73663 Henry Spurs Apt. 500 Port Catherinefurt, UT 66422",
+        "name": "John Holland"
+    },
+    "tax": {
+        "amount_excluding_tax": 96.65,
+        "amount_including_tax": 149.2,
+        "tax_amount": 21.03,
+        "total_ht": 481.37,
+        "total_ttc": 380.39
+    }
+}

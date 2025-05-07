@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "7964 Warren Port West Keith, WA 53433",
+        "id": "oX212"
+    },
+    "invoice": {
+        "bc_no": "Fe26790",
+        "currency_code": "PGK",
+        "date": "08.11.2007",
+        "due_date": "28.07.2014",
+        "number": 500904
+    },
+    "payment": {
+        "bank_name": "Brown, Fernandez and Jackson",
+        "bic": "IOEQGB7C",
+        "iban": "PCHU86453961910839"
+    },
+    "products": [
+        {
+            "amount": 314.3,
+            "description": "drive transparent e-business",
+            "index": "1",
+            "price": 374.29,
+            "quantity": 3.12,
+            "tax_amount": 58.79,
+            "total_ttc": 185.96,
+            "vat_amount": 0.99
+        },
+        {
+            "amount": 178.2,
+            "description": "incentivize end-to-end action-items",
+            "index": "7",
+            "price": 154.86,
+            "quantity": 5.11,
+            "tax_amount": 57.89,
+            "total_ttc": 450.78,
+            "vat_amount": 0.62
+        },
+        {
+            "amount": 335.63,
+            "description": "enhance mission-critical convergence",
+            "index": "5",
+            "price": 361.92,
+            "quantity": 9.4,
+            "tax_amount": 19.12,
+            "total_ttc": 277.18,
+            "vat_amount": 7.49
+        },
+        {
+            "amount": 159.09,
+            "description": "drive integrated deliverables",
+            "index": "1",
+            "price": 132.81,
+            "quantity": 6.48,
+            "tax_amount": 26.53,
+            "total_ttc": 130.34,
+            "vat_amount": 5.48
+        },
+        {
+            "amount": 136.51,
+            "description": "utilize interactive systems",
+            "index": "1",
+            "price": 296.94,
+            "quantity": 6.56,
+            "tax_amount": 15.93,
+            "total_ttc": 300.91,
+            "vat_amount": 3.95
+        },
+        {
+            "amount": 227.39,
+            "description": "re-intermediate front-end info-mediaries",
+            "index": "10",
+            "price": 444.0,
+            "quantity": 7.02,
+            "tax_amount": 68.54,
+            "total_ttc": 114.8,
+            "vat_amount": 7.12
+        }
+    ],
+    "seller": {
+        "name": "Rhonda Sutton"
+    },
+    "supplier": {
+        "address": "6683 Jack Way Angelaside, FL 29039",
+        "name": "Dennis Roberts"
+    },
+    "tax": {
+        "amount_excluding_tax": 31.05,
+        "amount_including_tax": 151.22,
+        "tax_amount": 14.48,
+        "total_ht": 250.36,
+        "total_ttc": 327.16
+    }
+}

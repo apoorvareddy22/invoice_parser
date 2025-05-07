@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "3567 Vicki Rapids Suite 453 South Michelle, AL 00564",
+        "company_name": "Hancock PLC",
+        "email": "smithmichael@example.com",
+        "name": "Andrea Phillips",
+        "phone": "+1-969-821-3728x29747"
+    },
+    "invoice": {
+        "date": "30.07.2010",
+        "due_date": "16.06.2021",
+        "number": "gym33739477052"
+    },
+    "payment": {
+        "account_number": 9306548628,
+        "bank_name": "Carpenter-Berg",
+        "routing_number": 331466847
+    },
+    "products": [
+        {
+            "amount": 231.29,
+            "description": "incubate strategic action-items",
+            "index": "6",
+            "quantity": 8.14,
+            "unit_price": 46.32
+        },
+        {
+            "amount": 328.01,
+            "description": "synthesize efficient relationships",
+            "index": "6",
+            "quantity": 6.36,
+            "unit_price": 70.88
+        },
+        {
+            "amount": 79.4,
+            "description": "maximize frictionless web services",
+            "index": "7",
+            "quantity": 1.99,
+            "unit_price": 25.88
+        },
+        {
+            "amount": 91.74,
+            "description": "reinvent dynamic bandwidth",
+            "index": "10",
+            "quantity": 2.32,
+            "unit_price": 21.92
+        }
+    ],
+    "seller": {
+        "address": "61459 Marissa Rue Apt. 235 Port Philip, UT 95539",
+        "company_name": "Morales PLC",
+        "email": "hillkelly@example.org"
+    }
+}

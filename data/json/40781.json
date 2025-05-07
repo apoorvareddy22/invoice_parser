@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "586 Holly Haven Michaelshire, MO 06549"
+    },
+    "invoice": {
+        "bc_no": "tq02822",
+        "date": "31.12.2020",
+        "maturity_date": "03.11.2006",
+        "number": 718885
+    },
+    "products": [
+        {
+            "amount": 234.79,
+            "description": "re-contextualize seamless vortals",
+            "quantity": 5.24,
+            "unit_price": 15.99,
+            "vat_amount": 7.21
+        },
+        {
+            "amount": 130.32,
+            "description": "exploit back-end markets",
+            "quantity": 5.78,
+            "unit_price": 11.98,
+            "vat_amount": 4.83
+        },
+        {
+            "amount": 87.59,
+            "description": "incubate holistic functionalities",
+            "quantity": 9.37,
+            "unit_price": 41.6,
+            "vat_amount": 1.92
+        }
+    ],
+    "seller": {
+        "address": "629 Mary Fields Suite 490 Dennisville, LA 11391"
+    },
+    "tax": {
+        "amount_excluding_tax": 179.9,
+        "amount_including_tax": 190.72,
+        "tax_amount": 13.78
+    }
+}

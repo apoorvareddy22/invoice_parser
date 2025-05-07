@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "65121 Armstrong Mall Markfurt, CO 37634",
+        "id": "CK343"
+    },
+    "invoice": {
+        "bc_no": "II21763",
+        "currency_code": "BAM",
+        "date": "15.09.1991",
+        "due_date": "01.09.1991",
+        "number": 561181
+    },
+    "payment": {
+        "bank_name": "Green, Collins and Lynch",
+        "bic": "FPEXGBNCYUQ",
+        "iban": "IAOD62153134910570"
+    },
+    "products": [
+        {
+            "amount": 214.49,
+            "description": "extend plug-and-play relationships",
+            "index": "8",
+            "price": 124.83,
+            "quantity": 3.59,
+            "tax_amount": 14.65,
+            "total_ttc": 219.59,
+            "vat_amount": 7.93
+        }
+    ],
+    "seller": {
+        "name": "Jason Barnes"
+    },
+    "supplier": {
+        "address": "2701 Matthew Underpass Brownbury, AK 63755",
+        "name": "Angela Collier"
+    },
+    "tax": {
+        "amount_excluding_tax": 198.32,
+        "amount_including_tax": 106.39,
+        "tax_amount": 19.7,
+        "total_ht": 451.53,
+        "total_ttc": 245.27
+    }
+}

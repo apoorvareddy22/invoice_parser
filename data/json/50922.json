@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "USNS Villarreal FPO AE 84515",
+        "id": "ne925"
+    },
+    "invoice": {
+        "bc_no": "oR33034",
+        "currency_code": "BDT",
+        "date": "06.04.2022",
+        "due_date": "24.05.2011",
+        "number": 239306
+    },
+    "payment": {
+        "bank_name": "Gutierrez Ltd",
+        "bic": "CDYSGBGRVZG",
+        "iban": "EYBU34577354553762"
+    },
+    "products": [
+        {
+            "amount": 475.41,
+            "description": "disintermediate cross-media convergence",
+            "index": "4",
+            "price": 188.05,
+            "quantity": 8.62,
+            "tax_amount": 17.34,
+            "total_ttc": 450.9,
+            "vat_amount": 7.63
+        }
+    ],
+    "seller": {
+        "name": "Nicole Daniels"
+    },
+    "supplier": {
+        "address": "82907 Laura Place Apt. 837 Port Kennethburgh, DC 51733",
+        "name": "Benjamin Kirby"
+    },
+    "tax": {
+        "amount_excluding_tax": 158.03,
+        "amount_including_tax": 66.29,
+        "tax_amount": 19.34,
+        "total_ht": 344.18,
+        "total_ttc": 460.05
+    }
+}

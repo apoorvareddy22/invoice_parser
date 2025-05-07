@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "1834 Kevin Flats North Craig, ND 98086",
+        "business_no": "Bt290",
+        "id": "tt215"
+    },
+    "invoice": {
+        "date": "01.07.1993",
+        "number": "6762-9767"
+    },
+    "payment": {
+        "due_date": "12.03.2017",
+        "total": 741.61
+    },
+    "products": [
+        {
+            "amount": 198.19,
+            "description": "enable plug-and-play interfaces",
+            "quantity": 9.0,
+            "reference": "At-503",
+            "unit_price": 69.16
+        },
+        {
+            "amount": 395.6,
+            "description": "target visionary synergies",
+            "quantity": 8.61,
+            "reference": "iM-987",
+            "unit_price": 37.09
+        }
+    ],
+    "seller": {
+        "address": "5766 Morton Mall Suite 515 Port Colleenberg, TX 03397"
+    },
+    "tax": {
+        "base_ht": 238.33,
+        "regulations": 13.51,
+        "total_ht": 221.12,
+        "vat_amount": 29.38,
+        "vat_percentage": 23.07
+    }
+}

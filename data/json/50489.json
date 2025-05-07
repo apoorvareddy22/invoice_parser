@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "252 Morgan Pines Suite 062 Ronaldton, TX 40582",
+        "id": "ve303"
+    },
+    "invoice": {
+        "bc_no": "bP48942",
+        "currency_code": "BMD",
+        "date": "23.05.1998",
+        "due_date": "05.09.1993",
+        "number": 383983
+    },
+    "payment": {
+        "bank_name": "Jones, Green and Hammond",
+        "bic": "EVORGB0ZA9E",
+        "iban": "DDGH97516879356684"
+    },
+    "products": [
+        {
+            "amount": 49.53,
+            "description": "reinvent world-class deliverables",
+            "index": "3",
+            "price": 277.71,
+            "quantity": 7.86,
+            "tax_amount": 13.16,
+            "total_ttc": 415.8,
+            "vat_amount": 18.37
+        },
+        {
+            "amount": 60.53,
+            "description": "architect B2B markets",
+            "index": "3",
+            "price": 254.16,
+            "quantity": 3.01,
+            "tax_amount": 90.98,
+            "total_ttc": 438.49,
+            "vat_amount": 5.7
+        }
+    ],
+    "seller": {
+        "name": "James Wood"
+    },
+    "supplier": {
+        "address": "978 Mark Meadows South Leroy, OR 86088",
+        "name": "Wesley Davis"
+    },
+    "tax": {
+        "amount_excluding_tax": 137.0,
+        "amount_including_tax": 125.45,
+        "tax_amount": 29.96,
+        "total_ht": 307.56,
+        "total_ttc": 411.63
+    }
+}

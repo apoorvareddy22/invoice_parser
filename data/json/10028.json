@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "7402 Phillips Circles Port Troyfort, LA 96036",
+        "email": "annjohnson@example.org",
+        "phone": "535.884.4216x531",
+        "vat_no": "ff79815874523"
+    },
+    "invoice": {
+        "date": "15.06.1991",
+        "due_date": "22.07.2012",
+        "market_reference": 445354,
+        "notes": "whiteboard customized solutions",
+        "number": "9813-7290",
+        "reference": 199963,
+        "vat_no": "xz57596144837"
+    },
+    "payment": {
+        "net_total": 43.15,
+        "total": 176.09
+    },
+    "products": [
+        {
+            "amount": 386.39,
+            "description": "visualize viral applications",
+            "hours": 5.39,
+            "rate": 6.5
+        },
+        {
+            "amount": 223.8,
+            "description": "integrate collaborative models",
+            "hours": 2.96,
+            "rate": 2.91
+        }
+    ],
+    "seller": {
+        "address": "53834 Green Common Port Deborahfort, IL 59916",
+        "email": "uherman@example.net",
+        "name": "Tanya Rogers"
+    },
+    "tax": {
+        "base": 27.54,
+        "tax_amount": 16.17,
+        "total_tax": 25.24
+    }
+}

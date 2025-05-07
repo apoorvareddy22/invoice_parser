@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "269 Molina Way South Janeside, AZ 23357"
+    },
+    "invoice": {
+        "bc_no": "ej21908",
+        "date": "09.01.1991",
+        "maturity_date": "12.07.2009",
+        "number": 814476
+    },
+    "products": [
+        {
+            "amount": 486.23,
+            "description": "generate plug-and-play content",
+            "quantity": 7.37,
+            "unit_price": 36.31,
+            "vat_amount": 2.85
+        },
+        {
+            "amount": 286.3,
+            "description": "revolutionize transparent models",
+            "quantity": 4.32,
+            "unit_price": 81.01,
+            "vat_amount": 1.07
+        },
+        {
+            "amount": 258.5,
+            "description": "synergize vertical applications",
+            "quantity": 2.67,
+            "unit_price": 32.83,
+            "vat_amount": 5.57
+        }
+    ],
+    "seller": {
+        "address": "369 Snow Summit Apt. 800 Michelehaven, AK 10571"
+    },
+    "tax": {
+        "amount_excluding_tax": 21.44,
+        "amount_including_tax": 116.01,
+        "tax_amount": 26.56
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "48263 Mclaughlin Greens East Sherimouth, NJ 15414",
+        "id": "yi193"
+    },
+    "invoice": {
+        "bc_no": "SV25891",
+        "currency_code": "COP",
+        "date": "10.07.1994",
+        "due_date": "08.09.2007",
+        "number": 771085
+    },
+    "payment": {
+        "bank_name": "Clark, Fleming and Conner",
+        "bic": "NMJEGBWYS4H",
+        "iban": "GJJQ30657650693240"
+    },
+    "products": [
+        {
+            "amount": 219.44,
+            "description": "seize customized web-readiness",
+            "index": "4",
+            "price": 471.7,
+            "quantity": 4.18,
+            "tax_amount": 75.28,
+            "total_ttc": 248.77,
+            "vat_amount": 3.28
+        }
+    ],
+    "seller": {
+        "name": "Zachary Edwards"
+    },
+    "supplier": {
+        "address": "492 Munoz Rue Paulhaven, AR 47344",
+        "name": "Lisa Myers"
+    },
+    "tax": {
+        "amount_excluding_tax": 129.62,
+        "amount_including_tax": 64.34,
+        "tax_amount": 28.53,
+        "total_ht": 391.58,
+        "total_ttc": 337.17
+    }
+}

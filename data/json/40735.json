@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "59716 Murphy Village Apt. 010 Watersmouth, DC 50096"
+    },
+    "invoice": {
+        "bc_no": "wf27182",
+        "date": "17.10.1994",
+        "maturity_date": "24.06.2004",
+        "number": 431774
+    },
+    "products": [
+        {
+            "amount": 239.92,
+            "description": "revolutionize 24/7 e-commerce",
+            "quantity": 2.06,
+            "unit_price": 77.56,
+            "vat_amount": 8.07
+        },
+        {
+            "amount": 307.61,
+            "description": "generate sticky mindshare",
+            "quantity": 7.95,
+            "unit_price": 86.95,
+            "vat_amount": 7.86
+        },
+        {
+            "amount": 76.12,
+            "description": "e-enable value-added channels",
+            "quantity": 2.95,
+            "unit_price": 64.33,
+            "vat_amount": 6.22
+        }
+    ],
+    "seller": {
+        "address": "78288 Williams Springs Loweryhaven, MS 16047"
+    },
+    "tax": {
+        "amount_excluding_tax": 134.66,
+        "amount_including_tax": 15.53,
+        "tax_amount": 15.4
+    }
+}

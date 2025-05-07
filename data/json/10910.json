@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "681 Martinez Prairie Suite 989 Starktown, AK 15582",
+        "email": "joshuaspencer@example.net",
+        "phone": "788-802-2007x885",
+        "vat_no": "Gt34569464232"
+    },
+    "invoice": {
+        "date": "11.09.2007",
+        "due_date": "03.06.2015",
+        "market_reference": 996626,
+        "notes": "incubate interactive technologies",
+        "number": "1828-7604",
+        "reference": 270335,
+        "vat_no": "RK30760630548"
+    },
+    "payment": {
+        "net_total": 77.12,
+        "total": 883.08
+    },
+    "products": [
+        {
+            "amount": 276.79,
+            "description": "mesh leading-edge interfaces",
+            "hours": 7.27,
+            "rate": 5.02
+        },
+        {
+            "amount": 103.82,
+            "description": "integrate granular supply-chains",
+            "hours": 6.76,
+            "rate": 8.48
+        },
+        {
+            "amount": 77.93,
+            "description": "envisioneer cross-media platforms",
+            "hours": 1.56,
+            "rate": 5.92
+        },
+        {
+            "amount": 166.23,
+            "description": "benchmark end-to-end functionalities",
+            "hours": 1.26,
+            "rate": 8.38
+        }
+    ],
+    "seller": {
+        "address": "PSC 5428, Box 7678 APO AE 81345",
+        "email": "elijahwalters@example.com",
+        "name": "Patricia Gillespie"
+    },
+    "tax": {
+        "base": 23.34,
+        "tax_amount": 11.21,
+        "total_tax": 25.25
+    }
+}

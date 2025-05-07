@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "05926 Anthony Spurs Suite 072 West Williamport, AK 63748"
+    },
+    "invoice": {
+        "bc_no": "dM72094",
+        "date": "07.08.2009",
+        "maturity_date": "01.03.1996",
+        "number": 278001
+    },
+    "products": [
+        {
+            "amount": 216.51,
+            "description": "extend out-of-the-box e-services",
+            "quantity": 6.5,
+            "unit_price": 87.98,
+            "vat_amount": 3.88
+        },
+        {
+            "amount": 378.51,
+            "description": "implement one-to-one e-tailers",
+            "quantity": 9.46,
+            "unit_price": 26.38,
+            "vat_amount": 3.99
+        },
+        {
+            "amount": 97.0,
+            "description": "leverage innovative infrastructures",
+            "quantity": 3.61,
+            "unit_price": 37.65,
+            "vat_amount": 8.73
+        }
+    ],
+    "seller": {
+        "address": "592 Cox Crossing Suite 382 Ginatown, WV 23301"
+    },
+    "tax": {
+        "amount_excluding_tax": 58.07,
+        "amount_including_tax": 162.11,
+        "tax_amount": 25.63
+    }
+}

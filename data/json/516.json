@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "9257 Mora Prairie East Mark, KY 44883",
+        "company_name": "Holmes LLC",
+        "country": "Zimbabwe",
+        "name": "Linda Guerra"
+    },
+    "invoice": {
+        "date": "19.10.1996",
+        "number": 333070
+    },
+    "payment": {
+        "discount_amount": 48.84,
+        "discount_percentage": 5.32,
+        "due": 154.76,
+        "sub_total": 63.23,
+        "total": 489.86
+    },
+    "products": [
+        {
+            "description": "revolutionize web-enabled infrastructures",
+            "index": "6",
+            "quantity": 6.96,
+            "total_price": 459.17,
+            "unit_price": 76.15
+        },
+        {
+            "description": "utilize bricks-and-clicks users",
+            "index": "3",
+            "quantity": 5.95,
+            "total_price": 991.05,
+            "unit_price": 80.83
+        },
+        {
+            "description": "synthesize one-to-one web services",
+            "index": "2",
+            "quantity": 3.1,
+            "total_price": 288.87,
+            "unit_price": 35.83
+        },
+        {
+            "description": "mesh B2C ROI",
+            "index": "9",
+            "quantity": 8.13,
+            "total_price": 532.22,
+            "unit_price": 41.81
+        },
+        {
+            "description": "revolutionize next-generation e-services",
+            "index": "2",
+            "quantity": 5.32,
+            "total_price": 73.65,
+            "unit_price": 69.93
+        }
+    ],
+    "seller": {
+        "address": "895 Schneider Haven Suite 230 Lisamouth, CO 55247",
+        "company_name": "Smith PLC",
+        "vat_no": "bp58677313385"
+    }
+}

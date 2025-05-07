@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "70639 Sanchez Motorway Suite 313 Christyberg, AL 79614",
+        "company_name": "Jackson, Meyer and Butler",
+        "country": "Saint Martin",
+        "name": "Rebecca Decker"
+    },
+    "invoice": {
+        "date": "04.04.2007",
+        "number": 469715
+    },
+    "payment": {
+        "discount_amount": 38.06,
+        "discount_percentage": 18.89,
+        "due": 153.67,
+        "sub_total": 144.17,
+        "total": 206.08
+    },
+    "products": [
+        {
+            "description": "architect killer schemas",
+            "index": "2",
+            "quantity": 4.49,
+            "total_price": 756.04,
+            "unit_price": 99.39
+        },
+        {
+            "description": "monetize robust eyeballs",
+            "index": "5",
+            "quantity": 5.39,
+            "total_price": 129.25,
+            "unit_price": 85.22
+        },
+        {
+            "description": "re-intermediate real-time supply-chains",
+            "index": "2",
+            "quantity": 7.28,
+            "total_price": 204.8,
+            "unit_price": 89.65
+        },
+        {
+            "description": "envisioneer viral applications",
+            "index": "2",
+            "quantity": 6.77,
+            "total_price": 410.41,
+            "unit_price": 56.87
+        }
+    ],
+    "seller": {
+        "address": "714 Peck Spur East Douglasfort, WV 90523",
+        "company_name": "Brown, Johnson and Cobb",
+        "vat_no": "hl63209416966"
+    }
+}

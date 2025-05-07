@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "18644 Cain Club Apt. 020 Dawnfort, SC 56513",
+        "business_no": "RD226",
+        "id": "ty098"
+    },
+    "invoice": {
+        "date": "15.03.1993",
+        "number": "8813-6075"
+    },
+    "payment": {
+        "due_date": "22.09.1990",
+        "total": 967.29
+    },
+    "products": [
+        {
+            "amount": 384.96,
+            "description": "deliver B2C applications",
+            "quantity": 7.77,
+            "reference": "TL-008",
+            "unit_price": 54.72
+        },
+        {
+            "amount": 468.61,
+            "description": "implement value-added e-services",
+            "quantity": 9.66,
+            "reference": "er-808",
+            "unit_price": 16.24
+        },
+        {
+            "amount": 248.42,
+            "description": "synergize best-of-breed communities",
+            "quantity": 5.21,
+            "reference": "kY-238",
+            "unit_price": 23.36
+        }
+    ],
+    "seller": {
+        "address": "067 David Ranch Suite 919 Garciabury, FM 87893"
+    },
+    "tax": {
+        "base_ht": 170.94,
+        "regulations": 10.77,
+        "total_ht": 424.41,
+        "vat_amount": 199.38,
+        "vat_percentage": 17.14
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "3826 Andrew Wells Apt. 945 Debrastad, TN 49043"
+    },
+    "invoice": {
+        "bc_no": "Xi68565",
+        "date": "15.11.2019",
+        "maturity_date": "26.05.1990",
+        "number": 901334
+    },
+    "products": [
+        {
+            "amount": 99.76,
+            "description": "embrace compelling solutions",
+            "quantity": 3.93,
+            "unit_price": 58.71,
+            "vat_amount": 16.05
+        },
+        {
+            "amount": 21.76,
+            "description": "visualize vertical bandwidth",
+            "quantity": 1.34,
+            "unit_price": 67.91,
+            "vat_amount": 0.76
+        }
+    ],
+    "seller": {
+        "address": "USNV Taylor FPO AA 28887"
+    },
+    "tax": {
+        "amount_excluding_tax": 26.64,
+        "amount_including_tax": 157.81,
+        "tax_amount": 26.3
+    }
+}

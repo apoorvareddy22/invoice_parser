@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "5818 Kerr Manors Apt. 007 East Sandra, NJ 74746",
+        "business_no": "JH210",
+        "id": "jo235"
+    },
+    "invoice": {
+        "date": "08.02.2020",
+        "number": "6735-8776"
+    },
+    "payment": {
+        "due_date": "13.02.1990",
+        "total": 138.26
+    },
+    "products": [
+        {
+            "amount": 252.77,
+            "description": "strategize visionary partnerships",
+            "quantity": 2.8,
+            "reference": "WW-536",
+            "unit_price": 92.84
+        },
+        {
+            "amount": 314.07,
+            "description": "cultivate interactive solutions",
+            "quantity": 4.51,
+            "reference": "ez-337",
+            "unit_price": 46.98
+        },
+        {
+            "amount": 295.14,
+            "description": "mesh bleeding-edge synergies",
+            "quantity": 1.5,
+            "reference": "nS-187",
+            "unit_price": 70.46
+        },
+        {
+            "amount": 209.52,
+            "description": "incubate granular relationships",
+            "quantity": 9.37,
+            "reference": "Ir-500",
+            "unit_price": 59.61
+        }
+    ],
+    "seller": {
+        "address": "8818 Reyes Via Jonathanfort, VI 89547"
+    },
+    "tax": {
+        "base_ht": 319.9,
+        "regulations": 10.89,
+        "total_ht": 384.53,
+        "vat_amount": 57.11,
+        "vat_percentage": 23.2
+    }
+}

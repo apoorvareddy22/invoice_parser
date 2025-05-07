@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "99084 Ralph Mills Leeton, LA 06293",
+        "business_no": "oa259",
+        "id": "op620"
+    },
+    "invoice": {
+        "date": "23.02.2009",
+        "number": "1816-5542"
+    },
+    "payment": {
+        "due_date": "20.07.2000",
+        "total": 464.42
+    },
+    "products": [
+        {
+            "amount": 487.59,
+            "description": "deliver open-source relationships",
+            "quantity": 8.33,
+            "reference": "QX-159",
+            "unit_price": 82.84
+        },
+        {
+            "amount": 127.99,
+            "description": "iterate synergistic platforms",
+            "quantity": 8.98,
+            "reference": "IA-193",
+            "unit_price": 78.22
+        }
+    ],
+    "seller": {
+        "address": "45465 Knox Club Lake Tracy, CO 33992"
+    },
+    "tax": {
+        "base_ht": 106.75,
+        "regulations": 10.72,
+        "total_ht": 316.79,
+        "vat_amount": 86.61,
+        "vat_percentage": 24.17
+    }
+}

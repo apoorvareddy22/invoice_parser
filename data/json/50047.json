@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "USCGC Cooper FPO AP 45178",
+        "id": "yF415"
+    },
+    "invoice": {
+        "bc_no": "Hm71006",
+        "currency_code": "WST",
+        "date": "14.02.2014",
+        "due_date": "08.01.2017",
+        "number": 119841
+    },
+    "payment": {
+        "bank_name": "Nelson-Rivers",
+        "bic": "WRIEGBIOXM7",
+        "iban": "QZNH98850952783215"
+    },
+    "products": [
+        {
+            "amount": 355.71,
+            "description": "implement efficient e-tailers",
+            "index": "2",
+            "price": 351.95,
+            "quantity": 5.18,
+            "tax_amount": 51.25,
+            "total_ttc": 228.65,
+            "vat_amount": 1.51
+        },
+        {
+            "amount": 403.03,
+            "description": "enhance scalable functionalities",
+            "index": "7",
+            "price": 487.84,
+            "quantity": 2.67,
+            "tax_amount": 92.61,
+            "total_ttc": 327.92,
+            "vat_amount": 2.92
+        },
+        {
+            "amount": 230.37,
+            "description": "engage intuitive ROI",
+            "index": "6",
+            "price": 362.53,
+            "quantity": 3.37,
+            "tax_amount": 47.44,
+            "total_ttc": 183.24,
+            "vat_amount": 3.35
+        },
+        {
+            "amount": 295.25,
+            "description": "deploy mission-critical bandwidth",
+            "index": "2",
+            "price": 62.54,
+            "quantity": 6.69,
+            "tax_amount": 76.28,
+            "total_ttc": 499.27,
+            "vat_amount": 2.99
+        },
+        {
+            "amount": 355.27,
+            "description": "iterate front-end deliverables",
+            "index": "3",
+            "price": 69.26,
+            "quantity": 2.51,
+            "tax_amount": 82.22,
+            "total_ttc": 465.68,
+            "vat_amount": 1.92
+        }
+    ],
+    "seller": {
+        "name": "Marie Young"
+    },
+    "supplier": {
+        "address": "5601 Moore Islands Stevenberg, MI 29386",
+        "name": "Misty Monroe"
+    },
+    "tax": {
+        "amount_excluding_tax": 68.76,
+        "amount_including_tax": 164.32,
+        "tax_amount": 20.79,
+        "total_ht": 404.88,
+        "total_ttc": 435.34
+    }
+}

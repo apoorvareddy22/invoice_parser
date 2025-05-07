@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "8399 Amber Creek Suite 283 Mistyborough, TN 31750",
+        "business_no": "BZ591",
+        "id": "bH826"
+    },
+    "invoice": {
+        "date": "06.01.2010",
+        "number": "1759-8289"
+    },
+    "payment": {
+        "due_date": "24.01.2002",
+        "total": 347.13
+    },
+    "products": [
+        {
+            "amount": 58.07,
+            "description": "brand mission-critical applications",
+            "quantity": 7.97,
+            "reference": "De-272",
+            "unit_price": 73.12
+        }
+    ],
+    "seller": {
+        "address": "563 Rodriguez Corner Apt. 381 New Wesley, MO 52730"
+    },
+    "tax": {
+        "base_ht": 330.31,
+        "regulations": 10.52,
+        "total_ht": 379.02,
+        "vat_amount": 136.27,
+        "vat_percentage": 28.41
+    }
+}

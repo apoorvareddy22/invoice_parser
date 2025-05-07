@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "27042 Lara Harbor Apt. 962 Kennedyburgh, SD 32385",
+        "email": "rgordon@example.org",
+        "phone": "+1-516-266-6651x1412",
+        "vat_no": "pm97381825679"
+    },
+    "invoice": {
+        "date": "12.07.1991",
+        "due_date": "05.11.2018",
+        "market_reference": 198892,
+        "notes": "generate cross-platform models",
+        "number": "7654-9285",
+        "reference": 222196,
+        "vat_no": "Fs45968373042"
+    },
+    "payment": {
+        "net_total": 69.21,
+        "total": 384.61
+    },
+    "products": [
+        {
+            "amount": 303.27,
+            "description": "innovate ubiquitous interfaces",
+            "hours": 6.85,
+            "rate": 2.55
+        },
+        {
+            "amount": 356.62,
+            "description": "aggregate open-source methodologies",
+            "hours": 5.02,
+            "rate": 7.09
+        }
+    ],
+    "seller": {
+        "address": "5690 Michael Mountains Angelaburgh, OK 86906",
+        "email": "jenniferparker@example.com",
+        "name": "Kari Thomas"
+    },
+    "tax": {
+        "base": 22.8,
+        "tax_amount": 24.86,
+        "total_tax": 19.96
+    }
+}

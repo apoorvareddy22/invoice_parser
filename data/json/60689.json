@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "1244 Richard Bypass Lake Melissafort, CA 51987",
+        "business_no": "kg251",
+        "id": "BY253"
+    },
+    "invoice": {
+        "date": "20.01.2014",
+        "number": "8048-3084"
+    },
+    "payment": {
+        "due_date": "21.02.2017",
+        "total": 412.39
+    },
+    "products": [
+        {
+            "amount": 441.56,
+            "description": "mesh global eyeballs",
+            "quantity": 4.46,
+            "reference": "uF-208",
+            "unit_price": 71.35
+        },
+        {
+            "amount": 422.21,
+            "description": "deploy seamless partnerships",
+            "quantity": 1.17,
+            "reference": "Gp-351",
+            "unit_price": 91.07
+        }
+    ],
+    "seller": {
+        "address": "227 Paula Harbor Melissaton, FM 46683"
+    },
+    "tax": {
+        "base_ht": 329.19,
+        "regulations": 22.16,
+        "total_ht": 359.29,
+        "vat_amount": 135.76,
+        "vat_percentage": 11.5
+    }
+}

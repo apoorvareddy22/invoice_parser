@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "266 Robert Stravenue Apt. 771 Georgestad, PR 25728",
+        "company_name": "Johnson LLC",
+        "country": "Panama",
+        "email": "nealkaren@example.com",
+        "name": "Darlene Powell",
+        "phone": "+1-425-385-8053",
+        "vat_no": "ia93500141255"
+    },
+    "invoice": {
+        "date": "18.08.2011",
+        "due_date": "13.03.2000",
+        "linked_invoice": "Rk-8464-5364",
+        "notes": "productize ubiquitous architectures",
+        "number": "Ht-7730-5632"
+    },
+    "products": [
+        {
+            "description": "generate user-centric systems",
+            "discount_percentage": 8.45,
+            "price": 193.63,
+            "quantity": 6.17,
+            "unit_price": 18.07
+        },
+        {
+            "description": "embrace web-enabled networks",
+            "discount_percentage": 10.36,
+            "price": 187.5,
+            "quantity": 2.56,
+            "unit_price": 66.77
+        }
+    ],
+    "seller": {
+        "address": "224 Melanie Road New Ryan, VA 18146",
+        "ape": "9067I",
+        "capital": 33753870,
+        "country": "Latvia",
+        "email": "carolyn82@example.com",
+        "name": "Kevin Tran",
+        "phone_1": "3482509975",
+        "phone_2": "(783)265-7610",
+        "phone_3": "+1-952-457-6704x7277",
+        "ref_walk": "aTye8447",
+        "reference": "Dz397",
+        "siret": 73017937990598,
+        "vat_no": "Ff34316916322",
+        "website": "https://todd.com/"
+    },
+    "tax": {
+        "amount_0": 19.77,
+        "amount_1": 12.77,
+        "base_0": 11.1,
+        "base_1": 280.89,
+        "total_ht": 237.82,
+        "total_tax": 24.76,
+        "total_ttc": 199.37,
+        "vat_0": 20.65,
+        "vat_1": 25.45
+    }
+}

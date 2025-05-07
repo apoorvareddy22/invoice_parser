@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "59453 Brown Lodge Port Laurie, AR 21449",
+        "email": "garciajacob@example.org",
+        "phone": "3954590364",
+        "vat_no": "Vb94989954344"
+    },
+    "invoice": {
+        "date": "16.05.2017",
+        "due_date": "07.11.2015",
+        "market_reference": 755460,
+        "notes": "morph bleeding-edge initiatives",
+        "number": "7319-4305",
+        "reference": 650955,
+        "vat_no": "Gf64953252192"
+    },
+    "payment": {
+        "net_total": 44.23,
+        "total": 703.89
+    },
+    "products": [
+        {
+            "amount": 34.63,
+            "description": "envisioneer scalable e-services",
+            "hours": 6.33,
+            "rate": 9.29
+        },
+        {
+            "amount": 272.91,
+            "description": "extend leading-edge models",
+            "hours": 3.66,
+            "rate": 4.1
+        },
+        {
+            "amount": 101.69,
+            "description": "re-contextualize one-to-one deliverables",
+            "hours": 5.2,
+            "rate": 7.24
+        },
+        {
+            "amount": 359.78,
+            "description": "transition killer e-business",
+            "hours": 8.79,
+            "rate": 6.66
+        },
+        {
+            "amount": 338.24,
+            "description": "transition integrated ROI",
+            "hours": 6.38,
+            "rate": 3.43
+        },
+        {
+            "amount": 411.49,
+            "description": "benchmark leading-edge experiences",
+            "hours": 3.15,
+            "rate": 4.03
+        },
+        {
+            "amount": 375.74,
+            "description": "orchestrate bricks-and-clicks architectures",
+            "hours": 2.69,
+            "rate": 7.69
+        }
+    ],
+    "seller": {
+        "address": "717 Gay Points Sydneyton, PA 54820",
+        "email": "joanna26@example.com",
+        "name": "Traci Williams"
+    },
+    "tax": {
+        "base": 22.92,
+        "tax_amount": 27.78,
+        "total_tax": 16.29
+    }
+}

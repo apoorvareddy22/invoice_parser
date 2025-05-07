@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "12064 Thomas Crossroad Apt. 128 East Aaron, KY 49833",
+        "email": "jennifermyers@example.org",
+        "phone": "(715)496-7862x734",
+        "vat_no": "zu34249508672"
+    },
+    "invoice": {
+        "date": "24.03.1993",
+        "due_date": "29.11.2023",
+        "market_reference": 719825,
+        "notes": "revolutionize bricks-and-clicks synergies",
+        "number": "1378-6281",
+        "reference": 684681,
+        "vat_no": "GC02161568695"
+    },
+    "payment": {
+        "net_total": 153.76,
+        "total": 266.49
+    },
+    "products": [
+        {
+            "amount": 206.61,
+            "description": "re-contextualize robust applications",
+            "hours": 6.26,
+            "rate": 9.86
+        },
+        {
+            "amount": 286.94,
+            "description": "streamline best-of-breed mindshare",
+            "hours": 1.65,
+            "rate": 6.99
+        },
+        {
+            "amount": 273.61,
+            "description": "deploy 24/7 relationships",
+            "hours": 3.58,
+            "rate": 8.08
+        },
+        {
+            "amount": 378.58,
+            "description": "maximize vertical vortals",
+            "hours": 4.91,
+            "rate": 3.96
+        },
+        {
+            "amount": 12.63,
+            "description": "re-intermediate ubiquitous methodologies",
+            "hours": 2.17,
+            "rate": 3.96
+        },
+        {
+            "amount": 354.62,
+            "description": "generate enterprise markets",
+            "hours": 8.44,
+            "rate": 1.76
+        }
+    ],
+    "seller": {
+        "address": "51419 Mary Stream Josephfort, OK 96927",
+        "email": "gsparks@example.com",
+        "name": "Melanie Vincent"
+    },
+    "tax": {
+        "base": 27.0,
+        "tax_amount": 20.5,
+        "total_tax": 11.36
+    }
+}

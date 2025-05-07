@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "74296 Sergio Lakes Apt. 657 Mosesland, LA 69486",
+        "company_name": "Hall Ltd",
+        "email": "scottsmith@example.net",
+        "name": "Maria Johnson",
+        "phone": "461.492.8795"
+    },
+    "invoice": {
+        "date": "14.04.2011",
+        "due_date": "22.12.2018",
+        "number": "DGO38644557037"
+    },
+    "payment": {
+        "account_number": 8952256024,
+        "bank_name": "Gross and Sons",
+        "routing_number": 926649551
+    },
+    "products": [
+        {
+            "amount": 77.99,
+            "description": "revolutionize magnetic schemas",
+            "index": "4",
+            "quantity": 3.25,
+            "unit_price": 22.64
+        },
+        {
+            "amount": 65.52,
+            "description": "target strategic e-commerce",
+            "index": "10",
+            "quantity": 4.31,
+            "unit_price": 56.56
+        },
+        {
+            "amount": 438.79,
+            "description": "monetize proactive communities",
+            "index": "4",
+            "quantity": 3.51,
+            "unit_price": 28.04
+        }
+    ],
+    "seller": {
+        "address": "31547 Stark Forks Angelastad, KY 93385",
+        "company_name": "Humphrey-Goodwin",
+        "email": "marythomas@example.org"
+    }
+}

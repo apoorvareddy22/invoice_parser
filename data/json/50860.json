@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "Unit 8694 Box 8767 DPO AE 23092",
+        "id": "DX100"
+    },
+    "invoice": {
+        "bc_no": "yq82446",
+        "currency_code": "UZS",
+        "date": "31.08.1996",
+        "due_date": "17.08.1995",
+        "number": 205470
+    },
+    "payment": {
+        "bank_name": "Rios-Gross",
+        "bic": "XBWIGBIX",
+        "iban": "PFXY90880446710458"
+    },
+    "products": [
+        {
+            "amount": 188.12,
+            "description": "engage intuitive bandwidth",
+            "index": "8",
+            "price": 484.51,
+            "quantity": 7.34,
+            "tax_amount": 22.02,
+            "total_ttc": 275.01,
+            "vat_amount": 6.77
+        },
+        {
+            "amount": 441.98,
+            "description": "engage out-of-the-box technologies",
+            "index": "3",
+            "price": 480.43,
+            "quantity": 3.52,
+            "tax_amount": 69.61,
+            "total_ttc": 420.02,
+            "vat_amount": 0.64
+        },
+        {
+            "amount": 326.57,
+            "description": "deliver interactive convergence",
+            "index": "8",
+            "price": 394.85,
+            "quantity": 5.09,
+            "tax_amount": 68.85,
+            "total_ttc": 151.32,
+            "vat_amount": 0.32
+        }
+    ],
+    "seller": {
+        "name": "Daniel Davis"
+    },
+    "supplier": {
+        "address": "523 Williams River Suite 369 Port Rachelland, IN 44240",
+        "name": "Crystal Johnson"
+    },
+    "tax": {
+        "amount_excluding_tax": 65.47,
+        "amount_including_tax": 127.24,
+        "tax_amount": 13.68,
+        "total_ht": 471.29,
+        "total_ttc": 446.51
+    }
+}

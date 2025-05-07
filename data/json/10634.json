@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "5234 Matthew Isle Apt. 004 Luisside, VA 33174",
+        "email": "sherryporter@example.org",
+        "phone": "319.735.0832x0104",
+        "vat_no": "Xw77760774208"
+    },
+    "invoice": {
+        "date": "14.03.1994",
+        "due_date": "10.04.2023",
+        "market_reference": 727925,
+        "notes": "transform 24/7 technologies",
+        "number": "2913-8686",
+        "reference": 318858,
+        "vat_no": "hI45753321906"
+    },
+    "payment": {
+        "net_total": 153.28,
+        "total": 159.76
+    },
+    "products": [
+        {
+            "amount": 141.96,
+            "description": "disintermediate impactful niches",
+            "hours": 4.42,
+            "rate": 7.14
+        },
+        {
+            "amount": 333.31,
+            "description": "envisioneer end-to-end functionalities",
+            "hours": 2.57,
+            "rate": 9.26
+        }
+    ],
+    "seller": {
+        "address": "359 Stevens Route Randalltown, AL 92900",
+        "email": "djensen@example.org",
+        "name": "Anthony Reid"
+    },
+    "tax": {
+        "base": 18.13,
+        "tax_amount": 20.07,
+        "total_tax": 26.63
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "48459 Dustin Ferry Suite 770 New Lauraview, GU 26519",
+        "company_name": "Wright PLC",
+        "email": "michael00@example.net",
+        "name": "Jennifer Vaughan",
+        "phone": "515-417-7333x03321"
+    },
+    "invoice": {
+        "date": "28.01.2017",
+        "due_date": "27.06.2018",
+        "number": "dpt50372152952"
+    },
+    "payment": {
+        "account_number": 2619834047,
+        "bank_name": "Smith PLC",
+        "routing_number": 160816388
+    },
+    "products": [
+        {
+            "amount": 453.37,
+            "description": "reinvent bricks-and-clicks ROI",
+            "index": "3",
+            "quantity": 1.17,
+            "unit_price": 71.25
+        },
+        {
+            "amount": 379.98,
+            "description": "transition dot-com architectures",
+            "index": "1",
+            "quantity": 5.89,
+            "unit_price": 93.86
+        },
+        {
+            "amount": 305.99,
+            "description": "extend cutting-edge networks",
+            "index": "6",
+            "quantity": 3.46,
+            "unit_price": 66.74
+        },
+        {
+            "amount": 38.61,
+            "description": "deploy clicks-and-mortar metrics",
+            "index": "1",
+            "quantity": 2.0,
+            "unit_price": 51.4
+        },
+        {
+            "amount": 39.36,
+            "description": "transition rich e-services",
+            "index": "3",
+            "quantity": 8.15,
+            "unit_price": 49.02
+        },
+        {
+            "amount": 451.99,
+            "description": "engage 24/365 ROI",
+            "index": "3",
+            "quantity": 8.96,
+            "unit_price": 94.74
+        },
+        {
+            "amount": 31.98,
+            "description": "harness cutting-edge deliverables",
+            "index": "10",
+            "quantity": 1.71,
+            "unit_price": 55.19
+        }
+    ],
+    "seller": {
+        "address": "13352 Lawrence Ford West Julie, PW 03043",
+        "company_name": "Gonzalez, Howard and Williamson",
+        "email": "gateswilliam@example.com"
+    }
+}

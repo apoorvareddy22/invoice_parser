@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "5927 Myers Fort Port Michael, TN 49706",
+        "id": "Vn576"
+    },
+    "invoice": {
+        "bc_no": "qo28082",
+        "currency_code": "THB",
+        "date": "19.09.2013",
+        "due_date": "04.04.2002",
+        "number": 557044
+    },
+    "payment": {
+        "bank_name": "Carlson, Franklin and Blake",
+        "bic": "DHDJGBUJN3H",
+        "iban": "JIES82699592313009"
+    },
+    "products": [
+        {
+            "amount": 99.47,
+            "description": "synergize dot-com eyeballs",
+            "index": "6",
+            "price": 293.54,
+            "quantity": 9.95,
+            "tax_amount": 47.18,
+            "total_ttc": 124.06,
+            "vat_amount": 2.72
+        }
+    ],
+    "seller": {
+        "name": "Robert Wilson"
+    },
+    "supplier": {
+        "address": "77975 Andrea Path Suite 761 Jacksonville, WV 36203",
+        "name": "Mrs. Stephanie House MD"
+    },
+    "tax": {
+        "amount_excluding_tax": 100.23,
+        "amount_including_tax": 178.84,
+        "tax_amount": 23.73,
+        "total_ht": 272.99,
+        "total_ttc": 471.01
+    }
+}

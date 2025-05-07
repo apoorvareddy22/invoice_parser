@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "00201 Gray Mountains North Teresa, NV 82180"
+    },
+    "invoice": {
+        "bc_no": "WR55666",
+        "date": "07.12.2003",
+        "maturity_date": "20.09.2022",
+        "number": 620604
+    },
+    "products": [
+        {
+            "amount": 12.7,
+            "description": "productize web-enabled eyeballs",
+            "quantity": 4.56,
+            "unit_price": 34.92,
+            "vat_amount": 9.45
+        },
+        {
+            "amount": 12.61,
+            "description": "transform collaborative architectures",
+            "quantity": 8.44,
+            "unit_price": 31.2,
+            "vat_amount": 16.26
+        }
+    ],
+    "seller": {
+        "address": "USNS Mathis FPO AA 86705"
+    },
+    "tax": {
+        "amount_excluding_tax": 194.93,
+        "amount_including_tax": 134.75,
+        "tax_amount": 24.68
+    }
+}

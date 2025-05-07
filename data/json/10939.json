@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "23471 Michael Forest South Lindaport, MT 60785",
+        "email": "james30@example.com",
+        "phone": "(812)590-4996",
+        "vat_no": "nV38084729621"
+    },
+    "invoice": {
+        "date": "25.12.2001",
+        "due_date": "14.06.2023",
+        "market_reference": 385370,
+        "notes": "brand next-generation models",
+        "number": "6866-6435",
+        "reference": 948200,
+        "vat_no": "LA36164415536"
+    },
+    "payment": {
+        "net_total": 38.81,
+        "total": 634.16
+    },
+    "products": [
+        {
+            "amount": 38.65,
+            "description": "integrate compelling paradigms",
+            "hours": 4.46,
+            "rate": 8.28
+        },
+        {
+            "amount": 161.08,
+            "description": "unleash dot-com solutions",
+            "hours": 6.26,
+            "rate": 7.95
+        },
+        {
+            "amount": 231.73,
+            "description": "implement ubiquitous eyeballs",
+            "hours": 1.45,
+            "rate": 8.56
+        },
+        {
+            "amount": 219.6,
+            "description": "benchmark cutting-edge convergence",
+            "hours": 2.98,
+            "rate": 9.78
+        },
+        {
+            "amount": 224.41,
+            "description": "revolutionize end-to-end applications",
+            "hours": 8.4,
+            "rate": 4.48
+        },
+        {
+            "amount": 305.4,
+            "description": "iterate cross-platform relationships",
+            "hours": 5.03,
+            "rate": 9.28
+        }
+    ],
+    "seller": {
+        "address": "38357 Wade Run Apt. 551 East Elizabeth, SD 11042",
+        "email": "sandysalazar@example.org",
+        "name": "Cheyenne Davis MD"
+    },
+    "tax": {
+        "base": 23.86,
+        "tax_amount": 27.59,
+        "total_tax": 14.15
+    }
+}

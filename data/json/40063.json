@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "3813 Harper Oval Suite 944 Alexandermouth, AK 02631"
+    },
+    "invoice": {
+        "bc_no": "cC17856",
+        "date": "10.08.2020",
+        "maturity_date": "02.04.2023",
+        "number": 318207
+    },
+    "products": [
+        {
+            "amount": 294.31,
+            "description": "aggregate bleeding-edge networks",
+            "quantity": 3.5,
+            "unit_price": 28.13,
+            "vat_amount": 6.26
+        },
+        {
+            "amount": 221.96,
+            "description": "monetize clicks-and-mortar portals",
+            "quantity": 3.87,
+            "unit_price": 53.57,
+            "vat_amount": 5.77
+        },
+        {
+            "amount": 452.63,
+            "description": "brand back-end systems",
+            "quantity": 1.62,
+            "unit_price": 46.36,
+            "vat_amount": 0.88
+        }
+    ],
+    "seller": {
+        "address": "98172 Bryan Roads Loribury, IA 99650"
+    },
+    "tax": {
+        "amount_excluding_tax": 102.61,
+        "amount_including_tax": 166.2,
+        "tax_amount": 22.25
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "5411 Harper Trace Apt. 124 South Lisa, PA 38460",
+        "business_no": "KT568",
+        "id": "SF235"
+    },
+    "invoice": {
+        "date": "23.06.1992",
+        "number": "7891-2434"
+    },
+    "payment": {
+        "due_date": "19.06.2021",
+        "total": 444.44
+    },
+    "products": [
+        {
+            "amount": 461.74,
+            "description": "scale customized interfaces",
+            "quantity": 6.3,
+            "reference": "jQ-349",
+            "unit_price": 33.82
+        },
+        {
+            "amount": 235.74,
+            "description": "mesh cross-platform channels",
+            "quantity": 9.49,
+            "reference": "CP-513",
+            "unit_price": 84.03
+        },
+        {
+            "amount": 76.78,
+            "description": "scale extensible e-markets",
+            "quantity": 8.4,
+            "reference": "QZ-754",
+            "unit_price": 73.93
+        },
+        {
+            "amount": 33.13,
+            "description": "mesh turn-key e-commerce",
+            "quantity": 3.86,
+            "reference": "Tj-484",
+            "unit_price": 86.83
+        }
+    ],
+    "seller": {
+        "address": "191 Jerry View Apt. 252 Joseshire, AR 03398"
+    },
+    "tax": {
+        "base_ht": 113.71,
+        "regulations": 20.3,
+        "total_ht": 269.24,
+        "vat_amount": 193.02,
+        "vat_percentage": 17.59
+    }
+}

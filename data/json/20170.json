@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "0059 Daniel Orchard Suite 562 Kennedyside, VT 33753",
+        "company_name": "Cox-Duarte",
+        "email": "torreschelsea@example.com",
+        "name": "Jennifer Martin",
+        "phone": "954-394-2557x5833"
+    },
+    "invoice": {
+        "date": "15.12.1997",
+        "due_date": "01.01.2019",
+        "number": "YVX57575774106"
+    },
+    "payment": {
+        "account_number": 3342925542,
+        "bank_name": "Miller Ltd",
+        "routing_number": 278696923
+    },
+    "products": [
+        {
+            "amount": 65.67,
+            "description": "enhance B2C channels",
+            "index": "3",
+            "quantity": 7.12,
+            "unit_price": 76.83
+        },
+        {
+            "amount": 341.85,
+            "description": "harness B2B initiatives",
+            "index": "5",
+            "quantity": 4.16,
+            "unit_price": 41.92
+        }
+    ],
+    "seller": {
+        "address": "42438 Ross Extensions Griffithstad, WA 37409",
+        "company_name": "Rogers, White and Johnson",
+        "email": "kelly42@example.com"
+    }
+}

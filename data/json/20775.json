@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "21667 Travis Valleys Suite 805 North Christopher, HI 29388",
+        "company_name": "Gutierrez-Beck",
+        "email": "uvelez@example.com",
+        "name": "Luis Morales",
+        "phone": "822.850.2556x1201"
+    },
+    "invoice": {
+        "date": "26.06.2006",
+        "due_date": "09.07.2010",
+        "number": "TxR56747150480"
+    },
+    "payment": {
+        "account_number": 8100093415,
+        "bank_name": "Morales, Mooney and Nicholson",
+        "routing_number": 763074856
+    },
+    "products": [
+        {
+            "amount": 392.15,
+            "description": "mesh back-end partnerships",
+            "index": "9",
+            "quantity": 8.38,
+            "unit_price": 64.43
+        },
+        {
+            "amount": 286.92,
+            "description": "deliver transparent info-mediaries",
+            "index": "4",
+            "quantity": 2.79,
+            "unit_price": 24.41
+        },
+        {
+            "amount": 227.14,
+            "description": "evolve cross-platform initiatives",
+            "index": "9",
+            "quantity": 2.83,
+            "unit_price": 95.91
+        },
+        {
+            "amount": 226.38,
+            "description": "unleash collaborative bandwidth",
+            "index": "10",
+            "quantity": 7.56,
+            "unit_price": 14.38
+        },
+        {
+            "amount": 85.52,
+            "description": "extend plug-and-play supply-chains",
+            "index": "2",
+            "quantity": 3.26,
+            "unit_price": 28.68
+        }
+    ],
+    "seller": {
+        "address": "PSC 5219, Box 9949 APO AE 45105",
+        "company_name": "Bauer, Fisher and Miller",
+        "email": "yhancock@example.com"
+    }
+}

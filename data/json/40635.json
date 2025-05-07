@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "844 Marc Drives Suite 208 Dannytown, VT 56636"
+    },
+    "invoice": {
+        "bc_no": "hH54287",
+        "date": "07.01.1995",
+        "maturity_date": "24.06.1996",
+        "number": 680714
+    },
+    "products": [
+        {
+            "amount": 81.97,
+            "description": "aggregate clicks-and-mortar action-items",
+            "quantity": 2.7,
+            "unit_price": 99.11,
+            "vat_amount": 2.13
+        },
+        {
+            "amount": 30.87,
+            "description": "revolutionize next-generation e-tailers",
+            "quantity": 8.19,
+            "unit_price": 77.81,
+            "vat_amount": 12.16
+        },
+        {
+            "amount": 18.16,
+            "description": "redefine innovative web services",
+            "quantity": 7.54,
+            "unit_price": 38.63,
+            "vat_amount": 5.11
+        },
+        {
+            "amount": 270.35,
+            "description": "re-intermediate turn-key technologies",
+            "quantity": 2.89,
+            "unit_price": 98.2,
+            "vat_amount": 11.69
+        },
+        {
+            "amount": 197.95,
+            "description": "re-intermediate back-end web services",
+            "quantity": 4.51,
+            "unit_price": 97.51,
+            "vat_amount": 1.08
+        }
+    ],
+    "seller": {
+        "address": "91349 Mason Freeway Mirandamouth, FM 53450"
+    },
+    "tax": {
+        "amount_excluding_tax": 127.75,
+        "amount_including_tax": 135.73,
+        "tax_amount": 25.03
+    }
+}

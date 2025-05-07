@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "354 Jennifer Place Suite 065 Elliottside, MN 24689",
+        "business_no": "rr682",
+        "id": "Cy315"
+    },
+    "invoice": {
+        "date": "15.02.2012",
+        "number": "6044-6767"
+    },
+    "payment": {
+        "due_date": "27.01.2022",
+        "total": 311.25
+    },
+    "products": [
+        {
+            "amount": 164.55,
+            "description": "deliver real-time methodologies",
+            "quantity": 7.46,
+            "reference": "rX-770",
+            "unit_price": 19.52
+        }
+    ],
+    "seller": {
+        "address": "53764 Lauren Shore Martinezchester, ND 62121"
+    },
+    "tax": {
+        "base_ht": 294.63,
+        "regulations": 20.24,
+        "total_ht": 306.25,
+        "vat_amount": 191.61,
+        "vat_percentage": 23.45
+    }
+}

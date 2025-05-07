@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "506 Sarah Spring West Lisa, FL 95728",
+        "id": "uZ485"
+    },
+    "invoice": {
+        "bc_no": "Za52427",
+        "currency_code": "ALL",
+        "date": "03.08.2022",
+        "due_date": "31.08.2002",
+        "number": 723776
+    },
+    "payment": {
+        "bank_name": "Lawrence-Bryant",
+        "bic": "DTQAGBFEU33",
+        "iban": "EBOB67277365600203"
+    },
+    "products": [
+        {
+            "amount": 104.0,
+            "description": "unleash impactful ROI",
+            "index": "9",
+            "price": 356.39,
+            "quantity": 6.29,
+            "tax_amount": 42.1,
+            "total_ttc": 234.63,
+            "vat_amount": 12.2
+        },
+        {
+            "amount": 144.07,
+            "description": "redefine impactful metrics",
+            "index": "7",
+            "price": 423.05,
+            "quantity": 3.16,
+            "tax_amount": 98.35,
+            "total_ttc": 294.28,
+            "vat_amount": 10.72
+        },
+        {
+            "amount": 376.76,
+            "description": "scale viral experiences",
+            "index": "1",
+            "price": 423.95,
+            "quantity": 2.64,
+            "tax_amount": 43.01,
+            "total_ttc": 451.25,
+            "vat_amount": 0.52
+        },
+        {
+            "amount": 67.12,
+            "description": "transition distributed info-mediaries",
+            "index": "5",
+            "price": 130.44,
+            "quantity": 3.02,
+            "tax_amount": 47.35,
+            "total_ttc": 149.94,
+            "vat_amount": 0.66
+        },
+        {
+            "amount": 338.97,
+            "description": "visualize rich channels",
+            "index": "6",
+            "price": 122.17,
+            "quantity": 3.16,
+            "tax_amount": 13.56,
+            "total_ttc": 303.7,
+            "vat_amount": 6.1
+        }
+    ],
+    "seller": {
+        "name": "Dylan Gibson"
+    },
+    "supplier": {
+        "address": "9857 Frederick Pike Suite 142 East Brandontown, CT 91250",
+        "name": "Victoria Osborne"
+    },
+    "tax": {
+        "amount_excluding_tax": 14.04,
+        "amount_including_tax": 124.93,
+        "tax_amount": 21.53,
+        "total_ht": 183.12,
+        "total_ttc": 409.9
+    }
+}

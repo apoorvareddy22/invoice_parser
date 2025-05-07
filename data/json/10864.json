@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "1666 James Inlet Suite 542 Philiphaven, VI 67668",
+        "email": "claudia53@example.net",
+        "phone": "527-688-8200",
+        "vat_no": "mr24798423575"
+    },
+    "invoice": {
+        "date": "19.11.2016",
+        "due_date": "19.06.2005",
+        "market_reference": 544372,
+        "notes": "utilize wireless e-services",
+        "number": "0107-9879",
+        "reference": 384067,
+        "vat_no": "hu75262162247"
+    },
+    "payment": {
+        "net_total": 175.85,
+        "total": 804.7
+    },
+    "products": [
+        {
+            "amount": 331.61,
+            "description": "e-enable clicks-and-mortar action-items",
+            "hours": 9.5,
+            "rate": 4.7
+        },
+        {
+            "amount": 279.72,
+            "description": "extend user-centric deliverables",
+            "hours": 4.86,
+            "rate": 6.45
+        },
+        {
+            "amount": 444.64,
+            "description": "cultivate intuitive relationships",
+            "hours": 7.36,
+            "rate": 8.25
+        }
+    ],
+    "seller": {
+        "address": "145 Larry Forge Suite 132 Danielletown, MA 90219",
+        "email": "kimberly33@example.net",
+        "name": "William Medina"
+    },
+    "tax": {
+        "base": 25.17,
+        "tax_amount": 10.54,
+        "total_tax": 19.26
+    }
+}

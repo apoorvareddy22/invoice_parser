@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "39496 Raymond Dam Apt. 444 Horneview, MN 35240",
+        "business_no": "RD124",
+        "id": "jD429"
+    },
+    "invoice": {
+        "date": "01.09.1994",
+        "number": "6257-2123"
+    },
+    "payment": {
+        "due_date": "10.03.1994",
+        "total": 234.58
+    },
+    "products": [
+        {
+            "amount": 348.68,
+            "description": "strategize distributed info-mediaries",
+            "quantity": 3.26,
+            "reference": "Kv-288",
+            "unit_price": 44.2
+        },
+        {
+            "amount": 377.86,
+            "description": "aggregate virtual e-commerce",
+            "quantity": 1.33,
+            "reference": "Jg-291",
+            "unit_price": 58.89
+        },
+        {
+            "amount": 168.72,
+            "description": "synthesize seamless experiences",
+            "quantity": 2.73,
+            "reference": "Kj-324",
+            "unit_price": 67.35
+        },
+        {
+            "amount": 204.89,
+            "description": "target open-source paradigms",
+            "quantity": 6.2,
+            "reference": "FA-703",
+            "unit_price": 31.2
+        }
+    ],
+    "seller": {
+        "address": "53425 Butler Harbors Suite 934 East Madelineville, MP 89355"
+    },
+    "tax": {
+        "base_ht": 313.57,
+        "regulations": 10.52,
+        "total_ht": 184.14,
+        "vat_amount": 93.91,
+        "vat_percentage": 20.59
+    }
+}

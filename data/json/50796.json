@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "32934 Donald Way Port Darryl, WA 73578",
+        "id": "rM139"
+    },
+    "invoice": {
+        "bc_no": "Pt24728",
+        "currency_code": "EUR",
+        "date": "18.05.2000",
+        "due_date": "22.05.2001",
+        "number": 980127
+    },
+    "payment": {
+        "bank_name": "Kirby-Manning",
+        "bic": "RZTLGB9V9CK",
+        "iban": "AQOA97818268767472"
+    },
+    "products": [
+        {
+            "amount": 468.5,
+            "description": "scale dot-com systems",
+            "index": "1",
+            "price": 475.41,
+            "quantity": 6.72,
+            "tax_amount": 92.33,
+            "total_ttc": 220.11,
+            "vat_amount": 2.64
+        },
+        {
+            "amount": 413.71,
+            "description": "deploy clicks-and-mortar models",
+            "index": "8",
+            "price": 181.67,
+            "quantity": 8.14,
+            "tax_amount": 59.49,
+            "total_ttc": 413.95,
+            "vat_amount": 5.63
+        }
+    ],
+    "seller": {
+        "name": "Christina Young"
+    },
+    "supplier": {
+        "address": "34524 Sean Knoll Griffinshire, IL 79002",
+        "name": "Ruben Hall"
+    },
+    "tax": {
+        "amount_excluding_tax": 100.39,
+        "amount_including_tax": 13.76,
+        "tax_amount": 12.82,
+        "total_ht": 375.71,
+        "total_ttc": 280.56
+    }
+}

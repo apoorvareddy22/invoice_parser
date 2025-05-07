@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "3917 Lauren Pines North Sydney, FM 57926",
+        "email": "jshelton@example.org",
+        "phone": "+1-478-566-2591x254",
+        "vat_no": "ZF27034508367"
+    },
+    "invoice": {
+        "date": "09.12.2016",
+        "due_date": "20.11.2023",
+        "market_reference": 216758,
+        "notes": "innovate mission-critical e-commerce",
+        "number": "4867-8706",
+        "reference": 314349,
+        "vat_no": "Ve98209634672"
+    },
+    "payment": {
+        "net_total": 166.95,
+        "total": 862.22
+    },
+    "products": [
+        {
+            "amount": 196.73,
+            "description": "generate e-business applications",
+            "hours": 1.31,
+            "rate": 4.89
+        }
+    ],
+    "seller": {
+        "address": "352 Eugene Camp Suite 826 Harrishaven, VI 25589",
+        "email": "jennifermoss@example.org",
+        "name": "James Miller"
+    },
+    "tax": {
+        "base": 23.72,
+        "tax_amount": 26.1,
+        "total_tax": 15.39
+    }
+}

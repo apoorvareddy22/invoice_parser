@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "USCGC Young FPO AA 36806",
+        "business_no": "yi085",
+        "id": "nL783"
+    },
+    "invoice": {
+        "date": "11.12.2012",
+        "number": "3766-9900"
+    },
+    "payment": {
+        "due_date": "17.11.1998",
+        "total": 273.4
+    },
+    "products": [
+        {
+            "amount": 181.5,
+            "description": "e-enable value-added interfaces",
+            "quantity": 4.44,
+            "reference": "xO-633",
+            "unit_price": 51.57
+        },
+        {
+            "amount": 77.33,
+            "description": "target transparent functionalities",
+            "quantity": 7.34,
+            "reference": "iz-849",
+            "unit_price": 82.26
+        },
+        {
+            "amount": 19.8,
+            "description": "brand leading-edge synergies",
+            "quantity": 6.81,
+            "reference": "ey-558",
+            "unit_price": 60.54
+        },
+        {
+            "amount": 39.95,
+            "description": "optimize magnetic channels",
+            "quantity": 2.26,
+            "reference": "AW-738",
+            "unit_price": 90.45
+        }
+    ],
+    "seller": {
+        "address": "4568 Rodriguez Dam Mcclaintown, LA 06633"
+    },
+    "tax": {
+        "base_ht": 317.99,
+        "regulations": 22.6,
+        "total_ht": 133.78,
+        "vat_amount": 198.26,
+        "vat_percentage": 15.76
+    }
+}

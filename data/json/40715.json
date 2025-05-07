@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "01501 Luke Knolls Apt. 852 Nicholasview, DC 54844"
+    },
+    "invoice": {
+        "bc_no": "MF14215",
+        "date": "17.04.2020",
+        "maturity_date": "29.12.2017",
+        "number": 429941
+    },
+    "products": [
+        {
+            "amount": 96.0,
+            "description": "target world-class e-business",
+            "quantity": 2.73,
+            "unit_price": 84.43,
+            "vat_amount": 3.5
+        },
+        {
+            "amount": 248.74,
+            "description": "enable scalable relationships",
+            "quantity": 1.46,
+            "unit_price": 44.69,
+            "vat_amount": 4.3
+        },
+        {
+            "amount": 111.28,
+            "description": "re-contextualize revolutionary e-business",
+            "quantity": 9.0,
+            "unit_price": 41.22,
+            "vat_amount": 0.91
+        },
+        {
+            "amount": 194.16,
+            "description": "utilize B2C content",
+            "quantity": 9.12,
+            "unit_price": 43.51,
+            "vat_amount": 2.71
+        }
+    ],
+    "seller": {
+        "address": "8011 Angela Light Port Andrewberg, MA 80647"
+    },
+    "tax": {
+        "amount_excluding_tax": 97.39,
+        "amount_including_tax": 152.92,
+        "tax_amount": 23.1
+    }
+}

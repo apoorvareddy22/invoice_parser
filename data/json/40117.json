@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "73400 Andrew Walks Jeffreyside, NH 05860"
+    },
+    "invoice": {
+        "bc_no": "Va63430",
+        "date": "24.10.2001",
+        "maturity_date": "22.04.2020",
+        "number": 657660
+    },
+    "products": [
+        {
+            "amount": 105.96,
+            "description": "grow world-class networks",
+            "quantity": 3.55,
+            "unit_price": 40.73,
+            "vat_amount": 3.9
+        },
+        {
+            "amount": 250.5,
+            "description": "deliver mission-critical e-business",
+            "quantity": 3.14,
+            "unit_price": 65.12,
+            "vat_amount": 4.66
+        }
+    ],
+    "seller": {
+        "address": "053 Nicolas Plains Elizabethport, WY 34428"
+    },
+    "tax": {
+        "amount_excluding_tax": 68.98,
+        "amount_including_tax": 114.5,
+        "tax_amount": 28.01
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "PSC 8355, Box 6424 APO AA 37243",
+        "company_name": "Payne-Daniels",
+        "country": "Malta",
+        "name": "Eric George PhD"
+    },
+    "invoice": {
+        "date": "26.08.1997",
+        "number": 324562
+    },
+    "payment": {
+        "discount_amount": 10.61,
+        "discount_percentage": 8.19,
+        "due": 24.39,
+        "sub_total": 140.15,
+        "total": 745.03
+    },
+    "products": [
+        {
+            "description": "aggregate strategic synergies",
+            "index": "1",
+            "quantity": 2.19,
+            "total_price": 382.72,
+            "unit_price": 52.72
+        },
+        {
+            "description": "target global metrics",
+            "index": "5",
+            "quantity": 7.71,
+            "total_price": 679.54,
+            "unit_price": 19.55
+        }
+    ],
+    "seller": {
+        "address": "25733 Michael Union Apt. 168 Brandonbury, NH 93688",
+        "company_name": "Smith, Rowland and Boyle",
+        "vat_no": "vl78397504802"
+    }
+}

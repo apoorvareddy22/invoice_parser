@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "29385 Yates Meadows Michaelshire, OR 91008",
+        "id": "YW551"
+    },
+    "invoice": {
+        "bc_no": "nR11476",
+        "currency_code": "SCR",
+        "date": "22.07.1994",
+        "due_date": "30.06.2004",
+        "number": 624148
+    },
+    "payment": {
+        "bank_name": "Ruiz-Stein",
+        "bic": "RQZCGBZCDF7",
+        "iban": "FADV60524620069519"
+    },
+    "products": [
+        {
+            "amount": 136.96,
+            "description": "strategize enterprise e-business",
+            "index": "2",
+            "price": 365.73,
+            "quantity": 6.45,
+            "tax_amount": 33.41,
+            "total_ttc": 369.49,
+            "vat_amount": 3.45
+        },
+        {
+            "amount": 402.63,
+            "description": "engineer 24/365 action-items",
+            "index": "4",
+            "price": 328.92,
+            "quantity": 4.71,
+            "tax_amount": 49.14,
+            "total_ttc": 307.68,
+            "vat_amount": 5.73
+        },
+        {
+            "amount": 115.8,
+            "description": "streamline cross-platform supply-chains",
+            "index": "9",
+            "price": 251.86,
+            "quantity": 8.58,
+            "tax_amount": 32.64,
+            "total_ttc": 291.05,
+            "vat_amount": 1.32
+        },
+        {
+            "amount": 153.74,
+            "description": "empower synergistic vortals",
+            "index": "5",
+            "price": 207.91,
+            "quantity": 9.28,
+            "tax_amount": 93.45,
+            "total_ttc": 405.83,
+            "vat_amount": 2.72
+        },
+        {
+            "amount": 37.36,
+            "description": "integrate proactive infrastructures",
+            "index": "4",
+            "price": 73.29,
+            "quantity": 8.56,
+            "tax_amount": 56.15,
+            "total_ttc": 402.95,
+            "vat_amount": 1.82
+        },
+        {
+            "amount": 142.53,
+            "description": "leverage intuitive niches",
+            "index": "6",
+            "price": 455.97,
+            "quantity": 6.55,
+            "tax_amount": 92.29,
+            "total_ttc": 469.92,
+            "vat_amount": 0.83
+        },
+        {
+            "amount": 81.39,
+            "description": "scale visionary e-business",
+            "index": "7",
+            "price": 204.58,
+            "quantity": 9.74,
+            "tax_amount": 47.55,
+            "total_ttc": 238.06,
+            "vat_amount": 6.62
+        }
+    ],
+    "seller": {
+        "name": "Tamara Valentine"
+    },
+    "supplier": {
+        "address": "7639 Hoffman Lock Apt. 488 Lake David, TN 04339",
+        "name": "James Stone"
+    },
+    "tax": {
+        "amount_excluding_tax": 12.01,
+        "amount_including_tax": 62.82,
+        "tax_amount": 17.01,
+        "total_ht": 360.34,
+        "total_ttc": 237.72
+    }
+}

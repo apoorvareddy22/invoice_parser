@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "3250 Brenda Extensions Suite 229 Port Jamesbury, OK 41431",
+        "id": "CK127"
+    },
+    "invoice": {
+        "bc_no": "gv17017",
+        "currency_code": "SGD",
+        "date": "26.10.2008",
+        "due_date": "22.06.1996",
+        "number": 291492
+    },
+    "payment": {
+        "bank_name": "Salazar, Diaz and Wolfe",
+        "bic": "JHBXGB10",
+        "iban": "IJCH07705935019902"
+    },
+    "products": [
+        {
+            "amount": 181.47,
+            "description": "seize enterprise infrastructures",
+            "index": "7",
+            "price": 202.25,
+            "quantity": 10.0,
+            "tax_amount": 82.72,
+            "total_ttc": 496.3,
+            "vat_amount": 2.47
+        },
+        {
+            "amount": 406.28,
+            "description": "mesh impactful synergies",
+            "index": "8",
+            "price": 32.88,
+            "quantity": 6.83,
+            "tax_amount": 79.61,
+            "total_ttc": 443.04,
+            "vat_amount": 2.19
+        }
+    ],
+    "seller": {
+        "name": "Manuel Walker"
+    },
+    "supplier": {
+        "address": "176 Zimmerman Wall Apt. 409 Barrettfort, UT 87274",
+        "name": "Christopher Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 158.1,
+        "amount_including_tax": 197.88,
+        "tax_amount": 24.07,
+        "total_ht": 100.96,
+        "total_ttc": 381.5
+    }
+}

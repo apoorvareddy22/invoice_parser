@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "04930 Rebecca View East Travisland, KY 58506"
+    },
+    "invoice": {
+        "bc_no": "SA75859",
+        "date": "26.04.1999",
+        "maturity_date": "19.02.2017",
+        "number": 379060
+    },
+    "products": [
+        {
+            "amount": 313.01,
+            "description": "scale customized communities",
+            "quantity": 3.15,
+            "unit_price": 66.69,
+            "vat_amount": 8.03
+        },
+        {
+            "amount": 53.72,
+            "description": "harness next-generation bandwidth",
+            "quantity": 7.46,
+            "unit_price": 32.97,
+            "vat_amount": 0.3
+        }
+    ],
+    "seller": {
+        "address": "418 Allen Spur Apt. 533 Valdezchester, WV 77135"
+    },
+    "tax": {
+        "amount_excluding_tax": 41.47,
+        "amount_including_tax": 32.88,
+        "tax_amount": 26.31
+    }
+}

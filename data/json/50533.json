@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "5214 Brian Summit Lake Christopher, MN 01228",
+        "id": "MS105"
+    },
+    "invoice": {
+        "bc_no": "Qn45479",
+        "currency_code": "IMP",
+        "date": "17.06.2013",
+        "due_date": "05.06.2008",
+        "number": 367565
+    },
+    "payment": {
+        "bank_name": "Espinoza-Day",
+        "bic": "QKAJGBD6",
+        "iban": "KZPO11154660996533"
+    },
+    "products": [
+        {
+            "amount": 258.48,
+            "description": "re-contextualize next-generation metrics",
+            "index": "4",
+            "price": 39.8,
+            "quantity": 9.6,
+            "tax_amount": 39.27,
+            "total_ttc": 188.88,
+            "vat_amount": 4.86
+        },
+        {
+            "amount": 108.87,
+            "description": "cultivate global relationships",
+            "index": "8",
+            "price": 67.99,
+            "quantity": 4.24,
+            "tax_amount": 68.78,
+            "total_ttc": 368.47,
+            "vat_amount": 6.03
+        },
+        {
+            "amount": 240.69,
+            "description": "harness customized supply-chains",
+            "index": "4",
+            "price": 248.67,
+            "quantity": 8.55,
+            "tax_amount": 76.48,
+            "total_ttc": 342.98,
+            "vat_amount": 5.97
+        }
+    ],
+    "seller": {
+        "name": "Jeffrey Adams"
+    },
+    "supplier": {
+        "address": "0689 Cole Freeway Apt. 387 West Paul, IN 09294",
+        "name": "Cindy Kemp"
+    },
+    "tax": {
+        "amount_excluding_tax": 38.04,
+        "amount_including_tax": 40.33,
+        "tax_amount": 17.54,
+        "total_ht": 258.66,
+        "total_ttc": 150.07
+    }
+}

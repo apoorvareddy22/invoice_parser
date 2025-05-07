@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "6159 Carter Turnpike Apt. 932 Davidton, VA 67594",
+        "company_name": "Macdonald-Fernandez",
+        "country": "Norfolk Island",
+        "name": "Margaret Barton"
+    },
+    "invoice": {
+        "date": "21.07.1994",
+        "number": 714537
+    },
+    "payment": {
+        "discount_amount": 26.61,
+        "discount_percentage": 6.43,
+        "due": 65.5,
+        "sub_total": 28.57,
+        "total": 407.68
+    },
+    "products": [
+        {
+            "description": "grow dot-com info-mediaries",
+            "index": "10",
+            "quantity": 5.4,
+            "total_price": 756.72,
+            "unit_price": 85.98
+        },
+        {
+            "description": "iterate innovative technologies",
+            "index": "7",
+            "quantity": 4.03,
+            "total_price": 712.98,
+            "unit_price": 65.88
+        },
+        {
+            "description": "embrace innovative functionalities",
+            "index": "4",
+            "quantity": 8.65,
+            "total_price": 732.71,
+            "unit_price": 94.89
+        }
+    ],
+    "seller": {
+        "address": "664 Michael Islands Apt. 538 West Benjamin, MO 29804",
+        "company_name": "King-Diaz",
+        "vat_no": "NK61497801422"
+    }
+}

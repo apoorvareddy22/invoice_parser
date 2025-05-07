@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "8366 David Way Apt. 051 Jeffreyside, WV 29841",
+        "email": "ashley28@example.net",
+        "phone": "825-740-2558",
+        "vat_no": "ts86626960262"
+    },
+    "invoice": {
+        "date": "24.07.2015",
+        "due_date": "29.05.1992",
+        "market_reference": 464508,
+        "notes": "visualize clicks-and-mortar architectures",
+        "number": "8418-2157",
+        "reference": 234364,
+        "vat_no": "MK34885015704"
+    },
+    "payment": {
+        "net_total": 117.19,
+        "total": 501.48
+    },
+    "products": [
+        {
+            "amount": 425.67,
+            "description": "synergize leading-edge convergence",
+            "hours": 9.83,
+            "rate": 4.93
+        },
+        {
+            "amount": 453.9,
+            "description": "harness interactive networks",
+            "hours": 9.49,
+            "rate": 8.99
+        },
+        {
+            "amount": 481.18,
+            "description": "evolve magnetic e-services",
+            "hours": 9.6,
+            "rate": 1.28
+        }
+    ],
+    "seller": {
+        "address": "3385 Kim Circle Bakerburgh, NV 32501",
+        "email": "adiaz@example.org",
+        "name": "Heather Lopez"
+    },
+    "tax": {
+        "base": 14.51,
+        "tax_amount": 15.09,
+        "total_tax": 26.62
+    }
+}

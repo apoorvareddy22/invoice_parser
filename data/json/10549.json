@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "06213 Stephen Orchard Jimmyburgh, PR 52737",
+        "email": "anagonzalez@example.org",
+        "phone": "220-715-3277x9707",
+        "vat_no": "ft13988691196"
+    },
+    "invoice": {
+        "date": "20.10.2001",
+        "due_date": "28.06.2014",
+        "market_reference": 107668,
+        "notes": "envisioneer virtual portals",
+        "number": "2812-9277",
+        "reference": 602090,
+        "vat_no": "nt55712357819"
+    },
+    "payment": {
+        "net_total": 182.89,
+        "total": 808.65
+    },
+    "products": [
+        {
+            "amount": 143.73,
+            "description": "iterate integrated platforms",
+            "hours": 3.09,
+            "rate": 8.0
+        },
+        {
+            "amount": 187.9,
+            "description": "iterate end-to-end platforms",
+            "hours": 1.05,
+            "rate": 5.81
+        },
+        {
+            "amount": 119.52,
+            "description": "orchestrate visionary applications",
+            "hours": 1.64,
+            "rate": 3.09
+        }
+    ],
+    "seller": {
+        "address": "199 Lisa Flats Apt. 909 South Steventon, LA 10510",
+        "email": "anthony88@example.org",
+        "name": "Daniel Small"
+    },
+    "tax": {
+        "base": 15.78,
+        "tax_amount": 15.35,
+        "total_tax": 22.22
+    }
+}

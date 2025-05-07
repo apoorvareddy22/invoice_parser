@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "41994 David Mountains Suite 035 West Nicholas, MT 51810",
+        "company_name": "Norton-Long",
+        "email": "peter17@example.net",
+        "name": "Jeffery Mitchell",
+        "phone": "(368)789-1438"
+    },
+    "invoice": {
+        "date": "18.07.2008",
+        "due_date": "04.06.2019",
+        "number": "gBp38549062592"
+    },
+    "payment": {
+        "account_number": 4012411201,
+        "bank_name": "Knight-Barrett",
+        "routing_number": 459264432
+    },
+    "products": [
+        {
+            "amount": 170.49,
+            "description": "enhance global e-tailers",
+            "index": "6",
+            "quantity": 5.62,
+            "unit_price": 94.92
+        },
+        {
+            "amount": 122.21,
+            "description": "reinvent dot-com initiatives",
+            "index": "9",
+            "quantity": 7.85,
+            "unit_price": 64.02
+        },
+        {
+            "amount": 450.05,
+            "description": "revolutionize extensible vortals",
+            "index": "10",
+            "quantity": 7.36,
+            "unit_price": 46.6
+        },
+        {
+            "amount": 57.5,
+            "description": "disintermediate ubiquitous solutions",
+            "index": "2",
+            "quantity": 3.41,
+            "unit_price": 68.34
+        },
+        {
+            "amount": 25.75,
+            "description": "embrace strategic convergence",
+            "index": "1",
+            "quantity": 9.17,
+            "unit_price": 25.57
+        }
+    ],
+    "seller": {
+        "address": "209 Debra Ridges Suite 529 East Brittney, OK 16498",
+        "company_name": "Foster and Sons",
+        "email": "jwilliams@example.org"
+    }
+}

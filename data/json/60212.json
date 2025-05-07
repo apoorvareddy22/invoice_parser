@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "25165 Crystal Haven New Charleshaven, GA 41544",
+        "business_no": "eI466",
+        "id": "Oj422"
+    },
+    "invoice": {
+        "date": "17.07.2022",
+        "number": "8441-9482"
+    },
+    "payment": {
+        "due_date": "31.05.2023",
+        "total": 605.98
+    },
+    "products": [
+        {
+            "amount": 39.84,
+            "description": "incentivize scalable experiences",
+            "quantity": 4.35,
+            "reference": "zT-873",
+            "unit_price": 27.72
+        },
+        {
+            "amount": 245.29,
+            "description": "integrate customized vortals",
+            "quantity": 3.57,
+            "reference": "Tx-756",
+            "unit_price": 60.47
+        },
+        {
+            "amount": 297.54,
+            "description": "aggregate sticky applications",
+            "quantity": 6.58,
+            "reference": "Sy-853",
+            "unit_price": 16.54
+        }
+    ],
+    "seller": {
+        "address": "597 Garcia Crossing Crosbyland, NC 26214"
+    },
+    "tax": {
+        "base_ht": 256.26,
+        "regulations": 26.34,
+        "total_ht": 185.8,
+        "vat_amount": 148.32,
+        "vat_percentage": 13.74
+    }
+}

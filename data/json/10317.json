@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "90332 Wyatt Stream Suite 677 Caseyburgh, WY 85430",
+        "email": "alexandra87@example.org",
+        "phone": "615.507.0314x316",
+        "vat_no": "gu59712329780"
+    },
+    "invoice": {
+        "date": "18.12.2002",
+        "due_date": "04.03.1999",
+        "market_reference": 564873,
+        "notes": "mesh next-generation e-services",
+        "number": "8153-1162",
+        "reference": 133686,
+        "vat_no": "AC67772189402"
+    },
+    "payment": {
+        "net_total": 94.91,
+        "total": 587.46
+    },
+    "products": [
+        {
+            "amount": 332.59,
+            "description": "re-contextualize B2C channels",
+            "hours": 5.13,
+            "rate": 3.38
+        },
+        {
+            "amount": 307.62,
+            "description": "redefine magnetic convergence",
+            "hours": 7.29,
+            "rate": 3.05
+        }
+    ],
+    "seller": {
+        "address": "913 Riggs Pines West Beverlytown, DC 26619",
+        "email": "ghorne@example.org",
+        "name": "Justin Haas"
+    },
+    "tax": {
+        "base": 26.84,
+        "tax_amount": 18.28,
+        "total_tax": 13.11
+    }
+}

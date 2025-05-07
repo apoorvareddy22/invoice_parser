@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "941 Brandon Stravenue New Sherryton, MO 49532",
+        "id": "Tg311"
+    },
+    "invoice": {
+        "bc_no": "PJ57532",
+        "currency_code": "BSD",
+        "date": "13.05.1999",
+        "due_date": "29.09.2010",
+        "number": 450523
+    },
+    "payment": {
+        "bank_name": "Wallace, Hatfield and Brooks",
+        "bic": "YJZBGBZ4FLT",
+        "iban": "NKDJ00857676633272"
+    },
+    "products": [
+        {
+            "amount": 98.7,
+            "description": "synthesize web-enabled supply-chains",
+            "index": "9",
+            "price": 413.86,
+            "quantity": 6.19,
+            "tax_amount": 99.61,
+            "total_ttc": 310.81,
+            "vat_amount": 0.5
+        },
+        {
+            "amount": 288.34,
+            "description": "grow scalable technologies",
+            "index": "7",
+            "price": 496.01,
+            "quantity": 9.63,
+            "tax_amount": 65.01,
+            "total_ttc": 460.38,
+            "vat_amount": 4.15
+        },
+        {
+            "amount": 330.67,
+            "description": "monetize strategic info-mediaries",
+            "index": "7",
+            "price": 97.84,
+            "quantity": 2.15,
+            "tax_amount": 74.95,
+            "total_ttc": 228.29,
+            "vat_amount": 5.43
+        },
+        {
+            "amount": 406.05,
+            "description": "mesh leading-edge paradigms",
+            "index": "3",
+            "price": 492.58,
+            "quantity": 2.74,
+            "tax_amount": 24.3,
+            "total_ttc": 272.47,
+            "vat_amount": 5.08
+        },
+        {
+            "amount": 372.53,
+            "description": "strategize end-to-end e-tailers",
+            "index": "1",
+            "price": 180.07,
+            "quantity": 7.21,
+            "tax_amount": 68.5,
+            "total_ttc": 470.01,
+            "vat_amount": 3.93
+        },
+        {
+            "amount": 302.38,
+            "description": "re-intermediate interactive e-commerce",
+            "index": "5",
+            "price": 223.39,
+            "quantity": 7.7,
+            "tax_amount": 25.68,
+            "total_ttc": 200.07,
+            "vat_amount": 11.15
+        },
+        {
+            "amount": 68.21,
+            "description": "incentivize efficient infrastructures",
+            "index": "7",
+            "price": 13.11,
+            "quantity": 7.91,
+            "tax_amount": 20.27,
+            "total_ttc": 192.56,
+            "vat_amount": 4.61
+        }
+    ],
+    "seller": {
+        "name": "Mark Thomas"
+    },
+    "supplier": {
+        "address": "65571 Jessica Court Bakerview, MH 58267",
+        "name": "Daniel Green"
+    },
+    "tax": {
+        "amount_excluding_tax": 108.62,
+        "amount_including_tax": 172.98,
+        "tax_amount": 21.16,
+        "total_ht": 450.2,
+        "total_ttc": 186.08
+    }
+}

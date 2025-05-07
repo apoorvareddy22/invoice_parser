@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "7154 Alison Views Suite 577 West Matthewview, NM 84274",
+        "id": "UL767"
+    },
+    "invoice": {
+        "bc_no": "Ah28986",
+        "currency_code": "AOA",
+        "date": "21.05.1991",
+        "due_date": "20.07.2012",
+        "number": 350856
+    },
+    "payment": {
+        "bank_name": "Wise-Fischer",
+        "bic": "DXWEGBNFJSF",
+        "iban": "AHOQ01760092554636"
+    },
+    "products": [
+        {
+            "amount": 371.84,
+            "description": "re-intermediate compelling markets",
+            "index": "5",
+            "price": 418.16,
+            "quantity": 3.19,
+            "tax_amount": 87.11,
+            "total_ttc": 387.21,
+            "vat_amount": 1.27
+        },
+        {
+            "amount": 482.87,
+            "description": "e-enable dot-com info-mediaries",
+            "index": "3",
+            "price": 475.45,
+            "quantity": 4.22,
+            "tax_amount": 89.01,
+            "total_ttc": 239.79,
+            "vat_amount": 0.22
+        },
+        {
+            "amount": 281.86,
+            "description": "visualize compelling eyeballs",
+            "index": "3",
+            "price": 385.43,
+            "quantity": 8.5,
+            "tax_amount": 34.12,
+            "total_ttc": 404.17,
+            "vat_amount": 0.88
+        }
+    ],
+    "seller": {
+        "name": "Brian Atkins"
+    },
+    "supplier": {
+        "address": "255 Myers Glen Apt. 200 South Briana, RI 76878",
+        "name": "Denise Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 21.22,
+        "amount_including_tax": 11.37,
+        "tax_amount": 10.74,
+        "total_ht": 418.28,
+        "total_ttc": 156.36
+    }
+}

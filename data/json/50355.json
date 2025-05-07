@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "Unit 5190 Box 6757 DPO AP 23870",
+        "id": "Mw959"
+    },
+    "invoice": {
+        "bc_no": "NH16599",
+        "currency_code": "MMK",
+        "date": "20.02.1993",
+        "due_date": "25.09.1999",
+        "number": 865453
+    },
+    "payment": {
+        "bank_name": "White-Preston",
+        "bic": "IINOGBSB",
+        "iban": "XYTV18968433372478"
+    },
+    "products": [
+        {
+            "amount": 497.0,
+            "description": "integrate next-generation metrics",
+            "index": "2",
+            "price": 283.0,
+            "quantity": 3.63,
+            "tax_amount": 44.15,
+            "total_ttc": 466.48,
+            "vat_amount": 1.98
+        },
+        {
+            "amount": 307.96,
+            "description": "transition bleeding-edge e-commerce",
+            "index": "5",
+            "price": 433.79,
+            "quantity": 4.78,
+            "tax_amount": 53.02,
+            "total_ttc": 490.05,
+            "vat_amount": 15.52
+        },
+        {
+            "amount": 411.47,
+            "description": "monetize transparent info-mediaries",
+            "index": "10",
+            "price": 472.84,
+            "quantity": 3.17,
+            "tax_amount": 97.2,
+            "total_ttc": 269.45,
+            "vat_amount": 3.34
+        },
+        {
+            "amount": 29.64,
+            "description": "reinvent seamless content",
+            "index": "5",
+            "price": 105.07,
+            "quantity": 8.51,
+            "tax_amount": 85.79,
+            "total_ttc": 321.88,
+            "vat_amount": 2.78
+        },
+        {
+            "amount": 216.4,
+            "description": "enhance scalable channels",
+            "index": "4",
+            "price": 107.56,
+            "quantity": 3.68,
+            "tax_amount": 46.82,
+            "total_ttc": 313.43,
+            "vat_amount": 5.53
+        },
+        {
+            "amount": 365.16,
+            "description": "productize mission-critical models",
+            "index": "4",
+            "price": 291.02,
+            "quantity": 2.7,
+            "tax_amount": 76.9,
+            "total_ttc": 488.85,
+            "vat_amount": 1.19
+        },
+        {
+            "amount": 488.86,
+            "description": "extend next-generation initiatives",
+            "index": "2",
+            "price": 177.19,
+            "quantity": 2.27,
+            "tax_amount": 14.64,
+            "total_ttc": 241.38,
+            "vat_amount": 3.66
+        }
+    ],
+    "seller": {
+        "name": "Sandra Perry"
+    },
+    "supplier": {
+        "address": "006 Shannon Circles Carolland, OK 49436",
+        "name": "Jason Scott"
+    },
+    "tax": {
+        "amount_excluding_tax": 91.8,
+        "amount_including_tax": 82.39,
+        "tax_amount": 28.58,
+        "total_ht": 421.03,
+        "total_ttc": 126.5
+    }
+}

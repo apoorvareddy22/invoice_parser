@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "809 Haynes Oval Fernandezburgh, NY 71475",
+        "company_name": "Moore LLC",
+        "email": "franciscopierce@example.net",
+        "name": "James Bowers",
+        "phone": "7848524764"
+    },
+    "invoice": {
+        "date": "17.07.2002",
+        "due_date": "08.12.2009",
+        "number": "xVU80219984371"
+    },
+    "payment": {
+        "account_number": 2640262097,
+        "bank_name": "Armstrong-Young",
+        "routing_number": 643420599
+    },
+    "products": [
+        {
+            "amount": 114.12,
+            "description": "engineer compelling solutions",
+            "index": "8",
+            "quantity": 4.12,
+            "unit_price": 74.57
+        },
+        {
+            "amount": 6.74,
+            "description": "leverage impactful deliverables",
+            "index": "10",
+            "quantity": 4.64,
+            "unit_price": 49.51
+        },
+        {
+            "amount": 87.43,
+            "description": "utilize web-enabled action-items",
+            "index": "8",
+            "quantity": 8.89,
+            "unit_price": 51.38
+        },
+        {
+            "amount": 76.15,
+            "description": "morph robust deliverables",
+            "index": "3",
+            "quantity": 3.14,
+            "unit_price": 38.97
+        }
+    ],
+    "seller": {
+        "address": "PSC 9622, Box 5206 APO AA 30613",
+        "company_name": "Myers-Rodriguez",
+        "email": "codydelgado@example.net"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "956 Kristi Isle Suite 964 Port Erikaland, KY 26616",
+        "id": "Qb027"
+    },
+    "invoice": {
+        "bc_no": "kt43110",
+        "currency_code": "BBD",
+        "date": "02.12.2013",
+        "due_date": "12.03.2006",
+        "number": 934600
+    },
+    "payment": {
+        "bank_name": "Sullivan PLC",
+        "bic": "TXRTGBIL",
+        "iban": "RPVR31215006655770"
+    },
+    "products": [
+        {
+            "amount": 222.99,
+            "description": "harness leading-edge partnerships",
+            "index": "3",
+            "price": 458.82,
+            "quantity": 8.25,
+            "tax_amount": 34.73,
+            "total_ttc": 493.78,
+            "vat_amount": 2.06
+        },
+        {
+            "amount": 226.71,
+            "description": "leverage frictionless convergence",
+            "index": "3",
+            "price": 326.48,
+            "quantity": 7.07,
+            "tax_amount": 61.58,
+            "total_ttc": 235.93,
+            "vat_amount": 3.8
+        },
+        {
+            "amount": 388.46,
+            "description": "matrix mission-critical platforms",
+            "index": "8",
+            "price": 181.22,
+            "quantity": 7.8,
+            "tax_amount": 17.52,
+            "total_ttc": 197.55,
+            "vat_amount": 1.16
+        },
+        {
+            "amount": 379.43,
+            "description": "exploit frictionless convergence",
+            "index": "10",
+            "price": 495.03,
+            "quantity": 7.91,
+            "tax_amount": 33.45,
+            "total_ttc": 410.81,
+            "vat_amount": 7.56
+        }
+    ],
+    "seller": {
+        "name": "Kevin Kim"
+    },
+    "supplier": {
+        "address": "827 Johnson Fords Suite 344 New Elizabethfort, IL 41473",
+        "name": "Tommy Mendez"
+    },
+    "tax": {
+        "amount_excluding_tax": 72.67,
+        "amount_including_tax": 114.23,
+        "tax_amount": 26.62,
+        "total_ht": 102.21,
+        "total_ttc": 166.35
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "49446 Heather Neck Jamesstad, KY 05670",
+        "company_name": "Pollard-Deleon",
+        "email": "anna00@example.org",
+        "name": "Ann Rodriguez",
+        "phone": "(413)801-6849"
+    },
+    "invoice": {
+        "date": "16.12.1995",
+        "due_date": "13.03.2022",
+        "number": "HuG09046562163"
+    },
+    "payment": {
+        "account_number": 5203726505,
+        "bank_name": "Parrish, King and Chen",
+        "routing_number": 259677789
+    },
+    "products": [
+        {
+            "amount": 340.3,
+            "description": "whiteboard value-added networks",
+            "index": "10",
+            "quantity": 8.76,
+            "unit_price": 74.59
+        },
+        {
+            "amount": 134.96,
+            "description": "synergize scalable supply-chains",
+            "index": "6",
+            "quantity": 5.43,
+            "unit_price": 86.53
+        },
+        {
+            "amount": 445.26,
+            "description": "incubate enterprise portals",
+            "index": "7",
+            "quantity": 4.57,
+            "unit_price": 20.79
+        },
+        {
+            "amount": 226.99,
+            "description": "extend transparent markets",
+            "index": "10",
+            "quantity": 4.08,
+            "unit_price": 17.54
+        },
+        {
+            "amount": 367.8,
+            "description": "transform impactful applications",
+            "index": "6",
+            "quantity": 5.51,
+            "unit_price": 42.42
+        }
+    ],
+    "seller": {
+        "address": "8326 Murphy Shore Lauramouth, TX 58485",
+        "company_name": "Houston-Howard",
+        "email": "robinsonsarah@example.com"
+    }
+}

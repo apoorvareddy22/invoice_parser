@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "USS Ross FPO AA 24347",
+        "id": "pS758"
+    },
+    "invoice": {
+        "bc_no": "oG21320",
+        "currency_code": "HRK",
+        "date": "05.05.2021",
+        "due_date": "15.07.2003",
+        "number": 145979
+    },
+    "payment": {
+        "bank_name": "Wood-Duran",
+        "bic": "KUKSGBYB",
+        "iban": "NFPR17223608261783"
+    },
+    "products": [
+        {
+            "amount": 393.21,
+            "description": "streamline vertical relationships",
+            "index": "9",
+            "price": 410.73,
+            "quantity": 3.18,
+            "tax_amount": 65.47,
+            "total_ttc": 452.89,
+            "vat_amount": 5.48
+        }
+    ],
+    "seller": {
+        "name": "Kristin Williams"
+    },
+    "supplier": {
+        "address": "884 Deanna Canyon Port Eric, FL 25456",
+        "name": "Candace Martin"
+    },
+    "tax": {
+        "amount_excluding_tax": 56.23,
+        "amount_including_tax": 39.75,
+        "tax_amount": 22.66,
+        "total_ht": 211.75,
+        "total_ttc": 467.96
+    }
+}

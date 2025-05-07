@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "0740 Dustin Crossing East Dillonberg, NV 46552",
+        "email": "sanchezrobert@example.net",
+        "phone": "001-994-897-0865x37223",
+        "vat_no": "XH93227509740"
+    },
+    "invoice": {
+        "date": "21.03.2008",
+        "due_date": "28.05.2022",
+        "market_reference": 804209,
+        "notes": "disintermediate bleeding-edge functionalities",
+        "number": "4760-0636",
+        "reference": 889258,
+        "vat_no": "jL02914733476"
+    },
+    "payment": {
+        "net_total": 166.44,
+        "total": 828.24
+    },
+    "products": [
+        {
+            "amount": 413.46,
+            "description": "disintermediate world-class eyeballs",
+            "hours": 9.55,
+            "rate": 2.16
+        },
+        {
+            "amount": 168.22,
+            "description": "innovate real-time bandwidth",
+            "hours": 1.92,
+            "rate": 9.77
+        },
+        {
+            "amount": 92.59,
+            "description": "innovate clicks-and-mortar schemas",
+            "hours": 7.97,
+            "rate": 6.16
+        },
+        {
+            "amount": 407.28,
+            "description": "disintermediate holistic initiatives",
+            "hours": 6.87,
+            "rate": 1.58
+        },
+        {
+            "amount": 338.34,
+            "description": "e-enable end-to-end e-tailers",
+            "hours": 9.37,
+            "rate": 4.42
+        },
+        {
+            "amount": 391.21,
+            "description": "brand turn-key experiences",
+            "hours": 9.12,
+            "rate": 5.16
+        },
+        {
+            "amount": 144.06,
+            "description": "disintermediate compelling deliverables",
+            "hours": 4.01,
+            "rate": 5.68
+        }
+    ],
+    "seller": {
+        "address": "333 Luke Spring Gregoryside, ME 04925",
+        "email": "karahayes@example.com",
+        "name": "Willie Rodriguez"
+    },
+    "tax": {
+        "base": 25.18,
+        "tax_amount": 11.28,
+        "total_tax": 23.95
+    }
+}

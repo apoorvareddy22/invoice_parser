@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "82089 Hernandez Cliff Suite 405 Cathytown, MI 24181",
+        "business_no": "tu316",
+        "id": "fk504"
+    },
+    "invoice": {
+        "date": "27.10.1991",
+        "number": "8423-1171"
+    },
+    "payment": {
+        "due_date": "11.07.1991",
+        "total": 372.48
+    },
+    "products": [
+        {
+            "amount": 349.89,
+            "description": "innovate seamless functionalities",
+            "quantity": 5.76,
+            "reference": "iJ-698",
+            "unit_price": 48.6
+        }
+    ],
+    "seller": {
+        "address": "USCGC Moore FPO AE 73034"
+    },
+    "tax": {
+        "base_ht": 353.41,
+        "regulations": 25.45,
+        "total_ht": 485.36,
+        "vat_amount": 106.58,
+        "vat_percentage": 13.82
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "USNV Allen FPO AE 18478",
+        "id": "Ox554"
+    },
+    "invoice": {
+        "bc_no": "kJ97067",
+        "currency_code": "HNL",
+        "date": "24.09.2021",
+        "due_date": "18.04.2002",
+        "number": 474850
+    },
+    "payment": {
+        "bank_name": "King PLC",
+        "bic": "IWMTGBNY",
+        "iban": "WTXB56051864051200"
+    },
+    "products": [
+        {
+            "amount": 85.84,
+            "description": "incentivize interactive e-tailers",
+            "index": "5",
+            "price": 341.47,
+            "quantity": 4.92,
+            "tax_amount": 79.85,
+            "total_ttc": 253.18,
+            "vat_amount": 9.76
+        },
+        {
+            "amount": 261.86,
+            "description": "morph bleeding-edge platforms",
+            "index": "6",
+            "price": 20.18,
+            "quantity": 4.3,
+            "tax_amount": 51.54,
+            "total_ttc": 141.43,
+            "vat_amount": 6.69
+        },
+        {
+            "amount": 174.48,
+            "description": "e-enable scalable web services",
+            "index": "4",
+            "price": 200.12,
+            "quantity": 2.5,
+            "tax_amount": 36.87,
+            "total_ttc": 188.34,
+            "vat_amount": 16.19
+        },
+        {
+            "amount": 295.68,
+            "description": "transform enterprise synergies",
+            "index": "3",
+            "price": 365.76,
+            "quantity": 4.6,
+            "tax_amount": 37.06,
+            "total_ttc": 453.25,
+            "vat_amount": 8.01
+        },
+        {
+            "amount": 160.73,
+            "description": "whiteboard B2C platforms",
+            "index": "5",
+            "price": 423.75,
+            "quantity": 1.44,
+            "tax_amount": 68.12,
+            "total_ttc": 241.97,
+            "vat_amount": 2.89
+        }
+    ],
+    "seller": {
+        "name": "Alec Brooks"
+    },
+    "supplier": {
+        "address": "PSC 3013, Box 2113 APO AA 05354",
+        "name": "Jennifer Henderson"
+    },
+    "tax": {
+        "amount_excluding_tax": 148.9,
+        "amount_including_tax": 129.16,
+        "tax_amount": 23.68,
+        "total_ht": 305.0,
+        "total_ttc": 246.8
+    }
+}

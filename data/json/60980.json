@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "239 Natalie Unions Simpsonshire, MA 21657",
+        "business_no": "Kn617",
+        "id": "Qv062"
+    },
+    "invoice": {
+        "date": "07.07.1999",
+        "number": "5188-5700"
+    },
+    "payment": {
+        "due_date": "14.05.1995",
+        "total": 971.12
+    },
+    "products": [
+        {
+            "amount": 207.4,
+            "description": "benchmark transparent e-markets",
+            "quantity": 8.95,
+            "reference": "FE-106",
+            "unit_price": 47.5
+        },
+        {
+            "amount": 490.73,
+            "description": "enable impactful initiatives",
+            "quantity": 4.51,
+            "reference": "FG-792",
+            "unit_price": 31.44
+        },
+        {
+            "amount": 417.06,
+            "description": "mesh killer schemas",
+            "quantity": 8.54,
+            "reference": "MK-967",
+            "unit_price": 73.07
+        }
+    ],
+    "seller": {
+        "address": "6644 Wilkerson Rapid Apt. 178 New Joseph, CT 25845"
+    },
+    "tax": {
+        "base_ht": 190.56,
+        "regulations": 12.51,
+        "total_ht": 304.87,
+        "vat_amount": 49.22,
+        "vat_percentage": 15.78
+    }
+}

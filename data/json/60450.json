@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "6237 Tracey Views Suite 343 Port Caitlin, GU 62543",
+        "business_no": "su706",
+        "id": "lH811"
+    },
+    "invoice": {
+        "date": "07.02.2023",
+        "number": "5049-0897"
+    },
+    "payment": {
+        "due_date": "04.09.2021",
+        "total": 821.72
+    },
+    "products": [
+        {
+            "amount": 303.44,
+            "description": "seize impactful niches",
+            "quantity": 4.59,
+            "reference": "mn-201",
+            "unit_price": 10.5
+        },
+        {
+            "amount": 460.06,
+            "description": "syndicate mission-critical web-readiness",
+            "quantity": 7.41,
+            "reference": "sY-285",
+            "unit_price": 31.21
+        },
+        {
+            "amount": 398.88,
+            "description": "re-intermediate wireless convergence",
+            "quantity": 5.63,
+            "reference": "Wh-129",
+            "unit_price": 17.18
+        }
+    ],
+    "seller": {
+        "address": "9935 Daryl Stravenue Henryport, KY 70765"
+    },
+    "tax": {
+        "base_ht": 392.82,
+        "regulations": 21.27,
+        "total_ht": 119.15,
+        "vat_amount": 139.46,
+        "vat_percentage": 18.05
+    }
+}

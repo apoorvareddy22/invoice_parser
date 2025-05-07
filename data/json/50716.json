@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "012 Lewis Common Suite 920 South Jeremy, PR 34856",
+        "id": "Tu605"
+    },
+    "invoice": {
+        "bc_no": "mh89298",
+        "currency_code": "TRY",
+        "date": "20.09.2017",
+        "due_date": "04.07.2014",
+        "number": 673754
+    },
+    "payment": {
+        "bank_name": "Weiss, Harrison and May",
+        "bic": "FKOAGBXH",
+        "iban": "MBGV75632708792235"
+    },
+    "products": [
+        {
+            "amount": 65.1,
+            "description": "syndicate dot-com solutions",
+            "index": "4",
+            "price": 452.98,
+            "quantity": 1.46,
+            "tax_amount": 35.27,
+            "total_ttc": 139.16,
+            "vat_amount": 1.26
+        },
+        {
+            "amount": 89.07,
+            "description": "brand global experiences",
+            "index": "1",
+            "price": 496.34,
+            "quantity": 1.15,
+            "tax_amount": 61.92,
+            "total_ttc": 116.98,
+            "vat_amount": 1.56
+        },
+        {
+            "amount": 365.98,
+            "description": "matrix killer bandwidth",
+            "index": "5",
+            "price": 190.77,
+            "quantity": 9.99,
+            "tax_amount": 22.48,
+            "total_ttc": 132.28,
+            "vat_amount": 9.16
+        },
+        {
+            "amount": 326.0,
+            "description": "incentivize bleeding-edge web-readiness",
+            "index": "8",
+            "price": 8.34,
+            "quantity": 9.61,
+            "tax_amount": 76.59,
+            "total_ttc": 325.13,
+            "vat_amount": 9.35
+        }
+    ],
+    "seller": {
+        "name": "Stephen Murphy"
+    },
+    "supplier": {
+        "address": "441 Mueller Row Hillborough, TN 36296",
+        "name": "Steven Campbell"
+    },
+    "tax": {
+        "amount_excluding_tax": 113.59,
+        "amount_including_tax": 101.97,
+        "tax_amount": 20.12,
+        "total_ht": 318.85,
+        "total_ttc": 269.11
+    }
+}

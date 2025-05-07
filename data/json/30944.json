@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "Unit 6530 Box 3241 DPO AA 74712",
+        "company_name": "Davis, Kim and Maxwell",
+        "country": "Italy",
+        "email": "snyderwayne@example.org",
+        "name": "Todd Lester DVM",
+        "phone": "8738493099",
+        "vat_no": "fM81841756876"
+    },
+    "invoice": {
+        "date": "30.10.1993",
+        "due_date": "19.04.2015",
+        "linked_invoice": "aw-7834-5244",
+        "notes": "transition collaborative relationships",
+        "number": "CO-5220-6190"
+    },
+    "products": [
+        {
+            "description": "iterate magnetic solutions",
+            "discount_percentage": 13.47,
+            "price": 154.95,
+            "quantity": 9.02,
+            "unit_price": 86.52
+        }
+    ],
+    "seller": {
+        "address": "7262 Anna Terrace Langport, FM 79202",
+        "ape": "6096X",
+        "capital": 10884607,
+        "country": "Niue",
+        "email": "castilloadam@example.org",
+        "name": "Juan Williams",
+        "phone_1": "+1-905-792-3394",
+        "phone_2": "869-297-4783x983",
+        "phone_3": "(824)213-0943",
+        "ref_walk": "undj2573",
+        "reference": "Lo195",
+        "siret": 50250945946487,
+        "vat_no": "Nw09985496025",
+        "website": "https://www.riggs.com/"
+    },
+    "tax": {
+        "amount_0": 25.85,
+        "amount_1": 21.02,
+        "base_0": 23.07,
+        "base_1": 103.19,
+        "total_ht": 187.33,
+        "total_tax": 10.04,
+        "total_ttc": 436.75,
+        "vat_0": 17.45,
+        "vat_1": 10.96
+    }
+}

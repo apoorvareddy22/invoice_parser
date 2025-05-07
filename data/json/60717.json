@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "0784 Sara Row Lake Jessica, OH 99638",
+        "business_no": "sW572",
+        "id": "rd235"
+    },
+    "invoice": {
+        "date": "28.11.2007",
+        "number": "5114-3306"
+    },
+    "payment": {
+        "due_date": "21.11.2018",
+        "total": 356.58
+    },
+    "products": [
+        {
+            "amount": 489.51,
+            "description": "exploit vertical synergies",
+            "quantity": 7.18,
+            "reference": "NH-146",
+            "unit_price": 17.24
+        },
+        {
+            "amount": 449.75,
+            "description": "envisioneer turn-key portals",
+            "quantity": 2.26,
+            "reference": "Jy-877",
+            "unit_price": 52.67
+        },
+        {
+            "amount": 197.61,
+            "description": "orchestrate transparent web-readiness",
+            "quantity": 7.41,
+            "reference": "wN-054",
+            "unit_price": 84.4
+        },
+        {
+            "amount": 228.53,
+            "description": "generate turn-key metrics",
+            "quantity": 2.7,
+            "reference": "nz-056",
+            "unit_price": 21.65
+        },
+        {
+            "amount": 338.4,
+            "description": "implement out-of-the-box platforms",
+            "quantity": 2.72,
+            "reference": "ST-431",
+            "unit_price": 41.14
+        }
+    ],
+    "seller": {
+        "address": "307 Howell Locks Walterport, KS 34818"
+    },
+    "tax": {
+        "base_ht": 351.85,
+        "regulations": 15.65,
+        "total_ht": 115.89,
+        "vat_amount": 29.51,
+        "vat_percentage": 17.74
+    }
+}

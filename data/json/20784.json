@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "220 Graham Spur North Danahaven, CA 60889",
+        "company_name": "Mills, Roberts and King",
+        "email": "patrick30@example.org",
+        "name": "Matthew Bates",
+        "phone": "(992)875-7726"
+    },
+    "invoice": {
+        "date": "21.06.2020",
+        "due_date": "05.06.2014",
+        "number": "rXm49587838876"
+    },
+    "payment": {
+        "account_number": 7508542642,
+        "bank_name": "Parks-Campbell",
+        "routing_number": 102141810
+    },
+    "products": [
+        {
+            "amount": 345.0,
+            "description": "harness user-centric initiatives",
+            "index": "9",
+            "quantity": 9.66,
+            "unit_price": 14.96
+        },
+        {
+            "amount": 78.22,
+            "description": "optimize back-end e-business",
+            "index": "5",
+            "quantity": 1.01,
+            "unit_price": 93.7
+        },
+        {
+            "amount": 453.56,
+            "description": "redefine mission-critical eyeballs",
+            "index": "2",
+            "quantity": 1.26,
+            "unit_price": 59.3
+        }
+    ],
+    "seller": {
+        "address": "786 Duke Brook East Dennisview, LA 53743",
+        "company_name": "Munoz-Stone",
+        "email": "mollymullen@example.com"
+    }
+}

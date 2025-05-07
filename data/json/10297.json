@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "9282 Stone Ramp Patriciachester, OH 40515",
+        "email": "stewartaustin@example.org",
+        "phone": "559-684-5318x3241",
+        "vat_no": "AG28214876446"
+    },
+    "invoice": {
+        "date": "20.04.2016",
+        "due_date": "13.02.2003",
+        "market_reference": 903845,
+        "notes": "transform frictionless web-readiness",
+        "number": "9512-2548",
+        "reference": 874992,
+        "vat_no": "aw33873833715"
+    },
+    "payment": {
+        "net_total": 175.74,
+        "total": 197.03
+    },
+    "products": [
+        {
+            "amount": 10.57,
+            "description": "brand ubiquitous e-commerce",
+            "hours": 7.24,
+            "rate": 9.87
+        }
+    ],
+    "seller": {
+        "address": "587 Robert Canyon North Justinmouth, UT 32708",
+        "email": "evan06@example.com",
+        "name": "Valerie Chambers"
+    },
+    "tax": {
+        "base": 27.3,
+        "tax_amount": 20.43,
+        "total_tax": 18.31
+    }
+}

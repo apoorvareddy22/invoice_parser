@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "749 Shawn Garden Tammyburgh, MN 91925",
+        "company_name": "Buchanan Inc",
+        "email": "kimberly24@example.net",
+        "name": "Kelly Chase",
+        "phone": "262.269.5295x8615"
+    },
+    "invoice": {
+        "date": "28.10.2006",
+        "due_date": "02.02.2012",
+        "number": "oig65102001381"
+    },
+    "payment": {
+        "account_number": 1527156063,
+        "bank_name": "Hunter and Sons",
+        "routing_number": 538497559
+    },
+    "products": [
+        {
+            "amount": 328.98,
+            "description": "optimize seamless synergies",
+            "index": "5",
+            "quantity": 4.77,
+            "unit_price": 10.87
+        },
+        {
+            "amount": 123.32,
+            "description": "monetize efficient schemas",
+            "index": "7",
+            "quantity": 7.17,
+            "unit_price": 39.52
+        }
+    ],
+    "seller": {
+        "address": "0951 Steven Rest Ochoabury, TX 84197",
+        "company_name": "Anderson-Buchanan",
+        "email": "maryharrington@example.com"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "9936 John Road New Devintown, WY 47094"
+    },
+    "invoice": {
+        "bc_no": "BM89515",
+        "date": "19.06.2005",
+        "maturity_date": "26.07.2009",
+        "number": 358984
+    },
+    "products": [
+        {
+            "amount": 472.68,
+            "description": "e-enable revolutionary interfaces",
+            "quantity": 9.43,
+            "unit_price": 81.34,
+            "vat_amount": 7.36
+        },
+        {
+            "amount": 11.22,
+            "description": "grow cross-media e-tailers",
+            "quantity": 1.35,
+            "unit_price": 17.49,
+            "vat_amount": 5.76
+        },
+        {
+            "amount": 456.06,
+            "description": "engineer intuitive action-items",
+            "quantity": 4.11,
+            "unit_price": 12.35,
+            "vat_amount": 0.29
+        },
+        {
+            "amount": 106.84,
+            "description": "enable dot-com architectures",
+            "quantity": 3.33,
+            "unit_price": 66.87,
+            "vat_amount": 1.82
+        },
+        {
+            "amount": 195.37,
+            "description": "target ubiquitous web services",
+            "quantity": 4.57,
+            "unit_price": 51.19,
+            "vat_amount": 12.59
+        },
+        {
+            "amount": 483.43,
+            "description": "re-contextualize sticky architectures",
+            "quantity": 8.91,
+            "unit_price": 78.34,
+            "vat_amount": 3.08
+        }
+    ],
+    "seller": {
+        "address": "92348 Griffin Lodge New John, NE 06766"
+    },
+    "tax": {
+        "amount_excluding_tax": 175.45,
+        "amount_including_tax": 165.96,
+        "tax_amount": 18.19
+    }
+}

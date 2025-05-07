@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "713 Jason Skyway Apt. 642 Joshuafort, WA 43799",
+        "business_no": "SS759",
+        "id": "VO623"
+    },
+    "invoice": {
+        "date": "29.01.2019",
+        "number": "0932-6020"
+    },
+    "payment": {
+        "due_date": "22.11.1991",
+        "total": 605.32
+    },
+    "products": [
+        {
+            "amount": 327.32,
+            "description": "grow open-source infrastructures",
+            "quantity": 4.38,
+            "reference": "ja-931",
+            "unit_price": 17.18
+        },
+        {
+            "amount": 395.13,
+            "description": "deploy frictionless deliverables",
+            "quantity": 1.09,
+            "reference": "oy-661",
+            "unit_price": 45.76
+        },
+        {
+            "amount": 246.21,
+            "description": "enable compelling synergies",
+            "quantity": 5.55,
+            "reference": "ZD-564",
+            "unit_price": 33.37
+        },
+        {
+            "amount": 420.91,
+            "description": "innovate front-end channels",
+            "quantity": 7.52,
+            "reference": "Sd-481",
+            "unit_price": 70.32
+        },
+        {
+            "amount": 19.59,
+            "description": "synergize viral markets",
+            "quantity": 5.77,
+            "reference": "Ts-665",
+            "unit_price": 82.7
+        },
+        {
+            "amount": 257.71,
+            "description": "envisioneer web-enabled mindshare",
+            "quantity": 2.67,
+            "reference": "BM-892",
+            "unit_price": 72.19
+        }
+    ],
+    "seller": {
+        "address": "03687 Dennis Mills Apt. 262 Lake Shawn, FM 97738"
+    },
+    "tax": {
+        "base_ht": 100.87,
+        "regulations": 15.81,
+        "total_ht": 311.65,
+        "vat_amount": 45.76,
+        "vat_percentage": 25.51
+    }
+}

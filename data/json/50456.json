@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "8632 Johnson Unions Douglasfort, LA 06246",
+        "id": "bJ658"
+    },
+    "invoice": {
+        "bc_no": "QW41238",
+        "currency_code": "UYU",
+        "date": "26.06.2005",
+        "due_date": "25.03.1998",
+        "number": 447901
+    },
+    "payment": {
+        "bank_name": "Weeks Ltd",
+        "bic": "RFUXGB7K",
+        "iban": "EIFD75864971842550"
+    },
+    "products": [
+        {
+            "amount": 335.81,
+            "description": "exploit user-centric web-readiness",
+            "index": "9",
+            "price": 228.03,
+            "quantity": 4.78,
+            "tax_amount": 27.95,
+            "total_ttc": 463.99,
+            "vat_amount": 4.73
+        }
+    ],
+    "seller": {
+        "name": "Amy Williams"
+    },
+    "supplier": {
+        "address": "6901 Brown Neck Apt. 613 South Amyfurt, MP 03896",
+        "name": "Rachel Ray"
+    },
+    "tax": {
+        "amount_excluding_tax": 69.49,
+        "amount_including_tax": 122.87,
+        "tax_amount": 12.85,
+        "total_ht": 197.58,
+        "total_ttc": 155.49
+    }
+}

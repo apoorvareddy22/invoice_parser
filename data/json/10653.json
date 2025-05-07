@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "05237 Helen Views West Veronicastad, NE 05385",
+        "email": "jennataylor@example.net",
+        "phone": "(581)685-1895",
+        "vat_no": "AX95052739275"
+    },
+    "invoice": {
+        "date": "04.03.2022",
+        "due_date": "30.10.2002",
+        "market_reference": 898446,
+        "notes": "evolve one-to-one models",
+        "number": "0203-7879",
+        "reference": 711328,
+        "vat_no": "HM89337341547"
+    },
+    "payment": {
+        "net_total": 131.44,
+        "total": 156.3
+    },
+    "products": [
+        {
+            "amount": 57.3,
+            "description": "harness back-end bandwidth",
+            "hours": 2.43,
+            "rate": 2.18
+        },
+        {
+            "amount": 245.71,
+            "description": "matrix innovative synergies",
+            "hours": 4.84,
+            "rate": 9.41
+        },
+        {
+            "amount": 196.53,
+            "description": "grow dynamic experiences",
+            "hours": 9.15,
+            "rate": 4.55
+        },
+        {
+            "amount": 476.74,
+            "description": "revolutionize scalable architectures",
+            "hours": 2.31,
+            "rate": 4.61
+        }
+    ],
+    "seller": {
+        "address": "4029 Rivas Lodge Suite 513 New Samanthaview, FL 53086",
+        "email": "jessicareed@example.net",
+        "name": "Stephen Ferrell"
+    },
+    "tax": {
+        "base": 26.34,
+        "tax_amount": 11.6,
+        "total_tax": 18.24
+    }
+}

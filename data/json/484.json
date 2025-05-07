@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "7621 Jordan Fields Lake Ryanmouth, NH 42907",
+        "company_name": "Doyle PLC",
+        "country": "Malta",
+        "name": "Andrea Bennett"
+    },
+    "invoice": {
+        "date": "31.10.2002",
+        "number": 727242
+    },
+    "payment": {
+        "discount_amount": 40.44,
+        "discount_percentage": 12.04,
+        "due": 199.52,
+        "sub_total": 99.71,
+        "total": 860.84
+    },
+    "products": [
+        {
+            "description": "whiteboard cross-platform vortals",
+            "index": "7",
+            "quantity": 5.34,
+            "total_price": 803.58,
+            "unit_price": 80.54
+        },
+        {
+            "description": "enhance scalable communities",
+            "index": "8",
+            "quantity": 4.19,
+            "total_price": 702.57,
+            "unit_price": 75.64
+        },
+        {
+            "description": "harness dynamic technologies",
+            "index": "8",
+            "quantity": 8.18,
+            "total_price": 457.87,
+            "unit_price": 83.41
+        }
+    ],
+    "seller": {
+        "address": "95629 Lydia Village Apt. 798 Jasmineton, FL 30859",
+        "company_name": "Hicks, Newman and Moore",
+        "vat_no": "gd28178624354"
+    }
+}

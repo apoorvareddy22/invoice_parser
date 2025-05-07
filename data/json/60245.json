@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "5348 Jacobs Circles Lake Cynthia, PW 76421",
+        "business_no": "qy449",
+        "id": "ud168"
+    },
+    "invoice": {
+        "date": "18.03.2020",
+        "number": "0936-7832"
+    },
+    "payment": {
+        "due_date": "01.09.2017",
+        "total": 810.7
+    },
+    "products": [
+        {
+            "amount": 244.48,
+            "description": "brand e-business eyeballs",
+            "quantity": 2.62,
+            "reference": "xG-110",
+            "unit_price": 65.6
+        },
+        {
+            "amount": 196.75,
+            "description": "facilitate back-end users",
+            "quantity": 5.4,
+            "reference": "mA-760",
+            "unit_price": 66.47
+        }
+    ],
+    "seller": {
+        "address": "853 Melanie Skyway Apt. 374 North Tracy, GU 81658"
+    },
+    "tax": {
+        "base_ht": 336.9,
+        "regulations": 27.48,
+        "total_ht": 247.91,
+        "vat_amount": 198.24,
+        "vat_percentage": 22.0
+    }
+}

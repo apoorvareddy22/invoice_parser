@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "7637 Robin Valley Mcdowellborough, GA 58575",
+        "id": "tF086"
+    },
+    "invoice": {
+        "bc_no": "he64543",
+        "currency_code": "CDF",
+        "date": "13.07.2016",
+        "due_date": "27.09.2011",
+        "number": 721229
+    },
+    "payment": {
+        "bank_name": "Davis, Harris and Farley",
+        "bic": "WWJQGB2N",
+        "iban": "XMYK01653600269803"
+    },
+    "products": [
+        {
+            "amount": 277.91,
+            "description": "visualize customized e-services",
+            "index": "1",
+            "price": 11.35,
+            "quantity": 9.34,
+            "tax_amount": 18.73,
+            "total_ttc": 462.2,
+            "vat_amount": 0.98
+        },
+        {
+            "amount": 290.74,
+            "description": "strategize next-generation web-readiness",
+            "index": "2",
+            "price": 20.07,
+            "quantity": 9.79,
+            "tax_amount": 75.02,
+            "total_ttc": 197.86,
+            "vat_amount": 3.78
+        },
+        {
+            "amount": 240.76,
+            "description": "whiteboard compelling convergence",
+            "index": "4",
+            "price": 482.37,
+            "quantity": 7.12,
+            "tax_amount": 32.69,
+            "total_ttc": 141.71,
+            "vat_amount": 7.77
+        },
+        {
+            "amount": 52.53,
+            "description": "re-intermediate next-generation schemas",
+            "index": "10",
+            "price": 98.13,
+            "quantity": 1.7,
+            "tax_amount": 61.78,
+            "total_ttc": 401.82,
+            "vat_amount": 3.66
+        },
+        {
+            "amount": 306.55,
+            "description": "engineer frictionless networks",
+            "index": "5",
+            "price": 64.42,
+            "quantity": 5.18,
+            "tax_amount": 38.82,
+            "total_ttc": 154.85,
+            "vat_amount": 13.05
+        },
+        {
+            "amount": 227.73,
+            "description": "harness turn-key e-business",
+            "index": "9",
+            "price": 499.05,
+            "quantity": 2.05,
+            "tax_amount": 97.59,
+            "total_ttc": 215.77,
+            "vat_amount": 14.97
+        }
+    ],
+    "seller": {
+        "name": "Heidi Brown"
+    },
+    "supplier": {
+        "address": "USCGC Smith FPO AP 54116",
+        "name": "Frank Moyer"
+    },
+    "tax": {
+        "amount_excluding_tax": 123.09,
+        "amount_including_tax": 105.79,
+        "tax_amount": 22.63,
+        "total_ht": 430.35,
+        "total_ttc": 472.5
+    }
+}

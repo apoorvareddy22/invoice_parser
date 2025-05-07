@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "58014 Gill Mountain Port Dawn, SD 35920",
+        "email": "haleyramirez@example.org",
+        "phone": "+1-944-454-8647x579",
+        "vat_no": "ca94982720217"
+    },
+    "invoice": {
+        "date": "28.09.2022",
+        "due_date": "28.01.2023",
+        "market_reference": 601727,
+        "notes": "exploit interactive systems",
+        "number": "7848-3499",
+        "reference": 791307,
+        "vat_no": "iU68687707685"
+    },
+    "payment": {
+        "net_total": 38.24,
+        "total": 515.72
+    },
+    "products": [
+        {
+            "amount": 10.91,
+            "description": "synergize one-to-one interfaces",
+            "hours": 5.55,
+            "rate": 8.22
+        },
+        {
+            "amount": 257.36,
+            "description": "generate innovative users",
+            "hours": 6.94,
+            "rate": 3.91
+        },
+        {
+            "amount": 212.17,
+            "description": "evolve interactive networks",
+            "hours": 6.13,
+            "rate": 5.11
+        },
+        {
+            "amount": 70.7,
+            "description": "extend plug-and-play applications",
+            "hours": 9.99,
+            "rate": 9.44
+        }
+    ],
+    "seller": {
+        "address": "921 Barrett Roads Apt. 121 West Gene, ME 97576",
+        "email": "lfuller@example.net",
+        "name": "Tanya Cruz"
+    },
+    "tax": {
+        "base": 19.72,
+        "tax_amount": 25.4,
+        "total_tax": 24.75
+    }
+}

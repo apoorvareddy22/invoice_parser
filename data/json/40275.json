@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "44299 Horn Centers East Peter, NM 20298"
+    },
+    "invoice": {
+        "bc_no": "qR49937",
+        "date": "06.05.2006",
+        "maturity_date": "21.05.2011",
+        "number": 291997
+    },
+    "products": [
+        {
+            "amount": 413.43,
+            "description": "generate B2C experiences",
+            "quantity": 3.04,
+            "unit_price": 92.4,
+            "vat_amount": 0.06
+        }
+    ],
+    "seller": {
+        "address": "279 Ramirez Meadow Apt. 865 Schmidtton, NY 58643"
+    },
+    "tax": {
+        "amount_excluding_tax": 109.78,
+        "amount_including_tax": 125.11,
+        "tax_amount": 23.68
+    }
+}

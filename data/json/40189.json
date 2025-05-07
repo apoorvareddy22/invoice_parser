@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "6705 Lee Roads Apt. 459 Nicholasfort, PW 71545"
+    },
+    "invoice": {
+        "bc_no": "Fx49230",
+        "date": "22.05.2005",
+        "maturity_date": "20.09.1999",
+        "number": 609112
+    },
+    "products": [
+        {
+            "amount": 174.22,
+            "description": "optimize cross-platform vortals",
+            "quantity": 7.33,
+            "unit_price": 67.93,
+            "vat_amount": 7.65
+        },
+        {
+            "amount": 236.49,
+            "description": "transition bricks-and-clicks solutions",
+            "quantity": 1.07,
+            "unit_price": 11.76,
+            "vat_amount": 11.24
+        },
+        {
+            "amount": 337.74,
+            "description": "enable extensible communities",
+            "quantity": 1.36,
+            "unit_price": 27.83,
+            "vat_amount": 0.8
+        },
+        {
+            "amount": 247.54,
+            "description": "revolutionize back-end methodologies",
+            "quantity": 6.28,
+            "unit_price": 65.56,
+            "vat_amount": 5.2
+        },
+        {
+            "amount": 280.02,
+            "description": "iterate 24/365 deliverables",
+            "quantity": 1.11,
+            "unit_price": 20.54,
+            "vat_amount": 4.99
+        }
+    ],
+    "seller": {
+        "address": "8820 Mathis Squares Rayfort, OK 36515"
+    },
+    "tax": {
+        "amount_excluding_tax": 198.6,
+        "amount_including_tax": 153.61,
+        "tax_amount": 20.72
+    }
+}

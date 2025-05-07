@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "418 Alexandra Extensions Bradleyfurt, AR 75244",
+        "id": "kF942"
+    },
+    "invoice": {
+        "bc_no": "jr83580",
+        "currency_code": "WST",
+        "date": "16.01.2018",
+        "due_date": "20.05.1991",
+        "number": 546229
+    },
+    "payment": {
+        "bank_name": "Garza-Bauer",
+        "bic": "LSJNGBGZ",
+        "iban": "XJSJ02057585982259"
+    },
+    "products": [
+        {
+            "amount": 275.34,
+            "description": "utilize one-to-one synergies",
+            "index": "8",
+            "price": 300.96,
+            "quantity": 2.34,
+            "tax_amount": 50.36,
+            "total_ttc": 365.69,
+            "vat_amount": 14.42
+        },
+        {
+            "amount": 213.61,
+            "description": "orchestrate cross-media synergies",
+            "index": "10",
+            "price": 438.02,
+            "quantity": 2.52,
+            "tax_amount": 80.19,
+            "total_ttc": 126.44,
+            "vat_amount": 1.44
+        },
+        {
+            "amount": 246.99,
+            "description": "leverage collaborative models",
+            "index": "1",
+            "price": 350.74,
+            "quantity": 8.65,
+            "tax_amount": 56.21,
+            "total_ttc": 234.74,
+            "vat_amount": 0.44
+        },
+        {
+            "amount": 381.6,
+            "description": "re-contextualize open-source synergies",
+            "index": "2",
+            "price": 308.2,
+            "quantity": 3.81,
+            "tax_amount": 10.31,
+            "total_ttc": 243.43,
+            "vat_amount": 4.81
+        }
+    ],
+    "seller": {
+        "name": "Brian Cisneros"
+    },
+    "supplier": {
+        "address": "62781 Samantha Crossroad Apt. 925 East Morganshire, MT 04380",
+        "name": "Devin Buckley"
+    },
+    "tax": {
+        "amount_excluding_tax": 163.22,
+        "amount_including_tax": 95.11,
+        "tax_amount": 10.86,
+        "total_ht": 267.57,
+        "total_ttc": 455.09
+    }
+}

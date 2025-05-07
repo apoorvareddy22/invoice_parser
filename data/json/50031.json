@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "795 Craig River Apt. 698 Smithton, GA 70493",
+        "id": "hg736"
+    },
+    "invoice": {
+        "bc_no": "yr29979",
+        "currency_code": "QAR",
+        "date": "05.04.2006",
+        "due_date": "28.10.2001",
+        "number": 837268
+    },
+    "payment": {
+        "bank_name": "Lambert Ltd",
+        "bic": "HRHBGBP7",
+        "iban": "KTXC73496242974637"
+    },
+    "products": [
+        {
+            "amount": 364.8,
+            "description": "re-contextualize collaborative eyeballs",
+            "index": "10",
+            "price": 74.56,
+            "quantity": 1.54,
+            "tax_amount": 14.2,
+            "total_ttc": 120.33,
+            "vat_amount": 4.68
+        },
+        {
+            "amount": 450.8,
+            "description": "deploy vertical users",
+            "index": "2",
+            "price": 389.6,
+            "quantity": 3.21,
+            "tax_amount": 91.15,
+            "total_ttc": 136.6,
+            "vat_amount": 0.99
+        }
+    ],
+    "seller": {
+        "name": "Juan Schmidt"
+    },
+    "supplier": {
+        "address": "76964 Dennis Mission Suite 782 Lake Shirleyside, NC 31546",
+        "name": "Robert Valdez"
+    },
+    "tax": {
+        "amount_excluding_tax": 87.72,
+        "amount_including_tax": 149.21,
+        "tax_amount": 27.81,
+        "total_ht": 405.49,
+        "total_ttc": 451.45
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "8460 Juan Viaduct Suite 785 North Aaronbury, GU 12955",
+        "business_no": "XI976",
+        "id": "JF376"
+    },
+    "invoice": {
+        "date": "24.12.1996",
+        "number": "9620-7868"
+    },
+    "payment": {
+        "due_date": "23.04.2000",
+        "total": 921.35
+    },
+    "products": [
+        {
+            "amount": 436.73,
+            "description": "repurpose B2B e-commerce",
+            "quantity": 3.61,
+            "reference": "lH-016",
+            "unit_price": 20.27
+        },
+        {
+            "amount": 51.81,
+            "description": "unleash strategic relationships",
+            "quantity": 3.46,
+            "reference": "KR-333",
+            "unit_price": 31.48
+        },
+        {
+            "amount": 211.0,
+            "description": "monetize scalable applications",
+            "quantity": 3.41,
+            "reference": "QE-039",
+            "unit_price": 23.38
+        },
+        {
+            "amount": 492.83,
+            "description": "productize best-of-breed methodologies",
+            "quantity": 6.15,
+            "reference": "pd-819",
+            "unit_price": 80.9
+        }
+    ],
+    "seller": {
+        "address": "21379 Katherine Causeway West Jesse, MI 35326"
+    },
+    "tax": {
+        "base_ht": 472.11,
+        "regulations": 22.47,
+        "total_ht": 358.79,
+        "vat_amount": 29.66,
+        "vat_percentage": 18.78
+    }
+}

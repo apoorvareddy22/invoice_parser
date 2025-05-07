@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "308 Russell Divide Apt. 483 Reeveshaven, MH 22222",
+        "id": "al782"
+    },
+    "invoice": {
+        "bc_no": "FS73898",
+        "currency_code": "BDT",
+        "date": "27.07.2014",
+        "due_date": "04.11.1997",
+        "number": 450279
+    },
+    "payment": {
+        "bank_name": "Hahn Group",
+        "bic": "BYVTGBN4",
+        "iban": "ZFPP96725434043979"
+    },
+    "products": [
+        {
+            "amount": 336.01,
+            "description": "optimize seamless users",
+            "index": "5",
+            "price": 18.48,
+            "quantity": 7.68,
+            "tax_amount": 57.57,
+            "total_ttc": 131.03,
+            "vat_amount": 7.93
+        },
+        {
+            "amount": 203.39,
+            "description": "engage interactive platforms",
+            "index": "5",
+            "price": 265.19,
+            "quantity": 5.27,
+            "tax_amount": 90.49,
+            "total_ttc": 174.14,
+            "vat_amount": 6.71
+        },
+        {
+            "amount": 25.67,
+            "description": "matrix open-source e-commerce",
+            "index": "1",
+            "price": 338.69,
+            "quantity": 4.02,
+            "tax_amount": 99.14,
+            "total_ttc": 251.46,
+            "vat_amount": 2.48
+        },
+        {
+            "amount": 252.64,
+            "description": "aggregate dot-com deliverables",
+            "index": "1",
+            "price": 95.86,
+            "quantity": 9.29,
+            "tax_amount": 21.74,
+            "total_ttc": 105.71,
+            "vat_amount": 3.99
+        }
+    ],
+    "seller": {
+        "name": "Latasha James"
+    },
+    "supplier": {
+        "address": "64959 Edwards Terrace Suite 889 Jillberg, TX 84783",
+        "name": "Sean Prince"
+    },
+    "tax": {
+        "amount_excluding_tax": 45.82,
+        "amount_including_tax": 24.91,
+        "tax_amount": 21.16,
+        "total_ht": 297.52,
+        "total_ttc": 101.35
+    }
+}

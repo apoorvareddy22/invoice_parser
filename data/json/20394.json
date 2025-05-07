@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "551 Coffey Island Suite 838 North Johnny, NH 45421",
+        "company_name": "Davidson Ltd",
+        "email": "griffinscott@example.com",
+        "name": "Hailey Martinez",
+        "phone": "+1-317-953-5952"
+    },
+    "invoice": {
+        "date": "13.08.2011",
+        "due_date": "15.01.2012",
+        "number": "Yzk53074187960"
+    },
+    "payment": {
+        "account_number": 9694306019,
+        "bank_name": "Lopez, Sexton and White",
+        "routing_number": 442633683
+    },
+    "products": [
+        {
+            "amount": 461.46,
+            "description": "orchestrate vertical functionalities",
+            "index": "9",
+            "quantity": 6.2,
+            "unit_price": 32.44
+        },
+        {
+            "amount": 148.86,
+            "description": "visualize wireless interfaces",
+            "index": "2",
+            "quantity": 6.36,
+            "unit_price": 26.22
+        }
+    ],
+    "seller": {
+        "address": "3077 Timothy Via Apt. 217 South Michelle, HI 14983",
+        "company_name": "Morgan, Garrison and Carr",
+        "email": "cobbmichelle@example.com"
+    }
+}

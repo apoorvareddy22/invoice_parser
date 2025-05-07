@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "688 Angela Road Lake Maryborough, NC 05627"
+    },
+    "invoice": {
+        "bc_no": "hS17021",
+        "date": "02.07.2023",
+        "maturity_date": "02.12.2001",
+        "number": 147796
+    },
+    "products": [
+        {
+            "amount": 266.88,
+            "description": "embrace customized models",
+            "quantity": 9.37,
+            "unit_price": 12.86,
+            "vat_amount": 0.25
+        },
+        {
+            "amount": 329.8,
+            "description": "e-enable leading-edge systems",
+            "quantity": 3.33,
+            "unit_price": 33.05,
+            "vat_amount": 7.54
+        }
+    ],
+    "seller": {
+        "address": "572 Courtney Crossing Lake Robert, MO 15471"
+    },
+    "tax": {
+        "amount_excluding_tax": 141.95,
+        "amount_including_tax": 151.9,
+        "tax_amount": 15.86
+    }
+}

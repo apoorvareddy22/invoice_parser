@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "41633 Chase Cove Timothymouth, MO 74970"
+    },
+    "invoice": {
+        "bc_no": "Lc89144",
+        "date": "28.04.2022",
+        "maturity_date": "16.04.2006",
+        "number": 156139
+    },
+    "products": [
+        {
+            "amount": 89.23,
+            "description": "productize integrated metrics",
+            "quantity": 1.16,
+            "unit_price": 61.16,
+            "vat_amount": 4.02
+        },
+        {
+            "amount": 35.15,
+            "description": "seize visionary architectures",
+            "quantity": 2.39,
+            "unit_price": 38.79,
+            "vat_amount": 3.69
+        }
+    ],
+    "seller": {
+        "address": "586 Raymond Orchard Apt. 325 East Hunter, LA 23286"
+    },
+    "tax": {
+        "amount_excluding_tax": 130.85,
+        "amount_including_tax": 197.64,
+        "tax_amount": 23.07
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "1501 Phillip Knoll East Charleshaven, IL 04270"
+    },
+    "invoice": {
+        "bc_no": "Ik98860",
+        "date": "20.08.1990",
+        "maturity_date": "18.11.2004",
+        "number": 399674
+    },
+    "products": [
+        {
+            "amount": 414.34,
+            "description": "engage enterprise info-mediaries",
+            "quantity": 8.58,
+            "unit_price": 68.46,
+            "vat_amount": 11.64
+        },
+        {
+            "amount": 109.64,
+            "description": "extend best-of-breed e-markets",
+            "quantity": 1.82,
+            "unit_price": 65.75,
+            "vat_amount": 3.09
+        },
+        {
+            "amount": 308.08,
+            "description": "embrace robust e-business",
+            "quantity": 9.73,
+            "unit_price": 57.32,
+            "vat_amount": 7.9
+        }
+    ],
+    "seller": {
+        "address": "312 Tina Fords Apt. 038 Lake Anthony, TN 43600"
+    },
+    "tax": {
+        "amount_excluding_tax": 110.8,
+        "amount_including_tax": 164.68,
+        "tax_amount": 14.12
+    }
+}

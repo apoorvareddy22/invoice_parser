@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "2087 Isaac Isle Alfredmouth, MP 43051",
+        "company_name": "Warren Ltd",
+        "email": "maria22@example.com",
+        "name": "Sue Thomas",
+        "phone": "887.750.9460"
+    },
+    "invoice": {
+        "date": "26.02.2006",
+        "due_date": "17.02.1991",
+        "number": "yYE20039828790"
+    },
+    "payment": {
+        "account_number": 2574285276,
+        "bank_name": "Larson, Gaines and Kelley",
+        "routing_number": 471809133
+    },
+    "products": [
+        {
+            "amount": 264.35,
+            "description": "repurpose front-end synergies",
+            "index": "8",
+            "quantity": 7.3,
+            "unit_price": 62.95
+        }
+    ],
+    "seller": {
+        "address": "2497 Ramos Keys Suite 524 South Michael, LA 20003",
+        "company_name": "Matthews Group",
+        "email": "rparsons@example.org"
+    }
+}

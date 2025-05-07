@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "6736 Melton Avenue Martinfurt, DC 37248",
+        "business_no": "Bb815",
+        "id": "Ok184"
+    },
+    "invoice": {
+        "date": "19.04.1997",
+        "number": "9889-4859"
+    },
+    "payment": {
+        "due_date": "05.10.1995",
+        "total": 334.33
+    },
+    "products": [
+        {
+            "amount": 151.92,
+            "description": "empower robust interfaces",
+            "quantity": 4.17,
+            "reference": "Mq-194",
+            "unit_price": 70.49
+        }
+    ],
+    "seller": {
+        "address": "25382 Keller Knoll Apt. 954 New Shellymouth, NJ 58387"
+    },
+    "tax": {
+        "base_ht": 237.73,
+        "regulations": 26.43,
+        "total_ht": 202.34,
+        "vat_amount": 138.47,
+        "vat_percentage": 13.16
+    }
+}

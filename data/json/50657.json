@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "3754 Bryan Cliffs Apt. 722 Carlchester, CO 72398",
+        "id": "IU095"
+    },
+    "invoice": {
+        "bc_no": "mU64115",
+        "currency_code": "JOD",
+        "date": "16.03.2019",
+        "due_date": "02.02.1999",
+        "number": 719196
+    },
+    "payment": {
+        "bank_name": "Whitehead LLC",
+        "bic": "ZSWWGBUD",
+        "iban": "ZOBL38171043571562"
+    },
+    "products": [
+        {
+            "amount": 106.32,
+            "description": "unleash seamless niches",
+            "index": "6",
+            "price": 426.78,
+            "quantity": 9.66,
+            "tax_amount": 73.59,
+            "total_ttc": 278.14,
+            "vat_amount": 1.59
+        }
+    ],
+    "seller": {
+        "name": "Kent Short"
+    },
+    "supplier": {
+        "address": "3495 Wilson Rest Suite 383 Robertborough, KS 99459",
+        "name": "Tanya Fletcher"
+    },
+    "tax": {
+        "amount_excluding_tax": 170.75,
+        "amount_including_tax": 22.64,
+        "tax_amount": 10.7,
+        "total_ht": 485.09,
+        "total_ttc": 272.22
+    }
+}

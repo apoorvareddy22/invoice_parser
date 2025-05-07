@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "35315 Maria Club Suite 261 Ramseyport, ID 25081",
+        "email": "charleskaitlin@example.org",
+        "phone": "001-802-820-7002",
+        "vat_no": "UK84829457549"
+    },
+    "invoice": {
+        "date": "24.01.2018",
+        "due_date": "21.05.2006",
+        "market_reference": 506608,
+        "notes": "e-enable end-to-end bandwidth",
+        "number": "1987-1531",
+        "reference": 602779,
+        "vat_no": "SK44291935652"
+    },
+    "payment": {
+        "net_total": 106.67,
+        "total": 812.31
+    },
+    "products": [
+        {
+            "amount": 339.14,
+            "description": "optimize granular web-readiness",
+            "hours": 6.49,
+            "rate": 7.92
+        },
+        {
+            "amount": 156.89,
+            "description": "incubate best-of-breed experiences",
+            "hours": 5.74,
+            "rate": 9.01
+        },
+        {
+            "amount": 32.45,
+            "description": "exploit leading-edge experiences",
+            "hours": 4.06,
+            "rate": 5.21
+        },
+        {
+            "amount": 88.98,
+            "description": "embrace virtual synergies",
+            "hours": 9.63,
+            "rate": 10.0
+        },
+        {
+            "amount": 421.21,
+            "description": "deliver visionary technologies",
+            "hours": 7.48,
+            "rate": 3.07
+        },
+        {
+            "amount": 397.46,
+            "description": "e-enable collaborative convergence",
+            "hours": 1.25,
+            "rate": 8.13
+        },
+        {
+            "amount": 100.96,
+            "description": "reinvent cutting-edge applications",
+            "hours": 6.28,
+            "rate": 8.68
+        }
+    ],
+    "seller": {
+        "address": "348 Allison Springs Suite 468 Port Elizabethchester, OH 95993",
+        "email": "wellsmartin@example.org",
+        "name": "Chelsea Rivera"
+    },
+    "tax": {
+        "base": 13.96,
+        "tax_amount": 23.61,
+        "total_tax": 13.12
+    }
+}

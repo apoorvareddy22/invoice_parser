@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "737 John Island Lake Samuel, MN 56357",
+        "id": "Wh212"
+    },
+    "invoice": {
+        "bc_no": "JP24308",
+        "currency_code": "SVC",
+        "date": "01.02.2017",
+        "due_date": "18.08.1998",
+        "number": 210346
+    },
+    "payment": {
+        "bank_name": "Martin-Miranda",
+        "bic": "GLPVGBWH",
+        "iban": "ZNWP20598769980179"
+    },
+    "products": [
+        {
+            "amount": 13.1,
+            "description": "reinvent holistic solutions",
+            "index": "1",
+            "price": 302.86,
+            "quantity": 3.83,
+            "tax_amount": 93.76,
+            "total_ttc": 381.72,
+            "vat_amount": 7.65
+        },
+        {
+            "amount": 287.66,
+            "description": "scale real-time e-tailers",
+            "index": "4",
+            "price": 470.78,
+            "quantity": 4.44,
+            "tax_amount": 23.77,
+            "total_ttc": 395.27,
+            "vat_amount": 8.79
+        },
+        {
+            "amount": 327.84,
+            "description": "synthesize web-enabled architectures",
+            "index": "7",
+            "price": 318.63,
+            "quantity": 8.82,
+            "tax_amount": 39.75,
+            "total_ttc": 260.24,
+            "vat_amount": 4.82
+        },
+        {
+            "amount": 297.39,
+            "description": "innovate granular metrics",
+            "index": "2",
+            "price": 276.58,
+            "quantity": 8.32,
+            "tax_amount": 30.81,
+            "total_ttc": 329.62,
+            "vat_amount": 7.66
+        }
+    ],
+    "seller": {
+        "name": "Megan Berry"
+    },
+    "supplier": {
+        "address": "3179 Chang Hollow Williamchester, PW 93598",
+        "name": "Susan Roberts"
+    },
+    "tax": {
+        "amount_excluding_tax": 60.08,
+        "amount_including_tax": 121.25,
+        "tax_amount": 13.48,
+        "total_ht": 418.14,
+        "total_ttc": 265.12
+    }
+}

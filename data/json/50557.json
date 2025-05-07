@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "7298 Smith Junction Apt. 932 Meadowston, OH 37559",
+        "id": "Wh395"
+    },
+    "invoice": {
+        "bc_no": "xf18071",
+        "currency_code": "LBP",
+        "date": "16.11.1993",
+        "due_date": "01.05.1997",
+        "number": 481301
+    },
+    "payment": {
+        "bank_name": "Ingram-Harris",
+        "bic": "BBHOGBHE",
+        "iban": "PAOF22765420023130"
+    },
+    "products": [
+        {
+            "amount": 158.86,
+            "description": "productize sticky e-markets",
+            "index": "3",
+            "price": 49.89,
+            "quantity": 2.71,
+            "tax_amount": 32.38,
+            "total_ttc": 295.16,
+            "vat_amount": 0.48
+        },
+        {
+            "amount": 187.12,
+            "description": "whiteboard bleeding-edge applications",
+            "index": "6",
+            "price": 153.96,
+            "quantity": 8.16,
+            "tax_amount": 43.78,
+            "total_ttc": 340.59,
+            "vat_amount": 6.33
+        },
+        {
+            "amount": 398.63,
+            "description": "grow 24/7 infrastructures",
+            "index": "7",
+            "price": 494.2,
+            "quantity": 2.96,
+            "tax_amount": 56.44,
+            "total_ttc": 309.37,
+            "vat_amount": 5.58
+        },
+        {
+            "amount": 420.67,
+            "description": "disintermediate wireless solutions",
+            "index": "3",
+            "price": 108.19,
+            "quantity": 5.22,
+            "tax_amount": 57.04,
+            "total_ttc": 401.59,
+            "vat_amount": 4.28
+        }
+    ],
+    "seller": {
+        "name": "Ann Gonzales"
+    },
+    "supplier": {
+        "address": "320 Ashley Camp Richardport, TN 92851",
+        "name": "Emily Moyer"
+    },
+    "tax": {
+        "amount_excluding_tax": 110.85,
+        "amount_including_tax": 139.24,
+        "tax_amount": 25.4,
+        "total_ht": 185.55,
+        "total_ttc": 459.98
+    }
+}

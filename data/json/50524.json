@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "42405 James Highway North Jeff, ID 85218",
+        "id": "Ih821"
+    },
+    "invoice": {
+        "bc_no": "lX00657",
+        "currency_code": "ANG",
+        "date": "19.11.2014",
+        "due_date": "08.10.1991",
+        "number": 290415
+    },
+    "payment": {
+        "bank_name": "Ellis-Moss",
+        "bic": "QMWLGBHX8JR",
+        "iban": "PTFD73555925252145"
+    },
+    "products": [
+        {
+            "amount": 192.68,
+            "description": "brand B2C e-services",
+            "index": "5",
+            "price": 207.51,
+            "quantity": 9.35,
+            "tax_amount": 99.6,
+            "total_ttc": 252.33,
+            "vat_amount": 4.96
+        },
+        {
+            "amount": 47.92,
+            "description": "strategize intuitive metrics",
+            "index": "7",
+            "price": 159.33,
+            "quantity": 5.26,
+            "tax_amount": 27.19,
+            "total_ttc": 168.57,
+            "vat_amount": 4.48
+        },
+        {
+            "amount": 305.62,
+            "description": "maximize best-of-breed platforms",
+            "index": "2",
+            "price": 261.49,
+            "quantity": 9.92,
+            "tax_amount": 62.32,
+            "total_ttc": 125.84,
+            "vat_amount": 6.27
+        },
+        {
+            "amount": 318.99,
+            "description": "synthesize extensible niches",
+            "index": "7",
+            "price": 262.78,
+            "quantity": 7.92,
+            "tax_amount": 38.32,
+            "total_ttc": 238.63,
+            "vat_amount": 9.64
+        },
+        {
+            "amount": 63.77,
+            "description": "maximize global interfaces",
+            "index": "5",
+            "price": 142.27,
+            "quantity": 1.21,
+            "tax_amount": 98.93,
+            "total_ttc": 288.58,
+            "vat_amount": 3.34
+        },
+        {
+            "amount": 383.15,
+            "description": "architect robust info-mediaries",
+            "index": "9",
+            "price": 416.89,
+            "quantity": 9.71,
+            "tax_amount": 28.69,
+            "total_ttc": 332.06,
+            "vat_amount": 10.69
+        }
+    ],
+    "seller": {
+        "name": "Darlene Anderson"
+    },
+    "supplier": {
+        "address": "Unit 1840 Box 5660 DPO AE 30684",
+        "name": "James Walter"
+    },
+    "tax": {
+        "amount_excluding_tax": 169.49,
+        "amount_including_tax": 84.2,
+        "tax_amount": 13.42,
+        "total_ht": 134.09,
+        "total_ttc": 124.62
+    }
+}

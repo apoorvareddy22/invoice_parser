@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "56164 Emily Valleys Suite 431 Hallland, NV 84586",
+        "email": "kristenkelly@example.org",
+        "phone": "(978)433-0579",
+        "vat_no": "hL60113930494"
+    },
+    "invoice": {
+        "date": "08.12.2010",
+        "due_date": "04.08.1992",
+        "market_reference": 917633,
+        "notes": "harness 24/365 e-commerce",
+        "number": "2283-1941",
+        "reference": 546567,
+        "vat_no": "cZ46069231255"
+    },
+    "payment": {
+        "net_total": 89.93,
+        "total": 538.88
+    },
+    "products": [
+        {
+            "amount": 455.74,
+            "description": "aggregate enterprise info-mediaries",
+            "hours": 2.68,
+            "rate": 9.53
+        },
+        {
+            "amount": 282.42,
+            "description": "deploy rich info-mediaries",
+            "hours": 3.47,
+            "rate": 7.11
+        },
+        {
+            "amount": 15.25,
+            "description": "architect revolutionary solutions",
+            "hours": 8.79,
+            "rate": 3.25
+        },
+        {
+            "amount": 460.09,
+            "description": "target open-source relationships",
+            "hours": 5.21,
+            "rate": 7.01
+        },
+        {
+            "amount": 361.13,
+            "description": "e-enable enterprise infrastructures",
+            "hours": 4.98,
+            "rate": 5.85
+        }
+    ],
+    "seller": {
+        "address": "Unit 6162 Box 9600 DPO AA 55299",
+        "email": "castrothomas@example.com",
+        "name": "Lisa Weber"
+    },
+    "tax": {
+        "base": 27.92,
+        "tax_amount": 21.2,
+        "total_tax": 23.19
+    }
+}

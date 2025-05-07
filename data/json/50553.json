@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "3447 Alexander Mountain Apt. 334 New Phillip, FL 77280",
+        "id": "nO342"
+    },
+    "invoice": {
+        "bc_no": "iU63243",
+        "currency_code": "CRC",
+        "date": "12.10.1992",
+        "due_date": "24.04.2003",
+        "number": 788868
+    },
+    "payment": {
+        "bank_name": "Neal-Banks",
+        "bic": "ODTZGBJXSGA",
+        "iban": "HSBR10533883343332"
+    },
+    "products": [
+        {
+            "amount": 391.81,
+            "description": "harness magnetic synergies",
+            "index": "7",
+            "price": 230.48,
+            "quantity": 1.8,
+            "tax_amount": 74.18,
+            "total_ttc": 180.38,
+            "vat_amount": 2.91
+        }
+    ],
+    "seller": {
+        "name": "Stanley Ware"
+    },
+    "supplier": {
+        "address": "325 David Corner Apt. 620 Kimberlyshire, MP 23664",
+        "name": "Eric Wheeler"
+    },
+    "tax": {
+        "amount_excluding_tax": 84.9,
+        "amount_including_tax": 99.5,
+        "tax_amount": 28.93,
+        "total_ht": 223.94,
+        "total_ttc": 137.23
+    }
+}

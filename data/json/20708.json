@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "7528 Brown Plains Apt. 293 New Shane, MT 64586",
+        "company_name": "Wood, Peters and Jones",
+        "email": "sarah14@example.com",
+        "name": "Kimberly Summers",
+        "phone": "(398)705-3494"
+    },
+    "invoice": {
+        "date": "13.03.2007",
+        "due_date": "03.08.2007",
+        "number": "qyA33378098301"
+    },
+    "payment": {
+        "account_number": 6320611548,
+        "bank_name": "Brown-Velasquez",
+        "routing_number": 179624300
+    },
+    "products": [
+        {
+            "amount": 83.31,
+            "description": "integrate next-generation bandwidth",
+            "index": "6",
+            "quantity": 5.28,
+            "unit_price": 27.4
+        },
+        {
+            "amount": 486.25,
+            "description": "innovate dot-com vortals",
+            "index": "5",
+            "quantity": 2.96,
+            "unit_price": 94.44
+        }
+    ],
+    "seller": {
+        "address": "5506 Walker Extension West Paul, MS 76975",
+        "company_name": "Wilson LLC",
+        "email": "johncruz@example.com"
+    }
+}

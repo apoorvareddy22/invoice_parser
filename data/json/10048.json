@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "Unit 4764 Box 2025 DPO AP 89163",
+        "email": "smithsandra@example.net",
+        "phone": "637.664.5307",
+        "vat_no": "ti36502043805"
+    },
+    "invoice": {
+        "date": "01.07.1996",
+        "due_date": "14.04.2005",
+        "market_reference": 514032,
+        "notes": "mesh strategic users",
+        "number": "5477-7131",
+        "reference": 790343,
+        "vat_no": "lU50921773074"
+    },
+    "payment": {
+        "net_total": 91.81,
+        "total": 217.55
+    },
+    "products": [
+        {
+            "amount": 274.27,
+            "description": "facilitate compelling synergies",
+            "hours": 8.25,
+            "rate": 8.72
+        },
+        {
+            "amount": 498.14,
+            "description": "envisioneer customized models",
+            "hours": 4.46,
+            "rate": 4.12
+        }
+    ],
+    "seller": {
+        "address": "PSC 8803, Box 5537 APO AP 24447",
+        "email": "maria70@example.net",
+        "name": "Robert Miller"
+    },
+    "tax": {
+        "base": 21.62,
+        "tax_amount": 23.37,
+        "total_tax": 28.66
+    }
+}

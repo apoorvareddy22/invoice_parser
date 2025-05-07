@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "004 Williams Forks Tammystad, VT 26689",
+        "company_name": "Sanders, Ruiz and Johnson",
+        "country": "Norfolk Island",
+        "name": "Christy Adkins"
+    },
+    "invoice": {
+        "date": "30.03.2012",
+        "number": 220835
+    },
+    "payment": {
+        "discount_amount": 27.27,
+        "discount_percentage": 15.89,
+        "due": 152.14,
+        "sub_total": 55.08,
+        "total": 813.42
+    },
+    "products": [
+        {
+            "description": "e-enable next-generation convergence",
+            "index": "1",
+            "quantity": 1.93,
+            "total_price": 333.6,
+            "unit_price": 38.98
+        }
+    ],
+    "seller": {
+        "address": "1704 Derrick Light Apt. 439 Michelleshire, NV 62883",
+        "company_name": "Patton-Long",
+        "vat_no": "Cj34717431221"
+    }
+}

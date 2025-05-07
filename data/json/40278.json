@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "56747 Murray Mills Apt. 370 Port Emily, WA 94477"
+    },
+    "invoice": {
+        "bc_no": "ea30973",
+        "date": "29.12.2003",
+        "maturity_date": "03.01.2007",
+        "number": 774744
+    },
+    "products": [
+        {
+            "amount": 362.46,
+            "description": "mesh wireless technologies",
+            "quantity": 4.12,
+            "unit_price": 34.45,
+            "vat_amount": 1.52
+        },
+        {
+            "amount": 303.07,
+            "description": "exploit ubiquitous markets",
+            "quantity": 9.16,
+            "unit_price": 34.07,
+            "vat_amount": 1.45
+        },
+        {
+            "amount": 233.04,
+            "description": "synergize strategic e-services",
+            "quantity": 1.82,
+            "unit_price": 59.15,
+            "vat_amount": 5.2
+        }
+    ],
+    "seller": {
+        "address": "USS George FPO AA 63668"
+    },
+    "tax": {
+        "amount_excluding_tax": 135.33,
+        "amount_including_tax": 52.61,
+        "tax_amount": 17.98
+    }
+}

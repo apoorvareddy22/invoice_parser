@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "0399 Jenkins Ports Apt. 599 West Michaelton, KY 57151",
+        "id": "Fv618"
+    },
+    "invoice": {
+        "bc_no": "lA60082",
+        "currency_code": "HNL",
+        "date": "26.09.2023",
+        "due_date": "08.08.1996",
+        "number": 577199
+    },
+    "payment": {
+        "bank_name": "Hayes-Moore",
+        "bic": "ZTDTGB97",
+        "iban": "HIUH30987260155157"
+    },
+    "products": [
+        {
+            "amount": 62.35,
+            "description": "orchestrate frictionless action-items",
+            "index": "5",
+            "price": 291.81,
+            "quantity": 7.87,
+            "tax_amount": 22.86,
+            "total_ttc": 235.4,
+            "vat_amount": 10.41
+        },
+        {
+            "amount": 15.63,
+            "description": "cultivate frictionless networks",
+            "index": "5",
+            "price": 70.4,
+            "quantity": 6.16,
+            "tax_amount": 81.02,
+            "total_ttc": 359.91,
+            "vat_amount": 12.75
+        },
+        {
+            "amount": 478.18,
+            "description": "re-intermediate transparent portals",
+            "index": "9",
+            "price": 241.7,
+            "quantity": 4.89,
+            "tax_amount": 34.69,
+            "total_ttc": 303.46,
+            "vat_amount": 1.8
+        },
+        {
+            "amount": 65.78,
+            "description": "empower user-centric users",
+            "index": "2",
+            "price": 64.14,
+            "quantity": 7.63,
+            "tax_amount": 75.06,
+            "total_ttc": 410.97,
+            "vat_amount": 0.36
+        }
+    ],
+    "seller": {
+        "name": "James Tanner"
+    },
+    "supplier": {
+        "address": "046 Baker Via Ethanmouth, MI 95351",
+        "name": "Amy Duncan"
+    },
+    "tax": {
+        "amount_excluding_tax": 139.52,
+        "amount_including_tax": 15.11,
+        "tax_amount": 21.1,
+        "total_ht": 457.19,
+        "total_ttc": 261.42
+    }
+}

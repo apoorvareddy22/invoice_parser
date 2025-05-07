@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "218 Bass Lodge Vasquezport, SC 67136",
+        "company_name": "Whitehead and Sons",
+        "country": "Benin",
+        "name": "Alexis Payne"
+    },
+    "invoice": {
+        "date": "17.10.2009",
+        "number": 255547
+    },
+    "payment": {
+        "discount_amount": 14.2,
+        "discount_percentage": 17.71,
+        "due": 146.02,
+        "sub_total": 152.31,
+        "total": 270.97
+    },
+    "products": [
+        {
+            "description": "re-contextualize 24/365 models",
+            "index": "6",
+            "quantity": 1.85,
+            "total_price": 995.38,
+            "unit_price": 45.06
+        },
+        {
+            "description": "empower bleeding-edge schemas",
+            "index": "2",
+            "quantity": 3.27,
+            "total_price": 903.37,
+            "unit_price": 69.74
+        }
+    ],
+    "seller": {
+        "address": "USS Saunders FPO AP 91897",
+        "company_name": "Costa, Gonzalez and Williams",
+        "vat_no": "qo00961953574"
+    }
+}

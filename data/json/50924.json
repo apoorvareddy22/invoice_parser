@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "44974 Christopher Fields Lake Dawnland, VT 56164",
+        "id": "Ok424"
+    },
+    "invoice": {
+        "bc_no": "pL96759",
+        "currency_code": "MDL",
+        "date": "25.05.2006",
+        "due_date": "27.05.1995",
+        "number": 410966
+    },
+    "payment": {
+        "bank_name": "Williams Ltd",
+        "bic": "AAXCGB2J",
+        "iban": "KGZG67906020100104"
+    },
+    "products": [
+        {
+            "amount": 356.81,
+            "description": "disintermediate interactive initiatives",
+            "index": "3",
+            "price": 367.84,
+            "quantity": 5.51,
+            "tax_amount": 88.84,
+            "total_ttc": 406.05,
+            "vat_amount": 2.36
+        },
+        {
+            "amount": 181.47,
+            "description": "whiteboard granular e-commerce",
+            "index": "1",
+            "price": 381.92,
+            "quantity": 9.05,
+            "tax_amount": 17.95,
+            "total_ttc": 126.88,
+            "vat_amount": 5.4
+        }
+    ],
+    "seller": {
+        "name": "Tammy Hurley"
+    },
+    "supplier": {
+        "address": "6347 Leonard Via Thompsonchester, MD 75399",
+        "name": "Miss Ruth Cox"
+    },
+    "tax": {
+        "amount_excluding_tax": 31.48,
+        "amount_including_tax": 63.74,
+        "tax_amount": 15.87,
+        "total_ht": 278.21,
+        "total_ttc": 112.58
+    }
+}

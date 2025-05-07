@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "9542 Thomas Shoals Apt. 859 North Karina, AZ 91775",
+        "company_name": "Brooks Inc",
+        "email": "timothywoodard@example.com",
+        "name": "Sara Flynn",
+        "phone": "935-225-4757x6073"
+    },
+    "invoice": {
+        "date": "10.07.2022",
+        "due_date": "18.01.2005",
+        "number": "Nri91586257415"
+    },
+    "payment": {
+        "account_number": 6943466440,
+        "bank_name": "Krause Group",
+        "routing_number": 514094188
+    },
+    "products": [
+        {
+            "amount": 270.44,
+            "description": "benchmark vertical initiatives",
+            "index": "7",
+            "quantity": 6.11,
+            "unit_price": 73.81
+        },
+        {
+            "amount": 40.13,
+            "description": "incentivize interactive interfaces",
+            "index": "5",
+            "quantity": 5.82,
+            "unit_price": 97.07
+        },
+        {
+            "amount": 340.59,
+            "description": "envisioneer revolutionary platforms",
+            "index": "1",
+            "quantity": 8.35,
+            "unit_price": 70.25
+        },
+        {
+            "amount": 279.31,
+            "description": "enable 24/365 e-tailers",
+            "index": "8",
+            "quantity": 9.96,
+            "unit_price": 13.63
+        }
+    ],
+    "seller": {
+        "address": "26956 Ramsey Prairie Apt. 022 North Phillip, IN 03269",
+        "company_name": "Shelton-Grant",
+        "email": "bradleylynn@example.org"
+    }
+}

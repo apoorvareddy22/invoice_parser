@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "2713 Pamela Landing Apt. 065 Saundersmouth, TX 40417",
+        "business_no": "rM895",
+        "id": "jL762"
+    },
+    "invoice": {
+        "date": "18.06.1993",
+        "number": "8894-5653"
+    },
+    "payment": {
+        "due_date": "14.11.1999",
+        "total": 779.97
+    },
+    "products": [
+        {
+            "amount": 300.77,
+            "description": "monetize sticky action-items",
+            "quantity": 4.18,
+            "reference": "Ug-940",
+            "unit_price": 94.79
+        },
+        {
+            "amount": 422.2,
+            "description": "exploit compelling mindshare",
+            "quantity": 9.42,
+            "reference": "wc-835",
+            "unit_price": 39.14
+        },
+        {
+            "amount": 167.89,
+            "description": "evolve wireless content",
+            "quantity": 10.0,
+            "reference": "Hk-630",
+            "unit_price": 13.94
+        }
+    ],
+    "seller": {
+        "address": "761 James Loaf Collinsview, RI 78414"
+    },
+    "tax": {
+        "base_ht": 177.3,
+        "regulations": 25.4,
+        "total_ht": 277.99,
+        "vat_amount": 88.84,
+        "vat_percentage": 29.12
+    }
+}

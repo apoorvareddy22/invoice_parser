@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "4915 Smith Rest Suite 224 West Amy, LA 53606",
+        "email": "ftorres@example.com",
+        "phone": "(225)684-1464x066",
+        "vat_no": "eW63731976649"
+    },
+    "invoice": {
+        "date": "21.10.2013",
+        "due_date": "10.02.2022",
+        "market_reference": 930519,
+        "notes": "envisioneer compelling models",
+        "number": "0579-5813",
+        "reference": 553219,
+        "vat_no": "Ir88082022026"
+    },
+    "payment": {
+        "net_total": 190.2,
+        "total": 499.48
+    },
+    "products": [
+        {
+            "amount": 416.95,
+            "description": "re-intermediate synergistic platforms",
+            "hours": 6.09,
+            "rate": 7.5
+        },
+        {
+            "amount": 52.43,
+            "description": "morph web-enabled niches",
+            "hours": 9.52,
+            "rate": 1.48
+        },
+        {
+            "amount": 256.54,
+            "description": "drive B2B content",
+            "hours": 6.42,
+            "rate": 8.31
+        },
+        {
+            "amount": 497.96,
+            "description": "expedite innovative architectures",
+            "hours": 3.4,
+            "rate": 2.64
+        },
+        {
+            "amount": 186.21,
+            "description": "mesh end-to-end e-commerce",
+            "hours": 7.07,
+            "rate": 6.93
+        },
+        {
+            "amount": 107.97,
+            "description": "iterate bricks-and-clicks bandwidth",
+            "hours": 1.47,
+            "rate": 7.0
+        },
+        {
+            "amount": 304.49,
+            "description": "evolve holistic architectures",
+            "hours": 9.81,
+            "rate": 1.54
+        }
+    ],
+    "seller": {
+        "address": "816 Felicia Road Tracyhaven, CA 66359",
+        "email": "robert75@example.net",
+        "name": "Annette Williams"
+    },
+    "tax": {
+        "base": 24.53,
+        "tax_amount": 12.02,
+        "total_tax": 12.56
+    }
+}

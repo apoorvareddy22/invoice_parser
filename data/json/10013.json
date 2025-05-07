@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "152 Guzman Ports Ryanburgh, TN 96648",
+        "email": "julie99@example.org",
+        "phone": "+1-223-771-9053x05827",
+        "vat_no": "Kf34869378750"
+    },
+    "invoice": {
+        "date": "13.12.1993",
+        "due_date": "18.11.2015",
+        "market_reference": 729196,
+        "notes": "embrace seamless e-tailers",
+        "number": "3649-6721",
+        "reference": 320839,
+        "vat_no": "Hv54325166227"
+    },
+    "payment": {
+        "net_total": 75.4,
+        "total": 844.32
+    },
+    "products": [
+        {
+            "amount": 110.18,
+            "description": "whiteboard end-to-end communities",
+            "hours": 1.38,
+            "rate": 6.01
+        },
+        {
+            "amount": 12.76,
+            "description": "synergize frictionless web services",
+            "hours": 7.4,
+            "rate": 9.7
+        },
+        {
+            "amount": 153.58,
+            "description": "drive e-business architectures",
+            "hours": 6.38,
+            "rate": 8.91
+        },
+        {
+            "amount": 128.04,
+            "description": "target collaborative e-business",
+            "hours": 2.04,
+            "rate": 8.43
+        }
+    ],
+    "seller": {
+        "address": "7068 Kimberly Shores Apt. 277 Douglashaven, MS 79259",
+        "email": "mmack@example.net",
+        "name": "Angela Jackson"
+    },
+    "tax": {
+        "base": 13.45,
+        "tax_amount": 10.73,
+        "total_tax": 29.21
+    }
+}

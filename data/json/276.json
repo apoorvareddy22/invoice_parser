@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "9030 Michael Common Apt. 039 Ortizstad, IA 68476",
+        "company_name": "Cook, Rodriguez and Romero",
+        "country": "Malaysia",
+        "name": "Brandon Davis"
+    },
+    "invoice": {
+        "date": "31.05.2007",
+        "number": 383283
+    },
+    "payment": {
+        "discount_amount": 19.09,
+        "discount_percentage": 17.67,
+        "due": 132.67,
+        "sub_total": 72.22,
+        "total": 522.21
+    },
+    "products": [
+        {
+            "description": "transition one-to-one e-commerce",
+            "index": "1",
+            "quantity": 7.73,
+            "total_price": 791.93,
+            "unit_price": 96.24
+        },
+        {
+            "description": "empower best-of-breed partnerships",
+            "index": "5",
+            "quantity": 4.63,
+            "total_price": 324.06,
+            "unit_price": 42.58
+        },
+        {
+            "description": "incubate customized markets",
+            "index": "5",
+            "quantity": 8.59,
+            "total_price": 882.81,
+            "unit_price": 23.56
+        },
+        {
+            "description": "generate real-time systems",
+            "index": "4",
+            "quantity": 7.36,
+            "total_price": 185.15,
+            "unit_price": 35.22
+        }
+    ],
+    "seller": {
+        "address": "Unit 2590 Box 9379 DPO AE 06425",
+        "company_name": "Shaw, Kim and Gallegos",
+        "vat_no": "ed03538572689"
+    }
+}

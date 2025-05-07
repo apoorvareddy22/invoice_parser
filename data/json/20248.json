@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "94001 Larson Summit Markborough, DE 94454",
+        "company_name": "Jones-Williams",
+        "email": "nguyenkimberly@example.org",
+        "name": "Kayla Jones",
+        "phone": "730.364.5941x4850"
+    },
+    "invoice": {
+        "date": "27.11.2011",
+        "due_date": "14.07.2015",
+        "number": "IBM62846369908"
+    },
+    "payment": {
+        "account_number": 2443035826,
+        "bank_name": "Johnson Inc",
+        "routing_number": 220971997
+    },
+    "products": [
+        {
+            "amount": 172.12,
+            "description": "iterate revolutionary applications",
+            "index": "1",
+            "quantity": 4.69,
+            "unit_price": 91.1
+        },
+        {
+            "amount": 146.67,
+            "description": "aggregate cross-platform functionalities",
+            "index": "4",
+            "quantity": 6.58,
+            "unit_price": 56.8
+        },
+        {
+            "amount": 283.21,
+            "description": "strategize next-generation action-items",
+            "index": "1",
+            "quantity": 5.18,
+            "unit_price": 22.78
+        }
+    ],
+    "seller": {
+        "address": "Unit 5535 Box 8055 DPO AA 17072",
+        "company_name": "Bauer, Clay and Rodriguez",
+        "email": "crystalwatkins@example.net"
+    }
+}

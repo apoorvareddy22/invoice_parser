@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "62308 Jennifer Summit Wallaceborough, GU 08415",
+        "id": "fC989"
+    },
+    "invoice": {
+        "bc_no": "lY55796",
+        "currency_code": "AED",
+        "date": "22.06.1991",
+        "due_date": "08.03.2001",
+        "number": 787079
+    },
+    "payment": {
+        "bank_name": "Chandler-Steele",
+        "bic": "WWMFGB736FM",
+        "iban": "VHLJ74435530380648"
+    },
+    "products": [
+        {
+            "amount": 144.52,
+            "description": "iterate bricks-and-clicks functionalities",
+            "index": "10",
+            "price": 486.39,
+            "quantity": 8.28,
+            "tax_amount": 59.79,
+            "total_ttc": 237.42,
+            "vat_amount": 4.91
+        }
+    ],
+    "seller": {
+        "name": "Mr. Brian Johnson"
+    },
+    "supplier": {
+        "address": "42377 Andrew Tunnel Suite 344 Lake Rebecca, VT 03851",
+        "name": "Penny Burgess"
+    },
+    "tax": {
+        "amount_excluding_tax": 29.09,
+        "amount_including_tax": 111.5,
+        "tax_amount": 27.08,
+        "total_ht": 367.29,
+        "total_ttc": 318.35
+    }
+}

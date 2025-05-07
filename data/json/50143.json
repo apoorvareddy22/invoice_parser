@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "972 Parker Gardens Apt. 500 Lake Ruthton, NJ 47632",
+        "id": "fl062"
+    },
+    "invoice": {
+        "bc_no": "NQ29590",
+        "currency_code": "GTQ",
+        "date": "12.01.2014",
+        "due_date": "28.09.1992",
+        "number": 608655
+    },
+    "payment": {
+        "bank_name": "Montgomery, Walton and Garcia",
+        "bic": "KXZAGBSU",
+        "iban": "APOC93099515783835"
+    },
+    "products": [
+        {
+            "amount": 315.24,
+            "description": "innovate viral schemas",
+            "index": "5",
+            "price": 178.36,
+            "quantity": 5.86,
+            "tax_amount": 35.98,
+            "total_ttc": 461.63,
+            "vat_amount": 5.69
+        },
+        {
+            "amount": 118.15,
+            "description": "reinvent cross-platform e-business",
+            "index": "10",
+            "price": 128.15,
+            "quantity": 7.52,
+            "tax_amount": 55.38,
+            "total_ttc": 323.19,
+            "vat_amount": 0.39
+        },
+        {
+            "amount": 420.72,
+            "description": "syndicate transparent technologies",
+            "index": "10",
+            "price": 445.28,
+            "quantity": 6.11,
+            "tax_amount": 43.37,
+            "total_ttc": 366.63,
+            "vat_amount": 17.85
+        },
+        {
+            "amount": 74.45,
+            "description": "matrix robust web-readiness",
+            "index": "2",
+            "price": 473.45,
+            "quantity": 8.88,
+            "tax_amount": 23.43,
+            "total_ttc": 260.7,
+            "vat_amount": 5.69
+        },
+        {
+            "amount": 204.0,
+            "description": "implement cross-platform metrics",
+            "index": "7",
+            "price": 344.41,
+            "quantity": 1.79,
+            "tax_amount": 16.72,
+            "total_ttc": 291.2,
+            "vat_amount": 4.58
+        },
+        {
+            "amount": 73.32,
+            "description": "reinvent plug-and-play deliverables",
+            "index": "1",
+            "price": 157.94,
+            "quantity": 2.1,
+            "tax_amount": 62.32,
+            "total_ttc": 469.99,
+            "vat_amount": 0.01
+        }
+    ],
+    "seller": {
+        "name": "Julia Kramer"
+    },
+    "supplier": {
+        "address": "187 Jason Rapid Apt. 483 New Brandonville, MA 19769",
+        "name": "Heidi Blair"
+    },
+    "tax": {
+        "amount_excluding_tax": 14.08,
+        "amount_including_tax": 41.72,
+        "tax_amount": 14.19,
+        "total_ht": 229.21,
+        "total_ttc": 205.68
+    }
+}

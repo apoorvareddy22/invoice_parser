@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "15748 Jessica Islands East Brian, NY 24933",
+        "id": "HG781"
+    },
+    "invoice": {
+        "bc_no": "Bl09573",
+        "currency_code": "TRY",
+        "date": "28.04.1995",
+        "due_date": "11.02.1992",
+        "number": 645730
+    },
+    "payment": {
+        "bank_name": "Reeves, Morris and Lynch",
+        "bic": "WVWAGBAWL1T",
+        "iban": "TZTX32531758863006"
+    },
+    "products": [
+        {
+            "amount": 259.13,
+            "description": "empower one-to-one technologies",
+            "index": "8",
+            "price": 323.96,
+            "quantity": 3.08,
+            "tax_amount": 53.03,
+            "total_ttc": 313.74,
+            "vat_amount": 15.91
+        },
+        {
+            "amount": 426.43,
+            "description": "repurpose sticky ROI",
+            "index": "1",
+            "price": 256.07,
+            "quantity": 9.09,
+            "tax_amount": 54.89,
+            "total_ttc": 175.39,
+            "vat_amount": 1.97
+        },
+        {
+            "amount": 31.87,
+            "description": "synthesize efficient web-readiness",
+            "index": "3",
+            "price": 160.81,
+            "quantity": 6.23,
+            "tax_amount": 24.68,
+            "total_ttc": 358.55,
+            "vat_amount": 3.5
+        },
+        {
+            "amount": 209.72,
+            "description": "repurpose killer relationships",
+            "index": "10",
+            "price": 256.32,
+            "quantity": 1.14,
+            "tax_amount": 58.71,
+            "total_ttc": 470.64,
+            "vat_amount": 1.84
+        },
+        {
+            "amount": 322.83,
+            "description": "utilize robust synergies",
+            "index": "10",
+            "price": 46.4,
+            "quantity": 5.16,
+            "tax_amount": 84.26,
+            "total_ttc": 278.48,
+            "vat_amount": 7.02
+        },
+        {
+            "amount": 125.38,
+            "description": "matrix efficient functionalities",
+            "index": "6",
+            "price": 44.89,
+            "quantity": 3.34,
+            "tax_amount": 17.44,
+            "total_ttc": 109.28,
+            "vat_amount": 9.97
+        }
+    ],
+    "seller": {
+        "name": "Bryan Ford"
+    },
+    "supplier": {
+        "address": "66015 Erik Mount Suite 323 Williamsonberg, CA 36751",
+        "name": "Franklin Reed"
+    },
+    "tax": {
+        "amount_excluding_tax": 58.01,
+        "amount_including_tax": 171.82,
+        "tax_amount": 20.35,
+        "total_ht": 398.57,
+        "total_ttc": 414.25
+    }
+}

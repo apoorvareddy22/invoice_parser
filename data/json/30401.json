@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "681 Miller Curve New Joseborough, IA 20905",
+        "company_name": "White-Strong",
+        "country": "Iceland",
+        "email": "omcbride@example.com",
+        "name": "Steven Morgan",
+        "phone": "582.314.8598x56114",
+        "vat_no": "ou09651619552"
+    },
+    "invoice": {
+        "date": "09.06.2020",
+        "due_date": "05.09.2022",
+        "linked_invoice": "WM-9293-1983",
+        "notes": "envisioneer mission-critical portals",
+        "number": "Bx-1013-2931"
+    },
+    "products": [
+        {
+            "description": "whiteboard B2B e-commerce",
+            "discount_percentage": 9.71,
+            "price": 459.58,
+            "quantity": 8.28,
+            "unit_price": 45.78
+        },
+        {
+            "description": "disintermediate interactive experiences",
+            "discount_percentage": 6.23,
+            "price": 28.94,
+            "quantity": 3.98,
+            "unit_price": 87.72
+        },
+        {
+            "description": "re-contextualize magnetic users",
+            "discount_percentage": 10.42,
+            "price": 17.43,
+            "quantity": 5.54,
+            "unit_price": 43.8
+        }
+    ],
+    "seller": {
+        "address": "770 Gilmore Stream Timothyfort, GA 01005",
+        "ape": "6395e",
+        "capital": 27127765,
+        "country": "Georgia",
+        "email": "avilaashley@example.org",
+        "name": "Allison Taylor",
+        "phone_1": "+1-606-349-5485x82038",
+        "phone_2": "669.758.1487x1447",
+        "phone_3": "+1-523-986-1115x720",
+        "ref_walk": "STaT9037",
+        "reference": "KJ704",
+        "siret": 92696495014316,
+        "vat_no": "Ij14915545604",
+        "website": "https://brown.com/"
+    },
+    "tax": {
+        "amount_0": 29.79,
+        "amount_1": 13.87,
+        "base_0": 26.96,
+        "base_1": 172.98,
+        "total_ht": 123.13,
+        "total_tax": 20.33,
+        "total_ttc": 163.15,
+        "vat_0": 10.18,
+        "vat_1": 17.48
+    }
+}

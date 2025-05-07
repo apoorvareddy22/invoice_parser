@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "108 Kim Mission Timothychester, CT 39120",
+        "business_no": "Vy006",
+        "id": "pZ277"
+    },
+    "invoice": {
+        "date": "15.08.1994",
+        "number": "0389-6199"
+    },
+    "payment": {
+        "due_date": "18.11.2002",
+        "total": 301.35
+    },
+    "products": [
+        {
+            "amount": 178.46,
+            "description": "innovate plug-and-play bandwidth",
+            "quantity": 2.36,
+            "reference": "Bg-599",
+            "unit_price": 52.09
+        },
+        {
+            "amount": 236.04,
+            "description": "engage ubiquitous systems",
+            "quantity": 4.26,
+            "reference": "zt-198",
+            "unit_price": 24.84
+        },
+        {
+            "amount": 489.4,
+            "description": "cultivate bricks-and-clicks channels",
+            "quantity": 8.35,
+            "reference": "Qo-233",
+            "unit_price": 42.74
+        }
+    ],
+    "seller": {
+        "address": "570 Linda Land Apt. 044 Port Margaretfort, VA 07415"
+    },
+    "tax": {
+        "base_ht": 317.4,
+        "regulations": 10.67,
+        "total_ht": 235.0,
+        "vat_amount": 60.04,
+        "vat_percentage": 27.2
+    }
+}

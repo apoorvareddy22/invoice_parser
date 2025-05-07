@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "988 John Orchard Apt. 049 North Charlesmouth, MN 38242",
+        "id": "KX455"
+    },
+    "invoice": {
+        "bc_no": "VV88185",
+        "currency_code": "CLP",
+        "date": "25.12.1995",
+        "due_date": "22.09.2014",
+        "number": 121649
+    },
+    "payment": {
+        "bank_name": "Parrish Inc",
+        "bic": "ALMCGB36YDZ",
+        "iban": "UFQI81445944922414"
+    },
+    "products": [
+        {
+            "amount": 179.05,
+            "description": "unleash B2B mindshare",
+            "index": "2",
+            "price": 406.92,
+            "quantity": 9.57,
+            "tax_amount": 55.32,
+            "total_ttc": 178.53,
+            "vat_amount": 4.91
+        },
+        {
+            "amount": 488.69,
+            "description": "whiteboard mission-critical relationships",
+            "index": "9",
+            "price": 428.34,
+            "quantity": 1.87,
+            "tax_amount": 32.53,
+            "total_ttc": 121.63,
+            "vat_amount": 11.11
+        },
+        {
+            "amount": 212.4,
+            "description": "repurpose interactive infrastructures",
+            "index": "5",
+            "price": 377.48,
+            "quantity": 1.29,
+            "tax_amount": 46.59,
+            "total_ttc": 301.78,
+            "vat_amount": 1.64
+        },
+        {
+            "amount": 394.74,
+            "description": "reinvent real-time methodologies",
+            "index": "10",
+            "price": 123.88,
+            "quantity": 5.79,
+            "tax_amount": 25.94,
+            "total_ttc": 124.22,
+            "vat_amount": 0.29
+        }
+    ],
+    "seller": {
+        "name": "Michael Lopez"
+    },
+    "supplier": {
+        "address": "USS Torres FPO AE 54425",
+        "name": "Heather Johnson"
+    },
+    "tax": {
+        "amount_excluding_tax": 168.39,
+        "amount_including_tax": 109.67,
+        "tax_amount": 19.96,
+        "total_ht": 121.26,
+        "total_ttc": 358.28
+    }
+}

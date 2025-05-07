@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "79496 Sara Flats West Marilynview, LA 04453",
+        "email": "ihumphrey@example.net",
+        "phone": "(304)418-1889",
+        "vat_no": "Pa63861267417"
+    },
+    "invoice": {
+        "date": "25.02.2019",
+        "due_date": "18.10.1997",
+        "market_reference": 284002,
+        "notes": "generate sticky content",
+        "number": "9413-6593",
+        "reference": 134020,
+        "vat_no": "kn32742876042"
+    },
+    "payment": {
+        "net_total": 125.14,
+        "total": 349.69
+    },
+    "products": [
+        {
+            "amount": 56.25,
+            "description": "revolutionize granular initiatives",
+            "hours": 7.81,
+            "rate": 3.93
+        },
+        {
+            "amount": 157.55,
+            "description": "repurpose seamless users",
+            "hours": 9.26,
+            "rate": 2.16
+        },
+        {
+            "amount": 66.53,
+            "description": "orchestrate one-to-one functionalities",
+            "hours": 4.84,
+            "rate": 1.95
+        },
+        {
+            "amount": 242.71,
+            "description": "transition ubiquitous e-services",
+            "hours": 2.39,
+            "rate": 6.62
+        },
+        {
+            "amount": 117.3,
+            "description": "brand robust applications",
+            "hours": 6.29,
+            "rate": 2.25
+        },
+        {
+            "amount": 347.4,
+            "description": "incubate plug-and-play relationships",
+            "hours": 2.35,
+            "rate": 8.37
+        },
+        {
+            "amount": 86.78,
+            "description": "orchestrate ubiquitous paradigms",
+            "hours": 6.75,
+            "rate": 9.6
+        }
+    ],
+    "seller": {
+        "address": "4142 Rodney Crescent Apt. 025 Adamsberg, MI 26716",
+        "email": "samueljohnson@example.net",
+        "name": "Valerie Campos"
+    },
+    "tax": {
+        "base": 19.72,
+        "tax_amount": 13.31,
+        "total_tax": 25.96
+    }
+}

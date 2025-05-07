@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "2818 Thomas Neck Timothystad, NM 30287",
+        "email": "adamsteresa@example.com",
+        "phone": "(902)458-0060x48517",
+        "vat_no": "Rp98665780822"
+    },
+    "invoice": {
+        "date": "26.08.2010",
+        "due_date": "22.02.2013",
+        "market_reference": 236930,
+        "notes": "redefine B2B convergence",
+        "number": "1365-4840",
+        "reference": 965428,
+        "vat_no": "Fi29039060769"
+    },
+    "payment": {
+        "net_total": 179.94,
+        "total": 535.71
+    },
+    "products": [
+        {
+            "amount": 194.64,
+            "description": "redefine world-class paradigms",
+            "hours": 2.0,
+            "rate": 3.64
+        },
+        {
+            "amount": 81.27,
+            "description": "deliver robust e-markets",
+            "hours": 5.1,
+            "rate": 9.62
+        },
+        {
+            "amount": 169.77,
+            "description": "target turn-key ROI",
+            "hours": 6.86,
+            "rate": 6.19
+        }
+    ],
+    "seller": {
+        "address": "76522 Bradley Flat Apt. 479 Lake Tylerview, NM 83369",
+        "email": "raymond34@example.com",
+        "name": "Karen Bray"
+    },
+    "tax": {
+        "base": 22.5,
+        "tax_amount": 22.06,
+        "total_tax": 24.07
+    }
+}

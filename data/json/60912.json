@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "249 Douglas Plains Brittanychester, CT 59577",
+        "business_no": "xY154",
+        "id": "wj086"
+    },
+    "invoice": {
+        "date": "31.07.2017",
+        "number": "3911-8432"
+    },
+    "payment": {
+        "due_date": "13.09.1996",
+        "total": 784.4
+    },
+    "products": [
+        {
+            "amount": 261.73,
+            "description": "re-contextualize front-end schemas",
+            "quantity": 4.72,
+            "reference": "mc-647",
+            "unit_price": 96.4
+        },
+        {
+            "amount": 471.83,
+            "description": "orchestrate 24/7 applications",
+            "quantity": 9.68,
+            "reference": "Hv-967",
+            "unit_price": 72.97
+        },
+        {
+            "amount": 108.29,
+            "description": "target enterprise synergies",
+            "quantity": 1.13,
+            "reference": "gz-386",
+            "unit_price": 54.08
+        }
+    ],
+    "seller": {
+        "address": "334 Sarah Fall South Michelle, VT 01062"
+    },
+    "tax": {
+        "base_ht": 135.07,
+        "regulations": 25.42,
+        "total_ht": 487.89,
+        "vat_amount": 129.99,
+        "vat_percentage": 14.09
+    }
+}

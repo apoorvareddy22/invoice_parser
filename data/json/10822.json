@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "9734 Casey Lodge Suite 158 Vincentmouth, AL 99482",
+        "email": "melissa57@example.net",
+        "phone": "+1-888-460-6567x8667",
+        "vat_no": "uL41940075875"
+    },
+    "invoice": {
+        "date": "22.01.2012",
+        "due_date": "29.08.1997",
+        "market_reference": 936861,
+        "notes": "optimize ubiquitous functionalities",
+        "number": "0107-9182",
+        "reference": 482605,
+        "vat_no": "Ck58273254947"
+    },
+    "payment": {
+        "net_total": 94.92,
+        "total": 295.0
+    },
+    "products": [
+        {
+            "amount": 391.33,
+            "description": "integrate back-end functionalities",
+            "hours": 9.98,
+            "rate": 1.93
+        },
+        {
+            "amount": 159.17,
+            "description": "architect best-of-breed relationships",
+            "hours": 8.31,
+            "rate": 6.4
+        },
+        {
+            "amount": 392.22,
+            "description": "revolutionize frictionless schemas",
+            "hours": 6.16,
+            "rate": 5.13
+        },
+        {
+            "amount": 38.56,
+            "description": "reinvent user-centric supply-chains",
+            "hours": 8.48,
+            "rate": 2.39
+        }
+    ],
+    "seller": {
+        "address": "PSC 5506, Box 9775 APO AP 58654",
+        "email": "amanda78@example.net",
+        "name": "Amanda Adams"
+    },
+    "tax": {
+        "base": 13.99,
+        "tax_amount": 27.37,
+        "total_tax": 17.74
+    }
+}

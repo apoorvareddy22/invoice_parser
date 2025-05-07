@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "131 Jeremiah Lodge Jessicaside, AS 14055",
+        "id": "OW244"
+    },
+    "invoice": {
+        "bc_no": "Ao07339",
+        "currency_code": "USD",
+        "date": "25.08.2003",
+        "due_date": "22.08.2003",
+        "number": 303557
+    },
+    "payment": {
+        "bank_name": "Weiss-Chandler",
+        "bic": "QDXLGBXG",
+        "iban": "MEAZ57200944855139"
+    },
+    "products": [
+        {
+            "amount": 222.31,
+            "description": "target holistic relationships",
+            "index": "9",
+            "price": 217.05,
+            "quantity": 2.27,
+            "tax_amount": 99.77,
+            "total_ttc": 374.24,
+            "vat_amount": 6.55
+        },
+        {
+            "amount": 334.52,
+            "description": "whiteboard e-business synergies",
+            "index": "9",
+            "price": 285.38,
+            "quantity": 8.51,
+            "tax_amount": 68.12,
+            "total_ttc": 171.41,
+            "vat_amount": 0.06
+        }
+    ],
+    "seller": {
+        "name": "Rachel Rivera"
+    },
+    "supplier": {
+        "address": "21857 James Heights Kathleenfort, IA 93965",
+        "name": "Haley Mercado"
+    },
+    "tax": {
+        "amount_excluding_tax": 192.19,
+        "amount_including_tax": 144.69,
+        "tax_amount": 11.76,
+        "total_ht": 356.89,
+        "total_ttc": 354.37
+    }
+}

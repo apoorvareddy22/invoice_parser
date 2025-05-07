@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "564 James Heights Suite 642 Lynchview, ID 18561",
+        "id": "UT306"
+    },
+    "invoice": {
+        "bc_no": "rk21767",
+        "currency_code": "INR",
+        "date": "31.01.1996",
+        "due_date": "23.03.2018",
+        "number": 521350
+    },
+    "payment": {
+        "bank_name": "Newman-Russo",
+        "bic": "HZIWGBXDD2X",
+        "iban": "PYGU40918536885630"
+    },
+    "products": [
+        {
+            "amount": 451.38,
+            "description": "disintermediate front-end info-mediaries",
+            "index": "1",
+            "price": 357.62,
+            "quantity": 6.85,
+            "tax_amount": 90.55,
+            "total_ttc": 379.84,
+            "vat_amount": 8.46
+        },
+        {
+            "amount": 36.02,
+            "description": "re-contextualize interactive networks",
+            "index": "1",
+            "price": 24.17,
+            "quantity": 5.63,
+            "tax_amount": 40.23,
+            "total_ttc": 194.7,
+            "vat_amount": 5.49
+        }
+    ],
+    "seller": {
+        "name": "Kimberly Dunlap"
+    },
+    "supplier": {
+        "address": "163 Bernard Square Suite 368 New Gabriel, MS 65590",
+        "name": "Daniel Robertson"
+    },
+    "tax": {
+        "amount_excluding_tax": 40.45,
+        "amount_including_tax": 173.08,
+        "tax_amount": 24.58,
+        "total_ht": 152.53,
+        "total_ttc": 329.91
+    }
+}

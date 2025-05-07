@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "08716 Matthew Valleys Lake Vincent, VA 04449",
+        "email": "gordon87@example.com",
+        "phone": "001-457-358-0745x783",
+        "vat_no": "fa86491664147"
+    },
+    "invoice": {
+        "date": "01.01.2011",
+        "due_date": "08.04.2000",
+        "market_reference": 746466,
+        "notes": "expedite dot-com initiatives",
+        "number": "5481-8104",
+        "reference": 143178,
+        "vat_no": "Hx87614678515"
+    },
+    "payment": {
+        "net_total": 66.48,
+        "total": 862.53
+    },
+    "products": [
+        {
+            "amount": 325.98,
+            "description": "matrix real-time technologies",
+            "hours": 8.5,
+            "rate": 2.11
+        },
+        {
+            "amount": 183.32,
+            "description": "embrace vertical metrics",
+            "hours": 2.66,
+            "rate": 1.68
+        },
+        {
+            "amount": 473.77,
+            "description": "enhance bleeding-edge e-commerce",
+            "hours": 2.01,
+            "rate": 9.21
+        },
+        {
+            "amount": 423.17,
+            "description": "empower B2C architectures",
+            "hours": 5.21,
+            "rate": 7.62
+        },
+        {
+            "amount": 14.37,
+            "description": "mesh bricks-and-clicks applications",
+            "hours": 3.73,
+            "rate": 9.32
+        },
+        {
+            "amount": 377.95,
+            "description": "monetize one-to-one architectures",
+            "hours": 8.67,
+            "rate": 8.43
+        },
+        {
+            "amount": 406.45,
+            "description": "iterate 24/7 schemas",
+            "hours": 7.71,
+            "rate": 3.55
+        }
+    ],
+    "seller": {
+        "address": "549 Williams Landing North Marytown, MO 48240",
+        "email": "robin55@example.com",
+        "name": "Jennifer Pollard"
+    },
+    "tax": {
+        "base": 26.77,
+        "tax_amount": 11.02,
+        "total_tax": 26.24
+    }
+}

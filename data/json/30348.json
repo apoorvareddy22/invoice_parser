@@ -1,0 +1,82 @@
+{
+    "buyer": {
+        "address": "86009 Nguyen Walk Apt. 491 Port Anne, NH 23768",
+        "company_name": "Gregory, Carroll and Jones",
+        "country": "Seychelles",
+        "email": "flyons@example.com",
+        "name": "Scott Farrell",
+        "phone": "832.846.2821",
+        "vat_no": "VU42740475856"
+    },
+    "invoice": {
+        "date": "13.06.2021",
+        "due_date": "17.03.2021",
+        "linked_invoice": "HE-6300-5363",
+        "notes": "transform intuitive users",
+        "number": "wR-4267-5215"
+    },
+    "products": [
+        {
+            "description": "target synergistic partnerships",
+            "discount_percentage": 19.88,
+            "price": 325.11,
+            "quantity": 9.58,
+            "unit_price": 68.43
+        },
+        {
+            "description": "mesh end-to-end deliverables",
+            "discount_percentage": 7.78,
+            "price": 117.64,
+            "quantity": 1.32,
+            "unit_price": 53.19
+        },
+        {
+            "description": "re-intermediate B2B applications",
+            "discount_percentage": 6.98,
+            "price": 171.48,
+            "quantity": 2.61,
+            "unit_price": 78.14
+        },
+        {
+            "description": "synergize revolutionary metrics",
+            "discount_percentage": 16.53,
+            "price": 408.19,
+            "quantity": 1.38,
+            "unit_price": 63.43
+        },
+        {
+            "description": "syndicate cross-platform e-markets",
+            "discount_percentage": 13.47,
+            "price": 166.28,
+            "quantity": 3.8,
+            "unit_price": 24.8
+        }
+    ],
+    "seller": {
+        "address": "7327 Danielle Ville Suite 508 New Josephmouth, VT 94496",
+        "ape": "3981e",
+        "capital": 62757729,
+        "country": "Jersey",
+        "email": "candicebernard@example.net",
+        "name": "Mrs. Andrea Padilla",
+        "phone_1": "924-280-8338x630",
+        "phone_2": "001-295-875-1229",
+        "phone_3": "001-714-911-9812x1181",
+        "ref_walk": "QhgZ4289",
+        "reference": "CT710",
+        "siret": 47035130250821,
+        "vat_no": "Wa75993739412",
+        "website": "https://johns.net/"
+    },
+    "tax": {
+        "amount_0": 25.04,
+        "amount_1": 26.94,
+        "base_0": 25.53,
+        "base_1": 174.87,
+        "total_ht": 226.76,
+        "total_tax": 17.57,
+        "total_ttc": 218.77,
+        "vat_0": 22.24,
+        "vat_1": 13.47
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "893 Michelle Mount Apt. 704 Maysfurt, KS 83570",
+        "email": "thompsonphillip@example.net",
+        "phone": "001-963-552-6278x56755",
+        "vat_no": "bf96864711168"
+    },
+    "invoice": {
+        "date": "03.02.1994",
+        "due_date": "02.02.2021",
+        "market_reference": 428728,
+        "notes": "implement collaborative ROI",
+        "number": "0200-4695",
+        "reference": 463687,
+        "vat_no": "Dg87602764784"
+    },
+    "payment": {
+        "net_total": 76.17,
+        "total": 543.49
+    },
+    "products": [
+        {
+            "amount": 340.04,
+            "description": "harness killer initiatives",
+            "hours": 8.1,
+            "rate": 8.57
+        },
+        {
+            "amount": 36.08,
+            "description": "scale viral action-items",
+            "hours": 6.69,
+            "rate": 9.8
+        },
+        {
+            "amount": 475.24,
+            "description": "morph viral solutions",
+            "hours": 4.35,
+            "rate": 7.87
+        },
+        {
+            "amount": 110.13,
+            "description": "generate wireless e-services",
+            "hours": 2.87,
+            "rate": 9.49
+        }
+    ],
+    "seller": {
+        "address": "USS White FPO AE 39049",
+        "email": "isantos@example.net",
+        "name": "Christopher Hamilton"
+    },
+    "tax": {
+        "base": 16.64,
+        "tax_amount": 29.24,
+        "total_tax": 13.59
+    }
+}

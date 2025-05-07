@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "188 Laura Gardens Suite 049 Port Jeremy, AK 64576",
+        "company_name": "Roberts and Sons",
+        "country": "Mexico",
+        "name": "David Martin"
+    },
+    "invoice": {
+        "date": "10.06.1991",
+        "number": 524045
+    },
+    "payment": {
+        "discount_amount": 36.31,
+        "discount_percentage": 15.42,
+        "due": 24.11,
+        "sub_total": 118.71,
+        "total": 123.57
+    },
+    "products": [
+        {
+            "description": "enhance impactful communities",
+            "index": "5",
+            "quantity": 7.63,
+            "total_price": 893.78,
+            "unit_price": 37.1
+        },
+        {
+            "description": "aggregate world-class vortals",
+            "index": "10",
+            "quantity": 2.11,
+            "total_price": 396.43,
+            "unit_price": 67.38
+        },
+        {
+            "description": "transform impactful platforms",
+            "index": "3",
+            "quantity": 4.6,
+            "total_price": 582.61,
+            "unit_price": 96.86
+        }
+    ],
+    "seller": {
+        "address": "00512 Williams Ville Apt. 389 Vanessahaven, VA 29795",
+        "company_name": "Peterson-Barnes",
+        "vat_no": "Fo45090060006"
+    }
+}

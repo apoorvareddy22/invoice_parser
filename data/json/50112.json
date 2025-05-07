@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "USS Martinez FPO AA 87922",
+        "id": "iH833"
+    },
+    "invoice": {
+        "bc_no": "wR97169",
+        "currency_code": "PAB",
+        "date": "19.11.2003",
+        "due_date": "14.08.2000",
+        "number": 654650
+    },
+    "payment": {
+        "bank_name": "Walker and Sons",
+        "bic": "LMPTGB6FP93",
+        "iban": "TACV26669049942122"
+    },
+    "products": [
+        {
+            "amount": 488.92,
+            "description": "revolutionize revolutionary methodologies",
+            "index": "6",
+            "price": 140.72,
+            "quantity": 2.34,
+            "tax_amount": 24.28,
+            "total_ttc": 329.7,
+            "vat_amount": 13.6
+        },
+        {
+            "amount": 126.52,
+            "description": "re-intermediate clicks-and-mortar ROI",
+            "index": "7",
+            "price": 341.55,
+            "quantity": 1.72,
+            "tax_amount": 43.34,
+            "total_ttc": 486.46,
+            "vat_amount": 5.98
+        },
+        {
+            "amount": 90.04,
+            "description": "incentivize virtual markets",
+            "index": "1",
+            "price": 156.22,
+            "quantity": 3.59,
+            "tax_amount": 16.75,
+            "total_ttc": 365.76,
+            "vat_amount": 2.1
+        },
+        {
+            "amount": 14.87,
+            "description": "implement cross-platform content",
+            "index": "2",
+            "price": 9.65,
+            "quantity": 7.96,
+            "tax_amount": 17.51,
+            "total_ttc": 410.7,
+            "vat_amount": 1.96
+        },
+        {
+            "amount": 151.54,
+            "description": "mesh e-business mindshare",
+            "index": "2",
+            "price": 335.36,
+            "quantity": 5.76,
+            "tax_amount": 40.07,
+            "total_ttc": 366.48,
+            "vat_amount": 11.85
+        }
+    ],
+    "seller": {
+        "name": "Cindy Montgomery"
+    },
+    "supplier": {
+        "address": "4776 Michael Keys Suite 540 New Catherine, OH 42174",
+        "name": "Jonathon Martinez"
+    },
+    "tax": {
+        "amount_excluding_tax": 109.82,
+        "amount_including_tax": 76.96,
+        "tax_amount": 14.47,
+        "total_ht": 373.66,
+        "total_ttc": 468.04
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "3121 Aaron Oval Kylechester, VA 47965",
+        "business_no": "UZ056",
+        "id": "dC850"
+    },
+    "invoice": {
+        "date": "20.06.1991",
+        "number": "2095-3213"
+    },
+    "payment": {
+        "due_date": "27.06.2000",
+        "total": 818.04
+    },
+    "products": [
+        {
+            "amount": 12.87,
+            "description": "integrate turn-key markets",
+            "quantity": 7.34,
+            "reference": "FZ-366",
+            "unit_price": 88.83
+        },
+        {
+            "amount": 242.65,
+            "description": "synthesize customized eyeballs",
+            "quantity": 2.71,
+            "reference": "ss-307",
+            "unit_price": 30.16
+        },
+        {
+            "amount": 134.27,
+            "description": "target customized functionalities",
+            "quantity": 5.33,
+            "reference": "LC-023",
+            "unit_price": 48.29
+        },
+        {
+            "amount": 350.29,
+            "description": "enhance front-end systems",
+            "quantity": 3.39,
+            "reference": "JL-153",
+            "unit_price": 68.45
+        },
+        {
+            "amount": 355.38,
+            "description": "harness distributed channels",
+            "quantity": 6.79,
+            "reference": "zd-819",
+            "unit_price": 17.1
+        }
+    ],
+    "seller": {
+        "address": "23760 Walker Springs Apt. 524 Port Carl, MI 81528"
+    },
+    "tax": {
+        "base_ht": 487.76,
+        "regulations": 12.81,
+        "total_ht": 379.02,
+        "vat_amount": 53.15,
+        "vat_percentage": 10.74
+    }
+}

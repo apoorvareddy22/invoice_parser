@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "6678 Melanie Fall Suite 106 Traceymouth, AL 04929",
+        "id": "Lj549"
+    },
+    "invoice": {
+        "bc_no": "ui84351",
+        "currency_code": "TTD",
+        "date": "09.09.1993",
+        "due_date": "10.12.2023",
+        "number": 932816
+    },
+    "payment": {
+        "bank_name": "Perez PLC",
+        "bic": "SFXUGB2A",
+        "iban": "EDDB61573724206404"
+    },
+    "products": [
+        {
+            "amount": 282.29,
+            "description": "brand user-centric niches",
+            "index": "9",
+            "price": 39.23,
+            "quantity": 3.92,
+            "tax_amount": 30.23,
+            "total_ttc": 166.73,
+            "vat_amount": 7.37
+        },
+        {
+            "amount": 346.87,
+            "description": "incentivize front-end supply-chains",
+            "index": "10",
+            "price": 102.45,
+            "quantity": 6.12,
+            "tax_amount": 89.78,
+            "total_ttc": 335.7,
+            "vat_amount": 8.46
+        },
+        {
+            "amount": 404.55,
+            "description": "brand user-centric users",
+            "index": "9",
+            "price": 388.59,
+            "quantity": 9.86,
+            "tax_amount": 91.93,
+            "total_ttc": 272.53,
+            "vat_amount": 1.16
+        },
+        {
+            "amount": 360.8,
+            "description": "drive proactive e-commerce",
+            "index": "3",
+            "price": 85.97,
+            "quantity": 3.32,
+            "tax_amount": 21.21,
+            "total_ttc": 240.33,
+            "vat_amount": 17.23
+        }
+    ],
+    "seller": {
+        "name": "Mary Davis"
+    },
+    "supplier": {
+        "address": "3344 Davis Well Suite 411 Hannamouth, IN 04564",
+        "name": "Scott Schneider"
+    },
+    "tax": {
+        "amount_excluding_tax": 106.62,
+        "amount_including_tax": 70.96,
+        "tax_amount": 20.94,
+        "total_ht": 370.94,
+        "total_ttc": 352.52
+    }
+}

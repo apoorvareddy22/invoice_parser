@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "518 Patricia Pass Suite 947 New Kennethview, KS 99549",
+        "id": "aq421"
+    },
+    "invoice": {
+        "bc_no": "YO60726",
+        "currency_code": "CZK",
+        "date": "09.02.2013",
+        "due_date": "09.05.1994",
+        "number": 145035
+    },
+    "payment": {
+        "bank_name": "Velazquez PLC",
+        "bic": "GPFOGBLLB3U",
+        "iban": "BLLY36318731528287"
+    },
+    "products": [
+        {
+            "amount": 449.61,
+            "description": "matrix strategic e-tailers",
+            "index": "5",
+            "price": 40.98,
+            "quantity": 1.25,
+            "tax_amount": 41.91,
+            "total_ttc": 113.59,
+            "vat_amount": 3.57
+        },
+        {
+            "amount": 411.43,
+            "description": "re-intermediate wireless experiences",
+            "index": "6",
+            "price": 142.09,
+            "quantity": 6.94,
+            "tax_amount": 17.24,
+            "total_ttc": 333.9,
+            "vat_amount": 1.96
+        },
+        {
+            "amount": 271.75,
+            "description": "strategize integrated models",
+            "index": "9",
+            "price": 61.86,
+            "quantity": 3.1,
+            "tax_amount": 58.77,
+            "total_ttc": 117.73,
+            "vat_amount": 3.66
+        },
+        {
+            "amount": 399.65,
+            "description": "integrate virtual solutions",
+            "index": "5",
+            "price": 31.98,
+            "quantity": 4.04,
+            "tax_amount": 59.58,
+            "total_ttc": 153.16,
+            "vat_amount": 6.62
+        }
+    ],
+    "seller": {
+        "name": "Jamie Holland"
+    },
+    "supplier": {
+        "address": "7486 Helen Walks East Melissa, AZ 49062",
+        "name": "Peter Schmidt"
+    },
+    "tax": {
+        "amount_excluding_tax": 90.61,
+        "amount_including_tax": 18.37,
+        "tax_amount": 19.46,
+        "total_ht": 363.82,
+        "total_ttc": 321.55
+    }
+}

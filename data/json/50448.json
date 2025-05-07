@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "273 Bailey Landing Lauraville, AS 73933",
+        "id": "EK655"
+    },
+    "invoice": {
+        "bc_no": "vG05186",
+        "currency_code": "MRO",
+        "date": "18.06.1995",
+        "due_date": "25.01.2021",
+        "number": 454686
+    },
+    "payment": {
+        "bank_name": "Acosta, King and Young",
+        "bic": "AMCQGBXR",
+        "iban": "PUGH73353310148764"
+    },
+    "products": [
+        {
+            "amount": 407.23,
+            "description": "cultivate magnetic info-mediaries",
+            "index": "7",
+            "price": 456.06,
+            "quantity": 7.09,
+            "tax_amount": 38.44,
+            "total_ttc": 318.37,
+            "vat_amount": 0.54
+        }
+    ],
+    "seller": {
+        "name": "Anita Cooper"
+    },
+    "supplier": {
+        "address": "659 Caldwell Trail Suite 070 Ricemouth, TX 37871",
+        "name": "Linda Armstrong"
+    },
+    "tax": {
+        "amount_excluding_tax": 36.96,
+        "amount_including_tax": 119.06,
+        "tax_amount": 20.34,
+        "total_ht": 230.09,
+        "total_ttc": 468.73
+    }
+}

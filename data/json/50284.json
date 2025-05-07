@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "2974 Giles Mill Jonesstad, WY 96678",
+        "id": "Jw860"
+    },
+    "invoice": {
+        "bc_no": "ZD01593",
+        "currency_code": "JOD",
+        "date": "04.07.1991",
+        "due_date": "02.06.2000",
+        "number": 176295
+    },
+    "payment": {
+        "bank_name": "Taylor Ltd",
+        "bic": "PFOSGBZV7N9",
+        "iban": "LNDH00506430402705"
+    },
+    "products": [
+        {
+            "amount": 94.1,
+            "description": "syndicate enterprise schemas",
+            "index": "10",
+            "price": 280.43,
+            "quantity": 4.91,
+            "tax_amount": 51.92,
+            "total_ttc": 471.18,
+            "vat_amount": 2.98
+        },
+        {
+            "amount": 249.91,
+            "description": "reinvent magnetic info-mediaries",
+            "index": "3",
+            "price": 272.53,
+            "quantity": 7.3,
+            "tax_amount": 37.76,
+            "total_ttc": 300.45,
+            "vat_amount": 0.35
+        },
+        {
+            "amount": 117.63,
+            "description": "benchmark mission-critical methodologies",
+            "index": "3",
+            "price": 496.75,
+            "quantity": 5.27,
+            "tax_amount": 93.82,
+            "total_ttc": 305.9,
+            "vat_amount": 0.06
+        },
+        {
+            "amount": 83.61,
+            "description": "e-enable virtual schemas",
+            "index": "10",
+            "price": 430.7,
+            "quantity": 1.54,
+            "tax_amount": 27.04,
+            "total_ttc": 150.97,
+            "vat_amount": 3.21
+        },
+        {
+            "amount": 152.96,
+            "description": "maximize customized portals",
+            "index": "9",
+            "price": 149.26,
+            "quantity": 7.0,
+            "tax_amount": 53.74,
+            "total_ttc": 298.22,
+            "vat_amount": 1.67
+        },
+        {
+            "amount": 94.49,
+            "description": "repurpose customized applications",
+            "index": "2",
+            "price": 73.97,
+            "quantity": 5.5,
+            "tax_amount": 46.7,
+            "total_ttc": 101.65,
+            "vat_amount": 11.93
+        }
+    ],
+    "seller": {
+        "name": "Ms. Melissa Woods"
+    },
+    "supplier": {
+        "address": "58198 Lisa Pike Apt. 004 East Robinview, NC 93664",
+        "name": "Bradley Smith DDS"
+    },
+    "tax": {
+        "amount_excluding_tax": 48.72,
+        "amount_including_tax": 101.95,
+        "tax_amount": 29.15,
+        "total_ht": 146.91,
+        "total_ttc": 375.71
+    }
+}

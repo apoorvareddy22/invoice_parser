@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "384 Jonathan Row Kathleenburgh, FM 66029",
+        "email": "danielle72@example.com",
+        "phone": "001-256-904-2220x648",
+        "vat_no": "ZG75073559476"
+    },
+    "invoice": {
+        "date": "21.12.1996",
+        "due_date": "28.03.1999",
+        "market_reference": 177316,
+        "notes": "harness efficient e-commerce",
+        "number": "2525-1889",
+        "reference": 416312,
+        "vat_no": "Tk49042098421"
+    },
+    "payment": {
+        "net_total": 99.66,
+        "total": 912.0
+    },
+    "products": [
+        {
+            "amount": 251.29,
+            "description": "re-intermediate robust vortals",
+            "hours": 3.25,
+            "rate": 8.72
+        },
+        {
+            "amount": 61.42,
+            "description": "reinvent rich info-mediaries",
+            "hours": 5.54,
+            "rate": 2.16
+        },
+        {
+            "amount": 84.76,
+            "description": "utilize wireless applications",
+            "hours": 7.01,
+            "rate": 3.28
+        },
+        {
+            "amount": 372.5,
+            "description": "synergize plug-and-play communities",
+            "hours": 9.11,
+            "rate": 8.77
+        }
+    ],
+    "seller": {
+        "address": "Unit 9157 Box 5976 DPO AE 57691",
+        "email": "qcrawford@example.com",
+        "name": "Maria Williams"
+    },
+    "tax": {
+        "base": 15.28,
+        "tax_amount": 25.13,
+        "total_tax": 20.84
+    }
+}

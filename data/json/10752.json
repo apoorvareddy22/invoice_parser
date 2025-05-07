@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "547 Justin Plaza Suite 000 West Amandaville, DC 33377",
+        "email": "amycook@example.net",
+        "phone": "001-782-695-2927x610",
+        "vat_no": "TK62124095604"
+    },
+    "invoice": {
+        "date": "02.11.1999",
+        "due_date": "21.10.2008",
+        "market_reference": 961850,
+        "notes": "transition user-centric e-business",
+        "number": "4828-4769",
+        "reference": 444802,
+        "vat_no": "Ic84961257330"
+    },
+    "payment": {
+        "net_total": 130.3,
+        "total": 824.67
+    },
+    "products": [
+        {
+            "amount": 261.65,
+            "description": "synergize enterprise content",
+            "hours": 9.06,
+            "rate": 5.98
+        }
+    ],
+    "seller": {
+        "address": "252 Marquez Squares Apt. 972 North Nathanielfurt, PA 76513",
+        "email": "janet26@example.net",
+        "name": "Matthew Duffy"
+    },
+    "tax": {
+        "base": 25.36,
+        "tax_amount": 29.96,
+        "total_tax": 23.86
+    }
+}

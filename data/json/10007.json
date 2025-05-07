@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "1524 White Club Suite 466 Lake Kim, OH 11887",
+        "email": "gcook@example.net",
+        "phone": "208-872-7294",
+        "vat_no": "xa41261703694"
+    },
+    "invoice": {
+        "date": "19.04.2010",
+        "due_date": "18.07.2006",
+        "market_reference": 110808,
+        "notes": "envisioneer virtual platforms",
+        "number": "0307-4446",
+        "reference": 636587,
+        "vat_no": "Hy93388460335"
+    },
+    "payment": {
+        "net_total": 23.75,
+        "total": 625.83
+    },
+    "products": [
+        {
+            "amount": 409.77,
+            "description": "visualize robust web-readiness",
+            "hours": 4.9,
+            "rate": 2.21
+        },
+        {
+            "amount": 216.55,
+            "description": "benchmark extensible systems",
+            "hours": 9.06,
+            "rate": 7.13
+        },
+        {
+            "amount": 31.13,
+            "description": "streamline scalable e-commerce",
+            "hours": 3.39,
+            "rate": 8.03
+        },
+        {
+            "amount": 426.88,
+            "description": "deliver integrated synergies",
+            "hours": 3.79,
+            "rate": 5.66
+        },
+        {
+            "amount": 453.85,
+            "description": "e-enable revolutionary schemas",
+            "hours": 5.19,
+            "rate": 1.23
+        },
+        {
+            "amount": 316.34,
+            "description": "e-enable proactive info-mediaries",
+            "hours": 2.11,
+            "rate": 9.38
+        },
+        {
+            "amount": 115.04,
+            "description": "iterate cross-platform solutions",
+            "hours": 4.54,
+            "rate": 1.25
+        }
+    ],
+    "seller": {
+        "address": "179 Roberts Trafficway Lake Robertbury, VI 07687",
+        "email": "mistybaker@example.com",
+        "name": "Christopher Brown"
+    },
+    "tax": {
+        "base": 15.66,
+        "tax_amount": 29.6,
+        "total_tax": 23.08
+    }
+}

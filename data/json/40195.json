@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "46223 Romero Camp Anthonystad, MA 10593"
+    },
+    "invoice": {
+        "bc_no": "Ev27933",
+        "date": "10.09.2022",
+        "maturity_date": "08.11.2020",
+        "number": 570882
+    },
+    "products": [
+        {
+            "amount": 181.99,
+            "description": "reinvent open-source markets",
+            "quantity": 2.21,
+            "unit_price": 75.14,
+            "vat_amount": 9.26
+        },
+        {
+            "amount": 397.77,
+            "description": "e-enable best-of-breed solutions",
+            "quantity": 3.0,
+            "unit_price": 77.35,
+            "vat_amount": 6.66
+        },
+        {
+            "amount": 35.48,
+            "description": "extend B2B portals",
+            "quantity": 8.58,
+            "unit_price": 71.31,
+            "vat_amount": 0.23
+        },
+        {
+            "amount": 268.95,
+            "description": "synergize viral technologies",
+            "quantity": 1.69,
+            "unit_price": 43.29,
+            "vat_amount": 1.83
+        },
+        {
+            "amount": 110.0,
+            "description": "unleash out-of-the-box users",
+            "quantity": 5.16,
+            "unit_price": 12.54,
+            "vat_amount": 2.03
+        },
+        {
+            "amount": 31.55,
+            "description": "revolutionize killer users",
+            "quantity": 3.16,
+            "unit_price": 49.8,
+            "vat_amount": 10.98
+        }
+    ],
+    "seller": {
+        "address": "Unit 7059 Box 7988 DPO AA 53206"
+    },
+    "tax": {
+        "amount_excluding_tax": 46.36,
+        "amount_including_tax": 157.66,
+        "tax_amount": 25.09
+    }
+}

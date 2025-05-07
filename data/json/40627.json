@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "431 Smith Shoals North Suzanne, RI 78044"
+    },
+    "invoice": {
+        "bc_no": "xE20770",
+        "date": "05.07.1999",
+        "maturity_date": "28.05.2007",
+        "number": 150274
+    },
+    "products": [
+        {
+            "amount": 495.33,
+            "description": "redefine granular e-tailers",
+            "quantity": 3.32,
+            "unit_price": 12.35,
+            "vat_amount": 10.01
+        },
+        {
+            "amount": 216.45,
+            "description": "expedite B2B supply-chains",
+            "quantity": 9.19,
+            "unit_price": 14.53,
+            "vat_amount": 0.37
+        }
+    ],
+    "seller": {
+        "address": "02646 Cathy Branch Apt. 089 New Chelseaton, RI 68133"
+    },
+    "tax": {
+        "amount_excluding_tax": 99.45,
+        "amount_including_tax": 159.0,
+        "tax_amount": 20.69
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "01729 Garcia Lakes Apt. 300 Lake Josephmouth, PA 55102",
+        "id": "nP434"
+    },
+    "invoice": {
+        "bc_no": "hn93848",
+        "currency_code": "BOB",
+        "date": "13.04.1997",
+        "due_date": "24.11.2008",
+        "number": 626392
+    },
+    "payment": {
+        "bank_name": "Berry, Olson and Davila",
+        "bic": "YQSSGB2N",
+        "iban": "TZRC19138733707428"
+    },
+    "products": [
+        {
+            "amount": 113.8,
+            "description": "engage revolutionary relationships",
+            "index": "6",
+            "price": 193.85,
+            "quantity": 3.87,
+            "tax_amount": 66.77,
+            "total_ttc": 175.99,
+            "vat_amount": 0.51
+        },
+        {
+            "amount": 492.33,
+            "description": "cultivate vertical functionalities",
+            "index": "4",
+            "price": 291.45,
+            "quantity": 2.32,
+            "tax_amount": 70.11,
+            "total_ttc": 312.01,
+            "vat_amount": 5.6
+        },
+        {
+            "amount": 436.12,
+            "description": "unleash innovative channels",
+            "index": "8",
+            "price": 23.85,
+            "quantity": 1.19,
+            "tax_amount": 46.55,
+            "total_ttc": 134.71,
+            "vat_amount": 8.31
+        },
+        {
+            "amount": 439.44,
+            "description": "scale turn-key platforms",
+            "index": "8",
+            "price": 368.73,
+            "quantity": 5.55,
+            "tax_amount": 86.96,
+            "total_ttc": 187.38,
+            "vat_amount": 3.13
+        },
+        {
+            "amount": 130.74,
+            "description": "empower visionary e-markets",
+            "index": "3",
+            "price": 450.82,
+            "quantity": 5.28,
+            "tax_amount": 43.65,
+            "total_ttc": 213.51,
+            "vat_amount": 2.59
+        },
+        {
+            "amount": 343.62,
+            "description": "scale killer networks",
+            "index": "6",
+            "price": 384.58,
+            "quantity": 4.23,
+            "tax_amount": 49.55,
+            "total_ttc": 227.03,
+            "vat_amount": 0.87
+        }
+    ],
+    "seller": {
+        "name": "John Rangel"
+    },
+    "supplier": {
+        "address": "901 Torres Lodge Cynthiabury, VT 64686",
+        "name": "Mandy Gonzalez"
+    },
+    "tax": {
+        "amount_excluding_tax": 106.84,
+        "amount_including_tax": 106.85,
+        "tax_amount": 25.41,
+        "total_ht": 256.56,
+        "total_ttc": 152.33
+    }
+}

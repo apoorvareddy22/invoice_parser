@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "PSC 5938, Box 0090 APO AA 56378",
+        "company_name": "Rodriguez-Roach",
+        "email": "mccanndustin@example.com",
+        "name": "Heather Schneider PhD",
+        "phone": "(919)642-1798"
+    },
+    "invoice": {
+        "date": "20.06.2007",
+        "due_date": "21.09.2006",
+        "number": "rDH55239477408"
+    },
+    "payment": {
+        "account_number": 8697669921,
+        "bank_name": "Doyle, Fuller and White",
+        "routing_number": 567771553
+    },
+    "products": [
+        {
+            "amount": 328.4,
+            "description": "utilize real-time portals",
+            "index": "10",
+            "quantity": 7.48,
+            "unit_price": 12.33
+        }
+    ],
+    "seller": {
+        "address": "68244 Melissa Tunnel Brownport, MP 87930",
+        "company_name": "Moore Inc",
+        "email": "emily39@example.org"
+    }
+}

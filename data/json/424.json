@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "93423 Norris Terrace Jamesberg, GA 49596",
+        "company_name": "Martin-Velez",
+        "country": "Greenland",
+        "name": "Nicholas Stone"
+    },
+    "invoice": {
+        "date": "10.01.2002",
+        "number": 209797
+    },
+    "payment": {
+        "discount_amount": 15.64,
+        "discount_percentage": 18.56,
+        "due": 87.23,
+        "sub_total": 160.87,
+        "total": 333.71
+    },
+    "products": [
+        {
+            "description": "incubate strategic paradigms",
+            "index": "8",
+            "quantity": 3.07,
+            "total_price": 159.16,
+            "unit_price": 36.93
+        },
+        {
+            "description": "syndicate scalable e-tailers",
+            "index": "7",
+            "quantity": 1.55,
+            "total_price": 468.57,
+            "unit_price": 12.03
+        }
+    ],
+    "seller": {
+        "address": "724 Christopher Mill Suite 174 South Kirkland, GA 86842",
+        "company_name": "Thompson Group",
+        "vat_no": "oW60773344762"
+    }
+}

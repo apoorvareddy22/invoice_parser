@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "81270 Jones Turnpike Suite 713 Lake Melaniefort, AK 81712",
+        "email": "aaron85@example.org",
+        "phone": "750-703-6525",
+        "vat_no": "VQ11467508794"
+    },
+    "invoice": {
+        "date": "27.03.2007",
+        "due_date": "15.09.2005",
+        "market_reference": 910862,
+        "notes": "generate holistic eyeballs",
+        "number": "7264-4212",
+        "reference": 494343,
+        "vat_no": "oS10270830653"
+    },
+    "payment": {
+        "net_total": 174.84,
+        "total": 307.17
+    },
+    "products": [
+        {
+            "amount": 350.58,
+            "description": "architect leading-edge infrastructures",
+            "hours": 6.65,
+            "rate": 9.84
+        },
+        {
+            "amount": 398.56,
+            "description": "leverage mission-critical web services",
+            "hours": 8.3,
+            "rate": 6.84
+        },
+        {
+            "amount": 448.04,
+            "description": "brand enterprise relationships",
+            "hours": 6.28,
+            "rate": 4.51
+        },
+        {
+            "amount": 264.06,
+            "description": "drive cross-media ROI",
+            "hours": 8.78,
+            "rate": 2.46
+        },
+        {
+            "amount": 19.84,
+            "description": "expedite B2B e-tailers",
+            "hours": 1.17,
+            "rate": 9.72
+        },
+        {
+            "amount": 465.56,
+            "description": "e-enable holistic ROI",
+            "hours": 5.67,
+            "rate": 8.97
+        }
+    ],
+    "seller": {
+        "address": "53657 Kennedy Union Lake Shaneshire, MD 42521",
+        "email": "calderondavid@example.org",
+        "name": "Jessica Barr"
+    },
+    "tax": {
+        "base": 21.86,
+        "tax_amount": 22.41,
+        "total_tax": 26.11
+    }
+}

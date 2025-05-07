@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "745 Johnson Keys Apt. 005 West Timothyville, IA 24956",
+        "email": "clee@example.com",
+        "phone": "726-504-5243",
+        "vat_no": "nL85700249252"
+    },
+    "invoice": {
+        "date": "12.10.2020",
+        "due_date": "09.09.1993",
+        "market_reference": 862696,
+        "notes": "extend interactive experiences",
+        "number": "9716-5801",
+        "reference": 640560,
+        "vat_no": "Bj49806387994"
+    },
+    "payment": {
+        "net_total": 21.22,
+        "total": 494.24
+    },
+    "products": [
+        {
+            "amount": 336.42,
+            "description": "seize intuitive partnerships",
+            "hours": 8.29,
+            "rate": 1.57
+        },
+        {
+            "amount": 236.51,
+            "description": "leverage virtual infrastructures",
+            "hours": 3.3,
+            "rate": 8.59
+        },
+        {
+            "amount": 226.01,
+            "description": "harness seamless supply-chains",
+            "hours": 7.15,
+            "rate": 8.7
+        },
+        {
+            "amount": 135.09,
+            "description": "redefine synergistic mindshare",
+            "hours": 3.04,
+            "rate": 4.29
+        },
+        {
+            "amount": 370.34,
+            "description": "evolve impactful bandwidth",
+            "hours": 9.64,
+            "rate": 3.63
+        },
+        {
+            "amount": 118.21,
+            "description": "morph clicks-and-mortar networks",
+            "hours": 3.31,
+            "rate": 7.75
+        },
+        {
+            "amount": 470.44,
+            "description": "monetize impactful solutions",
+            "hours": 7.01,
+            "rate": 2.44
+        }
+    ],
+    "seller": {
+        "address": "2209 Hernandez Ports Suite 966 South Cassandra, MS 48781",
+        "email": "cathy03@example.net",
+        "name": "Thomas Rivera"
+    },
+    "tax": {
+        "base": 17.51,
+        "tax_amount": 16.13,
+        "total_tax": 29.98
+    }
+}

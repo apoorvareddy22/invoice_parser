@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "180 Ryan Knolls Suite 625 Port Anthonyton, KS 08710",
+        "business_no": "fj672",
+        "id": "ex676"
+    },
+    "invoice": {
+        "date": "15.12.2017",
+        "number": "5233-7915"
+    },
+    "payment": {
+        "due_date": "07.03.2023",
+        "total": 196.89
+    },
+    "products": [
+        {
+            "amount": 133.83,
+            "description": "aggregate killer networks",
+            "quantity": 4.39,
+            "reference": "qL-053",
+            "unit_price": 66.95
+        },
+        {
+            "amount": 384.79,
+            "description": "implement holistic mindshare",
+            "quantity": 8.92,
+            "reference": "yG-645",
+            "unit_price": 75.67
+        },
+        {
+            "amount": 486.72,
+            "description": "re-intermediate visionary experiences",
+            "quantity": 5.8,
+            "reference": "nb-606",
+            "unit_price": 61.24
+        }
+    ],
+    "seller": {
+        "address": "Unit 2294 Box 5654 DPO AP 87398"
+    },
+    "tax": {
+        "base_ht": 483.42,
+        "regulations": 17.85,
+        "total_ht": 216.39,
+        "vat_amount": 119.94,
+        "vat_percentage": 15.86
+    }
+}

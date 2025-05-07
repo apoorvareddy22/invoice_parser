@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "1483 Jones Freeway Smithstad, MT 06824",
+        "id": "WM354"
+    },
+    "invoice": {
+        "bc_no": "pz50549",
+        "currency_code": "TRY",
+        "date": "10.12.1999",
+        "due_date": "27.09.1995",
+        "number": 169441
+    },
+    "payment": {
+        "bank_name": "Branch, Page and Brown",
+        "bic": "BITTGBP2CH2",
+        "iban": "RBZA87913661651616"
+    },
+    "products": [
+        {
+            "amount": 219.92,
+            "description": "drive bricks-and-clicks schemas",
+            "index": "6",
+            "price": 348.69,
+            "quantity": 3.99,
+            "tax_amount": 26.8,
+            "total_ttc": 305.95,
+            "vat_amount": 5.11
+        },
+        {
+            "amount": 392.83,
+            "description": "incubate B2C content",
+            "index": "8",
+            "price": 249.88,
+            "quantity": 7.15,
+            "tax_amount": 28.42,
+            "total_ttc": 199.58,
+            "vat_amount": 7.31
+        },
+        {
+            "amount": 182.42,
+            "description": "scale enterprise web services",
+            "index": "10",
+            "price": 120.24,
+            "quantity": 2.9,
+            "tax_amount": 38.04,
+            "total_ttc": 210.98,
+            "vat_amount": 1.97
+        },
+        {
+            "amount": 153.37,
+            "description": "facilitate interactive vortals",
+            "index": "4",
+            "price": 152.11,
+            "quantity": 9.15,
+            "tax_amount": 63.91,
+            "total_ttc": 140.78,
+            "vat_amount": 4.41
+        },
+        {
+            "amount": 281.71,
+            "description": "deliver dot-com architectures",
+            "index": "8",
+            "price": 43.62,
+            "quantity": 4.92,
+            "tax_amount": 92.31,
+            "total_ttc": 253.4,
+            "vat_amount": 3.09
+        }
+    ],
+    "seller": {
+        "name": "Scott Bailey"
+    },
+    "supplier": {
+        "address": "55120 Todd Circles Amybury, IA 91694",
+        "name": "Jessica Lucero"
+    },
+    "tax": {
+        "amount_excluding_tax": 67.57,
+        "amount_including_tax": 161.83,
+        "tax_amount": 10.69,
+        "total_ht": 169.87,
+        "total_ttc": 495.73
+    }
+}

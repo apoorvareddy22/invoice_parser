@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "Unit 2679 Box 5036 DPO AE 64571",
+        "email": "qhayes@example.org",
+        "phone": "+1-927-321-7108x41022",
+        "vat_no": "fE16159510012"
+    },
+    "invoice": {
+        "date": "05.07.2020",
+        "due_date": "25.06.2006",
+        "market_reference": 897710,
+        "notes": "re-intermediate world-class channels",
+        "number": "3384-7912",
+        "reference": 341787,
+        "vat_no": "gR81042844696"
+    },
+    "payment": {
+        "net_total": 140.38,
+        "total": 120.42
+    },
+    "products": [
+        {
+            "amount": 244.86,
+            "description": "synergize collaborative e-commerce",
+            "hours": 8.63,
+            "rate": 5.67
+        },
+        {
+            "amount": 447.79,
+            "description": "target strategic networks",
+            "hours": 4.27,
+            "rate": 8.55
+        }
+    ],
+    "seller": {
+        "address": "3109 Williams Shore Port Rogerton, SD 30181",
+        "email": "thomas25@example.com",
+        "name": "Carl Smith"
+    },
+    "tax": {
+        "base": 20.67,
+        "tax_amount": 26.69,
+        "total_tax": 12.51
+    }
+}

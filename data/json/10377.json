@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "1551 Alexandra Ramp West Matthew, HI 92894",
+        "email": "victoria01@example.net",
+        "phone": "897.443.2766x8056",
+        "vat_no": "Dq69848888633"
+    },
+    "invoice": {
+        "date": "16.10.2019",
+        "due_date": "01.03.2000",
+        "market_reference": 352247,
+        "notes": "whiteboard turn-key partnerships",
+        "number": "3673-7318",
+        "reference": 293138,
+        "vat_no": "Qe00078709639"
+    },
+    "payment": {
+        "net_total": 184.57,
+        "total": 541.46
+    },
+    "products": [
+        {
+            "amount": 346.27,
+            "description": "seize dynamic e-services",
+            "hours": 5.78,
+            "rate": 4.66
+        },
+        {
+            "amount": 397.8,
+            "description": "reinvent dynamic networks",
+            "hours": 5.4,
+            "rate": 3.79
+        },
+        {
+            "amount": 293.31,
+            "description": "incentivize visionary action-items",
+            "hours": 5.56,
+            "rate": 4.34
+        },
+        {
+            "amount": 107.34,
+            "description": "enhance user-centric metrics",
+            "hours": 7.2,
+            "rate": 8.3
+        }
+    ],
+    "seller": {
+        "address": "8264 Samantha Forges Apt. 808 Gregchester, MA 80981",
+        "email": "calhounchristopher@example.org",
+        "name": "Crystal Nelson"
+    },
+    "tax": {
+        "base": 26.22,
+        "tax_amount": 28.23,
+        "total_tax": 23.23
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "885 Catherine Rapid Suite 613 Timothyfurt, PR 76905",
+        "id": "Qx248"
+    },
+    "invoice": {
+        "bc_no": "Nx68609",
+        "currency_code": "CHF",
+        "date": "21.02.2019",
+        "due_date": "30.05.1998",
+        "number": 625608
+    },
+    "payment": {
+        "bank_name": "Kelly, Morris and Mullen",
+        "bic": "NIJXGBGX",
+        "iban": "FLGM56709370556683"
+    },
+    "products": [
+        {
+            "amount": 438.74,
+            "description": "exploit ubiquitous schemas",
+            "index": "9",
+            "price": 315.47,
+            "quantity": 6.13,
+            "tax_amount": 36.53,
+            "total_ttc": 434.39,
+            "vat_amount": 8.97
+        },
+        {
+            "amount": 180.53,
+            "description": "e-enable B2B e-tailers",
+            "index": "9",
+            "price": 358.95,
+            "quantity": 3.45,
+            "tax_amount": 97.84,
+            "total_ttc": 228.75,
+            "vat_amount": 6.43
+        }
+    ],
+    "seller": {
+        "name": "Carolyn Smith"
+    },
+    "supplier": {
+        "address": "771 Michael Rest Joshuaview, CT 86243",
+        "name": "Brooke Ritter"
+    },
+    "tax": {
+        "amount_excluding_tax": 77.84,
+        "amount_including_tax": 17.63,
+        "tax_amount": 19.76,
+        "total_ht": 483.76,
+        "total_ttc": 435.95
+    }
+}

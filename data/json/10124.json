@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "2338 Mark Forest Apt. 967 Ashleyview, OK 66481",
+        "email": "ichung@example.com",
+        "phone": "2668864976",
+        "vat_no": "IM05687611974"
+    },
+    "invoice": {
+        "date": "05.09.2001",
+        "due_date": "27.05.1990",
+        "market_reference": 177446,
+        "notes": "envisioneer bricks-and-clicks metrics",
+        "number": "6019-6974",
+        "reference": 375903,
+        "vat_no": "rF01373043963"
+    },
+    "payment": {
+        "net_total": 112.3,
+        "total": 771.48
+    },
+    "products": [
+        {
+            "amount": 157.3,
+            "description": "monetize strategic functionalities",
+            "hours": 5.93,
+            "rate": 7.72
+        },
+        {
+            "amount": 368.28,
+            "description": "cultivate cross-media technologies",
+            "hours": 5.47,
+            "rate": 6.63
+        },
+        {
+            "amount": 463.98,
+            "description": "maximize open-source architectures",
+            "hours": 5.31,
+            "rate": 2.51
+        }
+    ],
+    "seller": {
+        "address": "2519 Sherri Ford West Josephmouth, DE 05102",
+        "email": "schneideraustin@example.net",
+        "name": "Roy Johnson"
+    },
+    "tax": {
+        "base": 29.83,
+        "tax_amount": 25.05,
+        "total_tax": 16.3
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "1305 Jeremy Pike Nicholasbury, MS 02076",
+        "business_no": "Np538",
+        "id": "bd238"
+    },
+    "invoice": {
+        "date": "30.06.1998",
+        "number": "2689-7928"
+    },
+    "payment": {
+        "due_date": "20.05.2005",
+        "total": 641.22
+    },
+    "products": [
+        {
+            "amount": 5.23,
+            "description": "re-intermediate distributed synergies",
+            "quantity": 9.26,
+            "reference": "ZD-367",
+            "unit_price": 95.36
+        },
+        {
+            "amount": 362.43,
+            "description": "enable dot-com schemas",
+            "quantity": 7.63,
+            "reference": "PX-113",
+            "unit_price": 83.29
+        },
+        {
+            "amount": 326.87,
+            "description": "transition leading-edge architectures",
+            "quantity": 9.12,
+            "reference": "Ud-943",
+            "unit_price": 69.68
+        },
+        {
+            "amount": 229.74,
+            "description": "architect value-added applications",
+            "quantity": 5.43,
+            "reference": "Hg-459",
+            "unit_price": 52.65
+        },
+        {
+            "amount": 195.67,
+            "description": "whiteboard plug-and-play eyeballs",
+            "quantity": 9.71,
+            "reference": "zY-669",
+            "unit_price": 72.66
+        }
+    ],
+    "seller": {
+        "address": "59114 Crystal Skyway Apt. 915 Rodriguezbury, NJ 75958"
+    },
+    "tax": {
+        "base_ht": 261.01,
+        "regulations": 26.83,
+        "total_ht": 164.05,
+        "vat_amount": 70.34,
+        "vat_percentage": 18.85
+    }
+}

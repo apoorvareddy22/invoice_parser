@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "8619 Williams Flats Lake Kathryn, WV 88025",
+        "company_name": "Jones Group",
+        "country": "Aruba",
+        "name": "Stacey Sanders"
+    },
+    "invoice": {
+        "date": "03.06.2009",
+        "number": 387039
+    },
+    "payment": {
+        "discount_amount": 14.79,
+        "discount_percentage": 10.76,
+        "due": 197.29,
+        "sub_total": 160.1,
+        "total": 941.7
+    },
+    "products": [
+        {
+            "description": "expedite value-added supply-chains",
+            "index": "3",
+            "quantity": 8.3,
+            "total_price": 796.68,
+            "unit_price": 78.37
+        },
+        {
+            "description": "iterate efficient web-readiness",
+            "index": "7",
+            "quantity": 7.75,
+            "total_price": 122.32,
+            "unit_price": 93.84
+        }
+    ],
+    "seller": {
+        "address": "387 Jackson Light West Kenneth, MS 12636",
+        "company_name": "Hernandez, Rogers and Anderson",
+        "vat_no": "My26222453016"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "USCGC Mercado FPO AP 35834"
+    },
+    "invoice": {
+        "bc_no": "bs81341",
+        "date": "06.09.1995",
+        "maturity_date": "13.10.1990",
+        "number": 910130
+    },
+    "products": [
+        {
+            "amount": 92.05,
+            "description": "unleash transparent action-items",
+            "quantity": 5.52,
+            "unit_price": 67.92,
+            "vat_amount": 13.26
+        },
+        {
+            "amount": 168.79,
+            "description": "e-enable 24/7 initiatives",
+            "quantity": 7.62,
+            "unit_price": 55.92,
+            "vat_amount": 5.02
+        },
+        {
+            "amount": 23.17,
+            "description": "integrate e-business info-mediaries",
+            "quantity": 8.94,
+            "unit_price": 98.93,
+            "vat_amount": 5.91
+        }
+    ],
+    "seller": {
+        "address": "14894 Dickerson Ford Apt. 895 Lisaville, HI 65404"
+    },
+    "tax": {
+        "amount_excluding_tax": 38.32,
+        "amount_including_tax": 174.46,
+        "tax_amount": 17.86
+    }
+}

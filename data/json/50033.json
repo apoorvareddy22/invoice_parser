@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "4421 Tate Hills Apt. 180 Yushire, LA 48673",
+        "id": "Nr340"
+    },
+    "invoice": {
+        "bc_no": "jG10421",
+        "currency_code": "CNY",
+        "date": "06.08.2006",
+        "due_date": "08.01.1995",
+        "number": 989583
+    },
+    "payment": {
+        "bank_name": "Vaughn, Peterson and Chambers",
+        "bic": "JJXFGBG5NHU",
+        "iban": "JVQD36090845061944"
+    },
+    "products": [
+        {
+            "amount": 228.25,
+            "description": "leverage cross-platform experiences",
+            "index": "2",
+            "price": 362.41,
+            "quantity": 1.54,
+            "tax_amount": 33.74,
+            "total_ttc": 129.85,
+            "vat_amount": 16.77
+        },
+        {
+            "amount": 171.85,
+            "description": "transform end-to-end initiatives",
+            "index": "2",
+            "price": 253.26,
+            "quantity": 4.88,
+            "tax_amount": 70.52,
+            "total_ttc": 393.78,
+            "vat_amount": 4.26
+        },
+        {
+            "amount": 227.05,
+            "description": "drive customized metrics",
+            "index": "8",
+            "price": 402.7,
+            "quantity": 8.93,
+            "tax_amount": 87.72,
+            "total_ttc": 239.25,
+            "vat_amount": 1.5
+        },
+        {
+            "amount": 62.11,
+            "description": "exploit innovative schemas",
+            "index": "9",
+            "price": 312.07,
+            "quantity": 3.38,
+            "tax_amount": 28.47,
+            "total_ttc": 164.43,
+            "vat_amount": 4.68
+        },
+        {
+            "amount": 320.91,
+            "description": "monetize cross-platform eyeballs",
+            "index": "8",
+            "price": 197.23,
+            "quantity": 3.77,
+            "tax_amount": 78.04,
+            "total_ttc": 112.41,
+            "vat_amount": 15.71
+        },
+        {
+            "amount": 118.02,
+            "description": "benchmark B2B relationships",
+            "index": "5",
+            "price": 437.44,
+            "quantity": 8.24,
+            "tax_amount": 71.48,
+            "total_ttc": 233.9,
+            "vat_amount": 9.66
+        }
+    ],
+    "seller": {
+        "name": "Jennifer May"
+    },
+    "supplier": {
+        "address": "323 Landry Island Seanview, CA 82492",
+        "name": "Keith Barnes"
+    },
+    "tax": {
+        "amount_excluding_tax": 94.63,
+        "amount_including_tax": 153.15,
+        "tax_amount": 10.8,
+        "total_ht": 353.68,
+        "total_ttc": 168.42
+    }
+}

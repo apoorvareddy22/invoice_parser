@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "93255 Mccullough Stravenue Suite 494 Lisahaven, MT 71131",
+        "business_no": "sy316",
+        "id": "si782"
+    },
+    "invoice": {
+        "date": "23.06.1990",
+        "number": "0792-3837"
+    },
+    "payment": {
+        "due_date": "04.09.2015",
+        "total": 768.82
+    },
+    "products": [
+        {
+            "amount": 259.14,
+            "description": "deliver synergistic web services",
+            "quantity": 9.15,
+            "reference": "En-377",
+            "unit_price": 87.39
+        },
+        {
+            "amount": 421.87,
+            "description": "scale web-enabled networks",
+            "quantity": 4.62,
+            "reference": "EK-724",
+            "unit_price": 34.33
+        },
+        {
+            "amount": 23.61,
+            "description": "engage one-to-one vortals",
+            "quantity": 2.57,
+            "reference": "oN-479",
+            "unit_price": 73.9
+        },
+        {
+            "amount": 266.07,
+            "description": "seize vertical deliverables",
+            "quantity": 6.18,
+            "reference": "vD-808",
+            "unit_price": 29.39
+        },
+        {
+            "amount": 497.61,
+            "description": "implement frictionless e-business",
+            "quantity": 4.49,
+            "reference": "Pr-182",
+            "unit_price": 26.39
+        },
+        {
+            "amount": 125.88,
+            "description": "brand vertical partnerships",
+            "quantity": 8.1,
+            "reference": "No-120",
+            "unit_price": 36.88
+        },
+        {
+            "amount": 305.96,
+            "description": "incentivize back-end systems",
+            "quantity": 5.55,
+            "reference": "iI-264",
+            "unit_price": 13.51
+        }
+    ],
+    "seller": {
+        "address": "5604 Katelyn Orchard Suite 908 South Shane, IA 04706"
+    },
+    "tax": {
+        "base_ht": 441.91,
+        "regulations": 18.04,
+        "total_ht": 240.4,
+        "vat_amount": 195.59,
+        "vat_percentage": 28.2
+    }
+}

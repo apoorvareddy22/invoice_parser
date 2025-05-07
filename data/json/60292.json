@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "8244 Justin Ferry Apt. 200 New Erictown, ID 74137",
+        "business_no": "zc240",
+        "id": "xV696"
+    },
+    "invoice": {
+        "date": "09.03.1993",
+        "number": "8322-9289"
+    },
+    "payment": {
+        "due_date": "28.03.1999",
+        "total": 154.04
+    },
+    "products": [
+        {
+            "amount": 193.76,
+            "description": "synergize seamless metrics",
+            "quantity": 1.31,
+            "reference": "DU-668",
+            "unit_price": 83.24
+        }
+    ],
+    "seller": {
+        "address": "Unit 8449 Box 7752 DPO AE 58736"
+    },
+    "tax": {
+        "base_ht": 313.15,
+        "regulations": 10.25,
+        "total_ht": 167.7,
+        "vat_amount": 94.14,
+        "vat_percentage": 15.49
+    }
+}

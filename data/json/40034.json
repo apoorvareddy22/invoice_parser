@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "USS Gonzalez FPO AP 82749"
+    },
+    "invoice": {
+        "bc_no": "ss21981",
+        "date": "03.03.1993",
+        "maturity_date": "15.03.2005",
+        "number": 346232
+    },
+    "products": [
+        {
+            "amount": 406.51,
+            "description": "iterate B2B methodologies",
+            "quantity": 7.42,
+            "unit_price": 47.59,
+            "vat_amount": 2.6
+        },
+        {
+            "amount": 317.08,
+            "description": "syndicate mission-critical e-commerce",
+            "quantity": 6.66,
+            "unit_price": 27.09,
+            "vat_amount": 3.5
+        }
+    ],
+    "seller": {
+        "address": "685 Katie Stravenue Suite 818 New Theresafurt, IN 28436"
+    },
+    "tax": {
+        "amount_excluding_tax": 55.61,
+        "amount_including_tax": 89.18,
+        "tax_amount": 11.61
+    }
+}

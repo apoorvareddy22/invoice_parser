@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "57178 Schmidt Knolls South Donna, PW 21686",
+        "id": "LW308"
+    },
+    "invoice": {
+        "bc_no": "fZ97069",
+        "currency_code": "SOS",
+        "date": "25.12.2002",
+        "due_date": "20.09.1997",
+        "number": 365017
+    },
+    "payment": {
+        "bank_name": "Meadows Group",
+        "bic": "XOUGGBB0",
+        "iban": "NEUQ35405635742711"
+    },
+    "products": [
+        {
+            "amount": 7.15,
+            "description": "harness viral communities",
+            "index": "6",
+            "price": 393.85,
+            "quantity": 8.19,
+            "tax_amount": 80.03,
+            "total_ttc": 454.47,
+            "vat_amount": 12.11
+        },
+        {
+            "amount": 120.03,
+            "description": "maximize clicks-and-mortar initiatives",
+            "index": "5",
+            "price": 275.14,
+            "quantity": 4.89,
+            "tax_amount": 72.22,
+            "total_ttc": 286.15,
+            "vat_amount": 1.82
+        },
+        {
+            "amount": 63.05,
+            "description": "architect next-generation web-readiness",
+            "index": "7",
+            "price": 105.05,
+            "quantity": 9.19,
+            "tax_amount": 33.65,
+            "total_ttc": 358.44,
+            "vat_amount": 4.28
+        },
+        {
+            "amount": 267.12,
+            "description": "benchmark vertical action-items",
+            "index": "1",
+            "price": 315.34,
+            "quantity": 1.24,
+            "tax_amount": 29.46,
+            "total_ttc": 456.27,
+            "vat_amount": 14.99
+        },
+        {
+            "amount": 11.58,
+            "description": "empower 24/7 partnerships",
+            "index": "5",
+            "price": 21.38,
+            "quantity": 7.57,
+            "tax_amount": 31.83,
+            "total_ttc": 402.26,
+            "vat_amount": 0.63
+        }
+    ],
+    "seller": {
+        "name": "Jeffrey Newman"
+    },
+    "supplier": {
+        "address": "33444 William Estate Cooktown, KS 62386",
+        "name": "Katherine Molina"
+    },
+    "tax": {
+        "amount_excluding_tax": 49.41,
+        "amount_including_tax": 87.46,
+        "tax_amount": 10.7,
+        "total_ht": 173.02,
+        "total_ttc": 133.47
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "PSC 4246, Box 4967 APO AP 05288",
+        "email": "graybradley@example.net",
+        "phone": "952-420-0069x371",
+        "vat_no": "Yr90238753284"
+    },
+    "invoice": {
+        "date": "26.08.2009",
+        "due_date": "12.08.2006",
+        "market_reference": 115528,
+        "notes": "streamline web-enabled models",
+        "number": "9801-5592",
+        "reference": 186405,
+        "vat_no": "In82639163753"
+    },
+    "payment": {
+        "net_total": 42.4,
+        "total": 620.85
+    },
+    "products": [
+        {
+            "amount": 74.23,
+            "description": "seize cross-platform e-business",
+            "hours": 4.33,
+            "rate": 9.06
+        },
+        {
+            "amount": 427.2,
+            "description": "benchmark proactive users",
+            "hours": 2.94,
+            "rate": 5.59
+        },
+        {
+            "amount": 114.54,
+            "description": "facilitate dynamic synergies",
+            "hours": 4.76,
+            "rate": 8.7
+        },
+        {
+            "amount": 205.63,
+            "description": "synthesize enterprise info-mediaries",
+            "hours": 2.65,
+            "rate": 7.71
+        },
+        {
+            "amount": 45.75,
+            "description": "facilitate plug-and-play e-markets",
+            "hours": 9.96,
+            "rate": 3.4
+        },
+        {
+            "amount": 94.16,
+            "description": "visualize sticky functionalities",
+            "hours": 7.18,
+            "rate": 9.68
+        },
+        {
+            "amount": 306.43,
+            "description": "strategize innovative initiatives",
+            "hours": 2.69,
+            "rate": 7.76
+        }
+    ],
+    "seller": {
+        "address": "USNS Lee FPO AA 49829",
+        "email": "ghughes@example.net",
+        "name": "Alexander Wade"
+    },
+    "tax": {
+        "base": 21.73,
+        "tax_amount": 24.17,
+        "total_tax": 12.93
+    }
+}

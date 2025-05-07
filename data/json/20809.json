@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "44517 Randall Oval Jameshaven, MT 65837",
+        "company_name": "Patrick-Herring",
+        "email": "reyesjennifer@example.org",
+        "name": "Krista Ramsey",
+        "phone": "001-252-323-8564x713"
+    },
+    "invoice": {
+        "date": "12.06.2001",
+        "due_date": "30.09.2012",
+        "number": "XXs63880848146"
+    },
+    "payment": {
+        "account_number": 4138884416,
+        "bank_name": "Nolan, Estrada and Burke",
+        "routing_number": 297596974
+    },
+    "products": [
+        {
+            "amount": 392.55,
+            "description": "re-intermediate open-source platforms",
+            "index": "4",
+            "quantity": 1.67,
+            "unit_price": 56.67
+        },
+        {
+            "amount": 207.47,
+            "description": "repurpose innovative convergence",
+            "index": "8",
+            "quantity": 6.04,
+            "unit_price": 97.94
+        },
+        {
+            "amount": 122.78,
+            "description": "benchmark frictionless convergence",
+            "index": "10",
+            "quantity": 6.25,
+            "unit_price": 16.31
+        },
+        {
+            "amount": 247.96,
+            "description": "incentivize bleeding-edge convergence",
+            "index": "4",
+            "quantity": 2.78,
+            "unit_price": 37.2
+        }
+    ],
+    "seller": {
+        "address": "3796 Alexander Views Apt. 869 North Annshire, DE 44964",
+        "company_name": "Perez, Alvarado and Faulkner",
+        "email": "cgutierrez@example.net"
+    }
+}

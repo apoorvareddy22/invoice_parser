@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "335 Nicholas Garden Barnesport, NV 13542",
+        "email": "dawn21@example.com",
+        "phone": "(707)551-3806",
+        "vat_no": "XQ61827651435"
+    },
+    "invoice": {
+        "date": "23.11.2000",
+        "due_date": "06.10.2001",
+        "market_reference": 306244,
+        "notes": "iterate integrated users",
+        "number": "5856-3626",
+        "reference": 917774,
+        "vat_no": "Ja09966554435"
+    },
+    "payment": {
+        "net_total": 69.34,
+        "total": 628.82
+    },
+    "products": [
+        {
+            "amount": 170.41,
+            "description": "morph strategic functionalities",
+            "hours": 4.3,
+            "rate": 2.41
+        },
+        {
+            "amount": 435.43,
+            "description": "repurpose integrated markets",
+            "hours": 1.47,
+            "rate": 7.09
+        }
+    ],
+    "seller": {
+        "address": "777 Nguyen Wall Michaelside, AZ 60386",
+        "email": "mhodge@example.com",
+        "name": "James Stone"
+    },
+    "tax": {
+        "base": 20.36,
+        "tax_amount": 18.26,
+        "total_tax": 23.75
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "911 Adams Rue Marioburgh, PR 30116",
+        "email": "xskinner@example.net",
+        "phone": "449-788-4898x231",
+        "vat_no": "vG57071601603"
+    },
+    "invoice": {
+        "date": "22.10.1997",
+        "due_date": "19.12.2023",
+        "market_reference": 599832,
+        "notes": "morph front-end e-business",
+        "number": "6021-7708",
+        "reference": 451854,
+        "vat_no": "OC41523632167"
+    },
+    "payment": {
+        "net_total": 151.56,
+        "total": 358.09
+    },
+    "products": [
+        {
+            "amount": 460.16,
+            "description": "incubate rich mindshare",
+            "hours": 4.94,
+            "rate": 3.48
+        },
+        {
+            "amount": 367.6,
+            "description": "maximize dot-com paradigms",
+            "hours": 3.56,
+            "rate": 7.52
+        },
+        {
+            "amount": 280.15,
+            "description": "innovate frictionless bandwidth",
+            "hours": 1.59,
+            "rate": 2.05
+        },
+        {
+            "amount": 293.99,
+            "description": "cultivate cross-media markets",
+            "hours": 3.64,
+            "rate": 5.04
+        },
+        {
+            "amount": 469.04,
+            "description": "extend real-time channels",
+            "hours": 9.14,
+            "rate": 7.2
+        },
+        {
+            "amount": 218.27,
+            "description": "re-contextualize clicks-and-mortar convergence",
+            "hours": 8.54,
+            "rate": 9.61
+        },
+        {
+            "amount": 452.48,
+            "description": "iterate leading-edge relationships",
+            "hours": 5.5,
+            "rate": 9.79
+        }
+    ],
+    "seller": {
+        "address": "11619 Austin Haven Suite 044 Lake Kennethfort, AL 36079",
+        "email": "wallacejason@example.net",
+        "name": "James Mullen"
+    },
+    "tax": {
+        "base": 19.28,
+        "tax_amount": 14.64,
+        "total_tax": 27.08
+    }
+}

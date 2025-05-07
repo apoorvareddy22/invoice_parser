@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "1111 Jill Station Kennethland, NM 90015",
+        "company_name": "Smith-Cross",
+        "country": "Djibouti",
+        "name": "Charles Payne"
+    },
+    "invoice": {
+        "date": "29.07.2002",
+        "number": 936337
+    },
+    "payment": {
+        "discount_amount": 29.77,
+        "discount_percentage": 5.45,
+        "due": 27.94,
+        "sub_total": 69.17,
+        "total": 998.74
+    },
+    "products": [
+        {
+            "description": "deploy holistic e-business",
+            "index": "2",
+            "quantity": 4.71,
+            "total_price": 116.12,
+            "unit_price": 32.3
+        },
+        {
+            "description": "leverage mission-critical users",
+            "index": "7",
+            "quantity": 4.54,
+            "total_price": 797.14,
+            "unit_price": 87.28
+        },
+        {
+            "description": "strategize seamless e-services",
+            "index": "7",
+            "quantity": 6.76,
+            "total_price": 78.08,
+            "unit_price": 33.72
+        }
+    ],
+    "seller": {
+        "address": "Unit 3849 Box 6195 DPO AA 63200",
+        "company_name": "Foley, Beard and Ross",
+        "vat_no": "YV15682856271"
+    }
+}

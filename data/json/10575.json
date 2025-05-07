@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "91210 Janet Estate Apt. 808 Grahamborough, VA 13520",
+        "email": "gcline@example.com",
+        "phone": "776.291.5392x845",
+        "vat_no": "kA39501377948"
+    },
+    "invoice": {
+        "date": "10.07.2007",
+        "due_date": "03.09.2004",
+        "market_reference": 133846,
+        "notes": "implement killer niches",
+        "number": "0056-7483",
+        "reference": 500107,
+        "vat_no": "Tb82601687604"
+    },
+    "payment": {
+        "net_total": 99.69,
+        "total": 361.36
+    },
+    "products": [
+        {
+            "amount": 299.93,
+            "description": "deploy next-generation e-commerce",
+            "hours": 1.54,
+            "rate": 2.89
+        },
+        {
+            "amount": 404.38,
+            "description": "target robust channels",
+            "hours": 4.53,
+            "rate": 5.14
+        },
+        {
+            "amount": 165.26,
+            "description": "scale scalable info-mediaries",
+            "hours": 6.59,
+            "rate": 3.37
+        },
+        {
+            "amount": 97.14,
+            "description": "re-intermediate web-enabled bandwidth",
+            "hours": 1.74,
+            "rate": 9.41
+        },
+        {
+            "amount": 247.42,
+            "description": "brand granular functionalities",
+            "hours": 2.16,
+            "rate": 1.83
+        }
+    ],
+    "seller": {
+        "address": "106 Perry Shores Apt. 109 Crystalville, MN 39633",
+        "email": "charlesrobinson@example.net",
+        "name": "Katelyn Matthews"
+    },
+    "tax": {
+        "base": 21.4,
+        "tax_amount": 23.79,
+        "total_tax": 23.19
+    }
+}

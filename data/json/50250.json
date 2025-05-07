@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "Unit 5403 Box 3420 DPO AE 71277",
+        "id": "RT451"
+    },
+    "invoice": {
+        "bc_no": "gM45757",
+        "currency_code": "IMP",
+        "date": "28.09.2008",
+        "due_date": "13.12.2019",
+        "number": 928806
+    },
+    "payment": {
+        "bank_name": "White-Fisher",
+        "bic": "NUXIGBWB",
+        "iban": "KWPD20113487808907"
+    },
+    "products": [
+        {
+            "amount": 131.26,
+            "description": "harness leading-edge platforms",
+            "index": "7",
+            "price": 147.48,
+            "quantity": 7.21,
+            "tax_amount": 14.99,
+            "total_ttc": 288.52,
+            "vat_amount": 0.7
+        },
+        {
+            "amount": 55.92,
+            "description": "re-contextualize world-class technologies",
+            "index": "6",
+            "price": 86.2,
+            "quantity": 3.69,
+            "tax_amount": 64.71,
+            "total_ttc": 214.2,
+            "vat_amount": 7.37
+        },
+        {
+            "amount": 390.05,
+            "description": "envisioneer transparent platforms",
+            "index": "10",
+            "price": 243.69,
+            "quantity": 6.01,
+            "tax_amount": 99.65,
+            "total_ttc": 269.2,
+            "vat_amount": 9.43
+        },
+        {
+            "amount": 482.74,
+            "description": "mesh turn-key infrastructures",
+            "index": "4",
+            "price": 478.69,
+            "quantity": 7.23,
+            "tax_amount": 68.32,
+            "total_ttc": 346.46,
+            "vat_amount": 1.18
+        },
+        {
+            "amount": 186.19,
+            "description": "orchestrate customized supply-chains",
+            "index": "2",
+            "price": 346.65,
+            "quantity": 1.03,
+            "tax_amount": 42.47,
+            "total_ttc": 341.28,
+            "vat_amount": 0.46
+        },
+        {
+            "amount": 25.86,
+            "description": "syndicate vertical web services",
+            "index": "1",
+            "price": 240.72,
+            "quantity": 1.68,
+            "tax_amount": 81.36,
+            "total_ttc": 479.05,
+            "vat_amount": 4.55
+        }
+    ],
+    "seller": {
+        "name": "Alisha Liu"
+    },
+    "supplier": {
+        "address": "3281 Samantha Mountain Suite 526 New Garrettmouth, MP 35134",
+        "name": "Amber Mcdaniel"
+    },
+    "tax": {
+        "amount_excluding_tax": 56.35,
+        "amount_including_tax": 173.09,
+        "tax_amount": 21.71,
+        "total_ht": 291.46,
+        "total_ttc": 410.74
+    }
+}

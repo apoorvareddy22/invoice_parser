@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "182 Pamela Island Apt. 480 Elizabethberg, MD 86599"
+    },
+    "invoice": {
+        "bc_no": "fh30552",
+        "date": "11.04.1999",
+        "maturity_date": "18.01.2011",
+        "number": 670268
+    },
+    "products": [
+        {
+            "amount": 212.3,
+            "description": "extend rich info-mediaries",
+            "quantity": 5.69,
+            "unit_price": 98.45,
+            "vat_amount": 6.65
+        },
+        {
+            "amount": 409.89,
+            "description": "deliver 24/7 markets",
+            "quantity": 8.56,
+            "unit_price": 22.9,
+            "vat_amount": 4.89
+        },
+        {
+            "amount": 381.14,
+            "description": "drive dynamic vortals",
+            "quantity": 5.2,
+            "unit_price": 88.11,
+            "vat_amount": 1.71
+        }
+    ],
+    "seller": {
+        "address": "013 Jason Inlet Diaztown, MH 21456"
+    },
+    "tax": {
+        "amount_excluding_tax": 56.86,
+        "amount_including_tax": 152.51,
+        "tax_amount": 23.73
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "3893 Welch Village Henryside, NV 75757",
+        "id": "Cb767"
+    },
+    "invoice": {
+        "bc_no": "OJ14424",
+        "currency_code": "CDF",
+        "date": "31.03.1990",
+        "due_date": "15.01.2004",
+        "number": 221976
+    },
+    "payment": {
+        "bank_name": "Davis, Ward and Ferguson",
+        "bic": "YDNEGBP3TWD",
+        "iban": "OYNY24275969885747"
+    },
+    "products": [
+        {
+            "amount": 55.69,
+            "description": "target distributed e-business",
+            "index": "1",
+            "price": 217.28,
+            "quantity": 3.72,
+            "tax_amount": 50.15,
+            "total_ttc": 328.47,
+            "vat_amount": 2.25
+        },
+        {
+            "amount": 109.35,
+            "description": "deploy killer supply-chains",
+            "index": "7",
+            "price": 268.28,
+            "quantity": 7.12,
+            "tax_amount": 56.22,
+            "total_ttc": 117.25,
+            "vat_amount": 12.59
+        },
+        {
+            "amount": 273.65,
+            "description": "implement magnetic architectures",
+            "index": "4",
+            "price": 284.23,
+            "quantity": 1.0,
+            "tax_amount": 79.86,
+            "total_ttc": 316.6,
+            "vat_amount": 0.89
+        }
+    ],
+    "seller": {
+        "name": "Gloria Atkinson"
+    },
+    "supplier": {
+        "address": "635 Paul Wells Suite 238 Allenmouth, DE 90215",
+        "name": "Erica Rodriguez"
+    },
+    "tax": {
+        "amount_excluding_tax": 188.8,
+        "amount_including_tax": 165.33,
+        "tax_amount": 28.23,
+        "total_ht": 128.48,
+        "total_ttc": 166.78
+    }
+}

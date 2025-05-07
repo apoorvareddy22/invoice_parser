@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "321 Lee Springs Suite 647 North Andrea, WI 03250",
+        "id": "AX075"
+    },
+    "invoice": {
+        "bc_no": "RQ79572",
+        "currency_code": "SPL",
+        "date": "24.04.2012",
+        "due_date": "03.02.2022",
+        "number": 432043
+    },
+    "payment": {
+        "bank_name": "Solomon-Jackson",
+        "bic": "LZFOGBCL881",
+        "iban": "UCZJ09942040656971"
+    },
+    "products": [
+        {
+            "amount": 450.44,
+            "description": "revolutionize rich platforms",
+            "index": "7",
+            "price": 303.46,
+            "quantity": 4.1,
+            "tax_amount": 22.52,
+            "total_ttc": 339.03,
+            "vat_amount": 2.49
+        },
+        {
+            "amount": 421.15,
+            "description": "facilitate back-end infrastructures",
+            "index": "9",
+            "price": 449.66,
+            "quantity": 8.67,
+            "tax_amount": 24.6,
+            "total_ttc": 453.74,
+            "vat_amount": 1.94
+        },
+        {
+            "amount": 8.37,
+            "description": "disintermediate mission-critical technologies",
+            "index": "10",
+            "price": 98.36,
+            "quantity": 6.29,
+            "tax_amount": 22.25,
+            "total_ttc": 288.2,
+            "vat_amount": 2.37
+        },
+        {
+            "amount": 46.03,
+            "description": "unleash plug-and-play info-mediaries",
+            "index": "1",
+            "price": 456.36,
+            "quantity": 4.65,
+            "tax_amount": 19.04,
+            "total_ttc": 160.12,
+            "vat_amount": 7.2
+        },
+        {
+            "amount": 256.23,
+            "description": "target best-of-breed technologies",
+            "index": "1",
+            "price": 389.63,
+            "quantity": 6.37,
+            "tax_amount": 89.84,
+            "total_ttc": 389.62,
+            "vat_amount": 2.56
+        }
+    ],
+    "seller": {
+        "name": "Jillian Nichols"
+    },
+    "supplier": {
+        "address": "3641 Audrey Parkways New Russellside, LA 58811",
+        "name": "Kyle Burns"
+    },
+    "tax": {
+        "amount_excluding_tax": 11.01,
+        "amount_including_tax": 192.45,
+        "tax_amount": 10.16,
+        "total_ht": 112.57,
+        "total_ttc": 309.89
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "Unit 2132 Box 6701 DPO AA 64438",
+        "email": "andrew58@example.com",
+        "phone": "001-202-559-5362x878",
+        "vat_no": "jM78625806321"
+    },
+    "invoice": {
+        "date": "29.10.2018",
+        "due_date": "24.10.2001",
+        "market_reference": 416142,
+        "notes": "productize killer mindshare",
+        "number": "8700-7693",
+        "reference": 312594,
+        "vat_no": "cx04822190756"
+    },
+    "payment": {
+        "net_total": 27.91,
+        "total": 231.31
+    },
+    "products": [
+        {
+            "amount": 66.9,
+            "description": "streamline back-end mindshare",
+            "hours": 4.31,
+            "rate": 2.36
+        },
+        {
+            "amount": 476.11,
+            "description": "whiteboard global channels",
+            "hours": 2.52,
+            "rate": 8.42
+        }
+    ],
+    "seller": {
+        "address": "41603 Delgado Extensions Apt. 883 Taylorland, HI 04867",
+        "email": "vcole@example.com",
+        "name": "Carla Patterson"
+    },
+    "tax": {
+        "base": 25.33,
+        "tax_amount": 26.01,
+        "total_tax": 16.19
+    }
+}

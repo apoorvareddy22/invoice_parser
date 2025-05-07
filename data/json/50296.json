@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "78821 Bailey Freeway Lake Aliciashire, CA 40938",
+        "id": "Rd444"
+    },
+    "invoice": {
+        "bc_no": "GB48961",
+        "currency_code": "CRC",
+        "date": "08.09.2010",
+        "due_date": "05.10.2005",
+        "number": 777693
+    },
+    "payment": {
+        "bank_name": "Ramos and Sons",
+        "bic": "HROJGB2EN9P",
+        "iban": "RTRN76293099570319"
+    },
+    "products": [
+        {
+            "amount": 474.09,
+            "description": "visualize scalable info-mediaries",
+            "index": "5",
+            "price": 20.13,
+            "quantity": 2.08,
+            "tax_amount": 54.47,
+            "total_ttc": 209.32,
+            "vat_amount": 0.01
+        },
+        {
+            "amount": 168.01,
+            "description": "target wireless metrics",
+            "index": "6",
+            "price": 271.23,
+            "quantity": 6.58,
+            "tax_amount": 67.82,
+            "total_ttc": 382.95,
+            "vat_amount": 6.81
+        }
+    ],
+    "seller": {
+        "name": "Cody Mayo"
+    },
+    "supplier": {
+        "address": "USCGC Thompson FPO AE 18377",
+        "name": "Dr. Wendy Little"
+    },
+    "tax": {
+        "amount_excluding_tax": 45.47,
+        "amount_including_tax": 178.8,
+        "tax_amount": 24.9,
+        "total_ht": 372.68,
+        "total_ttc": 426.97
+    }
+}

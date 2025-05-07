@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "1447 Christian Stream Dickersonburgh, MT 61843",
+        "id": "RA270"
+    },
+    "invoice": {
+        "bc_no": "Jv54541",
+        "currency_code": "KHR",
+        "date": "22.12.1998",
+        "due_date": "06.10.1996",
+        "number": 544975
+    },
+    "payment": {
+        "bank_name": "Brown-Juarez",
+        "bic": "TKWFGBO9NLH",
+        "iban": "KFXN09151789132699"
+    },
+    "products": [
+        {
+            "amount": 186.95,
+            "description": "integrate one-to-one markets",
+            "index": "7",
+            "price": 152.22,
+            "quantity": 2.27,
+            "tax_amount": 51.09,
+            "total_ttc": 109.51,
+            "vat_amount": 6.42
+        },
+        {
+            "amount": 245.69,
+            "description": "leverage world-class e-business",
+            "index": "8",
+            "price": 42.67,
+            "quantity": 5.45,
+            "tax_amount": 96.18,
+            "total_ttc": 465.6,
+            "vat_amount": 2.2
+        },
+        {
+            "amount": 362.13,
+            "description": "architect magnetic relationships",
+            "index": "5",
+            "price": 404.77,
+            "quantity": 3.2,
+            "tax_amount": 35.38,
+            "total_ttc": 169.67,
+            "vat_amount": 4.31
+        }
+    ],
+    "seller": {
+        "name": "Steven Irwin"
+    },
+    "supplier": {
+        "address": "5147 Meadows Lodge Suite 648 North James, OK 34501",
+        "name": "Erin Huynh"
+    },
+    "tax": {
+        "amount_excluding_tax": 89.72,
+        "amount_including_tax": 81.59,
+        "tax_amount": 20.85,
+        "total_ht": 388.57,
+        "total_ttc": 135.76
+    }
+}

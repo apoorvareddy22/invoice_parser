@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "7537 Daniel Square Kingburgh, DC 12501",
+        "email": "christopher60@example.org",
+        "phone": "(663)810-3419x8916",
+        "vat_no": "nb79155662403"
+    },
+    "invoice": {
+        "date": "19.11.2006",
+        "due_date": "20.11.2004",
+        "market_reference": 100910,
+        "notes": "iterate interactive mindshare",
+        "number": "1810-9661",
+        "reference": 961861,
+        "vat_no": "kC15683659156"
+    },
+    "payment": {
+        "net_total": 153.58,
+        "total": 529.33
+    },
+    "products": [
+        {
+            "amount": 480.4,
+            "description": "optimize B2B e-business",
+            "hours": 6.55,
+            "rate": 1.2
+        }
+    ],
+    "seller": {
+        "address": "04153 Shane Tunnel Apt. 563 North Alex, VA 79719",
+        "email": "adrianzamora@example.com",
+        "name": "Paul Greene"
+    },
+    "tax": {
+        "base": 27.61,
+        "tax_amount": 23.72,
+        "total_tax": 26.38
+    }
+}

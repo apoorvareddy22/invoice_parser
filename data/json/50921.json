@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "0130 Stephanie Pine Suite 081 South Ericstad, CT 81930",
+        "id": "MA925"
+    },
+    "invoice": {
+        "bc_no": "qS80611",
+        "currency_code": "ARS",
+        "date": "12.09.1991",
+        "due_date": "09.06.1995",
+        "number": 490494
+    },
+    "payment": {
+        "bank_name": "Bell and Sons",
+        "bic": "MWMCGBVHQSG",
+        "iban": "LJIY94053517941465"
+    },
+    "products": [
+        {
+            "amount": 88.97,
+            "description": "deploy cross-platform applications",
+            "index": "2",
+            "price": 132.07,
+            "quantity": 1.6,
+            "tax_amount": 25.02,
+            "total_ttc": 176.4,
+            "vat_amount": 8.75
+        }
+    ],
+    "seller": {
+        "name": "Joseph Woodard"
+    },
+    "supplier": {
+        "address": "66427 Hamilton Camp Suite 204 East Alexandra, CA 66573",
+        "name": "Meagan Sweeney"
+    },
+    "tax": {
+        "amount_excluding_tax": 127.18,
+        "amount_including_tax": 72.13,
+        "tax_amount": 27.12,
+        "total_ht": 407.21,
+        "total_ttc": 252.91
+    }
+}

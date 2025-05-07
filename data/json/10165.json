@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "3898 Colin Roads Martinburgh, ID 31485",
+        "email": "ewhitehead@example.org",
+        "phone": "484-684-8632x2766",
+        "vat_no": "Py43722011636"
+    },
+    "invoice": {
+        "date": "28.06.2022",
+        "due_date": "28.07.2018",
+        "market_reference": 441399,
+        "notes": "visualize back-end synergies",
+        "number": "1694-0547",
+        "reference": 221299,
+        "vat_no": "OI82360883732"
+    },
+    "payment": {
+        "net_total": 42.11,
+        "total": 455.38
+    },
+    "products": [
+        {
+            "amount": 292.4,
+            "description": "unleash front-end models",
+            "hours": 3.54,
+            "rate": 8.89
+        },
+        {
+            "amount": 411.69,
+            "description": "evolve ubiquitous partnerships",
+            "hours": 7.3,
+            "rate": 8.66
+        }
+    ],
+    "seller": {
+        "address": "0647 Young Estate Apt. 505 Johnsontown, VA 91485",
+        "email": "marissa85@example.org",
+        "name": "Zoe Young"
+    },
+    "tax": {
+        "base": 11.03,
+        "tax_amount": 28.68,
+        "total_tax": 10.44
+    }
+}

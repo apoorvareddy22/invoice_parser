@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "3252 Jessica Ways South Jason, PR 40436",
+        "id": "VR075"
+    },
+    "invoice": {
+        "bc_no": "aZ00460",
+        "currency_code": "UGX",
+        "date": "26.09.2002",
+        "due_date": "17.11.1997",
+        "number": 494695
+    },
+    "payment": {
+        "bank_name": "Flores, Clay and Bautista",
+        "bic": "NKSUGB5V",
+        "iban": "VAXJ13571632473181"
+    },
+    "products": [
+        {
+            "amount": 137.13,
+            "description": "strategize wireless schemas",
+            "index": "3",
+            "price": 345.57,
+            "quantity": 3.53,
+            "tax_amount": 83.74,
+            "total_ttc": 448.81,
+            "vat_amount": 10.14
+        }
+    ],
+    "seller": {
+        "name": "Cheryl Anderson"
+    },
+    "supplier": {
+        "address": "733 Adam Isle Apt. 816 Wellsbury, MT 92429",
+        "name": "Evan Holmes"
+    },
+    "tax": {
+        "amount_excluding_tax": 55.85,
+        "amount_including_tax": 156.08,
+        "tax_amount": 12.2,
+        "total_ht": 284.85,
+        "total_ttc": 433.55
+    }
+}

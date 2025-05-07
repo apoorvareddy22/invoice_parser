@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "Unit 7436 Box 1914 DPO AA 84741",
+        "id": "Hf562"
+    },
+    "invoice": {
+        "bc_no": "qR50623",
+        "currency_code": "RON",
+        "date": "19.04.1993",
+        "due_date": "21.11.1993",
+        "number": 926589
+    },
+    "payment": {
+        "bank_name": "Wheeler-Decker",
+        "bic": "NJZTGBTQ",
+        "iban": "SCTI65192550918813"
+    },
+    "products": [
+        {
+            "amount": 71.71,
+            "description": "incubate one-to-one mindshare",
+            "index": "8",
+            "price": 67.64,
+            "quantity": 5.12,
+            "tax_amount": 50.37,
+            "total_ttc": 318.0,
+            "vat_amount": 4.1
+        }
+    ],
+    "seller": {
+        "name": "Laura Lane"
+    },
+    "supplier": {
+        "address": "50646 Jerry Viaduct Suite 264 Lake Kelseybury, AZ 21026",
+        "name": "Ricky Crawford"
+    },
+    "tax": {
+        "amount_excluding_tax": 198.17,
+        "amount_including_tax": 58.2,
+        "tax_amount": 10.67,
+        "total_ht": 418.31,
+        "total_ttc": 414.35
+    }
+}

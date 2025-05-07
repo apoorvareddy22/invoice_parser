@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "07957 Fisher Roads Kimberlymouth, RI 59923",
+        "company_name": "Andrews, Reynolds and Jackson",
+        "country": "Sierra Leone",
+        "name": "Olivia Rose"
+    },
+    "invoice": {
+        "date": "11.06.2011",
+        "number": 661293
+    },
+    "payment": {
+        "discount_amount": 25.21,
+        "discount_percentage": 19.65,
+        "due": 116.44,
+        "sub_total": 33.12,
+        "total": 599.5
+    },
+    "products": [
+        {
+            "description": "transform dynamic e-services",
+            "index": "2",
+            "quantity": 7.1,
+            "total_price": 129.46,
+            "unit_price": 48.78
+        },
+        {
+            "description": "deliver scalable applications",
+            "index": "2",
+            "quantity": 6.1,
+            "total_price": 349.55,
+            "unit_price": 77.03
+        },
+        {
+            "description": "incentivize seamless technologies",
+            "index": "2",
+            "quantity": 1.76,
+            "total_price": 110.6,
+            "unit_price": 73.06
+        }
+    ],
+    "seller": {
+        "address": "99575 Gomez Road Apt. 682 Zimmermantown, GA 73836",
+        "company_name": "Allen and Sons",
+        "vat_no": "wo96255262881"
+    }
+}

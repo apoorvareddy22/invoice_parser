@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "USNV Reed FPO AP 91985",
+        "business_no": "rM318",
+        "id": "PW840"
+    },
+    "invoice": {
+        "date": "09.05.2005",
+        "number": "0231-3250"
+    },
+    "payment": {
+        "due_date": "07.01.2020",
+        "total": 648.14
+    },
+    "products": [
+        {
+            "amount": 260.7,
+            "description": "engage innovative action-items",
+            "quantity": 4.78,
+            "reference": "Ll-671",
+            "unit_price": 37.88
+        },
+        {
+            "amount": 146.05,
+            "description": "matrix rich initiatives",
+            "quantity": 6.53,
+            "reference": "jl-989",
+            "unit_price": 51.05
+        },
+        {
+            "amount": 210.1,
+            "description": "grow cross-platform content",
+            "quantity": 5.38,
+            "reference": "Ns-334",
+            "unit_price": 34.43
+        },
+        {
+            "amount": 483.77,
+            "description": "engineer front-end technologies",
+            "quantity": 8.17,
+            "reference": "WI-937",
+            "unit_price": 31.81
+        }
+    ],
+    "seller": {
+        "address": "323 Berry Greens Apt. 716 South Alexandriafurt, SC 84786"
+    },
+    "tax": {
+        "base_ht": 318.32,
+        "regulations": 26.5,
+        "total_ht": 131.53,
+        "vat_amount": 81.4,
+        "vat_percentage": 18.69
+    }
+}

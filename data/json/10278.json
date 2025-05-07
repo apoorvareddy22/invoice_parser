@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "018 Miles Radial Lake Amanda, NM 96492",
+        "email": "powersjane@example.org",
+        "phone": "292.445.8034",
+        "vat_no": "rC62675096174"
+    },
+    "invoice": {
+        "date": "30.11.1991",
+        "due_date": "04.04.2009",
+        "market_reference": 329367,
+        "notes": "embrace world-class channels",
+        "number": "9174-8471",
+        "reference": 178462,
+        "vat_no": "yq13195782161"
+    },
+    "payment": {
+        "net_total": 169.9,
+        "total": 770.13
+    },
+    "products": [
+        {
+            "amount": 293.93,
+            "description": "whiteboard dot-com models",
+            "hours": 2.22,
+            "rate": 7.96
+        },
+        {
+            "amount": 261.55,
+            "description": "exploit plug-and-play functionalities",
+            "hours": 8.91,
+            "rate": 4.0
+        },
+        {
+            "amount": 143.41,
+            "description": "reinvent granular initiatives",
+            "hours": 9.41,
+            "rate": 8.29
+        }
+    ],
+    "seller": {
+        "address": "94890 Morales Curve Suite 287 Lake Christine, MA 05329",
+        "email": "eharvey@example.com",
+        "name": "Jennifer Garcia"
+    },
+    "tax": {
+        "base": 21.64,
+        "tax_amount": 27.51,
+        "total_tax": 23.01
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "5838 Miller Plaza West Kevinhaven, AL 67155",
+        "id": "bZ904"
+    },
+    "invoice": {
+        "bc_no": "ae17811",
+        "currency_code": "CRC",
+        "date": "13.04.1992",
+        "due_date": "31.08.2011",
+        "number": 807592
+    },
+    "payment": {
+        "bank_name": "Henry-Wood",
+        "bic": "WPILGBYXKU9",
+        "iban": "BUIC04233021185228"
+    },
+    "products": [
+        {
+            "amount": 307.84,
+            "description": "matrix holistic applications",
+            "index": "6",
+            "price": 294.56,
+            "quantity": 6.03,
+            "tax_amount": 84.33,
+            "total_ttc": 233.34,
+            "vat_amount": 1.32
+        },
+        {
+            "amount": 92.42,
+            "description": "morph proactive niches",
+            "index": "6",
+            "price": 499.18,
+            "quantity": 2.79,
+            "tax_amount": 87.93,
+            "total_ttc": 112.21,
+            "vat_amount": 4.7
+        },
+        {
+            "amount": 378.27,
+            "description": "brand killer niches",
+            "index": "7",
+            "price": 154.73,
+            "quantity": 4.61,
+            "tax_amount": 14.43,
+            "total_ttc": 303.41,
+            "vat_amount": 1.21
+        }
+    ],
+    "seller": {
+        "name": "Carl Copeland"
+    },
+    "supplier": {
+        "address": "Unit 5459 Box 0070 DPO AA 82256",
+        "name": "Jennifer Nelson"
+    },
+    "tax": {
+        "amount_excluding_tax": 120.7,
+        "amount_including_tax": 143.36,
+        "tax_amount": 23.02,
+        "total_ht": 188.58,
+        "total_ttc": 104.0
+    }
+}

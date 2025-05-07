@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "109 Black Highway Andrewchester, CO 43694"
+    },
+    "invoice": {
+        "bc_no": "aJ44720",
+        "date": "06.08.2001",
+        "maturity_date": "10.02.2020",
+        "number": 497623
+    },
+    "products": [
+        {
+            "amount": 429.78,
+            "description": "enable extensible communities",
+            "quantity": 5.35,
+            "unit_price": 32.91,
+            "vat_amount": 4.49
+        },
+        {
+            "amount": 229.27,
+            "description": "deploy holistic experiences",
+            "quantity": 3.7,
+            "unit_price": 98.84,
+            "vat_amount": 5.27
+        }
+    ],
+    "seller": {
+        "address": "6160 Faith Pass Jamesside, MI 63093"
+    },
+    "tax": {
+        "amount_excluding_tax": 178.62,
+        "amount_including_tax": 100.87,
+        "tax_amount": 21.39
+    }
+}

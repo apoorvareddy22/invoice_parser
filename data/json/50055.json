@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "21837 Margaret Motorway West Omar, WY 58295",
+        "id": "yb077"
+    },
+    "invoice": {
+        "bc_no": "pJ68177",
+        "currency_code": "INR",
+        "date": "28.02.1995",
+        "due_date": "23.12.1997",
+        "number": 310491
+    },
+    "payment": {
+        "bank_name": "Ramirez-Herrera",
+        "bic": "TXSYGBX4",
+        "iban": "QFEW13927161621169"
+    },
+    "products": [
+        {
+            "amount": 349.21,
+            "description": "leverage next-generation systems",
+            "index": "8",
+            "price": 205.98,
+            "quantity": 9.34,
+            "tax_amount": 84.79,
+            "total_ttc": 453.19,
+            "vat_amount": 8.43
+        },
+        {
+            "amount": 202.25,
+            "description": "revolutionize customized niches",
+            "index": "1",
+            "price": 329.76,
+            "quantity": 8.57,
+            "tax_amount": 25.31,
+            "total_ttc": 206.89,
+            "vat_amount": 3.45
+        },
+        {
+            "amount": 478.65,
+            "description": "implement robust relationships",
+            "index": "1",
+            "price": 70.5,
+            "quantity": 9.0,
+            "tax_amount": 61.97,
+            "total_ttc": 385.62,
+            "vat_amount": 6.05
+        },
+        {
+            "amount": 286.98,
+            "description": "expedite best-of-breed content",
+            "index": "4",
+            "price": 273.28,
+            "quantity": 6.31,
+            "tax_amount": 85.36,
+            "total_ttc": 294.52,
+            "vat_amount": 7.44
+        },
+        {
+            "amount": 43.4,
+            "description": "repurpose impactful eyeballs",
+            "index": "9",
+            "price": 320.07,
+            "quantity": 7.92,
+            "tax_amount": 16.89,
+            "total_ttc": 249.98,
+            "vat_amount": 10.68
+        },
+        {
+            "amount": 488.05,
+            "description": "orchestrate B2B info-mediaries",
+            "index": "10",
+            "price": 222.29,
+            "quantity": 4.02,
+            "tax_amount": 68.94,
+            "total_ttc": 380.51,
+            "vat_amount": 1.68
+        }
+    ],
+    "seller": {
+        "name": "George Tucker DVM"
+    },
+    "supplier": {
+        "address": "905 Samuel Square Harriston, VT 75095",
+        "name": "Stephanie Castro"
+    },
+    "tax": {
+        "amount_excluding_tax": 137.13,
+        "amount_including_tax": 148.37,
+        "tax_amount": 19.29,
+        "total_ht": 176.82,
+        "total_ttc": 255.46
+    }
+}

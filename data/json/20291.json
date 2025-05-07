@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "0808 Smith Creek Suite 450 Youngmouth, PR 16725",
+        "company_name": "Stewart-Barnett",
+        "email": "danalvarez@example.org",
+        "name": "Jesse Young",
+        "phone": "+1-536-931-9150"
+    },
+    "invoice": {
+        "date": "06.05.1999",
+        "due_date": "21.04.2015",
+        "number": "zgL39458757276"
+    },
+    "payment": {
+        "account_number": 7698879492,
+        "bank_name": "Andrews, Gutierrez and Cunningham",
+        "routing_number": 892136515
+    },
+    "products": [
+        {
+            "amount": 302.71,
+            "description": "disintermediate robust models",
+            "index": "10",
+            "quantity": 8.39,
+            "unit_price": 37.85
+        },
+        {
+            "amount": 399.8,
+            "description": "repurpose synergistic platforms",
+            "index": "2",
+            "quantity": 5.69,
+            "unit_price": 61.05
+        },
+        {
+            "amount": 169.9,
+            "description": "architect virtual systems",
+            "index": "2",
+            "quantity": 7.45,
+            "unit_price": 10.77
+        },
+        {
+            "amount": 139.88,
+            "description": "visualize seamless e-business",
+            "index": "1",
+            "quantity": 2.96,
+            "unit_price": 16.48
+        }
+    ],
+    "seller": {
+        "address": "411 Amy Locks North Andrewburgh, CT 63310",
+        "company_name": "White Inc",
+        "email": "wandaortiz@example.org"
+    }
+}

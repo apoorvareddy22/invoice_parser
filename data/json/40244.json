@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "49524 Green Way Port Michaelfort, AL 25703"
+    },
+    "invoice": {
+        "bc_no": "np27978",
+        "date": "25.02.2021",
+        "maturity_date": "07.12.2007",
+        "number": 380321
+    },
+    "products": [
+        {
+            "amount": 375.63,
+            "description": "re-intermediate turn-key web-readiness",
+            "quantity": 3.39,
+            "unit_price": 66.79,
+            "vat_amount": 9.39
+        },
+        {
+            "amount": 45.52,
+            "description": "syndicate B2C e-tailers",
+            "quantity": 9.88,
+            "unit_price": 37.21,
+            "vat_amount": 0.65
+        },
+        {
+            "amount": 175.11,
+            "description": "monetize real-time action-items",
+            "quantity": 4.93,
+            "unit_price": 91.54,
+            "vat_amount": 3.85
+        },
+        {
+            "amount": 355.37,
+            "description": "revolutionize plug-and-play infrastructures",
+            "quantity": 7.21,
+            "unit_price": 89.65,
+            "vat_amount": 3.32
+        },
+        {
+            "amount": 263.21,
+            "description": "transition compelling experiences",
+            "quantity": 8.09,
+            "unit_price": 61.07,
+            "vat_amount": 2.74
+        }
+    ],
+    "seller": {
+        "address": "732 Woods Lodge Andersonport, CA 17630"
+    },
+    "tax": {
+        "amount_excluding_tax": 99.85,
+        "amount_including_tax": 164.85,
+        "tax_amount": 15.49
+    }
+}

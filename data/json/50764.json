@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "0699 Myers Dam Tammymouth, PW 57603",
+        "id": "XF971"
+    },
+    "invoice": {
+        "bc_no": "Jf54825",
+        "currency_code": "FJD",
+        "date": "24.11.2006",
+        "due_date": "29.08.2005",
+        "number": 216096
+    },
+    "payment": {
+        "bank_name": "Massey PLC",
+        "bic": "IIANGBXA",
+        "iban": "GCEX11686625082779"
+    },
+    "products": [
+        {
+            "amount": 356.63,
+            "description": "visualize customized web services",
+            "index": "1",
+            "price": 293.57,
+            "quantity": 5.02,
+            "tax_amount": 12.33,
+            "total_ttc": 312.59,
+            "vat_amount": 0.48
+        },
+        {
+            "amount": 376.87,
+            "description": "extend next-generation bandwidth",
+            "index": "10",
+            "price": 405.94,
+            "quantity": 2.61,
+            "tax_amount": 57.76,
+            "total_ttc": 311.67,
+            "vat_amount": 3.23
+        },
+        {
+            "amount": 192.48,
+            "description": "expedite front-end niches",
+            "index": "7",
+            "price": 339.18,
+            "quantity": 6.57,
+            "tax_amount": 11.09,
+            "total_ttc": 389.14,
+            "vat_amount": 2.12
+        }
+    ],
+    "seller": {
+        "name": "Meghan Christian"
+    },
+    "supplier": {
+        "address": "8040 Tyler Drive Suite 364 Port April, NM 23730",
+        "name": "Billy Jones"
+    },
+    "tax": {
+        "amount_excluding_tax": 27.48,
+        "amount_including_tax": 195.02,
+        "tax_amount": 17.36,
+        "total_ht": 339.69,
+        "total_ttc": 236.84
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "1507 Terry Lock Apt. 179 Port Elizabeth, IL 07077",
+        "email": "mckeejeffrey@example.com",
+        "phone": "(616)398-4415x628",
+        "vat_no": "Au40153460681"
+    },
+    "invoice": {
+        "date": "26.06.2014",
+        "due_date": "10.07.2013",
+        "market_reference": 250655,
+        "notes": "utilize bleeding-edge e-business",
+        "number": "1100-3113",
+        "reference": 873141,
+        "vat_no": "LM50383761450"
+    },
+    "payment": {
+        "net_total": 185.44,
+        "total": 627.11
+    },
+    "products": [
+        {
+            "amount": 259.2,
+            "description": "embrace proactive experiences",
+            "hours": 1.61,
+            "rate": 7.8
+        },
+        {
+            "amount": 276.58,
+            "description": "repurpose next-generation synergies",
+            "hours": 8.34,
+            "rate": 5.0
+        },
+        {
+            "amount": 265.83,
+            "description": "deploy clicks-and-mortar synergies",
+            "hours": 7.72,
+            "rate": 3.97
+        }
+    ],
+    "seller": {
+        "address": "2170 Huerta Road Alisonhaven, ND 62309",
+        "email": "dunnjoel@example.org",
+        "name": "William Hanson"
+    },
+    "tax": {
+        "base": 13.01,
+        "tax_amount": 29.28,
+        "total_tax": 20.84
+    }
+}

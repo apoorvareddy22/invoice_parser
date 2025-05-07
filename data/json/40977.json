@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "3007 Jamie Junction Apt. 707 Williamfort, WA 14668"
+    },
+    "invoice": {
+        "bc_no": "Iz28461",
+        "date": "13.10.1997",
+        "maturity_date": "29.03.2019",
+        "number": 505925
+    },
+    "products": [
+        {
+            "amount": 314.82,
+            "description": "deliver innovative vortals",
+            "quantity": 9.96,
+            "unit_price": 66.93,
+            "vat_amount": 10.12
+        },
+        {
+            "amount": 140.91,
+            "description": "optimize vertical systems",
+            "quantity": 1.59,
+            "unit_price": 25.31,
+            "vat_amount": 4.94
+        },
+        {
+            "amount": 424.13,
+            "description": "transform seamless info-mediaries",
+            "quantity": 7.64,
+            "unit_price": 96.93,
+            "vat_amount": 2.31
+        },
+        {
+            "amount": 184.63,
+            "description": "enable rich e-markets",
+            "quantity": 5.91,
+            "unit_price": 91.73,
+            "vat_amount": 10.79
+        },
+        {
+            "amount": 265.9,
+            "description": "visualize vertical architectures",
+            "quantity": 4.23,
+            "unit_price": 67.78,
+            "vat_amount": 3.21
+        },
+        {
+            "amount": 377.09,
+            "description": "redefine back-end e-commerce",
+            "quantity": 5.72,
+            "unit_price": 13.72,
+            "vat_amount": 3.98
+        }
+    ],
+    "seller": {
+        "address": "USS Reed FPO AP 01992"
+    },
+    "tax": {
+        "amount_excluding_tax": 121.49,
+        "amount_including_tax": 84.21,
+        "tax_amount": 15.62
+    }
+}

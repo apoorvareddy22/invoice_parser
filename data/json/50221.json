@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "Unit 5887 Box 4594 DPO AA 37568",
+        "id": "Hm990"
+    },
+    "invoice": {
+        "bc_no": "mg46623",
+        "currency_code": "LRD",
+        "date": "26.02.1999",
+        "due_date": "19.04.2017",
+        "number": 210181
+    },
+    "payment": {
+        "bank_name": "Webb-Johnson",
+        "bic": "IYYRGBQX",
+        "iban": "EFJR59603369152102"
+    },
+    "products": [
+        {
+            "amount": 476.93,
+            "description": "monetize robust mindshare",
+            "index": "5",
+            "price": 259.59,
+            "quantity": 1.25,
+            "tax_amount": 52.49,
+            "total_ttc": 116.84,
+            "vat_amount": 4.65
+        }
+    ],
+    "seller": {
+        "name": "Melinda Benton"
+    },
+    "supplier": {
+        "address": "47374 Ronald Islands Apt. 119 West Deborahbury, MA 68472",
+        "name": "Lee Rogers"
+    },
+    "tax": {
+        "amount_excluding_tax": 167.07,
+        "amount_including_tax": 37.51,
+        "tax_amount": 28.81,
+        "total_ht": 246.4,
+        "total_ttc": 122.43
+    }
+}

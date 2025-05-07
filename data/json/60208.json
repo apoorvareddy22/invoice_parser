@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "35580 Norma Track Apt. 599 Donnaberg, NE 90199",
+        "business_no": "LP465",
+        "id": "AH043"
+    },
+    "invoice": {
+        "date": "06.07.1995",
+        "number": "1391-4344"
+    },
+    "payment": {
+        "due_date": "14.02.1994",
+        "total": 846.7
+    },
+    "products": [
+        {
+            "amount": 301.62,
+            "description": "disintermediate interactive schemas",
+            "quantity": 2.33,
+            "reference": "Uo-336",
+            "unit_price": 40.34
+        }
+    ],
+    "seller": {
+        "address": "453 Frey Cove Roseberg, IA 54348"
+    },
+    "tax": {
+        "base_ht": 346.93,
+        "regulations": 18.91,
+        "total_ht": 218.19,
+        "vat_amount": 51.68,
+        "vat_percentage": 15.03
+    }
+}

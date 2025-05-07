@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "4347 Evans Course Lake Meredith, NY 97799",
+        "id": "Fb614"
+    },
+    "invoice": {
+        "bc_no": "HN82753",
+        "currency_code": "XCD",
+        "date": "13.10.2017",
+        "due_date": "23.12.1990",
+        "number": 388451
+    },
+    "payment": {
+        "bank_name": "Rosales-Burgess",
+        "bic": "TRWTGB4NRY9",
+        "iban": "SYFV47021126051047"
+    },
+    "products": [
+        {
+            "amount": 64.66,
+            "description": "cultivate granular eyeballs",
+            "index": "1",
+            "price": 166.88,
+            "quantity": 5.17,
+            "tax_amount": 76.39,
+            "total_ttc": 140.79,
+            "vat_amount": 14.41
+        }
+    ],
+    "seller": {
+        "name": "Mary Warren"
+    },
+    "supplier": {
+        "address": "1148 Castillo Springs New Danielberg, LA 09433",
+        "name": "Nicole Rivera"
+    },
+    "tax": {
+        "amount_excluding_tax": 184.19,
+        "amount_including_tax": 188.31,
+        "tax_amount": 29.68,
+        "total_ht": 409.03,
+        "total_ttc": 420.62
+    }
+}

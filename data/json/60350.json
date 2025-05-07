@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "13449 Vasquez Keys Apt. 245 Port Michaelfurt, VT 72433",
+        "business_no": "OE072",
+        "id": "nX085"
+    },
+    "invoice": {
+        "date": "31.08.1992",
+        "number": "7487-0713"
+    },
+    "payment": {
+        "due_date": "18.04.1997",
+        "total": 200.58
+    },
+    "products": [
+        {
+            "amount": 59.38,
+            "description": "visualize bleeding-edge networks",
+            "quantity": 1.45,
+            "reference": "kl-680",
+            "unit_price": 53.23
+        },
+        {
+            "amount": 464.8,
+            "description": "cultivate compelling e-markets",
+            "quantity": 7.67,
+            "reference": "nC-317",
+            "unit_price": 74.12
+        },
+        {
+            "amount": 247.82,
+            "description": "whiteboard back-end action-items",
+            "quantity": 4.21,
+            "reference": "lZ-798",
+            "unit_price": 26.02
+        },
+        {
+            "amount": 215.0,
+            "description": "streamline distributed deliverables",
+            "quantity": 2.0,
+            "reference": "TR-173",
+            "unit_price": 36.75
+        }
+    ],
+    "seller": {
+        "address": "6772 Schwartz Estate Suite 263 South Charlesburgh, FM 71799"
+    },
+    "tax": {
+        "base_ht": 498.96,
+        "regulations": 19.92,
+        "total_ht": 463.3,
+        "vat_amount": 65.51,
+        "vat_percentage": 25.88
+    }
+}

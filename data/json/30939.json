@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "PSC 9821, Box 9197 APO AP 66486",
+        "company_name": "Murray, Davenport and Vincent",
+        "country": "Botswana",
+        "email": "thomaselliott@example.net",
+        "name": "Jon Torres",
+        "phone": "001-340-338-1300x3793",
+        "vat_no": "zZ14863950999"
+    },
+    "invoice": {
+        "date": "20.09.2013",
+        "due_date": "19.11.2010",
+        "linked_invoice": "av-8653-3810",
+        "notes": "unleash visionary eyeballs",
+        "number": "Xs-3006-3128"
+    },
+    "products": [
+        {
+            "description": "e-enable 24/365 web services",
+            "discount_percentage": 11.57,
+            "price": 307.57,
+            "quantity": 1.41,
+            "unit_price": 64.9
+        },
+        {
+            "description": "re-intermediate wireless synergies",
+            "discount_percentage": 19.47,
+            "price": 318.82,
+            "quantity": 7.27,
+            "unit_price": 81.94
+        },
+        {
+            "description": "redefine global e-services",
+            "discount_percentage": 10.64,
+            "price": 304.07,
+            "quantity": 3.6,
+            "unit_price": 44.09
+        }
+    ],
+    "seller": {
+        "address": "6958 Reese Place Apt. 238 Chaneyfort, AL 62081",
+        "ape": "0843B",
+        "capital": 24924728,
+        "country": "Bulgaria",
+        "email": "qlambert@example.org",
+        "name": "Victor Chambers",
+        "phone_1": "759.333.9837x6790",
+        "phone_2": "001-509-971-1922",
+        "phone_3": "489-695-5962",
+        "ref_walk": "TGsx5390",
+        "reference": "Bz082",
+        "siret": 54736310577253,
+        "vat_no": "uI74964010765",
+        "website": "http://www.spencer.org/"
+    },
+    "tax": {
+        "amount_0": 18.86,
+        "amount_1": 17.91,
+        "base_0": 28.36,
+        "base_1": 40.01,
+        "total_ht": 462.23,
+        "total_tax": 16.2,
+        "total_ttc": 346.38,
+        "vat_0": 20.65,
+        "vat_1": 12.49
+    }
+}

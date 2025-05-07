@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "0651 Philip Alley Suite 463 Lake Michaelchester, NH 29309",
+        "company_name": "Wilson, Aguilar and Barnes",
+        "email": "christopher73@example.com",
+        "name": "Heidi Wallace",
+        "phone": "(869)374-4697"
+    },
+    "invoice": {
+        "date": "09.06.2006",
+        "due_date": "29.03.2004",
+        "number": "CDB52975540439"
+    },
+    "payment": {
+        "account_number": 8689863998,
+        "bank_name": "Taylor, Thomas and Hernandez",
+        "routing_number": 588375373
+    },
+    "products": [
+        {
+            "amount": 418.85,
+            "description": "e-enable efficient interfaces",
+            "index": "9",
+            "quantity": 3.09,
+            "unit_price": 51.16
+        },
+        {
+            "amount": 143.97,
+            "description": "enable next-generation initiatives",
+            "index": "3",
+            "quantity": 5.85,
+            "unit_price": 93.91
+        },
+        {
+            "amount": 140.08,
+            "description": "harness web-enabled ROI",
+            "index": "7",
+            "quantity": 9.12,
+            "unit_price": 86.48
+        }
+    ],
+    "seller": {
+        "address": "36057 Carlson Prairie Calvinside, ID 88738",
+        "company_name": "Benitez-Pearson",
+        "email": "newtondavid@example.com"
+    }
+}

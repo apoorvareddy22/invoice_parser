@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "Unit 4927 Box 1144 DPO AE 09338",
+        "company_name": "Underwood-Baker",
+        "email": "gonzalezangela@example.org",
+        "name": "Gabrielle Santos",
+        "phone": "665-662-9357x86066"
+    },
+    "invoice": {
+        "date": "06.09.2022",
+        "due_date": "27.05.2023",
+        "number": "yLb14312247363"
+    },
+    "payment": {
+        "account_number": 6752717991,
+        "bank_name": "Brown Ltd",
+        "routing_number": 301103628
+    },
+    "products": [
+        {
+            "amount": 337.34,
+            "description": "cultivate granular markets",
+            "index": "1",
+            "quantity": 6.46,
+            "unit_price": 58.44
+        },
+        {
+            "amount": 134.13,
+            "description": "brand bleeding-edge methodologies",
+            "index": "4",
+            "quantity": 6.04,
+            "unit_price": 41.6
+        }
+    ],
+    "seller": {
+        "address": "830 Horn Plains Apt. 315 Gonzalezville, NE 27002",
+        "company_name": "Holden-Wright",
+        "email": "zellis@example.net"
+    }
+}

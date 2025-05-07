@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "12290 Chan Curve West Matthewville, WI 50678",
+        "company_name": "Hobbs-Anderson",
+        "email": "jennahopkins@example.com",
+        "name": "Patrick Sanders",
+        "phone": "210-438-2908x79201"
+    },
+    "invoice": {
+        "date": "10.06.2022",
+        "due_date": "05.03.2017",
+        "number": "Fht98030643546"
+    },
+    "payment": {
+        "account_number": 8401697148,
+        "bank_name": "Ho Ltd",
+        "routing_number": 152061463
+    },
+    "products": [
+        {
+            "amount": 49.67,
+            "description": "optimize ubiquitous functionalities",
+            "index": "4",
+            "quantity": 1.08,
+            "unit_price": 14.6
+        },
+        {
+            "amount": 63.71,
+            "description": "grow bricks-and-clicks markets",
+            "index": "1",
+            "quantity": 9.74,
+            "unit_price": 55.52
+        }
+    ],
+    "seller": {
+        "address": "36122 Andrew Burgs Mooremouth, NJ 38271",
+        "company_name": "Lucas-Long",
+        "email": "hansonrussell@example.org"
+    }
+}

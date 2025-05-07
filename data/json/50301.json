@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "PSC 2802, Box 7419 APO AA 14103",
+        "id": "mi426"
+    },
+    "invoice": {
+        "bc_no": "nc98174",
+        "currency_code": "ETB",
+        "date": "28.06.2004",
+        "due_date": "24.06.1998",
+        "number": 555557
+    },
+    "payment": {
+        "bank_name": "Hill, Cook and Lawrence",
+        "bic": "FODVGBXVXG1",
+        "iban": "BTMT59021062610304"
+    },
+    "products": [
+        {
+            "amount": 243.81,
+            "description": "grow leading-edge niches",
+            "index": "7",
+            "price": 278.82,
+            "quantity": 5.34,
+            "tax_amount": 59.42,
+            "total_ttc": 328.46,
+            "vat_amount": 3.45
+        },
+        {
+            "amount": 408.1,
+            "description": "scale cross-platform e-business",
+            "index": "10",
+            "price": 20.5,
+            "quantity": 6.23,
+            "tax_amount": 84.83,
+            "total_ttc": 391.08,
+            "vat_amount": 6.59
+        },
+        {
+            "amount": 427.69,
+            "description": "expedite rich models",
+            "index": "9",
+            "price": 176.81,
+            "quantity": 8.03,
+            "tax_amount": 16.39,
+            "total_ttc": 182.27,
+            "vat_amount": 11.37
+        },
+        {
+            "amount": 151.96,
+            "description": "facilitate robust web services",
+            "index": "2",
+            "price": 292.5,
+            "quantity": 9.14,
+            "tax_amount": 71.96,
+            "total_ttc": 287.61,
+            "vat_amount": 15.74
+        }
+    ],
+    "seller": {
+        "name": "Charles Kelly"
+    },
+    "supplier": {
+        "address": "66790 Ball Greens North Matthewbury, DC 20357",
+        "name": "Zachary Choi"
+    },
+    "tax": {
+        "amount_excluding_tax": 170.49,
+        "amount_including_tax": 81.19,
+        "tax_amount": 20.97,
+        "total_ht": 120.6,
+        "total_ttc": 372.23
+    }
+}

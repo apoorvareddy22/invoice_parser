@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "507 Smith Gateway Apt. 507 Brownside, NY 36462",
+        "company_name": "Jackson Inc",
+        "country": "British Indian Ocean Territory (Chagos Archipelago)",
+        "name": "Sean Smith"
+    },
+    "invoice": {
+        "date": "11.01.2003",
+        "number": 488653
+    },
+    "payment": {
+        "discount_amount": 25.61,
+        "discount_percentage": 11.3,
+        "due": 23.65,
+        "sub_total": 90.37,
+        "total": 202.72
+    },
+    "products": [
+        {
+            "description": "enhance back-end content",
+            "index": "1",
+            "quantity": 4.68,
+            "total_price": 663.05,
+            "unit_price": 64.6
+        },
+        {
+            "description": "brand front-end portals",
+            "index": "9",
+            "quantity": 8.14,
+            "total_price": 95.07,
+            "unit_price": 30.53
+        }
+    ],
+    "seller": {
+        "address": "4041 Amy Squares Suite 413 Schroederstad, VT 58400",
+        "company_name": "Moran, Ford and Lambert",
+        "vat_no": "fD79157267801"
+    }
+}

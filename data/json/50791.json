@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "08044 Jackson Circle Apt. 100 Port Danielbury, VI 32345",
+        "id": "JB982"
+    },
+    "invoice": {
+        "bc_no": "Wg56502",
+        "currency_code": "TRY",
+        "date": "14.05.1990",
+        "due_date": "27.08.1996",
+        "number": 969682
+    },
+    "payment": {
+        "bank_name": "Ruiz and Sons",
+        "bic": "IAAFGBB8",
+        "iban": "LWBZ79669334101795"
+    },
+    "products": [
+        {
+            "amount": 163.54,
+            "description": "syndicate bleeding-edge platforms",
+            "index": "1",
+            "price": 103.75,
+            "quantity": 1.1,
+            "tax_amount": 79.76,
+            "total_ttc": 164.62,
+            "vat_amount": 4.18
+        },
+        {
+            "amount": 427.77,
+            "description": "leverage holistic ROI",
+            "index": "7",
+            "price": 421.76,
+            "quantity": 2.67,
+            "tax_amount": 83.85,
+            "total_ttc": 189.76,
+            "vat_amount": 1.83
+        },
+        {
+            "amount": 429.25,
+            "description": "re-intermediate web-enabled functionalities",
+            "index": "5",
+            "price": 99.35,
+            "quantity": 8.26,
+            "tax_amount": 82.8,
+            "total_ttc": 378.28,
+            "vat_amount": 2.22
+        }
+    ],
+    "seller": {
+        "name": "Deborah Harvey"
+    },
+    "supplier": {
+        "address": "374 Joshua Mission Aguilarside, CO 62882",
+        "name": "Brandon Ramirez"
+    },
+    "tax": {
+        "amount_excluding_tax": 78.63,
+        "amount_including_tax": 156.93,
+        "tax_amount": 15.34,
+        "total_ht": 470.54,
+        "total_ttc": 245.54
+    }
+}

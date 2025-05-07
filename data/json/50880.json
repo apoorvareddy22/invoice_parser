@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "4050 Tran Forges Sethhaven, KY 87554",
+        "id": "cI233"
+    },
+    "invoice": {
+        "bc_no": "NT25434",
+        "currency_code": "ALL",
+        "date": "14.02.2020",
+        "due_date": "28.10.1994",
+        "number": 980463
+    },
+    "payment": {
+        "bank_name": "Johnson-Roberts",
+        "bic": "ZWOZGB15DUZ",
+        "iban": "BZMX58784917108304"
+    },
+    "products": [
+        {
+            "amount": 395.37,
+            "description": "grow clicks-and-mortar users",
+            "index": "5",
+            "price": 50.99,
+            "quantity": 7.28,
+            "tax_amount": 20.63,
+            "total_ttc": 406.75,
+            "vat_amount": 0.79
+        },
+        {
+            "amount": 435.76,
+            "description": "architect 24/7 markets",
+            "index": "4",
+            "price": 121.25,
+            "quantity": 6.46,
+            "tax_amount": 37.84,
+            "total_ttc": 172.45,
+            "vat_amount": 1.55
+        },
+        {
+            "amount": 359.88,
+            "description": "brand dynamic mindshare",
+            "index": "7",
+            "price": 44.17,
+            "quantity": 2.98,
+            "tax_amount": 55.0,
+            "total_ttc": 357.47,
+            "vat_amount": 7.46
+        }
+    ],
+    "seller": {
+        "name": "Charles Davis"
+    },
+    "supplier": {
+        "address": "USS Taylor FPO AP 68223",
+        "name": "James Kennedy"
+    },
+    "tax": {
+        "amount_excluding_tax": 35.1,
+        "amount_including_tax": 62.43,
+        "tax_amount": 25.38,
+        "total_ht": 317.66,
+        "total_ttc": 255.77
+    }
+}

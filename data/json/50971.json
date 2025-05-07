@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "81452 Johnson Course Apt. 569 Samanthahaven, NM 14792",
+        "id": "YE588"
+    },
+    "invoice": {
+        "bc_no": "Tg28229",
+        "currency_code": "GMD",
+        "date": "06.09.2006",
+        "due_date": "10.05.2012",
+        "number": 800450
+    },
+    "payment": {
+        "bank_name": "Cox, Phillips and Davis",
+        "bic": "YHLKGBWT4XF",
+        "iban": "YWMC29445800229531"
+    },
+    "products": [
+        {
+            "amount": 449.35,
+            "description": "repurpose plug-and-play partnerships",
+            "index": "10",
+            "price": 6.12,
+            "quantity": 9.07,
+            "tax_amount": 85.65,
+            "total_ttc": 466.53,
+            "vat_amount": 1.27
+        }
+    ],
+    "seller": {
+        "name": "Susan Mendoza"
+    },
+    "supplier": {
+        "address": "808 David Valley Briannafort, MT 47462",
+        "name": "Tamara Mercado"
+    },
+    "tax": {
+        "amount_excluding_tax": 107.45,
+        "amount_including_tax": 85.21,
+        "tax_amount": 26.74,
+        "total_ht": 337.37,
+        "total_ttc": 324.68
+    }
+}

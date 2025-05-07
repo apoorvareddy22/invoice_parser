@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "Unit 8868 Box 0771 DPO AP 79335",
+        "email": "ecraig@example.org",
+        "phone": "001-555-644-6450",
+        "vat_no": "eh96402359933"
+    },
+    "invoice": {
+        "date": "04.01.2004",
+        "due_date": "29.10.2001",
+        "market_reference": 230970,
+        "notes": "synergize dot-com supply-chains",
+        "number": "7295-0316",
+        "reference": 829390,
+        "vat_no": "Fn85282658556"
+    },
+    "payment": {
+        "net_total": 36.11,
+        "total": 133.29
+    },
+    "products": [
+        {
+            "amount": 383.98,
+            "description": "engineer turn-key functionalities",
+            "hours": 1.22,
+            "rate": 2.16
+        },
+        {
+            "amount": 459.91,
+            "description": "empower B2B deliverables",
+            "hours": 1.68,
+            "rate": 5.62
+        },
+        {
+            "amount": 460.67,
+            "description": "revolutionize ubiquitous info-mediaries",
+            "hours": 3.97,
+            "rate": 3.24
+        },
+        {
+            "amount": 351.13,
+            "description": "harness killer initiatives",
+            "hours": 1.08,
+            "rate": 1.46
+        },
+        {
+            "amount": 256.0,
+            "description": "brand innovative interfaces",
+            "hours": 6.36,
+            "rate": 6.75
+        },
+        {
+            "amount": 184.02,
+            "description": "harness cross-media platforms",
+            "hours": 5.18,
+            "rate": 8.88
+        },
+        {
+            "amount": 175.29,
+            "description": "seize transparent bandwidth",
+            "hours": 4.82,
+            "rate": 2.06
+        }
+    ],
+    "seller": {
+        "address": "135 Paul Burgs Parkerfurt, NC 02471",
+        "email": "johnsandoval@example.net",
+        "name": "Trevor Davies"
+    },
+    "tax": {
+        "base": 13.96,
+        "tax_amount": 25.18,
+        "total_tax": 16.77
+    }
+}

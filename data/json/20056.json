@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "474 George Throughway Apt. 101 Andrewmouth, NM 69764",
+        "company_name": "Long, Roberts and Taylor",
+        "email": "angelatownsend@example.com",
+        "name": "Timothy Bonilla",
+        "phone": "001-575-923-1847x995"
+    },
+    "invoice": {
+        "date": "22.10.2003",
+        "due_date": "09.09.2014",
+        "number": "yZD12736670994"
+    },
+    "payment": {
+        "account_number": 6592771598,
+        "bank_name": "Dalton Group",
+        "routing_number": 322933260
+    },
+    "products": [
+        {
+            "amount": 326.35,
+            "description": "envisioneer turn-key deliverables",
+            "index": "5",
+            "quantity": 5.17,
+            "unit_price": 31.92
+        },
+        {
+            "amount": 42.08,
+            "description": "orchestrate back-end networks",
+            "index": "4",
+            "quantity": 2.08,
+            "unit_price": 29.68
+        }
+    ],
+    "seller": {
+        "address": "USNV Nguyen FPO AA 76993",
+        "company_name": "Estrada and Sons",
+        "email": "nguyenanthony@example.net"
+    }
+}

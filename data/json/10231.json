@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "6492 Friedman Shoals North Kimberlystad, MH 19419",
+        "email": "dawnchapman@example.com",
+        "phone": "(569)268-9016x881",
+        "vat_no": "ZC60929337232"
+    },
+    "invoice": {
+        "date": "18.07.1995",
+        "due_date": "11.08.2023",
+        "market_reference": 306512,
+        "notes": "facilitate ubiquitous applications",
+        "number": "9896-9624",
+        "reference": 876321,
+        "vat_no": "ic94433382068"
+    },
+    "payment": {
+        "net_total": 133.28,
+        "total": 122.83
+    },
+    "products": [
+        {
+            "amount": 309.22,
+            "description": "re-contextualize interactive mindshare",
+            "hours": 3.81,
+            "rate": 6.71
+        },
+        {
+            "amount": 256.7,
+            "description": "aggregate strategic e-markets",
+            "hours": 2.13,
+            "rate": 1.45
+        }
+    ],
+    "seller": {
+        "address": "3212 Villa Stravenue Suite 553 Waltersborough, CT 07891",
+        "email": "tponce@example.com",
+        "name": "Nicole Ross"
+    },
+    "tax": {
+        "base": 25.93,
+        "tax_amount": 13.93,
+        "total_tax": 15.0
+    }
+}

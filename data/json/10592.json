@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "77293 Santos Mountains New Jesse, MI 59636",
+        "email": "erin08@example.net",
+        "phone": "001-217-663-5698x7300",
+        "vat_no": "pP32064689167"
+    },
+    "invoice": {
+        "date": "19.11.2016",
+        "due_date": "30.09.2022",
+        "market_reference": 703631,
+        "notes": "cultivate intuitive models",
+        "number": "2631-9045",
+        "reference": 619257,
+        "vat_no": "nY88001491361"
+    },
+    "payment": {
+        "net_total": 123.69,
+        "total": 504.3
+    },
+    "products": [
+        {
+            "amount": 63.72,
+            "description": "harness collaborative models",
+            "hours": 9.46,
+            "rate": 5.96
+        },
+        {
+            "amount": 102.04,
+            "description": "evolve bleeding-edge action-items",
+            "hours": 5.18,
+            "rate": 6.43
+        },
+        {
+            "amount": 493.59,
+            "description": "streamline frictionless experiences",
+            "hours": 4.75,
+            "rate": 7.5
+        },
+        {
+            "amount": 87.03,
+            "description": "streamline clicks-and-mortar content",
+            "hours": 2.19,
+            "rate": 4.49
+        },
+        {
+            "amount": 181.13,
+            "description": "morph cross-media synergies",
+            "hours": 7.36,
+            "rate": 7.77
+        }
+    ],
+    "seller": {
+        "address": "PSC 4329, Box 8769 APO AA 15555",
+        "email": "sandersmichele@example.org",
+        "name": "Karen Johnson"
+    },
+    "tax": {
+        "base": 12.83,
+        "tax_amount": 27.11,
+        "total_tax": 22.4
+    }
+}

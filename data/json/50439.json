@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "006 Scott Points West Ashley, ME 14232",
+        "id": "Mw940"
+    },
+    "invoice": {
+        "bc_no": "tq89045",
+        "currency_code": "STD",
+        "date": "19.07.2009",
+        "due_date": "21.05.2010",
+        "number": 844058
+    },
+    "payment": {
+        "bank_name": "Jones LLC",
+        "bic": "QBEHGB8R",
+        "iban": "PUJX21974326100062"
+    },
+    "products": [
+        {
+            "amount": 366.24,
+            "description": "drive virtual partnerships",
+            "index": "6",
+            "price": 41.59,
+            "quantity": 8.04,
+            "tax_amount": 98.84,
+            "total_ttc": 473.07,
+            "vat_amount": 9.08
+        }
+    ],
+    "seller": {
+        "name": "Amy Sanford"
+    },
+    "supplier": {
+        "address": "053 Carter Views North Ellenhaven, ND 05668",
+        "name": "Robert Perez"
+    },
+    "tax": {
+        "amount_excluding_tax": 155.12,
+        "amount_including_tax": 169.65,
+        "tax_amount": 15.76,
+        "total_ht": 430.42,
+        "total_ttc": 129.65
+    }
+}

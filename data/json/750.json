@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "18895 Smith Way Carolmouth, WA 27334",
+        "company_name": "Jackson-James",
+        "country": "Peru",
+        "name": "Carlos Huynh"
+    },
+    "invoice": {
+        "date": "27.01.1992",
+        "number": 363552
+    },
+    "payment": {
+        "discount_amount": 35.04,
+        "discount_percentage": 19.93,
+        "due": 158.69,
+        "sub_total": 57.08,
+        "total": 713.31
+    },
+    "products": [
+        {
+            "description": "iterate magnetic e-business",
+            "index": "6",
+            "quantity": 9.87,
+            "total_price": 441.65,
+            "unit_price": 20.19
+        },
+        {
+            "description": "engage innovative eyeballs",
+            "index": "4",
+            "quantity": 6.12,
+            "total_price": 71.09,
+            "unit_price": 31.35
+        },
+        {
+            "description": "re-intermediate 24/7 interfaces",
+            "index": "1",
+            "quantity": 4.39,
+            "total_price": 522.46,
+            "unit_price": 20.08
+        }
+    ],
+    "seller": {
+        "address": "82698 Butler Summit Suite 164 Amandaton, NJ 13184",
+        "company_name": "Wilson PLC",
+        "vat_no": "ZN26268229584"
+    }
+}

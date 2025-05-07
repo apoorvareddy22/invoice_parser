@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "515 Amanda Fords Angelaport, CA 39922",
+        "id": "dh116"
+    },
+    "invoice": {
+        "bc_no": "dz60332",
+        "currency_code": "NZD",
+        "date": "18.08.2004",
+        "due_date": "10.07.2002",
+        "number": 721324
+    },
+    "payment": {
+        "bank_name": "Morgan, Vaughan and Brock",
+        "bic": "WTLHGB32K6X",
+        "iban": "MLFF27210855356939"
+    },
+    "products": [
+        {
+            "amount": 291.26,
+            "description": "monetize integrated eyeballs",
+            "index": "1",
+            "price": 108.73,
+            "quantity": 6.19,
+            "tax_amount": 80.37,
+            "total_ttc": 311.98,
+            "vat_amount": 12.78
+        },
+        {
+            "amount": 30.19,
+            "description": "reinvent vertical users",
+            "index": "3",
+            "price": 50.94,
+            "quantity": 4.41,
+            "tax_amount": 56.29,
+            "total_ttc": 391.51,
+            "vat_amount": 8.64
+        },
+        {
+            "amount": 461.15,
+            "description": "unleash visionary ROI",
+            "index": "9",
+            "price": 243.1,
+            "quantity": 7.94,
+            "tax_amount": 65.8,
+            "total_ttc": 199.3,
+            "vat_amount": 2.16
+        },
+        {
+            "amount": 412.76,
+            "description": "maximize bricks-and-clicks paradigms",
+            "index": "7",
+            "price": 387.8,
+            "quantity": 8.21,
+            "tax_amount": 11.58,
+            "total_ttc": 396.82,
+            "vat_amount": 1.9
+        }
+    ],
+    "seller": {
+        "name": "Erica Cooper"
+    },
+    "supplier": {
+        "address": "PSC 3718, Box 6071 APO AA 89818",
+        "name": "Jennifer Campbell"
+    },
+    "tax": {
+        "amount_excluding_tax": 168.3,
+        "amount_including_tax": 18.13,
+        "tax_amount": 26.85,
+        "total_ht": 252.04,
+        "total_ttc": 158.84
+    }
+}

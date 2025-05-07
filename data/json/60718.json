@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "3884 Leah Harbor Apt. 781 West Jessicaburgh, PR 32352",
+        "business_no": "Wx136",
+        "id": "Hl042"
+    },
+    "invoice": {
+        "date": "07.01.1994",
+        "number": "1445-9533"
+    },
+    "payment": {
+        "due_date": "27.04.2005",
+        "total": 875.77
+    },
+    "products": [
+        {
+            "amount": 402.06,
+            "description": "architect magnetic infrastructures",
+            "quantity": 6.71,
+            "reference": "oC-061",
+            "unit_price": 96.8
+        },
+        {
+            "amount": 323.62,
+            "description": "visualize enterprise networks",
+            "quantity": 4.15,
+            "reference": "Uq-195",
+            "unit_price": 12.34
+        },
+        {
+            "amount": 469.3,
+            "description": "embrace B2C mindshare",
+            "quantity": 2.77,
+            "reference": "vj-411",
+            "unit_price": 17.68
+        },
+        {
+            "amount": 162.13,
+            "description": "e-enable rich mindshare",
+            "quantity": 9.98,
+            "reference": "HX-796",
+            "unit_price": 44.11
+        },
+        {
+            "amount": 477.44,
+            "description": "engineer next-generation technologies",
+            "quantity": 2.54,
+            "reference": "uX-604",
+            "unit_price": 23.58
+        },
+        {
+            "amount": 418.76,
+            "description": "productize dot-com e-business",
+            "quantity": 2.34,
+            "reference": "TQ-899",
+            "unit_price": 70.63
+        },
+        {
+            "amount": 300.47,
+            "description": "deploy 24/365 eyeballs",
+            "quantity": 1.89,
+            "reference": "QN-601",
+            "unit_price": 11.98
+        }
+    ],
+    "seller": {
+        "address": "608 Johnson Estates Antoniofurt, DC 02235"
+    },
+    "tax": {
+        "base_ht": 309.29,
+        "regulations": 18.73,
+        "total_ht": 241.63,
+        "vat_amount": 143.65,
+        "vat_percentage": 22.58
+    }
+}

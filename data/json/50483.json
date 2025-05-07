@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "4158 George Landing Apt. 592 Simonshire, WV 46245",
+        "id": "NW995"
+    },
+    "invoice": {
+        "bc_no": "ht12808",
+        "currency_code": "PKR",
+        "date": "19.06.1990",
+        "due_date": "20.02.2012",
+        "number": 423922
+    },
+    "payment": {
+        "bank_name": "Bennett LLC",
+        "bic": "SXLRGBSF",
+        "iban": "VTQX15772254036756"
+    },
+    "products": [
+        {
+            "amount": 490.99,
+            "description": "streamline open-source methodologies",
+            "index": "9",
+            "price": 26.04,
+            "quantity": 1.07,
+            "tax_amount": 59.3,
+            "total_ttc": 190.06,
+            "vat_amount": 1.97
+        },
+        {
+            "amount": 495.6,
+            "description": "seize frictionless action-items",
+            "index": "9",
+            "price": 321.34,
+            "quantity": 8.19,
+            "tax_amount": 96.14,
+            "total_ttc": 150.24,
+            "vat_amount": 1.67
+        },
+        {
+            "amount": 379.51,
+            "description": "engage 24/7 info-mediaries",
+            "index": "4",
+            "price": 373.11,
+            "quantity": 6.52,
+            "tax_amount": 51.45,
+            "total_ttc": 473.06,
+            "vat_amount": 0.05
+        }
+    ],
+    "seller": {
+        "name": "Kimberly White"
+    },
+    "supplier": {
+        "address": "54826 Timothy Flat Gravesland, NE 42733",
+        "name": "Megan Roberts"
+    },
+    "tax": {
+        "amount_excluding_tax": 190.67,
+        "amount_including_tax": 29.17,
+        "tax_amount": 23.54,
+        "total_ht": 131.34,
+        "total_ttc": 248.51
+    }
+}

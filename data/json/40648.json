@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "1284 Amy Stravenue East Lindastad, PW 23313"
+    },
+    "invoice": {
+        "bc_no": "OO42292",
+        "date": "03.02.1992",
+        "maturity_date": "09.08.1999",
+        "number": 811833
+    },
+    "products": [
+        {
+            "amount": 248.18,
+            "description": "exploit cutting-edge methodologies",
+            "quantity": 3.84,
+            "unit_price": 91.53,
+            "vat_amount": 8.58
+        },
+        {
+            "amount": 119.11,
+            "description": "orchestrate mission-critical schemas",
+            "quantity": 4.22,
+            "unit_price": 36.91,
+            "vat_amount": 11.46
+        },
+        {
+            "amount": 471.2,
+            "description": "disintermediate clicks-and-mortar schemas",
+            "quantity": 7.07,
+            "unit_price": 70.74,
+            "vat_amount": 11.46
+        }
+    ],
+    "seller": {
+        "address": "17896 Rocha Lights Suite 434 Port Julieland, AK 57681"
+    },
+    "tax": {
+        "amount_excluding_tax": 80.56,
+        "amount_including_tax": 190.82,
+        "tax_amount": 29.69
+    }
+}

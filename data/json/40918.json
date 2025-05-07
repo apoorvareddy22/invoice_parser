@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "2121 Shields Trafficway Apt. 695 Christopherland, WV 87104"
+    },
+    "invoice": {
+        "bc_no": "kF42130",
+        "date": "02.04.2019",
+        "maturity_date": "03.12.2018",
+        "number": 119484
+    },
+    "products": [
+        {
+            "amount": 273.26,
+            "description": "deploy interactive web services",
+            "quantity": 7.97,
+            "unit_price": 26.22,
+            "vat_amount": 6.19
+        },
+        {
+            "amount": 448.0,
+            "description": "exploit revolutionary ROI",
+            "quantity": 2.53,
+            "unit_price": 52.87,
+            "vat_amount": 5.32
+        },
+        {
+            "amount": 440.95,
+            "description": "brand front-end e-tailers",
+            "quantity": 5.47,
+            "unit_price": 62.83,
+            "vat_amount": 0.64
+        },
+        {
+            "amount": 302.56,
+            "description": "reinvent user-centric solutions",
+            "quantity": 9.72,
+            "unit_price": 27.8,
+            "vat_amount": 4.18
+        }
+    ],
+    "seller": {
+        "address": "6205 Miller Square Suite 139 Darrellburgh, NH 31831"
+    },
+    "tax": {
+        "amount_excluding_tax": 156.64,
+        "amount_including_tax": 45.4,
+        "tax_amount": 22.02
+    }
+}

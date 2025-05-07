@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "911 Thomas Plaza Jenniferfurt, MN 93901",
+        "business_no": "Gw469",
+        "id": "IQ344"
+    },
+    "invoice": {
+        "date": "18.07.1996",
+        "number": "4308-7929"
+    },
+    "payment": {
+        "due_date": "11.11.1991",
+        "total": 941.8
+    },
+    "products": [
+        {
+            "amount": 139.47,
+            "description": "matrix cutting-edge convergence",
+            "quantity": 2.69,
+            "reference": "UB-668",
+            "unit_price": 49.51
+        }
+    ],
+    "seller": {
+        "address": "149 Lopez Divide Port Johnburgh, GA 33356"
+    },
+    "tax": {
+        "base_ht": 287.86,
+        "regulations": 28.92,
+        "total_ht": 285.91,
+        "vat_amount": 98.41,
+        "vat_percentage": 16.19
+    }
+}

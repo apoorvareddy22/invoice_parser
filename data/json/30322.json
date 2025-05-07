@@ -1,0 +1,82 @@
+{
+    "buyer": {
+        "address": "5796 Werner Knoll Apt. 414 West Connorport, MO 55361",
+        "company_name": "Gibson-Johnson",
+        "country": "Guadeloupe",
+        "email": "wlynch@example.org",
+        "name": "Kyle Tran",
+        "phone": "001-534-645-1184x62174",
+        "vat_no": "GH48698381691"
+    },
+    "invoice": {
+        "date": "14.11.2009",
+        "due_date": "29.03.2008",
+        "linked_invoice": "TC-0396-7532",
+        "notes": "morph enterprise applications",
+        "number": "Xc-9631-0982"
+    },
+    "products": [
+        {
+            "description": "evolve open-source deliverables",
+            "discount_percentage": 11.68,
+            "price": 281.85,
+            "quantity": 9.81,
+            "unit_price": 26.27
+        },
+        {
+            "description": "envisioneer end-to-end systems",
+            "discount_percentage": 7.23,
+            "price": 30.98,
+            "quantity": 8.26,
+            "unit_price": 36.37
+        },
+        {
+            "description": "exploit B2B applications",
+            "discount_percentage": 7.11,
+            "price": 326.71,
+            "quantity": 8.81,
+            "unit_price": 87.33
+        },
+        {
+            "description": "repurpose end-to-end methodologies",
+            "discount_percentage": 8.06,
+            "price": 415.7,
+            "quantity": 9.79,
+            "unit_price": 63.33
+        },
+        {
+            "description": "matrix collaborative schemas",
+            "discount_percentage": 6.71,
+            "price": 226.39,
+            "quantity": 9.34,
+            "unit_price": 26.74
+        }
+    ],
+    "seller": {
+        "address": "3988 Ruben Valley Suite 067 Floresburgh, VT 09161",
+        "ape": "3803Q",
+        "capital": 88983032,
+        "country": "Guyana",
+        "email": "jenniferjones@example.org",
+        "name": "George Wilson",
+        "phone_1": "231-868-2495x48446",
+        "phone_2": "265.316.2206x17765",
+        "phone_3": "385.872.2244",
+        "ref_walk": "whLM1016",
+        "reference": "Da248",
+        "siret": 26072654844844,
+        "vat_no": "dD40988384229",
+        "website": "http://robinson.com/"
+    },
+    "tax": {
+        "amount_0": 27.32,
+        "amount_1": 27.05,
+        "base_0": 11.21,
+        "base_1": 74.56,
+        "total_ht": 337.19,
+        "total_tax": 17.61,
+        "total_ttc": 228.89,
+        "vat_0": 14.68,
+        "vat_1": 18.21
+    }
+}

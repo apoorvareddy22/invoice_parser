@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "86830 Pacheco Radial Apt. 150 Kristaton, IN 09675",
+        "id": "oC085"
+    },
+    "invoice": {
+        "bc_no": "Xg01103",
+        "currency_code": "TND",
+        "date": "29.12.2015",
+        "due_date": "19.02.2001",
+        "number": 774767
+    },
+    "payment": {
+        "bank_name": "Kennedy-Love",
+        "bic": "MJUDGB7F9O9",
+        "iban": "UTVS11044745089903"
+    },
+    "products": [
+        {
+            "amount": 58.24,
+            "description": "visualize transparent schemas",
+            "index": "2",
+            "price": 333.29,
+            "quantity": 4.59,
+            "tax_amount": 75.81,
+            "total_ttc": 465.61,
+            "vat_amount": 10.64
+        },
+        {
+            "amount": 58.01,
+            "description": "whiteboard integrated communities",
+            "index": "1",
+            "price": 355.61,
+            "quantity": 4.02,
+            "tax_amount": 77.75,
+            "total_ttc": 153.1,
+            "vat_amount": 1.84
+        },
+        {
+            "amount": 335.49,
+            "description": "cultivate viral e-tailers",
+            "index": "1",
+            "price": 296.75,
+            "quantity": 8.94,
+            "tax_amount": 67.64,
+            "total_ttc": 326.83,
+            "vat_amount": 0.22
+        },
+        {
+            "amount": 39.5,
+            "description": "optimize front-end e-tailers",
+            "index": "3",
+            "price": 158.4,
+            "quantity": 2.59,
+            "tax_amount": 67.47,
+            "total_ttc": 185.69,
+            "vat_amount": 8.98
+        },
+        {
+            "amount": 99.28,
+            "description": "morph next-generation niches",
+            "index": "1",
+            "price": 285.29,
+            "quantity": 3.23,
+            "tax_amount": 22.73,
+            "total_ttc": 288.08,
+            "vat_amount": 3.93
+        },
+        {
+            "amount": 305.86,
+            "description": "generate intuitive applications",
+            "index": "3",
+            "price": 345.27,
+            "quantity": 6.32,
+            "tax_amount": 21.83,
+            "total_ttc": 201.47,
+            "vat_amount": 3.07
+        }
+    ],
+    "seller": {
+        "name": "Diane Summers MD"
+    },
+    "supplier": {
+        "address": "262 Smith Isle Apt. 921 Smithmouth, ME 20582",
+        "name": "Shawn Nguyen"
+    },
+    "tax": {
+        "amount_excluding_tax": 142.97,
+        "amount_including_tax": 98.21,
+        "tax_amount": 29.64,
+        "total_ht": 295.51,
+        "total_ttc": 267.54
+    }
+}

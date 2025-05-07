@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "USNV Avery FPO AE 08690",
+        "id": "FF629"
+    },
+    "invoice": {
+        "bc_no": "ng75981",
+        "currency_code": "NPR",
+        "date": "15.06.1999",
+        "due_date": "10.07.2002",
+        "number": 279463
+    },
+    "payment": {
+        "bank_name": "Dixon-Brown",
+        "bic": "QMRMGBEQGA2",
+        "iban": "ZRTR11990210963834"
+    },
+    "products": [
+        {
+            "amount": 427.8,
+            "description": "visualize out-of-the-box schemas",
+            "index": "4",
+            "price": 313.22,
+            "quantity": 1.48,
+            "tax_amount": 77.75,
+            "total_ttc": 168.26,
+            "vat_amount": 8.62
+        },
+        {
+            "amount": 439.56,
+            "description": "disintermediate magnetic eyeballs",
+            "index": "8",
+            "price": 457.49,
+            "quantity": 4.13,
+            "tax_amount": 86.07,
+            "total_ttc": 262.35,
+            "vat_amount": 7.72
+        },
+        {
+            "amount": 471.87,
+            "description": "utilize distributed eyeballs",
+            "index": "8",
+            "price": 6.5,
+            "quantity": 9.44,
+            "tax_amount": 94.01,
+            "total_ttc": 464.69,
+            "vat_amount": 2.46
+        },
+        {
+            "amount": 305.42,
+            "description": "architect plug-and-play deliverables",
+            "index": "8",
+            "price": 19.46,
+            "quantity": 8.81,
+            "tax_amount": 42.21,
+            "total_ttc": 424.32,
+            "vat_amount": 8.35
+        },
+        {
+            "amount": 267.31,
+            "description": "productize global web services",
+            "index": "9",
+            "price": 174.5,
+            "quantity": 3.26,
+            "tax_amount": 62.2,
+            "total_ttc": 294.58,
+            "vat_amount": 1.47
+        },
+        {
+            "amount": 456.66,
+            "description": "repurpose cross-platform metrics",
+            "index": "1",
+            "price": 11.2,
+            "quantity": 4.6,
+            "tax_amount": 43.75,
+            "total_ttc": 397.6,
+            "vat_amount": 0.02
+        }
+    ],
+    "seller": {
+        "name": "Shaun Castillo"
+    },
+    "supplier": {
+        "address": "937 Sarah Ramp Jamesmouth, NE 43738",
+        "name": "Brandon Ferguson"
+    },
+    "tax": {
+        "amount_excluding_tax": 165.94,
+        "amount_including_tax": 101.28,
+        "tax_amount": 23.49,
+        "total_ht": 456.87,
+        "total_ttc": 370.28
+    }
+}

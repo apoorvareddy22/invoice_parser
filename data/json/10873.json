@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "8161 Matthew Knoll Williamsfurt, VT 10581",
+        "email": "bradhernandez@example.net",
+        "phone": "2542777693",
+        "vat_no": "mA07734362874"
+    },
+    "invoice": {
+        "date": "16.01.2021",
+        "due_date": "19.05.1996",
+        "market_reference": 514281,
+        "notes": "incubate integrated models",
+        "number": "9502-3452",
+        "reference": 888220,
+        "vat_no": "vB68916673099"
+    },
+    "payment": {
+        "net_total": 148.43,
+        "total": 497.16
+    },
+    "products": [
+        {
+            "amount": 85.74,
+            "description": "redefine dynamic experiences",
+            "hours": 8.75,
+            "rate": 3.5
+        },
+        {
+            "amount": 170.17,
+            "description": "maximize viral systems",
+            "hours": 1.38,
+            "rate": 3.12
+        },
+        {
+            "amount": 466.61,
+            "description": "extend leading-edge e-business",
+            "hours": 1.81,
+            "rate": 1.02
+        },
+        {
+            "amount": 94.89,
+            "description": "implement impactful synergies",
+            "hours": 4.66,
+            "rate": 9.81
+        }
+    ],
+    "seller": {
+        "address": "943 Chang Fort Apt. 095 East Brian, RI 41313",
+        "email": "veronica15@example.org",
+        "name": "Julie Liu"
+    },
+    "tax": {
+        "base": 25.31,
+        "tax_amount": 20.2,
+        "total_tax": 20.63
+    }
+}

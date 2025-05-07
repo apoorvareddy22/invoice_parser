@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "55167 Nicholas Islands North Richard, NC 27430",
+        "email": "adam99@example.org",
+        "phone": "229.417.7541x62714",
+        "vat_no": "Bu02788280593"
+    },
+    "invoice": {
+        "date": "26.10.1992",
+        "due_date": "10.11.1995",
+        "market_reference": 664107,
+        "notes": "deploy bricks-and-clicks experiences",
+        "number": "1346-2851",
+        "reference": 270683,
+        "vat_no": "za05910244675"
+    },
+    "payment": {
+        "net_total": 133.0,
+        "total": 882.24
+    },
+    "products": [
+        {
+            "amount": 422.22,
+            "description": "cultivate distributed web-readiness",
+            "hours": 8.17,
+            "rate": 5.29
+        },
+        {
+            "amount": 271.07,
+            "description": "brand plug-and-play architectures",
+            "hours": 8.97,
+            "rate": 8.47
+        },
+        {
+            "amount": 155.8,
+            "description": "redefine holistic vortals",
+            "hours": 7.85,
+            "rate": 4.8
+        }
+    ],
+    "seller": {
+        "address": "79435 Angela Viaduct Johnton, MI 92879",
+        "email": "alexis07@example.org",
+        "name": "Zachary Smith"
+    },
+    "tax": {
+        "base": 22.94,
+        "tax_amount": 20.56,
+        "total_tax": 18.68
+    }
+}

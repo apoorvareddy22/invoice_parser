@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "4224 Michael Plain Jamesland, LA 68146",
+        "id": "tE654"
+    },
+    "invoice": {
+        "bc_no": "dp74650",
+        "currency_code": "NIO",
+        "date": "15.08.2001",
+        "due_date": "07.04.1990",
+        "number": 490987
+    },
+    "payment": {
+        "bank_name": "Peters, Poole and Snyder",
+        "bic": "WBAFGBYM",
+        "iban": "GICZ23425887293511"
+    },
+    "products": [
+        {
+            "amount": 51.13,
+            "description": "harness front-end technologies",
+            "index": "1",
+            "price": 250.55,
+            "quantity": 6.54,
+            "tax_amount": 47.04,
+            "total_ttc": 324.99,
+            "vat_amount": 4.3
+        },
+        {
+            "amount": 327.57,
+            "description": "extend impactful synergies",
+            "index": "2",
+            "price": 400.72,
+            "quantity": 8.36,
+            "tax_amount": 28.98,
+            "total_ttc": 291.73,
+            "vat_amount": 5.78
+        }
+    ],
+    "seller": {
+        "name": "Alice Herrera DDS"
+    },
+    "supplier": {
+        "address": "134 Arthur Keys Suite 692 Cooperview, AK 56957",
+        "name": "Kevin Brown"
+    },
+    "tax": {
+        "amount_excluding_tax": 117.21,
+        "amount_including_tax": 27.98,
+        "tax_amount": 14.55,
+        "total_ht": 347.54,
+        "total_ttc": 302.26
+    }
+}

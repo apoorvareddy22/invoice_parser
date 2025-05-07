@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "478 Mason Plain Martineztown, UT 86429",
+        "company_name": "Young Ltd",
+        "country": "French Guiana",
+        "name": "Jason Campbell"
+    },
+    "invoice": {
+        "date": "15.06.2015",
+        "number": 263909
+    },
+    "payment": {
+        "discount_amount": 44.02,
+        "discount_percentage": 17.03,
+        "due": 141.44,
+        "sub_total": 98.66,
+        "total": 973.9
+    },
+    "products": [
+        {
+            "description": "enhance next-generation convergence",
+            "index": "10",
+            "quantity": 2.44,
+            "total_price": 223.72,
+            "unit_price": 18.57
+        },
+        {
+            "description": "grow compelling deliverables",
+            "index": "8",
+            "quantity": 6.33,
+            "total_price": 499.69,
+            "unit_price": 23.97
+        }
+    ],
+    "seller": {
+        "address": "6665 Poole Forest Apt. 046 West Joshua, ME 64455",
+        "company_name": "Klein, Campbell and Hurst",
+        "vat_no": "ZH27206428646"
+    }
+}

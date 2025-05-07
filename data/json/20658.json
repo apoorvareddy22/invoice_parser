@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "275 Rachel Course Clarkmouth, HI 95057",
+        "company_name": "Cruz-King",
+        "email": "kchavez@example.net",
+        "name": "Brett Gonzales",
+        "phone": "345-813-8593"
+    },
+    "invoice": {
+        "date": "15.09.2012",
+        "due_date": "16.12.1997",
+        "number": "vtg73789007723"
+    },
+    "payment": {
+        "account_number": 9410065324,
+        "bank_name": "Phelps, Brown and Gibson",
+        "routing_number": 529574222
+    },
+    "products": [
+        {
+            "amount": 276.76,
+            "description": "deploy wireless initiatives",
+            "index": "9",
+            "quantity": 4.01,
+            "unit_price": 31.32
+        },
+        {
+            "amount": 424.4,
+            "description": "architect vertical networks",
+            "index": "4",
+            "quantity": 6.05,
+            "unit_price": 63.76
+        }
+    ],
+    "seller": {
+        "address": "517 Green Mountains Suite 702 Littlehaven, WY 42785",
+        "company_name": "Mcbride, Moore and Combs",
+        "email": "jeffrey54@example.org"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "36150 Rogers Inlet Port Carlmouth, LA 64456",
+        "company_name": "Reynolds-Nelson",
+        "email": "michaelthompson@example.org",
+        "name": "Kyle Allen",
+        "phone": "550.561.8416"
+    },
+    "invoice": {
+        "date": "05.11.1995",
+        "due_date": "19.08.2007",
+        "number": "sMV28797617761"
+    },
+    "payment": {
+        "account_number": 6684347980,
+        "bank_name": "Park and Sons",
+        "routing_number": 118985240
+    },
+    "products": [
+        {
+            "amount": 50.01,
+            "description": "incubate mission-critical ROI",
+            "index": "1",
+            "quantity": 4.0,
+            "unit_price": 40.83
+        },
+        {
+            "amount": 222.42,
+            "description": "extend visionary systems",
+            "index": "5",
+            "quantity": 9.27,
+            "unit_price": 74.51
+        },
+        {
+            "amount": 307.66,
+            "description": "scale end-to-end infrastructures",
+            "index": "4",
+            "quantity": 1.31,
+            "unit_price": 84.49
+        },
+        {
+            "amount": 189.04,
+            "description": "whiteboard turn-key communities",
+            "index": "4",
+            "quantity": 8.27,
+            "unit_price": 87.73
+        },
+        {
+            "amount": 131.7,
+            "description": "implement best-of-breed e-markets",
+            "index": "1",
+            "quantity": 8.89,
+            "unit_price": 73.85
+        }
+    ],
+    "seller": {
+        "address": "950 Sanchez Causeway West James, TN 18851",
+        "company_name": "Ford, Taylor and Walker",
+        "email": "lori14@example.org"
+    }
+}

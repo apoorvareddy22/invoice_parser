@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "658 Johnson Manors Suite 525 Edwardville, MA 05042",
+        "business_no": "fp629",
+        "id": "gR218"
+    },
+    "invoice": {
+        "date": "17.01.2008",
+        "number": "1691-9011"
+    },
+    "payment": {
+        "due_date": "22.05.2006",
+        "total": 811.21
+    },
+    "products": [
+        {
+            "amount": 66.41,
+            "description": "synthesize killer networks",
+            "quantity": 4.13,
+            "reference": "Et-876",
+            "unit_price": 68.95
+        },
+        {
+            "amount": 320.01,
+            "description": "synergize efficient users",
+            "quantity": 6.32,
+            "reference": "qe-584",
+            "unit_price": 27.27
+        }
+    ],
+    "seller": {
+        "address": "56363 Anthony Spur South Aliciafurt, MO 18908"
+    },
+    "tax": {
+        "base_ht": 431.15,
+        "regulations": 12.76,
+        "total_ht": 178.94,
+        "vat_amount": 56.84,
+        "vat_percentage": 15.59
+    }
+}

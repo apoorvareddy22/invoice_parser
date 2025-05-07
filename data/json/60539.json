@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "90209 Heath Court Jonesport, AL 12860",
+        "business_no": "wu212",
+        "id": "Js967"
+    },
+    "invoice": {
+        "date": "19.09.2021",
+        "number": "1731-4038"
+    },
+    "payment": {
+        "due_date": "31.05.2020",
+        "total": 252.43
+    },
+    "products": [
+        {
+            "amount": 82.34,
+            "description": "iterate innovative applications",
+            "quantity": 6.02,
+            "reference": "sO-288",
+            "unit_price": 60.27
+        },
+        {
+            "amount": 360.68,
+            "description": "orchestrate leading-edge web-readiness",
+            "quantity": 2.05,
+            "reference": "Wp-267",
+            "unit_price": 82.15
+        },
+        {
+            "amount": 454.07,
+            "description": "synergize killer paradigms",
+            "quantity": 7.33,
+            "reference": "lA-208",
+            "unit_price": 38.38
+        },
+        {
+            "amount": 198.74,
+            "description": "aggregate user-centric ROI",
+            "quantity": 5.19,
+            "reference": "Si-607",
+            "unit_price": 89.36
+        }
+    ],
+    "seller": {
+        "address": "54771 Connie Corners Apt. 334 Tamaraburgh, NE 35924"
+    },
+    "tax": {
+        "base_ht": 105.5,
+        "regulations": 29.69,
+        "total_ht": 321.16,
+        "vat_amount": 189.14,
+        "vat_percentage": 15.78
+    }
+}

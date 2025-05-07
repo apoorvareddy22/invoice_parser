@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "545 Alan Island New Mark, KY 04388",
+        "email": "davissavannah@example.org",
+        "phone": "001-670-690-8940x52839",
+        "vat_no": "VR74619907876"
+    },
+    "invoice": {
+        "date": "22.06.2023",
+        "due_date": "03.10.2003",
+        "market_reference": 955387,
+        "notes": "matrix out-of-the-box architectures",
+        "number": "2019-8554",
+        "reference": 375031,
+        "vat_no": "QE35461910479"
+    },
+    "payment": {
+        "net_total": 138.53,
+        "total": 599.73
+    },
+    "products": [
+        {
+            "amount": 273.75,
+            "description": "syndicate efficient communities",
+            "hours": 2.85,
+            "rate": 8.61
+        },
+        {
+            "amount": 409.95,
+            "description": "deploy interactive deliverables",
+            "hours": 6.21,
+            "rate": 8.32
+        },
+        {
+            "amount": 468.03,
+            "description": "visualize dynamic deliverables",
+            "hours": 9.84,
+            "rate": 5.87
+        }
+    ],
+    "seller": {
+        "address": "USNV Gonzales FPO AA 95467",
+        "email": "troyjohnson@example.com",
+        "name": "Tiffany Pace"
+    },
+    "tax": {
+        "base": 28.93,
+        "tax_amount": 12.87,
+        "total_tax": 11.42
+    }
+}

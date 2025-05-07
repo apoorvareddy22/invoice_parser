@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "8739 Ho Lake West Gilbert, IL 69066",
+        "email": "scottalvarado@example.com",
+        "phone": "+1-214-849-0390",
+        "vat_no": "lm64592966763"
+    },
+    "invoice": {
+        "date": "30.04.2014",
+        "due_date": "09.01.2014",
+        "market_reference": 508800,
+        "notes": "strategize turn-key platforms",
+        "number": "2261-0370",
+        "reference": 259872,
+        "vat_no": "qk57072711843"
+    },
+    "payment": {
+        "net_total": 187.63,
+        "total": 933.02
+    },
+    "products": [
+        {
+            "amount": 115.21,
+            "description": "maximize dot-com technologies",
+            "hours": 3.61,
+            "rate": 3.9
+        },
+        {
+            "amount": 13.04,
+            "description": "drive leading-edge e-services",
+            "hours": 8.11,
+            "rate": 8.51
+        },
+        {
+            "amount": 212.29,
+            "description": "scale efficient convergence",
+            "hours": 9.79,
+            "rate": 6.76
+        },
+        {
+            "amount": 191.55,
+            "description": "streamline customized channels",
+            "hours": 5.73,
+            "rate": 1.9
+        },
+        {
+            "amount": 459.4,
+            "description": "benchmark revolutionary architectures",
+            "hours": 4.31,
+            "rate": 2.54
+        },
+        {
+            "amount": 119.33,
+            "description": "re-intermediate distributed niches",
+            "hours": 4.44,
+            "rate": 9.77
+        }
+    ],
+    "seller": {
+        "address": "765 Rodriguez Station Apt. 998 Port Kendra, MP 26618",
+        "email": "catherinearnold@example.net",
+        "name": "Shelly Sullivan"
+    },
+    "tax": {
+        "base": 13.35,
+        "tax_amount": 12.76,
+        "total_tax": 19.67
+    }
+}

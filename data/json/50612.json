@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "61260 Mcmillan Point Rosalesstad, FL 54482",
+        "id": "mC324"
+    },
+    "invoice": {
+        "bc_no": "Ov97622",
+        "currency_code": "MGA",
+        "date": "08.05.2000",
+        "due_date": "07.03.1992",
+        "number": 830276
+    },
+    "payment": {
+        "bank_name": "Miller Inc",
+        "bic": "BKHKGBF1",
+        "iban": "YMEX42804159528104"
+    },
+    "products": [
+        {
+            "amount": 44.35,
+            "description": "synergize back-end solutions",
+            "index": "6",
+            "price": 486.7,
+            "quantity": 1.42,
+            "tax_amount": 48.38,
+            "total_ttc": 150.45,
+            "vat_amount": 10.99
+        },
+        {
+            "amount": 63.98,
+            "description": "reinvent back-end schemas",
+            "index": "4",
+            "price": 393.82,
+            "quantity": 2.04,
+            "tax_amount": 64.24,
+            "total_ttc": 308.11,
+            "vat_amount": 1.98
+        }
+    ],
+    "seller": {
+        "name": "Michael Campbell V"
+    },
+    "supplier": {
+        "address": "93135 Flores Ports Fosterport, SC 35049",
+        "name": "Adam Herman"
+    },
+    "tax": {
+        "amount_excluding_tax": 192.67,
+        "amount_including_tax": 100.84,
+        "tax_amount": 24.92,
+        "total_ht": 340.49,
+        "total_ttc": 416.17
+    }
+}

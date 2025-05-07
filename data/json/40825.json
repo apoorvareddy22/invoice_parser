@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "74987 Payne Fields Suite 946 West Sharon, NV 53240"
+    },
+    "invoice": {
+        "bc_no": "ki94881",
+        "date": "04.02.2016",
+        "maturity_date": "16.09.1993",
+        "number": 963652
+    },
+    "products": [
+        {
+            "amount": 176.35,
+            "description": "enable efficient channels",
+            "quantity": 3.16,
+            "unit_price": 24.39,
+            "vat_amount": 1.56
+        },
+        {
+            "amount": 139.59,
+            "description": "expedite frictionless initiatives",
+            "quantity": 3.26,
+            "unit_price": 66.25,
+            "vat_amount": 3.25
+        },
+        {
+            "amount": 196.51,
+            "description": "enable transparent eyeballs",
+            "quantity": 6.43,
+            "unit_price": 51.96,
+            "vat_amount": 1.68
+        }
+    ],
+    "seller": {
+        "address": "Unit 7425 Box 0787 DPO AE 77853"
+    },
+    "tax": {
+        "amount_excluding_tax": 53.53,
+        "amount_including_tax": 174.9,
+        "tax_amount": 15.09
+    }
+}

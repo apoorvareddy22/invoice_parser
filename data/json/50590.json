@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "055 Jon Plains Douglasfurt, TN 97202",
+        "id": "Xh518"
+    },
+    "invoice": {
+        "bc_no": "hS92401",
+        "currency_code": "TND",
+        "date": "20.04.2021",
+        "due_date": "02.08.2014",
+        "number": 274601
+    },
+    "payment": {
+        "bank_name": "Deleon PLC",
+        "bic": "QOEYGBIG",
+        "iban": "CCKN88070346716937"
+    },
+    "products": [
+        {
+            "amount": 457.21,
+            "description": "transform revolutionary e-services",
+            "index": "3",
+            "price": 450.94,
+            "quantity": 9.19,
+            "tax_amount": 31.48,
+            "total_ttc": 370.17,
+            "vat_amount": 0.97
+        },
+        {
+            "amount": 134.28,
+            "description": "enable back-end users",
+            "index": "6",
+            "price": 499.97,
+            "quantity": 6.25,
+            "tax_amount": 45.39,
+            "total_ttc": 236.8,
+            "vat_amount": 2.05
+        }
+    ],
+    "seller": {
+        "name": "Anthony Keith"
+    },
+    "supplier": {
+        "address": "658 Curtis Spurs Suite 603 New Andrewbury, PW 52796",
+        "name": "Matthew Sellers"
+    },
+    "tax": {
+        "amount_excluding_tax": 138.15,
+        "amount_including_tax": 97.28,
+        "tax_amount": 15.01,
+        "total_ht": 136.46,
+        "total_ttc": 362.82
+    }
+}

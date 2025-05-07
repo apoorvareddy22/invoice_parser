@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "50163 Nicole Trail Florestown, WY 20571",
+        "business_no": "RO085",
+        "id": "tp826"
+    },
+    "invoice": {
+        "date": "02.10.2022",
+        "number": "1880-4501"
+    },
+    "payment": {
+        "due_date": "26.05.2005",
+        "total": 333.21
+    },
+    "products": [
+        {
+            "amount": 430.03,
+            "description": "empower cutting-edge e-business",
+            "quantity": 7.51,
+            "reference": "rv-974",
+            "unit_price": 10.6
+        }
+    ],
+    "seller": {
+        "address": "921 Newman Stream Apt. 095 New Whitney, WV 50120"
+    },
+    "tax": {
+        "base_ht": 297.15,
+        "regulations": 11.82,
+        "total_ht": 484.71,
+        "vat_amount": 145.69,
+        "vat_percentage": 12.07
+    }
+}

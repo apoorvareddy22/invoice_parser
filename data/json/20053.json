@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "6966 King Summit Apt. 913 Hollymouth, ID 18670",
+        "company_name": "Holloway and Sons",
+        "email": "robertspaul@example.net",
+        "name": "Sandra Walsh",
+        "phone": "766.335.8345x77694"
+    },
+    "invoice": {
+        "date": "08.05.2006",
+        "due_date": "09.07.2010",
+        "number": "WwS32765212657"
+    },
+    "payment": {
+        "account_number": 7968306484,
+        "bank_name": "Skinner, Flores and Rivera",
+        "routing_number": 838928504
+    },
+    "products": [
+        {
+            "amount": 401.89,
+            "description": "strategize cutting-edge mindshare",
+            "index": "3",
+            "quantity": 7.93,
+            "unit_price": 35.14
+        }
+    ],
+    "seller": {
+        "address": "017 Barker Stream Gregoryberg, AR 37011",
+        "company_name": "Beltran, Ferguson and Fernandez",
+        "email": "cwilliams@example.com"
+    }
+}

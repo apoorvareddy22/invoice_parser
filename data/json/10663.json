@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "488 Matthew Locks Suite 252 West Patrick, WV 10382",
+        "email": "jason25@example.net",
+        "phone": "(989)393-0979x2496",
+        "vat_no": "nc87779193470"
+    },
+    "invoice": {
+        "date": "16.05.2015",
+        "due_date": "17.04.2011",
+        "market_reference": 232916,
+        "notes": "synergize plug-and-play infrastructures",
+        "number": "1597-9995",
+        "reference": 418817,
+        "vat_no": "cV09714177338"
+    },
+    "payment": {
+        "net_total": 123.63,
+        "total": 584.47
+    },
+    "products": [
+        {
+            "amount": 232.6,
+            "description": "syndicate real-time partnerships",
+            "hours": 1.8,
+            "rate": 1.81
+        },
+        {
+            "amount": 366.59,
+            "description": "maximize strategic functionalities",
+            "hours": 8.29,
+            "rate": 3.59
+        },
+        {
+            "amount": 46.12,
+            "description": "benchmark B2B web services",
+            "hours": 2.52,
+            "rate": 3.04
+        },
+        {
+            "amount": 409.84,
+            "description": "implement strategic portals",
+            "hours": 3.61,
+            "rate": 6.93
+        }
+    ],
+    "seller": {
+        "address": "USNS Vasquez FPO AA 77403",
+        "email": "justin93@example.com",
+        "name": "Joseph Mckenzie"
+    },
+    "tax": {
+        "base": 14.52,
+        "tax_amount": 17.33,
+        "total_tax": 12.97
+    }
+}

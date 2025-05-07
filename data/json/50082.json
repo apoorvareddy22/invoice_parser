@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "342 Gordon Shore Suite 885 North Kaitlyn, WY 81296",
+        "id": "uB572"
+    },
+    "invoice": {
+        "bc_no": "OR17730",
+        "currency_code": "MYR",
+        "date": "07.01.2013",
+        "due_date": "02.08.2011",
+        "number": 468101
+    },
+    "payment": {
+        "bank_name": "Nelson-Nelson",
+        "bic": "ATNIGBIH",
+        "iban": "PCOR79768707781682"
+    },
+    "products": [
+        {
+            "amount": 78.21,
+            "description": "whiteboard user-centric web services",
+            "index": "1",
+            "price": 66.7,
+            "quantity": 2.61,
+            "tax_amount": 91.13,
+            "total_ttc": 254.75,
+            "vat_amount": 1.04
+        },
+        {
+            "amount": 472.9,
+            "description": "scale seamless architectures",
+            "index": "4",
+            "price": 438.34,
+            "quantity": 3.05,
+            "tax_amount": 69.11,
+            "total_ttc": 496.17,
+            "vat_amount": 5.76
+        },
+        {
+            "amount": 329.86,
+            "description": "repurpose B2B interfaces",
+            "index": "2",
+            "price": 486.74,
+            "quantity": 6.8,
+            "tax_amount": 32.9,
+            "total_ttc": 153.15,
+            "vat_amount": 10.54
+        },
+        {
+            "amount": 359.75,
+            "description": "utilize dot-com users",
+            "index": "6",
+            "price": 91.92,
+            "quantity": 3.25,
+            "tax_amount": 88.28,
+            "total_ttc": 430.35,
+            "vat_amount": 1.76
+        },
+        {
+            "amount": 343.91,
+            "description": "transition real-time mindshare",
+            "index": "3",
+            "price": 291.76,
+            "quantity": 2.76,
+            "tax_amount": 82.85,
+            "total_ttc": 159.68,
+            "vat_amount": 6.55
+        },
+        {
+            "amount": 360.77,
+            "description": "disintermediate user-centric action-items",
+            "index": "8",
+            "price": 139.51,
+            "quantity": 5.93,
+            "tax_amount": 31.42,
+            "total_ttc": 483.87,
+            "vat_amount": 1.42
+        }
+    ],
+    "seller": {
+        "name": "Trevor Hall"
+    },
+    "supplier": {
+        "address": "28294 James Gateway Apt. 237 Adamsport, MT 37604",
+        "name": "Anna Gray"
+    },
+    "tax": {
+        "amount_excluding_tax": 96.31,
+        "amount_including_tax": 108.91,
+        "tax_amount": 21.31,
+        "total_ht": 311.89,
+        "total_ttc": 162.55
+    }
+}

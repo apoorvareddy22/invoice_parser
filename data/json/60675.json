@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "9893 Villarreal Mount Suite 361 South Josephview, MA 65359",
+        "business_no": "NN349",
+        "id": "aK567"
+    },
+    "invoice": {
+        "date": "25.08.2009",
+        "number": "6410-7689"
+    },
+    "payment": {
+        "due_date": "31.07.1996",
+        "total": 977.3
+    },
+    "products": [
+        {
+            "amount": 118.96,
+            "description": "matrix 24/7 portals",
+            "quantity": 8.51,
+            "reference": "Mg-468",
+            "unit_price": 99.12
+        },
+        {
+            "amount": 90.27,
+            "description": "harness 24/365 e-markets",
+            "quantity": 5.66,
+            "reference": "RK-589",
+            "unit_price": 44.7
+        },
+        {
+            "amount": 489.62,
+            "description": "implement interactive experiences",
+            "quantity": 5.13,
+            "reference": "CN-846",
+            "unit_price": 14.15
+        },
+        {
+            "amount": 176.89,
+            "description": "drive B2C mindshare",
+            "quantity": 5.48,
+            "reference": "ft-710",
+            "unit_price": 48.99
+        },
+        {
+            "amount": 335.43,
+            "description": "synthesize B2B infrastructures",
+            "quantity": 7.47,
+            "reference": "XG-784",
+            "unit_price": 58.91
+        },
+        {
+            "amount": 234.24,
+            "description": "envisioneer intuitive synergies",
+            "quantity": 9.8,
+            "reference": "rq-207",
+            "unit_price": 37.46
+        },
+        {
+            "amount": 328.81,
+            "description": "exploit bleeding-edge convergence",
+            "quantity": 8.12,
+            "reference": "PY-184",
+            "unit_price": 25.51
+        }
+    ],
+    "seller": {
+        "address": "45263 Santos Vista Patelburgh, PW 68107"
+    },
+    "tax": {
+        "base_ht": 300.58,
+        "regulations": 23.87,
+        "total_ht": 211.43,
+        "vat_amount": 83.51,
+        "vat_percentage": 15.91
+    }
+}

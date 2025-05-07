@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "565 Roberts Viaduct Dianemouth, WI 78210",
+        "business_no": "Oo377",
+        "id": "nX555"
+    },
+    "invoice": {
+        "date": "10.12.2001",
+        "number": "6816-2257"
+    },
+    "payment": {
+        "due_date": "26.08.2007",
+        "total": 603.89
+    },
+    "products": [
+        {
+            "amount": 302.59,
+            "description": "seize customized functionalities",
+            "quantity": 9.24,
+            "reference": "Vm-555",
+            "unit_price": 39.01
+        },
+        {
+            "amount": 317.26,
+            "description": "brand holistic architectures",
+            "quantity": 9.75,
+            "reference": "dg-734",
+            "unit_price": 57.38
+        },
+        {
+            "amount": 34.47,
+            "description": "reinvent open-source users",
+            "quantity": 8.6,
+            "reference": "cJ-714",
+            "unit_price": 14.99
+        }
+    ],
+    "seller": {
+        "address": "30254 Robert Islands Suite 574 Lake Ryan, NC 25989"
+    },
+    "tax": {
+        "base_ht": 455.77,
+        "regulations": 26.98,
+        "total_ht": 374.38,
+        "vat_amount": 189.26,
+        "vat_percentage": 13.14
+    }
+}

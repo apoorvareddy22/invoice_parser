@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "USCGC Rodriguez FPO AA 61210",
+        "company_name": "Robinson, Holmes and Peterson",
+        "country": "Greece",
+        "name": "Benjamin Acosta"
+    },
+    "invoice": {
+        "date": "16.01.2016",
+        "number": 604692
+    },
+    "payment": {
+        "discount_amount": 13.64,
+        "discount_percentage": 13.86,
+        "due": 178.03,
+        "sub_total": 71.1,
+        "total": 306.97
+    },
+    "products": [
+        {
+            "description": "empower robust eyeballs",
+            "index": "5",
+            "quantity": 4.28,
+            "total_price": 94.68,
+            "unit_price": 38.12
+        },
+        {
+            "description": "strategize 24/7 bandwidth",
+            "index": "3",
+            "quantity": 4.83,
+            "total_price": 735.44,
+            "unit_price": 92.53
+        },
+        {
+            "description": "scale cross-media vortals",
+            "index": "2",
+            "quantity": 5.4,
+            "total_price": 898.43,
+            "unit_price": 31.67
+        },
+        {
+            "description": "facilitate 24/7 deliverables",
+            "index": "3",
+            "quantity": 7.05,
+            "total_price": 421.06,
+            "unit_price": 33.77
+        }
+    ],
+    "seller": {
+        "address": "00137 Jocelyn Springs Suite 416 Weberland, PR 37093",
+        "company_name": "Hall Group",
+        "vat_no": "qP76904471538"
+    }
+}

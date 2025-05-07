@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "71053 Newman Dale Apt. 828 Moorefurt, AR 23680",
+        "id": "fg314"
+    },
+    "invoice": {
+        "bc_no": "Bn81435",
+        "currency_code": "JPY",
+        "date": "09.09.2017",
+        "due_date": "02.03.2018",
+        "number": 747624
+    },
+    "payment": {
+        "bank_name": "Hubbard PLC",
+        "bic": "JNEBGBGO",
+        "iban": "OEBO34361997757859"
+    },
+    "products": [
+        {
+            "amount": 87.78,
+            "description": "whiteboard bricks-and-clicks markets",
+            "index": "9",
+            "price": 77.14,
+            "quantity": 4.17,
+            "tax_amount": 47.34,
+            "total_ttc": 448.84,
+            "vat_amount": 3.67
+        },
+        {
+            "amount": 278.04,
+            "description": "target collaborative e-services",
+            "index": "9",
+            "price": 57.46,
+            "quantity": 7.49,
+            "tax_amount": 94.8,
+            "total_ttc": 157.91,
+            "vat_amount": 15.1
+        },
+        {
+            "amount": 438.63,
+            "description": "mesh wireless deliverables",
+            "index": "10",
+            "price": 298.2,
+            "quantity": 6.59,
+            "tax_amount": 67.47,
+            "total_ttc": 226.3,
+            "vat_amount": 2.89
+        },
+        {
+            "amount": 176.63,
+            "description": "scale proactive communities",
+            "index": "8",
+            "price": 272.56,
+            "quantity": 5.96,
+            "tax_amount": 23.39,
+            "total_ttc": 424.15,
+            "vat_amount": 2.13
+        },
+        {
+            "amount": 167.57,
+            "description": "re-contextualize user-centric methodologies",
+            "index": "3",
+            "price": 334.37,
+            "quantity": 9.01,
+            "tax_amount": 20.62,
+            "total_ttc": 330.39,
+            "vat_amount": 2.09
+        },
+        {
+            "amount": 142.0,
+            "description": "engineer web-enabled models",
+            "index": "1",
+            "price": 43.23,
+            "quantity": 8.27,
+            "tax_amount": 18.4,
+            "total_ttc": 244.09,
+            "vat_amount": 8.06
+        }
+    ],
+    "seller": {
+        "name": "David Wells"
+    },
+    "supplier": {
+        "address": "798 White Roads Suite 631 South Marcview, WV 66449",
+        "name": "Paula Diaz"
+    },
+    "tax": {
+        "amount_excluding_tax": 18.04,
+        "amount_including_tax": 174.32,
+        "tax_amount": 16.04,
+        "total_ht": 212.96,
+        "total_ttc": 218.78
+    }
+}

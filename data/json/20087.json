@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "5644 Richard Green North Shane, NJ 37236",
+        "company_name": "Clark, Holland and Jones",
+        "email": "michele74@example.com",
+        "name": "Ryan Garza",
+        "phone": "330-334-8884"
+    },
+    "invoice": {
+        "date": "15.04.1996",
+        "due_date": "17.08.1993",
+        "number": "OwR83147741415"
+    },
+    "payment": {
+        "account_number": 6726696711,
+        "bank_name": "Morris-Schultz",
+        "routing_number": 648693181
+    },
+    "products": [
+        {
+            "amount": 103.0,
+            "description": "reinvent seamless eyeballs",
+            "index": "2",
+            "quantity": 3.37,
+            "unit_price": 44.51
+        },
+        {
+            "amount": 32.21,
+            "description": "monetize rich paradigms",
+            "index": "1",
+            "quantity": 8.9,
+            "unit_price": 41.12
+        },
+        {
+            "amount": 446.92,
+            "description": "iterate 24/7 convergence",
+            "index": "4",
+            "quantity": 8.33,
+            "unit_price": 11.55
+        }
+    ],
+    "seller": {
+        "address": "1782 Alyssa Fields Bellport, ME 54464",
+        "company_name": "Flynn Ltd",
+        "email": "joelrobles@example.com"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "1728 Stephen Stravenue Apt. 774 Lake Edward, AZ 33306"
+    },
+    "invoice": {
+        "bc_no": "sB03170",
+        "date": "02.07.1991",
+        "maturity_date": "10.06.1995",
+        "number": 504764
+    },
+    "products": [
+        {
+            "amount": 394.24,
+            "description": "envisioneer best-of-breed vortals",
+            "quantity": 8.33,
+            "unit_price": 59.94,
+            "vat_amount": 2.52
+        },
+        {
+            "amount": 290.11,
+            "description": "leverage end-to-end relationships",
+            "quantity": 7.19,
+            "unit_price": 15.23,
+            "vat_amount": 1.88
+        },
+        {
+            "amount": 347.48,
+            "description": "brand proactive e-markets",
+            "quantity": 9.21,
+            "unit_price": 40.77,
+            "vat_amount": 0.35
+        }
+    ],
+    "seller": {
+        "address": "72000 Cisneros Land New Rodneybury, DC 96558"
+    },
+    "tax": {
+        "amount_excluding_tax": 172.13,
+        "amount_including_tax": 22.35,
+        "tax_amount": 26.58
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "6732 Mcbride Fort Suite 313 Amyview, AR 81027",
+        "email": "millerpatrick@example.net",
+        "phone": "984-957-2593",
+        "vat_no": "qK60982231476"
+    },
+    "invoice": {
+        "date": "22.03.1996",
+        "due_date": "28.11.2003",
+        "market_reference": 421878,
+        "notes": "incentivize vertical ROI",
+        "number": "4292-5249",
+        "reference": 883108,
+        "vat_no": "nn04093722501"
+    },
+    "payment": {
+        "net_total": 94.61,
+        "total": 288.28
+    },
+    "products": [
+        {
+            "amount": 225.35,
+            "description": "e-enable impactful relationships",
+            "hours": 6.54,
+            "rate": 7.54
+        }
+    ],
+    "seller": {
+        "address": "036 Bridges Springs Suite 113 Lake Joshua, VI 34860",
+        "email": "hollyhubbard@example.org",
+        "name": "Kevin Hammond"
+    },
+    "tax": {
+        "base": 28.07,
+        "tax_amount": 27.15,
+        "total_tax": 25.08
+    }
+}

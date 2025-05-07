@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "5369 Bernard Glens North Lindsayville, MO 09791",
+        "business_no": "Ga015",
+        "id": "bh305"
+    },
+    "invoice": {
+        "date": "17.10.2013",
+        "number": "1140-5555"
+    },
+    "payment": {
+        "due_date": "05.07.2009",
+        "total": 894.55
+    },
+    "products": [
+        {
+            "amount": 268.49,
+            "description": "aggregate rich vortals",
+            "quantity": 3.79,
+            "reference": "cb-312",
+            "unit_price": 71.11
+        },
+        {
+            "amount": 283.29,
+            "description": "reinvent next-generation convergence",
+            "quantity": 9.97,
+            "reference": "Qa-930",
+            "unit_price": 74.49
+        },
+        {
+            "amount": 220.72,
+            "description": "target intuitive mindshare",
+            "quantity": 1.07,
+            "reference": "SR-951",
+            "unit_price": 96.81
+        },
+        {
+            "amount": 361.72,
+            "description": "aggregate magnetic functionalities",
+            "quantity": 6.53,
+            "reference": "Rb-886",
+            "unit_price": 39.26
+        }
+    ],
+    "seller": {
+        "address": "24720 Ronald Street New Jennifer, CO 34751"
+    },
+    "tax": {
+        "base_ht": 256.06,
+        "regulations": 18.72,
+        "total_ht": 291.35,
+        "vat_amount": 120.87,
+        "vat_percentage": 13.03
+    }
+}

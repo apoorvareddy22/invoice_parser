@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "06463 Anthony Oval Suite 968 Michaelshire, AK 91034",
+        "email": "velazquezmichael@example.net",
+        "phone": "301.361.6555x06400",
+        "vat_no": "SW13361643620"
+    },
+    "invoice": {
+        "date": "04.01.2015",
+        "due_date": "01.02.2013",
+        "market_reference": 421700,
+        "notes": "harness holistic experiences",
+        "number": "3620-3390",
+        "reference": 626032,
+        "vat_no": "er81517091101"
+    },
+    "payment": {
+        "net_total": 48.21,
+        "total": 389.0
+    },
+    "products": [
+        {
+            "amount": 23.56,
+            "description": "enable value-added communities",
+            "hours": 8.24,
+            "rate": 6.65
+        },
+        {
+            "amount": 491.91,
+            "description": "matrix visionary experiences",
+            "hours": 4.43,
+            "rate": 2.09
+        }
+    ],
+    "seller": {
+        "address": "84653 David Glens Suite 536 Georgechester, IA 09250",
+        "email": "jason02@example.com",
+        "name": "John Potts"
+    },
+    "tax": {
+        "base": 16.27,
+        "tax_amount": 23.66,
+        "total_tax": 17.11
+    }
+}

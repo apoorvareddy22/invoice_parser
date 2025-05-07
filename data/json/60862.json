@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "USNS Cantu FPO AE 24477",
+        "business_no": "cy176",
+        "id": "Xz993"
+    },
+    "invoice": {
+        "date": "02.08.1992",
+        "number": "4608-8421"
+    },
+    "payment": {
+        "due_date": "01.10.1994",
+        "total": 920.87
+    },
+    "products": [
+        {
+            "amount": 283.9,
+            "description": "seize robust infrastructures",
+            "quantity": 1.39,
+            "reference": "ap-246",
+            "unit_price": 18.34
+        },
+        {
+            "amount": 462.42,
+            "description": "transition proactive supply-chains",
+            "quantity": 9.04,
+            "reference": "tB-231",
+            "unit_price": 39.36
+        },
+        {
+            "amount": 374.86,
+            "description": "strategize dot-com e-services",
+            "quantity": 8.45,
+            "reference": "nh-226",
+            "unit_price": 52.77
+        },
+        {
+            "amount": 204.95,
+            "description": "incubate impactful markets",
+            "quantity": 7.16,
+            "reference": "pQ-677",
+            "unit_price": 44.7
+        }
+    ],
+    "seller": {
+        "address": "9527 Troy Oval Ambertown, MI 18332"
+    },
+    "tax": {
+        "base_ht": 263.51,
+        "regulations": 27.07,
+        "total_ht": 499.79,
+        "vat_amount": 47.4,
+        "vat_percentage": 18.06
+    }
+}

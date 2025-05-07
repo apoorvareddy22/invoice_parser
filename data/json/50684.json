@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "USNS Simmons FPO AA 44507",
+        "id": "Ag464"
+    },
+    "invoice": {
+        "bc_no": "fD37986",
+        "currency_code": "SDG",
+        "date": "05.10.1998",
+        "due_date": "03.05.1995",
+        "number": 764080
+    },
+    "payment": {
+        "bank_name": "Griffith-Knight",
+        "bic": "LPPNGBFW",
+        "iban": "QHAA61065728123197"
+    },
+    "products": [
+        {
+            "amount": 73.84,
+            "description": "generate collaborative experiences",
+            "index": "4",
+            "price": 231.65,
+            "quantity": 2.63,
+            "tax_amount": 29.53,
+            "total_ttc": 145.72,
+            "vat_amount": 2.45
+        },
+        {
+            "amount": 462.91,
+            "description": "synthesize scalable e-tailers",
+            "index": "3",
+            "price": 482.27,
+            "quantity": 7.43,
+            "tax_amount": 88.45,
+            "total_ttc": 385.65,
+            "vat_amount": 5.77
+        },
+        {
+            "amount": 278.84,
+            "description": "seize synergistic paradigms",
+            "index": "7",
+            "price": 167.94,
+            "quantity": 1.79,
+            "tax_amount": 30.41,
+            "total_ttc": 270.67,
+            "vat_amount": 0.78
+        },
+        {
+            "amount": 113.59,
+            "description": "synthesize intuitive e-business",
+            "index": "1",
+            "price": 236.01,
+            "quantity": 7.48,
+            "tax_amount": 64.74,
+            "total_ttc": 154.07,
+            "vat_amount": 10.82
+        }
+    ],
+    "seller": {
+        "name": "Michael Alexander"
+    },
+    "supplier": {
+        "address": "518 Davis Ranch Suite 745 Emilystad, PA 63778",
+        "name": "Alyssa Paul"
+    },
+    "tax": {
+        "amount_excluding_tax": 103.17,
+        "amount_including_tax": 178.9,
+        "tax_amount": 17.51,
+        "total_ht": 207.78,
+        "total_ttc": 484.82
+    }
+}

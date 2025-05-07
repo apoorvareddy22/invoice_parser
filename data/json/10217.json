@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "42604 Jose Crescent Susantown, MP 34493",
+        "email": "wallacecarol@example.org",
+        "phone": "001-804-629-1493x0421",
+        "vat_no": "wW59971400741"
+    },
+    "invoice": {
+        "date": "12.05.2016",
+        "due_date": "09.02.2002",
+        "market_reference": 883642,
+        "notes": "orchestrate front-end functionalities",
+        "number": "7476-9712",
+        "reference": 776865,
+        "vat_no": "UG58756988372"
+    },
+    "payment": {
+        "net_total": 122.7,
+        "total": 417.69
+    },
+    "products": [
+        {
+            "amount": 245.03,
+            "description": "revolutionize dynamic bandwidth",
+            "hours": 6.92,
+            "rate": 2.62
+        },
+        {
+            "amount": 294.7,
+            "description": "empower real-time action-items",
+            "hours": 2.31,
+            "rate": 1.89
+        },
+        {
+            "amount": 248.3,
+            "description": "mesh efficient initiatives",
+            "hours": 5.32,
+            "rate": 4.61
+        }
+    ],
+    "seller": {
+        "address": "67512 Lopez Landing Apt. 482 Jamesfort, AK 12600",
+        "email": "alisonhurst@example.net",
+        "name": "Gene Williams"
+    },
+    "tax": {
+        "base": 11.88,
+        "tax_amount": 15.96,
+        "total_tax": 28.26
+    }
+}

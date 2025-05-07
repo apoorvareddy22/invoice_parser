@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "PSC 1836, Box 8615 APO AE 22822"
+    },
+    "invoice": {
+        "bc_no": "GN90907",
+        "date": "20.02.2008",
+        "maturity_date": "04.03.2007",
+        "number": 500958
+    },
+    "products": [
+        {
+            "amount": 94.33,
+            "description": "architect turn-key architectures",
+            "quantity": 4.87,
+            "unit_price": 34.27,
+            "vat_amount": 10.78
+        },
+        {
+            "amount": 400.65,
+            "description": "orchestrate bricks-and-clicks ROI",
+            "quantity": 1.41,
+            "unit_price": 35.42,
+            "vat_amount": 4.63
+        },
+        {
+            "amount": 244.62,
+            "description": "deliver B2B mindshare",
+            "quantity": 9.29,
+            "unit_price": 57.41,
+            "vat_amount": 2.04
+        },
+        {
+            "amount": 464.84,
+            "description": "e-enable intuitive vortals",
+            "quantity": 4.57,
+            "unit_price": 28.59,
+            "vat_amount": 1.96
+        }
+    ],
+    "seller": {
+        "address": "619 Cook Port East Nicoleville, TN 98251"
+    },
+    "tax": {
+        "amount_excluding_tax": 80.13,
+        "amount_including_tax": 43.85,
+        "tax_amount": 23.29
+    }
+}

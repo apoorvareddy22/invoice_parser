@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "Unit 5086 Box 4408 DPO AE 55536",
+        "company_name": "Warren Group",
+        "email": "jennifer89@example.net",
+        "name": "Holly Holden",
+        "phone": "(231)425-9492"
+    },
+    "invoice": {
+        "date": "30.11.2007",
+        "due_date": "19.09.2019",
+        "number": "JhJ53010933673"
+    },
+    "payment": {
+        "account_number": 5700348212,
+        "bank_name": "Torres-Thomas",
+        "routing_number": 114572794
+    },
+    "products": [
+        {
+            "amount": 315.83,
+            "description": "re-intermediate dot-com ROI",
+            "index": "7",
+            "quantity": 3.15,
+            "unit_price": 11.34
+        },
+        {
+            "amount": 369.73,
+            "description": "aggregate best-of-breed deliverables",
+            "index": "4",
+            "quantity": 2.24,
+            "unit_price": 40.96
+        },
+        {
+            "amount": 496.16,
+            "description": "visualize extensible info-mediaries",
+            "index": "5",
+            "quantity": 3.23,
+            "unit_price": 64.58
+        },
+        {
+            "amount": 450.74,
+            "description": "seize front-end convergence",
+            "index": "4",
+            "quantity": 1.66,
+            "unit_price": 47.03
+        }
+    ],
+    "seller": {
+        "address": "82532 Rojas Island Suite 009 Colemanchester, UT 24564",
+        "company_name": "Daugherty Group",
+        "email": "cmorales@example.net"
+    }
+}

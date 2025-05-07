@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "4079 Michael Motorway West Tracy, ID 82094"
+    },
+    "invoice": {
+        "bc_no": "IS92358",
+        "date": "30.08.2015",
+        "maturity_date": "25.12.2004",
+        "number": 650217
+    },
+    "products": [
+        {
+            "amount": 64.2,
+            "description": "integrate seamless paradigms",
+            "quantity": 3.88,
+            "unit_price": 38.4,
+            "vat_amount": 5.57
+        },
+        {
+            "amount": 59.29,
+            "description": "enable world-class content",
+            "quantity": 9.06,
+            "unit_price": 72.66,
+            "vat_amount": 5.48
+        },
+        {
+            "amount": 99.24,
+            "description": "integrate end-to-end applications",
+            "quantity": 8.27,
+            "unit_price": 59.05,
+            "vat_amount": 3.87
+        },
+        {
+            "amount": 473.91,
+            "description": "brand world-class convergence",
+            "quantity": 6.81,
+            "unit_price": 50.35,
+            "vat_amount": 9.87
+        }
+    ],
+    "seller": {
+        "address": "77565 Richardson Road Sharonside, OR 89960"
+    },
+    "tax": {
+        "amount_excluding_tax": 130.5,
+        "amount_including_tax": 54.39,
+        "tax_amount": 22.59
+    }
+}

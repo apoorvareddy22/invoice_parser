@@ -1,0 +1,82 @@
+{
+    "buyer": {
+        "address": "Unit 0580 Box 9987 DPO AA 25260",
+        "company_name": "Powers Inc",
+        "country": "Moldova",
+        "email": "rjuarez@example.org",
+        "name": "Sean Crosby",
+        "phone": "(990)910-5898",
+        "vat_no": "rY00942993382"
+    },
+    "invoice": {
+        "date": "28.08.1992",
+        "due_date": "24.11.2014",
+        "linked_invoice": "GB-8819-3226",
+        "notes": "brand rich portals",
+        "number": "em-4452-3370"
+    },
+    "products": [
+        {
+            "description": "engage e-business applications",
+            "discount_percentage": 19.43,
+            "price": 156.26,
+            "quantity": 3.46,
+            "unit_price": 81.42
+        },
+        {
+            "description": "utilize robust ROI",
+            "discount_percentage": 12.96,
+            "price": 111.13,
+            "quantity": 6.52,
+            "unit_price": 12.32
+        },
+        {
+            "description": "incubate bricks-and-clicks bandwidth",
+            "discount_percentage": 12.85,
+            "price": 109.21,
+            "quantity": 3.7,
+            "unit_price": 29.83
+        },
+        {
+            "description": "maximize collaborative relationships",
+            "discount_percentage": 5.63,
+            "price": 275.33,
+            "quantity": 4.0,
+            "unit_price": 98.51
+        },
+        {
+            "description": "streamline open-source portals",
+            "discount_percentage": 17.15,
+            "price": 305.4,
+            "quantity": 9.47,
+            "unit_price": 76.6
+        }
+    ],
+    "seller": {
+        "address": "79706 Jason Ramp Heatherport, MP 45281",
+        "ape": "7781s",
+        "capital": 20929856,
+        "country": "United Arab Emirates",
+        "email": "ashleyhudson@example.net",
+        "name": "Keith Stein",
+        "phone_1": "9674777534",
+        "phone_2": "780.897.1705x544",
+        "phone_3": "001-249-820-2116x1345",
+        "ref_walk": "cATX0201",
+        "reference": "HD962",
+        "siret": 96927662886502,
+        "vat_no": "HR80433682182",
+        "website": "http://welch.com/"
+    },
+    "tax": {
+        "amount_0": 28.9,
+        "amount_1": 14.13,
+        "base_0": 29.59,
+        "base_1": 197.14,
+        "total_ht": 467.57,
+        "total_tax": 25.54,
+        "total_ttc": 102.94,
+        "vat_0": 27.46,
+        "vat_1": 18.51
+    }
+}

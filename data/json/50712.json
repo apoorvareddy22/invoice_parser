@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "24008 Lawrence Plaza Apt. 246 Nealborough, PR 26592",
+        "id": "im909"
+    },
+    "invoice": {
+        "bc_no": "dn14050",
+        "currency_code": "GTQ",
+        "date": "13.01.2020",
+        "due_date": "20.12.2010",
+        "number": 105958
+    },
+    "payment": {
+        "bank_name": "Lewis-Frank",
+        "bic": "BOXKGBA6",
+        "iban": "JDKB05613186370441"
+    },
+    "products": [
+        {
+            "amount": 32.45,
+            "description": "productize leading-edge metrics",
+            "index": "6",
+            "price": 455.15,
+            "quantity": 5.57,
+            "tax_amount": 56.43,
+            "total_ttc": 147.48,
+            "vat_amount": 3.49
+        },
+        {
+            "amount": 457.61,
+            "description": "empower leading-edge interfaces",
+            "index": "5",
+            "price": 249.68,
+            "quantity": 7.81,
+            "tax_amount": 11.88,
+            "total_ttc": 176.82,
+            "vat_amount": 7.44
+        },
+        {
+            "amount": 351.02,
+            "description": "matrix back-end partnerships",
+            "index": "2",
+            "price": 27.27,
+            "quantity": 3.39,
+            "tax_amount": 59.26,
+            "total_ttc": 427.03,
+            "vat_amount": 4.33
+        },
+        {
+            "amount": 67.06,
+            "description": "facilitate plug-and-play e-services",
+            "index": "10",
+            "price": 128.95,
+            "quantity": 2.13,
+            "tax_amount": 67.2,
+            "total_ttc": 181.3,
+            "vat_amount": 9.83
+        },
+        {
+            "amount": 202.68,
+            "description": "seize interactive e-business",
+            "index": "1",
+            "price": 67.98,
+            "quantity": 1.4,
+            "tax_amount": 23.28,
+            "total_ttc": 272.99,
+            "vat_amount": 3.95
+        },
+        {
+            "amount": 352.98,
+            "description": "disintermediate seamless networks",
+            "index": "6",
+            "price": 385.35,
+            "quantity": 4.65,
+            "tax_amount": 80.35,
+            "total_ttc": 244.55,
+            "vat_amount": 3.81
+        },
+        {
+            "amount": 466.22,
+            "description": "orchestrate innovative mindshare",
+            "index": "9",
+            "price": 85.41,
+            "quantity": 5.85,
+            "tax_amount": 46.43,
+            "total_ttc": 310.72,
+            "vat_amount": 7.31
+        }
+    ],
+    "seller": {
+        "name": "Grace Ferguson"
+    },
+    "supplier": {
+        "address": "40259 Murray Streets East Brandontown, OH 47724",
+        "name": "Dustin Downs"
+    },
+    "tax": {
+        "amount_excluding_tax": 15.47,
+        "amount_including_tax": 145.65,
+        "tax_amount": 16.04,
+        "total_ht": 361.56,
+        "total_ttc": 383.76
+    }
+}

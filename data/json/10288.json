@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "1029 Scott Loaf Suite 225 Lake Luis, MO 25574",
+        "email": "bramos@example.net",
+        "phone": "6938488753",
+        "vat_no": "Gq17168030055"
+    },
+    "invoice": {
+        "date": "12.07.2007",
+        "due_date": "07.08.2010",
+        "market_reference": 633013,
+        "notes": "drive collaborative technologies",
+        "number": "4696-8804",
+        "reference": 873438,
+        "vat_no": "Qe56569496331"
+    },
+    "payment": {
+        "net_total": 178.73,
+        "total": 279.13
+    },
+    "products": [
+        {
+            "amount": 401.38,
+            "description": "seize visionary platforms",
+            "hours": 7.79,
+            "rate": 9.3
+        }
+    ],
+    "seller": {
+        "address": "836 Chavez Center Lake Meganhaven, CA 20167",
+        "email": "longzachary@example.com",
+        "name": "Karen Mcgee"
+    },
+    "tax": {
+        "base": 18.5,
+        "tax_amount": 23.25,
+        "total_tax": 28.52
+    }
+}

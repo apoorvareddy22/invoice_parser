@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "605 Jessica Square Suite 691 Owenschester, IN 46172",
+        "id": "am913"
+    },
+    "invoice": {
+        "bc_no": "fC99044",
+        "currency_code": "GIP",
+        "date": "20.02.2015",
+        "due_date": "21.12.2002",
+        "number": 156275
+    },
+    "payment": {
+        "bank_name": "Livingston-Young",
+        "bic": "BYKEGBYY0SM",
+        "iban": "MDRP82169891936802"
+    },
+    "products": [
+        {
+            "amount": 46.91,
+            "description": "extend seamless synergies",
+            "index": "2",
+            "price": 466.0,
+            "quantity": 3.09,
+            "tax_amount": 96.09,
+            "total_ttc": 239.66,
+            "vat_amount": 9.85
+        },
+        {
+            "amount": 478.72,
+            "description": "facilitate scalable niches",
+            "index": "8",
+            "price": 183.45,
+            "quantity": 2.83,
+            "tax_amount": 41.43,
+            "total_ttc": 422.36,
+            "vat_amount": 8.37
+        },
+        {
+            "amount": 194.38,
+            "description": "expedite intuitive metrics",
+            "index": "8",
+            "price": 244.57,
+            "quantity": 3.3,
+            "tax_amount": 48.71,
+            "total_ttc": 221.62,
+            "vat_amount": 0.24
+        },
+        {
+            "amount": 205.77,
+            "description": "scale customized initiatives",
+            "index": "6",
+            "price": 352.18,
+            "quantity": 8.98,
+            "tax_amount": 27.58,
+            "total_ttc": 356.5,
+            "vat_amount": 1.11
+        }
+    ],
+    "seller": {
+        "name": "Stephen Williams"
+    },
+    "supplier": {
+        "address": "02878 Corey Prairie Vegabury, MA 34694",
+        "name": "Heather Haynes"
+    },
+    "tax": {
+        "amount_excluding_tax": 113.75,
+        "amount_including_tax": 62.03,
+        "tax_amount": 25.78,
+        "total_ht": 409.59,
+        "total_ttc": 438.34
+    }
+}

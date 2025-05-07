@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "636 Theresa Key Lake Melissabury, CT 64648",
+        "id": "hl734"
+    },
+    "invoice": {
+        "bc_no": "LA47439",
+        "currency_code": "TOP",
+        "date": "24.12.2020",
+        "due_date": "03.09.2023",
+        "number": 168082
+    },
+    "payment": {
+        "bank_name": "Richards, Fox and Benjamin",
+        "bic": "MPQYGBQZ",
+        "iban": "JNHO92603612968639"
+    },
+    "products": [
+        {
+            "amount": 236.86,
+            "description": "extend efficient niches",
+            "index": "6",
+            "price": 266.61,
+            "quantity": 4.56,
+            "tax_amount": 79.31,
+            "total_ttc": 401.49,
+            "vat_amount": 6.97
+        },
+        {
+            "amount": 132.12,
+            "description": "revolutionize collaborative technologies",
+            "index": "8",
+            "price": 5.2,
+            "quantity": 1.74,
+            "tax_amount": 28.56,
+            "total_ttc": 157.28,
+            "vat_amount": 6.49
+        },
+        {
+            "amount": 76.89,
+            "description": "empower frictionless niches",
+            "index": "1",
+            "price": 395.79,
+            "quantity": 2.75,
+            "tax_amount": 29.31,
+            "total_ttc": 106.3,
+            "vat_amount": 9.38
+        }
+    ],
+    "seller": {
+        "name": "Jonathan King"
+    },
+    "supplier": {
+        "address": "3888 Stevenson Fall Apt. 353 Richardchester, NM 78228",
+        "name": "Sergio Bush"
+    },
+    "tax": {
+        "amount_excluding_tax": 148.12,
+        "amount_including_tax": 24.94,
+        "tax_amount": 18.02,
+        "total_ht": 495.17,
+        "total_ttc": 190.42
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "5144 Smith Viaduct Suite 456 Port Emily, MI 92943",
+        "email": "paulturner@example.com",
+        "phone": "845-606-5947x6278",
+        "vat_no": "AY32712566098"
+    },
+    "invoice": {
+        "date": "06.02.2007",
+        "due_date": "13.01.1995",
+        "market_reference": 970825,
+        "notes": "deploy wireless experiences",
+        "number": "9617-8591",
+        "reference": 407755,
+        "vat_no": "VC22112933734"
+    },
+    "payment": {
+        "net_total": 101.91,
+        "total": 876.18
+    },
+    "products": [
+        {
+            "amount": 168.27,
+            "description": "synergize efficient e-business",
+            "hours": 2.06,
+            "rate": 5.82
+        },
+        {
+            "amount": 367.09,
+            "description": "incubate efficient info-mediaries",
+            "hours": 5.41,
+            "rate": 2.93
+        },
+        {
+            "amount": 75.86,
+            "description": "leverage impactful action-items",
+            "hours": 4.35,
+            "rate": 9.94
+        },
+        {
+            "amount": 378.78,
+            "description": "transition frictionless schemas",
+            "hours": 1.09,
+            "rate": 3.41
+        },
+        {
+            "amount": 326.48,
+            "description": "scale turn-key eyeballs",
+            "hours": 6.57,
+            "rate": 5.42
+        },
+        {
+            "amount": 269.63,
+            "description": "deliver customized paradigms",
+            "hours": 2.54,
+            "rate": 2.79
+        }
+    ],
+    "seller": {
+        "address": "5324 Meadows Shores South Rachaelview, NC 49947",
+        "email": "annaallen@example.net",
+        "name": "Daniel Willis"
+    },
+    "tax": {
+        "base": 22.69,
+        "tax_amount": 16.01,
+        "total_tax": 10.45
+    }
+}

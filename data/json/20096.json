@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "43530 Emily Glens Apt. 895 West Marcus, WI 54272",
+        "company_name": "Acevedo PLC",
+        "email": "timothyfreeman@example.net",
+        "name": "Patricia Wilson",
+        "phone": "(558)967-7579"
+    },
+    "invoice": {
+        "date": "07.03.1990",
+        "due_date": "22.04.2003",
+        "number": "oRx48347224617"
+    },
+    "payment": {
+        "account_number": 4291503266,
+        "bank_name": "Robles, Peterson and Thomas",
+        "routing_number": 952748541
+    },
+    "products": [
+        {
+            "amount": 107.5,
+            "description": "e-enable customized relationships",
+            "index": "8",
+            "quantity": 5.07,
+            "unit_price": 53.29
+        },
+        {
+            "amount": 84.29,
+            "description": "strategize collaborative schemas",
+            "index": "6",
+            "quantity": 2.68,
+            "unit_price": 84.26
+        },
+        {
+            "amount": 210.68,
+            "description": "harness leading-edge action-items",
+            "index": "4",
+            "quantity": 1.31,
+            "unit_price": 69.28
+        }
+    ],
+    "seller": {
+        "address": "28562 Matthew Extension Apt. 264 West Jennifer, IA 63008",
+        "company_name": "Fowler LLC",
+        "email": "pricejohn@example.net"
+    }
+}

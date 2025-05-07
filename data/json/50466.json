@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "991 Robert Avenue Suite 769 Port Wayne, DC 79075",
+        "id": "Zx826"
+    },
+    "invoice": {
+        "bc_no": "OV45789",
+        "currency_code": "ZWD",
+        "date": "02.09.2015",
+        "due_date": "09.12.2011",
+        "number": 221728
+    },
+    "payment": {
+        "bank_name": "Griffin-Burns",
+        "bic": "USIYGBFG",
+        "iban": "WJWV01941981155475"
+    },
+    "products": [
+        {
+            "amount": 388.34,
+            "description": "drive granular mindshare",
+            "index": "3",
+            "price": 100.92,
+            "quantity": 8.59,
+            "tax_amount": 66.62,
+            "total_ttc": 468.27,
+            "vat_amount": 4.96
+        },
+        {
+            "amount": 57.86,
+            "description": "target vertical supply-chains",
+            "index": "3",
+            "price": 193.26,
+            "quantity": 5.34,
+            "tax_amount": 86.86,
+            "total_ttc": 336.93,
+            "vat_amount": 8.37
+        }
+    ],
+    "seller": {
+        "name": "Christopher Mills"
+    },
+    "supplier": {
+        "address": "80195 Paul Center Apt. 646 Juliaville, MO 39713",
+        "name": "Keith Morrow"
+    },
+    "tax": {
+        "amount_excluding_tax": 102.93,
+        "amount_including_tax": 172.41,
+        "tax_amount": 10.67,
+        "total_ht": 479.92,
+        "total_ttc": 429.72
+    }
+}

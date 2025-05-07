@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "825 Dylan Divide Apt. 767 Lake Christopher, KY 74085",
+        "business_no": "GF831",
+        "id": "qJ562"
+    },
+    "invoice": {
+        "date": "30.08.2013",
+        "number": "9067-4205"
+    },
+    "payment": {
+        "due_date": "21.11.1999",
+        "total": 845.42
+    },
+    "products": [
+        {
+            "amount": 152.92,
+            "description": "brand end-to-end metrics",
+            "quantity": 2.62,
+            "reference": "IH-158",
+            "unit_price": 60.8
+        }
+    ],
+    "seller": {
+        "address": "584 Matthew Isle East Paultown, MP 66558"
+    },
+    "tax": {
+        "base_ht": 145.73,
+        "regulations": 18.98,
+        "total_ht": 376.93,
+        "vat_amount": 99.79,
+        "vat_percentage": 18.47
+    }
+}

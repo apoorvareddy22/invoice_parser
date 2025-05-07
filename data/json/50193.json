@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "8344 Zachary Lights South Cynthia, MS 50904",
+        "id": "Fe751"
+    },
+    "invoice": {
+        "bc_no": "eg43752",
+        "currency_code": "CVE",
+        "date": "03.01.2003",
+        "due_date": "11.06.2016",
+        "number": 550958
+    },
+    "payment": {
+        "bank_name": "Clark-Parks",
+        "bic": "FYGPGBAN",
+        "iban": "ICLL90019259040161"
+    },
+    "products": [
+        {
+            "amount": 85.32,
+            "description": "generate holistic markets",
+            "index": "9",
+            "price": 138.93,
+            "quantity": 2.93,
+            "tax_amount": 83.1,
+            "total_ttc": 434.97,
+            "vat_amount": 5.94
+        },
+        {
+            "amount": 139.31,
+            "description": "empower out-of-the-box action-items",
+            "index": "5",
+            "price": 341.76,
+            "quantity": 1.39,
+            "tax_amount": 11.17,
+            "total_ttc": 281.32,
+            "vat_amount": 6.59
+        },
+        {
+            "amount": 433.92,
+            "description": "iterate next-generation networks",
+            "index": "5",
+            "price": 207.27,
+            "quantity": 8.22,
+            "tax_amount": 57.51,
+            "total_ttc": 225.89,
+            "vat_amount": 0.04
+        },
+        {
+            "amount": 55.5,
+            "description": "optimize front-end applications",
+            "index": "10",
+            "price": 422.42,
+            "quantity": 7.24,
+            "tax_amount": 84.24,
+            "total_ttc": 100.82,
+            "vat_amount": 1.34
+        },
+        {
+            "amount": 178.03,
+            "description": "visualize leading-edge niches",
+            "index": "4",
+            "price": 167.07,
+            "quantity": 9.23,
+            "tax_amount": 38.78,
+            "total_ttc": 105.26,
+            "vat_amount": 3.65
+        },
+        {
+            "amount": 445.01,
+            "description": "target strategic deliverables",
+            "index": "6",
+            "price": 34.68,
+            "quantity": 8.45,
+            "tax_amount": 43.01,
+            "total_ttc": 182.22,
+            "vat_amount": 4.54
+        },
+        {
+            "amount": 232.07,
+            "description": "leverage collaborative web-readiness",
+            "index": "1",
+            "price": 153.83,
+            "quantity": 9.31,
+            "tax_amount": 47.04,
+            "total_ttc": 147.2,
+            "vat_amount": 13.16
+        }
+    ],
+    "seller": {
+        "name": "Stephanie Jackson"
+    },
+    "supplier": {
+        "address": "37425 Robert Port Barrerachester, TN 37101",
+        "name": "Sherri Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 109.96,
+        "amount_including_tax": 73.21,
+        "tax_amount": 26.27,
+        "total_ht": 320.59,
+        "total_ttc": 291.63
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "358 Andrews Grove Apt. 274 Bakerchester, WI 75348",
+        "id": "Kv677"
+    },
+    "invoice": {
+        "bc_no": "fr11296",
+        "currency_code": "ZMW",
+        "date": "15.02.1994",
+        "due_date": "11.10.2003",
+        "number": 837212
+    },
+    "payment": {
+        "bank_name": "Adams PLC",
+        "bic": "MAXFGBBO",
+        "iban": "PAAI48132639367290"
+    },
+    "products": [
+        {
+            "amount": 129.05,
+            "description": "reinvent intuitive e-markets",
+            "index": "1",
+            "price": 194.92,
+            "quantity": 5.36,
+            "tax_amount": 38.72,
+            "total_ttc": 108.67,
+            "vat_amount": 11.59
+        },
+        {
+            "amount": 213.93,
+            "description": "streamline vertical platforms",
+            "index": "9",
+            "price": 262.87,
+            "quantity": 4.76,
+            "tax_amount": 99.47,
+            "total_ttc": 332.43,
+            "vat_amount": 5.12
+        },
+        {
+            "amount": 190.46,
+            "description": "repurpose front-end action-items",
+            "index": "4",
+            "price": 471.44,
+            "quantity": 2.35,
+            "tax_amount": 39.76,
+            "total_ttc": 293.21,
+            "vat_amount": 2.59
+        },
+        {
+            "amount": 169.97,
+            "description": "deliver sticky action-items",
+            "index": "4",
+            "price": 451.49,
+            "quantity": 4.93,
+            "tax_amount": 23.41,
+            "total_ttc": 116.04,
+            "vat_amount": 5.09
+        }
+    ],
+    "seller": {
+        "name": "Mr. Matthew Frey"
+    },
+    "supplier": {
+        "address": "17982 Torres Flat East Paula, NH 70904",
+        "name": "Jennifer Gonzales"
+    },
+    "tax": {
+        "amount_excluding_tax": 188.86,
+        "amount_including_tax": 163.68,
+        "tax_amount": 18.39,
+        "total_ht": 487.92,
+        "total_ttc": 191.22
+    }
+}

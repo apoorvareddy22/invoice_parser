@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "Unit 3953 Box 1997 DPO AE 18392",
+        "email": "ckrueger@example.org",
+        "phone": "001-928-985-6584x631",
+        "vat_no": "Ay92242404965"
+    },
+    "invoice": {
+        "date": "15.12.2005",
+        "due_date": "09.12.2000",
+        "market_reference": 508328,
+        "notes": "utilize enterprise infrastructures",
+        "number": "8556-5373",
+        "reference": 632207,
+        "vat_no": "bK51436900864"
+    },
+    "payment": {
+        "net_total": 42.89,
+        "total": 771.09
+    },
+    "products": [
+        {
+            "amount": 353.01,
+            "description": "transition mission-critical models",
+            "hours": 8.75,
+            "rate": 6.62
+        },
+        {
+            "amount": 328.85,
+            "description": "engineer web-enabled vortals",
+            "hours": 4.35,
+            "rate": 1.71
+        }
+    ],
+    "seller": {
+        "address": "47038 Jody Parks East Philip, VI 57769",
+        "email": "tvalentine@example.com",
+        "name": "Monique Johnson"
+    },
+    "tax": {
+        "base": 29.49,
+        "tax_amount": 20.28,
+        "total_tax": 22.2
+    }
+}

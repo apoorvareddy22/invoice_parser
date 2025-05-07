@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "0107 Mary Canyon South Kenneth, ND 42361"
+    },
+    "invoice": {
+        "bc_no": "GT57945",
+        "date": "06.04.2017",
+        "maturity_date": "13.07.2008",
+        "number": 563046
+    },
+    "products": [
+        {
+            "amount": 80.27,
+            "description": "scale distributed channels",
+            "quantity": 1.06,
+            "unit_price": 48.6,
+            "vat_amount": 4.38
+        },
+        {
+            "amount": 244.13,
+            "description": "deliver leading-edge functionalities",
+            "quantity": 5.16,
+            "unit_price": 80.94,
+            "vat_amount": 4.99
+        },
+        {
+            "amount": 278.36,
+            "description": "engineer front-end schemas",
+            "quantity": 9.71,
+            "unit_price": 95.3,
+            "vat_amount": 7.33
+        }
+    ],
+    "seller": {
+        "address": "33833 Mcconnell Tunnel Suite 114 Lake Thomasberg, MN 51532"
+    },
+    "tax": {
+        "amount_excluding_tax": 192.63,
+        "amount_including_tax": 86.89,
+        "tax_amount": 19.93
+    }
+}

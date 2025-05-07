@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "253 Rhonda Curve Charlesstad, UT 95438",
+        "id": "eq052"
+    },
+    "invoice": {
+        "bc_no": "dK43457",
+        "currency_code": "KMF",
+        "date": "10.01.2014",
+        "due_date": "29.04.1996",
+        "number": 276332
+    },
+    "payment": {
+        "bank_name": "Patterson-Morrow",
+        "bic": "JRRMGBDFH75",
+        "iban": "BVLR13618878722669"
+    },
+    "products": [
+        {
+            "amount": 25.45,
+            "description": "whiteboard holistic interfaces",
+            "index": "1",
+            "price": 142.07,
+            "quantity": 6.52,
+            "tax_amount": 74.76,
+            "total_ttc": 254.04,
+            "vat_amount": 5.59
+        },
+        {
+            "amount": 340.32,
+            "description": "extend sticky web services",
+            "index": "7",
+            "price": 24.43,
+            "quantity": 1.54,
+            "tax_amount": 74.72,
+            "total_ttc": 269.4,
+            "vat_amount": 0.22
+        },
+        {
+            "amount": 302.38,
+            "description": "reinvent cross-platform info-mediaries",
+            "index": "4",
+            "price": 19.35,
+            "quantity": 6.95,
+            "tax_amount": 71.1,
+            "total_ttc": 182.75,
+            "vat_amount": 6.67
+        },
+        {
+            "amount": 173.19,
+            "description": "generate 24/7 solutions",
+            "index": "9",
+            "price": 8.99,
+            "quantity": 3.97,
+            "tax_amount": 64.99,
+            "total_ttc": 325.27,
+            "vat_amount": 2.56
+        },
+        {
+            "amount": 356.49,
+            "description": "architect interactive niches",
+            "index": "7",
+            "price": 115.49,
+            "quantity": 7.65,
+            "tax_amount": 76.6,
+            "total_ttc": 101.59,
+            "vat_amount": 4.76
+        },
+        {
+            "amount": 66.07,
+            "description": "transition dynamic bandwidth",
+            "index": "9",
+            "price": 308.53,
+            "quantity": 3.98,
+            "tax_amount": 93.39,
+            "total_ttc": 420.06,
+            "vat_amount": 0.36
+        }
+    ],
+    "seller": {
+        "name": "William Elliott"
+    },
+    "supplier": {
+        "address": "9480 Schneider View Apt. 549 West Sarah, TX 50603",
+        "name": "Gregory Irwin"
+    },
+    "tax": {
+        "amount_excluding_tax": 33.4,
+        "amount_including_tax": 65.8,
+        "tax_amount": 25.43,
+        "total_ht": 427.19,
+        "total_ttc": 157.05
+    }
+}

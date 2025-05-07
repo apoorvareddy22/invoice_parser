@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "139 Mccarthy Trafficway West Marcus, AR 12748",
+        "business_no": "ok854",
+        "id": "lX869"
+    },
+    "invoice": {
+        "date": "13.12.2000",
+        "number": "3411-2617"
+    },
+    "payment": {
+        "due_date": "05.03.1993",
+        "total": 470.53
+    },
+    "products": [
+        {
+            "amount": 31.75,
+            "description": "integrate dynamic markets",
+            "quantity": 6.41,
+            "reference": "ES-254",
+            "unit_price": 21.77
+        },
+        {
+            "amount": 100.24,
+            "description": "deliver cross-platform content",
+            "quantity": 5.83,
+            "reference": "JX-019",
+            "unit_price": 80.24
+        },
+        {
+            "amount": 478.21,
+            "description": "orchestrate next-generation users",
+            "quantity": 9.58,
+            "reference": "ct-890",
+            "unit_price": 13.5
+        },
+        {
+            "amount": 96.2,
+            "description": "expedite user-centric eyeballs",
+            "quantity": 1.07,
+            "reference": "gF-947",
+            "unit_price": 76.29
+        }
+    ],
+    "seller": {
+        "address": "7650 Howard Manor Suite 912 New Josephchester, PW 55978"
+    },
+    "tax": {
+        "base_ht": 225.31,
+        "regulations": 11.97,
+        "total_ht": 162.38,
+        "vat_amount": 24.28,
+        "vat_percentage": 14.77
+    }
+}

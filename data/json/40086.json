@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "PSC 2344, Box 5676 APO AP 67983"
+    },
+    "invoice": {
+        "bc_no": "nh34927",
+        "date": "26.07.2018",
+        "maturity_date": "05.08.1997",
+        "number": 130320
+    },
+    "products": [
+        {
+            "amount": 68.41,
+            "description": "aggregate value-added systems",
+            "quantity": 8.04,
+            "unit_price": 47.55,
+            "vat_amount": 2.97
+        }
+    ],
+    "seller": {
+        "address": "0270 Murphy Greens New Jessebury, FL 56433"
+    },
+    "tax": {
+        "amount_excluding_tax": 22.1,
+        "amount_including_tax": 161.05,
+        "tax_amount": 21.75
+    }
+}

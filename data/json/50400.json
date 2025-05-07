@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "917 Guzman Fall Apt. 901 West Samantha, OR 62758",
+        "id": "vU755"
+    },
+    "invoice": {
+        "bc_no": "qq40301",
+        "currency_code": "TWD",
+        "date": "04.11.2013",
+        "due_date": "14.10.2011",
+        "number": 529480
+    },
+    "payment": {
+        "bank_name": "Sampson-Abbott",
+        "bic": "HJOAGBF4",
+        "iban": "KUEB91513897885100"
+    },
+    "products": [
+        {
+            "amount": 40.08,
+            "description": "deliver holistic functionalities",
+            "index": "4",
+            "price": 271.56,
+            "quantity": 4.68,
+            "tax_amount": 53.89,
+            "total_ttc": 236.67,
+            "vat_amount": 4.02
+        }
+    ],
+    "seller": {
+        "name": "Calvin Marquez"
+    },
+    "supplier": {
+        "address": "Unit 8176 Box 3604 DPO AP 70344",
+        "name": "Allen Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 60.15,
+        "amount_including_tax": 21.77,
+        "tax_amount": 24.22,
+        "total_ht": 335.0,
+        "total_ttc": 191.34
+    }
+}

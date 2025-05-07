@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "626 Keith Forge Suite 453 Lake Caleb, GU 64277",
+        "business_no": "Il794",
+        "id": "gZ582"
+    },
+    "invoice": {
+        "date": "01.10.2019",
+        "number": "5714-7514"
+    },
+    "payment": {
+        "due_date": "18.02.2023",
+        "total": 672.65
+    },
+    "products": [
+        {
+            "amount": 411.54,
+            "description": "whiteboard clicks-and-mortar channels",
+            "quantity": 1.91,
+            "reference": "JN-883",
+            "unit_price": 49.31
+        },
+        {
+            "amount": 117.72,
+            "description": "exploit frictionless portals",
+            "quantity": 8.84,
+            "reference": "nY-918",
+            "unit_price": 75.68
+        },
+        {
+            "amount": 47.76,
+            "description": "deploy user-centric web-readiness",
+            "quantity": 3.12,
+            "reference": "Dn-285",
+            "unit_price": 79.0
+        },
+        {
+            "amount": 474.03,
+            "description": "reinvent magnetic info-mediaries",
+            "quantity": 1.09,
+            "reference": "GT-575",
+            "unit_price": 63.97
+        }
+    ],
+    "seller": {
+        "address": "59021 Steele Orchard Suite 053 West Emilyhaven, PR 50920"
+    },
+    "tax": {
+        "base_ht": 360.0,
+        "regulations": 11.42,
+        "total_ht": 308.15,
+        "vat_amount": 101.69,
+        "vat_percentage": 23.13
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "689 Davenport Roads Port Melindabury, OH 95016",
+        "id": "JM592"
+    },
+    "invoice": {
+        "bc_no": "rD19248",
+        "currency_code": "MVR",
+        "date": "12.10.1997",
+        "due_date": "07.07.2021",
+        "number": 572290
+    },
+    "payment": {
+        "bank_name": "Macias LLC",
+        "bic": "ZMITGBFU",
+        "iban": "EUZE01520647581869"
+    },
+    "products": [
+        {
+            "amount": 42.77,
+            "description": "engineer bricks-and-clicks eyeballs",
+            "index": "6",
+            "price": 175.56,
+            "quantity": 1.73,
+            "tax_amount": 75.98,
+            "total_ttc": 436.61,
+            "vat_amount": 3.77
+        },
+        {
+            "amount": 187.57,
+            "description": "transition best-of-breed users",
+            "index": "4",
+            "price": 239.49,
+            "quantity": 3.94,
+            "tax_amount": 60.22,
+            "total_ttc": 484.58,
+            "vat_amount": 3.8
+        },
+        {
+            "amount": 286.04,
+            "description": "implement innovative infrastructures",
+            "index": "8",
+            "price": 465.74,
+            "quantity": 1.43,
+            "tax_amount": 71.41,
+            "total_ttc": 378.18,
+            "vat_amount": 4.44
+        },
+        {
+            "amount": 138.1,
+            "description": "expedite sticky e-commerce",
+            "index": "7",
+            "price": 124.53,
+            "quantity": 1.4,
+            "tax_amount": 36.76,
+            "total_ttc": 317.97,
+            "vat_amount": 0.44
+        },
+        {
+            "amount": 171.42,
+            "description": "implement value-added users",
+            "index": "9",
+            "price": 361.84,
+            "quantity": 4.23,
+            "tax_amount": 20.07,
+            "total_ttc": 190.42,
+            "vat_amount": 5.2
+        },
+        {
+            "amount": 167.71,
+            "description": "productize rich mindshare",
+            "index": "7",
+            "price": 435.66,
+            "quantity": 1.09,
+            "tax_amount": 59.26,
+            "total_ttc": 266.93,
+            "vat_amount": 0.5
+        }
+    ],
+    "seller": {
+        "name": "Ellen White"
+    },
+    "supplier": {
+        "address": "83987 Danielle Station Suite 145 Port Michael, NH 01350",
+        "name": "Jennifer Martinez"
+    },
+    "tax": {
+        "amount_excluding_tax": 39.14,
+        "amount_including_tax": 126.16,
+        "tax_amount": 26.94,
+        "total_ht": 313.82,
+        "total_ttc": 371.87
+    }
+}

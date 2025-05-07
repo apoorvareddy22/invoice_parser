@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "79441 Alexander Lights Suite 236 Novakstad, KY 71594"
+    },
+    "invoice": {
+        "bc_no": "hn69746",
+        "date": "09.07.2003",
+        "maturity_date": "01.11.1996",
+        "number": 613387
+    },
+    "products": [
+        {
+            "amount": 74.09,
+            "description": "whiteboard out-of-the-box communities",
+            "quantity": 2.72,
+            "unit_price": 27.29,
+            "vat_amount": 0.5
+        },
+        {
+            "amount": 8.95,
+            "description": "reinvent end-to-end content",
+            "quantity": 6.17,
+            "unit_price": 42.24,
+            "vat_amount": 2.06
+        },
+        {
+            "amount": 215.17,
+            "description": "maximize bleeding-edge e-tailers",
+            "quantity": 1.9,
+            "unit_price": 71.76,
+            "vat_amount": 0.87
+        },
+        {
+            "amount": 354.37,
+            "description": "strategize enterprise markets",
+            "quantity": 4.52,
+            "unit_price": 31.77,
+            "vat_amount": 4.25
+        }
+    ],
+    "seller": {
+        "address": "15260 Hernandez Ways Blevinsport, GU 00956"
+    },
+    "tax": {
+        "amount_excluding_tax": 115.61,
+        "amount_including_tax": 24.5,
+        "tax_amount": 21.47
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "452 Rebekah Road Apt. 123 South Cory, UT 44199",
+        "business_no": "DP551",
+        "id": "Le498"
+    },
+    "invoice": {
+        "date": "07.07.2013",
+        "number": "1310-2613"
+    },
+    "payment": {
+        "due_date": "07.05.1998",
+        "total": 696.34
+    },
+    "products": [
+        {
+            "amount": 271.88,
+            "description": "leverage user-centric interfaces",
+            "quantity": 7.18,
+            "reference": "iW-604",
+            "unit_price": 55.35
+        }
+    ],
+    "seller": {
+        "address": "103 Daniel Tunnel Apt. 048 Leahberg, GA 83140"
+    },
+    "tax": {
+        "base_ht": 142.77,
+        "regulations": 21.19,
+        "total_ht": 337.33,
+        "vat_amount": 18.72,
+        "vat_percentage": 22.09
+    }
+}

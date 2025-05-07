@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "1907 Smith Street Nathanielfurt, KY 95188",
+        "business_no": "Gy910",
+        "id": "OR122"
+    },
+    "invoice": {
+        "date": "01.08.2002",
+        "number": "5707-3515"
+    },
+    "payment": {
+        "due_date": "26.06.2006",
+        "total": 129.26
+    },
+    "products": [
+        {
+            "amount": 455.18,
+            "description": "repurpose enterprise portals",
+            "quantity": 2.12,
+            "reference": "Zl-956",
+            "unit_price": 22.98
+        }
+    ],
+    "seller": {
+        "address": "USCGC Rogers FPO AE 82368"
+    },
+    "tax": {
+        "base_ht": 271.75,
+        "regulations": 25.03,
+        "total_ht": 336.97,
+        "vat_amount": 10.17,
+        "vat_percentage": 26.76
+    }
+}

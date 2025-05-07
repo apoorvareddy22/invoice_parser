@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "3574 Cox Mill East Ambershire, AS 35922",
+        "company_name": "Brooks, Townsend and Wang",
+        "email": "swilliams@example.net",
+        "name": "Jessica Carter",
+        "phone": "225-758-7168x7579"
+    },
+    "invoice": {
+        "date": "30.12.1991",
+        "due_date": "24.10.2019",
+        "number": "zFw76178048444"
+    },
+    "payment": {
+        "account_number": 9778810198,
+        "bank_name": "Allen Ltd",
+        "routing_number": 678187823
+    },
+    "products": [
+        {
+            "amount": 38.94,
+            "description": "maximize virtual e-business",
+            "index": "6",
+            "quantity": 9.4,
+            "unit_price": 96.44
+        },
+        {
+            "amount": 437.0,
+            "description": "repurpose dot-com schemas",
+            "index": "8",
+            "quantity": 1.39,
+            "unit_price": 26.9
+        }
+    ],
+    "seller": {
+        "address": "362 Johnston Burgs Danielmouth, KS 17323",
+        "company_name": "Torres-Williams",
+        "email": "patrickrusso@example.org"
+    }
+}

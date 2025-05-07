@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "544 Martin Squares Apt. 046 Heatherfort, NM 73384",
+        "email": "annette36@example.net",
+        "phone": "5144787759",
+        "vat_no": "ta70756175535"
+    },
+    "invoice": {
+        "date": "02.10.2018",
+        "due_date": "19.10.2008",
+        "market_reference": 206360,
+        "notes": "extend rich synergies",
+        "number": "3625-9844",
+        "reference": 788675,
+        "vat_no": "Ac90835846668"
+    },
+    "payment": {
+        "net_total": 121.04,
+        "total": 640.35
+    },
+    "products": [
+        {
+            "amount": 296.01,
+            "description": "re-contextualize open-source e-tailers",
+            "hours": 4.85,
+            "rate": 8.24
+        },
+        {
+            "amount": 5.69,
+            "description": "extend intuitive synergies",
+            "hours": 4.37,
+            "rate": 3.88
+        },
+        {
+            "amount": 71.96,
+            "description": "disintermediate impactful deliverables",
+            "hours": 3.39,
+            "rate": 5.16
+        },
+        {
+            "amount": 352.83,
+            "description": "aggregate viral deliverables",
+            "hours": 9.55,
+            "rate": 1.04
+        },
+        {
+            "amount": 13.32,
+            "description": "syndicate open-source e-tailers",
+            "hours": 7.0,
+            "rate": 2.04
+        },
+        {
+            "amount": 436.33,
+            "description": "incentivize user-centric systems",
+            "hours": 2.74,
+            "rate": 7.45
+        },
+        {
+            "amount": 248.6,
+            "description": "syndicate customized synergies",
+            "hours": 5.97,
+            "rate": 7.66
+        }
+    ],
+    "seller": {
+        "address": "647 Payne Stravenue Apt. 141 New Michael, MA 29047",
+        "email": "trussell@example.com",
+        "name": "Martin Scott"
+    },
+    "tax": {
+        "base": 16.94,
+        "tax_amount": 17.89,
+        "total_tax": 23.73
+    }
+}

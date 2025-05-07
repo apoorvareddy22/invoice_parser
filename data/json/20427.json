@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "52607 Harrison Cape Apt. 264 North Sarahhaven, MH 30943",
+        "company_name": "Wheeler-Mccoy",
+        "email": "douglascraig@example.net",
+        "name": "Mark Tucker",
+        "phone": "918-868-0007x0151"
+    },
+    "invoice": {
+        "date": "09.12.1999",
+        "due_date": "10.06.2013",
+        "number": "eqa18447963479"
+    },
+    "payment": {
+        "account_number": 3430706266,
+        "bank_name": "Foster, Blake and White",
+        "routing_number": 326877902
+    },
+    "products": [
+        {
+            "amount": 5.54,
+            "description": "whiteboard efficient initiatives",
+            "index": "2",
+            "quantity": 1.81,
+            "unit_price": 37.14
+        },
+        {
+            "amount": 312.19,
+            "description": "maximize turn-key mindshare",
+            "index": "9",
+            "quantity": 1.98,
+            "unit_price": 76.34
+        },
+        {
+            "amount": 343.74,
+            "description": "transform cross-platform mindshare",
+            "index": "3",
+            "quantity": 9.05,
+            "unit_price": 58.01
+        },
+        {
+            "amount": 363.41,
+            "description": "exploit strategic applications",
+            "index": "3",
+            "quantity": 6.56,
+            "unit_price": 61.44
+        },
+        {
+            "amount": 310.15,
+            "description": "scale cross-media solutions",
+            "index": "8",
+            "quantity": 5.72,
+            "unit_price": 97.61
+        }
+    ],
+    "seller": {
+        "address": "40233 Wheeler Mission Port Gerald, TN 45129",
+        "company_name": "Singh and Sons",
+        "email": "bucknicholas@example.org"
+    }
+}

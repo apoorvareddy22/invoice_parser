@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "5449 Morales Ports Johnsshire, NH 14044"
+    },
+    "invoice": {
+        "bc_no": "Hd18142",
+        "date": "10.10.2023",
+        "maturity_date": "03.05.2013",
+        "number": 524611
+    },
+    "products": [
+        {
+            "amount": 101.1,
+            "description": "leverage best-of-breed solutions",
+            "quantity": 5.06,
+            "unit_price": 46.09,
+            "vat_amount": 11.14
+        },
+        {
+            "amount": 28.68,
+            "description": "morph e-business action-items",
+            "quantity": 8.58,
+            "unit_price": 29.41,
+            "vat_amount": 0.18
+        }
+    ],
+    "seller": {
+        "address": "Unit 3084 Box 1719 DPO AA 26807"
+    },
+    "tax": {
+        "amount_excluding_tax": 133.33,
+        "amount_including_tax": 131.84,
+        "tax_amount": 13.2
+    }
+}

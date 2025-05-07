@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "1763 Cameron Pike Karentown, OK 64195",
+        "email": "tamaraharris@example.com",
+        "phone": "+1-709-743-6125",
+        "vat_no": "RH59007260416"
+    },
+    "invoice": {
+        "date": "15.10.2004",
+        "due_date": "07.01.2011",
+        "market_reference": 335208,
+        "notes": "matrix turn-key channels",
+        "number": "1217-0369",
+        "reference": 792673,
+        "vat_no": "mK12100992155"
+    },
+    "payment": {
+        "net_total": 73.05,
+        "total": 647.09
+    },
+    "products": [
+        {
+            "amount": 300.84,
+            "description": "aggregate customized networks",
+            "hours": 9.35,
+            "rate": 8.19
+        },
+        {
+            "amount": 94.44,
+            "description": "re-intermediate e-business solutions",
+            "hours": 9.72,
+            "rate": 2.97
+        },
+        {
+            "amount": 160.73,
+            "description": "facilitate bleeding-edge applications",
+            "hours": 5.89,
+            "rate": 7.82
+        },
+        {
+            "amount": 74.5,
+            "description": "empower killer synergies",
+            "hours": 3.0,
+            "rate": 6.15
+        },
+        {
+            "amount": 130.44,
+            "description": "mesh dynamic bandwidth",
+            "hours": 8.33,
+            "rate": 6.84
+        }
+    ],
+    "seller": {
+        "address": "1781 Coleman Rue Suite 963 Port Nicholas, IN 88011",
+        "email": "jason72@example.org",
+        "name": "Lindsay Howard"
+    },
+    "tax": {
+        "base": 18.61,
+        "tax_amount": 23.13,
+        "total_tax": 10.01
+    }
+}

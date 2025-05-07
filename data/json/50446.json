@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "616 Leonard Street Port Michaelhaven, TN 76925",
+        "id": "nh962"
+    },
+    "invoice": {
+        "bc_no": "PW77986",
+        "currency_code": "JPY",
+        "date": "02.07.2013",
+        "due_date": "19.04.1996",
+        "number": 738221
+    },
+    "payment": {
+        "bank_name": "Palmer and Sons",
+        "bic": "ZDVRGB1VGE1",
+        "iban": "IFJT01035354545565"
+    },
+    "products": [
+        {
+            "amount": 228.66,
+            "description": "benchmark plug-and-play content",
+            "index": "7",
+            "price": 342.14,
+            "quantity": 7.61,
+            "tax_amount": 62.33,
+            "total_ttc": 248.11,
+            "vat_amount": 2.08
+        },
+        {
+            "amount": 256.84,
+            "description": "implement extensible bandwidth",
+            "index": "8",
+            "price": 407.76,
+            "quantity": 1.85,
+            "tax_amount": 63.73,
+            "total_ttc": 374.66,
+            "vat_amount": 0.25
+        },
+        {
+            "amount": 323.17,
+            "description": "unleash value-added methodologies",
+            "index": "10",
+            "price": 54.1,
+            "quantity": 4.96,
+            "tax_amount": 18.5,
+            "total_ttc": 309.49,
+            "vat_amount": 10.09
+        }
+    ],
+    "seller": {
+        "name": "Kayla Carter"
+    },
+    "supplier": {
+        "address": "56323 Juan Rapid Apt. 792 South Arthurfurt, TX 67803",
+        "name": "Dr. Jeffery Stokes PhD"
+    },
+    "tax": {
+        "amount_excluding_tax": 82.17,
+        "amount_including_tax": 98.39,
+        "tax_amount": 21.6,
+        "total_ht": 493.55,
+        "total_ttc": 168.1
+    }
+}

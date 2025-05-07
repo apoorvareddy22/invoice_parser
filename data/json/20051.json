@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "32192 Kent Field Kington, MH 69179",
+        "company_name": "Wright and Sons",
+        "email": "rlynn@example.net",
+        "name": "Charles Baxter",
+        "phone": "593.324.7828"
+    },
+    "invoice": {
+        "date": "10.06.2012",
+        "due_date": "20.09.2011",
+        "number": "Mnc87367656010"
+    },
+    "payment": {
+        "account_number": 8627550342,
+        "bank_name": "Ross, Lopez and Smith",
+        "routing_number": 538238620
+    },
+    "products": [
+        {
+            "amount": 163.19,
+            "description": "incubate web-enabled networks",
+            "index": "5",
+            "quantity": 5.98,
+            "unit_price": 58.25
+        },
+        {
+            "amount": 66.21,
+            "description": "utilize proactive markets",
+            "index": "7",
+            "quantity": 6.45,
+            "unit_price": 85.67
+        },
+        {
+            "amount": 174.7,
+            "description": "target extensible vortals",
+            "index": "2",
+            "quantity": 9.89,
+            "unit_price": 44.13
+        },
+        {
+            "amount": 57.29,
+            "description": "transform granular content",
+            "index": "4",
+            "quantity": 5.45,
+            "unit_price": 72.04
+        }
+    ],
+    "seller": {
+        "address": "7958 Pope Radial Suite 874 South Justin, WY 11042",
+        "company_name": "Jones Inc",
+        "email": "xwood@example.net"
+    }
+}

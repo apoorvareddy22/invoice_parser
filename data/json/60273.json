@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "5597 Victoria Turnpike Alishabury, CA 58457",
+        "business_no": "FQ106",
+        "id": "tW150"
+    },
+    "invoice": {
+        "date": "02.11.1998",
+        "number": "8767-2131"
+    },
+    "payment": {
+        "due_date": "01.04.1991",
+        "total": 918.38
+    },
+    "products": [
+        {
+            "amount": 479.88,
+            "description": "repurpose collaborative systems",
+            "quantity": 7.32,
+            "reference": "Ri-990",
+            "unit_price": 57.25
+        },
+        {
+            "amount": 56.22,
+            "description": "drive dynamic e-markets",
+            "quantity": 6.94,
+            "reference": "eS-687",
+            "unit_price": 39.86
+        }
+    ],
+    "seller": {
+        "address": "92507 Henson Stravenue Ashleyport, WI 85230"
+    },
+    "tax": {
+        "base_ht": 149.95,
+        "regulations": 25.57,
+        "total_ht": 384.82,
+        "vat_amount": 144.24,
+        "vat_percentage": 10.13
+    }
+}

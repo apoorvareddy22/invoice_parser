@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "USNS Medina FPO AP 70214",
+        "company_name": "Bradford-Dominguez",
+        "country": "Thailand",
+        "name": "Jason Kim"
+    },
+    "invoice": {
+        "date": "23.11.2020",
+        "number": 622946
+    },
+    "payment": {
+        "discount_amount": 18.32,
+        "discount_percentage": 16.22,
+        "due": 157.37,
+        "sub_total": 50.47,
+        "total": 780.45
+    },
+    "products": [
+        {
+            "description": "disintermediate visionary e-services",
+            "index": "2",
+            "quantity": 9.6,
+            "total_price": 547.33,
+            "unit_price": 46.44
+        },
+        {
+            "description": "transform scalable networks",
+            "index": "3",
+            "quantity": 8.2,
+            "total_price": 901.63,
+            "unit_price": 77.34
+        }
+    ],
+    "seller": {
+        "address": "305 Powell Skyway Walkertown, AZ 93053",
+        "company_name": "Andrade-Rodriguez",
+        "vat_no": "wH77010430863"
+    }
+}

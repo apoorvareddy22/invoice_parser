@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "6337 Harrington Manor Lake Kellyfort, NH 47759",
+        "business_no": "Ny996",
+        "id": "jo889"
+    },
+    "invoice": {
+        "date": "14.07.1993",
+        "number": "1883-0359"
+    },
+    "payment": {
+        "due_date": "19.08.2013",
+        "total": 107.02
+    },
+    "products": [
+        {
+            "amount": 179.34,
+            "description": "envisioneer real-time functionalities",
+            "quantity": 8.96,
+            "reference": "Px-497",
+            "unit_price": 98.54
+        },
+        {
+            "amount": 66.73,
+            "description": "incubate value-added paradigms",
+            "quantity": 9.09,
+            "reference": "Th-913",
+            "unit_price": 98.92
+        },
+        {
+            "amount": 85.72,
+            "description": "monetize dynamic web services",
+            "quantity": 1.88,
+            "reference": "kQ-327",
+            "unit_price": 63.09
+        }
+    ],
+    "seller": {
+        "address": "0467 Michael Lights West Drew, MA 09605"
+    },
+    "tax": {
+        "base_ht": 395.46,
+        "regulations": 26.64,
+        "total_ht": 358.72,
+        "vat_amount": 71.74,
+        "vat_percentage": 29.66
+    }
+}

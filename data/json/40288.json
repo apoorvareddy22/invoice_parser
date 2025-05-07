@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "50877 Robinson Landing Apt. 482 New Joseside, NJ 38216"
+    },
+    "invoice": {
+        "bc_no": "Pf10458",
+        "date": "24.07.2002",
+        "maturity_date": "11.08.2007",
+        "number": 449856
+    },
+    "products": [
+        {
+            "amount": 269.22,
+            "description": "utilize dynamic channels",
+            "quantity": 5.22,
+            "unit_price": 37.99,
+            "vat_amount": 1.28
+        }
+    ],
+    "seller": {
+        "address": "034 Jasmin Plains Suite 311 West Julieborough, DC 12445"
+    },
+    "tax": {
+        "amount_excluding_tax": 10.86,
+        "amount_including_tax": 94.4,
+        "tax_amount": 29.93
+    }
+}

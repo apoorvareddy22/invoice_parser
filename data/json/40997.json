@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "66577 Taylor Fort Apt. 422 Bobbyborough, DC 90571"
+    },
+    "invoice": {
+        "bc_no": "PB90046",
+        "date": "06.03.1990",
+        "maturity_date": "06.05.2017",
+        "number": 371838
+    },
+    "products": [
+        {
+            "amount": 145.66,
+            "description": "re-intermediate wireless portals",
+            "quantity": 9.78,
+            "unit_price": 38.28,
+            "vat_amount": 0.99
+        },
+        {
+            "amount": 198.42,
+            "description": "monetize bricks-and-clicks web services",
+            "quantity": 3.52,
+            "unit_price": 43.45,
+            "vat_amount": 2.0
+        },
+        {
+            "amount": 127.65,
+            "description": "cultivate next-generation e-business",
+            "quantity": 9.73,
+            "unit_price": 24.15,
+            "vat_amount": 2.55
+        },
+        {
+            "amount": 54.86,
+            "description": "benchmark proactive info-mediaries",
+            "quantity": 1.76,
+            "unit_price": 12.46,
+            "vat_amount": 6.38
+        }
+    ],
+    "seller": {
+        "address": "70055 Andrew Vista Apt. 764 New Jamesshire, GU 70067"
+    },
+    "tax": {
+        "amount_excluding_tax": 129.51,
+        "amount_including_tax": 75.94,
+        "tax_amount": 23.89
+    }
+}

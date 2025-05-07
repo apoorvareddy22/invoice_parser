@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "3207 Bruce Pines Apt. 397 Barrettville, PA 21812",
+        "email": "jherrera@example.net",
+        "phone": "(680)926-8736",
+        "vat_no": "lS88133614393"
+    },
+    "invoice": {
+        "date": "11.09.1997",
+        "due_date": "30.04.1994",
+        "market_reference": 851851,
+        "notes": "utilize intuitive web services",
+        "number": "7734-3703",
+        "reference": 917227,
+        "vat_no": "XG63036482122"
+    },
+    "payment": {
+        "net_total": 110.44,
+        "total": 113.74
+    },
+    "products": [
+        {
+            "amount": 438.08,
+            "description": "unleash revolutionary functionalities",
+            "hours": 9.84,
+            "rate": 8.77
+        },
+        {
+            "amount": 196.57,
+            "description": "empower strategic experiences",
+            "hours": 6.46,
+            "rate": 8.04
+        },
+        {
+            "amount": 136.12,
+            "description": "empower impactful experiences",
+            "hours": 8.68,
+            "rate": 7.03
+        },
+        {
+            "amount": 231.44,
+            "description": "harness mission-critical web services",
+            "hours": 4.0,
+            "rate": 2.65
+        },
+        {
+            "amount": 300.58,
+            "description": "brand user-centric solutions",
+            "hours": 8.11,
+            "rate": 7.22
+        },
+        {
+            "amount": 387.56,
+            "description": "scale bleeding-edge initiatives",
+            "hours": 2.76,
+            "rate": 4.61
+        }
+    ],
+    "seller": {
+        "address": "3973 Burch Place Suite 558 New Kevin, KS 67553",
+        "email": "fporter@example.com",
+        "name": "Laura Griffin"
+    },
+    "tax": {
+        "base": 22.39,
+        "tax_amount": 25.54,
+        "total_tax": 12.99
+    }
+}

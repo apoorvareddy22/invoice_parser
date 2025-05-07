@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "7874 Calhoun Way Lake Deborahburgh, AR 24477",
+        "id": "hx239"
+    },
+    "invoice": {
+        "bc_no": "nz35188",
+        "currency_code": "SZL",
+        "date": "01.02.2010",
+        "due_date": "06.11.2004",
+        "number": 429751
+    },
+    "payment": {
+        "bank_name": "Shelton Inc",
+        "bic": "AYQDGBMH5JW",
+        "iban": "VLVH53956400361010"
+    },
+    "products": [
+        {
+            "amount": 346.95,
+            "description": "orchestrate real-time e-tailers",
+            "index": "4",
+            "price": 282.18,
+            "quantity": 4.88,
+            "tax_amount": 95.96,
+            "total_ttc": 261.89,
+            "vat_amount": 6.84
+        },
+        {
+            "amount": 402.89,
+            "description": "redefine robust e-tailers",
+            "index": "10",
+            "price": 67.54,
+            "quantity": 2.93,
+            "tax_amount": 39.12,
+            "total_ttc": 450.1,
+            "vat_amount": 0.08
+        },
+        {
+            "amount": 261.16,
+            "description": "synergize frictionless initiatives",
+            "index": "4",
+            "price": 59.91,
+            "quantity": 7.85,
+            "tax_amount": 42.58,
+            "total_ttc": 247.31,
+            "vat_amount": 3.49
+        },
+        {
+            "amount": 260.26,
+            "description": "mesh scalable initiatives",
+            "index": "10",
+            "price": 444.19,
+            "quantity": 1.55,
+            "tax_amount": 13.54,
+            "total_ttc": 179.93,
+            "vat_amount": 0.47
+        }
+    ],
+    "seller": {
+        "name": "Pamela Stewart"
+    },
+    "supplier": {
+        "address": "496 Amy Terrace Mckinneyfurt, KY 56880",
+        "name": "Cristian Turner"
+    },
+    "tax": {
+        "amount_excluding_tax": 29.59,
+        "amount_including_tax": 50.82,
+        "tax_amount": 24.63,
+        "total_ht": 117.87,
+        "total_ttc": 261.27
+    }
+}

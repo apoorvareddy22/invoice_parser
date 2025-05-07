@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "098 Miller Ways North Sherryview, OR 40157",
+        "id": "BH270"
+    },
+    "invoice": {
+        "bc_no": "Zo06513",
+        "currency_code": "KWD",
+        "date": "19.09.2013",
+        "due_date": "26.08.1990",
+        "number": 863231
+    },
+    "payment": {
+        "bank_name": "Wood PLC",
+        "bic": "BOBUGBOJLCR",
+        "iban": "ROSG36405236773737"
+    },
+    "products": [
+        {
+            "amount": 279.59,
+            "description": "iterate proactive vortals",
+            "index": "6",
+            "price": 402.01,
+            "quantity": 6.74,
+            "tax_amount": 51.51,
+            "total_ttc": 159.18,
+            "vat_amount": 10.09
+        },
+        {
+            "amount": 292.97,
+            "description": "productize next-generation initiatives",
+            "index": "3",
+            "price": 44.05,
+            "quantity": 4.23,
+            "tax_amount": 19.46,
+            "total_ttc": 444.19,
+            "vat_amount": 16.44
+        },
+        {
+            "amount": 115.64,
+            "description": "utilize dynamic convergence",
+            "index": "4",
+            "price": 157.03,
+            "quantity": 5.59,
+            "tax_amount": 89.57,
+            "total_ttc": 226.79,
+            "vat_amount": 10.86
+        },
+        {
+            "amount": 57.06,
+            "description": "utilize innovative e-markets",
+            "index": "6",
+            "price": 392.26,
+            "quantity": 3.98,
+            "tax_amount": 15.45,
+            "total_ttc": 457.81,
+            "vat_amount": 0.43
+        },
+        {
+            "amount": 443.29,
+            "description": "reinvent viral networks",
+            "index": "10",
+            "price": 459.74,
+            "quantity": 1.22,
+            "tax_amount": 97.32,
+            "total_ttc": 482.58,
+            "vat_amount": 9.57
+        },
+        {
+            "amount": 307.38,
+            "description": "synthesize global networks",
+            "index": "8",
+            "price": 170.59,
+            "quantity": 6.29,
+            "tax_amount": 70.21,
+            "total_ttc": 345.35,
+            "vat_amount": 12.11
+        }
+    ],
+    "seller": {
+        "name": "Sonya Baxter"
+    },
+    "supplier": {
+        "address": "15240 Anthony Expressway Suite 969 South Tiffany, CA 27651",
+        "name": "Joan Lee"
+    },
+    "tax": {
+        "amount_excluding_tax": 80.96,
+        "amount_including_tax": 157.76,
+        "tax_amount": 10.54,
+        "total_ht": 478.15,
+        "total_ttc": 277.5
+    }
+}

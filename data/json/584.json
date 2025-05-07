@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "6815 Stevens Views Jenniferland, NH 89028",
+        "company_name": "Robinson, Reed and Olsen",
+        "country": "Rwanda",
+        "name": "Marcus Mack"
+    },
+    "invoice": {
+        "date": "17.05.2003",
+        "number": 917961
+    },
+    "payment": {
+        "discount_amount": 29.49,
+        "discount_percentage": 18.12,
+        "due": 19.37,
+        "sub_total": 105.12,
+        "total": 281.83
+    },
+    "products": [
+        {
+            "description": "optimize viral functionalities",
+            "index": "5",
+            "quantity": 7.31,
+            "total_price": 681.22,
+            "unit_price": 64.81
+        },
+        {
+            "description": "implement global users",
+            "index": "3",
+            "quantity": 9.49,
+            "total_price": 386.0,
+            "unit_price": 82.19
+        }
+    ],
+    "seller": {
+        "address": "232 Kimberly Forest West Jasmine, TX 67572",
+        "company_name": "Robinson-Miller",
+        "vat_no": "VZ25273125340"
+    }
+}

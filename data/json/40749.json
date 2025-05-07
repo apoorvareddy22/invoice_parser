@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "806 Shelley Road Ponceburgh, FM 70195"
+    },
+    "invoice": {
+        "bc_no": "in52765",
+        "date": "26.02.2014",
+        "maturity_date": "28.01.2010",
+        "number": 122668
+    },
+    "products": [
+        {
+            "amount": 342.07,
+            "description": "brand one-to-one e-commerce",
+            "quantity": 6.52,
+            "unit_price": 84.31,
+            "vat_amount": 2.25
+        },
+        {
+            "amount": 370.2,
+            "description": "empower user-centric functionalities",
+            "quantity": 8.06,
+            "unit_price": 77.67,
+            "vat_amount": 9.14
+        },
+        {
+            "amount": 147.16,
+            "description": "enhance enterprise interfaces",
+            "quantity": 9.73,
+            "unit_price": 24.82,
+            "vat_amount": 15.33
+        }
+    ],
+    "seller": {
+        "address": "8220 Curtis Mountains Nicoleberg, UT 80594"
+    },
+    "tax": {
+        "amount_excluding_tax": 157.27,
+        "amount_including_tax": 48.66,
+        "tax_amount": 18.24
+    }
+}

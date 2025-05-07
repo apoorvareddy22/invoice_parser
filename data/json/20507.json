@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "PSC 8988, Box 5509 APO AE 68881",
+        "company_name": "Tanner-Dodson",
+        "email": "garymccarty@example.com",
+        "name": "Hannah Silva",
+        "phone": "813.935.4110x955"
+    },
+    "invoice": {
+        "date": "15.06.2012",
+        "due_date": "09.01.2014",
+        "number": "hDe69535641699"
+    },
+    "payment": {
+        "account_number": 7416387904,
+        "bank_name": "Jenkins LLC",
+        "routing_number": 418510894
+    },
+    "products": [
+        {
+            "amount": 442.91,
+            "description": "deliver vertical convergence",
+            "index": "6",
+            "quantity": 4.73,
+            "unit_price": 10.18
+        },
+        {
+            "amount": 146.75,
+            "description": "streamline collaborative communities",
+            "index": "4",
+            "quantity": 4.09,
+            "unit_price": 30.81
+        },
+        {
+            "amount": 448.93,
+            "description": "mesh seamless technologies",
+            "index": "10",
+            "quantity": 9.11,
+            "unit_price": 98.51
+        },
+        {
+            "amount": 231.49,
+            "description": "cultivate world-class methodologies",
+            "index": "7",
+            "quantity": 2.97,
+            "unit_price": 47.36
+        }
+    ],
+    "seller": {
+        "address": "5829 Smith Mill Apt. 726 South Jillstad, RI 74940",
+        "company_name": "Burnett-Tucker",
+        "email": "lindseywalsh@example.net"
+    }
+}

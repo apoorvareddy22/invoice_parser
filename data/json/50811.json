@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "828 Richmond Cliffs Maddoxburgh, ND 36439",
+        "id": "lL350"
+    },
+    "invoice": {
+        "bc_no": "dp14453",
+        "currency_code": "PGK",
+        "date": "20.03.2002",
+        "due_date": "08.06.2021",
+        "number": 288030
+    },
+    "payment": {
+        "bank_name": "Parker, Bell and Mahoney",
+        "bic": "OUMZGBZ4",
+        "iban": "CISH38399087526699"
+    },
+    "products": [
+        {
+            "amount": 10.56,
+            "description": "expedite B2B markets",
+            "index": "1",
+            "price": 488.69,
+            "quantity": 7.28,
+            "tax_amount": 95.99,
+            "total_ttc": 234.28,
+            "vat_amount": 7.28
+        },
+        {
+            "amount": 209.87,
+            "description": "visualize magnetic supply-chains",
+            "index": "4",
+            "price": 428.01,
+            "quantity": 1.29,
+            "tax_amount": 65.06,
+            "total_ttc": 316.62,
+            "vat_amount": 0.21
+        }
+    ],
+    "seller": {
+        "name": "Sarah Gordon"
+    },
+    "supplier": {
+        "address": "1055 Robin Route Port Charlotteville, PA 40237",
+        "name": "Hunter Cain"
+    },
+    "tax": {
+        "amount_excluding_tax": 37.65,
+        "amount_including_tax": 24.86,
+        "tax_amount": 11.32,
+        "total_ht": 248.45,
+        "total_ttc": 486.17
+    }
+}

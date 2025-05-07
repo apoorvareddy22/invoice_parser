@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "19639 Eric Plains East Angela, LA 28272",
+        "id": "GW647"
+    },
+    "invoice": {
+        "bc_no": "tR99135",
+        "currency_code": "ERN",
+        "date": "13.09.2001",
+        "due_date": "26.01.2014",
+        "number": 941525
+    },
+    "payment": {
+        "bank_name": "Roberts, Baird and Moreno",
+        "bic": "MOFEGBJNGB3",
+        "iban": "FXDN94294128674212"
+    },
+    "products": [
+        {
+            "amount": 266.85,
+            "description": "benchmark one-to-one models",
+            "index": "9",
+            "price": 90.86,
+            "quantity": 8.11,
+            "tax_amount": 91.36,
+            "total_ttc": 178.01,
+            "vat_amount": 4.06
+        },
+        {
+            "amount": 433.95,
+            "description": "disintermediate value-added paradigms",
+            "index": "4",
+            "price": 245.87,
+            "quantity": 1.32,
+            "tax_amount": 64.56,
+            "total_ttc": 100.25,
+            "vat_amount": 5.68
+        },
+        {
+            "amount": 122.25,
+            "description": "evolve e-business applications",
+            "index": "10",
+            "price": 68.84,
+            "quantity": 5.64,
+            "tax_amount": 93.68,
+            "total_ttc": 132.5,
+            "vat_amount": 7.14
+        },
+        {
+            "amount": 99.04,
+            "description": "drive wireless functionalities",
+            "index": "5",
+            "price": 258.98,
+            "quantity": 7.5,
+            "tax_amount": 87.41,
+            "total_ttc": 219.27,
+            "vat_amount": 9.42
+        },
+        {
+            "amount": 203.91,
+            "description": "aggregate front-end relationships",
+            "index": "10",
+            "price": 381.34,
+            "quantity": 2.98,
+            "tax_amount": 38.87,
+            "total_ttc": 134.98,
+            "vat_amount": 2.63
+        },
+        {
+            "amount": 169.53,
+            "description": "embrace back-end initiatives",
+            "index": "1",
+            "price": 283.49,
+            "quantity": 6.48,
+            "tax_amount": 14.04,
+            "total_ttc": 482.27,
+            "vat_amount": 1.04
+        }
+    ],
+    "seller": {
+        "name": "Pamela Lopez"
+    },
+    "supplier": {
+        "address": "0596 Lee Mall Apt. 559 Ericland, PW 06210",
+        "name": "Erika Nguyen"
+    },
+    "tax": {
+        "amount_excluding_tax": 197.66,
+        "amount_including_tax": 132.01,
+        "tax_amount": 11.72,
+        "total_ht": 240.68,
+        "total_ttc": 322.76
+    }
+}

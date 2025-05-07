@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "2144 James Ports North Williamville, TN 23049"
+    },
+    "invoice": {
+        "bc_no": "Qx09538",
+        "date": "28.03.2005",
+        "maturity_date": "29.11.2012",
+        "number": 615337
+    },
+    "products": [
+        {
+            "amount": 122.72,
+            "description": "harness back-end networks",
+            "quantity": 6.75,
+            "unit_price": 77.73,
+            "vat_amount": 14.08
+        },
+        {
+            "amount": 271.91,
+            "description": "streamline granular initiatives",
+            "quantity": 3.25,
+            "unit_price": 62.84,
+            "vat_amount": 4.82
+        },
+        {
+            "amount": 441.55,
+            "description": "evolve scalable eyeballs",
+            "quantity": 3.65,
+            "unit_price": 72.75,
+            "vat_amount": 1.64
+        },
+        {
+            "amount": 207.58,
+            "description": "cultivate transparent e-commerce",
+            "quantity": 6.93,
+            "unit_price": 69.3,
+            "vat_amount": 0.81
+        }
+    ],
+    "seller": {
+        "address": "9714 Russell Falls Jacksonbury, FM 54468"
+    },
+    "tax": {
+        "amount_excluding_tax": 181.45,
+        "amount_including_tax": 113.28,
+        "tax_amount": 20.6
+    }
+}

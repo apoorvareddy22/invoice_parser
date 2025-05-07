@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "17476 Todd Harbors Hannahhaven, NE 94674",
+        "business_no": "Od600",
+        "id": "CP144"
+    },
+    "invoice": {
+        "date": "12.08.2011",
+        "number": "1972-2151"
+    },
+    "payment": {
+        "due_date": "20.01.2009",
+        "total": 446.15
+    },
+    "products": [
+        {
+            "amount": 378.24,
+            "description": "matrix robust channels",
+            "quantity": 4.19,
+            "reference": "bB-878",
+            "unit_price": 86.09
+        },
+        {
+            "amount": 197.13,
+            "description": "engage vertical users",
+            "quantity": 3.5,
+            "reference": "oD-552",
+            "unit_price": 27.85
+        },
+        {
+            "amount": 365.7,
+            "description": "deploy magnetic applications",
+            "quantity": 7.27,
+            "reference": "Tv-803",
+            "unit_price": 49.84
+        },
+        {
+            "amount": 179.56,
+            "description": "incubate web-enabled technologies",
+            "quantity": 9.02,
+            "reference": "hJ-518",
+            "unit_price": 91.52
+        },
+        {
+            "amount": 14.8,
+            "description": "generate user-centric ROI",
+            "quantity": 3.09,
+            "reference": "Bv-404",
+            "unit_price": 57.75
+        },
+        {
+            "amount": 120.3,
+            "description": "brand value-added platforms",
+            "quantity": 5.19,
+            "reference": "hW-252",
+            "unit_price": 36.81
+        }
+    ],
+    "seller": {
+        "address": "9030 Maxwell Cliff Suite 788 Lake Jessicastad, RI 36157"
+    },
+    "tax": {
+        "base_ht": 459.82,
+        "regulations": 14.45,
+        "total_ht": 376.26,
+        "vat_amount": 73.85,
+        "vat_percentage": 17.93
+    }
+}

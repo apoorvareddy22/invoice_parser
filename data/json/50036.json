@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "780 David Divide Suite 123 Danielmouth, AK 34108",
+        "id": "Vc679"
+    },
+    "invoice": {
+        "bc_no": "PS32622",
+        "currency_code": "GMD",
+        "date": "31.05.2013",
+        "due_date": "01.08.2011",
+        "number": 119300
+    },
+    "payment": {
+        "bank_name": "Rivera Ltd",
+        "bic": "VUIFGB7CJ5Y",
+        "iban": "JOFB87480781556319"
+    },
+    "products": [
+        {
+            "amount": 6.01,
+            "description": "disintermediate global applications",
+            "index": "5",
+            "price": 475.2,
+            "quantity": 9.04,
+            "tax_amount": 77.67,
+            "total_ttc": 270.88,
+            "vat_amount": 1.46
+        },
+        {
+            "amount": 401.39,
+            "description": "unleash distributed platforms",
+            "index": "5",
+            "price": 398.0,
+            "quantity": 6.96,
+            "tax_amount": 37.32,
+            "total_ttc": 265.7,
+            "vat_amount": 7.33
+        },
+        {
+            "amount": 132.79,
+            "description": "productize B2B users",
+            "index": "3",
+            "price": 379.79,
+            "quantity": 3.86,
+            "tax_amount": 42.6,
+            "total_ttc": 352.44,
+            "vat_amount": 3.62
+        }
+    ],
+    "seller": {
+        "name": "David Schwartz"
+    },
+    "supplier": {
+        "address": "6946 Cabrera Landing Lake Judy, TX 08306",
+        "name": "Jeffrey Johnston"
+    },
+    "tax": {
+        "amount_excluding_tax": 112.3,
+        "amount_including_tax": 34.74,
+        "tax_amount": 24.35,
+        "total_ht": 371.23,
+        "total_ttc": 293.37
+    }
+}

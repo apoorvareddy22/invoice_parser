@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "8470 Henderson Run Lake David, VT 77771",
+        "email": "kramerconnor@example.net",
+        "phone": "7275594523",
+        "vat_no": "EO11092941292"
+    },
+    "invoice": {
+        "date": "31.10.2004",
+        "due_date": "27.09.2002",
+        "market_reference": 829855,
+        "notes": "grow enterprise experiences",
+        "number": "8516-4783",
+        "reference": 768212,
+        "vat_no": "Kn75404768955"
+    },
+    "payment": {
+        "net_total": 90.37,
+        "total": 740.95
+    },
+    "products": [
+        {
+            "amount": 375.22,
+            "description": "reinvent sticky metrics",
+            "hours": 5.21,
+            "rate": 6.62
+        },
+        {
+            "amount": 443.92,
+            "description": "leverage dynamic web-readiness",
+            "hours": 8.63,
+            "rate": 6.06
+        },
+        {
+            "amount": 85.12,
+            "description": "enable bricks-and-clicks supply-chains",
+            "hours": 4.34,
+            "rate": 6.52
+        },
+        {
+            "amount": 330.76,
+            "description": "aggregate sticky models",
+            "hours": 2.8,
+            "rate": 2.59
+        },
+        {
+            "amount": 178.19,
+            "description": "transition wireless bandwidth",
+            "hours": 8.44,
+            "rate": 1.91
+        },
+        {
+            "amount": 270.55,
+            "description": "incentivize extensible e-markets",
+            "hours": 4.33,
+            "rate": 2.68
+        },
+        {
+            "amount": 299.12,
+            "description": "engage transparent interfaces",
+            "hours": 5.56,
+            "rate": 8.19
+        }
+    ],
+    "seller": {
+        "address": "53309 Rodriguez Junctions Port Barbara, SD 03739",
+        "email": "kimtiffany@example.net",
+        "name": "Deanna Hughes"
+    },
+    "tax": {
+        "base": 12.25,
+        "tax_amount": 26.14,
+        "total_tax": 24.29
+    }
+}

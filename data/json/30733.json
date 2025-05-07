@@ -1,0 +1,82 @@
+{
+    "buyer": {
+        "address": "450 Robinson Manor Hallview, ND 62760",
+        "company_name": "Moore Inc",
+        "country": "Bulgaria",
+        "email": "ufisher@example.net",
+        "name": "David Pham",
+        "phone": "(831)604-4890",
+        "vat_no": "oS04078805348"
+    },
+    "invoice": {
+        "date": "26.11.1998",
+        "due_date": "21.04.1998",
+        "linked_invoice": "Id-6410-1870",
+        "notes": "engage visionary web-readiness",
+        "number": "YU-5861-1371"
+    },
+    "products": [
+        {
+            "description": "syndicate virtual info-mediaries",
+            "discount_percentage": 11.55,
+            "price": 23.3,
+            "quantity": 7.67,
+            "unit_price": 85.5
+        },
+        {
+            "description": "innovate vertical applications",
+            "discount_percentage": 11.58,
+            "price": 244.21,
+            "quantity": 1.32,
+            "unit_price": 49.34
+        },
+        {
+            "description": "leverage turn-key metrics",
+            "discount_percentage": 11.82,
+            "price": 71.17,
+            "quantity": 6.35,
+            "unit_price": 64.8
+        },
+        {
+            "description": "transform granular bandwidth",
+            "discount_percentage": 12.35,
+            "price": 213.57,
+            "quantity": 1.37,
+            "unit_price": 81.79
+        },
+        {
+            "description": "streamline e-business portals",
+            "discount_percentage": 17.19,
+            "price": 437.69,
+            "quantity": 8.79,
+            "unit_price": 30.27
+        }
+    ],
+    "seller": {
+        "address": "06157 Clarence Cove Suite 292 Stevenborough, HI 51395",
+        "ape": "4117f",
+        "capital": 82636943,
+        "country": "Norfolk Island",
+        "email": "kcopeland@example.org",
+        "name": "Kimberly Hatfield",
+        "phone_1": "001-813-424-4867x713",
+        "phone_2": "778.325.7035x854",
+        "phone_3": "676.253.8011x297",
+        "ref_walk": "SlGQ2050",
+        "reference": "RC881",
+        "siret": 35785957205329,
+        "vat_no": "xV58089051129",
+        "website": "http://www.carroll.com/"
+    },
+    "tax": {
+        "amount_0": 18.74,
+        "amount_1": 12.51,
+        "base_0": 19.14,
+        "base_1": 35.49,
+        "total_ht": 414.97,
+        "total_tax": 20.67,
+        "total_ttc": 260.51,
+        "vat_0": 13.73,
+        "vat_1": 19.17
+    }
+}

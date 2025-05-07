@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "6524 Keith Tunnel Suite 000 Lake Jenna, CA 89823",
+        "email": "andersonpeter@example.net",
+        "phone": "933.825.9983x2183",
+        "vat_no": "rv60164313737"
+    },
+    "invoice": {
+        "date": "22.04.1990",
+        "due_date": "22.03.1992",
+        "market_reference": 925794,
+        "notes": "synthesize efficient supply-chains",
+        "number": "6601-1336",
+        "reference": 655240,
+        "vat_no": "AL26577351672"
+    },
+    "payment": {
+        "net_total": 166.94,
+        "total": 435.94
+    },
+    "products": [
+        {
+            "amount": 473.33,
+            "description": "whiteboard sticky web-readiness",
+            "hours": 4.83,
+            "rate": 9.09
+        },
+        {
+            "amount": 418.68,
+            "description": "re-contextualize back-end platforms",
+            "hours": 8.85,
+            "rate": 9.08
+        },
+        {
+            "amount": 305.27,
+            "description": "incentivize cutting-edge vortals",
+            "hours": 8.25,
+            "rate": 5.93
+        },
+        {
+            "amount": 354.6,
+            "description": "whiteboard interactive content",
+            "hours": 1.86,
+            "rate": 9.16
+        },
+        {
+            "amount": 175.78,
+            "description": "optimize value-added mindshare",
+            "hours": 4.03,
+            "rate": 5.36
+        }
+    ],
+    "seller": {
+        "address": "9921 Fletcher Port North Heather, PA 58636",
+        "email": "adamssara@example.com",
+        "name": "Crystal Downs"
+    },
+    "tax": {
+        "base": 11.42,
+        "tax_amount": 20.9,
+        "total_tax": 23.61
+    }
+}

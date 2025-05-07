@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "860 Curtis Overpass Apt. 366 Webbhaven, DE 61109",
+        "email": "antonio15@example.org",
+        "phone": "+1-669-920-4974x8121",
+        "vat_no": "Mm77510516669"
+    },
+    "invoice": {
+        "date": "15.12.2011",
+        "due_date": "23.08.2017",
+        "market_reference": 389831,
+        "notes": "whiteboard back-end experiences",
+        "number": "7042-2726",
+        "reference": 308903,
+        "vat_no": "CS41031110873"
+    },
+    "payment": {
+        "net_total": 70.29,
+        "total": 726.66
+    },
+    "products": [
+        {
+            "amount": 220.46,
+            "description": "seize sticky infrastructures",
+            "hours": 8.48,
+            "rate": 9.82
+        },
+        {
+            "amount": 153.48,
+            "description": "revolutionize real-time partnerships",
+            "hours": 3.12,
+            "rate": 7.01
+        },
+        {
+            "amount": 168.62,
+            "description": "utilize strategic architectures",
+            "hours": 8.35,
+            "rate": 8.79
+        }
+    ],
+    "seller": {
+        "address": "732 Pamela Island Suite 164 Lake Derekburgh, MH 46926",
+        "email": "emilypearson@example.com",
+        "name": "Hannah Fernandez"
+    },
+    "tax": {
+        "base": 11.78,
+        "tax_amount": 29.09,
+        "total_tax": 27.26
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "446 Gabriel Estate North Christine, IN 17521"
+    },
+    "invoice": {
+        "bc_no": "Hq20051",
+        "date": "29.11.1998",
+        "maturity_date": "25.06.2016",
+        "number": 699260
+    },
+    "products": [
+        {
+            "amount": 394.7,
+            "description": "enable extensible experiences",
+            "quantity": 2.2,
+            "unit_price": 18.69,
+            "vat_amount": 1.23
+        },
+        {
+            "amount": 391.52,
+            "description": "orchestrate scalable action-items",
+            "quantity": 7.27,
+            "unit_price": 46.38,
+            "vat_amount": 0.99
+        },
+        {
+            "amount": 334.47,
+            "description": "deliver turn-key web-readiness",
+            "quantity": 6.56,
+            "unit_price": 86.09,
+            "vat_amount": 1.5
+        },
+        {
+            "amount": 206.57,
+            "description": "unleash ubiquitous e-markets",
+            "quantity": 6.43,
+            "unit_price": 99.41,
+            "vat_amount": 2.11
+        },
+        {
+            "amount": 472.86,
+            "description": "optimize scalable applications",
+            "quantity": 4.9,
+            "unit_price": 42.24,
+            "vat_amount": 4.64
+        }
+    ],
+    "seller": {
+        "address": "730 David Freeway Owenshaven, AL 74402"
+    },
+    "tax": {
+        "amount_excluding_tax": 137.23,
+        "amount_including_tax": 138.96,
+        "tax_amount": 21.49
+    }
+}

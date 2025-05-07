@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "39850 Powell Mall Suite 013 East Jeffery, SC 74053",
+        "id": "kE959"
+    },
+    "invoice": {
+        "bc_no": "Mj26890",
+        "currency_code": "BRL",
+        "date": "24.07.2020",
+        "due_date": "18.01.1991",
+        "number": 788610
+    },
+    "payment": {
+        "bank_name": "Parsons, Murphy and Orr",
+        "bic": "YFJLGBAJ",
+        "iban": "QBJH00085239808933"
+    },
+    "products": [
+        {
+            "amount": 475.99,
+            "description": "scale best-of-breed applications",
+            "index": "1",
+            "price": 258.81,
+            "quantity": 3.33,
+            "tax_amount": 89.53,
+            "total_ttc": 158.96,
+            "vat_amount": 0.25
+        }
+    ],
+    "seller": {
+        "name": "Scott Patrick"
+    },
+    "supplier": {
+        "address": "5116 Ralph Pike Apt. 396 New Christopherbury, SC 09095",
+        "name": "Clifford Taylor"
+    },
+    "tax": {
+        "amount_excluding_tax": 64.07,
+        "amount_including_tax": 102.96,
+        "tax_amount": 12.75,
+        "total_ht": 357.81,
+        "total_ttc": 103.31
+    }
+}

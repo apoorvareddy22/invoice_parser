@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "693 Kelly Plain Christinaborough, AR 65787",
+        "company_name": "Scott and Sons",
+        "email": "carolyndyer@example.net",
+        "name": "Alexis Williams",
+        "phone": "358-831-1844"
+    },
+    "invoice": {
+        "date": "01.09.2010",
+        "due_date": "29.07.2001",
+        "number": "JuO78310262544"
+    },
+    "payment": {
+        "account_number": 2763702762,
+        "bank_name": "Dominguez Group",
+        "routing_number": 696249522
+    },
+    "products": [
+        {
+            "amount": 97.9,
+            "description": "enable killer action-items",
+            "index": "6",
+            "quantity": 6.68,
+            "unit_price": 72.7
+        },
+        {
+            "amount": 146.89,
+            "description": "architect value-added web-readiness",
+            "index": "6",
+            "quantity": 8.92,
+            "unit_price": 47.96
+        },
+        {
+            "amount": 25.86,
+            "description": "matrix value-added e-commerce",
+            "index": "1",
+            "quantity": 10.0,
+            "unit_price": 18.48
+        },
+        {
+            "amount": 349.15,
+            "description": "architect synergistic architectures",
+            "index": "5",
+            "quantity": 4.85,
+            "unit_price": 68.2
+        }
+    ],
+    "seller": {
+        "address": "Unit 7504 Box 2861 DPO AA 50577",
+        "company_name": "Weber Group",
+        "email": "john84@example.com"
+    }
+}

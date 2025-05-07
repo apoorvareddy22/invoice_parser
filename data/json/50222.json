@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "PSC 9329, Box 3465 APO AA 45325",
+        "id": "dT296"
+    },
+    "invoice": {
+        "bc_no": "JW80404",
+        "currency_code": "UGX",
+        "date": "16.02.2002",
+        "due_date": "24.11.2001",
+        "number": 707344
+    },
+    "payment": {
+        "bank_name": "Perez Ltd",
+        "bic": "FZUQGBQK",
+        "iban": "GYTD10472742337739"
+    },
+    "products": [
+        {
+            "amount": 358.98,
+            "description": "cultivate turn-key web services",
+            "index": "2",
+            "price": 90.0,
+            "quantity": 8.79,
+            "tax_amount": 66.04,
+            "total_ttc": 305.62,
+            "vat_amount": 2.5
+        },
+        {
+            "amount": 248.59,
+            "description": "syndicate efficient models",
+            "index": "2",
+            "price": 438.7,
+            "quantity": 1.79,
+            "tax_amount": 18.7,
+            "total_ttc": 314.0,
+            "vat_amount": 5.41
+        },
+        {
+            "amount": 444.98,
+            "description": "strategize dot-com users",
+            "index": "8",
+            "price": 240.97,
+            "quantity": 7.84,
+            "tax_amount": 94.13,
+            "total_ttc": 189.76,
+            "vat_amount": 0.65
+        }
+    ],
+    "seller": {
+        "name": "Timothy Taylor"
+    },
+    "supplier": {
+        "address": "6836 Gutierrez Divide Apt. 835 Gonzalezville, IA 31971",
+        "name": "Danielle Lindsey"
+    },
+    "tax": {
+        "amount_excluding_tax": 167.25,
+        "amount_including_tax": 150.93,
+        "tax_amount": 13.53,
+        "total_ht": 218.6,
+        "total_ttc": 415.78
+    }
+}

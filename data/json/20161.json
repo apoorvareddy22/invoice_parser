@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "81338 Anthony Centers West James, MN 79933",
+        "company_name": "Maxwell, Lyons and Chavez",
+        "email": "jamessnyder@example.com",
+        "name": "Jeremy Carter",
+        "phone": "001-672-430-8256x139"
+    },
+    "invoice": {
+        "date": "07.06.1995",
+        "due_date": "18.07.1998",
+        "number": "xMH04646897246"
+    },
+    "payment": {
+        "account_number": 9964243893,
+        "bank_name": "Fields, Morris and Olsen",
+        "routing_number": 438336027
+    },
+    "products": [
+        {
+            "amount": 428.43,
+            "description": "disintermediate e-business functionalities",
+            "index": "8",
+            "quantity": 7.4,
+            "unit_price": 96.17
+        },
+        {
+            "amount": 416.66,
+            "description": "e-enable innovative convergence",
+            "index": "2",
+            "quantity": 8.41,
+            "unit_price": 21.68
+        },
+        {
+            "amount": 145.95,
+            "description": "scale strategic markets",
+            "index": "8",
+            "quantity": 9.02,
+            "unit_price": 50.26
+        }
+    ],
+    "seller": {
+        "address": "446 Sandra Lights Suite 252 Joshuachester, WA 53189",
+        "company_name": "Thompson-Hudson",
+        "email": "adamstoni@example.net"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "69208 Mooney Trail Suite 465 Johnton, OK 56859",
+        "company_name": "Young-Smith",
+        "email": "alicia25@example.net",
+        "name": "Emily Russo",
+        "phone": "3124741407"
+    },
+    "invoice": {
+        "date": "30.11.2016",
+        "due_date": "23.03.2000",
+        "number": "llu87148309762"
+    },
+    "payment": {
+        "account_number": 9393546984,
+        "bank_name": "Carson Group",
+        "routing_number": 860521469
+    },
+    "products": [
+        {
+            "amount": 246.6,
+            "description": "maximize best-of-breed applications",
+            "index": "5",
+            "quantity": 5.3,
+            "unit_price": 75.41
+        },
+        {
+            "amount": 382.71,
+            "description": "extend proactive initiatives",
+            "index": "3",
+            "quantity": 5.28,
+            "unit_price": 68.37
+        },
+        {
+            "amount": 153.53,
+            "description": "unleash sticky markets",
+            "index": "8",
+            "quantity": 2.1,
+            "unit_price": 46.89
+        },
+        {
+            "amount": 414.78,
+            "description": "engage collaborative bandwidth",
+            "index": "1",
+            "quantity": 5.25,
+            "unit_price": 25.53
+        }
+    ],
+    "seller": {
+        "address": "1757 Adams Dam West Williamstad, MN 87443",
+        "company_name": "Thomas LLC",
+        "email": "matthewanderson@example.org"
+    }
+}

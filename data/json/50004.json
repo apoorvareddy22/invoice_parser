@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "41418 Montes Loop West Ryan, TN 38987",
+        "id": "bz687"
+    },
+    "invoice": {
+        "bc_no": "fP49585",
+        "currency_code": "BIF",
+        "date": "01.07.2020",
+        "due_date": "26.11.1999",
+        "number": 228572
+    },
+    "payment": {
+        "bank_name": "Benson and Sons",
+        "bic": "PUKMGBURZBA",
+        "iban": "UPPC30462656012250"
+    },
+    "products": [
+        {
+            "amount": 180.78,
+            "description": "morph rich infrastructures",
+            "index": "4",
+            "price": 277.27,
+            "quantity": 9.9,
+            "tax_amount": 71.76,
+            "total_ttc": 184.21,
+            "vat_amount": 0.28
+        },
+        {
+            "amount": 455.8,
+            "description": "reinvent B2B interfaces",
+            "index": "7",
+            "price": 212.48,
+            "quantity": 7.41,
+            "tax_amount": 44.67,
+            "total_ttc": 282.43,
+            "vat_amount": 6.46
+        },
+        {
+            "amount": 147.07,
+            "description": "target bleeding-edge methodologies",
+            "index": "8",
+            "price": 302.71,
+            "quantity": 7.42,
+            "tax_amount": 17.45,
+            "total_ttc": 372.1,
+            "vat_amount": 2.13
+        },
+        {
+            "amount": 158.71,
+            "description": "iterate killer markets",
+            "index": "8",
+            "price": 119.26,
+            "quantity": 5.97,
+            "tax_amount": 71.59,
+            "total_ttc": 260.54,
+            "vat_amount": 13.57
+        },
+        {
+            "amount": 145.91,
+            "description": "benchmark dynamic schemas",
+            "index": "4",
+            "price": 257.82,
+            "quantity": 1.32,
+            "tax_amount": 94.0,
+            "total_ttc": 286.75,
+            "vat_amount": 5.09
+        }
+    ],
+    "seller": {
+        "name": "Daniel Johnson"
+    },
+    "supplier": {
+        "address": "98819 David Burgs Apt. 383 North Christopher, CA 16886",
+        "name": "Christina Moreno"
+    },
+    "tax": {
+        "amount_excluding_tax": 148.87,
+        "amount_including_tax": 74.68,
+        "tax_amount": 22.84,
+        "total_ht": 243.3,
+        "total_ttc": 386.85
+    }
+}

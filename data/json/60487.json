@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "751 Matthew Ports Lake Nathan, MA 56635",
+        "business_no": "MO123",
+        "id": "Bm887"
+    },
+    "invoice": {
+        "date": "11.04.2008",
+        "number": "7910-4134"
+    },
+    "payment": {
+        "due_date": "24.10.2007",
+        "total": 271.56
+    },
+    "products": [
+        {
+            "amount": 394.05,
+            "description": "seize scalable bandwidth",
+            "quantity": 9.09,
+            "reference": "TZ-154",
+            "unit_price": 50.15
+        },
+        {
+            "amount": 206.4,
+            "description": "repurpose efficient interfaces",
+            "quantity": 7.07,
+            "reference": "NB-529",
+            "unit_price": 94.75
+        },
+        {
+            "amount": 260.74,
+            "description": "re-contextualize cross-platform e-business",
+            "quantity": 7.4,
+            "reference": "Qx-364",
+            "unit_price": 44.94
+        },
+        {
+            "amount": 121.9,
+            "description": "deliver front-end functionalities",
+            "quantity": 5.26,
+            "reference": "GR-961",
+            "unit_price": 10.44
+        },
+        {
+            "amount": 432.04,
+            "description": "brand cross-platform communities",
+            "quantity": 3.8,
+            "reference": "Iu-948",
+            "unit_price": 47.49
+        }
+    ],
+    "seller": {
+        "address": "164 Griffith Creek Boydmouth, ID 35291"
+    },
+    "tax": {
+        "base_ht": 217.46,
+        "regulations": 20.03,
+        "total_ht": 414.74,
+        "vat_amount": 96.28,
+        "vat_percentage": 16.7
+    }
+}

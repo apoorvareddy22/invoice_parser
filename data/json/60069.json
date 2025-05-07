@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "49930 Tran Lodge North Anita, MT 49080",
+        "business_no": "KM792",
+        "id": "oA097"
+    },
+    "invoice": {
+        "date": "31.03.2009",
+        "number": "8003-5375"
+    },
+    "payment": {
+        "due_date": "04.12.2009",
+        "total": 789.97
+    },
+    "products": [
+        {
+            "amount": 411.3,
+            "description": "enhance synergistic communities",
+            "quantity": 5.35,
+            "reference": "Uu-673",
+            "unit_price": 10.56
+        },
+        {
+            "amount": 15.44,
+            "description": "monetize efficient vortals",
+            "quantity": 6.74,
+            "reference": "Ah-267",
+            "unit_price": 30.86
+        }
+    ],
+    "seller": {
+        "address": "USS Smith FPO AE 30425"
+    },
+    "tax": {
+        "base_ht": 205.79,
+        "regulations": 16.86,
+        "total_ht": 108.64,
+        "vat_amount": 160.91,
+        "vat_percentage": 11.19
+    }
+}

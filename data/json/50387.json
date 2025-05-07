@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "8534 Michelle Forges Apt. 535 Amyberg, MH 41624",
+        "id": "td497"
+    },
+    "invoice": {
+        "bc_no": "il50596",
+        "currency_code": "LSL",
+        "date": "06.07.1995",
+        "due_date": "08.10.2001",
+        "number": 287448
+    },
+    "payment": {
+        "bank_name": "Freeman-Vaughn",
+        "bic": "ETYTGBE3V1Y",
+        "iban": "LNLE35669449070345"
+    },
+    "products": [
+        {
+            "amount": 420.78,
+            "description": "drive frictionless mindshare",
+            "index": "8",
+            "price": 406.33,
+            "quantity": 7.36,
+            "tax_amount": 36.9,
+            "total_ttc": 112.85,
+            "vat_amount": 2.25
+        },
+        {
+            "amount": 345.51,
+            "description": "generate wireless methodologies",
+            "index": "9",
+            "price": 136.01,
+            "quantity": 5.44,
+            "tax_amount": 96.94,
+            "total_ttc": 427.37,
+            "vat_amount": 5.06
+        },
+        {
+            "amount": 344.91,
+            "description": "empower integrated channels",
+            "index": "7",
+            "price": 338.3,
+            "quantity": 2.53,
+            "tax_amount": 93.49,
+            "total_ttc": 497.55,
+            "vat_amount": 1.55
+        }
+    ],
+    "seller": {
+        "name": "James Miller"
+    },
+    "supplier": {
+        "address": "78941 Williams Harbors Suite 694 North Shannonfort, VA 71416",
+        "name": "Brian Bowman"
+    },
+    "tax": {
+        "amount_excluding_tax": 45.7,
+        "amount_including_tax": 118.29,
+        "tax_amount": 14.21,
+        "total_ht": 259.32,
+        "total_ttc": 288.71
+    }
+}

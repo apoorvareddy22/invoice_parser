@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "177 Ryan Square Apt. 689 Joneschester, KY 08939",
+        "email": "iclarke@example.net",
+        "phone": "+1-407-278-8819",
+        "vat_no": "Fv12531952942"
+    },
+    "invoice": {
+        "date": "19.04.2013",
+        "due_date": "06.11.1991",
+        "market_reference": 255889,
+        "notes": "morph customized convergence",
+        "number": "5316-0138",
+        "reference": 427298,
+        "vat_no": "HE11320971116"
+    },
+    "payment": {
+        "net_total": 45.03,
+        "total": 300.9
+    },
+    "products": [
+        {
+            "amount": 444.22,
+            "description": "maximize innovative metrics",
+            "hours": 9.21,
+            "rate": 1.66
+        },
+        {
+            "amount": 324.61,
+            "description": "monetize synergistic initiatives",
+            "hours": 4.55,
+            "rate": 2.9
+        }
+    ],
+    "seller": {
+        "address": "4043 Raymond Ville Deckerborough, CA 20537",
+        "email": "phillipstamara@example.net",
+        "name": "Donna Scott"
+    },
+    "tax": {
+        "base": 12.52,
+        "tax_amount": 13.7,
+        "total_tax": 16.51
+    }
+}

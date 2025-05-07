@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "41763 Rodriguez Hills Jamieberg, VI 03411",
+        "email": "austinjohn@example.com",
+        "phone": "2652111404",
+        "vat_no": "fn20598776947"
+    },
+    "invoice": {
+        "date": "01.10.2000",
+        "due_date": "26.03.2021",
+        "market_reference": 359993,
+        "notes": "enhance frictionless e-services",
+        "number": "8447-0033",
+        "reference": 668873,
+        "vat_no": "yY98362024139"
+    },
+    "payment": {
+        "net_total": 94.63,
+        "total": 785.83
+    },
+    "products": [
+        {
+            "amount": 162.85,
+            "description": "target magnetic infrastructures",
+            "hours": 7.43,
+            "rate": 7.46
+        },
+        {
+            "amount": 409.48,
+            "description": "implement dynamic architectures",
+            "hours": 5.78,
+            "rate": 1.31
+        }
+    ],
+    "seller": {
+        "address": "4850 Tasha Throughway South Betty, NE 60107",
+        "email": "urobinson@example.org",
+        "name": "Chelsea Meyer"
+    },
+    "tax": {
+        "base": 14.9,
+        "tax_amount": 12.2,
+        "total_tax": 23.67
+    }
+}

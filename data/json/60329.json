@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "8397 Rice Forest Suite 308 Port Charlottebury, SC 14275",
+        "business_no": "An663",
+        "id": "Uh651"
+    },
+    "invoice": {
+        "date": "16.01.2014",
+        "number": "5014-5457"
+    },
+    "payment": {
+        "due_date": "23.04.2017",
+        "total": 859.1
+    },
+    "products": [
+        {
+            "amount": 61.01,
+            "description": "productize magnetic bandwidth",
+            "quantity": 9.8,
+            "reference": "Nv-863",
+            "unit_price": 99.66
+        },
+        {
+            "amount": 458.93,
+            "description": "strategize collaborative applications",
+            "quantity": 8.04,
+            "reference": "rz-236",
+            "unit_price": 31.18
+        },
+        {
+            "amount": 444.25,
+            "description": "expedite integrated ROI",
+            "quantity": 1.69,
+            "reference": "Og-707",
+            "unit_price": 24.89
+        },
+        {
+            "amount": 41.76,
+            "description": "matrix integrated solutions",
+            "quantity": 9.65,
+            "reference": "qP-770",
+            "unit_price": 19.6
+        }
+    ],
+    "seller": {
+        "address": "005 Lee Trafficway East Jason, PR 81659"
+    },
+    "tax": {
+        "base_ht": 466.15,
+        "regulations": 12.81,
+        "total_ht": 375.49,
+        "vat_amount": 67.73,
+        "vat_percentage": 11.26
+    }
+}

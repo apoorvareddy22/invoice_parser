@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "128 Mark Harbors North Jason, WV 77886",
+        "business_no": "Hu953",
+        "id": "tl857"
+    },
+    "invoice": {
+        "date": "12.05.2005",
+        "number": "0402-7236"
+    },
+    "payment": {
+        "due_date": "02.12.2017",
+        "total": 281.66
+    },
+    "products": [
+        {
+            "amount": 412.2,
+            "description": "architect open-source relationships",
+            "quantity": 2.47,
+            "reference": "ot-756",
+            "unit_price": 60.75
+        },
+        {
+            "amount": 393.35,
+            "description": "cultivate bricks-and-clicks metrics",
+            "quantity": 9.07,
+            "reference": "hb-451",
+            "unit_price": 39.99
+        },
+        {
+            "amount": 491.35,
+            "description": "incentivize viral e-markets",
+            "quantity": 5.79,
+            "reference": "rA-569",
+            "unit_price": 23.13
+        }
+    ],
+    "seller": {
+        "address": "035 Summers Ford Suite 070 Wangville, KS 04032"
+    },
+    "tax": {
+        "base_ht": 440.21,
+        "regulations": 12.08,
+        "total_ht": 453.29,
+        "vat_amount": 38.97,
+        "vat_percentage": 27.13
+    }
+}

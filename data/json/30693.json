@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "PSC 1188, Box 1564 APO AA 64428",
+        "company_name": "Yates LLC",
+        "country": "Timor-Leste",
+        "email": "keithyoung@example.net",
+        "name": "Christopher Wells",
+        "phone": "001-278-421-5758x5655",
+        "vat_no": "Zl65761700135"
+    },
+    "invoice": {
+        "date": "10.02.1994",
+        "due_date": "22.05.2004",
+        "linked_invoice": "BR-0780-7579",
+        "notes": "matrix innovative info-mediaries",
+        "number": "bN-1395-4696"
+    },
+    "products": [
+        {
+            "description": "streamline robust bandwidth",
+            "discount_percentage": 13.51,
+            "price": 164.75,
+            "quantity": 9.02,
+            "unit_price": 33.52
+        }
+    ],
+    "seller": {
+        "address": "762 Bowman Orchard North Justin, NE 64933",
+        "ape": "3673z",
+        "capital": 85713304,
+        "country": "Belgium",
+        "email": "leewendy@example.org",
+        "name": "Patrick Hernandez",
+        "phone_1": "+1-402-449-0579x546",
+        "phone_2": "368-437-6197x66008",
+        "phone_3": "+1-205-549-4924x4707",
+        "ref_walk": "bYqk0315",
+        "reference": "dy347",
+        "siret": 37165625409668,
+        "vat_no": "qM01278106608",
+        "website": "http://henderson.com/"
+    },
+    "tax": {
+        "amount_0": 28.16,
+        "amount_1": 13.34,
+        "base_0": 24.29,
+        "base_1": 114.7,
+        "total_ht": 175.72,
+        "total_tax": 28.69,
+        "total_ttc": 367.59,
+        "vat_0": 27.86,
+        "vat_1": 27.93
+    }
+}

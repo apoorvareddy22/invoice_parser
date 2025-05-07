@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "319 Rebecca Fork Suite 040 North Cheyenneside, GA 45151"
+    },
+    "invoice": {
+        "bc_no": "YK81735",
+        "date": "02.08.1996",
+        "maturity_date": "29.04.2017",
+        "number": 925132
+    },
+    "products": [
+        {
+            "amount": 235.71,
+            "description": "envisioneer open-source synergies",
+            "quantity": 5.07,
+            "unit_price": 92.9,
+            "vat_amount": 1.5
+        },
+        {
+            "amount": 491.34,
+            "description": "extend distributed vortals",
+            "quantity": 4.52,
+            "unit_price": 60.37,
+            "vat_amount": 4.88
+        },
+        {
+            "amount": 222.32,
+            "description": "exploit robust convergence",
+            "quantity": 9.72,
+            "unit_price": 61.89,
+            "vat_amount": 17.33
+        }
+    ],
+    "seller": {
+        "address": "449 Cortez Shoals Apt. 009 Laurabury, PW 13573"
+    },
+    "tax": {
+        "amount_excluding_tax": 191.96,
+        "amount_including_tax": 164.84,
+        "tax_amount": 14.45
+    }
+}

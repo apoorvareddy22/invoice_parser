@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "USCGC White FPO AA 97912"
+    },
+    "invoice": {
+        "bc_no": "Fg12478",
+        "date": "10.07.2005",
+        "maturity_date": "21.02.1991",
+        "number": 522835
+    },
+    "products": [
+        {
+            "amount": 497.46,
+            "description": "grow mission-critical web services",
+            "quantity": 6.98,
+            "unit_price": 32.61,
+            "vat_amount": 0.74
+        },
+        {
+            "amount": 271.02,
+            "description": "transform cutting-edge supply-chains",
+            "quantity": 2.8,
+            "unit_price": 53.79,
+            "vat_amount": 12.53
+        },
+        {
+            "amount": 57.5,
+            "description": "benchmark e-business interfaces",
+            "quantity": 9.78,
+            "unit_price": 86.02,
+            "vat_amount": 4.46
+        },
+        {
+            "amount": 149.85,
+            "description": "utilize synergistic bandwidth",
+            "quantity": 9.41,
+            "unit_price": 36.98,
+            "vat_amount": 9.69
+        },
+        {
+            "amount": 155.31,
+            "description": "reinvent e-business e-commerce",
+            "quantity": 8.88,
+            "unit_price": 98.38,
+            "vat_amount": 0.09
+        }
+    ],
+    "seller": {
+        "address": "681 Harrison Shoals Suite 828 Turnerview, ND 11047"
+    },
+    "tax": {
+        "amount_excluding_tax": 23.22,
+        "amount_including_tax": 194.93,
+        "tax_amount": 16.02
+    }
+}

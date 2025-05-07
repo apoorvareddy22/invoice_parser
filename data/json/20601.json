@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "0096 Shaw Circles East Alicia, OK 26193",
+        "company_name": "Cantrell, Warren and Matthews",
+        "email": "ryangomez@example.net",
+        "name": "Adam Perez",
+        "phone": "(976)835-0107"
+    },
+    "invoice": {
+        "date": "14.11.2005",
+        "due_date": "05.09.2000",
+        "number": "COk09607507133"
+    },
+    "payment": {
+        "account_number": 9898134138,
+        "bank_name": "Lindsey-Ramirez",
+        "routing_number": 240248666
+    },
+    "products": [
+        {
+            "amount": 166.12,
+            "description": "monetize user-centric relationships",
+            "index": "4",
+            "quantity": 9.16,
+            "unit_price": 93.17
+        },
+        {
+            "amount": 234.29,
+            "description": "reinvent magnetic e-markets",
+            "index": "9",
+            "quantity": 9.23,
+            "unit_price": 92.67
+        },
+        {
+            "amount": 441.8,
+            "description": "generate compelling applications",
+            "index": "9",
+            "quantity": 1.36,
+            "unit_price": 87.16
+        },
+        {
+            "amount": 261.61,
+            "description": "whiteboard world-class schemas",
+            "index": "1",
+            "quantity": 5.23,
+            "unit_price": 30.41
+        }
+    ],
+    "seller": {
+        "address": "711 Wells Parks New Rachelland, WA 17850",
+        "company_name": "Malone, Schultz and Gonzalez",
+        "email": "berrycharles@example.net"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "36587 John Park Suite 903 Mooreside, MP 87660",
+        "company_name": "Johnson-Miller",
+        "email": "rachelholmes@example.org",
+        "name": "Todd Li",
+        "phone": "628-982-8881"
+    },
+    "invoice": {
+        "date": "17.11.2020",
+        "due_date": "07.10.2005",
+        "number": "pdI09649426408"
+    },
+    "payment": {
+        "account_number": 4828921834,
+        "bank_name": "Smith-Bean",
+        "routing_number": 982699185
+    },
+    "products": [
+        {
+            "amount": 74.85,
+            "description": "envisioneer transparent users",
+            "index": "1",
+            "quantity": 6.38,
+            "unit_price": 42.25
+        },
+        {
+            "amount": 215.78,
+            "description": "streamline sticky e-services",
+            "index": "9",
+            "quantity": 8.62,
+            "unit_price": 91.83
+        },
+        {
+            "amount": 160.64,
+            "description": "re-contextualize compelling experiences",
+            "index": "5",
+            "quantity": 8.51,
+            "unit_price": 81.69
+        },
+        {
+            "amount": 365.0,
+            "description": "maximize killer e-tailers",
+            "index": "5",
+            "quantity": 7.59,
+            "unit_price": 91.07
+        },
+        {
+            "amount": 247.72,
+            "description": "syndicate dynamic initiatives",
+            "index": "6",
+            "quantity": 8.85,
+            "unit_price": 66.3
+        }
+    ],
+    "seller": {
+        "address": "57128 Christopher Harbor Bowersmouth, MS 76334",
+        "company_name": "Frank, Fox and Roberts",
+        "email": "brownrobert@example.org"
+    }
+}

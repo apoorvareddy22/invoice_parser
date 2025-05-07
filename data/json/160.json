@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "4518 Harper Mountain Suite 190 North Philipville, CT 99881",
+        "company_name": "Haas LLC",
+        "country": "Bouvet Island (Bouvetoya)",
+        "name": "Kristen Morgan"
+    },
+    "invoice": {
+        "date": "22.06.1991",
+        "number": 464653
+    },
+    "payment": {
+        "discount_amount": 22.82,
+        "discount_percentage": 17.9,
+        "due": 46.9,
+        "sub_total": 164.33,
+        "total": 384.51
+    },
+    "products": [
+        {
+            "description": "revolutionize back-end networks",
+            "index": "2",
+            "quantity": 5.81,
+            "total_price": 263.81,
+            "unit_price": 76.13
+        },
+        {
+            "description": "repurpose e-business applications",
+            "index": "3",
+            "quantity": 9.74,
+            "total_price": 174.53,
+            "unit_price": 35.63
+        }
+    ],
+    "seller": {
+        "address": "47661 Clark Creek Suite 416 Zacharyside, NE 12095",
+        "company_name": "Perez and Sons",
+        "vat_no": "uA60464084589"
+    }
+}

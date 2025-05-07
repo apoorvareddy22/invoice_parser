@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "65417 Fernandez Points Gatesland, TX 00977",
+        "company_name": "Adams, Patterson and Pena",
+        "email": "angelahart@example.org",
+        "name": "Jamie Holt",
+        "phone": "630.439.1718x8576"
+    },
+    "invoice": {
+        "date": "02.09.2004",
+        "due_date": "14.07.2002",
+        "number": "hwd52750505397"
+    },
+    "payment": {
+        "account_number": 3320278428,
+        "bank_name": "Vargas-Valenzuela",
+        "routing_number": 418813408
+    },
+    "products": [
+        {
+            "amount": 119.36,
+            "description": "revolutionize 24/7 e-markets",
+            "index": "5",
+            "quantity": 1.17,
+            "unit_price": 81.19
+        },
+        {
+            "amount": 13.34,
+            "description": "seize out-of-the-box platforms",
+            "index": "5",
+            "quantity": 9.93,
+            "unit_price": 75.5
+        }
+    ],
+    "seller": {
+        "address": "9690 Andrews Lake Felicialand, MI 20364",
+        "company_name": "Jones, Ware and Tran",
+        "email": "pamelakelley@example.org"
+    }
+}

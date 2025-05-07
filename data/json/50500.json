@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "8139 Troy Neck West Davidmouth, MP 63067",
+        "id": "Xs041"
+    },
+    "invoice": {
+        "bc_no": "Cz72418",
+        "currency_code": "GIP",
+        "date": "26.08.2017",
+        "due_date": "07.02.1992",
+        "number": 703564
+    },
+    "payment": {
+        "bank_name": "Davis, Jones and Thompson",
+        "bic": "XBSJGB5GEVC",
+        "iban": "FKJR79620192052359"
+    },
+    "products": [
+        {
+            "amount": 198.28,
+            "description": "evolve plug-and-play eyeballs",
+            "index": "1",
+            "price": 311.57,
+            "quantity": 1.25,
+            "tax_amount": 36.83,
+            "total_ttc": 410.53,
+            "vat_amount": 3.37
+        },
+        {
+            "amount": 223.4,
+            "description": "syndicate seamless supply-chains",
+            "index": "2",
+            "price": 44.36,
+            "quantity": 3.43,
+            "tax_amount": 96.79,
+            "total_ttc": 421.92,
+            "vat_amount": 4.95
+        },
+        {
+            "amount": 211.43,
+            "description": "unleash world-class partnerships",
+            "index": "9",
+            "price": 288.77,
+            "quantity": 4.14,
+            "tax_amount": 62.97,
+            "total_ttc": 177.24,
+            "vat_amount": 6.86
+        },
+        {
+            "amount": 220.63,
+            "description": "reinvent bricks-and-clicks mindshare",
+            "index": "10",
+            "price": 330.91,
+            "quantity": 5.3,
+            "tax_amount": 56.04,
+            "total_ttc": 224.28,
+            "vat_amount": 13.18
+        }
+    ],
+    "seller": {
+        "name": "Zachary Jimenez"
+    },
+    "supplier": {
+        "address": "80777 Velasquez Port Apt. 588 Manningland, KY 12279",
+        "name": "Jennifer Hendricks"
+    },
+    "tax": {
+        "amount_excluding_tax": 111.87,
+        "amount_including_tax": 97.7,
+        "tax_amount": 19.0,
+        "total_ht": 239.6,
+        "total_ttc": 207.4
+    }
+}

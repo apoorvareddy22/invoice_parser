@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "0593 Walker Inlet Apt. 842 East Micheleview, SD 10287",
+        "id": "oN174"
+    },
+    "invoice": {
+        "bc_no": "mc58200",
+        "currency_code": "ETB",
+        "date": "16.03.1999",
+        "due_date": "10.12.2020",
+        "number": 931408
+    },
+    "payment": {
+        "bank_name": "Norris LLC",
+        "bic": "EFDOGB4G",
+        "iban": "RGLV15725725742574"
+    },
+    "products": [
+        {
+            "amount": 378.57,
+            "description": "transform seamless ROI",
+            "index": "3",
+            "price": 241.28,
+            "quantity": 4.15,
+            "tax_amount": 97.47,
+            "total_ttc": 306.33,
+            "vat_amount": 8.79
+        },
+        {
+            "amount": 269.95,
+            "description": "facilitate back-end methodologies",
+            "index": "4",
+            "price": 313.35,
+            "quantity": 4.34,
+            "tax_amount": 11.17,
+            "total_ttc": 142.89,
+            "vat_amount": 6.55
+        },
+        {
+            "amount": 372.4,
+            "description": "streamline seamless e-tailers",
+            "index": "4",
+            "price": 328.63,
+            "quantity": 8.86,
+            "tax_amount": 48.96,
+            "total_ttc": 446.9,
+            "vat_amount": 9.36
+        },
+        {
+            "amount": 172.23,
+            "description": "iterate user-centric platforms",
+            "index": "8",
+            "price": 315.83,
+            "quantity": 9.13,
+            "tax_amount": 88.8,
+            "total_ttc": 258.75,
+            "vat_amount": 6.84
+        },
+        {
+            "amount": 125.51,
+            "description": "seize open-source users",
+            "index": "9",
+            "price": 220.69,
+            "quantity": 9.71,
+            "tax_amount": 26.69,
+            "total_ttc": 148.56,
+            "vat_amount": 8.45
+        },
+        {
+            "amount": 287.12,
+            "description": "redefine visionary supply-chains",
+            "index": "5",
+            "price": 331.93,
+            "quantity": 3.68,
+            "tax_amount": 91.83,
+            "total_ttc": 153.85,
+            "vat_amount": 4.47
+        },
+        {
+            "amount": 78.14,
+            "description": "envisioneer 24/7 markets",
+            "index": "9",
+            "price": 130.81,
+            "quantity": 2.99,
+            "tax_amount": 92.55,
+            "total_ttc": 326.37,
+            "vat_amount": 11.93
+        }
+    ],
+    "seller": {
+        "name": "Christine Clark"
+    },
+    "supplier": {
+        "address": "9262 Duncan Branch Apt. 497 West Matthew, ID 44970",
+        "name": "Kevin Reid"
+    },
+    "tax": {
+        "amount_excluding_tax": 176.19,
+        "amount_including_tax": 118.35,
+        "tax_amount": 20.24,
+        "total_ht": 314.7,
+        "total_ttc": 159.81
+    }
+}

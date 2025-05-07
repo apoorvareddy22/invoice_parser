@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "53061 Austin Fields Apt. 300 Johnsonside, IA 71423",
+        "id": "Ux711"
+    },
+    "invoice": {
+        "bc_no": "PB73730",
+        "currency_code": "TRY",
+        "date": "11.09.2007",
+        "due_date": "14.08.2011",
+        "number": 958419
+    },
+    "payment": {
+        "bank_name": "Willis-Crosby",
+        "bic": "BKCYGBDG",
+        "iban": "SRHH46066256297411"
+    },
+    "products": [
+        {
+            "amount": 254.96,
+            "description": "transform B2B mindshare",
+            "index": "1",
+            "price": 145.3,
+            "quantity": 7.19,
+            "tax_amount": 92.87,
+            "total_ttc": 414.83,
+            "vat_amount": 2.67
+        },
+        {
+            "amount": 120.78,
+            "description": "orchestrate user-centric e-business",
+            "index": "9",
+            "price": 489.47,
+            "quantity": 4.25,
+            "tax_amount": 25.62,
+            "total_ttc": 324.32,
+            "vat_amount": 1.82
+        },
+        {
+            "amount": 198.58,
+            "description": "maximize plug-and-play models",
+            "index": "5",
+            "price": 91.4,
+            "quantity": 3.72,
+            "tax_amount": 33.66,
+            "total_ttc": 347.4,
+            "vat_amount": 16.49
+        },
+        {
+            "amount": 159.6,
+            "description": "brand web-enabled markets",
+            "index": "5",
+            "price": 413.8,
+            "quantity": 9.12,
+            "tax_amount": 25.83,
+            "total_ttc": 101.48,
+            "vat_amount": 14.53
+        }
+    ],
+    "seller": {
+        "name": "Elizabeth Potter"
+    },
+    "supplier": {
+        "address": "5290 Meghan Field Suite 671 Anthonystad, ND 65173",
+        "name": "Tanya Copeland"
+    },
+    "tax": {
+        "amount_excluding_tax": 120.59,
+        "amount_including_tax": 173.44,
+        "tax_amount": 20.28,
+        "total_ht": 340.48,
+        "total_ttc": 438.64
+    }
+}

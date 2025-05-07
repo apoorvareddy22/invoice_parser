@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "7498 Andrew Underpass Galvanland, MH 12770"
+    },
+    "invoice": {
+        "bc_no": "bU03882",
+        "date": "26.06.1992",
+        "maturity_date": "10.07.2012",
+        "number": 825542
+    },
+    "products": [
+        {
+            "amount": 416.41,
+            "description": "engage value-added initiatives",
+            "quantity": 8.58,
+            "unit_price": 13.54,
+            "vat_amount": 1.7
+        },
+        {
+            "amount": 73.5,
+            "description": "strategize dot-com convergence",
+            "quantity": 8.67,
+            "unit_price": 92.0,
+            "vat_amount": 4.25
+        }
+    ],
+    "seller": {
+        "address": "4127 Dustin Trail Apt. 998 Victorberg, ID 31374"
+    },
+    "tax": {
+        "amount_excluding_tax": 41.03,
+        "amount_including_tax": 101.26,
+        "tax_amount": 26.47
+    }
+}

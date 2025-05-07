@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "83198 Mckee Street Zacharytown, AL 65130",
+        "company_name": "Garrett-Martinez",
+        "email": "teresa24@example.com",
+        "name": "Michelle Cameron",
+        "phone": "240.340.7812x4957"
+    },
+    "invoice": {
+        "date": "16.11.2020",
+        "due_date": "15.11.2023",
+        "number": "POp17763057090"
+    },
+    "payment": {
+        "account_number": 1344924115,
+        "bank_name": "Davis LLC",
+        "routing_number": 971409639
+    },
+    "products": [
+        {
+            "amount": 405.94,
+            "description": "harness back-end vortals",
+            "index": "3",
+            "quantity": 9.96,
+            "unit_price": 49.22
+        },
+        {
+            "amount": 184.3,
+            "description": "synergize world-class interfaces",
+            "index": "7",
+            "quantity": 4.92,
+            "unit_price": 13.69
+        },
+        {
+            "amount": 33.32,
+            "description": "streamline B2C action-items",
+            "index": "5",
+            "quantity": 5.3,
+            "unit_price": 10.19
+        },
+        {
+            "amount": 153.75,
+            "description": "cultivate cutting-edge functionalities",
+            "index": "6",
+            "quantity": 9.8,
+            "unit_price": 17.1
+        },
+        {
+            "amount": 122.22,
+            "description": "embrace wireless users",
+            "index": "6",
+            "quantity": 1.39,
+            "unit_price": 47.71
+        },
+        {
+            "amount": 280.11,
+            "description": "enable interactive communities",
+            "index": "7",
+            "quantity": 7.83,
+            "unit_price": 20.6
+        }
+    ],
+    "seller": {
+        "address": "36385 Cunningham Grove Apt. 738 Goodwinland, OR 43898",
+        "company_name": "Gomez and Sons",
+        "email": "mtorres@example.org"
+    }
+}

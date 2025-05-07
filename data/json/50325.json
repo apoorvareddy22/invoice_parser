@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "74150 John Plaza East Louisstad, NH 95291",
+        "id": "kD116"
+    },
+    "invoice": {
+        "bc_no": "FT21645",
+        "currency_code": "RSD",
+        "date": "01.07.2020",
+        "due_date": "27.08.1990",
+        "number": 386126
+    },
+    "payment": {
+        "bank_name": "Mitchell Group",
+        "bic": "VKQDGB7O96M",
+        "iban": "GKNN79041547716593"
+    },
+    "products": [
+        {
+            "amount": 465.1,
+            "description": "synergize magnetic e-markets",
+            "index": "10",
+            "price": 306.24,
+            "quantity": 5.23,
+            "tax_amount": 10.67,
+            "total_ttc": 497.23,
+            "vat_amount": 0.92
+        }
+    ],
+    "seller": {
+        "name": "Adrienne Brennan"
+    },
+    "supplier": {
+        "address": "89648 Christopher Streets Suite 590 Racheltown, NY 73871",
+        "name": "Kathleen Madden"
+    },
+    "tax": {
+        "amount_excluding_tax": 160.28,
+        "amount_including_tax": 56.75,
+        "tax_amount": 16.98,
+        "total_ht": 125.29,
+        "total_ttc": 249.18
+    }
+}

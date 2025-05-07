@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "893 Jennifer Square Royfurt, OH 51803",
+        "company_name": "Chapman Group",
+        "email": "teresamoore@example.org",
+        "name": "Daniel Meyers",
+        "phone": "280-948-8991x18372"
+    },
+    "invoice": {
+        "date": "18.12.1991",
+        "due_date": "27.12.2014",
+        "number": "lXA12774128760"
+    },
+    "payment": {
+        "account_number": 6553219671,
+        "bank_name": "Clark Group",
+        "routing_number": 145940496
+    },
+    "products": [
+        {
+            "amount": 181.07,
+            "description": "deliver interactive eyeballs",
+            "index": "9",
+            "quantity": 4.5,
+            "unit_price": 92.01
+        },
+        {
+            "amount": 209.63,
+            "description": "revolutionize wireless e-business",
+            "index": "6",
+            "quantity": 6.18,
+            "unit_price": 95.94
+        },
+        {
+            "amount": 415.72,
+            "description": "repurpose revolutionary architectures",
+            "index": "4",
+            "quantity": 6.36,
+            "unit_price": 32.37
+        },
+        {
+            "amount": 243.01,
+            "description": "mesh innovative synergies",
+            "index": "3",
+            "quantity": 5.87,
+            "unit_price": 43.08
+        },
+        {
+            "amount": 437.89,
+            "description": "deploy real-time e-business",
+            "index": "8",
+            "quantity": 7.57,
+            "unit_price": 10.16
+        }
+    ],
+    "seller": {
+        "address": "558 Hall Greens Vasqueztown, NC 64640",
+        "company_name": "Morgan Group",
+        "email": "robertaowen@example.com"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "239 Miller Flats West Bryanmouth, MD 55595",
+        "company_name": "Clements-Young",
+        "email": "samantha80@example.com",
+        "name": "James Price",
+        "phone": "(360)461-3261x49495"
+    },
+    "invoice": {
+        "date": "16.04.2008",
+        "due_date": "23.02.2021",
+        "number": "vfF99132543376"
+    },
+    "payment": {
+        "account_number": 1137673755,
+        "bank_name": "Alexander, James and Wilson",
+        "routing_number": 127134212
+    },
+    "products": [
+        {
+            "amount": 253.16,
+            "description": "strategize transparent infrastructures",
+            "index": "1",
+            "quantity": 7.3,
+            "unit_price": 72.86
+        },
+        {
+            "amount": 391.6,
+            "description": "utilize turn-key synergies",
+            "index": "5",
+            "quantity": 3.36,
+            "unit_price": 17.35
+        },
+        {
+            "amount": 195.41,
+            "description": "target interactive platforms",
+            "index": "7",
+            "quantity": 4.0,
+            "unit_price": 53.47
+        }
+    ],
+    "seller": {
+        "address": "USS Moreno FPO AA 88136",
+        "company_name": "Gonzalez, Rodriguez and Chang",
+        "email": "eddie38@example.org"
+    }
+}

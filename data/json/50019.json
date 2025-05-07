@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "731 Jill Points Apt. 400 Thomasside, NH 18265",
+        "id": "zq699"
+    },
+    "invoice": {
+        "bc_no": "EZ18828",
+        "currency_code": "TZS",
+        "date": "26.05.2008",
+        "due_date": "07.04.2004",
+        "number": 599016
+    },
+    "payment": {
+        "bank_name": "Salinas, Johnson and Dickson",
+        "bic": "PFTSGBCHXPE",
+        "iban": "NMGB73978385179371"
+    },
+    "products": [
+        {
+            "amount": 387.09,
+            "description": "cultivate compelling deliverables",
+            "index": "7",
+            "price": 204.29,
+            "quantity": 3.66,
+            "tax_amount": 67.48,
+            "total_ttc": 207.02,
+            "vat_amount": 8.53
+        },
+        {
+            "amount": 437.16,
+            "description": "empower 24/365 metrics",
+            "index": "1",
+            "price": 14.71,
+            "quantity": 5.66,
+            "tax_amount": 98.2,
+            "total_ttc": 212.83,
+            "vat_amount": 4.98
+        },
+        {
+            "amount": 414.66,
+            "description": "reinvent 24/7 action-items",
+            "index": "8",
+            "price": 245.68,
+            "quantity": 2.86,
+            "tax_amount": 26.43,
+            "total_ttc": 246.59,
+            "vat_amount": 1.91
+        },
+        {
+            "amount": 324.05,
+            "description": "embrace interactive content",
+            "index": "9",
+            "price": 242.84,
+            "quantity": 9.59,
+            "tax_amount": 83.26,
+            "total_ttc": 392.67,
+            "vat_amount": 6.16
+        }
+    ],
+    "seller": {
+        "name": "Tammy Lewis"
+    },
+    "supplier": {
+        "address": "21912 Vargas Gardens South Susanberg, HI 16388",
+        "name": "Erik Brock"
+    },
+    "tax": {
+        "amount_excluding_tax": 52.95,
+        "amount_including_tax": 168.06,
+        "tax_amount": 21.48,
+        "total_ht": 255.6,
+        "total_ttc": 145.51
+    }
+}

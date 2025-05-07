@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "885 Porter Mountains Apt. 692 West Nicholasberg, CT 72574",
+        "email": "gonzalezrussell@example.com",
+        "phone": "819-693-3979x2416",
+        "vat_no": "ot85118563310"
+    },
+    "invoice": {
+        "date": "10.02.1993",
+        "due_date": "20.07.2022",
+        "market_reference": 857589,
+        "notes": "strategize holistic schemas",
+        "number": "2434-2638",
+        "reference": 982636,
+        "vat_no": "dz70043930884"
+    },
+    "payment": {
+        "net_total": 85.38,
+        "total": 216.87
+    },
+    "products": [
+        {
+            "amount": 185.9,
+            "description": "reinvent value-added relationships",
+            "hours": 4.49,
+            "rate": 8.4
+        },
+        {
+            "amount": 295.01,
+            "description": "matrix back-end partnerships",
+            "hours": 1.63,
+            "rate": 9.58
+        }
+    ],
+    "seller": {
+        "address": "1158 Dunn Forks Heiditon, UT 69936",
+        "email": "kristinavilla@example.org",
+        "name": "Timothy Hogan MD"
+    },
+    "tax": {
+        "base": 10.91,
+        "tax_amount": 20.78,
+        "total_tax": 27.89
+    }
+}

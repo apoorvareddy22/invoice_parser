@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "PSC 8191, Box 8740 APO AE 02856"
+    },
+    "invoice": {
+        "bc_no": "CF67822",
+        "date": "19.05.1991",
+        "maturity_date": "27.03.2023",
+        "number": 978540
+    },
+    "products": [
+        {
+            "amount": 131.69,
+            "description": "facilitate extensible info-mediaries",
+            "quantity": 8.68,
+            "unit_price": 57.34,
+            "vat_amount": 14.77
+        },
+        {
+            "amount": 272.88,
+            "description": "implement synergistic e-services",
+            "quantity": 6.23,
+            "unit_price": 33.82,
+            "vat_amount": 3.08
+        },
+        {
+            "amount": 448.54,
+            "description": "scale front-end interfaces",
+            "quantity": 3.41,
+            "unit_price": 89.53,
+            "vat_amount": 7.11
+        },
+        {
+            "amount": 490.41,
+            "description": "engineer sticky solutions",
+            "quantity": 1.43,
+            "unit_price": 13.92,
+            "vat_amount": 8.01
+        },
+        {
+            "amount": 464.85,
+            "description": "envisioneer e-business networks",
+            "quantity": 6.91,
+            "unit_price": 79.85,
+            "vat_amount": 0.23
+        }
+    ],
+    "seller": {
+        "address": "PSC 7816, Box 3570 APO AE 01914"
+    },
+    "tax": {
+        "amount_excluding_tax": 143.85,
+        "amount_including_tax": 57.1,
+        "tax_amount": 25.71
+    }
+}

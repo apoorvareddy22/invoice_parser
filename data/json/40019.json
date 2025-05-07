@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "USNS Parrish FPO AA 88924"
+    },
+    "invoice": {
+        "bc_no": "nr25766",
+        "date": "06.06.2017",
+        "maturity_date": "04.04.1991",
+        "number": 811901
+    },
+    "products": [
+        {
+            "amount": 493.12,
+            "description": "deploy bricks-and-clicks paradigms",
+            "quantity": 4.26,
+            "unit_price": 45.88,
+            "vat_amount": 0.59
+        },
+        {
+            "amount": 219.06,
+            "description": "maximize enterprise synergies",
+            "quantity": 9.62,
+            "unit_price": 94.28,
+            "vat_amount": 0.05
+        },
+        {
+            "amount": 272.51,
+            "description": "orchestrate real-time mindshare",
+            "quantity": 6.74,
+            "unit_price": 37.38,
+            "vat_amount": 2.56
+        },
+        {
+            "amount": 403.84,
+            "description": "target collaborative interfaces",
+            "quantity": 3.91,
+            "unit_price": 21.78,
+            "vat_amount": 4.37
+        },
+        {
+            "amount": 25.63,
+            "description": "reinvent cross-platform web services",
+            "quantity": 1.35,
+            "unit_price": 63.74,
+            "vat_amount": 8.89
+        }
+    ],
+    "seller": {
+        "address": "31444 Keith Track Suite 808 East Barbara, WY 89294"
+    },
+    "tax": {
+        "amount_excluding_tax": 48.37,
+        "amount_including_tax": 112.21,
+        "tax_amount": 27.64
+    }
+}

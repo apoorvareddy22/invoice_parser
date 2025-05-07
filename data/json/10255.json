@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "6526 Donna Landing West Andrewton, AL 12200",
+        "email": "tjenkins@example.com",
+        "phone": "+1-889-629-1662x187",
+        "vat_no": "sQ05493172203"
+    },
+    "invoice": {
+        "date": "16.11.2007",
+        "due_date": "22.05.2018",
+        "market_reference": 425240,
+        "notes": "enhance leading-edge schemas",
+        "number": "9537-0559",
+        "reference": 976341,
+        "vat_no": "TX07692312422"
+    },
+    "payment": {
+        "net_total": 43.78,
+        "total": 953.48
+    },
+    "products": [
+        {
+            "amount": 149.97,
+            "description": "e-enable out-of-the-box deliverables",
+            "hours": 4.33,
+            "rate": 1.39
+        },
+        {
+            "amount": 402.24,
+            "description": "productize B2B ROI",
+            "hours": 5.71,
+            "rate": 7.1
+        }
+    ],
+    "seller": {
+        "address": "USNV Jones FPO AP 75576",
+        "email": "angela90@example.net",
+        "name": "James Smith"
+    },
+    "tax": {
+        "base": 19.15,
+        "tax_amount": 19.28,
+        "total_tax": 16.1
+    }
+}

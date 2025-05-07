@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "Unit 9153 Box 3679 DPO AA 74597",
+        "business_no": "QT536",
+        "id": "oG776"
+    },
+    "invoice": {
+        "date": "18.08.2005",
+        "number": "7066-9365"
+    },
+    "payment": {
+        "due_date": "08.07.2019",
+        "total": 640.92
+    },
+    "products": [
+        {
+            "amount": 221.93,
+            "description": "mesh proactive e-tailers",
+            "quantity": 5.94,
+            "reference": "wk-820",
+            "unit_price": 83.31
+        },
+        {
+            "amount": 112.94,
+            "description": "revolutionize global niches",
+            "quantity": 5.09,
+            "reference": "Zk-225",
+            "unit_price": 22.44
+        },
+        {
+            "amount": 43.95,
+            "description": "cultivate customized action-items",
+            "quantity": 9.97,
+            "reference": "CC-690",
+            "unit_price": 42.96
+        }
+    ],
+    "seller": {
+        "address": "073 Cody Wells Apt. 411 Amyberg, IA 77175"
+    },
+    "tax": {
+        "base_ht": 370.73,
+        "regulations": 29.42,
+        "total_ht": 238.37,
+        "vat_amount": 186.8,
+        "vat_percentage": 26.98
+    }
+}

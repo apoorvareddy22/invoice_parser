@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "724 Jordan Passage Apt. 911 Thomasmouth, SC 44814",
+        "company_name": "Henry Group",
+        "country": "Haiti",
+        "email": "fbranch@example.org",
+        "name": "Cheyenne Meyer",
+        "phone": "967.350.3052x434",
+        "vat_no": "fY08658930460"
+    },
+    "invoice": {
+        "date": "26.07.2011",
+        "due_date": "30.09.2011",
+        "linked_invoice": "PJ-5676-6193",
+        "notes": "extend turn-key applications",
+        "number": "IA-3976-4314"
+    },
+    "products": [
+        {
+            "description": "syndicate next-generation deliverables",
+            "discount_percentage": 10.95,
+            "price": 175.85,
+            "quantity": 3.46,
+            "unit_price": 85.64
+        },
+        {
+            "description": "synergize dot-com content",
+            "discount_percentage": 9.92,
+            "price": 178.74,
+            "quantity": 6.59,
+            "unit_price": 37.3
+        }
+    ],
+    "seller": {
+        "address": "45629 Marie Ways Longshire, SD 47684",
+        "ape": "4369A",
+        "capital": 13705544,
+        "country": "Austria",
+        "email": "samuel34@example.org",
+        "name": "Gail Hill",
+        "phone_1": "(578)904-0049x382",
+        "phone_2": "+1-814-876-0116x5156",
+        "phone_3": "296-321-6716x6265",
+        "ref_walk": "nGDB7604",
+        "reference": "dA323",
+        "siret": 54147279846731,
+        "vat_no": "DQ15990526859",
+        "website": "http://www.wilson-lester.com/"
+    },
+    "tax": {
+        "amount_0": 23.25,
+        "amount_1": 16.34,
+        "base_0": 15.13,
+        "base_1": 151.75,
+        "total_ht": 479.9,
+        "total_tax": 15.14,
+        "total_ttc": 301.2,
+        "vat_0": 28.73,
+        "vat_1": 20.02
+    }
+}

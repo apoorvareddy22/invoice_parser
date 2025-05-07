@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "7890 Taylor Turnpike Suite 726 Katherinestad, PA 42809"
+    },
+    "invoice": {
+        "bc_no": "vH86369",
+        "date": "25.10.2020",
+        "maturity_date": "20.10.1997",
+        "number": 821701
+    },
+    "products": [
+        {
+            "amount": 263.91,
+            "description": "exploit viral channels",
+            "quantity": 3.13,
+            "unit_price": 25.18,
+            "vat_amount": 7.44
+        },
+        {
+            "amount": 261.04,
+            "description": "reinvent seamless functionalities",
+            "quantity": 4.91,
+            "unit_price": 80.91,
+            "vat_amount": 1.18
+        },
+        {
+            "amount": 365.22,
+            "description": "extend scalable networks",
+            "quantity": 7.36,
+            "unit_price": 42.76,
+            "vat_amount": 2.15
+        }
+    ],
+    "seller": {
+        "address": "0050 Trujillo Center Gabriellabury, AS 75181"
+    },
+    "tax": {
+        "amount_excluding_tax": 196.32,
+        "amount_including_tax": 159.4,
+        "tax_amount": 23.82
+    }
+}

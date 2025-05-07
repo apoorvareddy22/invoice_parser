@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "909 Jason Avenue Suite 261 Lake Brendaton, NJ 81815"
+    },
+    "invoice": {
+        "bc_no": "qK43378",
+        "date": "13.02.2018",
+        "maturity_date": "12.01.2004",
+        "number": 350925
+    },
+    "products": [
+        {
+            "amount": 70.62,
+            "description": "embrace user-centric functionalities",
+            "quantity": 2.05,
+            "unit_price": 40.32,
+            "vat_amount": 8.76
+        },
+        {
+            "amount": 8.25,
+            "description": "transition distributed paradigms",
+            "quantity": 4.29,
+            "unit_price": 20.74,
+            "vat_amount": 7.28
+        },
+        {
+            "amount": 417.71,
+            "description": "envisioneer granular solutions",
+            "quantity": 4.33,
+            "unit_price": 41.82,
+            "vat_amount": 12.11
+        },
+        {
+            "amount": 302.95,
+            "description": "strategize integrated networks",
+            "quantity": 9.62,
+            "unit_price": 76.53,
+            "vat_amount": 1.79
+        },
+        {
+            "amount": 44.4,
+            "description": "unleash viral supply-chains",
+            "quantity": 2.57,
+            "unit_price": 28.42,
+            "vat_amount": 7.15
+        },
+        {
+            "amount": 252.64,
+            "description": "brand open-source interfaces",
+            "quantity": 6.32,
+            "unit_price": 91.68,
+            "vat_amount": 5.58
+        }
+    ],
+    "seller": {
+        "address": "57967 Harris Shoals Smithfort, MA 76758"
+    },
+    "tax": {
+        "amount_excluding_tax": 46.97,
+        "amount_including_tax": 62.5,
+        "tax_amount": 24.77
+    }
+}

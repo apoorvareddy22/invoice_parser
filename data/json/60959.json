@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "2606 Carrillo Manors Velazquezton, IA 69428",
+        "business_no": "MR632",
+        "id": "lc490"
+    },
+    "invoice": {
+        "date": "01.09.2015",
+        "number": "2802-7468"
+    },
+    "payment": {
+        "due_date": "06.03.2003",
+        "total": 367.65
+    },
+    "products": [
+        {
+            "amount": 478.98,
+            "description": "syndicate 24/365 schemas",
+            "quantity": 4.67,
+            "reference": "cx-390",
+            "unit_price": 27.24
+        },
+        {
+            "amount": 52.65,
+            "description": "evolve 24/365 info-mediaries",
+            "quantity": 7.34,
+            "reference": "lR-178",
+            "unit_price": 23.72
+        },
+        {
+            "amount": 131.34,
+            "description": "drive integrated ROI",
+            "quantity": 3.61,
+            "reference": "ji-044",
+            "unit_price": 61.89
+        }
+    ],
+    "seller": {
+        "address": "3912 Miller Heights North Andreaville, NV 10948"
+    },
+    "tax": {
+        "base_ht": 180.04,
+        "regulations": 26.62,
+        "total_ht": 376.33,
+        "vat_amount": 171.44,
+        "vat_percentage": 16.99
+    }
+}

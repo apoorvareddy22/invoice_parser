@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "28001 Sean Lake Suite 023 Grayshire, GU 82412",
+        "company_name": "Terry PLC",
+        "email": "kenneth38@example.com",
+        "name": "Heather Gross",
+        "phone": "(873)291-1788"
+    },
+    "invoice": {
+        "date": "31.08.2008",
+        "due_date": "10.10.2001",
+        "number": "wtc43110309547"
+    },
+    "payment": {
+        "account_number": 3606690577,
+        "bank_name": "Rivera LLC",
+        "routing_number": 765759875
+    },
+    "products": [
+        {
+            "amount": 131.69,
+            "description": "mesh sticky infrastructures",
+            "index": "5",
+            "quantity": 6.41,
+            "unit_price": 30.91
+        },
+        {
+            "amount": 335.12,
+            "description": "synthesize dot-com action-items",
+            "index": "7",
+            "quantity": 7.67,
+            "unit_price": 74.31
+        },
+        {
+            "amount": 223.41,
+            "description": "transform visionary e-tailers",
+            "index": "10",
+            "quantity": 9.05,
+            "unit_price": 19.13
+        },
+        {
+            "amount": 67.81,
+            "description": "benchmark robust bandwidth",
+            "index": "10",
+            "quantity": 4.63,
+            "unit_price": 79.75
+        },
+        {
+            "amount": 407.7,
+            "description": "empower turn-key niches",
+            "index": "5",
+            "quantity": 7.61,
+            "unit_price": 85.51
+        }
+    ],
+    "seller": {
+        "address": "6933 Laura Course Apt. 973 Nicholemouth, HI 73703",
+        "company_name": "Moody, Atkins and Perez",
+        "email": "englishbeth@example.net"
+    }
+}

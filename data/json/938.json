@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "1118 Edward Pine Kylieland, IA 22120",
+        "company_name": "Brown Ltd",
+        "country": "Martinique",
+        "name": "Jake Pineda"
+    },
+    "invoice": {
+        "date": "27.08.2011",
+        "number": 876029
+    },
+    "payment": {
+        "discount_amount": 34.66,
+        "discount_percentage": 18.02,
+        "due": 142.48,
+        "sub_total": 97.97,
+        "total": 921.87
+    },
+    "products": [
+        {
+            "description": "envisioneer sticky functionalities",
+            "index": "5",
+            "quantity": 8.67,
+            "total_price": 540.41,
+            "unit_price": 17.58
+        },
+        {
+            "description": "incubate end-to-end convergence",
+            "index": "2",
+            "quantity": 4.04,
+            "total_price": 22.86,
+            "unit_price": 64.95
+        },
+        {
+            "description": "benchmark integrated channels",
+            "index": "2",
+            "quantity": 5.61,
+            "total_price": 716.14,
+            "unit_price": 97.44
+        }
+    ],
+    "seller": {
+        "address": "7647 Judith Vista Suite 935 New Nathanbury, DE 58718",
+        "company_name": "Rasmussen Ltd",
+        "vat_no": "GW61117419852"
+    }
+}

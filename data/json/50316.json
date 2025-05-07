@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "10087 Schwartz Forge Suite 697 Haysport, AR 75210",
+        "id": "Jq219"
+    },
+    "invoice": {
+        "bc_no": "pB29570",
+        "currency_code": "JEP",
+        "date": "18.09.1998",
+        "due_date": "12.05.1990",
+        "number": 404544
+    },
+    "payment": {
+        "bank_name": "Robertson LLC",
+        "bic": "STIKGBKUFC6",
+        "iban": "XGVE36972003889024"
+    },
+    "products": [
+        {
+            "amount": 146.7,
+            "description": "whiteboard extensible niches",
+            "index": "10",
+            "price": 79.15,
+            "quantity": 1.83,
+            "tax_amount": 83.24,
+            "total_ttc": 289.41,
+            "vat_amount": 4.28
+        },
+        {
+            "amount": 224.73,
+            "description": "engineer mission-critical content",
+            "index": "9",
+            "price": 348.41,
+            "quantity": 7.7,
+            "tax_amount": 14.57,
+            "total_ttc": 250.61,
+            "vat_amount": 3.88
+        }
+    ],
+    "seller": {
+        "name": "Caleb Young"
+    },
+    "supplier": {
+        "address": "0452 Roy Crossing Lake Anthonyfurt, MO 20110",
+        "name": "Erin Ward"
+    },
+    "tax": {
+        "amount_excluding_tax": 98.38,
+        "amount_including_tax": 106.38,
+        "tax_amount": 15.43,
+        "total_ht": 214.88,
+        "total_ttc": 459.03
+    }
+}

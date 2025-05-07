@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "40844 Andrew Land Diaztown, SC 79143",
+        "email": "zachary86@example.com",
+        "phone": "001-647-448-6590x4576",
+        "vat_no": "YD19685170875"
+    },
+    "invoice": {
+        "date": "27.05.2004",
+        "due_date": "17.04.2004",
+        "market_reference": 625878,
+        "notes": "cultivate 24/365 synergies",
+        "number": "0363-1158",
+        "reference": 424594,
+        "vat_no": "oT56298501469"
+    },
+    "payment": {
+        "net_total": 149.72,
+        "total": 258.59
+    },
+    "products": [
+        {
+            "amount": 190.81,
+            "description": "scale extensible solutions",
+            "hours": 9.62,
+            "rate": 4.59
+        },
+        {
+            "amount": 408.98,
+            "description": "scale seamless networks",
+            "hours": 3.18,
+            "rate": 4.22
+        }
+    ],
+    "seller": {
+        "address": "10103 Daniel Park Apt. 884 North Natalieborough, GA 91094",
+        "email": "charlesbrown@example.org",
+        "name": "Franklin Hart"
+    },
+    "tax": {
+        "base": 26.5,
+        "tax_amount": 27.88,
+        "total_tax": 18.41
+    }
+}

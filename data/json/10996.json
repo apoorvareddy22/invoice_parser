@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "PSC 4669, Box 5976 APO AA 34497",
+        "email": "angela87@example.com",
+        "phone": "464-230-6832x6561",
+        "vat_no": "pw36157267932"
+    },
+    "invoice": {
+        "date": "25.12.1999",
+        "due_date": "26.08.2015",
+        "market_reference": 260920,
+        "notes": "matrix compelling technologies",
+        "number": "4799-2058",
+        "reference": 976383,
+        "vat_no": "jK03793155898"
+    },
+    "payment": {
+        "net_total": 168.48,
+        "total": 652.31
+    },
+    "products": [
+        {
+            "amount": 58.94,
+            "description": "deploy bleeding-edge relationships",
+            "hours": 2.29,
+            "rate": 2.89
+        },
+        {
+            "amount": 474.33,
+            "description": "incubate dynamic architectures",
+            "hours": 6.44,
+            "rate": 9.85
+        },
+        {
+            "amount": 29.75,
+            "description": "engineer revolutionary e-business",
+            "hours": 6.78,
+            "rate": 2.27
+        },
+        {
+            "amount": 5.55,
+            "description": "exploit compelling markets",
+            "hours": 1.51,
+            "rate": 5.2
+        },
+        {
+            "amount": 300.76,
+            "description": "whiteboard proactive vortals",
+            "hours": 4.07,
+            "rate": 5.03
+        },
+        {
+            "amount": 91.6,
+            "description": "exploit holistic deliverables",
+            "hours": 3.84,
+            "rate": 1.04
+        },
+        {
+            "amount": 356.54,
+            "description": "implement value-added supply-chains",
+            "hours": 5.82,
+            "rate": 1.87
+        }
+    ],
+    "seller": {
+        "address": "76785 Tucker Fields Apt. 178 Blevinsmouth, IL 12909",
+        "email": "drios@example.org",
+        "name": "Crystal Jones"
+    },
+    "tax": {
+        "base": 10.49,
+        "tax_amount": 26.56,
+        "total_tax": 15.89
+    }
+}

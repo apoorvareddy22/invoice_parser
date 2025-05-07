@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "6712 Obrien Orchard Suite 624 Katherinechester, DE 85070",
+        "company_name": "Henderson-Ramirez",
+        "email": "jonathan09@example.net",
+        "name": "Maria Sanchez",
+        "phone": "+1-406-552-3869x6049"
+    },
+    "invoice": {
+        "date": "23.11.2011",
+        "due_date": "05.07.2010",
+        "number": "QJO85765018632"
+    },
+    "payment": {
+        "account_number": 2151225503,
+        "bank_name": "Smith, Fletcher and Bruce",
+        "routing_number": 631710111
+    },
+    "products": [
+        {
+            "amount": 289.55,
+            "description": "streamline sticky systems",
+            "index": "8",
+            "quantity": 2.4,
+            "unit_price": 89.64
+        },
+        {
+            "amount": 67.18,
+            "description": "target bleeding-edge channels",
+            "index": "7",
+            "quantity": 6.61,
+            "unit_price": 90.43
+        },
+        {
+            "amount": 430.28,
+            "description": "incentivize scalable networks",
+            "index": "10",
+            "quantity": 3.15,
+            "unit_price": 79.0
+        },
+        {
+            "amount": 97.0,
+            "description": "productize wireless vortals",
+            "index": "5",
+            "quantity": 5.37,
+            "unit_price": 35.85
+        }
+    ],
+    "seller": {
+        "address": "27527 Michael Centers Apt. 868 New James, FM 77325",
+        "company_name": "Welch Group",
+        "email": "zwilliams@example.net"
+    }
+}

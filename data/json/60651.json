@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "5168 James Pass Apt. 194 Jacobmouth, WV 34954",
+        "business_no": "om339",
+        "id": "dT167"
+    },
+    "invoice": {
+        "date": "07.03.2006",
+        "number": "5836-4288"
+    },
+    "payment": {
+        "due_date": "14.09.2009",
+        "total": 429.33
+    },
+    "products": [
+        {
+            "amount": 125.65,
+            "description": "e-enable collaborative e-business",
+            "quantity": 6.5,
+            "reference": "bW-752",
+            "unit_price": 94.48
+        },
+        {
+            "amount": 238.36,
+            "description": "leverage B2B markets",
+            "quantity": 8.73,
+            "reference": "le-162",
+            "unit_price": 19.57
+        },
+        {
+            "amount": 291.28,
+            "description": "synergize visionary content",
+            "quantity": 1.45,
+            "reference": "pZ-048",
+            "unit_price": 47.63
+        },
+        {
+            "amount": 426.36,
+            "description": "architect customized systems",
+            "quantity": 1.74,
+            "reference": "ue-061",
+            "unit_price": 73.93
+        },
+        {
+            "amount": 327.65,
+            "description": "revolutionize scalable experiences",
+            "quantity": 3.53,
+            "reference": "wr-907",
+            "unit_price": 84.98
+        }
+    ],
+    "seller": {
+        "address": "44532 Mark Mount Suite 845 North Ericton, PW 05813"
+    },
+    "tax": {
+        "base_ht": 171.23,
+        "regulations": 14.97,
+        "total_ht": 447.62,
+        "vat_amount": 109.6,
+        "vat_percentage": 22.26
+    }
+}

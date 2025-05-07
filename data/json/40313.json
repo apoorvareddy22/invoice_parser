@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "383 Brandon Vista Millerborough, CA 22773"
+    },
+    "invoice": {
+        "bc_no": "CX64557",
+        "date": "05.08.2011",
+        "maturity_date": "11.12.2008",
+        "number": 307691
+    },
+    "products": [
+        {
+            "amount": 147.05,
+            "description": "embrace front-end interfaces",
+            "quantity": 4.86,
+            "unit_price": 94.02,
+            "vat_amount": 0.3
+        },
+        {
+            "amount": 135.91,
+            "description": "monetize global markets",
+            "quantity": 6.71,
+            "unit_price": 45.24,
+            "vat_amount": 3.04
+        },
+        {
+            "amount": 490.63,
+            "description": "transform transparent mindshare",
+            "quantity": 8.95,
+            "unit_price": 57.47,
+            "vat_amount": 10.16
+        },
+        {
+            "amount": 112.45,
+            "description": "cultivate mission-critical platforms",
+            "quantity": 8.14,
+            "unit_price": 62.11,
+            "vat_amount": 3.19
+        }
+    ],
+    "seller": {
+        "address": "6775 Linda Locks Suite 014 North Kristitown, WA 16402"
+    },
+    "tax": {
+        "amount_excluding_tax": 181.0,
+        "amount_including_tax": 80.61,
+        "tax_amount": 15.63
+    }
+}

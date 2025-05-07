@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "38560 Williams Mount Apt. 337 Jenniferburgh, OK 04410",
+        "business_no": "CV953",
+        "id": "ke955"
+    },
+    "invoice": {
+        "date": "04.07.1997",
+        "number": "7799-4608"
+    },
+    "payment": {
+        "due_date": "01.12.2005",
+        "total": 641.87
+    },
+    "products": [
+        {
+            "amount": 490.04,
+            "description": "repurpose proactive interfaces",
+            "quantity": 2.11,
+            "reference": "nl-181",
+            "unit_price": 39.11
+        },
+        {
+            "amount": 286.83,
+            "description": "facilitate plug-and-play e-services",
+            "quantity": 8.87,
+            "reference": "Wr-898",
+            "unit_price": 20.11
+        },
+        {
+            "amount": 282.28,
+            "description": "expedite cutting-edge e-tailers",
+            "quantity": 5.13,
+            "reference": "GG-602",
+            "unit_price": 66.34
+        },
+        {
+            "amount": 390.09,
+            "description": "enhance plug-and-play mindshare",
+            "quantity": 2.8,
+            "reference": "rC-150",
+            "unit_price": 61.09
+        }
+    ],
+    "seller": {
+        "address": "2195 Abigail Ways Meghanberg, NJ 43535"
+    },
+    "tax": {
+        "base_ht": 381.71,
+        "regulations": 19.72,
+        "total_ht": 168.35,
+        "vat_amount": 55.14,
+        "vat_percentage": 27.03
+    }
+}

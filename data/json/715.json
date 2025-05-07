@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "679 Andrew Mountain Apt. 543 East Gilbert, DE 85510",
+        "company_name": "Alexander, Vazquez and Mora",
+        "country": "Switzerland",
+        "name": "Lindsay Wallace"
+    },
+    "invoice": {
+        "date": "11.07.2004",
+        "number": 608585
+    },
+    "payment": {
+        "discount_amount": 34.44,
+        "discount_percentage": 16.21,
+        "due": 32.68,
+        "sub_total": 134.54,
+        "total": 123.27
+    },
+    "products": [
+        {
+            "description": "transition revolutionary systems",
+            "index": "5",
+            "quantity": 1.05,
+            "total_price": 636.79,
+            "unit_price": 88.78
+        },
+        {
+            "description": "morph dynamic solutions",
+            "index": "10",
+            "quantity": 1.68,
+            "total_price": 243.45,
+            "unit_price": 72.95
+        },
+        {
+            "description": "evolve integrated markets",
+            "index": "7",
+            "quantity": 6.74,
+            "total_price": 998.05,
+            "unit_price": 36.45
+        }
+    ],
+    "seller": {
+        "address": "USCGC Neal FPO AA 36739",
+        "company_name": "Tanner-Ramos",
+        "vat_no": "GV05468971056"
+    }
+}

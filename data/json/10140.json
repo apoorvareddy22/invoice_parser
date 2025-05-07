@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "9988 Gross Streets Suite 699 Lake John, LA 18971",
+        "email": "clarkjames@example.net",
+        "phone": "001-759-488-9065x62908",
+        "vat_no": "NM16217122624"
+    },
+    "invoice": {
+        "date": "28.01.1997",
+        "due_date": "27.09.1997",
+        "market_reference": 402576,
+        "notes": "e-enable transparent web services",
+        "number": "6321-4387",
+        "reference": 792637,
+        "vat_no": "pN13243645609"
+    },
+    "payment": {
+        "net_total": 64.2,
+        "total": 450.24
+    },
+    "products": [
+        {
+            "amount": 270.76,
+            "description": "exploit global applications",
+            "hours": 5.32,
+            "rate": 2.27
+        }
+    ],
+    "seller": {
+        "address": "835 Jacob Plaza Lake Crystalside, DC 78074",
+        "email": "mooredawn@example.com",
+        "name": "Jeffrey Scott"
+    },
+    "tax": {
+        "base": 26.71,
+        "tax_amount": 10.51,
+        "total_tax": 23.75
+    }
+}

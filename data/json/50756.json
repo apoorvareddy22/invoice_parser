@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "5683 Fernandez Courts Jenniferside, WI 76060",
+        "id": "Dy116"
+    },
+    "invoice": {
+        "bc_no": "VV32687",
+        "currency_code": "RUB",
+        "date": "20.12.2017",
+        "due_date": "10.04.2005",
+        "number": 903769
+    },
+    "payment": {
+        "bank_name": "Bell-Herrera",
+        "bic": "GGNPGB9R1IF",
+        "iban": "VUAV83097872456116"
+    },
+    "products": [
+        {
+            "amount": 171.93,
+            "description": "evolve visionary bandwidth",
+            "index": "7",
+            "price": 159.22,
+            "quantity": 2.91,
+            "tax_amount": 25.1,
+            "total_ttc": 406.07,
+            "vat_amount": 0.46
+        },
+        {
+            "amount": 88.83,
+            "description": "deliver cross-platform experiences",
+            "index": "4",
+            "price": 300.49,
+            "quantity": 1.78,
+            "tax_amount": 47.8,
+            "total_ttc": 457.8,
+            "vat_amount": 1.45
+        },
+        {
+            "amount": 491.02,
+            "description": "embrace visionary e-commerce",
+            "index": "10",
+            "price": 318.79,
+            "quantity": 7.2,
+            "tax_amount": 95.35,
+            "total_ttc": 294.24,
+            "vat_amount": 10.04
+        }
+    ],
+    "seller": {
+        "name": "Dan Hester"
+    },
+    "supplier": {
+        "address": "514 Griffin Mountain Apt. 018 Lake Nicolestad, SC 78269",
+        "name": "Jeremy Griffin"
+    },
+    "tax": {
+        "amount_excluding_tax": 47.56,
+        "amount_including_tax": 60.26,
+        "tax_amount": 29.2,
+        "total_ht": 104.51,
+        "total_ttc": 141.18
+    }
+}

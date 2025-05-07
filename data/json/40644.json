@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "367 Gloria Avenue Lake Matthew, SC 62749"
+    },
+    "invoice": {
+        "bc_no": "rJ90556",
+        "date": "26.02.2006",
+        "maturity_date": "26.06.2015",
+        "number": 180909
+    },
+    "products": [
+        {
+            "amount": 103.26,
+            "description": "engineer intuitive applications",
+            "quantity": 9.01,
+            "unit_price": 84.69,
+            "vat_amount": 4.64
+        },
+        {
+            "amount": 497.64,
+            "description": "empower innovative info-mediaries",
+            "quantity": 2.03,
+            "unit_price": 45.09,
+            "vat_amount": 1.15
+        },
+        {
+            "amount": 66.22,
+            "description": "scale cross-platform initiatives",
+            "quantity": 9.37,
+            "unit_price": 49.8,
+            "vat_amount": 1.0
+        },
+        {
+            "amount": 144.45,
+            "description": "deliver front-end niches",
+            "quantity": 2.74,
+            "unit_price": 41.54,
+            "vat_amount": 1.72
+        }
+    ],
+    "seller": {
+        "address": "64664 Mora River Michaelberg, ND 25162"
+    },
+    "tax": {
+        "amount_excluding_tax": 144.76,
+        "amount_including_tax": 159.87,
+        "tax_amount": 22.71
+    }
+}

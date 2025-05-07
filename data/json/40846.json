@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "530 Williams Junction Apt. 572 New Christopher, FL 20025"
+    },
+    "invoice": {
+        "bc_no": "Wy51786",
+        "date": "29.09.2000",
+        "maturity_date": "28.02.1994",
+        "number": 811222
+    },
+    "products": [
+        {
+            "amount": 122.54,
+            "description": "utilize dynamic niches",
+            "quantity": 1.47,
+            "unit_price": 19.79,
+            "vat_amount": 3.63
+        },
+        {
+            "amount": 232.44,
+            "description": "drive front-end schemas",
+            "quantity": 4.6,
+            "unit_price": 54.26,
+            "vat_amount": 2.99
+        },
+        {
+            "amount": 48.21,
+            "description": "unleash B2C action-items",
+            "quantity": 7.84,
+            "unit_price": 15.71,
+            "vat_amount": 3.4
+        }
+    ],
+    "seller": {
+        "address": "0931 Brown Isle Williamchester, CO 45993"
+    },
+    "tax": {
+        "amount_excluding_tax": 113.43,
+        "amount_including_tax": 23.26,
+        "tax_amount": 18.85
+    }
+}

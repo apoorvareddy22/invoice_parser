@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "7151 Tonya Islands West Anneview, WY 85005",
+        "email": "nguyencody@example.com",
+        "phone": "613-406-5870",
+        "vat_no": "jE71088106959"
+    },
+    "invoice": {
+        "date": "06.09.2015",
+        "due_date": "05.12.1999",
+        "market_reference": 360413,
+        "notes": "evolve out-of-the-box vortals",
+        "number": "2276-1712",
+        "reference": 467498,
+        "vat_no": "Aj38416219184"
+    },
+    "payment": {
+        "net_total": 194.97,
+        "total": 726.3
+    },
+    "products": [
+        {
+            "amount": 243.17,
+            "description": "cultivate 24/7 content",
+            "hours": 7.95,
+            "rate": 8.15
+        }
+    ],
+    "seller": {
+        "address": "3950 Charles Skyway Suite 960 Lake Eric, NC 78626",
+        "email": "fturner@example.com",
+        "name": "Joshua Bailey"
+    },
+    "tax": {
+        "base": 10.48,
+        "tax_amount": 12.03,
+        "total_tax": 12.95
+    }
+}

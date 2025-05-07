@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "966 Jamie Street Suite 688 Jamesmouth, AR 22575",
+        "email": "usimon@example.net",
+        "phone": "393.372.0796",
+        "vat_no": "Sm48652808919"
+    },
+    "invoice": {
+        "date": "21.03.1993",
+        "due_date": "21.07.2001",
+        "market_reference": 708557,
+        "notes": "extend impactful schemas",
+        "number": "7745-4455",
+        "reference": 661837,
+        "vat_no": "mL04761474912"
+    },
+    "payment": {
+        "net_total": 41.32,
+        "total": 757.41
+    },
+    "products": [
+        {
+            "amount": 428.27,
+            "description": "utilize mission-critical web-readiness",
+            "hours": 3.95,
+            "rate": 4.63
+        },
+        {
+            "amount": 278.64,
+            "description": "transition virtual vortals",
+            "hours": 9.39,
+            "rate": 5.55
+        }
+    ],
+    "seller": {
+        "address": "21304 Williams Mountain South Amyborough, NE 44082",
+        "email": "archerrobert@example.org",
+        "name": "Randy Friedman"
+    },
+    "tax": {
+        "base": 23.61,
+        "tax_amount": 11.66,
+        "total_tax": 14.44
+    }
+}

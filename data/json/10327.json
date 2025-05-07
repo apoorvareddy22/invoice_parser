@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "5870 Teresa Extensions Apt. 424 North Anthony, MD 38869",
+        "email": "daniel67@example.com",
+        "phone": "714-942-7902",
+        "vat_no": "hk13671322040"
+    },
+    "invoice": {
+        "date": "24.10.2019",
+        "due_date": "11.07.2016",
+        "market_reference": 807707,
+        "notes": "iterate frictionless e-commerce",
+        "number": "9212-2711",
+        "reference": 444240,
+        "vat_no": "zy74371560547"
+    },
+    "payment": {
+        "net_total": 59.83,
+        "total": 639.47
+    },
+    "products": [
+        {
+            "amount": 333.42,
+            "description": "transition open-source infrastructures",
+            "hours": 9.53,
+            "rate": 1.34
+        }
+    ],
+    "seller": {
+        "address": "3192 Rush Spurs Reneeside, OK 53718",
+        "email": "dbaker@example.com",
+        "name": "Nicholas Barnett"
+    },
+    "tax": {
+        "base": 24.12,
+        "tax_amount": 10.9,
+        "total_tax": 14.9
+    }
+}

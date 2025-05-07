@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "005 Cooper Passage Apt. 939 New Mercedes, WI 49381"
+    },
+    "invoice": {
+        "bc_no": "Dy94716",
+        "date": "23.06.2017",
+        "maturity_date": "05.07.2021",
+        "number": 910285
+    },
+    "products": [
+        {
+            "amount": 139.53,
+            "description": "productize killer platforms",
+            "quantity": 3.45,
+            "unit_price": 60.61,
+            "vat_amount": 3.44
+        }
+    ],
+    "seller": {
+        "address": "1416 Miller Crossing Suite 773 Lake Aprilville, TX 53462"
+    },
+    "tax": {
+        "amount_excluding_tax": 174.44,
+        "amount_including_tax": 93.9,
+        "tax_amount": 26.72
+    }
+}

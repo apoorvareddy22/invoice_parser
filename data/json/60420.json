@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "Unit 3255 Box 7848 DPO AE 63039",
+        "business_no": "fP772",
+        "id": "Ze815"
+    },
+    "invoice": {
+        "date": "22.08.2000",
+        "number": "0735-5950"
+    },
+    "payment": {
+        "due_date": "21.05.2007",
+        "total": 566.03
+    },
+    "products": [
+        {
+            "amount": 347.23,
+            "description": "benchmark dot-com e-commerce",
+            "quantity": 5.62,
+            "reference": "Is-225",
+            "unit_price": 41.28
+        },
+        {
+            "amount": 30.27,
+            "description": "incubate plug-and-play niches",
+            "quantity": 7.73,
+            "reference": "Xs-794",
+            "unit_price": 72.96
+        },
+        {
+            "amount": 409.47,
+            "description": "transition robust e-markets",
+            "quantity": 4.71,
+            "reference": "rk-946",
+            "unit_price": 55.11
+        },
+        {
+            "amount": 195.35,
+            "description": "benchmark robust metrics",
+            "quantity": 9.43,
+            "reference": "Jq-471",
+            "unit_price": 48.47
+        }
+    ],
+    "seller": {
+        "address": "983 Shannon Locks Martinburgh, FM 07813"
+    },
+    "tax": {
+        "base_ht": 404.28,
+        "regulations": 23.68,
+        "total_ht": 376.09,
+        "vat_amount": 59.34,
+        "vat_percentage": 13.12
+    }
+}

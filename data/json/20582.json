@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "19856 Garcia Shoal Apt. 555 West Emilyland, MP 83094",
+        "company_name": "Jones Inc",
+        "email": "nquinn@example.com",
+        "name": "Cynthia Cox",
+        "phone": "(228)248-9023x8119"
+    },
+    "invoice": {
+        "date": "23.05.2021",
+        "due_date": "20.11.2001",
+        "number": "OhL80593142912"
+    },
+    "payment": {
+        "account_number": 6222967623,
+        "bank_name": "Miller LLC",
+        "routing_number": 475812823
+    },
+    "products": [
+        {
+            "amount": 301.12,
+            "description": "repurpose rich models",
+            "index": "2",
+            "quantity": 2.18,
+            "unit_price": 31.1
+        },
+        {
+            "amount": 424.89,
+            "description": "integrate out-of-the-box solutions",
+            "index": "5",
+            "quantity": 1.78,
+            "unit_price": 41.71
+        },
+        {
+            "amount": 272.32,
+            "description": "enable cross-platform networks",
+            "index": "7",
+            "quantity": 4.19,
+            "unit_price": 46.51
+        },
+        {
+            "amount": 499.79,
+            "description": "target rich channels",
+            "index": "8",
+            "quantity": 7.67,
+            "unit_price": 70.8
+        }
+    ],
+    "seller": {
+        "address": "PSC 7678, Box 2594 APO AE 11483",
+        "company_name": "Smith Inc",
+        "email": "madisonvega@example.org"
+    }
+}

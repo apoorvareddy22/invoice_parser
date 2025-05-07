@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "8142 Joseph Canyon Suite 974 Angelabury, SC 92612",
+        "id": "oS920"
+    },
+    "invoice": {
+        "bc_no": "Db72346",
+        "currency_code": "PYG",
+        "date": "21.09.2011",
+        "due_date": "28.06.2012",
+        "number": 333674
+    },
+    "payment": {
+        "bank_name": "Donaldson Group",
+        "bic": "HNOGGBV4FK4",
+        "iban": "GVUM46263335554154"
+    },
+    "products": [
+        {
+            "amount": 450.2,
+            "description": "orchestrate visionary relationships",
+            "index": "9",
+            "price": 495.34,
+            "quantity": 7.98,
+            "tax_amount": 55.26,
+            "total_ttc": 126.08,
+            "vat_amount": 3.03
+        },
+        {
+            "amount": 470.22,
+            "description": "expedite world-class action-items",
+            "index": "3",
+            "price": 275.66,
+            "quantity": 7.37,
+            "tax_amount": 75.61,
+            "total_ttc": 281.94,
+            "vat_amount": 2.64
+        },
+        {
+            "amount": 403.8,
+            "description": "integrate wireless content",
+            "index": "1",
+            "price": 453.73,
+            "quantity": 9.56,
+            "tax_amount": 85.26,
+            "total_ttc": 438.72,
+            "vat_amount": 1.0
+        }
+    ],
+    "seller": {
+        "name": "Theresa Brown"
+    },
+    "supplier": {
+        "address": "741 Jones Gateway Reedmouth, MA 60811",
+        "name": "Kristopher Flowers"
+    },
+    "tax": {
+        "amount_excluding_tax": 161.62,
+        "amount_including_tax": 79.04,
+        "tax_amount": 18.6,
+        "total_ht": 270.7,
+        "total_ttc": 170.19
+    }
+}

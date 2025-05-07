@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "406 Brandon Roads Andrewborough, MT 98783",
+        "email": "lisamitchell@example.org",
+        "phone": "+1-845-300-2955x651",
+        "vat_no": "OO35219765642"
+    },
+    "invoice": {
+        "date": "01.07.2006",
+        "due_date": "14.12.1994",
+        "market_reference": 341012,
+        "notes": "seize granular ROI",
+        "number": "2375-9554",
+        "reference": 824874,
+        "vat_no": "xT69541099953"
+    },
+    "payment": {
+        "net_total": 185.24,
+        "total": 879.85
+    },
+    "products": [
+        {
+            "amount": 60.06,
+            "description": "deploy collaborative paradigms",
+            "hours": 2.61,
+            "rate": 1.88
+        },
+        {
+            "amount": 414.32,
+            "description": "incentivize wireless architectures",
+            "hours": 8.85,
+            "rate": 6.07
+        }
+    ],
+    "seller": {
+        "address": "8564 Camacho Mountain Suite 759 West Davidshire, CA 66820",
+        "email": "tanyashaw@example.org",
+        "name": "Sara Roberson"
+    },
+    "tax": {
+        "base": 22.07,
+        "tax_amount": 10.74,
+        "total_tax": 16.41
+    }
+}

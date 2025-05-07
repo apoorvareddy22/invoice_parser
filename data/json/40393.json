@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "073 Jessica Plains Apt. 709 Websterburgh, NM 76504"
+    },
+    "invoice": {
+        "bc_no": "wd29322",
+        "date": "27.02.1995",
+        "maturity_date": "11.04.2006",
+        "number": 150640
+    },
+    "products": [
+        {
+            "amount": 96.52,
+            "description": "unleash global info-mediaries",
+            "quantity": 9.48,
+            "unit_price": 93.23,
+            "vat_amount": 2.85
+        }
+    ],
+    "seller": {
+        "address": "775 Murphy Burgs East Scott, AR 80298"
+    },
+    "tax": {
+        "amount_excluding_tax": 80.91,
+        "amount_including_tax": 127.26,
+        "tax_amount": 29.11
+    }
+}

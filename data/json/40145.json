@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "8451 David Pines Apt. 413 Javierstad, VI 58805"
+    },
+    "invoice": {
+        "bc_no": "Kx76063",
+        "date": "24.01.1992",
+        "maturity_date": "02.03.2002",
+        "number": 368554
+    },
+    "products": [
+        {
+            "amount": 314.8,
+            "description": "e-enable visionary platforms",
+            "quantity": 5.1,
+            "unit_price": 87.24,
+            "vat_amount": 6.95
+        },
+        {
+            "amount": 51.36,
+            "description": "target compelling convergence",
+            "quantity": 6.25,
+            "unit_price": 84.84,
+            "vat_amount": 1.28
+        },
+        {
+            "amount": 429.26,
+            "description": "leverage cross-media niches",
+            "quantity": 1.96,
+            "unit_price": 31.86,
+            "vat_amount": 0.01
+        },
+        {
+            "amount": 126.37,
+            "description": "incentivize strategic solutions",
+            "quantity": 5.44,
+            "unit_price": 40.37,
+            "vat_amount": 10.52
+        }
+    ],
+    "seller": {
+        "address": "58589 Tina Prairie Suite 574 Olivertown, CO 06796"
+    },
+    "tax": {
+        "amount_excluding_tax": 125.31,
+        "amount_including_tax": 181.96,
+        "tax_amount": 16.53
+    }
+}

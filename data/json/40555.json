@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "2152 Hall Dale Apt. 801 West Johnview, IN 06786"
+    },
+    "invoice": {
+        "bc_no": "ts09136",
+        "date": "21.02.1993",
+        "maturity_date": "26.03.1991",
+        "number": 442368
+    },
+    "products": [
+        {
+            "amount": 18.41,
+            "description": "seize 24/365 functionalities",
+            "quantity": 6.0,
+            "unit_price": 89.85,
+            "vat_amount": 3.62
+        },
+        {
+            "amount": 95.84,
+            "description": "scale distributed e-services",
+            "quantity": 6.85,
+            "unit_price": 26.25,
+            "vat_amount": 0.81
+        },
+        {
+            "amount": 278.74,
+            "description": "enhance extensible mindshare",
+            "quantity": 6.53,
+            "unit_price": 87.71,
+            "vat_amount": 4.96
+        },
+        {
+            "amount": 420.79,
+            "description": "incubate web-enabled eyeballs",
+            "quantity": 5.87,
+            "unit_price": 86.15,
+            "vat_amount": 12.2
+        },
+        {
+            "amount": 352.09,
+            "description": "streamline interactive bandwidth",
+            "quantity": 7.77,
+            "unit_price": 64.79,
+            "vat_amount": 9.41
+        }
+    ],
+    "seller": {
+        "address": "187 Hunter Roads Suite 185 South Amanda, RI 60256"
+    },
+    "tax": {
+        "amount_excluding_tax": 176.02,
+        "amount_including_tax": 106.58,
+        "tax_amount": 26.56
+    }
+}

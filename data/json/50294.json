@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "0118 Traci Valley Grahamburgh, SC 65232",
+        "id": "lZ948"
+    },
+    "invoice": {
+        "bc_no": "Og80144",
+        "currency_code": "GYD",
+        "date": "07.06.2012",
+        "due_date": "03.04.2005",
+        "number": 683959
+    },
+    "payment": {
+        "bank_name": "Williams, Robinson and Meyers",
+        "bic": "YXQPGB9H",
+        "iban": "KSUH46031200200575"
+    },
+    "products": [
+        {
+            "amount": 463.12,
+            "description": "deliver open-source relationships",
+            "index": "5",
+            "price": 198.07,
+            "quantity": 9.06,
+            "tax_amount": 53.72,
+            "total_ttc": 243.41,
+            "vat_amount": 4.74
+        },
+        {
+            "amount": 122.7,
+            "description": "harness sticky initiatives",
+            "index": "1",
+            "price": 225.5,
+            "quantity": 4.66,
+            "tax_amount": 32.0,
+            "total_ttc": 499.7,
+            "vat_amount": 2.11
+        },
+        {
+            "amount": 251.65,
+            "description": "implement innovative e-tailers",
+            "index": "4",
+            "price": 90.18,
+            "quantity": 4.69,
+            "tax_amount": 79.38,
+            "total_ttc": 210.63,
+            "vat_amount": 0.17
+        }
+    ],
+    "seller": {
+        "name": "Brian Jordan Jr."
+    },
+    "supplier": {
+        "address": "PSC 2184, Box 0989 APO AA 42636",
+        "name": "Elizabeth Schultz"
+    },
+    "tax": {
+        "amount_excluding_tax": 132.99,
+        "amount_including_tax": 25.01,
+        "tax_amount": 27.83,
+        "total_ht": 444.72,
+        "total_ttc": 400.93
+    }
+}

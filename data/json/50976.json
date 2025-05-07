@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "4399 Sharon Ville Apt. 123 Diazside, FL 27133",
+        "id": "sl994"
+    },
+    "invoice": {
+        "bc_no": "iJ25594",
+        "currency_code": "KPW",
+        "date": "14.10.2022",
+        "due_date": "17.07.2021",
+        "number": 756500
+    },
+    "payment": {
+        "bank_name": "Nelson, Alvarez and Padilla",
+        "bic": "XQCHGBSTW7L",
+        "iban": "GOFS81714351313261"
+    },
+    "products": [
+        {
+            "amount": 109.71,
+            "description": "deliver turn-key web services",
+            "index": "9",
+            "price": 374.6,
+            "quantity": 3.1,
+            "tax_amount": 49.47,
+            "total_ttc": 466.17,
+            "vat_amount": 0.79
+        },
+        {
+            "amount": 92.06,
+            "description": "matrix value-added technologies",
+            "index": "1",
+            "price": 344.92,
+            "quantity": 9.95,
+            "tax_amount": 33.2,
+            "total_ttc": 299.87,
+            "vat_amount": 5.56
+        },
+        {
+            "amount": 214.44,
+            "description": "mesh mission-critical methodologies",
+            "index": "4",
+            "price": 451.87,
+            "quantity": 4.99,
+            "tax_amount": 85.92,
+            "total_ttc": 100.97,
+            "vat_amount": 10.72
+        },
+        {
+            "amount": 470.32,
+            "description": "redefine innovative systems",
+            "index": "7",
+            "price": 226.63,
+            "quantity": 6.55,
+            "tax_amount": 46.94,
+            "total_ttc": 214.09,
+            "vat_amount": 15.55
+        },
+        {
+            "amount": 343.01,
+            "description": "expedite clicks-and-mortar users",
+            "index": "8",
+            "price": 440.05,
+            "quantity": 9.49,
+            "tax_amount": 81.62,
+            "total_ttc": 258.97,
+            "vat_amount": 0.77
+        },
+        {
+            "amount": 453.03,
+            "description": "facilitate user-centric architectures",
+            "index": "8",
+            "price": 137.53,
+            "quantity": 5.9,
+            "tax_amount": 95.31,
+            "total_ttc": 185.38,
+            "vat_amount": 4.68
+        }
+    ],
+    "seller": {
+        "name": "Christine Cox"
+    },
+    "supplier": {
+        "address": "9826 Mandy Ville Hamiltonmouth, KS 81318",
+        "name": "Reginald Russell"
+    },
+    "tax": {
+        "amount_excluding_tax": 16.82,
+        "amount_including_tax": 101.27,
+        "tax_amount": 23.08,
+        "total_ht": 279.77,
+        "total_ttc": 440.27
+    }
+}

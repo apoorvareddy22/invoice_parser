@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "5433 Williams Fall Suite 749 Cooperbury, MO 81303",
+        "business_no": "Oe450",
+        "id": "Oz017"
+    },
+    "invoice": {
+        "date": "08.02.2011",
+        "number": "7264-7855"
+    },
+    "payment": {
+        "due_date": "22.09.2014",
+        "total": 393.59
+    },
+    "products": [
+        {
+            "amount": 248.95,
+            "description": "redefine leading-edge portals",
+            "quantity": 4.31,
+            "reference": "CK-552",
+            "unit_price": 53.73
+        },
+        {
+            "amount": 406.07,
+            "description": "strategize distributed content",
+            "quantity": 1.33,
+            "reference": "yk-801",
+            "unit_price": 95.66
+        }
+    ],
+    "seller": {
+        "address": "56099 Jackson Locks New William, MT 11436"
+    },
+    "tax": {
+        "base_ht": 297.91,
+        "regulations": 22.81,
+        "total_ht": 223.4,
+        "vat_amount": 31.94,
+        "vat_percentage": 17.19
+    }
+}

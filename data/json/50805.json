@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "71556 Thomas Rue West Dominic, NV 67435",
+        "id": "uW603"
+    },
+    "invoice": {
+        "bc_no": "aL88645",
+        "currency_code": "INR",
+        "date": "06.11.1990",
+        "due_date": "11.09.2008",
+        "number": 540283
+    },
+    "payment": {
+        "bank_name": "Castillo, Martinez and Miller",
+        "bic": "NTLUGBJL",
+        "iban": "FQDQ99486137973549"
+    },
+    "products": [
+        {
+            "amount": 482.74,
+            "description": "empower compelling experiences",
+            "index": "6",
+            "price": 140.61,
+            "quantity": 1.65,
+            "tax_amount": 62.09,
+            "total_ttc": 327.99,
+            "vat_amount": 2.94
+        },
+        {
+            "amount": 342.26,
+            "description": "utilize cutting-edge technologies",
+            "index": "3",
+            "price": 114.43,
+            "quantity": 5.43,
+            "tax_amount": 35.22,
+            "total_ttc": 458.23,
+            "vat_amount": 0.85
+        },
+        {
+            "amount": 106.17,
+            "description": "synthesize synergistic e-markets",
+            "index": "7",
+            "price": 158.41,
+            "quantity": 1.02,
+            "tax_amount": 10.23,
+            "total_ttc": 226.39,
+            "vat_amount": 11.25
+        },
+        {
+            "amount": 267.4,
+            "description": "re-contextualize interactive applications",
+            "index": "5",
+            "price": 73.83,
+            "quantity": 1.61,
+            "tax_amount": 77.53,
+            "total_ttc": 273.1,
+            "vat_amount": 2.2
+        },
+        {
+            "amount": 130.54,
+            "description": "disintermediate end-to-end e-commerce",
+            "index": "2",
+            "price": 95.03,
+            "quantity": 3.57,
+            "tax_amount": 92.31,
+            "total_ttc": 123.24,
+            "vat_amount": 9.43
+        }
+    ],
+    "seller": {
+        "name": "Phyllis Tyler"
+    },
+    "supplier": {
+        "address": "89099 Vanessa Springs Suite 666 Port Robertburgh, NE 87314",
+        "name": "Jacqueline Maldonado"
+    },
+    "tax": {
+        "amount_excluding_tax": 22.54,
+        "amount_including_tax": 160.14,
+        "tax_amount": 26.69,
+        "total_ht": 212.59,
+        "total_ttc": 386.56
+    }
+}

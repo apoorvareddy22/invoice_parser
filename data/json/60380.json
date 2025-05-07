@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "414 Monica Motorway Suite 440 Stephensonmouth, PA 40883",
+        "business_no": "Nt133",
+        "id": "iX276"
+    },
+    "invoice": {
+        "date": "07.09.2000",
+        "number": "6909-5332"
+    },
+    "payment": {
+        "due_date": "21.06.2013",
+        "total": 923.23
+    },
+    "products": [
+        {
+            "amount": 31.7,
+            "description": "visualize web-enabled infrastructures",
+            "quantity": 9.35,
+            "reference": "sv-523",
+            "unit_price": 85.42
+        },
+        {
+            "amount": 124.66,
+            "description": "utilize open-source e-services",
+            "quantity": 9.03,
+            "reference": "jm-156",
+            "unit_price": 61.9
+        },
+        {
+            "amount": 162.06,
+            "description": "drive proactive eyeballs",
+            "quantity": 2.44,
+            "reference": "GQ-472",
+            "unit_price": 78.73
+        },
+        {
+            "amount": 6.3,
+            "description": "whiteboard front-end systems",
+            "quantity": 4.53,
+            "reference": "Bd-126",
+            "unit_price": 27.63
+        }
+    ],
+    "seller": {
+        "address": "690 Timothy Ferry Suite 195 Meganland, RI 82729"
+    },
+    "tax": {
+        "base_ht": 322.53,
+        "regulations": 12.46,
+        "total_ht": 212.45,
+        "vat_amount": 85.36,
+        "vat_percentage": 16.7
+    }
+}

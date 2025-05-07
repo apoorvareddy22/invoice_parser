@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "078 Alexandra Burg East Ronald, NV 71749",
+        "email": "wilsonjames@example.org",
+        "phone": "+1-558-736-2215x756",
+        "vat_no": "iQ81093884049"
+    },
+    "invoice": {
+        "date": "23.07.1995",
+        "due_date": "27.06.1996",
+        "market_reference": 985918,
+        "notes": "monetize customized info-mediaries",
+        "number": "1839-6991",
+        "reference": 490669,
+        "vat_no": "rW55658101226"
+    },
+    "payment": {
+        "net_total": 83.4,
+        "total": 610.04
+    },
+    "products": [
+        {
+            "amount": 401.29,
+            "description": "harness front-end content",
+            "hours": 2.55,
+            "rate": 4.39
+        }
+    ],
+    "seller": {
+        "address": "63286 Reyes Forest Mistyport, MD 05678",
+        "email": "toddbass@example.com",
+        "name": "Ruben Gates"
+    },
+    "tax": {
+        "base": 18.23,
+        "tax_amount": 20.56,
+        "total_tax": 26.54
+    }
+}

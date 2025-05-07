@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "6821 Allen Trafficway East Margaret, SD 11487"
+    },
+    "invoice": {
+        "bc_no": "pf30889",
+        "date": "11.10.1997",
+        "maturity_date": "06.06.1994",
+        "number": 300100
+    },
+    "products": [
+        {
+            "amount": 127.46,
+            "description": "syndicate B2C methodologies",
+            "quantity": 8.26,
+            "unit_price": 63.47,
+            "vat_amount": 5.05
+        },
+        {
+            "amount": 19.65,
+            "description": "syndicate e-business applications",
+            "quantity": 2.56,
+            "unit_price": 12.15,
+            "vat_amount": 6.32
+        },
+        {
+            "amount": 420.74,
+            "description": "facilitate world-class metrics",
+            "quantity": 4.75,
+            "unit_price": 79.69,
+            "vat_amount": 13.59
+        },
+        {
+            "amount": 162.44,
+            "description": "deliver user-centric supply-chains",
+            "quantity": 2.13,
+            "unit_price": 74.7,
+            "vat_amount": 0.78
+        }
+    ],
+    "seller": {
+        "address": "0353 Timothy Hills Apt. 662 Randolphstad, OH 14220"
+    },
+    "tax": {
+        "amount_excluding_tax": 34.09,
+        "amount_including_tax": 152.27,
+        "tax_amount": 29.8
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "90679 Ellison Bypass Suite 045 South Michelleton, GA 68860",
+        "email": "ofry@example.com",
+        "phone": "710.618.1733x241",
+        "vat_no": "Ga26222485097"
+    },
+    "invoice": {
+        "date": "21.06.2010",
+        "due_date": "18.06.2021",
+        "market_reference": 741687,
+        "notes": "synergize killer channels",
+        "number": "8086-9599",
+        "reference": 686935,
+        "vat_no": "Ak20429808644"
+    },
+    "payment": {
+        "net_total": 101.65,
+        "total": 777.07
+    },
+    "products": [
+        {
+            "amount": 392.32,
+            "description": "repurpose strategic bandwidth",
+            "hours": 7.12,
+            "rate": 2.61
+        },
+        {
+            "amount": 366.61,
+            "description": "harness out-of-the-box initiatives",
+            "hours": 9.17,
+            "rate": 2.68
+        },
+        {
+            "amount": 499.94,
+            "description": "transform enterprise applications",
+            "hours": 7.33,
+            "rate": 9.69
+        },
+        {
+            "amount": 77.36,
+            "description": "benchmark interactive partnerships",
+            "hours": 5.79,
+            "rate": 4.53
+        },
+        {
+            "amount": 489.57,
+            "description": "cultivate seamless technologies",
+            "hours": 8.66,
+            "rate": 8.23
+        },
+        {
+            "amount": 326.75,
+            "description": "transition cross-media paradigms",
+            "hours": 2.74,
+            "rate": 3.42
+        }
+    ],
+    "seller": {
+        "address": "4565 Burns Lake Suite 057 East Shannon, FL 32452",
+        "email": "wrodriguez@example.org",
+        "name": "Thomas Shannon"
+    },
+    "tax": {
+        "base": 27.62,
+        "tax_amount": 25.48,
+        "total_tax": 14.85
+    }
+}

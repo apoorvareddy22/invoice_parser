@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "0101 Jennifer Road South Heidi, WA 11083",
+        "business_no": "Dg557",
+        "id": "uQ845"
+    },
+    "invoice": {
+        "date": "10.11.2012",
+        "number": "4868-2869"
+    },
+    "payment": {
+        "due_date": "01.08.2016",
+        "total": 534.02
+    },
+    "products": [
+        {
+            "amount": 265.11,
+            "description": "engineer end-to-end architectures",
+            "quantity": 7.37,
+            "reference": "rR-269",
+            "unit_price": 13.74
+        },
+        {
+            "amount": 193.17,
+            "description": "utilize user-centric platforms",
+            "quantity": 9.4,
+            "reference": "sY-223",
+            "unit_price": 44.1
+        },
+        {
+            "amount": 232.69,
+            "description": "disintermediate holistic interfaces",
+            "quantity": 5.13,
+            "reference": "xg-299",
+            "unit_price": 66.66
+        },
+        {
+            "amount": 297.84,
+            "description": "implement ubiquitous content",
+            "quantity": 6.75,
+            "reference": "xf-388",
+            "unit_price": 52.62
+        }
+    ],
+    "seller": {
+        "address": "819 House Trail East Joseph, PW 80641"
+    },
+    "tax": {
+        "base_ht": 192.96,
+        "regulations": 21.27,
+        "total_ht": 204.97,
+        "vat_amount": 130.42,
+        "vat_percentage": 29.5
+    }
+}

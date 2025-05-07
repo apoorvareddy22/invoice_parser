@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "12825 Veronica Dam Suite 520 Lake Brenda, IA 01553",
+        "id": "Ma211"
+    },
+    "invoice": {
+        "bc_no": "Zy06563",
+        "currency_code": "ANG",
+        "date": "02.01.2013",
+        "due_date": "06.12.1998",
+        "number": 295145
+    },
+    "payment": {
+        "bank_name": "King-Hardy",
+        "bic": "KHHVGB97QYA",
+        "iban": "TWXT17625572952477"
+    },
+    "products": [
+        {
+            "amount": 323.67,
+            "description": "enhance ubiquitous experiences",
+            "index": "3",
+            "price": 104.02,
+            "quantity": 9.01,
+            "tax_amount": 93.36,
+            "total_ttc": 203.53,
+            "vat_amount": 13.71
+        },
+        {
+            "amount": 471.37,
+            "description": "envisioneer out-of-the-box networks",
+            "index": "6",
+            "price": 111.62,
+            "quantity": 1.1,
+            "tax_amount": 90.59,
+            "total_ttc": 340.47,
+            "vat_amount": 0.0
+        },
+        {
+            "amount": 109.33,
+            "description": "seize killer e-tailers",
+            "index": "7",
+            "price": 161.06,
+            "quantity": 7.1,
+            "tax_amount": 73.96,
+            "total_ttc": 262.33,
+            "vat_amount": 3.32
+        },
+        {
+            "amount": 336.94,
+            "description": "incentivize B2C convergence",
+            "index": "1",
+            "price": 190.58,
+            "quantity": 5.28,
+            "tax_amount": 23.45,
+            "total_ttc": 419.51,
+            "vat_amount": 4.13
+        },
+        {
+            "amount": 333.06,
+            "description": "empower granular initiatives",
+            "index": "5",
+            "price": 245.79,
+            "quantity": 1.37,
+            "tax_amount": 39.57,
+            "total_ttc": 477.09,
+            "vat_amount": 2.42
+        },
+        {
+            "amount": 308.87,
+            "description": "integrate real-time users",
+            "index": "2",
+            "price": 413.98,
+            "quantity": 6.72,
+            "tax_amount": 15.62,
+            "total_ttc": 231.18,
+            "vat_amount": 6.34
+        },
+        {
+            "amount": 51.1,
+            "description": "whiteboard dot-com methodologies",
+            "index": "3",
+            "price": 163.59,
+            "quantity": 2.97,
+            "tax_amount": 12.7,
+            "total_ttc": 169.72,
+            "vat_amount": 9.47
+        }
+    ],
+    "seller": {
+        "name": "Jacob Garcia"
+    },
+    "supplier": {
+        "address": "4426 Sanchez Via Jonstad, HI 63291",
+        "name": "Angelica Lopez"
+    },
+    "tax": {
+        "amount_excluding_tax": 121.18,
+        "amount_including_tax": 146.5,
+        "tax_amount": 20.43,
+        "total_ht": 101.54,
+        "total_ttc": 205.16
+    }
+}

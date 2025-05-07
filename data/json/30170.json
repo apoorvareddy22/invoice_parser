@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "8516 Susan Station Suite 166 Port Emmaberg, IL 62255",
+        "company_name": "Herman Inc",
+        "country": "Madagascar",
+        "email": "cramos@example.net",
+        "name": "Frederick Glover",
+        "phone": "419.853.7143",
+        "vat_no": "pj72310841797"
+    },
+    "invoice": {
+        "date": "17.02.2009",
+        "due_date": "15.06.2018",
+        "linked_invoice": "qX-8684-3393",
+        "notes": "whiteboard granular functionalities",
+        "number": "oA-7222-9745"
+    },
+    "products": [
+        {
+            "description": "enable cross-media systems",
+            "discount_percentage": 11.31,
+            "price": 131.88,
+            "quantity": 4.39,
+            "unit_price": 49.57
+        },
+        {
+            "description": "re-intermediate dot-com eyeballs",
+            "discount_percentage": 13.77,
+            "price": 67.68,
+            "quantity": 9.25,
+            "unit_price": 97.97
+        },
+        {
+            "description": "engage synergistic schemas",
+            "discount_percentage": 6.72,
+            "price": 231.66,
+            "quantity": 1.16,
+            "unit_price": 59.86
+        }
+    ],
+    "seller": {
+        "address": "PSC 5439, Box 5443 APO AA 09808",
+        "ape": "8629n",
+        "capital": 58736329,
+        "country": "Libyan Arab Jamahiriya",
+        "email": "jacksonangela@example.org",
+        "name": "Brittney Parsons",
+        "phone_1": "346.461.4446",
+        "phone_2": "(848)603-9263",
+        "phone_3": "463-309-0810x556",
+        "ref_walk": "LfwP4158",
+        "reference": "mC149",
+        "siret": 42573172545041,
+        "vat_no": "Jt58542138887",
+        "website": "http://www.simmons.com/"
+    },
+    "tax": {
+        "amount_0": 16.35,
+        "amount_1": 24.31,
+        "base_0": 25.65,
+        "base_1": 77.46,
+        "total_ht": 491.41,
+        "total_tax": 12.85,
+        "total_ttc": 359.29,
+        "vat_0": 23.7,
+        "vat_1": 22.42
+    }
+}

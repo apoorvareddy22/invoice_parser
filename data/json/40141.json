@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "PSC 9823, Box 7705 APO AE 76779"
+    },
+    "invoice": {
+        "bc_no": "Na23272",
+        "date": "12.08.2021",
+        "maturity_date": "22.09.1996",
+        "number": 156192
+    },
+    "products": [
+        {
+            "amount": 435.82,
+            "description": "innovate visionary systems",
+            "quantity": 9.11,
+            "unit_price": 61.03,
+            "vat_amount": 8.83
+        },
+        {
+            "amount": 264.03,
+            "description": "streamline dynamic content",
+            "quantity": 5.45,
+            "unit_price": 77.5,
+            "vat_amount": 10.5
+        },
+        {
+            "amount": 428.86,
+            "description": "re-contextualize visionary interfaces",
+            "quantity": 5.94,
+            "unit_price": 14.26,
+            "vat_amount": 4.11
+        },
+        {
+            "amount": 55.42,
+            "description": "deploy best-of-breed schemas",
+            "quantity": 1.21,
+            "unit_price": 98.44,
+            "vat_amount": 2.61
+        },
+        {
+            "amount": 496.26,
+            "description": "strategize scalable applications",
+            "quantity": 4.44,
+            "unit_price": 31.13,
+            "vat_amount": 12.78
+        }
+    ],
+    "seller": {
+        "address": "5838 William Route South Ryanfurt, OH 17144"
+    },
+    "tax": {
+        "amount_excluding_tax": 45.34,
+        "amount_including_tax": 190.58,
+        "tax_amount": 20.75
+    }
+}

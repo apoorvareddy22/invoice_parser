@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "294 Joshua Extension Apt. 143 Susanbury, ID 41794",
+        "company_name": "Bond-Butler",
+        "email": "nnguyen@example.net",
+        "name": "Todd Miller",
+        "phone": "396.901.5698x154"
+    },
+    "invoice": {
+        "date": "16.10.1999",
+        "due_date": "18.10.2011",
+        "number": "lRF40065356516"
+    },
+    "payment": {
+        "account_number": 4126121046,
+        "bank_name": "Tyler Group",
+        "routing_number": 459495417
+    },
+    "products": [
+        {
+            "amount": 238.07,
+            "description": "leverage best-of-breed supply-chains",
+            "index": "7",
+            "quantity": 6.13,
+            "unit_price": 29.59
+        },
+        {
+            "amount": 109.56,
+            "description": "syndicate cross-media partnerships",
+            "index": "2",
+            "quantity": 3.63,
+            "unit_price": 42.88
+        },
+        {
+            "amount": 461.67,
+            "description": "re-contextualize holistic info-mediaries",
+            "index": "10",
+            "quantity": 1.18,
+            "unit_price": 61.29
+        }
+    ],
+    "seller": {
+        "address": "069 Matthew Summit Suite 080 Angelatown, RI 34137",
+        "company_name": "Garcia, Schultz and Perez",
+        "email": "kbender@example.org"
+    }
+}

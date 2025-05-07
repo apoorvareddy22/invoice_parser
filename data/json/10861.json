@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "USCGC Mullins FPO AE 76407",
+        "email": "kimbrown@example.org",
+        "phone": "+1-714-576-6972x9922",
+        "vat_no": "sB94562021757"
+    },
+    "invoice": {
+        "date": "19.02.2016",
+        "due_date": "07.01.1990",
+        "market_reference": 269540,
+        "notes": "transform value-added interfaces",
+        "number": "0660-8423",
+        "reference": 858172,
+        "vat_no": "rH39573148536"
+    },
+    "payment": {
+        "net_total": 62.13,
+        "total": 200.48
+    },
+    "products": [
+        {
+            "amount": 393.08,
+            "description": "enhance one-to-one architectures",
+            "hours": 9.79,
+            "rate": 3.46
+        },
+        {
+            "amount": 238.31,
+            "description": "incentivize integrated systems",
+            "hours": 8.16,
+            "rate": 3.43
+        },
+        {
+            "amount": 307.51,
+            "description": "enable cutting-edge e-business",
+            "hours": 3.17,
+            "rate": 7.28
+        },
+        {
+            "amount": 291.45,
+            "description": "harness 24/7 applications",
+            "hours": 8.98,
+            "rate": 8.7
+        },
+        {
+            "amount": 426.36,
+            "description": "whiteboard cross-platform functionalities",
+            "hours": 3.92,
+            "rate": 8.01
+        }
+    ],
+    "seller": {
+        "address": "USNS Miles FPO AP 09972",
+        "email": "jeffreyhanna@example.org",
+        "name": "Carlos Bell"
+    },
+    "tax": {
+        "base": 20.03,
+        "tax_amount": 24.62,
+        "total_tax": 19.98
+    }
+}

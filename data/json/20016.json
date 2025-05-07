@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "079 Payne Freeway Suite 365 West William, CO 46605",
+        "company_name": "Glass-Espinoza",
+        "email": "gabriellewis@example.org",
+        "name": "Julie Knox",
+        "phone": "779.312.9384"
+    },
+    "invoice": {
+        "date": "19.03.2002",
+        "due_date": "24.07.2016",
+        "number": "BWi46126451141"
+    },
+    "payment": {
+        "account_number": 2796011918,
+        "bank_name": "Brown Group",
+        "routing_number": 973119727
+    },
+    "products": [
+        {
+            "amount": 402.14,
+            "description": "engage real-time users",
+            "index": "2",
+            "quantity": 6.79,
+            "unit_price": 18.66
+        },
+        {
+            "amount": 43.6,
+            "description": "exploit end-to-end metrics",
+            "index": "8",
+            "quantity": 1.58,
+            "unit_price": 55.71
+        },
+        {
+            "amount": 334.17,
+            "description": "streamline rich partnerships",
+            "index": "4",
+            "quantity": 8.82,
+            "unit_price": 93.25
+        }
+    ],
+    "seller": {
+        "address": "6254 Ryan Cliff Apt. 752 Alishaville, NY 72294",
+        "company_name": "Griffith, Olson and Arnold",
+        "email": "gregory61@example.net"
+    }
+}

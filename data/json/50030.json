@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "488 Santos Oval Suite 508 Rebeccaside, GA 20680",
+        "id": "Sm237"
+    },
+    "invoice": {
+        "bc_no": "SK48280",
+        "currency_code": "NOK",
+        "date": "07.10.1990",
+        "due_date": "04.06.2022",
+        "number": 944736
+    },
+    "payment": {
+        "bank_name": "Young, Johnson and Jones",
+        "bic": "IUADGBIU",
+        "iban": "DWYN04782551041595"
+    },
+    "products": [
+        {
+            "amount": 228.23,
+            "description": "cultivate transparent e-markets",
+            "index": "1",
+            "price": 291.61,
+            "quantity": 2.95,
+            "tax_amount": 27.64,
+            "total_ttc": 175.89,
+            "vat_amount": 4.29
+        },
+        {
+            "amount": 155.64,
+            "description": "morph out-of-the-box schemas",
+            "index": "1",
+            "price": 353.48,
+            "quantity": 6.16,
+            "tax_amount": 53.26,
+            "total_ttc": 190.1,
+            "vat_amount": 0.99
+        },
+        {
+            "amount": 52.88,
+            "description": "brand synergistic web services",
+            "index": "4",
+            "price": 112.25,
+            "quantity": 5.22,
+            "tax_amount": 50.24,
+            "total_ttc": 277.36,
+            "vat_amount": 0.4
+        },
+        {
+            "amount": 172.95,
+            "description": "enable strategic e-markets",
+            "index": "10",
+            "price": 460.55,
+            "quantity": 6.46,
+            "tax_amount": 69.72,
+            "total_ttc": 189.48,
+            "vat_amount": 4.11
+        },
+        {
+            "amount": 74.97,
+            "description": "matrix revolutionary models",
+            "index": "5",
+            "price": 494.38,
+            "quantity": 4.71,
+            "tax_amount": 93.02,
+            "total_ttc": 387.01,
+            "vat_amount": 12.32
+        }
+    ],
+    "seller": {
+        "name": "Christian Chaney"
+    },
+    "supplier": {
+        "address": "8882 Schmidt Park West Lauren, WY 15579",
+        "name": "Kevin Sampson"
+    },
+    "tax": {
+        "amount_excluding_tax": 162.66,
+        "amount_including_tax": 139.88,
+        "tax_amount": 11.96,
+        "total_ht": 346.77,
+        "total_ttc": 231.34
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "601 Cook Freeway Brianport, CO 46086"
+    },
+    "invoice": {
+        "bc_no": "Dc36235",
+        "date": "03.06.1990",
+        "maturity_date": "01.05.2018",
+        "number": 246527
+    },
+    "products": [
+        {
+            "amount": 442.84,
+            "description": "mesh customized mindshare",
+            "quantity": 4.42,
+            "unit_price": 48.2,
+            "vat_amount": 2.98
+        },
+        {
+            "amount": 464.7,
+            "description": "reinvent sticky vortals",
+            "quantity": 7.2,
+            "unit_price": 13.01,
+            "vat_amount": 2.89
+        }
+    ],
+    "seller": {
+        "address": "2864 Berger Rest Apt. 588 South Brendafurt, IN 05696"
+    },
+    "tax": {
+        "amount_excluding_tax": 179.35,
+        "amount_including_tax": 197.11,
+        "tax_amount": 27.55
+    }
+}

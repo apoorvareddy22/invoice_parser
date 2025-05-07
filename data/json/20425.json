@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "69364 Rhodes Square Lake Charles, AS 02115",
+        "company_name": "Osborne-Hawkins",
+        "email": "wlee@example.org",
+        "name": "Thomas Garcia",
+        "phone": "2652309877"
+    },
+    "invoice": {
+        "date": "26.04.2001",
+        "due_date": "03.02.2006",
+        "number": "ACe13479698392"
+    },
+    "payment": {
+        "account_number": 2935086657,
+        "bank_name": "Saunders LLC",
+        "routing_number": 419203359
+    },
+    "products": [
+        {
+            "amount": 201.55,
+            "description": "deploy granular e-tailers",
+            "index": "10",
+            "quantity": 4.46,
+            "unit_price": 17.34
+        },
+        {
+            "amount": 494.48,
+            "description": "repurpose revolutionary web services",
+            "index": "6",
+            "quantity": 4.81,
+            "unit_price": 53.18
+        },
+        {
+            "amount": 493.33,
+            "description": "strategize seamless networks",
+            "index": "2",
+            "quantity": 7.25,
+            "unit_price": 49.9
+        },
+        {
+            "amount": 429.74,
+            "description": "engineer front-end niches",
+            "index": "3",
+            "quantity": 3.82,
+            "unit_price": 86.97
+        },
+        {
+            "amount": 376.83,
+            "description": "grow visionary networks",
+            "index": "9",
+            "quantity": 8.73,
+            "unit_price": 66.77
+        },
+        {
+            "amount": 142.82,
+            "description": "extend distributed supply-chains",
+            "index": "10",
+            "quantity": 5.79,
+            "unit_price": 86.2
+        }
+    ],
+    "seller": {
+        "address": "33349 Mason Island New Karenton, NY 49208",
+        "company_name": "David Group",
+        "email": "richardsonamber@example.com"
+    }
+}

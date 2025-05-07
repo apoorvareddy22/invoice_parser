@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "315 Courtney Park Lake Veronicafort, ID 47010",
+        "id": "rv759"
+    },
+    "invoice": {
+        "bc_no": "yb12477",
+        "currency_code": "SZL",
+        "date": "20.08.2003",
+        "due_date": "04.09.2011",
+        "number": 485683
+    },
+    "payment": {
+        "bank_name": "Brooks Inc",
+        "bic": "OKDAGB1H",
+        "iban": "IMUD74090833105709"
+    },
+    "products": [
+        {
+            "amount": 239.33,
+            "description": "brand dot-com partnerships",
+            "index": "9",
+            "price": 197.43,
+            "quantity": 3.53,
+            "tax_amount": 48.96,
+            "total_ttc": 378.44,
+            "vat_amount": 1.08
+        },
+        {
+            "amount": 434.27,
+            "description": "maximize 24/7 partnerships",
+            "index": "9",
+            "price": 38.9,
+            "quantity": 4.89,
+            "tax_amount": 89.73,
+            "total_ttc": 280.95,
+            "vat_amount": 0.63
+        },
+        {
+            "amount": 321.29,
+            "description": "enhance robust technologies",
+            "index": "6",
+            "price": 226.45,
+            "quantity": 8.79,
+            "tax_amount": 43.22,
+            "total_ttc": 362.56,
+            "vat_amount": 1.05
+        },
+        {
+            "amount": 174.12,
+            "description": "empower wireless deliverables",
+            "index": "4",
+            "price": 343.95,
+            "quantity": 5.38,
+            "tax_amount": 60.61,
+            "total_ttc": 221.6,
+            "vat_amount": 6.01
+        },
+        {
+            "amount": 134.26,
+            "description": "leverage killer e-commerce",
+            "index": "5",
+            "price": 54.89,
+            "quantity": 7.9,
+            "tax_amount": 85.72,
+            "total_ttc": 334.78,
+            "vat_amount": 0.91
+        },
+        {
+            "amount": 441.93,
+            "description": "matrix interactive networks",
+            "index": "3",
+            "price": 429.28,
+            "quantity": 3.21,
+            "tax_amount": 77.81,
+            "total_ttc": 338.38,
+            "vat_amount": 3.83
+        }
+    ],
+    "seller": {
+        "name": "Hannah Harris"
+    },
+    "supplier": {
+        "address": "226 Bradford Light Apt. 974 Port Gregorystad, MS 48524",
+        "name": "Janet Winters"
+    },
+    "tax": {
+        "amount_excluding_tax": 135.48,
+        "amount_including_tax": 28.9,
+        "tax_amount": 19.17,
+        "total_ht": 297.49,
+        "total_ttc": 326.29
+    }
+}

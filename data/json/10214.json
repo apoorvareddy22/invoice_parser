@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "0056 Aaron Terrace Lake Jamie, IA 17316",
+        "email": "tsmith@example.net",
+        "phone": "(325)662-4280",
+        "vat_no": "Rc73490730003"
+    },
+    "invoice": {
+        "date": "22.10.2002",
+        "due_date": "11.04.2005",
+        "market_reference": 133025,
+        "notes": "morph e-business channels",
+        "number": "8271-4545",
+        "reference": 682229,
+        "vat_no": "Hu51946727148"
+    },
+    "payment": {
+        "net_total": 171.78,
+        "total": 350.11
+    },
+    "products": [
+        {
+            "amount": 81.78,
+            "description": "matrix granular solutions",
+            "hours": 6.66,
+            "rate": 8.32
+        },
+        {
+            "amount": 47.52,
+            "description": "target enterprise markets",
+            "hours": 8.71,
+            "rate": 2.72
+        },
+        {
+            "amount": 206.82,
+            "description": "drive turn-key relationships",
+            "hours": 1.74,
+            "rate": 8.84
+        },
+        {
+            "amount": 281.44,
+            "description": "enhance revolutionary schemas",
+            "hours": 3.29,
+            "rate": 6.79
+        },
+        {
+            "amount": 26.69,
+            "description": "extend clicks-and-mortar systems",
+            "hours": 7.81,
+            "rate": 9.81
+        },
+        {
+            "amount": 395.01,
+            "description": "deliver dot-com metrics",
+            "hours": 1.43,
+            "rate": 5.44
+        },
+        {
+            "amount": 228.03,
+            "description": "incubate out-of-the-box vortals",
+            "hours": 1.06,
+            "rate": 7.5
+        }
+    ],
+    "seller": {
+        "address": "81784 Scott Estates Jeffreyfort, PW 97663",
+        "email": "bushcynthia@example.net",
+        "name": "Susan Martinez"
+    },
+    "tax": {
+        "base": 17.07,
+        "tax_amount": 10.41,
+        "total_tax": 22.85
+    }
+}

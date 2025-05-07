@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "0752 Griffith Groves Apt. 110 Lake Susan, CT 02124"
+    },
+    "invoice": {
+        "bc_no": "pm27639",
+        "date": "31.07.2004",
+        "maturity_date": "24.01.2008",
+        "number": 297871
+    },
+    "products": [
+        {
+            "amount": 436.76,
+            "description": "brand distributed solutions",
+            "quantity": 4.15,
+            "unit_price": 36.88,
+            "vat_amount": 0.21
+        },
+        {
+            "amount": 131.45,
+            "description": "expedite proactive e-services",
+            "quantity": 2.58,
+            "unit_price": 52.78,
+            "vat_amount": 0.39
+        },
+        {
+            "amount": 67.68,
+            "description": "deliver turn-key interfaces",
+            "quantity": 2.7,
+            "unit_price": 43.04,
+            "vat_amount": 6.97
+        }
+    ],
+    "seller": {
+        "address": "677 Jeremiah Junctions Lake Karenborough, WY 70604"
+    },
+    "tax": {
+        "amount_excluding_tax": 81.21,
+        "amount_including_tax": 32.49,
+        "tax_amount": 12.16
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "49929 Nicole Drive West Daniel, IA 71257",
+        "email": "qmartin@example.org",
+        "phone": "492.222.5652x3491",
+        "vat_no": "lW38548070503"
+    },
+    "invoice": {
+        "date": "22.08.1995",
+        "due_date": "05.12.2020",
+        "market_reference": 907814,
+        "notes": "productize efficient e-markets",
+        "number": "1774-6278",
+        "reference": 685470,
+        "vat_no": "ZR94418653821"
+    },
+    "payment": {
+        "net_total": 134.47,
+        "total": 107.03
+    },
+    "products": [
+        {
+            "amount": 380.85,
+            "description": "benchmark bricks-and-clicks experiences",
+            "hours": 6.37,
+            "rate": 1.72
+        },
+        {
+            "amount": 101.04,
+            "description": "harness virtual relationships",
+            "hours": 8.38,
+            "rate": 6.79
+        },
+        {
+            "amount": 111.66,
+            "description": "synergize customized schemas",
+            "hours": 1.32,
+            "rate": 5.93
+        },
+        {
+            "amount": 318.12,
+            "description": "syndicate B2B functionalities",
+            "hours": 4.77,
+            "rate": 9.43
+        },
+        {
+            "amount": 108.47,
+            "description": "generate dynamic eyeballs",
+            "hours": 3.48,
+            "rate": 8.68
+        },
+        {
+            "amount": 427.53,
+            "description": "re-contextualize real-time systems",
+            "hours": 6.22,
+            "rate": 4.4
+        }
+    ],
+    "seller": {
+        "address": "Unit 6536 Box 0996 DPO AE 88781",
+        "email": "xjohnson@example.org",
+        "name": "John Jones"
+    },
+    "tax": {
+        "base": 10.05,
+        "tax_amount": 24.93,
+        "total_tax": 14.44
+    }
+}

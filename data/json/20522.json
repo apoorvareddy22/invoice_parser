@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "1061 Warren Cove Mcleanport, DC 10838",
+        "company_name": "Smith PLC",
+        "email": "jenna29@example.org",
+        "name": "Joseph Smith",
+        "phone": "439-225-8620x629"
+    },
+    "invoice": {
+        "date": "09.12.2016",
+        "due_date": "01.08.2015",
+        "number": "Nrh87927674539"
+    },
+    "payment": {
+        "account_number": 5539982253,
+        "bank_name": "Sanchez-Jordan",
+        "routing_number": 424139984
+    },
+    "products": [
+        {
+            "amount": 179.89,
+            "description": "matrix world-class web services",
+            "index": "5",
+            "quantity": 6.73,
+            "unit_price": 81.14
+        },
+        {
+            "amount": 308.05,
+            "description": "evolve open-source solutions",
+            "index": "2",
+            "quantity": 5.69,
+            "unit_price": 65.53
+        },
+        {
+            "amount": 257.84,
+            "description": "empower front-end synergies",
+            "index": "9",
+            "quantity": 1.77,
+            "unit_price": 44.4
+        },
+        {
+            "amount": 154.4,
+            "description": "reinvent strategic bandwidth",
+            "index": "3",
+            "quantity": 3.86,
+            "unit_price": 49.44
+        }
+    ],
+    "seller": {
+        "address": "32665 Stephenson Parkways Apt. 194 Farleyhaven, VI 26152",
+        "company_name": "Moore-Franco",
+        "email": "april50@example.net"
+    }
+}

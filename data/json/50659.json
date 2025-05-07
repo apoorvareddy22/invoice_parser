@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "4027 Brenda Ridge Apt. 198 Chenmouth, MN 55877",
+        "id": "Fb005"
+    },
+    "invoice": {
+        "bc_no": "dc51994",
+        "currency_code": "BGN",
+        "date": "09.04.1994",
+        "due_date": "10.03.2008",
+        "number": 791295
+    },
+    "payment": {
+        "bank_name": "Paul-Lee",
+        "bic": "RTCEGB3A",
+        "iban": "QQIR88365579371804"
+    },
+    "products": [
+        {
+            "amount": 170.21,
+            "description": "extend customized systems",
+            "index": "3",
+            "price": 176.73,
+            "quantity": 3.11,
+            "tax_amount": 24.27,
+            "total_ttc": 187.92,
+            "vat_amount": 1.0
+        },
+        {
+            "amount": 379.74,
+            "description": "whiteboard ubiquitous users",
+            "index": "5",
+            "price": 182.81,
+            "quantity": 7.49,
+            "tax_amount": 61.05,
+            "total_ttc": 379.2,
+            "vat_amount": 8.23
+        },
+        {
+            "amount": 142.23,
+            "description": "embrace integrated eyeballs",
+            "index": "1",
+            "price": 275.6,
+            "quantity": 2.97,
+            "tax_amount": 22.15,
+            "total_ttc": 444.28,
+            "vat_amount": 10.79
+        },
+        {
+            "amount": 359.16,
+            "description": "cultivate world-class info-mediaries",
+            "index": "1",
+            "price": 424.14,
+            "quantity": 6.23,
+            "tax_amount": 93.07,
+            "total_ttc": 112.02,
+            "vat_amount": 2.6
+        },
+        {
+            "amount": 221.73,
+            "description": "streamline out-of-the-box supply-chains",
+            "index": "5",
+            "price": 375.42,
+            "quantity": 3.31,
+            "tax_amount": 42.55,
+            "total_ttc": 137.55,
+            "vat_amount": 5.63
+        },
+        {
+            "amount": 297.29,
+            "description": "facilitate proactive methodologies",
+            "index": "8",
+            "price": 335.03,
+            "quantity": 6.12,
+            "tax_amount": 34.28,
+            "total_ttc": 424.17,
+            "vat_amount": 9.61
+        },
+        {
+            "amount": 289.5,
+            "description": "leverage sticky initiatives",
+            "index": "7",
+            "price": 209.34,
+            "quantity": 4.16,
+            "tax_amount": 97.87,
+            "total_ttc": 277.84,
+            "vat_amount": 3.21
+        }
+    ],
+    "seller": {
+        "name": "Curtis Johnson"
+    },
+    "supplier": {
+        "address": "3494 Anita Ridge North Douglas, WV 84054",
+        "name": "Phillip Miller DDS"
+    },
+    "tax": {
+        "amount_excluding_tax": 193.69,
+        "amount_including_tax": 184.23,
+        "tax_amount": 20.24,
+        "total_ht": 149.35,
+        "total_ttc": 109.15
+    }
+}

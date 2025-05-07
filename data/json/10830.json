@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "0118 Henry Lock Apt. 281 West Richardberg, CT 72809",
+        "email": "kathy06@example.org",
+        "phone": "(861)245-9084",
+        "vat_no": "IK50078487367"
+    },
+    "invoice": {
+        "date": "24.01.2021",
+        "due_date": "23.10.2010",
+        "market_reference": 886401,
+        "notes": "extend integrated solutions",
+        "number": "5125-2725",
+        "reference": 314906,
+        "vat_no": "BI75804104734"
+    },
+    "payment": {
+        "net_total": 92.3,
+        "total": 878.52
+    },
+    "products": [
+        {
+            "amount": 311.19,
+            "description": "revolutionize world-class web services",
+            "hours": 4.79,
+            "rate": 3.87
+        },
+        {
+            "amount": 471.33,
+            "description": "unleash global markets",
+            "hours": 8.7,
+            "rate": 8.73
+        },
+        {
+            "amount": 308.49,
+            "description": "incentivize bleeding-edge metrics",
+            "hours": 6.95,
+            "rate": 4.93
+        },
+        {
+            "amount": 487.13,
+            "description": "synergize next-generation vortals",
+            "hours": 9.89,
+            "rate": 8.67
+        },
+        {
+            "amount": 138.88,
+            "description": "integrate value-added mindshare",
+            "hours": 6.65,
+            "rate": 3.75
+        }
+    ],
+    "seller": {
+        "address": "Unit 7253 Box 1235 DPO AE 82032",
+        "email": "meyerlisa@example.net",
+        "name": "Frank Quinn"
+    },
+    "tax": {
+        "base": 24.91,
+        "tax_amount": 13.85,
+        "total_tax": 16.0
+    }
+}

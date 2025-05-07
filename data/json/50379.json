@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "4187 Kimberly Prairie East Tamara, AL 06290",
+        "id": "oB024"
+    },
+    "invoice": {
+        "bc_no": "Ym93945",
+        "currency_code": "BIF",
+        "date": "05.03.2022",
+        "due_date": "06.01.2013",
+        "number": 878536
+    },
+    "payment": {
+        "bank_name": "Gonzales, Benson and Stewart",
+        "bic": "XHKRGBLP",
+        "iban": "MQLQ61777608496057"
+    },
+    "products": [
+        {
+            "amount": 181.63,
+            "description": "target robust eyeballs",
+            "index": "5",
+            "price": 325.42,
+            "quantity": 2.09,
+            "tax_amount": 43.6,
+            "total_ttc": 280.3,
+            "vat_amount": 4.3
+        },
+        {
+            "amount": 251.45,
+            "description": "strategize vertical applications",
+            "index": "6",
+            "price": 203.14,
+            "quantity": 5.42,
+            "tax_amount": 86.89,
+            "total_ttc": 400.04,
+            "vat_amount": 8.08
+        },
+        {
+            "amount": 30.75,
+            "description": "e-enable synergistic metrics",
+            "index": "9",
+            "price": 32.34,
+            "quantity": 1.06,
+            "tax_amount": 33.71,
+            "total_ttc": 389.66,
+            "vat_amount": 3.6
+        }
+    ],
+    "seller": {
+        "name": "Emily Rivera"
+    },
+    "supplier": {
+        "address": "4523 Brooks Lane Clarkberg, PW 50961",
+        "name": "Angel Moreno"
+    },
+    "tax": {
+        "amount_excluding_tax": 146.99,
+        "amount_including_tax": 26.11,
+        "tax_amount": 21.11,
+        "total_ht": 423.36,
+        "total_ttc": 460.97
+    }
+}

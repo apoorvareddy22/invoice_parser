@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "0297 Roberts Pine Estradatown, PR 54356",
+        "id": "sr829"
+    },
+    "invoice": {
+        "bc_no": "kB67627",
+        "currency_code": "UAH",
+        "date": "24.01.2009",
+        "due_date": "25.07.2009",
+        "number": 486945
+    },
+    "payment": {
+        "bank_name": "Shepherd Group",
+        "bic": "RZWAGBMBOMG",
+        "iban": "AQQI30954452906346"
+    },
+    "products": [
+        {
+            "amount": 419.0,
+            "description": "reinvent world-class partnerships",
+            "index": "10",
+            "price": 372.32,
+            "quantity": 3.04,
+            "tax_amount": 54.84,
+            "total_ttc": 437.51,
+            "vat_amount": 5.68
+        },
+        {
+            "amount": 148.14,
+            "description": "architect dynamic e-business",
+            "index": "6",
+            "price": 83.25,
+            "quantity": 2.71,
+            "tax_amount": 22.94,
+            "total_ttc": 486.43,
+            "vat_amount": 5.21
+        },
+        {
+            "amount": 434.76,
+            "description": "envisioneer cross-media e-commerce",
+            "index": "8",
+            "price": 376.86,
+            "quantity": 5.35,
+            "tax_amount": 97.96,
+            "total_ttc": 126.85,
+            "vat_amount": 0.2
+        }
+    ],
+    "seller": {
+        "name": "Cody Navarro"
+    },
+    "supplier": {
+        "address": "Unit 6576 Box 9914 DPO AP 05943",
+        "name": "Jennifer Rosario"
+    },
+    "tax": {
+        "amount_excluding_tax": 105.95,
+        "amount_including_tax": 104.39,
+        "tax_amount": 23.01,
+        "total_ht": 448.05,
+        "total_ttc": 298.27
+    }
+}

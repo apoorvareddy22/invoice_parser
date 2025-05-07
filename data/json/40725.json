@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "180 Sexton Flat Flemingstad, VA 33691"
+    },
+    "invoice": {
+        "bc_no": "Rg64979",
+        "date": "04.05.2000",
+        "maturity_date": "29.06.2000",
+        "number": 671599
+    },
+    "products": [
+        {
+            "amount": 228.4,
+            "description": "optimize e-business synergies",
+            "quantity": 5.0,
+            "unit_price": 14.03,
+            "vat_amount": 0.93
+        },
+        {
+            "amount": 328.61,
+            "description": "integrate e-business networks",
+            "quantity": 2.24,
+            "unit_price": 75.85,
+            "vat_amount": 2.46
+        },
+        {
+            "amount": 94.0,
+            "description": "e-enable dot-com e-services",
+            "quantity": 3.41,
+            "unit_price": 37.44,
+            "vat_amount": 2.8
+        },
+        {
+            "amount": 467.1,
+            "description": "maximize integrated partnerships",
+            "quantity": 2.16,
+            "unit_price": 27.37,
+            "vat_amount": 12.83
+        },
+        {
+            "amount": 362.36,
+            "description": "optimize mission-critical schemas",
+            "quantity": 9.11,
+            "unit_price": 21.92,
+            "vat_amount": 10.73
+        }
+    ],
+    "seller": {
+        "address": "PSC 4352, Box 6251 APO AP 78522"
+    },
+    "tax": {
+        "amount_excluding_tax": 134.53,
+        "amount_including_tax": 58.17,
+        "tax_amount": 19.29
+    }
+}

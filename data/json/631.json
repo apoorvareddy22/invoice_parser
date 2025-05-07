@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "PSC 6356, Box 4417 APO AP 59150",
+        "company_name": "Fitzgerald-Howard",
+        "country": "Saint Kitts and Nevis",
+        "name": "Tyler Ashley"
+    },
+    "invoice": {
+        "date": "06.10.2003",
+        "number": 691119
+    },
+    "payment": {
+        "discount_amount": 31.54,
+        "discount_percentage": 13.18,
+        "due": 68.27,
+        "sub_total": 113.25,
+        "total": 799.17
+    },
+    "products": [
+        {
+            "description": "enable B2C deliverables",
+            "index": "9",
+            "quantity": 6.48,
+            "total_price": 687.16,
+            "unit_price": 27.03
+        },
+        {
+            "description": "mesh granular partnerships",
+            "index": "1",
+            "quantity": 7.07,
+            "total_price": 989.27,
+            "unit_price": 19.44
+        }
+    ],
+    "seller": {
+        "address": "9762 Penny Way Apt. 172 Campbellmouth, MO 76644",
+        "company_name": "Gould-Walker",
+        "vat_no": "LH17548761739"
+    }
+}

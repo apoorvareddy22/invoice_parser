@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "90410 Audrey Haven Kathleenland, WI 41009",
+        "business_no": "uG810",
+        "id": "KD970"
+    },
+    "invoice": {
+        "date": "06.11.1997",
+        "number": "5424-6518"
+    },
+    "payment": {
+        "due_date": "20.09.1994",
+        "total": 203.4
+    },
+    "products": [
+        {
+            "amount": 276.8,
+            "description": "repurpose front-end supply-chains",
+            "quantity": 6.96,
+            "reference": "pm-323",
+            "unit_price": 55.45
+        },
+        {
+            "amount": 127.43,
+            "description": "deliver innovative applications",
+            "quantity": 7.75,
+            "reference": "DP-377",
+            "unit_price": 75.28
+        },
+        {
+            "amount": 6.68,
+            "description": "envisioneer out-of-the-box e-markets",
+            "quantity": 7.53,
+            "reference": "yK-592",
+            "unit_price": 71.5
+        }
+    ],
+    "seller": {
+        "address": "Unit 4442 Box 4635 DPO AP 61075"
+    },
+    "tax": {
+        "base_ht": 124.29,
+        "regulations": 26.65,
+        "total_ht": 136.19,
+        "vat_amount": 113.45,
+        "vat_percentage": 25.3
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "708 Dixon Route West Andreahaven, AL 38887",
+        "email": "william58@example.com",
+        "phone": "001-284-685-4382x8898",
+        "vat_no": "Ld63218927927"
+    },
+    "invoice": {
+        "date": "28.09.1991",
+        "due_date": "22.01.1995",
+        "market_reference": 839957,
+        "notes": "e-enable B2C mindshare",
+        "number": "8510-9602",
+        "reference": 722086,
+        "vat_no": "Vm38554606204"
+    },
+    "payment": {
+        "net_total": 147.12,
+        "total": 398.27
+    },
+    "products": [
+        {
+            "amount": 148.97,
+            "description": "engage clicks-and-mortar mindshare",
+            "hours": 8.28,
+            "rate": 2.57
+        },
+        {
+            "amount": 28.14,
+            "description": "enable extensible deliverables",
+            "hours": 7.55,
+            "rate": 7.46
+        }
+    ],
+    "seller": {
+        "address": "362 Chavez Islands Suite 358 Richardmouth, SD 51873",
+        "email": "brittanymoss@example.com",
+        "name": "Andrea Smith"
+    },
+    "tax": {
+        "base": 11.39,
+        "tax_amount": 10.37,
+        "total_tax": 17.0
+    }
+}

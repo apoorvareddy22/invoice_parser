@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "1907 Richardson Locks Barnestown, MH 30405",
+        "company_name": "Ford-Young",
+        "email": "sullivancalvin@example.net",
+        "name": "Angela Perez",
+        "phone": "799-269-8674x68669"
+    },
+    "invoice": {
+        "date": "05.04.2016",
+        "due_date": "18.08.1990",
+        "number": "uan65549685942"
+    },
+    "payment": {
+        "account_number": 9726999555,
+        "bank_name": "Alvarez, Kelly and Blair",
+        "routing_number": 806195626
+    },
+    "products": [
+        {
+            "amount": 105.27,
+            "description": "whiteboard frictionless mindshare",
+            "index": "7",
+            "quantity": 9.05,
+            "unit_price": 34.8
+        },
+        {
+            "amount": 58.48,
+            "description": "morph turn-key e-markets",
+            "index": "4",
+            "quantity": 7.81,
+            "unit_price": 60.67
+        },
+        {
+            "amount": 336.61,
+            "description": "benchmark end-to-end bandwidth",
+            "index": "9",
+            "quantity": 8.36,
+            "unit_price": 28.6
+        }
+    ],
+    "seller": {
+        "address": "USS Thompson FPO AE 75251",
+        "company_name": "Brooks, Gonzalez and Ellis",
+        "email": "clara@example.com"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "0642 Jessica Common Apt. 347 Anthonyland, ND 24232",
+        "email": "hawkinsstephanie@example.org",
+        "phone": "968-516-0213",
+        "vat_no": "cb02329076909"
+    },
+    "invoice": {
+        "date": "12.08.2009",
+        "due_date": "21.10.2009",
+        "market_reference": 666843,
+        "notes": "expedite end-to-end ROI",
+        "number": "4766-2569",
+        "reference": 210277,
+        "vat_no": "ei91395485963"
+    },
+    "payment": {
+        "net_total": 124.21,
+        "total": 414.65
+    },
+    "products": [
+        {
+            "amount": 359.13,
+            "description": "benchmark cutting-edge niches",
+            "hours": 5.16,
+            "rate": 6.54
+        },
+        {
+            "amount": 345.66,
+            "description": "monetize e-business deliverables",
+            "hours": 1.99,
+            "rate": 3.29
+        },
+        {
+            "amount": 359.68,
+            "description": "synthesize cross-media e-tailers",
+            "hours": 9.25,
+            "rate": 6.01
+        }
+    ],
+    "seller": {
+        "address": "75277 Petersen Gardens Richardshire, MD 77190",
+        "email": "lopezharry@example.net",
+        "name": "Christina Gonzales"
+    },
+    "tax": {
+        "base": 13.4,
+        "tax_amount": 18.42,
+        "total_tax": 14.03
+    }
+}

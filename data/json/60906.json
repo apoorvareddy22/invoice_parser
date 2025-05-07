@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "60556 Berry Ways Port Kylechester, GU 08529",
+        "business_no": "GX937",
+        "id": "iv931"
+    },
+    "invoice": {
+        "date": "14.05.1991",
+        "number": "9674-9102"
+    },
+    "payment": {
+        "due_date": "13.07.1993",
+        "total": 171.47
+    },
+    "products": [
+        {
+            "amount": 427.42,
+            "description": "synergize proactive paradigms",
+            "quantity": 8.89,
+            "reference": "RF-197",
+            "unit_price": 67.96
+        },
+        {
+            "amount": 34.1,
+            "description": "aggregate strategic web services",
+            "quantity": 2.52,
+            "reference": "uq-794",
+            "unit_price": 21.83
+        },
+        {
+            "amount": 15.2,
+            "description": "matrix mission-critical relationships",
+            "quantity": 2.28,
+            "reference": "pz-947",
+            "unit_price": 57.44
+        }
+    ],
+    "seller": {
+        "address": "233 Alexis Drives New Cindyville, VA 55235"
+    },
+    "tax": {
+        "base_ht": 184.31,
+        "regulations": 16.84,
+        "total_ht": 431.45,
+        "vat_amount": 41.61,
+        "vat_percentage": 26.75
+    }
+}

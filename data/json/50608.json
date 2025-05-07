@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "53773 Danielle Inlet Teresaburgh, FM 71887",
+        "id": "VP111"
+    },
+    "invoice": {
+        "bc_no": "IT93114",
+        "currency_code": "BDT",
+        "date": "25.09.2020",
+        "due_date": "12.10.2022",
+        "number": 651271
+    },
+    "payment": {
+        "bank_name": "Porter-Hernandez",
+        "bic": "KBMFGBY1",
+        "iban": "LLDJ61084980129837"
+    },
+    "products": [
+        {
+            "amount": 442.03,
+            "description": "evolve cutting-edge networks",
+            "index": "5",
+            "price": 436.1,
+            "quantity": 7.51,
+            "tax_amount": 27.2,
+            "total_ttc": 438.54,
+            "vat_amount": 5.1
+        },
+        {
+            "amount": 250.25,
+            "description": "empower front-end niches",
+            "index": "6",
+            "price": 366.42,
+            "quantity": 4.23,
+            "tax_amount": 96.15,
+            "total_ttc": 112.91,
+            "vat_amount": 4.0
+        }
+    ],
+    "seller": {
+        "name": "Michael Lewis"
+    },
+    "supplier": {
+        "address": "0812 Owens Circles Suite 031 Port Brookeborough, NH 13058",
+        "name": "Sydney Montgomery"
+    },
+    "tax": {
+        "amount_excluding_tax": 51.09,
+        "amount_including_tax": 157.69,
+        "tax_amount": 29.47,
+        "total_ht": 449.39,
+        "total_ttc": 236.31
+    }
+}

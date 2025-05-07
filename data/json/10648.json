@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "521 Jillian Flat Apt. 220 New Fredberg, UT 55465",
+        "email": "peterhoward@example.org",
+        "phone": "(966)674-1699",
+        "vat_no": "di73052852196"
+    },
+    "invoice": {
+        "date": "06.08.2009",
+        "due_date": "19.09.2017",
+        "market_reference": 794326,
+        "notes": "enhance transparent systems",
+        "number": "9883-6106",
+        "reference": 108838,
+        "vat_no": "Ix54312426964"
+    },
+    "payment": {
+        "net_total": 31.31,
+        "total": 437.67
+    },
+    "products": [
+        {
+            "amount": 234.98,
+            "description": "enable granular info-mediaries",
+            "hours": 6.6,
+            "rate": 7.5
+        }
+    ],
+    "seller": {
+        "address": "250 Shelton Center Suite 054 North Emilybury, UT 76009",
+        "email": "wallacesarah@example.com",
+        "name": "Annette Long"
+    },
+    "tax": {
+        "base": 28.26,
+        "tax_amount": 27.39,
+        "total_tax": 23.86
+    }
+}

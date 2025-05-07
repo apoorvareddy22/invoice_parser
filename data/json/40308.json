@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "685 Short Pike South Diamond, FM 90820"
+    },
+    "invoice": {
+        "bc_no": "SG95975",
+        "date": "25.01.2020",
+        "maturity_date": "26.02.1991",
+        "number": 821469
+    },
+    "products": [
+        {
+            "amount": 332.26,
+            "description": "mesh seamless vortals",
+            "quantity": 2.12,
+            "unit_price": 64.91,
+            "vat_amount": 18.55
+        },
+        {
+            "amount": 103.32,
+            "description": "unleash intuitive markets",
+            "quantity": 8.78,
+            "unit_price": 27.41,
+            "vat_amount": 7.28
+        },
+        {
+            "amount": 100.04,
+            "description": "deliver mission-critical platforms",
+            "quantity": 2.01,
+            "unit_price": 85.29,
+            "vat_amount": 2.39
+        },
+        {
+            "amount": 194.74,
+            "description": "architect killer e-tailers",
+            "quantity": 4.24,
+            "unit_price": 89.42,
+            "vat_amount": 5.13
+        }
+    ],
+    "seller": {
+        "address": "076 Christina Street Avilaton, MH 02552"
+    },
+    "tax": {
+        "amount_excluding_tax": 159.54,
+        "amount_including_tax": 194.4,
+        "tax_amount": 19.08
+    }
+}

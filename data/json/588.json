@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "PSC 8998, Box 5187 APO AE 55208",
+        "company_name": "Barker, Smith and Garcia",
+        "country": "Italy",
+        "name": "Kim Russell"
+    },
+    "invoice": {
+        "date": "04.01.2011",
+        "number": 126896
+    },
+    "payment": {
+        "discount_amount": 16.02,
+        "discount_percentage": 15.35,
+        "due": 89.51,
+        "sub_total": 53.31,
+        "total": 513.67
+    },
+    "products": [
+        {
+            "description": "reinvent sticky synergies",
+            "index": "1",
+            "quantity": 9.34,
+            "total_price": 200.23,
+            "unit_price": 85.14
+        },
+        {
+            "description": "synthesize 24/365 models",
+            "index": "8",
+            "quantity": 6.04,
+            "total_price": 381.97,
+            "unit_price": 39.52
+        },
+        {
+            "description": "harness killer channels",
+            "index": "7",
+            "quantity": 8.65,
+            "total_price": 769.08,
+            "unit_price": 10.96
+        },
+        {
+            "description": "integrate best-of-breed e-business",
+            "index": "2",
+            "quantity": 1.26,
+            "total_price": 669.58,
+            "unit_price": 93.1
+        },
+        {
+            "description": "transition rich vortals",
+            "index": "5",
+            "quantity": 1.52,
+            "total_price": 646.76,
+            "unit_price": 77.17
+        }
+    ],
+    "seller": {
+        "address": "095 Henry Haven Robinsonside, GA 10500",
+        "company_name": "Jones-Lewis",
+        "vat_no": "Od31117593289"
+    }
+}

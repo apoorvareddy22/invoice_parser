@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "2557 Bonnie Drive Suite 286 Kimberlyfurt, NH 26561",
+        "id": "Ur624"
+    },
+    "invoice": {
+        "bc_no": "hw76640",
+        "currency_code": "RON",
+        "date": "06.12.1993",
+        "due_date": "20.12.2017",
+        "number": 644130
+    },
+    "payment": {
+        "bank_name": "Rodriguez, Gay and Hernandez",
+        "bic": "ZMWJGBZ2",
+        "iban": "VSXL83151748242038"
+    },
+    "products": [
+        {
+            "amount": 138.79,
+            "description": "embrace customized portals",
+            "index": "8",
+            "price": 202.86,
+            "quantity": 2.8,
+            "tax_amount": 40.69,
+            "total_ttc": 236.69,
+            "vat_amount": 2.7
+        },
+        {
+            "amount": 45.33,
+            "description": "whiteboard web-enabled info-mediaries",
+            "index": "8",
+            "price": 185.84,
+            "quantity": 3.41,
+            "tax_amount": 78.57,
+            "total_ttc": 384.71,
+            "vat_amount": 9.03
+        },
+        {
+            "amount": 436.52,
+            "description": "seize web-enabled e-commerce",
+            "index": "7",
+            "price": 30.44,
+            "quantity": 2.04,
+            "tax_amount": 54.4,
+            "total_ttc": 228.85,
+            "vat_amount": 12.28
+        },
+        {
+            "amount": 26.95,
+            "description": "embrace wireless e-business",
+            "index": "8",
+            "price": 334.75,
+            "quantity": 4.74,
+            "tax_amount": 46.54,
+            "total_ttc": 119.98,
+            "vat_amount": 16.37
+        }
+    ],
+    "seller": {
+        "name": "Eric Clark"
+    },
+    "supplier": {
+        "address": "839 Gomez Locks East Brittany, UT 72984",
+        "name": "Thomas Terry"
+    },
+    "tax": {
+        "amount_excluding_tax": 161.6,
+        "amount_including_tax": 125.35,
+        "tax_amount": 29.17,
+        "total_ht": 403.79,
+        "total_ttc": 188.16
+    }
+}

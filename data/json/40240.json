@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "5183 Baker Summit Apt. 591 Johnshire, SC 19748"
+    },
+    "invoice": {
+        "bc_no": "iN50112",
+        "date": "17.07.2010",
+        "maturity_date": "17.06.1996",
+        "number": 739352
+    },
+    "products": [
+        {
+            "amount": 235.08,
+            "description": "embrace best-of-breed architectures",
+            "quantity": 9.86,
+            "unit_price": 89.42,
+            "vat_amount": 7.71
+        }
+    ],
+    "seller": {
+        "address": "639 Carlson Green South Joshuaview, TX 03594"
+    },
+    "tax": {
+        "amount_excluding_tax": 94.98,
+        "amount_including_tax": 57.34,
+        "tax_amount": 23.49
+    }
+}

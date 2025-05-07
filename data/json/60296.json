@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "PSC 0061, Box 9705 APO AA 33581",
+        "business_no": "pP398",
+        "id": "LN787"
+    },
+    "invoice": {
+        "date": "04.03.2009",
+        "number": "5576-7137"
+    },
+    "payment": {
+        "due_date": "07.12.2010",
+        "total": 110.77
+    },
+    "products": [
+        {
+            "amount": 328.99,
+            "description": "orchestrate dot-com initiatives",
+            "quantity": 7.84,
+            "reference": "VG-666",
+            "unit_price": 39.75
+        },
+        {
+            "amount": 178.23,
+            "description": "engage global action-items",
+            "quantity": 8.22,
+            "reference": "bx-145",
+            "unit_price": 61.73
+        },
+        {
+            "amount": 263.41,
+            "description": "embrace integrated markets",
+            "quantity": 7.83,
+            "reference": "SP-372",
+            "unit_price": 46.89
+        }
+    ],
+    "seller": {
+        "address": "9179 Andrea Well Suite 812 New Helenchester, SC 08521"
+    },
+    "tax": {
+        "base_ht": 311.06,
+        "regulations": 14.56,
+        "total_ht": 455.58,
+        "vat_amount": 69.02,
+        "vat_percentage": 26.7
+    }
+}

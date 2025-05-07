@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "45366 Haynes Isle Apt. 944 Port Nicholaschester, NC 15874",
+        "business_no": "sh604",
+        "id": "hi515"
+    },
+    "invoice": {
+        "date": "17.01.1995",
+        "number": "3247-8225"
+    },
+    "payment": {
+        "due_date": "07.02.2014",
+        "total": 696.23
+    },
+    "products": [
+        {
+            "amount": 168.0,
+            "description": "optimize bricks-and-clicks markets",
+            "quantity": 3.67,
+            "reference": "Dd-816",
+            "unit_price": 16.6
+        },
+        {
+            "amount": 65.71,
+            "description": "engineer leading-edge mindshare",
+            "quantity": 9.73,
+            "reference": "aM-854",
+            "unit_price": 86.21
+        },
+        {
+            "amount": 195.45,
+            "description": "re-intermediate best-of-breed e-commerce",
+            "quantity": 9.11,
+            "reference": "Kr-861",
+            "unit_price": 79.25
+        },
+        {
+            "amount": 119.34,
+            "description": "envisioneer mission-critical applications",
+            "quantity": 8.03,
+            "reference": "rN-140",
+            "unit_price": 20.03
+        },
+        {
+            "amount": 111.51,
+            "description": "redefine killer action-items",
+            "quantity": 2.6,
+            "reference": "RY-801",
+            "unit_price": 54.4
+        },
+        {
+            "amount": 294.7,
+            "description": "generate efficient partnerships",
+            "quantity": 3.9,
+            "reference": "fJ-120",
+            "unit_price": 75.41
+        }
+    ],
+    "seller": {
+        "address": "381 Waters Harbor Lake James, CT 84331"
+    },
+    "tax": {
+        "base_ht": 296.01,
+        "regulations": 11.51,
+        "total_ht": 380.35,
+        "vat_amount": 164.94,
+        "vat_percentage": 20.28
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "987 Jorge Meadow Suite 039 Lake Annachester, VA 50072",
+        "company_name": "Miller-Sims",
+        "country": "Sudan",
+        "email": "cgilbert@example.com",
+        "name": "Eric Rivera",
+        "phone": "315.788.0870",
+        "vat_no": "At46617593157"
+    },
+    "invoice": {
+        "date": "29.01.2002",
+        "due_date": "04.12.2022",
+        "linked_invoice": "NB-5295-3502",
+        "notes": "brand transparent deliverables",
+        "number": "kc-5504-1524"
+    },
+    "products": [
+        {
+            "description": "incubate back-end users",
+            "discount_percentage": 17.07,
+            "price": 90.32,
+            "quantity": 1.85,
+            "unit_price": 46.35
+        },
+        {
+            "description": "drive leading-edge supply-chains",
+            "discount_percentage": 15.51,
+            "price": 277.72,
+            "quantity": 4.38,
+            "unit_price": 37.05
+        },
+        {
+            "description": "incubate turn-key functionalities",
+            "discount_percentage": 7.81,
+            "price": 99.02,
+            "quantity": 1.52,
+            "unit_price": 54.16
+        },
+        {
+            "description": "synthesize best-of-breed action-items",
+            "discount_percentage": 16.8,
+            "price": 457.08,
+            "quantity": 3.73,
+            "unit_price": 89.21
+        }
+    ],
+    "seller": {
+        "address": "89494 Mccoy Greens Apt. 166 East Brandyborough, MN 06879",
+        "ape": "0301L",
+        "capital": 23730966,
+        "country": "Gibraltar",
+        "email": "rebeccarangel@example.com",
+        "name": "Brendan Barton",
+        "phone_1": "453-240-7151x96639",
+        "phone_2": "485-279-2373x82071",
+        "phone_3": "001-809-239-8629x5798",
+        "ref_walk": "muzb8951",
+        "reference": "yf482",
+        "siret": 17044115652643,
+        "vat_no": "pM95581742692",
+        "website": "http://www.stewart.biz/"
+    },
+    "tax": {
+        "amount_0": 18.32,
+        "amount_1": 19.08,
+        "base_0": 28.97,
+        "base_1": 258.52,
+        "total_ht": 293.98,
+        "total_tax": 21.73,
+        "total_ttc": 155.1,
+        "vat_0": 24.98,
+        "vat_1": 21.34
+    }
+}

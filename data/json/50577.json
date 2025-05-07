@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "156 Peterson Forges Phillipsshire, KS 22710",
+        "id": "uX626"
+    },
+    "invoice": {
+        "bc_no": "im22857",
+        "currency_code": "EUR",
+        "date": "13.06.2009",
+        "due_date": "20.08.2002",
+        "number": 581105
+    },
+    "payment": {
+        "bank_name": "Reynolds, Brown and Gonzalez",
+        "bic": "PZRMGBWF73V",
+        "iban": "SNNJ01507938426735"
+    },
+    "products": [
+        {
+            "amount": 480.08,
+            "description": "cultivate leading-edge platforms",
+            "index": "7",
+            "price": 269.3,
+            "quantity": 2.8,
+            "tax_amount": 50.01,
+            "total_ttc": 299.41,
+            "vat_amount": 6.15
+        },
+        {
+            "amount": 493.41,
+            "description": "maximize collaborative platforms",
+            "index": "10",
+            "price": 88.26,
+            "quantity": 3.38,
+            "tax_amount": 18.84,
+            "total_ttc": 259.67,
+            "vat_amount": 7.28
+        },
+        {
+            "amount": 263.16,
+            "description": "leverage compelling initiatives",
+            "index": "6",
+            "price": 42.0,
+            "quantity": 3.85,
+            "tax_amount": 63.63,
+            "total_ttc": 453.08,
+            "vat_amount": 1.32
+        },
+        {
+            "amount": 26.83,
+            "description": "expedite frictionless experiences",
+            "index": "8",
+            "price": 60.68,
+            "quantity": 3.67,
+            "tax_amount": 78.98,
+            "total_ttc": 158.86,
+            "vat_amount": 4.63
+        }
+    ],
+    "seller": {
+        "name": "Elizabeth Wade"
+    },
+    "supplier": {
+        "address": "946 Harmon Ridge Daniellemouth, IN 79793",
+        "name": "Anthony Garza"
+    },
+    "tax": {
+        "amount_excluding_tax": 152.54,
+        "amount_including_tax": 32.31,
+        "tax_amount": 27.02,
+        "total_ht": 329.06,
+        "total_ttc": 303.95
+    }
+}

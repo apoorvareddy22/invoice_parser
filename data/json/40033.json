@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "462 Michele Shoals Apt. 234 South Jennifer, AZ 76111"
+    },
+    "invoice": {
+        "bc_no": "wm63253",
+        "date": "07.12.1994",
+        "maturity_date": "25.11.1999",
+        "number": 710653
+    },
+    "products": [
+        {
+            "amount": 319.9,
+            "description": "productize best-of-breed applications",
+            "quantity": 3.69,
+            "unit_price": 14.39,
+            "vat_amount": 4.48
+        },
+        {
+            "amount": 92.02,
+            "description": "scale viral web-readiness",
+            "quantity": 6.2,
+            "unit_price": 94.73,
+            "vat_amount": 1.2
+        },
+        {
+            "amount": 150.07,
+            "description": "optimize magnetic metrics",
+            "quantity": 8.86,
+            "unit_price": 39.92,
+            "vat_amount": 3.64
+        },
+        {
+            "amount": 324.19,
+            "description": "productize granular e-markets",
+            "quantity": 4.85,
+            "unit_price": 33.72,
+            "vat_amount": 10.05
+        },
+        {
+            "amount": 327.49,
+            "description": "re-intermediate back-end convergence",
+            "quantity": 4.85,
+            "unit_price": 64.6,
+            "vat_amount": 5.66
+        }
+    ],
+    "seller": {
+        "address": "004 Greene Knolls Port Melissa, AS 10318"
+    },
+    "tax": {
+        "amount_excluding_tax": 104.28,
+        "amount_including_tax": 189.34,
+        "tax_amount": 16.21
+    }
+}

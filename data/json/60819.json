@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "49897 Chad Mount Suite 125 Curtisstad, WY 62380",
+        "business_no": "hE168",
+        "id": "TH735"
+    },
+    "invoice": {
+        "date": "21.11.2004",
+        "number": "5439-8331"
+    },
+    "payment": {
+        "due_date": "04.04.1997",
+        "total": 331.41
+    },
+    "products": [
+        {
+            "amount": 354.27,
+            "description": "integrate customized ROI",
+            "quantity": 3.72,
+            "reference": "ox-538",
+            "unit_price": 22.41
+        },
+        {
+            "amount": 189.34,
+            "description": "e-enable sticky e-services",
+            "quantity": 8.68,
+            "reference": "Hg-669",
+            "unit_price": 30.99
+        }
+    ],
+    "seller": {
+        "address": "63255 David Row North Jared, KY 04375"
+    },
+    "tax": {
+        "base_ht": 161.86,
+        "regulations": 20.05,
+        "total_ht": 125.95,
+        "vat_amount": 42.47,
+        "vat_percentage": 12.74
+    }
+}

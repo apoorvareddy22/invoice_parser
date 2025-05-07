@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "23047 Mcgee Springs Suite 440 Nashmouth, GU 61362",
+        "company_name": "Smith, Evans and Jones",
+        "country": "Dominica",
+        "name": "Heather Romero"
+    },
+    "invoice": {
+        "date": "26.12.2008",
+        "number": 877486
+    },
+    "payment": {
+        "discount_amount": 36.95,
+        "discount_percentage": 17.42,
+        "due": 154.51,
+        "sub_total": 181.89,
+        "total": 457.85
+    },
+    "products": [
+        {
+            "description": "generate front-end channels",
+            "index": "5",
+            "quantity": 3.74,
+            "total_price": 111.91,
+            "unit_price": 17.04
+        },
+        {
+            "description": "visualize killer markets",
+            "index": "6",
+            "quantity": 1.77,
+            "total_price": 604.52,
+            "unit_price": 43.06
+        },
+        {
+            "description": "e-enable rich bandwidth",
+            "index": "2",
+            "quantity": 7.51,
+            "total_price": 109.65,
+            "unit_price": 94.45
+        }
+    ],
+    "seller": {
+        "address": "3114 Tanya Track New Jamie, CO 30237",
+        "company_name": "Glenn LLC",
+        "vat_no": "Fw72753736121"
+    }
+}

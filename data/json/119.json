@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "PSC 6252, Box 0534 APO AE 11991",
+        "company_name": "Werner Inc",
+        "country": "Macao",
+        "name": "Taylor Cameron"
+    },
+    "invoice": {
+        "date": "19.11.2009",
+        "number": 476966
+    },
+    "payment": {
+        "discount_amount": 20.9,
+        "discount_percentage": 5.07,
+        "due": 82.2,
+        "sub_total": 25.96,
+        "total": 645.41
+    },
+    "products": [
+        {
+            "description": "synergize granular e-services",
+            "index": "6",
+            "quantity": 4.3,
+            "total_price": 921.82,
+            "unit_price": 75.1
+        },
+        {
+            "description": "revolutionize dynamic initiatives",
+            "index": "1",
+            "quantity": 6.98,
+            "total_price": 462.07,
+            "unit_price": 68.04
+        },
+        {
+            "description": "whiteboard seamless platforms",
+            "index": "2",
+            "quantity": 4.77,
+            "total_price": 108.92,
+            "unit_price": 40.36
+        },
+        {
+            "description": "innovate frictionless systems",
+            "index": "1",
+            "quantity": 5.11,
+            "total_price": 916.21,
+            "unit_price": 39.66
+        }
+    ],
+    "seller": {
+        "address": "USNV Mercado FPO AE 22137",
+        "company_name": "Jones-Baldwin",
+        "vat_no": "GY91552800322"
+    }
+}

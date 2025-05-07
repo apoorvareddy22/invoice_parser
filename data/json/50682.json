@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "288 Alyssa Views Port Darrellbury, NH 42144",
+        "id": "LP370"
+    },
+    "invoice": {
+        "bc_no": "Lz48042",
+        "currency_code": "BGN",
+        "date": "20.05.2016",
+        "due_date": "16.02.2017",
+        "number": 375968
+    },
+    "payment": {
+        "bank_name": "Thomas Inc",
+        "bic": "UGUYGBLQ1RU",
+        "iban": "IZDB47633760137627"
+    },
+    "products": [
+        {
+            "amount": 93.2,
+            "description": "facilitate out-of-the-box mindshare",
+            "index": "7",
+            "price": 115.58,
+            "quantity": 1.86,
+            "tax_amount": 39.58,
+            "total_ttc": 406.27,
+            "vat_amount": 8.31
+        },
+        {
+            "amount": 452.48,
+            "description": "deliver user-centric e-commerce",
+            "index": "3",
+            "price": 365.56,
+            "quantity": 9.37,
+            "tax_amount": 34.16,
+            "total_ttc": 152.53,
+            "vat_amount": 1.59
+        },
+        {
+            "amount": 242.46,
+            "description": "utilize bricks-and-clicks platforms",
+            "index": "5",
+            "price": 367.15,
+            "quantity": 6.99,
+            "tax_amount": 32.68,
+            "total_ttc": 126.33,
+            "vat_amount": 11.11
+        },
+        {
+            "amount": 320.4,
+            "description": "leverage viral partnerships",
+            "index": "9",
+            "price": 146.74,
+            "quantity": 7.89,
+            "tax_amount": 45.74,
+            "total_ttc": 181.51,
+            "vat_amount": 0.31
+        },
+        {
+            "amount": 155.54,
+            "description": "reinvent strategic metrics",
+            "index": "3",
+            "price": 289.88,
+            "quantity": 5.17,
+            "tax_amount": 79.64,
+            "total_ttc": 416.72,
+            "vat_amount": 2.34
+        },
+        {
+            "amount": 443.06,
+            "description": "iterate viral mindshare",
+            "index": "9",
+            "price": 169.92,
+            "quantity": 7.91,
+            "tax_amount": 74.93,
+            "total_ttc": 180.14,
+            "vat_amount": 0.83
+        },
+        {
+            "amount": 287.33,
+            "description": "strategize customized mindshare",
+            "index": "2",
+            "price": 155.32,
+            "quantity": 6.97,
+            "tax_amount": 16.86,
+            "total_ttc": 375.03,
+            "vat_amount": 10.42
+        }
+    ],
+    "seller": {
+        "name": "Carlos Wilcox PhD"
+    },
+    "supplier": {
+        "address": "98933 White Radial Apt. 667 Amandaville, AK 50007",
+        "name": "Brooke Lee"
+    },
+    "tax": {
+        "amount_excluding_tax": 193.67,
+        "amount_including_tax": 61.15,
+        "tax_amount": 25.3,
+        "total_ht": 165.17,
+        "total_ttc": 380.73
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "05701 Hansen Extension Suite 989 Jonathanborough, MP 02641",
+        "business_no": "gD250",
+        "id": "jS716"
+    },
+    "invoice": {
+        "date": "09.11.2015",
+        "number": "3912-9113"
+    },
+    "payment": {
+        "due_date": "06.07.2002",
+        "total": 964.88
+    },
+    "products": [
+        {
+            "amount": 318.69,
+            "description": "integrate wireless niches",
+            "quantity": 1.73,
+            "reference": "IA-567",
+            "unit_price": 76.31
+        },
+        {
+            "amount": 42.64,
+            "description": "benchmark e-business eyeballs",
+            "quantity": 3.96,
+            "reference": "zY-171",
+            "unit_price": 85.73
+        }
+    ],
+    "seller": {
+        "address": "23989 Amy Extension Apt. 465 East Mario, MT 20702"
+    },
+    "tax": {
+        "base_ht": 252.68,
+        "regulations": 10.58,
+        "total_ht": 150.85,
+        "vat_amount": 103.83,
+        "vat_percentage": 13.81
+    }
+}

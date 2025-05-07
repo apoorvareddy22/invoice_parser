@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "1156 Lutz Street Suite 912 Michaelville, UT 32752",
+        "id": "Jp796"
+    },
+    "invoice": {
+        "bc_no": "Dz94750",
+        "currency_code": "ILS",
+        "date": "26.05.2018",
+        "due_date": "05.11.2020",
+        "number": 551260
+    },
+    "payment": {
+        "bank_name": "Jackson-Hernandez",
+        "bic": "ASNBGBDLU6X",
+        "iban": "YFZZ12851918915601"
+    },
+    "products": [
+        {
+            "amount": 235.15,
+            "description": "morph innovative supply-chains",
+            "index": "4",
+            "price": 202.14,
+            "quantity": 5.63,
+            "tax_amount": 97.42,
+            "total_ttc": 266.48,
+            "vat_amount": 0.55
+        },
+        {
+            "amount": 111.22,
+            "description": "re-contextualize integrated action-items",
+            "index": "6",
+            "price": 140.08,
+            "quantity": 2.47,
+            "tax_amount": 45.16,
+            "total_ttc": 178.33,
+            "vat_amount": 9.55
+        },
+        {
+            "amount": 204.91,
+            "description": "strategize clicks-and-mortar partnerships",
+            "index": "5",
+            "price": 235.32,
+            "quantity": 5.8,
+            "tax_amount": 54.93,
+            "total_ttc": 255.13,
+            "vat_amount": 2.39
+        },
+        {
+            "amount": 166.07,
+            "description": "brand robust portals",
+            "index": "7",
+            "price": 204.92,
+            "quantity": 7.7,
+            "tax_amount": 57.85,
+            "total_ttc": 104.21,
+            "vat_amount": 1.15
+        },
+        {
+            "amount": 111.27,
+            "description": "syndicate clicks-and-mortar communities",
+            "index": "6",
+            "price": 196.08,
+            "quantity": 7.49,
+            "tax_amount": 83.61,
+            "total_ttc": 273.6,
+            "vat_amount": 0.44
+        }
+    ],
+    "seller": {
+        "name": "Adam Dean"
+    },
+    "supplier": {
+        "address": "623 Hopkins Tunnel Suite 350 Lake Jacquelineton, NM 87393",
+        "name": "Vicki Mack"
+    },
+    "tax": {
+        "amount_excluding_tax": 139.36,
+        "amount_including_tax": 16.28,
+        "tax_amount": 24.5,
+        "total_ht": 291.13,
+        "total_ttc": 313.7
+    }
+}

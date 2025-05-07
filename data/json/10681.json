@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "49223 Brian Forest Apt. 495 Lake Oliviahaven, KY 01801",
+        "email": "zimmermanandrew@example.org",
+        "phone": "(246)921-0320",
+        "vat_no": "SF31595236399"
+    },
+    "invoice": {
+        "date": "20.01.2014",
+        "due_date": "03.03.1991",
+        "market_reference": 955570,
+        "notes": "facilitate rich relationships",
+        "number": "1527-7920",
+        "reference": 700271,
+        "vat_no": "hF42418683344"
+    },
+    "payment": {
+        "net_total": 100.76,
+        "total": 201.48
+    },
+    "products": [
+        {
+            "amount": 477.54,
+            "description": "utilize end-to-end schemas",
+            "hours": 3.44,
+            "rate": 4.13
+        },
+        {
+            "amount": 145.38,
+            "description": "enhance impactful applications",
+            "hours": 5.58,
+            "rate": 7.34
+        },
+        {
+            "amount": 43.83,
+            "description": "target synergistic platforms",
+            "hours": 6.85,
+            "rate": 8.33
+        }
+    ],
+    "seller": {
+        "address": "327 Roberts Wall Suite 726 South Jenniferbury, NV 57610",
+        "email": "robinsonkenneth@example.com",
+        "name": "John Johnson"
+    },
+    "tax": {
+        "base": 21.64,
+        "tax_amount": 10.19,
+        "total_tax": 20.62
+    }
+}

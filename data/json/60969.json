@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "454 Christine Knolls Perezbury, OK 25657",
+        "business_no": "fK575",
+        "id": "CT731"
+    },
+    "invoice": {
+        "date": "30.04.1995",
+        "number": "9562-7907"
+    },
+    "payment": {
+        "due_date": "09.06.1992",
+        "total": 719.76
+    },
+    "products": [
+        {
+            "amount": 239.85,
+            "description": "unleash back-end methodologies",
+            "quantity": 4.37,
+            "reference": "AH-324",
+            "unit_price": 21.4
+        },
+        {
+            "amount": 425.0,
+            "description": "utilize viral deliverables",
+            "quantity": 7.9,
+            "reference": "yL-248",
+            "unit_price": 41.23
+        },
+        {
+            "amount": 438.91,
+            "description": "synthesize rich relationships",
+            "quantity": 1.47,
+            "reference": "mV-883",
+            "unit_price": 85.46
+        }
+    ],
+    "seller": {
+        "address": "038 Christopher Union South Christopher, NJ 16682"
+    },
+    "tax": {
+        "base_ht": 494.72,
+        "regulations": 27.73,
+        "total_ht": 440.79,
+        "vat_amount": 142.44,
+        "vat_percentage": 25.36
+    }
+}

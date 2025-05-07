@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "USCGC Williams FPO AA 84334",
+        "id": "bA440"
+    },
+    "invoice": {
+        "bc_no": "iC70140",
+        "currency_code": "EUR",
+        "date": "23.11.2021",
+        "due_date": "29.12.1992",
+        "number": 312302
+    },
+    "payment": {
+        "bank_name": "Malone, Hardy and Vincent",
+        "bic": "IPIBGBEI",
+        "iban": "GRGU45422152570864"
+    },
+    "products": [
+        {
+            "amount": 365.73,
+            "description": "cultivate seamless deliverables",
+            "index": "6",
+            "price": 338.24,
+            "quantity": 4.65,
+            "tax_amount": 60.12,
+            "total_ttc": 475.02,
+            "vat_amount": 11.21
+        }
+    ],
+    "seller": {
+        "name": "Kyle Higgins"
+    },
+    "supplier": {
+        "address": "223 Harris Knoll Apt. 534 Port Aliciaton, MO 95840",
+        "name": "Jack Jones"
+    },
+    "tax": {
+        "amount_excluding_tax": 18.87,
+        "amount_including_tax": 178.73,
+        "tax_amount": 14.43,
+        "total_ht": 468.99,
+        "total_ttc": 296.16
+    }
+}

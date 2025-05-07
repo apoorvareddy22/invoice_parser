@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "5296 Tonya Walks South Michaelstad, SD 91801"
+    },
+    "invoice": {
+        "bc_no": "VN86847",
+        "date": "24.08.2017",
+        "maturity_date": "11.01.2003",
+        "number": 535833
+    },
+    "products": [
+        {
+            "amount": 332.99,
+            "description": "embrace 24/365 e-tailers",
+            "quantity": 4.1,
+            "unit_price": 39.54,
+            "vat_amount": 5.53
+        },
+        {
+            "amount": 358.22,
+            "description": "re-contextualize dynamic mindshare",
+            "quantity": 6.49,
+            "unit_price": 36.37,
+            "vat_amount": 6.79
+        }
+    ],
+    "seller": {
+        "address": "0841 Edwards Spur Suite 612 Jeremyberg, TN 50104"
+    },
+    "tax": {
+        "amount_excluding_tax": 29.19,
+        "amount_including_tax": 144.49,
+        "tax_amount": 14.9
+    }
+}

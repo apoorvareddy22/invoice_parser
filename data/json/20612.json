@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "9960 Dixon Ranch Suite 326 Melissaside, AZ 63375",
+        "company_name": "Ramirez-Wilkinson",
+        "email": "lamscott@example.com",
+        "name": "Sara Ball",
+        "phone": "+1-961-690-7629"
+    },
+    "invoice": {
+        "date": "09.12.1990",
+        "due_date": "02.09.2022",
+        "number": "edK02620063499"
+    },
+    "payment": {
+        "account_number": 5139218739,
+        "bank_name": "Beltran, Garcia and Murray",
+        "routing_number": 665730012
+    },
+    "products": [
+        {
+            "amount": 378.99,
+            "description": "engage turn-key e-business",
+            "index": "2",
+            "quantity": 5.72,
+            "unit_price": 68.57
+        },
+        {
+            "amount": 451.27,
+            "description": "integrate integrated supply-chains",
+            "index": "4",
+            "quantity": 9.83,
+            "unit_price": 30.66
+        },
+        {
+            "amount": 450.22,
+            "description": "revolutionize extensible convergence",
+            "index": "9",
+            "quantity": 6.92,
+            "unit_price": 90.35
+        },
+        {
+            "amount": 188.52,
+            "description": "evolve customized action-items",
+            "index": "5",
+            "quantity": 8.46,
+            "unit_price": 87.73
+        },
+        {
+            "amount": 53.5,
+            "description": "enhance turn-key functionalities",
+            "index": "8",
+            "quantity": 8.0,
+            "unit_price": 34.18
+        }
+    ],
+    "seller": {
+        "address": "5639 Joel Island Angelaview, VA 07479",
+        "company_name": "Martinez, Ruiz and Simmons",
+        "email": "rodriguezpeter@example.com"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "387 Clark Flat Apt. 467 Lake Christinaville, GU 85129",
+        "company_name": "Turner-Lewis",
+        "email": "carlymitchell@example.net",
+        "name": "Zachary Greene",
+        "phone": "455.774.1067"
+    },
+    "invoice": {
+        "date": "24.09.2006",
+        "due_date": "01.10.2016",
+        "number": "vSh91702229327"
+    },
+    "payment": {
+        "account_number": 7708412713,
+        "bank_name": "Guerrero-Noble",
+        "routing_number": 948699029
+    },
+    "products": [
+        {
+            "amount": 262.63,
+            "description": "envisioneer B2C content",
+            "index": "10",
+            "quantity": 3.24,
+            "unit_price": 74.7
+        },
+        {
+            "amount": 158.67,
+            "description": "matrix seamless users",
+            "index": "4",
+            "quantity": 9.15,
+            "unit_price": 32.33
+        },
+        {
+            "amount": 83.12,
+            "description": "strategize strategic e-tailers",
+            "index": "6",
+            "quantity": 2.22,
+            "unit_price": 99.74
+        }
+    ],
+    "seller": {
+        "address": "491 Lauren Ford Wallmouth, NM 38454",
+        "company_name": "Roberts, Warren and Williamson",
+        "email": "bmoreno@example.com"
+    }
+}

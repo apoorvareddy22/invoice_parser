@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "604 Collins Orchard Marksside, PA 31996",
+        "company_name": "Oneill Group",
+        "email": "dmcgrath@example.com",
+        "name": "Lucas Walker",
+        "phone": "511-701-4743x11161"
+    },
+    "invoice": {
+        "date": "17.07.2023",
+        "due_date": "22.08.2013",
+        "number": "GzJ08970419225"
+    },
+    "payment": {
+        "account_number": 3286014465,
+        "bank_name": "Collins and Sons",
+        "routing_number": 849522036
+    },
+    "products": [
+        {
+            "amount": 267.2,
+            "description": "drive cross-media convergence",
+            "index": "9",
+            "quantity": 6.65,
+            "unit_price": 51.33
+        },
+        {
+            "amount": 50.94,
+            "description": "synergize vertical content",
+            "index": "8",
+            "quantity": 1.73,
+            "unit_price": 41.81
+        },
+        {
+            "amount": 481.4,
+            "description": "deliver distributed web services",
+            "index": "2",
+            "quantity": 5.59,
+            "unit_price": 20.84
+        },
+        {
+            "amount": 45.02,
+            "description": "evolve front-end convergence",
+            "index": "8",
+            "quantity": 7.17,
+            "unit_price": 16.71
+        }
+    ],
+    "seller": {
+        "address": "7179 Michael Pass Suite 042 East Donald, MI 68800",
+        "company_name": "Huerta-Smith",
+        "email": "tjones@example.org"
+    }
+}

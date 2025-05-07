@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "4427 Alexis Port Suite 883 West Theodore, WI 09515",
+        "id": "WJ256"
+    },
+    "invoice": {
+        "bc_no": "rY56994",
+        "currency_code": "CHF",
+        "date": "04.12.2007",
+        "due_date": "27.10.1994",
+        "number": 982556
+    },
+    "payment": {
+        "bank_name": "Joyce and Sons",
+        "bic": "EWFCGBM5DZM",
+        "iban": "ZFLQ20454217027455"
+    },
+    "products": [
+        {
+            "amount": 354.18,
+            "description": "re-contextualize virtual markets",
+            "index": "8",
+            "price": 304.52,
+            "quantity": 8.65,
+            "tax_amount": 33.43,
+            "total_ttc": 126.74,
+            "vat_amount": 6.73
+        },
+        {
+            "amount": 424.13,
+            "description": "integrate extensible functionalities",
+            "index": "7",
+            "price": 384.42,
+            "quantity": 9.11,
+            "tax_amount": 28.17,
+            "total_ttc": 364.22,
+            "vat_amount": 8.05
+        },
+        {
+            "amount": 280.94,
+            "description": "integrate next-generation platforms",
+            "index": "9",
+            "price": 403.02,
+            "quantity": 7.45,
+            "tax_amount": 87.25,
+            "total_ttc": 487.64,
+            "vat_amount": 9.54
+        },
+        {
+            "amount": 378.92,
+            "description": "strategize best-of-breed functionalities",
+            "index": "9",
+            "price": 239.81,
+            "quantity": 9.69,
+            "tax_amount": 32.85,
+            "total_ttc": 191.86,
+            "vat_amount": 6.0
+        },
+        {
+            "amount": 228.11,
+            "description": "disintermediate best-of-breed networks",
+            "index": "10",
+            "price": 275.51,
+            "quantity": 4.74,
+            "tax_amount": 47.97,
+            "total_ttc": 167.25,
+            "vat_amount": 7.18
+        },
+        {
+            "amount": 271.03,
+            "description": "evolve turn-key metrics",
+            "index": "8",
+            "price": 299.1,
+            "quantity": 7.8,
+            "tax_amount": 79.09,
+            "total_ttc": 309.07,
+            "vat_amount": 6.44
+        }
+    ],
+    "seller": {
+        "name": "David Davidson"
+    },
+    "supplier": {
+        "address": "80153 Erickson Unions New Richard, WA 96931",
+        "name": "Lori Diaz"
+    },
+    "tax": {
+        "amount_excluding_tax": 174.51,
+        "amount_including_tax": 148.34,
+        "tax_amount": 23.93,
+        "total_ht": 419.05,
+        "total_ttc": 408.36
+    }
+}

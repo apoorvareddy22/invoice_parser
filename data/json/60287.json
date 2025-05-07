@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "PSC 2976, Box 4920 APO AP 59265",
+        "business_no": "jR338",
+        "id": "qv690"
+    },
+    "invoice": {
+        "date": "24.12.2023",
+        "number": "2662-7508"
+    },
+    "payment": {
+        "due_date": "16.09.2003",
+        "total": 978.85
+    },
+    "products": [
+        {
+            "amount": 193.29,
+            "description": "deploy 24/365 vortals",
+            "quantity": 3.85,
+            "reference": "Jl-299",
+            "unit_price": 20.87
+        },
+        {
+            "amount": 436.91,
+            "description": "extend open-source portals",
+            "quantity": 1.52,
+            "reference": "yv-167",
+            "unit_price": 21.14
+        },
+        {
+            "amount": 451.21,
+            "description": "transform global synergies",
+            "quantity": 7.52,
+            "reference": "hO-760",
+            "unit_price": 93.37
+        },
+        {
+            "amount": 8.94,
+            "description": "whiteboard innovative methodologies",
+            "quantity": 2.92,
+            "reference": "GU-316",
+            "unit_price": 43.14
+        }
+    ],
+    "seller": {
+        "address": "18089 Horton Mission Suite 910 Emilyshire, WV 54542"
+    },
+    "tax": {
+        "base_ht": 470.76,
+        "regulations": 19.16,
+        "total_ht": 245.47,
+        "vat_amount": 20.06,
+        "vat_percentage": 14.08
+    }
+}

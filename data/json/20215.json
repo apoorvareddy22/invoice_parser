@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "5277 Tina Camp Garyburgh, CO 04137",
+        "company_name": "Hodge, Scott and Young",
+        "email": "kellersamuel@example.net",
+        "name": "Michael Mathis",
+        "phone": "971.859.6306x90866"
+    },
+    "invoice": {
+        "date": "27.04.2010",
+        "due_date": "03.04.2023",
+        "number": "jWF83092497918"
+    },
+    "payment": {
+        "account_number": 3640281027,
+        "bank_name": "Bradley Inc",
+        "routing_number": 753580030
+    },
+    "products": [
+        {
+            "amount": 8.94,
+            "description": "productize synergistic platforms",
+            "index": "9",
+            "quantity": 7.79,
+            "unit_price": 31.76
+        },
+        {
+            "amount": 158.12,
+            "description": "generate clicks-and-mortar platforms",
+            "index": "4",
+            "quantity": 2.78,
+            "unit_price": 68.76
+        },
+        {
+            "amount": 324.08,
+            "description": "exploit viral metrics",
+            "index": "7",
+            "quantity": 6.42,
+            "unit_price": 92.02
+        }
+    ],
+    "seller": {
+        "address": "USCGC Morris FPO AP 77490",
+        "company_name": "Wiley, Trevino and Dickerson",
+        "email": "jonathanlong@example.com"
+    }
+}

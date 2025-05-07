@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "145 Weber Crest Apt. 527 Stacyberg, CO 09392",
+        "company_name": "Thompson Group",
+        "email": "jeffstewart@example.com",
+        "name": "Emily Stone",
+        "phone": "899-247-4249"
+    },
+    "invoice": {
+        "date": "20.08.2017",
+        "due_date": "12.03.1993",
+        "number": "fQM79885443734"
+    },
+    "payment": {
+        "account_number": 7585056893,
+        "bank_name": "Williamson, Evans and Middleton",
+        "routing_number": 482034377
+    },
+    "products": [
+        {
+            "amount": 103.56,
+            "description": "benchmark out-of-the-box models",
+            "index": "7",
+            "quantity": 2.82,
+            "unit_price": 73.68
+        }
+    ],
+    "seller": {
+        "address": "5176 Joseph Divide Christopherberg, ND 69055",
+        "company_name": "Bailey Group",
+        "email": "carriebarnes@example.org"
+    }
+}

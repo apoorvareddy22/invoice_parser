@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "1527 Amber Creek Jessicashire, NJ 28331"
+    },
+    "invoice": {
+        "bc_no": "pT40948",
+        "date": "28.01.2022",
+        "maturity_date": "10.06.2023",
+        "number": 401975
+    },
+    "products": [
+        {
+            "amount": 106.35,
+            "description": "revolutionize scalable communities",
+            "quantity": 7.71,
+            "unit_price": 53.02,
+            "vat_amount": 6.41
+        },
+        {
+            "amount": 371.84,
+            "description": "generate frictionless schemas",
+            "quantity": 3.11,
+            "unit_price": 15.56,
+            "vat_amount": 0.83
+        },
+        {
+            "amount": 31.76,
+            "description": "engineer holistic paradigms",
+            "quantity": 4.6,
+            "unit_price": 49.48,
+            "vat_amount": 0.47
+        }
+    ],
+    "seller": {
+        "address": "Unit 5742 Box 1111 DPO AA 94734"
+    },
+    "tax": {
+        "amount_excluding_tax": 127.3,
+        "amount_including_tax": 109.17,
+        "tax_amount": 18.77
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "2594 Renee Junctions Apt. 348 South Bryce, PW 77190",
+        "email": "dlee@example.com",
+        "phone": "(577)606-1947x78854",
+        "vat_no": "rP89544268866"
+    },
+    "invoice": {
+        "date": "30.06.2014",
+        "due_date": "08.03.2022",
+        "market_reference": 193585,
+        "notes": "e-enable best-of-breed markets",
+        "number": "1890-8636",
+        "reference": 750358,
+        "vat_no": "GG21812581634"
+    },
+    "payment": {
+        "net_total": 25.41,
+        "total": 698.9
+    },
+    "products": [
+        {
+            "amount": 284.62,
+            "description": "strategize transparent action-items",
+            "hours": 6.94,
+            "rate": 8.81
+        },
+        {
+            "amount": 345.42,
+            "description": "exploit global synergies",
+            "hours": 4.28,
+            "rate": 7.33
+        }
+    ],
+    "seller": {
+        "address": "2012 Jeanne Rue East Nicholasfort, KY 05158",
+        "email": "andrew18@example.net",
+        "name": "Daniel Mills"
+    },
+    "tax": {
+        "base": 24.55,
+        "tax_amount": 21.39,
+        "total_tax": 29.92
+    }
+}

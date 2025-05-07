@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "302 Jackson Via North Wesleyfurt, MD 02382",
+        "email": "ncabrera@example.net",
+        "phone": "001-203-616-5603",
+        "vat_no": "JI58952228782"
+    },
+    "invoice": {
+        "date": "02.05.1995",
+        "due_date": "10.02.2008",
+        "market_reference": 111145,
+        "notes": "drive vertical partnerships",
+        "number": "4738-8208",
+        "reference": 826809,
+        "vat_no": "wR51342359067"
+    },
+    "payment": {
+        "net_total": 76.99,
+        "total": 587.09
+    },
+    "products": [
+        {
+            "amount": 276.54,
+            "description": "redefine proactive models",
+            "hours": 4.09,
+            "rate": 2.87
+        }
+    ],
+    "seller": {
+        "address": "281 Perez Gateway North Kevin, PR 39216",
+        "email": "karenramsey@example.net",
+        "name": "Samuel Dalton"
+    },
+    "tax": {
+        "base": 20.12,
+        "tax_amount": 14.38,
+        "total_tax": 20.9
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "Unit 8954 Box 2490 DPO AP 69474",
+        "company_name": "Dunlap PLC",
+        "email": "howericardo@example.org",
+        "name": "Annette White",
+        "phone": "821.668.6377x5333"
+    },
+    "invoice": {
+        "date": "28.06.2012",
+        "due_date": "15.02.2012",
+        "number": "wSF11503563395"
+    },
+    "payment": {
+        "account_number": 7513398855,
+        "bank_name": "Lyons Inc",
+        "routing_number": 945669283
+    },
+    "products": [
+        {
+            "amount": 18.03,
+            "description": "strategize killer content",
+            "index": "3",
+            "quantity": 8.19,
+            "unit_price": 68.5
+        },
+        {
+            "amount": 427.75,
+            "description": "whiteboard robust ROI",
+            "index": "3",
+            "quantity": 4.71,
+            "unit_price": 11.2
+        },
+        {
+            "amount": 385.51,
+            "description": "re-intermediate plug-and-play portals",
+            "index": "6",
+            "quantity": 7.84,
+            "unit_price": 57.52
+        }
+    ],
+    "seller": {
+        "address": "833 Anthony Grove Oconnorchester, NC 78659",
+        "company_name": "Morgan-Harris",
+        "email": "marysexton@example.com"
+    }
+}

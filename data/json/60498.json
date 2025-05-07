@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "3476 Mcdonald Gardens East Amy, GA 25360",
+        "business_no": "Br343",
+        "id": "cs223"
+    },
+    "invoice": {
+        "date": "14.02.1995",
+        "number": "7785-6112"
+    },
+    "payment": {
+        "due_date": "02.03.2001",
+        "total": 490.05
+    },
+    "products": [
+        {
+            "amount": 161.92,
+            "description": "drive scalable experiences",
+            "quantity": 1.04,
+            "reference": "Oz-647",
+            "unit_price": 42.9
+        },
+        {
+            "amount": 189.53,
+            "description": "morph front-end bandwidth",
+            "quantity": 1.51,
+            "reference": "WD-783",
+            "unit_price": 23.55
+        },
+        {
+            "amount": 386.09,
+            "description": "re-intermediate B2B deliverables",
+            "quantity": 4.52,
+            "reference": "uH-540",
+            "unit_price": 81.87
+        },
+        {
+            "amount": 134.33,
+            "description": "scale back-end e-commerce",
+            "quantity": 5.01,
+            "reference": "ys-853",
+            "unit_price": 34.08
+        }
+    ],
+    "seller": {
+        "address": "Unit 8112 Box 6882 DPO AA 45620"
+    },
+    "tax": {
+        "base_ht": 169.59,
+        "regulations": 11.95,
+        "total_ht": 339.88,
+        "vat_amount": 120.07,
+        "vat_percentage": 13.88
+    }
+}

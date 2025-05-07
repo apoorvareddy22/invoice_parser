@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "0232 Margaret Field Suite 188 Sanchezburgh, NM 49142",
+        "email": "hmiller@example.com",
+        "phone": "(856)366-9005",
+        "vat_no": "iU45441487383"
+    },
+    "invoice": {
+        "date": "05.09.2021",
+        "due_date": "30.10.2006",
+        "market_reference": 742827,
+        "notes": "monetize world-class info-mediaries",
+        "number": "5984-3665",
+        "reference": 745036,
+        "vat_no": "gf38141221708"
+    },
+    "payment": {
+        "net_total": 55.99,
+        "total": 170.82
+    },
+    "products": [
+        {
+            "amount": 396.38,
+            "description": "envisioneer scalable channels",
+            "hours": 6.16,
+            "rate": 1.65
+        },
+        {
+            "amount": 74.9,
+            "description": "evolve frictionless niches",
+            "hours": 1.03,
+            "rate": 4.38
+        },
+        {
+            "amount": 291.29,
+            "description": "maximize holistic e-services",
+            "hours": 3.8,
+            "rate": 4.16
+        }
+    ],
+    "seller": {
+        "address": "0078 Cindy Brook Suite 762 South Dominique, WI 89156",
+        "email": "tharper@example.com",
+        "name": "Lauren Davis"
+    },
+    "tax": {
+        "base": 21.91,
+        "tax_amount": 16.86,
+        "total_tax": 12.66
+    }
+}

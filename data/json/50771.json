@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "70359 Kenneth Brook Apt. 873 South Dominiqueshire, DE 44407",
+        "id": "pT786"
+    },
+    "invoice": {
+        "bc_no": "DD47871",
+        "currency_code": "KZT",
+        "date": "14.10.2017",
+        "due_date": "25.02.2012",
+        "number": 935536
+    },
+    "payment": {
+        "bank_name": "Hooper-Delacruz",
+        "bic": "RFBWGBEJ",
+        "iban": "VZUV10070455858795"
+    },
+    "products": [
+        {
+            "amount": 347.28,
+            "description": "leverage turn-key initiatives",
+            "index": "9",
+            "price": 184.74,
+            "quantity": 2.54,
+            "tax_amount": 98.69,
+            "total_ttc": 357.62,
+            "vat_amount": 9.65
+        },
+        {
+            "amount": 308.03,
+            "description": "grow dot-com initiatives",
+            "index": "3",
+            "price": 213.37,
+            "quantity": 4.54,
+            "tax_amount": 14.65,
+            "total_ttc": 343.85,
+            "vat_amount": 7.18
+        },
+        {
+            "amount": 329.19,
+            "description": "matrix next-generation systems",
+            "index": "1",
+            "price": 112.04,
+            "quantity": 9.31,
+            "tax_amount": 86.63,
+            "total_ttc": 423.9,
+            "vat_amount": 3.98
+        },
+        {
+            "amount": 368.31,
+            "description": "visualize efficient deliverables",
+            "index": "2",
+            "price": 433.61,
+            "quantity": 3.41,
+            "tax_amount": 67.87,
+            "total_ttc": 499.61,
+            "vat_amount": 11.61
+        },
+        {
+            "amount": 394.11,
+            "description": "transition next-generation communities",
+            "index": "4",
+            "price": 454.99,
+            "quantity": 6.72,
+            "tax_amount": 58.64,
+            "total_ttc": 147.46,
+            "vat_amount": 10.79
+        }
+    ],
+    "seller": {
+        "name": "Alexis Boyd"
+    },
+    "supplier": {
+        "address": "29646 Williams Skyway Port Beverly, IN 18593",
+        "name": "Colin Lee"
+    },
+    "tax": {
+        "amount_excluding_tax": 130.28,
+        "amount_including_tax": 141.81,
+        "tax_amount": 14.63,
+        "total_ht": 104.07,
+        "total_ttc": 388.17
+    }
+}

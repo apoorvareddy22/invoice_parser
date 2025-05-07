@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "416 James Orchard Suite 505 Coryland, UT 57139",
+        "email": "prosales@example.com",
+        "phone": "001-501-775-9488x9815",
+        "vat_no": "vq07647037989"
+    },
+    "invoice": {
+        "date": "08.05.2002",
+        "due_date": "22.11.2017",
+        "market_reference": 557815,
+        "notes": "maximize seamless initiatives",
+        "number": "6567-4038",
+        "reference": 925892,
+        "vat_no": "XY84933759066"
+    },
+    "payment": {
+        "net_total": 196.67,
+        "total": 948.13
+    },
+    "products": [
+        {
+            "amount": 398.95,
+            "description": "benchmark synergistic technologies",
+            "hours": 3.68,
+            "rate": 8.04
+        },
+        {
+            "amount": 107.59,
+            "description": "incentivize distributed bandwidth",
+            "hours": 4.94,
+            "rate": 8.5
+        },
+        {
+            "amount": 301.5,
+            "description": "utilize best-of-breed e-markets",
+            "hours": 1.81,
+            "rate": 9.18
+        },
+        {
+            "amount": 238.37,
+            "description": "productize sticky architectures",
+            "hours": 5.42,
+            "rate": 5.62
+        },
+        {
+            "amount": 168.96,
+            "description": "empower 24/365 systems",
+            "hours": 3.52,
+            "rate": 1.86
+        },
+        {
+            "amount": 259.87,
+            "description": "syndicate impactful web services",
+            "hours": 8.97,
+            "rate": 3.16
+        }
+    ],
+    "seller": {
+        "address": "PSC 9556, Box 2051 APO AP 70352",
+        "email": "matthew08@example.org",
+        "name": "Thomas Bonilla"
+    },
+    "tax": {
+        "base": 27.29,
+        "tax_amount": 23.64,
+        "total_tax": 11.76
+    }
+}

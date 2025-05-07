@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "9009 Stacey Dam Suite 966 Sampsonport, MH 25503",
+        "business_no": "Qi826",
+        "id": "Tf780"
+    },
+    "invoice": {
+        "date": "16.03.2018",
+        "number": "2023-5109"
+    },
+    "payment": {
+        "due_date": "09.06.2017",
+        "total": 931.54
+    },
+    "products": [
+        {
+            "amount": 408.82,
+            "description": "grow efficient ROI",
+            "quantity": 1.19,
+            "reference": "cC-869",
+            "unit_price": 81.37
+        },
+        {
+            "amount": 56.55,
+            "description": "visualize visionary web services",
+            "quantity": 3.13,
+            "reference": "aU-253",
+            "unit_price": 88.13
+        }
+    ],
+    "seller": {
+        "address": "8544 Julia Inlet Apt. 683 East Julie, DC 97247"
+    },
+    "tax": {
+        "base_ht": 439.54,
+        "regulations": 22.29,
+        "total_ht": 404.32,
+        "vat_amount": 60.45,
+        "vat_percentage": 28.01
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "8784 Mcintyre Manors Devonstad, AK 94857",
+        "id": "jL919"
+    },
+    "invoice": {
+        "bc_no": "ri50718",
+        "currency_code": "MAD",
+        "date": "08.11.2011",
+        "due_date": "12.08.1998",
+        "number": 365961
+    },
+    "payment": {
+        "bank_name": "Romero and Sons",
+        "bic": "IEGKGBAH",
+        "iban": "IFOY11548739503414"
+    },
+    "products": [
+        {
+            "amount": 101.59,
+            "description": "integrate user-centric initiatives",
+            "index": "8",
+            "price": 48.32,
+            "quantity": 9.25,
+            "tax_amount": 43.37,
+            "total_ttc": 437.0,
+            "vat_amount": 6.47
+        },
+        {
+            "amount": 396.35,
+            "description": "seize proactive niches",
+            "index": "8",
+            "price": 252.02,
+            "quantity": 5.78,
+            "tax_amount": 28.71,
+            "total_ttc": 213.24,
+            "vat_amount": 6.17
+        },
+        {
+            "amount": 219.37,
+            "description": "generate holistic niches",
+            "index": "2",
+            "price": 373.32,
+            "quantity": 9.46,
+            "tax_amount": 93.33,
+            "total_ttc": 378.26,
+            "vat_amount": 12.32
+        },
+        {
+            "amount": 476.18,
+            "description": "optimize B2B applications",
+            "index": "5",
+            "price": 338.66,
+            "quantity": 5.71,
+            "tax_amount": 18.2,
+            "total_ttc": 328.15,
+            "vat_amount": 7.06
+        }
+    ],
+    "seller": {
+        "name": "Crystal Lopez"
+    },
+    "supplier": {
+        "address": "22316 Melanie Radial New Heatherville, KS 34452",
+        "name": "Tom Ramirez"
+    },
+    "tax": {
+        "amount_excluding_tax": 103.45,
+        "amount_including_tax": 135.83,
+        "tax_amount": 28.86,
+        "total_ht": 120.62,
+        "total_ttc": 493.51
+    }
+}

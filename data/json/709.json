@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "029 Zachary Station New Jeffery, AZ 24910",
+        "company_name": "Roberts, Reed and Garrison",
+        "country": "Venezuela",
+        "name": "Dr. Kevin Owens"
+    },
+    "invoice": {
+        "date": "30.03.2017",
+        "number": 400531
+    },
+    "payment": {
+        "discount_amount": 47.28,
+        "discount_percentage": 18.04,
+        "due": 134.52,
+        "sub_total": 162.42,
+        "total": 748.3
+    },
+    "products": [
+        {
+            "description": "unleash open-source e-commerce",
+            "index": "2",
+            "quantity": 8.33,
+            "total_price": 893.48,
+            "unit_price": 85.75
+        },
+        {
+            "description": "orchestrate intuitive infrastructures",
+            "index": "3",
+            "quantity": 3.23,
+            "total_price": 105.97,
+            "unit_price": 46.7
+        },
+        {
+            "description": "deliver out-of-the-box e-commerce",
+            "index": "5",
+            "quantity": 7.77,
+            "total_price": 200.96,
+            "unit_price": 49.05
+        },
+        {
+            "description": "syndicate next-generation e-commerce",
+            "index": "7",
+            "quantity": 5.29,
+            "total_price": 111.75,
+            "unit_price": 76.43
+        },
+        {
+            "description": "morph back-end synergies",
+            "index": "10",
+            "quantity": 1.9,
+            "total_price": 954.96,
+            "unit_price": 91.58
+        }
+    ],
+    "seller": {
+        "address": "391 Kristen Harbors Suite 144 Lake Heather, GA 30123",
+        "company_name": "Hampton, James and Edwards",
+        "vat_no": "jj94966448419"
+    }
+}

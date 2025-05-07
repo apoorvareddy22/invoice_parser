@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "4507 Dominguez Islands Andrewsshire, ME 56076",
+        "company_name": "Glover, Patterson and Murray",
+        "email": "chadweber@example.net",
+        "name": "Dalton Moore",
+        "phone": "+1-871-551-4217x78494"
+    },
+    "invoice": {
+        "date": "28.03.2005",
+        "due_date": "12.01.1994",
+        "number": "SeC55607558266"
+    },
+    "payment": {
+        "account_number": 1332723069,
+        "bank_name": "Jones PLC",
+        "routing_number": 769565830
+    },
+    "products": [
+        {
+            "amount": 131.14,
+            "description": "incubate best-of-breed action-items",
+            "index": "7",
+            "quantity": 1.07,
+            "unit_price": 89.99
+        },
+        {
+            "amount": 44.38,
+            "description": "scale customized web-readiness",
+            "index": "10",
+            "quantity": 7.28,
+            "unit_price": 41.81
+        },
+        {
+            "amount": 176.4,
+            "description": "reinvent impactful e-commerce",
+            "index": "10",
+            "quantity": 4.09,
+            "unit_price": 70.46
+        }
+    ],
+    "seller": {
+        "address": "8793 Dunlap Plaza Apt. 939 Nicholaston, WY 15845",
+        "company_name": "Kelly Group",
+        "email": "adrianriley@example.org"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "7295 Sheppard Loaf Apt. 595 Port Barbaraport, UT 93517",
+        "email": "michelle27@example.org",
+        "phone": "443.361.6091",
+        "vat_no": "JQ31368576662"
+    },
+    "invoice": {
+        "date": "12.04.2023",
+        "due_date": "22.03.2017",
+        "market_reference": 672609,
+        "notes": "e-enable innovative markets",
+        "number": "9334-6798",
+        "reference": 362670,
+        "vat_no": "uN57981115122"
+    },
+    "payment": {
+        "net_total": 96.48,
+        "total": 792.54
+    },
+    "products": [
+        {
+            "amount": 111.96,
+            "description": "scale vertical interfaces",
+            "hours": 9.26,
+            "rate": 5.68
+        },
+        {
+            "amount": 102.51,
+            "description": "engineer one-to-one metrics",
+            "hours": 7.87,
+            "rate": 1.58
+        },
+        {
+            "amount": 319.91,
+            "description": "enable 24/365 vortals",
+            "hours": 6.42,
+            "rate": 2.58
+        },
+        {
+            "amount": 343.96,
+            "description": "orchestrate B2B info-mediaries",
+            "hours": 2.92,
+            "rate": 5.7
+        },
+        {
+            "amount": 268.02,
+            "description": "streamline cross-platform platforms",
+            "hours": 4.02,
+            "rate": 2.19
+        },
+        {
+            "amount": 192.44,
+            "description": "unleash cutting-edge functionalities",
+            "hours": 9.95,
+            "rate": 3.54
+        },
+        {
+            "amount": 428.69,
+            "description": "syndicate dot-com supply-chains",
+            "hours": 3.41,
+            "rate": 2.14
+        }
+    ],
+    "seller": {
+        "address": "PSC 4539, Box 5255 APO AE 80625",
+        "email": "xhouston@example.com",
+        "name": "Derek Brown"
+    },
+    "tax": {
+        "base": 29.38,
+        "tax_amount": 16.17,
+        "total_tax": 29.46
+    }
+}

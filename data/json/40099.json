@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "3065 Austin Ways Apt. 984 West Dennisfurt, LA 25207"
+    },
+    "invoice": {
+        "bc_no": "Yu71545",
+        "date": "02.05.2008",
+        "maturity_date": "20.02.2019",
+        "number": 957079
+    },
+    "products": [
+        {
+            "amount": 162.63,
+            "description": "morph strategic architectures",
+            "quantity": 6.53,
+            "unit_price": 10.26,
+            "vat_amount": 15.25
+        },
+        {
+            "amount": 345.44,
+            "description": "deploy robust applications",
+            "quantity": 1.46,
+            "unit_price": 71.7,
+            "vat_amount": 0.41
+        },
+        {
+            "amount": 229.29,
+            "description": "evolve cross-media methodologies",
+            "quantity": 6.28,
+            "unit_price": 62.42,
+            "vat_amount": 10.89
+        },
+        {
+            "amount": 13.34,
+            "description": "morph 24/7 portals",
+            "quantity": 1.52,
+            "unit_price": 28.5,
+            "vat_amount": 4.26
+        },
+        {
+            "amount": 242.02,
+            "description": "visualize revolutionary supply-chains",
+            "quantity": 4.14,
+            "unit_price": 90.62,
+            "vat_amount": 7.39
+        },
+        {
+            "amount": 118.48,
+            "description": "facilitate proactive paradigms",
+            "quantity": 7.59,
+            "unit_price": 13.47,
+            "vat_amount": 1.6
+        }
+    ],
+    "seller": {
+        "address": "368 Moore Crescent South Krista, OR 96198"
+    },
+    "tax": {
+        "amount_excluding_tax": 12.97,
+        "amount_including_tax": 74.54,
+        "tax_amount": 26.32
+    }
+}

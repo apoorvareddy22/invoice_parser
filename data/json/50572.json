@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "159 Misty Branch Robinsonhaven, MN 24878",
+        "id": "lv224"
+    },
+    "invoice": {
+        "bc_no": "WM15187",
+        "currency_code": "HUF",
+        "date": "21.04.2010",
+        "due_date": "05.05.2019",
+        "number": 544514
+    },
+    "payment": {
+        "bank_name": "Romero, Dean and Hawkins",
+        "bic": "KJGSGBGD",
+        "iban": "NLID00100555934888"
+    },
+    "products": [
+        {
+            "amount": 128.74,
+            "description": "harness plug-and-play eyeballs",
+            "index": "1",
+            "price": 410.21,
+            "quantity": 3.95,
+            "tax_amount": 22.0,
+            "total_ttc": 444.64,
+            "vat_amount": 5.96
+        }
+    ],
+    "seller": {
+        "name": "Matthew Collins"
+    },
+    "supplier": {
+        "address": "7538 Henderson Unions Suite 704 New Davidfort, AL 15865",
+        "name": "Jill Evans"
+    },
+    "tax": {
+        "amount_excluding_tax": 12.24,
+        "amount_including_tax": 95.38,
+        "tax_amount": 28.36,
+        "total_ht": 373.6,
+        "total_ttc": 398.9
+    }
+}

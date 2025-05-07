@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "49579 Victoria Court Harperburgh, NJ 25754",
+        "id": "nm139"
+    },
+    "invoice": {
+        "bc_no": "tN39932",
+        "currency_code": "KES",
+        "date": "26.10.2008",
+        "due_date": "03.02.2012",
+        "number": 921484
+    },
+    "payment": {
+        "bank_name": "Butler LLC",
+        "bic": "OBKPGBJW",
+        "iban": "XNNV47223784881622"
+    },
+    "products": [
+        {
+            "amount": 412.58,
+            "description": "unleash 24/365 bandwidth",
+            "index": "4",
+            "price": 354.92,
+            "quantity": 4.38,
+            "tax_amount": 55.97,
+            "total_ttc": 277.19,
+            "vat_amount": 6.14
+        }
+    ],
+    "seller": {
+        "name": "Amy Hill"
+    },
+    "supplier": {
+        "address": "673 Davis Park Schultzton, MO 38463",
+        "name": "Tyler Alvarez"
+    },
+    "tax": {
+        "amount_excluding_tax": 182.41,
+        "amount_including_tax": 179.8,
+        "tax_amount": 25.64,
+        "total_ht": 320.41,
+        "total_ttc": 484.23
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "0594 Kenneth Center Suite 243 Lake Michael, MD 04570",
+        "business_no": "nO813",
+        "id": "No175"
+    },
+    "invoice": {
+        "date": "23.07.2011",
+        "number": "6935-1457"
+    },
+    "payment": {
+        "due_date": "03.08.2009",
+        "total": 151.69
+    },
+    "products": [
+        {
+            "amount": 149.05,
+            "description": "morph enterprise paradigms",
+            "quantity": 8.69,
+            "reference": "el-808",
+            "unit_price": 27.12
+        },
+        {
+            "amount": 440.1,
+            "description": "deploy global ROI",
+            "quantity": 4.37,
+            "reference": "Ve-754",
+            "unit_price": 96.77
+        },
+        {
+            "amount": 30.31,
+            "description": "mesh revolutionary networks",
+            "quantity": 8.82,
+            "reference": "iV-424",
+            "unit_price": 73.03
+        },
+        {
+            "amount": 198.24,
+            "description": "revolutionize turn-key systems",
+            "quantity": 8.54,
+            "reference": "Xq-817",
+            "unit_price": 76.49
+        },
+        {
+            "amount": 51.68,
+            "description": "brand value-added content",
+            "quantity": 8.26,
+            "reference": "nX-108",
+            "unit_price": 89.02
+        }
+    ],
+    "seller": {
+        "address": "584 Randall Road Apt. 300 Lake Davidside, CO 89843"
+    },
+    "tax": {
+        "base_ht": 459.67,
+        "regulations": 20.31,
+        "total_ht": 256.69,
+        "vat_amount": 188.65,
+        "vat_percentage": 25.65
+    }
+}

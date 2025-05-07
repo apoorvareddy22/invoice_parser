@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "77528 Christina Orchard Jonesbury, IL 89057",
+        "email": "allison82@example.org",
+        "phone": "2075894668",
+        "vat_no": "SR69232523990"
+    },
+    "invoice": {
+        "date": "22.05.2011",
+        "due_date": "28.10.2002",
+        "market_reference": 806997,
+        "notes": "exploit granular architectures",
+        "number": "7187-5605",
+        "reference": 554251,
+        "vat_no": "Kf04249533023"
+    },
+    "payment": {
+        "net_total": 87.15,
+        "total": 712.53
+    },
+    "products": [
+        {
+            "amount": 99.49,
+            "description": "redefine B2B relationships",
+            "hours": 4.67,
+            "rate": 8.42
+        },
+        {
+            "amount": 14.64,
+            "description": "deliver 24/7 bandwidth",
+            "hours": 8.25,
+            "rate": 9.3
+        },
+        {
+            "amount": 292.09,
+            "description": "implement cross-media systems",
+            "hours": 1.15,
+            "rate": 7.69
+        },
+        {
+            "amount": 41.58,
+            "description": "envisioneer front-end networks",
+            "hours": 3.66,
+            "rate": 8.61
+        },
+        {
+            "amount": 151.51,
+            "description": "drive front-end mindshare",
+            "hours": 3.82,
+            "rate": 7.31
+        }
+    ],
+    "seller": {
+        "address": "3472 Hill Knolls Suite 683 East Shelia, GU 56800",
+        "email": "jaclynrussell@example.net",
+        "name": "Zachary Brown"
+    },
+    "tax": {
+        "base": 21.54,
+        "tax_amount": 23.47,
+        "total_tax": 20.53
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "38994 Griffin Viaduct Port Stephenmouth, AR 95679",
+        "id": "Xz002"
+    },
+    "invoice": {
+        "bc_no": "NF87865",
+        "currency_code": "MUR",
+        "date": "25.05.2004",
+        "due_date": "15.08.1997",
+        "number": 339275
+    },
+    "payment": {
+        "bank_name": "Williams Group",
+        "bic": "TZFGGBNV",
+        "iban": "JRNI34529158235476"
+    },
+    "products": [
+        {
+            "amount": 373.05,
+            "description": "whiteboard e-business applications",
+            "index": "10",
+            "price": 154.86,
+            "quantity": 6.07,
+            "tax_amount": 53.79,
+            "total_ttc": 154.87,
+            "vat_amount": 1.99
+        },
+        {
+            "amount": 171.26,
+            "description": "revolutionize open-source architectures",
+            "index": "2",
+            "price": 432.39,
+            "quantity": 8.73,
+            "tax_amount": 77.42,
+            "total_ttc": 127.98,
+            "vat_amount": 2.46
+        },
+        {
+            "amount": 458.52,
+            "description": "exploit customized ROI",
+            "index": "3",
+            "price": 253.44,
+            "quantity": 4.96,
+            "tax_amount": 40.13,
+            "total_ttc": 206.03,
+            "vat_amount": 4.54
+        },
+        {
+            "amount": 20.27,
+            "description": "matrix user-centric e-services",
+            "index": "2",
+            "price": 417.4,
+            "quantity": 5.18,
+            "tax_amount": 75.91,
+            "total_ttc": 410.16,
+            "vat_amount": 0.1
+        }
+    ],
+    "seller": {
+        "name": "Marcus King"
+    },
+    "supplier": {
+        "address": "83865 Welch Throughway Suite 875 Port Anthony, WA 03026",
+        "name": "Daniel Carlson"
+    },
+    "tax": {
+        "amount_excluding_tax": 156.85,
+        "amount_including_tax": 186.06,
+        "tax_amount": 25.25,
+        "total_ht": 326.67,
+        "total_ttc": 409.68
+    }
+}

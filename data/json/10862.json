@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "531 Thomas Circles Apt. 545 Sarahstad, AS 20784",
+        "email": "williamcabrera@example.net",
+        "phone": "446.565.2600",
+        "vat_no": "Zw50009033797"
+    },
+    "invoice": {
+        "date": "18.07.2001",
+        "due_date": "04.11.2022",
+        "market_reference": 814425,
+        "notes": "evolve best-of-breed metrics",
+        "number": "0887-3328",
+        "reference": 445552,
+        "vat_no": "Ww67942019166"
+    },
+    "payment": {
+        "net_total": 49.38,
+        "total": 467.05
+    },
+    "products": [
+        {
+            "amount": 380.44,
+            "description": "deliver cross-media partnerships",
+            "hours": 2.56,
+            "rate": 1.0
+        }
+    ],
+    "seller": {
+        "address": "4707 Deborah Plains Howardport, MH 04221",
+        "email": "smithdaniel@example.com",
+        "name": "Brett Oliver"
+    },
+    "tax": {
+        "base": 10.84,
+        "tax_amount": 27.35,
+        "total_tax": 10.7
+    }
+}

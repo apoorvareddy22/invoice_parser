@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "5579 John Motorway Jessicafort, UT 18897"
+    },
+    "invoice": {
+        "bc_no": "HZ78435",
+        "date": "14.04.2023",
+        "maturity_date": "07.06.1998",
+        "number": 806725
+    },
+    "products": [
+        {
+            "amount": 164.19,
+            "description": "revolutionize e-business supply-chains",
+            "quantity": 7.05,
+            "unit_price": 29.64,
+            "vat_amount": 4.43
+        },
+        {
+            "amount": 103.79,
+            "description": "brand 24/7 info-mediaries",
+            "quantity": 7.42,
+            "unit_price": 12.43,
+            "vat_amount": 0.44
+        },
+        {
+            "amount": 257.51,
+            "description": "cultivate next-generation info-mediaries",
+            "quantity": 6.24,
+            "unit_price": 60.26,
+            "vat_amount": 2.91
+        },
+        {
+            "amount": 223.89,
+            "description": "e-enable plug-and-play infrastructures",
+            "quantity": 4.13,
+            "unit_price": 12.2,
+            "vat_amount": 2.82
+        }
+    ],
+    "seller": {
+        "address": "2172 Contreras Extensions Sherribury, MS 61681"
+    },
+    "tax": {
+        "amount_excluding_tax": 37.67,
+        "amount_including_tax": 166.96,
+        "tax_amount": 29.33
+    }
+}

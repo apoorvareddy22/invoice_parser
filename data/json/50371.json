@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "463 Griffin Way New Robert, TX 51984",
+        "id": "Xl073"
+    },
+    "invoice": {
+        "bc_no": "Pd50355",
+        "currency_code": "RON",
+        "date": "04.07.2015",
+        "due_date": "07.12.2023",
+        "number": 937396
+    },
+    "payment": {
+        "bank_name": "Garrett and Sons",
+        "bic": "WPZQGB3R",
+        "iban": "VGQZ30434680864052"
+    },
+    "products": [
+        {
+            "amount": 462.15,
+            "description": "repurpose one-to-one architectures",
+            "index": "5",
+            "price": 346.14,
+            "quantity": 7.7,
+            "tax_amount": 19.67,
+            "total_ttc": 215.47,
+            "vat_amount": 8.68
+        },
+        {
+            "amount": 313.01,
+            "description": "evolve viral solutions",
+            "index": "6",
+            "price": 28.16,
+            "quantity": 8.24,
+            "tax_amount": 57.01,
+            "total_ttc": 430.43,
+            "vat_amount": 0.69
+        },
+        {
+            "amount": 76.9,
+            "description": "maximize wireless content",
+            "index": "7",
+            "price": 104.86,
+            "quantity": 3.91,
+            "tax_amount": 50.64,
+            "total_ttc": 152.83,
+            "vat_amount": 10.6
+        },
+        {
+            "amount": 238.53,
+            "description": "extend granular models",
+            "index": "6",
+            "price": 332.31,
+            "quantity": 8.17,
+            "tax_amount": 20.02,
+            "total_ttc": 193.1,
+            "vat_amount": 3.12
+        },
+        {
+            "amount": 175.33,
+            "description": "monetize clicks-and-mortar partnerships",
+            "index": "9",
+            "price": 119.41,
+            "quantity": 4.34,
+            "tax_amount": 64.9,
+            "total_ttc": 330.71,
+            "vat_amount": 13.7
+        }
+    ],
+    "seller": {
+        "name": "Christina Jones"
+    },
+    "supplier": {
+        "address": "177 Victoria Cliff New Andreamouth, FM 88463",
+        "name": "Jennifer Taylor"
+    },
+    "tax": {
+        "amount_excluding_tax": 70.38,
+        "amount_including_tax": 102.95,
+        "tax_amount": 29.59,
+        "total_ht": 116.08,
+        "total_ttc": 233.86
+    }
+}

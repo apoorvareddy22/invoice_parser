@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "67424 Cox Valley Lake Heather, OK 12343",
+        "id": "Cz149"
+    },
+    "invoice": {
+        "bc_no": "sg08867",
+        "currency_code": "MZN",
+        "date": "28.12.2011",
+        "due_date": "30.07.1998",
+        "number": 747280
+    },
+    "payment": {
+        "bank_name": "Williams, Clark and Pham",
+        "bic": "WAHKGBBIVAT",
+        "iban": "CPOG25941901773991"
+    },
+    "products": [
+        {
+            "amount": 11.95,
+            "description": "incubate extensible interfaces",
+            "index": "1",
+            "price": 38.2,
+            "quantity": 9.32,
+            "tax_amount": 79.94,
+            "total_ttc": 391.13,
+            "vat_amount": 8.0
+        },
+        {
+            "amount": 195.38,
+            "description": "strategize magnetic bandwidth",
+            "index": "8",
+            "price": 445.95,
+            "quantity": 5.01,
+            "tax_amount": 61.8,
+            "total_ttc": 400.74,
+            "vat_amount": 2.63
+        },
+        {
+            "amount": 477.01,
+            "description": "generate user-centric deliverables",
+            "index": "9",
+            "price": 163.32,
+            "quantity": 1.99,
+            "tax_amount": 65.15,
+            "total_ttc": 109.76,
+            "vat_amount": 0.9
+        },
+        {
+            "amount": 202.6,
+            "description": "brand synergistic deliverables",
+            "index": "1",
+            "price": 278.94,
+            "quantity": 7.88,
+            "tax_amount": 57.43,
+            "total_ttc": 404.17,
+            "vat_amount": 5.8
+        }
+    ],
+    "seller": {
+        "name": "Michael Esparza"
+    },
+    "supplier": {
+        "address": "0904 Jordan Crescent Alvaradoside, WA 16457",
+        "name": "Edward Macdonald"
+    },
+    "tax": {
+        "amount_excluding_tax": 117.05,
+        "amount_including_tax": 86.84,
+        "tax_amount": 11.08,
+        "total_ht": 339.06,
+        "total_ttc": 203.73
+    }
+}

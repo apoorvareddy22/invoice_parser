@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "667 Andrea Curve North Aaron, MH 71273",
+        "email": "leepayne@example.net",
+        "phone": "(303)513-7175x922",
+        "vat_no": "IU93205676170"
+    },
+    "invoice": {
+        "date": "30.03.2002",
+        "due_date": "28.04.2003",
+        "market_reference": 393826,
+        "notes": "enhance impactful e-business",
+        "number": "3728-9326",
+        "reference": 457274,
+        "vat_no": "DP98527500619"
+    },
+    "payment": {
+        "net_total": 115.79,
+        "total": 187.64
+    },
+    "products": [
+        {
+            "amount": 464.56,
+            "description": "engage one-to-one content",
+            "hours": 4.29,
+            "rate": 1.17
+        },
+        {
+            "amount": 51.79,
+            "description": "cultivate revolutionary niches",
+            "hours": 9.54,
+            "rate": 1.16
+        }
+    ],
+    "seller": {
+        "address": "6723 Maureen Rapid Michelefurt, CT 98442",
+        "email": "sydneyjacobs@example.org",
+        "name": "Jennifer Robbins"
+    },
+    "tax": {
+        "base": 19.88,
+        "tax_amount": 27.63,
+        "total_tax": 11.63
+    }
+}

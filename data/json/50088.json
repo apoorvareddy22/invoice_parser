@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "119 Taylor Causeway Suite 556 Haileyport, FL 84969",
+        "id": "qb182"
+    },
+    "invoice": {
+        "bc_no": "UU61120",
+        "currency_code": "RSD",
+        "date": "15.09.1994",
+        "due_date": "18.10.1994",
+        "number": 700480
+    },
+    "payment": {
+        "bank_name": "Williams PLC",
+        "bic": "LDLKGBF9",
+        "iban": "WHKR06182130269711"
+    },
+    "products": [
+        {
+            "amount": 190.28,
+            "description": "syndicate cross-media action-items",
+            "index": "5",
+            "price": 454.72,
+            "quantity": 7.92,
+            "tax_amount": 16.07,
+            "total_ttc": 380.95,
+            "vat_amount": 4.41
+        },
+        {
+            "amount": 389.9,
+            "description": "seize dot-com convergence",
+            "index": "1",
+            "price": 90.08,
+            "quantity": 2.28,
+            "tax_amount": 81.7,
+            "total_ttc": 414.98,
+            "vat_amount": 0.32
+        },
+        {
+            "amount": 110.91,
+            "description": "innovate cross-media content",
+            "index": "6",
+            "price": 215.43,
+            "quantity": 9.54,
+            "tax_amount": 15.22,
+            "total_ttc": 485.33,
+            "vat_amount": 7.26
+        },
+        {
+            "amount": 341.49,
+            "description": "matrix strategic initiatives",
+            "index": "9",
+            "price": 97.57,
+            "quantity": 5.53,
+            "tax_amount": 49.51,
+            "total_ttc": 276.95,
+            "vat_amount": 0.7
+        }
+    ],
+    "seller": {
+        "name": "Sara Gentry"
+    },
+    "supplier": {
+        "address": "101 Christian Drive Suite 825 East Lawrenceville, AL 45714",
+        "name": "Charles Downs"
+    },
+    "tax": {
+        "amount_excluding_tax": 146.28,
+        "amount_including_tax": 30.68,
+        "tax_amount": 11.93,
+        "total_ht": 146.74,
+        "total_ttc": 429.47
+    }
+}

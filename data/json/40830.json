@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "2418 Bond Junction South Janetside, NH 03527"
+    },
+    "invoice": {
+        "bc_no": "Ew87040",
+        "date": "28.10.2017",
+        "maturity_date": "01.01.2008",
+        "number": 951013
+    },
+    "products": [
+        {
+            "amount": 280.22,
+            "description": "iterate global e-business",
+            "quantity": 7.17,
+            "unit_price": 47.8,
+            "vat_amount": 5.91
+        },
+        {
+            "amount": 294.79,
+            "description": "visualize value-added models",
+            "quantity": 7.89,
+            "unit_price": 67.71,
+            "vat_amount": 1.56
+        },
+        {
+            "amount": 245.28,
+            "description": "repurpose scalable functionalities",
+            "quantity": 1.33,
+            "unit_price": 76.92,
+            "vat_amount": 4.11
+        },
+        {
+            "amount": 375.74,
+            "description": "matrix bleeding-edge web services",
+            "quantity": 5.46,
+            "unit_price": 67.99,
+            "vat_amount": 5.71
+        }
+    ],
+    "seller": {
+        "address": "Unit 4446 Box 5634 DPO AA 36434"
+    },
+    "tax": {
+        "amount_excluding_tax": 137.35,
+        "amount_including_tax": 103.16,
+        "tax_amount": 12.73
+    }
+}

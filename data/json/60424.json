@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "625 Landry Course South Eric, AR 03265",
+        "business_no": "lU207",
+        "id": "XQ805"
+    },
+    "invoice": {
+        "date": "26.05.1997",
+        "number": "0450-1523"
+    },
+    "payment": {
+        "due_date": "26.03.2017",
+        "total": 871.83
+    },
+    "products": [
+        {
+            "amount": 110.43,
+            "description": "matrix bricks-and-clicks markets",
+            "quantity": 4.3,
+            "reference": "yR-649",
+            "unit_price": 62.76
+        },
+        {
+            "amount": 216.29,
+            "description": "integrate proactive methodologies",
+            "quantity": 7.01,
+            "reference": "Xo-375",
+            "unit_price": 45.06
+        },
+        {
+            "amount": 499.9,
+            "description": "re-contextualize strategic mindshare",
+            "quantity": 4.73,
+            "reference": "QQ-315",
+            "unit_price": 75.56
+        },
+        {
+            "amount": 206.09,
+            "description": "integrate killer partnerships",
+            "quantity": 8.95,
+            "reference": "rQ-486",
+            "unit_price": 16.32
+        }
+    ],
+    "seller": {
+        "address": "8063 Steele Canyon Nelsonland, AK 45568"
+    },
+    "tax": {
+        "base_ht": 332.08,
+        "regulations": 15.92,
+        "total_ht": 197.38,
+        "vat_amount": 48.68,
+        "vat_percentage": 24.04
+    }
+}

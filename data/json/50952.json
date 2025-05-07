@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "46139 Sandra Ferry Apt. 481 North Jonathan, TX 91106",
+        "id": "pA757"
+    },
+    "invoice": {
+        "bc_no": "Mi29874",
+        "currency_code": "MWK",
+        "date": "24.01.2008",
+        "due_date": "07.07.1997",
+        "number": 181703
+    },
+    "payment": {
+        "bank_name": "Carson-Howard",
+        "bic": "PSLQGB9BHHB",
+        "iban": "JPRK95274322617467"
+    },
+    "products": [
+        {
+            "amount": 37.06,
+            "description": "drive world-class e-markets",
+            "index": "2",
+            "price": 140.63,
+            "quantity": 9.92,
+            "tax_amount": 43.88,
+            "total_ttc": 431.36,
+            "vat_amount": 13.72
+        },
+        {
+            "amount": 410.72,
+            "description": "matrix real-time functionalities",
+            "index": "9",
+            "price": 271.39,
+            "quantity": 1.5,
+            "tax_amount": 82.52,
+            "total_ttc": 470.72,
+            "vat_amount": 12.24
+        }
+    ],
+    "seller": {
+        "name": "Darren Gonzales"
+    },
+    "supplier": {
+        "address": "440 Fisher Burg Apt. 557 New Ariana, AS 46774",
+        "name": "Jeanette Martin"
+    },
+    "tax": {
+        "amount_excluding_tax": 78.91,
+        "amount_including_tax": 192.77,
+        "tax_amount": 12.24,
+        "total_ht": 399.02,
+        "total_ttc": 421.93
+    }
+}

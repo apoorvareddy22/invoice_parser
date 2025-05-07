@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "83754 Gray Streets Suite 593 South Robert, LA 30517",
+        "id": "WI945"
+    },
+    "invoice": {
+        "bc_no": "AY80637",
+        "currency_code": "CAD",
+        "date": "15.08.2018",
+        "due_date": "05.01.2003",
+        "number": 317495
+    },
+    "payment": {
+        "bank_name": "Graves, Wagner and Parrish",
+        "bic": "ATOYGBL2XGT",
+        "iban": "ZXWD86115954487385"
+    },
+    "products": [
+        {
+            "amount": 398.69,
+            "description": "reinvent cross-platform platforms",
+            "index": "3",
+            "price": 298.53,
+            "quantity": 1.78,
+            "tax_amount": 32.66,
+            "total_ttc": 135.9,
+            "vat_amount": 13.24
+        }
+    ],
+    "seller": {
+        "name": "Tamara Schneider"
+    },
+    "supplier": {
+        "address": "4155 Michael Union Apt. 955 West Anthonyborough, ID 34712",
+        "name": "Juan Baker"
+    },
+    "tax": {
+        "amount_excluding_tax": 194.37,
+        "amount_including_tax": 151.33,
+        "tax_amount": 25.76,
+        "total_ht": 202.23,
+        "total_ttc": 215.39
+    }
+}

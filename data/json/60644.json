@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "6622 Wolfe Road Lake Tracy, VT 89861",
+        "business_no": "zG201",
+        "id": "Fg343"
+    },
+    "invoice": {
+        "date": "18.01.1992",
+        "number": "2569-1806"
+    },
+    "payment": {
+        "due_date": "16.02.1990",
+        "total": 571.52
+    },
+    "products": [
+        {
+            "amount": 309.6,
+            "description": "synergize robust models",
+            "quantity": 4.4,
+            "reference": "fW-793",
+            "unit_price": 29.15
+        }
+    ],
+    "seller": {
+        "address": "28226 Bates Coves North Katherine, DE 55250"
+    },
+    "tax": {
+        "base_ht": 172.17,
+        "regulations": 24.56,
+        "total_ht": 200.18,
+        "vat_amount": 166.16,
+        "vat_percentage": 16.6
+    }
+}

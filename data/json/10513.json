@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "30636 Crystal Mall Huntborough, AS 66638",
+        "email": "veronica85@example.org",
+        "phone": "932-685-1122x023",
+        "vat_no": "DX45567151579"
+    },
+    "invoice": {
+        "date": "07.06.2001",
+        "due_date": "27.03.2015",
+        "market_reference": 739426,
+        "notes": "iterate global e-tailers",
+        "number": "8121-9710",
+        "reference": 139195,
+        "vat_no": "le94861744251"
+    },
+    "payment": {
+        "net_total": 112.4,
+        "total": 266.69
+    },
+    "products": [
+        {
+            "amount": 163.57,
+            "description": "revolutionize viral vortals",
+            "hours": 5.03,
+            "rate": 3.19
+        },
+        {
+            "amount": 52.3,
+            "description": "synergize rich e-business",
+            "hours": 4.26,
+            "rate": 3.39
+        },
+        {
+            "amount": 480.52,
+            "description": "brand revolutionary ROI",
+            "hours": 2.53,
+            "rate": 9.8
+        }
+    ],
+    "seller": {
+        "address": "17147 Charles Shores Johntown, MP 49809",
+        "email": "santiagosally@example.org",
+        "name": "Curtis Gibson"
+    },
+    "tax": {
+        "base": 22.4,
+        "tax_amount": 10.98,
+        "total_tax": 20.9
+    }
+}

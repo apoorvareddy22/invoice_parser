@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "7520 Taylor Prairie Apt. 461 Rebeccahaven, CO 98254",
+        "company_name": "Robbins LLC",
+        "country": "Hungary",
+        "name": "Steven Garcia"
+    },
+    "invoice": {
+        "date": "17.09.1991",
+        "number": 478001
+    },
+    "payment": {
+        "discount_amount": 12.22,
+        "discount_percentage": 17.63,
+        "due": 125.76,
+        "sub_total": 137.66,
+        "total": 543.36
+    },
+    "products": [
+        {
+            "description": "architect strategic solutions",
+            "index": "4",
+            "quantity": 1.67,
+            "total_price": 687.96,
+            "unit_price": 93.29
+        },
+        {
+            "description": "redefine next-generation initiatives",
+            "index": "3",
+            "quantity": 1.09,
+            "total_price": 507.73,
+            "unit_price": 25.27
+        },
+        {
+            "description": "incentivize ubiquitous systems",
+            "index": "6",
+            "quantity": 5.76,
+            "total_price": 617.64,
+            "unit_price": 57.5
+        },
+        {
+            "description": "seize leading-edge web services",
+            "index": "7",
+            "quantity": 9.49,
+            "total_price": 914.69,
+            "unit_price": 30.79
+        },
+        {
+            "description": "monetize wireless e-services",
+            "index": "9",
+            "quantity": 8.89,
+            "total_price": 353.34,
+            "unit_price": 22.15
+        },
+        {
+            "description": "target enterprise architectures",
+            "index": "8",
+            "quantity": 1.45,
+            "total_price": 286.74,
+            "unit_price": 19.46
+        },
+        {
+            "description": "cultivate innovative ROI",
+            "index": "4",
+            "quantity": 5.02,
+            "total_price": 284.96,
+            "unit_price": 99.26
+        }
+    ],
+    "seller": {
+        "address": "32013 Kelly Lights Victoriamouth, VT 95054",
+        "company_name": "Cooper, Wallace and Gregory",
+        "vat_no": "wD38706654757"
+    }
+}

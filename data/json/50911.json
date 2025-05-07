@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "960 Lopez Plaza West Jessica, PW 69096",
+        "id": "Py274"
+    },
+    "invoice": {
+        "bc_no": "gj33521",
+        "currency_code": "NPR",
+        "date": "07.07.2007",
+        "due_date": "13.08.1993",
+        "number": 515008
+    },
+    "payment": {
+        "bank_name": "Wang Inc",
+        "bic": "WKLIGBTMSVM",
+        "iban": "ZEBX79445262043291"
+    },
+    "products": [
+        {
+            "amount": 218.4,
+            "description": "visualize cross-platform e-commerce",
+            "index": "6",
+            "price": 460.98,
+            "quantity": 2.41,
+            "tax_amount": 26.06,
+            "total_ttc": 234.64,
+            "vat_amount": 3.98
+        },
+        {
+            "amount": 387.76,
+            "description": "aggregate extensible relationships",
+            "index": "9",
+            "price": 373.76,
+            "quantity": 3.49,
+            "tax_amount": 27.72,
+            "total_ttc": 336.8,
+            "vat_amount": 0.14
+        },
+        {
+            "amount": 272.02,
+            "description": "transform out-of-the-box initiatives",
+            "index": "1",
+            "price": 81.64,
+            "quantity": 2.64,
+            "tax_amount": 79.86,
+            "total_ttc": 494.46,
+            "vat_amount": 7.9
+        }
+    ],
+    "seller": {
+        "name": "Nicole Sanders"
+    },
+    "supplier": {
+        "address": "3393 Graham Meadows Apt. 436 Parsonsview, GU 05567",
+        "name": "Alexandra Campbell"
+    },
+    "tax": {
+        "amount_excluding_tax": 32.9,
+        "amount_including_tax": 134.88,
+        "tax_amount": 25.13,
+        "total_ht": 247.23,
+        "total_ttc": 454.67
+    }
+}

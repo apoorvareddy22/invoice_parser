@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "0203 Raymond Radial Stevenmouth, AS 63452",
+        "id": "VN001"
+    },
+    "invoice": {
+        "bc_no": "OC48900",
+        "currency_code": "BWP",
+        "date": "15.10.2011",
+        "due_date": "03.03.2005",
+        "number": 559564
+    },
+    "payment": {
+        "bank_name": "Gomez, Washington and Yang",
+        "bic": "BWWMGBNRYOT",
+        "iban": "ZMSW34996011426325"
+    },
+    "products": [
+        {
+            "amount": 217.32,
+            "description": "monetize virtual markets",
+            "index": "6",
+            "price": 284.06,
+            "quantity": 5.2,
+            "tax_amount": 29.98,
+            "total_ttc": 399.35,
+            "vat_amount": 7.39
+        },
+        {
+            "amount": 252.44,
+            "description": "morph interactive functionalities",
+            "index": "4",
+            "price": 485.72,
+            "quantity": 8.33,
+            "tax_amount": 50.63,
+            "total_ttc": 303.19,
+            "vat_amount": 1.04
+        },
+        {
+            "amount": 68.72,
+            "description": "target sticky technologies",
+            "index": "9",
+            "price": 154.56,
+            "quantity": 6.54,
+            "tax_amount": 72.89,
+            "total_ttc": 212.58,
+            "vat_amount": 10.26
+        },
+        {
+            "amount": 284.7,
+            "description": "incentivize magnetic paradigms",
+            "index": "1",
+            "price": 111.65,
+            "quantity": 8.97,
+            "tax_amount": 73.65,
+            "total_ttc": 378.06,
+            "vat_amount": 0.59
+        },
+        {
+            "amount": 297.1,
+            "description": "architect world-class e-markets",
+            "index": "4",
+            "price": 17.67,
+            "quantity": 9.29,
+            "tax_amount": 28.75,
+            "total_ttc": 330.25,
+            "vat_amount": 13.88
+        },
+        {
+            "amount": 462.3,
+            "description": "unleash back-end deliverables",
+            "index": "2",
+            "price": 354.66,
+            "quantity": 4.06,
+            "tax_amount": 98.39,
+            "total_ttc": 155.18,
+            "vat_amount": 1.68
+        },
+        {
+            "amount": 182.17,
+            "description": "incubate vertical models",
+            "index": "9",
+            "price": 430.96,
+            "quantity": 1.54,
+            "tax_amount": 32.32,
+            "total_ttc": 151.97,
+            "vat_amount": 0.34
+        }
+    ],
+    "seller": {
+        "name": "Kristina Larsen"
+    },
+    "supplier": {
+        "address": "41951 Mcmahon Curve Apt. 831 Lake Melissafurt, IN 70091",
+        "name": "Paul Wilkins"
+    },
+    "tax": {
+        "amount_excluding_tax": 26.73,
+        "amount_including_tax": 90.79,
+        "tax_amount": 18.61,
+        "total_ht": 355.48,
+        "total_ttc": 196.58
+    }
+}

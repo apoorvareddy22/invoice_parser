@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "382 Timothy Trail Apt. 330 Whitebury, WY 01040",
+        "business_no": "xe731",
+        "id": "kE729"
+    },
+    "invoice": {
+        "date": "18.06.1994",
+        "number": "9217-6631"
+    },
+    "payment": {
+        "due_date": "30.03.2000",
+        "total": 830.85
+    },
+    "products": [
+        {
+            "amount": 435.19,
+            "description": "transform viral networks",
+            "quantity": 3.56,
+            "reference": "Zp-406",
+            "unit_price": 66.49
+        },
+        {
+            "amount": 201.09,
+            "description": "mesh front-end schemas",
+            "quantity": 8.91,
+            "reference": "JJ-558",
+            "unit_price": 13.85
+        },
+        {
+            "amount": 427.51,
+            "description": "drive customized action-items",
+            "quantity": 6.19,
+            "reference": "fS-348",
+            "unit_price": 58.21
+        }
+    ],
+    "seller": {
+        "address": "984 Clark Viaduct Victorton, ME 67385"
+    },
+    "tax": {
+        "base_ht": 208.58,
+        "regulations": 10.78,
+        "total_ht": 185.48,
+        "vat_amount": 195.59,
+        "vat_percentage": 11.45
+    }
+}

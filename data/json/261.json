@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "0840 Smith Square East Lori, WI 26377",
+        "company_name": "Scott, Middleton and Johnson",
+        "country": "Seychelles",
+        "name": "Karen Young MD"
+    },
+    "invoice": {
+        "date": "13.03.2000",
+        "number": 936956
+    },
+    "payment": {
+        "discount_amount": 32.06,
+        "discount_percentage": 16.85,
+        "due": 33.68,
+        "sub_total": 132.81,
+        "total": 688.62
+    },
+    "products": [
+        {
+            "description": "extend magnetic architectures",
+            "index": "8",
+            "quantity": 5.47,
+            "total_price": 119.26,
+            "unit_price": 56.75
+        },
+        {
+            "description": "syndicate virtual platforms",
+            "index": "1",
+            "quantity": 2.42,
+            "total_price": 690.5,
+            "unit_price": 84.9
+        },
+        {
+            "description": "syndicate dynamic methodologies",
+            "index": "10",
+            "quantity": 4.63,
+            "total_price": 163.66,
+            "unit_price": 94.72
+        },
+        {
+            "description": "implement enterprise solutions",
+            "index": "1",
+            "quantity": 8.38,
+            "total_price": 922.42,
+            "unit_price": 53.96
+        }
+    ],
+    "seller": {
+        "address": "USCGC Burns FPO AE 65165",
+        "company_name": "Evans, May and Holland",
+        "vat_no": "UK25948616369"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "497 Mitchell Skyway Thomasstad, VT 39488"
+    },
+    "invoice": {
+        "bc_no": "jt73979",
+        "date": "01.11.2003",
+        "maturity_date": "01.06.2006",
+        "number": 502709
+    },
+    "products": [
+        {
+            "amount": 64.17,
+            "description": "scale cross-media platforms",
+            "quantity": 7.47,
+            "unit_price": 63.51,
+            "vat_amount": 2.34
+        },
+        {
+            "amount": 421.15,
+            "description": "brand viral experiences",
+            "quantity": 4.46,
+            "unit_price": 84.9,
+            "vat_amount": 1.79
+        },
+        {
+            "amount": 498.26,
+            "description": "innovate innovative solutions",
+            "quantity": 2.95,
+            "unit_price": 49.44,
+            "vat_amount": 1.29
+        },
+        {
+            "amount": 37.74,
+            "description": "extend ubiquitous networks",
+            "quantity": 4.49,
+            "unit_price": 26.63,
+            "vat_amount": 7.14
+        }
+    ],
+    "seller": {
+        "address": "235 Paul Station Apt. 639 South Jesuston, DE 16199"
+    },
+    "tax": {
+        "amount_excluding_tax": 137.04,
+        "amount_including_tax": 112.36,
+        "tax_amount": 29.7
+    }
+}

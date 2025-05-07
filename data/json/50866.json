@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "9929 Amanda Divide Suite 128 Hopkinsshire, NM 10060",
+        "id": "MG419"
+    },
+    "invoice": {
+        "bc_no": "FD05321",
+        "currency_code": "BDT",
+        "date": "18.07.1996",
+        "due_date": "18.08.2008",
+        "number": 121392
+    },
+    "payment": {
+        "bank_name": "Koch, Clark and Gonzales",
+        "bic": "ZWHIGBF18HY",
+        "iban": "EPPG27084308840066"
+    },
+    "products": [
+        {
+            "amount": 76.38,
+            "description": "re-intermediate dynamic action-items",
+            "index": "8",
+            "price": 90.69,
+            "quantity": 1.36,
+            "tax_amount": 71.79,
+            "total_ttc": 423.03,
+            "vat_amount": 3.23
+        },
+        {
+            "amount": 6.35,
+            "description": "syndicate granular web-readiness",
+            "index": "4",
+            "price": 388.68,
+            "quantity": 9.74,
+            "tax_amount": 56.69,
+            "total_ttc": 147.58,
+            "vat_amount": 2.5
+        },
+        {
+            "amount": 175.4,
+            "description": "scale scalable architectures",
+            "index": "9",
+            "price": 16.53,
+            "quantity": 6.21,
+            "tax_amount": 60.44,
+            "total_ttc": 264.6,
+            "vat_amount": 7.47
+        },
+        {
+            "amount": 42.16,
+            "description": "strategize global web-readiness",
+            "index": "9",
+            "price": 392.21,
+            "quantity": 4.31,
+            "tax_amount": 82.8,
+            "total_ttc": 167.55,
+            "vat_amount": 3.74
+        },
+        {
+            "amount": 402.04,
+            "description": "mesh sticky infrastructures",
+            "index": "6",
+            "price": 293.15,
+            "quantity": 5.17,
+            "tax_amount": 80.28,
+            "total_ttc": 330.5,
+            "vat_amount": 4.11
+        },
+        {
+            "amount": 287.63,
+            "description": "expedite extensible systems",
+            "index": "7",
+            "price": 294.1,
+            "quantity": 3.32,
+            "tax_amount": 52.9,
+            "total_ttc": 404.92,
+            "vat_amount": 7.19
+        }
+    ],
+    "seller": {
+        "name": "Aaron Fitzgerald"
+    },
+    "supplier": {
+        "address": "4793 Stephen Islands Wilsonmouth, GU 35603",
+        "name": "Kelsey Walker"
+    },
+    "tax": {
+        "amount_excluding_tax": 62.39,
+        "amount_including_tax": 25.76,
+        "tax_amount": 11.01,
+        "total_ht": 357.16,
+        "total_ttc": 302.4
+    }
+}

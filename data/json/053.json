@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "944 Bob Parkways Apt. 402 South John, NJ 76646",
+        "company_name": "Mayo LLC",
+        "country": "Iceland",
+        "name": "Sandra Blair"
+    },
+    "invoice": {
+        "date": "02.03.1999",
+        "number": 834465
+    },
+    "payment": {
+        "discount_amount": 36.91,
+        "discount_percentage": 6.45,
+        "due": 178.56,
+        "sub_total": 65.32,
+        "total": 322.33
+    },
+    "products": [
+        {
+            "description": "exploit back-end eyeballs",
+            "index": "4",
+            "quantity": 8.05,
+            "total_price": 444.85,
+            "unit_price": 76.22
+        },
+        {
+            "description": "redefine extensible partnerships",
+            "index": "2",
+            "quantity": 8.41,
+            "total_price": 216.78,
+            "unit_price": 22.55
+        },
+        {
+            "description": "incentivize end-to-end solutions",
+            "index": "3",
+            "quantity": 2.33,
+            "total_price": 876.3,
+            "unit_price": 77.41
+        }
+    ],
+    "seller": {
+        "address": "249 John Mission South Christopherburgh, ND 09054",
+        "company_name": "Wilson, Daniels and Charles",
+        "vat_no": "xc28442393152"
+    }
+}

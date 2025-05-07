@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "7851 Bowman Dam Kristashire, OK 73565"
+    },
+    "invoice": {
+        "bc_no": "Px47842",
+        "date": "14.05.2008",
+        "maturity_date": "05.01.2000",
+        "number": 496338
+    },
+    "products": [
+        {
+            "amount": 490.16,
+            "description": "deliver mission-critical infrastructures",
+            "quantity": 6.86,
+            "unit_price": 32.66,
+            "vat_amount": 10.28
+        },
+        {
+            "amount": 434.54,
+            "description": "innovate dynamic systems",
+            "quantity": 7.23,
+            "unit_price": 56.3,
+            "vat_amount": 12.16
+        },
+        {
+            "amount": 129.58,
+            "description": "morph open-source methodologies",
+            "quantity": 1.78,
+            "unit_price": 31.02,
+            "vat_amount": 0.12
+        },
+        {
+            "amount": 149.8,
+            "description": "empower turn-key solutions",
+            "quantity": 2.05,
+            "unit_price": 74.97,
+            "vat_amount": 9.7
+        },
+        {
+            "amount": 490.37,
+            "description": "extend magnetic initiatives",
+            "quantity": 2.06,
+            "unit_price": 90.58,
+            "vat_amount": 2.27
+        },
+        {
+            "amount": 345.58,
+            "description": "re-contextualize enterprise portals",
+            "quantity": 8.83,
+            "unit_price": 92.42,
+            "vat_amount": 17.75
+        }
+    ],
+    "seller": {
+        "address": "156 Stacy Mount Apt. 343 East Roy, VI 76806"
+    },
+    "tax": {
+        "amount_excluding_tax": 110.64,
+        "amount_including_tax": 66.06,
+        "tax_amount": 17.84
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "29154 Bradley Street Suite 331 Tiffanyland, NM 47351"
+    },
+    "invoice": {
+        "bc_no": "WB18867",
+        "date": "13.11.2018",
+        "maturity_date": "03.04.1995",
+        "number": 940605
+    },
+    "products": [
+        {
+            "amount": 260.78,
+            "description": "mesh ubiquitous action-items",
+            "quantity": 6.89,
+            "unit_price": 78.26,
+            "vat_amount": 10.65
+        },
+        {
+            "amount": 14.32,
+            "description": "expedite e-business e-tailers",
+            "quantity": 7.1,
+            "unit_price": 33.9,
+            "vat_amount": 3.81
+        }
+    ],
+    "seller": {
+        "address": "5495 Charles Wall Suite 013 Jenniferton, AK 70828"
+    },
+    "tax": {
+        "amount_excluding_tax": 131.08,
+        "amount_including_tax": 74.36,
+        "tax_amount": 16.37
+    }
+}

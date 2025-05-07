@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "93303 Teresa Crest Apt. 489 Michaelside, NM 72553",
+        "company_name": "Martinez-Robertson",
+        "email": "jackson04@example.com",
+        "name": "Kevin Lee",
+        "phone": "7505263121"
+    },
+    "invoice": {
+        "date": "01.04.1995",
+        "due_date": "26.04.2019",
+        "number": "WbQ06022892625"
+    },
+    "payment": {
+        "account_number": 9325407827,
+        "bank_name": "Conner, Mann and Garcia",
+        "routing_number": 445378740
+    },
+    "products": [
+        {
+            "amount": 498.36,
+            "description": "empower visionary info-mediaries",
+            "index": "9",
+            "quantity": 2.7,
+            "unit_price": 34.37
+        },
+        {
+            "amount": 115.07,
+            "description": "brand user-centric paradigms",
+            "index": "8",
+            "quantity": 6.22,
+            "unit_price": 27.3
+        },
+        {
+            "amount": 47.66,
+            "description": "engineer extensible eyeballs",
+            "index": "1",
+            "quantity": 2.34,
+            "unit_price": 40.09
+        },
+        {
+            "amount": 185.61,
+            "description": "exploit turn-key niches",
+            "index": "5",
+            "quantity": 6.62,
+            "unit_price": 71.92
+        },
+        {
+            "amount": 328.08,
+            "description": "optimize dot-com web services",
+            "index": "7",
+            "quantity": 6.58,
+            "unit_price": 42.62
+        }
+    ],
+    "seller": {
+        "address": "8948 Andrew Village Suite 893 Dillonborough, CO 53672",
+        "company_name": "Myers-Vang",
+        "email": "antoniomiller@example.com"
+    }
+}

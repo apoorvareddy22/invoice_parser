@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "USS Henry FPO AP 48557",
+        "business_no": "Ka580",
+        "id": "IV695"
+    },
+    "invoice": {
+        "date": "19.06.2003",
+        "number": "6345-6206"
+    },
+    "payment": {
+        "due_date": "27.11.1997",
+        "total": 313.27
+    },
+    "products": [
+        {
+            "amount": 491.2,
+            "description": "synthesize plug-and-play e-business",
+            "quantity": 9.92,
+            "reference": "RB-546",
+            "unit_price": 17.14
+        },
+        {
+            "amount": 203.26,
+            "description": "deliver synergistic platforms",
+            "quantity": 9.14,
+            "reference": "Us-904",
+            "unit_price": 27.31
+        },
+        {
+            "amount": 74.59,
+            "description": "enable bricks-and-clicks systems",
+            "quantity": 1.93,
+            "reference": "RE-228",
+            "unit_price": 76.81
+        },
+        {
+            "amount": 360.56,
+            "description": "repurpose efficient initiatives",
+            "quantity": 1.16,
+            "reference": "RQ-295",
+            "unit_price": 97.36
+        }
+    ],
+    "seller": {
+        "address": "3178 Angel Radial Port Adrienne, AS 44372"
+    },
+    "tax": {
+        "base_ht": 370.76,
+        "regulations": 15.47,
+        "total_ht": 380.65,
+        "vat_amount": 112.65,
+        "vat_percentage": 23.24
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "Unit 3809 Box 8432 DPO AE 63966",
+        "email": "uhensley@example.com",
+        "phone": "(669)823-2944",
+        "vat_no": "Nw77761617989"
+    },
+    "invoice": {
+        "date": "12.05.2002",
+        "due_date": "30.09.2019",
+        "market_reference": 626297,
+        "notes": "exploit robust initiatives",
+        "number": "4399-2810",
+        "reference": 712671,
+        "vat_no": "Xg51034108219"
+    },
+    "payment": {
+        "net_total": 105.25,
+        "total": 850.42
+    },
+    "products": [
+        {
+            "amount": 462.58,
+            "description": "deploy rich systems",
+            "hours": 6.0,
+            "rate": 9.77
+        },
+        {
+            "amount": 170.92,
+            "description": "optimize 24/7 infrastructures",
+            "hours": 9.15,
+            "rate": 5.82
+        },
+        {
+            "amount": 19.72,
+            "description": "embrace transparent deliverables",
+            "hours": 2.23,
+            "rate": 9.65
+        },
+        {
+            "amount": 347.14,
+            "description": "leverage e-business portals",
+            "hours": 4.13,
+            "rate": 8.86
+        },
+        {
+            "amount": 389.36,
+            "description": "benchmark plug-and-play deliverables",
+            "hours": 9.71,
+            "rate": 9.59
+        },
+        {
+            "amount": 208.28,
+            "description": "embrace granular supply-chains",
+            "hours": 8.97,
+            "rate": 6.38
+        },
+        {
+            "amount": 87.75,
+            "description": "matrix global e-commerce",
+            "hours": 8.27,
+            "rate": 3.42
+        }
+    ],
+    "seller": {
+        "address": "91586 Cathy Valleys Port Josephshire, PW 44758",
+        "email": "jillianjones@example.net",
+        "name": "John Phillips"
+    },
+    "tax": {
+        "base": 11.64,
+        "tax_amount": 28.97,
+        "total_tax": 25.21
+    }
+}

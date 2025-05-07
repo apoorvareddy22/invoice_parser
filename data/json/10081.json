@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "503 Gamble Falls East Paul, PA 90045",
+        "email": "nancy38@example.org",
+        "phone": "+1-835-755-0768x25357",
+        "vat_no": "Gm79769230606"
+    },
+    "invoice": {
+        "date": "10.03.2023",
+        "due_date": "02.12.1990",
+        "market_reference": 800474,
+        "notes": "incubate cutting-edge paradigms",
+        "number": "6086-0996",
+        "reference": 504163,
+        "vat_no": "md84110318034"
+    },
+    "payment": {
+        "net_total": 79.48,
+        "total": 491.69
+    },
+    "products": [
+        {
+            "amount": 249.95,
+            "description": "architect efficient paradigms",
+            "hours": 5.98,
+            "rate": 8.99
+        }
+    ],
+    "seller": {
+        "address": "163 Dylan Parkways North Juliachester, VA 98701",
+        "email": "rachel28@example.org",
+        "name": "Craig Fuller"
+    },
+    "tax": {
+        "base": 14.88,
+        "tax_amount": 22.52,
+        "total_tax": 23.14
+    }
+}

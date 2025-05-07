@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "9187 Brad Drives North Scottborough, WY 50525"
+    },
+    "invoice": {
+        "bc_no": "Jh77192",
+        "date": "05.04.2021",
+        "maturity_date": "01.08.2016",
+        "number": 194819
+    },
+    "products": [
+        {
+            "amount": 76.19,
+            "description": "deliver innovative architectures",
+            "quantity": 2.7,
+            "unit_price": 96.54,
+            "vat_amount": 2.52
+        },
+        {
+            "amount": 305.94,
+            "description": "maximize 24/365 solutions",
+            "quantity": 7.73,
+            "unit_price": 10.33,
+            "vat_amount": 7.12
+        }
+    ],
+    "seller": {
+        "address": "85126 Flowers Path Port Brian, RI 23200"
+    },
+    "tax": {
+        "amount_excluding_tax": 63.52,
+        "amount_including_tax": 183.77,
+        "tax_amount": 29.45
+    }
+}

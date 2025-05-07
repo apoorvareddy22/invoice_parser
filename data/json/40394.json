@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "2720 Rodriguez Course Suite 628 Aliciaside, TN 48601"
+    },
+    "invoice": {
+        "bc_no": "ga03348",
+        "date": "06.12.2011",
+        "maturity_date": "12.12.2001",
+        "number": 499591
+    },
+    "products": [
+        {
+            "amount": 300.52,
+            "description": "drive cross-platform systems",
+            "quantity": 3.62,
+            "unit_price": 81.68,
+            "vat_amount": 10.04
+        }
+    ],
+    "seller": {
+        "address": "8673 Stevens Loaf Apt. 515 Woodschester, SC 32815"
+    },
+    "tax": {
+        "amount_excluding_tax": 84.02,
+        "amount_including_tax": 62.52,
+        "tax_amount": 12.79
+    }
+}

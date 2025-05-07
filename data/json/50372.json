@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "0434 Barnes Circle Suite 813 Sarahborough, TX 18756",
+        "id": "vT294"
+    },
+    "invoice": {
+        "bc_no": "NB78265",
+        "currency_code": "PHP",
+        "date": "12.07.2003",
+        "due_date": "17.11.2023",
+        "number": 974242
+    },
+    "payment": {
+        "bank_name": "Brown, Sullivan and Berry",
+        "bic": "TXXPGB6S4BJ",
+        "iban": "GDYE77876426272979"
+    },
+    "products": [
+        {
+            "amount": 127.7,
+            "description": "enhance compelling web-readiness",
+            "index": "5",
+            "price": 83.92,
+            "quantity": 1.21,
+            "tax_amount": 83.71,
+            "total_ttc": 263.11,
+            "vat_amount": 3.63
+        }
+    ],
+    "seller": {
+        "name": "David Young"
+    },
+    "supplier": {
+        "address": "01038 Pamela Springs Montgomeryhaven, ME 13850",
+        "name": "Joseph Jones"
+    },
+    "tax": {
+        "amount_excluding_tax": 184.09,
+        "amount_including_tax": 155.43,
+        "tax_amount": 15.37,
+        "total_ht": 397.0,
+        "total_ttc": 198.68
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "PSC 5894, Box 6042 APO AE 68892",
+        "email": "hnelson@example.com",
+        "phone": "4877284105",
+        "vat_no": "mF80797722565"
+    },
+    "invoice": {
+        "date": "01.08.1993",
+        "due_date": "07.11.1993",
+        "market_reference": 845065,
+        "notes": "grow seamless users",
+        "number": "8896-5673",
+        "reference": 535592,
+        "vat_no": "zY45510508937"
+    },
+    "payment": {
+        "net_total": 98.41,
+        "total": 404.82
+    },
+    "products": [
+        {
+            "amount": 28.98,
+            "description": "optimize one-to-one platforms",
+            "hours": 5.43,
+            "rate": 5.34
+        },
+        {
+            "amount": 212.12,
+            "description": "visualize strategic vortals",
+            "hours": 1.36,
+            "rate": 6.94
+        },
+        {
+            "amount": 465.79,
+            "description": "aggregate e-business functionalities",
+            "hours": 6.9,
+            "rate": 4.66
+        }
+    ],
+    "seller": {
+        "address": "069 Rebecca Wells Apt. 000 Melvinshire, MO 23140",
+        "email": "karlacordova@example.com",
+        "name": "Diane Baldwin"
+    },
+    "tax": {
+        "base": 16.69,
+        "tax_amount": 14.76,
+        "total_tax": 12.67
+    }
+}

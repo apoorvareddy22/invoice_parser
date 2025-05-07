@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "7809 Shannon Summit Apt. 465 Hinesberg, WI 34240",
+        "company_name": "Baldwin PLC",
+        "country": "Mali",
+        "name": "Michelle Fletcher"
+    },
+    "invoice": {
+        "date": "06.08.2023",
+        "number": 844794
+    },
+    "payment": {
+        "discount_amount": 23.79,
+        "discount_percentage": 7.8,
+        "due": 65.94,
+        "sub_total": 171.1,
+        "total": 973.28
+    },
+    "products": [
+        {
+            "description": "enable 24/365 relationships",
+            "index": "7",
+            "quantity": 3.85,
+            "total_price": 923.5,
+            "unit_price": 75.39
+        },
+        {
+            "description": "matrix out-of-the-box channels",
+            "index": "5",
+            "quantity": 1.27,
+            "total_price": 121.89,
+            "unit_price": 26.85
+        },
+        {
+            "description": "enhance magnetic methodologies",
+            "index": "10",
+            "quantity": 8.47,
+            "total_price": 552.04,
+            "unit_price": 77.76
+        }
+    ],
+    "seller": {
+        "address": "0458 Johnson Valley West Kaylaville, GU 42156",
+        "company_name": "Moran Group",
+        "vat_no": "Sw55850586480"
+    }
+}

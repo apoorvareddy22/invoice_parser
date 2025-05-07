@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "Unit 0524 Box 7237 DPO AA 47555",
+        "company_name": "Collins and Sons",
+        "country": "Samoa",
+        "email": "erobertson@example.org",
+        "name": "David Willis",
+        "phone": "001-958-691-0898x9405",
+        "vat_no": "ew07734980344"
+    },
+    "invoice": {
+        "date": "05.06.1992",
+        "due_date": "29.10.2009",
+        "linked_invoice": "Xe-5197-4982",
+        "notes": "drive back-end portals",
+        "number": "jQ-1506-2154"
+    },
+    "products": [
+        {
+            "description": "implement sticky networks",
+            "discount_percentage": 11.75,
+            "price": 409.52,
+            "quantity": 5.37,
+            "unit_price": 11.05
+        },
+        {
+            "description": "scale world-class content",
+            "discount_percentage": 18.89,
+            "price": 388.03,
+            "quantity": 8.97,
+            "unit_price": 23.19
+        }
+    ],
+    "seller": {
+        "address": "69363 Veronica Mission Apt. 137 Drakeberg, NM 71480",
+        "ape": "5980x",
+        "capital": 19587367,
+        "country": "Somalia",
+        "email": "rwallace@example.org",
+        "name": "Joseph Walker",
+        "phone_1": "5343597472",
+        "phone_2": "7487509465",
+        "phone_3": "001-372-842-6291",
+        "ref_walk": "WNJq8652",
+        "reference": "XE926",
+        "siret": 26978753393938,
+        "vat_no": "VQ63579785476",
+        "website": "http://burton-griffin.net/"
+    },
+    "tax": {
+        "amount_0": 15.19,
+        "amount_1": 18.61,
+        "base_0": 20.94,
+        "base_1": 108.96,
+        "total_ht": 135.9,
+        "total_tax": 16.74,
+        "total_ttc": 498.49,
+        "vat_0": 13.81,
+        "vat_1": 29.4
+    }
+}

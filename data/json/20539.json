@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "669 Beverly Camp Apt. 070 New Frankland, AZ 62863",
+        "company_name": "Freeman Inc",
+        "email": "tonienglish@example.org",
+        "name": "Maria Mcdaniel",
+        "phone": "8145166302"
+    },
+    "invoice": {
+        "date": "11.05.2001",
+        "due_date": "24.03.2020",
+        "number": "rjZ50262661880"
+    },
+    "payment": {
+        "account_number": 7144465072,
+        "bank_name": "Booth-Smith",
+        "routing_number": 253751369
+    },
+    "products": [
+        {
+            "amount": 107.56,
+            "description": "grow customized e-business",
+            "index": "5",
+            "quantity": 4.85,
+            "unit_price": 27.03
+        },
+        {
+            "amount": 459.6,
+            "description": "transition e-business functionalities",
+            "index": "5",
+            "quantity": 7.19,
+            "unit_price": 52.5
+        },
+        {
+            "amount": 107.41,
+            "description": "streamline B2B metrics",
+            "index": "10",
+            "quantity": 4.2,
+            "unit_price": 71.25
+        }
+    ],
+    "seller": {
+        "address": "91470 Christopher Tunnel Apt. 837 Lake Williefurt, IA 79672",
+        "company_name": "Black LLC",
+        "email": "dylanhopkins@example.com"
+    }
+}

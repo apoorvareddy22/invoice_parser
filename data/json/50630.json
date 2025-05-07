@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "80831 Smith Run Pamelafurt, CA 54395",
+        "id": "sz283"
+    },
+    "invoice": {
+        "bc_no": "cc65226",
+        "currency_code": "AFN",
+        "date": "08.11.2011",
+        "due_date": "16.08.1996",
+        "number": 547613
+    },
+    "payment": {
+        "bank_name": "Rodriguez and Sons",
+        "bic": "RLKFGB5E",
+        "iban": "HRXP00292717415581"
+    },
+    "products": [
+        {
+            "amount": 211.11,
+            "description": "seize revolutionary eyeballs",
+            "index": "3",
+            "price": 384.17,
+            "quantity": 9.99,
+            "tax_amount": 25.76,
+            "total_ttc": 178.74,
+            "vat_amount": 1.91
+        },
+        {
+            "amount": 122.69,
+            "description": "architect end-to-end e-commerce",
+            "index": "5",
+            "price": 110.31,
+            "quantity": 4.24,
+            "tax_amount": 80.65,
+            "total_ttc": 112.78,
+            "vat_amount": 3.52
+        },
+        {
+            "amount": 313.61,
+            "description": "matrix integrated users",
+            "index": "9",
+            "price": 460.66,
+            "quantity": 5.37,
+            "tax_amount": 74.39,
+            "total_ttc": 398.63,
+            "vat_amount": 1.22
+        },
+        {
+            "amount": 251.72,
+            "description": "optimize interactive platforms",
+            "index": "10",
+            "price": 406.64,
+            "quantity": 4.78,
+            "tax_amount": 67.24,
+            "total_ttc": 181.66,
+            "vat_amount": 6.59
+        }
+    ],
+    "seller": {
+        "name": "Amanda Alvarez"
+    },
+    "supplier": {
+        "address": "4968 Waters Mill Suite 486 Amandaborough, UT 54699",
+        "name": "Larry Walker"
+    },
+    "tax": {
+        "amount_excluding_tax": 138.83,
+        "amount_including_tax": 98.3,
+        "tax_amount": 18.02,
+        "total_ht": 371.92,
+        "total_ttc": 479.07
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "797 Dixon Burg Mariaberg, OH 40908"
+    },
+    "invoice": {
+        "bc_no": "WX91384",
+        "date": "25.12.1995",
+        "maturity_date": "06.06.2022",
+        "number": 669782
+    },
+    "products": [
+        {
+            "amount": 221.16,
+            "description": "expedite B2B ROI",
+            "quantity": 2.62,
+            "unit_price": 20.51,
+            "vat_amount": 0.1
+        },
+        {
+            "amount": 384.43,
+            "description": "generate proactive networks",
+            "quantity": 5.57,
+            "unit_price": 57.48,
+            "vat_amount": 7.45
+        },
+        {
+            "amount": 403.83,
+            "description": "e-enable frictionless e-tailers",
+            "quantity": 2.79,
+            "unit_price": 27.28,
+            "vat_amount": 3.56
+        },
+        {
+            "amount": 498.03,
+            "description": "revolutionize scalable experiences",
+            "quantity": 3.82,
+            "unit_price": 51.37,
+            "vat_amount": 3.87
+        }
+    ],
+    "seller": {
+        "address": "7087 Wilson Rest South Christine, OK 67700"
+    },
+    "tax": {
+        "amount_excluding_tax": 53.07,
+        "amount_including_tax": 52.52,
+        "tax_amount": 14.66
+    }
+}

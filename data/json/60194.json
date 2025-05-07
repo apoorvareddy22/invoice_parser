@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "513 Valerie Mills New Brianna, MA 89939",
+        "business_no": "dt393",
+        "id": "dr165"
+    },
+    "invoice": {
+        "date": "20.01.1998",
+        "number": "1984-2893"
+    },
+    "payment": {
+        "due_date": "20.06.2010",
+        "total": 675.7
+    },
+    "products": [
+        {
+            "amount": 407.39,
+            "description": "unleash back-end supply-chains",
+            "quantity": 4.78,
+            "reference": "fW-753",
+            "unit_price": 24.46
+        },
+        {
+            "amount": 406.13,
+            "description": "exploit dot-com users",
+            "quantity": 4.98,
+            "reference": "sw-545",
+            "unit_price": 26.13
+        },
+        {
+            "amount": 55.7,
+            "description": "synthesize intuitive vortals",
+            "quantity": 7.55,
+            "reference": "ao-949",
+            "unit_price": 77.46
+        },
+        {
+            "amount": 353.0,
+            "description": "extend out-of-the-box methodologies",
+            "quantity": 8.9,
+            "reference": "hl-052",
+            "unit_price": 72.47
+        }
+    ],
+    "seller": {
+        "address": "6132 Justin Roads Youngside, PR 01125"
+    },
+    "tax": {
+        "base_ht": 312.89,
+        "regulations": 17.96,
+        "total_ht": 159.52,
+        "vat_amount": 48.36,
+        "vat_percentage": 27.7
+    }
+}

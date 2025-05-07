@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "6392 Gray Island Apt. 799 Russellstad, NY 90946",
+        "business_no": "xq916",
+        "id": "en823"
+    },
+    "invoice": {
+        "date": "08.10.2013",
+        "number": "1490-2818"
+    },
+    "payment": {
+        "due_date": "28.10.2009",
+        "total": 500.42
+    },
+    "products": [
+        {
+            "amount": 326.82,
+            "description": "syndicate visionary e-markets",
+            "quantity": 1.32,
+            "reference": "JI-407",
+            "unit_price": 40.21
+        },
+        {
+            "amount": 184.6,
+            "description": "envisioneer open-source markets",
+            "quantity": 2.71,
+            "reference": "LA-932",
+            "unit_price": 71.58
+        },
+        {
+            "amount": 253.04,
+            "description": "extend best-of-breed initiatives",
+            "quantity": 2.88,
+            "reference": "km-477",
+            "unit_price": 50.9
+        },
+        {
+            "amount": 360.25,
+            "description": "matrix interactive niches",
+            "quantity": 9.89,
+            "reference": "TO-916",
+            "unit_price": 84.55
+        },
+        {
+            "amount": 299.12,
+            "description": "transition 24/7 technologies",
+            "quantity": 9.61,
+            "reference": "bN-493",
+            "unit_price": 16.31
+        }
+    ],
+    "seller": {
+        "address": "62356 Perez Spurs Floydberg, AS 75346"
+    },
+    "tax": {
+        "base_ht": 456.04,
+        "regulations": 22.25,
+        "total_ht": 256.41,
+        "vat_amount": 138.2,
+        "vat_percentage": 23.77
+    }
+}

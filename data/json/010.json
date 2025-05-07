@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "780 Peters Ridges Apt. 439 Port Thomas, KY 42677",
+        "company_name": "Cox, Franklin and Bishop",
+        "country": "Saint Kitts and Nevis",
+        "name": "Megan Anderson"
+    },
+    "invoice": {
+        "date": "23.08.2010",
+        "number": 467719
+    },
+    "payment": {
+        "discount_amount": 34.77,
+        "discount_percentage": 16.17,
+        "due": 42.1,
+        "sub_total": 173.64,
+        "total": 726.37
+    },
+    "products": [
+        {
+            "description": "iterate front-end content",
+            "index": "10",
+            "quantity": 4.35,
+            "total_price": 782.73,
+            "unit_price": 57.98
+        },
+        {
+            "description": "utilize wireless portals",
+            "index": "1",
+            "quantity": 7.05,
+            "total_price": 543.29,
+            "unit_price": 22.22
+        },
+        {
+            "description": "iterate next-generation paradigms",
+            "index": "1",
+            "quantity": 4.49,
+            "total_price": 394.5,
+            "unit_price": 96.5
+        }
+    ],
+    "seller": {
+        "address": "283 Sara Causeway Apt. 186 Stephenfort, MD 14522",
+        "company_name": "Alvarez-Weaver",
+        "vat_no": "md66110468277"
+    }
+}

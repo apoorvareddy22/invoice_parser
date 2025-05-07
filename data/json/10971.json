@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "289 Horton Camp New Samuelside, FL 10625",
+        "email": "wandamason@example.org",
+        "phone": "+1-280-284-7561x987",
+        "vat_no": "uB89120886050"
+    },
+    "invoice": {
+        "date": "08.01.2013",
+        "due_date": "24.03.2014",
+        "market_reference": 699935,
+        "notes": "empower front-end paradigms",
+        "number": "3185-5854",
+        "reference": 571079,
+        "vat_no": "cr72189338835"
+    },
+    "payment": {
+        "net_total": 184.98,
+        "total": 965.84
+    },
+    "products": [
+        {
+            "amount": 234.19,
+            "description": "exploit world-class relationships",
+            "hours": 2.11,
+            "rate": 8.82
+        },
+        {
+            "amount": 379.65,
+            "description": "cultivate rich platforms",
+            "hours": 8.15,
+            "rate": 9.38
+        },
+        {
+            "amount": 407.36,
+            "description": "incentivize granular interfaces",
+            "hours": 6.64,
+            "rate": 9.9
+        },
+        {
+            "amount": 451.61,
+            "description": "visualize integrated solutions",
+            "hours": 5.83,
+            "rate": 5.1
+        }
+    ],
+    "seller": {
+        "address": "399 Poole Islands South Cynthiafort, MN 99860",
+        "email": "mwalters@example.com",
+        "name": "Frank Casey"
+    },
+    "tax": {
+        "base": 29.98,
+        "tax_amount": 25.25,
+        "total_tax": 22.0
+    }
+}

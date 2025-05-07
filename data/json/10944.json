@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "75670 William Landing Apt. 448 North David, NC 36979",
+        "email": "robert22@example.net",
+        "phone": "833.686.1893",
+        "vat_no": "ky79279051865"
+    },
+    "invoice": {
+        "date": "02.04.1990",
+        "due_date": "09.06.2003",
+        "market_reference": 913772,
+        "notes": "evolve 24/7 applications",
+        "number": "7561-8882",
+        "reference": 442095,
+        "vat_no": "mC96196218630"
+    },
+    "payment": {
+        "net_total": 96.27,
+        "total": 179.25
+    },
+    "products": [
+        {
+            "amount": 386.52,
+            "description": "e-enable plug-and-play networks",
+            "hours": 8.73,
+            "rate": 1.25
+        },
+        {
+            "amount": 220.01,
+            "description": "facilitate value-added solutions",
+            "hours": 9.92,
+            "rate": 9.27
+        }
+    ],
+    "seller": {
+        "address": "5141 Conway Ports Apt. 512 Martinhaven, DC 12145",
+        "email": "ejohnson@example.net",
+        "name": "Jessica Sutton"
+    },
+    "tax": {
+        "base": 29.07,
+        "tax_amount": 27.88,
+        "total_tax": 25.47
+    }
+}

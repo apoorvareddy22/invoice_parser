@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "Unit 7035 Box 5031 DPO AE 50216",
+        "id": "tD563"
+    },
+    "invoice": {
+        "bc_no": "SU29082",
+        "currency_code": "AMD",
+        "date": "13.09.2011",
+        "due_date": "11.12.2006",
+        "number": 666453
+    },
+    "payment": {
+        "bank_name": "Hoover-Brown",
+        "bic": "VFZSGB428TR",
+        "iban": "RITA47405692720652"
+    },
+    "products": [
+        {
+            "amount": 62.51,
+            "description": "exploit cross-media relationships",
+            "index": "6",
+            "price": 179.46,
+            "quantity": 4.98,
+            "tax_amount": 56.3,
+            "total_ttc": 487.63,
+            "vat_amount": 15.13
+        },
+        {
+            "amount": 100.81,
+            "description": "morph cutting-edge info-mediaries",
+            "index": "9",
+            "price": 284.6,
+            "quantity": 1.28,
+            "tax_amount": 55.91,
+            "total_ttc": 237.92,
+            "vat_amount": 11.84
+        },
+        {
+            "amount": 50.24,
+            "description": "benchmark B2C users",
+            "index": "2",
+            "price": 476.44,
+            "quantity": 7.61,
+            "tax_amount": 92.59,
+            "total_ttc": 273.58,
+            "vat_amount": 6.56
+        },
+        {
+            "amount": 107.17,
+            "description": "grow customized convergence",
+            "index": "1",
+            "price": 58.68,
+            "quantity": 9.02,
+            "tax_amount": 97.17,
+            "total_ttc": 332.04,
+            "vat_amount": 2.59
+        },
+        {
+            "amount": 211.4,
+            "description": "aggregate efficient platforms",
+            "index": "3",
+            "price": 39.63,
+            "quantity": 2.88,
+            "tax_amount": 72.21,
+            "total_ttc": 437.3,
+            "vat_amount": 0.79
+        },
+        {
+            "amount": 340.67,
+            "description": "enhance next-generation solutions",
+            "index": "4",
+            "price": 105.57,
+            "quantity": 6.93,
+            "tax_amount": 38.49,
+            "total_ttc": 456.22,
+            "vat_amount": 4.01
+        }
+    ],
+    "seller": {
+        "name": "Jacqueline Rodriguez"
+    },
+    "supplier": {
+        "address": "396 Nunez Glens Suite 777 Jasonstad, ND 02733",
+        "name": "Barbara Sanders DDS"
+    },
+    "tax": {
+        "amount_excluding_tax": 103.22,
+        "amount_including_tax": 103.3,
+        "tax_amount": 19.55,
+        "total_ht": 434.64,
+        "total_ttc": 405.26
+    }
+}

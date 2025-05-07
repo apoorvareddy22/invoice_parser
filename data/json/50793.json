@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "61676 Fritz Village Lake Rebeccachester, TX 35950",
+        "id": "lb555"
+    },
+    "invoice": {
+        "bc_no": "Za25501",
+        "currency_code": "TRY",
+        "date": "20.03.2008",
+        "due_date": "28.03.2022",
+        "number": 282463
+    },
+    "payment": {
+        "bank_name": "Smith LLC",
+        "bic": "PNZFGB5GXBC",
+        "iban": "PQDM03784872624299"
+    },
+    "products": [
+        {
+            "amount": 378.76,
+            "description": "whiteboard sticky experiences",
+            "index": "9",
+            "price": 407.02,
+            "quantity": 8.38,
+            "tax_amount": 56.41,
+            "total_ttc": 227.82,
+            "vat_amount": 6.73
+        },
+        {
+            "amount": 454.71,
+            "description": "morph scalable deliverables",
+            "index": "5",
+            "price": 340.19,
+            "quantity": 9.51,
+            "tax_amount": 54.01,
+            "total_ttc": 166.53,
+            "vat_amount": 5.99
+        },
+        {
+            "amount": 183.17,
+            "description": "whiteboard back-end e-business",
+            "index": "8",
+            "price": 349.6,
+            "quantity": 9.71,
+            "tax_amount": 93.22,
+            "total_ttc": 457.81,
+            "vat_amount": 2.65
+        },
+        {
+            "amount": 450.53,
+            "description": "redefine frictionless e-tailers",
+            "index": "10",
+            "price": 79.79,
+            "quantity": 8.5,
+            "tax_amount": 84.52,
+            "total_ttc": 293.99,
+            "vat_amount": 8.28
+        },
+        {
+            "amount": 350.93,
+            "description": "grow distributed applications",
+            "index": "8",
+            "price": 197.35,
+            "quantity": 9.44,
+            "tax_amount": 45.29,
+            "total_ttc": 108.79,
+            "vat_amount": 1.6
+        },
+        {
+            "amount": 272.1,
+            "description": "scale proactive technologies",
+            "index": "10",
+            "price": 97.42,
+            "quantity": 7.89,
+            "tax_amount": 29.8,
+            "total_ttc": 489.27,
+            "vat_amount": 4.14
+        },
+        {
+            "amount": 338.05,
+            "description": "innovate vertical e-business",
+            "index": "1",
+            "price": 317.28,
+            "quantity": 4.63,
+            "tax_amount": 30.66,
+            "total_ttc": 409.58,
+            "vat_amount": 3.38
+        }
+    ],
+    "seller": {
+        "name": "Shannon Rivers"
+    },
+    "supplier": {
+        "address": "USCGC Perez FPO AE 94973",
+        "name": "Melvin English"
+    },
+    "tax": {
+        "amount_excluding_tax": 24.48,
+        "amount_including_tax": 132.91,
+        "tax_amount": 13.41,
+        "total_ht": 139.63,
+        "total_ttc": 227.49
+    }
+}

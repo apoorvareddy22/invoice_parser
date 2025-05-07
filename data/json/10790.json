@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "823 Brown Garden Apt. 354 West Nicole, RI 76912",
+        "email": "danielleharris@example.net",
+        "phone": "+1-352-423-7220x70158",
+        "vat_no": "sp39317899692"
+    },
+    "invoice": {
+        "date": "22.11.2019",
+        "due_date": "27.05.2017",
+        "market_reference": 445597,
+        "notes": "target revolutionary eyeballs",
+        "number": "3653-6955",
+        "reference": 381108,
+        "vat_no": "ek88777946315"
+    },
+    "payment": {
+        "net_total": 74.82,
+        "total": 948.77
+    },
+    "products": [
+        {
+            "amount": 270.13,
+            "description": "morph visionary relationships",
+            "hours": 2.02,
+            "rate": 9.93
+        }
+    ],
+    "seller": {
+        "address": "9505 Jackson Lock Suite 650 New Rebekah, IN 43020",
+        "email": "upugh@example.com",
+        "name": "Christopher Phillips"
+    },
+    "tax": {
+        "base": 17.89,
+        "tax_amount": 22.43,
+        "total_tax": 21.09
+    }
+}

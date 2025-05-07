@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "505 Bell Manor Suite 035 Samanthashire, IN 97668",
+        "company_name": "Barrett, Townsend and Williams",
+        "email": "tblevins@example.com",
+        "name": "Emma Stephenson",
+        "phone": "961.528.0389"
+    },
+    "invoice": {
+        "date": "25.10.2019",
+        "due_date": "24.05.1996",
+        "number": "ENA55257418231"
+    },
+    "payment": {
+        "account_number": 7276484385,
+        "bank_name": "Marquez, Moreno and Wagner",
+        "routing_number": 319802371
+    },
+    "products": [
+        {
+            "amount": 190.33,
+            "description": "synergize 24/7 supply-chains",
+            "index": "10",
+            "quantity": 9.45,
+            "unit_price": 17.32
+        },
+        {
+            "amount": 56.62,
+            "description": "exploit world-class platforms",
+            "index": "4",
+            "quantity": 2.65,
+            "unit_price": 62.91
+        }
+    ],
+    "seller": {
+        "address": "917 Green Expressway Suite 970 Lake Marvinmouth, CA 89894",
+        "company_name": "Arellano, Rodriguez and Nguyen",
+        "email": "gary53@example.org"
+    }
+}

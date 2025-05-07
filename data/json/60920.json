@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "USNS Washington FPO AP 19777",
+        "business_no": "VZ792",
+        "id": "Ha667"
+    },
+    "invoice": {
+        "date": "29.04.1995",
+        "number": "2669-5403"
+    },
+    "payment": {
+        "due_date": "11.06.1994",
+        "total": 627.37
+    },
+    "products": [
+        {
+            "amount": 448.15,
+            "description": "unleash cutting-edge solutions",
+            "quantity": 7.98,
+            "reference": "JU-627",
+            "unit_price": 59.93
+        },
+        {
+            "amount": 460.23,
+            "description": "integrate intuitive mindshare",
+            "quantity": 2.91,
+            "reference": "Qo-069",
+            "unit_price": 80.77
+        },
+        {
+            "amount": 129.71,
+            "description": "implement cross-media experiences",
+            "quantity": 1.32,
+            "reference": "wr-044",
+            "unit_price": 30.99
+        },
+        {
+            "amount": 404.96,
+            "description": "incentivize enterprise architectures",
+            "quantity": 7.86,
+            "reference": "OI-457",
+            "unit_price": 90.93
+        },
+        {
+            "amount": 155.32,
+            "description": "synthesize virtual content",
+            "quantity": 7.58,
+            "reference": "Ha-960",
+            "unit_price": 85.92
+        }
+    ],
+    "seller": {
+        "address": "53148 Jacob Inlet Suite 120 New Barrymouth, CA 30453"
+    },
+    "tax": {
+        "base_ht": 205.94,
+        "regulations": 23.28,
+        "total_ht": 321.19,
+        "vat_amount": 190.01,
+        "vat_percentage": 11.53
+    }
+}

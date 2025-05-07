@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "7152 Gardner Motorway Apt. 163 Port Cynthiaport, MA 67091",
+        "company_name": "Quinn-Winters",
+        "email": "smithcraig@example.com",
+        "name": "Anthony Porter",
+        "phone": "001-368-907-3820x330"
+    },
+    "invoice": {
+        "date": "13.08.2009",
+        "due_date": "28.07.1993",
+        "number": "kkU33783525726"
+    },
+    "payment": {
+        "account_number": 2210573375,
+        "bank_name": "Andrews, Hall and Compton",
+        "routing_number": 435969036
+    },
+    "products": [
+        {
+            "amount": 245.7,
+            "description": "empower scalable action-items",
+            "index": "1",
+            "quantity": 6.13,
+            "unit_price": 64.11
+        },
+        {
+            "amount": 114.34,
+            "description": "re-contextualize global e-business",
+            "index": "6",
+            "quantity": 9.64,
+            "unit_price": 47.94
+        },
+        {
+            "amount": 283.95,
+            "description": "re-contextualize extensible content",
+            "index": "2",
+            "quantity": 4.92,
+            "unit_price": 73.15
+        }
+    ],
+    "seller": {
+        "address": "27938 Mark Mountain Oliviaview, NV 11848",
+        "company_name": "Brown, Smith and Mitchell",
+        "email": "christinagarcia@example.net"
+    }
+}

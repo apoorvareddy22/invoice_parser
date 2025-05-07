@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "64768 Reginald Estates Sarahfurt, NM 11241",
+        "company_name": "Rodriguez Group",
+        "email": "osmith@example.net",
+        "name": "Stephanie Schmitt",
+        "phone": "520.271.3026"
+    },
+    "invoice": {
+        "date": "16.05.1997",
+        "due_date": "02.05.1993",
+        "number": "joQ90205683685"
+    },
+    "payment": {
+        "account_number": 7059172643,
+        "bank_name": "Rojas Ltd",
+        "routing_number": 825410904
+    },
+    "products": [
+        {
+            "amount": 241.63,
+            "description": "visualize impactful schemas",
+            "index": "3",
+            "quantity": 9.8,
+            "unit_price": 47.28
+        },
+        {
+            "amount": 403.54,
+            "description": "embrace revolutionary bandwidth",
+            "index": "3",
+            "quantity": 6.88,
+            "unit_price": 27.68
+        },
+        {
+            "amount": 411.57,
+            "description": "revolutionize customized e-services",
+            "index": "8",
+            "quantity": 5.84,
+            "unit_price": 50.76
+        },
+        {
+            "amount": 205.73,
+            "description": "orchestrate front-end mindshare",
+            "index": "1",
+            "quantity": 2.65,
+            "unit_price": 84.14
+        },
+        {
+            "amount": 369.43,
+            "description": "benchmark leading-edge architectures",
+            "index": "2",
+            "quantity": 4.11,
+            "unit_price": 69.54
+        },
+        {
+            "amount": 422.93,
+            "description": "innovate B2B users",
+            "index": "1",
+            "quantity": 7.32,
+            "unit_price": 84.4
+        },
+        {
+            "amount": 72.74,
+            "description": "incubate innovative paradigms",
+            "index": "3",
+            "quantity": 5.86,
+            "unit_price": 63.47
+        }
+    ],
+    "seller": {
+        "address": "5618 Edwards Courts Suite 033 Shawnview, CO 20271",
+        "company_name": "Doyle, Clark and Wilson",
+        "email": "jmcmahon@example.net"
+    }
+}

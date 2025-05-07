@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "225 Colleen Park Deborahfort, MO 01869",
+        "id": "SM055"
+    },
+    "invoice": {
+        "bc_no": "cV56131",
+        "currency_code": "BAM",
+        "date": "18.08.1996",
+        "due_date": "27.01.2003",
+        "number": 523212
+    },
+    "payment": {
+        "bank_name": "Francis, Flores and Scott",
+        "bic": "WCAFGBHT",
+        "iban": "SYMH01207843421955"
+    },
+    "products": [
+        {
+            "amount": 223.32,
+            "description": "leverage B2B applications",
+            "index": "6",
+            "price": 288.79,
+            "quantity": 7.6,
+            "tax_amount": 96.87,
+            "total_ttc": 306.73,
+            "vat_amount": 0.52
+        },
+        {
+            "amount": 237.09,
+            "description": "disintermediate next-generation paradigms",
+            "index": "6",
+            "price": 172.41,
+            "quantity": 6.19,
+            "tax_amount": 31.86,
+            "total_ttc": 232.9,
+            "vat_amount": 5.57
+        },
+        {
+            "amount": 282.72,
+            "description": "seize dynamic e-markets",
+            "index": "5",
+            "price": 192.36,
+            "quantity": 3.54,
+            "tax_amount": 52.41,
+            "total_ttc": 185.55,
+            "vat_amount": 4.87
+        },
+        {
+            "amount": 431.75,
+            "description": "scale magnetic systems",
+            "index": "7",
+            "price": 61.7,
+            "quantity": 3.15,
+            "tax_amount": 61.46,
+            "total_ttc": 116.11,
+            "vat_amount": 12.62
+        },
+        {
+            "amount": 314.06,
+            "description": "enable e-business eyeballs",
+            "index": "2",
+            "price": 239.06,
+            "quantity": 3.25,
+            "tax_amount": 60.74,
+            "total_ttc": 241.42,
+            "vat_amount": 2.24
+        },
+        {
+            "amount": 256.75,
+            "description": "productize best-of-breed e-tailers",
+            "index": "2",
+            "price": 324.18,
+            "quantity": 9.24,
+            "tax_amount": 40.08,
+            "total_ttc": 346.19,
+            "vat_amount": 4.72
+        },
+        {
+            "amount": 278.92,
+            "description": "engage scalable platforms",
+            "index": "10",
+            "price": 322.43,
+            "quantity": 7.48,
+            "tax_amount": 67.08,
+            "total_ttc": 378.94,
+            "vat_amount": 8.41
+        }
+    ],
+    "seller": {
+        "name": "Mary Roy"
+    },
+    "supplier": {
+        "address": "Unit 2941 Box 5921 DPO AP 91642",
+        "name": "Victoria Wagner"
+    },
+    "tax": {
+        "amount_excluding_tax": 24.04,
+        "amount_including_tax": 140.23,
+        "tax_amount": 29.06,
+        "total_ht": 494.1,
+        "total_ttc": 369.2
+    }
+}

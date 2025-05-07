@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "8201 Rodriguez Key Christinetown, WA 03576",
+        "email": "ywoods@example.org",
+        "phone": "982-584-2818",
+        "vat_no": "bd35559120157"
+    },
+    "invoice": {
+        "date": "03.01.2009",
+        "due_date": "02.06.2004",
+        "market_reference": 806151,
+        "notes": "integrate 24/365 eyeballs",
+        "number": "9030-4925",
+        "reference": 335347,
+        "vat_no": "dC74836890981"
+    },
+    "payment": {
+        "net_total": 166.57,
+        "total": 821.84
+    },
+    "products": [
+        {
+            "amount": 287.07,
+            "description": "morph revolutionary platforms",
+            "hours": 3.03,
+            "rate": 5.33
+        },
+        {
+            "amount": 359.72,
+            "description": "transform holistic platforms",
+            "hours": 4.87,
+            "rate": 4.5
+        },
+        {
+            "amount": 314.21,
+            "description": "reinvent web-enabled deliverables",
+            "hours": 9.1,
+            "rate": 7.78
+        },
+        {
+            "amount": 177.74,
+            "description": "drive dot-com functionalities",
+            "hours": 3.95,
+            "rate": 2.47
+        },
+        {
+            "amount": 355.54,
+            "description": "e-enable leading-edge partnerships",
+            "hours": 6.38,
+            "rate": 7.19
+        },
+        {
+            "amount": 273.39,
+            "description": "synthesize ubiquitous deliverables",
+            "hours": 7.78,
+            "rate": 8.51
+        },
+        {
+            "amount": 12.27,
+            "description": "scale enterprise technologies",
+            "hours": 3.38,
+            "rate": 7.02
+        }
+    ],
+    "seller": {
+        "address": "029 Hoffman Ramp Suite 611 Wheelershire, TX 59626",
+        "email": "nortonjason@example.org",
+        "name": "Dennis Anderson"
+    },
+    "tax": {
+        "base": 27.07,
+        "tax_amount": 25.06,
+        "total_tax": 25.93
+    }
+}

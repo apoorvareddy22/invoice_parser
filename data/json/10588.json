@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "804 Lozano Valleys Davidview, CA 82742",
+        "email": "smithjustin@example.org",
+        "phone": "+1-336-514-1202",
+        "vat_no": "zA95290325168"
+    },
+    "invoice": {
+        "date": "27.10.2017",
+        "due_date": "03.02.2010",
+        "market_reference": 763616,
+        "notes": "engineer real-time users",
+        "number": "6568-9445",
+        "reference": 386659,
+        "vat_no": "oj50893383311"
+    },
+    "payment": {
+        "net_total": 114.23,
+        "total": 635.21
+    },
+    "products": [
+        {
+            "amount": 134.44,
+            "description": "embrace strategic bandwidth",
+            "hours": 1.68,
+            "rate": 1.19
+        },
+        {
+            "amount": 320.76,
+            "description": "revolutionize dot-com solutions",
+            "hours": 2.06,
+            "rate": 6.86
+        }
+    ],
+    "seller": {
+        "address": "50248 Michelle Lane Suite 831 Lake Michael, RI 45570",
+        "email": "mollysnyder@example.com",
+        "name": "Andrea Kane"
+    },
+    "tax": {
+        "base": 22.98,
+        "tax_amount": 27.9,
+        "total_tax": 15.48
+    }
+}

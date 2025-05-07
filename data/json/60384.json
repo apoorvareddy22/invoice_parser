@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "030 Meyers Underpass West Phillipberg, NV 61849",
+        "business_no": "Kc886",
+        "id": "LK430"
+    },
+    "invoice": {
+        "date": "18.07.2006",
+        "number": "4487-0893"
+    },
+    "payment": {
+        "due_date": "17.12.1998",
+        "total": 438.95
+    },
+    "products": [
+        {
+            "amount": 407.73,
+            "description": "evolve e-business experiences",
+            "quantity": 4.94,
+            "reference": "SZ-933",
+            "unit_price": 17.14
+        },
+        {
+            "amount": 354.68,
+            "description": "productize revolutionary platforms",
+            "quantity": 1.11,
+            "reference": "FM-382",
+            "unit_price": 51.02
+        },
+        {
+            "amount": 85.12,
+            "description": "engage bleeding-edge solutions",
+            "quantity": 3.96,
+            "reference": "nd-883",
+            "unit_price": 54.47
+        }
+    ],
+    "seller": {
+        "address": "3663 Emily Plain Suite 757 Brookstown, MH 06019"
+    },
+    "tax": {
+        "base_ht": 390.67,
+        "regulations": 10.28,
+        "total_ht": 425.23,
+        "vat_amount": 172.75,
+        "vat_percentage": 16.9
+    }
+}

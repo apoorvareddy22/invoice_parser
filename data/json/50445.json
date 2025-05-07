@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "5602 Stephen Pass Kellytown, NC 28716",
+        "id": "vv479"
+    },
+    "invoice": {
+        "bc_no": "lT86636",
+        "currency_code": "MZN",
+        "date": "31.12.2000",
+        "due_date": "11.02.2014",
+        "number": 405090
+    },
+    "payment": {
+        "bank_name": "Oneill-Meyer",
+        "bic": "CMFUGBWN",
+        "iban": "VGMT05678461524577"
+    },
+    "products": [
+        {
+            "amount": 177.11,
+            "description": "syndicate synergistic channels",
+            "index": "9",
+            "price": 346.66,
+            "quantity": 3.18,
+            "tax_amount": 65.29,
+            "total_ttc": 146.41,
+            "vat_amount": 5.67
+        }
+    ],
+    "seller": {
+        "name": "Adrienne Jones"
+    },
+    "supplier": {
+        "address": "Unit 6170 Box 1475 DPO AP 01857",
+        "name": "Randy Roberts"
+    },
+    "tax": {
+        "amount_excluding_tax": 106.93,
+        "amount_including_tax": 26.51,
+        "tax_amount": 24.61,
+        "total_ht": 348.03,
+        "total_ttc": 208.77
+    }
+}

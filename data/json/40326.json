@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "2675 Jones Alley Donovanview, AL 97793"
+    },
+    "invoice": {
+        "bc_no": "Kn40756",
+        "date": "07.03.2001",
+        "maturity_date": "24.06.1997",
+        "number": 140248
+    },
+    "products": [
+        {
+            "amount": 293.29,
+            "description": "harness 24/7 action-items",
+            "quantity": 1.32,
+            "unit_price": 82.0,
+            "vat_amount": 4.33
+        },
+        {
+            "amount": 295.67,
+            "description": "engineer global e-markets",
+            "quantity": 7.27,
+            "unit_price": 32.9,
+            "vat_amount": 8.57
+        },
+        {
+            "amount": 182.28,
+            "description": "re-intermediate extensible eyeballs",
+            "quantity": 5.32,
+            "unit_price": 32.85,
+            "vat_amount": 1.85
+        },
+        {
+            "amount": 32.42,
+            "description": "streamline one-to-one portals",
+            "quantity": 2.18,
+            "unit_price": 86.32,
+            "vat_amount": 2.68
+        }
+    ],
+    "seller": {
+        "address": "00458 Blair Rue East Kimberly, LA 55197"
+    },
+    "tax": {
+        "amount_excluding_tax": 121.37,
+        "amount_including_tax": 178.46,
+        "tax_amount": 15.87
+    }
+}

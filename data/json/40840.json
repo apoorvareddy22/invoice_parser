@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "796 Leslie Villages Suite 676 Keyville, NH 52672"
+    },
+    "invoice": {
+        "bc_no": "iZ08584",
+        "date": "28.10.2006",
+        "maturity_date": "29.11.2015",
+        "number": 824699
+    },
+    "products": [
+        {
+            "amount": 247.22,
+            "description": "envisioneer bricks-and-clicks deliverables",
+            "quantity": 3.73,
+            "unit_price": 24.85,
+            "vat_amount": 16.55
+        },
+        {
+            "amount": 260.64,
+            "description": "streamline dynamic methodologies",
+            "quantity": 4.59,
+            "unit_price": 77.98,
+            "vat_amount": 1.62
+        },
+        {
+            "amount": 274.68,
+            "description": "reinvent interactive ROI",
+            "quantity": 9.1,
+            "unit_price": 32.79,
+            "vat_amount": 5.36
+        }
+    ],
+    "seller": {
+        "address": "Unit 8088 Box 0948 DPO AP 30724"
+    },
+    "tax": {
+        "amount_excluding_tax": 63.88,
+        "amount_including_tax": 15.29,
+        "tax_amount": 19.89
+    }
+}

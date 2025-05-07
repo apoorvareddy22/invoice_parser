@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "5998 Stone Squares West Tina, DC 41012",
+        "id": "jK033"
+    },
+    "invoice": {
+        "bc_no": "yK54272",
+        "currency_code": "GEL",
+        "date": "04.10.2002",
+        "due_date": "03.11.2020",
+        "number": 334414
+    },
+    "payment": {
+        "bank_name": "Barnes, Munoz and Smith",
+        "bic": "YUHSGBXE",
+        "iban": "DDLP68180643795875"
+    },
+    "products": [
+        {
+            "amount": 9.62,
+            "description": "drive strategic vortals",
+            "index": "6",
+            "price": 224.59,
+            "quantity": 1.8,
+            "tax_amount": 16.19,
+            "total_ttc": 491.12,
+            "vat_amount": 3.43
+        }
+    ],
+    "seller": {
+        "name": "Jeffrey Roth"
+    },
+    "supplier": {
+        "address": "PSC 4174, Box 5035 APO AE 00990",
+        "name": "Christopher Barker"
+    },
+    "tax": {
+        "amount_excluding_tax": 52.86,
+        "amount_including_tax": 147.34,
+        "tax_amount": 19.2,
+        "total_ht": 120.3,
+        "total_ttc": 393.67
+    }
+}

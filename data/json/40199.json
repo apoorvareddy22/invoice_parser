@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "75485 Barbara Inlet Apt. 054 Woodport, DC 77552"
+    },
+    "invoice": {
+        "bc_no": "xH76757",
+        "date": "17.04.2012",
+        "maturity_date": "15.07.2019",
+        "number": 305849
+    },
+    "products": [
+        {
+            "amount": 440.9,
+            "description": "productize transparent bandwidth",
+            "quantity": 7.49,
+            "unit_price": 95.37,
+            "vat_amount": 6.93
+        },
+        {
+            "amount": 287.19,
+            "description": "scale front-end synergies",
+            "quantity": 1.75,
+            "unit_price": 70.91,
+            "vat_amount": 2.64
+        }
+    ],
+    "seller": {
+        "address": "872 Timothy Motorway Anthonystad, ND 20004"
+    },
+    "tax": {
+        "amount_excluding_tax": 52.15,
+        "amount_including_tax": 18.4,
+        "tax_amount": 11.19
+    }
+}

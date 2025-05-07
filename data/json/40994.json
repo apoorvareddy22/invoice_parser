@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "541 Jamie Meadow Lake Heather, CO 05071"
+    },
+    "invoice": {
+        "bc_no": "gX10796",
+        "date": "21.03.2006",
+        "maturity_date": "07.10.2008",
+        "number": 802053
+    },
+    "products": [
+        {
+            "amount": 156.06,
+            "description": "revolutionize compelling applications",
+            "quantity": 9.61,
+            "unit_price": 74.64,
+            "vat_amount": 2.21
+        },
+        {
+            "amount": 394.93,
+            "description": "exploit next-generation action-items",
+            "quantity": 5.42,
+            "unit_price": 51.16,
+            "vat_amount": 3.86
+        },
+        {
+            "amount": 449.43,
+            "description": "implement proactive web services",
+            "quantity": 3.66,
+            "unit_price": 56.63,
+            "vat_amount": 5.74
+        }
+    ],
+    "seller": {
+        "address": "258 Guzman Manors Morganland, NJ 51979"
+    },
+    "tax": {
+        "amount_excluding_tax": 78.74,
+        "amount_including_tax": 175.09,
+        "tax_amount": 29.73
+    }
+}

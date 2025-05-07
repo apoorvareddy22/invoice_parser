@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "09395 Penny Isle New Tanyaton, TX 47779",
+        "id": "FO586"
+    },
+    "invoice": {
+        "bc_no": "xX96688",
+        "currency_code": "BDT",
+        "date": "27.08.2009",
+        "due_date": "18.02.2017",
+        "number": 227371
+    },
+    "payment": {
+        "bank_name": "Miller Group",
+        "bic": "PAFDGB88",
+        "iban": "DNFY36936156974712"
+    },
+    "products": [
+        {
+            "amount": 128.09,
+            "description": "generate dynamic communities",
+            "index": "3",
+            "price": 400.58,
+            "quantity": 5.49,
+            "tax_amount": 62.71,
+            "total_ttc": 412.94,
+            "vat_amount": 7.9
+        },
+        {
+            "amount": 305.23,
+            "description": "generate intuitive users",
+            "index": "6",
+            "price": 359.05,
+            "quantity": 4.33,
+            "tax_amount": 21.23,
+            "total_ttc": 118.18,
+            "vat_amount": 2.93
+        },
+        {
+            "amount": 114.91,
+            "description": "whiteboard 24/365 mindshare",
+            "index": "4",
+            "price": 458.28,
+            "quantity": 3.25,
+            "tax_amount": 19.64,
+            "total_ttc": 486.56,
+            "vat_amount": 11.12
+        },
+        {
+            "amount": 8.55,
+            "description": "orchestrate distributed vortals",
+            "index": "3",
+            "price": 336.23,
+            "quantity": 3.86,
+            "tax_amount": 44.65,
+            "total_ttc": 310.34,
+            "vat_amount": 5.07
+        }
+    ],
+    "seller": {
+        "name": "Daniel Hernandez"
+    },
+    "supplier": {
+        "address": "667 Anderson Centers South James, FM 12360",
+        "name": "Nathan Tran"
+    },
+    "tax": {
+        "amount_excluding_tax": 127.56,
+        "amount_including_tax": 10.36,
+        "tax_amount": 23.46,
+        "total_ht": 394.05,
+        "total_ttc": 239.2
+    }
+}

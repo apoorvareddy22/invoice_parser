@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "683 Christopher Station Suite 046 Jennifermouth, IN 30922",
+        "id": "Rz311"
+    },
+    "invoice": {
+        "bc_no": "WK05589",
+        "currency_code": "ETB",
+        "date": "08.02.2003",
+        "due_date": "14.06.2011",
+        "number": 872049
+    },
+    "payment": {
+        "bank_name": "Garza and Sons",
+        "bic": "SCKUGBDG",
+        "iban": "LCPV01693974356135"
+    },
+    "products": [
+        {
+            "amount": 492.55,
+            "description": "e-enable next-generation e-markets",
+            "index": "2",
+            "price": 116.16,
+            "quantity": 9.95,
+            "tax_amount": 62.21,
+            "total_ttc": 322.81,
+            "vat_amount": 5.37
+        },
+        {
+            "amount": 443.45,
+            "description": "maximize efficient convergence",
+            "index": "6",
+            "price": 348.2,
+            "quantity": 1.88,
+            "tax_amount": 74.64,
+            "total_ttc": 369.79,
+            "vat_amount": 0.86
+        }
+    ],
+    "seller": {
+        "name": "Lauren Lopez"
+    },
+    "supplier": {
+        "address": "Unit 8046 Box 9001 DPO AA 27428",
+        "name": "Daniel Wolfe"
+    },
+    "tax": {
+        "amount_excluding_tax": 150.41,
+        "amount_including_tax": 16.56,
+        "tax_amount": 10.34,
+        "total_ht": 335.68,
+        "total_ttc": 114.55
+    }
+}

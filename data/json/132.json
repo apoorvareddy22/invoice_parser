@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "Unit 6709 Box 5401 DPO AA 45089",
+        "company_name": "Miller, Harris and Hughes",
+        "country": "Dominica",
+        "name": "Patricia Schmidt"
+    },
+    "invoice": {
+        "date": "18.09.2015",
+        "number": 323541
+    },
+    "payment": {
+        "discount_amount": 17.7,
+        "discount_percentage": 14.39,
+        "due": 130.14,
+        "sub_total": 149.34,
+        "total": 179.58
+    },
+    "products": [
+        {
+            "description": "unleash rich platforms",
+            "index": "1",
+            "quantity": 8.57,
+            "total_price": 717.34,
+            "unit_price": 19.68
+        },
+        {
+            "description": "repurpose cross-media synergies",
+            "index": "1",
+            "quantity": 8.03,
+            "total_price": 42.98,
+            "unit_price": 78.51
+        },
+        {
+            "description": "envisioneer extensible infrastructures",
+            "index": "1",
+            "quantity": 4.17,
+            "total_price": 159.23,
+            "unit_price": 21.19
+        },
+        {
+            "description": "extend user-centric metrics",
+            "index": "9",
+            "quantity": 7.69,
+            "total_price": 240.34,
+            "unit_price": 19.1
+        }
+    ],
+    "seller": {
+        "address": "29506 Griffin Squares Apt. 138 Port Kellyfort, GA 36176",
+        "company_name": "Jennings-Sanchez",
+        "vat_no": "iw02473487996"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "PSC 0467, Box 0882 APO AE 55724"
+    },
+    "invoice": {
+        "bc_no": "sP88035",
+        "date": "07.10.1993",
+        "maturity_date": "10.08.2019",
+        "number": 347320
+    },
+    "products": [
+        {
+            "amount": 190.67,
+            "description": "incubate compelling eyeballs",
+            "quantity": 9.68,
+            "unit_price": 65.33,
+            "vat_amount": 1.55
+        },
+        {
+            "amount": 80.13,
+            "description": "e-enable 24/365 initiatives",
+            "quantity": 8.41,
+            "unit_price": 21.65,
+            "vat_amount": 11.26
+        }
+    ],
+    "seller": {
+        "address": "04820 Cynthia Rapids East Curtisburgh, NH 98138"
+    },
+    "tax": {
+        "amount_excluding_tax": 30.22,
+        "amount_including_tax": 35.5,
+        "tax_amount": 18.53
+    }
+}

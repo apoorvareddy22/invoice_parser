@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "483 Andrew Throughway Suite 055 East Charles, ND 61379",
+        "company_name": "Suarez-Ware",
+        "country": "Libyan Arab Jamahiriya",
+        "email": "williamcannon@example.org",
+        "name": "Donna Malone",
+        "phone": "230-839-8319",
+        "vat_no": "Pn29325406104"
+    },
+    "invoice": {
+        "date": "20.08.2014",
+        "due_date": "28.02.2023",
+        "linked_invoice": "NV-9287-4033",
+        "notes": "matrix bricks-and-clicks web services",
+        "number": "vM-0793-0497"
+    },
+    "products": [
+        {
+            "description": "transition interactive content",
+            "discount_percentage": 18.4,
+            "price": 163.03,
+            "quantity": 8.53,
+            "unit_price": 36.03
+        },
+        {
+            "description": "enhance mission-critical systems",
+            "discount_percentage": 16.38,
+            "price": 426.65,
+            "quantity": 7.31,
+            "unit_price": 30.73
+        }
+    ],
+    "seller": {
+        "address": "0724 Morales Mews Evansside, VA 21858",
+        "ape": "4390e",
+        "capital": 64755349,
+        "country": "Angola",
+        "email": "taylortracy@example.net",
+        "name": "Robert Kim",
+        "phone_1": "+1-706-635-3032x1668",
+        "phone_2": "576.475.8508",
+        "phone_3": "(619)269-1112x0501",
+        "ref_walk": "KerZ6705",
+        "reference": "mL264",
+        "siret": 97726767446348,
+        "vat_no": "Pi23630331721",
+        "website": "https://www.humphrey-perkins.com/"
+    },
+    "tax": {
+        "amount_0": 26.4,
+        "amount_1": 25.29,
+        "base_0": 27.04,
+        "base_1": 230.16,
+        "total_ht": 175.47,
+        "total_tax": 13.58,
+        "total_ttc": 163.44,
+        "vat_0": 28.19,
+        "vat_1": 24.88
+    }
+}

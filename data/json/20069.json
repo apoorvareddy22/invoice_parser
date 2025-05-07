@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "11216 James Cape North Johnville, WY 94579",
+        "company_name": "Braun, Suarez and Smith",
+        "email": "mary60@example.net",
+        "name": "Gary Gibson Jr.",
+        "phone": "232.253.6844x570"
+    },
+    "invoice": {
+        "date": "30.07.1993",
+        "due_date": "16.11.2016",
+        "number": "azn97269249531"
+    },
+    "payment": {
+        "account_number": 6725128695,
+        "bank_name": "Reilly, Hicks and Buck",
+        "routing_number": 632642438
+    },
+    "products": [
+        {
+            "amount": 183.7,
+            "description": "generate intuitive supply-chains",
+            "index": "3",
+            "quantity": 5.6,
+            "unit_price": 23.33
+        }
+    ],
+    "seller": {
+        "address": "73091 Lee Lodge Davisshire, AK 62381",
+        "company_name": "Lane Group",
+        "email": "lauren11@example.org"
+    }
+}

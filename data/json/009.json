@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "7026 Paige Fields Apt. 710 New Robin, TX 37271",
+        "company_name": "Booker, Orozco and Robinson",
+        "country": "Iran",
+        "name": "Alejandro Horn"
+    },
+    "invoice": {
+        "date": "17.05.2020",
+        "number": 925318
+    },
+    "payment": {
+        "discount_amount": 26.15,
+        "discount_percentage": 12.91,
+        "due": 167.47,
+        "sub_total": 126.36,
+        "total": 628.84
+    },
+    "products": [
+        {
+            "description": "e-enable vertical content",
+            "index": "3",
+            "quantity": 9.97,
+            "total_price": 719.7,
+            "unit_price": 77.93
+        }
+    ],
+    "seller": {
+        "address": "56239 Williams Springs Apt. 931 East Nicolefurt, VA 69891",
+        "company_name": "Griffin, Sanchez and Schultz",
+        "vat_no": "eC74510000168"
+    }
+}

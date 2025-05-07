@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "USS Adams FPO AP 81352",
+        "company_name": "Whitaker Inc",
+        "email": "kimberlymcdowell@example.com",
+        "name": "Nancy Brown",
+        "phone": "(458)577-6740x09771"
+    },
+    "invoice": {
+        "date": "05.03.2002",
+        "due_date": "17.09.2017",
+        "number": "MUy24933794991"
+    },
+    "payment": {
+        "account_number": 7071481072,
+        "bank_name": "Moreno LLC",
+        "routing_number": 215150036
+    },
+    "products": [
+        {
+            "amount": 36.84,
+            "description": "morph extensible markets",
+            "index": "6",
+            "quantity": 3.72,
+            "unit_price": 45.71
+        },
+        {
+            "amount": 325.71,
+            "description": "visualize magnetic supply-chains",
+            "index": "5",
+            "quantity": 8.2,
+            "unit_price": 16.86
+        },
+        {
+            "amount": 9.41,
+            "description": "enable real-time models",
+            "index": "8",
+            "quantity": 1.97,
+            "unit_price": 12.47
+        },
+        {
+            "amount": 135.39,
+            "description": "deliver customized technologies",
+            "index": "3",
+            "quantity": 8.08,
+            "unit_price": 68.26
+        }
+    ],
+    "seller": {
+        "address": "37269 Peterson Way Apt. 516 South Tammyburgh, MA 80743",
+        "company_name": "Stein Group",
+        "email": "williamsrobert@example.com"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "11424 Davis Islands Apt. 865 East Mary, HI 86875"
+    },
+    "invoice": {
+        "bc_no": "pW74840",
+        "date": "23.07.2001",
+        "maturity_date": "04.10.2009",
+        "number": 147156
+    },
+    "products": [
+        {
+            "amount": 404.67,
+            "description": "deploy virtual e-tailers",
+            "quantity": 6.85,
+            "unit_price": 31.73,
+            "vat_amount": 5.62
+        },
+        {
+            "amount": 127.6,
+            "description": "transform dynamic systems",
+            "quantity": 8.44,
+            "unit_price": 50.64,
+            "vat_amount": 11.23
+        },
+        {
+            "amount": 45.31,
+            "description": "iterate vertical initiatives",
+            "quantity": 8.21,
+            "unit_price": 51.27,
+            "vat_amount": 1.17
+        },
+        {
+            "amount": 97.06,
+            "description": "extend cutting-edge action-items",
+            "quantity": 1.72,
+            "unit_price": 55.75,
+            "vat_amount": 12.7
+        },
+        {
+            "amount": 417.29,
+            "description": "empower distributed markets",
+            "quantity": 7.3,
+            "unit_price": 10.7,
+            "vat_amount": 16.7
+        },
+        {
+            "amount": 6.87,
+            "description": "empower sticky e-services",
+            "quantity": 9.37,
+            "unit_price": 28.94,
+            "vat_amount": 4.69
+        }
+    ],
+    "seller": {
+        "address": "Unit 7629 Box 9607 DPO AA 95496"
+    },
+    "tax": {
+        "amount_excluding_tax": 26.31,
+        "amount_including_tax": 174.93,
+        "tax_amount": 13.15
+    }
+}

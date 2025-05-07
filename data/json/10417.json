@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "353 Lisa Overpass South Brent, AS 79072",
+        "email": "laneemily@example.org",
+        "phone": "+1-831-599-6789x4559",
+        "vat_no": "PY49333780958"
+    },
+    "invoice": {
+        "date": "30.03.2005",
+        "due_date": "23.02.2007",
+        "market_reference": 273268,
+        "notes": "unleash distributed ROI",
+        "number": "1445-4420",
+        "reference": 198496,
+        "vat_no": "JL43991590201"
+    },
+    "payment": {
+        "net_total": 151.83,
+        "total": 614.6
+    },
+    "products": [
+        {
+            "amount": 173.82,
+            "description": "redefine world-class paradigms",
+            "hours": 3.63,
+            "rate": 5.55
+        },
+        {
+            "amount": 69.93,
+            "description": "reinvent synergistic e-markets",
+            "hours": 5.5,
+            "rate": 1.21
+        },
+        {
+            "amount": 155.44,
+            "description": "visualize customized experiences",
+            "hours": 1.47,
+            "rate": 5.83
+        },
+        {
+            "amount": 15.1,
+            "description": "evolve granular web-readiness",
+            "hours": 7.29,
+            "rate": 1.66
+        },
+        {
+            "amount": 172.03,
+            "description": "grow web-enabled schemas",
+            "hours": 5.1,
+            "rate": 1.87
+        },
+        {
+            "amount": 391.98,
+            "description": "empower strategic web-readiness",
+            "hours": 2.99,
+            "rate": 7.09
+        }
+    ],
+    "seller": {
+        "address": "61868 Huff Ville Suite 088 Figueroastad, UT 80904",
+        "email": "nwarren@example.net",
+        "name": "Justin Shah"
+    },
+    "tax": {
+        "base": 14.57,
+        "tax_amount": 11.44,
+        "total_tax": 14.85
+    }
+}

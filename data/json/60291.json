@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "9615 Lisa Mission Suite 104 Lake Aliciaville, ME 08946",
+        "business_no": "GL046",
+        "id": "Gj751"
+    },
+    "invoice": {
+        "date": "17.10.1999",
+        "number": "2221-7167"
+    },
+    "payment": {
+        "due_date": "29.11.2018",
+        "total": 224.55
+    },
+    "products": [
+        {
+            "amount": 109.35,
+            "description": "evolve 24/7 web services",
+            "quantity": 3.97,
+            "reference": "sW-756",
+            "unit_price": 23.74
+        },
+        {
+            "amount": 90.64,
+            "description": "maximize plug-and-play content",
+            "quantity": 7.07,
+            "reference": "EN-019",
+            "unit_price": 37.77
+        },
+        {
+            "amount": 359.99,
+            "description": "strategize efficient partnerships",
+            "quantity": 5.77,
+            "reference": "Rt-089",
+            "unit_price": 67.84
+        }
+    ],
+    "seller": {
+        "address": "2673 Guerra Burg Apt. 670 East Courtney, LA 79431"
+    },
+    "tax": {
+        "base_ht": 466.85,
+        "regulations": 23.71,
+        "total_ht": 225.04,
+        "vat_amount": 193.47,
+        "vat_percentage": 14.34
+    }
+}

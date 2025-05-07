@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "494 James Crescent Apt. 142 East Bradberg, KY 65001",
+        "company_name": "Carlson LLC",
+        "email": "ejensen@example.net",
+        "name": "Christopher Williams",
+        "phone": "8875294913"
+    },
+    "invoice": {
+        "date": "20.02.1997",
+        "due_date": "11.07.1999",
+        "number": "oas98965982492"
+    },
+    "payment": {
+        "account_number": 9204181918,
+        "bank_name": "Rosales, White and Mayo",
+        "routing_number": 974737526
+    },
+    "products": [
+        {
+            "amount": 152.72,
+            "description": "matrix efficient communities",
+            "index": "7",
+            "quantity": 5.11,
+            "unit_price": 25.0
+        },
+        {
+            "amount": 482.13,
+            "description": "maximize 24/365 web services",
+            "index": "10",
+            "quantity": 5.74,
+            "unit_price": 16.98
+        },
+        {
+            "amount": 162.43,
+            "description": "re-intermediate sticky systems",
+            "index": "9",
+            "quantity": 6.26,
+            "unit_price": 60.16
+        },
+        {
+            "amount": 237.8,
+            "description": "exploit robust content",
+            "index": "5",
+            "quantity": 5.24,
+            "unit_price": 28.37
+        },
+        {
+            "amount": 138.31,
+            "description": "e-enable out-of-the-box action-items",
+            "index": "2",
+            "quantity": 2.88,
+            "unit_price": 20.09
+        },
+        {
+            "amount": 63.24,
+            "description": "leverage enterprise deliverables",
+            "index": "6",
+            "quantity": 6.71,
+            "unit_price": 38.36
+        },
+        {
+            "amount": 52.05,
+            "description": "deploy best-of-breed action-items",
+            "index": "5",
+            "quantity": 1.05,
+            "unit_price": 78.42
+        }
+    ],
+    "seller": {
+        "address": "9845 Nunez Hollow Suite 953 Allenland, CO 70025",
+        "company_name": "Montoya Inc",
+        "email": "johnbruce@example.net"
+    }
+}

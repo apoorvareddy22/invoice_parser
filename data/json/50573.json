@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "PSC 0231, Box 9102 APO AA 38916",
+        "id": "Uu420"
+    },
+    "invoice": {
+        "bc_no": "WD48188",
+        "currency_code": "NOK",
+        "date": "15.05.2009",
+        "due_date": "08.04.1996",
+        "number": 813691
+    },
+    "payment": {
+        "bank_name": "Smith LLC",
+        "bic": "LIVRGB0OGY0",
+        "iban": "TVWF71491774137355"
+    },
+    "products": [
+        {
+            "amount": 326.82,
+            "description": "synthesize plug-and-play initiatives",
+            "index": "4",
+            "price": 179.35,
+            "quantity": 2.77,
+            "tax_amount": 99.04,
+            "total_ttc": 247.38,
+            "vat_amount": 2.42
+        },
+        {
+            "amount": 123.57,
+            "description": "deliver bricks-and-clicks synergies",
+            "index": "3",
+            "price": 392.48,
+            "quantity": 5.13,
+            "tax_amount": 74.33,
+            "total_ttc": 466.66,
+            "vat_amount": 1.17
+        },
+        {
+            "amount": 398.45,
+            "description": "implement rich metrics",
+            "index": "4",
+            "price": 467.91,
+            "quantity": 6.84,
+            "tax_amount": 85.83,
+            "total_ttc": 363.2,
+            "vat_amount": 3.58
+        },
+        {
+            "amount": 169.26,
+            "description": "morph back-end relationships",
+            "index": "2",
+            "price": 418.5,
+            "quantity": 7.92,
+            "tax_amount": 58.26,
+            "total_ttc": 116.44,
+            "vat_amount": 0.53
+        },
+        {
+            "amount": 249.0,
+            "description": "monetize wireless eyeballs",
+            "index": "4",
+            "price": 72.46,
+            "quantity": 1.75,
+            "tax_amount": 19.52,
+            "total_ttc": 170.37,
+            "vat_amount": 4.86
+        },
+        {
+            "amount": 431.83,
+            "description": "incentivize cross-platform eyeballs",
+            "index": "10",
+            "price": 131.1,
+            "quantity": 9.96,
+            "tax_amount": 49.97,
+            "total_ttc": 301.59,
+            "vat_amount": 8.45
+        },
+        {
+            "amount": 94.86,
+            "description": "deploy revolutionary applications",
+            "index": "3",
+            "price": 489.94,
+            "quantity": 3.93,
+            "tax_amount": 17.7,
+            "total_ttc": 435.04,
+            "vat_amount": 1.44
+        }
+    ],
+    "seller": {
+        "name": "Elizabeth Cameron"
+    },
+    "supplier": {
+        "address": "8484 Taylor Park Robbinsburgh, LA 92589",
+        "name": "Margaret Charles DVM"
+    },
+    "tax": {
+        "amount_excluding_tax": 86.75,
+        "amount_including_tax": 128.77,
+        "tax_amount": 11.6,
+        "total_ht": 226.87,
+        "total_ttc": 494.2
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "361 Brent Shoal Nicholsmouth, TX 84465",
+        "id": "cF856"
+    },
+    "invoice": {
+        "bc_no": "rC60444",
+        "currency_code": "RUB",
+        "date": "05.02.1992",
+        "due_date": "07.04.1999",
+        "number": 915966
+    },
+    "payment": {
+        "bank_name": "Fields Ltd",
+        "bic": "UNWXGBD6",
+        "iban": "YKUI95029554608886"
+    },
+    "products": [
+        {
+            "amount": 133.84,
+            "description": "visualize 24/365 deliverables",
+            "index": "2",
+            "price": 412.36,
+            "quantity": 3.49,
+            "tax_amount": 28.93,
+            "total_ttc": 105.5,
+            "vat_amount": 2.32
+        },
+        {
+            "amount": 437.87,
+            "description": "enhance viral applications",
+            "index": "4",
+            "price": 136.35,
+            "quantity": 1.92,
+            "tax_amount": 51.25,
+            "total_ttc": 350.54,
+            "vat_amount": 1.25
+        },
+        {
+            "amount": 215.74,
+            "description": "generate leading-edge interfaces",
+            "index": "6",
+            "price": 458.75,
+            "quantity": 8.78,
+            "tax_amount": 32.11,
+            "total_ttc": 459.68,
+            "vat_amount": 13.91
+        },
+        {
+            "amount": 114.61,
+            "description": "scale robust applications",
+            "index": "2",
+            "price": 138.33,
+            "quantity": 3.93,
+            "tax_amount": 86.63,
+            "total_ttc": 170.6,
+            "vat_amount": 6.18
+        },
+        {
+            "amount": 362.25,
+            "description": "generate visionary schemas",
+            "index": "6",
+            "price": 273.94,
+            "quantity": 5.88,
+            "tax_amount": 86.12,
+            "total_ttc": 477.49,
+            "vat_amount": 15.91
+        },
+        {
+            "amount": 247.51,
+            "description": "disintermediate B2C channels",
+            "index": "5",
+            "price": 158.5,
+            "quantity": 9.94,
+            "tax_amount": 13.44,
+            "total_ttc": 394.85,
+            "vat_amount": 8.38
+        },
+        {
+            "amount": 426.48,
+            "description": "aggregate interactive communities",
+            "index": "1",
+            "price": 174.79,
+            "quantity": 6.58,
+            "tax_amount": 15.24,
+            "total_ttc": 398.51,
+            "vat_amount": 11.67
+        }
+    ],
+    "seller": {
+        "name": "Mark Taylor"
+    },
+    "supplier": {
+        "address": "951 Katie Burgs Apt. 202 Matthewchester, OK 94960",
+        "name": "John Poole"
+    },
+    "tax": {
+        "amount_excluding_tax": 187.62,
+        "amount_including_tax": 63.21,
+        "tax_amount": 26.36,
+        "total_ht": 491.64,
+        "total_ttc": 395.27
+    }
+}

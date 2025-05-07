@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "10443 Ariana Gardens Johnsonview, NE 01728"
+    },
+    "invoice": {
+        "bc_no": "rY48471",
+        "date": "27.06.2009",
+        "maturity_date": "30.06.2016",
+        "number": 333011
+    },
+    "products": [
+        {
+            "amount": 58.89,
+            "description": "engineer turn-key mindshare",
+            "quantity": 5.31,
+            "unit_price": 88.42,
+            "vat_amount": 9.76
+        },
+        {
+            "amount": 159.58,
+            "description": "syndicate cutting-edge partnerships",
+            "quantity": 5.16,
+            "unit_price": 35.28,
+            "vat_amount": 2.99
+        },
+        {
+            "amount": 195.94,
+            "description": "whiteboard visionary methodologies",
+            "quantity": 8.57,
+            "unit_price": 56.32,
+            "vat_amount": 12.98
+        },
+        {
+            "amount": 9.29,
+            "description": "envisioneer revolutionary networks",
+            "quantity": 2.81,
+            "unit_price": 16.44,
+            "vat_amount": 4.33
+        },
+        {
+            "amount": 404.0,
+            "description": "drive bleeding-edge metrics",
+            "quantity": 4.23,
+            "unit_price": 95.41,
+            "vat_amount": 7.84
+        },
+        {
+            "amount": 415.88,
+            "description": "extend bleeding-edge communities",
+            "quantity": 1.23,
+            "unit_price": 88.24,
+            "vat_amount": 7.33
+        }
+    ],
+    "seller": {
+        "address": "63686 Edwards Drives Apt. 280 Barbertown, CO 41689"
+    },
+    "tax": {
+        "amount_excluding_tax": 194.3,
+        "amount_including_tax": 147.67,
+        "tax_amount": 16.75
+    }
+}

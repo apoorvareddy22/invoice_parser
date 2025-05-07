@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "5565 Shannon Dale Suite 768 Port Michelle, NM 27772",
+        "business_no": "Pt076",
+        "id": "pa405"
+    },
+    "invoice": {
+        "date": "18.09.2005",
+        "number": "4329-7933"
+    },
+    "payment": {
+        "due_date": "02.10.2010",
+        "total": 383.22
+    },
+    "products": [
+        {
+            "amount": 477.67,
+            "description": "target one-to-one action-items",
+            "quantity": 5.37,
+            "reference": "sm-743",
+            "unit_price": 65.37
+        },
+        {
+            "amount": 246.95,
+            "description": "morph seamless models",
+            "quantity": 7.19,
+            "reference": "VM-304",
+            "unit_price": 65.59
+        },
+        {
+            "amount": 453.84,
+            "description": "harness virtual e-business",
+            "quantity": 5.24,
+            "reference": "ap-302",
+            "unit_price": 29.57
+        },
+        {
+            "amount": 52.52,
+            "description": "redefine 24/365 e-tailers",
+            "quantity": 8.05,
+            "reference": "qw-984",
+            "unit_price": 78.31
+        },
+        {
+            "amount": 117.32,
+            "description": "enhance web-enabled models",
+            "quantity": 5.33,
+            "reference": "rv-079",
+            "unit_price": 67.04
+        }
+    ],
+    "seller": {
+        "address": "990 Gomez Cape Edwardsfort, RI 84056"
+    },
+    "tax": {
+        "base_ht": 263.07,
+        "regulations": 29.23,
+        "total_ht": 102.23,
+        "vat_amount": 164.97,
+        "vat_percentage": 22.25
+    }
+}

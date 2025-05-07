@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "90368 Jason Parkway Apt. 611 Lake Carlosville, PR 67031",
+        "company_name": "West-Weaver",
+        "country": "Iraq",
+        "name": "Lisa Green"
+    },
+    "invoice": {
+        "date": "15.06.2004",
+        "number": 599421
+    },
+    "payment": {
+        "discount_amount": 20.08,
+        "discount_percentage": 15.2,
+        "due": 62.44,
+        "sub_total": 86.28,
+        "total": 111.87
+    },
+    "products": [
+        {
+            "description": "integrate clicks-and-mortar communities",
+            "index": "1",
+            "quantity": 8.52,
+            "total_price": 538.22,
+            "unit_price": 80.55
+        },
+        {
+            "description": "matrix rich web services",
+            "index": "1",
+            "quantity": 2.03,
+            "total_price": 167.15,
+            "unit_price": 23.34
+        },
+        {
+            "description": "deploy wireless e-services",
+            "index": "2",
+            "quantity": 2.44,
+            "total_price": 832.15,
+            "unit_price": 84.38
+        },
+        {
+            "description": "engage front-end deliverables",
+            "index": "7",
+            "quantity": 6.82,
+            "total_price": 107.62,
+            "unit_price": 75.89
+        }
+    ],
+    "seller": {
+        "address": "907 Joseph Vista Apt. 895 New Jacobbury, NJ 84597",
+        "company_name": "Mcknight-Rosales",
+        "vat_no": "YU79406834594"
+    }
+}

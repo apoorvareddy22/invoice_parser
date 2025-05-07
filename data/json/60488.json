@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "22811 Justin Ford Apt. 228 West Jasonport, GA 26203",
+        "business_no": "YU113",
+        "id": "DT081"
+    },
+    "invoice": {
+        "date": "04.04.2023",
+        "number": "9865-0809"
+    },
+    "payment": {
+        "due_date": "20.02.2014",
+        "total": 997.81
+    },
+    "products": [
+        {
+            "amount": 46.8,
+            "description": "embrace cross-media relationships",
+            "quantity": 4.19,
+            "reference": "wo-237",
+            "unit_price": 26.6
+        },
+        {
+            "amount": 118.71,
+            "description": "revolutionize 24/365 eyeballs",
+            "quantity": 1.02,
+            "reference": "Zi-100",
+            "unit_price": 77.18
+        },
+        {
+            "amount": 410.13,
+            "description": "streamline open-source schemas",
+            "quantity": 7.42,
+            "reference": "Dx-398",
+            "unit_price": 18.34
+        }
+    ],
+    "seller": {
+        "address": "2001 Green Springs Suite 527 Karenport, NV 87371"
+    },
+    "tax": {
+        "base_ht": 177.66,
+        "regulations": 26.91,
+        "total_ht": 211.27,
+        "vat_amount": 151.18,
+        "vat_percentage": 28.74
+    }
+}

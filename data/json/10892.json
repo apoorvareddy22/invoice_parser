@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "219 Dawn Mountains Whiteshire, MP 58216",
+        "email": "christine41@example.com",
+        "phone": "201.432.1842",
+        "vat_no": "we72486116275"
+    },
+    "invoice": {
+        "date": "08.12.2005",
+        "due_date": "16.04.1994",
+        "market_reference": 595858,
+        "notes": "synergize robust methodologies",
+        "number": "6863-9301",
+        "reference": 346399,
+        "vat_no": "zq15907930996"
+    },
+    "payment": {
+        "net_total": 162.97,
+        "total": 936.17
+    },
+    "products": [
+        {
+            "amount": 379.66,
+            "description": "orchestrate clicks-and-mortar applications",
+            "hours": 5.21,
+            "rate": 3.3
+        }
+    ],
+    "seller": {
+        "address": "52278 Russell Ways Suite 576 Royfurt, NC 99521",
+        "email": "thompsonpatricia@example.com",
+        "name": "Sara Lambert"
+    },
+    "tax": {
+        "base": 27.7,
+        "tax_amount": 24.45,
+        "total_tax": 26.1
+    }
+}

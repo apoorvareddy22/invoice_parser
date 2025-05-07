@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "6842 Christine Islands Suite 959 West Angela, AK 82852",
+        "email": "rachel27@example.com",
+        "phone": "6014242681",
+        "vat_no": "Xb67842484456"
+    },
+    "invoice": {
+        "date": "08.12.1999",
+        "due_date": "14.07.2021",
+        "market_reference": 450584,
+        "notes": "visualize intuitive bandwidth",
+        "number": "4135-3162",
+        "reference": 314975,
+        "vat_no": "bk84379276569"
+    },
+    "payment": {
+        "net_total": 29.0,
+        "total": 577.59
+    },
+    "products": [
+        {
+            "amount": 361.49,
+            "description": "embrace synergistic methodologies",
+            "hours": 6.46,
+            "rate": 2.59
+        },
+        {
+            "amount": 309.5,
+            "description": "transform cross-media e-tailers",
+            "hours": 3.25,
+            "rate": 4.71
+        },
+        {
+            "amount": 82.05,
+            "description": "visualize bricks-and-clicks e-markets",
+            "hours": 3.25,
+            "rate": 9.46
+        },
+        {
+            "amount": 249.94,
+            "description": "orchestrate distributed platforms",
+            "hours": 8.35,
+            "rate": 4.5
+        }
+    ],
+    "seller": {
+        "address": "694 Obrien Plains North Kaylatown, KS 91074",
+        "email": "dnichols@example.com",
+        "name": "James Carson"
+    },
+    "tax": {
+        "base": 24.94,
+        "tax_amount": 13.13,
+        "total_tax": 15.52
+    }
+}

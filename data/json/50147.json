@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "628 Johnson Flat Apt. 279 Lake Christopherville, MS 16479",
+        "id": "Eg395"
+    },
+    "invoice": {
+        "bc_no": "gm57696",
+        "currency_code": "KGS",
+        "date": "06.02.1997",
+        "due_date": "29.03.2012",
+        "number": 695205
+    },
+    "payment": {
+        "bank_name": "Griffin-Alvarado",
+        "bic": "QCLAGBIK",
+        "iban": "GJKD22889144703369"
+    },
+    "products": [
+        {
+            "amount": 147.85,
+            "description": "integrate world-class interfaces",
+            "index": "7",
+            "price": 422.36,
+            "quantity": 4.93,
+            "tax_amount": 54.96,
+            "total_ttc": 442.32,
+            "vat_amount": 9.64
+        },
+        {
+            "amount": 104.57,
+            "description": "matrix interactive deliverables",
+            "index": "3",
+            "price": 61.34,
+            "quantity": 6.76,
+            "tax_amount": 38.99,
+            "total_ttc": 221.27,
+            "vat_amount": 14.26
+        },
+        {
+            "amount": 414.25,
+            "description": "envisioneer dot-com e-business",
+            "index": "5",
+            "price": 213.26,
+            "quantity": 7.68,
+            "tax_amount": 44.91,
+            "total_ttc": 116.05,
+            "vat_amount": 5.3
+        }
+    ],
+    "seller": {
+        "name": "Jesse Owens"
+    },
+    "supplier": {
+        "address": "30588 Johnson Meadows North Keithburgh, OK 88464",
+        "name": "Douglas Johnson"
+    },
+    "tax": {
+        "amount_excluding_tax": 192.31,
+        "amount_including_tax": 85.39,
+        "tax_amount": 23.88,
+        "total_ht": 245.72,
+        "total_ttc": 161.4
+    }
+}

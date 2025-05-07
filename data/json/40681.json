@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "91537 David Square Valerieton, SC 60620"
+    },
+    "invoice": {
+        "bc_no": "Vo02925",
+        "date": "04.05.2002",
+        "maturity_date": "11.03.2002",
+        "number": 656402
+    },
+    "products": [
+        {
+            "amount": 108.31,
+            "description": "redefine virtual initiatives",
+            "quantity": 5.93,
+            "unit_price": 79.6,
+            "vat_amount": 1.37
+        },
+        {
+            "amount": 132.47,
+            "description": "harness intuitive functionalities",
+            "quantity": 1.19,
+            "unit_price": 82.75,
+            "vat_amount": 11.79
+        }
+    ],
+    "seller": {
+        "address": "1603 David Meadows Woodshire, VA 36072"
+    },
+    "tax": {
+        "amount_excluding_tax": 94.98,
+        "amount_including_tax": 98.87,
+        "tax_amount": 20.4
+    }
+}

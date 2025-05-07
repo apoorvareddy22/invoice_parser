@@ -1,0 +1,70 @@
+{
+    "buyer": {
+        "address": "63454 Robert Street Apt. 546 Toddland, MD 99636"
+    },
+    "invoice": {
+        "bc_no": "KS28651",
+        "date": "05.12.2019",
+        "maturity_date": "12.10.2022",
+        "number": 574836
+    },
+    "products": [
+        {
+            "amount": 25.83,
+            "description": "empower proactive action-items",
+            "quantity": 2.11,
+            "unit_price": 69.08,
+            "vat_amount": 0.2
+        },
+        {
+            "amount": 324.25,
+            "description": "innovate B2C e-business",
+            "quantity": 3.07,
+            "unit_price": 43.59,
+            "vat_amount": 13.63
+        },
+        {
+            "amount": 196.88,
+            "description": "monetize sticky portals",
+            "quantity": 9.33,
+            "unit_price": 97.36,
+            "vat_amount": 15.96
+        },
+        {
+            "amount": 341.29,
+            "description": "leverage wireless metrics",
+            "quantity": 4.94,
+            "unit_price": 47.92,
+            "vat_amount": 3.01
+        },
+        {
+            "amount": 360.34,
+            "description": "redefine efficient technologies",
+            "quantity": 3.89,
+            "unit_price": 85.84,
+            "vat_amount": 3.9
+        },
+        {
+            "amount": 318.46,
+            "description": "deploy compelling architectures",
+            "quantity": 4.08,
+            "unit_price": 41.89,
+            "vat_amount": 0.85
+        },
+        {
+            "amount": 236.43,
+            "description": "mesh bleeding-edge architectures",
+            "quantity": 8.98,
+            "unit_price": 73.92,
+            "vat_amount": 14.82
+        }
+    ],
+    "seller": {
+        "address": "USNS Hughes FPO AA 02812"
+    },
+    "tax": {
+        "amount_excluding_tax": 86.72,
+        "amount_including_tax": 45.05,
+        "tax_amount": 11.67
+    }
+}

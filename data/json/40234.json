@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "831 Heath Station Duncanton, WA 83791"
+    },
+    "invoice": {
+        "bc_no": "dm84902",
+        "date": "20.12.2015",
+        "maturity_date": "25.12.1995",
+        "number": 230897
+    },
+    "products": [
+        {
+            "amount": 193.92,
+            "description": "matrix cutting-edge e-services",
+            "quantity": 1.53,
+            "unit_price": 96.23,
+            "vat_amount": 0.53
+        },
+        {
+            "amount": 310.68,
+            "description": "deliver user-centric markets",
+            "quantity": 7.37,
+            "unit_price": 88.07,
+            "vat_amount": 0.88
+        }
+    ],
+    "seller": {
+        "address": "13584 Pierce Row South Russellfurt, NV 98381"
+    },
+    "tax": {
+        "amount_excluding_tax": 120.2,
+        "amount_including_tax": 184.52,
+        "tax_amount": 28.76
+    }
+}

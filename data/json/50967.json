@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "24290 Travis Inlet Apt. 746 Stevenstad, IN 70359",
+        "id": "Xa317"
+    },
+    "invoice": {
+        "bc_no": "jX18264",
+        "currency_code": "QAR",
+        "date": "28.04.1998",
+        "due_date": "28.01.2020",
+        "number": 673610
+    },
+    "payment": {
+        "bank_name": "Nielsen, Smith and Tanner",
+        "bic": "ZHPBGBD5F0W",
+        "iban": "KOWL57928528563361"
+    },
+    "products": [
+        {
+            "amount": 16.49,
+            "description": "seize mission-critical niches",
+            "index": "2",
+            "price": 323.49,
+            "quantity": 7.87,
+            "tax_amount": 42.85,
+            "total_ttc": 351.09,
+            "vat_amount": 11.67
+        },
+        {
+            "amount": 218.85,
+            "description": "embrace plug-and-play portals",
+            "index": "6",
+            "price": 219.47,
+            "quantity": 5.88,
+            "tax_amount": 15.11,
+            "total_ttc": 164.29,
+            "vat_amount": 16.19
+        },
+        {
+            "amount": 178.26,
+            "description": "utilize clicks-and-mortar technologies",
+            "index": "10",
+            "price": 492.21,
+            "quantity": 2.14,
+            "tax_amount": 30.95,
+            "total_ttc": 114.23,
+            "vat_amount": 14.25
+        },
+        {
+            "amount": 95.13,
+            "description": "revolutionize cutting-edge functionalities",
+            "index": "9",
+            "price": 410.22,
+            "quantity": 7.58,
+            "tax_amount": 34.44,
+            "total_ttc": 238.97,
+            "vat_amount": 6.61
+        },
+        {
+            "amount": 473.38,
+            "description": "mesh open-source methodologies",
+            "index": "5",
+            "price": 180.43,
+            "quantity": 7.46,
+            "tax_amount": 27.89,
+            "total_ttc": 358.23,
+            "vat_amount": 0.16
+        },
+        {
+            "amount": 480.76,
+            "description": "scale B2B partnerships",
+            "index": "5",
+            "price": 232.48,
+            "quantity": 7.25,
+            "tax_amount": 57.19,
+            "total_ttc": 124.34,
+            "vat_amount": 2.28
+        },
+        {
+            "amount": 277.72,
+            "description": "benchmark virtual ROI",
+            "index": "10",
+            "price": 358.14,
+            "quantity": 6.34,
+            "tax_amount": 90.95,
+            "total_ttc": 309.86,
+            "vat_amount": 3.18
+        }
+    ],
+    "seller": {
+        "name": "Sharon Rollins"
+    },
+    "supplier": {
+        "address": "4069 Henderson Common Suite 536 Lake Theresa, IN 80501",
+        "name": "Amanda Anderson"
+    },
+    "tax": {
+        "amount_excluding_tax": 185.86,
+        "amount_including_tax": 176.46,
+        "tax_amount": 18.24,
+        "total_ht": 158.4,
+        "total_ttc": 359.81
+    }
+}

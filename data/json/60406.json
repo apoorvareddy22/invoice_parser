@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "419 Monica Grove Suite 063 Juliaview, MI 75065",
+        "business_no": "Mi097",
+        "id": "ww832"
+    },
+    "invoice": {
+        "date": "30.11.2010",
+        "number": "4921-7525"
+    },
+    "payment": {
+        "due_date": "03.01.2022",
+        "total": 285.8
+    },
+    "products": [
+        {
+            "amount": 221.6,
+            "description": "enable visionary markets",
+            "quantity": 6.89,
+            "reference": "sf-070",
+            "unit_price": 11.86
+        },
+        {
+            "amount": 323.89,
+            "description": "deliver granular e-services",
+            "quantity": 4.09,
+            "reference": "on-473",
+            "unit_price": 89.07
+        },
+        {
+            "amount": 176.12,
+            "description": "architect integrated deliverables",
+            "quantity": 9.36,
+            "reference": "ww-043",
+            "unit_price": 27.92
+        },
+        {
+            "amount": 342.46,
+            "description": "engage enterprise communities",
+            "quantity": 9.85,
+            "reference": "HG-377",
+            "unit_price": 85.38
+        },
+        {
+            "amount": 406.6,
+            "description": "utilize mission-critical networks",
+            "quantity": 2.6,
+            "reference": "nP-672",
+            "unit_price": 11.02
+        }
+    ],
+    "seller": {
+        "address": "56247 Lori Ways Lake Carolineberg, NH 98884"
+    },
+    "tax": {
+        "base_ht": 140.71,
+        "regulations": 11.1,
+        "total_ht": 405.68,
+        "vat_amount": 157.99,
+        "vat_percentage": 26.34
+    }
+}

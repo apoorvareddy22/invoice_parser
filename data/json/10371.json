@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "42303 Christine Island North Randall, NY 69115",
+        "email": "jordanamy@example.net",
+        "phone": "(220)822-9817x30150",
+        "vat_no": "Fm94269817576"
+    },
+    "invoice": {
+        "date": "15.05.1995",
+        "due_date": "04.07.2017",
+        "market_reference": 975764,
+        "notes": "transition sticky niches",
+        "number": "2241-1329",
+        "reference": 266698,
+        "vat_no": "YC50937249374"
+    },
+    "payment": {
+        "net_total": 124.36,
+        "total": 981.9
+    },
+    "products": [
+        {
+            "amount": 134.21,
+            "description": "synergize cross-media applications",
+            "hours": 9.26,
+            "rate": 3.27
+        },
+        {
+            "amount": 462.0,
+            "description": "repurpose visionary content",
+            "hours": 7.68,
+            "rate": 9.34
+        },
+        {
+            "amount": 356.1,
+            "description": "scale clicks-and-mortar action-items",
+            "hours": 8.17,
+            "rate": 1.83
+        },
+        {
+            "amount": 433.0,
+            "description": "aggregate enterprise deliverables",
+            "hours": 2.73,
+            "rate": 9.58
+        }
+    ],
+    "seller": {
+        "address": "39966 Villarreal Garden Danielview, MP 99048",
+        "email": "irobinson@example.net",
+        "name": "Brandon Potter"
+    },
+    "tax": {
+        "base": 11.01,
+        "tax_amount": 23.73,
+        "total_tax": 10.77
+    }
+}

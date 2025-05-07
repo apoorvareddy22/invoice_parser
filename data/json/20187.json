@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "3640 Willie View Morganview, VI 74318",
+        "company_name": "Perkins Ltd",
+        "email": "eturner@example.com",
+        "name": "Natalie Cunningham",
+        "phone": "+1-437-343-1709x331"
+    },
+    "invoice": {
+        "date": "21.02.2018",
+        "due_date": "02.09.2005",
+        "number": "kmL51556491276"
+    },
+    "payment": {
+        "account_number": 2583848627,
+        "bank_name": "Simpson-Lewis",
+        "routing_number": 836463240
+    },
+    "products": [
+        {
+            "amount": 190.34,
+            "description": "unleash magnetic platforms",
+            "index": "2",
+            "quantity": 7.78,
+            "unit_price": 85.32
+        },
+        {
+            "amount": 187.22,
+            "description": "iterate vertical e-markets",
+            "index": "2",
+            "quantity": 8.4,
+            "unit_price": 36.4
+        },
+        {
+            "amount": 77.33,
+            "description": "optimize viral info-mediaries",
+            "index": "2",
+            "quantity": 9.02,
+            "unit_price": 56.75
+        }
+    ],
+    "seller": {
+        "address": "78206 Mcdowell Garden Ericksonside, NY 87592",
+        "company_name": "Lloyd Ltd",
+        "email": "ewilson@example.com"
+    }
+}

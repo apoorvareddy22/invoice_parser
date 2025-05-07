@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "7342 Wright Cliffs Suite 650 West Mark, MA 58031",
+        "company_name": "Harrington, Roberts and Ochoa",
+        "country": "Greenland",
+        "name": "Michael Young"
+    },
+    "invoice": {
+        "date": "22.04.1990",
+        "number": 329181
+    },
+    "payment": {
+        "discount_amount": 49.5,
+        "discount_percentage": 8.36,
+        "due": 180.31,
+        "sub_total": 79.61,
+        "total": 862.31
+    },
+    "products": [
+        {
+            "description": "engineer magnetic ROI",
+            "index": "6",
+            "quantity": 7.61,
+            "total_price": 985.41,
+            "unit_price": 19.57
+        },
+        {
+            "description": "incentivize end-to-end portals",
+            "index": "4",
+            "quantity": 6.62,
+            "total_price": 112.2,
+            "unit_price": 91.0
+        },
+        {
+            "description": "deliver rich architectures",
+            "index": "2",
+            "quantity": 5.34,
+            "total_price": 769.45,
+            "unit_price": 28.62
+        }
+    ],
+    "seller": {
+        "address": "132 Julian Stravenue West Leslie, KS 58162",
+        "company_name": "Choi, Farmer and Tucker",
+        "vat_no": "Qc05588792642"
+    }
+}

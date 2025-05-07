@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "98391 Woods Heights North Dana, OH 66166",
+        "company_name": "Fisher-Schwartz",
+        "country": "Barbados",
+        "name": "Ryan Thomas"
+    },
+    "invoice": {
+        "date": "11.12.2020",
+        "number": 173261
+    },
+    "payment": {
+        "discount_amount": 46.4,
+        "discount_percentage": 17.91,
+        "due": 196.75,
+        "sub_total": 58.14,
+        "total": 562.51
+    },
+    "products": [
+        {
+            "description": "synergize next-generation paradigms",
+            "index": "1",
+            "quantity": 3.85,
+            "total_price": 121.62,
+            "unit_price": 44.62
+        },
+        {
+            "description": "integrate back-end supply-chains",
+            "index": "4",
+            "quantity": 5.41,
+            "total_price": 926.3,
+            "unit_price": 18.68
+        },
+        {
+            "description": "enable visionary e-business",
+            "index": "2",
+            "quantity": 5.6,
+            "total_price": 197.8,
+            "unit_price": 52.06
+        },
+        {
+            "description": "streamline enterprise web-readiness",
+            "index": "2",
+            "quantity": 6.4,
+            "total_price": 449.63,
+            "unit_price": 55.18
+        },
+        {
+            "description": "leverage impactful synergies",
+            "index": "8",
+            "quantity": 8.16,
+            "total_price": 900.25,
+            "unit_price": 47.59
+        }
+    ],
+    "seller": {
+        "address": "PSC 0511, Box 0660 APO AP 81923",
+        "company_name": "Dudley, Blevins and Davis",
+        "vat_no": "vQ51692738225"
+    }
+}

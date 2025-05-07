@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "Unit 0617 Box 4918 DPO AE 74773",
+        "business_no": "oV932",
+        "id": "tv373"
+    },
+    "invoice": {
+        "date": "05.02.2006",
+        "number": "7653-1594"
+    },
+    "payment": {
+        "due_date": "24.05.2006",
+        "total": 924.19
+    },
+    "products": [
+        {
+            "amount": 331.02,
+            "description": "target wireless synergies",
+            "quantity": 7.32,
+            "reference": "sk-136",
+            "unit_price": 96.66
+        },
+        {
+            "amount": 127.72,
+            "description": "expedite frictionless users",
+            "quantity": 2.03,
+            "reference": "Os-092",
+            "unit_price": 90.83
+        }
+    ],
+    "seller": {
+        "address": "97764 Bradley Mills Port Christopher, HI 44038"
+    },
+    "tax": {
+        "base_ht": 466.43,
+        "regulations": 17.4,
+        "total_ht": 169.42,
+        "vat_amount": 177.52,
+        "vat_percentage": 14.32
+    }
+}

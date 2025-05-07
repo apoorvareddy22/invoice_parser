@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "1055 Jack Circles North James, CO 56987"
+    },
+    "invoice": {
+        "bc_no": "EG50823",
+        "date": "29.06.2006",
+        "maturity_date": "11.05.1999",
+        "number": 707631
+    },
+    "products": [
+        {
+            "amount": 6.14,
+            "description": "matrix virtual architectures",
+            "quantity": 8.25,
+            "unit_price": 96.34,
+            "vat_amount": 2.05
+        }
+    ],
+    "seller": {
+        "address": "572 Houston Brooks Matthewchester, WI 55921"
+    },
+    "tax": {
+        "amount_excluding_tax": 109.46,
+        "amount_including_tax": 115.24,
+        "tax_amount": 25.36
+    }
+}

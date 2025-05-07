@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "375 Melanie River Apt. 188 Lake Kennethport, ME 82031",
+        "company_name": "Barker-Park",
+        "country": "Costa Rica",
+        "name": "George Evans"
+    },
+    "invoice": {
+        "date": "06.06.2016",
+        "number": 127113
+    },
+    "payment": {
+        "discount_amount": 20.04,
+        "discount_percentage": 17.49,
+        "due": 60.17,
+        "sub_total": 100.46,
+        "total": 575.38
+    },
+    "products": [
+        {
+            "description": "e-enable turn-key architectures",
+            "index": "5",
+            "quantity": 5.27,
+            "total_price": 211.32,
+            "unit_price": 49.97
+        },
+        {
+            "description": "synergize cross-media applications",
+            "index": "2",
+            "quantity": 3.42,
+            "total_price": 356.01,
+            "unit_price": 91.9
+        },
+        {
+            "description": "monetize collaborative networks",
+            "index": "5",
+            "quantity": 4.39,
+            "total_price": 334.49,
+            "unit_price": 88.14
+        },
+        {
+            "description": "orchestrate mission-critical e-commerce",
+            "index": "2",
+            "quantity": 9.39,
+            "total_price": 406.67,
+            "unit_price": 41.8
+        }
+    ],
+    "seller": {
+        "address": "25773 Andrea Pass Suite 405 Stephenton, MD 43284",
+        "company_name": "Patton, Clark and Benjamin",
+        "vat_no": "IV00250658964"
+    }
+}

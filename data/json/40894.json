@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "USCGC Macdonald FPO AA 13043"
+    },
+    "invoice": {
+        "bc_no": "no75912",
+        "date": "29.06.1998",
+        "maturity_date": "01.09.2009",
+        "number": 597761
+    },
+    "products": [
+        {
+            "amount": 85.67,
+            "description": "productize seamless platforms",
+            "quantity": 8.96,
+            "unit_price": 59.54,
+            "vat_amount": 4.29
+        },
+        {
+            "amount": 33.84,
+            "description": "integrate killer channels",
+            "quantity": 8.77,
+            "unit_price": 25.59,
+            "vat_amount": 2.55
+        },
+        {
+            "amount": 209.84,
+            "description": "seize robust infrastructures",
+            "quantity": 2.2,
+            "unit_price": 68.88,
+            "vat_amount": 6.99
+        }
+    ],
+    "seller": {
+        "address": "430 Harrington Corners East John, HI 72399"
+    },
+    "tax": {
+        "amount_excluding_tax": 35.43,
+        "amount_including_tax": 51.36,
+        "tax_amount": 26.72
+    }
+}

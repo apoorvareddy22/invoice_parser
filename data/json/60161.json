@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "4563 Antonio Villages New Anita, RI 67723",
+        "business_no": "Kk608",
+        "id": "Ku824"
+    },
+    "invoice": {
+        "date": "14.04.1991",
+        "number": "0395-5896"
+    },
+    "payment": {
+        "due_date": "18.08.2015",
+        "total": 166.98
+    },
+    "products": [
+        {
+            "amount": 60.5,
+            "description": "innovate distributed e-services",
+            "quantity": 9.39,
+            "reference": "HM-652",
+            "unit_price": 91.85
+        },
+        {
+            "amount": 481.03,
+            "description": "generate extensible action-items",
+            "quantity": 4.7,
+            "reference": "RM-260",
+            "unit_price": 71.97
+        },
+        {
+            "amount": 148.61,
+            "description": "extend holistic users",
+            "quantity": 4.06,
+            "reference": "Cq-598",
+            "unit_price": 21.41
+        },
+        {
+            "amount": 432.08,
+            "description": "reinvent collaborative e-tailers",
+            "quantity": 3.49,
+            "reference": "LW-468",
+            "unit_price": 20.69
+        },
+        {
+            "amount": 119.2,
+            "description": "revolutionize front-end e-markets",
+            "quantity": 8.97,
+            "reference": "sf-298",
+            "unit_price": 48.43
+        }
+    ],
+    "seller": {
+        "address": "6865 James River Taylorton, CA 91060"
+    },
+    "tax": {
+        "base_ht": 377.08,
+        "regulations": 20.75,
+        "total_ht": 295.32,
+        "vat_amount": 138.03,
+        "vat_percentage": 23.77
+    }
+}

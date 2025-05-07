@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "7015 Shelly Spring Phillipsfurt, NY 23267",
+        "email": "debra49@example.com",
+        "phone": "(573)276-4610",
+        "vat_no": "gm22957863467"
+    },
+    "invoice": {
+        "date": "04.01.1990",
+        "due_date": "16.01.2006",
+        "market_reference": 620009,
+        "notes": "integrate dot-com systems",
+        "number": "0434-0507",
+        "reference": 785183,
+        "vat_no": "wg91985433271"
+    },
+    "payment": {
+        "net_total": 61.12,
+        "total": 255.14
+    },
+    "products": [
+        {
+            "amount": 55.92,
+            "description": "envisioneer revolutionary deliverables",
+            "hours": 7.69,
+            "rate": 5.11
+        }
+    ],
+    "seller": {
+        "address": "80092 Potter Crescent Suite 826 New Jennifer, AS 37118",
+        "email": "ricky28@example.com",
+        "name": "Jason Lam"
+    },
+    "tax": {
+        "base": 23.24,
+        "tax_amount": 26.84,
+        "total_tax": 16.49
+    }
+}

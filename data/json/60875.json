@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "854 George Throughway Apt. 644 Welchport, NV 57246",
+        "business_no": "Fj990",
+        "id": "rj683"
+    },
+    "invoice": {
+        "date": "07.01.2014",
+        "number": "1911-2884"
+    },
+    "payment": {
+        "due_date": "26.05.2009",
+        "total": 702.67
+    },
+    "products": [
+        {
+            "amount": 83.74,
+            "description": "unleash integrated channels",
+            "quantity": 7.57,
+            "reference": "aH-526",
+            "unit_price": 40.92
+        }
+    ],
+    "seller": {
+        "address": "USS Johnson FPO AP 74567"
+    },
+    "tax": {
+        "base_ht": 156.06,
+        "regulations": 24.7,
+        "total_ht": 314.65,
+        "vat_amount": 39.35,
+        "vat_percentage": 21.55
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "212 Rachel Locks Brownchester, TN 56309",
+        "company_name": "Burch Inc",
+        "country": "New Zealand",
+        "name": "Lisa Lewis"
+    },
+    "invoice": {
+        "date": "18.05.2014",
+        "number": 946566
+    },
+    "payment": {
+        "discount_amount": 21.44,
+        "discount_percentage": 12.68,
+        "due": 71.29,
+        "sub_total": 129.87,
+        "total": 686.39
+    },
+    "products": [
+        {
+            "description": "visualize one-to-one vortals",
+            "index": "6",
+            "quantity": 4.17,
+            "total_price": 298.06,
+            "unit_price": 11.04
+        },
+        {
+            "description": "benchmark plug-and-play metrics",
+            "index": "5",
+            "quantity": 1.52,
+            "total_price": 755.08,
+            "unit_price": 35.84
+        },
+        {
+            "description": "disintermediate synergistic ROI",
+            "index": "7",
+            "quantity": 5.21,
+            "total_price": 815.84,
+            "unit_price": 43.77
+        }
+    ],
+    "seller": {
+        "address": "294 Nicholas Locks Port Calvinville, MT 34041",
+        "company_name": "Jordan-Dalton",
+        "vat_no": "GS18486230110"
+    }
+}

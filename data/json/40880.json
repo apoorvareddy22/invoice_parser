@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "662 Matthew Fall Suite 571 Lake Daniel, PR 75241"
+    },
+    "invoice": {
+        "bc_no": "SC79122",
+        "date": "27.01.2009",
+        "maturity_date": "31.12.1999",
+        "number": 958650
+    },
+    "products": [
+        {
+            "amount": 401.19,
+            "description": "envisioneer frictionless action-items",
+            "quantity": 6.91,
+            "unit_price": 64.4,
+            "vat_amount": 4.02
+        },
+        {
+            "amount": 18.29,
+            "description": "monetize global e-business",
+            "quantity": 7.71,
+            "unit_price": 51.41,
+            "vat_amount": 4.72
+        },
+        {
+            "amount": 411.76,
+            "description": "strategize compelling interfaces",
+            "quantity": 1.23,
+            "unit_price": 74.82,
+            "vat_amount": 0.24
+        }
+    ],
+    "seller": {
+        "address": "3539 Douglas Well Suite 232 West Tina, KS 01753"
+    },
+    "tax": {
+        "amount_excluding_tax": 59.54,
+        "amount_including_tax": 107.24,
+        "tax_amount": 27.56
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "5562 Steven Light Apt. 167 Morrisshire, OH 08635",
+        "business_no": "iC432",
+        "id": "ui753"
+    },
+    "invoice": {
+        "date": "28.06.2000",
+        "number": "2469-8517"
+    },
+    "payment": {
+        "due_date": "21.10.2003",
+        "total": 243.65
+    },
+    "products": [
+        {
+            "amount": 323.51,
+            "description": "utilize robust web services",
+            "quantity": 4.87,
+            "reference": "dU-347",
+            "unit_price": 86.72
+        }
+    ],
+    "seller": {
+        "address": "69051 Ashley Corners Suite 464 Welchmouth, DC 91608"
+    },
+    "tax": {
+        "base_ht": 395.21,
+        "regulations": 24.14,
+        "total_ht": 168.48,
+        "vat_amount": 47.22,
+        "vat_percentage": 22.25
+    }
+}

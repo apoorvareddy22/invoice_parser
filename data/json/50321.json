@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "430 Hall Ways Thomasview, GA 82509",
+        "id": "DD870"
+    },
+    "invoice": {
+        "bc_no": "jT23802",
+        "currency_code": "KHR",
+        "date": "09.06.2009",
+        "due_date": "21.03.2013",
+        "number": 475323
+    },
+    "payment": {
+        "bank_name": "Foster Ltd",
+        "bic": "JCXFGBIYMXK",
+        "iban": "HOWO18878179526851"
+    },
+    "products": [
+        {
+            "amount": 296.33,
+            "description": "engineer best-of-breed portals",
+            "index": "2",
+            "price": 39.95,
+            "quantity": 4.3,
+            "tax_amount": 37.71,
+            "total_ttc": 355.78,
+            "vat_amount": 11.09
+        },
+        {
+            "amount": 284.41,
+            "description": "transform front-end info-mediaries",
+            "index": "1",
+            "price": 488.29,
+            "quantity": 1.41,
+            "tax_amount": 37.51,
+            "total_ttc": 176.3,
+            "vat_amount": 7.4
+        },
+        {
+            "amount": 430.13,
+            "description": "extend cutting-edge e-commerce",
+            "index": "8",
+            "price": 115.01,
+            "quantity": 9.13,
+            "tax_amount": 67.59,
+            "total_ttc": 238.96,
+            "vat_amount": 9.61
+        }
+    ],
+    "seller": {
+        "name": "Jimmy Cox"
+    },
+    "supplier": {
+        "address": "3325 Andrew Stravenue Suite 278 Serranostad, MN 04282",
+        "name": "Jasmine Garcia"
+    },
+    "tax": {
+        "amount_excluding_tax": 192.81,
+        "amount_including_tax": 83.32,
+        "tax_amount": 17.33,
+        "total_ht": 405.96,
+        "total_ttc": 342.53
+    }
+}

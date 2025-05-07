@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "PSC 7543, Box 1739 APO AP 33288",
+        "company_name": "Richardson-Berger",
+        "country": "Syrian Arab Republic",
+        "email": "nancy21@example.net",
+        "name": "Spencer Hendricks",
+        "phone": "3472062290",
+        "vat_no": "Yw02356492186"
+    },
+    "invoice": {
+        "date": "08.07.2003",
+        "due_date": "11.07.2005",
+        "linked_invoice": "pw-2761-4919",
+        "notes": "matrix value-added e-services",
+        "number": "Qc-5825-3163"
+    },
+    "products": [
+        {
+            "description": "synergize vertical e-tailers",
+            "discount_percentage": 5.72,
+            "price": 85.04,
+            "quantity": 2.43,
+            "unit_price": 92.87
+        },
+        {
+            "description": "incubate intuitive architectures",
+            "discount_percentage": 12.34,
+            "price": 5.02,
+            "quantity": 5.36,
+            "unit_price": 69.82
+        },
+        {
+            "description": "seize rich portals",
+            "discount_percentage": 19.22,
+            "price": 362.79,
+            "quantity": 7.31,
+            "unit_price": 18.04
+        },
+        {
+            "description": "orchestrate seamless info-mediaries",
+            "discount_percentage": 19.34,
+            "price": 423.09,
+            "quantity": 7.56,
+            "unit_price": 66.25
+        }
+    ],
+    "seller": {
+        "address": "71236 Ashley Trace East Kristenchester, MT 99479",
+        "ape": "5546L",
+        "capital": 36292928,
+        "country": "Mexico",
+        "email": "amberclark@example.net",
+        "name": "Kristin Martin",
+        "phone_1": "001-918-913-2219x61901",
+        "phone_2": "(913)363-0589x87443",
+        "phone_3": "001-929-382-3202x69912",
+        "ref_walk": "KcmG4030",
+        "reference": "KO906",
+        "siret": 62737540280501,
+        "vat_no": "Fm31895166311",
+        "website": "http://www.jones-ellis.com/"
+    },
+    "tax": {
+        "amount_0": 16.91,
+        "amount_1": 27.96,
+        "base_0": 23.09,
+        "base_1": 103.85,
+        "total_ht": 386.52,
+        "total_tax": 12.09,
+        "total_ttc": 363.32,
+        "vat_0": 29.72,
+        "vat_1": 18.36
+    }
+}

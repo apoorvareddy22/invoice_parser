@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "2183 Moore Orchard Lake Mindy, GA 60435",
+        "business_no": "Xu828",
+        "id": "Lu363"
+    },
+    "invoice": {
+        "date": "02.12.2011",
+        "number": "6567-1048"
+    },
+    "payment": {
+        "due_date": "28.11.2014",
+        "total": 709.47
+    },
+    "products": [
+        {
+            "amount": 364.88,
+            "description": "enable innovative e-tailers",
+            "quantity": 6.57,
+            "reference": "ZJ-984",
+            "unit_price": 89.61
+        },
+        {
+            "amount": 126.45,
+            "description": "utilize turn-key solutions",
+            "quantity": 1.94,
+            "reference": "Ta-063",
+            "unit_price": 74.76
+        },
+        {
+            "amount": 250.66,
+            "description": "streamline integrated vortals",
+            "quantity": 5.19,
+            "reference": "GM-084",
+            "unit_price": 81.22
+        },
+        {
+            "amount": 399.32,
+            "description": "productize turn-key experiences",
+            "quantity": 3.35,
+            "reference": "TC-586",
+            "unit_price": 19.48
+        }
+    ],
+    "seller": {
+        "address": "31923 Taylor Mountains Apt. 100 West Rachel, NM 22630"
+    },
+    "tax": {
+        "base_ht": 245.91,
+        "regulations": 19.91,
+        "total_ht": 176.52,
+        "vat_amount": 136.15,
+        "vat_percentage": 25.76
+    }
+}

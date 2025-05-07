@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "1327 Gregory Meadows Apt. 105 New Margaretmouth, VT 55433",
+        "email": "xstewart@example.com",
+        "phone": "+1-476-411-7897x0823",
+        "vat_no": "Lz54541160831"
+    },
+    "invoice": {
+        "date": "08.12.2016",
+        "due_date": "18.12.2022",
+        "market_reference": 461913,
+        "notes": "facilitate ubiquitous methodologies",
+        "number": "7331-3600",
+        "reference": 345626,
+        "vat_no": "NJ26128699417"
+    },
+    "payment": {
+        "net_total": 113.44,
+        "total": 792.81
+    },
+    "products": [
+        {
+            "amount": 309.38,
+            "description": "repurpose viral supply-chains",
+            "hours": 6.71,
+            "rate": 6.75
+        },
+        {
+            "amount": 114.36,
+            "description": "innovate viral web-readiness",
+            "hours": 2.05,
+            "rate": 4.36
+        }
+    ],
+    "seller": {
+        "address": "840 Gina Course Apt. 559 Johnburgh, KS 92813",
+        "email": "mjordan@example.org",
+        "name": "Beth Sparks MD"
+    },
+    "tax": {
+        "base": 15.98,
+        "tax_amount": 21.85,
+        "total_tax": 26.12
+    }
+}

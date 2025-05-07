@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "78196 Smith Village Stephaniechester, GU 60413",
+        "email": "arodriguez@example.com",
+        "phone": "(481)377-9879",
+        "vat_no": "xI12369235006"
+    },
+    "invoice": {
+        "date": "23.04.2004",
+        "due_date": "11.07.1995",
+        "market_reference": 715419,
+        "notes": "facilitate scalable e-markets",
+        "number": "4964-9350",
+        "reference": 493709,
+        "vat_no": "bE74329217680"
+    },
+    "payment": {
+        "net_total": 166.02,
+        "total": 407.64
+    },
+    "products": [
+        {
+            "amount": 408.12,
+            "description": "transform dot-com paradigms",
+            "hours": 8.98,
+            "rate": 5.53
+        },
+        {
+            "amount": 219.39,
+            "description": "productize magnetic action-items",
+            "hours": 1.48,
+            "rate": 5.01
+        },
+        {
+            "amount": 302.21,
+            "description": "maximize out-of-the-box synergies",
+            "hours": 2.25,
+            "rate": 7.66
+        },
+        {
+            "amount": 192.81,
+            "description": "seize proactive interfaces",
+            "hours": 4.73,
+            "rate": 4.37
+        },
+        {
+            "amount": 321.55,
+            "description": "innovate compelling relationships",
+            "hours": 6.93,
+            "rate": 3.8
+        }
+    ],
+    "seller": {
+        "address": "313 Keith Cliffs New Paula, FL 90861",
+        "email": "snelson@example.com",
+        "name": "Sarah Garza"
+    },
+    "tax": {
+        "base": 26.43,
+        "tax_amount": 13.15,
+        "total_tax": 27.49
+    }
+}

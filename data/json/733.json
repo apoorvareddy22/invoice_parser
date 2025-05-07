@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "93712 Gentry Stravenue West Stephenland, SC 57490",
+        "company_name": "Bradley and Sons",
+        "country": "Jersey",
+        "name": "Amber Miller"
+    },
+    "invoice": {
+        "date": "02.04.1996",
+        "number": 814079
+    },
+    "payment": {
+        "discount_amount": 21.91,
+        "discount_percentage": 10.04,
+        "due": 70.28,
+        "sub_total": 66.53,
+        "total": 254.92
+    },
+    "products": [
+        {
+            "description": "unleash e-business partnerships",
+            "index": "10",
+            "quantity": 2.26,
+            "total_price": 902.57,
+            "unit_price": 27.65
+        },
+        {
+            "description": "engage B2B schemas",
+            "index": "5",
+            "quantity": 9.44,
+            "total_price": 200.0,
+            "unit_price": 42.07
+        }
+    ],
+    "seller": {
+        "address": "0307 James Park Apt. 454 Barronland, MT 40950",
+        "company_name": "Martin-Davis",
+        "vat_no": "CI63663713629"
+    }
+}

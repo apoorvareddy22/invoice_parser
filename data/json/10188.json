@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "1416 Debra Island New Emily, OH 34489",
+        "email": "sharris@example.com",
+        "phone": "945.599.8876x32478",
+        "vat_no": "wO72582283966"
+    },
+    "invoice": {
+        "date": "03.05.2001",
+        "due_date": "21.11.2023",
+        "market_reference": 583390,
+        "notes": "transition clicks-and-mortar action-items",
+        "number": "3674-1965",
+        "reference": 986488,
+        "vat_no": "gy29785239799"
+    },
+    "payment": {
+        "net_total": 111.97,
+        "total": 939.12
+    },
+    "products": [
+        {
+            "amount": 377.17,
+            "description": "re-intermediate one-to-one schemas",
+            "hours": 2.26,
+            "rate": 7.09
+        },
+        {
+            "amount": 107.41,
+            "description": "architect frictionless synergies",
+            "hours": 4.93,
+            "rate": 7.14
+        },
+        {
+            "amount": 345.97,
+            "description": "re-contextualize cutting-edge e-commerce",
+            "hours": 1.92,
+            "rate": 6.72
+        },
+        {
+            "amount": 376.5,
+            "description": "extend ubiquitous metrics",
+            "hours": 8.92,
+            "rate": 5.15
+        }
+    ],
+    "seller": {
+        "address": "PSC 0893, Box 8219 APO AA 60939",
+        "email": "rojastaylor@example.com",
+        "name": "Jack Neal"
+    },
+    "tax": {
+        "base": 19.0,
+        "tax_amount": 21.45,
+        "total_tax": 12.72
+    }
+}

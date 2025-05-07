@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "15210 Cox Views Bensontown, OR 64502",
+        "id": "ZH127"
+    },
+    "invoice": {
+        "bc_no": "jq77049",
+        "currency_code": "GYD",
+        "date": "01.10.1996",
+        "due_date": "24.09.2023",
+        "number": 112115
+    },
+    "payment": {
+        "bank_name": "Thompson LLC",
+        "bic": "MSJBGB31",
+        "iban": "DIXL52402721052620"
+    },
+    "products": [
+        {
+            "amount": 179.46,
+            "description": "maximize 24/365 methodologies",
+            "index": "8",
+            "price": 384.72,
+            "quantity": 7.01,
+            "tax_amount": 59.22,
+            "total_ttc": 471.31,
+            "vat_amount": 12.15
+        },
+        {
+            "amount": 289.51,
+            "description": "brand magnetic channels",
+            "index": "5",
+            "price": 499.66,
+            "quantity": 8.42,
+            "tax_amount": 64.06,
+            "total_ttc": 283.75,
+            "vat_amount": 6.81
+        },
+        {
+            "amount": 164.59,
+            "description": "harness seamless web-readiness",
+            "index": "3",
+            "price": 408.22,
+            "quantity": 4.96,
+            "tax_amount": 61.14,
+            "total_ttc": 294.09,
+            "vat_amount": 7.29
+        },
+        {
+            "amount": 343.89,
+            "description": "transform viral partnerships",
+            "index": "5",
+            "price": 373.04,
+            "quantity": 10.0,
+            "tax_amount": 45.41,
+            "total_ttc": 147.61,
+            "vat_amount": 1.19
+        }
+    ],
+    "seller": {
+        "name": "Frances Burke"
+    },
+    "supplier": {
+        "address": "Unit 9791 Box 8234 DPO AA 69911",
+        "name": "Sandra Lyons"
+    },
+    "tax": {
+        "amount_excluding_tax": 31.94,
+        "amount_including_tax": 43.74,
+        "tax_amount": 21.77,
+        "total_ht": 317.01,
+        "total_ttc": 264.6
+    }
+}

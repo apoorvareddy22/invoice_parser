@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "095 Lisa Drives New Jennifer, NC 54296",
+        "company_name": "Simon, Hernandez and Allen",
+        "country": "Bolivia",
+        "name": "Jane Jones"
+    },
+    "invoice": {
+        "date": "20.11.2004",
+        "number": 812081
+    },
+    "payment": {
+        "discount_amount": 17.81,
+        "discount_percentage": 6.1,
+        "due": 36.87,
+        "sub_total": 141.46,
+        "total": 256.1
+    },
+    "products": [
+        {
+            "description": "cultivate distributed users",
+            "index": "3",
+            "quantity": 5.25,
+            "total_price": 712.96,
+            "unit_price": 38.38
+        },
+        {
+            "description": "revolutionize leading-edge relationships",
+            "index": "10",
+            "quantity": 9.64,
+            "total_price": 670.54,
+            "unit_price": 23.79
+        },
+        {
+            "description": "generate front-end methodologies",
+            "index": "3",
+            "quantity": 3.53,
+            "total_price": 603.8,
+            "unit_price": 58.97
+        }
+    ],
+    "seller": {
+        "address": "913 Timothy Circle Apt. 814 Hannahshire, TN 72490",
+        "company_name": "Barker PLC",
+        "vat_no": "VR21866023530"
+    }
+}

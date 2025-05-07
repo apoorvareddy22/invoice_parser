@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "524 Joseph Road Suite 417 East Timothy, WA 99382",
+        "company_name": "Watkins Group",
+        "email": "adamcole@example.net",
+        "name": "Lisa Singleton",
+        "phone": "740.725.0333"
+    },
+    "invoice": {
+        "date": "22.03.2011",
+        "due_date": "23.04.2017",
+        "number": "Kpq18143977837"
+    },
+    "payment": {
+        "account_number": 2423460936,
+        "bank_name": "Kerr, Carpenter and Pena",
+        "routing_number": 677880922
+    },
+    "products": [
+        {
+            "amount": 12.51,
+            "description": "architect e-business e-commerce",
+            "index": "10",
+            "quantity": 1.58,
+            "unit_price": 94.65
+        },
+        {
+            "amount": 374.3,
+            "description": "innovate intuitive bandwidth",
+            "index": "3",
+            "quantity": 6.88,
+            "unit_price": 76.35
+        }
+    ],
+    "seller": {
+        "address": "20845 Lopez Ways Zoemouth, MH 98020",
+        "company_name": "Frank, West and Vazquez",
+        "email": "leslie99@example.com"
+    }
+}

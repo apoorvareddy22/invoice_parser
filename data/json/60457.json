@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "5062 Pope Lake Hayesmouth, CO 55376",
+        "business_no": "Aq614",
+        "id": "Qm105"
+    },
+    "invoice": {
+        "date": "14.03.2007",
+        "number": "0478-2222"
+    },
+    "payment": {
+        "due_date": "04.08.2021",
+        "total": 462.42
+    },
+    "products": [
+        {
+            "amount": 423.08,
+            "description": "redefine frictionless methodologies",
+            "quantity": 5.84,
+            "reference": "yE-817",
+            "unit_price": 98.71
+        }
+    ],
+    "seller": {
+        "address": "USNV Flores FPO AA 88361"
+    },
+    "tax": {
+        "base_ht": 398.97,
+        "regulations": 20.35,
+        "total_ht": 184.48,
+        "vat_amount": 67.06,
+        "vat_percentage": 23.59
+    }
+}

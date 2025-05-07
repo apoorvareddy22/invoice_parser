@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "7535 Matthew Street Apt. 249 Fernandoview, LA 29504",
+        "business_no": "rV790",
+        "id": "ji764"
+    },
+    "invoice": {
+        "date": "30.10.2004",
+        "number": "5454-5782"
+    },
+    "payment": {
+        "due_date": "09.10.2010",
+        "total": 793.35
+    },
+    "products": [
+        {
+            "amount": 169.04,
+            "description": "iterate virtual info-mediaries",
+            "quantity": 6.98,
+            "reference": "zI-238",
+            "unit_price": 31.46
+        },
+        {
+            "amount": 215.0,
+            "description": "disintermediate virtual convergence",
+            "quantity": 5.92,
+            "reference": "Do-646",
+            "unit_price": 89.09
+        },
+        {
+            "amount": 256.32,
+            "description": "incubate open-source functionalities",
+            "quantity": 3.45,
+            "reference": "la-944",
+            "unit_price": 66.39
+        },
+        {
+            "amount": 61.68,
+            "description": "enhance B2B interfaces",
+            "quantity": 4.16,
+            "reference": "vz-230",
+            "unit_price": 99.76
+        }
+    ],
+    "seller": {
+        "address": "5288 Johnson Viaduct Mcclureland, AR 94122"
+    },
+    "tax": {
+        "base_ht": 111.16,
+        "regulations": 17.42,
+        "total_ht": 187.11,
+        "vat_amount": 113.81,
+        "vat_percentage": 26.37
+    }
+}

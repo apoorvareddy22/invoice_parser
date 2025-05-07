@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "377 Whitehead Club Averytown, AR 45488",
+        "email": "coxstephen@example.org",
+        "phone": "564-229-2781",
+        "vat_no": "Ht66427042314"
+    },
+    "invoice": {
+        "date": "26.08.2012",
+        "due_date": "07.11.2016",
+        "market_reference": 891584,
+        "notes": "enable collaborative experiences",
+        "number": "8007-2408",
+        "reference": 204838,
+        "vat_no": "Ml70353003397"
+    },
+    "payment": {
+        "net_total": 92.81,
+        "total": 174.24
+    },
+    "products": [
+        {
+            "amount": 114.15,
+            "description": "deliver visionary solutions",
+            "hours": 4.0,
+            "rate": 3.03
+        },
+        {
+            "amount": 207.03,
+            "description": "aggregate compelling niches",
+            "hours": 3.09,
+            "rate": 1.06
+        },
+        {
+            "amount": 367.68,
+            "description": "extend e-business e-services",
+            "hours": 4.97,
+            "rate": 9.72
+        }
+    ],
+    "seller": {
+        "address": "7981 Kari Springs Shawnport, WA 10998",
+        "email": "dianecollins@example.org",
+        "name": "Kevin Ayers"
+    },
+    "tax": {
+        "base": 24.36,
+        "tax_amount": 27.61,
+        "total_tax": 18.64
+    }
+}

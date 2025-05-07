@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "64582 Washington Field Apt. 211 East Abigailview, RI 44024",
+        "id": "Zk451"
+    },
+    "invoice": {
+        "bc_no": "JK42225",
+        "currency_code": "ZWD",
+        "date": "03.11.2016",
+        "due_date": "27.01.2012",
+        "number": 342628
+    },
+    "payment": {
+        "bank_name": "Leonard-Brown",
+        "bic": "PBPFGBWE",
+        "iban": "MMIK07843508961695"
+    },
+    "products": [
+        {
+            "amount": 59.62,
+            "description": "expedite visionary partnerships",
+            "index": "9",
+            "price": 21.31,
+            "quantity": 6.12,
+            "tax_amount": 49.62,
+            "total_ttc": 100.29,
+            "vat_amount": 2.48
+        },
+        {
+            "amount": 376.5,
+            "description": "seize bleeding-edge networks",
+            "index": "9",
+            "price": 423.25,
+            "quantity": 6.11,
+            "tax_amount": 43.89,
+            "total_ttc": 244.98,
+            "vat_amount": 9.69
+        },
+        {
+            "amount": 320.29,
+            "description": "brand granular e-services",
+            "index": "1",
+            "price": 121.09,
+            "quantity": 1.38,
+            "tax_amount": 67.82,
+            "total_ttc": 391.06,
+            "vat_amount": 2.01
+        },
+        {
+            "amount": 313.95,
+            "description": "mesh cutting-edge experiences",
+            "index": "7",
+            "price": 244.34,
+            "quantity": 8.84,
+            "tax_amount": 30.42,
+            "total_ttc": 448.82,
+            "vat_amount": 1.88
+        },
+        {
+            "amount": 101.65,
+            "description": "deploy killer platforms",
+            "index": "7",
+            "price": 486.76,
+            "quantity": 8.58,
+            "tax_amount": 85.35,
+            "total_ttc": 474.93,
+            "vat_amount": 10.5
+        },
+        {
+            "amount": 33.89,
+            "description": "target open-source paradigms",
+            "index": "10",
+            "price": 98.08,
+            "quantity": 5.15,
+            "tax_amount": 48.29,
+            "total_ttc": 325.2,
+            "vat_amount": 3.56
+        },
+        {
+            "amount": 155.51,
+            "description": "utilize intuitive eyeballs",
+            "index": "8",
+            "price": 34.49,
+            "quantity": 2.6,
+            "tax_amount": 70.64,
+            "total_ttc": 412.41,
+            "vat_amount": 0.98
+        }
+    ],
+    "seller": {
+        "name": "Matthew Wilson"
+    },
+    "supplier": {
+        "address": "67374 John Coves Apt. 093 Walkertown, MN 28001",
+        "name": "Donna Sexton"
+    },
+    "tax": {
+        "amount_excluding_tax": 119.35,
+        "amount_including_tax": 46.6,
+        "tax_amount": 29.67,
+        "total_ht": 122.38,
+        "total_ttc": 467.11
+    }
+}

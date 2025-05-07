@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "76871 Wendy Meadows Suite 367 Lake Deanna, PW 12108",
+        "company_name": "Parker-Garcia",
+        "email": "donnawagner@example.com",
+        "name": "Paul Garcia",
+        "phone": "+1-636-635-6792x30144"
+    },
+    "invoice": {
+        "date": "23.06.2008",
+        "due_date": "06.12.2005",
+        "number": "EEb19097762386"
+    },
+    "payment": {
+        "account_number": 3721668760,
+        "bank_name": "Lyons, Oliver and Sullivan",
+        "routing_number": 929152392
+    },
+    "products": [
+        {
+            "amount": 329.37,
+            "description": "brand out-of-the-box web-readiness",
+            "index": "2",
+            "quantity": 3.62,
+            "unit_price": 95.93
+        },
+        {
+            "amount": 472.88,
+            "description": "deploy dynamic vortals",
+            "index": "3",
+            "quantity": 9.63,
+            "unit_price": 20.61
+        },
+        {
+            "amount": 157.33,
+            "description": "exploit transparent technologies",
+            "index": "10",
+            "quantity": 1.71,
+            "unit_price": 63.46
+        }
+    ],
+    "seller": {
+        "address": "9999 Jason Harbor Suite 912 Howardton, MN 04611",
+        "company_name": "Baker Inc",
+        "email": "zscott@example.net"
+    }
+}

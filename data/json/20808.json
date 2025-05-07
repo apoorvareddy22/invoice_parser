@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "661 Walker Ports East Codyton, HI 51172",
+        "company_name": "Kirby, Neal and Mccann",
+        "email": "mccannkathryn@example.com",
+        "name": "David Wright",
+        "phone": "687.717.7129"
+    },
+    "invoice": {
+        "date": "02.09.1992",
+        "due_date": "17.04.2010",
+        "number": "WIs91703545710"
+    },
+    "payment": {
+        "account_number": 7895142242,
+        "bank_name": "Montoya, Sims and Grant",
+        "routing_number": 781947969
+    },
+    "products": [
+        {
+            "amount": 19.34,
+            "description": "reinvent one-to-one models",
+            "index": "1",
+            "quantity": 4.89,
+            "unit_price": 80.96
+        },
+        {
+            "amount": 487.31,
+            "description": "extend e-business e-markets",
+            "index": "10",
+            "quantity": 3.27,
+            "unit_price": 65.97
+        },
+        {
+            "amount": 473.61,
+            "description": "deliver sticky schemas",
+            "index": "5",
+            "quantity": 1.63,
+            "unit_price": 19.94
+        }
+    ],
+    "seller": {
+        "address": "515 Caroline Drives North Jamesberg, FM 80764",
+        "company_name": "Adams-Davis",
+        "email": "kimberlytodd@example.com"
+    }
+}

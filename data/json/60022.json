@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "057 Edward Radial Suite 882 Hallhaven, FL 38449",
+        "business_no": "uC627",
+        "id": "fK145"
+    },
+    "invoice": {
+        "date": "26.03.2017",
+        "number": "5008-5781"
+    },
+    "payment": {
+        "due_date": "16.04.2013",
+        "total": 513.87
+    },
+    "products": [
+        {
+            "amount": 68.71,
+            "description": "envisioneer end-to-end deliverables",
+            "quantity": 9.65,
+            "reference": "Kr-669",
+            "unit_price": 19.34
+        }
+    ],
+    "seller": {
+        "address": "4887 Bullock Greens Suite 743 Johnnyburgh, VA 18454"
+    },
+    "tax": {
+        "base_ht": 449.6,
+        "regulations": 27.31,
+        "total_ht": 462.69,
+        "vat_amount": 65.9,
+        "vat_percentage": 22.14
+    }
+}

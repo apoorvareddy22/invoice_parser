@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "233 Hill Trafficway East Angelaside, DC 24364",
+        "business_no": "UM545",
+        "id": "MC601"
+    },
+    "invoice": {
+        "date": "29.07.1997",
+        "number": "8294-2064"
+    },
+    "payment": {
+        "due_date": "11.01.1995",
+        "total": 404.14
+    },
+    "products": [
+        {
+            "amount": 484.68,
+            "description": "engineer end-to-end communities",
+            "quantity": 2.03,
+            "reference": "iX-307",
+            "unit_price": 15.0
+        },
+        {
+            "amount": 331.04,
+            "description": "incubate plug-and-play e-commerce",
+            "quantity": 6.65,
+            "reference": "Ks-127",
+            "unit_price": 43.32
+        },
+        {
+            "amount": 354.8,
+            "description": "target 24/365 channels",
+            "quantity": 9.56,
+            "reference": "MS-561",
+            "unit_price": 44.64
+        },
+        {
+            "amount": 290.08,
+            "description": "matrix 24/365 convergence",
+            "quantity": 4.52,
+            "reference": "xN-403",
+            "unit_price": 26.2
+        },
+        {
+            "amount": 216.26,
+            "description": "integrate dynamic functionalities",
+            "quantity": 3.72,
+            "reference": "vs-470",
+            "unit_price": 39.45
+        }
+    ],
+    "seller": {
+        "address": "1571 Perez Pass North Jesus, ID 87913"
+    },
+    "tax": {
+        "base_ht": 319.23,
+        "regulations": 14.78,
+        "total_ht": 386.17,
+        "vat_amount": 59.48,
+        "vat_percentage": 20.43
+    }
+}

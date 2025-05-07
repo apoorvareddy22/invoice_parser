@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "430 Morgan Station Apt. 856 North Jenniferhaven, UT 37077",
+        "email": "esullivan@example.net",
+        "phone": "217.588.8167",
+        "vat_no": "Nj90177779070"
+    },
+    "invoice": {
+        "date": "30.07.2003",
+        "due_date": "04.12.1990",
+        "market_reference": 972962,
+        "notes": "synergize 24/365 content",
+        "number": "5890-2391",
+        "reference": 113025,
+        "vat_no": "jn45099794368"
+    },
+    "payment": {
+        "net_total": 149.19,
+        "total": 312.87
+    },
+    "products": [
+        {
+            "amount": 459.5,
+            "description": "re-contextualize bleeding-edge metrics",
+            "hours": 9.6,
+            "rate": 8.57
+        },
+        {
+            "amount": 258.43,
+            "description": "enable transparent convergence",
+            "hours": 3.95,
+            "rate": 6.07
+        },
+        {
+            "amount": 168.09,
+            "description": "synergize viral markets",
+            "hours": 6.76,
+            "rate": 6.25
+        },
+        {
+            "amount": 235.97,
+            "description": "grow best-of-breed info-mediaries",
+            "hours": 1.11,
+            "rate": 5.06
+        },
+        {
+            "amount": 431.8,
+            "description": "synergize one-to-one web-readiness",
+            "hours": 7.92,
+            "rate": 6.18
+        }
+    ],
+    "seller": {
+        "address": "80569 Ferguson Mountain Lindsayside, OK 93029",
+        "email": "heather71@example.com",
+        "name": "Stephen Scott"
+    },
+    "tax": {
+        "base": 26.71,
+        "tax_amount": 23.34,
+        "total_tax": 15.19
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "0094 Mcintosh Field New Joshuamouth, WI 49523"
+    },
+    "invoice": {
+        "bc_no": "tQ04659",
+        "date": "29.04.2009",
+        "maturity_date": "02.10.1994",
+        "number": 351640
+    },
+    "products": [
+        {
+            "amount": 392.78,
+            "description": "seize bricks-and-clicks initiatives",
+            "quantity": 9.64,
+            "unit_price": 53.26,
+            "vat_amount": 12.5
+        },
+        {
+            "amount": 320.68,
+            "description": "engage global metrics",
+            "quantity": 4.67,
+            "unit_price": 75.32,
+            "vat_amount": 11.89
+        }
+    ],
+    "seller": {
+        "address": "561 Lynch Spur Shannonmouth, OH 10106"
+    },
+    "tax": {
+        "amount_excluding_tax": 46.45,
+        "amount_including_tax": 127.7,
+        "tax_amount": 27.9
+    }
+}

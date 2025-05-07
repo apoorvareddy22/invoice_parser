@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "4724 Fisher Hill Apt. 130 Sandraside, MH 09547",
+        "email": "johnsonkevin@example.com",
+        "phone": "(775)845-0655",
+        "vat_no": "Qh16694076740"
+    },
+    "invoice": {
+        "date": "09.09.1993",
+        "due_date": "14.11.2009",
+        "market_reference": 363578,
+        "notes": "benchmark compelling niches",
+        "number": "8187-4500",
+        "reference": 169776,
+        "vat_no": "ZA88109177006"
+    },
+    "payment": {
+        "net_total": 97.86,
+        "total": 274.52
+    },
+    "products": [
+        {
+            "amount": 303.02,
+            "description": "deploy cross-platform infrastructures",
+            "hours": 2.41,
+            "rate": 1.87
+        },
+        {
+            "amount": 420.66,
+            "description": "integrate front-end bandwidth",
+            "hours": 6.55,
+            "rate": 1.23
+        },
+        {
+            "amount": 139.49,
+            "description": "transition revolutionary platforms",
+            "hours": 3.96,
+            "rate": 7.27
+        },
+        {
+            "amount": 385.93,
+            "description": "scale best-of-breed e-business",
+            "hours": 5.42,
+            "rate": 3.58
+        },
+        {
+            "amount": 403.75,
+            "description": "re-intermediate turn-key infrastructures",
+            "hours": 4.54,
+            "rate": 4.4
+        },
+        {
+            "amount": 394.98,
+            "description": "reinvent cross-media solutions",
+            "hours": 2.58,
+            "rate": 6.43
+        },
+        {
+            "amount": 44.27,
+            "description": "morph e-business supply-chains",
+            "hours": 9.62,
+            "rate": 8.22
+        }
+    ],
+    "seller": {
+        "address": "USCGC Rodgers FPO AP 11225",
+        "email": "odorsey@example.org",
+        "name": "Valerie Mills"
+    },
+    "tax": {
+        "base": 11.42,
+        "tax_amount": 10.56,
+        "total_tax": 24.7
+    }
+}

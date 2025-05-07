@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "7929 Blevins Gardens Apt. 311 Kington, ND 89808",
+        "id": "ST160"
+    },
+    "invoice": {
+        "bc_no": "bW24353",
+        "currency_code": "IDR",
+        "date": "08.02.1991",
+        "due_date": "14.04.1999",
+        "number": 825118
+    },
+    "payment": {
+        "bank_name": "Brewer Ltd",
+        "bic": "BBMIGBQS",
+        "iban": "CMSE04723781010664"
+    },
+    "products": [
+        {
+            "amount": 302.51,
+            "description": "architect world-class info-mediaries",
+            "index": "6",
+            "price": 18.06,
+            "quantity": 4.49,
+            "tax_amount": 67.4,
+            "total_ttc": 314.2,
+            "vat_amount": 1.8
+        },
+        {
+            "amount": 266.58,
+            "description": "grow impactful web-readiness",
+            "index": "2",
+            "price": 223.96,
+            "quantity": 9.41,
+            "tax_amount": 55.47,
+            "total_ttc": 140.53,
+            "vat_amount": 1.18
+        },
+        {
+            "amount": 184.23,
+            "description": "deploy plug-and-play web-readiness",
+            "index": "8",
+            "price": 68.5,
+            "quantity": 4.1,
+            "tax_amount": 76.22,
+            "total_ttc": 143.07,
+            "vat_amount": 9.2
+        },
+        {
+            "amount": 398.83,
+            "description": "engage viral methodologies",
+            "index": "7",
+            "price": 325.95,
+            "quantity": 9.24,
+            "tax_amount": 38.46,
+            "total_ttc": 491.25,
+            "vat_amount": 3.98
+        },
+        {
+            "amount": 191.75,
+            "description": "e-enable integrated metrics",
+            "index": "10",
+            "price": 22.41,
+            "quantity": 4.38,
+            "tax_amount": 28.91,
+            "total_ttc": 105.86,
+            "vat_amount": 8.58
+        },
+        {
+            "amount": 41.7,
+            "description": "mesh collaborative action-items",
+            "index": "5",
+            "price": 149.63,
+            "quantity": 6.03,
+            "tax_amount": 16.55,
+            "total_ttc": 165.45,
+            "vat_amount": 1.07
+        }
+    ],
+    "seller": {
+        "name": "Karen Rosario"
+    },
+    "supplier": {
+        "address": "7182 Oconnell Crescent North Erikabury, OR 78198",
+        "name": "Michael Ingram"
+    },
+    "tax": {
+        "amount_excluding_tax": 97.55,
+        "amount_including_tax": 66.05,
+        "tax_amount": 23.92,
+        "total_ht": 464.47,
+        "total_ttc": 460.75
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "103 Martin Ranch Daleville, MS 40332",
+        "business_no": "uB605",
+        "id": "dW771"
+    },
+    "invoice": {
+        "date": "19.03.2007",
+        "number": "6694-7547"
+    },
+    "payment": {
+        "due_date": "30.07.1999",
+        "total": 967.78
+    },
+    "products": [
+        {
+            "amount": 195.3,
+            "description": "facilitate visionary interfaces",
+            "quantity": 4.61,
+            "reference": "YF-801",
+            "unit_price": 53.72
+        },
+        {
+            "amount": 482.74,
+            "description": "integrate out-of-the-box e-tailers",
+            "quantity": 7.01,
+            "reference": "aW-164",
+            "unit_price": 74.93
+        }
+    ],
+    "seller": {
+        "address": "172 Elizabeth Drive Suite 793 Brianbury, DC 23976"
+    },
+    "tax": {
+        "base_ht": 221.61,
+        "regulations": 12.82,
+        "total_ht": 345.17,
+        "vat_amount": 184.87,
+        "vat_percentage": 23.66
+    }
+}

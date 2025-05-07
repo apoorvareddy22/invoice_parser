@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "USNV Webb FPO AE 07990",
+        "business_no": "Tp922",
+        "id": "HP594"
+    },
+    "invoice": {
+        "date": "24.02.2011",
+        "number": "6058-9753"
+    },
+    "payment": {
+        "due_date": "07.04.2002",
+        "total": 929.01
+    },
+    "products": [
+        {
+            "amount": 213.07,
+            "description": "syndicate front-end convergence",
+            "quantity": 8.26,
+            "reference": "mr-871",
+            "unit_price": 67.38
+        },
+        {
+            "amount": 134.98,
+            "description": "revolutionize back-end web-readiness",
+            "quantity": 9.76,
+            "reference": "ne-819",
+            "unit_price": 65.21
+        },
+        {
+            "amount": 301.44,
+            "description": "maximize e-business content",
+            "quantity": 7.74,
+            "reference": "HE-976",
+            "unit_price": 17.12
+        }
+    ],
+    "seller": {
+        "address": "56190 Evans Street Suite 504 Paulatown, AZ 78831"
+    },
+    "tax": {
+        "base_ht": 155.47,
+        "regulations": 17.36,
+        "total_ht": 479.45,
+        "vat_amount": 152.41,
+        "vat_percentage": 12.62
+    }
+}

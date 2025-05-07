@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "79384 Steve Dale South Ginahaven, OK 52145",
+        "company_name": "Bates Ltd",
+        "country": "Angola",
+        "name": "Jennifer Berry"
+    },
+    "invoice": {
+        "date": "22.07.2009",
+        "number": 821122
+    },
+    "payment": {
+        "discount_amount": 27.94,
+        "discount_percentage": 17.02,
+        "due": 32.76,
+        "sub_total": 142.12,
+        "total": 462.52
+    },
+    "products": [
+        {
+            "description": "iterate cross-media communities",
+            "index": "1",
+            "quantity": 5.5,
+            "total_price": 51.54,
+            "unit_price": 25.11
+        },
+        {
+            "description": "envisioneer robust deliverables",
+            "index": "5",
+            "quantity": 3.38,
+            "total_price": 130.39,
+            "unit_price": 11.85
+        },
+        {
+            "description": "implement impactful portals",
+            "index": "8",
+            "quantity": 8.85,
+            "total_price": 124.59,
+            "unit_price": 64.19
+        }
+    ],
+    "seller": {
+        "address": "83560 Kimberly Harbor Suite 053 North Matthewburgh, KY 63817",
+        "company_name": "Guzman, Frye and Morgan",
+        "vat_no": "Vj40210667062"
+    }
+}

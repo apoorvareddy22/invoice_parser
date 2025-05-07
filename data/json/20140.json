@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "0798 Osborne Place Apt. 402 Lake Jefferyside, WV 48955",
+        "company_name": "Gilbert PLC",
+        "email": "aliceatkins@example.org",
+        "name": "Jennifer Richards",
+        "phone": "386-975-7362"
+    },
+    "invoice": {
+        "date": "16.06.1993",
+        "due_date": "15.09.1993",
+        "number": "Nao21664157359"
+    },
+    "payment": {
+        "account_number": 6732753830,
+        "bank_name": "Cervantes-Boyd",
+        "routing_number": 985171364
+    },
+    "products": [
+        {
+            "amount": 27.38,
+            "description": "target 24/365 web services",
+            "index": "4",
+            "quantity": 4.71,
+            "unit_price": 88.37
+        },
+        {
+            "amount": 25.27,
+            "description": "engineer collaborative methodologies",
+            "index": "5",
+            "quantity": 8.12,
+            "unit_price": 98.12
+        },
+        {
+            "amount": 116.38,
+            "description": "expedite mission-critical convergence",
+            "index": "2",
+            "quantity": 2.78,
+            "unit_price": 60.63
+        },
+        {
+            "amount": 224.01,
+            "description": "facilitate wireless web services",
+            "index": "10",
+            "quantity": 7.81,
+            "unit_price": 52.18
+        },
+        {
+            "amount": 102.97,
+            "description": "transform revolutionary e-markets",
+            "index": "1",
+            "quantity": 9.76,
+            "unit_price": 55.58
+        }
+    ],
+    "seller": {
+        "address": "491 Moore Track Apt. 047 Reynoldsfurt, UT 23163",
+        "company_name": "Gray, Odonnell and Farrell",
+        "email": "scott01@example.org"
+    }
+}

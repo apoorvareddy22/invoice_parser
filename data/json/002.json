@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "Unit 1426 Box 5236 DPO AE 74575",
+        "company_name": "Wilson PLC",
+        "country": "Armenia",
+        "name": "Diane Myers"
+    },
+    "invoice": {
+        "date": "10.01.2012",
+        "number": 706585
+    },
+    "payment": {
+        "discount_amount": 12.63,
+        "discount_percentage": 16.08,
+        "due": 97.6,
+        "sub_total": 172.27,
+        "total": 756.81
+    },
+    "products": [
+        {
+            "description": "envisioneer magnetic portals",
+            "index": "4",
+            "quantity": 2.32,
+            "total_price": 579.01,
+            "unit_price": 36.74
+        },
+        {
+            "description": "strategize frictionless content",
+            "index": "10",
+            "quantity": 9.58,
+            "total_price": 448.48,
+            "unit_price": 61.03
+        }
+    ],
+    "seller": {
+        "address": "66379 Antonio Roads Shieldsberg, SC 06919",
+        "company_name": "Williams PLC",
+        "vat_no": "TN21504218908"
+    }
+}

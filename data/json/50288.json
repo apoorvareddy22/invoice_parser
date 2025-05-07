@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "USNS Hart FPO AE 67723",
+        "id": "Ro036"
+    },
+    "invoice": {
+        "bc_no": "gv71050",
+        "currency_code": "HNL",
+        "date": "28.01.2023",
+        "due_date": "02.07.2006",
+        "number": 223357
+    },
+    "payment": {
+        "bank_name": "Rush-Reynolds",
+        "bic": "UTDKGB2QQDG",
+        "iban": "OENS69078816113447"
+    },
+    "products": [
+        {
+            "amount": 123.51,
+            "description": "visualize collaborative e-commerce",
+            "index": "9",
+            "price": 141.94,
+            "quantity": 3.31,
+            "tax_amount": 66.38,
+            "total_ttc": 490.13,
+            "vat_amount": 2.14
+        },
+        {
+            "amount": 351.14,
+            "description": "deploy mission-critical interfaces",
+            "index": "3",
+            "price": 384.47,
+            "quantity": 3.87,
+            "tax_amount": 28.87,
+            "total_ttc": 419.88,
+            "vat_amount": 1.81
+        },
+        {
+            "amount": 312.84,
+            "description": "synthesize B2B supply-chains",
+            "index": "3",
+            "price": 261.42,
+            "quantity": 9.31,
+            "tax_amount": 89.31,
+            "total_ttc": 235.75,
+            "vat_amount": 0.47
+        }
+    ],
+    "seller": {
+        "name": "Justin West"
+    },
+    "supplier": {
+        "address": "60971 Kyle Meadow Josephstad, OH 84995",
+        "name": "Nathan Gibson"
+    },
+    "tax": {
+        "amount_excluding_tax": 115.94,
+        "amount_including_tax": 19.25,
+        "tax_amount": 23.22,
+        "total_ht": 380.41,
+        "total_ttc": 359.63
+    }
+}

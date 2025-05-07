@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "889 Luke Knolls Suite 029 North Maria, MT 87780",
+        "business_no": "Je013",
+        "id": "zG145"
+    },
+    "invoice": {
+        "date": "05.10.2014",
+        "number": "7013-3223"
+    },
+    "payment": {
+        "due_date": "05.01.1997",
+        "total": 254.95
+    },
+    "products": [
+        {
+            "amount": 341.49,
+            "description": "innovate user-centric partnerships",
+            "quantity": 6.68,
+            "reference": "pB-902",
+            "unit_price": 31.4
+        }
+    ],
+    "seller": {
+        "address": "2429 Erin Valley South Kimberlystad, CA 54115"
+    },
+    "tax": {
+        "base_ht": 263.71,
+        "regulations": 19.83,
+        "total_ht": 360.32,
+        "vat_amount": 34.36,
+        "vat_percentage": 11.59
+    }
+}

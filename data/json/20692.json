@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "52779 Stevenson Brook Suite 177 Port Stephen, OK 01714",
+        "company_name": "Richards LLC",
+        "email": "saranunez@example.net",
+        "name": "Kristy Cox",
+        "phone": "001-501-663-2350"
+    },
+    "invoice": {
+        "date": "21.03.2009",
+        "due_date": "05.06.2022",
+        "number": "KUw26718296820"
+    },
+    "payment": {
+        "account_number": 8542729517,
+        "bank_name": "Vargas, Ramirez and Schultz",
+        "routing_number": 993108576
+    },
+    "products": [
+        {
+            "amount": 281.53,
+            "description": "visualize ubiquitous niches",
+            "index": "4",
+            "quantity": 1.34,
+            "unit_price": 23.58
+        },
+        {
+            "amount": 138.03,
+            "description": "re-intermediate interactive methodologies",
+            "index": "3",
+            "quantity": 3.44,
+            "unit_price": 42.01
+        },
+        {
+            "amount": 149.88,
+            "description": "whiteboard back-end networks",
+            "index": "6",
+            "quantity": 8.03,
+            "unit_price": 58.26
+        },
+        {
+            "amount": 430.18,
+            "description": "enable holistic systems",
+            "index": "9",
+            "quantity": 7.52,
+            "unit_price": 54.5
+        }
+    ],
+    "seller": {
+        "address": "5368 Shelby Lake Apt. 478 West Marie, CT 63586",
+        "company_name": "Myers-Gibson",
+        "email": "kgonzalez@example.com"
+    }
+}

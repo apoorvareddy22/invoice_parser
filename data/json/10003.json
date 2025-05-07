@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "2966 Jennings Mills Apt. 165 Jamestown, MA 24405",
+        "email": "ohoward@example.net",
+        "phone": "(655)346-8731",
+        "vat_no": "xu89335793695"
+    },
+    "invoice": {
+        "date": "12.09.2002",
+        "due_date": "14.01.2007",
+        "market_reference": 590366,
+        "notes": "leverage vertical relationships",
+        "number": "8125-6551",
+        "reference": 114496,
+        "vat_no": "Qd69265085696"
+    },
+    "payment": {
+        "net_total": 196.71,
+        "total": 985.56
+    },
+    "products": [
+        {
+            "amount": 39.01,
+            "description": "maximize killer synergies",
+            "hours": 9.58,
+            "rate": 7.5
+        }
+    ],
+    "seller": {
+        "address": "2259 Clarke Highway Apt. 984 Jackieberg, OH 00903",
+        "email": "fordjohnny@example.org",
+        "name": "William Lewis"
+    },
+    "tax": {
+        "base": 28.52,
+        "tax_amount": 22.0,
+        "total_tax": 20.82
+    }
+}

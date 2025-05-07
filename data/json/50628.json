@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "81228 Cervantes Ridges Rebeccachester, NC 58701",
+        "id": "Xz989"
+    },
+    "invoice": {
+        "bc_no": "Sg61455",
+        "currency_code": "JEP",
+        "date": "03.10.2015",
+        "due_date": "22.09.1990",
+        "number": 386073
+    },
+    "payment": {
+        "bank_name": "Miranda, Wright and Khan",
+        "bic": "HDOVGB79",
+        "iban": "LAVH57981734873345"
+    },
+    "products": [
+        {
+            "amount": 439.22,
+            "description": "expedite cutting-edge metrics",
+            "index": "8",
+            "price": 407.23,
+            "quantity": 8.76,
+            "tax_amount": 61.03,
+            "total_ttc": 422.91,
+            "vat_amount": 10.75
+        },
+        {
+            "amount": 393.34,
+            "description": "syndicate end-to-end eyeballs",
+            "index": "3",
+            "price": 450.75,
+            "quantity": 2.55,
+            "tax_amount": 20.26,
+            "total_ttc": 418.9,
+            "vat_amount": 4.83
+        }
+    ],
+    "seller": {
+        "name": "Christine Ramirez"
+    },
+    "supplier": {
+        "address": "6229 Elliott Lights Suite 441 West Ernest, TN 53662",
+        "name": "David Griffith"
+    },
+    "tax": {
+        "amount_excluding_tax": 131.16,
+        "amount_including_tax": 174.91,
+        "tax_amount": 24.71,
+        "total_ht": 221.16,
+        "total_ttc": 345.29
+    }
+}

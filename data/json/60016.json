@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "985 Nicholas Alley New Shelbychester, SD 05012",
+        "business_no": "sa970",
+        "id": "kR859"
+    },
+    "invoice": {
+        "date": "26.01.1996",
+        "number": "9606-7746"
+    },
+    "payment": {
+        "due_date": "22.11.2007",
+        "total": 105.0
+    },
+    "products": [
+        {
+            "amount": 491.4,
+            "description": "brand sticky web services",
+            "quantity": 5.41,
+            "reference": "Nh-404",
+            "unit_price": 24.39
+        },
+        {
+            "amount": 129.35,
+            "description": "enable viral eyeballs",
+            "quantity": 6.61,
+            "reference": "HS-800",
+            "unit_price": 62.42
+        },
+        {
+            "amount": 311.84,
+            "description": "utilize scalable partnerships",
+            "quantity": 5.58,
+            "reference": "oa-829",
+            "unit_price": 31.15
+        },
+        {
+            "amount": 107.29,
+            "description": "disintermediate B2C web services",
+            "quantity": 4.76,
+            "reference": "cl-025",
+            "unit_price": 96.28
+        }
+    ],
+    "seller": {
+        "address": "USNV Woods FPO AP 32416"
+    },
+    "tax": {
+        "base_ht": 294.64,
+        "regulations": 14.25,
+        "total_ht": 157.81,
+        "vat_amount": 91.82,
+        "vat_percentage": 27.26
+    }
+}

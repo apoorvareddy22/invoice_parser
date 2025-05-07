@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "9879 Ibarra Skyway Suite 804 Reneeberg, PA 13580",
+        "company_name": "Perez, Patterson and Rodriguez",
+        "country": "Netherlands Antilles",
+        "name": "Andrew Hernandez"
+    },
+    "invoice": {
+        "date": "19.03.1999",
+        "number": 188304
+    },
+    "payment": {
+        "discount_amount": 46.88,
+        "discount_percentage": 7.24,
+        "due": 24.88,
+        "sub_total": 180.43,
+        "total": 449.4
+    },
+    "products": [
+        {
+            "description": "enable cross-media mindshare",
+            "index": "9",
+            "quantity": 2.11,
+            "total_price": 680.38,
+            "unit_price": 86.9
+        },
+        {
+            "description": "target dynamic vortals",
+            "index": "1",
+            "quantity": 4.69,
+            "total_price": 901.73,
+            "unit_price": 24.14
+        },
+        {
+            "description": "orchestrate frictionless supply-chains",
+            "index": "4",
+            "quantity": 6.6,
+            "total_price": 888.23,
+            "unit_price": 32.58
+        },
+        {
+            "description": "maximize interactive relationships",
+            "index": "4",
+            "quantity": 7.13,
+            "total_price": 833.52,
+            "unit_price": 68.24
+        },
+        {
+            "description": "deploy robust metrics",
+            "index": "5",
+            "quantity": 7.97,
+            "total_price": 440.5,
+            "unit_price": 92.88
+        }
+    ],
+    "seller": {
+        "address": "58360 Melissa Lakes Apt. 809 West Travisfurt, HI 91603",
+        "company_name": "Meadows-Weiss",
+        "vat_no": "Fd95505797980"
+    }
+}

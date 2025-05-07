@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "9334 James Land New Eric, LA 65342",
+        "email": "kevinwaller@example.org",
+        "phone": "338.494.4605x0560",
+        "vat_no": "MN84060325375"
+    },
+    "invoice": {
+        "date": "24.05.2019",
+        "due_date": "03.06.2015",
+        "market_reference": 546581,
+        "notes": "empower one-to-one methodologies",
+        "number": "5944-7468",
+        "reference": 653209,
+        "vat_no": "we28235629052"
+    },
+    "payment": {
+        "net_total": 180.21,
+        "total": 786.72
+    },
+    "products": [
+        {
+            "amount": 148.07,
+            "description": "embrace interactive partnerships",
+            "hours": 8.94,
+            "rate": 5.81
+        }
+    ],
+    "seller": {
+        "address": "142 Debbie Manors North Aaronside, NE 17505",
+        "email": "matthew71@example.net",
+        "name": "Tony Murphy"
+    },
+    "tax": {
+        "base": 26.93,
+        "tax_amount": 10.43,
+        "total_tax": 11.88
+    }
+}

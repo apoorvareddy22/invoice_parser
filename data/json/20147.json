@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "459 Smith Junctions Gonzalezburgh, TN 43129",
+        "company_name": "Rodriguez Ltd",
+        "email": "jeffery58@example.org",
+        "name": "Eugene Li",
+        "phone": "+1-622-366-8723x9640"
+    },
+    "invoice": {
+        "date": "18.02.1994",
+        "due_date": "03.02.2006",
+        "number": "JJM07646537358"
+    },
+    "payment": {
+        "account_number": 3516172862,
+        "bank_name": "Mcdonald and Sons",
+        "routing_number": 238321048
+    },
+    "products": [
+        {
+            "amount": 40.69,
+            "description": "reinvent clicks-and-mortar web-readiness",
+            "index": "9",
+            "quantity": 9.56,
+            "unit_price": 80.39
+        }
+    ],
+    "seller": {
+        "address": "66308 Ward Loaf Brownside, MH 75688",
+        "company_name": "Ferguson, Wallace and Wilson",
+        "email": "walshrebecca@example.com"
+    }
+}

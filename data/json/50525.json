@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "04331 Jenkins Plains Villanuevaburgh, MN 94514",
+        "id": "MB559"
+    },
+    "invoice": {
+        "bc_no": "bb56167",
+        "currency_code": "GGP",
+        "date": "05.06.2014",
+        "due_date": "24.06.2020",
+        "number": 505038
+    },
+    "payment": {
+        "bank_name": "Diaz-Moore",
+        "bic": "ZTYTGBCO",
+        "iban": "MTNW18452945087848"
+    },
+    "products": [
+        {
+            "amount": 31.31,
+            "description": "target cross-platform networks",
+            "index": "2",
+            "price": 63.3,
+            "quantity": 2.57,
+            "tax_amount": 87.77,
+            "total_ttc": 137.45,
+            "vat_amount": 1.74
+        },
+        {
+            "amount": 210.32,
+            "description": "deploy innovative e-commerce",
+            "index": "2",
+            "price": 58.22,
+            "quantity": 6.38,
+            "tax_amount": 82.05,
+            "total_ttc": 213.32,
+            "vat_amount": 5.01
+        },
+        {
+            "amount": 267.73,
+            "description": "re-contextualize strategic supply-chains",
+            "index": "9",
+            "price": 375.87,
+            "quantity": 7.12,
+            "tax_amount": 17.99,
+            "total_ttc": 213.28,
+            "vat_amount": 0.94
+        },
+        {
+            "amount": 19.65,
+            "description": "enhance seamless bandwidth",
+            "index": "7",
+            "price": 59.07,
+            "quantity": 6.9,
+            "tax_amount": 76.95,
+            "total_ttc": 298.13,
+            "vat_amount": 8.32
+        },
+        {
+            "amount": 7.99,
+            "description": "reinvent best-of-breed portals",
+            "index": "6",
+            "price": 163.6,
+            "quantity": 2.58,
+            "tax_amount": 15.01,
+            "total_ttc": 399.89,
+            "vat_amount": 7.0
+        }
+    ],
+    "seller": {
+        "name": "Joseph Ross"
+    },
+    "supplier": {
+        "address": "3835 Norton Rue Apt. 925 Carlosstad, AL 60812",
+        "name": "Michael Palmer"
+    },
+    "tax": {
+        "amount_excluding_tax": 162.77,
+        "amount_including_tax": 140.62,
+        "tax_amount": 27.18,
+        "total_ht": 277.0,
+        "total_ttc": 184.32
+    }
+}

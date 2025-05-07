@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "45269 Carlson Greens South Tiffany, WA 84582",
+        "email": "steven76@example.org",
+        "phone": "882-778-5631",
+        "vat_no": "Zz24343195023"
+    },
+    "invoice": {
+        "date": "27.05.1997",
+        "due_date": "12.08.2004",
+        "market_reference": 515540,
+        "notes": "mesh revolutionary applications",
+        "number": "1139-0200",
+        "reference": 354243,
+        "vat_no": "CM16461505007"
+    },
+    "payment": {
+        "net_total": 48.39,
+        "total": 727.88
+    },
+    "products": [
+        {
+            "amount": 289.25,
+            "description": "cultivate impactful platforms",
+            "hours": 2.59,
+            "rate": 2.8
+        },
+        {
+            "amount": 189.84,
+            "description": "syndicate next-generation metrics",
+            "hours": 2.09,
+            "rate": 3.76
+        },
+        {
+            "amount": 455.99,
+            "description": "architect customized systems",
+            "hours": 2.99,
+            "rate": 3.94
+        }
+    ],
+    "seller": {
+        "address": "126 Melissa Isle Ericmouth, WV 14088",
+        "email": "ramseymatthew@example.net",
+        "name": "Deanna Pacheco"
+    },
+    "tax": {
+        "base": 20.39,
+        "tax_amount": 29.03,
+        "total_tax": 16.77
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "12413 Neal Divide Melanieville, OK 37962"
+    },
+    "invoice": {
+        "bc_no": "bJ28950",
+        "date": "13.05.2002",
+        "maturity_date": "24.10.1996",
+        "number": 662714
+    },
+    "products": [
+        {
+            "amount": 439.3,
+            "description": "visualize holistic metrics",
+            "quantity": 4.49,
+            "unit_price": 32.67,
+            "vat_amount": 11.98
+        },
+        {
+            "amount": 368.42,
+            "description": "transform world-class relationships",
+            "quantity": 7.23,
+            "unit_price": 66.86,
+            "vat_amount": 8.51
+        }
+    ],
+    "seller": {
+        "address": "696 Casey Mews North Victoria, DC 22049"
+    },
+    "tax": {
+        "amount_excluding_tax": 26.05,
+        "amount_including_tax": 96.2,
+        "tax_amount": 23.79
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "98601 Natasha Row Suite 981 Ryanshire, WV 11123",
+        "id": "vn573"
+    },
+    "invoice": {
+        "bc_no": "xQ66976",
+        "currency_code": "ZMW",
+        "date": "02.12.2016",
+        "due_date": "03.06.2002",
+        "number": 243238
+    },
+    "payment": {
+        "bank_name": "Hess Group",
+        "bic": "KIMEGB7P",
+        "iban": "KNNJ25047378757539"
+    },
+    "products": [
+        {
+            "amount": 50.59,
+            "description": "synthesize front-end paradigms",
+            "index": "2",
+            "price": 465.3,
+            "quantity": 5.12,
+            "tax_amount": 63.63,
+            "total_ttc": 415.02,
+            "vat_amount": 10.77
+        },
+        {
+            "amount": 378.54,
+            "description": "synergize back-end models",
+            "index": "6",
+            "price": 257.12,
+            "quantity": 4.09,
+            "tax_amount": 14.19,
+            "total_ttc": 184.81,
+            "vat_amount": 5.39
+        },
+        {
+            "amount": 388.92,
+            "description": "grow world-class e-services",
+            "index": "9",
+            "price": 82.74,
+            "quantity": 9.46,
+            "tax_amount": 49.59,
+            "total_ttc": 211.77,
+            "vat_amount": 4.02
+        },
+        {
+            "amount": 262.28,
+            "description": "envisioneer distributed metrics",
+            "index": "3",
+            "price": 149.28,
+            "quantity": 4.79,
+            "tax_amount": 25.33,
+            "total_ttc": 289.47,
+            "vat_amount": 5.42
+        },
+        {
+            "amount": 79.26,
+            "description": "envisioneer 24/365 info-mediaries",
+            "index": "9",
+            "price": 328.19,
+            "quantity": 5.09,
+            "tax_amount": 62.23,
+            "total_ttc": 464.9,
+            "vat_amount": 9.08
+        },
+        {
+            "amount": 55.35,
+            "description": "seize sticky relationships",
+            "index": "3",
+            "price": 471.53,
+            "quantity": 1.57,
+            "tax_amount": 36.75,
+            "total_ttc": 172.46,
+            "vat_amount": 0.39
+        },
+        {
+            "amount": 488.68,
+            "description": "innovate B2C paradigms",
+            "index": "1",
+            "price": 412.03,
+            "quantity": 9.57,
+            "tax_amount": 49.02,
+            "total_ttc": 332.7,
+            "vat_amount": 11.31
+        }
+    ],
+    "seller": {
+        "name": "Susan Haynes"
+    },
+    "supplier": {
+        "address": "494 Carlos Ports Michelleside, NJ 01358",
+        "name": "Sharon Webb"
+    },
+    "tax": {
+        "amount_excluding_tax": 165.93,
+        "amount_including_tax": 134.3,
+        "tax_amount": 19.12,
+        "total_ht": 464.96,
+        "total_ttc": 391.13
+    }
+}

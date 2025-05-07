@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "681 Timothy Village Jensenhaven, TN 53172",
+        "company_name": "Smith Ltd",
+        "country": "Spain",
+        "name": "Christina White"
+    },
+    "invoice": {
+        "date": "23.08.2010",
+        "number": 170558
+    },
+    "payment": {
+        "discount_amount": 38.67,
+        "discount_percentage": 14.17,
+        "due": 53.22,
+        "sub_total": 132.06,
+        "total": 343.01
+    },
+    "products": [
+        {
+            "description": "exploit mission-critical networks",
+            "index": "10",
+            "quantity": 5.06,
+            "total_price": 672.96,
+            "unit_price": 57.57
+        },
+        {
+            "description": "disintermediate revolutionary e-business",
+            "index": "1",
+            "quantity": 7.54,
+            "total_price": 66.3,
+            "unit_price": 93.97
+        },
+        {
+            "description": "embrace distributed applications",
+            "index": "5",
+            "quantity": 2.92,
+            "total_price": 461.93,
+            "unit_price": 33.99
+        },
+        {
+            "description": "innovate cross-platform models",
+            "index": "9",
+            "quantity": 9.83,
+            "total_price": 663.27,
+            "unit_price": 62.6
+        },
+        {
+            "description": "syndicate scalable vortals",
+            "index": "2",
+            "quantity": 6.6,
+            "total_price": 948.04,
+            "unit_price": 25.88
+        },
+        {
+            "description": "repurpose world-class partnerships",
+            "index": "7",
+            "quantity": 1.14,
+            "total_price": 719.14,
+            "unit_price": 60.88
+        }
+    ],
+    "seller": {
+        "address": "USS Gonzalez FPO AP 69131",
+        "company_name": "Morris and Sons",
+        "vat_no": "Rz16014922209"
+    }
+}

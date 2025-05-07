@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "91072 Linda Islands South Vanessa, KS 56515",
+        "company_name": "Rodriguez, Curry and Ward",
+        "email": "michele09@example.com",
+        "name": "Linda Sharp",
+        "phone": "924-398-6707"
+    },
+    "invoice": {
+        "date": "28.08.2023",
+        "due_date": "06.11.2022",
+        "number": "ish64823109015"
+    },
+    "payment": {
+        "account_number": 2796134600,
+        "bank_name": "Gilbert-Campos",
+        "routing_number": 800100320
+    },
+    "products": [
+        {
+            "amount": 102.3,
+            "description": "transition cross-platform architectures",
+            "index": "8",
+            "quantity": 3.52,
+            "unit_price": 48.71
+        },
+        {
+            "amount": 116.19,
+            "description": "implement one-to-one portals",
+            "index": "3",
+            "quantity": 6.12,
+            "unit_price": 92.69
+        }
+    ],
+    "seller": {
+        "address": "USCGC Washington FPO AA 86745",
+        "company_name": "Schultz, Rogers and Gordon",
+        "email": "bbarton@example.com"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "774 Donald Greens Apt. 525 East Richard, FL 13940",
+        "business_no": "eQ049",
+        "id": "ns006"
+    },
+    "invoice": {
+        "date": "02.12.2014",
+        "number": "6599-0741"
+    },
+    "payment": {
+        "due_date": "13.10.2005",
+        "total": 455.05
+    },
+    "products": [
+        {
+            "amount": 13.41,
+            "description": "benchmark next-generation e-business",
+            "quantity": 2.94,
+            "reference": "DA-936",
+            "unit_price": 23.18
+        }
+    ],
+    "seller": {
+        "address": "3435 Perez Bridge Apt. 182 Gonzalezchester, MP 30015"
+    },
+    "tax": {
+        "base_ht": 143.23,
+        "regulations": 10.07,
+        "total_ht": 291.83,
+        "vat_amount": 109.33,
+        "vat_percentage": 24.54
+    }
+}

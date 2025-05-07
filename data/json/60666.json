@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "0509 Sara Ranch Louisstad, OH 75586",
+        "business_no": "rV986",
+        "id": "Hq720"
+    },
+    "invoice": {
+        "date": "09.04.1996",
+        "number": "5810-7252"
+    },
+    "payment": {
+        "due_date": "02.12.2010",
+        "total": 996.14
+    },
+    "products": [
+        {
+            "amount": 323.06,
+            "description": "morph rich systems",
+            "quantity": 6.23,
+            "reference": "IF-681",
+            "unit_price": 97.84
+        },
+        {
+            "amount": 174.25,
+            "description": "leverage value-added bandwidth",
+            "quantity": 4.67,
+            "reference": "mt-564",
+            "unit_price": 24.01
+        },
+        {
+            "amount": 303.55,
+            "description": "embrace 24/365 bandwidth",
+            "quantity": 2.65,
+            "reference": "nI-269",
+            "unit_price": 37.98
+        },
+        {
+            "amount": 329.85,
+            "description": "productize vertical relationships",
+            "quantity": 9.33,
+            "reference": "Vo-873",
+            "unit_price": 58.0
+        },
+        {
+            "amount": 320.84,
+            "description": "extend best-of-breed synergies",
+            "quantity": 3.34,
+            "reference": "Be-937",
+            "unit_price": 11.24
+        }
+    ],
+    "seller": {
+        "address": "7773 Rodriguez Forges Monicaborough, ID 93716"
+    },
+    "tax": {
+        "base_ht": 171.96,
+        "regulations": 18.35,
+        "total_ht": 197.96,
+        "vat_amount": 138.16,
+        "vat_percentage": 20.35
+    }
+}

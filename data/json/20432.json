@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "06858 Douglas Drive Apt. 169 Deannaberg, MO 27001",
+        "company_name": "Frye Group",
+        "email": "uscott@example.com",
+        "name": "William Williams",
+        "phone": "+1-888-838-2250x2398"
+    },
+    "invoice": {
+        "date": "27.12.2006",
+        "due_date": "29.08.2004",
+        "number": "NiU21197137736"
+    },
+    "payment": {
+        "account_number": 1448825168,
+        "bank_name": "Jones and Sons",
+        "routing_number": 328928855
+    },
+    "products": [
+        {
+            "amount": 122.9,
+            "description": "generate out-of-the-box eyeballs",
+            "index": "2",
+            "quantity": 4.15,
+            "unit_price": 10.38
+        },
+        {
+            "amount": 332.45,
+            "description": "synergize customized solutions",
+            "index": "8",
+            "quantity": 4.04,
+            "unit_price": 47.24
+        },
+        {
+            "amount": 28.55,
+            "description": "synthesize frictionless relationships",
+            "index": "10",
+            "quantity": 1.41,
+            "unit_price": 47.84
+        }
+    ],
+    "seller": {
+        "address": "8558 Conner Square Apt. 391 Hillberg, MA 93756",
+        "company_name": "Martinez Ltd",
+        "email": "jordanjohnson@example.net"
+    }
+}

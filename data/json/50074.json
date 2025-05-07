@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "711 Zoe Mountains Sarahhaven, WA 98257",
+        "id": "wp774"
+    },
+    "invoice": {
+        "bc_no": "AY51916",
+        "currency_code": "DOP",
+        "date": "24.12.1996",
+        "due_date": "22.01.2018",
+        "number": 204037
+    },
+    "payment": {
+        "bank_name": "Cruz, Hill and Harris",
+        "bic": "EAGDGB86AQN",
+        "iban": "QCXO10768254131256"
+    },
+    "products": [
+        {
+            "amount": 355.05,
+            "description": "drive efficient e-business",
+            "index": "9",
+            "price": 347.71,
+            "quantity": 2.82,
+            "tax_amount": 68.04,
+            "total_ttc": 302.79,
+            "vat_amount": 2.04
+        },
+        {
+            "amount": 238.09,
+            "description": "productize value-added info-mediaries",
+            "index": "2",
+            "price": 370.57,
+            "quantity": 4.22,
+            "tax_amount": 78.66,
+            "total_ttc": 318.8,
+            "vat_amount": 10.23
+        },
+        {
+            "amount": 16.19,
+            "description": "incentivize web-enabled convergence",
+            "index": "1",
+            "price": 35.37,
+            "quantity": 6.99,
+            "tax_amount": 17.77,
+            "total_ttc": 391.15,
+            "vat_amount": 8.4
+        },
+        {
+            "amount": 288.33,
+            "description": "repurpose back-end bandwidth",
+            "index": "5",
+            "price": 165.69,
+            "quantity": 8.97,
+            "tax_amount": 52.75,
+            "total_ttc": 455.9,
+            "vat_amount": 1.41
+        },
+        {
+            "amount": 264.17,
+            "description": "engineer wireless interfaces",
+            "index": "5",
+            "price": 83.41,
+            "quantity": 7.21,
+            "tax_amount": 63.12,
+            "total_ttc": 364.24,
+            "vat_amount": 1.05
+        },
+        {
+            "amount": 376.7,
+            "description": "transition mission-critical platforms",
+            "index": "6",
+            "price": 307.71,
+            "quantity": 6.05,
+            "tax_amount": 33.37,
+            "total_ttc": 492.02,
+            "vat_amount": 1.92
+        },
+        {
+            "amount": 404.52,
+            "description": "deploy 24/7 ROI",
+            "index": "6",
+            "price": 461.13,
+            "quantity": 2.32,
+            "tax_amount": 40.6,
+            "total_ttc": 477.25,
+            "vat_amount": 1.73
+        }
+    ],
+    "seller": {
+        "name": "Roger Anthony"
+    },
+    "supplier": {
+        "address": "59535 Denise Freeway Port Johnview, IL 08807",
+        "name": "Jamie Cardenas"
+    },
+    "tax": {
+        "amount_excluding_tax": 187.9,
+        "amount_including_tax": 66.17,
+        "tax_amount": 20.28,
+        "total_ht": 448.09,
+        "total_ttc": 264.38
+    }
+}

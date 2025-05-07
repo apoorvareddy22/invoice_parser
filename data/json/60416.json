@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "80977 Clinton Causeway Port Baileymouth, NH 43240",
+        "business_no": "In792",
+        "id": "np302"
+    },
+    "invoice": {
+        "date": "13.01.2007",
+        "number": "3104-3265"
+    },
+    "payment": {
+        "due_date": "09.06.2010",
+        "total": 994.62
+    },
+    "products": [
+        {
+            "amount": 36.39,
+            "description": "enable world-class infrastructures",
+            "quantity": 3.4,
+            "reference": "gp-179",
+            "unit_price": 12.44
+        },
+        {
+            "amount": 54.11,
+            "description": "scale efficient metrics",
+            "quantity": 9.29,
+            "reference": "gd-831",
+            "unit_price": 44.45
+        }
+    ],
+    "seller": {
+        "address": "07841 Monica Loop Suite 525 New Dannyton, AL 66357"
+    },
+    "tax": {
+        "base_ht": 286.47,
+        "regulations": 27.9,
+        "total_ht": 471.93,
+        "vat_amount": 198.36,
+        "vat_percentage": 21.34
+    }
+}

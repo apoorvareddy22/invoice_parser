@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "USCGC Greene FPO AP 01392",
+        "email": "ericksondennis@example.com",
+        "phone": "235-731-4311",
+        "vat_no": "nt11641198189"
+    },
+    "invoice": {
+        "date": "30.05.2018",
+        "due_date": "15.06.2005",
+        "market_reference": 182927,
+        "notes": "utilize real-time paradigms",
+        "number": "1737-5621",
+        "reference": 789608,
+        "vat_no": "So78143817336"
+    },
+    "payment": {
+        "net_total": 52.54,
+        "total": 670.46
+    },
+    "products": [
+        {
+            "amount": 422.45,
+            "description": "empower virtual experiences",
+            "hours": 9.66,
+            "rate": 3.92
+        },
+        {
+            "amount": 290.98,
+            "description": "utilize e-business e-services",
+            "hours": 5.06,
+            "rate": 4.35
+        },
+        {
+            "amount": 435.44,
+            "description": "harness extensible partnerships",
+            "hours": 5.02,
+            "rate": 2.32
+        },
+        {
+            "amount": 109.69,
+            "description": "synthesize clicks-and-mortar e-markets",
+            "hours": 5.83,
+            "rate": 5.01
+        }
+    ],
+    "seller": {
+        "address": "35662 Mccoy Keys South Caseystad, WV 43506",
+        "email": "davidrobinson@example.com",
+        "name": "Katherine Moran"
+    },
+    "tax": {
+        "base": 11.06,
+        "tax_amount": 11.89,
+        "total_tax": 11.57
+    }
+}

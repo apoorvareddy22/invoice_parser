@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "0128 Chad Valleys Gregorytown, LA 03182",
+        "business_no": "WO981",
+        "id": "Tu975"
+    },
+    "invoice": {
+        "date": "13.10.2001",
+        "number": "7270-3540"
+    },
+    "payment": {
+        "due_date": "29.02.2008",
+        "total": 119.17
+    },
+    "products": [
+        {
+            "amount": 123.63,
+            "description": "engineer visionary e-services",
+            "quantity": 6.05,
+            "reference": "AK-902",
+            "unit_price": 79.86
+        },
+        {
+            "amount": 364.24,
+            "description": "strategize killer functionalities",
+            "quantity": 8.47,
+            "reference": "UU-414",
+            "unit_price": 45.27
+        }
+    ],
+    "seller": {
+        "address": "033 Michael Plaza North Jeremy, WI 26140"
+    },
+    "tax": {
+        "base_ht": 471.68,
+        "regulations": 27.78,
+        "total_ht": 208.1,
+        "vat_amount": 168.29,
+        "vat_percentage": 17.73
+    }
+}

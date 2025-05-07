@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "PSC 4092, Box 7038 APO AA 37166",
+        "company_name": "Burns-Brown",
+        "email": "matthew12@example.org",
+        "name": "Alicia Stewart",
+        "phone": "+1-634-774-2455x695"
+    },
+    "invoice": {
+        "date": "15.11.2006",
+        "due_date": "29.05.1997",
+        "number": "JGy55087107888"
+    },
+    "payment": {
+        "account_number": 4390112766,
+        "bank_name": "Williams Inc",
+        "routing_number": 515592807
+    },
+    "products": [
+        {
+            "amount": 435.69,
+            "description": "target global infrastructures",
+            "index": "9",
+            "quantity": 9.94,
+            "unit_price": 25.6
+        },
+        {
+            "amount": 98.19,
+            "description": "mesh proactive portals",
+            "index": "7",
+            "quantity": 8.2,
+            "unit_price": 77.42
+        }
+    ],
+    "seller": {
+        "address": "129 Frank Hill Suite 757 New Mary, SD 14424",
+        "company_name": "Gray Group",
+        "email": "brownkristen@example.org"
+    }
+}

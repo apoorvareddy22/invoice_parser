@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "16335 Matthew Extension North Derek, AK 44621",
+        "email": "steven49@example.net",
+        "phone": "4543126848",
+        "vat_no": "lN84873075674"
+    },
+    "invoice": {
+        "date": "22.09.1999",
+        "due_date": "13.05.1990",
+        "market_reference": 499783,
+        "notes": "monetize dynamic ROI",
+        "number": "2572-4913",
+        "reference": 827595,
+        "vat_no": "se27244346896"
+    },
+    "payment": {
+        "net_total": 104.27,
+        "total": 864.4
+    },
+    "products": [
+        {
+            "amount": 122.8,
+            "description": "deploy cutting-edge info-mediaries",
+            "hours": 7.19,
+            "rate": 4.89
+        },
+        {
+            "amount": 195.44,
+            "description": "brand out-of-the-box eyeballs",
+            "hours": 1.9,
+            "rate": 1.24
+        },
+        {
+            "amount": 499.53,
+            "description": "incentivize open-source models",
+            "hours": 7.99,
+            "rate": 9.18
+        },
+        {
+            "amount": 261.54,
+            "description": "benchmark efficient models",
+            "hours": 2.76,
+            "rate": 3.18
+        }
+    ],
+    "seller": {
+        "address": "530 King Drive Suite 385 Lake Jasmine, IA 02911",
+        "email": "adamsamy@example.org",
+        "name": "William Henderson"
+    },
+    "tax": {
+        "base": 26.33,
+        "tax_amount": 18.79,
+        "total_tax": 13.65
+    }
+}

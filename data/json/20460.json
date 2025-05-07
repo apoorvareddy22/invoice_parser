@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "7175 William View Taylorstad, CA 72471",
+        "company_name": "Williams Group",
+        "email": "atkinsonyvonne@example.org",
+        "name": "Daniel Cortez",
+        "phone": "749.382.0342"
+    },
+    "invoice": {
+        "date": "19.05.1999",
+        "due_date": "12.03.1992",
+        "number": "TUe14379570403"
+    },
+    "payment": {
+        "account_number": 8121238117,
+        "bank_name": "Johnson, Butler and Combs",
+        "routing_number": 682293486
+    },
+    "products": [
+        {
+            "amount": 202.72,
+            "description": "embrace back-end e-commerce",
+            "index": "5",
+            "quantity": 9.16,
+            "unit_price": 43.04
+        }
+    ],
+    "seller": {
+        "address": "PSC 0174, Box 2361 APO AE 18524",
+        "company_name": "Chambers-Griffin",
+        "email": "bradleyleah@example.net"
+    }
+}

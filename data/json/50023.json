@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "0211 Peters Pike Morganberg, MD 02561",
+        "id": "Ib491"
+    },
+    "invoice": {
+        "bc_no": "RD05073",
+        "currency_code": "XOF",
+        "date": "02.07.2000",
+        "due_date": "15.03.1990",
+        "number": 234596
+    },
+    "payment": {
+        "bank_name": "Moody, Lopez and Ellis",
+        "bic": "BMRHGBWR",
+        "iban": "FMEH49354896254865"
+    },
+    "products": [
+        {
+            "amount": 420.03,
+            "description": "matrix one-to-one metrics",
+            "index": "7",
+            "price": 373.34,
+            "quantity": 6.15,
+            "tax_amount": 62.35,
+            "total_ttc": 179.63,
+            "vat_amount": 1.9
+        },
+        {
+            "amount": 210.43,
+            "description": "benchmark cutting-edge vortals",
+            "index": "1",
+            "price": 340.16,
+            "quantity": 5.64,
+            "tax_amount": 40.87,
+            "total_ttc": 171.99,
+            "vat_amount": 5.48
+        },
+        {
+            "amount": 448.2,
+            "description": "cultivate web-enabled platforms",
+            "index": "1",
+            "price": 364.88,
+            "quantity": 6.32,
+            "tax_amount": 21.75,
+            "total_ttc": 222.29,
+            "vat_amount": 0.74
+        },
+        {
+            "amount": 71.74,
+            "description": "harness synergistic infrastructures",
+            "index": "2",
+            "price": 91.66,
+            "quantity": 1.83,
+            "tax_amount": 56.54,
+            "total_ttc": 190.33,
+            "vat_amount": 3.69
+        },
+        {
+            "amount": 337.53,
+            "description": "revolutionize integrated systems",
+            "index": "8",
+            "price": 60.81,
+            "quantity": 7.48,
+            "tax_amount": 54.14,
+            "total_ttc": 148.59,
+            "vat_amount": 2.74
+        }
+    ],
+    "seller": {
+        "name": "Sheri Steele"
+    },
+    "supplier": {
+        "address": "530 Acosta Expressway North Carlchester, NM 59706",
+        "name": "Jordan Tran"
+    },
+    "tax": {
+        "amount_excluding_tax": 153.83,
+        "amount_including_tax": 170.54,
+        "tax_amount": 13.26,
+        "total_ht": 374.01,
+        "total_ttc": 168.61
+    }
+}

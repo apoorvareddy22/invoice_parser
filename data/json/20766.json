@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "PSC 4584, Box 6121 APO AP 27857",
+        "company_name": "Brown, Kim and Hunter",
+        "email": "jaredbrown@example.com",
+        "name": "Eric Graham",
+        "phone": "(517)337-2727x8754"
+    },
+    "invoice": {
+        "date": "26.04.2001",
+        "due_date": "26.12.2008",
+        "number": "luA26545572881"
+    },
+    "payment": {
+        "account_number": 9369145935,
+        "bank_name": "Chapman, Anderson and Johnson",
+        "routing_number": 177813821
+    },
+    "products": [
+        {
+            "amount": 43.96,
+            "description": "target real-time web services",
+            "index": "1",
+            "quantity": 7.93,
+            "unit_price": 94.68
+        },
+        {
+            "amount": 461.49,
+            "description": "streamline intuitive e-services",
+            "index": "10",
+            "quantity": 9.18,
+            "unit_price": 48.93
+        },
+        {
+            "amount": 353.18,
+            "description": "architect user-centric info-mediaries",
+            "index": "2",
+            "quantity": 7.12,
+            "unit_price": 68.54
+        }
+    ],
+    "seller": {
+        "address": "759 Neal Mission Apt. 899 Port Sabrinahaven, PA 04879",
+        "company_name": "White, Clark and Rosales",
+        "email": "georgelara@example.com"
+    }
+}

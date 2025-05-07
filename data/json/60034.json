@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "62788 Schroeder Ville Apt. 147 Lopezburgh, KY 89549",
+        "business_no": "tP796",
+        "id": "kW991"
+    },
+    "invoice": {
+        "date": "01.09.2023",
+        "number": "6844-8777"
+    },
+    "payment": {
+        "due_date": "10.02.2012",
+        "total": 913.39
+    },
+    "products": [
+        {
+            "amount": 462.65,
+            "description": "embrace value-added functionalities",
+            "quantity": 3.61,
+            "reference": "FA-148",
+            "unit_price": 52.6
+        },
+        {
+            "amount": 352.42,
+            "description": "transition 24/365 schemas",
+            "quantity": 6.73,
+            "reference": "ww-127",
+            "unit_price": 19.3
+        },
+        {
+            "amount": 142.54,
+            "description": "incentivize plug-and-play communities",
+            "quantity": 8.55,
+            "reference": "Hb-956",
+            "unit_price": 81.4
+        }
+    ],
+    "seller": {
+        "address": "7899 Baker Place East Christophertown, MO 60948"
+    },
+    "tax": {
+        "base_ht": 251.81,
+        "regulations": 24.1,
+        "total_ht": 416.13,
+        "vat_amount": 19.82,
+        "vat_percentage": 10.67
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "98982 Hoover Freeway North Brittany, AL 71884",
+        "business_no": "Vr287",
+        "id": "wi763"
+    },
+    "invoice": {
+        "date": "07.10.2018",
+        "number": "8690-8795"
+    },
+    "payment": {
+        "due_date": "12.06.2000",
+        "total": 423.19
+    },
+    "products": [
+        {
+            "amount": 56.05,
+            "description": "aggregate holistic paradigms",
+            "quantity": 9.42,
+            "reference": "Zr-008",
+            "unit_price": 46.25
+        }
+    ],
+    "seller": {
+        "address": "330 Wilson Road Suite 175 Nicholasport, MD 87810"
+    },
+    "tax": {
+        "base_ht": 288.93,
+        "regulations": 10.52,
+        "total_ht": 160.45,
+        "vat_amount": 136.84,
+        "vat_percentage": 22.95
+    }
+}

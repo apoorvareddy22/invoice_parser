@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "PSC 7974, Box 9746 APO AE 01495",
+        "company_name": "Smith-Fletcher",
+        "email": "mendozacody@example.org",
+        "name": "Alan Terry",
+        "phone": "410.861.2082x5962"
+    },
+    "invoice": {
+        "date": "07.11.2008",
+        "due_date": "01.02.2010",
+        "number": "MBv73985377476"
+    },
+    "payment": {
+        "account_number": 1839288793,
+        "bank_name": "Cobb-Frazier",
+        "routing_number": 439062127
+    },
+    "products": [
+        {
+            "amount": 185.8,
+            "description": "unleash granular communities",
+            "index": "10",
+            "quantity": 7.91,
+            "unit_price": 65.96
+        },
+        {
+            "amount": 211.14,
+            "description": "disintermediate rich applications",
+            "index": "6",
+            "quantity": 8.38,
+            "unit_price": 21.93
+        },
+        {
+            "amount": 264.7,
+            "description": "mesh frictionless partnerships",
+            "index": "8",
+            "quantity": 3.92,
+            "unit_price": 71.53
+        },
+        {
+            "amount": 20.33,
+            "description": "facilitate dynamic experiences",
+            "index": "9",
+            "quantity": 2.91,
+            "unit_price": 90.45
+        }
+    ],
+    "seller": {
+        "address": "29240 Jared Shoal Tiffanychester, NH 17390",
+        "company_name": "Baldwin-Munoz",
+        "email": "kennethphillips@example.com"
+    }
+}

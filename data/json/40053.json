@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "717 Nixon Groves Apt. 803 West Nancy, MD 52851"
+    },
+    "invoice": {
+        "bc_no": "mg09666",
+        "date": "10.02.2011",
+        "maturity_date": "14.04.2013",
+        "number": 118314
+    },
+    "products": [
+        {
+            "amount": 125.64,
+            "description": "embrace innovative bandwidth",
+            "quantity": 8.72,
+            "unit_price": 39.98,
+            "vat_amount": 6.69
+        },
+        {
+            "amount": 273.88,
+            "description": "re-contextualize rich e-commerce",
+            "quantity": 9.13,
+            "unit_price": 16.31,
+            "vat_amount": 3.85
+        }
+    ],
+    "seller": {
+        "address": "0483 Dunlap Mission Port Waynefort, ID 05549"
+    },
+    "tax": {
+        "amount_excluding_tax": 138.75,
+        "amount_including_tax": 150.93,
+        "tax_amount": 14.56
+    }
+}

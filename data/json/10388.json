@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "43193 Jessica Roads Apt. 700 North Dustin, SC 85801",
+        "email": "haroldryan@example.org",
+        "phone": "(556)670-5456",
+        "vat_no": "wv07880618627"
+    },
+    "invoice": {
+        "date": "22.02.2021",
+        "due_date": "16.11.2000",
+        "market_reference": 576239,
+        "notes": "aggregate 24/7 experiences",
+        "number": "0976-1291",
+        "reference": 938619,
+        "vat_no": "Lm05574092241"
+    },
+    "payment": {
+        "net_total": 120.73,
+        "total": 878.56
+    },
+    "products": [
+        {
+            "amount": 39.05,
+            "description": "iterate 24/7 initiatives",
+            "hours": 4.9,
+            "rate": 8.15
+        },
+        {
+            "amount": 425.74,
+            "description": "integrate value-added ROI",
+            "hours": 8.65,
+            "rate": 1.73
+        },
+        {
+            "amount": 138.46,
+            "description": "iterate cutting-edge eyeballs",
+            "hours": 1.19,
+            "rate": 9.75
+        },
+        {
+            "amount": 443.11,
+            "description": "innovate robust action-items",
+            "hours": 5.92,
+            "rate": 1.39
+        },
+        {
+            "amount": 261.05,
+            "description": "extend end-to-end deliverables",
+            "hours": 5.11,
+            "rate": 8.97
+        },
+        {
+            "amount": 108.62,
+            "description": "evolve end-to-end convergence",
+            "hours": 5.79,
+            "rate": 8.33
+        },
+        {
+            "amount": 20.37,
+            "description": "reinvent compelling partnerships",
+            "hours": 6.12,
+            "rate": 4.93
+        }
+    ],
+    "seller": {
+        "address": "7540 Patrick Unions Apt. 546 North Angelamouth, ND 28549",
+        "email": "andrew56@example.org",
+        "name": "Caitlin Bradley"
+    },
+    "tax": {
+        "base": 22.15,
+        "tax_amount": 28.62,
+        "total_tax": 15.59
+    }
+}

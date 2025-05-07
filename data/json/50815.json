@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "USNS Kim FPO AP 79176",
+        "id": "xO434"
+    },
+    "invoice": {
+        "bc_no": "tz85509",
+        "currency_code": "AZN",
+        "date": "09.03.2016",
+        "due_date": "03.08.2006",
+        "number": 545785
+    },
+    "payment": {
+        "bank_name": "Chapman, Clarke and Johnson",
+        "bic": "KAYHGBSX",
+        "iban": "ASRB64803152024372"
+    },
+    "products": [
+        {
+            "amount": 301.74,
+            "description": "engage cross-platform supply-chains",
+            "index": "6",
+            "price": 310.93,
+            "quantity": 1.73,
+            "tax_amount": 98.7,
+            "total_ttc": 396.42,
+            "vat_amount": 9.58
+        },
+        {
+            "amount": 267.04,
+            "description": "redefine value-added bandwidth",
+            "index": "8",
+            "price": 208.99,
+            "quantity": 9.0,
+            "tax_amount": 69.31,
+            "total_ttc": 430.14,
+            "vat_amount": 8.1
+        },
+        {
+            "amount": 427.55,
+            "description": "matrix turn-key infrastructures",
+            "index": "7",
+            "price": 100.08,
+            "quantity": 3.3,
+            "tax_amount": 34.46,
+            "total_ttc": 228.45,
+            "vat_amount": 12.32
+        },
+        {
+            "amount": 89.58,
+            "description": "disintermediate turn-key vortals",
+            "index": "3",
+            "price": 163.83,
+            "quantity": 4.15,
+            "tax_amount": 61.76,
+            "total_ttc": 110.45,
+            "vat_amount": 14.74
+        },
+        {
+            "amount": 281.04,
+            "description": "aggregate impactful e-tailers",
+            "index": "3",
+            "price": 363.36,
+            "quantity": 7.75,
+            "tax_amount": 46.12,
+            "total_ttc": 439.16,
+            "vat_amount": 3.39
+        }
+    ],
+    "seller": {
+        "name": "Cristina Davies"
+    },
+    "supplier": {
+        "address": "884 Victoria Field Suite 721 South Monicaview, FL 05815",
+        "name": "Lisa Serrano"
+    },
+    "tax": {
+        "amount_excluding_tax": 67.34,
+        "amount_including_tax": 156.73,
+        "tax_amount": 19.29,
+        "total_ht": 319.03,
+        "total_ttc": 222.27
+    }
+}

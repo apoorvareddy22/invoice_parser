@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "58640 Melissa Underpass Apt. 425 Sanchezport, NV 03074",
+        "email": "sgarcia@example.org",
+        "phone": "001-235-359-9016",
+        "vat_no": "ai63755087299"
+    },
+    "invoice": {
+        "date": "04.04.2019",
+        "due_date": "19.05.2015",
+        "market_reference": 600945,
+        "notes": "embrace compelling initiatives",
+        "number": "8309-7338",
+        "reference": 344243,
+        "vat_no": "CJ23913394429"
+    },
+    "payment": {
+        "net_total": 107.47,
+        "total": 965.5
+    },
+    "products": [
+        {
+            "amount": 74.49,
+            "description": "optimize value-added systems",
+            "hours": 1.36,
+            "rate": 6.34
+        },
+        {
+            "amount": 442.44,
+            "description": "extend revolutionary action-items",
+            "hours": 8.87,
+            "rate": 4.42
+        }
+    ],
+    "seller": {
+        "address": "70062 Gonzalez Track Apt. 940 Russohaven, OH 66131",
+        "email": "benjamin05@example.com",
+        "name": "Michelle Mendoza"
+    },
+    "tax": {
+        "base": 13.69,
+        "tax_amount": 24.99,
+        "total_tax": 24.5
+    }
+}

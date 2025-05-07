@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "9484 Goodwin Trace Apt. 629 New Stephaniemouth, MS 63042",
+        "id": "zL887"
+    },
+    "invoice": {
+        "bc_no": "eq45942",
+        "currency_code": "IQD",
+        "date": "31.10.1995",
+        "due_date": "09.11.2002",
+        "number": 783167
+    },
+    "payment": {
+        "bank_name": "Smith Inc",
+        "bic": "QAVIGBQ7",
+        "iban": "EZNZ58240906402676"
+    },
+    "products": [
+        {
+            "amount": 499.57,
+            "description": "aggregate mission-critical bandwidth",
+            "index": "8",
+            "price": 95.82,
+            "quantity": 3.43,
+            "tax_amount": 40.12,
+            "total_ttc": 481.86,
+            "vat_amount": 5.66
+        },
+        {
+            "amount": 89.19,
+            "description": "iterate user-centric systems",
+            "index": "8",
+            "price": 175.07,
+            "quantity": 2.61,
+            "tax_amount": 51.37,
+            "total_ttc": 416.13,
+            "vat_amount": 0.93
+        },
+        {
+            "amount": 21.99,
+            "description": "scale extensible solutions",
+            "index": "1",
+            "price": 95.96,
+            "quantity": 2.22,
+            "tax_amount": 14.34,
+            "total_ttc": 425.36,
+            "vat_amount": 1.11
+        }
+    ],
+    "seller": {
+        "name": "Richard Smith"
+    },
+    "supplier": {
+        "address": "5509 Joshua Ridge Williamview, NH 99081",
+        "name": "Michael Pineda"
+    },
+    "tax": {
+        "amount_excluding_tax": 41.27,
+        "amount_including_tax": 68.04,
+        "tax_amount": 14.55,
+        "total_ht": 173.63,
+        "total_ttc": 209.84
+    }
+}

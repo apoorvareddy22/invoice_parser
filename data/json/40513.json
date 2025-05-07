@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "689 Grant Rapids Garciaburgh, ND 42350"
+    },
+    "invoice": {
+        "bc_no": "Cx32810",
+        "date": "17.03.1991",
+        "maturity_date": "14.12.1996",
+        "number": 540538
+    },
+    "products": [
+        {
+            "amount": 368.42,
+            "description": "integrate bricks-and-clicks solutions",
+            "quantity": 2.23,
+            "unit_price": 68.65,
+            "vat_amount": 0.41
+        }
+    ],
+    "seller": {
+        "address": "921 Campbell Tunnel South Taylorton, RI 96943"
+    },
+    "tax": {
+        "amount_excluding_tax": 45.9,
+        "amount_including_tax": 117.92,
+        "tax_amount": 19.85
+    }
+}

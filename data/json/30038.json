@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "PSC 8972, Box 5046 APO AA 68424",
+        "company_name": "Coleman Ltd",
+        "country": "United States of America",
+        "email": "cheyenne68@example.org",
+        "name": "Mrs. Elizabeth Montgomery",
+        "phone": "3444438482",
+        "vat_no": "FL62531379397"
+    },
+    "invoice": {
+        "date": "28.12.2002",
+        "due_date": "04.12.1997",
+        "linked_invoice": "rb-9894-2211",
+        "notes": "exploit strategic markets",
+        "number": "tr-2953-3654"
+    },
+    "products": [
+        {
+            "description": "repurpose one-to-one e-business",
+            "discount_percentage": 11.41,
+            "price": 368.39,
+            "quantity": 5.86,
+            "unit_price": 20.01
+        },
+        {
+            "description": "integrate innovative initiatives",
+            "discount_percentage": 9.17,
+            "price": 61.04,
+            "quantity": 2.11,
+            "unit_price": 48.03
+        },
+        {
+            "description": "maximize rich channels",
+            "discount_percentage": 13.17,
+            "price": 451.99,
+            "quantity": 7.04,
+            "unit_price": 24.59
+        },
+        {
+            "description": "evolve wireless supply-chains",
+            "discount_percentage": 18.33,
+            "price": 258.75,
+            "quantity": 6.74,
+            "unit_price": 67.43
+        }
+    ],
+    "seller": {
+        "address": "72761 Maria Tunnel Osbornestad, ND 62748",
+        "ape": "6391d",
+        "capital": 38304018,
+        "country": "Nicaragua",
+        "email": "ebrooks@example.org",
+        "name": "Michael Young",
+        "phone_1": "(435)340-0742",
+        "phone_2": "+1-337-932-5721",
+        "phone_3": "495.897.5638x166",
+        "ref_walk": "lcMQ0979",
+        "reference": "gs047",
+        "siret": 20960101756200,
+        "vat_no": "fU27139497938",
+        "website": "https://glass.com/"
+    },
+    "tax": {
+        "amount_0": 28.12,
+        "amount_1": 18.38,
+        "base_0": 21.99,
+        "base_1": 119.12,
+        "total_ht": 226.97,
+        "total_tax": 14.46,
+        "total_ttc": 499.73,
+        "vat_0": 24.42,
+        "vat_1": 17.2
+    }
+}

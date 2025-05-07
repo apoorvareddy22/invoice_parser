@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "1807 Jimenez Extension Apt. 107 Davidmouth, NE 18519",
+        "email": "warecarl@example.org",
+        "phone": "9436837501",
+        "vat_no": "ve16064572359"
+    },
+    "invoice": {
+        "date": "12.09.2016",
+        "due_date": "02.06.2012",
+        "market_reference": 609355,
+        "notes": "engineer best-of-breed action-items",
+        "number": "4030-8748",
+        "reference": 405881,
+        "vat_no": "TL89663342704"
+    },
+    "payment": {
+        "net_total": 114.21,
+        "total": 231.19
+    },
+    "products": [
+        {
+            "amount": 84.36,
+            "description": "synergize collaborative relationships",
+            "hours": 9.03,
+            "rate": 4.14
+        },
+        {
+            "amount": 329.92,
+            "description": "repurpose back-end metrics",
+            "hours": 8.63,
+            "rate": 7.11
+        },
+        {
+            "amount": 258.49,
+            "description": "synthesize interactive synergies",
+            "hours": 9.32,
+            "rate": 4.02
+        },
+        {
+            "amount": 31.93,
+            "description": "empower end-to-end solutions",
+            "hours": 6.12,
+            "rate": 8.42
+        },
+        {
+            "amount": 255.46,
+            "description": "expedite user-centric relationships",
+            "hours": 8.45,
+            "rate": 1.2
+        }
+    ],
+    "seller": {
+        "address": "418 James Groves Suite 116 Diamondtown, OK 93555",
+        "email": "qshea@example.org",
+        "name": "Stephen Watson"
+    },
+    "tax": {
+        "base": 28.21,
+        "tax_amount": 28.72,
+        "total_tax": 16.96
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "7029 Smith Burgs West Laura, MO 64511"
+    },
+    "invoice": {
+        "bc_no": "Md39253",
+        "date": "25.12.2007",
+        "maturity_date": "24.01.2004",
+        "number": 204957
+    },
+    "products": [
+        {
+            "amount": 310.97,
+            "description": "reinvent customized action-items",
+            "quantity": 3.44,
+            "unit_price": 55.6,
+            "vat_amount": 6.73
+        },
+        {
+            "amount": 193.64,
+            "description": "enhance granular partnerships",
+            "quantity": 5.14,
+            "unit_price": 63.86,
+            "vat_amount": 3.64
+        },
+        {
+            "amount": 450.35,
+            "description": "enhance cross-platform content",
+            "quantity": 4.18,
+            "unit_price": 63.49,
+            "vat_amount": 6.84
+        },
+        {
+            "amount": 152.65,
+            "description": "re-intermediate synergistic portals",
+            "quantity": 7.86,
+            "unit_price": 41.23,
+            "vat_amount": 6.97
+        }
+    ],
+    "seller": {
+        "address": "1142 Mary Stream Victorville, ME 69589"
+    },
+    "tax": {
+        "amount_excluding_tax": 50.03,
+        "amount_including_tax": 28.6,
+        "tax_amount": 12.51
+    }
+}

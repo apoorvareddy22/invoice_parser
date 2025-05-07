@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "0876 Taylor Loop Leeland, AR 01379",
+        "company_name": "Carter LLC",
+        "country": "Puerto Rico",
+        "name": "Dominic Cook"
+    },
+    "invoice": {
+        "date": "20.03.2021",
+        "number": 494952
+    },
+    "payment": {
+        "discount_amount": 11.12,
+        "discount_percentage": 19.28,
+        "due": 110.7,
+        "sub_total": 189.71,
+        "total": 512.11
+    },
+    "products": [
+        {
+            "description": "benchmark scalable e-markets",
+            "index": "9",
+            "quantity": 2.8,
+            "total_price": 909.15,
+            "unit_price": 36.44
+        },
+        {
+            "description": "visualize cutting-edge mindshare",
+            "index": "9",
+            "quantity": 1.54,
+            "total_price": 227.16,
+            "unit_price": 71.06
+        },
+        {
+            "description": "empower leading-edge ROI",
+            "index": "5",
+            "quantity": 5.64,
+            "total_price": 470.67,
+            "unit_price": 62.03
+        },
+        {
+            "description": "strategize bleeding-edge metrics",
+            "index": "8",
+            "quantity": 8.45,
+            "total_price": 848.09,
+            "unit_price": 23.92
+        }
+    ],
+    "seller": {
+        "address": "465 Ingram Locks Apt. 151 North Michaelchester, NY 03915",
+        "company_name": "Espinoza-Braun",
+        "vat_no": "ES74904519189"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "4578 Richard Streets Suite 153 New Timothy, MS 21229",
+        "email": "andrew90@example.net",
+        "phone": "575-928-0013x16685",
+        "vat_no": "LM61017303558"
+    },
+    "invoice": {
+        "date": "10.07.2007",
+        "due_date": "28.04.2006",
+        "market_reference": 861039,
+        "notes": "synergize best-of-breed experiences",
+        "number": "3112-1163",
+        "reference": 648459,
+        "vat_no": "Fj95838795305"
+    },
+    "payment": {
+        "net_total": 101.31,
+        "total": 817.2
+    },
+    "products": [
+        {
+            "amount": 403.63,
+            "description": "architect interactive networks",
+            "hours": 5.68,
+            "rate": 4.74
+        },
+        {
+            "amount": 34.97,
+            "description": "embrace e-business markets",
+            "hours": 4.94,
+            "rate": 2.24
+        },
+        {
+            "amount": 224.21,
+            "description": "generate B2B functionalities",
+            "hours": 3.85,
+            "rate": 6.63
+        },
+        {
+            "amount": 315.01,
+            "description": "re-intermediate impactful web services",
+            "hours": 1.95,
+            "rate": 7.79
+        },
+        {
+            "amount": 454.89,
+            "description": "architect killer action-items",
+            "hours": 5.35,
+            "rate": 9.99
+        },
+        {
+            "amount": 230.11,
+            "description": "syndicate customized e-tailers",
+            "hours": 5.8,
+            "rate": 6.98
+        },
+        {
+            "amount": 414.29,
+            "description": "iterate e-business e-markets",
+            "hours": 5.42,
+            "rate": 3.8
+        }
+    ],
+    "seller": {
+        "address": "800 Martin Bridge East Aaron, NE 03417",
+        "email": "russochristopher@example.org",
+        "name": "Victoria Stafford"
+    },
+    "tax": {
+        "base": 21.57,
+        "tax_amount": 24.61,
+        "total_tax": 18.59
+    }
+}

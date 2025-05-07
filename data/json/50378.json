@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "170 Debra Mills West Robert, IA 58191",
+        "id": "XQ319"
+    },
+    "invoice": {
+        "bc_no": "PU56898",
+        "currency_code": "TJS",
+        "date": "05.05.2005",
+        "due_date": "18.02.1995",
+        "number": 587840
+    },
+    "payment": {
+        "bank_name": "Johnson-Shah",
+        "bic": "KNVFGBVA52Q",
+        "iban": "RBUT28348353816979"
+    },
+    "products": [
+        {
+            "amount": 24.54,
+            "description": "redefine revolutionary metrics",
+            "index": "10",
+            "price": 226.73,
+            "quantity": 2.48,
+            "tax_amount": 26.03,
+            "total_ttc": 407.06,
+            "vat_amount": 7.01
+        },
+        {
+            "amount": 56.98,
+            "description": "revolutionize wireless web-readiness",
+            "index": "7",
+            "price": 417.99,
+            "quantity": 1.11,
+            "tax_amount": 17.19,
+            "total_ttc": 346.62,
+            "vat_amount": 13.82
+        },
+        {
+            "amount": 277.79,
+            "description": "monetize efficient systems",
+            "index": "8",
+            "price": 202.57,
+            "quantity": 8.22,
+            "tax_amount": 38.04,
+            "total_ttc": 303.86,
+            "vat_amount": 10.08
+        },
+        {
+            "amount": 11.78,
+            "description": "architect granular models",
+            "index": "4",
+            "price": 324.34,
+            "quantity": 9.24,
+            "tax_amount": 32.48,
+            "total_ttc": 475.06,
+            "vat_amount": 0.66
+        }
+    ],
+    "seller": {
+        "name": "Regina Johnson"
+    },
+    "supplier": {
+        "address": "91807 Laura Ridges Erikastad, NV 87019",
+        "name": "Marisa Jacobson"
+    },
+    "tax": {
+        "amount_excluding_tax": 153.15,
+        "amount_including_tax": 86.98,
+        "tax_amount": 23.53,
+        "total_ht": 275.76,
+        "total_ttc": 112.19
+    }
+}

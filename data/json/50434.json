@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "329 Ronald Crossing Suite 209 Jacobschester, PA 22751",
+        "id": "bz317"
+    },
+    "invoice": {
+        "bc_no": "ik25953",
+        "currency_code": "BHD",
+        "date": "19.12.2001",
+        "due_date": "13.04.2018",
+        "number": 832758
+    },
+    "payment": {
+        "bank_name": "Kline-Farley",
+        "bic": "XHNGGBVRXZ1",
+        "iban": "KWPN17339527946271"
+    },
+    "products": [
+        {
+            "amount": 266.85,
+            "description": "unleash open-source convergence",
+            "index": "7",
+            "price": 179.95,
+            "quantity": 7.84,
+            "tax_amount": 20.35,
+            "total_ttc": 354.43,
+            "vat_amount": 3.68
+        },
+        {
+            "amount": 429.87,
+            "description": "repurpose global synergies",
+            "index": "10",
+            "price": 88.7,
+            "quantity": 6.45,
+            "tax_amount": 98.19,
+            "total_ttc": 165.36,
+            "vat_amount": 0.56
+        },
+        {
+            "amount": 169.02,
+            "description": "maximize interactive e-commerce",
+            "index": "4",
+            "price": 150.11,
+            "quantity": 2.95,
+            "tax_amount": 39.0,
+            "total_ttc": 349.26,
+            "vat_amount": 14.23
+        },
+        {
+            "amount": 371.19,
+            "description": "re-intermediate dynamic methodologies",
+            "index": "8",
+            "price": 411.81,
+            "quantity": 1.65,
+            "tax_amount": 11.85,
+            "total_ttc": 396.13,
+            "vat_amount": 2.0
+        },
+        {
+            "amount": 121.28,
+            "description": "incentivize rich portals",
+            "index": "4",
+            "price": 85.25,
+            "quantity": 4.54,
+            "tax_amount": 44.25,
+            "total_ttc": 449.19,
+            "vat_amount": 10.63
+        }
+    ],
+    "seller": {
+        "name": "Danielle King"
+    },
+    "supplier": {
+        "address": "16337 Jones Motorway Apt. 888 West Mary, IN 85315",
+        "name": "Cristian Parsons"
+    },
+    "tax": {
+        "amount_excluding_tax": 15.11,
+        "amount_including_tax": 186.88,
+        "tax_amount": 10.76,
+        "total_ht": 372.54,
+        "total_ttc": 117.79
+    }
+}

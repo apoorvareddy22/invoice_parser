@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "Unit 2669 Box 0389 DPO AE 17925"
+    },
+    "invoice": {
+        "bc_no": "yA06860",
+        "date": "09.06.2020",
+        "maturity_date": "15.10.2011",
+        "number": 857247
+    },
+    "products": [
+        {
+            "amount": 64.96,
+            "description": "visualize cross-media ROI",
+            "quantity": 1.77,
+            "unit_price": 81.21,
+            "vat_amount": 2.21
+        },
+        {
+            "amount": 60.41,
+            "description": "envisioneer scalable e-business",
+            "quantity": 6.1,
+            "unit_price": 33.09,
+            "vat_amount": 1.04
+        },
+        {
+            "amount": 407.05,
+            "description": "iterate collaborative applications",
+            "quantity": 1.26,
+            "unit_price": 31.29,
+            "vat_amount": 1.64
+        },
+        {
+            "amount": 446.92,
+            "description": "orchestrate vertical e-business",
+            "quantity": 3.8,
+            "unit_price": 66.47,
+            "vat_amount": 1.38
+        },
+        {
+            "amount": 358.48,
+            "description": "implement dynamic web services",
+            "quantity": 7.53,
+            "unit_price": 94.27,
+            "vat_amount": 3.78
+        }
+    ],
+    "seller": {
+        "address": "037 Lisa Via North Johnview, AL 45177"
+    },
+    "tax": {
+        "amount_excluding_tax": 106.68,
+        "amount_including_tax": 36.24,
+        "tax_amount": 16.8
+    }
+}

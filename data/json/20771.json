@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "40952 Karen Plaza Suite 900 Lake Ryan, OH 53304",
+        "company_name": "Martin, Adams and Conner",
+        "email": "emily98@example.org",
+        "name": "Juan Martinez",
+        "phone": "289-761-4604"
+    },
+    "invoice": {
+        "date": "18.09.2014",
+        "due_date": "23.12.2023",
+        "number": "ivn23144299599"
+    },
+    "payment": {
+        "account_number": 1458556136,
+        "bank_name": "Cummings, Day and Smith",
+        "routing_number": 400016214
+    },
+    "products": [
+        {
+            "amount": 196.98,
+            "description": "visualize dynamic e-services",
+            "index": "4",
+            "quantity": 6.65,
+            "unit_price": 13.53
+        },
+        {
+            "amount": 379.51,
+            "description": "integrate value-added markets",
+            "index": "4",
+            "quantity": 3.54,
+            "unit_price": 32.45
+        }
+    ],
+    "seller": {
+        "address": "276 Kristy Stravenue Allenmouth, NE 65312",
+        "company_name": "Davis Ltd",
+        "email": "vmoody@example.org"
+    }
+}

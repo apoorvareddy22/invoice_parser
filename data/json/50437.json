@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "594 Timothy Run Briannamouth, HI 16919",
+        "id": "qe077"
+    },
+    "invoice": {
+        "bc_no": "Gz77409",
+        "currency_code": "MOP",
+        "date": "10.05.2012",
+        "due_date": "20.07.2000",
+        "number": 579761
+    },
+    "payment": {
+        "bank_name": "Floyd-Campos",
+        "bic": "XOKDGBK6Q6O",
+        "iban": "IDVE18229916112337"
+    },
+    "products": [
+        {
+            "amount": 72.9,
+            "description": "transition extensible applications",
+            "index": "6",
+            "price": 384.4,
+            "quantity": 10.0,
+            "tax_amount": 40.48,
+            "total_ttc": 422.61,
+            "vat_amount": 3.41
+        },
+        {
+            "amount": 357.45,
+            "description": "brand B2C functionalities",
+            "index": "10",
+            "price": 371.34,
+            "quantity": 9.59,
+            "tax_amount": 10.1,
+            "total_ttc": 293.7,
+            "vat_amount": 0.65
+        },
+        {
+            "amount": 113.25,
+            "description": "exploit viral schemas",
+            "index": "3",
+            "price": 208.47,
+            "quantity": 7.43,
+            "tax_amount": 61.34,
+            "total_ttc": 224.55,
+            "vat_amount": 14.43
+        },
+        {
+            "amount": 260.77,
+            "description": "leverage killer channels",
+            "index": "4",
+            "price": 218.93,
+            "quantity": 3.16,
+            "tax_amount": 40.85,
+            "total_ttc": 108.15,
+            "vat_amount": 3.64
+        },
+        {
+            "amount": 273.42,
+            "description": "re-intermediate granular niches",
+            "index": "6",
+            "price": 459.96,
+            "quantity": 4.82,
+            "tax_amount": 44.26,
+            "total_ttc": 351.42,
+            "vat_amount": 6.02
+        },
+        {
+            "amount": 416.68,
+            "description": "engage sticky ROI",
+            "index": "6",
+            "price": 413.62,
+            "quantity": 3.14,
+            "tax_amount": 89.46,
+            "total_ttc": 276.84,
+            "vat_amount": 8.79
+        }
+    ],
+    "seller": {
+        "name": "Harold Todd"
+    },
+    "supplier": {
+        "address": "31435 Brewer Street Suite 446 Elizabethchester, IN 68465",
+        "name": "Casey Garcia"
+    },
+    "tax": {
+        "amount_excluding_tax": 19.39,
+        "amount_including_tax": 36.85,
+        "tax_amount": 12.33,
+        "total_ht": 342.95,
+        "total_ttc": 286.32
+    }
+}

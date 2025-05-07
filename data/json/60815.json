@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "USNV Rasmussen FPO AP 07865",
+        "business_no": "mp397",
+        "id": "dH201"
+    },
+    "invoice": {
+        "date": "11.02.1995",
+        "number": "9904-3534"
+    },
+    "payment": {
+        "due_date": "02.09.2018",
+        "total": 841.99
+    },
+    "products": [
+        {
+            "amount": 55.03,
+            "description": "re-contextualize collaborative metrics",
+            "quantity": 3.29,
+            "reference": "oL-981",
+            "unit_price": 64.01
+        },
+        {
+            "amount": 499.62,
+            "description": "harness granular content",
+            "quantity": 7.21,
+            "reference": "TL-354",
+            "unit_price": 23.65
+        }
+    ],
+    "seller": {
+        "address": "25436 Sheri Glen Suite 359 Lake Monicabury, HI 28250"
+    },
+    "tax": {
+        "base_ht": 437.61,
+        "regulations": 14.56,
+        "total_ht": 273.77,
+        "vat_amount": 175.74,
+        "vat_percentage": 14.91
+    }
+}

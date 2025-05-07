@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "USS Briggs FPO AP 20009"
+    },
+    "invoice": {
+        "bc_no": "UO97742",
+        "date": "29.04.1991",
+        "maturity_date": "17.11.1990",
+        "number": 490118
+    },
+    "products": [
+        {
+            "amount": 283.19,
+            "description": "evolve back-end vortals",
+            "quantity": 1.9,
+            "unit_price": 14.26,
+            "vat_amount": 4.83
+        },
+        {
+            "amount": 126.87,
+            "description": "seize bleeding-edge e-tailers",
+            "quantity": 3.6,
+            "unit_price": 70.77,
+            "vat_amount": 7.05
+        },
+        {
+            "amount": 339.12,
+            "description": "exploit robust initiatives",
+            "quantity": 4.61,
+            "unit_price": 95.16,
+            "vat_amount": 1.76
+        },
+        {
+            "amount": 87.17,
+            "description": "harness cutting-edge e-services",
+            "quantity": 3.05,
+            "unit_price": 92.98,
+            "vat_amount": 4.71
+        },
+        {
+            "amount": 25.05,
+            "description": "unleash visionary vortals",
+            "quantity": 5.96,
+            "unit_price": 21.25,
+            "vat_amount": 6.75
+        },
+        {
+            "amount": 448.43,
+            "description": "target sticky ROI",
+            "quantity": 7.89,
+            "unit_price": 14.61,
+            "vat_amount": 8.82
+        }
+    ],
+    "seller": {
+        "address": "8622 Taylor Curve Apt. 730 North Kevin, VT 41649"
+    },
+    "tax": {
+        "amount_excluding_tax": 102.9,
+        "amount_including_tax": 101.83,
+        "tax_amount": 15.96
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "349 Castro River Apt. 768 Jonathanfort, AL 47915",
+        "id": "CF109"
+    },
+    "invoice": {
+        "bc_no": "CO67305",
+        "currency_code": "GEL",
+        "date": "21.04.2023",
+        "due_date": "10.09.2017",
+        "number": 954878
+    },
+    "payment": {
+        "bank_name": "Bates LLC",
+        "bic": "DUHPGBSOAX7",
+        "iban": "SXJR12111835250986"
+    },
+    "products": [
+        {
+            "amount": 482.36,
+            "description": "maximize proactive systems",
+            "index": "4",
+            "price": 414.89,
+            "quantity": 1.5,
+            "tax_amount": 69.91,
+            "total_ttc": 108.54,
+            "vat_amount": 3.21
+        },
+        {
+            "amount": 153.8,
+            "description": "leverage B2B functionalities",
+            "index": "1",
+            "price": 468.58,
+            "quantity": 1.91,
+            "tax_amount": 93.61,
+            "total_ttc": 196.47,
+            "vat_amount": 2.94
+        },
+        {
+            "amount": 349.47,
+            "description": "extend world-class initiatives",
+            "index": "5",
+            "price": 68.2,
+            "quantity": 3.14,
+            "tax_amount": 86.4,
+            "total_ttc": 253.62,
+            "vat_amount": 4.01
+        },
+        {
+            "amount": 375.36,
+            "description": "visualize magnetic e-services",
+            "index": "4",
+            "price": 325.49,
+            "quantity": 4.8,
+            "tax_amount": 79.3,
+            "total_ttc": 289.77,
+            "vat_amount": 13.91
+        }
+    ],
+    "seller": {
+        "name": "Amy Hamilton"
+    },
+    "supplier": {
+        "address": "743 Moyer Plains Christineton, SD 51436",
+        "name": "Steve Cross"
+    },
+    "tax": {
+        "amount_excluding_tax": 163.49,
+        "amount_including_tax": 110.14,
+        "tax_amount": 19.15,
+        "total_ht": 430.71,
+        "total_ttc": 388.98
+    }
+}

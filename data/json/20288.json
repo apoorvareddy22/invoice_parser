@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "2139 Eric Islands North Monicaberg, NC 46522",
+        "company_name": "Spencer, Clark and Dorsey",
+        "email": "qortiz@example.com",
+        "name": "Jessica Richardson",
+        "phone": "(219)655-7057"
+    },
+    "invoice": {
+        "date": "04.04.2005",
+        "due_date": "14.01.2007",
+        "number": "CQD15321614666"
+    },
+    "payment": {
+        "account_number": 1944240890,
+        "bank_name": "Horton, Avila and Rodriguez",
+        "routing_number": 866911314
+    },
+    "products": [
+        {
+            "amount": 378.14,
+            "description": "redefine scalable e-commerce",
+            "index": "5",
+            "quantity": 1.66,
+            "unit_price": 68.1
+        },
+        {
+            "amount": 261.04,
+            "description": "engineer cross-platform web-readiness",
+            "index": "8",
+            "quantity": 2.26,
+            "unit_price": 77.44
+        },
+        {
+            "amount": 84.14,
+            "description": "matrix integrated eyeballs",
+            "index": "2",
+            "quantity": 6.52,
+            "unit_price": 27.42
+        },
+        {
+            "amount": 209.07,
+            "description": "synergize sticky relationships",
+            "index": "10",
+            "quantity": 2.91,
+            "unit_price": 87.13
+        },
+        {
+            "amount": 341.92,
+            "description": "target back-end convergence",
+            "index": "5",
+            "quantity": 4.0,
+            "unit_price": 60.65
+        },
+        {
+            "amount": 58.81,
+            "description": "e-enable value-added paradigms",
+            "index": "7",
+            "quantity": 3.32,
+            "unit_price": 51.81
+        },
+        {
+            "amount": 113.42,
+            "description": "e-enable bricks-and-clicks bandwidth",
+            "index": "2",
+            "quantity": 8.47,
+            "unit_price": 63.27
+        }
+    ],
+    "seller": {
+        "address": "33130 Jones Road Nelsonside, RI 98490",
+        "company_name": "Fuentes-Townsend",
+        "email": "hallmiguel@example.com"
+    }
+}

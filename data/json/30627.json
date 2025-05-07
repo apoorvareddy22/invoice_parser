@@ -1,0 +1,89 @@
+{
+    "buyer": {
+        "address": "8062 Johnson Bridge Suite 265 Jillchester, AL 92735",
+        "company_name": "Morgan-Howard",
+        "country": "Wallis and Futuna",
+        "email": "ufarmer@example.org",
+        "name": "Jennifer Duran",
+        "phone": "997.455.5073",
+        "vat_no": "MI34572031861"
+    },
+    "invoice": {
+        "date": "03.07.2007",
+        "due_date": "27.06.2017",
+        "linked_invoice": "My-4309-5802",
+        "notes": "iterate dot-com web services",
+        "number": "fL-3875-6067"
+    },
+    "products": [
+        {
+            "description": "iterate bricks-and-clicks experiences",
+            "discount_percentage": 17.78,
+            "price": 116.96,
+            "quantity": 1.13,
+            "unit_price": 36.96
+        },
+        {
+            "description": "repurpose clicks-and-mortar platforms",
+            "discount_percentage": 8.89,
+            "price": 460.91,
+            "quantity": 1.8,
+            "unit_price": 84.11
+        },
+        {
+            "description": "repurpose granular supply-chains",
+            "discount_percentage": 14.54,
+            "price": 395.42,
+            "quantity": 4.52,
+            "unit_price": 67.67
+        },
+        {
+            "description": "incubate scalable users",
+            "discount_percentage": 16.38,
+            "price": 302.27,
+            "quantity": 7.39,
+            "unit_price": 31.89
+        },
+        {
+            "description": "transform robust models",
+            "discount_percentage": 16.89,
+            "price": 277.16,
+            "quantity": 4.34,
+            "unit_price": 69.91
+        },
+        {
+            "description": "productize real-time experiences",
+            "discount_percentage": 17.35,
+            "price": 482.79,
+            "quantity": 3.62,
+            "unit_price": 71.48
+        }
+    ],
+    "seller": {
+        "address": "USS Baker FPO AA 32075",
+        "ape": "8291t",
+        "capital": 34783883,
+        "country": "Turkey",
+        "email": "qelliott@example.net",
+        "name": "Luis Ramirez",
+        "phone_1": "773.400.9622x05287",
+        "phone_2": "(978)717-2110x98047",
+        "phone_3": "001-248-810-3229x82864",
+        "ref_walk": "MpTh1283",
+        "reference": "Yg605",
+        "siret": 49249560119973,
+        "vat_no": "Fm27025553366",
+        "website": "https://perez.org/"
+    },
+    "tax": {
+        "amount_0": 13.02,
+        "amount_1": 20.63,
+        "base_0": 20.26,
+        "base_1": 139.62,
+        "total_ht": 292.43,
+        "total_tax": 12.36,
+        "total_ttc": 229.9,
+        "vat_0": 20.83,
+        "vat_1": 27.74
+    }
+}

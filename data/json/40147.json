@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "14674 Ralph Light Boydborough, KS 93810"
+    },
+    "invoice": {
+        "bc_no": "FF78244",
+        "date": "10.03.2003",
+        "maturity_date": "01.05.2023",
+        "number": 997302
+    },
+    "products": [
+        {
+            "amount": 447.36,
+            "description": "utilize global synergies",
+            "quantity": 1.77,
+            "unit_price": 57.11,
+            "vat_amount": 8.74
+        },
+        {
+            "amount": 437.61,
+            "description": "envisioneer open-source experiences",
+            "quantity": 3.27,
+            "unit_price": 42.3,
+            "vat_amount": 5.34
+        },
+        {
+            "amount": 32.48,
+            "description": "leverage virtual mindshare",
+            "quantity": 8.21,
+            "unit_price": 21.93,
+            "vat_amount": 9.64
+        },
+        {
+            "amount": 439.34,
+            "description": "re-contextualize magnetic web-readiness",
+            "quantity": 8.58,
+            "unit_price": 80.95,
+            "vat_amount": 8.78
+        }
+    ],
+    "seller": {
+        "address": "372 Wood Ports Apt. 414 Johnbury, AL 40011"
+    },
+    "tax": {
+        "amount_excluding_tax": 130.09,
+        "amount_including_tax": 55.15,
+        "tax_amount": 18.18
+    }
+}

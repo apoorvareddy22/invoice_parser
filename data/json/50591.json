@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "00809 Julie Parkways Suite 664 Port Jennifer, KY 09272",
+        "id": "zr698"
+    },
+    "invoice": {
+        "bc_no": "bp99765",
+        "currency_code": "CLP",
+        "date": "14.09.1995",
+        "due_date": "17.07.2002",
+        "number": 112758
+    },
+    "payment": {
+        "bank_name": "Nelson PLC",
+        "bic": "FUVIGBOW",
+        "iban": "DXFF67354828159695"
+    },
+    "products": [
+        {
+            "amount": 480.12,
+            "description": "envisioneer holistic e-commerce",
+            "index": "7",
+            "price": 53.71,
+            "quantity": 1.14,
+            "tax_amount": 91.93,
+            "total_ttc": 384.55,
+            "vat_amount": 6.85
+        }
+    ],
+    "seller": {
+        "name": "Benjamin George"
+    },
+    "supplier": {
+        "address": "PSC 2609, Box 3970 APO AP 15342",
+        "name": "Adam Abbott"
+    },
+    "tax": {
+        "amount_excluding_tax": 54.21,
+        "amount_including_tax": 121.8,
+        "tax_amount": 17.84,
+        "total_ht": 230.24,
+        "total_ttc": 313.14
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "7079 Brown Crest Suite 543 Christinamouth, TX 17326",
+        "id": "PN099"
+    },
+    "invoice": {
+        "bc_no": "fK11568",
+        "currency_code": "MNT",
+        "date": "07.03.1994",
+        "due_date": "26.12.2006",
+        "number": 623081
+    },
+    "payment": {
+        "bank_name": "Miller, Richardson and Valencia",
+        "bic": "RJDSGBQ9LD4",
+        "iban": "CMZL54937414254334"
+    },
+    "products": [
+        {
+            "amount": 277.34,
+            "description": "integrate magnetic supply-chains",
+            "index": "1",
+            "price": 235.15,
+            "quantity": 6.98,
+            "tax_amount": 84.62,
+            "total_ttc": 262.77,
+            "vat_amount": 7.78
+        },
+        {
+            "amount": 288.62,
+            "description": "whiteboard proactive channels",
+            "index": "1",
+            "price": 333.29,
+            "quantity": 3.24,
+            "tax_amount": 12.61,
+            "total_ttc": 298.99,
+            "vat_amount": 2.26
+        },
+        {
+            "amount": 498.78,
+            "description": "transform 24/365 platforms",
+            "index": "5",
+            "price": 473.11,
+            "quantity": 9.2,
+            "tax_amount": 93.18,
+            "total_ttc": 141.04,
+            "vat_amount": 8.91
+        },
+        {
+            "amount": 180.48,
+            "description": "whiteboard impactful methodologies",
+            "index": "4",
+            "price": 287.77,
+            "quantity": 1.65,
+            "tax_amount": 28.09,
+            "total_ttc": 204.79,
+            "vat_amount": 6.49
+        },
+        {
+            "amount": 352.49,
+            "description": "transition end-to-end networks",
+            "index": "8",
+            "price": 326.57,
+            "quantity": 1.57,
+            "tax_amount": 18.36,
+            "total_ttc": 399.22,
+            "vat_amount": 8.39
+        },
+        {
+            "amount": 270.93,
+            "description": "seize seamless markets",
+            "index": "1",
+            "price": 269.08,
+            "quantity": 2.94,
+            "tax_amount": 41.1,
+            "total_ttc": 385.38,
+            "vat_amount": 11.25
+        },
+        {
+            "amount": 281.53,
+            "description": "maximize cutting-edge users",
+            "index": "7",
+            "price": 479.71,
+            "quantity": 3.0,
+            "tax_amount": 82.36,
+            "total_ttc": 308.27,
+            "vat_amount": 8.19
+        }
+    ],
+    "seller": {
+        "name": "Thomas Roth"
+    },
+    "supplier": {
+        "address": "381 Mejia Haven Apt. 440 Karaborough, TX 34510",
+        "name": "Eric Navarro"
+    },
+    "tax": {
+        "amount_excluding_tax": 76.51,
+        "amount_including_tax": 106.29,
+        "tax_amount": 21.35,
+        "total_ht": 243.04,
+        "total_ttc": 401.02
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "985 Villa Green Apt. 638 North Shelbystad, MD 83756",
+        "email": "johnny37@example.org",
+        "phone": "531-480-8673x1650",
+        "vat_no": "aW45788683553"
+    },
+    "invoice": {
+        "date": "02.06.2007",
+        "due_date": "19.08.2018",
+        "market_reference": 289052,
+        "notes": "deliver interactive architectures",
+        "number": "4854-1997",
+        "reference": 618038,
+        "vat_no": "yW87810384461"
+    },
+    "payment": {
+        "net_total": 132.72,
+        "total": 160.03
+    },
+    "products": [
+        {
+            "amount": 73.53,
+            "description": "disintermediate cutting-edge functionalities",
+            "hours": 4.8,
+            "rate": 6.52
+        },
+        {
+            "amount": 464.22,
+            "description": "monetize killer schemas",
+            "hours": 9.97,
+            "rate": 2.74
+        },
+        {
+            "amount": 234.88,
+            "description": "iterate mission-critical infrastructures",
+            "hours": 4.13,
+            "rate": 9.84
+        }
+    ],
+    "seller": {
+        "address": "79635 Laurie Trail Millerview, DE 42012",
+        "email": "patricia56@example.net",
+        "name": "Amanda Harrington"
+    },
+    "tax": {
+        "base": 28.14,
+        "tax_amount": 18.65,
+        "total_tax": 15.76
+    }
+}

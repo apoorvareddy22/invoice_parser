@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "PSC 2514, Box 0320 APO AE 30804"
+    },
+    "invoice": {
+        "bc_no": "LE70332",
+        "date": "20.12.1995",
+        "maturity_date": "06.02.2012",
+        "number": 644000
+    },
+    "products": [
+        {
+            "amount": 124.92,
+            "description": "implement enterprise platforms",
+            "quantity": 5.46,
+            "unit_price": 12.65,
+            "vat_amount": 5.3
+        },
+        {
+            "amount": 248.45,
+            "description": "expedite killer paradigms",
+            "quantity": 5.41,
+            "unit_price": 56.71,
+            "vat_amount": 1.54
+        }
+    ],
+    "seller": {
+        "address": "529 Weber Bypass Suite 861 Collinsview, VA 87999"
+    },
+    "tax": {
+        "amount_excluding_tax": 43.24,
+        "amount_including_tax": 45.84,
+        "tax_amount": 15.9
+    }
+}

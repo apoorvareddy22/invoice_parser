@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "9967 Suzanne View Apt. 169 North Scottborough, FM 01236",
+        "company_name": "Brown Inc",
+        "email": "eugenedoyle@example.com",
+        "name": "Emily Martinez",
+        "phone": "2762402921"
+    },
+    "invoice": {
+        "date": "26.05.1991",
+        "due_date": "15.09.2023",
+        "number": "lIn67700347394"
+    },
+    "payment": {
+        "account_number": 6656035780,
+        "bank_name": "Walker-Lawson",
+        "routing_number": 249253090
+    },
+    "products": [
+        {
+            "amount": 148.45,
+            "description": "scale proactive mindshare",
+            "index": "2",
+            "quantity": 7.81,
+            "unit_price": 16.78
+        }
+    ],
+    "seller": {
+        "address": "8755 Jane Unions Heidibury, CA 39873",
+        "company_name": "Wilkinson, Conrad and Schwartz",
+        "email": "ryan13@example.org"
+    }
+}

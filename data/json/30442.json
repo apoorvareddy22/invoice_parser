@@ -1,0 +1,82 @@
+{
+    "buyer": {
+        "address": "73423 Diaz Fork Suite 576 Knightshire, MA 37315",
+        "company_name": "Morse-Smith",
+        "country": "Romania",
+        "email": "clewis@example.com",
+        "name": "Jonathan Dixon",
+        "phone": "530-916-9667x823",
+        "vat_no": "Wu11397856140"
+    },
+    "invoice": {
+        "date": "13.09.2016",
+        "due_date": "22.11.2022",
+        "linked_invoice": "eo-7734-4377",
+        "notes": "envisioneer bleeding-edge deliverables",
+        "number": "hd-1128-1033"
+    },
+    "products": [
+        {
+            "description": "disintermediate next-generation interfaces",
+            "discount_percentage": 9.32,
+            "price": 169.93,
+            "quantity": 3.05,
+            "unit_price": 65.2
+        },
+        {
+            "description": "repurpose robust paradigms",
+            "discount_percentage": 18.04,
+            "price": 120.65,
+            "quantity": 4.02,
+            "unit_price": 66.49
+        },
+        {
+            "description": "extend bleeding-edge e-services",
+            "discount_percentage": 16.43,
+            "price": 221.57,
+            "quantity": 7.72,
+            "unit_price": 22.37
+        },
+        {
+            "description": "cultivate virtual web services",
+            "discount_percentage": 6.07,
+            "price": 94.05,
+            "quantity": 8.2,
+            "unit_price": 13.32
+        },
+        {
+            "description": "enhance bricks-and-clicks paradigms",
+            "discount_percentage": 15.8,
+            "price": 294.06,
+            "quantity": 6.44,
+            "unit_price": 10.69
+        }
+    ],
+    "seller": {
+        "address": "7939 Graves Ports Apt. 672 Torresmouth, NY 12931",
+        "ape": "2024P",
+        "capital": 33909050,
+        "country": "Dominica",
+        "email": "kathleenramirez@example.com",
+        "name": "Fernando Baker",
+        "phone_1": "+1-950-411-2275x81268",
+        "phone_2": "936-935-7720x07903",
+        "phone_3": "476-586-3421x9146",
+        "ref_walk": "GMPV9170",
+        "reference": "jC817",
+        "siret": 63088649741639,
+        "vat_no": "AP77275446323",
+        "website": "http://young.com/"
+    },
+    "tax": {
+        "amount_0": 24.86,
+        "amount_1": 20.74,
+        "base_0": 29.34,
+        "base_1": 110.99,
+        "total_ht": 181.4,
+        "total_tax": 17.25,
+        "total_ttc": 317.58,
+        "vat_0": 15.66,
+        "vat_1": 20.23
+    }
+}

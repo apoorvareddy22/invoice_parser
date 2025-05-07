@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "USNV Davis FPO AP 78843",
+        "company_name": "Sanchez, Tucker and Mack",
+        "country": "Cameroon",
+        "name": "Elizabeth Ponce"
+    },
+    "invoice": {
+        "date": "20.08.2014",
+        "number": 165900
+    },
+    "payment": {
+        "discount_amount": 25.06,
+        "discount_percentage": 15.03,
+        "due": 138.48,
+        "sub_total": 58.91,
+        "total": 153.67
+    },
+    "products": [
+        {
+            "description": "synergize killer platforms",
+            "index": "6",
+            "quantity": 2.06,
+            "total_price": 370.45,
+            "unit_price": 65.79
+        },
+        {
+            "description": "disintermediate world-class applications",
+            "index": "6",
+            "quantity": 9.62,
+            "total_price": 963.22,
+            "unit_price": 21.12
+        }
+    ],
+    "seller": {
+        "address": "24562 Jessica Stravenue Edwardsberg, NJ 23006",
+        "company_name": "Robinson, Hinton and Franklin",
+        "vat_no": "FK60156759092"
+    }
+}

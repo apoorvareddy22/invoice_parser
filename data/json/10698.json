@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "PSC 1137, Box 9465 APO AP 15520",
+        "email": "ubarrett@example.net",
+        "phone": "001-339-269-2451x24869",
+        "vat_no": "co77405409427"
+    },
+    "invoice": {
+        "date": "04.03.1993",
+        "due_date": "20.01.2020",
+        "market_reference": 840363,
+        "notes": "engineer best-of-breed vortals",
+        "number": "2715-4918",
+        "reference": 930715,
+        "vat_no": "Kj64289989725"
+    },
+    "payment": {
+        "net_total": 166.24,
+        "total": 489.27
+    },
+    "products": [
+        {
+            "amount": 362.76,
+            "description": "extend interactive markets",
+            "hours": 8.96,
+            "rate": 7.94
+        },
+        {
+            "amount": 483.91,
+            "description": "drive efficient convergence",
+            "hours": 7.2,
+            "rate": 9.87
+        }
+    ],
+    "seller": {
+        "address": "51330 Burnett Plaza Jamesport, ND 17012",
+        "email": "jennifer67@example.net",
+        "name": "Tamara Jackson"
+    },
+    "tax": {
+        "base": 23.67,
+        "tax_amount": 13.04,
+        "total_tax": 28.39
+    }
+}

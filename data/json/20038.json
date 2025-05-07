@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "1123 Jesse Crossing Apt. 317 North Lauren, RI 11859",
+        "company_name": "Garner-Wiley",
+        "email": "hardingnicholas@example.org",
+        "name": "Leslie Smith",
+        "phone": "+1-469-431-2480x1754"
+    },
+    "invoice": {
+        "date": "20.03.2000",
+        "due_date": "23.09.1991",
+        "number": "rjp24356808545"
+    },
+    "payment": {
+        "account_number": 5685067551,
+        "bank_name": "Williams-Bautista",
+        "routing_number": 413094680
+    },
+    "products": [
+        {
+            "amount": 22.24,
+            "description": "whiteboard world-class communities",
+            "index": "2",
+            "quantity": 4.34,
+            "unit_price": 99.92
+        },
+        {
+            "amount": 240.95,
+            "description": "exploit back-end experiences",
+            "index": "9",
+            "quantity": 6.93,
+            "unit_price": 28.24
+        },
+        {
+            "amount": 60.49,
+            "description": "empower revolutionary eyeballs",
+            "index": "8",
+            "quantity": 6.21,
+            "unit_price": 36.37
+        }
+    ],
+    "seller": {
+        "address": "1002 Kim Brook East Dawntown, PR 27862",
+        "company_name": "Eaton-Taylor",
+        "email": "pgrant@example.net"
+    }
+}

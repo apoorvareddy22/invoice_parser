@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "893 Jessica Harbor East Christopher, WI 78563",
+        "email": "andrewdaniel@example.com",
+        "phone": "001-780-229-9330x375",
+        "vat_no": "Sf28903357273"
+    },
+    "invoice": {
+        "date": "11.08.2010",
+        "due_date": "02.10.2004",
+        "market_reference": 295665,
+        "notes": "deploy open-source e-commerce",
+        "number": "6812-2779",
+        "reference": 355479,
+        "vat_no": "vk85240357945"
+    },
+    "payment": {
+        "net_total": 164.46,
+        "total": 887.09
+    },
+    "products": [
+        {
+            "amount": 197.95,
+            "description": "empower scalable content",
+            "hours": 4.92,
+            "rate": 4.11
+        },
+        {
+            "amount": 9.52,
+            "description": "streamline transparent web-readiness",
+            "hours": 2.35,
+            "rate": 6.05
+        },
+        {
+            "amount": 76.92,
+            "description": "innovate bleeding-edge ROI",
+            "hours": 7.08,
+            "rate": 9.89
+        },
+        {
+            "amount": 477.95,
+            "description": "reinvent dot-com methodologies",
+            "hours": 8.0,
+            "rate": 2.07
+        },
+        {
+            "amount": 414.1,
+            "description": "monetize global deliverables",
+            "hours": 1.19,
+            "rate": 9.72
+        }
+    ],
+    "seller": {
+        "address": "76524 Cross Mountain Williamfurt, ID 08909",
+        "email": "kevinwilliams@example.net",
+        "name": "Juan Miller"
+    },
+    "tax": {
+        "base": 17.98,
+        "tax_amount": 28.55,
+        "total_tax": 24.35
+    }
+}

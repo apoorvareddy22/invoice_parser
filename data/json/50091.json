@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "6174 Jacob Field West Caleb, MP 42352",
+        "id": "rv336"
+    },
+    "invoice": {
+        "bc_no": "TU72217",
+        "currency_code": "ILS",
+        "date": "09.08.2006",
+        "due_date": "12.10.2023",
+        "number": 578309
+    },
+    "payment": {
+        "bank_name": "Vasquez-Johnson",
+        "bic": "DXUHGBUD8OR",
+        "iban": "IEAN82930868361134"
+    },
+    "products": [
+        {
+            "amount": 288.79,
+            "description": "extend impactful technologies",
+            "index": "8",
+            "price": 66.58,
+            "quantity": 2.67,
+            "tax_amount": 17.76,
+            "total_ttc": 497.33,
+            "vat_amount": 3.96
+        },
+        {
+            "amount": 272.86,
+            "description": "redefine granular users",
+            "index": "4",
+            "price": 493.69,
+            "quantity": 4.93,
+            "tax_amount": 43.13,
+            "total_ttc": 112.2,
+            "vat_amount": 1.63
+        },
+        {
+            "amount": 50.58,
+            "description": "syndicate out-of-the-box markets",
+            "index": "10",
+            "price": 77.49,
+            "quantity": 9.93,
+            "tax_amount": 14.03,
+            "total_ttc": 281.22,
+            "vat_amount": 12.95
+        },
+        {
+            "amount": 446.93,
+            "description": "brand value-added infrastructures",
+            "index": "9",
+            "price": 82.67,
+            "quantity": 4.71,
+            "tax_amount": 86.03,
+            "total_ttc": 486.92,
+            "vat_amount": 6.82
+        },
+        {
+            "amount": 226.89,
+            "description": "seize turn-key deliverables",
+            "index": "6",
+            "price": 294.7,
+            "quantity": 3.07,
+            "tax_amount": 21.39,
+            "total_ttc": 130.94,
+            "vat_amount": 11.6
+        },
+        {
+            "amount": 469.21,
+            "description": "streamline user-centric niches",
+            "index": "9",
+            "price": 290.72,
+            "quantity": 2.11,
+            "tax_amount": 52.72,
+            "total_ttc": 266.96,
+            "vat_amount": 6.69
+        }
+    ],
+    "seller": {
+        "name": "Rebecca Greene"
+    },
+    "supplier": {
+        "address": "1401 Hebert Estates Johnbury, VI 94102",
+        "name": "Laura Villegas"
+    },
+    "tax": {
+        "amount_excluding_tax": 73.59,
+        "amount_including_tax": 147.46,
+        "tax_amount": 13.78,
+        "total_ht": 115.85,
+        "total_ttc": 217.31
+    }
+}

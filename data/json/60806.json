@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "Unit 9114 Box 1861 DPO AE 97526",
+        "business_no": "fj929",
+        "id": "nC431"
+    },
+    "invoice": {
+        "date": "03.11.2002",
+        "number": "4367-2473"
+    },
+    "payment": {
+        "due_date": "25.01.1995",
+        "total": 171.08
+    },
+    "products": [
+        {
+            "amount": 338.31,
+            "description": "deliver strategic schemas",
+            "quantity": 8.41,
+            "reference": "um-769",
+            "unit_price": 83.97
+        },
+        {
+            "amount": 343.46,
+            "description": "synthesize cross-media experiences",
+            "quantity": 2.18,
+            "reference": "MW-199",
+            "unit_price": 17.8
+        },
+        {
+            "amount": 361.12,
+            "description": "deploy interactive action-items",
+            "quantity": 1.51,
+            "reference": "Re-881",
+            "unit_price": 45.59
+        }
+    ],
+    "seller": {
+        "address": "7642 Nicole Club New Jessicaberg, VI 68488"
+    },
+    "tax": {
+        "base_ht": 206.4,
+        "regulations": 21.85,
+        "total_ht": 108.17,
+        "vat_amount": 162.31,
+        "vat_percentage": 25.45
+    }
+}

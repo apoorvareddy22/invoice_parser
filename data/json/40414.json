@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "9199 Myers Fall Maysside, NV 47805"
+    },
+    "invoice": {
+        "bc_no": "Ob00553",
+        "date": "31.12.2015",
+        "maturity_date": "24.09.2003",
+        "number": 612169
+    },
+    "products": [
+        {
+            "amount": 364.41,
+            "description": "reinvent world-class web-readiness",
+            "quantity": 1.94,
+            "unit_price": 19.92,
+            "vat_amount": 0.3
+        },
+        {
+            "amount": 436.25,
+            "description": "target vertical metrics",
+            "quantity": 6.2,
+            "unit_price": 31.68,
+            "vat_amount": 0.12
+        },
+        {
+            "amount": 354.75,
+            "description": "expedite back-end synergies",
+            "quantity": 6.54,
+            "unit_price": 72.78,
+            "vat_amount": 1.01
+        }
+    ],
+    "seller": {
+        "address": "438 Manuel Mountain Suite 477 Cobbberg, AZ 37434"
+    },
+    "tax": {
+        "amount_excluding_tax": 26.05,
+        "amount_including_tax": 192.69,
+        "tax_amount": 16.4
+    }
+}

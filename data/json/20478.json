@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "91736 Kemp Estates West Jessica, IL 23905",
+        "company_name": "Wilkins PLC",
+        "email": "tcoleman@example.org",
+        "name": "Leah Gardner",
+        "phone": "001-691-409-0221"
+    },
+    "invoice": {
+        "date": "06.10.1991",
+        "due_date": "09.01.2005",
+        "number": "nXQ37865878679"
+    },
+    "payment": {
+        "account_number": 9753887424,
+        "bank_name": "Fleming, Wood and Thompson",
+        "routing_number": 969158535
+    },
+    "products": [
+        {
+            "amount": 12.4,
+            "description": "maximize synergistic channels",
+            "index": "6",
+            "quantity": 6.41,
+            "unit_price": 59.34
+        },
+        {
+            "amount": 202.07,
+            "description": "empower innovative convergence",
+            "index": "6",
+            "quantity": 3.53,
+            "unit_price": 66.82
+        },
+        {
+            "amount": 393.78,
+            "description": "optimize seamless ROI",
+            "index": "6",
+            "quantity": 2.87,
+            "unit_price": 88.87
+        }
+    ],
+    "seller": {
+        "address": "96474 Douglas Lakes Suite 401 Lake Janettown, TN 88067",
+        "company_name": "Jones-Anthony",
+        "email": "wernerrichard@example.net"
+    }
+}

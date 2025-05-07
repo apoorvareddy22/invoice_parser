@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "USS Walters FPO AE 53643",
+        "id": "Th368"
+    },
+    "invoice": {
+        "bc_no": "pp68856",
+        "currency_code": "GBP",
+        "date": "22.11.2016",
+        "due_date": "28.04.1990",
+        "number": 205753
+    },
+    "payment": {
+        "bank_name": "Daniels-Flores",
+        "bic": "WQQIGBQ3Q09",
+        "iban": "PBIQ41367075567682"
+    },
+    "products": [
+        {
+            "amount": 27.31,
+            "description": "grow bleeding-edge web-readiness",
+            "index": "5",
+            "price": 199.91,
+            "quantity": 5.34,
+            "tax_amount": 36.62,
+            "total_ttc": 233.88,
+            "vat_amount": 10.55
+        },
+        {
+            "amount": 280.0,
+            "description": "expedite wireless markets",
+            "index": "6",
+            "price": 347.48,
+            "quantity": 5.99,
+            "tax_amount": 16.48,
+            "total_ttc": 196.38,
+            "vat_amount": 0.54
+        },
+        {
+            "amount": 303.78,
+            "description": "visualize dot-com interfaces",
+            "index": "8",
+            "price": 392.33,
+            "quantity": 6.13,
+            "tax_amount": 63.34,
+            "total_ttc": 333.29,
+            "vat_amount": 8.05
+        },
+        {
+            "amount": 148.18,
+            "description": "transition frictionless supply-chains",
+            "index": "4",
+            "price": 356.27,
+            "quantity": 8.81,
+            "tax_amount": 60.78,
+            "total_ttc": 122.76,
+            "vat_amount": 4.78
+        },
+        {
+            "amount": 44.77,
+            "description": "productize leading-edge content",
+            "index": "9",
+            "price": 198.55,
+            "quantity": 3.55,
+            "tax_amount": 91.38,
+            "total_ttc": 386.4,
+            "vat_amount": 11.72
+        },
+        {
+            "amount": 220.42,
+            "description": "mesh efficient niches",
+            "index": "9",
+            "price": 88.91,
+            "quantity": 5.61,
+            "tax_amount": 63.31,
+            "total_ttc": 332.36,
+            "vat_amount": 2.47
+        },
+        {
+            "amount": 414.82,
+            "description": "utilize web-enabled e-markets",
+            "index": "9",
+            "price": 151.33,
+            "quantity": 7.07,
+            "tax_amount": 61.18,
+            "total_ttc": 327.24,
+            "vat_amount": 6.37
+        }
+    ],
+    "seller": {
+        "name": "Taylor Hall"
+    },
+    "supplier": {
+        "address": "USCGC Jacobs FPO AE 08153",
+        "name": "Christopher Thomas"
+    },
+    "tax": {
+        "amount_excluding_tax": 110.8,
+        "amount_including_tax": 117.02,
+        "tax_amount": 11.1,
+        "total_ht": 262.15,
+        "total_ttc": 171.54
+    }
+}

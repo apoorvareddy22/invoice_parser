@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "819 James Ridges Suite 149 Christineview, IN 93531",
+        "business_no": "NH952",
+        "id": "Oi650"
+    },
+    "invoice": {
+        "date": "07.12.1999",
+        "number": "6809-4897"
+    },
+    "payment": {
+        "due_date": "09.04.1996",
+        "total": 135.11
+    },
+    "products": [
+        {
+            "amount": 210.94,
+            "description": "benchmark end-to-end applications",
+            "quantity": 5.0,
+            "reference": "fB-065",
+            "unit_price": 74.19
+        },
+        {
+            "amount": 436.5,
+            "description": "engage compelling deliverables",
+            "quantity": 7.92,
+            "reference": "XT-819",
+            "unit_price": 80.13
+        },
+        {
+            "amount": 7.01,
+            "description": "maximize vertical synergies",
+            "quantity": 6.71,
+            "reference": "VY-201",
+            "unit_price": 99.27
+        },
+        {
+            "amount": 478.59,
+            "description": "innovate scalable mindshare",
+            "quantity": 4.68,
+            "reference": "Wx-925",
+            "unit_price": 89.97
+        },
+        {
+            "amount": 314.51,
+            "description": "exploit ubiquitous networks",
+            "quantity": 7.9,
+            "reference": "kU-047",
+            "unit_price": 76.88
+        }
+    ],
+    "seller": {
+        "address": "302 Henry Walk Suite 869 Carriemouth, OK 93063"
+    },
+    "tax": {
+        "base_ht": 222.98,
+        "regulations": 19.84,
+        "total_ht": 219.94,
+        "vat_amount": 77.64,
+        "vat_percentage": 11.82
+    }
+}

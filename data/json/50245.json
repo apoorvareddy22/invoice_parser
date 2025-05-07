@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "288 Maddox Falls Apt. 322 Port Donnachester, KS 54679",
+        "id": "Hh913"
+    },
+    "invoice": {
+        "bc_no": "TI21376",
+        "currency_code": "RSD",
+        "date": "14.04.2019",
+        "due_date": "25.08.2006",
+        "number": 509747
+    },
+    "payment": {
+        "bank_name": "Wilkins-Ward",
+        "bic": "UXKFGBD0",
+        "iban": "IUIR92569891574178"
+    },
+    "products": [
+        {
+            "amount": 168.41,
+            "description": "strategize synergistic models",
+            "index": "1",
+            "price": 114.38,
+            "quantity": 4.66,
+            "tax_amount": 14.74,
+            "total_ttc": 293.66,
+            "vat_amount": 1.58
+        },
+        {
+            "amount": 454.29,
+            "description": "evolve scalable e-markets",
+            "index": "7",
+            "price": 357.35,
+            "quantity": 5.97,
+            "tax_amount": 47.55,
+            "total_ttc": 218.0,
+            "vat_amount": 10.34
+        },
+        {
+            "amount": 478.04,
+            "description": "deploy proactive e-markets",
+            "index": "5",
+            "price": 78.93,
+            "quantity": 7.17,
+            "tax_amount": 32.53,
+            "total_ttc": 216.25,
+            "vat_amount": 6.6
+        },
+        {
+            "amount": 369.95,
+            "description": "facilitate holistic users",
+            "index": "4",
+            "price": 87.0,
+            "quantity": 7.17,
+            "tax_amount": 95.57,
+            "total_ttc": 150.3,
+            "vat_amount": 2.85
+        },
+        {
+            "amount": 455.57,
+            "description": "expedite collaborative web services",
+            "index": "9",
+            "price": 186.07,
+            "quantity": 6.78,
+            "tax_amount": 18.36,
+            "total_ttc": 374.75,
+            "vat_amount": 0.8
+        }
+    ],
+    "seller": {
+        "name": "Gregg Bryant"
+    },
+    "supplier": {
+        "address": "13269 Sharon Drive West Heidichester, WY 76993",
+        "name": "Jamie Reed"
+    },
+    "tax": {
+        "amount_excluding_tax": 109.48,
+        "amount_including_tax": 114.82,
+        "tax_amount": 17.44,
+        "total_ht": 290.47,
+        "total_ttc": 100.27
+    }
+}

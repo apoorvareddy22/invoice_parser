@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "196 Olivia Hills Suite 777 South Davidberg, MH 87885",
+        "id": "wU928"
+    },
+    "invoice": {
+        "bc_no": "kE92592",
+        "currency_code": "HUF",
+        "date": "24.12.1999",
+        "due_date": "07.10.2006",
+        "number": 485495
+    },
+    "payment": {
+        "bank_name": "Ramirez-Kelly",
+        "bic": "OBSTGBFEYP6",
+        "iban": "XJEQ16317041383442"
+    },
+    "products": [
+        {
+            "amount": 300.76,
+            "description": "cultivate dot-com methodologies",
+            "index": "1",
+            "price": 386.18,
+            "quantity": 5.87,
+            "tax_amount": 35.4,
+            "total_ttc": 388.56,
+            "vat_amount": 4.67
+        },
+        {
+            "amount": 331.5,
+            "description": "enhance B2C initiatives",
+            "index": "5",
+            "price": 203.77,
+            "quantity": 4.26,
+            "tax_amount": 29.52,
+            "total_ttc": 117.14,
+            "vat_amount": 4.46
+        },
+        {
+            "amount": 226.07,
+            "description": "synergize real-time relationships",
+            "index": "9",
+            "price": 51.03,
+            "quantity": 8.87,
+            "tax_amount": 78.39,
+            "total_ttc": 187.36,
+            "vat_amount": 1.25
+        },
+        {
+            "amount": 171.6,
+            "description": "embrace scalable channels",
+            "index": "9",
+            "price": 197.97,
+            "quantity": 9.86,
+            "tax_amount": 11.22,
+            "total_ttc": 307.87,
+            "vat_amount": 0.9
+        },
+        {
+            "amount": 328.44,
+            "description": "architect synergistic e-commerce",
+            "index": "5",
+            "price": 366.57,
+            "quantity": 8.81,
+            "tax_amount": 42.81,
+            "total_ttc": 149.68,
+            "vat_amount": 10.52
+        },
+        {
+            "amount": 496.23,
+            "description": "re-contextualize seamless e-services",
+            "index": "7",
+            "price": 313.75,
+            "quantity": 7.14,
+            "tax_amount": 52.1,
+            "total_ttc": 425.21,
+            "vat_amount": 0.31
+        }
+    ],
+    "seller": {
+        "name": "Bruce Walsh"
+    },
+    "supplier": {
+        "address": "337 Barber Crossing North Annebury, SD 53594",
+        "name": "Jason Fischer"
+    },
+    "tax": {
+        "amount_excluding_tax": 90.26,
+        "amount_including_tax": 65.06,
+        "tax_amount": 23.49,
+        "total_ht": 263.5,
+        "total_ttc": 333.39
+    }
+}

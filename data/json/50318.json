@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "84971 Brandon Fork Apt. 248 Sandrahaven, MA 26336",
+        "id": "VQ893"
+    },
+    "invoice": {
+        "bc_no": "TV03220",
+        "currency_code": "LRD",
+        "date": "03.03.2001",
+        "due_date": "30.10.1997",
+        "number": 401482
+    },
+    "payment": {
+        "bank_name": "White, Gordon and Cooke",
+        "bic": "AUWZGBSM",
+        "iban": "SEZC74619013771257"
+    },
+    "products": [
+        {
+            "amount": 80.73,
+            "description": "revolutionize one-to-one infrastructures",
+            "index": "4",
+            "price": 399.22,
+            "quantity": 6.52,
+            "tax_amount": 55.79,
+            "total_ttc": 412.85,
+            "vat_amount": 3.67
+        },
+        {
+            "amount": 454.16,
+            "description": "revolutionize customized bandwidth",
+            "index": "3",
+            "price": 375.26,
+            "quantity": 1.31,
+            "tax_amount": 41.47,
+            "total_ttc": 428.69,
+            "vat_amount": 1.24
+        },
+        {
+            "amount": 338.36,
+            "description": "repurpose strategic e-tailers",
+            "index": "6",
+            "price": 121.49,
+            "quantity": 2.55,
+            "tax_amount": 92.83,
+            "total_ttc": 474.25,
+            "vat_amount": 0.97
+        },
+        {
+            "amount": 247.97,
+            "description": "monetize web-enabled deliverables",
+            "index": "9",
+            "price": 28.17,
+            "quantity": 1.32,
+            "tax_amount": 96.28,
+            "total_ttc": 331.23,
+            "vat_amount": 3.48
+        },
+        {
+            "amount": 20.94,
+            "description": "streamline bricks-and-clicks eyeballs",
+            "index": "6",
+            "price": 306.95,
+            "quantity": 5.97,
+            "tax_amount": 78.84,
+            "total_ttc": 254.46,
+            "vat_amount": 6.5
+        },
+        {
+            "amount": 363.58,
+            "description": "expedite front-end communities",
+            "index": "6",
+            "price": 483.35,
+            "quantity": 5.3,
+            "tax_amount": 80.46,
+            "total_ttc": 470.25,
+            "vat_amount": 5.3
+        }
+    ],
+    "seller": {
+        "name": "William Myers"
+    },
+    "supplier": {
+        "address": "912 William Island Sarahmouth, NY 80126",
+        "name": "Brent Church"
+    },
+    "tax": {
+        "amount_excluding_tax": 162.55,
+        "amount_including_tax": 184.68,
+        "tax_amount": 23.37,
+        "total_ht": 161.57,
+        "total_ttc": 108.73
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "943 Russell Trace Apt. 122 Ballardbury, WY 18410",
+        "company_name": "Turner, Berg and Lambert",
+        "email": "martinchristopher@example.net",
+        "name": "Nicholas Davis",
+        "phone": "5906471255"
+    },
+    "invoice": {
+        "date": "28.04.1990",
+        "due_date": "20.10.2022",
+        "number": "Wzd16910278575"
+    },
+    "payment": {
+        "account_number": 9517498691,
+        "bank_name": "Leach and Sons",
+        "routing_number": 323733414
+    },
+    "products": [
+        {
+            "amount": 293.59,
+            "description": "incentivize cross-media bandwidth",
+            "index": "6",
+            "quantity": 3.61,
+            "unit_price": 22.59
+        },
+        {
+            "amount": 205.2,
+            "description": "morph intuitive platforms",
+            "index": "3",
+            "quantity": 7.62,
+            "unit_price": 97.83
+        },
+        {
+            "amount": 403.76,
+            "description": "incubate leading-edge e-services",
+            "index": "8",
+            "quantity": 1.84,
+            "unit_price": 79.81
+        },
+        {
+            "amount": 288.97,
+            "description": "facilitate cross-media methodologies",
+            "index": "8",
+            "quantity": 9.26,
+            "unit_price": 28.6
+        }
+    ],
+    "seller": {
+        "address": "2554 John Lodge Suite 397 South Karen, PA 10028",
+        "company_name": "Mclean and Sons",
+        "email": "romeroandrew@example.net"
+    }
+}

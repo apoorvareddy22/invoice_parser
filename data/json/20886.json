@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "Unit 6455 Box 8671 DPO AP 31358",
+        "company_name": "Aguilar-Bailey",
+        "email": "rachel15@example.net",
+        "name": "Morgan Wilson",
+        "phone": "+1-669-335-8604x4351"
+    },
+    "invoice": {
+        "date": "21.07.2015",
+        "due_date": "30.09.2023",
+        "number": "rQX48741530558"
+    },
+    "payment": {
+        "account_number": 2743433787,
+        "bank_name": "Singleton-Brown",
+        "routing_number": 552275099
+    },
+    "products": [
+        {
+            "amount": 192.88,
+            "description": "deploy global methodologies",
+            "index": "10",
+            "quantity": 3.23,
+            "unit_price": 39.47
+        },
+        {
+            "amount": 11.78,
+            "description": "scale bleeding-edge applications",
+            "index": "5",
+            "quantity": 7.98,
+            "unit_price": 28.72
+        },
+        {
+            "amount": 208.94,
+            "description": "e-enable efficient architectures",
+            "index": "9",
+            "quantity": 2.85,
+            "unit_price": 59.51
+        },
+        {
+            "amount": 276.68,
+            "description": "cultivate innovative initiatives",
+            "index": "3",
+            "quantity": 6.04,
+            "unit_price": 39.43
+        },
+        {
+            "amount": 128.33,
+            "description": "mesh revolutionary platforms",
+            "index": "2",
+            "quantity": 6.01,
+            "unit_price": 39.29
+        }
+    ],
+    "seller": {
+        "address": "407 Mahoney Glen Ruizton, WI 36426",
+        "company_name": "James, Howard and Jensen",
+        "email": "heatherbaldwin@example.com"
+    }
+}

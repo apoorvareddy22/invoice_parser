@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "968 Christina Square East William, FL 27126",
+        "email": "nparrish@example.org",
+        "phone": "4359184204",
+        "vat_no": "PX00573206576"
+    },
+    "invoice": {
+        "date": "12.02.2000",
+        "due_date": "19.03.2019",
+        "market_reference": 141943,
+        "notes": "utilize value-added web services",
+        "number": "2858-4692",
+        "reference": 442165,
+        "vat_no": "TF77177632576"
+    },
+    "payment": {
+        "net_total": 192.15,
+        "total": 374.1
+    },
+    "products": [
+        {
+            "amount": 7.13,
+            "description": "orchestrate transparent e-tailers",
+            "hours": 6.44,
+            "rate": 6.49
+        },
+        {
+            "amount": 146.76,
+            "description": "monetize world-class portals",
+            "hours": 6.21,
+            "rate": 4.88
+        },
+        {
+            "amount": 20.04,
+            "description": "matrix revolutionary initiatives",
+            "hours": 8.27,
+            "rate": 2.48
+        },
+        {
+            "amount": 395.22,
+            "description": "disintermediate out-of-the-box mindshare",
+            "hours": 1.87,
+            "rate": 5.86
+        },
+        {
+            "amount": 23.9,
+            "description": "enhance web-enabled mindshare",
+            "hours": 8.46,
+            "rate": 6.63
+        },
+        {
+            "amount": 167.46,
+            "description": "matrix cutting-edge e-commerce",
+            "hours": 3.52,
+            "rate": 6.9
+        },
+        {
+            "amount": 276.51,
+            "description": "enable user-centric web-readiness",
+            "hours": 7.58,
+            "rate": 1.08
+        }
+    ],
+    "seller": {
+        "address": "68660 Reid Flat Suite 800 South Chelsea, PR 06471",
+        "email": "proctorcaitlin@example.net",
+        "name": "Christine Richardson"
+    },
+    "tax": {
+        "base": 11.87,
+        "tax_amount": 17.06,
+        "total_tax": 23.96
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "PSC 3836, Box 1954 APO AE 37514",
+        "id": "eg700"
+    },
+    "invoice": {
+        "bc_no": "SY47366",
+        "currency_code": "NPR",
+        "date": "05.02.1991",
+        "due_date": "27.08.1992",
+        "number": 877770
+    },
+    "payment": {
+        "bank_name": "Owens-Lynch",
+        "bic": "IGMAGBQL",
+        "iban": "WCAR53960383270770"
+    },
+    "products": [
+        {
+            "amount": 100.94,
+            "description": "orchestrate interactive action-items",
+            "index": "10",
+            "price": 470.05,
+            "quantity": 8.31,
+            "tax_amount": 43.27,
+            "total_ttc": 222.6,
+            "vat_amount": 4.41
+        },
+        {
+            "amount": 300.03,
+            "description": "innovate B2B infrastructures",
+            "index": "9",
+            "price": 409.5,
+            "quantity": 6.88,
+            "tax_amount": 61.45,
+            "total_ttc": 190.93,
+            "vat_amount": 6.76
+        },
+        {
+            "amount": 232.18,
+            "description": "disintermediate back-end mindshare",
+            "index": "10",
+            "price": 488.17,
+            "quantity": 2.67,
+            "tax_amount": 56.97,
+            "total_ttc": 181.47,
+            "vat_amount": 14.35
+        }
+    ],
+    "seller": {
+        "name": "Alexa Taylor"
+    },
+    "supplier": {
+        "address": "159 Luke Spurs Jamesborough, NV 09029",
+        "name": "Anita Mayer"
+    },
+    "tax": {
+        "amount_excluding_tax": 117.25,
+        "amount_including_tax": 39.33,
+        "tax_amount": 17.38,
+        "total_ht": 332.74,
+        "total_ttc": 262.96
+    }
+}

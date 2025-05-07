@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "5792 Miller Dam Suite 767 Robinsonfurt, FM 92531",
+        "id": "OP573"
+    },
+    "invoice": {
+        "bc_no": "hz92791",
+        "currency_code": "SOS",
+        "date": "22.01.2011",
+        "due_date": "10.01.2023",
+        "number": 802730
+    },
+    "payment": {
+        "bank_name": "Goodman-Davidson",
+        "bic": "AWXQGB77H0T",
+        "iban": "OFUU54801110530809"
+    },
+    "products": [
+        {
+            "amount": 410.12,
+            "description": "matrix holistic partnerships",
+            "index": "3",
+            "price": 241.23,
+            "quantity": 4.2,
+            "tax_amount": 88.32,
+            "total_ttc": 481.26,
+            "vat_amount": 8.05
+        },
+        {
+            "amount": 55.0,
+            "description": "incentivize killer applications",
+            "index": "4",
+            "price": 85.48,
+            "quantity": 2.27,
+            "tax_amount": 21.51,
+            "total_ttc": 189.03,
+            "vat_amount": 5.91
+        },
+        {
+            "amount": 332.78,
+            "description": "transform efficient interfaces",
+            "index": "3",
+            "price": 406.17,
+            "quantity": 6.15,
+            "tax_amount": 72.03,
+            "total_ttc": 248.19,
+            "vat_amount": 5.51
+        },
+        {
+            "amount": 366.13,
+            "description": "monetize B2B e-business",
+            "index": "5",
+            "price": 258.98,
+            "quantity": 9.23,
+            "tax_amount": 43.97,
+            "total_ttc": 365.73,
+            "vat_amount": 4.56
+        },
+        {
+            "amount": 301.1,
+            "description": "visualize distributed deliverables",
+            "index": "3",
+            "price": 499.06,
+            "quantity": 5.01,
+            "tax_amount": 92.42,
+            "total_ttc": 390.97,
+            "vat_amount": 2.1
+        }
+    ],
+    "seller": {
+        "name": "Raven Martin"
+    },
+    "supplier": {
+        "address": "6899 Wright Courts Jenniferville, MS 61783",
+        "name": "Carol Jones"
+    },
+    "tax": {
+        "amount_excluding_tax": 122.98,
+        "amount_including_tax": 81.02,
+        "tax_amount": 19.65,
+        "total_ht": 149.31,
+        "total_ttc": 332.86
+    }
+}

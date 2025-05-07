@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "904 Joseph Islands West Christina, MN 25264",
+        "id": "hI909"
+    },
+    "invoice": {
+        "bc_no": "iz49973",
+        "currency_code": "SOS",
+        "date": "10.08.1996",
+        "due_date": "15.10.2011",
+        "number": 515656
+    },
+    "payment": {
+        "bank_name": "Davis LLC",
+        "bic": "DZMJGBJ0SV0",
+        "iban": "NULX87716409587096"
+    },
+    "products": [
+        {
+            "amount": 157.61,
+            "description": "envisioneer ubiquitous partnerships",
+            "index": "9",
+            "price": 218.89,
+            "quantity": 9.13,
+            "tax_amount": 55.66,
+            "total_ttc": 257.11,
+            "vat_amount": 5.03
+        },
+        {
+            "amount": 12.13,
+            "description": "architect scalable systems",
+            "index": "10",
+            "price": 204.67,
+            "quantity": 5.38,
+            "tax_amount": 95.05,
+            "total_ttc": 259.7,
+            "vat_amount": 8.55
+        }
+    ],
+    "seller": {
+        "name": "Miranda Alvarez"
+    },
+    "supplier": {
+        "address": "Unit 8405 Box 3782 DPO AE 40846",
+        "name": "Jose Kennedy"
+    },
+    "tax": {
+        "amount_excluding_tax": 27.98,
+        "amount_including_tax": 61.36,
+        "tax_amount": 11.09,
+        "total_ht": 113.81,
+        "total_ttc": 271.38
+    }
+}

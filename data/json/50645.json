@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "020 Diaz Way Apt. 648 Christinaville, PW 97885",
+        "id": "vk818"
+    },
+    "invoice": {
+        "bc_no": "rK16095",
+        "currency_code": "BBD",
+        "date": "24.12.1992",
+        "due_date": "17.11.2005",
+        "number": 369912
+    },
+    "payment": {
+        "bank_name": "Smith, Prince and Lloyd",
+        "bic": "WEOXGB45SHI",
+        "iban": "KIQS78616982134373"
+    },
+    "products": [
+        {
+            "amount": 108.04,
+            "description": "synthesize B2B paradigms",
+            "index": "1",
+            "price": 129.37,
+            "quantity": 8.67,
+            "tax_amount": 91.36,
+            "total_ttc": 499.25,
+            "vat_amount": 3.38
+        },
+        {
+            "amount": 366.96,
+            "description": "engage wireless portals",
+            "index": "6",
+            "price": 94.01,
+            "quantity": 5.7,
+            "tax_amount": 38.97,
+            "total_ttc": 291.69,
+            "vat_amount": 2.09
+        },
+        {
+            "amount": 94.73,
+            "description": "redefine frictionless ROI",
+            "index": "8",
+            "price": 194.83,
+            "quantity": 2.38,
+            "tax_amount": 74.17,
+            "total_ttc": 193.44,
+            "vat_amount": 17.39
+        },
+        {
+            "amount": 353.52,
+            "description": "grow dynamic portals",
+            "index": "10",
+            "price": 79.76,
+            "quantity": 8.51,
+            "tax_amount": 19.18,
+            "total_ttc": 468.45,
+            "vat_amount": 0.27
+        },
+        {
+            "amount": 93.93,
+            "description": "implement value-added markets",
+            "index": "7",
+            "price": 175.36,
+            "quantity": 7.78,
+            "tax_amount": 84.03,
+            "total_ttc": 121.33,
+            "vat_amount": 4.73
+        },
+        {
+            "amount": 222.11,
+            "description": "synergize bricks-and-clicks synergies",
+            "index": "7",
+            "price": 126.04,
+            "quantity": 7.83,
+            "tax_amount": 40.15,
+            "total_ttc": 336.39,
+            "vat_amount": 2.19
+        },
+        {
+            "amount": 80.7,
+            "description": "seize 24/365 methodologies",
+            "index": "6",
+            "price": 288.57,
+            "quantity": 8.12,
+            "tax_amount": 74.99,
+            "total_ttc": 461.51,
+            "vat_amount": 1.77
+        }
+    ],
+    "seller": {
+        "name": "Jesse Potter"
+    },
+    "supplier": {
+        "address": "1352 Jonathan Walks Suite 090 East Lauraland, KS 05036",
+        "name": "Alexander Davis"
+    },
+    "tax": {
+        "amount_excluding_tax": 62.56,
+        "amount_including_tax": 42.38,
+        "tax_amount": 16.28,
+        "total_ht": 415.33,
+        "total_ttc": 216.87
+    }
+}

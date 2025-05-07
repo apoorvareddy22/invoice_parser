@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "4489 John Fields Apt. 464 Annettebury, CO 62604",
+        "id": "OM151"
+    },
+    "invoice": {
+        "bc_no": "OK61599",
+        "currency_code": "RON",
+        "date": "13.09.2022",
+        "due_date": "19.01.2001",
+        "number": 917637
+    },
+    "payment": {
+        "bank_name": "Nichols-Dunn",
+        "bic": "SRXIGBPK",
+        "iban": "STRX95895449429730"
+    },
+    "products": [
+        {
+            "amount": 232.43,
+            "description": "enhance efficient solutions",
+            "index": "2",
+            "price": 112.83,
+            "quantity": 4.34,
+            "tax_amount": 73.27,
+            "total_ttc": 447.95,
+            "vat_amount": 5.67
+        }
+    ],
+    "seller": {
+        "name": "Jessica Garcia"
+    },
+    "supplier": {
+        "address": "37877 Dawn Bridge Smithport, WV 87322",
+        "name": "Phillip Rivers"
+    },
+    "tax": {
+        "amount_excluding_tax": 99.95,
+        "amount_including_tax": 56.79,
+        "tax_amount": 21.87,
+        "total_ht": 130.48,
+        "total_ttc": 404.92
+    }
+}

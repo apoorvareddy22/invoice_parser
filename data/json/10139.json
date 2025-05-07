@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "10390 Natalie Grove West Ronaldside, NH 69641",
+        "email": "mariaclark@example.org",
+        "phone": "001-907-482-2592x879",
+        "vat_no": "Tw31925328492"
+    },
+    "invoice": {
+        "date": "21.03.2010",
+        "due_date": "19.12.1994",
+        "market_reference": 261783,
+        "notes": "engage mission-critical interfaces",
+        "number": "8687-1965",
+        "reference": 382341,
+        "vat_no": "LO41311420840"
+    },
+    "payment": {
+        "net_total": 175.27,
+        "total": 537.54
+    },
+    "products": [
+        {
+            "amount": 189.46,
+            "description": "synergize e-business methodologies",
+            "hours": 2.56,
+            "rate": 9.06
+        },
+        {
+            "amount": 166.43,
+            "description": "generate intuitive infrastructures",
+            "hours": 8.05,
+            "rate": 7.83
+        },
+        {
+            "amount": 249.43,
+            "description": "benchmark dynamic infrastructures",
+            "hours": 9.76,
+            "rate": 4.18
+        },
+        {
+            "amount": 131.26,
+            "description": "synergize robust experiences",
+            "hours": 6.47,
+            "rate": 6.28
+        },
+        {
+            "amount": 92.88,
+            "description": "target web-enabled initiatives",
+            "hours": 3.22,
+            "rate": 2.23
+        },
+        {
+            "amount": 310.7,
+            "description": "drive web-enabled technologies",
+            "hours": 8.75,
+            "rate": 9.24
+        }
+    ],
+    "seller": {
+        "address": "20972 Matthew Squares Amandamouth, MI 14601",
+        "email": "nwilliams@example.org",
+        "name": "Beth Dunn"
+    },
+    "tax": {
+        "base": 29.17,
+        "tax_amount": 15.78,
+        "total_tax": 29.11
+    }
+}

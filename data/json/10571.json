@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "2650 Richardson Cove Dixonstad, ID 29059",
+        "email": "zvalencia@example.org",
+        "phone": "352.609.4724x93562",
+        "vat_no": "cA59253696997"
+    },
+    "invoice": {
+        "date": "19.07.2007",
+        "due_date": "14.09.2007",
+        "market_reference": 398616,
+        "notes": "innovate global e-tailers",
+        "number": "4423-8735",
+        "reference": 955616,
+        "vat_no": "KG66440154586"
+    },
+    "payment": {
+        "net_total": 147.19,
+        "total": 843.74
+    },
+    "products": [
+        {
+            "amount": 31.28,
+            "description": "orchestrate front-end ROI",
+            "hours": 5.39,
+            "rate": 1.13
+        }
+    ],
+    "seller": {
+        "address": "30329 Weber Rue North Leebury, MS 29702",
+        "email": "zoe45@example.com",
+        "name": "Jon Gilmore"
+    },
+    "tax": {
+        "base": 17.17,
+        "tax_amount": 23.74,
+        "total_tax": 21.03
+    }
+}

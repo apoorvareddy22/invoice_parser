@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "6891 Campbell Manors Apt. 135 Justinland, NE 41784"
+    },
+    "invoice": {
+        "bc_no": "HP46359",
+        "date": "22.08.1991",
+        "maturity_date": "04.12.1992",
+        "number": 482027
+    },
+    "products": [
+        {
+            "amount": 451.97,
+            "description": "unleash efficient markets",
+            "quantity": 4.81,
+            "unit_price": 42.62,
+            "vat_amount": 3.16
+        },
+        {
+            "amount": 419.83,
+            "description": "grow strategic systems",
+            "quantity": 4.87,
+            "unit_price": 23.68,
+            "vat_amount": 11.98
+        }
+    ],
+    "seller": {
+        "address": "77766 Todd Divide Lewisstad, TX 08391"
+    },
+    "tax": {
+        "amount_excluding_tax": 123.7,
+        "amount_including_tax": 185.98,
+        "tax_amount": 15.28
+    }
+}

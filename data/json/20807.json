@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "PSC 2238, Box 1625 APO AP 65285",
+        "company_name": "Fields-Garcia",
+        "email": "betty63@example.com",
+        "name": "Haley Butler",
+        "phone": "(633)534-5143"
+    },
+    "invoice": {
+        "date": "27.02.2005",
+        "due_date": "03.12.2020",
+        "number": "Doc14469884979"
+    },
+    "payment": {
+        "account_number": 3560539131,
+        "bank_name": "Black, Taylor and Mann",
+        "routing_number": 199836134
+    },
+    "products": [
+        {
+            "amount": 438.18,
+            "description": "repurpose cross-media relationships",
+            "index": "5",
+            "quantity": 3.7,
+            "unit_price": 18.87
+        }
+    ],
+    "seller": {
+        "address": "PSC 0799, Box 8001 APO AP 34293",
+        "company_name": "Smith, Rose and Perez",
+        "email": "dawn96@example.com"
+    }
+}

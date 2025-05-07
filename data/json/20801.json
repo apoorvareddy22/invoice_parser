@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "6194 Karl Ports West Waynestad, UT 90787",
+        "company_name": "Sanchez, Goodwin and Thomas",
+        "email": "wilkinsonlaurie@example.org",
+        "name": "Lisa Hurley",
+        "phone": "619.602.3560"
+    },
+    "invoice": {
+        "date": "29.09.1995",
+        "due_date": "16.06.2015",
+        "number": "QWa24329830908"
+    },
+    "payment": {
+        "account_number": 9227227002,
+        "bank_name": "Lee-Hawkins",
+        "routing_number": 178028053
+    },
+    "products": [
+        {
+            "amount": 264.91,
+            "description": "engage next-generation mindshare",
+            "index": "7",
+            "quantity": 9.68,
+            "unit_price": 69.61
+        },
+        {
+            "amount": 415.27,
+            "description": "facilitate best-of-breed systems",
+            "index": "10",
+            "quantity": 5.06,
+            "unit_price": 24.26
+        },
+        {
+            "amount": 347.37,
+            "description": "engage next-generation networks",
+            "index": "1",
+            "quantity": 3.83,
+            "unit_price": 29.41
+        },
+        {
+            "amount": 227.29,
+            "description": "deploy leading-edge convergence",
+            "index": "3",
+            "quantity": 5.72,
+            "unit_price": 46.86
+        },
+        {
+            "amount": 404.62,
+            "description": "implement open-source functionalities",
+            "index": "4",
+            "quantity": 2.63,
+            "unit_price": 51.34
+        }
+    ],
+    "seller": {
+        "address": "0915 Foster Inlet Suite 283 Lanehaven, FM 02934",
+        "company_name": "Stephens, Jacobson and Lewis",
+        "email": "wendy46@example.net"
+    }
+}

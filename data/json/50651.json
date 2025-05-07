@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "317 Joseph Wall Apt. 791 East Kara, SD 64738",
+        "id": "fs382"
+    },
+    "invoice": {
+        "bc_no": "RL82620",
+        "currency_code": "GGP",
+        "date": "10.04.2018",
+        "due_date": "05.01.2002",
+        "number": 698024
+    },
+    "payment": {
+        "bank_name": "Sweeney Inc",
+        "bic": "UDMCGBZ8CHM",
+        "iban": "WKRC65215776220569"
+    },
+    "products": [
+        {
+            "amount": 207.47,
+            "description": "engage turn-key infrastructures",
+            "index": "9",
+            "price": 42.31,
+            "quantity": 8.68,
+            "tax_amount": 64.15,
+            "total_ttc": 393.6,
+            "vat_amount": 1.53
+        },
+        {
+            "amount": 48.92,
+            "description": "drive granular methodologies",
+            "index": "5",
+            "price": 351.35,
+            "quantity": 5.69,
+            "tax_amount": 60.14,
+            "total_ttc": 376.17,
+            "vat_amount": 6.75
+        },
+        {
+            "amount": 334.14,
+            "description": "evolve compelling relationships",
+            "index": "1",
+            "price": 93.33,
+            "quantity": 5.66,
+            "tax_amount": 64.8,
+            "total_ttc": 197.49,
+            "vat_amount": 0.92
+        }
+    ],
+    "seller": {
+        "name": "Caitlin Rodriguez"
+    },
+    "supplier": {
+        "address": "301 Houston Gateway Allenmouth, MS 38027",
+        "name": "Sean Herman"
+    },
+    "tax": {
+        "amount_excluding_tax": 86.21,
+        "amount_including_tax": 111.03,
+        "tax_amount": 26.54,
+        "total_ht": 121.49,
+        "total_ttc": 277.71
+    }
+}

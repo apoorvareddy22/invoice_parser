@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "9086 Nicole Plain Christopherport, WV 88183",
+        "id": "xL663"
+    },
+    "invoice": {
+        "bc_no": "Oa18567",
+        "currency_code": "PAB",
+        "date": "25.05.1990",
+        "due_date": "27.12.1999",
+        "number": 988052
+    },
+    "payment": {
+        "bank_name": "Long Ltd",
+        "bic": "VDOYGB5Q",
+        "iban": "FUQG39885694493562"
+    },
+    "products": [
+        {
+            "amount": 187.8,
+            "description": "leverage B2C e-markets",
+            "index": "6",
+            "price": 341.89,
+            "quantity": 5.62,
+            "tax_amount": 13.65,
+            "total_ttc": 453.22,
+            "vat_amount": 9.93
+        },
+        {
+            "amount": 234.9,
+            "description": "re-contextualize frictionless e-tailers",
+            "index": "5",
+            "price": 388.22,
+            "quantity": 2.23,
+            "tax_amount": 73.42,
+            "total_ttc": 210.96,
+            "vat_amount": 0.39
+        },
+        {
+            "amount": 383.43,
+            "description": "unleash granular vortals",
+            "index": "4",
+            "price": 311.34,
+            "quantity": 6.44,
+            "tax_amount": 85.5,
+            "total_ttc": 146.63,
+            "vat_amount": 8.45
+        },
+        {
+            "amount": 389.45,
+            "description": "revolutionize next-generation relationships",
+            "index": "3",
+            "price": 307.77,
+            "quantity": 8.15,
+            "tax_amount": 95.23,
+            "total_ttc": 255.84,
+            "vat_amount": 14.28
+        },
+        {
+            "amount": 41.16,
+            "description": "scale clicks-and-mortar paradigms",
+            "index": "1",
+            "price": 235.61,
+            "quantity": 4.28,
+            "tax_amount": 43.79,
+            "total_ttc": 266.12,
+            "vat_amount": 0.31
+        },
+        {
+            "amount": 98.97,
+            "description": "facilitate impactful schemas",
+            "index": "7",
+            "price": 132.17,
+            "quantity": 4.35,
+            "tax_amount": 37.7,
+            "total_ttc": 334.19,
+            "vat_amount": 14.92
+        },
+        {
+            "amount": 270.55,
+            "description": "innovate visionary functionalities",
+            "index": "6",
+            "price": 245.65,
+            "quantity": 9.21,
+            "tax_amount": 89.28,
+            "total_ttc": 257.47,
+            "vat_amount": 3.13
+        }
+    ],
+    "seller": {
+        "name": "Tammy Fletcher"
+    },
+    "supplier": {
+        "address": "0663 Hansen Underpass Apt. 976 North Stephanie, AK 65779",
+        "name": "Amy Weiss"
+    },
+    "tax": {
+        "amount_excluding_tax": 144.48,
+        "amount_including_tax": 50.74,
+        "tax_amount": 29.16,
+        "total_ht": 465.7,
+        "total_ttc": 469.85
+    }
+}

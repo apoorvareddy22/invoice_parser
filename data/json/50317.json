@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "802 Phyllis Divide Lesliestad, HI 19860",
+        "id": "od743"
+    },
+    "invoice": {
+        "bc_no": "BE57374",
+        "currency_code": "SBD",
+        "date": "17.04.2020",
+        "due_date": "06.08.1996",
+        "number": 868585
+    },
+    "payment": {
+        "bank_name": "Edwards and Sons",
+        "bic": "NTWNGBBGCTH",
+        "iban": "NMRV53922636345892"
+    },
+    "products": [
+        {
+            "amount": 238.27,
+            "description": "integrate frictionless applications",
+            "index": "8",
+            "price": 224.62,
+            "quantity": 5.38,
+            "tax_amount": 36.14,
+            "total_ttc": 484.63,
+            "vat_amount": 6.15
+        },
+        {
+            "amount": 48.92,
+            "description": "embrace robust supply-chains",
+            "index": "4",
+            "price": 343.34,
+            "quantity": 3.09,
+            "tax_amount": 21.98,
+            "total_ttc": 497.52,
+            "vat_amount": 14.17
+        },
+        {
+            "amount": 165.29,
+            "description": "expedite mission-critical solutions",
+            "index": "8",
+            "price": 59.2,
+            "quantity": 4.9,
+            "tax_amount": 63.68,
+            "total_ttc": 273.8,
+            "vat_amount": 4.87
+        },
+        {
+            "amount": 378.55,
+            "description": "brand plug-and-play platforms",
+            "index": "8",
+            "price": 458.62,
+            "quantity": 9.2,
+            "tax_amount": 33.38,
+            "total_ttc": 172.89,
+            "vat_amount": 1.54
+        },
+        {
+            "amount": 144.16,
+            "description": "re-contextualize transparent channels",
+            "index": "7",
+            "price": 498.91,
+            "quantity": 8.91,
+            "tax_amount": 63.46,
+            "total_ttc": 145.31,
+            "vat_amount": 2.74
+        }
+    ],
+    "seller": {
+        "name": "Grace Thomas"
+    },
+    "supplier": {
+        "address": "51308 Charles Cliff Lake Steventon, GA 45981",
+        "name": "April Sanchez"
+    },
+    "tax": {
+        "amount_excluding_tax": 115.29,
+        "amount_including_tax": 70.57,
+        "tax_amount": 18.45,
+        "total_ht": 476.21,
+        "total_ttc": 157.24
+    }
+}

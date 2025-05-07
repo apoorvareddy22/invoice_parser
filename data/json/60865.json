@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "3867 Matthew Groves Juliaside, OR 30880",
+        "business_no": "aY196",
+        "id": "Ln644"
+    },
+    "invoice": {
+        "date": "05.03.2017",
+        "number": "2843-2786"
+    },
+    "payment": {
+        "due_date": "27.01.2001",
+        "total": 564.32
+    },
+    "products": [
+        {
+            "amount": 49.49,
+            "description": "whiteboard extensible deliverables",
+            "quantity": 6.44,
+            "reference": "hQ-037",
+            "unit_price": 73.36
+        }
+    ],
+    "seller": {
+        "address": "99466 Gray Club Suite 294 New Johnberg, MN 67136"
+    },
+    "tax": {
+        "base_ht": 261.49,
+        "regulations": 15.88,
+        "total_ht": 300.97,
+        "vat_amount": 99.06,
+        "vat_percentage": 25.91
+    }
+}

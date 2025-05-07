@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "137 Garcia Land Apt. 013 Port Gregoryport, AL 41481",
+        "business_no": "dZ428",
+        "id": "NK504"
+    },
+    "invoice": {
+        "date": "23.10.1999",
+        "number": "5245-4280"
+    },
+    "payment": {
+        "due_date": "24.01.2002",
+        "total": 481.17
+    },
+    "products": [
+        {
+            "amount": 374.73,
+            "description": "target collaborative technologies",
+            "quantity": 6.98,
+            "reference": "rq-252",
+            "unit_price": 67.65
+        }
+    ],
+    "seller": {
+        "address": "3956 Long Park Simonchester, MD 55870"
+    },
+    "tax": {
+        "base_ht": 153.08,
+        "regulations": 10.08,
+        "total_ht": 209.24,
+        "vat_amount": 112.3,
+        "vat_percentage": 27.55
+    }
+}

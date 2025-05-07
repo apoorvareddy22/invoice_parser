@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "804 Tracy Corner Lindseyborough, RI 04024"
+    },
+    "invoice": {
+        "bc_no": "Og69902",
+        "date": "05.06.2009",
+        "maturity_date": "10.04.1991",
+        "number": 805881
+    },
+    "products": [
+        {
+            "amount": 283.29,
+            "description": "e-enable out-of-the-box networks",
+            "quantity": 2.55,
+            "unit_price": 70.86,
+            "vat_amount": 4.26
+        },
+        {
+            "amount": 427.59,
+            "description": "extend end-to-end web-readiness",
+            "quantity": 3.81,
+            "unit_price": 69.51,
+            "vat_amount": 6.78
+        },
+        {
+            "amount": 362.3,
+            "description": "transition wireless users",
+            "quantity": 7.01,
+            "unit_price": 89.52,
+            "vat_amount": 4.31
+        }
+    ],
+    "seller": {
+        "address": "484 Alan Inlet East Valerieland, AZ 39849"
+    },
+    "tax": {
+        "amount_excluding_tax": 21.61,
+        "amount_including_tax": 133.42,
+        "tax_amount": 19.25
+    }
+}

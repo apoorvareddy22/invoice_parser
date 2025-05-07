@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "Unit 2272 Box 1715 DPO AE 13725",
+        "email": "greermartin@example.com",
+        "phone": "(697)654-3376x228",
+        "vat_no": "Yf86490471609"
+    },
+    "invoice": {
+        "date": "04.10.1995",
+        "due_date": "01.03.2022",
+        "market_reference": 671947,
+        "notes": "engineer intuitive portals",
+        "number": "7509-3022",
+        "reference": 129016,
+        "vat_no": "na86539962683"
+    },
+    "payment": {
+        "net_total": 182.49,
+        "total": 821.91
+    },
+    "products": [
+        {
+            "amount": 372.24,
+            "description": "utilize extensible deliverables",
+            "hours": 9.42,
+            "rate": 3.62
+        },
+        {
+            "amount": 268.18,
+            "description": "transform scalable metrics",
+            "hours": 7.39,
+            "rate": 5.34
+        },
+        {
+            "amount": 454.69,
+            "description": "grow intuitive deliverables",
+            "hours": 8.27,
+            "rate": 9.24
+        },
+        {
+            "amount": 73.08,
+            "description": "exploit back-end e-markets",
+            "hours": 3.22,
+            "rate": 3.93
+        }
+    ],
+    "seller": {
+        "address": "88458 Scott Islands Lake Andreachester, OR 37030",
+        "email": "johnsonalejandro@example.org",
+        "name": "Heidi Brown"
+    },
+    "tax": {
+        "base": 11.99,
+        "tax_amount": 27.36,
+        "total_tax": 23.98
+    }
+}

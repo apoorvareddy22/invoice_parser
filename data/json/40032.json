@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "512 Burns Lock West Patrickberg, AK 13920"
+    },
+    "invoice": {
+        "bc_no": "Ne56868",
+        "date": "15.02.2012",
+        "maturity_date": "25.07.2014",
+        "number": 294552
+    },
+    "products": [
+        {
+            "amount": 457.02,
+            "description": "disintermediate leading-edge deliverables",
+            "quantity": 9.65,
+            "unit_price": 30.65,
+            "vat_amount": 14.68
+        },
+        {
+            "amount": 108.23,
+            "description": "expedite innovative applications",
+            "quantity": 1.78,
+            "unit_price": 40.62,
+            "vat_amount": 3.48
+        },
+        {
+            "amount": 57.0,
+            "description": "target user-centric e-tailers",
+            "quantity": 5.69,
+            "unit_price": 59.83,
+            "vat_amount": 2.32
+        },
+        {
+            "amount": 355.24,
+            "description": "engage value-added e-tailers",
+            "quantity": 2.58,
+            "unit_price": 11.46,
+            "vat_amount": 2.81
+        },
+        {
+            "amount": 214.81,
+            "description": "optimize bricks-and-clicks synergies",
+            "quantity": 2.37,
+            "unit_price": 90.45,
+            "vat_amount": 1.01
+        },
+        {
+            "amount": 203.52,
+            "description": "innovate ubiquitous functionalities",
+            "quantity": 5.63,
+            "unit_price": 75.3,
+            "vat_amount": 10.2
+        }
+    ],
+    "seller": {
+        "address": "999 Matthew Drive Apt. 574 Walshmouth, IL 39282"
+    },
+    "tax": {
+        "amount_excluding_tax": 89.63,
+        "amount_including_tax": 197.32,
+        "tax_amount": 21.82
+    }
+}

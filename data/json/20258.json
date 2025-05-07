@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "PSC 1575, Box 1239 APO AP 11375",
+        "company_name": "Fuller, Brown and Porter",
+        "email": "woodmegan@example.com",
+        "name": "Patricia Peterson",
+        "phone": "(972)204-1967"
+    },
+    "invoice": {
+        "date": "05.03.2014",
+        "due_date": "20.02.1996",
+        "number": "pMn50738325202"
+    },
+    "payment": {
+        "account_number": 2222221561,
+        "bank_name": "Carter-Brown",
+        "routing_number": 612974479
+    },
+    "products": [
+        {
+            "amount": 282.34,
+            "description": "generate transparent systems",
+            "index": "9",
+            "quantity": 9.39,
+            "unit_price": 62.13
+        },
+        {
+            "amount": 478.39,
+            "description": "syndicate B2B bandwidth",
+            "index": "3",
+            "quantity": 2.22,
+            "unit_price": 47.14
+        },
+        {
+            "amount": 229.36,
+            "description": "iterate web-enabled partnerships",
+            "index": "4",
+            "quantity": 1.56,
+            "unit_price": 25.4
+        }
+    ],
+    "seller": {
+        "address": "619 Reynolds Crossing Suite 459 Pooleport, NM 86955",
+        "company_name": "Rivas-Gray",
+        "email": "jchambers@example.org"
+    }
+}

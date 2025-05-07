@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "6641 John Trafficway Suite 399 East Michaelburgh, CA 62542",
+        "id": "Fi675"
+    },
+    "invoice": {
+        "bc_no": "CW20295",
+        "currency_code": "THB",
+        "date": "17.04.2020",
+        "due_date": "15.11.2004",
+        "number": 417299
+    },
+    "payment": {
+        "bank_name": "Torres-Washington",
+        "bic": "HEKEGBXJY63",
+        "iban": "WHZM92017491242309"
+    },
+    "products": [
+        {
+            "amount": 319.97,
+            "description": "envisioneer revolutionary bandwidth",
+            "index": "3",
+            "price": 142.54,
+            "quantity": 7.66,
+            "tax_amount": 78.21,
+            "total_ttc": 422.63,
+            "vat_amount": 6.62
+        },
+        {
+            "amount": 128.4,
+            "description": "extend magnetic networks",
+            "index": "8",
+            "price": 470.31,
+            "quantity": 9.2,
+            "tax_amount": 55.77,
+            "total_ttc": 104.25,
+            "vat_amount": 1.36
+        }
+    ],
+    "seller": {
+        "name": "Mary Woodard"
+    },
+    "supplier": {
+        "address": "5646 Angel Pine Hayesberg, PW 30669",
+        "name": "Michael Peters"
+    },
+    "tax": {
+        "amount_excluding_tax": 73.01,
+        "amount_including_tax": 113.81,
+        "tax_amount": 25.42,
+        "total_ht": 421.02,
+        "total_ttc": 356.21
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "8813 Lauren Bypass Apt. 179 South Sherrifurt, OH 40354"
+    },
+    "invoice": {
+        "bc_no": "XQ16424",
+        "date": "10.08.2018",
+        "maturity_date": "23.10.1998",
+        "number": 963010
+    },
+    "products": [
+        {
+            "amount": 157.9,
+            "description": "optimize next-generation ROI",
+            "quantity": 6.57,
+            "unit_price": 44.36,
+            "vat_amount": 6.83
+        },
+        {
+            "amount": 152.58,
+            "description": "morph ubiquitous content",
+            "quantity": 8.72,
+            "unit_price": 13.43,
+            "vat_amount": 7.3
+        },
+        {
+            "amount": 208.0,
+            "description": "utilize viral info-mediaries",
+            "quantity": 5.79,
+            "unit_price": 16.28,
+            "vat_amount": 1.41
+        }
+    ],
+    "seller": {
+        "address": "32391 Paul Turnpike West Larry, NY 07597"
+    },
+    "tax": {
+        "amount_excluding_tax": 174.36,
+        "amount_including_tax": 118.28,
+        "tax_amount": 16.03
+    }
+}

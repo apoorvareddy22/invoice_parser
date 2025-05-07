@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "6613 Nicole View Suite 042 North Stevenbury, MD 65432",
+        "business_no": "hV699",
+        "id": "FX557"
+    },
+    "invoice": {
+        "date": "13.12.2002",
+        "number": "5573-8501"
+    },
+    "payment": {
+        "due_date": "23.09.2003",
+        "total": 510.28
+    },
+    "products": [
+        {
+            "amount": 313.05,
+            "description": "empower sticky action-items",
+            "quantity": 5.83,
+            "reference": "SJ-759",
+            "unit_price": 40.47
+        }
+    ],
+    "seller": {
+        "address": "3915 Christine Hill Apt. 063 Jenkinsmouth, WY 22950"
+    },
+    "tax": {
+        "base_ht": 295.07,
+        "regulations": 27.08,
+        "total_ht": 490.31,
+        "vat_amount": 77.8,
+        "vat_percentage": 28.47
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "9530 Davis Hill New Jenniferborough, MP 60517",
+        "email": "hartross@example.net",
+        "phone": "(519)602-8844x19475",
+        "vat_no": "Kg45322493941"
+    },
+    "invoice": {
+        "date": "19.02.1998",
+        "due_date": "22.06.2016",
+        "market_reference": 369468,
+        "notes": "deploy enterprise web services",
+        "number": "5388-9710",
+        "reference": 529014,
+        "vat_no": "Ny05523933509"
+    },
+    "payment": {
+        "net_total": 147.04,
+        "total": 812.82
+    },
+    "products": [
+        {
+            "amount": 201.94,
+            "description": "architect scalable infrastructures",
+            "hours": 2.41,
+            "rate": 7.27
+        }
+    ],
+    "seller": {
+        "address": "0598 Rodriguez Prairie Oscarstad, FL 31474",
+        "email": "angela72@example.org",
+        "name": "Alexander Murray"
+    },
+    "tax": {
+        "base": 19.78,
+        "tax_amount": 18.68,
+        "total_tax": 28.04
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "704 Edward Neck New Matthew, GA 78849",
+        "business_no": "ot167",
+        "id": "HS141"
+    },
+    "invoice": {
+        "date": "24.02.2017",
+        "number": "2882-9306"
+    },
+    "payment": {
+        "due_date": "30.06.2022",
+        "total": 433.93
+    },
+    "products": [
+        {
+            "amount": 275.09,
+            "description": "grow efficient e-markets",
+            "quantity": 3.76,
+            "reference": "gy-137",
+            "unit_price": 62.13
+        },
+        {
+            "amount": 181.79,
+            "description": "morph frictionless action-items",
+            "quantity": 6.68,
+            "reference": "Wi-954",
+            "unit_price": 10.68
+        }
+    ],
+    "seller": {
+        "address": "3358 Alicia Motorway South Jeffrey, NE 68622"
+    },
+    "tax": {
+        "base_ht": 196.87,
+        "regulations": 24.55,
+        "total_ht": 468.28,
+        "vat_amount": 188.33,
+        "vat_percentage": 25.39
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "790 Michelle Flat West Matthewview, KS 04665"
+    },
+    "invoice": {
+        "bc_no": "aj45882",
+        "date": "12.09.1992",
+        "maturity_date": "02.09.2016",
+        "number": 693350
+    },
+    "products": [
+        {
+            "amount": 317.09,
+            "description": "morph enterprise bandwidth",
+            "quantity": 1.42,
+            "unit_price": 17.56,
+            "vat_amount": 9.55
+        }
+    ],
+    "seller": {
+        "address": "244 Oliver Flats Apt. 829 Port Nicole, AL 15196"
+    },
+    "tax": {
+        "amount_excluding_tax": 104.45,
+        "amount_including_tax": 94.31,
+        "tax_amount": 22.78
+    }
+}

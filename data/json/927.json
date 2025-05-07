@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "423 Freeman Flat Apt. 544 Kellychester, IL 62023",
+        "company_name": "Clay, Potts and Moore",
+        "country": "Montenegro",
+        "name": "Jasmin Stone"
+    },
+    "invoice": {
+        "date": "11.01.1998",
+        "number": 714282
+    },
+    "payment": {
+        "discount_amount": 43.98,
+        "discount_percentage": 18.25,
+        "due": 119.9,
+        "sub_total": 146.93,
+        "total": 241.56
+    },
+    "products": [
+        {
+            "description": "orchestrate dot-com synergies",
+            "index": "3",
+            "quantity": 5.0,
+            "total_price": 666.55,
+            "unit_price": 37.85
+        },
+        {
+            "description": "re-intermediate one-to-one solutions",
+            "index": "7",
+            "quantity": 8.57,
+            "total_price": 669.15,
+            "unit_price": 83.79
+        },
+        {
+            "description": "engage interactive action-items",
+            "index": "7",
+            "quantity": 9.67,
+            "total_price": 262.23,
+            "unit_price": 34.13
+        }
+    ],
+    "seller": {
+        "address": "PSC 1671, Box 8000 APO AE 63436",
+        "company_name": "Stevens-West",
+        "vat_no": "Ku37053897076"
+    }
+}

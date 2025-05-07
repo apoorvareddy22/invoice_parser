@@ -1,0 +1,70 @@
+{
+    "buyer": {
+        "address": "7733 Lee Square Suite 443 North Larry, DC 39878"
+    },
+    "invoice": {
+        "bc_no": "TK05272",
+        "date": "11.04.2011",
+        "maturity_date": "03.08.2012",
+        "number": 124951
+    },
+    "products": [
+        {
+            "amount": 81.71,
+            "description": "reinvent next-generation niches",
+            "quantity": 6.05,
+            "unit_price": 52.59,
+            "vat_amount": 1.27
+        },
+        {
+            "amount": 341.15,
+            "description": "e-enable global content",
+            "quantity": 1.87,
+            "unit_price": 43.39,
+            "vat_amount": 3.5
+        },
+        {
+            "amount": 433.4,
+            "description": "drive front-end relationships",
+            "quantity": 1.58,
+            "unit_price": 34.23,
+            "vat_amount": 11.44
+        },
+        {
+            "amount": 95.68,
+            "description": "incentivize interactive niches",
+            "quantity": 2.63,
+            "unit_price": 65.63,
+            "vat_amount": 5.79
+        },
+        {
+            "amount": 437.7,
+            "description": "incentivize value-added networks",
+            "quantity": 6.07,
+            "unit_price": 62.3,
+            "vat_amount": 3.86
+        },
+        {
+            "amount": 143.12,
+            "description": "aggregate intuitive channels",
+            "quantity": 1.67,
+            "unit_price": 51.37,
+            "vat_amount": 3.05
+        },
+        {
+            "amount": 35.21,
+            "description": "aggregate cross-media solutions",
+            "quantity": 9.61,
+            "unit_price": 96.32,
+            "vat_amount": 15.12
+        }
+    ],
+    "seller": {
+        "address": "366 Michelle Cliffs New Carolynview, OH 41399"
+    },
+    "tax": {
+        "amount_excluding_tax": 100.78,
+        "amount_including_tax": 59.23,
+        "tax_amount": 15.45
+    }
+}

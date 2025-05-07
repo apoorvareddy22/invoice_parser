@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "87646 Curtis Club Apt. 676 East George, AS 62226",
+        "business_no": "lf563",
+        "id": "Ol391"
+    },
+    "invoice": {
+        "date": "20.05.2014",
+        "number": "1819-3650"
+    },
+    "payment": {
+        "due_date": "18.08.2022",
+        "total": 646.47
+    },
+    "products": [
+        {
+            "amount": 408.97,
+            "description": "cultivate killer experiences",
+            "quantity": 5.73,
+            "reference": "tp-437",
+            "unit_price": 76.72
+        },
+        {
+            "amount": 158.82,
+            "description": "incentivize integrated channels",
+            "quantity": 9.76,
+            "reference": "No-331",
+            "unit_price": 89.34
+        }
+    ],
+    "seller": {
+        "address": "590 George Ways Jacobsburgh, AR 47992"
+    },
+    "tax": {
+        "base_ht": 169.31,
+        "regulations": 29.17,
+        "total_ht": 225.92,
+        "vat_amount": 174.48,
+        "vat_percentage": 17.48
+    }
+}

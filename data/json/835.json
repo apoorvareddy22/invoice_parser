@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "9356 Gamble Haven Suite 332 Nataliefort, CO 41558",
+        "company_name": "Bean, Green and Oconnell",
+        "country": "Greenland",
+        "name": "John Garcia"
+    },
+    "invoice": {
+        "date": "02.07.1994",
+        "number": 609588
+    },
+    "payment": {
+        "discount_amount": 21.66,
+        "discount_percentage": 18.35,
+        "due": 124.67,
+        "sub_total": 152.9,
+        "total": 673.51
+    },
+    "products": [
+        {
+            "description": "innovate intuitive supply-chains",
+            "index": "10",
+            "quantity": 4.75,
+            "total_price": 967.04,
+            "unit_price": 62.75
+        },
+        {
+            "description": "re-contextualize revolutionary web services",
+            "index": "4",
+            "quantity": 3.94,
+            "total_price": 856.21,
+            "unit_price": 11.09
+        }
+    ],
+    "seller": {
+        "address": "089 Perez Islands Suite 865 Andreashire, WV 21438",
+        "company_name": "Hicks, Morgan and Butler",
+        "vat_no": "oW54456735265"
+    }
+}

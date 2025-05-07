@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "8869 John Burg Johnsonbury, TN 55984",
+        "email": "hbarker@example.org",
+        "phone": "(852)709-7107x69382",
+        "vat_no": "LE00888245578"
+    },
+    "invoice": {
+        "date": "24.11.2020",
+        "due_date": "07.12.2022",
+        "market_reference": 690698,
+        "notes": "optimize cross-platform web-readiness",
+        "number": "3686-6200",
+        "reference": 429231,
+        "vat_no": "nv56159512274"
+    },
+    "payment": {
+        "net_total": 156.65,
+        "total": 774.48
+    },
+    "products": [
+        {
+            "amount": 162.47,
+            "description": "e-enable granular interfaces",
+            "hours": 4.79,
+            "rate": 9.93
+        },
+        {
+            "amount": 456.19,
+            "description": "integrate scalable metrics",
+            "hours": 2.01,
+            "rate": 5.29
+        }
+    ],
+    "seller": {
+        "address": "98639 Huber Brooks Apt. 934 West Jenniferberg, MI 23260",
+        "email": "clementsmelissa@example.net",
+        "name": "Taylor Acosta"
+    },
+    "tax": {
+        "base": 16.14,
+        "tax_amount": 23.49,
+        "total_tax": 27.37
+    }
+}

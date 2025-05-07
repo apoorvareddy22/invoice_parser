@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "602 Emily Extension West Charlesstad, MN 70603",
+        "business_no": "EY267",
+        "id": "gp600"
+    },
+    "invoice": {
+        "date": "17.09.1990",
+        "number": "0421-0819"
+    },
+    "payment": {
+        "due_date": "14.09.2013",
+        "total": 633.17
+    },
+    "products": [
+        {
+            "amount": 438.79,
+            "description": "redefine scalable experiences",
+            "quantity": 7.12,
+            "reference": "dN-788",
+            "unit_price": 50.37
+        },
+        {
+            "amount": 303.35,
+            "description": "redefine rich initiatives",
+            "quantity": 4.83,
+            "reference": "KQ-015",
+            "unit_price": 81.21
+        },
+        {
+            "amount": 245.84,
+            "description": "engage leading-edge metrics",
+            "quantity": 6.44,
+            "reference": "kC-306",
+            "unit_price": 25.55
+        },
+        {
+            "amount": 478.3,
+            "description": "disintermediate efficient content",
+            "quantity": 6.98,
+            "reference": "nY-283",
+            "unit_price": 43.55
+        }
+    ],
+    "seller": {
+        "address": "5650 Brian Island Apt. 065 North Randystad, DC 26106"
+    },
+    "tax": {
+        "base_ht": 322.23,
+        "regulations": 20.6,
+        "total_ht": 341.34,
+        "vat_amount": 19.92,
+        "vat_percentage": 19.31
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "835 Webb Shoals Quinnshire, VT 04070",
+        "id": "ub632"
+    },
+    "invoice": {
+        "bc_no": "cl96190",
+        "currency_code": "AWG",
+        "date": "01.06.1998",
+        "due_date": "04.10.2012",
+        "number": 632944
+    },
+    "payment": {
+        "bank_name": "Ellis, Taylor and Jones",
+        "bic": "ZBWXGB238ZA",
+        "iban": "EYAJ21409129720165"
+    },
+    "products": [
+        {
+            "amount": 236.1,
+            "description": "transform user-centric content",
+            "index": "5",
+            "price": 395.29,
+            "quantity": 7.98,
+            "tax_amount": 51.22,
+            "total_ttc": 417.14,
+            "vat_amount": 2.72
+        },
+        {
+            "amount": 261.06,
+            "description": "enhance cutting-edge content",
+            "index": "8",
+            "price": 134.15,
+            "quantity": 6.01,
+            "tax_amount": 87.86,
+            "total_ttc": 320.9,
+            "vat_amount": 1.48
+        },
+        {
+            "amount": 25.0,
+            "description": "e-enable leading-edge synergies",
+            "index": "7",
+            "price": 150.99,
+            "quantity": 2.03,
+            "tax_amount": 11.95,
+            "total_ttc": 428.16,
+            "vat_amount": 2.71
+        },
+        {
+            "amount": 417.42,
+            "description": "re-contextualize killer interfaces",
+            "index": "4",
+            "price": 272.85,
+            "quantity": 2.79,
+            "tax_amount": 95.33,
+            "total_ttc": 139.9,
+            "vat_amount": 1.81
+        }
+    ],
+    "seller": {
+        "name": "Jennifer Johnson"
+    },
+    "supplier": {
+        "address": "2077 Chloe Forges Suite 549 East Tiffanyborough, NV 96623",
+        "name": "Christopher Henry"
+    },
+    "tax": {
+        "amount_excluding_tax": 95.51,
+        "amount_including_tax": 110.96,
+        "tax_amount": 19.93,
+        "total_ht": 314.06,
+        "total_ttc": 138.22
+    }
+}

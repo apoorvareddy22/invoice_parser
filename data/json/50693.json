@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "287 Strickland Inlet Alexanderburgh, ID 49656",
+        "id": "Hx432"
+    },
+    "invoice": {
+        "bc_no": "xY95504",
+        "currency_code": "KHR",
+        "date": "02.09.2002",
+        "due_date": "21.12.2000",
+        "number": 741759
+    },
+    "payment": {
+        "bank_name": "Perkins, Koch and Haynes",
+        "bic": "OEHQGB8F",
+        "iban": "OTQO12670782496484"
+    },
+    "products": [
+        {
+            "amount": 440.91,
+            "description": "architect mission-critical initiatives",
+            "index": "8",
+            "price": 287.64,
+            "quantity": 9.92,
+            "tax_amount": 77.75,
+            "total_ttc": 261.9,
+            "vat_amount": 1.37
+        },
+        {
+            "amount": 226.64,
+            "description": "engineer 24/7 communities",
+            "index": "10",
+            "price": 381.33,
+            "quantity": 6.77,
+            "tax_amount": 65.49,
+            "total_ttc": 259.49,
+            "vat_amount": 1.08
+        },
+        {
+            "amount": 283.71,
+            "description": "scale collaborative convergence",
+            "index": "8",
+            "price": 65.21,
+            "quantity": 4.59,
+            "tax_amount": 32.69,
+            "total_ttc": 355.59,
+            "vat_amount": 8.48
+        },
+        {
+            "amount": 451.38,
+            "description": "revolutionize wireless platforms",
+            "index": "4",
+            "price": 499.53,
+            "quantity": 2.61,
+            "tax_amount": 72.05,
+            "total_ttc": 170.82,
+            "vat_amount": 2.47
+        },
+        {
+            "amount": 491.01,
+            "description": "whiteboard extensible vortals",
+            "index": "6",
+            "price": 328.62,
+            "quantity": 5.42,
+            "tax_amount": 30.02,
+            "total_ttc": 128.93,
+            "vat_amount": 4.27
+        },
+        {
+            "amount": 67.81,
+            "description": "exploit B2C mindshare",
+            "index": "5",
+            "price": 421.22,
+            "quantity": 8.35,
+            "tax_amount": 78.07,
+            "total_ttc": 358.41,
+            "vat_amount": 2.95
+        },
+        {
+            "amount": 286.41,
+            "description": "generate vertical e-markets",
+            "index": "1",
+            "price": 213.58,
+            "quantity": 1.88,
+            "tax_amount": 45.23,
+            "total_ttc": 204.63,
+            "vat_amount": 2.82
+        }
+    ],
+    "seller": {
+        "name": "Trevor Thomas"
+    },
+    "supplier": {
+        "address": "553 Eric Falls Linhaven, NY 86260",
+        "name": "Thomas Boone"
+    },
+    "tax": {
+        "amount_excluding_tax": 78.5,
+        "amount_including_tax": 141.51,
+        "tax_amount": 17.96,
+        "total_ht": 477.28,
+        "total_ttc": 251.47
+    }
+}

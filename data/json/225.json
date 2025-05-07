@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "132 Adams Estate Jenniferland, MI 24516",
+        "company_name": "Hester-Pearson",
+        "country": "Montserrat",
+        "name": "Cindy Hobbs"
+    },
+    "invoice": {
+        "date": "12.10.2020",
+        "number": 858455
+    },
+    "payment": {
+        "discount_amount": 49.15,
+        "discount_percentage": 8.07,
+        "due": 168.93,
+        "sub_total": 189.54,
+        "total": 305.59
+    },
+    "products": [
+        {
+            "description": "utilize strategic portals",
+            "index": "6",
+            "quantity": 1.48,
+            "total_price": 563.1,
+            "unit_price": 27.97
+        },
+        {
+            "description": "visualize 24/7 synergies",
+            "index": "7",
+            "quantity": 8.5,
+            "total_price": 250.26,
+            "unit_price": 24.3
+        },
+        {
+            "description": "generate customized initiatives",
+            "index": "1",
+            "quantity": 9.86,
+            "total_price": 259.64,
+            "unit_price": 89.47
+        }
+    ],
+    "seller": {
+        "address": "17717 West Mountain Apt. 446 West Jeffside, IL 77447",
+        "company_name": "Glenn-Mcgee",
+        "vat_no": "gu42767220127"
+    }
+}

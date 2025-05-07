@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "USNV Downs FPO AA 73796",
+        "id": "Ot094"
+    },
+    "invoice": {
+        "bc_no": "kN51426",
+        "currency_code": "MOP",
+        "date": "11.07.2004",
+        "due_date": "03.12.2005",
+        "number": 529177
+    },
+    "payment": {
+        "bank_name": "Herrera-Mcguire",
+        "bic": "VSRVGBD5EHL",
+        "iban": "PISV19233943746114"
+    },
+    "products": [
+        {
+            "amount": 112.82,
+            "description": "whiteboard integrated applications",
+            "index": "6",
+            "price": 487.98,
+            "quantity": 3.63,
+            "tax_amount": 73.69,
+            "total_ttc": 356.73,
+            "vat_amount": 3.65
+        },
+        {
+            "amount": 430.54,
+            "description": "exploit seamless web services",
+            "index": "10",
+            "price": 108.21,
+            "quantity": 1.2,
+            "tax_amount": 54.87,
+            "total_ttc": 467.78,
+            "vat_amount": 12.29
+        }
+    ],
+    "seller": {
+        "name": "Charles Roberts"
+    },
+    "supplier": {
+        "address": "39833 Campbell Lock Nicholaschester, CA 98730",
+        "name": "Kimberly Garner"
+    },
+    "tax": {
+        "amount_excluding_tax": 182.15,
+        "amount_including_tax": 78.1,
+        "tax_amount": 22.37,
+        "total_ht": 497.19,
+        "total_ttc": 184.18
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "198 Farrell Parkways Khanshire, DC 23830",
+        "company_name": "Rowe, Becker and Rodriguez",
+        "email": "lisa12@example.org",
+        "name": "Kimberly Pruitt",
+        "phone": "+1-736-604-1344"
+    },
+    "invoice": {
+        "date": "18.05.1995",
+        "due_date": "20.02.2008",
+        "number": "VkF91215262550"
+    },
+    "payment": {
+        "account_number": 1800277941,
+        "bank_name": "Johnson-Smith",
+        "routing_number": 585422961
+    },
+    "products": [
+        {
+            "amount": 215.08,
+            "description": "transition global networks",
+            "index": "10",
+            "quantity": 5.08,
+            "unit_price": 54.1
+        },
+        {
+            "amount": 222.04,
+            "description": "scale best-of-breed mindshare",
+            "index": "7",
+            "quantity": 4.46,
+            "unit_price": 28.09
+        },
+        {
+            "amount": 78.85,
+            "description": "synergize cutting-edge channels",
+            "index": "7",
+            "quantity": 2.89,
+            "unit_price": 89.15
+        },
+        {
+            "amount": 103.73,
+            "description": "transition e-business models",
+            "index": "3",
+            "quantity": 1.29,
+            "unit_price": 89.82
+        },
+        {
+            "amount": 270.37,
+            "description": "redefine bleeding-edge vortals",
+            "index": "5",
+            "quantity": 8.35,
+            "unit_price": 72.83
+        },
+        {
+            "amount": 113.86,
+            "description": "repurpose synergistic applications",
+            "index": "1",
+            "quantity": 5.9,
+            "unit_price": 53.12
+        }
+    ],
+    "seller": {
+        "address": "827 Rivera Courts Simmonsmouth, MO 37703",
+        "company_name": "Frey, Jackson and Murphy",
+        "email": "rodneyruiz@example.com"
+    }
+}

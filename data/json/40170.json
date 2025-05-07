@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "333 Goodwin Expressway Apt. 137 Lake Kristyburgh, KS 56351"
+    },
+    "invoice": {
+        "bc_no": "BO48361",
+        "date": "14.06.2023",
+        "maturity_date": "29.06.2014",
+        "number": 610547
+    },
+    "products": [
+        {
+            "amount": 12.7,
+            "description": "repurpose synergistic methodologies",
+            "quantity": 5.14,
+            "unit_price": 76.01,
+            "vat_amount": 11.37
+        },
+        {
+            "amount": 471.05,
+            "description": "transition cross-platform solutions",
+            "quantity": 8.44,
+            "unit_price": 87.83,
+            "vat_amount": 4.69
+        }
+    ],
+    "seller": {
+        "address": "5994 David Lake Apt. 742 Torresfurt, AK 80651"
+    },
+    "tax": {
+        "amount_excluding_tax": 192.65,
+        "amount_including_tax": 170.15,
+        "tax_amount": 26.06
+    }
+}

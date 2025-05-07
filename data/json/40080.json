@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "0574 Scott Crossing Suite 412 East Michaelmouth, FM 13634"
+    },
+    "invoice": {
+        "bc_no": "Jn83794",
+        "date": "09.05.2018",
+        "maturity_date": "17.06.1999",
+        "number": 331026
+    },
+    "products": [
+        {
+            "amount": 50.62,
+            "description": "target scalable info-mediaries",
+            "quantity": 9.3,
+            "unit_price": 75.01,
+            "vat_amount": 2.01
+        },
+        {
+            "amount": 304.95,
+            "description": "e-enable mission-critical convergence",
+            "quantity": 6.99,
+            "unit_price": 86.76,
+            "vat_amount": 1.51
+        },
+        {
+            "amount": 408.09,
+            "description": "facilitate best-of-breed action-items",
+            "quantity": 5.11,
+            "unit_price": 55.49,
+            "vat_amount": 8.34
+        },
+        {
+            "amount": 310.32,
+            "description": "unleash 24/7 deliverables",
+            "quantity": 6.96,
+            "unit_price": 91.61,
+            "vat_amount": 6.92
+        }
+    ],
+    "seller": {
+        "address": "7054 Le Centers East Timothyburgh, WI 57060"
+    },
+    "tax": {
+        "amount_excluding_tax": 28.71,
+        "amount_including_tax": 23.68,
+        "tax_amount": 10.29
+    }
+}

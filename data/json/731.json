@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "PSC 7707, Box 7386 APO AA 22513",
+        "company_name": "Thomas-Barr",
+        "country": "Oman",
+        "name": "Samantha Phelps"
+    },
+    "invoice": {
+        "date": "18.07.2019",
+        "number": 452873
+    },
+    "payment": {
+        "discount_amount": 21.77,
+        "discount_percentage": 13.91,
+        "due": 54.0,
+        "sub_total": 154.4,
+        "total": 992.84
+    },
+    "products": [
+        {
+            "description": "enable extensible infrastructures",
+            "index": "1",
+            "quantity": 3.37,
+            "total_price": 470.44,
+            "unit_price": 43.7
+        },
+        {
+            "description": "grow world-class interfaces",
+            "index": "5",
+            "quantity": 6.34,
+            "total_price": 355.35,
+            "unit_price": 15.97
+        },
+        {
+            "description": "re-contextualize B2B convergence",
+            "index": "6",
+            "quantity": 5.25,
+            "total_price": 558.05,
+            "unit_price": 43.67
+        }
+    ],
+    "seller": {
+        "address": "825 Brown Inlet Apt. 977 Lake Jamesborough, DC 66085",
+        "company_name": "Downs-Ward",
+        "vat_no": "zP52388209562"
+    }
+}

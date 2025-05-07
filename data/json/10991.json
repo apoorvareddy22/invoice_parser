@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "30618 David Mountain Suite 456 Kimshire, HI 97572",
+        "email": "ccastillo@example.net",
+        "phone": "255-927-5925x666",
+        "vat_no": "yA79194634045"
+    },
+    "invoice": {
+        "date": "06.06.2021",
+        "due_date": "29.10.2017",
+        "market_reference": 436019,
+        "notes": "transform seamless mindshare",
+        "number": "3016-3831",
+        "reference": 713354,
+        "vat_no": "uI61681874959"
+    },
+    "payment": {
+        "net_total": 138.41,
+        "total": 987.18
+    },
+    "products": [
+        {
+            "amount": 12.44,
+            "description": "enhance B2C infrastructures",
+            "hours": 8.95,
+            "rate": 8.55
+        },
+        {
+            "amount": 479.25,
+            "description": "exploit distributed metrics",
+            "hours": 1.14,
+            "rate": 7.58
+        },
+        {
+            "amount": 284.03,
+            "description": "embrace e-business content",
+            "hours": 7.06,
+            "rate": 3.03
+        },
+        {
+            "amount": 345.67,
+            "description": "envisioneer ubiquitous e-business",
+            "hours": 2.52,
+            "rate": 4.64
+        },
+        {
+            "amount": 81.44,
+            "description": "extend frictionless architectures",
+            "hours": 4.11,
+            "rate": 3.24
+        },
+        {
+            "amount": 261.62,
+            "description": "re-intermediate 24/7 e-business",
+            "hours": 6.01,
+            "rate": 7.82
+        }
+    ],
+    "seller": {
+        "address": "95046 Lindsey Common Apt. 891 Brownport, DC 75340",
+        "email": "jamiedoyle@example.org",
+        "name": "Richard Weber"
+    },
+    "tax": {
+        "base": 15.78,
+        "tax_amount": 29.14,
+        "total_tax": 27.45
+    }
+}

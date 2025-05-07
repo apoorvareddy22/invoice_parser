@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "388 Dawn Alley Suite 868 North Sherry, AZ 27377",
+        "id": "Re158"
+    },
+    "invoice": {
+        "bc_no": "oS40735",
+        "currency_code": "BAM",
+        "date": "26.09.1994",
+        "due_date": "11.09.2004",
+        "number": 541044
+    },
+    "payment": {
+        "bank_name": "Martinez, Holden and Mcdaniel",
+        "bic": "YEKBGBTE",
+        "iban": "EJHH10654764176639"
+    },
+    "products": [
+        {
+            "amount": 466.12,
+            "description": "productize bleeding-edge e-business",
+            "index": "5",
+            "price": 422.93,
+            "quantity": 6.81,
+            "tax_amount": 56.22,
+            "total_ttc": 438.12,
+            "vat_amount": 7.04
+        },
+        {
+            "amount": 29.71,
+            "description": "leverage out-of-the-box platforms",
+            "index": "1",
+            "price": 494.34,
+            "quantity": 4.86,
+            "tax_amount": 96.84,
+            "total_ttc": 279.07,
+            "vat_amount": 11.81
+        },
+        {
+            "amount": 481.44,
+            "description": "architect efficient vortals",
+            "index": "3",
+            "price": 223.52,
+            "quantity": 7.11,
+            "tax_amount": 50.16,
+            "total_ttc": 223.03,
+            "vat_amount": 8.91
+        }
+    ],
+    "seller": {
+        "name": "Corey Hughes"
+    },
+    "supplier": {
+        "address": "3260 Gregory Greens North Preston, VT 67722",
+        "name": "Joseph Webster"
+    },
+    "tax": {
+        "amount_excluding_tax": 132.45,
+        "amount_including_tax": 37.36,
+        "tax_amount": 20.98,
+        "total_ht": 342.58,
+        "total_ttc": 256.21
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "8838 Anthony Meadow South Melissa, NJ 95657",
+        "email": "dwilliams@example.net",
+        "phone": "(586)865-1104x70650",
+        "vat_no": "DX50275537630"
+    },
+    "invoice": {
+        "date": "31.12.2020",
+        "due_date": "02.06.2019",
+        "market_reference": 599860,
+        "notes": "disintermediate next-generation convergence",
+        "number": "7572-0474",
+        "reference": 584669,
+        "vat_no": "iF33451176532"
+    },
+    "payment": {
+        "net_total": 175.06,
+        "total": 345.28
+    },
+    "products": [
+        {
+            "amount": 426.23,
+            "description": "visualize B2C web services",
+            "hours": 2.65,
+            "rate": 7.75
+        },
+        {
+            "amount": 353.2,
+            "description": "matrix value-added channels",
+            "hours": 1.88,
+            "rate": 6.66
+        },
+        {
+            "amount": 86.09,
+            "description": "orchestrate viral networks",
+            "hours": 4.71,
+            "rate": 9.54
+        },
+        {
+            "amount": 430.04,
+            "description": "incubate real-time ROI",
+            "hours": 6.47,
+            "rate": 2.75
+        },
+        {
+            "amount": 193.12,
+            "description": "generate dot-com communities",
+            "hours": 5.54,
+            "rate": 7.81
+        },
+        {
+            "amount": 280.94,
+            "description": "grow virtual platforms",
+            "hours": 4.19,
+            "rate": 1.55
+        }
+    ],
+    "seller": {
+        "address": "1782 Anthony Ports Apt. 904 Port Joseph, OK 02388",
+        "email": "david87@example.com",
+        "name": "Angela Garcia"
+    },
+    "tax": {
+        "base": 20.86,
+        "tax_amount": 21.48,
+        "total_tax": 12.47
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "091 Horton Fork Amyland, ME 82336",
+        "id": "yA189"
+    },
+    "invoice": {
+        "bc_no": "sB01571",
+        "currency_code": "GNF",
+        "date": "01.02.1998",
+        "due_date": "13.09.2001",
+        "number": 988093
+    },
+    "payment": {
+        "bank_name": "Fuentes Group",
+        "bic": "OZSQGBI7",
+        "iban": "CYMS15885330558760"
+    },
+    "products": [
+        {
+            "amount": 445.59,
+            "description": "benchmark virtual experiences",
+            "index": "10",
+            "price": 257.74,
+            "quantity": 9.0,
+            "tax_amount": 51.89,
+            "total_ttc": 400.06,
+            "vat_amount": 7.64
+        },
+        {
+            "amount": 218.53,
+            "description": "disintermediate frictionless systems",
+            "index": "2",
+            "price": 458.92,
+            "quantity": 7.58,
+            "tax_amount": 44.89,
+            "total_ttc": 407.56,
+            "vat_amount": 8.59
+        },
+        {
+            "amount": 455.86,
+            "description": "brand turn-key e-services",
+            "index": "1",
+            "price": 11.4,
+            "quantity": 2.55,
+            "tax_amount": 51.85,
+            "total_ttc": 189.27,
+            "vat_amount": 5.4
+        },
+        {
+            "amount": 46.36,
+            "description": "grow innovative supply-chains",
+            "index": "5",
+            "price": 328.81,
+            "quantity": 8.28,
+            "tax_amount": 70.25,
+            "total_ttc": 141.82,
+            "vat_amount": 13.09
+        },
+        {
+            "amount": 277.87,
+            "description": "engage cutting-edge relationships",
+            "index": "1",
+            "price": 68.55,
+            "quantity": 6.17,
+            "tax_amount": 54.41,
+            "total_ttc": 143.36,
+            "vat_amount": 5.04
+        },
+        {
+            "amount": 264.6,
+            "description": "implement plug-and-play portals",
+            "index": "4",
+            "price": 37.55,
+            "quantity": 4.47,
+            "tax_amount": 36.26,
+            "total_ttc": 214.93,
+            "vat_amount": 7.72
+        },
+        {
+            "amount": 424.43,
+            "description": "matrix dot-com e-markets",
+            "index": "9",
+            "price": 242.39,
+            "quantity": 8.56,
+            "tax_amount": 31.69,
+            "total_ttc": 304.6,
+            "vat_amount": 1.35
+        }
+    ],
+    "seller": {
+        "name": "Kimberly Rush"
+    },
+    "supplier": {
+        "address": "5850 Scott Falls Apt. 252 North Tina, GA 26448",
+        "name": "Kevin Graham"
+    },
+    "tax": {
+        "amount_excluding_tax": 43.92,
+        "amount_including_tax": 90.05,
+        "tax_amount": 18.72,
+        "total_ht": 275.25,
+        "total_ttc": 333.09
+    }
+}

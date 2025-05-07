@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "49769 Garcia Walks North Allisonmouth, ND 26806",
+        "id": "sK377"
+    },
+    "invoice": {
+        "bc_no": "tP41621",
+        "currency_code": "XAF",
+        "date": "24.08.2007",
+        "due_date": "19.07.2013",
+        "number": 270667
+    },
+    "payment": {
+        "bank_name": "Herrera-Morton",
+        "bic": "FOOSGBTFW1F",
+        "iban": "PXFD88359552468244"
+    },
+    "products": [
+        {
+            "amount": 352.4,
+            "description": "grow open-source infrastructures",
+            "index": "5",
+            "price": 370.36,
+            "quantity": 1.6,
+            "tax_amount": 54.86,
+            "total_ttc": 458.87,
+            "vat_amount": 2.35
+        },
+        {
+            "amount": 62.64,
+            "description": "aggregate clicks-and-mortar mindshare",
+            "index": "9",
+            "price": 92.91,
+            "quantity": 3.49,
+            "tax_amount": 25.76,
+            "total_ttc": 127.06,
+            "vat_amount": 5.5
+        },
+        {
+            "amount": 224.67,
+            "description": "synergize 24/7 models",
+            "index": "10",
+            "price": 191.58,
+            "quantity": 7.59,
+            "tax_amount": 46.14,
+            "total_ttc": 408.62,
+            "vat_amount": 5.69
+        },
+        {
+            "amount": 183.16,
+            "description": "optimize compelling web-readiness",
+            "index": "7",
+            "price": 94.5,
+            "quantity": 2.23,
+            "tax_amount": 46.75,
+            "total_ttc": 162.78,
+            "vat_amount": 2.41
+        }
+    ],
+    "seller": {
+        "name": "Kirsten Bowen"
+    },
+    "supplier": {
+        "address": "4713 Sarah Rapid North Melissachester, VA 53262",
+        "name": "Melissa Chan"
+    },
+    "tax": {
+        "amount_excluding_tax": 92.3,
+        "amount_including_tax": 194.16,
+        "tax_amount": 20.29,
+        "total_ht": 333.56,
+        "total_ttc": 190.23
+    }
+}

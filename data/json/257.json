@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "78877 Kent Port Suite 804 New Jonathan, ID 87971",
+        "company_name": "Norris-Weaver",
+        "country": "Faroe Islands",
+        "name": "Norma Ryan"
+    },
+    "invoice": {
+        "date": "10.11.2009",
+        "number": 501812
+    },
+    "payment": {
+        "discount_amount": 40.45,
+        "discount_percentage": 17.61,
+        "due": 130.73,
+        "sub_total": 147.69,
+        "total": 480.92
+    },
+    "products": [
+        {
+            "description": "unleash next-generation niches",
+            "index": "4",
+            "quantity": 5.75,
+            "total_price": 403.97,
+            "unit_price": 73.32
+        },
+        {
+            "description": "target out-of-the-box schemas",
+            "index": "7",
+            "quantity": 5.92,
+            "total_price": 29.46,
+            "unit_price": 75.31
+        },
+        {
+            "description": "integrate robust technologies",
+            "index": "1",
+            "quantity": 1.73,
+            "total_price": 136.35,
+            "unit_price": 22.49
+        },
+        {
+            "description": "implement wireless communities",
+            "index": "8",
+            "quantity": 5.15,
+            "total_price": 565.67,
+            "unit_price": 72.79
+        }
+    ],
+    "seller": {
+        "address": "3352 Juan Lodge Newtonview, MN 63974",
+        "company_name": "Padilla LLC",
+        "vat_no": "Yf81293964861"
+    }
+}

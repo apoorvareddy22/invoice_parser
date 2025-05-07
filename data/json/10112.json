@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "318 Blake Canyon Zacharyview, OH 05052",
+        "email": "bchang@example.org",
+        "phone": "001-327-884-2318x07002",
+        "vat_no": "DN42216684280"
+    },
+    "invoice": {
+        "date": "15.08.2016",
+        "due_date": "30.05.1993",
+        "market_reference": 569999,
+        "notes": "aggregate cross-media action-items",
+        "number": "9561-4158",
+        "reference": 201326,
+        "vat_no": "My86573504050"
+    },
+    "payment": {
+        "net_total": 46.05,
+        "total": 570.13
+    },
+    "products": [
+        {
+            "amount": 71.11,
+            "description": "mesh compelling systems",
+            "hours": 2.01,
+            "rate": 2.35
+        },
+        {
+            "amount": 39.65,
+            "description": "matrix B2B channels",
+            "hours": 7.3,
+            "rate": 3.85
+        },
+        {
+            "amount": 314.18,
+            "description": "repurpose bleeding-edge mindshare",
+            "hours": 8.63,
+            "rate": 2.9
+        },
+        {
+            "amount": 15.69,
+            "description": "brand one-to-one channels",
+            "hours": 6.17,
+            "rate": 9.1
+        }
+    ],
+    "seller": {
+        "address": "33716 Kathleen Branch South Juan, ME 64577",
+        "email": "jasmine70@example.org",
+        "name": "Amanda Ayers"
+    },
+    "tax": {
+        "base": 28.24,
+        "tax_amount": 13.53,
+        "total_tax": 12.45
+    }
+}

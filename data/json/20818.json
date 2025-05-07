@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "386 Parker Walks Sandraview, AZ 86986",
+        "company_name": "Tucker, Andrews and Hicks",
+        "email": "awillis@example.net",
+        "name": "James Sanders",
+        "phone": "(612)304-1893x6813"
+    },
+    "invoice": {
+        "date": "16.03.1996",
+        "due_date": "12.05.2003",
+        "number": "wZL99601223904"
+    },
+    "payment": {
+        "account_number": 6927229169,
+        "bank_name": "Garrison-Johnson",
+        "routing_number": 716611473
+    },
+    "products": [
+        {
+            "amount": 239.78,
+            "description": "maximize plug-and-play users",
+            "index": "2",
+            "quantity": 1.66,
+            "unit_price": 65.37
+        }
+    ],
+    "seller": {
+        "address": "76112 Reyes Grove Suite 612 Port Michelleside, MS 27028",
+        "company_name": "Greer PLC",
+        "email": "christophertapia@example.org"
+    }
+}

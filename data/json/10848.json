@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "3000 Obrien Groves Apt. 019 West Donnaberg, VI 22902",
+        "email": "bradley41@example.org",
+        "phone": "001-752-976-1639x059",
+        "vat_no": "YP09693082312"
+    },
+    "invoice": {
+        "date": "30.08.2002",
+        "due_date": "02.11.2012",
+        "market_reference": 306290,
+        "notes": "syndicate 24/7 e-tailers",
+        "number": "7302-0094",
+        "reference": 519919,
+        "vat_no": "NP63777060854"
+    },
+    "payment": {
+        "net_total": 66.82,
+        "total": 421.53
+    },
+    "products": [
+        {
+            "amount": 66.52,
+            "description": "generate vertical content",
+            "hours": 1.48,
+            "rate": 3.44
+        },
+        {
+            "amount": 317.56,
+            "description": "scale clicks-and-mortar info-mediaries",
+            "hours": 6.67,
+            "rate": 5.41
+        },
+        {
+            "amount": 235.93,
+            "description": "syndicate leading-edge methodologies",
+            "hours": 1.81,
+            "rate": 2.28
+        },
+        {
+            "amount": 109.69,
+            "description": "synthesize compelling convergence",
+            "hours": 2.61,
+            "rate": 3.11
+        }
+    ],
+    "seller": {
+        "address": "Unit 0845 Box 3845 DPO AP 26136",
+        "email": "marywood@example.org",
+        "name": "Mary Shaw"
+    },
+    "tax": {
+        "base": 15.04,
+        "tax_amount": 10.08,
+        "total_tax": 21.06
+    }
+}

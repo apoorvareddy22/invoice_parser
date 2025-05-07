@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "862 Washington Isle Peterville, AL 98101",
+        "id": "do850"
+    },
+    "invoice": {
+        "bc_no": "XX12480",
+        "currency_code": "XCD",
+        "date": "14.01.1996",
+        "due_date": "17.09.1990",
+        "number": 458867
+    },
+    "payment": {
+        "bank_name": "Marks-Davis",
+        "bic": "NSRBGBHG02I",
+        "iban": "CMOU96266742484185"
+    },
+    "products": [
+        {
+            "amount": 285.41,
+            "description": "transform ubiquitous mindshare",
+            "index": "10",
+            "price": 185.92,
+            "quantity": 4.63,
+            "tax_amount": 31.85,
+            "total_ttc": 328.99,
+            "vat_amount": 5.08
+        },
+        {
+            "amount": 244.99,
+            "description": "orchestrate customized bandwidth",
+            "index": "4",
+            "price": 382.22,
+            "quantity": 3.31,
+            "tax_amount": 31.64,
+            "total_ttc": 340.77,
+            "vat_amount": 1.3
+        },
+        {
+            "amount": 125.01,
+            "description": "envisioneer one-to-one solutions",
+            "index": "10",
+            "price": 445.04,
+            "quantity": 8.44,
+            "tax_amount": 87.75,
+            "total_ttc": 211.28,
+            "vat_amount": 2.84
+        },
+        {
+            "amount": 352.13,
+            "description": "engineer strategic communities",
+            "index": "2",
+            "price": 294.2,
+            "quantity": 9.69,
+            "tax_amount": 25.58,
+            "total_ttc": 406.2,
+            "vat_amount": 3.57
+        },
+        {
+            "amount": 133.49,
+            "description": "incentivize one-to-one models",
+            "index": "3",
+            "price": 205.58,
+            "quantity": 8.55,
+            "tax_amount": 47.73,
+            "total_ttc": 269.38,
+            "vat_amount": 14.67
+        }
+    ],
+    "seller": {
+        "name": "Rachel Bass"
+    },
+    "supplier": {
+        "address": "107 Angela Vista West Michelle, WY 14987",
+        "name": "David Andrews"
+    },
+    "tax": {
+        "amount_excluding_tax": 124.91,
+        "amount_including_tax": 68.79,
+        "tax_amount": 23.59,
+        "total_ht": 258.47,
+        "total_ttc": 349.73
+    }
+}

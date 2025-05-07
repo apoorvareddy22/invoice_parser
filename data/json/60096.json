@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "83846 Patricia Road New Shannon, WY 10942",
+        "business_no": "nA305",
+        "id": "tH317"
+    },
+    "invoice": {
+        "date": "18.10.2023",
+        "number": "0806-6824"
+    },
+    "payment": {
+        "due_date": "15.02.2019",
+        "total": 694.98
+    },
+    "products": [
+        {
+            "amount": 494.2,
+            "description": "empower proactive supply-chains",
+            "quantity": 3.8,
+            "reference": "yu-139",
+            "unit_price": 44.13
+        }
+    ],
+    "seller": {
+        "address": "1513 Brandon Plaza Davishaven, OK 79830"
+    },
+    "tax": {
+        "base_ht": 254.09,
+        "regulations": 12.32,
+        "total_ht": 344.65,
+        "vat_amount": 51.2,
+        "vat_percentage": 21.09
+    }
+}

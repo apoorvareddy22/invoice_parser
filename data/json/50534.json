@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "3321 Malone Ridges Suite 672 North Cindy, OR 60611",
+        "id": "cJ903"
+    },
+    "invoice": {
+        "bc_no": "YG77157",
+        "currency_code": "PEN",
+        "date": "27.01.2007",
+        "due_date": "25.12.1995",
+        "number": 625156
+    },
+    "payment": {
+        "bank_name": "Dunn-Bonilla",
+        "bic": "QWIRGB72",
+        "iban": "TVWM23480328627541"
+    },
+    "products": [
+        {
+            "amount": 157.29,
+            "description": "re-contextualize impactful communities",
+            "index": "6",
+            "price": 138.96,
+            "quantity": 3.63,
+            "tax_amount": 34.61,
+            "total_ttc": 376.4,
+            "vat_amount": 8.53
+        },
+        {
+            "amount": 221.35,
+            "description": "drive e-business experiences",
+            "index": "3",
+            "price": 362.53,
+            "quantity": 9.7,
+            "tax_amount": 68.13,
+            "total_ttc": 241.66,
+            "vat_amount": 13.68
+        },
+        {
+            "amount": 309.93,
+            "description": "transition extensible mindshare",
+            "index": "7",
+            "price": 465.9,
+            "quantity": 4.96,
+            "tax_amount": 88.82,
+            "total_ttc": 346.22,
+            "vat_amount": 3.3
+        },
+        {
+            "amount": 229.96,
+            "description": "facilitate turn-key architectures",
+            "index": "9",
+            "price": 296.86,
+            "quantity": 2.01,
+            "tax_amount": 36.74,
+            "total_ttc": 415.36,
+            "vat_amount": 6.48
+        },
+        {
+            "amount": 42.75,
+            "description": "syndicate proactive paradigms",
+            "index": "10",
+            "price": 76.53,
+            "quantity": 4.45,
+            "tax_amount": 68.36,
+            "total_ttc": 165.71,
+            "vat_amount": 2.21
+        }
+    ],
+    "seller": {
+        "name": "Phillip Spencer"
+    },
+    "supplier": {
+        "address": "0339 Brandi Oval Sheilashire, MO 68429",
+        "name": "Stephanie Klein"
+    },
+    "tax": {
+        "amount_excluding_tax": 79.42,
+        "amount_including_tax": 112.58,
+        "tax_amount": 22.61,
+        "total_ht": 147.7,
+        "total_ttc": 178.96
+    }
+}

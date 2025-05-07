@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "680 Mary Well Ryanbury, MD 72818",
+        "email": "mlane@example.com",
+        "phone": "(463)933-6016",
+        "vat_no": "Vw75895987800"
+    },
+    "invoice": {
+        "date": "27.10.2006",
+        "due_date": "11.12.1993",
+        "market_reference": 883499,
+        "notes": "morph plug-and-play schemas",
+        "number": "0977-6564",
+        "reference": 367291,
+        "vat_no": "tN39671402774"
+    },
+    "payment": {
+        "net_total": 38.79,
+        "total": 391.6
+    },
+    "products": [
+        {
+            "amount": 107.33,
+            "description": "integrate efficient e-tailers",
+            "hours": 4.51,
+            "rate": 1.16
+        },
+        {
+            "amount": 294.92,
+            "description": "enhance cross-platform convergence",
+            "hours": 9.18,
+            "rate": 4.01
+        },
+        {
+            "amount": 481.24,
+            "description": "deliver back-end interfaces",
+            "hours": 8.13,
+            "rate": 3.35
+        },
+        {
+            "amount": 351.45,
+            "description": "re-contextualize dot-com niches",
+            "hours": 2.05,
+            "rate": 1.28
+        },
+        {
+            "amount": 122.4,
+            "description": "streamline one-to-one infrastructures",
+            "hours": 5.22,
+            "rate": 6.33
+        }
+    ],
+    "seller": {
+        "address": "549 Amber Vista Apt. 897 New Amanda, AL 53523",
+        "email": "nicholaskeith@example.com",
+        "name": "Robin Bryant"
+    },
+    "tax": {
+        "base": 29.07,
+        "tax_amount": 28.38,
+        "total_tax": 20.17
+    }
+}

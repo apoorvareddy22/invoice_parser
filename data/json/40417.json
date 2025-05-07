@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "6785 Susan Rest Suite 857 Mendozahaven, VT 21225"
+    },
+    "invoice": {
+        "bc_no": "zG57642",
+        "date": "17.07.2014",
+        "maturity_date": "04.04.2012",
+        "number": 926147
+    },
+    "products": [
+        {
+            "amount": 156.57,
+            "description": "brand dot-com applications",
+            "quantity": 1.96,
+            "unit_price": 89.55,
+            "vat_amount": 11.75
+        },
+        {
+            "amount": 212.35,
+            "description": "morph 24/7 e-commerce",
+            "quantity": 2.66,
+            "unit_price": 22.51,
+            "vat_amount": 5.95
+        },
+        {
+            "amount": 80.28,
+            "description": "architect efficient paradigms",
+            "quantity": 5.61,
+            "unit_price": 56.3,
+            "vat_amount": 0.93
+        },
+        {
+            "amount": 361.81,
+            "description": "target e-business convergence",
+            "quantity": 5.32,
+            "unit_price": 81.21,
+            "vat_amount": 1.72
+        },
+        {
+            "amount": 371.58,
+            "description": "architect virtual networks",
+            "quantity": 8.56,
+            "unit_price": 43.03,
+            "vat_amount": 8.96
+        },
+        {
+            "amount": 417.28,
+            "description": "empower B2C e-markets",
+            "quantity": 9.66,
+            "unit_price": 20.17,
+            "vat_amount": 2.61
+        }
+    ],
+    "seller": {
+        "address": "0713 Melissa Loop Apt. 991 Port Joshua, SC 93000"
+    },
+    "tax": {
+        "amount_excluding_tax": 20.11,
+        "amount_including_tax": 115.75,
+        "tax_amount": 23.2
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "74931 Black Course Brianshire, NE 49343",
+        "business_no": "rU673",
+        "id": "tf300"
+    },
+    "invoice": {
+        "date": "06.07.2018",
+        "number": "3828-9064"
+    },
+    "payment": {
+        "due_date": "31.03.2015",
+        "total": 916.07
+    },
+    "products": [
+        {
+            "amount": 381.23,
+            "description": "deploy clicks-and-mortar partnerships",
+            "quantity": 4.07,
+            "reference": "bI-065",
+            "unit_price": 67.59
+        },
+        {
+            "amount": 261.83,
+            "description": "re-intermediate transparent e-services",
+            "quantity": 4.37,
+            "reference": "me-500",
+            "unit_price": 84.27
+        }
+    ],
+    "seller": {
+        "address": "4218 Phillips Lodge Markmouth, MS 31166"
+    },
+    "tax": {
+        "base_ht": 175.85,
+        "regulations": 13.18,
+        "total_ht": 103.94,
+        "vat_amount": 105.45,
+        "vat_percentage": 13.03
+    }
+}

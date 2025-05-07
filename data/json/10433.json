@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "20012 Gardner Fords North Dominiquemouth, MA 50250",
+        "email": "monica54@example.com",
+        "phone": "001-832-209-1036x6380",
+        "vat_no": "sC02607593851"
+    },
+    "invoice": {
+        "date": "31.01.2011",
+        "due_date": "25.06.2013",
+        "market_reference": 247847,
+        "notes": "visualize granular markets",
+        "number": "5044-3609",
+        "reference": 710919,
+        "vat_no": "VC19631829231"
+    },
+    "payment": {
+        "net_total": 43.9,
+        "total": 602.11
+    },
+    "products": [
+        {
+            "amount": 319.44,
+            "description": "deliver user-centric web-readiness",
+            "hours": 1.04,
+            "rate": 1.68
+        },
+        {
+            "amount": 104.52,
+            "description": "monetize magnetic technologies",
+            "hours": 8.76,
+            "rate": 8.34
+        },
+        {
+            "amount": 209.07,
+            "description": "re-intermediate vertical bandwidth",
+            "hours": 1.0,
+            "rate": 8.0
+        }
+    ],
+    "seller": {
+        "address": "569 Diaz Pine Suite 853 East Nathanport, MS 57730",
+        "email": "jeremy08@example.org",
+        "name": "Jim Mckinney"
+    },
+    "tax": {
+        "base": 18.05,
+        "tax_amount": 17.41,
+        "total_tax": 16.2
+    }
+}

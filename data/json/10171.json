@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "4579 Shaw Island Katherinebury, MH 01436",
+        "email": "ycohen@example.net",
+        "phone": "634.310.5116",
+        "vat_no": "aA81815425349"
+    },
+    "invoice": {
+        "date": "03.02.1996",
+        "due_date": "20.05.2010",
+        "market_reference": 123956,
+        "notes": "leverage granular applications",
+        "number": "4516-7884",
+        "reference": 256831,
+        "vat_no": "Mv94468188930"
+    },
+    "payment": {
+        "net_total": 28.16,
+        "total": 759.3
+    },
+    "products": [
+        {
+            "amount": 358.53,
+            "description": "utilize distributed action-items",
+            "hours": 5.14,
+            "rate": 4.79
+        }
+    ],
+    "seller": {
+        "address": "Unit 3791 Box 9398 DPO AP 25145",
+        "email": "wilkersonleslie@example.net",
+        "name": "Miguel Cooper"
+    },
+    "tax": {
+        "base": 18.44,
+        "tax_amount": 15.0,
+        "total_tax": 20.19
+    }
+}

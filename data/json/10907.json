@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "6882 Ryan Roads North Kayla, ME 28355",
+        "email": "marcus20@example.net",
+        "phone": "(586)872-0489x2449",
+        "vat_no": "mx79805446803"
+    },
+    "invoice": {
+        "date": "25.04.2013",
+        "due_date": "11.10.2001",
+        "market_reference": 497704,
+        "notes": "re-intermediate leading-edge users",
+        "number": "9484-6102",
+        "reference": 104807,
+        "vat_no": "UL74447874952"
+    },
+    "payment": {
+        "net_total": 81.3,
+        "total": 268.3
+    },
+    "products": [
+        {
+            "amount": 438.88,
+            "description": "brand distributed applications",
+            "hours": 3.23,
+            "rate": 7.88
+        },
+        {
+            "amount": 344.96,
+            "description": "e-enable mission-critical architectures",
+            "hours": 1.01,
+            "rate": 5.23
+        },
+        {
+            "amount": 106.09,
+            "description": "scale innovative applications",
+            "hours": 7.21,
+            "rate": 6.39
+        },
+        {
+            "amount": 378.44,
+            "description": "whiteboard plug-and-play metrics",
+            "hours": 2.39,
+            "rate": 1.31
+        },
+        {
+            "amount": 489.47,
+            "description": "leverage efficient eyeballs",
+            "hours": 8.19,
+            "rate": 4.05
+        }
+    ],
+    "seller": {
+        "address": "0495 Walker Heights Apt. 819 Port Alyssaport, LA 24961",
+        "email": "penacheryl@example.net",
+        "name": "Frank Cruz"
+    },
+    "tax": {
+        "base": 27.28,
+        "tax_amount": 19.06,
+        "total_tax": 24.43
+    }
+}

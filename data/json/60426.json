@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "PSC 2908, Box 9515 APO AP 93184",
+        "business_no": "eM871",
+        "id": "Bh068"
+    },
+    "invoice": {
+        "date": "20.07.2014",
+        "number": "1411-7980"
+    },
+    "payment": {
+        "due_date": "11.11.2010",
+        "total": 929.71
+    },
+    "products": [
+        {
+            "amount": 466.9,
+            "description": "innovate synergistic systems",
+            "quantity": 5.88,
+            "reference": "pt-240",
+            "unit_price": 79.71
+        }
+    ],
+    "seller": {
+        "address": "731 Timothy Run South Eric, AL 50917"
+    },
+    "tax": {
+        "base_ht": 452.06,
+        "regulations": 27.34,
+        "total_ht": 398.07,
+        "vat_amount": 173.92,
+        "vat_percentage": 16.05
+    }
+}

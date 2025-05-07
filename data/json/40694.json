@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "1407 Anthony Cape Hawkinsshire, KS 33743"
+    },
+    "invoice": {
+        "bc_no": "HJ21240",
+        "date": "20.03.2022",
+        "maturity_date": "25.12.2003",
+        "number": 366765
+    },
+    "products": [
+        {
+            "amount": 487.83,
+            "description": "architect back-end portals",
+            "quantity": 6.2,
+            "unit_price": 40.72,
+            "vat_amount": 3.55
+        },
+        {
+            "amount": 481.91,
+            "description": "expedite bricks-and-clicks synergies",
+            "quantity": 6.55,
+            "unit_price": 73.54,
+            "vat_amount": 4.59
+        },
+        {
+            "amount": 154.53,
+            "description": "streamline back-end relationships",
+            "quantity": 7.4,
+            "unit_price": 19.69,
+            "vat_amount": 1.7
+        }
+    ],
+    "seller": {
+        "address": "5253 Lauren Drive Apt. 490 Melvinborough, MA 66460"
+    },
+    "tax": {
+        "amount_excluding_tax": 117.12,
+        "amount_including_tax": 16.04,
+        "tax_amount": 28.24
+    }
+}

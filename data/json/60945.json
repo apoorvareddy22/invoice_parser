@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "USNV Pope FPO AP 57596",
+        "business_no": "Lr993",
+        "id": "SG693"
+    },
+    "invoice": {
+        "date": "05.12.1998",
+        "number": "7501-6514"
+    },
+    "payment": {
+        "due_date": "23.03.2018",
+        "total": 754.57
+    },
+    "products": [
+        {
+            "amount": 379.07,
+            "description": "maximize robust channels",
+            "quantity": 4.63,
+            "reference": "Ds-682",
+            "unit_price": 67.53
+        }
+    ],
+    "seller": {
+        "address": "210 Richard Ranch Suite 906 Cunninghamland, WV 47343"
+    },
+    "tax": {
+        "base_ht": 341.44,
+        "regulations": 11.76,
+        "total_ht": 444.45,
+        "vat_amount": 25.3,
+        "vat_percentage": 22.95
+    }
+}

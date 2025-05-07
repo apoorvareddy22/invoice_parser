@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "19411 Curtis Brooks Suite 314 South Briannastad, HI 72207",
+        "id": "qd520"
+    },
+    "invoice": {
+        "bc_no": "Sg81207",
+        "currency_code": "EGP",
+        "date": "25.04.2021",
+        "due_date": "24.09.2000",
+        "number": 442649
+    },
+    "payment": {
+        "bank_name": "White, Tran and Day",
+        "bic": "HDSUGBP3",
+        "iban": "IYJJ79751505304193"
+    },
+    "products": [
+        {
+            "amount": 336.8,
+            "description": "facilitate synergistic architectures",
+            "index": "4",
+            "price": 171.13,
+            "quantity": 8.28,
+            "tax_amount": 93.5,
+            "total_ttc": 349.19,
+            "vat_amount": 1.52
+        },
+        {
+            "amount": 270.02,
+            "description": "envisioneer granular web services",
+            "index": "6",
+            "price": 218.53,
+            "quantity": 4.66,
+            "tax_amount": 84.65,
+            "total_ttc": 148.78,
+            "vat_amount": 11.58
+        },
+        {
+            "amount": 62.35,
+            "description": "benchmark turn-key e-services",
+            "index": "3",
+            "price": 322.91,
+            "quantity": 2.39,
+            "tax_amount": 17.68,
+            "total_ttc": 105.19,
+            "vat_amount": 6.29
+        },
+        {
+            "amount": 140.83,
+            "description": "monetize out-of-the-box mindshare",
+            "index": "7",
+            "price": 110.18,
+            "quantity": 7.61,
+            "tax_amount": 59.6,
+            "total_ttc": 274.78,
+            "vat_amount": 0.47
+        },
+        {
+            "amount": 308.88,
+            "description": "integrate value-added solutions",
+            "index": "4",
+            "price": 329.75,
+            "quantity": 3.51,
+            "tax_amount": 36.98,
+            "total_ttc": 355.36,
+            "vat_amount": 0.65
+        }
+    ],
+    "seller": {
+        "name": "Jeremy Mcmillan"
+    },
+    "supplier": {
+        "address": "1830 Marshall Trail Jeremychester, DE 98437",
+        "name": "Gloria Dillon"
+    },
+    "tax": {
+        "amount_excluding_tax": 74.28,
+        "amount_including_tax": 42.99,
+        "tax_amount": 27.12,
+        "total_ht": 376.51,
+        "total_ttc": 465.3
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "388 Jeffery Light Apt. 161 North Terrihaven, PW 48192",
+        "company_name": "Rollins Group",
+        "country": "Ireland",
+        "name": "Joyce Matthews"
+    },
+    "invoice": {
+        "date": "01.12.2000",
+        "number": 460416
+    },
+    "payment": {
+        "discount_amount": 41.4,
+        "discount_percentage": 14.41,
+        "due": 101.78,
+        "sub_total": 105.64,
+        "total": 442.26
+    },
+    "products": [
+        {
+            "description": "redefine intuitive technologies",
+            "index": "9",
+            "quantity": 5.17,
+            "total_price": 933.15,
+            "unit_price": 19.3
+        },
+        {
+            "description": "seize back-end systems",
+            "index": "2",
+            "quantity": 8.56,
+            "total_price": 517.15,
+            "unit_price": 21.0
+        },
+        {
+            "description": "matrix virtual functionalities",
+            "index": "8",
+            "quantity": 9.79,
+            "total_price": 404.71,
+            "unit_price": 53.58
+        },
+        {
+            "description": "grow bleeding-edge web-readiness",
+            "index": "3",
+            "quantity": 3.72,
+            "total_price": 674.05,
+            "unit_price": 25.26
+        },
+        {
+            "description": "utilize 24/7 portals",
+            "index": "2",
+            "quantity": 8.88,
+            "total_price": 348.16,
+            "unit_price": 78.95
+        }
+    ],
+    "seller": {
+        "address": "340 Chad Burgs Apt. 461 Clarkfort, GA 62639",
+        "company_name": "Roach-Mccormick",
+        "vat_no": "ki17426129178"
+    }
+}

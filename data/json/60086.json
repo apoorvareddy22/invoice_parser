@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "USCGC Fernandez FPO AA 69974",
+        "business_no": "dR304",
+        "id": "tB455"
+    },
+    "invoice": {
+        "date": "29.01.2000",
+        "number": "7830-7902"
+    },
+    "payment": {
+        "due_date": "04.08.2006",
+        "total": 754.52
+    },
+    "products": [
+        {
+            "amount": 23.85,
+            "description": "maximize out-of-the-box systems",
+            "quantity": 6.58,
+            "reference": "aT-476",
+            "unit_price": 97.96
+        },
+        {
+            "amount": 286.11,
+            "description": "expedite cutting-edge e-services",
+            "quantity": 3.43,
+            "reference": "HU-667",
+            "unit_price": 57.1
+        },
+        {
+            "amount": 89.14,
+            "description": "target e-business solutions",
+            "quantity": 2.09,
+            "reference": "YH-988",
+            "unit_price": 41.8
+        }
+    ],
+    "seller": {
+        "address": "50589 Tony Gateway Kellybury, PR 47620"
+    },
+    "tax": {
+        "base_ht": 323.35,
+        "regulations": 14.24,
+        "total_ht": 479.67,
+        "vat_amount": 67.41,
+        "vat_percentage": 15.02
+    }
+}

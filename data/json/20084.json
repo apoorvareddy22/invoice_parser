@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "77706 Theresa Haven Apt. 374 West Richard, RI 52498",
+        "company_name": "Gilmore, Obrien and Mack",
+        "email": "pwise@example.org",
+        "name": "Sonya Nguyen",
+        "phone": "001-519-913-8681"
+    },
+    "invoice": {
+        "date": "01.07.2014",
+        "due_date": "27.02.2020",
+        "number": "mSJ15743843792"
+    },
+    "payment": {
+        "account_number": 2958222295,
+        "bank_name": "Watson, Jensen and Perry",
+        "routing_number": 847073320
+    },
+    "products": [
+        {
+            "amount": 89.89,
+            "description": "expedite 24/7 bandwidth",
+            "index": "1",
+            "quantity": 6.46,
+            "unit_price": 32.88
+        },
+        {
+            "amount": 211.36,
+            "description": "monetize integrated synergies",
+            "index": "2",
+            "quantity": 6.88,
+            "unit_price": 88.69
+        },
+        {
+            "amount": 152.78,
+            "description": "implement world-class interfaces",
+            "index": "8",
+            "quantity": 4.09,
+            "unit_price": 67.48
+        },
+        {
+            "amount": 273.41,
+            "description": "re-intermediate web-enabled e-services",
+            "index": "1",
+            "quantity": 3.18,
+            "unit_price": 32.05
+        }
+    ],
+    "seller": {
+        "address": "8935 Medina Bypass Suite 280 Lake Dana, IN 99712",
+        "company_name": "Harris-Bright",
+        "email": "steindavid@example.net"
+    }
+}

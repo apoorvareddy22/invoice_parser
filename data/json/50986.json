@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "18404 Matthew Branch New Kylechester, TN 56768",
+        "id": "LJ493"
+    },
+    "invoice": {
+        "bc_no": "An00399",
+        "currency_code": "XCD",
+        "date": "20.09.1999",
+        "due_date": "20.02.2016",
+        "number": 783789
+    },
+    "payment": {
+        "bank_name": "Rodriguez, Williams and Hammond",
+        "bic": "CWDFGBWVU95",
+        "iban": "GJUI91677651037734"
+    },
+    "products": [
+        {
+            "amount": 184.07,
+            "description": "e-enable front-end deliverables",
+            "index": "4",
+            "price": 451.19,
+            "quantity": 9.74,
+            "tax_amount": 56.38,
+            "total_ttc": 496.25,
+            "vat_amount": 0.06
+        },
+        {
+            "amount": 57.27,
+            "description": "morph scalable methodologies",
+            "index": "1",
+            "price": 307.47,
+            "quantity": 2.64,
+            "tax_amount": 21.7,
+            "total_ttc": 382.07,
+            "vat_amount": 6.79
+        },
+        {
+            "amount": 330.08,
+            "description": "scale real-time e-commerce",
+            "index": "7",
+            "price": 468.99,
+            "quantity": 2.44,
+            "tax_amount": 69.62,
+            "total_ttc": 430.16,
+            "vat_amount": 1.99
+        },
+        {
+            "amount": 249.28,
+            "description": "implement next-generation content",
+            "index": "10",
+            "price": 348.86,
+            "quantity": 8.14,
+            "tax_amount": 95.65,
+            "total_ttc": 184.35,
+            "vat_amount": 4.75
+        },
+        {
+            "amount": 114.65,
+            "description": "implement distributed action-items",
+            "index": "8",
+            "price": 379.08,
+            "quantity": 7.81,
+            "tax_amount": 88.21,
+            "total_ttc": 370.66,
+            "vat_amount": 9.04
+        }
+    ],
+    "seller": {
+        "name": "Deborah Powell"
+    },
+    "supplier": {
+        "address": "38093 Mary Radial North Maryburgh, VT 42985",
+        "name": "Michelle Erickson"
+    },
+    "tax": {
+        "amount_excluding_tax": 114.77,
+        "amount_including_tax": 108.78,
+        "tax_amount": 11.21,
+        "total_ht": 455.9,
+        "total_ttc": 225.88
+    }
+}

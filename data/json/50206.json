@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "89562 Elizabeth Fork Suite 477 Floresfurt, NM 36934",
+        "id": "AU845"
+    },
+    "invoice": {
+        "bc_no": "bm08995",
+        "currency_code": "GMD",
+        "date": "06.10.2020",
+        "due_date": "28.05.2009",
+        "number": 885763
+    },
+    "payment": {
+        "bank_name": "Yang Ltd",
+        "bic": "EOCLGBAHMCW",
+        "iban": "QTTS29453189542882"
+    },
+    "products": [
+        {
+            "amount": 253.34,
+            "description": "synthesize enterprise info-mediaries",
+            "index": "8",
+            "price": 65.04,
+            "quantity": 5.96,
+            "tax_amount": 95.14,
+            "total_ttc": 215.8,
+            "vat_amount": 5.16
+        },
+        {
+            "amount": 45.29,
+            "description": "leverage dot-com communities",
+            "index": "7",
+            "price": 129.59,
+            "quantity": 9.39,
+            "tax_amount": 53.85,
+            "total_ttc": 468.44,
+            "vat_amount": 1.15
+        }
+    ],
+    "seller": {
+        "name": "Christopher Ramirez"
+    },
+    "supplier": {
+        "address": "6200 Andrea Greens Daltontown, OK 11609",
+        "name": "Christine Neal"
+    },
+    "tax": {
+        "amount_excluding_tax": 130.02,
+        "amount_including_tax": 122.86,
+        "tax_amount": 11.82,
+        "total_ht": 116.68,
+        "total_ttc": 269.17
+    }
+}

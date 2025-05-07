@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "59198 Ross Lights Lake Robertoside, WV 53555",
+        "company_name": "Myers LLC",
+        "country": "Honduras",
+        "name": "Michael Hernandez"
+    },
+    "invoice": {
+        "date": "18.04.2019",
+        "number": 251320
+    },
+    "payment": {
+        "discount_amount": 15.84,
+        "discount_percentage": 6.16,
+        "due": 197.74,
+        "sub_total": 37.3,
+        "total": 473.88
+    },
+    "products": [
+        {
+            "description": "engineer robust systems",
+            "index": "6",
+            "quantity": 3.11,
+            "total_price": 951.94,
+            "unit_price": 99.43
+        },
+        {
+            "description": "e-enable B2C interfaces",
+            "index": "2",
+            "quantity": 4.8,
+            "total_price": 317.35,
+            "unit_price": 74.33
+        }
+    ],
+    "seller": {
+        "address": "480 Tammy Lodge Danielland, ID 50709",
+        "company_name": "Smith, Anderson and Hicks",
+        "vat_no": "Ax53356589694"
+    }
+}

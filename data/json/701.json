@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "58294 White Highway Apt. 228 West Angelchester, PR 47893",
+        "company_name": "Williams LLC",
+        "country": "Benin",
+        "name": "Jessica Johnson"
+    },
+    "invoice": {
+        "date": "20.12.1997",
+        "number": 574811
+    },
+    "payment": {
+        "discount_amount": 21.33,
+        "discount_percentage": 13.93,
+        "due": 31.84,
+        "sub_total": 150.09,
+        "total": 506.8
+    },
+    "products": [
+        {
+            "description": "integrate end-to-end convergence",
+            "index": "10",
+            "quantity": 2.25,
+            "total_price": 398.08,
+            "unit_price": 12.86
+        },
+        {
+            "description": "expedite sticky action-items",
+            "index": "4",
+            "quantity": 7.68,
+            "total_price": 383.35,
+            "unit_price": 74.05
+        },
+        {
+            "description": "aggregate out-of-the-box web services",
+            "index": "9",
+            "quantity": 2.08,
+            "total_price": 43.35,
+            "unit_price": 33.65
+        },
+        {
+            "description": "reinvent 24/365 e-commerce",
+            "index": "10",
+            "quantity": 2.4,
+            "total_price": 579.63,
+            "unit_price": 95.43
+        },
+        {
+            "description": "exploit mission-critical info-mediaries",
+            "index": "1",
+            "quantity": 1.42,
+            "total_price": 570.79,
+            "unit_price": 12.72
+        },
+        {
+            "description": "envisioneer proactive synergies",
+            "index": "1",
+            "quantity": 6.16,
+            "total_price": 511.19,
+            "unit_price": 69.13
+        },
+        {
+            "description": "incentivize visionary synergies",
+            "index": "9",
+            "quantity": 2.66,
+            "total_price": 11.2,
+            "unit_price": 68.59
+        }
+    ],
+    "seller": {
+        "address": "252 Sherri Canyon Suite 105 Amandaview, MI 79924",
+        "company_name": "Lopez, Ford and Gray",
+        "vat_no": "Mp97420022005"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "633 Connie Pine Apt. 509 Wilsonbury, KS 46192"
+    },
+    "invoice": {
+        "bc_no": "oo21225",
+        "date": "02.07.2002",
+        "maturity_date": "29.03.2016",
+        "number": 141147
+    },
+    "products": [
+        {
+            "amount": 397.9,
+            "description": "envisioneer dynamic convergence",
+            "quantity": 9.07,
+            "unit_price": 61.4,
+            "vat_amount": 3.41
+        }
+    ],
+    "seller": {
+        "address": "83948 Adam Plains Teresachester, CT 57493"
+    },
+    "tax": {
+        "amount_excluding_tax": 68.54,
+        "amount_including_tax": 115.11,
+        "tax_amount": 28.11
+    }
+}

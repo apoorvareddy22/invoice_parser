@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "0293 Yoder Loaf Port Alexhaven, IA 97061",
+        "company_name": "Harvey and Sons",
+        "email": "williamdavis@example.org",
+        "name": "Wendy Shaw",
+        "phone": "001-968-683-3276"
+    },
+    "invoice": {
+        "date": "24.12.2007",
+        "due_date": "02.09.2005",
+        "number": "YxT08090404055"
+    },
+    "payment": {
+        "account_number": 8456941483,
+        "bank_name": "Grant-Hammond",
+        "routing_number": 188870554
+    },
+    "products": [
+        {
+            "amount": 303.91,
+            "description": "empower extensible ROI",
+            "index": "4",
+            "quantity": 6.5,
+            "unit_price": 71.38
+        },
+        {
+            "amount": 420.77,
+            "description": "syndicate cutting-edge methodologies",
+            "index": "9",
+            "quantity": 4.15,
+            "unit_price": 63.49
+        },
+        {
+            "amount": 34.22,
+            "description": "morph transparent architectures",
+            "index": "6",
+            "quantity": 8.46,
+            "unit_price": 82.72
+        },
+        {
+            "amount": 178.45,
+            "description": "matrix strategic channels",
+            "index": "2",
+            "quantity": 8.21,
+            "unit_price": 12.36
+        },
+        {
+            "amount": 23.4,
+            "description": "enhance interactive e-tailers",
+            "index": "8",
+            "quantity": 7.8,
+            "unit_price": 59.05
+        },
+        {
+            "amount": 265.06,
+            "description": "exploit cutting-edge mindshare",
+            "index": "5",
+            "quantity": 6.9,
+            "unit_price": 88.9
+        }
+    ],
+    "seller": {
+        "address": "5327 Montoya Square Suite 584 Melissamouth, AS 54441",
+        "company_name": "Fischer, Chandler and Perkins",
+        "email": "kristinphillips@example.org"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "782 Hull Courts Apt. 651 South Shane, NH 00594",
+        "company_name": "Stone, Shelton and Robbins",
+        "email": "millerpamela@example.net",
+        "name": "Alicia Jones",
+        "phone": "(939)351-2288"
+    },
+    "invoice": {
+        "date": "18.12.1998",
+        "due_date": "25.10.2012",
+        "number": "nzh72708175383"
+    },
+    "payment": {
+        "account_number": 1452412318,
+        "bank_name": "Miller Ltd",
+        "routing_number": 504080996
+    },
+    "products": [
+        {
+            "amount": 465.11,
+            "description": "facilitate distributed interfaces",
+            "index": "9",
+            "quantity": 4.79,
+            "unit_price": 62.89
+        },
+        {
+            "amount": 248.56,
+            "description": "transition distributed e-services",
+            "index": "2",
+            "quantity": 7.21,
+            "unit_price": 84.51
+        },
+        {
+            "amount": 416.85,
+            "description": "cultivate visionary metrics",
+            "index": "9",
+            "quantity": 6.71,
+            "unit_price": 79.79
+        },
+        {
+            "amount": 328.58,
+            "description": "productize synergistic functionalities",
+            "index": "8",
+            "quantity": 5.1,
+            "unit_price": 42.81
+        },
+        {
+            "amount": 366.04,
+            "description": "reinvent seamless content",
+            "index": "6",
+            "quantity": 1.28,
+            "unit_price": 72.21
+        }
+    ],
+    "seller": {
+        "address": "Unit 2472 Box 5372 DPO AA 36419",
+        "company_name": "Hansen Ltd",
+        "email": "brandonhayden@example.org"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "USNV Rivers FPO AP 15804"
+    },
+    "invoice": {
+        "bc_no": "Hj43909",
+        "date": "03.09.2016",
+        "maturity_date": "26.07.2016",
+        "number": 105909
+    },
+    "products": [
+        {
+            "amount": 357.33,
+            "description": "engineer enterprise web services",
+            "quantity": 5.72,
+            "unit_price": 23.93,
+            "vat_amount": 1.78
+        },
+        {
+            "amount": 277.74,
+            "description": "incubate impactful web-readiness",
+            "quantity": 3.91,
+            "unit_price": 73.16,
+            "vat_amount": 2.36
+        },
+        {
+            "amount": 241.68,
+            "description": "aggregate web-enabled deliverables",
+            "quantity": 3.79,
+            "unit_price": 14.06,
+            "vat_amount": 5.65
+        },
+        {
+            "amount": 425.45,
+            "description": "strategize intuitive action-items",
+            "quantity": 2.66,
+            "unit_price": 28.55,
+            "vat_amount": 13.88
+        },
+        {
+            "amount": 392.64,
+            "description": "revolutionize virtual e-tailers",
+            "quantity": 8.78,
+            "unit_price": 32.58,
+            "vat_amount": 12.24
+        },
+        {
+            "amount": 468.0,
+            "description": "innovate bleeding-edge bandwidth",
+            "quantity": 4.65,
+            "unit_price": 16.04,
+            "vat_amount": 15.64
+        }
+    ],
+    "seller": {
+        "address": "56446 Richard Gateway Suite 753 Byrdshire, KY 86286"
+    },
+    "tax": {
+        "amount_excluding_tax": 194.49,
+        "amount_including_tax": 176.25,
+        "tax_amount": 15.19
+    }
+}

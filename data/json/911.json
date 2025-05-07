@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "686 Espinoza Estates Apt. 136 Richardsonshire, AK 03247",
+        "company_name": "Pennington, Jones and Parker",
+        "country": "Martinique",
+        "name": "Edward Bennett"
+    },
+    "invoice": {
+        "date": "02.06.2016",
+        "number": 653549
+    },
+    "payment": {
+        "discount_amount": 33.47,
+        "discount_percentage": 6.52,
+        "due": 199.91,
+        "sub_total": 31.63,
+        "total": 634.6
+    },
+    "products": [
+        {
+            "description": "productize interactive communities",
+            "index": "6",
+            "quantity": 5.22,
+            "total_price": 941.67,
+            "unit_price": 26.13
+        },
+        {
+            "description": "redefine next-generation markets",
+            "index": "5",
+            "quantity": 9.13,
+            "total_price": 496.51,
+            "unit_price": 76.18
+        },
+        {
+            "description": "morph end-to-end experiences",
+            "index": "7",
+            "quantity": 2.75,
+            "total_price": 827.01,
+            "unit_price": 36.41
+        },
+        {
+            "description": "reinvent viral paradigms",
+            "index": "1",
+            "quantity": 7.33,
+            "total_price": 709.11,
+            "unit_price": 25.56
+        }
+    ],
+    "seller": {
+        "address": "578 Pennington Mall North Tracy, OR 07119",
+        "company_name": "Williams-Sanchez",
+        "vat_no": "Jt65209133406"
+    }
+}

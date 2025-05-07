@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "84538 Cathy Springs Villarrealmouth, FL 11295",
+        "id": "jq634"
+    },
+    "invoice": {
+        "bc_no": "fb56329",
+        "currency_code": "CRC",
+        "date": "23.08.2003",
+        "due_date": "11.12.1996",
+        "number": 107250
+    },
+    "payment": {
+        "bank_name": "Hamilton-Singh",
+        "bic": "ADBVGBSGO3K",
+        "iban": "WQPA93437989045134"
+    },
+    "products": [
+        {
+            "amount": 379.36,
+            "description": "deliver customized platforms",
+            "index": "4",
+            "price": 177.6,
+            "quantity": 7.4,
+            "tax_amount": 99.26,
+            "total_ttc": 324.89,
+            "vat_amount": 6.62
+        },
+        {
+            "amount": 203.21,
+            "description": "scale mission-critical models",
+            "index": "4",
+            "price": 32.99,
+            "quantity": 1.58,
+            "tax_amount": 78.42,
+            "total_ttc": 240.29,
+            "vat_amount": 10.26
+        },
+        {
+            "amount": 184.42,
+            "description": "re-intermediate magnetic ROI",
+            "index": "1",
+            "price": 322.85,
+            "quantity": 2.96,
+            "tax_amount": 31.02,
+            "total_ttc": 291.34,
+            "vat_amount": 0.36
+        },
+        {
+            "amount": 99.29,
+            "description": "empower ubiquitous users",
+            "index": "4",
+            "price": 73.37,
+            "quantity": 6.48,
+            "tax_amount": 29.94,
+            "total_ttc": 285.43,
+            "vat_amount": 0.22
+        }
+    ],
+    "seller": {
+        "name": "Christina Burns"
+    },
+    "supplier": {
+        "address": "34563 Stewart Dale Suite 660 New Jorgestad, OH 61194",
+        "name": "Bryan Waters"
+    },
+    "tax": {
+        "amount_excluding_tax": 149.23,
+        "amount_including_tax": 94.73,
+        "tax_amount": 22.66,
+        "total_ht": 435.46,
+        "total_ttc": 344.64
+    }
+}

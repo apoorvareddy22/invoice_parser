@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "USNV Stark FPO AA 12465",
+        "company_name": "Adams, Barker and Carlson",
+        "country": "Congo",
+        "name": "Lori Dennis"
+    },
+    "invoice": {
+        "date": "25.10.2022",
+        "number": 758407
+    },
+    "payment": {
+        "discount_amount": 11.22,
+        "discount_percentage": 12.95,
+        "due": 195.82,
+        "sub_total": 199.85,
+        "total": 458.72
+    },
+    "products": [
+        {
+            "description": "visualize revolutionary systems",
+            "index": "9",
+            "quantity": 8.14,
+            "total_price": 397.4,
+            "unit_price": 86.97
+        },
+        {
+            "description": "architect compelling e-tailers",
+            "index": "3",
+            "quantity": 3.53,
+            "total_price": 837.05,
+            "unit_price": 45.1
+        }
+    ],
+    "seller": {
+        "address": "PSC 1856, Box 6583 APO AE 14944",
+        "company_name": "Smith-English",
+        "vat_no": "PG17451846294"
+    }
+}

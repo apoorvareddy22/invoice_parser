@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "943 Martin Keys Suite 519 Tinaville, TX 87764",
+        "business_no": "Xd799",
+        "id": "tv480"
+    },
+    "invoice": {
+        "date": "03.08.1995",
+        "number": "6268-3828"
+    },
+    "payment": {
+        "due_date": "30.01.1991",
+        "total": 600.08
+    },
+    "products": [
+        {
+            "amount": 435.25,
+            "description": "evolve B2C technologies",
+            "quantity": 3.87,
+            "reference": "wp-870",
+            "unit_price": 52.58
+        },
+        {
+            "amount": 359.92,
+            "description": "aggregate mission-critical web-readiness",
+            "quantity": 3.83,
+            "reference": "PM-092",
+            "unit_price": 35.26
+        },
+        {
+            "amount": 211.86,
+            "description": "integrate interactive e-services",
+            "quantity": 5.97,
+            "reference": "NE-196",
+            "unit_price": 54.39
+        }
+    ],
+    "seller": {
+        "address": "5419 Mark Wall Apt. 768 Davilachester, NY 75956"
+    },
+    "tax": {
+        "base_ht": 413.08,
+        "regulations": 27.19,
+        "total_ht": 156.37,
+        "vat_amount": 76.98,
+        "vat_percentage": 10.66
+    }
+}

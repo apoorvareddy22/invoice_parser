@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "585 Harris Road Baileymouth, DC 82115",
+        "id": "OS687"
+    },
+    "invoice": {
+        "bc_no": "mQ36268",
+        "currency_code": "GEL",
+        "date": "19.04.2011",
+        "due_date": "21.09.2021",
+        "number": 740341
+    },
+    "payment": {
+        "bank_name": "Garcia, Rasmussen and Harris",
+        "bic": "NMSLGBNQXNP",
+        "iban": "TOFZ00378329299133"
+    },
+    "products": [
+        {
+            "amount": 351.12,
+            "description": "aggregate seamless info-mediaries",
+            "index": "2",
+            "price": 196.01,
+            "quantity": 1.23,
+            "tax_amount": 28.13,
+            "total_ttc": 378.66,
+            "vat_amount": 3.47
+        },
+        {
+            "amount": 164.49,
+            "description": "maximize open-source solutions",
+            "index": "3",
+            "price": 11.7,
+            "quantity": 2.91,
+            "tax_amount": 78.19,
+            "total_ttc": 437.15,
+            "vat_amount": 3.93
+        },
+        {
+            "amount": 287.83,
+            "description": "innovate robust solutions",
+            "index": "8",
+            "price": 72.76,
+            "quantity": 1.79,
+            "tax_amount": 19.78,
+            "total_ttc": 352.38,
+            "vat_amount": 0.2
+        },
+        {
+            "amount": 98.22,
+            "description": "synthesize mission-critical users",
+            "index": "5",
+            "price": 135.49,
+            "quantity": 5.59,
+            "tax_amount": 46.32,
+            "total_ttc": 436.8,
+            "vat_amount": 1.64
+        },
+        {
+            "amount": 295.51,
+            "description": "cultivate back-end e-services",
+            "index": "1",
+            "price": 113.6,
+            "quantity": 8.69,
+            "tax_amount": 17.42,
+            "total_ttc": 314.53,
+            "vat_amount": 4.36
+        },
+        {
+            "amount": 366.55,
+            "description": "integrate efficient bandwidth",
+            "index": "8",
+            "price": 438.91,
+            "quantity": 5.8,
+            "tax_amount": 87.03,
+            "total_ttc": 299.99,
+            "vat_amount": 12.15
+        }
+    ],
+    "seller": {
+        "name": "Natasha Stewart"
+    },
+    "supplier": {
+        "address": "8391 Deanna Spring Apt. 661 West John, NM 08199",
+        "name": "John Schultz"
+    },
+    "tax": {
+        "amount_excluding_tax": 81.38,
+        "amount_including_tax": 50.92,
+        "tax_amount": 19.96,
+        "total_ht": 480.59,
+        "total_ttc": 271.89
+    }
+}

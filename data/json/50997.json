@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "576 Molly Prairie Suite 322 Port Megan, VT 50587",
+        "id": "Na005"
+    },
+    "invoice": {
+        "bc_no": "yZ31847",
+        "currency_code": "XAF",
+        "date": "31.01.2000",
+        "due_date": "07.12.1997",
+        "number": 817304
+    },
+    "payment": {
+        "bank_name": "Campbell, King and Sandoval",
+        "bic": "XVRDGB7V",
+        "iban": "OXJY36317289664228"
+    },
+    "products": [
+        {
+            "amount": 182.25,
+            "description": "streamline bricks-and-clicks infrastructures",
+            "index": "2",
+            "price": 453.47,
+            "quantity": 6.23,
+            "tax_amount": 32.99,
+            "total_ttc": 382.78,
+            "vat_amount": 2.33
+        },
+        {
+            "amount": 81.08,
+            "description": "cultivate customized schemas",
+            "index": "1",
+            "price": 270.37,
+            "quantity": 9.73,
+            "tax_amount": 71.75,
+            "total_ttc": 126.96,
+            "vat_amount": 0.3
+        },
+        {
+            "amount": 147.08,
+            "description": "engage strategic interfaces",
+            "index": "1",
+            "price": 281.64,
+            "quantity": 2.71,
+            "tax_amount": 88.66,
+            "total_ttc": 240.68,
+            "vat_amount": 3.19
+        },
+        {
+            "amount": 421.94,
+            "description": "transition B2B web services",
+            "index": "6",
+            "price": 219.44,
+            "quantity": 6.71,
+            "tax_amount": 61.45,
+            "total_ttc": 321.89,
+            "vat_amount": 2.0
+        },
+        {
+            "amount": 250.16,
+            "description": "visualize next-generation schemas",
+            "index": "7",
+            "price": 130.75,
+            "quantity": 6.32,
+            "tax_amount": 93.84,
+            "total_ttc": 446.44,
+            "vat_amount": 4.15
+        },
+        {
+            "amount": 442.49,
+            "description": "reinvent robust networks",
+            "index": "5",
+            "price": 104.67,
+            "quantity": 7.76,
+            "tax_amount": 93.57,
+            "total_ttc": 461.4,
+            "vat_amount": 0.85
+        }
+    ],
+    "seller": {
+        "name": "Jessica Carter"
+    },
+    "supplier": {
+        "address": "3920 White Mills Suite 052 Mariahbury, RI 87329",
+        "name": "Nancy Murphy"
+    },
+    "tax": {
+        "amount_excluding_tax": 180.53,
+        "amount_including_tax": 189.36,
+        "tax_amount": 13.5,
+        "total_ht": 285.68,
+        "total_ttc": 414.96
+    }
+}

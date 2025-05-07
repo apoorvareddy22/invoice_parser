@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "775 Briggs Mountain Popeport, NY 16136",
+        "company_name": "Scott PLC",
+        "country": "United States Virgin Islands",
+        "name": "Jennifer Dorsey"
+    },
+    "invoice": {
+        "date": "14.05.2001",
+        "number": 832151
+    },
+    "payment": {
+        "discount_amount": 45.83,
+        "discount_percentage": 8.18,
+        "due": 128.06,
+        "sub_total": 107.36,
+        "total": 590.04
+    },
+    "products": [
+        {
+            "description": "synergize integrated schemas",
+            "index": "3",
+            "quantity": 9.46,
+            "total_price": 957.4,
+            "unit_price": 99.61
+        }
+    ],
+    "seller": {
+        "address": "21065 Duran Road Richland, AL 37059",
+        "company_name": "Mckenzie, Glass and Brooks",
+        "vat_no": "kp93614708636"
+    }
+}

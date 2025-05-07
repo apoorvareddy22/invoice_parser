@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "6615 Stephanie Streets Apt. 208 East Tanner, NC 89040",
+        "company_name": "Lee, Wilson and Rivera",
+        "email": "youngamanda@example.com",
+        "name": "Elizabeth Myers",
+        "phone": "398-861-1111"
+    },
+    "invoice": {
+        "date": "05.06.2006",
+        "due_date": "22.03.1991",
+        "number": "YPL23025028056"
+    },
+    "payment": {
+        "account_number": 7916789496,
+        "bank_name": "Roman Inc",
+        "routing_number": 193762230
+    },
+    "products": [
+        {
+            "amount": 127.77,
+            "description": "envisioneer out-of-the-box niches",
+            "index": "7",
+            "quantity": 7.28,
+            "unit_price": 94.14
+        },
+        {
+            "amount": 310.99,
+            "description": "generate e-business vortals",
+            "index": "10",
+            "quantity": 7.85,
+            "unit_price": 16.93
+        },
+        {
+            "amount": 378.26,
+            "description": "seize sticky ROI",
+            "index": "8",
+            "quantity": 6.59,
+            "unit_price": 67.83
+        },
+        {
+            "amount": 309.37,
+            "description": "morph global solutions",
+            "index": "10",
+            "quantity": 6.65,
+            "unit_price": 91.83
+        }
+    ],
+    "seller": {
+        "address": "40956 Linda Course Hunterfort, MP 38695",
+        "company_name": "Cook PLC",
+        "email": "ericguzman@example.com"
+    }
+}

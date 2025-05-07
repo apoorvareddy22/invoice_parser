@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "462 Daniel Station West Tinaview, NV 27539",
+        "company_name": "Stevens, Mcguire and Smith",
+        "country": "Netherlands Antilles",
+        "email": "sstewart@example.com",
+        "name": "Miss Audrey Mcdonald",
+        "phone": "(269)577-3301x00612",
+        "vat_no": "HM54830198952"
+    },
+    "invoice": {
+        "date": "12.05.2003",
+        "due_date": "26.06.2007",
+        "linked_invoice": "RF-6276-2240",
+        "notes": "innovate bleeding-edge systems",
+        "number": "Qp-4583-0472"
+    },
+    "products": [
+        {
+            "description": "envisioneer interactive supply-chains",
+            "discount_percentage": 16.71,
+            "price": 145.04,
+            "quantity": 9.31,
+            "unit_price": 94.65
+        },
+        {
+            "description": "integrate next-generation bandwidth",
+            "discount_percentage": 15.81,
+            "price": 365.66,
+            "quantity": 2.38,
+            "unit_price": 58.23
+        },
+        {
+            "description": "implement compelling metrics",
+            "discount_percentage": 13.54,
+            "price": 82.8,
+            "quantity": 3.8,
+            "unit_price": 53.09
+        },
+        {
+            "description": "scale leading-edge e-services",
+            "discount_percentage": 9.9,
+            "price": 433.19,
+            "quantity": 4.57,
+            "unit_price": 38.4
+        }
+    ],
+    "seller": {
+        "address": "PSC 9336, Box 0577 APO AA 35790",
+        "ape": "0840W",
+        "capital": 29949190,
+        "country": "Senegal",
+        "email": "geraldbishop@example.org",
+        "name": "Andrew Melton",
+        "phone_1": "(904)239-3410",
+        "phone_2": "(683)307-7798x900",
+        "phone_3": "380.740.3842",
+        "ref_walk": "xwjQ7194",
+        "reference": "RI681",
+        "siret": 37984096101421,
+        "vat_no": "yt60267215938",
+        "website": "https://www.long.biz/"
+    },
+    "tax": {
+        "amount_0": 18.86,
+        "amount_1": 18.54,
+        "base_0": 24.53,
+        "base_1": 175.38,
+        "total_ht": 440.05,
+        "total_tax": 29.37,
+        "total_ttc": 321.67,
+        "vat_0": 18.97,
+        "vat_1": 14.85
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "54561 Mario Drive Apt. 918 Acostamouth, AL 74951",
+        "company_name": "Coleman, Patterson and Perez",
+        "country": "Kyrgyz Republic",
+        "name": "Tara Chapman"
+    },
+    "invoice": {
+        "date": "11.09.2016",
+        "number": 693045
+    },
+    "payment": {
+        "discount_amount": 40.49,
+        "discount_percentage": 5.99,
+        "due": 55.24,
+        "sub_total": 67.65,
+        "total": 203.38
+    },
+    "products": [
+        {
+            "description": "visualize one-to-one infrastructures",
+            "index": "6",
+            "quantity": 5.12,
+            "total_price": 941.4,
+            "unit_price": 84.52
+        },
+        {
+            "description": "deploy distributed e-commerce",
+            "index": "6",
+            "quantity": 7.54,
+            "total_price": 330.84,
+            "unit_price": 18.04
+        },
+        {
+            "description": "brand extensible experiences",
+            "index": "3",
+            "quantity": 5.46,
+            "total_price": 511.05,
+            "unit_price": 76.25
+        },
+        {
+            "description": "unleash 24/7 mindshare",
+            "index": "6",
+            "quantity": 4.27,
+            "total_price": 892.65,
+            "unit_price": 92.53
+        }
+    ],
+    "seller": {
+        "address": "8111 Brennan Pine Suite 771 Mitchellburgh, CT 55542",
+        "company_name": "James, Baker and Foster",
+        "vat_no": "So52324385624"
+    }
+}

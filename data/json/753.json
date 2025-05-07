@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "6351 Lori Rest Kruegerton, NJ 16927",
+        "company_name": "Marsh, Fox and Howe",
+        "country": "Hungary",
+        "name": "Jessica White"
+    },
+    "invoice": {
+        "date": "08.07.2021",
+        "number": 291554
+    },
+    "payment": {
+        "discount_amount": 30.95,
+        "discount_percentage": 7.06,
+        "due": 116.46,
+        "sub_total": 145.37,
+        "total": 823.98
+    },
+    "products": [
+        {
+            "description": "maximize 24/7 convergence",
+            "index": "10",
+            "quantity": 8.48,
+            "total_price": 115.4,
+            "unit_price": 65.45
+        },
+        {
+            "description": "grow open-source architectures",
+            "index": "6",
+            "quantity": 8.57,
+            "total_price": 990.5,
+            "unit_price": 74.93
+        },
+        {
+            "description": "engineer magnetic content",
+            "index": "7",
+            "quantity": 3.68,
+            "total_price": 313.52,
+            "unit_price": 10.25
+        },
+        {
+            "description": "syndicate interactive info-mediaries",
+            "index": "2",
+            "quantity": 6.95,
+            "total_price": 106.66,
+            "unit_price": 68.53
+        }
+    ],
+    "seller": {
+        "address": "2187 Natasha Lodge Apt. 171 Jenniferhaven, WA 41081",
+        "company_name": "Fitzgerald-Petty",
+        "vat_no": "ui00242779327"
+    }
+}

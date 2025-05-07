@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "543 Maria Port Brandontown, KS 88454",
+        "email": "mary99@example.org",
+        "phone": "+1-394-707-4781x296",
+        "vat_no": "Fi83204891780"
+    },
+    "invoice": {
+        "date": "29.06.2005",
+        "due_date": "21.11.2020",
+        "market_reference": 548692,
+        "notes": "strategize extensible partnerships",
+        "number": "2331-6319",
+        "reference": 712846,
+        "vat_no": "DC43101307725"
+    },
+    "payment": {
+        "net_total": 21.46,
+        "total": 811.94
+    },
+    "products": [
+        {
+            "amount": 466.09,
+            "description": "syndicate end-to-end convergence",
+            "hours": 5.71,
+            "rate": 4.37
+        },
+        {
+            "amount": 234.66,
+            "description": "integrate impactful partnerships",
+            "hours": 7.95,
+            "rate": 8.03
+        }
+    ],
+    "seller": {
+        "address": "PSC 7288, Box 4951 APO AA 81900",
+        "email": "chelseachase@example.net",
+        "name": "Nicholas Benjamin"
+    },
+    "tax": {
+        "base": 17.45,
+        "tax_amount": 27.77,
+        "total_tax": 25.69
+    }
+}

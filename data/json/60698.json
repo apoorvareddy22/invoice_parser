@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "435 Christopher Gardens Lawsonton, MP 96828",
+        "business_no": "Oo175",
+        "id": "js587"
+    },
+    "invoice": {
+        "date": "16.02.1994",
+        "number": "6452-9510"
+    },
+    "payment": {
+        "due_date": "06.11.2001",
+        "total": 134.13
+    },
+    "products": [
+        {
+            "amount": 23.25,
+            "description": "e-enable killer e-tailers",
+            "quantity": 6.8,
+            "reference": "DC-013",
+            "unit_price": 28.66
+        }
+    ],
+    "seller": {
+        "address": "0288 Gutierrez Shore Apt. 791 East Tylerfurt, MD 68071"
+    },
+    "tax": {
+        "base_ht": 355.4,
+        "regulations": 29.47,
+        "total_ht": 299.37,
+        "vat_amount": 100.72,
+        "vat_percentage": 19.71
+    }
+}

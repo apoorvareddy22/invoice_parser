@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "6458 Perez Mountain New Paul, MO 63490",
+        "business_no": "qT670",
+        "id": "Lt223"
+    },
+    "invoice": {
+        "date": "15.12.2006",
+        "number": "2422-6170"
+    },
+    "payment": {
+        "due_date": "28.07.2013",
+        "total": 868.54
+    },
+    "products": [
+        {
+            "amount": 82.82,
+            "description": "generate value-added initiatives",
+            "quantity": 9.91,
+            "reference": "wY-130",
+            "unit_price": 67.02
+        },
+        {
+            "amount": 359.86,
+            "description": "matrix open-source content",
+            "quantity": 9.98,
+            "reference": "Hb-409",
+            "unit_price": 22.53
+        },
+        {
+            "amount": 327.8,
+            "description": "cultivate user-centric functionalities",
+            "quantity": 7.69,
+            "reference": "wV-730",
+            "unit_price": 26.51
+        }
+    ],
+    "seller": {
+        "address": "00858 Christopher Point Lake Matthewbury, OR 35602"
+    },
+    "tax": {
+        "base_ht": 308.4,
+        "regulations": 17.13,
+        "total_ht": 464.68,
+        "vat_amount": 124.12,
+        "vat_percentage": 18.9
+    }
+}

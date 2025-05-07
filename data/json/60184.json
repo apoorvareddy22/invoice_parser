@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "677 Daniel Manors Richardland, NM 86412",
+        "business_no": "rc993",
+        "id": "Nq555"
+    },
+    "invoice": {
+        "date": "01.05.1990",
+        "number": "9233-6819"
+    },
+    "payment": {
+        "due_date": "06.09.2009",
+        "total": 891.91
+    },
+    "products": [
+        {
+            "amount": 27.88,
+            "description": "benchmark open-source synergies",
+            "quantity": 9.86,
+            "reference": "mK-643",
+            "unit_price": 95.42
+        },
+        {
+            "amount": 121.16,
+            "description": "architect collaborative mindshare",
+            "quantity": 2.64,
+            "reference": "Vm-507",
+            "unit_price": 89.24
+        },
+        {
+            "amount": 169.11,
+            "description": "iterate robust ROI",
+            "quantity": 8.42,
+            "reference": "HQ-305",
+            "unit_price": 57.05
+        },
+        {
+            "amount": 170.4,
+            "description": "expedite plug-and-play models",
+            "quantity": 2.38,
+            "reference": "Ah-063",
+            "unit_price": 44.7
+        },
+        {
+            "amount": 251.41,
+            "description": "whiteboard distributed interfaces",
+            "quantity": 9.29,
+            "reference": "DQ-903",
+            "unit_price": 85.28
+        },
+        {
+            "amount": 370.0,
+            "description": "extend next-generation architectures",
+            "quantity": 3.14,
+            "reference": "Ci-841",
+            "unit_price": 15.31
+        },
+        {
+            "amount": 393.7,
+            "description": "scale best-of-breed infrastructures",
+            "quantity": 3.6,
+            "reference": "MW-244",
+            "unit_price": 93.69
+        }
+    ],
+    "seller": {
+        "address": "9476 Matthews Rue Suite 898 Lake Christopher, VA 60984"
+    },
+    "tax": {
+        "base_ht": 259.01,
+        "regulations": 17.43,
+        "total_ht": 241.66,
+        "vat_amount": 24.87,
+        "vat_percentage": 11.96
+    }
+}

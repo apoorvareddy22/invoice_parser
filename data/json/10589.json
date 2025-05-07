@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "19037 Kristin Coves Walkerstad, PR 37315",
+        "email": "boothrichard@example.com",
+        "phone": "(771)925-3736x7042",
+        "vat_no": "yr91118515738"
+    },
+    "invoice": {
+        "date": "11.02.1994",
+        "due_date": "05.05.2002",
+        "market_reference": 227539,
+        "notes": "morph strategic communities",
+        "number": "1462-4259",
+        "reference": 473348,
+        "vat_no": "GB07736115351"
+    },
+    "payment": {
+        "net_total": 67.59,
+        "total": 329.73
+    },
+    "products": [
+        {
+            "amount": 396.35,
+            "description": "synthesize holistic architectures",
+            "hours": 1.45,
+            "rate": 1.41
+        },
+        {
+            "amount": 218.48,
+            "description": "morph world-class e-business",
+            "hours": 5.68,
+            "rate": 1.53
+        },
+        {
+            "amount": 367.13,
+            "description": "maximize intuitive methodologies",
+            "hours": 8.69,
+            "rate": 4.03
+        }
+    ],
+    "seller": {
+        "address": "0961 Santos Row Apt. 752 Port John, AL 47887",
+        "email": "brittanyhoward@example.net",
+        "name": "Jacob Chavez"
+    },
+    "tax": {
+        "base": 20.09,
+        "tax_amount": 12.05,
+        "total_tax": 12.84
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "54867 Ramirez Lodge Joelbury, NM 00542",
+        "email": "bergjennifer@example.net",
+        "phone": "322.315.5473",
+        "vat_no": "sN43243837140"
+    },
+    "invoice": {
+        "date": "07.05.2004",
+        "due_date": "07.09.1995",
+        "market_reference": 540837,
+        "notes": "architect mission-critical e-tailers",
+        "number": "8830-9422",
+        "reference": 270557,
+        "vat_no": "Qx07903742415"
+    },
+    "payment": {
+        "net_total": 35.24,
+        "total": 999.07
+    },
+    "products": [
+        {
+            "amount": 66.64,
+            "description": "unleash seamless web-readiness",
+            "hours": 1.14,
+            "rate": 2.97
+        },
+        {
+            "amount": 109.69,
+            "description": "visualize virtual channels",
+            "hours": 2.26,
+            "rate": 8.22
+        },
+        {
+            "amount": 259.68,
+            "description": "deploy value-added action-items",
+            "hours": 9.23,
+            "rate": 7.2
+        },
+        {
+            "amount": 239.86,
+            "description": "e-enable integrated content",
+            "hours": 6.28,
+            "rate": 6.21
+        }
+    ],
+    "seller": {
+        "address": "909 Anderson Ridge Apt. 262 Port Sierra, MH 44335",
+        "email": "ann55@example.org",
+        "name": "Leah Hoover"
+    },
+    "tax": {
+        "base": 20.04,
+        "tax_amount": 16.2,
+        "total_tax": 29.68
+    }
+}

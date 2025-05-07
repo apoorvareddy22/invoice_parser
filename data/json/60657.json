@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "695 Anthony Forks Pottstown, FM 63697",
+        "business_no": "dH230",
+        "id": "tk183"
+    },
+    "invoice": {
+        "date": "29.09.2021",
+        "number": "4547-2883"
+    },
+    "payment": {
+        "due_date": "30.08.1994",
+        "total": 996.2
+    },
+    "products": [
+        {
+            "amount": 404.88,
+            "description": "evolve out-of-the-box models",
+            "quantity": 6.28,
+            "reference": "VG-448",
+            "unit_price": 50.69
+        },
+        {
+            "amount": 416.3,
+            "description": "extend best-of-breed mindshare",
+            "quantity": 1.83,
+            "reference": "Kn-219",
+            "unit_price": 19.68
+        },
+        {
+            "amount": 149.77,
+            "description": "envisioneer out-of-the-box models",
+            "quantity": 9.49,
+            "reference": "lR-893",
+            "unit_price": 41.17
+        },
+        {
+            "amount": 13.01,
+            "description": "integrate wireless methodologies",
+            "quantity": 2.07,
+            "reference": "gl-946",
+            "unit_price": 51.38
+        }
+    ],
+    "seller": {
+        "address": "64672 Singleton Summit Tinaburgh, VA 91540"
+    },
+    "tax": {
+        "base_ht": 441.61,
+        "regulations": 18.02,
+        "total_ht": 381.63,
+        "vat_amount": 47.75,
+        "vat_percentage": 14.58
+    }
+}

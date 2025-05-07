@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "32351 Myers Squares Suite 895 Tuckerview, OK 78222",
+        "email": "apage@example.net",
+        "phone": "(504)200-6011",
+        "vat_no": "Km79848843100"
+    },
+    "invoice": {
+        "date": "27.05.2006",
+        "due_date": "27.09.2008",
+        "market_reference": 261611,
+        "notes": "empower customized synergies",
+        "number": "7678-0834",
+        "reference": 741402,
+        "vat_no": "ND56895507470"
+    },
+    "payment": {
+        "net_total": 178.18,
+        "total": 509.5
+    },
+    "products": [
+        {
+            "amount": 120.15,
+            "description": "revolutionize cross-platform users",
+            "hours": 4.27,
+            "rate": 9.29
+        },
+        {
+            "amount": 141.08,
+            "description": "maximize global e-business",
+            "hours": 7.37,
+            "rate": 9.87
+        },
+        {
+            "amount": 85.38,
+            "description": "deploy B2C niches",
+            "hours": 3.4,
+            "rate": 9.56
+        },
+        {
+            "amount": 382.24,
+            "description": "integrate synergistic bandwidth",
+            "hours": 3.31,
+            "rate": 9.36
+        }
+    ],
+    "seller": {
+        "address": "29804 Sue Row Williamtown, FM 91437",
+        "email": "amber86@example.net",
+        "name": "John Rodriguez"
+    },
+    "tax": {
+        "base": 11.72,
+        "tax_amount": 25.98,
+        "total_tax": 10.99
+    }
+}

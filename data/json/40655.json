@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "33852 Stanley Vista New Jeffborough, GU 01148"
+    },
+    "invoice": {
+        "bc_no": "iS96213",
+        "date": "03.11.2002",
+        "maturity_date": "08.02.2014",
+        "number": 940793
+    },
+    "products": [
+        {
+            "amount": 166.42,
+            "description": "iterate one-to-one solutions",
+            "quantity": 5.39,
+            "unit_price": 31.99,
+            "vat_amount": 6.46
+        },
+        {
+            "amount": 284.57,
+            "description": "optimize 24/7 supply-chains",
+            "quantity": 2.03,
+            "unit_price": 77.18,
+            "vat_amount": 0.94
+        },
+        {
+            "amount": 6.04,
+            "description": "seize mission-critical action-items",
+            "quantity": 3.31,
+            "unit_price": 22.02,
+            "vat_amount": 1.89
+        },
+        {
+            "amount": 466.36,
+            "description": "utilize proactive interfaces",
+            "quantity": 8.17,
+            "unit_price": 72.83,
+            "vat_amount": 0.39
+        },
+        {
+            "amount": 45.34,
+            "description": "seize 24/365 interfaces",
+            "quantity": 4.08,
+            "unit_price": 17.23,
+            "vat_amount": 2.12
+        },
+        {
+            "amount": 466.47,
+            "description": "cultivate interactive platforms",
+            "quantity": 9.84,
+            "unit_price": 57.97,
+            "vat_amount": 0.33
+        }
+    ],
+    "seller": {
+        "address": "9225 Espinoza Path East Daniel, NV 95128"
+    },
+    "tax": {
+        "amount_excluding_tax": 177.69,
+        "amount_including_tax": 119.51,
+        "tax_amount": 11.91
+    }
+}

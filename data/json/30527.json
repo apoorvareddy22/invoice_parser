@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "2263 Daniels Hill Jenniferhaven, GU 06766",
+        "company_name": "Jenkins PLC",
+        "country": "United Kingdom",
+        "email": "marthamurphy@example.com",
+        "name": "Sara Foster",
+        "phone": "510.980.6573x67443",
+        "vat_no": "MA89018764174"
+    },
+    "invoice": {
+        "date": "14.07.2015",
+        "due_date": "14.01.2014",
+        "linked_invoice": "JH-5274-7500",
+        "notes": "aggregate 24/365 channels",
+        "number": "fY-2511-6586"
+    },
+    "products": [
+        {
+            "description": "enable impactful functionalities",
+            "discount_percentage": 6.6,
+            "price": 138.59,
+            "quantity": 5.12,
+            "unit_price": 80.4
+        },
+        {
+            "description": "deliver user-centric web-readiness",
+            "discount_percentage": 19.74,
+            "price": 417.81,
+            "quantity": 8.28,
+            "unit_price": 12.44
+        }
+    ],
+    "seller": {
+        "address": "9501 Sullivan Crossing Lake Brittanyfort, SC 80267",
+        "ape": "3199l",
+        "capital": 33645634,
+        "country": "Cocos (Keeling) Islands",
+        "email": "lhoffman@example.org",
+        "name": "Shelia Padilla",
+        "phone_1": "001-467-504-2443x0217",
+        "phone_2": "447.231.7036",
+        "phone_3": "001-787-906-2447",
+        "ref_walk": "efrO3436",
+        "reference": "yO136",
+        "siret": 33302529875222,
+        "vat_no": "qX61372020096",
+        "website": "https://www.anderson-marks.info/"
+    },
+    "tax": {
+        "amount_0": 12.5,
+        "amount_1": 12.96,
+        "base_0": 27.45,
+        "base_1": 131.57,
+        "total_ht": 378.64,
+        "total_tax": 22.72,
+        "total_ttc": 295.24,
+        "vat_0": 24.27,
+        "vat_1": 11.64
+    }
+}

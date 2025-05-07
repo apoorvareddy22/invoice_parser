@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "76329 Miller Fork Apt. 520 Lozanoport, WV 55331",
+        "email": "murrayjane@example.net",
+        "phone": "356-830-5399",
+        "vat_no": "qy85657596856"
+    },
+    "invoice": {
+        "date": "20.03.2007",
+        "due_date": "08.12.2022",
+        "market_reference": 211405,
+        "notes": "aggregate user-centric eyeballs",
+        "number": "2430-1973",
+        "reference": 808723,
+        "vat_no": "OP98229094038"
+    },
+    "payment": {
+        "net_total": 102.19,
+        "total": 854.52
+    },
+    "products": [
+        {
+            "amount": 201.37,
+            "description": "deliver synergistic supply-chains",
+            "hours": 4.97,
+            "rate": 8.15
+        },
+        {
+            "amount": 213.91,
+            "description": "target cross-media communities",
+            "hours": 6.85,
+            "rate": 8.68
+        },
+        {
+            "amount": 33.86,
+            "description": "utilize innovative interfaces",
+            "hours": 1.24,
+            "rate": 5.2
+        }
+    ],
+    "seller": {
+        "address": "037 Morrow Cape Suite 579 North Susan, NH 52059",
+        "email": "coletyler@example.org",
+        "name": "Kelly Ward"
+    },
+    "tax": {
+        "base": 16.24,
+        "tax_amount": 29.83,
+        "total_tax": 26.75
+    }
+}

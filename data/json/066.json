@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "28129 Michael Walks Suite 338 Herringborough, NV 22906",
+        "company_name": "Smith LLC",
+        "country": "Saint Lucia",
+        "name": "Shane Barr"
+    },
+    "invoice": {
+        "date": "10.02.1994",
+        "number": 585432
+    },
+    "payment": {
+        "discount_amount": 36.28,
+        "discount_percentage": 6.81,
+        "due": 15.19,
+        "sub_total": 48.96,
+        "total": 998.48
+    },
+    "products": [
+        {
+            "description": "benchmark web-enabled architectures",
+            "index": "2",
+            "quantity": 2.34,
+            "total_price": 182.3,
+            "unit_price": 84.72
+        }
+    ],
+    "seller": {
+        "address": "68872 Melinda Dam Suite 212 Grayfort, UT 87820",
+        "company_name": "Peters-Watson",
+        "vat_no": "nP31965193173"
+    }
+}

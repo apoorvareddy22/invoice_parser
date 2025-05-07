@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "940 Erin Mills Suite 330 Jamesstad, GA 61585"
+    },
+    "invoice": {
+        "bc_no": "iz65060",
+        "date": "14.12.2010",
+        "maturity_date": "14.06.1996",
+        "number": 684314
+    },
+    "products": [
+        {
+            "amount": 284.23,
+            "description": "enhance best-of-breed metrics",
+            "quantity": 5.96,
+            "unit_price": 76.13,
+            "vat_amount": 0.93
+        },
+        {
+            "amount": 344.87,
+            "description": "monetize efficient ROI",
+            "quantity": 4.41,
+            "unit_price": 17.6,
+            "vat_amount": 4.52
+        },
+        {
+            "amount": 145.05,
+            "description": "evolve clicks-and-mortar deliverables",
+            "quantity": 7.09,
+            "unit_price": 52.77,
+            "vat_amount": 8.53
+        },
+        {
+            "amount": 367.24,
+            "description": "transform strategic mindshare",
+            "quantity": 1.1,
+            "unit_price": 84.07,
+            "vat_amount": 2.07
+        },
+        {
+            "amount": 356.63,
+            "description": "empower bricks-and-clicks channels",
+            "quantity": 8.01,
+            "unit_price": 56.85,
+            "vat_amount": 2.69
+        },
+        {
+            "amount": 289.2,
+            "description": "optimize web-enabled mindshare",
+            "quantity": 2.64,
+            "unit_price": 30.73,
+            "vat_amount": 5.5
+        }
+    ],
+    "seller": {
+        "address": "34887 Campbell Fork Gomezview, MN 78084"
+    },
+    "tax": {
+        "amount_excluding_tax": 95.45,
+        "amount_including_tax": 118.57,
+        "tax_amount": 21.3
+    }
+}

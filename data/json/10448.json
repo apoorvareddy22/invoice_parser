@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "00352 Morrison Union West Veronicaborough, CA 51658",
+        "email": "stevengreer@example.org",
+        "phone": "(332)502-6070x12932",
+        "vat_no": "DZ84930232069"
+    },
+    "invoice": {
+        "date": "07.02.2003",
+        "due_date": "06.09.2013",
+        "market_reference": 414037,
+        "notes": "seize enterprise e-markets",
+        "number": "2119-3705",
+        "reference": 783193,
+        "vat_no": "cL85001728981"
+    },
+    "payment": {
+        "net_total": 42.84,
+        "total": 637.16
+    },
+    "products": [
+        {
+            "amount": 57.06,
+            "description": "evolve plug-and-play networks",
+            "hours": 4.25,
+            "rate": 5.74
+        },
+        {
+            "amount": 82.38,
+            "description": "exploit proactive infrastructures",
+            "hours": 5.42,
+            "rate": 8.57
+        },
+        {
+            "amount": 481.86,
+            "description": "syndicate out-of-the-box info-mediaries",
+            "hours": 7.25,
+            "rate": 8.9
+        },
+        {
+            "amount": 480.55,
+            "description": "harness open-source infrastructures",
+            "hours": 7.36,
+            "rate": 3.46
+        },
+        {
+            "amount": 359.54,
+            "description": "repurpose viral networks",
+            "hours": 6.89,
+            "rate": 4.55
+        },
+        {
+            "amount": 224.55,
+            "description": "whiteboard proactive niches",
+            "hours": 7.23,
+            "rate": 7.85
+        },
+        {
+            "amount": 367.76,
+            "description": "enhance user-centric niches",
+            "hours": 5.99,
+            "rate": 2.36
+        }
+    ],
+    "seller": {
+        "address": "PSC 8723, Box 4771 APO AA 41558",
+        "email": "duncancolin@example.net",
+        "name": "Jeffrey Webb"
+    },
+    "tax": {
+        "base": 24.05,
+        "tax_amount": 10.24,
+        "total_tax": 24.04
+    }
+}

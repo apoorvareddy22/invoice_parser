@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "4250 Melissa Canyon Suite 969 North Benjamin, VI 66045",
+        "email": "herreracourtney@example.org",
+        "phone": "610.329.8572",
+        "vat_no": "yY57910453114"
+    },
+    "invoice": {
+        "date": "25.06.2007",
+        "due_date": "14.03.1998",
+        "market_reference": 201773,
+        "notes": "utilize global initiatives",
+        "number": "2908-3503",
+        "reference": 139281,
+        "vat_no": "uD35044778185"
+    },
+    "payment": {
+        "net_total": 142.6,
+        "total": 196.79
+    },
+    "products": [
+        {
+            "amount": 152.95,
+            "description": "implement 24/365 solutions",
+            "hours": 3.78,
+            "rate": 1.79
+        },
+        {
+            "amount": 317.88,
+            "description": "innovate collaborative platforms",
+            "hours": 8.99,
+            "rate": 6.31
+        },
+        {
+            "amount": 22.95,
+            "description": "brand world-class mindshare",
+            "hours": 3.61,
+            "rate": 7.18
+        }
+    ],
+    "seller": {
+        "address": "92195 Coleman Place Apt. 049 East Michellestad, WI 05830",
+        "email": "pearsonjeremy@example.org",
+        "name": "Taylor Serrano"
+    },
+    "tax": {
+        "base": 15.74,
+        "tax_amount": 13.09,
+        "total_tax": 16.57
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "0553 Shelley Square Apt. 483 South Debbieville, MD 63037",
+        "id": "lZ281"
+    },
+    "invoice": {
+        "bc_no": "vL14332",
+        "currency_code": "NPR",
+        "date": "25.06.2002",
+        "due_date": "06.03.1996",
+        "number": 965448
+    },
+    "payment": {
+        "bank_name": "Dalton-Gomez",
+        "bic": "AGMJGB5GFKS",
+        "iban": "FCCV12572913699908"
+    },
+    "products": [
+        {
+            "amount": 116.93,
+            "description": "repurpose proactive web-readiness",
+            "index": "8",
+            "price": 469.85,
+            "quantity": 7.0,
+            "tax_amount": 46.0,
+            "total_ttc": 498.13,
+            "vat_amount": 2.65
+        },
+        {
+            "amount": 228.57,
+            "description": "grow ubiquitous platforms",
+            "index": "3",
+            "price": 495.4,
+            "quantity": 4.39,
+            "tax_amount": 63.85,
+            "total_ttc": 360.98,
+            "vat_amount": 7.0
+        },
+        {
+            "amount": 257.23,
+            "description": "extend 24/7 ROI",
+            "index": "3",
+            "price": 134.62,
+            "quantity": 8.24,
+            "tax_amount": 15.61,
+            "total_ttc": 123.85,
+            "vat_amount": 1.64
+        }
+    ],
+    "seller": {
+        "name": "Aaron Rodriguez"
+    },
+    "supplier": {
+        "address": "498 Gaines Parks Apt. 887 West Patrickstad, MI 88241",
+        "name": "Carl Hoffman"
+    },
+    "tax": {
+        "amount_excluding_tax": 159.54,
+        "amount_including_tax": 176.12,
+        "tax_amount": 25.74,
+        "total_ht": 118.36,
+        "total_ttc": 145.19
+    }
+}

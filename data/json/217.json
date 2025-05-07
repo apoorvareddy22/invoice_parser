@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "7243 Mosley Freeway Apt. 799 South Christian, IL 15274",
+        "company_name": "Holmes LLC",
+        "country": "Central African Republic",
+        "name": "Jason Scott"
+    },
+    "invoice": {
+        "date": "21.09.2019",
+        "number": 929647
+    },
+    "payment": {
+        "discount_amount": 21.2,
+        "discount_percentage": 12.21,
+        "due": 125.61,
+        "sub_total": 53.36,
+        "total": 270.7
+    },
+    "products": [
+        {
+            "description": "aggregate turn-key solutions",
+            "index": "5",
+            "quantity": 6.94,
+            "total_price": 102.33,
+            "unit_price": 21.7
+        },
+        {
+            "description": "unleash integrated web services",
+            "index": "2",
+            "quantity": 8.57,
+            "total_price": 51.0,
+            "unit_price": 95.47
+        },
+        {
+            "description": "architect e-business markets",
+            "index": "7",
+            "quantity": 4.09,
+            "total_price": 376.03,
+            "unit_price": 95.65
+        },
+        {
+            "description": "strategize strategic e-services",
+            "index": "10",
+            "quantity": 9.99,
+            "total_price": 652.67,
+            "unit_price": 27.27
+        },
+        {
+            "description": "engineer dot-com users",
+            "index": "8",
+            "quantity": 8.77,
+            "total_price": 529.68,
+            "unit_price": 55.33
+        }
+    ],
+    "seller": {
+        "address": "48084 Martinez Forks Howardmouth, NM 68700",
+        "company_name": "Mccarthy, Ryan and Jackson",
+        "vat_no": "OY18666655034"
+    }
+}

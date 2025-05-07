@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "100 Jacqueline Ramp Apt. 293 Fernandezville, RI 82696"
+    },
+    "invoice": {
+        "bc_no": "rq48640",
+        "date": "21.12.1996",
+        "maturity_date": "17.08.1997",
+        "number": 769309
+    },
+    "products": [
+        {
+            "amount": 461.73,
+            "description": "mesh dot-com eyeballs",
+            "quantity": 4.18,
+            "unit_price": 44.5,
+            "vat_amount": 7.22
+        },
+        {
+            "amount": 328.85,
+            "description": "synthesize seamless web-readiness",
+            "quantity": 4.3,
+            "unit_price": 80.88,
+            "vat_amount": 10.49
+        },
+        {
+            "amount": 11.18,
+            "description": "utilize distributed web-readiness",
+            "quantity": 4.88,
+            "unit_price": 42.15,
+            "vat_amount": 2.91
+        }
+    ],
+    "seller": {
+        "address": "7438 Alice Spring Timothytown, PR 73186"
+    },
+    "tax": {
+        "amount_excluding_tax": 191.86,
+        "amount_including_tax": 11.0,
+        "tax_amount": 19.02
+    }
+}

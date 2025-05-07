@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "5487 Ramsey Vista Suite 298 North Daniellemouth, IL 08525",
+        "email": "ewalker@example.net",
+        "phone": "662.684.3657",
+        "vat_no": "NM69173448155"
+    },
+    "invoice": {
+        "date": "20.08.2000",
+        "due_date": "14.06.2003",
+        "market_reference": 547821,
+        "notes": "utilize world-class vortals",
+        "number": "6140-4893",
+        "reference": 217224,
+        "vat_no": "Lx87781533950"
+    },
+    "payment": {
+        "net_total": 163.71,
+        "total": 380.57
+    },
+    "products": [
+        {
+            "amount": 77.44,
+            "description": "aggregate compelling paradigms",
+            "hours": 6.38,
+            "rate": 9.9
+        },
+        {
+            "amount": 28.44,
+            "description": "transition open-source web services",
+            "hours": 4.48,
+            "rate": 3.64
+        },
+        {
+            "amount": 343.22,
+            "description": "implement wireless e-services",
+            "hours": 8.0,
+            "rate": 6.42
+        },
+        {
+            "amount": 69.51,
+            "description": "benchmark synergistic partnerships",
+            "hours": 6.49,
+            "rate": 4.89
+        },
+        {
+            "amount": 114.79,
+            "description": "transition sticky e-tailers",
+            "hours": 5.72,
+            "rate": 5.15
+        }
+    ],
+    "seller": {
+        "address": "USNS Parker FPO AE 87712",
+        "email": "michelle84@example.com",
+        "name": "Stacey Gray"
+    },
+    "tax": {
+        "base": 27.3,
+        "tax_amount": 12.69,
+        "total_tax": 10.28
+    }
+}

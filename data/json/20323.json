@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "PSC 6927, Box 9564 APO AE 92959",
+        "company_name": "Schmitt-Jones",
+        "email": "matthew39@example.org",
+        "name": "Elizabeth Nelson",
+        "phone": "677.978.6122"
+    },
+    "invoice": {
+        "date": "08.03.2002",
+        "due_date": "07.03.2008",
+        "number": "KIQ07424637189"
+    },
+    "payment": {
+        "account_number": 7960228737,
+        "bank_name": "Morrison, Moore and Hicks",
+        "routing_number": 109917153
+    },
+    "products": [
+        {
+            "amount": 160.7,
+            "description": "visualize vertical networks",
+            "index": "10",
+            "quantity": 4.55,
+            "unit_price": 50.84
+        },
+        {
+            "amount": 355.76,
+            "description": "engage dot-com applications",
+            "index": "4",
+            "quantity": 1.89,
+            "unit_price": 89.36
+        },
+        {
+            "amount": 148.45,
+            "description": "target 24/7 info-mediaries",
+            "index": "8",
+            "quantity": 9.59,
+            "unit_price": 71.26
+        },
+        {
+            "amount": 157.0,
+            "description": "engage vertical partnerships",
+            "index": "3",
+            "quantity": 9.59,
+            "unit_price": 28.32
+        },
+        {
+            "amount": 415.39,
+            "description": "mesh frictionless content",
+            "index": "8",
+            "quantity": 6.7,
+            "unit_price": 28.25
+        },
+        {
+            "amount": 332.92,
+            "description": "grow strategic synergies",
+            "index": "5",
+            "quantity": 3.99,
+            "unit_price": 81.68
+        },
+        {
+            "amount": 41.7,
+            "description": "syndicate out-of-the-box content",
+            "index": "9",
+            "quantity": 7.21,
+            "unit_price": 52.41
+        }
+    ],
+    "seller": {
+        "address": "409 Dawson Views Suite 215 Sarahport, TN 11345",
+        "company_name": "Morales-Schultz",
+        "email": "madison49@example.org"
+    }
+}

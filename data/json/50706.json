@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "96515 Stewart Park Willisland, DC 50269",
+        "id": "DR134"
+    },
+    "invoice": {
+        "bc_no": "qF57273",
+        "currency_code": "MGA",
+        "date": "21.10.2007",
+        "due_date": "26.10.1999",
+        "number": 759911
+    },
+    "payment": {
+        "bank_name": "Strickland, Vargas and Dennis",
+        "bic": "BZYOGBEL",
+        "iban": "MTQJ37021498783550"
+    },
+    "products": [
+        {
+            "amount": 141.34,
+            "description": "synergize 24/365 technologies",
+            "index": "6",
+            "price": 81.04,
+            "quantity": 1.78,
+            "tax_amount": 55.85,
+            "total_ttc": 435.63,
+            "vat_amount": 8.98
+        },
+        {
+            "amount": 68.1,
+            "description": "expedite front-end content",
+            "index": "6",
+            "price": 42.27,
+            "quantity": 3.23,
+            "tax_amount": 22.8,
+            "total_ttc": 357.04,
+            "vat_amount": 1.87
+        },
+        {
+            "amount": 30.47,
+            "description": "exploit plug-and-play e-commerce",
+            "index": "6",
+            "price": 277.24,
+            "quantity": 6.8,
+            "tax_amount": 23.69,
+            "total_ttc": 165.6,
+            "vat_amount": 4.43
+        }
+    ],
+    "seller": {
+        "name": "Mr. Trevor Hernandez DVM"
+    },
+    "supplier": {
+        "address": "44474 Pamela Mountains Lake Benjamin, SD 39939",
+        "name": "Ashley Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 61.01,
+        "amount_including_tax": 42.64,
+        "tax_amount": 28.22,
+        "total_ht": 306.82,
+        "total_ttc": 319.26
+    }
+}

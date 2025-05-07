@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "03269 Forbes Radial Phillipshaven, RI 82164",
+        "id": "dv456"
+    },
+    "invoice": {
+        "bc_no": "ve60433",
+        "currency_code": "CDF",
+        "date": "04.04.2011",
+        "due_date": "01.08.1996",
+        "number": 144135
+    },
+    "payment": {
+        "bank_name": "Palmer Inc",
+        "bic": "KVMTGB459G6",
+        "iban": "LKSC72858806328765"
+    },
+    "products": [
+        {
+            "amount": 494.77,
+            "description": "mesh cutting-edge vortals",
+            "index": "6",
+            "price": 142.53,
+            "quantity": 7.66,
+            "tax_amount": 42.65,
+            "total_ttc": 216.53,
+            "vat_amount": 8.76
+        },
+        {
+            "amount": 166.65,
+            "description": "mesh cross-platform info-mediaries",
+            "index": "8",
+            "price": 194.67,
+            "quantity": 5.15,
+            "tax_amount": 90.97,
+            "total_ttc": 249.31,
+            "vat_amount": 3.74
+        },
+        {
+            "amount": 199.55,
+            "description": "transition wireless users",
+            "index": "6",
+            "price": 16.18,
+            "quantity": 9.88,
+            "tax_amount": 20.89,
+            "total_ttc": 394.74,
+            "vat_amount": 4.89
+        },
+        {
+            "amount": 169.08,
+            "description": "architect real-time interfaces",
+            "index": "5",
+            "price": 477.46,
+            "quantity": 4.24,
+            "tax_amount": 53.8,
+            "total_ttc": 413.66,
+            "vat_amount": 1.34
+        },
+        {
+            "amount": 133.4,
+            "description": "reinvent 24/365 relationships",
+            "index": "2",
+            "price": 20.55,
+            "quantity": 2.79,
+            "tax_amount": 94.1,
+            "total_ttc": 470.87,
+            "vat_amount": 3.69
+        },
+        {
+            "amount": 268.28,
+            "description": "mesh B2C models",
+            "index": "7",
+            "price": 28.4,
+            "quantity": 2.65,
+            "tax_amount": 11.27,
+            "total_ttc": 472.07,
+            "vat_amount": 2.68
+        }
+    ],
+    "seller": {
+        "name": "Teresa Cummings"
+    },
+    "supplier": {
+        "address": "8433 Velez Burgs Jonesville, CO 84217",
+        "name": "Michael Rivera"
+    },
+    "tax": {
+        "amount_excluding_tax": 29.07,
+        "amount_including_tax": 140.51,
+        "tax_amount": 18.49,
+        "total_ht": 404.88,
+        "total_ttc": 385.34
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "41358 Lopez Harbors Apt. 979 South Courtney, TN 59091"
+    },
+    "invoice": {
+        "bc_no": "dU57660",
+        "date": "17.04.1991",
+        "maturity_date": "17.02.2015",
+        "number": 566889
+    },
+    "products": [
+        {
+            "amount": 440.75,
+            "description": "envisioneer e-business vortals",
+            "quantity": 4.03,
+            "unit_price": 79.97,
+            "vat_amount": 9.36
+        },
+        {
+            "amount": 293.67,
+            "description": "embrace killer portals",
+            "quantity": 8.18,
+            "unit_price": 33.78,
+            "vat_amount": 2.35
+        },
+        {
+            "amount": 299.76,
+            "description": "aggregate innovative synergies",
+            "quantity": 8.77,
+            "unit_price": 95.0,
+            "vat_amount": 2.6
+        }
+    ],
+    "seller": {
+        "address": "8851 Payne Pines Apt. 387 West Matthew, WV 88691"
+    },
+    "tax": {
+        "amount_excluding_tax": 160.48,
+        "amount_including_tax": 143.75,
+        "tax_amount": 13.65
+    }
+}

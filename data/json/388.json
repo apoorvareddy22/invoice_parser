@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "USS Smith FPO AA 81898",
+        "company_name": "Davis-Castro",
+        "country": "Norway",
+        "name": "Diane Mcdaniel"
+    },
+    "invoice": {
+        "date": "18.11.1994",
+        "number": 754929
+    },
+    "payment": {
+        "discount_amount": 37.95,
+        "discount_percentage": 11.56,
+        "due": 139.75,
+        "sub_total": 29.2,
+        "total": 890.1
+    },
+    "products": [
+        {
+            "description": "reinvent efficient technologies",
+            "index": "4",
+            "quantity": 7.99,
+            "total_price": 592.55,
+            "unit_price": 73.01
+        },
+        {
+            "description": "unleash end-to-end systems",
+            "index": "1",
+            "quantity": 2.2,
+            "total_price": 931.9,
+            "unit_price": 59.82
+        },
+        {
+            "description": "re-intermediate seamless metrics",
+            "index": "9",
+            "quantity": 5.62,
+            "total_price": 164.1,
+            "unit_price": 94.4
+        },
+        {
+            "description": "drive interactive e-commerce",
+            "index": "8",
+            "quantity": 7.01,
+            "total_price": 229.17,
+            "unit_price": 72.61
+        },
+        {
+            "description": "implement end-to-end e-commerce",
+            "index": "10",
+            "quantity": 2.38,
+            "total_price": 543.75,
+            "unit_price": 74.29
+        },
+        {
+            "description": "empower open-source relationships",
+            "index": "8",
+            "quantity": 1.87,
+            "total_price": 462.45,
+            "unit_price": 91.63
+        }
+    ],
+    "seller": {
+        "address": "65802 John Place Apt. 797 South Jeremy, UT 67009",
+        "company_name": "Jones-Tran",
+        "vat_no": "eB92502671578"
+    }
+}

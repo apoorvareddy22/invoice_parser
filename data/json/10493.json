@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "9476 Sloan Mountains Apt. 723 West Kevin, MT 45234",
+        "email": "bonnielee@example.net",
+        "phone": "968-335-7288x658",
+        "vat_no": "JM85398075201"
+    },
+    "invoice": {
+        "date": "25.12.2007",
+        "due_date": "11.06.2015",
+        "market_reference": 310169,
+        "notes": "integrate cross-platform models",
+        "number": "4222-6138",
+        "reference": 122593,
+        "vat_no": "JQ40928320417"
+    },
+    "payment": {
+        "net_total": 110.36,
+        "total": 918.13
+    },
+    "products": [
+        {
+            "amount": 8.24,
+            "description": "repurpose end-to-end web services",
+            "hours": 5.61,
+            "rate": 6.79
+        },
+        {
+            "amount": 482.1,
+            "description": "iterate proactive bandwidth",
+            "hours": 2.94,
+            "rate": 4.28
+        },
+        {
+            "amount": 140.17,
+            "description": "iterate best-of-breed models",
+            "hours": 9.78,
+            "rate": 3.86
+        },
+        {
+            "amount": 472.54,
+            "description": "cultivate synergistic platforms",
+            "hours": 3.19,
+            "rate": 7.85
+        },
+        {
+            "amount": 499.52,
+            "description": "exploit web-enabled experiences",
+            "hours": 6.07,
+            "rate": 7.19
+        },
+        {
+            "amount": 481.56,
+            "description": "incentivize plug-and-play vortals",
+            "hours": 4.09,
+            "rate": 7.14
+        },
+        {
+            "amount": 263.41,
+            "description": "target B2C methodologies",
+            "hours": 2.76,
+            "rate": 3.42
+        }
+    ],
+    "seller": {
+        "address": "5378 Harrell Lock Apt. 519 Simmonsside, UT 18742",
+        "email": "robertvalenzuela@example.net",
+        "name": "Angela Harvey"
+    },
+    "tax": {
+        "base": 17.69,
+        "tax_amount": 16.16,
+        "total_tax": 23.66
+    }
+}

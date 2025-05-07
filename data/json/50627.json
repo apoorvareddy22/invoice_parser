@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "034 Anthony Valley Charlesville, UT 83608",
+        "id": "yD801"
+    },
+    "invoice": {
+        "bc_no": "DF22806",
+        "currency_code": "AFN",
+        "date": "08.11.2000",
+        "due_date": "21.02.2013",
+        "number": 344836
+    },
+    "payment": {
+        "bank_name": "Bell LLC",
+        "bic": "ODJRGB7O",
+        "iban": "QLVR33541370039945"
+    },
+    "products": [
+        {
+            "amount": 68.29,
+            "description": "exploit wireless deliverables",
+            "index": "4",
+            "price": 372.33,
+            "quantity": 6.0,
+            "tax_amount": 33.29,
+            "total_ttc": 252.82,
+            "vat_amount": 8.87
+        },
+        {
+            "amount": 487.92,
+            "description": "engineer interactive experiences",
+            "index": "9",
+            "price": 161.27,
+            "quantity": 3.66,
+            "tax_amount": 71.22,
+            "total_ttc": 433.33,
+            "vat_amount": 5.78
+        },
+        {
+            "amount": 272.67,
+            "description": "e-enable proactive communities",
+            "index": "4",
+            "price": 312.75,
+            "quantity": 7.53,
+            "tax_amount": 15.17,
+            "total_ttc": 194.52,
+            "vat_amount": 5.75
+        },
+        {
+            "amount": 21.05,
+            "description": "unleash strategic initiatives",
+            "index": "2",
+            "price": 496.29,
+            "quantity": 6.53,
+            "tax_amount": 64.11,
+            "total_ttc": 471.64,
+            "vat_amount": 6.67
+        },
+        {
+            "amount": 415.77,
+            "description": "innovate proactive e-services",
+            "index": "5",
+            "price": 475.75,
+            "quantity": 4.27,
+            "tax_amount": 99.05,
+            "total_ttc": 274.5,
+            "vat_amount": 5.75
+        },
+        {
+            "amount": 271.33,
+            "description": "deliver dot-com communities",
+            "index": "3",
+            "price": 211.88,
+            "quantity": 3.59,
+            "tax_amount": 96.62,
+            "total_ttc": 478.84,
+            "vat_amount": 11.11
+        },
+        {
+            "amount": 21.4,
+            "description": "re-intermediate frictionless solutions",
+            "index": "6",
+            "price": 381.43,
+            "quantity": 4.93,
+            "tax_amount": 16.1,
+            "total_ttc": 414.91,
+            "vat_amount": 1.84
+        }
+    ],
+    "seller": {
+        "name": "Samuel Rogers"
+    },
+    "supplier": {
+        "address": "USNS Robinson FPO AA 22548",
+        "name": "Becky Green"
+    },
+    "tax": {
+        "amount_excluding_tax": 148.22,
+        "amount_including_tax": 165.31,
+        "tax_amount": 18.47,
+        "total_ht": 386.83,
+        "total_ttc": 228.24
+    }
+}

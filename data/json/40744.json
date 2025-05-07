@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "13184 Ryan Stravenue Apt. 005 Mariaport, OK 39395"
+    },
+    "invoice": {
+        "bc_no": "US67430",
+        "date": "19.06.2011",
+        "maturity_date": "10.10.2011",
+        "number": 173539
+    },
+    "products": [
+        {
+            "amount": 141.39,
+            "description": "deploy plug-and-play functionalities",
+            "quantity": 2.25,
+            "unit_price": 16.92,
+            "vat_amount": 2.51
+        },
+        {
+            "amount": 189.1,
+            "description": "synergize real-time solutions",
+            "quantity": 6.25,
+            "unit_price": 34.57,
+            "vat_amount": 9.7
+        },
+        {
+            "amount": 369.31,
+            "description": "leverage synergistic supply-chains",
+            "quantity": 6.48,
+            "unit_price": 24.97,
+            "vat_amount": 15.87
+        },
+        {
+            "amount": 327.62,
+            "description": "utilize innovative communities",
+            "quantity": 3.07,
+            "unit_price": 99.01,
+            "vat_amount": 0.45
+        },
+        {
+            "amount": 360.41,
+            "description": "strategize bleeding-edge content",
+            "quantity": 6.82,
+            "unit_price": 17.95,
+            "vat_amount": 9.35
+        },
+        {
+            "amount": 138.78,
+            "description": "envisioneer clicks-and-mortar bandwidth",
+            "quantity": 9.72,
+            "unit_price": 22.33,
+            "vat_amount": 9.68
+        }
+    ],
+    "seller": {
+        "address": "91907 Obrien Court Ryanport, WY 19402"
+    },
+    "tax": {
+        "amount_excluding_tax": 79.03,
+        "amount_including_tax": 31.58,
+        "tax_amount": 22.69
+    }
+}

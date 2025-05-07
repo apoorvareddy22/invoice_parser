@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "90556 Lisa Meadows Suite 546 Lake Nicholasstad, NY 14762",
+        "id": "BC443"
+    },
+    "invoice": {
+        "bc_no": "bm53629",
+        "currency_code": "SOS",
+        "date": "30.10.2007",
+        "due_date": "16.08.2008",
+        "number": 895182
+    },
+    "payment": {
+        "bank_name": "Gaines Group",
+        "bic": "TIYDGBZ05EV",
+        "iban": "OHIK24710649554843"
+    },
+    "products": [
+        {
+            "amount": 432.84,
+            "description": "embrace best-of-breed technologies",
+            "index": "7",
+            "price": 340.33,
+            "quantity": 4.98,
+            "tax_amount": 25.69,
+            "total_ttc": 242.0,
+            "vat_amount": 1.0
+        },
+        {
+            "amount": 419.43,
+            "description": "maximize end-to-end synergies",
+            "index": "7",
+            "price": 198.78,
+            "quantity": 9.85,
+            "tax_amount": 49.1,
+            "total_ttc": 356.37,
+            "vat_amount": 11.11
+        },
+        {
+            "amount": 21.16,
+            "description": "benchmark cutting-edge bandwidth",
+            "index": "10",
+            "price": 217.13,
+            "quantity": 1.61,
+            "tax_amount": 73.82,
+            "total_ttc": 347.03,
+            "vat_amount": 7.31
+        },
+        {
+            "amount": 118.07,
+            "description": "visualize end-to-end functionalities",
+            "index": "8",
+            "price": 147.26,
+            "quantity": 8.69,
+            "tax_amount": 82.19,
+            "total_ttc": 155.07,
+            "vat_amount": 6.86
+        },
+        {
+            "amount": 265.4,
+            "description": "reinvent magnetic initiatives",
+            "index": "7",
+            "price": 67.67,
+            "quantity": 3.58,
+            "tax_amount": 87.51,
+            "total_ttc": 221.94,
+            "vat_amount": 1.2
+        },
+        {
+            "amount": 146.94,
+            "description": "deploy rich e-tailers",
+            "index": "8",
+            "price": 178.14,
+            "quantity": 9.48,
+            "tax_amount": 56.29,
+            "total_ttc": 141.01,
+            "vat_amount": 0.77
+        },
+        {
+            "amount": 309.12,
+            "description": "optimize world-class info-mediaries",
+            "index": "6",
+            "price": 135.12,
+            "quantity": 9.38,
+            "tax_amount": 83.41,
+            "total_ttc": 396.65,
+            "vat_amount": 3.97
+        }
+    ],
+    "seller": {
+        "name": "Samantha Arnold"
+    },
+    "supplier": {
+        "address": "05071 Thomas Road Suite 749 Rileyside, DE 71433",
+        "name": "Megan Hill"
+    },
+    "tax": {
+        "amount_excluding_tax": 39.75,
+        "amount_including_tax": 44.07,
+        "tax_amount": 28.5,
+        "total_ht": 257.28,
+        "total_ttc": 246.92
+    }
+}

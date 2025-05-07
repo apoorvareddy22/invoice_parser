@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "78987 Carey Rest Suite 161 Clarkbury, OR 58233",
+        "email": "carl81@example.com",
+        "phone": "270-385-5357",
+        "vat_no": "iB45086768781"
+    },
+    "invoice": {
+        "date": "28.03.2003",
+        "due_date": "08.06.2023",
+        "market_reference": 896171,
+        "notes": "optimize open-source mindshare",
+        "number": "7759-5344",
+        "reference": 819680,
+        "vat_no": "Ki45439613569"
+    },
+    "payment": {
+        "net_total": 39.64,
+        "total": 668.95
+    },
+    "products": [
+        {
+            "amount": 36.17,
+            "description": "embrace vertical paradigms",
+            "hours": 6.72,
+            "rate": 7.73
+        },
+        {
+            "amount": 363.09,
+            "description": "expedite synergistic relationships",
+            "hours": 6.39,
+            "rate": 3.49
+        },
+        {
+            "amount": 367.52,
+            "description": "disintermediate cutting-edge architectures",
+            "hours": 3.4,
+            "rate": 6.1
+        },
+        {
+            "amount": 471.3,
+            "description": "transition robust platforms",
+            "hours": 8.36,
+            "rate": 8.04
+        },
+        {
+            "amount": 25.57,
+            "description": "scale open-source architectures",
+            "hours": 7.32,
+            "rate": 2.08
+        },
+        {
+            "amount": 317.51,
+            "description": "streamline cutting-edge deliverables",
+            "hours": 2.91,
+            "rate": 5.73
+        },
+        {
+            "amount": 120.91,
+            "description": "reinvent virtual solutions",
+            "hours": 4.82,
+            "rate": 4.58
+        }
+    ],
+    "seller": {
+        "address": "2939 Williams Forks Donnaland, NM 18106",
+        "email": "kennedyangela@example.com",
+        "name": "Hannah Walter"
+    },
+    "tax": {
+        "base": 12.75,
+        "tax_amount": 27.71,
+        "total_tax": 19.32
+    }
+}

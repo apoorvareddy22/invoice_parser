@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "93551 Danny Mountain Apt. 727 Crawfordmouth, NV 41240",
+        "business_no": "If058",
+        "id": "Ba021"
+    },
+    "invoice": {
+        "date": "22.01.1992",
+        "number": "3671-4564"
+    },
+    "payment": {
+        "due_date": "29.08.2001",
+        "total": 639.92
+    },
+    "products": [
+        {
+            "amount": 339.52,
+            "description": "matrix end-to-end niches",
+            "quantity": 8.59,
+            "reference": "sP-095",
+            "unit_price": 64.42
+        },
+        {
+            "amount": 476.84,
+            "description": "morph cutting-edge systems",
+            "quantity": 5.94,
+            "reference": "Nm-481",
+            "unit_price": 96.38
+        }
+    ],
+    "seller": {
+        "address": "002 Tiffany Expressway Port Mckenzie, GU 97662"
+    },
+    "tax": {
+        "base_ht": 360.79,
+        "regulations": 14.08,
+        "total_ht": 366.53,
+        "vat_amount": 71.39,
+        "vat_percentage": 23.67
+    }
+}

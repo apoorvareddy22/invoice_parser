@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "14374 Tricia Circle North Carlosmouth, WY 66165",
+        "email": "lisa78@example.org",
+        "phone": "376.797.5900",
+        "vat_no": "Et57974840851"
+    },
+    "invoice": {
+        "date": "26.12.2015",
+        "due_date": "07.09.2011",
+        "market_reference": 208217,
+        "notes": "architect proactive technologies",
+        "number": "9744-4529",
+        "reference": 602427,
+        "vat_no": "ov38883112743"
+    },
+    "payment": {
+        "net_total": 33.73,
+        "total": 154.11
+    },
+    "products": [
+        {
+            "amount": 202.5,
+            "description": "optimize bricks-and-clicks ROI",
+            "hours": 6.67,
+            "rate": 1.41
+        },
+        {
+            "amount": 339.57,
+            "description": "enable proactive infrastructures",
+            "hours": 6.77,
+            "rate": 8.44
+        },
+        {
+            "amount": 285.03,
+            "description": "scale impactful applications",
+            "hours": 1.7,
+            "rate": 3.99
+        },
+        {
+            "amount": 70.23,
+            "description": "strategize integrated communities",
+            "hours": 4.03,
+            "rate": 3.01
+        },
+        {
+            "amount": 387.18,
+            "description": "engage impactful schemas",
+            "hours": 8.94,
+            "rate": 3.38
+        },
+        {
+            "amount": 147.91,
+            "description": "implement plug-and-play e-services",
+            "hours": 5.94,
+            "rate": 5.55
+        },
+        {
+            "amount": 155.43,
+            "description": "generate enterprise paradigms",
+            "hours": 3.98,
+            "rate": 8.68
+        }
+    ],
+    "seller": {
+        "address": "963 Jeremy Squares Apt. 838 Jennifertown, PR 85540",
+        "email": "ashleyjustin@example.net",
+        "name": "Mark Bennett"
+    },
+    "tax": {
+        "base": 24.74,
+        "tax_amount": 21.16,
+        "total_tax": 10.84
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "USCGC Lee FPO AP 19243",
+        "id": "CV842"
+    },
+    "invoice": {
+        "bc_no": "Pl75383",
+        "currency_code": "ANG",
+        "date": "19.09.1993",
+        "due_date": "06.08.2001",
+        "number": 513663
+    },
+    "payment": {
+        "bank_name": "Barr, Dominguez and Lee",
+        "bic": "ZHKCGBRN4AT",
+        "iban": "ZETW58180869032257"
+    },
+    "products": [
+        {
+            "amount": 68.92,
+            "description": "monetize dot-com technologies",
+            "index": "9",
+            "price": 219.07,
+            "quantity": 6.83,
+            "tax_amount": 78.79,
+            "total_ttc": 283.31,
+            "vat_amount": 2.64
+        },
+        {
+            "amount": 256.48,
+            "description": "mesh plug-and-play relationships",
+            "index": "3",
+            "price": 390.35,
+            "quantity": 6.88,
+            "tax_amount": 61.34,
+            "total_ttc": 155.27,
+            "vat_amount": 9.6
+        }
+    ],
+    "seller": {
+        "name": "Tonya West"
+    },
+    "supplier": {
+        "address": "63454 Shaw Shores Suite 761 South Tyler, MA 73081",
+        "name": "Amber Rivas"
+    },
+    "tax": {
+        "amount_excluding_tax": 121.86,
+        "amount_including_tax": 124.04,
+        "tax_amount": 14.5,
+        "total_ht": 423.84,
+        "total_ttc": 277.82
+    }
+}

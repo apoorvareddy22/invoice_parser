@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "64939 Matthew Shore Elizabethstad, IL 03037",
+        "id": "qn303"
+    },
+    "invoice": {
+        "bc_no": "iS76339",
+        "currency_code": "ZAR",
+        "date": "23.02.2019",
+        "due_date": "25.06.2018",
+        "number": 561436
+    },
+    "payment": {
+        "bank_name": "Williams-Graham",
+        "bic": "TZZBGBOE",
+        "iban": "QQNY03131214390809"
+    },
+    "products": [
+        {
+            "amount": 160.52,
+            "description": "reinvent granular schemas",
+            "index": "3",
+            "price": 54.39,
+            "quantity": 5.78,
+            "tax_amount": 65.44,
+            "total_ttc": 433.95,
+            "vat_amount": 4.06
+        },
+        {
+            "amount": 465.23,
+            "description": "brand transparent metrics",
+            "index": "1",
+            "price": 495.13,
+            "quantity": 2.21,
+            "tax_amount": 28.79,
+            "total_ttc": 220.36,
+            "vat_amount": 14.57
+        },
+        {
+            "amount": 484.49,
+            "description": "target B2B infrastructures",
+            "index": "3",
+            "price": 268.68,
+            "quantity": 1.42,
+            "tax_amount": 71.19,
+            "total_ttc": 304.59,
+            "vat_amount": 3.3
+        }
+    ],
+    "seller": {
+        "name": "Robert White"
+    },
+    "supplier": {
+        "address": "5205 Robles Landing Suite 405 North Rodneyfort, IA 16289",
+        "name": "Jennifer Carson"
+    },
+    "tax": {
+        "amount_excluding_tax": 42.08,
+        "amount_including_tax": 81.73,
+        "tax_amount": 20.86,
+        "total_ht": 162.78,
+        "total_ttc": 345.74
+    }
+}

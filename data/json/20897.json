@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "2494 Victor Rapids Davisbury, AK 55933",
+        "company_name": "Huff PLC",
+        "email": "careythomas@example.net",
+        "name": "Nicole Arnold",
+        "phone": "001-385-272-7109"
+    },
+    "invoice": {
+        "date": "24.11.1991",
+        "due_date": "15.09.2019",
+        "number": "qXA42504762576"
+    },
+    "payment": {
+        "account_number": 7429284766,
+        "bank_name": "Shaw Ltd",
+        "routing_number": 400867710
+    },
+    "products": [
+        {
+            "amount": 366.17,
+            "description": "enable rich web-readiness",
+            "index": "1",
+            "quantity": 6.34,
+            "unit_price": 71.84
+        }
+    ],
+    "seller": {
+        "address": "Unit 9179 Box 7099 DPO AE 04513",
+        "company_name": "Turner Inc",
+        "email": "hernandezpedro@example.net"
+    }
+}

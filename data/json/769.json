@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "USS Larson FPO AP 42937",
+        "company_name": "Hill-Olson",
+        "country": "Uruguay",
+        "name": "Robert Schwartz"
+    },
+    "invoice": {
+        "date": "01.08.1998",
+        "number": 467587
+    },
+    "payment": {
+        "discount_amount": 11.08,
+        "discount_percentage": 7.89,
+        "due": 167.41,
+        "sub_total": 185.51,
+        "total": 410.98
+    },
+    "products": [
+        {
+            "description": "disintermediate plug-and-play e-markets",
+            "index": "5",
+            "quantity": 6.38,
+            "total_price": 474.92,
+            "unit_price": 50.57
+        }
+    ],
+    "seller": {
+        "address": "4623 Katherine Hollow Apt. 470 Tracytown, DC 76954",
+        "company_name": "Wilson Group",
+        "vat_no": "Ha97312626764"
+    }
+}

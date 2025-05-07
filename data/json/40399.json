@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "092 Krueger Turnpike Suite 179 Scottville, MT 43520"
+    },
+    "invoice": {
+        "bc_no": "YH65751",
+        "date": "13.05.1993",
+        "maturity_date": "01.09.1998",
+        "number": 157389
+    },
+    "products": [
+        {
+            "amount": 320.36,
+            "description": "transition customized e-business",
+            "quantity": 6.02,
+            "unit_price": 16.65,
+            "vat_amount": 3.65
+        },
+        {
+            "amount": 426.34,
+            "description": "enhance frictionless niches",
+            "quantity": 6.69,
+            "unit_price": 47.7,
+            "vat_amount": 9.03
+        },
+        {
+            "amount": 49.25,
+            "description": "unleash synergistic niches",
+            "quantity": 7.12,
+            "unit_price": 80.69,
+            "vat_amount": 5.11
+        },
+        {
+            "amount": 33.71,
+            "description": "drive integrated web services",
+            "quantity": 4.52,
+            "unit_price": 47.14,
+            "vat_amount": 5.36
+        }
+    ],
+    "seller": {
+        "address": "938 Melinda Village Lake Kristopherton, WI 47536"
+    },
+    "tax": {
+        "amount_excluding_tax": 47.66,
+        "amount_including_tax": 36.37,
+        "tax_amount": 23.67
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "60995 David Ramp Suite 516 Jessicatown, KY 16484",
+        "id": "oV151"
+    },
+    "invoice": {
+        "bc_no": "ZV97023",
+        "currency_code": "HRK",
+        "date": "13.11.1994",
+        "due_date": "24.09.1997",
+        "number": 702935
+    },
+    "payment": {
+        "bank_name": "Johnson, Nelson and Mason",
+        "bic": "WDMNGBS7",
+        "iban": "FNCX91113275696444"
+    },
+    "products": [
+        {
+            "amount": 172.9,
+            "description": "extend holistic content",
+            "index": "9",
+            "price": 274.6,
+            "quantity": 7.69,
+            "tax_amount": 46.81,
+            "total_ttc": 182.25,
+            "vat_amount": 2.47
+        },
+        {
+            "amount": 332.25,
+            "description": "benchmark ubiquitous portals",
+            "index": "10",
+            "price": 364.78,
+            "quantity": 7.76,
+            "tax_amount": 84.03,
+            "total_ttc": 244.25,
+            "vat_amount": 1.76
+        },
+        {
+            "amount": 293.79,
+            "description": "syndicate B2B e-business",
+            "index": "4",
+            "price": 177.5,
+            "quantity": 8.31,
+            "tax_amount": 14.94,
+            "total_ttc": 420.36,
+            "vat_amount": 8.5
+        },
+        {
+            "amount": 326.67,
+            "description": "generate extensible action-items",
+            "index": "9",
+            "price": 326.42,
+            "quantity": 1.64,
+            "tax_amount": 59.12,
+            "total_ttc": 375.33,
+            "vat_amount": 14.74
+        },
+        {
+            "amount": 68.62,
+            "description": "incubate best-of-breed e-markets",
+            "index": "8",
+            "price": 225.61,
+            "quantity": 5.93,
+            "tax_amount": 32.35,
+            "total_ttc": 201.54,
+            "vat_amount": 9.45
+        },
+        {
+            "amount": 420.99,
+            "description": "scale innovative functionalities",
+            "index": "5",
+            "price": 277.87,
+            "quantity": 6.03,
+            "tax_amount": 40.91,
+            "total_ttc": 192.44,
+            "vat_amount": 4.51
+        },
+        {
+            "amount": 408.08,
+            "description": "unleash seamless markets",
+            "index": "1",
+            "price": 215.09,
+            "quantity": 3.91,
+            "tax_amount": 58.37,
+            "total_ttc": 251.87,
+            "vat_amount": 2.12
+        }
+    ],
+    "seller": {
+        "name": "Ashley Ferguson"
+    },
+    "supplier": {
+        "address": "978 William Ports Suite 389 Sarahville, NM 17812",
+        "name": "Catherine Jordan"
+    },
+    "tax": {
+        "amount_excluding_tax": 75.73,
+        "amount_including_tax": 147.12,
+        "tax_amount": 22.69,
+        "total_ht": 432.01,
+        "total_ttc": 240.17
+    }
+}

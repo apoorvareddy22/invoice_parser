@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "6936 Davis Lake North Dennis, OH 84426"
+    },
+    "invoice": {
+        "bc_no": "Ux51324",
+        "date": "22.07.1997",
+        "maturity_date": "04.01.2007",
+        "number": 190370
+    },
+    "products": [
+        {
+            "amount": 243.68,
+            "description": "grow innovative functionalities",
+            "quantity": 1.47,
+            "unit_price": 17.23,
+            "vat_amount": 2.27
+        }
+    ],
+    "seller": {
+        "address": "02709 Megan Falls South Anthonymouth, AZ 47953"
+    },
+    "tax": {
+        "amount_excluding_tax": 64.69,
+        "amount_including_tax": 150.07,
+        "tax_amount": 15.39
+    }
+}

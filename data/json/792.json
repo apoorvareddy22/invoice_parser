@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "5595 Anne Mountain Port Jennamouth, MS 83864",
+        "company_name": "Clark-Madden",
+        "country": "Nigeria",
+        "name": "Roy Carlson"
+    },
+    "invoice": {
+        "date": "19.12.2021",
+        "number": 332547
+    },
+    "payment": {
+        "discount_amount": 49.9,
+        "discount_percentage": 16.56,
+        "due": 146.96,
+        "sub_total": 109.8,
+        "total": 945.31
+    },
+    "products": [
+        {
+            "description": "implement vertical markets",
+            "index": "6",
+            "quantity": 9.01,
+            "total_price": 90.01,
+            "unit_price": 36.25
+        },
+        {
+            "description": "innovate 24/365 mindshare",
+            "index": "3",
+            "quantity": 5.34,
+            "total_price": 792.79,
+            "unit_price": 26.59
+        },
+        {
+            "description": "transform enterprise paradigms",
+            "index": "1",
+            "quantity": 6.19,
+            "total_price": 254.17,
+            "unit_price": 19.04
+        }
+    ],
+    "seller": {
+        "address": "4285 Davis Passage Petersside, UT 48294",
+        "company_name": "Stone-Davis",
+        "vat_no": "gk77259069887"
+    }
+}

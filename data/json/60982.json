@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "PSC 0836, Box 2884 APO AP 12314",
+        "business_no": "aL971",
+        "id": "QM393"
+    },
+    "invoice": {
+        "date": "15.11.2023",
+        "number": "8665-2993"
+    },
+    "payment": {
+        "due_date": "01.10.2003",
+        "total": 679.7
+    },
+    "products": [
+        {
+            "amount": 463.49,
+            "description": "deploy synergistic eyeballs",
+            "quantity": 5.53,
+            "reference": "MM-666",
+            "unit_price": 81.57
+        },
+        {
+            "amount": 265.42,
+            "description": "generate bleeding-edge partnerships",
+            "quantity": 7.62,
+            "reference": "Ry-722",
+            "unit_price": 60.2
+        }
+    ],
+    "seller": {
+        "address": "PSC 2191, Box 1449 APO AE 55225"
+    },
+    "tax": {
+        "base_ht": 404.16,
+        "regulations": 19.42,
+        "total_ht": 301.29,
+        "vat_amount": 184.13,
+        "vat_percentage": 14.07
+    }
+}

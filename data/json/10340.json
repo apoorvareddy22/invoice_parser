@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "3241 Johnson Place Suite 500 Changmouth, WA 63028",
+        "email": "kennedyerin@example.net",
+        "phone": "+1-485-570-6158x544",
+        "vat_no": "ip71959619624"
+    },
+    "invoice": {
+        "date": "03.04.2007",
+        "due_date": "18.09.2004",
+        "market_reference": 954684,
+        "notes": "empower strategic channels",
+        "number": "0888-7836",
+        "reference": 152519,
+        "vat_no": "uy11433848221"
+    },
+    "payment": {
+        "net_total": 158.94,
+        "total": 112.13
+    },
+    "products": [
+        {
+            "amount": 437.08,
+            "description": "engage clicks-and-mortar e-business",
+            "hours": 3.07,
+            "rate": 8.22
+        }
+    ],
+    "seller": {
+        "address": "456 Mitchell Forks South Jonfurt, PW 25969",
+        "email": "krameramanda@example.net",
+        "name": "Jennifer Dean"
+    },
+    "tax": {
+        "base": 14.72,
+        "tax_amount": 17.42,
+        "total_tax": 25.72
+    }
+}

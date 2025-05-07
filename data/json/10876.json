@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "19926 Ryan Spurs Suite 012 South Neilstad, MN 87538",
+        "email": "ebenitez@example.org",
+        "phone": "306-903-3061",
+        "vat_no": "Eh22076988683"
+    },
+    "invoice": {
+        "date": "11.11.2000",
+        "due_date": "28.05.2022",
+        "market_reference": 662274,
+        "notes": "deploy dot-com synergies",
+        "number": "1731-5086",
+        "reference": 345521,
+        "vat_no": "mu39846473247"
+    },
+    "payment": {
+        "net_total": 50.22,
+        "total": 335.15
+    },
+    "products": [
+        {
+            "amount": 481.44,
+            "description": "revolutionize magnetic paradigms",
+            "hours": 9.18,
+            "rate": 2.99
+        }
+    ],
+    "seller": {
+        "address": "7048 Taylor Stravenue East Alexbury, ND 36665",
+        "email": "klynch@example.net",
+        "name": "Brandy Schwartz DDS"
+    },
+    "tax": {
+        "base": 20.93,
+        "tax_amount": 16.36,
+        "total_tax": 29.86
+    }
+}

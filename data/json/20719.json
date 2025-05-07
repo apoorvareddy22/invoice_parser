@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "787 Mark Causeway New Aliciashire, WI 43164",
+        "company_name": "Hughes LLC",
+        "email": "teresawhite@example.com",
+        "name": "Lee Robertson",
+        "phone": "437.442.4212x088"
+    },
+    "invoice": {
+        "date": "28.11.2001",
+        "due_date": "08.11.2010",
+        "number": "liV72280262285"
+    },
+    "payment": {
+        "account_number": 3748450194,
+        "bank_name": "Carr, Young and Hansen",
+        "routing_number": 441366439
+    },
+    "products": [
+        {
+            "amount": 161.17,
+            "description": "facilitate distributed e-business",
+            "index": "8",
+            "quantity": 5.21,
+            "unit_price": 32.8
+        },
+        {
+            "amount": 372.35,
+            "description": "whiteboard end-to-end technologies",
+            "index": "5",
+            "quantity": 1.38,
+            "unit_price": 26.25
+        },
+        {
+            "amount": 83.46,
+            "description": "transform integrated applications",
+            "index": "2",
+            "quantity": 9.15,
+            "unit_price": 23.72
+        }
+    ],
+    "seller": {
+        "address": "2661 Brian Mission Elizabethside, AZ 15798",
+        "company_name": "Edwards, Ward and Bush",
+        "email": "ymiller@example.org"
+    }
+}

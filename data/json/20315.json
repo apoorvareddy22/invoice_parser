@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "09447 Brandon Roads Hayesborough, AS 98581",
+        "company_name": "Wilson-Brady",
+        "email": "nathanielchavez@example.com",
+        "name": "Pamela Flores",
+        "phone": "+1-430-896-3138x22757"
+    },
+    "invoice": {
+        "date": "02.09.2021",
+        "due_date": "21.04.2016",
+        "number": "xkb03327300447"
+    },
+    "payment": {
+        "account_number": 3791667830,
+        "bank_name": "Hernandez-Sutton",
+        "routing_number": 676513948
+    },
+    "products": [
+        {
+            "amount": 51.13,
+            "description": "incubate enterprise interfaces",
+            "index": "1",
+            "quantity": 7.61,
+            "unit_price": 17.51
+        },
+        {
+            "amount": 358.63,
+            "description": "deploy web-enabled e-services",
+            "index": "1",
+            "quantity": 3.66,
+            "unit_price": 82.0
+        },
+        {
+            "amount": 107.49,
+            "description": "facilitate holistic schemas",
+            "index": "3",
+            "quantity": 6.43,
+            "unit_price": 11.96
+        }
+    ],
+    "seller": {
+        "address": "3475 Lee Haven Apt. 726 Lake Daleview, KY 38662",
+        "company_name": "Holt-Garcia",
+        "email": "hamiltonjacqueline@example.net"
+    }
+}

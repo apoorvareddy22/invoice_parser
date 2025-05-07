@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "1639 Brooks Brooks Suite 462 South Anneville, RI 37132",
+        "business_no": "ON994",
+        "id": "Ie910"
+    },
+    "invoice": {
+        "date": "16.10.2020",
+        "number": "1941-5462"
+    },
+    "payment": {
+        "due_date": "03.09.2015",
+        "total": 523.15
+    },
+    "products": [
+        {
+            "amount": 291.96,
+            "description": "matrix interactive bandwidth",
+            "quantity": 1.82,
+            "reference": "uW-201",
+            "unit_price": 61.38
+        }
+    ],
+    "seller": {
+        "address": "7853 Powers Landing Suite 310 Dustinville, CA 95022"
+    },
+    "tax": {
+        "base_ht": 399.33,
+        "regulations": 24.64,
+        "total_ht": 248.36,
+        "vat_amount": 44.13,
+        "vat_percentage": 11.07
+    }
+}

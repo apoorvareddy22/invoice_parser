@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "56561 Watson Canyon New Matthewview, ID 51068",
+        "id": "PP126"
+    },
+    "invoice": {
+        "bc_no": "lk49390",
+        "currency_code": "GEL",
+        "date": "25.01.2012",
+        "due_date": "17.06.2013",
+        "number": 500743
+    },
+    "payment": {
+        "bank_name": "Guzman, Hines and Reese",
+        "bic": "KZGCGBUS",
+        "iban": "NOTA59639590505620"
+    },
+    "products": [
+        {
+            "amount": 378.86,
+            "description": "brand frictionless e-business",
+            "index": "1",
+            "price": 167.41,
+            "quantity": 5.91,
+            "tax_amount": 32.3,
+            "total_ttc": 250.56,
+            "vat_amount": 10.27
+        },
+        {
+            "amount": 223.65,
+            "description": "e-enable one-to-one niches",
+            "index": "1",
+            "price": 97.81,
+            "quantity": 7.4,
+            "tax_amount": 21.97,
+            "total_ttc": 163.68,
+            "vat_amount": 0.35
+        },
+        {
+            "amount": 322.78,
+            "description": "productize end-to-end eyeballs",
+            "index": "1",
+            "price": 347.78,
+            "quantity": 4.84,
+            "tax_amount": 84.68,
+            "total_ttc": 281.52,
+            "vat_amount": 5.48
+        },
+        {
+            "amount": 140.51,
+            "description": "engage sticky web-readiness",
+            "index": "2",
+            "price": 192.65,
+            "quantity": 2.05,
+            "tax_amount": 93.1,
+            "total_ttc": 275.22,
+            "vat_amount": 3.41
+        },
+        {
+            "amount": 391.32,
+            "description": "exploit granular systems",
+            "index": "4",
+            "price": 212.36,
+            "quantity": 7.57,
+            "tax_amount": 44.69,
+            "total_ttc": 459.71,
+            "vat_amount": 1.45
+        },
+        {
+            "amount": 487.34,
+            "description": "aggregate distributed supply-chains",
+            "index": "4",
+            "price": 167.21,
+            "quantity": 6.02,
+            "tax_amount": 74.85,
+            "total_ttc": 163.58,
+            "vat_amount": 2.36
+        }
+    ],
+    "seller": {
+        "name": "Debra Snyder"
+    },
+    "supplier": {
+        "address": "1467 Zachary Park North Kristi, UT 34227",
+        "name": "Matthew Bowen"
+    },
+    "tax": {
+        "amount_excluding_tax": 130.88,
+        "amount_including_tax": 60.81,
+        "tax_amount": 25.14,
+        "total_ht": 339.81,
+        "total_ttc": 266.37
+    }
+}

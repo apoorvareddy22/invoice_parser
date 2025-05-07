@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "30516 Bethany Mission Suite 491 Jasonberg, FL 61910",
+        "business_no": "gR752",
+        "id": "fh091"
+    },
+    "invoice": {
+        "date": "29.10.1998",
+        "number": "2733-9871"
+    },
+    "payment": {
+        "due_date": "26.02.2023",
+        "total": 112.21
+    },
+    "products": [
+        {
+            "amount": 453.25,
+            "description": "empower integrated e-markets",
+            "quantity": 7.39,
+            "reference": "sY-977",
+            "unit_price": 13.82
+        },
+        {
+            "amount": 150.2,
+            "description": "syndicate user-centric infrastructures",
+            "quantity": 8.92,
+            "reference": "io-908",
+            "unit_price": 73.85
+        },
+        {
+            "amount": 439.32,
+            "description": "incubate out-of-the-box e-commerce",
+            "quantity": 3.77,
+            "reference": "Kc-122",
+            "unit_price": 56.83
+        }
+    ],
+    "seller": {
+        "address": "588 Ariel Forks New Anthonyberg, OH 65865"
+    },
+    "tax": {
+        "base_ht": 157.82,
+        "regulations": 14.22,
+        "total_ht": 279.11,
+        "vat_amount": 156.93,
+        "vat_percentage": 14.04
+    }
+}

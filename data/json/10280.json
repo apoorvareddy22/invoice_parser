@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "0315 Nicole Well Apt. 559 Derekstad, CO 01914",
+        "email": "smithcharles@example.com",
+        "phone": "981-988-3458",
+        "vat_no": "fx39146313913"
+    },
+    "invoice": {
+        "date": "13.06.2006",
+        "due_date": "26.11.2023",
+        "market_reference": 794086,
+        "notes": "maximize revolutionary convergence",
+        "number": "0298-3376",
+        "reference": 858254,
+        "vat_no": "SX97079929851"
+    },
+    "payment": {
+        "net_total": 49.87,
+        "total": 910.32
+    },
+    "products": [
+        {
+            "amount": 442.35,
+            "description": "leverage clicks-and-mortar eyeballs",
+            "hours": 8.83,
+            "rate": 9.26
+        },
+        {
+            "amount": 320.92,
+            "description": "engineer extensible e-commerce",
+            "hours": 8.85,
+            "rate": 5.44
+        },
+        {
+            "amount": 237.89,
+            "description": "optimize revolutionary users",
+            "hours": 9.78,
+            "rate": 2.47
+        }
+    ],
+    "seller": {
+        "address": "75795 Rebecca Streets South Isabellafurt, MH 30296",
+        "email": "thomas34@example.org",
+        "name": "Michelle Contreras"
+    },
+    "tax": {
+        "base": 18.55,
+        "tax_amount": 14.38,
+        "total_tax": 12.57
+    }
+}

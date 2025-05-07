@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "349 Mary Stravenue Apt. 556 New Ashleyberg, PW 62635",
+        "id": "VN505"
+    },
+    "invoice": {
+        "bc_no": "oS87799",
+        "currency_code": "VUV",
+        "date": "05.04.2008",
+        "due_date": "28.12.2013",
+        "number": 773975
+    },
+    "payment": {
+        "bank_name": "Taylor Group",
+        "bic": "FPCUGBOG",
+        "iban": "BKRX67191496898511"
+    },
+    "products": [
+        {
+            "amount": 227.32,
+            "description": "e-enable front-end content",
+            "index": "2",
+            "price": 80.74,
+            "quantity": 6.47,
+            "tax_amount": 32.1,
+            "total_ttc": 402.51,
+            "vat_amount": 0.85
+        },
+        {
+            "amount": 400.7,
+            "description": "expedite cross-platform models",
+            "index": "7",
+            "price": 238.89,
+            "quantity": 7.79,
+            "tax_amount": 30.56,
+            "total_ttc": 218.52,
+            "vat_amount": 7.38
+        },
+        {
+            "amount": 354.46,
+            "description": "syndicate killer interfaces",
+            "index": "3",
+            "price": 196.6,
+            "quantity": 9.8,
+            "tax_amount": 78.53,
+            "total_ttc": 260.85,
+            "vat_amount": 0.59
+        }
+    ],
+    "seller": {
+        "name": "Donna Hatfield"
+    },
+    "supplier": {
+        "address": "PSC 0219, Box 4400 APO AA 25843",
+        "name": "Austin Sims"
+    },
+    "tax": {
+        "amount_excluding_tax": 11.68,
+        "amount_including_tax": 100.14,
+        "tax_amount": 15.43,
+        "total_ht": 307.79,
+        "total_ttc": 347.31
+    }
+}

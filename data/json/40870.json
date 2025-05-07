@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "57149 Meghan Green South Johnnybury, HI 21340"
+    },
+    "invoice": {
+        "bc_no": "BN82293",
+        "date": "30.07.2007",
+        "maturity_date": "21.01.2017",
+        "number": 923975
+    },
+    "products": [
+        {
+            "amount": 346.35,
+            "description": "integrate distributed ROI",
+            "quantity": 4.3,
+            "unit_price": 69.73,
+            "vat_amount": 11.76
+        },
+        {
+            "amount": 166.39,
+            "description": "matrix front-end architectures",
+            "quantity": 4.97,
+            "unit_price": 20.48,
+            "vat_amount": 10.0
+        }
+    ],
+    "seller": {
+        "address": "84880 Clark Park Suite 657 East Georgeside, OK 41857"
+    },
+    "tax": {
+        "amount_excluding_tax": 69.68,
+        "amount_including_tax": 196.29,
+        "tax_amount": 19.36
+    }
+}

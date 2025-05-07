@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "6324 Kenneth Orchard Suite 755 Halemouth, IL 42621",
+        "id": "nR783"
+    },
+    "invoice": {
+        "bc_no": "FV93908",
+        "currency_code": "SZL",
+        "date": "14.12.1995",
+        "due_date": "13.08.2007",
+        "number": 425321
+    },
+    "payment": {
+        "bank_name": "Lee, Kim and Holmes",
+        "bic": "CZHHGBU3PMJ",
+        "iban": "SKXV14217693425707"
+    },
+    "products": [
+        {
+            "amount": 490.33,
+            "description": "disintermediate clicks-and-mortar platforms",
+            "index": "4",
+            "price": 18.73,
+            "quantity": 9.45,
+            "tax_amount": 34.67,
+            "total_ttc": 454.22,
+            "vat_amount": 5.32
+        },
+        {
+            "amount": 209.18,
+            "description": "enhance cutting-edge supply-chains",
+            "index": "8",
+            "price": 91.01,
+            "quantity": 3.87,
+            "tax_amount": 56.09,
+            "total_ttc": 255.55,
+            "vat_amount": 8.03
+        },
+        {
+            "amount": 360.12,
+            "description": "embrace compelling mindshare",
+            "index": "5",
+            "price": 43.59,
+            "quantity": 3.13,
+            "tax_amount": 17.48,
+            "total_ttc": 358.14,
+            "vat_amount": 6.19
+        },
+        {
+            "amount": 353.8,
+            "description": "seize proactive communities",
+            "index": "1",
+            "price": 215.91,
+            "quantity": 4.85,
+            "tax_amount": 60.03,
+            "total_ttc": 376.18,
+            "vat_amount": 3.14
+        }
+    ],
+    "seller": {
+        "name": "Ernest Pruitt"
+    },
+    "supplier": {
+        "address": "0188 Lyons Meadow Suite 731 Mitchellburgh, IL 81810",
+        "name": "Stephanie Nguyen"
+    },
+    "tax": {
+        "amount_excluding_tax": 67.73,
+        "amount_including_tax": 52.42,
+        "tax_amount": 10.29,
+        "total_ht": 444.77,
+        "total_ttc": 116.94
+    }
+}

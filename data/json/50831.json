@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "199 Thomas Estate West Mitchell, MS 86885",
+        "id": "iA637"
+    },
+    "invoice": {
+        "bc_no": "Bv65249",
+        "currency_code": "VND",
+        "date": "12.09.2016",
+        "due_date": "13.11.1996",
+        "number": 583321
+    },
+    "payment": {
+        "bank_name": "Scott-Chan",
+        "bic": "WQGGGBE4",
+        "iban": "WMJP40531530453675"
+    },
+    "products": [
+        {
+            "amount": 459.83,
+            "description": "deliver 24/365 e-business",
+            "index": "9",
+            "price": 383.85,
+            "quantity": 1.17,
+            "tax_amount": 67.85,
+            "total_ttc": 115.88,
+            "vat_amount": 15.58
+        },
+        {
+            "amount": 396.45,
+            "description": "integrate turn-key vortals",
+            "index": "2",
+            "price": 225.94,
+            "quantity": 1.63,
+            "tax_amount": 38.37,
+            "total_ttc": 475.96,
+            "vat_amount": 6.88
+        }
+    ],
+    "seller": {
+        "name": "Mercedes Miller"
+    },
+    "supplier": {
+        "address": "8784 Lauren Junctions Port Antonio, MO 16156",
+        "name": "Stephen Bradley"
+    },
+    "tax": {
+        "amount_excluding_tax": 195.2,
+        "amount_including_tax": 56.86,
+        "tax_amount": 27.88,
+        "total_ht": 136.42,
+        "total_ttc": 475.74
+    }
+}

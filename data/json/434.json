@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "691 Ross Terrace Lake Rebecca, GA 14295",
+        "company_name": "Mendoza Group",
+        "country": "Croatia",
+        "name": "Nicholas Campos"
+    },
+    "invoice": {
+        "date": "13.02.1998",
+        "number": 299057
+    },
+    "payment": {
+        "discount_amount": 15.97,
+        "discount_percentage": 15.91,
+        "due": 59.38,
+        "sub_total": 126.57,
+        "total": 768.75
+    },
+    "products": [
+        {
+            "description": "transform vertical metrics",
+            "index": "7",
+            "quantity": 7.78,
+            "total_price": 160.7,
+            "unit_price": 53.29
+        },
+        {
+            "description": "strategize innovative metrics",
+            "index": "3",
+            "quantity": 4.03,
+            "total_price": 437.69,
+            "unit_price": 27.82
+        },
+        {
+            "description": "incubate sticky solutions",
+            "index": "10",
+            "quantity": 5.3,
+            "total_price": 376.23,
+            "unit_price": 37.81
+        },
+        {
+            "description": "engineer end-to-end systems",
+            "index": "6",
+            "quantity": 5.74,
+            "total_price": 980.21,
+            "unit_price": 92.29
+        }
+    ],
+    "seller": {
+        "address": "0479 Jack Stream Suite 334 Lake Chelsealand, MN 60925",
+        "company_name": "Baker LLC",
+        "vat_no": "wM61861284985"
+    }
+}

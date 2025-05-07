@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "937 Petty Hills Port Justinfurt, MD 94144",
+        "business_no": "nb322",
+        "id": "bC088"
+    },
+    "invoice": {
+        "date": "10.05.2009",
+        "number": "3351-9610"
+    },
+    "payment": {
+        "due_date": "25.10.1999",
+        "total": 605.02
+    },
+    "products": [
+        {
+            "amount": 123.64,
+            "description": "repurpose magnetic action-items",
+            "quantity": 8.22,
+            "reference": "cM-938",
+            "unit_price": 23.13
+        },
+        {
+            "amount": 88.69,
+            "description": "empower leading-edge initiatives",
+            "quantity": 7.03,
+            "reference": "pt-438",
+            "unit_price": 63.45
+        },
+        {
+            "amount": 15.16,
+            "description": "re-intermediate extensible web services",
+            "quantity": 5.37,
+            "reference": "OS-890",
+            "unit_price": 90.68
+        }
+    ],
+    "seller": {
+        "address": "65428 James Fall Apt. 076 Lake Joel, MD 59298"
+    },
+    "tax": {
+        "base_ht": 239.49,
+        "regulations": 16.81,
+        "total_ht": 353.02,
+        "vat_amount": 31.46,
+        "vat_percentage": 14.86
+    }
+}

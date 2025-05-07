@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "0275 Jeremy Fields Suite 127 North Tinamouth, OH 87150"
+    },
+    "invoice": {
+        "bc_no": "PF82018",
+        "date": "06.06.2012",
+        "maturity_date": "01.03.2000",
+        "number": 850368
+    },
+    "products": [
+        {
+            "amount": 232.78,
+            "description": "disintermediate open-source e-commerce",
+            "quantity": 2.36,
+            "unit_price": 26.11,
+            "vat_amount": 1.9
+        },
+        {
+            "amount": 96.14,
+            "description": "benchmark open-source vortals",
+            "quantity": 3.62,
+            "unit_price": 17.49,
+            "vat_amount": 5.29
+        },
+        {
+            "amount": 285.45,
+            "description": "redefine virtual methodologies",
+            "quantity": 1.41,
+            "unit_price": 97.72,
+            "vat_amount": 6.32
+        },
+        {
+            "amount": 162.4,
+            "description": "empower 24/7 platforms",
+            "quantity": 2.29,
+            "unit_price": 85.31,
+            "vat_amount": 10.12
+        }
+    ],
+    "seller": {
+        "address": "92642 Burch Shore Amychester, MO 49522"
+    },
+    "tax": {
+        "amount_excluding_tax": 142.95,
+        "amount_including_tax": 31.76,
+        "tax_amount": 12.55
+    }
+}

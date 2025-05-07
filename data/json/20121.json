@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "USNV Vargas FPO AA 30982",
+        "company_name": "Lewis-Foster",
+        "email": "narellano@example.net",
+        "name": "Lisa Murray",
+        "phone": "(263)641-7537"
+    },
+    "invoice": {
+        "date": "07.04.1994",
+        "due_date": "08.01.1997",
+        "number": "KGy06226932516"
+    },
+    "payment": {
+        "account_number": 2614449283,
+        "bank_name": "Campbell-Stone",
+        "routing_number": 158981033
+    },
+    "products": [
+        {
+            "amount": 342.32,
+            "description": "productize vertical markets",
+            "index": "2",
+            "quantity": 7.38,
+            "unit_price": 30.48
+        },
+        {
+            "amount": 406.9,
+            "description": "evolve intuitive mindshare",
+            "index": "10",
+            "quantity": 3.63,
+            "unit_price": 88.95
+        },
+        {
+            "amount": 101.48,
+            "description": "empower clicks-and-mortar action-items",
+            "index": "5",
+            "quantity": 5.3,
+            "unit_price": 16.13
+        },
+        {
+            "amount": 106.7,
+            "description": "synergize collaborative users",
+            "index": "3",
+            "quantity": 2.89,
+            "unit_price": 80.63
+        },
+        {
+            "amount": 208.91,
+            "description": "benchmark 24/365 eyeballs",
+            "index": "4",
+            "quantity": 7.29,
+            "unit_price": 76.32
+        },
+        {
+            "amount": 56.58,
+            "description": "aggregate magnetic markets",
+            "index": "5",
+            "quantity": 9.48,
+            "unit_price": 20.29
+        }
+    ],
+    "seller": {
+        "address": "297 Miller Pine Suite 804 South Belindatown, CT 07022",
+        "company_name": "Roberts PLC",
+        "email": "deborahpierce@example.org"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "8689 Brown Unions Suite 895 Natashaview, PR 80228",
+        "email": "denise51@example.org",
+        "phone": "2242188060",
+        "vat_no": "CT34030617660"
+    },
+    "invoice": {
+        "date": "17.09.2010",
+        "due_date": "14.09.2012",
+        "market_reference": 326061,
+        "notes": "enhance compelling e-tailers",
+        "number": "1156-3021",
+        "reference": 649617,
+        "vat_no": "nW69523174214"
+    },
+    "payment": {
+        "net_total": 80.92,
+        "total": 755.27
+    },
+    "products": [
+        {
+            "amount": 98.24,
+            "description": "grow efficient synergies",
+            "hours": 4.51,
+            "rate": 2.9
+        }
+    ],
+    "seller": {
+        "address": "190 Mark Estates Suite 512 North Matthewville, MD 96093",
+        "email": "ycannon@example.org",
+        "name": "Laura Christensen"
+    },
+    "tax": {
+        "base": 26.97,
+        "tax_amount": 24.28,
+        "total_tax": 13.1
+    }
+}

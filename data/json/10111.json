@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "1615 Angela Light Apt. 076 West Joshuaside, MH 73472",
+        "email": "holmescatherine@example.com",
+        "phone": "2342588783",
+        "vat_no": "Zv37538346439"
+    },
+    "invoice": {
+        "date": "21.08.1998",
+        "due_date": "28.07.2016",
+        "market_reference": 972872,
+        "notes": "leverage extensible web-readiness",
+        "number": "0979-9090",
+        "reference": 438522,
+        "vat_no": "Vq36654023835"
+    },
+    "payment": {
+        "net_total": 182.69,
+        "total": 581.95
+    },
+    "products": [
+        {
+            "amount": 475.91,
+            "description": "mesh web-enabled deliverables",
+            "hours": 9.8,
+            "rate": 8.31
+        },
+        {
+            "amount": 112.26,
+            "description": "envisioneer synergistic systems",
+            "hours": 2.75,
+            "rate": 2.68
+        },
+        {
+            "amount": 417.48,
+            "description": "maximize strategic e-business",
+            "hours": 3.87,
+            "rate": 7.96
+        },
+        {
+            "amount": 433.49,
+            "description": "reinvent web-enabled deliverables",
+            "hours": 8.7,
+            "rate": 4.63
+        },
+        {
+            "amount": 115.02,
+            "description": "target back-end supply-chains",
+            "hours": 1.88,
+            "rate": 6.03
+        }
+    ],
+    "seller": {
+        "address": "PSC 4136, Box 3150 APO AE 62204",
+        "email": "ahill@example.net",
+        "name": "Michael Hicks DDS"
+    },
+    "tax": {
+        "base": 22.56,
+        "tax_amount": 28.2,
+        "total_tax": 12.89
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "769 Julie Glen East Laurieborough, CT 20441"
+    },
+    "invoice": {
+        "bc_no": "fH64264",
+        "date": "11.10.1998",
+        "maturity_date": "31.10.2022",
+        "number": 114253
+    },
+    "products": [
+        {
+            "amount": 113.44,
+            "description": "exploit enterprise solutions",
+            "quantity": 8.7,
+            "unit_price": 32.74,
+            "vat_amount": 1.07
+        },
+        {
+            "amount": 21.97,
+            "description": "morph virtual action-items",
+            "quantity": 1.26,
+            "unit_price": 43.52,
+            "vat_amount": 2.29
+        }
+    ],
+    "seller": {
+        "address": "896 Duke Oval Suite 180 West Samuel, NH 83347"
+    },
+    "tax": {
+        "amount_excluding_tax": 141.27,
+        "amount_including_tax": 94.76,
+        "tax_amount": 26.04
+    }
+}

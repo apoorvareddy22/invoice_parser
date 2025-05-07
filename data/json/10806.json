@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "572 Callahan Camp Anthonyhaven, KY 34175",
+        "email": "antonioperez@example.org",
+        "phone": "+1-830-240-8464x56024",
+        "vat_no": "kt82393590997"
+    },
+    "invoice": {
+        "date": "07.10.1999",
+        "due_date": "20.01.1997",
+        "market_reference": 681953,
+        "notes": "re-contextualize front-end infrastructures",
+        "number": "5391-1244",
+        "reference": 480120,
+        "vat_no": "uu52673763725"
+    },
+    "payment": {
+        "net_total": 165.74,
+        "total": 611.12
+    },
+    "products": [
+        {
+            "amount": 183.71,
+            "description": "engage integrated experiences",
+            "hours": 9.92,
+            "rate": 7.14
+        },
+        {
+            "amount": 280.9,
+            "description": "transform back-end functionalities",
+            "hours": 5.96,
+            "rate": 1.0
+        },
+        {
+            "amount": 160.21,
+            "description": "leverage dynamic users",
+            "hours": 6.76,
+            "rate": 3.01
+        },
+        {
+            "amount": 412.08,
+            "description": "brand interactive metrics",
+            "hours": 1.23,
+            "rate": 2.34
+        },
+        {
+            "amount": 280.45,
+            "description": "engineer impactful web services",
+            "hours": 7.53,
+            "rate": 2.96
+        }
+    ],
+    "seller": {
+        "address": "1643 Mary Camp Ruizstad, LA 88963",
+        "email": "chelseathompson@example.net",
+        "name": "Stephen Johnson"
+    },
+    "tax": {
+        "base": 18.26,
+        "tax_amount": 21.36,
+        "total_tax": 13.12
+    }
+}

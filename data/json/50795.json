@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "USNS Johnson FPO AA 91039",
+        "id": "SP333"
+    },
+    "invoice": {
+        "bc_no": "mj50453",
+        "currency_code": "AUD",
+        "date": "05.08.2006",
+        "due_date": "25.12.1993",
+        "number": 654890
+    },
+    "payment": {
+        "bank_name": "Escobar LLC",
+        "bic": "BWHYGBAB063",
+        "iban": "FWYH06000556200727"
+    },
+    "products": [
+        {
+            "amount": 139.44,
+            "description": "redefine cross-platform paradigms",
+            "index": "1",
+            "price": 54.45,
+            "quantity": 2.23,
+            "tax_amount": 13.12,
+            "total_ttc": 427.17,
+            "vat_amount": 17.17
+        },
+        {
+            "amount": 416.98,
+            "description": "innovate plug-and-play infrastructures",
+            "index": "10",
+            "price": 322.47,
+            "quantity": 5.1,
+            "tax_amount": 64.27,
+            "total_ttc": 256.19,
+            "vat_amount": 3.92
+        },
+        {
+            "amount": 151.16,
+            "description": "strategize B2B ROI",
+            "index": "5",
+            "price": 143.39,
+            "quantity": 9.75,
+            "tax_amount": 96.35,
+            "total_ttc": 305.94,
+            "vat_amount": 1.39
+        },
+        {
+            "amount": 340.33,
+            "description": "leverage web-enabled channels",
+            "index": "7",
+            "price": 236.8,
+            "quantity": 9.98,
+            "tax_amount": 49.24,
+            "total_ttc": 359.8,
+            "vat_amount": 5.7
+        }
+    ],
+    "seller": {
+        "name": "Emily Garcia"
+    },
+    "supplier": {
+        "address": "98667 Thompson Street Markton, OH 64580",
+        "name": "Samantha Craig"
+    },
+    "tax": {
+        "amount_excluding_tax": 174.14,
+        "amount_including_tax": 20.62,
+        "tax_amount": 19.28,
+        "total_ht": 339.39,
+        "total_ttc": 264.58
+    }
+}

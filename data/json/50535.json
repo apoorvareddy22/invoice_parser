@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "3207 Hunter Plaza Lake Robertland, MT 43279",
+        "id": "QG263"
+    },
+    "invoice": {
+        "bc_no": "yw78040",
+        "currency_code": "KMF",
+        "date": "03.04.2018",
+        "due_date": "14.05.2015",
+        "number": 727526
+    },
+    "payment": {
+        "bank_name": "Ingram Group",
+        "bic": "YEEFGBG95F4",
+        "iban": "BXTL46307573689903"
+    },
+    "products": [
+        {
+            "amount": 46.66,
+            "description": "engineer impactful web-readiness",
+            "index": "9",
+            "price": 327.22,
+            "quantity": 7.35,
+            "tax_amount": 66.42,
+            "total_ttc": 129.91,
+            "vat_amount": 2.47
+        },
+        {
+            "amount": 347.12,
+            "description": "engage open-source technologies",
+            "index": "4",
+            "price": 296.33,
+            "quantity": 5.39,
+            "tax_amount": 14.77,
+            "total_ttc": 296.37,
+            "vat_amount": 1.37
+        },
+        {
+            "amount": 475.42,
+            "description": "optimize real-time users",
+            "index": "2",
+            "price": 15.39,
+            "quantity": 5.63,
+            "tax_amount": 18.73,
+            "total_ttc": 368.07,
+            "vat_amount": 2.97
+        },
+        {
+            "amount": 188.18,
+            "description": "extend virtual e-services",
+            "index": "3",
+            "price": 383.64,
+            "quantity": 3.97,
+            "tax_amount": 24.85,
+            "total_ttc": 266.34,
+            "vat_amount": 6.3
+        },
+        {
+            "amount": 317.44,
+            "description": "whiteboard B2B convergence",
+            "index": "5",
+            "price": 351.17,
+            "quantity": 4.14,
+            "tax_amount": 60.48,
+            "total_ttc": 239.43,
+            "vat_amount": 9.32
+        },
+        {
+            "amount": 218.22,
+            "description": "drive leading-edge metrics",
+            "index": "3",
+            "price": 53.0,
+            "quantity": 5.12,
+            "tax_amount": 59.65,
+            "total_ttc": 378.2,
+            "vat_amount": 7.92
+        }
+    ],
+    "seller": {
+        "name": "Linda Vaughn"
+    },
+    "supplier": {
+        "address": "93346 Chase Stream North Virginiahaven, CA 38424",
+        "name": "Amanda George"
+    },
+    "tax": {
+        "amount_excluding_tax": 112.25,
+        "amount_including_tax": 66.53,
+        "tax_amount": 11.39,
+        "total_ht": 226.97,
+        "total_ttc": 494.3
+    }
+}

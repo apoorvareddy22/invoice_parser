@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "44884 Hannah Stravenue Apt. 254 New Jaredport, NC 42437",
+        "company_name": "Pugh, Baker and Sharp",
+        "country": "Maldives",
+        "name": "Michael Davis"
+    },
+    "invoice": {
+        "date": "14.02.2011",
+        "number": 266542
+    },
+    "payment": {
+        "discount_amount": 29.46,
+        "discount_percentage": 15.76,
+        "due": 97.78,
+        "sub_total": 166.17,
+        "total": 344.69
+    },
+    "products": [
+        {
+            "description": "re-intermediate 24/365 content",
+            "index": "4",
+            "quantity": 8.29,
+            "total_price": 734.88,
+            "unit_price": 39.08
+        },
+        {
+            "description": "architect next-generation niches",
+            "index": "3",
+            "quantity": 3.63,
+            "total_price": 43.1,
+            "unit_price": 40.08
+        }
+    ],
+    "seller": {
+        "address": "Unit 0061 Box 0840 DPO AE 21283",
+        "company_name": "Wood Ltd",
+        "vat_no": "ag01675355387"
+    }
+}

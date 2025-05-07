@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "63142 Gonzalez Gateway Suite 838 Allenview, RI 24069",
+        "id": "nd197"
+    },
+    "invoice": {
+        "bc_no": "uR43571",
+        "currency_code": "TVD",
+        "date": "01.01.1994",
+        "due_date": "11.10.1991",
+        "number": 614251
+    },
+    "payment": {
+        "bank_name": "Martinez PLC",
+        "bic": "XFYQGBW9",
+        "iban": "RSFX22546422476477"
+    },
+    "products": [
+        {
+            "amount": 113.3,
+            "description": "matrix virtual bandwidth",
+            "index": "7",
+            "price": 281.97,
+            "quantity": 7.29,
+            "tax_amount": 56.75,
+            "total_ttc": 176.08,
+            "vat_amount": 12.19
+        }
+    ],
+    "seller": {
+        "name": "Theresa Miller"
+    },
+    "supplier": {
+        "address": "0458 Arthur Summit Apt. 115 Jordantown, TN 71740",
+        "name": "Evelyn Hood DDS"
+    },
+    "tax": {
+        "amount_excluding_tax": 186.11,
+        "amount_including_tax": 185.21,
+        "tax_amount": 27.29,
+        "total_ht": 203.56,
+        "total_ttc": 359.91
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "86170 Natasha Mission Suite 337 New Maryshire, NE 20941",
+        "id": "qT100"
+    },
+    "invoice": {
+        "bc_no": "rt02433",
+        "currency_code": "YER",
+        "date": "25.09.1990",
+        "due_date": "06.11.2014",
+        "number": 575458
+    },
+    "payment": {
+        "bank_name": "Garcia, Lewis and Dawson",
+        "bic": "WVOTGB83DRX",
+        "iban": "ISKX64682793193551"
+    },
+    "products": [
+        {
+            "amount": 33.91,
+            "description": "facilitate global functionalities",
+            "index": "3",
+            "price": 298.19,
+            "quantity": 7.73,
+            "tax_amount": 53.13,
+            "total_ttc": 399.04,
+            "vat_amount": 0.46
+        },
+        {
+            "amount": 388.17,
+            "description": "integrate front-end technologies",
+            "index": "3",
+            "price": 417.67,
+            "quantity": 2.04,
+            "tax_amount": 53.49,
+            "total_ttc": 404.77,
+            "vat_amount": 2.21
+        },
+        {
+            "amount": 434.97,
+            "description": "transition strategic infrastructures",
+            "index": "2",
+            "price": 393.62,
+            "quantity": 4.48,
+            "tax_amount": 32.99,
+            "total_ttc": 335.64,
+            "vat_amount": 4.61
+        },
+        {
+            "amount": 492.94,
+            "description": "extend bricks-and-clicks networks",
+            "index": "4",
+            "price": 250.7,
+            "quantity": 8.97,
+            "tax_amount": 74.16,
+            "total_ttc": 398.47,
+            "vat_amount": 5.27
+        },
+        {
+            "amount": 39.56,
+            "description": "leverage wireless ROI",
+            "index": "8",
+            "price": 479.36,
+            "quantity": 9.88,
+            "tax_amount": 42.8,
+            "total_ttc": 302.4,
+            "vat_amount": 13.92
+        },
+        {
+            "amount": 40.72,
+            "description": "synergize compelling markets",
+            "index": "1",
+            "price": 68.44,
+            "quantity": 1.05,
+            "tax_amount": 49.91,
+            "total_ttc": 428.98,
+            "vat_amount": 15.93
+        },
+        {
+            "amount": 354.76,
+            "description": "synthesize revolutionary models",
+            "index": "9",
+            "price": 77.87,
+            "quantity": 9.55,
+            "tax_amount": 90.33,
+            "total_ttc": 411.18,
+            "vat_amount": 8.42
+        }
+    ],
+    "seller": {
+        "name": "Brian Chandler"
+    },
+    "supplier": {
+        "address": "0425 Garcia Lodge Suite 841 Saundersmouth, ND 52219",
+        "name": "Daniel Wu"
+    },
+    "tax": {
+        "amount_excluding_tax": 60.89,
+        "amount_including_tax": 63.88,
+        "tax_amount": 29.31,
+        "total_ht": 359.3,
+        "total_ttc": 201.61
+    }
+}

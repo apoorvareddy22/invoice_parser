@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "0022 Murphy Islands Anthonyland, OK 49286",
+        "email": "mcdonaldangela@example.org",
+        "phone": "682.237.8551",
+        "vat_no": "sF42145686903"
+    },
+    "invoice": {
+        "date": "01.04.1999",
+        "due_date": "23.07.1999",
+        "market_reference": 571109,
+        "notes": "engineer robust niches",
+        "number": "0756-9894",
+        "reference": 488421,
+        "vat_no": "SV66321132310"
+    },
+    "payment": {
+        "net_total": 113.76,
+        "total": 243.67
+    },
+    "products": [
+        {
+            "amount": 438.11,
+            "description": "monetize dynamic eyeballs",
+            "hours": 5.88,
+            "rate": 1.45
+        },
+        {
+            "amount": 31.7,
+            "description": "revolutionize dot-com networks",
+            "hours": 2.88,
+            "rate": 8.0
+        },
+        {
+            "amount": 143.98,
+            "description": "optimize impactful info-mediaries",
+            "hours": 6.52,
+            "rate": 2.54
+        },
+        {
+            "amount": 35.95,
+            "description": "incubate sticky interfaces",
+            "hours": 4.38,
+            "rate": 1.51
+        }
+    ],
+    "seller": {
+        "address": "038 Wagner Lakes North Jamesbury, DE 52562",
+        "email": "ghammond@example.com",
+        "name": "Neil Haley"
+    },
+    "tax": {
+        "base": 15.52,
+        "tax_amount": 21.51,
+        "total_tax": 13.7
+    }
+}

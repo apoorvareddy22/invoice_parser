@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "Unit 2382 Box 9763 DPO AE 20771",
+        "email": "jamiesanchez@example.net",
+        "phone": "530.865.3266x35203",
+        "vat_no": "fz45968280834"
+    },
+    "invoice": {
+        "date": "03.06.2015",
+        "due_date": "06.12.2006",
+        "market_reference": 885605,
+        "notes": "enhance B2B systems",
+        "number": "7305-6730",
+        "reference": 676163,
+        "vat_no": "Kh86524732486"
+    },
+    "payment": {
+        "net_total": 182.31,
+        "total": 616.97
+    },
+    "products": [
+        {
+            "amount": 141.77,
+            "description": "incentivize end-to-end action-items",
+            "hours": 5.67,
+            "rate": 4.02
+        },
+        {
+            "amount": 163.92,
+            "description": "implement best-of-breed partnerships",
+            "hours": 1.43,
+            "rate": 9.36
+        },
+        {
+            "amount": 18.03,
+            "description": "architect customized users",
+            "hours": 6.14,
+            "rate": 8.39
+        }
+    ],
+    "seller": {
+        "address": "8867 Rodgers River Suite 169 Davidton, CT 60886",
+        "email": "nporter@example.org",
+        "name": "Matthew Hammond"
+    },
+    "tax": {
+        "base": 10.1,
+        "tax_amount": 24.39,
+        "total_tax": 19.88
+    }
+}

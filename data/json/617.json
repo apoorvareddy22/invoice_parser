@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "56132 Miller Run Gonzalezside, PA 78473",
+        "company_name": "Hayes-Nelson",
+        "country": "Nicaragua",
+        "name": "Sandra Wilson"
+    },
+    "invoice": {
+        "date": "07.10.2022",
+        "number": 249642
+    },
+    "payment": {
+        "discount_amount": 38.79,
+        "discount_percentage": 15.61,
+        "due": 105.5,
+        "sub_total": 186.93,
+        "total": 678.75
+    },
+    "products": [
+        {
+            "description": "re-intermediate cross-media initiatives",
+            "index": "1",
+            "quantity": 1.76,
+            "total_price": 80.35,
+            "unit_price": 90.14
+        },
+        {
+            "description": "drive world-class communities",
+            "index": "3",
+            "quantity": 8.78,
+            "total_price": 190.69,
+            "unit_price": 25.34
+        },
+        {
+            "description": "engineer cross-platform solutions",
+            "index": "9",
+            "quantity": 5.05,
+            "total_price": 78.82,
+            "unit_price": 33.65
+        }
+    ],
+    "seller": {
+        "address": "606 Melissa Springs Port Lisa, UT 01675",
+        "company_name": "Watkins, Adams and Johnson",
+        "vat_no": "mE21273430207"
+    }
+}

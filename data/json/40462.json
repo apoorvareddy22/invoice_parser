@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "5440 Fisher Drives North Gerald, MH 14586"
+    },
+    "invoice": {
+        "bc_no": "cN13019",
+        "date": "16.04.1995",
+        "maturity_date": "02.01.2022",
+        "number": 724737
+    },
+    "products": [
+        {
+            "amount": 110.64,
+            "description": "innovate collaborative e-services",
+            "quantity": 1.65,
+            "unit_price": 64.23,
+            "vat_amount": 3.68
+        },
+        {
+            "amount": 173.04,
+            "description": "integrate best-of-breed deliverables",
+            "quantity": 6.42,
+            "unit_price": 32.99,
+            "vat_amount": 1.84
+        }
+    ],
+    "seller": {
+        "address": "7322 Daniel Fields Suite 837 East Donald, MO 90840"
+    },
+    "tax": {
+        "amount_excluding_tax": 108.0,
+        "amount_including_tax": 121.35,
+        "tax_amount": 18.1
+    }
+}

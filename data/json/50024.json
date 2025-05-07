@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "32887 Andrew Stream Port Suzannetown, GU 95789",
+        "id": "vo129"
+    },
+    "invoice": {
+        "bc_no": "Wp75156",
+        "currency_code": "LKR",
+        "date": "07.03.1996",
+        "due_date": "23.02.2015",
+        "number": 704484
+    },
+    "payment": {
+        "bank_name": "Boyer and Sons",
+        "bic": "NIKJGBEIEPV",
+        "iban": "ABSE15040707720230"
+    },
+    "products": [
+        {
+            "amount": 424.79,
+            "description": "whiteboard transparent paradigms",
+            "index": "2",
+            "price": 180.35,
+            "quantity": 6.25,
+            "tax_amount": 66.19,
+            "total_ttc": 219.29,
+            "vat_amount": 7.53
+        },
+        {
+            "amount": 317.12,
+            "description": "reinvent B2C methodologies",
+            "index": "2",
+            "price": 357.9,
+            "quantity": 9.96,
+            "tax_amount": 51.23,
+            "total_ttc": 194.5,
+            "vat_amount": 0.35
+        },
+        {
+            "amount": 40.97,
+            "description": "facilitate bricks-and-clicks architectures",
+            "index": "2",
+            "price": 154.93,
+            "quantity": 1.51,
+            "tax_amount": 79.34,
+            "total_ttc": 279.98,
+            "vat_amount": 13.05
+        },
+        {
+            "amount": 473.35,
+            "description": "re-intermediate transparent functionalities",
+            "index": "1",
+            "price": 433.55,
+            "quantity": 2.24,
+            "tax_amount": 68.02,
+            "total_ttc": 329.42,
+            "vat_amount": 18.03
+        }
+    ],
+    "seller": {
+        "name": "Charles Shields"
+    },
+    "supplier": {
+        "address": "5874 Tyler Circles Suite 000 Smithmouth, IA 22420",
+        "name": "Martin Vasquez"
+    },
+    "tax": {
+        "amount_excluding_tax": 173.17,
+        "amount_including_tax": 173.24,
+        "tax_amount": 25.81,
+        "total_ht": 117.64,
+        "total_ttc": 154.07
+    }
+}

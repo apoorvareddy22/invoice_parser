@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "PSC 5693, Box 6774 APO AP 89442",
+        "id": "Hk029"
+    },
+    "invoice": {
+        "bc_no": "kb60665",
+        "currency_code": "LSL",
+        "date": "03.04.1992",
+        "due_date": "11.08.1994",
+        "number": 210885
+    },
+    "payment": {
+        "bank_name": "Smith Group",
+        "bic": "VIFIGBGANH8",
+        "iban": "KPVM83854298962163"
+    },
+    "products": [
+        {
+            "amount": 253.03,
+            "description": "extend customized functionalities",
+            "index": "9",
+            "price": 215.54,
+            "quantity": 1.33,
+            "tax_amount": 16.58,
+            "total_ttc": 130.73,
+            "vat_amount": 2.83
+        },
+        {
+            "amount": 227.48,
+            "description": "enable enterprise applications",
+            "index": "10",
+            "price": 61.88,
+            "quantity": 2.13,
+            "tax_amount": 42.87,
+            "total_ttc": 180.79,
+            "vat_amount": 0.14
+        },
+        {
+            "amount": 89.3,
+            "description": "iterate transparent synergies",
+            "index": "9",
+            "price": 208.06,
+            "quantity": 5.68,
+            "tax_amount": 88.82,
+            "total_ttc": 401.26,
+            "vat_amount": 2.63
+        },
+        {
+            "amount": 96.3,
+            "description": "repurpose open-source mindshare",
+            "index": "8",
+            "price": 36.12,
+            "quantity": 7.9,
+            "tax_amount": 34.19,
+            "total_ttc": 332.86,
+            "vat_amount": 0.39
+        },
+        {
+            "amount": 8.33,
+            "description": "orchestrate customized partnerships",
+            "index": "2",
+            "price": 89.63,
+            "quantity": 6.7,
+            "tax_amount": 88.24,
+            "total_ttc": 218.97,
+            "vat_amount": 0.61
+        },
+        {
+            "amount": 421.4,
+            "description": "synthesize vertical web services",
+            "index": "3",
+            "price": 112.32,
+            "quantity": 8.86,
+            "tax_amount": 43.81,
+            "total_ttc": 166.37,
+            "vat_amount": 6.76
+        },
+        {
+            "amount": 24.7,
+            "description": "repurpose ubiquitous architectures",
+            "index": "5",
+            "price": 400.0,
+            "quantity": 6.62,
+            "tax_amount": 54.41,
+            "total_ttc": 122.83,
+            "vat_amount": 4.55
+        }
+    ],
+    "seller": {
+        "name": "Joshua Phillips"
+    },
+    "supplier": {
+        "address": "PSC 9863, Box 1790 APO AA 08834",
+        "name": "Michael Bryant"
+    },
+    "tax": {
+        "amount_excluding_tax": 143.77,
+        "amount_including_tax": 125.75,
+        "tax_amount": 14.36,
+        "total_ht": 344.71,
+        "total_ttc": 415.11
+    }
+}

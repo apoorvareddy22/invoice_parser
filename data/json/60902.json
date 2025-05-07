@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "8158 Kyle Centers Apt. 056 Austinberg, CT 94209",
+        "business_no": "cD241",
+        "id": "bV261"
+    },
+    "invoice": {
+        "date": "15.03.1990",
+        "number": "3162-7095"
+    },
+    "payment": {
+        "due_date": "06.09.1996",
+        "total": 485.62
+    },
+    "products": [
+        {
+            "amount": 57.74,
+            "description": "monetize frictionless web-readiness",
+            "quantity": 6.23,
+            "reference": "CT-132",
+            "unit_price": 88.97
+        },
+        {
+            "amount": 73.67,
+            "description": "transform revolutionary networks",
+            "quantity": 2.95,
+            "reference": "uQ-676",
+            "unit_price": 99.74
+        },
+        {
+            "amount": 455.7,
+            "description": "re-contextualize bleeding-edge convergence",
+            "quantity": 8.48,
+            "reference": "gR-704",
+            "unit_price": 38.74
+        }
+    ],
+    "seller": {
+        "address": "8966 Barajas Shoals Apt. 703 Lake Christine, WI 44039"
+    },
+    "tax": {
+        "base_ht": 148.74,
+        "regulations": 18.48,
+        "total_ht": 410.29,
+        "vat_amount": 161.24,
+        "vat_percentage": 22.98
+    }
+}

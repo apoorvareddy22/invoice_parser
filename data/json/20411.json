@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "Unit 0111 Box 4444 DPO AA 53583",
+        "company_name": "Miller Group",
+        "email": "sharon78@example.net",
+        "name": "James Farmer",
+        "phone": "+1-975-752-6133x930"
+    },
+    "invoice": {
+        "date": "25.03.2010",
+        "due_date": "08.11.2019",
+        "number": "DcB86904483854"
+    },
+    "payment": {
+        "account_number": 7368990261,
+        "bank_name": "Walters-Brooks",
+        "routing_number": 441501433
+    },
+    "products": [
+        {
+            "amount": 320.65,
+            "description": "drive killer convergence",
+            "index": "5",
+            "quantity": 3.55,
+            "unit_price": 23.4
+        },
+        {
+            "amount": 147.6,
+            "description": "visualize turn-key convergence",
+            "index": "5",
+            "quantity": 2.59,
+            "unit_price": 89.31
+        },
+        {
+            "amount": 206.91,
+            "description": "evolve bricks-and-clicks action-items",
+            "index": "8",
+            "quantity": 9.65,
+            "unit_price": 72.75
+        },
+        {
+            "amount": 310.11,
+            "description": "e-enable frictionless e-markets",
+            "index": "8",
+            "quantity": 3.03,
+            "unit_price": 12.84
+        }
+    ],
+    "seller": {
+        "address": "USS Fernandez FPO AA 05701",
+        "company_name": "Williams Ltd",
+        "email": "jade58@example.net"
+    }
+}

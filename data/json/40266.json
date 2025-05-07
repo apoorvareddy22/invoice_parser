@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "8675 Shannon Ports Apt. 266 West Carla, SD 06642"
+    },
+    "invoice": {
+        "bc_no": "nj43941",
+        "date": "05.08.1998",
+        "maturity_date": "18.04.1998",
+        "number": 606507
+    },
+    "products": [
+        {
+            "amount": 328.94,
+            "description": "transition web-enabled web services",
+            "quantity": 1.23,
+            "unit_price": 11.08,
+            "vat_amount": 0.26
+        },
+        {
+            "amount": 325.73,
+            "description": "extend innovative experiences",
+            "quantity": 4.98,
+            "unit_price": 54.55,
+            "vat_amount": 0.36
+        },
+        {
+            "amount": 420.0,
+            "description": "innovate collaborative experiences",
+            "quantity": 9.48,
+            "unit_price": 51.45,
+            "vat_amount": 6.78
+        },
+        {
+            "amount": 114.71,
+            "description": "empower real-time channels",
+            "quantity": 1.15,
+            "unit_price": 94.97,
+            "vat_amount": 3.61
+        }
+    ],
+    "seller": {
+        "address": "PSC 5037, Box 7317 APO AP 53481"
+    },
+    "tax": {
+        "amount_excluding_tax": 93.7,
+        "amount_including_tax": 47.42,
+        "tax_amount": 22.52
+    }
+}

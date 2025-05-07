@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "120 Lisa Manors Suite 183 West Cody, DC 92999",
+        "email": "bushamber@example.org",
+        "phone": "593-774-6174x848",
+        "vat_no": "fb38936661150"
+    },
+    "invoice": {
+        "date": "13.07.2007",
+        "due_date": "07.03.2015",
+        "market_reference": 563905,
+        "notes": "monetize dot-com partnerships",
+        "number": "0586-7437",
+        "reference": 257042,
+        "vat_no": "bl81358699192"
+    },
+    "payment": {
+        "net_total": 165.94,
+        "total": 623.65
+    },
+    "products": [
+        {
+            "amount": 197.1,
+            "description": "monetize killer platforms",
+            "hours": 4.66,
+            "rate": 5.63
+        },
+        {
+            "amount": 41.9,
+            "description": "disintermediate B2C action-items",
+            "hours": 5.27,
+            "rate": 8.91
+        },
+        {
+            "amount": 208.76,
+            "description": "aggregate integrated networks",
+            "hours": 3.2,
+            "rate": 6.67
+        }
+    ],
+    "seller": {
+        "address": "Unit 4002 Box 0441 DPO AA 73020",
+        "email": "tyler15@example.net",
+        "name": "Shelby Hood"
+    },
+    "tax": {
+        "base": 19.38,
+        "tax_amount": 27.16,
+        "total_tax": 26.13
+    }
+}

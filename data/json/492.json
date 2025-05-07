@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "805 Moore Isle Jamesville, TX 56089",
+        "company_name": "Cooper-Harris",
+        "country": "Korea",
+        "name": "Joshua Robbins"
+    },
+    "invoice": {
+        "date": "11.10.2009",
+        "number": 766836
+    },
+    "payment": {
+        "discount_amount": 12.31,
+        "discount_percentage": 6.01,
+        "due": 73.18,
+        "sub_total": 178.17,
+        "total": 938.55
+    },
+    "products": [
+        {
+            "description": "visualize world-class users",
+            "index": "3",
+            "quantity": 6.06,
+            "total_price": 905.04,
+            "unit_price": 72.18
+        },
+        {
+            "description": "reinvent granular methodologies",
+            "index": "6",
+            "quantity": 3.74,
+            "total_price": 412.11,
+            "unit_price": 53.05
+        }
+    ],
+    "seller": {
+        "address": "66312 Joseph Court Apt. 214 New Marcside, DE 17004",
+        "company_name": "Rich, Burke and Keller",
+        "vat_no": "qq52286867144"
+    }
+}

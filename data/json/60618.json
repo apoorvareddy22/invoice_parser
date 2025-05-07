@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "50300 Evans Via North Bonnie, MA 92968",
+        "business_no": "Kq055",
+        "id": "VS878"
+    },
+    "invoice": {
+        "date": "25.08.2015",
+        "number": "5965-9036"
+    },
+    "payment": {
+        "due_date": "20.06.1990",
+        "total": 296.31
+    },
+    "products": [
+        {
+            "amount": 392.04,
+            "description": "disintermediate compelling interfaces",
+            "quantity": 8.54,
+            "reference": "em-266",
+            "unit_price": 49.97
+        },
+        {
+            "amount": 26.98,
+            "description": "generate magnetic users",
+            "quantity": 2.11,
+            "reference": "Gy-024",
+            "unit_price": 63.47
+        },
+        {
+            "amount": 39.28,
+            "description": "expedite frictionless infrastructures",
+            "quantity": 1.51,
+            "reference": "ah-122",
+            "unit_price": 87.37
+        },
+        {
+            "amount": 499.04,
+            "description": "enable bleeding-edge bandwidth",
+            "quantity": 4.63,
+            "reference": "Er-568",
+            "unit_price": 94.83
+        }
+    ],
+    "seller": {
+        "address": "17103 Wise Cove Lake Marioborough, WA 54235"
+    },
+    "tax": {
+        "base_ht": 492.36,
+        "regulations": 24.36,
+        "total_ht": 129.02,
+        "vat_amount": 144.59,
+        "vat_percentage": 16.53
+    }
+}

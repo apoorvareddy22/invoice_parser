@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "17263 Wright Fall Apt. 953 Dianeshire, MN 71330",
+        "company_name": "Smith, Rodriguez and Mitchell",
+        "email": "robertshannah@example.net",
+        "name": "Patrick Torres",
+        "phone": "6276547578"
+    },
+    "invoice": {
+        "date": "16.05.2015",
+        "due_date": "28.09.2002",
+        "number": "XTu48646974328"
+    },
+    "payment": {
+        "account_number": 9499649491,
+        "bank_name": "Huynh, Ramirez and Walsh",
+        "routing_number": 344947692
+    },
+    "products": [
+        {
+            "amount": 485.3,
+            "description": "aggregate efficient markets",
+            "index": "2",
+            "quantity": 6.23,
+            "unit_price": 87.25
+        },
+        {
+            "amount": 300.82,
+            "description": "orchestrate seamless action-items",
+            "index": "7",
+            "quantity": 3.82,
+            "unit_price": 51.68
+        },
+        {
+            "amount": 6.77,
+            "description": "integrate 24/7 e-business",
+            "index": "8",
+            "quantity": 2.65,
+            "unit_price": 97.4
+        },
+        {
+            "amount": 410.01,
+            "description": "leverage global technologies",
+            "index": "9",
+            "quantity": 7.83,
+            "unit_price": 92.46
+        }
+    ],
+    "seller": {
+        "address": "4030 Chelsea Rapid Moranstad, CO 71056",
+        "company_name": "Jarvis, Gilbert and Ward",
+        "email": "greenmaureen@example.com"
+    }
+}

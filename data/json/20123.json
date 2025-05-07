@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "313 Heather Village Apt. 015 East Scottstad, CA 54525",
+        "company_name": "Thompson, Castillo and Taylor",
+        "email": "wgolden@example.org",
+        "name": "Erika Brown",
+        "phone": "305-449-1197x4918"
+    },
+    "invoice": {
+        "date": "19.06.2023",
+        "due_date": "01.06.2000",
+        "number": "FXI82277933874"
+    },
+    "payment": {
+        "account_number": 4084069441,
+        "bank_name": "Estrada Ltd",
+        "routing_number": 523619665
+    },
+    "products": [
+        {
+            "amount": 233.61,
+            "description": "re-intermediate impactful infrastructures",
+            "index": "9",
+            "quantity": 7.26,
+            "unit_price": 65.74
+        },
+        {
+            "amount": 424.38,
+            "description": "syndicate 24/7 e-business",
+            "index": "4",
+            "quantity": 3.65,
+            "unit_price": 69.98
+        },
+        {
+            "amount": 462.28,
+            "description": "streamline ubiquitous e-markets",
+            "index": "4",
+            "quantity": 3.17,
+            "unit_price": 25.35
+        }
+    ],
+    "seller": {
+        "address": "59276 Heather Meadow Apt. 512 Philipberg, LA 45320",
+        "company_name": "James-Chapman",
+        "email": "brianparker@example.com"
+    }
+}

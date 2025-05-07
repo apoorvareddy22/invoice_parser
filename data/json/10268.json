@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "478 Samantha Forest Apt. 508 Summersview, NM 09572",
+        "email": "bpeters@example.org",
+        "phone": "565.546.8965",
+        "vat_no": "ov98948690405"
+    },
+    "invoice": {
+        "date": "19.04.2017",
+        "due_date": "09.11.2021",
+        "market_reference": 908753,
+        "notes": "matrix collaborative e-business",
+        "number": "8204-8946",
+        "reference": 541167,
+        "vat_no": "AM45117420752"
+    },
+    "payment": {
+        "net_total": 159.28,
+        "total": 318.18
+    },
+    "products": [
+        {
+            "amount": 127.11,
+            "description": "envisioneer real-time users",
+            "hours": 2.41,
+            "rate": 1.94
+        },
+        {
+            "amount": 77.38,
+            "description": "deliver innovative synergies",
+            "hours": 9.01,
+            "rate": 9.75
+        },
+        {
+            "amount": 198.28,
+            "description": "exploit B2C portals",
+            "hours": 8.43,
+            "rate": 5.34
+        },
+        {
+            "amount": 477.34,
+            "description": "productize integrated eyeballs",
+            "hours": 7.71,
+            "rate": 3.91
+        },
+        {
+            "amount": 241.1,
+            "description": "exploit next-generation convergence",
+            "hours": 3.24,
+            "rate": 1.87
+        },
+        {
+            "amount": 345.79,
+            "description": "reinvent holistic markets",
+            "hours": 7.51,
+            "rate": 7.85
+        },
+        {
+            "amount": 461.85,
+            "description": "deliver turn-key communities",
+            "hours": 9.07,
+            "rate": 2.23
+        }
+    ],
+    "seller": {
+        "address": "9876 Wright Path Suite 805 North Davidberg, PR 68895",
+        "email": "kimrobbins@example.org",
+        "name": "Clarence Lamb"
+    },
+    "tax": {
+        "base": 10.17,
+        "tax_amount": 19.73,
+        "total_tax": 16.89
+    }
+}

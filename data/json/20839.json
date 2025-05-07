@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "2143 Nichols Freeway Port Jenniferville, MA 81765",
+        "company_name": "Garcia-Simpson",
+        "email": "kmelton@example.com",
+        "name": "Jeffrey Gray",
+        "phone": "+1-463-632-9461x6184"
+    },
+    "invoice": {
+        "date": "28.08.1992",
+        "due_date": "15.04.2021",
+        "number": "MAb67794769632"
+    },
+    "payment": {
+        "account_number": 1983189947,
+        "bank_name": "Davis PLC",
+        "routing_number": 233498292
+    },
+    "products": [
+        {
+            "amount": 247.35,
+            "description": "facilitate visionary communities",
+            "index": "7",
+            "quantity": 6.91,
+            "unit_price": 13.64
+        },
+        {
+            "amount": 271.85,
+            "description": "re-contextualize mission-critical metrics",
+            "index": "2",
+            "quantity": 8.39,
+            "unit_price": 23.85
+        }
+    ],
+    "seller": {
+        "address": "USS Mata FPO AA 30565",
+        "company_name": "Sweeney-Davis",
+        "email": "hudsondaniel@example.org"
+    }
+}

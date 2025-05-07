@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "635 White Knoll Suite 614 South Jason, ID 86199",
+        "company_name": "Moss-Campbell",
+        "email": "whernandez@example.com",
+        "name": "James Thompson",
+        "phone": "8954173058"
+    },
+    "invoice": {
+        "date": "27.01.2014",
+        "due_date": "27.09.2017",
+        "number": "vDr15356707996"
+    },
+    "payment": {
+        "account_number": 2856251030,
+        "bank_name": "Chandler-Martin",
+        "routing_number": 512919324
+    },
+    "products": [
+        {
+            "amount": 6.06,
+            "description": "engineer virtual vortals",
+            "index": "3",
+            "quantity": 5.51,
+            "unit_price": 56.37
+        },
+        {
+            "amount": 67.32,
+            "description": "seize innovative supply-chains",
+            "index": "3",
+            "quantity": 2.41,
+            "unit_price": 11.45
+        },
+        {
+            "amount": 117.52,
+            "description": "harness leading-edge applications",
+            "index": "1",
+            "quantity": 3.04,
+            "unit_price": 63.64
+        }
+    ],
+    "seller": {
+        "address": "PSC 1271, Box 5560 APO AA 40904",
+        "company_name": "Perez Inc",
+        "email": "harperkimberly@example.com"
+    }
+}

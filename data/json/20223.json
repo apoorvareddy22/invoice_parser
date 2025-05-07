@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "3139 Timothy Motorway Apt. 288 Kerrview, MS 79285",
+        "company_name": "Pope, Whitehead and Holmes",
+        "email": "patelcaitlin@example.com",
+        "name": "Daisy Craig",
+        "phone": "720.933.3115"
+    },
+    "invoice": {
+        "date": "10.04.2009",
+        "due_date": "29.10.2013",
+        "number": "Qev91292984002"
+    },
+    "payment": {
+        "account_number": 3023738689,
+        "bank_name": "Young Group",
+        "routing_number": 258792572
+    },
+    "products": [
+        {
+            "amount": 16.86,
+            "description": "synthesize dot-com architectures",
+            "index": "9",
+            "quantity": 4.58,
+            "unit_price": 10.39
+        }
+    ],
+    "seller": {
+        "address": "314 King Flat Torreshaven, MS 61152",
+        "company_name": "Price, Chambers and Davis",
+        "email": "alvinwatson@example.org"
+    }
+}

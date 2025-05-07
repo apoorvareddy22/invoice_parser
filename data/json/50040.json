@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "974 Alexis Stravenue Port Amberside, MI 79137",
+        "id": "Pg284"
+    },
+    "invoice": {
+        "bc_no": "QM25337",
+        "currency_code": "THB",
+        "date": "18.05.2023",
+        "due_date": "15.01.1996",
+        "number": 530922
+    },
+    "payment": {
+        "bank_name": "Strickland Ltd",
+        "bic": "JOEWGBO7",
+        "iban": "SZTW74047105789577"
+    },
+    "products": [
+        {
+            "amount": 334.02,
+            "description": "enable distributed solutions",
+            "index": "5",
+            "price": 185.79,
+            "quantity": 7.79,
+            "tax_amount": 34.65,
+            "total_ttc": 311.06,
+            "vat_amount": 5.1
+        }
+    ],
+    "seller": {
+        "name": "Bianca Underwood"
+    },
+    "supplier": {
+        "address": "9003 Casey Prairie Apt. 019 Lake Kimberlybury, MO 80941",
+        "name": "Angela Wright"
+    },
+    "tax": {
+        "amount_excluding_tax": 63.9,
+        "amount_including_tax": 52.32,
+        "tax_amount": 23.41,
+        "total_ht": 269.04,
+        "total_ttc": 183.5
+    }
+}

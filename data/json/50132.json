@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "2382 Garcia Island Maynardhaven, PR 70681",
+        "id": "NX287"
+    },
+    "invoice": {
+        "bc_no": "Ho98541",
+        "currency_code": "KRW",
+        "date": "17.07.1991",
+        "due_date": "04.10.2016",
+        "number": 358894
+    },
+    "payment": {
+        "bank_name": "Flowers, Davis and Rodriguez",
+        "bic": "YPWWGBRHH1L",
+        "iban": "UDWA45954136977557"
+    },
+    "products": [
+        {
+            "amount": 268.91,
+            "description": "extend 24/7 platforms",
+            "index": "2",
+            "price": 72.26,
+            "quantity": 3.07,
+            "tax_amount": 11.01,
+            "total_ttc": 254.73,
+            "vat_amount": 0.01
+        },
+        {
+            "amount": 431.54,
+            "description": "enable turn-key e-markets",
+            "index": "4",
+            "price": 128.7,
+            "quantity": 7.58,
+            "tax_amount": 53.17,
+            "total_ttc": 282.1,
+            "vat_amount": 0.2
+        },
+        {
+            "amount": 433.08,
+            "description": "enhance global networks",
+            "index": "10",
+            "price": 201.03,
+            "quantity": 4.97,
+            "tax_amount": 95.31,
+            "total_ttc": 197.56,
+            "vat_amount": 2.34
+        },
+        {
+            "amount": 40.22,
+            "description": "whiteboard cross-platform architectures",
+            "index": "4",
+            "price": 188.44,
+            "quantity": 9.6,
+            "tax_amount": 64.04,
+            "total_ttc": 464.26,
+            "vat_amount": 10.55
+        }
+    ],
+    "seller": {
+        "name": "Angela Thompson"
+    },
+    "supplier": {
+        "address": "9924 Christine Plains Lake Christopher, MO 88859",
+        "name": "Kayla Pacheco"
+    },
+    "tax": {
+        "amount_excluding_tax": 134.41,
+        "amount_including_tax": 190.33,
+        "tax_amount": 23.34,
+        "total_ht": 481.0,
+        "total_ttc": 462.18
+    }
+}

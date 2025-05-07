@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "10241 Angela Points Suite 357 South James, MS 24352",
+        "email": "dli@example.net",
+        "phone": "368.514.4239",
+        "vat_no": "zN76533029101"
+    },
+    "invoice": {
+        "date": "18.11.1994",
+        "due_date": "22.04.2003",
+        "market_reference": 733641,
+        "notes": "redefine collaborative content",
+        "number": "6643-8658",
+        "reference": 171813,
+        "vat_no": "Ml08630258478"
+    },
+    "payment": {
+        "net_total": 178.59,
+        "total": 167.65
+    },
+    "products": [
+        {
+            "amount": 30.27,
+            "description": "monetize enterprise methodologies",
+            "hours": 9.15,
+            "rate": 9.96
+        }
+    ],
+    "seller": {
+        "address": "7595 Sandra Manor East Michael, ND 11910",
+        "email": "alejandro87@example.net",
+        "name": "Amanda Ramirez"
+    },
+    "tax": {
+        "base": 14.41,
+        "tax_amount": 12.62,
+        "total_tax": 24.67
+    }
+}

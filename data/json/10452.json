@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "539 Ruiz Fall Stanleyview, LA 75974",
+        "email": "elijah54@example.com",
+        "phone": "(361)508-8601x3905",
+        "vat_no": "Dc15037905806"
+    },
+    "invoice": {
+        "date": "12.08.2012",
+        "due_date": "22.07.1992",
+        "market_reference": 784636,
+        "notes": "envisioneer innovative e-services",
+        "number": "0074-1645",
+        "reference": 533407,
+        "vat_no": "mb76104758507"
+    },
+    "payment": {
+        "net_total": 148.92,
+        "total": 873.02
+    },
+    "products": [
+        {
+            "amount": 13.47,
+            "description": "transform integrated methodologies",
+            "hours": 3.46,
+            "rate": 3.17
+        },
+        {
+            "amount": 11.35,
+            "description": "benchmark frictionless markets",
+            "hours": 6.02,
+            "rate": 7.62
+        },
+        {
+            "amount": 281.13,
+            "description": "empower dynamic web services",
+            "hours": 6.9,
+            "rate": 1.31
+        }
+    ],
+    "seller": {
+        "address": "73055 Rodriguez Underpass Irwinmouth, NE 55411",
+        "email": "aaron63@example.net",
+        "name": "Jeremy Gray"
+    },
+    "tax": {
+        "base": 17.15,
+        "tax_amount": 16.5,
+        "total_tax": 20.25
+    }
+}

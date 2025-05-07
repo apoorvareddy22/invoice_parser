@@ -1,0 +1,70 @@
+{
+    "buyer": {
+        "address": "8256 Gregory Ville Apt. 880 Petersonchester, MP 94269"
+    },
+    "invoice": {
+        "bc_no": "rk03818",
+        "date": "20.05.2003",
+        "maturity_date": "21.12.2002",
+        "number": 913684
+    },
+    "products": [
+        {
+            "amount": 358.87,
+            "description": "reinvent 24/7 action-items",
+            "quantity": 2.14,
+            "unit_price": 50.62,
+            "vat_amount": 1.56
+        },
+        {
+            "amount": 160.1,
+            "description": "redefine intuitive infrastructures",
+            "quantity": 1.47,
+            "unit_price": 40.55,
+            "vat_amount": 12.25
+        },
+        {
+            "amount": 264.34,
+            "description": "empower bricks-and-clicks schemas",
+            "quantity": 2.22,
+            "unit_price": 13.19,
+            "vat_amount": 3.58
+        },
+        {
+            "amount": 211.59,
+            "description": "re-contextualize out-of-the-box markets",
+            "quantity": 1.56,
+            "unit_price": 66.7,
+            "vat_amount": 4.74
+        },
+        {
+            "amount": 37.85,
+            "description": "seize real-time architectures",
+            "quantity": 3.18,
+            "unit_price": 26.11,
+            "vat_amount": 2.8
+        },
+        {
+            "amount": 330.8,
+            "description": "harness dynamic schemas",
+            "quantity": 5.02,
+            "unit_price": 52.39,
+            "vat_amount": 8.87
+        },
+        {
+            "amount": 54.25,
+            "description": "transition clicks-and-mortar synergies",
+            "quantity": 3.03,
+            "unit_price": 16.37,
+            "vat_amount": 2.38
+        }
+    ],
+    "seller": {
+        "address": "PSC 3312, Box 2549 APO AP 99846"
+    },
+    "tax": {
+        "amount_excluding_tax": 65.81,
+        "amount_including_tax": 68.68,
+        "tax_amount": 22.2
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "24767 Calvin Forks West Williamchester, MI 35344",
+        "email": "kathleen63@example.org",
+        "phone": "(991)917-7675",
+        "vat_no": "Cx07149974810"
+    },
+    "invoice": {
+        "date": "10.11.2014",
+        "due_date": "20.09.2002",
+        "market_reference": 765156,
+        "notes": "cultivate proactive solutions",
+        "number": "1729-8698",
+        "reference": 257701,
+        "vat_no": "UQ84611286092"
+    },
+    "payment": {
+        "net_total": 163.0,
+        "total": 330.42
+    },
+    "products": [
+        {
+            "amount": 171.75,
+            "description": "redefine global markets",
+            "hours": 4.51,
+            "rate": 2.79
+        }
+    ],
+    "seller": {
+        "address": "95674 Collins Roads Suite 310 North Charles, MS 85893",
+        "email": "hayesjamie@example.org",
+        "name": "Erica Oliver"
+    },
+    "tax": {
+        "base": 13.16,
+        "tax_amount": 29.09,
+        "total_tax": 21.0
+    }
+}

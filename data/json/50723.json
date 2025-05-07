@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "27852 Nelson Streets Johnsonview, AL 54278",
+        "id": "ge158"
+    },
+    "invoice": {
+        "bc_no": "iu81721",
+        "currency_code": "SLL",
+        "date": "13.08.2001",
+        "due_date": "28.06.1999",
+        "number": 556543
+    },
+    "payment": {
+        "bank_name": "Dixon-Mahoney",
+        "bic": "UVNGGB0MBGK",
+        "iban": "GLZF76438419102900"
+    },
+    "products": [
+        {
+            "amount": 449.67,
+            "description": "streamline global communities",
+            "index": "8",
+            "price": 458.77,
+            "quantity": 3.61,
+            "tax_amount": 99.57,
+            "total_ttc": 227.12,
+            "vat_amount": 4.56
+        }
+    ],
+    "seller": {
+        "name": "Claudia Johnson"
+    },
+    "supplier": {
+        "address": "68632 Matthews Court East Joshua, IA 39842",
+        "name": "Robert Poole"
+    },
+    "tax": {
+        "amount_excluding_tax": 34.57,
+        "amount_including_tax": 103.52,
+        "tax_amount": 11.78,
+        "total_ht": 308.36,
+        "total_ttc": 227.25
+    }
+}

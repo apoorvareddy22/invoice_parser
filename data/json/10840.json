@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "3941 Brooke Knoll Port Angela, NC 01423",
+        "email": "rbarnes@example.com",
+        "phone": "+1-918-251-9496x00621",
+        "vat_no": "jt59532814005"
+    },
+    "invoice": {
+        "date": "26.12.2013",
+        "due_date": "11.07.1996",
+        "market_reference": 744445,
+        "notes": "visualize impactful partnerships",
+        "number": "8525-5276",
+        "reference": 739139,
+        "vat_no": "ze17738937499"
+    },
+    "payment": {
+        "net_total": 37.63,
+        "total": 151.59
+    },
+    "products": [
+        {
+            "amount": 349.21,
+            "description": "utilize next-generation users",
+            "hours": 3.39,
+            "rate": 8.4
+        },
+        {
+            "amount": 121.56,
+            "description": "aggregate 24/7 markets",
+            "hours": 3.15,
+            "rate": 8.99
+        }
+    ],
+    "seller": {
+        "address": "0727 Kristen Glen Floresburgh, PA 92606",
+        "email": "smithdouglas@example.net",
+        "name": "David Williams"
+    },
+    "tax": {
+        "base": 13.89,
+        "tax_amount": 28.02,
+        "total_tax": 17.18
+    }
+}

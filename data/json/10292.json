@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "201 Kathleen Mills Lake Amyville, MP 53447",
+        "email": "katherine20@example.org",
+        "phone": "637.607.7830",
+        "vat_no": "ks04884962180"
+    },
+    "invoice": {
+        "date": "26.06.2013",
+        "due_date": "12.01.2002",
+        "market_reference": 794048,
+        "notes": "generate back-end technologies",
+        "number": "5755-2563",
+        "reference": 369726,
+        "vat_no": "bW51087659731"
+    },
+    "payment": {
+        "net_total": 105.09,
+        "total": 457.39
+    },
+    "products": [
+        {
+            "amount": 74.09,
+            "description": "productize enterprise e-tailers",
+            "hours": 9.59,
+            "rate": 9.14
+        },
+        {
+            "amount": 411.58,
+            "description": "synergize seamless architectures",
+            "hours": 1.91,
+            "rate": 2.01
+        },
+        {
+            "amount": 66.51,
+            "description": "scale 24/7 mindshare",
+            "hours": 6.92,
+            "rate": 6.74
+        },
+        {
+            "amount": 44.83,
+            "description": "engage distributed e-services",
+            "hours": 5.14,
+            "rate": 9.45
+        },
+        {
+            "amount": 380.32,
+            "description": "implement customized action-items",
+            "hours": 9.98,
+            "rate": 5.4
+        }
+    ],
+    "seller": {
+        "address": "PSC 4955, Box 6959 APO AA 96574",
+        "email": "vjackson@example.net",
+        "name": "Timothy Baker"
+    },
+    "tax": {
+        "base": 28.55,
+        "tax_amount": 22.97,
+        "total_tax": 10.06
+    }
+}

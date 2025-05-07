@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "USNS Drake FPO AA 65104",
+        "email": "fisherbrandon@example.net",
+        "phone": "888-221-1618x16796",
+        "vat_no": "Nq05947356980"
+    },
+    "invoice": {
+        "date": "13.09.1996",
+        "due_date": "11.10.2009",
+        "market_reference": 862600,
+        "notes": "mesh mission-critical methodologies",
+        "number": "7354-4908",
+        "reference": 728377,
+        "vat_no": "Qy79435382918"
+    },
+    "payment": {
+        "net_total": 185.44,
+        "total": 635.87
+    },
+    "products": [
+        {
+            "amount": 450.24,
+            "description": "generate next-generation eyeballs",
+            "hours": 8.8,
+            "rate": 1.65
+        },
+        {
+            "amount": 398.16,
+            "description": "benchmark bleeding-edge info-mediaries",
+            "hours": 5.23,
+            "rate": 3.4
+        },
+        {
+            "amount": 257.5,
+            "description": "repurpose cross-platform deliverables",
+            "hours": 3.29,
+            "rate": 9.74
+        },
+        {
+            "amount": 244.65,
+            "description": "revolutionize one-to-one content",
+            "hours": 1.58,
+            "rate": 6.5
+        },
+        {
+            "amount": 51.23,
+            "description": "morph impactful networks",
+            "hours": 2.68,
+            "rate": 7.65
+        }
+    ],
+    "seller": {
+        "address": "2889 White Squares Apt. 824 Kathleenberg, WA 99312",
+        "email": "kathrynjohnson@example.org",
+        "name": "Amy Craig"
+    },
+    "tax": {
+        "base": 20.62,
+        "tax_amount": 23.66,
+        "total_tax": 21.23
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "Unit 0954 Box 0447 DPO AP 66402",
+        "id": "yf131"
+    },
+    "invoice": {
+        "bc_no": "Ae73992",
+        "currency_code": "KWD",
+        "date": "01.05.2022",
+        "due_date": "06.12.2018",
+        "number": 303761
+    },
+    "payment": {
+        "bank_name": "Thomas, Perry and Ferrell",
+        "bic": "NUIBGB1F",
+        "iban": "KOAS45274951695807"
+    },
+    "products": [
+        {
+            "amount": 185.87,
+            "description": "strategize granular e-commerce",
+            "index": "9",
+            "price": 120.25,
+            "quantity": 9.73,
+            "tax_amount": 40.63,
+            "total_ttc": 183.13,
+            "vat_amount": 4.96
+        },
+        {
+            "amount": 215.89,
+            "description": "maximize front-end e-markets",
+            "index": "7",
+            "price": 59.7,
+            "quantity": 7.37,
+            "tax_amount": 47.91,
+            "total_ttc": 360.71,
+            "vat_amount": 3.68
+        },
+        {
+            "amount": 300.49,
+            "description": "utilize cross-media info-mediaries",
+            "index": "5",
+            "price": 313.82,
+            "quantity": 4.17,
+            "tax_amount": 27.64,
+            "total_ttc": 483.5,
+            "vat_amount": 7.73
+        },
+        {
+            "amount": 289.05,
+            "description": "iterate distributed niches",
+            "index": "3",
+            "price": 140.94,
+            "quantity": 5.5,
+            "tax_amount": 18.05,
+            "total_ttc": 152.44,
+            "vat_amount": 10.15
+        }
+    ],
+    "seller": {
+        "name": "Jonathan Clark"
+    },
+    "supplier": {
+        "address": "5724 Cynthia Crescent Apt. 089 West Carrie, MN 77298",
+        "name": "Elizabeth Williams"
+    },
+    "tax": {
+        "amount_excluding_tax": 22.9,
+        "amount_including_tax": 111.8,
+        "tax_amount": 19.87,
+        "total_ht": 279.86,
+        "total_ttc": 247.26
+    }
+}

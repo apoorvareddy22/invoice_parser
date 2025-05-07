@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "96833 Kristina Park Turnermouth, MD 30821"
+    },
+    "invoice": {
+        "bc_no": "MK81262",
+        "date": "22.08.2017",
+        "maturity_date": "25.07.1997",
+        "number": 766618
+    },
+    "products": [
+        {
+            "amount": 214.29,
+            "description": "drive extensible solutions",
+            "quantity": 6.61,
+            "unit_price": 67.43,
+            "vat_amount": 2.9
+        },
+        {
+            "amount": 190.58,
+            "description": "optimize impactful convergence",
+            "quantity": 8.72,
+            "unit_price": 43.78,
+            "vat_amount": 5.7
+        },
+        {
+            "amount": 425.17,
+            "description": "redefine interactive niches",
+            "quantity": 9.1,
+            "unit_price": 43.25,
+            "vat_amount": 2.78
+        }
+    ],
+    "seller": {
+        "address": "16149 Cole Fall Apt. 423 Smithhaven, CO 38900"
+    },
+    "tax": {
+        "amount_excluding_tax": 117.57,
+        "amount_including_tax": 124.11,
+        "tax_amount": 14.38
+    }
+}

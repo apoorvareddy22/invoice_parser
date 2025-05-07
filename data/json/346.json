@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "PSC 7760, Box 1091 APO AA 66766",
+        "company_name": "Williams-Terry",
+        "country": "Philippines",
+        "name": "Blake Brady"
+    },
+    "invoice": {
+        "date": "30.04.2000",
+        "number": 566808
+    },
+    "payment": {
+        "discount_amount": 23.47,
+        "discount_percentage": 18.41,
+        "due": 39.17,
+        "sub_total": 93.57,
+        "total": 434.14
+    },
+    "products": [
+        {
+            "description": "architect enterprise e-markets",
+            "index": "7",
+            "quantity": 6.64,
+            "total_price": 130.45,
+            "unit_price": 30.49
+        },
+        {
+            "description": "e-enable leading-edge users",
+            "index": "4",
+            "quantity": 2.94,
+            "total_price": 50.24,
+            "unit_price": 77.16
+        },
+        {
+            "description": "unleash scalable info-mediaries",
+            "index": "10",
+            "quantity": 8.81,
+            "total_price": 291.93,
+            "unit_price": 84.13
+        },
+        {
+            "description": "evolve cutting-edge supply-chains",
+            "index": "10",
+            "quantity": 3.61,
+            "total_price": 196.54,
+            "unit_price": 19.82
+        }
+    ],
+    "seller": {
+        "address": "63990 Amy Key Knoxbury, WI 75964",
+        "company_name": "Velasquez Ltd",
+        "vat_no": "Te77382426171"
+    }
+}

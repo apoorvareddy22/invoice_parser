@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "34212 Vance Junction Dennisborough, GA 89413",
+        "company_name": "Ward-Mata",
+        "country": "Saint Martin",
+        "name": "Bryan Andersen"
+    },
+    "invoice": {
+        "date": "10.09.1990",
+        "number": 746500
+    },
+    "payment": {
+        "discount_amount": 38.08,
+        "discount_percentage": 19.48,
+        "due": 172.91,
+        "sub_total": 134.61,
+        "total": 391.23
+    },
+    "products": [
+        {
+            "description": "facilitate enterprise solutions",
+            "index": "4",
+            "quantity": 1.19,
+            "total_price": 855.12,
+            "unit_price": 62.03
+        },
+        {
+            "description": "brand mission-critical infrastructures",
+            "index": "1",
+            "quantity": 2.57,
+            "total_price": 285.63,
+            "unit_price": 21.29
+        },
+        {
+            "description": "streamline rich action-items",
+            "index": "4",
+            "quantity": 4.63,
+            "total_price": 922.16,
+            "unit_price": 90.34
+        }
+    ],
+    "seller": {
+        "address": "2665 Taylor Underpass Alexisberg, MH 99908",
+        "company_name": "Petersen, Gardner and Arnold",
+        "vat_no": "PY14746278316"
+    }
+}

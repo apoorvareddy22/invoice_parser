@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "0104 Harmon Wells Apt. 481 Michaelmouth, NY 96013"
+    },
+    "invoice": {
+        "bc_no": "eD06029",
+        "date": "25.02.2005",
+        "maturity_date": "18.05.2022",
+        "number": 940586
+    },
+    "products": [
+        {
+            "amount": 221.48,
+            "description": "utilize granular experiences",
+            "quantity": 5.08,
+            "unit_price": 31.13,
+            "vat_amount": 0.07
+        },
+        {
+            "amount": 310.93,
+            "description": "aggregate next-generation technologies",
+            "quantity": 2.64,
+            "unit_price": 63.78,
+            "vat_amount": 0.21
+        },
+        {
+            "amount": 278.82,
+            "description": "optimize best-of-breed web-readiness",
+            "quantity": 4.44,
+            "unit_price": 81.61,
+            "vat_amount": 7.24
+        }
+    ],
+    "seller": {
+        "address": "10927 Jacob Keys South Cherylborough, KS 02912"
+    },
+    "tax": {
+        "amount_excluding_tax": 16.59,
+        "amount_including_tax": 176.75,
+        "tax_amount": 22.12
+    }
+}

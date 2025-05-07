@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "2536 Thomas Shoals Suite 425 Lisaborough, MH 80244",
+        "business_no": "qF961",
+        "id": "vJ335"
+    },
+    "invoice": {
+        "date": "18.07.2016",
+        "number": "6840-4574"
+    },
+    "payment": {
+        "due_date": "22.12.2016",
+        "total": 464.75
+    },
+    "products": [
+        {
+            "amount": 220.61,
+            "description": "embrace innovative paradigms",
+            "quantity": 3.72,
+            "reference": "sS-774",
+            "unit_price": 88.77
+        },
+        {
+            "amount": 158.65,
+            "description": "innovate visionary synergies",
+            "quantity": 8.97,
+            "reference": "mb-347",
+            "unit_price": 91.58
+        },
+        {
+            "amount": 335.34,
+            "description": "incentivize collaborative e-tailers",
+            "quantity": 2.74,
+            "reference": "eL-857",
+            "unit_price": 33.33
+        },
+        {
+            "amount": 331.05,
+            "description": "orchestrate customized e-services",
+            "quantity": 5.71,
+            "reference": "vs-317",
+            "unit_price": 84.63
+        },
+        {
+            "amount": 411.74,
+            "description": "whiteboard bleeding-edge web-readiness",
+            "quantity": 5.7,
+            "reference": "xe-311",
+            "unit_price": 79.31
+        }
+    ],
+    "seller": {
+        "address": "699 Martin Tunnel Dorseyland, AR 44207"
+    },
+    "tax": {
+        "base_ht": 103.15,
+        "regulations": 22.39,
+        "total_ht": 427.86,
+        "vat_amount": 105.23,
+        "vat_percentage": 23.04
+    }
+}

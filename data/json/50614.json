@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "16699 Melissa Islands Pricefort, IA 96191",
+        "id": "GU394"
+    },
+    "invoice": {
+        "bc_no": "Hr05286",
+        "currency_code": "TMT",
+        "date": "29.07.1998",
+        "due_date": "25.01.1995",
+        "number": 273993
+    },
+    "payment": {
+        "bank_name": "Peck-Chen",
+        "bic": "XPBFGBGAMZK",
+        "iban": "IRPY21987516754210"
+    },
+    "products": [
+        {
+            "amount": 243.1,
+            "description": "engineer efficient schemas",
+            "index": "1",
+            "price": 168.81,
+            "quantity": 1.26,
+            "tax_amount": 36.53,
+            "total_ttc": 455.47,
+            "vat_amount": 12.91
+        },
+        {
+            "amount": 287.27,
+            "description": "deliver granular users",
+            "index": "4",
+            "price": 381.09,
+            "quantity": 8.7,
+            "tax_amount": 98.81,
+            "total_ttc": 285.58,
+            "vat_amount": 10.99
+        },
+        {
+            "amount": 147.94,
+            "description": "leverage revolutionary bandwidth",
+            "index": "4",
+            "price": 423.52,
+            "quantity": 5.59,
+            "tax_amount": 13.87,
+            "total_ttc": 317.67,
+            "vat_amount": 14.28
+        },
+        {
+            "amount": 390.04,
+            "description": "engineer vertical interfaces",
+            "index": "7",
+            "price": 365.93,
+            "quantity": 8.58,
+            "tax_amount": 74.96,
+            "total_ttc": 288.56,
+            "vat_amount": 0.78
+        },
+        {
+            "amount": 302.98,
+            "description": "aggregate e-business info-mediaries",
+            "index": "5",
+            "price": 9.95,
+            "quantity": 4.24,
+            "tax_amount": 30.65,
+            "total_ttc": 287.07,
+            "vat_amount": 7.7
+        },
+        {
+            "amount": 182.82,
+            "description": "synergize innovative models",
+            "index": "10",
+            "price": 118.51,
+            "quantity": 3.98,
+            "tax_amount": 42.64,
+            "total_ttc": 332.4,
+            "vat_amount": 5.6
+        }
+    ],
+    "seller": {
+        "name": "Juan Chambers"
+    },
+    "supplier": {
+        "address": "5850 Sims Stream South Amber, TX 83830",
+        "name": "Gloria Gonzalez"
+    },
+    "tax": {
+        "amount_excluding_tax": 108.17,
+        "amount_including_tax": 58.38,
+        "tax_amount": 27.23,
+        "total_ht": 227.63,
+        "total_ttc": 187.91
+    }
+}

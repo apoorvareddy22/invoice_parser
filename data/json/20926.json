@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "4051 Ronald Streets Apt. 408 North Donnashire, ND 73787",
+        "company_name": "Smith, Smith and Gordon",
+        "email": "stephaniebailey@example.com",
+        "name": "Katherine Lawrence",
+        "phone": "(434)798-2105x37441"
+    },
+    "invoice": {
+        "date": "29.11.2012",
+        "due_date": "24.06.1992",
+        "number": "eaP93905863306"
+    },
+    "payment": {
+        "account_number": 1544418347,
+        "bank_name": "Garcia-Becker",
+        "routing_number": 933769228
+    },
+    "products": [
+        {
+            "amount": 227.32,
+            "description": "transition cutting-edge e-services",
+            "index": "8",
+            "quantity": 8.41,
+            "unit_price": 70.46
+        },
+        {
+            "amount": 274.65,
+            "description": "empower distributed relationships",
+            "index": "6",
+            "quantity": 1.01,
+            "unit_price": 48.18
+        },
+        {
+            "amount": 470.17,
+            "description": "grow scalable networks",
+            "index": "7",
+            "quantity": 5.18,
+            "unit_price": 29.02
+        },
+        {
+            "amount": 56.66,
+            "description": "extend extensible models",
+            "index": "8",
+            "quantity": 6.64,
+            "unit_price": 81.36
+        },
+        {
+            "amount": 489.85,
+            "description": "iterate interactive architectures",
+            "index": "6",
+            "quantity": 2.55,
+            "unit_price": 12.07
+        }
+    ],
+    "seller": {
+        "address": "PSC 7973, Box 5646 APO AA 18089",
+        "company_name": "Martinez-Taylor",
+        "email": "royobrien@example.org"
+    }
+}

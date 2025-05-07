@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "USCGC Singleton FPO AE 27683"
+    },
+    "invoice": {
+        "bc_no": "hi40991",
+        "date": "18.03.2012",
+        "maturity_date": "27.09.2003",
+        "number": 287098
+    },
+    "products": [
+        {
+            "amount": 358.22,
+            "description": "revolutionize vertical infrastructures",
+            "quantity": 9.18,
+            "unit_price": 54.11,
+            "vat_amount": 8.57
+        },
+        {
+            "amount": 346.88,
+            "description": "whiteboard rich technologies",
+            "quantity": 8.85,
+            "unit_price": 38.86,
+            "vat_amount": 3.76
+        },
+        {
+            "amount": 160.22,
+            "description": "e-enable leading-edge models",
+            "quantity": 6.23,
+            "unit_price": 43.32,
+            "vat_amount": 5.0
+        },
+        {
+            "amount": 52.74,
+            "description": "morph extensible networks",
+            "quantity": 4.44,
+            "unit_price": 86.13,
+            "vat_amount": 1.71
+        }
+    ],
+    "seller": {
+        "address": "2717 Rachel Plaza South Chase, SD 30431"
+    },
+    "tax": {
+        "amount_excluding_tax": 178.94,
+        "amount_including_tax": 142.11,
+        "tax_amount": 28.1
+    }
+}

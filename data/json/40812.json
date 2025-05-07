@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "8619 Jacob Grove Apt. 145 Holtshire, AS 47013"
+    },
+    "invoice": {
+        "bc_no": "dP01687",
+        "date": "03.05.2014",
+        "maturity_date": "06.07.1998",
+        "number": 289778
+    },
+    "products": [
+        {
+            "amount": 188.85,
+            "description": "cultivate cross-platform solutions",
+            "quantity": 4.4,
+            "unit_price": 23.94,
+            "vat_amount": 2.77
+        },
+        {
+            "amount": 99.1,
+            "description": "matrix efficient networks",
+            "quantity": 9.51,
+            "unit_price": 64.5,
+            "vat_amount": 9.52
+        }
+    ],
+    "seller": {
+        "address": "87521 John Locks Suite 372 Floydton, NE 12061"
+    },
+    "tax": {
+        "amount_excluding_tax": 172.82,
+        "amount_including_tax": 40.54,
+        "tax_amount": 13.41
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "5249 Trevor Plain Apt. 271 Russellside, MS 69489",
+        "company_name": "Howell-Lin",
+        "email": "michael22@example.net",
+        "name": "Mark Wood",
+        "phone": "001-674-900-9288x491"
+    },
+    "invoice": {
+        "date": "30.04.2015",
+        "due_date": "15.05.2014",
+        "number": "GLQ81106969494"
+    },
+    "payment": {
+        "account_number": 3773623369,
+        "bank_name": "Stephens-Rodriguez",
+        "routing_number": 892523326
+    },
+    "products": [
+        {
+            "amount": 332.13,
+            "description": "extend robust interfaces",
+            "index": "4",
+            "quantity": 3.53,
+            "unit_price": 30.18
+        },
+        {
+            "amount": 319.24,
+            "description": "syndicate web-enabled paradigms",
+            "index": "10",
+            "quantity": 7.11,
+            "unit_price": 10.81
+        },
+        {
+            "amount": 364.36,
+            "description": "unleash 24/365 action-items",
+            "index": "2",
+            "quantity": 1.33,
+            "unit_price": 63.6
+        },
+        {
+            "amount": 351.95,
+            "description": "generate granular platforms",
+            "index": "6",
+            "quantity": 9.28,
+            "unit_price": 56.31
+        }
+    ],
+    "seller": {
+        "address": "USNV Jackson FPO AE 80746",
+        "company_name": "Evans, Morrison and May",
+        "email": "vellison@example.com"
+    }
+}

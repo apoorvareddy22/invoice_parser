@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "3354 Marshall Knolls Apt. 911 Johnburgh, HI 14619",
+        "company_name": "Wilson Group",
+        "country": "New Zealand",
+        "name": "Edward Garcia DVM"
+    },
+    "invoice": {
+        "date": "10.10.1997",
+        "number": 874460
+    },
+    "payment": {
+        "discount_amount": 29.86,
+        "discount_percentage": 17.15,
+        "due": 192.86,
+        "sub_total": 162.11,
+        "total": 900.96
+    },
+    "products": [
+        {
+            "description": "harness world-class solutions",
+            "index": "8",
+            "quantity": 5.5,
+            "total_price": 310.58,
+            "unit_price": 79.97
+        },
+        {
+            "description": "redefine dot-com models",
+            "index": "10",
+            "quantity": 7.78,
+            "total_price": 40.7,
+            "unit_price": 65.5
+        },
+        {
+            "description": "maximize plug-and-play platforms",
+            "index": "2",
+            "quantity": 6.15,
+            "total_price": 234.79,
+            "unit_price": 15.48
+        },
+        {
+            "description": "deliver value-added infrastructures",
+            "index": "9",
+            "quantity": 2.78,
+            "total_price": 817.36,
+            "unit_price": 17.11
+        },
+        {
+            "description": "engineer real-time web-readiness",
+            "index": "10",
+            "quantity": 4.86,
+            "total_price": 22.28,
+            "unit_price": 48.58
+        },
+        {
+            "description": "evolve collaborative markets",
+            "index": "6",
+            "quantity": 4.93,
+            "total_price": 560.34,
+            "unit_price": 95.74
+        }
+    ],
+    "seller": {
+        "address": "161 Eric Route Harrisview, KS 55798",
+        "company_name": "Bass, Moore and Cardenas",
+        "vat_no": "DY22886002911"
+    }
+}

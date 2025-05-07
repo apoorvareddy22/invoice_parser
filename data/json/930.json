@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "3773 Christian Fort Lake Eric, CA 81285",
+        "company_name": "White, Wyatt and Booker",
+        "country": "Zimbabwe",
+        "name": "Jeremy Williams"
+    },
+    "invoice": {
+        "date": "04.08.2003",
+        "number": 676036
+    },
+    "payment": {
+        "discount_amount": 42.65,
+        "discount_percentage": 7.42,
+        "due": 105.94,
+        "sub_total": 81.61,
+        "total": 562.5
+    },
+    "products": [
+        {
+            "description": "mesh cross-media content",
+            "index": "6",
+            "quantity": 5.11,
+            "total_price": 71.05,
+            "unit_price": 69.4
+        },
+        {
+            "description": "mesh impactful eyeballs",
+            "index": "10",
+            "quantity": 2.41,
+            "total_price": 774.57,
+            "unit_price": 63.42
+        },
+        {
+            "description": "incentivize out-of-the-box bandwidth",
+            "index": "3",
+            "quantity": 6.96,
+            "total_price": 667.26,
+            "unit_price": 91.28
+        }
+    ],
+    "seller": {
+        "address": "USNV Lee FPO AA 37162",
+        "company_name": "Rodriguez-Melendez",
+        "vat_no": "KJ65808044965"
+    }
+}

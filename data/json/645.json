@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "3049 Patricia Road Apt. 223 Lake Frankview, MA 97829",
+        "company_name": "Henry, Wallace and Campos",
+        "country": "Haiti",
+        "name": "Amy Nguyen"
+    },
+    "invoice": {
+        "date": "08.11.2006",
+        "number": 218028
+    },
+    "payment": {
+        "discount_amount": 31.91,
+        "discount_percentage": 10.84,
+        "due": 121.47,
+        "sub_total": 174.01,
+        "total": 933.41
+    },
+    "products": [
+        {
+            "description": "monetize compelling paradigms",
+            "index": "1",
+            "quantity": 7.44,
+            "total_price": 160.1,
+            "unit_price": 26.69
+        },
+        {
+            "description": "harness global ROI",
+            "index": "5",
+            "quantity": 8.2,
+            "total_price": 521.03,
+            "unit_price": 77.71
+        },
+        {
+            "description": "deliver next-generation e-services",
+            "index": "8",
+            "quantity": 9.42,
+            "total_price": 744.98,
+            "unit_price": 68.65
+        },
+        {
+            "description": "syndicate one-to-one partnerships",
+            "index": "6",
+            "quantity": 8.76,
+            "total_price": 695.65,
+            "unit_price": 50.16
+        },
+        {
+            "description": "visualize e-business users",
+            "index": "7",
+            "quantity": 7.56,
+            "total_price": 110.99,
+            "unit_price": 81.86
+        }
+    ],
+    "seller": {
+        "address": "7426 Renee Ports Lake Joel, NJ 23494",
+        "company_name": "Waters-Hobbs",
+        "vat_no": "tL66247617757"
+    }
+}

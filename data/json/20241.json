@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "347 Louis Ports Elizabethmouth, MD 22726",
+        "company_name": "Jones PLC",
+        "email": "wardangela@example.com",
+        "name": "Evan Singleton",
+        "phone": "(815)290-4599"
+    },
+    "invoice": {
+        "date": "01.12.2009",
+        "due_date": "02.08.2022",
+        "number": "odN02815946597"
+    },
+    "payment": {
+        "account_number": 2106224546,
+        "bank_name": "Carey, Wu and Cooper",
+        "routing_number": 932012205
+    },
+    "products": [
+        {
+            "amount": 41.81,
+            "description": "streamline B2C content",
+            "index": "2",
+            "quantity": 5.64,
+            "unit_price": 66.13
+        },
+        {
+            "amount": 59.55,
+            "description": "seize back-end deliverables",
+            "index": "7",
+            "quantity": 8.37,
+            "unit_price": 99.29
+        },
+        {
+            "amount": 151.12,
+            "description": "engineer interactive platforms",
+            "index": "9",
+            "quantity": 1.82,
+            "unit_price": 19.72
+        },
+        {
+            "amount": 489.9,
+            "description": "embrace ubiquitous interfaces",
+            "index": "8",
+            "quantity": 8.28,
+            "unit_price": 51.43
+        }
+    ],
+    "seller": {
+        "address": "594 Phillip Crossroad Suite 645 New Kristen, MN 02825",
+        "company_name": "Anderson, Higgins and Faulkner",
+        "email": "christopher82@example.org"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "34665 Campbell Inlet Apt. 151 North Christopherville, OH 67484",
+        "email": "crobinson@example.com",
+        "phone": "568-647-6971",
+        "vat_no": "rH61265395559"
+    },
+    "invoice": {
+        "date": "17.12.2020",
+        "due_date": "09.01.1990",
+        "market_reference": 332993,
+        "notes": "re-intermediate impactful deliverables",
+        "number": "7970-3590",
+        "reference": 835138,
+        "vat_no": "qt06923693273"
+    },
+    "payment": {
+        "net_total": 161.88,
+        "total": 877.99
+    },
+    "products": [
+        {
+            "amount": 246.37,
+            "description": "streamline enterprise paradigms",
+            "hours": 1.22,
+            "rate": 2.71
+        },
+        {
+            "amount": 497.29,
+            "description": "implement bricks-and-clicks technologies",
+            "hours": 9.87,
+            "rate": 7.59
+        },
+        {
+            "amount": 138.31,
+            "description": "strategize value-added infrastructures",
+            "hours": 4.67,
+            "rate": 8.82
+        },
+        {
+            "amount": 22.92,
+            "description": "repurpose plug-and-play deliverables",
+            "hours": 7.66,
+            "rate": 4.15
+        },
+        {
+            "amount": 344.68,
+            "description": "re-contextualize seamless architectures",
+            "hours": 4.76,
+            "rate": 4.97
+        },
+        {
+            "amount": 154.24,
+            "description": "transition scalable markets",
+            "hours": 1.31,
+            "rate": 3.04
+        },
+        {
+            "amount": 82.58,
+            "description": "deploy 24/365 systems",
+            "hours": 7.54,
+            "rate": 7.38
+        }
+    ],
+    "seller": {
+        "address": "9883 Blair Centers Nicolebury, PA 66035",
+        "email": "patricia05@example.org",
+        "name": "Jocelyn Fisher"
+    },
+    "tax": {
+        "base": 12.68,
+        "tax_amount": 14.93,
+        "total_tax": 28.88
+    }
+}

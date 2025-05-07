@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "63152 Rose Greens Fostertown, TN 05083",
+        "id": "Hr277"
+    },
+    "invoice": {
+        "bc_no": "wm48472",
+        "currency_code": "IDR",
+        "date": "27.04.1995",
+        "due_date": "14.11.2004",
+        "number": 491514
+    },
+    "payment": {
+        "bank_name": "Conley, Robles and Jackson",
+        "bic": "DDBTGB5P2F6",
+        "iban": "DYHQ86372133393427"
+    },
+    "products": [
+        {
+            "amount": 63.3,
+            "description": "disintermediate seamless networks",
+            "index": "1",
+            "price": 311.18,
+            "quantity": 3.13,
+            "tax_amount": 46.76,
+            "total_ttc": 494.49,
+            "vat_amount": 1.68
+        },
+        {
+            "amount": 253.04,
+            "description": "innovate viral metrics",
+            "index": "8",
+            "price": 228.31,
+            "quantity": 1.04,
+            "tax_amount": 71.93,
+            "total_ttc": 476.43,
+            "vat_amount": 2.24
+        },
+        {
+            "amount": 302.71,
+            "description": "deliver synergistic models",
+            "index": "6",
+            "price": 31.96,
+            "quantity": 5.91,
+            "tax_amount": 86.55,
+            "total_ttc": 156.16,
+            "vat_amount": 8.82
+        },
+        {
+            "amount": 13.4,
+            "description": "seize clicks-and-mortar infrastructures",
+            "index": "1",
+            "price": 413.81,
+            "quantity": 9.27,
+            "tax_amount": 14.07,
+            "total_ttc": 489.48,
+            "vat_amount": 7.24
+        },
+        {
+            "amount": 253.41,
+            "description": "incentivize clicks-and-mortar applications",
+            "index": "3",
+            "price": 245.79,
+            "quantity": 3.73,
+            "tax_amount": 23.77,
+            "total_ttc": 177.4,
+            "vat_amount": 11.91
+        },
+        {
+            "amount": 87.05,
+            "description": "strategize strategic mindshare",
+            "index": "5",
+            "price": 218.52,
+            "quantity": 3.1,
+            "tax_amount": 72.94,
+            "total_ttc": 434.32,
+            "vat_amount": 13.41
+        }
+    ],
+    "seller": {
+        "name": "Craig Owens"
+    },
+    "supplier": {
+        "address": "18254 Mary Union North Jonathan, NV 31498",
+        "name": "Rebecca Powell"
+    },
+    "tax": {
+        "amount_excluding_tax": 119.46,
+        "amount_including_tax": 54.65,
+        "tax_amount": 26.64,
+        "total_ht": 436.16,
+        "total_ttc": 254.68
+    }
+}

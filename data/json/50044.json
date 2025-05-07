@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "725 Nicole Run Apt. 613 Griffinport, LA 33444",
+        "id": "iy950"
+    },
+    "invoice": {
+        "bc_no": "Ip71806",
+        "currency_code": "GEL",
+        "date": "11.07.2009",
+        "due_date": "18.06.2019",
+        "number": 411928
+    },
+    "payment": {
+        "bank_name": "Richardson and Sons",
+        "bic": "QZCDGBIZNBQ",
+        "iban": "RVKI21091280088059"
+    },
+    "products": [
+        {
+            "amount": 185.36,
+            "description": "repurpose back-end bandwidth",
+            "index": "3",
+            "price": 267.74,
+            "quantity": 6.15,
+            "tax_amount": 56.04,
+            "total_ttc": 178.56,
+            "vat_amount": 4.1
+        },
+        {
+            "amount": 16.72,
+            "description": "scale leading-edge models",
+            "index": "2",
+            "price": 438.4,
+            "quantity": 6.95,
+            "tax_amount": 40.65,
+            "total_ttc": 422.4,
+            "vat_amount": 0.87
+        },
+        {
+            "amount": 139.75,
+            "description": "harness revolutionary deliverables",
+            "index": "1",
+            "price": 366.2,
+            "quantity": 6.78,
+            "tax_amount": 16.36,
+            "total_ttc": 192.5,
+            "vat_amount": 0.99
+        },
+        {
+            "amount": 480.17,
+            "description": "generate cross-platform networks",
+            "index": "4",
+            "price": 486.09,
+            "quantity": 7.62,
+            "tax_amount": 34.17,
+            "total_ttc": 481.56,
+            "vat_amount": 5.41
+        },
+        {
+            "amount": 268.62,
+            "description": "transform real-time web services",
+            "index": "5",
+            "price": 472.94,
+            "quantity": 1.43,
+            "tax_amount": 98.64,
+            "total_ttc": 369.73,
+            "vat_amount": 2.75
+        }
+    ],
+    "seller": {
+        "name": "Dr. Kristine Ford"
+    },
+    "supplier": {
+        "address": "04921 Daniel Manor New Jason, OR 39798",
+        "name": "Angelica Lopez"
+    },
+    "tax": {
+        "amount_excluding_tax": 51.48,
+        "amount_including_tax": 119.36,
+        "tax_amount": 19.84,
+        "total_ht": 200.3,
+        "total_ttc": 228.41
+    }
+}

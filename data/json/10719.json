@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "8459 Willis Gateway Apt. 136 North Brittanyberg, MS 19035",
+        "email": "barbara44@example.com",
+        "phone": "001-387-508-2030x13986",
+        "vat_no": "Xx33019838510"
+    },
+    "invoice": {
+        "date": "08.02.2010",
+        "due_date": "25.05.2000",
+        "market_reference": 432710,
+        "notes": "deliver B2C paradigms",
+        "number": "1742-8887",
+        "reference": 791657,
+        "vat_no": "pE21812069271"
+    },
+    "payment": {
+        "net_total": 89.39,
+        "total": 445.51
+    },
+    "products": [
+        {
+            "amount": 392.71,
+            "description": "facilitate end-to-end channels",
+            "hours": 3.77,
+            "rate": 8.21
+        },
+        {
+            "amount": 438.34,
+            "description": "grow efficient action-items",
+            "hours": 5.5,
+            "rate": 9.03
+        },
+        {
+            "amount": 466.68,
+            "description": "embrace magnetic convergence",
+            "hours": 2.72,
+            "rate": 7.21
+        },
+        {
+            "amount": 24.16,
+            "description": "innovate seamless users",
+            "hours": 1.59,
+            "rate": 5.75
+        },
+        {
+            "amount": 404.26,
+            "description": "grow web-enabled relationships",
+            "hours": 1.06,
+            "rate": 5.34
+        },
+        {
+            "amount": 444.97,
+            "description": "leverage cross-media platforms",
+            "hours": 2.26,
+            "rate": 9.74
+        }
+    ],
+    "seller": {
+        "address": "5561 Adams Village Robertsonside, FL 94284",
+        "email": "burgessmichael@example.net",
+        "name": "Jill Nichols"
+    },
+    "tax": {
+        "base": 17.93,
+        "tax_amount": 15.64,
+        "total_tax": 15.7
+    }
+}

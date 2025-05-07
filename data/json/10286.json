@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "611 Austin Mount Suite 185 Stephaniefurt, MN 04758",
+        "email": "cynthia31@example.org",
+        "phone": "574-759-3289",
+        "vat_no": "LX33932311657"
+    },
+    "invoice": {
+        "date": "25.07.2006",
+        "due_date": "27.10.2017",
+        "market_reference": 829313,
+        "notes": "grow holistic deliverables",
+        "number": "4452-8871",
+        "reference": 228277,
+        "vat_no": "tC10453936175"
+    },
+    "payment": {
+        "net_total": 149.6,
+        "total": 842.2
+    },
+    "products": [
+        {
+            "amount": 331.98,
+            "description": "monetize compelling supply-chains",
+            "hours": 2.33,
+            "rate": 9.08
+        },
+        {
+            "amount": 453.66,
+            "description": "revolutionize intuitive eyeballs",
+            "hours": 3.73,
+            "rate": 7.71
+        }
+    ],
+    "seller": {
+        "address": "844 Mcintyre Views Apt. 907 Colemanport, MN 36543",
+        "email": "cochranlisa@example.org",
+        "name": "Michael Moore"
+    },
+    "tax": {
+        "base": 19.17,
+        "tax_amount": 14.74,
+        "total_tax": 26.64
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "2311 Sean Mall Apt. 609 East Julieshire, NE 80110",
+        "company_name": "Strickland-Pham",
+        "email": "michael56@example.com",
+        "name": "Ricky Ford",
+        "phone": "(441)943-4223"
+    },
+    "invoice": {
+        "date": "24.09.2007",
+        "due_date": "15.05.2009",
+        "number": "SEC03979048092"
+    },
+    "payment": {
+        "account_number": 2039588497,
+        "bank_name": "Blair Ltd",
+        "routing_number": 343349109
+    },
+    "products": [
+        {
+            "amount": 108.48,
+            "description": "transform interactive web-readiness",
+            "index": "9",
+            "quantity": 7.19,
+            "unit_price": 41.34
+        },
+        {
+            "amount": 361.99,
+            "description": "re-contextualize customized markets",
+            "index": "5",
+            "quantity": 9.13,
+            "unit_price": 34.3
+        },
+        {
+            "amount": 115.1,
+            "description": "implement out-of-the-box interfaces",
+            "index": "9",
+            "quantity": 3.74,
+            "unit_price": 15.13
+        }
+    ],
+    "seller": {
+        "address": "8857 Maurice Key Suite 986 New Melissaville, ID 07253",
+        "company_name": "Spencer, Russell and Nelson",
+        "email": "nwaller@example.net"
+    }
+}

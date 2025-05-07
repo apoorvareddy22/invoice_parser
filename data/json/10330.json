@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "766 Schneider Dale Suite 331 West Charles, VA 83695",
+        "email": "devinbush@example.net",
+        "phone": "369-799-9792x51170",
+        "vat_no": "JW02014693430"
+    },
+    "invoice": {
+        "date": "25.03.2010",
+        "due_date": "24.02.2019",
+        "market_reference": 521893,
+        "notes": "aggregate dot-com experiences",
+        "number": "8082-3596",
+        "reference": 815853,
+        "vat_no": "Ru18369753739"
+    },
+    "payment": {
+        "net_total": 101.03,
+        "total": 187.51
+    },
+    "products": [
+        {
+            "amount": 188.49,
+            "description": "aggregate front-end applications",
+            "hours": 5.34,
+            "rate": 9.62
+        },
+        {
+            "amount": 179.38,
+            "description": "architect wireless initiatives",
+            "hours": 9.98,
+            "rate": 8.23
+        },
+        {
+            "amount": 215.88,
+            "description": "extend killer technologies",
+            "hours": 3.48,
+            "rate": 2.21
+        }
+    ],
+    "seller": {
+        "address": "USCGC Martin FPO AP 69427",
+        "email": "fullerrobert@example.net",
+        "name": "Lori Romero"
+    },
+    "tax": {
+        "base": 24.38,
+        "tax_amount": 20.61,
+        "total_tax": 22.97
+    }
+}

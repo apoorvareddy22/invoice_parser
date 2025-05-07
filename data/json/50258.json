@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "28795 Waters Knolls South Nathaniel, OK 34359",
+        "id": "bR153"
+    },
+    "invoice": {
+        "bc_no": "eL96802",
+        "currency_code": "KYD",
+        "date": "11.10.2012",
+        "due_date": "09.04.2007",
+        "number": 817519
+    },
+    "payment": {
+        "bank_name": "Cooper, Park and Wright",
+        "bic": "DNCPGBPM",
+        "iban": "ACAD57887066315843"
+    },
+    "products": [
+        {
+            "amount": 453.24,
+            "description": "enhance transparent partnerships",
+            "index": "9",
+            "price": 46.54,
+            "quantity": 8.14,
+            "tax_amount": 57.05,
+            "total_ttc": 226.28,
+            "vat_amount": 5.42
+        },
+        {
+            "amount": 66.71,
+            "description": "expedite ubiquitous e-commerce",
+            "index": "9",
+            "price": 388.39,
+            "quantity": 3.01,
+            "tax_amount": 19.98,
+            "total_ttc": 411.92,
+            "vat_amount": 2.89
+        },
+        {
+            "amount": 207.24,
+            "description": "enable cross-media convergence",
+            "index": "7",
+            "price": 498.66,
+            "quantity": 8.94,
+            "tax_amount": 65.67,
+            "total_ttc": 389.35,
+            "vat_amount": 2.19
+        },
+        {
+            "amount": 337.91,
+            "description": "seize virtual paradigms",
+            "index": "1",
+            "price": 159.2,
+            "quantity": 3.62,
+            "tax_amount": 52.47,
+            "total_ttc": 418.29,
+            "vat_amount": 1.36
+        }
+    ],
+    "seller": {
+        "name": "Alicia Taylor"
+    },
+    "supplier": {
+        "address": "8238 Robert Point Suite 473 North Peggy, PR 45312",
+        "name": "Christopher Perry"
+    },
+    "tax": {
+        "amount_excluding_tax": 85.94,
+        "amount_including_tax": 87.48,
+        "tax_amount": 22.02,
+        "total_ht": 235.51,
+        "total_ttc": 191.92
+    }
+}

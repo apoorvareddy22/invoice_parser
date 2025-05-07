@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "003 Hodge Ranch Lake Thomaschester, IL 01362",
+        "email": "qweber@example.com",
+        "phone": "906-531-0328",
+        "vat_no": "KS28210001848"
+    },
+    "invoice": {
+        "date": "19.06.1999",
+        "due_date": "22.04.2008",
+        "market_reference": 139545,
+        "notes": "envisioneer frictionless info-mediaries",
+        "number": "9516-2168",
+        "reference": 336827,
+        "vat_no": "SL73734117775"
+    },
+    "payment": {
+        "net_total": 48.74,
+        "total": 557.2
+    },
+    "products": [
+        {
+            "amount": 63.71,
+            "description": "empower one-to-one vortals",
+            "hours": 4.26,
+            "rate": 6.69
+        }
+    ],
+    "seller": {
+        "address": "73521 Deanna Summit Suite 567 Mercadoton, HI 63214",
+        "email": "mwelch@example.net",
+        "name": "Cheryl Santana"
+    },
+    "tax": {
+        "base": 28.77,
+        "tax_amount": 19.92,
+        "total_tax": 21.05
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "4683 Cody Streets Cameronchester, LA 73004",
+        "email": "joshua41@example.com",
+        "phone": "2535489839",
+        "vat_no": "EY06789354170"
+    },
+    "invoice": {
+        "date": "01.08.2003",
+        "due_date": "08.11.2002",
+        "market_reference": 728292,
+        "notes": "revolutionize sticky deliverables",
+        "number": "6621-9249",
+        "reference": 775478,
+        "vat_no": "kn04211737710"
+    },
+    "payment": {
+        "net_total": 50.86,
+        "total": 197.67
+    },
+    "products": [
+        {
+            "amount": 410.07,
+            "description": "facilitate scalable portals",
+            "hours": 4.97,
+            "rate": 8.17
+        },
+        {
+            "amount": 276.19,
+            "description": "empower dot-com relationships",
+            "hours": 5.51,
+            "rate": 6.71
+        },
+        {
+            "amount": 410.49,
+            "description": "embrace frictionless mindshare",
+            "hours": 8.43,
+            "rate": 4.09
+        },
+        {
+            "amount": 474.02,
+            "description": "leverage web-enabled initiatives",
+            "hours": 5.5,
+            "rate": 4.11
+        },
+        {
+            "amount": 422.46,
+            "description": "transform dot-com systems",
+            "hours": 4.37,
+            "rate": 6.65
+        }
+    ],
+    "seller": {
+        "address": "1514 Johnson Fords Suite 393 Matthewfort, AR 31735",
+        "email": "perezamy@example.com",
+        "name": "James Griffin"
+    },
+    "tax": {
+        "base": 28.24,
+        "tax_amount": 16.47,
+        "total_tax": 11.74
+    }
+}

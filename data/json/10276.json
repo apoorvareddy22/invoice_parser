@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "21977 Gonzalez Row East Kathrynton, FL 37069",
+        "email": "gregorychandler@example.org",
+        "phone": "(805)203-2239x08801",
+        "vat_no": "Yj49178523508"
+    },
+    "invoice": {
+        "date": "07.12.2006",
+        "due_date": "19.06.2013",
+        "market_reference": 293234,
+        "notes": "envisioneer bricks-and-clicks eyeballs",
+        "number": "8992-5559",
+        "reference": 514601,
+        "vat_no": "Zv77158227131"
+    },
+    "payment": {
+        "net_total": 152.26,
+        "total": 627.92
+    },
+    "products": [
+        {
+            "amount": 339.58,
+            "description": "revolutionize innovative metrics",
+            "hours": 3.88,
+            "rate": 2.16
+        },
+        {
+            "amount": 473.68,
+            "description": "strategize holistic networks",
+            "hours": 9.65,
+            "rate": 1.26
+        },
+        {
+            "amount": 417.75,
+            "description": "strategize transparent e-markets",
+            "hours": 7.64,
+            "rate": 6.8
+        },
+        {
+            "amount": 9.04,
+            "description": "deliver e-business infrastructures",
+            "hours": 4.17,
+            "rate": 2.27
+        },
+        {
+            "amount": 270.05,
+            "description": "target e-business schemas",
+            "hours": 4.07,
+            "rate": 1.32
+        }
+    ],
+    "seller": {
+        "address": "133 Matthew Mill Suite 342 Paynefurt, WA 16220",
+        "email": "ydonovan@example.com",
+        "name": "Deborah Smith"
+    },
+    "tax": {
+        "base": 29.81,
+        "tax_amount": 13.12,
+        "total_tax": 22.5
+    }
+}

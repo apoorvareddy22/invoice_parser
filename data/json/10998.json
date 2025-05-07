@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "67827 Kristina Turnpike Williebury, SD 20542",
+        "email": "johnjones@example.net",
+        "phone": "(398)991-0488",
+        "vat_no": "cb51562797263"
+    },
+    "invoice": {
+        "date": "13.03.2007",
+        "due_date": "14.12.2021",
+        "market_reference": 246979,
+        "notes": "optimize cutting-edge schemas",
+        "number": "8090-0028",
+        "reference": 660191,
+        "vat_no": "uu20207932711"
+    },
+    "payment": {
+        "net_total": 70.92,
+        "total": 814.34
+    },
+    "products": [
+        {
+            "amount": 73.93,
+            "description": "unleash seamless infrastructures",
+            "hours": 1.67,
+            "rate": 8.14
+        },
+        {
+            "amount": 353.58,
+            "description": "re-intermediate cross-media niches",
+            "hours": 5.29,
+            "rate": 3.5
+        },
+        {
+            "amount": 248.1,
+            "description": "iterate bleeding-edge relationships",
+            "hours": 6.54,
+            "rate": 2.88
+        }
+    ],
+    "seller": {
+        "address": "USS Benson FPO AE 20496",
+        "email": "joshua90@example.net",
+        "name": "Heather Jones"
+    },
+    "tax": {
+        "base": 13.69,
+        "tax_amount": 18.23,
+        "total_tax": 29.45
+    }
+}

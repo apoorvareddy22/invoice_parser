@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "37431 Rachel Landing Perryside, NJ 18514",
+        "email": "kathyyates@example.net",
+        "phone": "(264)975-8811",
+        "vat_no": "kv93226005329"
+    },
+    "invoice": {
+        "date": "14.05.1992",
+        "due_date": "29.04.2012",
+        "market_reference": 550964,
+        "notes": "scale B2C models",
+        "number": "9406-9567",
+        "reference": 404651,
+        "vat_no": "rP26902801290"
+    },
+    "payment": {
+        "net_total": 107.22,
+        "total": 100.89
+    },
+    "products": [
+        {
+            "amount": 298.58,
+            "description": "productize real-time technologies",
+            "hours": 1.14,
+            "rate": 7.74
+        },
+        {
+            "amount": 275.27,
+            "description": "unleash rich communities",
+            "hours": 1.11,
+            "rate": 3.71
+        },
+        {
+            "amount": 56.11,
+            "description": "target viral action-items",
+            "hours": 7.15,
+            "rate": 6.38
+        },
+        {
+            "amount": 403.87,
+            "description": "architect cross-media solutions",
+            "hours": 8.98,
+            "rate": 7.48
+        },
+        {
+            "amount": 116.96,
+            "description": "seize magnetic portals",
+            "hours": 8.2,
+            "rate": 9.86
+        },
+        {
+            "amount": 291.65,
+            "description": "morph seamless networks",
+            "hours": 8.35,
+            "rate": 9.33
+        }
+    ],
+    "seller": {
+        "address": "8889 Daniel Turnpike Mccoyville, UT 58354",
+        "email": "jenniferkelley@example.com",
+        "name": "William Small"
+    },
+    "tax": {
+        "base": 20.88,
+        "tax_amount": 15.4,
+        "total_tax": 12.01
+    }
+}

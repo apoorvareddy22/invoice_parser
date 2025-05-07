@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "70561 Levine Route South Stephanie, KY 67280",
+        "company_name": "Joseph Ltd",
+        "country": "Uzbekistan",
+        "name": "Matthew Watts"
+    },
+    "invoice": {
+        "date": "22.03.1995",
+        "number": 175008
+    },
+    "payment": {
+        "discount_amount": 27.39,
+        "discount_percentage": 12.58,
+        "due": 108.83,
+        "sub_total": 151.8,
+        "total": 578.03
+    },
+    "products": [
+        {
+            "description": "implement cross-media eyeballs",
+            "index": "2",
+            "quantity": 1.12,
+            "total_price": 302.33,
+            "unit_price": 45.58
+        },
+        {
+            "description": "implement cutting-edge interfaces",
+            "index": "1",
+            "quantity": 2.87,
+            "total_price": 551.46,
+            "unit_price": 29.69
+        }
+    ],
+    "seller": {
+        "address": "178 Amber Fields Paulview, AL 37507",
+        "company_name": "Curtis, Terry and Allen",
+        "vat_no": "GX46828813073"
+    }
+}

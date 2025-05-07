@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "9135 Johnson Mountain Suite 843 New David, NH 13600",
+        "company_name": "Cruz Ltd",
+        "country": "Suriname",
+        "name": "Kimberly Hensley"
+    },
+    "invoice": {
+        "date": "13.10.1998",
+        "number": 234203
+    },
+    "payment": {
+        "discount_amount": 19.16,
+        "discount_percentage": 14.92,
+        "due": 44.43,
+        "sub_total": 56.38,
+        "total": 549.83
+    },
+    "products": [
+        {
+            "description": "transform interactive systems",
+            "index": "8",
+            "quantity": 7.05,
+            "total_price": 17.06,
+            "unit_price": 96.86
+        },
+        {
+            "description": "architect leading-edge supply-chains",
+            "index": "8",
+            "quantity": 3.89,
+            "total_price": 629.59,
+            "unit_price": 58.3
+        }
+    ],
+    "seller": {
+        "address": "7589 Reynolds Island Suite 459 South Brian, MS 91989",
+        "company_name": "Garza LLC",
+        "vat_no": "zH54571275623"
+    }
+}

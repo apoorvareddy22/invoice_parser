@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "8852 Marshall Park South Jamesfurt, ND 93690",
+        "id": "sm811"
+    },
+    "invoice": {
+        "bc_no": "cU00877",
+        "currency_code": "AFN",
+        "date": "23.04.2000",
+        "due_date": "26.11.2020",
+        "number": 286605
+    },
+    "payment": {
+        "bank_name": "Harris, Baker and Mann",
+        "bic": "GAWKGB38",
+        "iban": "VPOO32010331733591"
+    },
+    "products": [
+        {
+            "amount": 314.66,
+            "description": "repurpose next-generation interfaces",
+            "index": "5",
+            "price": 101.25,
+            "quantity": 1.09,
+            "tax_amount": 73.78,
+            "total_ttc": 294.52,
+            "vat_amount": 14.26
+        },
+        {
+            "amount": 210.11,
+            "description": "evolve proactive action-items",
+            "index": "2",
+            "price": 472.23,
+            "quantity": 7.22,
+            "tax_amount": 12.03,
+            "total_ttc": 281.13,
+            "vat_amount": 3.32
+        },
+        {
+            "amount": 218.77,
+            "description": "strategize dot-com schemas",
+            "index": "9",
+            "price": 478.91,
+            "quantity": 2.74,
+            "tax_amount": 91.3,
+            "total_ttc": 250.48,
+            "vat_amount": 11.93
+        },
+        {
+            "amount": 398.69,
+            "description": "re-intermediate back-end portals",
+            "index": "5",
+            "price": 249.44,
+            "quantity": 7.27,
+            "tax_amount": 83.5,
+            "total_ttc": 432.49,
+            "vat_amount": 1.06
+        }
+    ],
+    "seller": {
+        "name": "Melissa Davis"
+    },
+    "supplier": {
+        "address": "PSC 9951, Box 4014 APO AA 83378",
+        "name": "Damon Mullen"
+    },
+    "tax": {
+        "amount_excluding_tax": 102.36,
+        "amount_including_tax": 113.45,
+        "tax_amount": 23.77,
+        "total_ht": 143.1,
+        "total_ttc": 281.97
+    }
+}

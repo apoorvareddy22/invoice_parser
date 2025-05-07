@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "1506 Cowan Inlet Port Georgeberg, SC 98670",
+        "id": "PW510"
+    },
+    "invoice": {
+        "bc_no": "Jf04044",
+        "currency_code": "XDR",
+        "date": "13.02.2017",
+        "due_date": "17.04.2016",
+        "number": 283242
+    },
+    "payment": {
+        "bank_name": "Moore-Garcia",
+        "bic": "EFJBGB40LWD",
+        "iban": "MKPG67578039246930"
+    },
+    "products": [
+        {
+            "amount": 26.06,
+            "description": "re-intermediate user-centric metrics",
+            "index": "7",
+            "price": 453.38,
+            "quantity": 2.8,
+            "tax_amount": 99.73,
+            "total_ttc": 223.23,
+            "vat_amount": 0.79
+        },
+        {
+            "amount": 334.91,
+            "description": "envisioneer mission-critical schemas",
+            "index": "3",
+            "price": 180.82,
+            "quantity": 5.42,
+            "tax_amount": 77.57,
+            "total_ttc": 185.57,
+            "vat_amount": 12.23
+        },
+        {
+            "amount": 409.48,
+            "description": "integrate ubiquitous metrics",
+            "index": "2",
+            "price": 363.45,
+            "quantity": 9.71,
+            "tax_amount": 95.32,
+            "total_ttc": 483.81,
+            "vat_amount": 3.85
+        },
+        {
+            "amount": 89.09,
+            "description": "matrix value-added e-tailers",
+            "index": "10",
+            "price": 72.74,
+            "quantity": 4.96,
+            "tax_amount": 72.45,
+            "total_ttc": 292.86,
+            "vat_amount": 12.07
+        },
+        {
+            "amount": 436.01,
+            "description": "visualize bleeding-edge paradigms",
+            "index": "8",
+            "price": 116.48,
+            "quantity": 8.72,
+            "tax_amount": 45.92,
+            "total_ttc": 141.98,
+            "vat_amount": 0.65
+        }
+    ],
+    "seller": {
+        "name": "David Norton"
+    },
+    "supplier": {
+        "address": "145 Ochoa Ridges Suite 248 West Kevin, NJ 99606",
+        "name": "Jennifer Richardson"
+    },
+    "tax": {
+        "amount_excluding_tax": 174.25,
+        "amount_including_tax": 59.17,
+        "tax_amount": 15.1,
+        "total_ht": 338.35,
+        "total_ttc": 362.43
+    }
+}

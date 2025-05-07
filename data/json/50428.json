@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "Unit 8808 Box 2629 DPO AE 40735",
+        "id": "Zr419"
+    },
+    "invoice": {
+        "bc_no": "av20619",
+        "currency_code": "LTL",
+        "date": "14.11.2001",
+        "due_date": "09.08.2007",
+        "number": 662042
+    },
+    "payment": {
+        "bank_name": "Edwards Group",
+        "bic": "KVHWGBCX",
+        "iban": "BIXG46737537889585"
+    },
+    "products": [
+        {
+            "amount": 208.87,
+            "description": "drive B2B experiences",
+            "index": "10",
+            "price": 413.02,
+            "quantity": 4.2,
+            "tax_amount": 67.53,
+            "total_ttc": 121.15,
+            "vat_amount": 16.2
+        }
+    ],
+    "seller": {
+        "name": "Riley Andrews"
+    },
+    "supplier": {
+        "address": "468 Parker Hill Hudsonport, GU 22638",
+        "name": "Jeffrey Myers"
+    },
+    "tax": {
+        "amount_excluding_tax": 128.31,
+        "amount_including_tax": 19.41,
+        "tax_amount": 10.86,
+        "total_ht": 141.97,
+        "total_ttc": 468.43
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "092 Patricia Hills Apt. 397 Kennedychester, MT 87793",
+        "id": "XX381"
+    },
+    "invoice": {
+        "bc_no": "xU18561",
+        "currency_code": "MYR",
+        "date": "14.04.2011",
+        "due_date": "25.08.2020",
+        "number": 757802
+    },
+    "payment": {
+        "bank_name": "Cox, Campbell and Smith",
+        "bic": "YBXYGB0MNX2",
+        "iban": "LUZC45683711439699"
+    },
+    "products": [
+        {
+            "amount": 8.65,
+            "description": "scale scalable technologies",
+            "index": "8",
+            "price": 285.9,
+            "quantity": 6.66,
+            "tax_amount": 21.78,
+            "total_ttc": 303.88,
+            "vat_amount": 2.79
+        },
+        {
+            "amount": 387.24,
+            "description": "redefine virtual convergence",
+            "index": "3",
+            "price": 440.23,
+            "quantity": 4.46,
+            "tax_amount": 24.43,
+            "total_ttc": 110.88,
+            "vat_amount": 4.88
+        },
+        {
+            "amount": 256.09,
+            "description": "visualize next-generation communities",
+            "index": "1",
+            "price": 121.6,
+            "quantity": 7.85,
+            "tax_amount": 20.68,
+            "total_ttc": 186.91,
+            "vat_amount": 1.41
+        },
+        {
+            "amount": 129.63,
+            "description": "iterate intuitive mindshare",
+            "index": "2",
+            "price": 161.28,
+            "quantity": 4.81,
+            "tax_amount": 67.31,
+            "total_ttc": 334.07,
+            "vat_amount": 1.43
+        }
+    ],
+    "seller": {
+        "name": "Mark Yu"
+    },
+    "supplier": {
+        "address": "36566 Fletcher Meadows South Linda, AR 26486",
+        "name": "Michael Beard"
+    },
+    "tax": {
+        "amount_excluding_tax": 84.34,
+        "amount_including_tax": 108.48,
+        "tax_amount": 11.96,
+        "total_ht": 121.98,
+        "total_ttc": 160.2
+    }
+}

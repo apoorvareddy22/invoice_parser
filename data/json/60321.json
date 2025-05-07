@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "4919 James Wall East Scotthaven, TN 27802",
+        "business_no": "FB488",
+        "id": "aC033"
+    },
+    "invoice": {
+        "date": "06.07.2023",
+        "number": "5116-5392"
+    },
+    "payment": {
+        "due_date": "07.08.2021",
+        "total": 460.65
+    },
+    "products": [
+        {
+            "amount": 108.12,
+            "description": "matrix strategic supply-chains",
+            "quantity": 9.41,
+            "reference": "va-264",
+            "unit_price": 44.0
+        },
+        {
+            "amount": 307.37,
+            "description": "revolutionize leading-edge paradigms",
+            "quantity": 2.29,
+            "reference": "ik-753",
+            "unit_price": 29.69
+        },
+        {
+            "amount": 401.26,
+            "description": "empower cross-media communities",
+            "quantity": 9.06,
+            "reference": "oI-811",
+            "unit_price": 63.92
+        },
+        {
+            "amount": 55.88,
+            "description": "innovate viral architectures",
+            "quantity": 9.13,
+            "reference": "YN-808",
+            "unit_price": 73.23
+        }
+    ],
+    "seller": {
+        "address": "6084 Matthew Cove New Tracyville, AL 89788"
+    },
+    "tax": {
+        "base_ht": 343.27,
+        "regulations": 11.32,
+        "total_ht": 104.85,
+        "vat_amount": 84.77,
+        "vat_percentage": 28.49
+    }
+}

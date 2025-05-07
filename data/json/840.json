@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "24146 Christina Park Apt. 173 Lake Sherryville, MD 66519",
+        "company_name": "Miller-Smith",
+        "country": "United States of America",
+        "name": "Roy Richardson"
+    },
+    "invoice": {
+        "date": "26.08.1999",
+        "number": 855807
+    },
+    "payment": {
+        "discount_amount": 43.76,
+        "discount_percentage": 10.98,
+        "due": 68.51,
+        "sub_total": 198.58,
+        "total": 790.5
+    },
+    "products": [
+        {
+            "description": "re-intermediate front-end paradigms",
+            "index": "4",
+            "quantity": 8.64,
+            "total_price": 517.68,
+            "unit_price": 92.26
+        },
+        {
+            "description": "expedite dot-com info-mediaries",
+            "index": "9",
+            "quantity": 9.18,
+            "total_price": 889.79,
+            "unit_price": 49.8
+        }
+    ],
+    "seller": {
+        "address": "618 Priscilla Pike Julieborough, DE 39007",
+        "company_name": "Silva, Jenkins and Gill",
+        "vat_no": "Qx04997941371"
+    }
+}

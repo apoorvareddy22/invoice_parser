@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "026 Alexander Points Chasemouth, MT 73902",
+        "id": "DE283"
+    },
+    "invoice": {
+        "bc_no": "LH23464",
+        "currency_code": "IDR",
+        "date": "12.12.2021",
+        "due_date": "18.01.2023",
+        "number": 417977
+    },
+    "payment": {
+        "bank_name": "Perry-Brewer",
+        "bic": "DPBNGBQIYQ8",
+        "iban": "CCZN62058841578425"
+    },
+    "products": [
+        {
+            "amount": 56.71,
+            "description": "expedite B2B architectures",
+            "index": "10",
+            "price": 436.01,
+            "quantity": 1.43,
+            "tax_amount": 32.86,
+            "total_ttc": 108.98,
+            "vat_amount": 7.08
+        },
+        {
+            "amount": 60.32,
+            "description": "unleash turn-key solutions",
+            "index": "7",
+            "price": 96.0,
+            "quantity": 7.02,
+            "tax_amount": 52.41,
+            "total_ttc": 480.96,
+            "vat_amount": 4.79
+        }
+    ],
+    "seller": {
+        "name": "Matthew Aguilar"
+    },
+    "supplier": {
+        "address": "315 Samantha Hill Suite 208 Lake Paulamouth, SD 96354",
+        "name": "Monique Bradley"
+    },
+    "tax": {
+        "amount_excluding_tax": 165.46,
+        "amount_including_tax": 102.97,
+        "tax_amount": 19.95,
+        "total_ht": 125.73,
+        "total_ttc": 177.43
+    }
+}

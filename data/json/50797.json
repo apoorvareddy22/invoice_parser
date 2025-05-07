@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "34934 Day Trace Apt. 660 Davisville, GA 05303",
+        "id": "gt006"
+    },
+    "invoice": {
+        "bc_no": "EC59822",
+        "currency_code": "HTG",
+        "date": "03.02.2000",
+        "due_date": "19.01.2023",
+        "number": 167103
+    },
+    "payment": {
+        "bank_name": "Ortiz, Henderson and Olsen",
+        "bic": "KSZWGB62",
+        "iban": "QWPH67856059220443"
+    },
+    "products": [
+        {
+            "amount": 365.91,
+            "description": "enhance out-of-the-box e-commerce",
+            "index": "4",
+            "price": 450.9,
+            "quantity": 3.53,
+            "tax_amount": 18.77,
+            "total_ttc": 214.89,
+            "vat_amount": 13.88
+        },
+        {
+            "amount": 439.18,
+            "description": "morph revolutionary e-business",
+            "index": "8",
+            "price": 241.79,
+            "quantity": 9.18,
+            "tax_amount": 87.97,
+            "total_ttc": 350.38,
+            "vat_amount": 10.65
+        },
+        {
+            "amount": 58.71,
+            "description": "morph distributed platforms",
+            "index": "7",
+            "price": 323.6,
+            "quantity": 5.77,
+            "tax_amount": 86.9,
+            "total_ttc": 366.04,
+            "vat_amount": 5.56
+        },
+        {
+            "amount": 329.61,
+            "description": "embrace cutting-edge e-tailers",
+            "index": "3",
+            "price": 387.29,
+            "quantity": 8.37,
+            "tax_amount": 62.83,
+            "total_ttc": 112.48,
+            "vat_amount": 1.04
+        },
+        {
+            "amount": 170.88,
+            "description": "visualize cutting-edge bandwidth",
+            "index": "2",
+            "price": 236.67,
+            "quantity": 1.09,
+            "tax_amount": 86.18,
+            "total_ttc": 242.69,
+            "vat_amount": 4.54
+        },
+        {
+            "amount": 300.28,
+            "description": "e-enable turn-key web services",
+            "index": "5",
+            "price": 198.95,
+            "quantity": 4.98,
+            "tax_amount": 79.81,
+            "total_ttc": 252.51,
+            "vat_amount": 8.4
+        },
+        {
+            "amount": 234.81,
+            "description": "visualize turn-key applications",
+            "index": "2",
+            "price": 212.8,
+            "quantity": 7.55,
+            "tax_amount": 47.34,
+            "total_ttc": 337.64,
+            "vat_amount": 5.29
+        }
+    ],
+    "seller": {
+        "name": "Kendra Lee"
+    },
+    "supplier": {
+        "address": "8256 Deleon Alley Daltonberg, UT 67546",
+        "name": "Mark Floyd"
+    },
+    "tax": {
+        "amount_excluding_tax": 23.04,
+        "amount_including_tax": 34.92,
+        "tax_amount": 12.59,
+        "total_ht": 295.87,
+        "total_ttc": 136.31
+    }
+}

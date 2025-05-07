@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "5838 Steven Throughway Bakerbury, PW 74557",
+        "company_name": "Nelson Ltd",
+        "country": "Poland",
+        "email": "alyssaolson@example.org",
+        "name": "Diana Wolf",
+        "phone": "382-375-2222x88165",
+        "vat_no": "Sj20283452058"
+    },
+    "invoice": {
+        "date": "23.09.2023",
+        "due_date": "18.10.2006",
+        "linked_invoice": "XO-8404-8635",
+        "notes": "enable plug-and-play content",
+        "number": "eD-2800-7265"
+    },
+    "products": [
+        {
+            "description": "scale back-end functionalities",
+            "discount_percentage": 5.67,
+            "price": 128.35,
+            "quantity": 2.85,
+            "unit_price": 83.19
+        },
+        {
+            "description": "generate proactive markets",
+            "discount_percentage": 17.21,
+            "price": 58.11,
+            "quantity": 7.37,
+            "unit_price": 54.59
+        },
+        {
+            "description": "integrate compelling users",
+            "discount_percentage": 16.35,
+            "price": 28.55,
+            "quantity": 4.34,
+            "unit_price": 39.06
+        }
+    ],
+    "seller": {
+        "address": "38574 Mark View Smithton, RI 63449",
+        "ape": "4164d",
+        "capital": 96156072,
+        "country": "Mayotte",
+        "email": "nicholassaunders@example.net",
+        "name": "Tracy Anthony",
+        "phone_1": "595.921.7949x45706",
+        "phone_2": "857.243.8394",
+        "phone_3": "628-477-1718",
+        "ref_walk": "UgcA5166",
+        "reference": "LU353",
+        "siret": 83679643640254,
+        "vat_no": "Cq25114927628",
+        "website": "http://www.douglas.com/"
+    },
+    "tax": {
+        "amount_0": 14.48,
+        "amount_1": 20.91,
+        "base_0": 27.69,
+        "base_1": 96.09,
+        "total_ht": 158.29,
+        "total_tax": 29.33,
+        "total_ttc": 462.15,
+        "vat_0": 27.55,
+        "vat_1": 12.02
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "0464 Simmons Springs Aliciaberg, IA 73916",
+        "company_name": "Brown, Leon and Richardson",
+        "email": "jaclyn45@example.net",
+        "name": "Richard Moody",
+        "phone": "420-396-1602"
+    },
+    "invoice": {
+        "date": "12.10.1997",
+        "due_date": "16.08.2006",
+        "number": "SRM79006142235"
+    },
+    "payment": {
+        "account_number": 7036690061,
+        "bank_name": "Beck-Gonzales",
+        "routing_number": 950801715
+    },
+    "products": [
+        {
+            "amount": 235.78,
+            "description": "transition end-to-end synergies",
+            "index": "5",
+            "quantity": 6.36,
+            "unit_price": 23.67
+        },
+        {
+            "amount": 396.64,
+            "description": "reinvent seamless e-markets",
+            "index": "2",
+            "quantity": 5.13,
+            "unit_price": 37.95
+        },
+        {
+            "amount": 448.7,
+            "description": "iterate cutting-edge convergence",
+            "index": "3",
+            "quantity": 1.26,
+            "unit_price": 94.01
+        },
+        {
+            "amount": 276.5,
+            "description": "utilize next-generation web services",
+            "index": "9",
+            "quantity": 7.07,
+            "unit_price": 29.87
+        },
+        {
+            "amount": 376.13,
+            "description": "extend wireless schemas",
+            "index": "1",
+            "quantity": 8.39,
+            "unit_price": 21.3
+        }
+    ],
+    "seller": {
+        "address": "38880 Alexandra Manors North Ian, ND 68523",
+        "company_name": "Williams PLC",
+        "email": "gallagherellen@example.net"
+    }
+}

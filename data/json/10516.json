@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "Unit 1000 Box 1515 DPO AP 98520",
+        "email": "heather17@example.net",
+        "phone": "+1-502-369-8846",
+        "vat_no": "zk97605740866"
+    },
+    "invoice": {
+        "date": "02.08.2013",
+        "due_date": "03.06.1996",
+        "market_reference": 363561,
+        "notes": "aggregate B2B users",
+        "number": "1168-9966",
+        "reference": 448848,
+        "vat_no": "hX78947345677"
+    },
+    "payment": {
+        "net_total": 156.08,
+        "total": 796.9
+    },
+    "products": [
+        {
+            "amount": 474.74,
+            "description": "harness integrated architectures",
+            "hours": 4.85,
+            "rate": 5.74
+        },
+        {
+            "amount": 223.83,
+            "description": "innovate transparent vortals",
+            "hours": 4.68,
+            "rate": 9.56
+        },
+        {
+            "amount": 216.33,
+            "description": "strategize best-of-breed niches",
+            "hours": 1.11,
+            "rate": 5.49
+        },
+        {
+            "amount": 395.7,
+            "description": "engineer customized web services",
+            "hours": 6.98,
+            "rate": 3.57
+        },
+        {
+            "amount": 245.69,
+            "description": "deploy turn-key users",
+            "hours": 8.11,
+            "rate": 6.71
+        },
+        {
+            "amount": 224.22,
+            "description": "brand viral infrastructures",
+            "hours": 4.71,
+            "rate": 7.39
+        }
+    ],
+    "seller": {
+        "address": "138 Caroline Rapid Suite 232 Josephfort, OH 08247",
+        "email": "vnichols@example.com",
+        "name": "Malik Snow"
+    },
+    "tax": {
+        "base": 14.49,
+        "tax_amount": 24.38,
+        "total_tax": 15.5
+    }
+}

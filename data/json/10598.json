@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "185 Thomas Corner Lake Leslie, NH 99327",
+        "email": "rebecca72@example.net",
+        "phone": "608.436.3728x9630",
+        "vat_no": "IC27072526977"
+    },
+    "invoice": {
+        "date": "20.03.2002",
+        "due_date": "28.11.2008",
+        "market_reference": 911066,
+        "notes": "transform vertical synergies",
+        "number": "3307-7689",
+        "reference": 468345,
+        "vat_no": "CT93105071502"
+    },
+    "payment": {
+        "net_total": 21.53,
+        "total": 458.06
+    },
+    "products": [
+        {
+            "amount": 443.87,
+            "description": "generate rich experiences",
+            "hours": 3.75,
+            "rate": 5.9
+        },
+        {
+            "amount": 277.5,
+            "description": "envisioneer ubiquitous e-tailers",
+            "hours": 5.63,
+            "rate": 1.68
+        },
+        {
+            "amount": 259.4,
+            "description": "target impactful portals",
+            "hours": 8.06,
+            "rate": 1.21
+        },
+        {
+            "amount": 115.63,
+            "description": "re-intermediate web-enabled architectures",
+            "hours": 5.92,
+            "rate": 6.69
+        }
+    ],
+    "seller": {
+        "address": "1437 Charles Orchard Michelleshire, OK 80504",
+        "email": "jeremybarrett@example.net",
+        "name": "Dr. Matthew Smith"
+    },
+    "tax": {
+        "base": 18.99,
+        "tax_amount": 19.5,
+        "total_tax": 14.63
+    }
+}

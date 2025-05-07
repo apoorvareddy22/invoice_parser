@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "Unit 8950 Box 3942 DPO AP 97556",
+        "id": "MO700"
+    },
+    "invoice": {
+        "bc_no": "GF12088",
+        "currency_code": "MZN",
+        "date": "29.03.2015",
+        "due_date": "12.11.2002",
+        "number": 128488
+    },
+    "payment": {
+        "bank_name": "Johnson-Lee",
+        "bic": "FGNTGBK7I88",
+        "iban": "WKNT76642951798074"
+    },
+    "products": [
+        {
+            "amount": 354.92,
+            "description": "integrate turn-key models",
+            "index": "5",
+            "price": 475.62,
+            "quantity": 7.54,
+            "tax_amount": 56.48,
+            "total_ttc": 118.25,
+            "vat_amount": 1.34
+        },
+        {
+            "amount": 396.81,
+            "description": "maximize leading-edge web services",
+            "index": "10",
+            "price": 29.89,
+            "quantity": 4.53,
+            "tax_amount": 80.78,
+            "total_ttc": 469.96,
+            "vat_amount": 2.18
+        },
+        {
+            "amount": 392.08,
+            "description": "iterate intuitive niches",
+            "index": "10",
+            "price": 382.42,
+            "quantity": 9.91,
+            "tax_amount": 12.24,
+            "total_ttc": 398.88,
+            "vat_amount": 17.5
+        },
+        {
+            "amount": 138.21,
+            "description": "synergize magnetic models",
+            "index": "4",
+            "price": 404.84,
+            "quantity": 2.35,
+            "tax_amount": 91.51,
+            "total_ttc": 428.65,
+            "vat_amount": 9.68
+        },
+        {
+            "amount": 225.65,
+            "description": "incentivize extensible ROI",
+            "index": "2",
+            "price": 319.65,
+            "quantity": 8.77,
+            "tax_amount": 43.21,
+            "total_ttc": 148.41,
+            "vat_amount": 12.44
+        }
+    ],
+    "seller": {
+        "name": "Helen Thomas"
+    },
+    "supplier": {
+        "address": "31185 William Mews Suite 622 Kimhaven, PR 67753",
+        "name": "Wesley Herrera"
+    },
+    "tax": {
+        "amount_excluding_tax": 138.0,
+        "amount_including_tax": 19.85,
+        "tax_amount": 14.63,
+        "total_ht": 404.33,
+        "total_ttc": 385.24
+    }
+}

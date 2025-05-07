@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "USNS Stanton FPO AA 70019",
+        "company_name": "Murphy-Cobb",
+        "country": "Chad",
+        "name": "Justin Smith"
+    },
+    "invoice": {
+        "date": "12.03.2014",
+        "number": 928292
+    },
+    "payment": {
+        "discount_amount": 13.07,
+        "discount_percentage": 10.55,
+        "due": 110.01,
+        "sub_total": 38.07,
+        "total": 765.75
+    },
+    "products": [
+        {
+            "description": "drive dot-com deliverables",
+            "index": "1",
+            "quantity": 1.78,
+            "total_price": 668.18,
+            "unit_price": 71.81
+        },
+        {
+            "description": "integrate cross-media methodologies",
+            "index": "7",
+            "quantity": 3.55,
+            "total_price": 59.11,
+            "unit_price": 18.04
+        }
+    ],
+    "seller": {
+        "address": "38206 Brown Trafficway Suite 246 South Toni, NE 00986",
+        "company_name": "Sosa Inc",
+        "vat_no": "Ua68743461770"
+    }
+}

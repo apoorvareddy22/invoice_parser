@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "5315 Hunter Locks Port Jack, NM 53739",
+        "business_no": "mp195",
+        "id": "zq915"
+    },
+    "invoice": {
+        "date": "07.12.1999",
+        "number": "7837-5789"
+    },
+    "payment": {
+        "due_date": "08.11.2004",
+        "total": 545.28
+    },
+    "products": [
+        {
+            "amount": 252.21,
+            "description": "transform out-of-the-box networks",
+            "quantity": 6.11,
+            "reference": "oC-744",
+            "unit_price": 20.29
+        },
+        {
+            "amount": 174.61,
+            "description": "deliver killer e-services",
+            "quantity": 7.59,
+            "reference": "tI-741",
+            "unit_price": 52.76
+        },
+        {
+            "amount": 92.42,
+            "description": "generate next-generation partnerships",
+            "quantity": 1.5,
+            "reference": "vJ-866",
+            "unit_price": 94.13
+        },
+        {
+            "amount": 133.55,
+            "description": "visualize holistic partnerships",
+            "quantity": 8.18,
+            "reference": "Ye-566",
+            "unit_price": 96.21
+        }
+    ],
+    "seller": {
+        "address": "811 Sanders Gardens Apt. 198 Coxshire, GU 59517"
+    },
+    "tax": {
+        "base_ht": 342.98,
+        "regulations": 17.96,
+        "total_ht": 362.58,
+        "vat_amount": 110.25,
+        "vat_percentage": 19.85
+    }
+}

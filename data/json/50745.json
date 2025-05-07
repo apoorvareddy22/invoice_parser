@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "5535 Amanda Road Thomasberg, NH 72557",
+        "id": "zQ076"
+    },
+    "invoice": {
+        "bc_no": "lQ32930",
+        "currency_code": "CNY",
+        "date": "04.11.2002",
+        "due_date": "19.06.2004",
+        "number": 339104
+    },
+    "payment": {
+        "bank_name": "Meyer-Carpenter",
+        "bic": "AYTTGBMH",
+        "iban": "AIWH25193672833111"
+    },
+    "products": [
+        {
+            "amount": 376.9,
+            "description": "disintermediate next-generation info-mediaries",
+            "index": "2",
+            "price": 473.29,
+            "quantity": 4.11,
+            "tax_amount": 30.84,
+            "total_ttc": 120.9,
+            "vat_amount": 2.34
+        },
+        {
+            "amount": 121.15,
+            "description": "productize plug-and-play synergies",
+            "index": "6",
+            "price": 202.66,
+            "quantity": 6.62,
+            "tax_amount": 43.53,
+            "total_ttc": 355.14,
+            "vat_amount": 5.35
+        },
+        {
+            "amount": 20.3,
+            "description": "monetize wireless niches",
+            "index": "3",
+            "price": 83.75,
+            "quantity": 5.55,
+            "tax_amount": 86.7,
+            "total_ttc": 441.34,
+            "vat_amount": 0.3
+        },
+        {
+            "amount": 321.56,
+            "description": "evolve cross-platform vortals",
+            "index": "10",
+            "price": 225.29,
+            "quantity": 5.9,
+            "tax_amount": 39.55,
+            "total_ttc": 328.02,
+            "vat_amount": 3.71
+        },
+        {
+            "amount": 132.12,
+            "description": "enhance seamless relationships",
+            "index": "4",
+            "price": 475.19,
+            "quantity": 8.85,
+            "tax_amount": 58.0,
+            "total_ttc": 252.37,
+            "vat_amount": 4.36
+        },
+        {
+            "amount": 111.03,
+            "description": "reinvent plug-and-play vortals",
+            "index": "8",
+            "price": 309.96,
+            "quantity": 9.81,
+            "tax_amount": 42.79,
+            "total_ttc": 295.37,
+            "vat_amount": 0.51
+        }
+    ],
+    "seller": {
+        "name": "Judy Horton"
+    },
+    "supplier": {
+        "address": "17427 Pena Path Ryanview, MP 44398",
+        "name": "Craig Marshall"
+    },
+    "tax": {
+        "amount_excluding_tax": 52.1,
+        "amount_including_tax": 65.55,
+        "tax_amount": 15.39,
+        "total_ht": 129.51,
+        "total_ttc": 469.34
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "39807 Hall Way Apt. 283 Joneston, CO 63296"
+    },
+    "invoice": {
+        "bc_no": "Ee78654",
+        "date": "25.08.2009",
+        "maturity_date": "04.11.2019",
+        "number": 507007
+    },
+    "products": [
+        {
+            "amount": 262.79,
+            "description": "reinvent ubiquitous systems",
+            "quantity": 4.56,
+            "unit_price": 87.31,
+            "vat_amount": 14.53
+        }
+    ],
+    "seller": {
+        "address": "390 Maynard Overpass Apt. 977 Tracyfurt, IA 29942"
+    },
+    "tax": {
+        "amount_excluding_tax": 100.16,
+        "amount_including_tax": 42.76,
+        "tax_amount": 22.31
+    }
+}

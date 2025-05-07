@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "71771 Rivera Union Lake Brandonview, MH 15382",
+        "id": "HL829"
+    },
+    "invoice": {
+        "bc_no": "cA70542",
+        "currency_code": "BND",
+        "date": "13.07.2007",
+        "due_date": "09.01.1998",
+        "number": 498468
+    },
+    "payment": {
+        "bank_name": "Delgado-Gibbs",
+        "bic": "QXXVGBAU6C9",
+        "iban": "XWVS26324440186310"
+    },
+    "products": [
+        {
+            "amount": 41.37,
+            "description": "redefine proactive ROI",
+            "index": "8",
+            "price": 249.42,
+            "quantity": 8.73,
+            "tax_amount": 21.47,
+            "total_ttc": 490.35,
+            "vat_amount": 6.48
+        }
+    ],
+    "seller": {
+        "name": "Lisa Cooke"
+    },
+    "supplier": {
+        "address": "16610 Edwards Stream Apt. 666 Hectorton, MH 11777",
+        "name": "Sandra Powers"
+    },
+    "tax": {
+        "amount_excluding_tax": 125.73,
+        "amount_including_tax": 154.53,
+        "tax_amount": 26.25,
+        "total_ht": 163.4,
+        "total_ttc": 174.77
+    }
+}

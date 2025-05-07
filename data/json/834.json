@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "9799 John Turnpike Christopherberg, PR 11634",
+        "company_name": "Weaver, Cannon and Moore",
+        "country": "Monaco",
+        "name": "Kathleen Miles"
+    },
+    "invoice": {
+        "date": "14.08.1993",
+        "number": 112662
+    },
+    "payment": {
+        "discount_amount": 16.6,
+        "discount_percentage": 19.33,
+        "due": 135.31,
+        "sub_total": 91.14,
+        "total": 493.76
+    },
+    "products": [
+        {
+            "description": "incubate best-of-breed experiences",
+            "index": "9",
+            "quantity": 8.3,
+            "total_price": 630.66,
+            "unit_price": 93.78
+        },
+        {
+            "description": "incubate customized users",
+            "index": "1",
+            "quantity": 4.69,
+            "total_price": 360.03,
+            "unit_price": 16.14
+        }
+    ],
+    "seller": {
+        "address": "64202 Elliott Pines Emilyport, VT 72296",
+        "company_name": "Lopez, Decker and Cook",
+        "vat_no": "HS88232564400"
+    }
+}

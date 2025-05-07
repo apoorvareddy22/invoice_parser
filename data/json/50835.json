@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "3592 Fernandez Creek Suite 961 Barbarastad, AZ 29613",
+        "id": "Tu256"
+    },
+    "invoice": {
+        "bc_no": "Vd30457",
+        "currency_code": "JOD",
+        "date": "15.06.2009",
+        "due_date": "01.10.2019",
+        "number": 921677
+    },
+    "payment": {
+        "bank_name": "Ewing, Hernandez and Glenn",
+        "bic": "TEAQGBTK",
+        "iban": "KTLU19644633173327"
+    },
+    "products": [
+        {
+            "amount": 443.56,
+            "description": "engage best-of-breed bandwidth",
+            "index": "9",
+            "price": 255.23,
+            "quantity": 6.34,
+            "tax_amount": 73.15,
+            "total_ttc": 248.23,
+            "vat_amount": 13.9
+        },
+        {
+            "amount": 140.93,
+            "description": "exploit extensible functionalities",
+            "index": "6",
+            "price": 135.59,
+            "quantity": 2.01,
+            "tax_amount": 67.46,
+            "total_ttc": 139.49,
+            "vat_amount": 0.47
+        },
+        {
+            "amount": 360.85,
+            "description": "target leading-edge systems",
+            "index": "9",
+            "price": 492.54,
+            "quantity": 2.02,
+            "tax_amount": 65.44,
+            "total_ttc": 111.24,
+            "vat_amount": 2.47
+        },
+        {
+            "amount": 230.92,
+            "description": "target world-class content",
+            "index": "5",
+            "price": 332.03,
+            "quantity": 7.76,
+            "tax_amount": 68.34,
+            "total_ttc": 287.96,
+            "vat_amount": 9.47
+        },
+        {
+            "amount": 487.83,
+            "description": "target cross-media relationships",
+            "index": "4",
+            "price": 367.88,
+            "quantity": 8.92,
+            "tax_amount": 44.11,
+            "total_ttc": 265.22,
+            "vat_amount": 11.05
+        },
+        {
+            "amount": 246.64,
+            "description": "seize turn-key partnerships",
+            "index": "7",
+            "price": 256.29,
+            "quantity": 7.37,
+            "tax_amount": 59.75,
+            "total_ttc": 196.2,
+            "vat_amount": 7.59
+        }
+    ],
+    "seller": {
+        "name": "Jasmine Brewer"
+    },
+    "supplier": {
+        "address": "693 Michael Mount Jamesville, CO 33460",
+        "name": "Maria Fernandez"
+    },
+    "tax": {
+        "amount_excluding_tax": 118.58,
+        "amount_including_tax": 114.57,
+        "tax_amount": 23.15,
+        "total_ht": 355.23,
+        "total_ttc": 217.63
+    }
+}

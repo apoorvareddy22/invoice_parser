@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "9284 Erik Mount Erneststad, NJ 94594",
+        "company_name": "Holland, Phillips and Jones",
+        "email": "zgreen@example.com",
+        "name": "Mark Wyatt",
+        "phone": "+1-813-669-4204x3153"
+    },
+    "invoice": {
+        "date": "09.06.2023",
+        "due_date": "12.03.2014",
+        "number": "lEI19326626576"
+    },
+    "payment": {
+        "account_number": 7536504562,
+        "bank_name": "Merritt PLC",
+        "routing_number": 891570943
+    },
+    "products": [
+        {
+            "amount": 450.11,
+            "description": "syndicate leading-edge eyeballs",
+            "index": "4",
+            "quantity": 2.22,
+            "unit_price": 94.93
+        },
+        {
+            "amount": 383.68,
+            "description": "redefine robust schemas",
+            "index": "6",
+            "quantity": 8.98,
+            "unit_price": 18.4
+        },
+        {
+            "amount": 292.53,
+            "description": "matrix extensible metrics",
+            "index": "6",
+            "quantity": 2.15,
+            "unit_price": 89.62
+        },
+        {
+            "amount": 325.04,
+            "description": "syndicate 24/7 systems",
+            "index": "1",
+            "quantity": 7.97,
+            "unit_price": 11.41
+        }
+    ],
+    "seller": {
+        "address": "PSC 6913, Box 1378 APO AA 95039",
+        "company_name": "Jacobs, Turner and Marquez",
+        "email": "rodriguezcindy@example.com"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "581 Douglas Parkways Apt. 980 Kevinton, ME 79559",
+        "business_no": "Iz394",
+        "id": "NW902"
+    },
+    "invoice": {
+        "date": "11.02.2019",
+        "number": "3774-2047"
+    },
+    "payment": {
+        "due_date": "14.12.2006",
+        "total": 461.27
+    },
+    "products": [
+        {
+            "amount": 40.98,
+            "description": "innovate mission-critical ROI",
+            "quantity": 6.58,
+            "reference": "kB-844",
+            "unit_price": 45.35
+        },
+        {
+            "amount": 64.34,
+            "description": "brand sticky web services",
+            "quantity": 9.14,
+            "reference": "Cu-607",
+            "unit_price": 26.53
+        },
+        {
+            "amount": 10.31,
+            "description": "streamline one-to-one e-commerce",
+            "quantity": 2.44,
+            "reference": "If-467",
+            "unit_price": 44.21
+        },
+        {
+            "amount": 331.33,
+            "description": "expedite value-added e-commerce",
+            "quantity": 8.35,
+            "reference": "vM-363",
+            "unit_price": 64.32
+        },
+        {
+            "amount": 236.58,
+            "description": "iterate dot-com channels",
+            "quantity": 6.2,
+            "reference": "tK-076",
+            "unit_price": 94.16
+        }
+    ],
+    "seller": {
+        "address": "7495 Collins Corners Greenview, KS 33687"
+    },
+    "tax": {
+        "base_ht": 363.05,
+        "regulations": 14.28,
+        "total_ht": 262.38,
+        "vat_amount": 195.7,
+        "vat_percentage": 19.82
+    }
+}

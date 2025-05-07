@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "Unit 1968 Box 6994 DPO AP 63927"
+    },
+    "invoice": {
+        "bc_no": "ib18279",
+        "date": "02.11.1992",
+        "maturity_date": "20.08.2003",
+        "number": 415173
+    },
+    "products": [
+        {
+            "amount": 178.29,
+            "description": "extend granular e-commerce",
+            "quantity": 4.54,
+            "unit_price": 79.65,
+            "vat_amount": 6.12
+        },
+        {
+            "amount": 435.0,
+            "description": "redefine visionary e-business",
+            "quantity": 3.62,
+            "unit_price": 22.59,
+            "vat_amount": 4.14
+        }
+    ],
+    "seller": {
+        "address": "6407 Watts Passage Apt. 726 Masonton, VT 87918"
+    },
+    "tax": {
+        "amount_excluding_tax": 21.26,
+        "amount_including_tax": 14.64,
+        "tax_amount": 11.25
+    }
+}

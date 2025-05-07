@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "257 Steven Roads East Christopherbury, KY 28357"
+    },
+    "invoice": {
+        "bc_no": "SK40584",
+        "date": "18.12.2023",
+        "maturity_date": "26.05.2014",
+        "number": 624588
+    },
+    "products": [
+        {
+            "amount": 38.58,
+            "description": "engage cross-media niches",
+            "quantity": 4.86,
+            "unit_price": 75.47,
+            "vat_amount": 14.33
+        },
+        {
+            "amount": 169.3,
+            "description": "syndicate mission-critical functionalities",
+            "quantity": 9.72,
+            "unit_price": 85.89,
+            "vat_amount": 16.77
+        },
+        {
+            "amount": 354.99,
+            "description": "iterate seamless e-business",
+            "quantity": 1.04,
+            "unit_price": 23.72,
+            "vat_amount": 3.64
+        }
+    ],
+    "seller": {
+        "address": "172 Daniel Course West Bill, VT 82738"
+    },
+    "tax": {
+        "amount_excluding_tax": 182.7,
+        "amount_including_tax": 49.06,
+        "tax_amount": 19.32
+    }
+}

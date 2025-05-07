@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "01688 Clark Walk Suite 629 North Kimberly, HI 44183",
+        "email": "chaveznicole@example.com",
+        "phone": "(859)318-9637",
+        "vat_no": "BR72689855718"
+    },
+    "invoice": {
+        "date": "30.12.2001",
+        "due_date": "18.11.1992",
+        "market_reference": 691917,
+        "notes": "deliver customized communities",
+        "number": "7694-9010",
+        "reference": 557451,
+        "vat_no": "oP63359054366"
+    },
+    "payment": {
+        "net_total": 27.44,
+        "total": 178.27
+    },
+    "products": [
+        {
+            "amount": 91.59,
+            "description": "syndicate bricks-and-clicks portals",
+            "hours": 8.95,
+            "rate": 9.15
+        },
+        {
+            "amount": 304.07,
+            "description": "repurpose front-end systems",
+            "hours": 3.05,
+            "rate": 2.05
+        },
+        {
+            "amount": 130.83,
+            "description": "morph plug-and-play functionalities",
+            "hours": 2.47,
+            "rate": 1.5
+        }
+    ],
+    "seller": {
+        "address": "867 Johnson Harbor Lake Cesar, VI 06988",
+        "email": "nathanmartin@example.org",
+        "name": "Tyler Leonard"
+    },
+    "tax": {
+        "base": 29.0,
+        "tax_amount": 15.31,
+        "total_tax": 22.47
+    }
+}

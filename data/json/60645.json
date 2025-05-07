@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "Unit 9147 Box 2372 DPO AA 08599",
+        "business_no": "Os347",
+        "id": "hw214"
+    },
+    "invoice": {
+        "date": "05.06.1997",
+        "number": "3289-7335"
+    },
+    "payment": {
+        "due_date": "10.02.2005",
+        "total": 529.17
+    },
+    "products": [
+        {
+            "amount": 139.1,
+            "description": "re-intermediate virtual users",
+            "quantity": 4.39,
+            "reference": "aQ-311",
+            "unit_price": 99.72
+        },
+        {
+            "amount": 267.16,
+            "description": "brand vertical communities",
+            "quantity": 8.38,
+            "reference": "Ai-430",
+            "unit_price": 42.01
+        },
+        {
+            "amount": 176.52,
+            "description": "facilitate compelling deliverables",
+            "quantity": 3.46,
+            "reference": "Uy-426",
+            "unit_price": 89.32
+        }
+    ],
+    "seller": {
+        "address": "631 Powers Park Suite 498 New Nicholasborough, NC 01297"
+    },
+    "tax": {
+        "base_ht": 126.57,
+        "regulations": 20.06,
+        "total_ht": 406.06,
+        "vat_amount": 67.05,
+        "vat_percentage": 18.56
+    }
+}

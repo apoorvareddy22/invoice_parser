@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "207 Robert Pine Torresport, WV 90720",
+        "id": "bZ317"
+    },
+    "invoice": {
+        "bc_no": "Za59304",
+        "currency_code": "FKP",
+        "date": "28.09.2006",
+        "due_date": "24.01.2017",
+        "number": 502804
+    },
+    "payment": {
+        "bank_name": "Ford, Powell and Green",
+        "bic": "SBKPGB1B",
+        "iban": "AIPG96087879780401"
+    },
+    "products": [
+        {
+            "amount": 9.34,
+            "description": "cultivate extensible portals",
+            "index": "3",
+            "price": 469.87,
+            "quantity": 5.09,
+            "tax_amount": 13.11,
+            "total_ttc": 448.25,
+            "vat_amount": 6.22
+        },
+        {
+            "amount": 207.29,
+            "description": "generate cross-media users",
+            "index": "5",
+            "price": 390.73,
+            "quantity": 7.24,
+            "tax_amount": 62.77,
+            "total_ttc": 387.93,
+            "vat_amount": 0.17
+        },
+        {
+            "amount": 19.94,
+            "description": "facilitate plug-and-play communities",
+            "index": "6",
+            "price": 116.44,
+            "quantity": 1.23,
+            "tax_amount": 44.42,
+            "total_ttc": 276.23,
+            "vat_amount": 11.58
+        }
+    ],
+    "seller": {
+        "name": "Heather Bryan"
+    },
+    "supplier": {
+        "address": "3864 Miller Route Port Cody, AZ 09060",
+        "name": "Caitlin Garcia"
+    },
+    "tax": {
+        "amount_excluding_tax": 142.12,
+        "amount_including_tax": 132.71,
+        "tax_amount": 16.33,
+        "total_ht": 495.7,
+        "total_ttc": 414.05
+    }
+}

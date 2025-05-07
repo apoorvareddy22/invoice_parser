@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "279 Johnson Drive Apt. 225 Jacobfort, SD 16056"
+    },
+    "invoice": {
+        "bc_no": "Jd82177",
+        "date": "21.06.2017",
+        "maturity_date": "02.12.2000",
+        "number": 400305
+    },
+    "products": [
+        {
+            "amount": 60.41,
+            "description": "redefine end-to-end ROI",
+            "quantity": 4.46,
+            "unit_price": 99.53,
+            "vat_amount": 3.66
+        },
+        {
+            "amount": 423.81,
+            "description": "streamline world-class models",
+            "quantity": 7.19,
+            "unit_price": 55.21,
+            "vat_amount": 4.13
+        }
+    ],
+    "seller": {
+        "address": "USS Hughes FPO AE 11225"
+    },
+    "tax": {
+        "amount_excluding_tax": 30.71,
+        "amount_including_tax": 21.42,
+        "tax_amount": 27.82
+    }
+}

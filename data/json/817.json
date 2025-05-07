@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "367 Mary Greens East Allen, MD 82002",
+        "company_name": "Carpenter Group",
+        "country": "Cameroon",
+        "name": "Julie Brennan"
+    },
+    "invoice": {
+        "date": "05.08.1996",
+        "number": 342049
+    },
+    "payment": {
+        "discount_amount": 20.71,
+        "discount_percentage": 7.59,
+        "due": 104.44,
+        "sub_total": 172.42,
+        "total": 728.09
+    },
+    "products": [
+        {
+            "description": "benchmark global e-services",
+            "index": "1",
+            "quantity": 4.31,
+            "total_price": 840.55,
+            "unit_price": 89.22
+        },
+        {
+            "description": "enhance customized convergence",
+            "index": "2",
+            "quantity": 2.73,
+            "total_price": 25.07,
+            "unit_price": 78.5
+        },
+        {
+            "description": "deliver customized bandwidth",
+            "index": "9",
+            "quantity": 2.92,
+            "total_price": 242.61,
+            "unit_price": 89.94
+        },
+        {
+            "description": "exploit revolutionary synergies",
+            "index": "3",
+            "quantity": 6.21,
+            "total_price": 705.67,
+            "unit_price": 95.21
+        },
+        {
+            "description": "envisioneer impactful applications",
+            "index": "3",
+            "quantity": 9.31,
+            "total_price": 725.57,
+            "unit_price": 84.29
+        },
+        {
+            "description": "reinvent mission-critical web services",
+            "index": "8",
+            "quantity": 1.72,
+            "total_price": 39.14,
+            "unit_price": 42.36
+        },
+        {
+            "description": "iterate bricks-and-clicks synergies",
+            "index": "7",
+            "quantity": 3.38,
+            "total_price": 43.59,
+            "unit_price": 22.82
+        }
+    ],
+    "seller": {
+        "address": "62142 Timothy Bypass Apt. 338 West Christina, OR 84564",
+        "company_name": "Davis Inc",
+        "vat_no": "QY85398552170"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "1897 Russell Place Youngton, MA 98491",
+        "business_no": "fr763",
+        "id": "Bx984"
+    },
+    "invoice": {
+        "date": "25.05.2011",
+        "number": "6801-6747"
+    },
+    "payment": {
+        "due_date": "30.11.2022",
+        "total": 985.0
+    },
+    "products": [
+        {
+            "amount": 462.02,
+            "description": "scale e-business schemas",
+            "quantity": 7.56,
+            "reference": "nu-513",
+            "unit_price": 51.62
+        },
+        {
+            "amount": 485.85,
+            "description": "cultivate world-class interfaces",
+            "quantity": 1.89,
+            "reference": "EZ-047",
+            "unit_price": 32.78
+        },
+        {
+            "amount": 35.37,
+            "description": "visualize customized eyeballs",
+            "quantity": 5.3,
+            "reference": "Ez-849",
+            "unit_price": 13.56
+        },
+        {
+            "amount": 272.63,
+            "description": "strategize innovative communities",
+            "quantity": 1.64,
+            "reference": "ti-747",
+            "unit_price": 86.0
+        },
+        {
+            "amount": 226.92,
+            "description": "exploit seamless systems",
+            "quantity": 3.65,
+            "reference": "HQ-659",
+            "unit_price": 66.97
+        }
+    ],
+    "seller": {
+        "address": "407 Anthony Mission Suite 233 Lorettaton, FM 00637"
+    },
+    "tax": {
+        "base_ht": 302.6,
+        "regulations": 12.41,
+        "total_ht": 112.17,
+        "vat_amount": 167.95,
+        "vat_percentage": 13.65
+    }
+}

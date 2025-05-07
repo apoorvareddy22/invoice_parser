@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "012 Sanders Camp Apt. 107 Juanside, HI 46018",
+        "business_no": "kC270",
+        "id": "SO297"
+    },
+    "invoice": {
+        "date": "04.05.1995",
+        "number": "0864-7571"
+    },
+    "payment": {
+        "due_date": "15.09.1990",
+        "total": 952.64
+    },
+    "products": [
+        {
+            "amount": 459.61,
+            "description": "extend back-end supply-chains",
+            "quantity": 2.48,
+            "reference": "ot-582",
+            "unit_price": 50.97
+        },
+        {
+            "amount": 56.82,
+            "description": "facilitate innovative bandwidth",
+            "quantity": 7.17,
+            "reference": "Vu-763",
+            "unit_price": 25.56
+        }
+    ],
+    "seller": {
+        "address": "9891 Maria Mews Suite 291 Johnsonstad, CO 01767"
+    },
+    "tax": {
+        "base_ht": 237.85,
+        "regulations": 15.92,
+        "total_ht": 117.4,
+        "vat_amount": 96.78,
+        "vat_percentage": 15.06
+    }
+}

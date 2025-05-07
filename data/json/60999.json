@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "748 Anderson Gateway Suite 113 Grantburgh, MD 72256",
+        "business_no": "Cs420",
+        "id": "ET928"
+    },
+    "invoice": {
+        "date": "23.04.2000",
+        "number": "6084-7641"
+    },
+    "payment": {
+        "due_date": "15.01.2011",
+        "total": 637.8
+    },
+    "products": [
+        {
+            "amount": 149.75,
+            "description": "scale cross-platform portals",
+            "quantity": 2.61,
+            "reference": "sO-160",
+            "unit_price": 57.62
+        },
+        {
+            "amount": 87.58,
+            "description": "mesh bleeding-edge portals",
+            "quantity": 4.86,
+            "reference": "vO-766",
+            "unit_price": 35.89
+        },
+        {
+            "amount": 364.15,
+            "description": "utilize transparent e-services",
+            "quantity": 8.88,
+            "reference": "vz-727",
+            "unit_price": 70.89
+        },
+        {
+            "amount": 25.81,
+            "description": "architect best-of-breed bandwidth",
+            "quantity": 4.31,
+            "reference": "BB-258",
+            "unit_price": 60.72
+        },
+        {
+            "amount": 202.87,
+            "description": "redefine cutting-edge vortals",
+            "quantity": 4.27,
+            "reference": "sw-951",
+            "unit_price": 77.3
+        },
+        {
+            "amount": 291.97,
+            "description": "exploit one-to-one e-commerce",
+            "quantity": 7.13,
+            "reference": "fg-028",
+            "unit_price": 31.48
+        },
+        {
+            "amount": 270.7,
+            "description": "orchestrate wireless web-readiness",
+            "quantity": 4.79,
+            "reference": "Rj-769",
+            "unit_price": 56.88
+        }
+    ],
+    "seller": {
+        "address": "8305 Valerie Springs Apt. 463 Wrightfurt, NE 16041"
+    },
+    "tax": {
+        "base_ht": 149.14,
+        "regulations": 20.07,
+        "total_ht": 175.47,
+        "vat_amount": 97.32,
+        "vat_percentage": 10.21
+    }
+}

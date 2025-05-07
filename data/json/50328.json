@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "6494 Schwartz Vista Lake Edwinborough, NH 09159",
+        "id": "dy257"
+    },
+    "invoice": {
+        "bc_no": "lu38196",
+        "currency_code": "EGP",
+        "date": "26.02.2002",
+        "due_date": "07.08.2021",
+        "number": 959195
+    },
+    "payment": {
+        "bank_name": "Howell Ltd",
+        "bic": "IWLJGB9V",
+        "iban": "OXJG32396639252265"
+    },
+    "products": [
+        {
+            "amount": 332.41,
+            "description": "whiteboard revolutionary convergence",
+            "index": "8",
+            "price": 485.45,
+            "quantity": 1.29,
+            "tax_amount": 69.35,
+            "total_ttc": 258.28,
+            "vat_amount": 1.56
+        },
+        {
+            "amount": 216.44,
+            "description": "incentivize web-enabled relationships",
+            "index": "3",
+            "price": 189.72,
+            "quantity": 1.62,
+            "tax_amount": 89.29,
+            "total_ttc": 109.83,
+            "vat_amount": 3.51
+        }
+    ],
+    "seller": {
+        "name": "Craig Buchanan"
+    },
+    "supplier": {
+        "address": "USNS Reese FPO AE 06465",
+        "name": "Dr. Jennifer Boyle MD"
+    },
+    "tax": {
+        "amount_excluding_tax": 13.86,
+        "amount_including_tax": 79.93,
+        "tax_amount": 24.85,
+        "total_ht": 380.86,
+        "total_ttc": 453.77
+    }
+}

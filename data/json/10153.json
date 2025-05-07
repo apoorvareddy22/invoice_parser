@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "0439 Singleton Isle Suite 394 Port Brianfort, AL 22642",
+        "email": "maria16@example.org",
+        "phone": "001-314-407-5402",
+        "vat_no": "Mb51015381813"
+    },
+    "invoice": {
+        "date": "21.09.2001",
+        "due_date": "25.03.2010",
+        "market_reference": 489299,
+        "notes": "engage extensible e-services",
+        "number": "2647-7459",
+        "reference": 528781,
+        "vat_no": "Rs20908476275"
+    },
+    "payment": {
+        "net_total": 25.58,
+        "total": 948.57
+    },
+    "products": [
+        {
+            "amount": 274.02,
+            "description": "generate turn-key info-mediaries",
+            "hours": 5.17,
+            "rate": 7.16
+        },
+        {
+            "amount": 15.04,
+            "description": "leverage 24/7 technologies",
+            "hours": 5.17,
+            "rate": 6.02
+        },
+        {
+            "amount": 372.61,
+            "description": "engineer world-class partnerships",
+            "hours": 7.5,
+            "rate": 4.98
+        },
+        {
+            "amount": 362.49,
+            "description": "evolve B2C bandwidth",
+            "hours": 7.33,
+            "rate": 6.41
+        },
+        {
+            "amount": 231.72,
+            "description": "envisioneer user-centric metrics",
+            "hours": 8.17,
+            "rate": 6.75
+        }
+    ],
+    "seller": {
+        "address": "01843 Daniel Ports Suite 195 Lake Amy, PR 42904",
+        "email": "fscott@example.net",
+        "name": "Sean Hart"
+    },
+    "tax": {
+        "base": 10.56,
+        "tax_amount": 27.97,
+        "total_tax": 12.92
+    }
+}

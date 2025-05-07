@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "620 Chelsey Freeway Lake Robert, WV 65257",
+        "business_no": "SO585",
+        "id": "EH959"
+    },
+    "invoice": {
+        "date": "30.12.2015",
+        "number": "9666-0842"
+    },
+    "payment": {
+        "due_date": "16.09.2009",
+        "total": 853.21
+    },
+    "products": [
+        {
+            "amount": 22.42,
+            "description": "whiteboard 24/365 e-business",
+            "quantity": 5.14,
+            "reference": "yN-318",
+            "unit_price": 91.49
+        },
+        {
+            "amount": 395.89,
+            "description": "seize 24/7 initiatives",
+            "quantity": 6.31,
+            "reference": "tF-788",
+            "unit_price": 92.99
+        },
+        {
+            "amount": 354.26,
+            "description": "reinvent out-of-the-box bandwidth",
+            "quantity": 3.89,
+            "reference": "UQ-134",
+            "unit_price": 79.92
+        },
+        {
+            "amount": 481.68,
+            "description": "generate interactive vortals",
+            "quantity": 7.03,
+            "reference": "xv-975",
+            "unit_price": 68.13
+        }
+    ],
+    "seller": {
+        "address": "410 Sheri Tunnel East James, MS 33700"
+    },
+    "tax": {
+        "base_ht": 432.97,
+        "regulations": 28.24,
+        "total_ht": 156.27,
+        "vat_amount": 47.56,
+        "vat_percentage": 17.3
+    }
+}

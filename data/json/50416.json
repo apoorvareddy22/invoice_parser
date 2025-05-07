@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "9533 Stephanie Flat Apt. 697 Dorothyborough, AR 02655",
+        "id": "uP425"
+    },
+    "invoice": {
+        "bc_no": "aM81123",
+        "currency_code": "PHP",
+        "date": "27.08.2005",
+        "due_date": "06.07.1996",
+        "number": 164432
+    },
+    "payment": {
+        "bank_name": "Mercado, Johnson and Lambert",
+        "bic": "JIBEGBB1G4W",
+        "iban": "KQNV31641118344890"
+    },
+    "products": [
+        {
+            "amount": 354.11,
+            "description": "disintermediate virtual vortals",
+            "index": "10",
+            "price": 90.72,
+            "quantity": 5.87,
+            "tax_amount": 26.82,
+            "total_ttc": 326.77,
+            "vat_amount": 2.99
+        },
+        {
+            "amount": 101.97,
+            "description": "architect cutting-edge models",
+            "index": "3",
+            "price": 397.74,
+            "quantity": 2.91,
+            "tax_amount": 76.48,
+            "total_ttc": 341.32,
+            "vat_amount": 7.31
+        },
+        {
+            "amount": 451.68,
+            "description": "integrate cross-media interfaces",
+            "index": "9",
+            "price": 72.99,
+            "quantity": 9.43,
+            "tax_amount": 60.6,
+            "total_ttc": 294.79,
+            "vat_amount": 1.14
+        },
+        {
+            "amount": 73.57,
+            "description": "leverage cross-media schemas",
+            "index": "8",
+            "price": 365.91,
+            "quantity": 5.19,
+            "tax_amount": 54.6,
+            "total_ttc": 182.82,
+            "vat_amount": 1.5
+        },
+        {
+            "amount": 34.07,
+            "description": "morph innovative infrastructures",
+            "index": "10",
+            "price": 323.16,
+            "quantity": 5.33,
+            "tax_amount": 81.11,
+            "total_ttc": 266.9,
+            "vat_amount": 1.67
+        },
+        {
+            "amount": 111.18,
+            "description": "revolutionize intuitive experiences",
+            "index": "4",
+            "price": 248.48,
+            "quantity": 8.43,
+            "tax_amount": 66.03,
+            "total_ttc": 156.98,
+            "vat_amount": 18.85
+        }
+    ],
+    "seller": {
+        "name": "Scott Chavez"
+    },
+    "supplier": {
+        "address": "154 Hernandez Creek Suite 367 Michaelbury, VI 65727",
+        "name": "Tracy Ortega"
+    },
+    "tax": {
+        "amount_excluding_tax": 91.7,
+        "amount_including_tax": 44.26,
+        "tax_amount": 20.93,
+        "total_ht": 362.34,
+        "total_ttc": 315.73
+    }
+}

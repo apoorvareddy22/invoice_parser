@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "4247 Chavez Islands Suite 289 Dixonview, OK 09928",
+        "email": "gsims@example.org",
+        "phone": "583-999-8418x8627",
+        "vat_no": "vP30866927314"
+    },
+    "invoice": {
+        "date": "22.12.1994",
+        "due_date": "24.05.2018",
+        "market_reference": 528401,
+        "notes": "streamline holistic partnerships",
+        "number": "0061-2704",
+        "reference": 399563,
+        "vat_no": "oY38938467705"
+    },
+    "payment": {
+        "net_total": 21.3,
+        "total": 893.96
+    },
+    "products": [
+        {
+            "amount": 423.92,
+            "description": "syndicate strategic web-readiness",
+            "hours": 9.6,
+            "rate": 1.04
+        },
+        {
+            "amount": 348.04,
+            "description": "revolutionize open-source infrastructures",
+            "hours": 5.02,
+            "rate": 2.94
+        },
+        {
+            "amount": 342.3,
+            "description": "reinvent ubiquitous architectures",
+            "hours": 8.16,
+            "rate": 9.16
+        },
+        {
+            "amount": 90.81,
+            "description": "repurpose one-to-one networks",
+            "hours": 9.7,
+            "rate": 3.31
+        },
+        {
+            "amount": 64.9,
+            "description": "leverage e-business e-tailers",
+            "hours": 5.86,
+            "rate": 6.75
+        },
+        {
+            "amount": 115.19,
+            "description": "envisioneer extensible models",
+            "hours": 9.64,
+            "rate": 5.85
+        },
+        {
+            "amount": 121.69,
+            "description": "transition e-business deliverables",
+            "hours": 5.64,
+            "rate": 6.93
+        }
+    ],
+    "seller": {
+        "address": "52420 Karen Plains Apt. 888 West Stephanie, MH 32142",
+        "email": "robertslisa@example.org",
+        "name": "Thomas Rodriguez"
+    },
+    "tax": {
+        "base": 10.86,
+        "tax_amount": 24.52,
+        "total_tax": 22.36
+    }
+}

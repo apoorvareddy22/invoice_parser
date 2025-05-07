@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "8053 Mack Mews Mossview, MO 72778",
+        "id": "eE032"
+    },
+    "invoice": {
+        "bc_no": "Bf98433",
+        "currency_code": "SZL",
+        "date": "14.03.2020",
+        "due_date": "01.06.2010",
+        "number": 997448
+    },
+    "payment": {
+        "bank_name": "Flores LLC",
+        "bic": "DPICGBVNLCQ",
+        "iban": "XSFW14293683839939"
+    },
+    "products": [
+        {
+            "amount": 202.84,
+            "description": "visualize intuitive synergies",
+            "index": "5",
+            "price": 441.29,
+            "quantity": 4.84,
+            "tax_amount": 72.94,
+            "total_ttc": 433.86,
+            "vat_amount": 2.77
+        },
+        {
+            "amount": 322.27,
+            "description": "engage front-end ROI",
+            "index": "8",
+            "price": 456.04,
+            "quantity": 9.81,
+            "tax_amount": 68.09,
+            "total_ttc": 382.09,
+            "vat_amount": 7.54
+        }
+    ],
+    "seller": {
+        "name": "Christopher Pearson"
+    },
+    "supplier": {
+        "address": "0134 Valerie Unions Apt. 272 West Donald, SD 17392",
+        "name": "David Gregory"
+    },
+    "tax": {
+        "amount_excluding_tax": 171.21,
+        "amount_including_tax": 51.13,
+        "tax_amount": 24.7,
+        "total_ht": 361.54,
+        "total_ttc": 288.72
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "3784 Jeffrey Point Apt. 290 West Rachelport, NJ 33055",
+        "id": "gL307"
+    },
+    "invoice": {
+        "bc_no": "tR87204",
+        "currency_code": "NIO",
+        "date": "24.07.2007",
+        "due_date": "29.03.1998",
+        "number": 708226
+    },
+    "payment": {
+        "bank_name": "Wall, Ferguson and Young",
+        "bic": "EDONGBF9",
+        "iban": "PMDP21205107351166"
+    },
+    "products": [
+        {
+            "amount": 229.99,
+            "description": "re-contextualize 24/7 metrics",
+            "index": "4",
+            "price": 149.43,
+            "quantity": 7.71,
+            "tax_amount": 85.44,
+            "total_ttc": 361.45,
+            "vat_amount": 2.53
+        },
+        {
+            "amount": 498.5,
+            "description": "enable holistic platforms",
+            "index": "2",
+            "price": 439.67,
+            "quantity": 4.72,
+            "tax_amount": 53.37,
+            "total_ttc": 441.16,
+            "vat_amount": 9.68
+        },
+        {
+            "amount": 72.62,
+            "description": "syndicate B2B users",
+            "index": "5",
+            "price": 492.67,
+            "quantity": 9.74,
+            "tax_amount": 57.03,
+            "total_ttc": 266.67,
+            "vat_amount": 2.25
+        },
+        {
+            "amount": 420.94,
+            "description": "incentivize value-added supply-chains",
+            "index": "6",
+            "price": 290.11,
+            "quantity": 1.26,
+            "tax_amount": 16.21,
+            "total_ttc": 120.69,
+            "vat_amount": 5.75
+        },
+        {
+            "amount": 253.32,
+            "description": "repurpose rich technologies",
+            "index": "2",
+            "price": 337.6,
+            "quantity": 9.82,
+            "tax_amount": 34.5,
+            "total_ttc": 107.3,
+            "vat_amount": 7.01
+        },
+        {
+            "amount": 326.79,
+            "description": "synthesize back-end convergence",
+            "index": "3",
+            "price": 168.46,
+            "quantity": 1.25,
+            "tax_amount": 52.31,
+            "total_ttc": 435.64,
+            "vat_amount": 4.29
+        },
+        {
+            "amount": 432.54,
+            "description": "deploy end-to-end solutions",
+            "index": "2",
+            "price": 429.61,
+            "quantity": 7.99,
+            "tax_amount": 13.25,
+            "total_ttc": 270.5,
+            "vat_amount": 5.42
+        }
+    ],
+    "seller": {
+        "name": "Chelsey Graham"
+    },
+    "supplier": {
+        "address": "93924 Parker Pike Stacyberg, CO 19330",
+        "name": "Carla Wright"
+    },
+    "tax": {
+        "amount_excluding_tax": 74.53,
+        "amount_including_tax": 163.67,
+        "tax_amount": 21.29,
+        "total_ht": 408.09,
+        "total_ttc": 236.27
+    }
+}

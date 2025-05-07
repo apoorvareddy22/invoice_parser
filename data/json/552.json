@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "40386 Lopez Walk Apt. 723 East Mark, IA 12572",
+        "company_name": "Burgess, Sanders and Rice",
+        "country": "Morocco",
+        "name": "Nathaniel Cox"
+    },
+    "invoice": {
+        "date": "19.03.2008",
+        "number": 251624
+    },
+    "payment": {
+        "discount_amount": 19.62,
+        "discount_percentage": 19.66,
+        "due": 93.56,
+        "sub_total": 66.16,
+        "total": 833.76
+    },
+    "products": [
+        {
+            "description": "aggregate scalable eyeballs",
+            "index": "1",
+            "quantity": 8.97,
+            "total_price": 308.05,
+            "unit_price": 30.58
+        },
+        {
+            "description": "mesh next-generation paradigms",
+            "index": "7",
+            "quantity": 8.74,
+            "total_price": 155.18,
+            "unit_price": 12.23
+        },
+        {
+            "description": "strategize revolutionary e-tailers",
+            "index": "9",
+            "quantity": 8.49,
+            "total_price": 829.78,
+            "unit_price": 20.75
+        }
+    ],
+    "seller": {
+        "address": "002 Nelson Stravenue Peterhaven, MP 07545",
+        "company_name": "Carpenter, Davis and Villarreal",
+        "vat_no": "DI54421455338"
+    }
+}

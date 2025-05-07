@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "47553 Lopez Highway Suite 542 Lindahaven, LA 09357",
+        "business_no": "pn327",
+        "id": "sN252"
+    },
+    "invoice": {
+        "date": "26.05.2021",
+        "number": "2026-0449"
+    },
+    "payment": {
+        "due_date": "04.03.2006",
+        "total": 248.37
+    },
+    "products": [
+        {
+            "amount": 470.13,
+            "description": "embrace one-to-one e-services",
+            "quantity": 4.2,
+            "reference": "Zp-842",
+            "unit_price": 48.23
+        },
+        {
+            "amount": 377.23,
+            "description": "brand integrated e-markets",
+            "quantity": 2.19,
+            "reference": "ST-110",
+            "unit_price": 33.15
+        },
+        {
+            "amount": 177.3,
+            "description": "brand intuitive technologies",
+            "quantity": 9.01,
+            "reference": "wS-031",
+            "unit_price": 92.5
+        },
+        {
+            "amount": 142.56,
+            "description": "benchmark leading-edge vortals",
+            "quantity": 4.68,
+            "reference": "dJ-311",
+            "unit_price": 95.84
+        },
+        {
+            "amount": 53.03,
+            "description": "revolutionize synergistic channels",
+            "quantity": 4.96,
+            "reference": "ir-425",
+            "unit_price": 68.71
+        },
+        {
+            "amount": 308.61,
+            "description": "drive intuitive supply-chains",
+            "quantity": 6.35,
+            "reference": "vs-897",
+            "unit_price": 44.88
+        }
+    ],
+    "seller": {
+        "address": "7752 Avila Plains Kathleenview, KY 94531"
+    },
+    "tax": {
+        "base_ht": 237.56,
+        "regulations": 21.33,
+        "total_ht": 270.7,
+        "vat_amount": 28.81,
+        "vat_percentage": 21.19
+    }
+}

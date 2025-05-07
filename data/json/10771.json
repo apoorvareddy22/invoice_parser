@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "20162 Morris Summit Pagebury, CT 85662",
+        "email": "jeffreyburns@example.org",
+        "phone": "4936648166",
+        "vat_no": "Ss17797130895"
+    },
+    "invoice": {
+        "date": "05.01.2001",
+        "due_date": "07.08.2021",
+        "market_reference": 126198,
+        "notes": "incubate intuitive technologies",
+        "number": "9171-5728",
+        "reference": 758493,
+        "vat_no": "zB36558144151"
+    },
+    "payment": {
+        "net_total": 28.5,
+        "total": 188.02
+    },
+    "products": [
+        {
+            "amount": 198.05,
+            "description": "incubate seamless web services",
+            "hours": 4.4,
+            "rate": 3.45
+        },
+        {
+            "amount": 186.95,
+            "description": "morph back-end architectures",
+            "hours": 9.93,
+            "rate": 9.22
+        },
+        {
+            "amount": 186.29,
+            "description": "brand viral deliverables",
+            "hours": 8.56,
+            "rate": 9.81
+        },
+        {
+            "amount": 147.54,
+            "description": "engineer next-generation methodologies",
+            "hours": 6.22,
+            "rate": 6.13
+        },
+        {
+            "amount": 183.63,
+            "description": "engineer rich platforms",
+            "hours": 6.14,
+            "rate": 6.68
+        }
+    ],
+    "seller": {
+        "address": "54282 Randy Cove West Danielland, IN 96473",
+        "email": "colemark@example.net",
+        "name": "Kimberly Crawford"
+    },
+    "tax": {
+        "base": 17.2,
+        "tax_amount": 24.51,
+        "total_tax": 15.74
+    }
+}

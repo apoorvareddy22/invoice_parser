@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "2365 Michael Ports Suite 723 New Christineland, IA 14198"
+    },
+    "invoice": {
+        "bc_no": "IM82795",
+        "date": "04.11.1991",
+        "maturity_date": "17.03.1990",
+        "number": 898669
+    },
+    "products": [
+        {
+            "amount": 358.4,
+            "description": "enable clicks-and-mortar e-markets",
+            "quantity": 6.08,
+            "unit_price": 57.51,
+            "vat_amount": 0.53
+        },
+        {
+            "amount": 487.92,
+            "description": "utilize plug-and-play communities",
+            "quantity": 7.77,
+            "unit_price": 14.57,
+            "vat_amount": 4.96
+        },
+        {
+            "amount": 311.36,
+            "description": "mesh turn-key ROI",
+            "quantity": 4.02,
+            "unit_price": 90.75,
+            "vat_amount": 9.35
+        }
+    ],
+    "seller": {
+        "address": "PSC 7759, Box 4022 APO AP 03031"
+    },
+    "tax": {
+        "amount_excluding_tax": 47.48,
+        "amount_including_tax": 148.81,
+        "tax_amount": 18.61
+    }
+}

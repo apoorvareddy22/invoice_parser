@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "832 Spencer River Wilsontown, OH 00724",
+        "company_name": "Gomez Inc",
+        "country": "Niue",
+        "name": "Andrew Kelly"
+    },
+    "invoice": {
+        "date": "06.05.2018",
+        "number": 655933
+    },
+    "payment": {
+        "discount_amount": 17.23,
+        "discount_percentage": 16.22,
+        "due": 114.74,
+        "sub_total": 127.02,
+        "total": 546.85
+    },
+    "products": [
+        {
+            "description": "optimize collaborative systems",
+            "index": "9",
+            "quantity": 1.65,
+            "total_price": 72.57,
+            "unit_price": 40.58
+        },
+        {
+            "description": "reinvent leading-edge synergies",
+            "index": "2",
+            "quantity": 7.78,
+            "total_price": 769.3,
+            "unit_price": 98.69
+        },
+        {
+            "description": "harness rich e-business",
+            "index": "9",
+            "quantity": 9.58,
+            "total_price": 216.65,
+            "unit_price": 58.51
+        },
+        {
+            "description": "synergize cross-media applications",
+            "index": "1",
+            "quantity": 6.13,
+            "total_price": 532.97,
+            "unit_price": 90.45
+        }
+    ],
+    "seller": {
+        "address": "7039 Hebert Glen Suite 619 Robertberg, AL 72241",
+        "company_name": "Peters-Johnson",
+        "vat_no": "iW89916601692"
+    }
+}

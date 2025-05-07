@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "8726 Oneal Valley Apt. 352 Taylorchester, CT 55120",
+        "business_no": "dF894",
+        "id": "xf534"
+    },
+    "invoice": {
+        "date": "11.10.2002",
+        "number": "4893-1656"
+    },
+    "payment": {
+        "due_date": "12.02.2000",
+        "total": 550.7
+    },
+    "products": [
+        {
+            "amount": 483.68,
+            "description": "optimize dynamic networks",
+            "quantity": 8.42,
+            "reference": "tZ-943",
+            "unit_price": 96.76
+        },
+        {
+            "amount": 219.38,
+            "description": "transform user-centric platforms",
+            "quantity": 9.94,
+            "reference": "hY-619",
+            "unit_price": 65.6
+        },
+        {
+            "amount": 432.99,
+            "description": "scale best-of-breed systems",
+            "quantity": 3.05,
+            "reference": "jR-191",
+            "unit_price": 24.65
+        }
+    ],
+    "seller": {
+        "address": "USS Johnson FPO AP 86761"
+    },
+    "tax": {
+        "base_ht": 388.84,
+        "regulations": 23.09,
+        "total_ht": 175.56,
+        "vat_amount": 57.38,
+        "vat_percentage": 24.33
+    }
+}

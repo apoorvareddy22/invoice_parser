@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "8903 Sarah Ports Suite 367 West Glennmouth, AS 66853"
+    },
+    "invoice": {
+        "bc_no": "XP84879",
+        "date": "15.02.2013",
+        "maturity_date": "21.03.2017",
+        "number": 691690
+    },
+    "products": [
+        {
+            "amount": 215.6,
+            "description": "benchmark scalable ROI",
+            "quantity": 8.79,
+            "unit_price": 83.16,
+            "vat_amount": 12.98
+        },
+        {
+            "amount": 306.65,
+            "description": "streamline B2C eyeballs",
+            "quantity": 1.9,
+            "unit_price": 46.64,
+            "vat_amount": 5.83
+        },
+        {
+            "amount": 330.86,
+            "description": "architect transparent networks",
+            "quantity": 3.93,
+            "unit_price": 65.68,
+            "vat_amount": 1.49
+        },
+        {
+            "amount": 349.2,
+            "description": "leverage B2B models",
+            "quantity": 5.01,
+            "unit_price": 35.17,
+            "vat_amount": 12.68
+        }
+    ],
+    "seller": {
+        "address": "2370 Sparks Valleys Suite 022 Nicholastown, NE 97796"
+    },
+    "tax": {
+        "amount_excluding_tax": 146.21,
+        "amount_including_tax": 168.2,
+        "tax_amount": 24.56
+    }
+}

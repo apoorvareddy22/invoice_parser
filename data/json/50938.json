@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "687 Steven Lodge Abbottfurt, IN 69187",
+        "id": "zw613"
+    },
+    "invoice": {
+        "bc_no": "Ff80292",
+        "currency_code": "RON",
+        "date": "25.12.2005",
+        "due_date": "18.10.1995",
+        "number": 414431
+    },
+    "payment": {
+        "bank_name": "Cohen, Reynolds and Johnson",
+        "bic": "NYHPGBW5PJU",
+        "iban": "YTUV50229526260924"
+    },
+    "products": [
+        {
+            "amount": 284.5,
+            "description": "mesh rich relationships",
+            "index": "2",
+            "price": 493.46,
+            "quantity": 9.76,
+            "tax_amount": 60.95,
+            "total_ttc": 313.18,
+            "vat_amount": 1.14
+        },
+        {
+            "amount": 46.14,
+            "description": "transition user-centric synergies",
+            "index": "5",
+            "price": 156.0,
+            "quantity": 7.1,
+            "tax_amount": 84.47,
+            "total_ttc": 382.27,
+            "vat_amount": 8.37
+        },
+        {
+            "amount": 290.06,
+            "description": "embrace strategic experiences",
+            "index": "9",
+            "price": 464.6,
+            "quantity": 9.34,
+            "tax_amount": 51.4,
+            "total_ttc": 497.77,
+            "vat_amount": 4.12
+        },
+        {
+            "amount": 77.31,
+            "description": "exploit visionary e-tailers",
+            "index": "4",
+            "price": 136.71,
+            "quantity": 9.49,
+            "tax_amount": 74.46,
+            "total_ttc": 125.51,
+            "vat_amount": 3.99
+        },
+        {
+            "amount": 290.52,
+            "description": "deploy transparent info-mediaries",
+            "index": "2",
+            "price": 5.78,
+            "quantity": 4.24,
+            "tax_amount": 92.1,
+            "total_ttc": 137.78,
+            "vat_amount": 4.21
+        }
+    ],
+    "seller": {
+        "name": "Melissa Edwards"
+    },
+    "supplier": {
+        "address": "19964 Lori Shores Suite 355 South Vincentbury, IA 39418",
+        "name": "Evan Guerra"
+    },
+    "tax": {
+        "amount_excluding_tax": 192.21,
+        "amount_including_tax": 21.27,
+        "tax_amount": 13.76,
+        "total_ht": 324.28,
+        "total_ttc": 297.9
+    }
+}

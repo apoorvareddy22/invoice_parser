@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "Unit 9945 Box 0304 DPO AE 91204"
+    },
+    "invoice": {
+        "bc_no": "Ug85978",
+        "date": "10.04.2016",
+        "maturity_date": "11.07.2002",
+        "number": 829049
+    },
+    "products": [
+        {
+            "amount": 412.3,
+            "description": "syndicate B2B networks",
+            "quantity": 3.12,
+            "unit_price": 41.08,
+            "vat_amount": 2.96
+        },
+        {
+            "amount": 164.14,
+            "description": "synergize dynamic e-services",
+            "quantity": 8.66,
+            "unit_price": 88.46,
+            "vat_amount": 6.12
+        }
+    ],
+    "seller": {
+        "address": "89681 Susan Pine Apt. 655 North Robin, NH 83510"
+    },
+    "tax": {
+        "amount_excluding_tax": 11.34,
+        "amount_including_tax": 106.32,
+        "tax_amount": 29.2
+    }
+}

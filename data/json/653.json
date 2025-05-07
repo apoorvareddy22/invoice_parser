@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "4043 Joy Stream East Raymondside, OH 09241",
+        "company_name": "Guzman Ltd",
+        "country": "United States Virgin Islands",
+        "name": "Leslie Colon"
+    },
+    "invoice": {
+        "date": "14.11.2013",
+        "number": 611578
+    },
+    "payment": {
+        "discount_amount": 28.87,
+        "discount_percentage": 13.81,
+        "due": 80.48,
+        "sub_total": 20.54,
+        "total": 905.0
+    },
+    "products": [
+        {
+            "description": "engage web-enabled users",
+            "index": "6",
+            "quantity": 7.52,
+            "total_price": 561.52,
+            "unit_price": 75.17
+        },
+        {
+            "description": "enhance collaborative relationships",
+            "index": "3",
+            "quantity": 9.15,
+            "total_price": 93.14,
+            "unit_price": 20.04
+        },
+        {
+            "description": "streamline dot-com mindshare",
+            "index": "7",
+            "quantity": 5.01,
+            "total_price": 355.21,
+            "unit_price": 84.57
+        },
+        {
+            "description": "grow dot-com bandwidth",
+            "index": "3",
+            "quantity": 9.67,
+            "total_price": 438.5,
+            "unit_price": 34.07
+        },
+        {
+            "description": "integrate scalable solutions",
+            "index": "2",
+            "quantity": 7.78,
+            "total_price": 874.27,
+            "unit_price": 18.67
+        }
+    ],
+    "seller": {
+        "address": "048 Brown Well West Daniel, NC 18301",
+        "company_name": "Savage-Smith",
+        "vat_no": "Oz78952429320"
+    }
+}

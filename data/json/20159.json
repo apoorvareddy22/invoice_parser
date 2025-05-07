@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "737 Mayer Drive Port Gregorychester, OK 77968",
+        "company_name": "James, Vazquez and Smith",
+        "email": "gyoung@example.org",
+        "name": "Veronica Marquez",
+        "phone": "(492)641-7891x112"
+    },
+    "invoice": {
+        "date": "13.02.1991",
+        "due_date": "21.12.2004",
+        "number": "eVN92794493914"
+    },
+    "payment": {
+        "account_number": 8170050183,
+        "bank_name": "Shaw and Sons",
+        "routing_number": 904577137
+    },
+    "products": [
+        {
+            "amount": 273.37,
+            "description": "deliver out-of-the-box markets",
+            "index": "7",
+            "quantity": 6.36,
+            "unit_price": 62.51
+        },
+        {
+            "amount": 189.74,
+            "description": "benchmark one-to-one e-tailers",
+            "index": "1",
+            "quantity": 3.28,
+            "unit_price": 31.29
+        },
+        {
+            "amount": 222.99,
+            "description": "drive end-to-end networks",
+            "index": "2",
+            "quantity": 9.61,
+            "unit_price": 68.65
+        },
+        {
+            "amount": 188.65,
+            "description": "streamline visionary models",
+            "index": "5",
+            "quantity": 3.24,
+            "unit_price": 65.16
+        }
+    ],
+    "seller": {
+        "address": "88106 Stephanie Wells Davischester, NM 48104",
+        "company_name": "Turner Group",
+        "email": "alejandro87@example.net"
+    }
+}

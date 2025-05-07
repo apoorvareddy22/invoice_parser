@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "14383 Davis Groves Suite 745 Andrewhaven, OH 94749"
+    },
+    "invoice": {
+        "bc_no": "YI99224",
+        "date": "08.05.2023",
+        "maturity_date": "14.04.1991",
+        "number": 658067
+    },
+    "products": [
+        {
+            "amount": 424.66,
+            "description": "drive bleeding-edge technologies",
+            "quantity": 3.02,
+            "unit_price": 36.18,
+            "vat_amount": 3.87
+        },
+        {
+            "amount": 265.04,
+            "description": "redefine turn-key convergence",
+            "quantity": 9.46,
+            "unit_price": 95.88,
+            "vat_amount": 9.38
+        }
+    ],
+    "seller": {
+        "address": "31239 Medina Knolls New Amandaville, MH 07481"
+    },
+    "tax": {
+        "amount_excluding_tax": 35.05,
+        "amount_including_tax": 48.48,
+        "tax_amount": 24.31
+    }
+}

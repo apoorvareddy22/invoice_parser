@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "090 Mary Islands Suite 305 Hendersonview, UT 31736",
+        "company_name": "Lyons-Duncan",
+        "country": "Honduras",
+        "name": "Kenneth Estrada"
+    },
+    "invoice": {
+        "date": "30.03.2021",
+        "number": 266855
+    },
+    "payment": {
+        "discount_amount": 42.55,
+        "discount_percentage": 8.99,
+        "due": 47.38,
+        "sub_total": 164.73,
+        "total": 153.96
+    },
+    "products": [
+        {
+            "description": "brand best-of-breed applications",
+            "index": "6",
+            "quantity": 6.97,
+            "total_price": 947.7,
+            "unit_price": 42.11
+        },
+        {
+            "description": "monetize intuitive networks",
+            "index": "3",
+            "quantity": 2.63,
+            "total_price": 654.89,
+            "unit_price": 56.23
+        },
+        {
+            "description": "scale B2C models",
+            "index": "2",
+            "quantity": 9.28,
+            "total_price": 83.36,
+            "unit_price": 58.37
+        }
+    ],
+    "seller": {
+        "address": "71818 Brittany Stravenue Apt. 689 Joneston, CO 17461",
+        "company_name": "Perry Inc",
+        "vat_no": "Bm54015113362"
+    }
+}

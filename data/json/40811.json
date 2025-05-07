@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "877 Maria Locks South April, IL 03347"
+    },
+    "invoice": {
+        "bc_no": "TO89095",
+        "date": "08.08.2012",
+        "maturity_date": "07.07.1998",
+        "number": 350487
+    },
+    "products": [
+        {
+            "amount": 252.93,
+            "description": "target compelling mindshare",
+            "quantity": 8.47,
+            "unit_price": 30.82,
+            "vat_amount": 6.77
+        },
+        {
+            "amount": 85.44,
+            "description": "mesh distributed applications",
+            "quantity": 8.19,
+            "unit_price": 36.59,
+            "vat_amount": 1.01
+        },
+        {
+            "amount": 56.5,
+            "description": "cultivate next-generation technologies",
+            "quantity": 3.18,
+            "unit_price": 12.32,
+            "vat_amount": 3.26
+        }
+    ],
+    "seller": {
+        "address": "64271 Michael Trace Amberberg, MO 18554"
+    },
+    "tax": {
+        "amount_excluding_tax": 103.81,
+        "amount_including_tax": 46.51,
+        "tax_amount": 11.74
+    }
+}

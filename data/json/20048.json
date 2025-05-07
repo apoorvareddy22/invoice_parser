@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "Unit 4190 Box 7933 DPO AE 30612",
+        "company_name": "Bell-Evans",
+        "email": "aharris@example.com",
+        "name": "Jessica Stone",
+        "phone": "675-403-5217"
+    },
+    "invoice": {
+        "date": "20.11.2017",
+        "due_date": "20.05.1994",
+        "number": "MKA55569077615"
+    },
+    "payment": {
+        "account_number": 2701285494,
+        "bank_name": "Hernandez Ltd",
+        "routing_number": 480971977
+    },
+    "products": [
+        {
+            "amount": 439.88,
+            "description": "visualize extensible synergies",
+            "index": "10",
+            "quantity": 5.0,
+            "unit_price": 62.2
+        },
+        {
+            "amount": 287.01,
+            "description": "re-contextualize rich supply-chains",
+            "index": "6",
+            "quantity": 7.32,
+            "unit_price": 28.57
+        },
+        {
+            "amount": 471.17,
+            "description": "transform extensible synergies",
+            "index": "1",
+            "quantity": 8.41,
+            "unit_price": 97.64
+        },
+        {
+            "amount": 270.38,
+            "description": "brand 24/7 partnerships",
+            "index": "3",
+            "quantity": 9.44,
+            "unit_price": 45.54
+        },
+        {
+            "amount": 105.81,
+            "description": "incentivize plug-and-play eyeballs",
+            "index": "9",
+            "quantity": 8.79,
+            "unit_price": 73.33
+        },
+        {
+            "amount": 332.22,
+            "description": "engineer holistic bandwidth",
+            "index": "5",
+            "quantity": 6.12,
+            "unit_price": 16.78
+        },
+        {
+            "amount": 223.05,
+            "description": "cultivate vertical architectures",
+            "index": "4",
+            "quantity": 9.82,
+            "unit_price": 18.65
+        }
+    ],
+    "seller": {
+        "address": "658 Wallace Ville Apt. 532 Williamsfort, WA 23626",
+        "company_name": "Morris, Price and Edwards",
+        "email": "lindseyroberts@example.org"
+    }
+}

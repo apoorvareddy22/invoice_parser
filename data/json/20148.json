@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "PSC 0803, Box 6351 APO AP 89464",
+        "company_name": "Lopez-Gaines",
+        "email": "johnsonmatthew@example.org",
+        "name": "Nicole Merritt",
+        "phone": "(548)996-1557x7638"
+    },
+    "invoice": {
+        "date": "06.08.1991",
+        "due_date": "06.05.2004",
+        "number": "hBs03516710446"
+    },
+    "payment": {
+        "account_number": 2355000216,
+        "bank_name": "Phillips, Jensen and Wallace",
+        "routing_number": 903902731
+    },
+    "products": [
+        {
+            "amount": 133.52,
+            "description": "enhance distributed networks",
+            "index": "1",
+            "quantity": 2.27,
+            "unit_price": 34.44
+        },
+        {
+            "amount": 385.84,
+            "description": "maximize real-time e-markets",
+            "index": "6",
+            "quantity": 9.71,
+            "unit_price": 13.54
+        },
+        {
+            "amount": 477.1,
+            "description": "utilize customized experiences",
+            "index": "2",
+            "quantity": 2.41,
+            "unit_price": 36.49
+        },
+        {
+            "amount": 145.58,
+            "description": "embrace proactive schemas",
+            "index": "1",
+            "quantity": 4.21,
+            "unit_price": 60.84
+        }
+    ],
+    "seller": {
+        "address": "2464 Velazquez Fort Apt. 134 Walkerstad, MI 72340",
+        "company_name": "Trujillo PLC",
+        "email": "jacoblindsey@example.org"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "USCGC Sutton FPO AA 31974"
+    },
+    "invoice": {
+        "bc_no": "ZF34976",
+        "date": "17.11.2005",
+        "maturity_date": "05.07.2019",
+        "number": 411634
+    },
+    "products": [
+        {
+            "amount": 318.84,
+            "description": "drive turn-key content",
+            "quantity": 3.62,
+            "unit_price": 24.68,
+            "vat_amount": 9.67
+        },
+        {
+            "amount": 128.75,
+            "description": "iterate 24/365 vortals",
+            "quantity": 6.2,
+            "unit_price": 94.49,
+            "vat_amount": 9.69
+        }
+    ],
+    "seller": {
+        "address": "5776 Robertson Center Apt. 314 North Samuelmouth, KY 06548"
+    },
+    "tax": {
+        "amount_excluding_tax": 77.87,
+        "amount_including_tax": 15.44,
+        "tax_amount": 18.29
+    }
+}

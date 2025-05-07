@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "852 Gardner Pines Apt. 085 Jonathanfurt, MT 14646"
+    },
+    "invoice": {
+        "bc_no": "HM37783",
+        "date": "28.04.1999",
+        "maturity_date": "29.02.2000",
+        "number": 111559
+    },
+    "products": [
+        {
+            "amount": 155.08,
+            "description": "strategize vertical content",
+            "quantity": 5.51,
+            "unit_price": 35.68,
+            "vat_amount": 2.19
+        },
+        {
+            "amount": 70.25,
+            "description": "productize user-centric initiatives",
+            "quantity": 9.98,
+            "unit_price": 29.63,
+            "vat_amount": 13.36
+        },
+        {
+            "amount": 240.97,
+            "description": "deploy enterprise channels",
+            "quantity": 6.4,
+            "unit_price": 34.97,
+            "vat_amount": 7.19
+        },
+        {
+            "amount": 448.44,
+            "description": "empower back-end e-commerce",
+            "quantity": 2.54,
+            "unit_price": 14.98,
+            "vat_amount": 5.61
+        }
+    ],
+    "seller": {
+        "address": "78995 Weaver Loaf Olsontown, CO 14589"
+    },
+    "tax": {
+        "amount_excluding_tax": 133.68,
+        "amount_including_tax": 30.52,
+        "tax_amount": 27.24
+    }
+}

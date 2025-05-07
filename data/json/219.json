@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "USNV Cabrera FPO AP 97660",
+        "company_name": "Martinez, Chavez and Walker",
+        "country": "Guatemala",
+        "name": "John Lopez"
+    },
+    "invoice": {
+        "date": "30.07.1991",
+        "number": 201258
+    },
+    "payment": {
+        "discount_amount": 30.26,
+        "discount_percentage": 11.76,
+        "due": 70.19,
+        "sub_total": 35.16,
+        "total": 188.81
+    },
+    "products": [
+        {
+            "description": "facilitate killer relationships",
+            "index": "5",
+            "quantity": 5.8,
+            "total_price": 116.25,
+            "unit_price": 89.94
+        }
+    ],
+    "seller": {
+        "address": "78605 Sabrina Parks Chenton, NE 45487",
+        "company_name": "Jones, Martinez and Moore",
+        "vat_no": "pg56986929926"
+    }
+}

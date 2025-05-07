@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "Unit 0809 Box 6324 DPO AP 44523",
+        "id": "nS640"
+    },
+    "invoice": {
+        "bc_no": "nT88204",
+        "currency_code": "KRW",
+        "date": "30.12.2012",
+        "due_date": "24.03.1997",
+        "number": 614212
+    },
+    "payment": {
+        "bank_name": "Hall-Gonzalez",
+        "bic": "MHETGB6YG0V",
+        "iban": "IGVI71890902772574"
+    },
+    "products": [
+        {
+            "amount": 21.55,
+            "description": "drive open-source models",
+            "index": "7",
+            "price": 321.03,
+            "quantity": 4.55,
+            "tax_amount": 62.07,
+            "total_ttc": 266.27,
+            "vat_amount": 13.4
+        },
+        {
+            "amount": 405.68,
+            "description": "enhance front-end applications",
+            "index": "5",
+            "price": 152.87,
+            "quantity": 3.05,
+            "tax_amount": 48.59,
+            "total_ttc": 218.8,
+            "vat_amount": 0.03
+        },
+        {
+            "amount": 460.6,
+            "description": "optimize end-to-end action-items",
+            "index": "3",
+            "price": 139.25,
+            "quantity": 3.39,
+            "tax_amount": 19.17,
+            "total_ttc": 237.18,
+            "vat_amount": 0.28
+        }
+    ],
+    "seller": {
+        "name": "James Butler"
+    },
+    "supplier": {
+        "address": "PSC 9951, Box 8081 APO AP 46818",
+        "name": "Cristian Simon"
+    },
+    "tax": {
+        "amount_excluding_tax": 189.7,
+        "amount_including_tax": 130.87,
+        "tax_amount": 26.35,
+        "total_ht": 217.8,
+        "total_ttc": 438.85
+    }
+}

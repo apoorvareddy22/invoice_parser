@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "3224 Julie Inlet Apt. 550 Davidton, AK 52757",
+        "company_name": "Campbell, Torres and Becker",
+        "email": "grosscraig@example.net",
+        "name": "Paul Wong",
+        "phone": "5232878384"
+    },
+    "invoice": {
+        "date": "05.12.2011",
+        "due_date": "26.09.2020",
+        "number": "KMm26329858166"
+    },
+    "payment": {
+        "account_number": 1378492996,
+        "bank_name": "Vance, Johnson and Perez",
+        "routing_number": 280305061
+    },
+    "products": [
+        {
+            "amount": 99.49,
+            "description": "deploy value-added supply-chains",
+            "index": "6",
+            "quantity": 8.63,
+            "unit_price": 34.62
+        },
+        {
+            "amount": 430.22,
+            "description": "integrate next-generation technologies",
+            "index": "9",
+            "quantity": 9.84,
+            "unit_price": 86.42
+        }
+    ],
+    "seller": {
+        "address": "26687 Amanda Summit Apt. 560 Larsenbury, IA 13161",
+        "company_name": "Snow Group",
+        "email": "patriciaburton@example.net"
+    }
+}

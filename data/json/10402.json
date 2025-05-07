@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "4857 Holland Hill Apt. 995 Lake Aprilstad, AL 30384",
+        "email": "amy49@example.net",
+        "phone": "+1-274-574-1175",
+        "vat_no": "uk79344700165"
+    },
+    "invoice": {
+        "date": "08.01.2017",
+        "due_date": "05.10.2015",
+        "market_reference": 179360,
+        "notes": "enhance bricks-and-clicks action-items",
+        "number": "3082-7178",
+        "reference": 195293,
+        "vat_no": "oM15787748228"
+    },
+    "payment": {
+        "net_total": 111.31,
+        "total": 998.77
+    },
+    "products": [
+        {
+            "amount": 485.52,
+            "description": "deploy web-enabled platforms",
+            "hours": 8.28,
+            "rate": 8.54
+        },
+        {
+            "amount": 458.84,
+            "description": "whiteboard turn-key paradigms",
+            "hours": 3.84,
+            "rate": 5.52
+        },
+        {
+            "amount": 408.24,
+            "description": "deploy out-of-the-box metrics",
+            "hours": 7.83,
+            "rate": 4.14
+        },
+        {
+            "amount": 163.8,
+            "description": "utilize real-time channels",
+            "hours": 8.13,
+            "rate": 6.84
+        }
+    ],
+    "seller": {
+        "address": "574 Ruiz Burgs Port Roberthaven, ND 53549",
+        "email": "dcooper@example.org",
+        "name": "Kiara Hernandez"
+    },
+    "tax": {
+        "base": 11.19,
+        "tax_amount": 12.2,
+        "total_tax": 15.09
+    }
+}

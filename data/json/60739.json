@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "0159 Castillo Extension Apt. 788 Johnstonstad, AK 66892",
+        "business_no": "Sk627",
+        "id": "Vt071"
+    },
+    "invoice": {
+        "date": "28.04.2001",
+        "number": "1005-9170"
+    },
+    "payment": {
+        "due_date": "31.03.2007",
+        "total": 903.66
+    },
+    "products": [
+        {
+            "amount": 48.8,
+            "description": "visualize turn-key initiatives",
+            "quantity": 5.39,
+            "reference": "pz-005",
+            "unit_price": 72.82
+        },
+        {
+            "amount": 158.05,
+            "description": "deliver best-of-breed synergies",
+            "quantity": 7.46,
+            "reference": "si-686",
+            "unit_price": 48.69
+        },
+        {
+            "amount": 296.99,
+            "description": "evolve extensible niches",
+            "quantity": 2.19,
+            "reference": "Ku-721",
+            "unit_price": 55.24
+        }
+    ],
+    "seller": {
+        "address": "01052 Whitney Field Sarahmouth, MD 60528"
+    },
+    "tax": {
+        "base_ht": 162.14,
+        "regulations": 10.29,
+        "total_ht": 381.33,
+        "vat_amount": 69.98,
+        "vat_percentage": 22.56
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "PSC 4620, Box 4766 APO AA 59791",
+        "business_no": "Ii430",
+        "id": "Gv047"
+    },
+    "invoice": {
+        "date": "22.07.1997",
+        "number": "5960-1487"
+    },
+    "payment": {
+        "due_date": "22.08.2014",
+        "total": 636.41
+    },
+    "products": [
+        {
+            "amount": 370.34,
+            "description": "harness cross-media interfaces",
+            "quantity": 1.18,
+            "reference": "SE-353",
+            "unit_price": 66.35
+        },
+        {
+            "amount": 388.24,
+            "description": "transform synergistic experiences",
+            "quantity": 1.53,
+            "reference": "oJ-821",
+            "unit_price": 50.26
+        },
+        {
+            "amount": 477.96,
+            "description": "visualize vertical action-items",
+            "quantity": 8.91,
+            "reference": "Ol-537",
+            "unit_price": 69.08
+        },
+        {
+            "amount": 262.21,
+            "description": "synthesize wireless models",
+            "quantity": 2.19,
+            "reference": "nh-422",
+            "unit_price": 91.56
+        }
+    ],
+    "seller": {
+        "address": "874 Jacobs Island Port Jamesport, AK 04523"
+    },
+    "tax": {
+        "base_ht": 491.79,
+        "regulations": 21.73,
+        "total_ht": 402.45,
+        "vat_amount": 64.63,
+        "vat_percentage": 17.97
+    }
+}

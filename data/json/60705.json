@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "802 Smith Isle Jeffreyfort, SD 35443",
+        "business_no": "Gi511",
+        "id": "SH236"
+    },
+    "invoice": {
+        "date": "22.10.1993",
+        "number": "1020-6973"
+    },
+    "payment": {
+        "due_date": "06.06.2007",
+        "total": 305.86
+    },
+    "products": [
+        {
+            "amount": 330.2,
+            "description": "streamline sticky synergies",
+            "quantity": 4.21,
+            "reference": "Dk-207",
+            "unit_price": 56.64
+        },
+        {
+            "amount": 451.24,
+            "description": "engage plug-and-play supply-chains",
+            "quantity": 9.94,
+            "reference": "lW-549",
+            "unit_price": 92.33
+        }
+    ],
+    "seller": {
+        "address": "1078 Brooke Cliffs Suite 981 East Michellemouth, NM 75544"
+    },
+    "tax": {
+        "base_ht": 204.67,
+        "regulations": 16.89,
+        "total_ht": 184.64,
+        "vat_amount": 25.03,
+        "vat_percentage": 12.45
+    }
+}

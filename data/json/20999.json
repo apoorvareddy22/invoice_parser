@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "6454 Richard Track Suite 195 Flowerschester, DE 44880",
+        "company_name": "Lewis PLC",
+        "email": "kara35@example.org",
+        "name": "Jo Jenkins",
+        "phone": "(716)317-8015"
+    },
+    "invoice": {
+        "date": "13.09.1996",
+        "due_date": "04.02.2005",
+        "number": "QSQ81954041766"
+    },
+    "payment": {
+        "account_number": 2018056570,
+        "bank_name": "Osborne-Mcbride",
+        "routing_number": 974154003
+    },
+    "products": [
+        {
+            "amount": 362.65,
+            "description": "engineer B2B interfaces",
+            "index": "10",
+            "quantity": 9.96,
+            "unit_price": 54.57
+        },
+        {
+            "amount": 59.46,
+            "description": "utilize user-centric experiences",
+            "index": "7",
+            "quantity": 8.23,
+            "unit_price": 71.61
+        },
+        {
+            "amount": 99.18,
+            "description": "aggregate compelling architectures",
+            "index": "6",
+            "quantity": 8.65,
+            "unit_price": 50.16
+        },
+        {
+            "amount": 238.89,
+            "description": "grow revolutionary e-markets",
+            "index": "7",
+            "quantity": 4.32,
+            "unit_price": 85.09
+        }
+    ],
+    "seller": {
+        "address": "4699 Sarah Ville Lake Jasonport, AK 21753",
+        "company_name": "Stafford-Rodgers",
+        "email": "harrisangela@example.net"
+    }
+}

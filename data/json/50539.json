@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "440 Roberson Pines Robertaborough, WV 95685",
+        "id": "Ht108"
+    },
+    "invoice": {
+        "bc_no": "Xf35945",
+        "currency_code": "SVC",
+        "date": "15.01.2010",
+        "due_date": "21.10.2012",
+        "number": 513273
+    },
+    "payment": {
+        "bank_name": "Rush, Ward and Holmes",
+        "bic": "MDFLGBRD",
+        "iban": "HZZV29216582888189"
+    },
+    "products": [
+        {
+            "amount": 433.25,
+            "description": "embrace back-end metrics",
+            "index": "7",
+            "price": 266.09,
+            "quantity": 7.83,
+            "tax_amount": 92.98,
+            "total_ttc": 418.33,
+            "vat_amount": 5.7
+        },
+        {
+            "amount": 152.0,
+            "description": "synthesize e-business applications",
+            "index": "9",
+            "price": 109.52,
+            "quantity": 2.77,
+            "tax_amount": 59.82,
+            "total_ttc": 312.44,
+            "vat_amount": 11.71
+        },
+        {
+            "amount": 394.67,
+            "description": "repurpose integrated content",
+            "index": "7",
+            "price": 405.23,
+            "quantity": 4.12,
+            "tax_amount": 60.38,
+            "total_ttc": 363.4,
+            "vat_amount": 5.11
+        },
+        {
+            "amount": 464.36,
+            "description": "syndicate customized action-items",
+            "index": "10",
+            "price": 258.56,
+            "quantity": 9.09,
+            "tax_amount": 51.39,
+            "total_ttc": 169.82,
+            "vat_amount": 10.87
+        },
+        {
+            "amount": 329.95,
+            "description": "grow enterprise interfaces",
+            "index": "8",
+            "price": 497.86,
+            "quantity": 7.6,
+            "tax_amount": 67.31,
+            "total_ttc": 492.02,
+            "vat_amount": 12.53
+        },
+        {
+            "amount": 313.79,
+            "description": "e-enable intuitive portals",
+            "index": "5",
+            "price": 403.88,
+            "quantity": 3.49,
+            "tax_amount": 70.18,
+            "total_ttc": 294.12,
+            "vat_amount": 15.09
+        },
+        {
+            "amount": 172.54,
+            "description": "harness frictionless web-readiness",
+            "index": "8",
+            "price": 37.99,
+            "quantity": 5.64,
+            "tax_amount": 83.9,
+            "total_ttc": 483.85,
+            "vat_amount": 3.41
+        }
+    ],
+    "seller": {
+        "name": "Mitchell Duffy"
+    },
+    "supplier": {
+        "address": "48470 Matthew Causeway Suite 842 West Ronald, WA 89927",
+        "name": "Karen Valdez"
+    },
+    "tax": {
+        "amount_excluding_tax": 140.98,
+        "amount_including_tax": 111.63,
+        "tax_amount": 12.61,
+        "total_ht": 252.84,
+        "total_ttc": 120.95
+    }
+}

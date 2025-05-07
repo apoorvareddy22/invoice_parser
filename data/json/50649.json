@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "USS Parker FPO AP 47366",
+        "id": "KX145"
+    },
+    "invoice": {
+        "bc_no": "iQ63572",
+        "currency_code": "BYR",
+        "date": "16.05.2019",
+        "due_date": "26.09.1991",
+        "number": 418391
+    },
+    "payment": {
+        "bank_name": "Chapman Ltd",
+        "bic": "MWDUGBTV5EI",
+        "iban": "EYVW90515453246903"
+    },
+    "products": [
+        {
+            "amount": 194.26,
+            "description": "deploy granular channels",
+            "index": "7",
+            "price": 184.55,
+            "quantity": 3.47,
+            "tax_amount": 67.84,
+            "total_ttc": 147.05,
+            "vat_amount": 7.44
+        },
+        {
+            "amount": 439.57,
+            "description": "generate visionary ROI",
+            "index": "7",
+            "price": 113.67,
+            "quantity": 7.6,
+            "tax_amount": 16.21,
+            "total_ttc": 203.61,
+            "vat_amount": 1.9
+        },
+        {
+            "amount": 131.74,
+            "description": "target turn-key initiatives",
+            "index": "6",
+            "price": 470.38,
+            "quantity": 4.63,
+            "tax_amount": 51.08,
+            "total_ttc": 137.3,
+            "vat_amount": 1.94
+        }
+    ],
+    "seller": {
+        "name": "Alyssa Reyes"
+    },
+    "supplier": {
+        "address": "17747 Farley Vista Tonyaborough, UT 84935",
+        "name": "Steven Green"
+    },
+    "tax": {
+        "amount_excluding_tax": 61.73,
+        "amount_including_tax": 55.52,
+        "tax_amount": 28.75,
+        "total_ht": 353.21,
+        "total_ttc": 151.47
+    }
+}

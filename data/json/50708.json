@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "7856 Flores Ville Apt. 213 Mendozabury, GU 79656",
+        "id": "Qc042"
+    },
+    "invoice": {
+        "bc_no": "qj42598",
+        "currency_code": "CUC",
+        "date": "04.05.2004",
+        "due_date": "09.01.1992",
+        "number": 790367
+    },
+    "payment": {
+        "bank_name": "Ferguson Group",
+        "bic": "WXFJGBGCNQ2",
+        "iban": "POFN16923761269174"
+    },
+    "products": [
+        {
+            "amount": 251.2,
+            "description": "brand strategic e-services",
+            "index": "1",
+            "price": 144.2,
+            "quantity": 8.31,
+            "tax_amount": 78.52,
+            "total_ttc": 387.47,
+            "vat_amount": 1.63
+        },
+        {
+            "amount": 454.36,
+            "description": "evolve scalable web-readiness",
+            "index": "2",
+            "price": 203.02,
+            "quantity": 4.11,
+            "tax_amount": 43.33,
+            "total_ttc": 155.3,
+            "vat_amount": 2.93
+        },
+        {
+            "amount": 375.81,
+            "description": "whiteboard granular e-commerce",
+            "index": "4",
+            "price": 211.62,
+            "quantity": 2.2,
+            "tax_amount": 63.67,
+            "total_ttc": 383.07,
+            "vat_amount": 0.4
+        },
+        {
+            "amount": 270.09,
+            "description": "grow visionary e-tailers",
+            "index": "1",
+            "price": 338.06,
+            "quantity": 1.23,
+            "tax_amount": 55.75,
+            "total_ttc": 457.24,
+            "vat_amount": 0.96
+        },
+        {
+            "amount": 472.98,
+            "description": "generate plug-and-play e-tailers",
+            "index": "3",
+            "price": 470.59,
+            "quantity": 4.9,
+            "tax_amount": 68.91,
+            "total_ttc": 129.81,
+            "vat_amount": 2.83
+        },
+        {
+            "amount": 276.12,
+            "description": "envisioneer innovative ROI",
+            "index": "5",
+            "price": 334.61,
+            "quantity": 6.7,
+            "tax_amount": 51.42,
+            "total_ttc": 250.86,
+            "vat_amount": 3.54
+        }
+    ],
+    "seller": {
+        "name": "Nicholas Fitzgerald"
+    },
+    "supplier": {
+        "address": "834 James Lock Apt. 426 South Derrick, GA 50907",
+        "name": "Douglas Cook"
+    },
+    "tax": {
+        "amount_excluding_tax": 117.32,
+        "amount_including_tax": 82.99,
+        "tax_amount": 12.59,
+        "total_ht": 217.91,
+        "total_ttc": 152.4
+    }
+}

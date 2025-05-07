@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "0722 Billy Rue Apt. 758 Martinezberg, AK 10553"
+    },
+    "invoice": {
+        "bc_no": "ia90887",
+        "date": "27.08.1995",
+        "maturity_date": "27.04.2017",
+        "number": 918630
+    },
+    "products": [
+        {
+            "amount": 24.58,
+            "description": "architect frictionless models",
+            "quantity": 6.3,
+            "unit_price": 87.17,
+            "vat_amount": 5.17
+        }
+    ],
+    "seller": {
+        "address": "3994 Valdez Views Lake Caitlin, MN 42578"
+    },
+    "tax": {
+        "amount_excluding_tax": 51.64,
+        "amount_including_tax": 23.23,
+        "tax_amount": 12.6
+    }
+}

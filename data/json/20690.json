@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "0362 Victoria Mills New John, MH 70373",
+        "company_name": "Arnold Inc",
+        "email": "taylorsamuel@example.org",
+        "name": "Evan Roman",
+        "phone": "4625063160"
+    },
+    "invoice": {
+        "date": "21.02.2011",
+        "due_date": "11.10.1995",
+        "number": "mjz40369028298"
+    },
+    "payment": {
+        "account_number": 7713034557,
+        "bank_name": "Young-Clark",
+        "routing_number": 234676507
+    },
+    "products": [
+        {
+            "amount": 196.32,
+            "description": "aggregate intuitive architectures",
+            "index": "8",
+            "quantity": 5.73,
+            "unit_price": 43.53
+        },
+        {
+            "amount": 483.94,
+            "description": "transform mission-critical e-business",
+            "index": "4",
+            "quantity": 5.63,
+            "unit_price": 14.75
+        },
+        {
+            "amount": 159.37,
+            "description": "aggregate B2B web services",
+            "index": "6",
+            "quantity": 5.08,
+            "unit_price": 89.49
+        },
+        {
+            "amount": 393.82,
+            "description": "scale clicks-and-mortar communities",
+            "index": "2",
+            "quantity": 8.97,
+            "unit_price": 85.12
+        },
+        {
+            "amount": 151.54,
+            "description": "scale wireless e-services",
+            "index": "1",
+            "quantity": 4.58,
+            "unit_price": 28.82
+        },
+        {
+            "amount": 293.16,
+            "description": "facilitate dot-com e-services",
+            "index": "7",
+            "quantity": 3.6,
+            "unit_price": 87.46
+        },
+        {
+            "amount": 222.49,
+            "description": "engage scalable schemas",
+            "index": "5",
+            "quantity": 3.32,
+            "unit_price": 73.4
+        }
+    ],
+    "seller": {
+        "address": "654 Samuel Stravenue Suite 063 South Timothyville, NM 89602",
+        "company_name": "Nichols-Rasmussen",
+        "email": "ericasanchez@example.com"
+    }
+}

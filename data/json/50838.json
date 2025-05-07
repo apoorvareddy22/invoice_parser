@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "46520 Moore Rapids North Brent, NE 67278",
+        "id": "eq032"
+    },
+    "invoice": {
+        "bc_no": "Ue34790",
+        "currency_code": "GBP",
+        "date": "16.11.1996",
+        "due_date": "27.11.2013",
+        "number": 837881
+    },
+    "payment": {
+        "bank_name": "Petty PLC",
+        "bic": "BDYXGBT7",
+        "iban": "SVVE13309802441789"
+    },
+    "products": [
+        {
+            "amount": 301.32,
+            "description": "unleash strategic ROI",
+            "index": "3",
+            "price": 430.0,
+            "quantity": 3.91,
+            "tax_amount": 53.03,
+            "total_ttc": 346.15,
+            "vat_amount": 2.88
+        }
+    ],
+    "seller": {
+        "name": "Angelica Villegas"
+    },
+    "supplier": {
+        "address": "9847 Autumn Spurs New Heather, MI 35717",
+        "name": "Lucas Farrell"
+    },
+    "tax": {
+        "amount_excluding_tax": 42.96,
+        "amount_including_tax": 191.71,
+        "tax_amount": 23.09,
+        "total_ht": 167.92,
+        "total_ttc": 316.06
+    }
+}

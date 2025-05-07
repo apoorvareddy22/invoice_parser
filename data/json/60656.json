@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "94194 Pamela Hills Codyshire, LA 78226",
+        "business_no": "OL914",
+        "id": "eq316"
+    },
+    "invoice": {
+        "date": "09.05.2023",
+        "number": "5273-7146"
+    },
+    "payment": {
+        "due_date": "04.01.2020",
+        "total": 849.18
+    },
+    "products": [
+        {
+            "amount": 130.79,
+            "description": "extend 24/365 convergence",
+            "quantity": 4.25,
+            "reference": "hV-705",
+            "unit_price": 32.97
+        },
+        {
+            "amount": 87.84,
+            "description": "reinvent cross-media partnerships",
+            "quantity": 7.39,
+            "reference": "sQ-318",
+            "unit_price": 33.09
+        },
+        {
+            "amount": 262.4,
+            "description": "utilize next-generation functionalities",
+            "quantity": 6.19,
+            "reference": "Vz-733",
+            "unit_price": 72.11
+        },
+        {
+            "amount": 118.03,
+            "description": "synergize efficient e-services",
+            "quantity": 7.39,
+            "reference": "SF-638",
+            "unit_price": 92.76
+        },
+        {
+            "amount": 435.15,
+            "description": "revolutionize value-added methodologies",
+            "quantity": 3.5,
+            "reference": "hv-563",
+            "unit_price": 43.37
+        },
+        {
+            "amount": 355.84,
+            "description": "brand visionary solutions",
+            "quantity": 6.05,
+            "reference": "Zx-188",
+            "unit_price": 67.41
+        },
+        {
+            "amount": 220.77,
+            "description": "facilitate innovative action-items",
+            "quantity": 4.15,
+            "reference": "MX-425",
+            "unit_price": 16.51
+        }
+    ],
+    "seller": {
+        "address": "810 Stephanie Bypass Apt. 196 Hayeston, UT 74408"
+    },
+    "tax": {
+        "base_ht": 201.96,
+        "regulations": 27.22,
+        "total_ht": 284.58,
+        "vat_amount": 193.96,
+        "vat_percentage": 14.0
+    }
+}

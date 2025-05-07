@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "249 Smith Trace Apt. 392 Mackenziechester, KS 70225",
+        "id": "GW875"
+    },
+    "invoice": {
+        "bc_no": "No75474",
+        "currency_code": "GNF",
+        "date": "20.12.1999",
+        "due_date": "02.11.1995",
+        "number": 121083
+    },
+    "payment": {
+        "bank_name": "Hart and Sons",
+        "bic": "HNWFGB1NADS",
+        "iban": "DUHQ06656506791650"
+    },
+    "products": [
+        {
+            "amount": 192.42,
+            "description": "exploit collaborative solutions",
+            "index": "6",
+            "price": 152.85,
+            "quantity": 8.47,
+            "tax_amount": 78.18,
+            "total_ttc": 231.07,
+            "vat_amount": 7.18
+        },
+        {
+            "amount": 282.79,
+            "description": "re-contextualize mission-critical niches",
+            "index": "2",
+            "price": 344.88,
+            "quantity": 2.69,
+            "tax_amount": 98.13,
+            "total_ttc": 351.18,
+            "vat_amount": 9.01
+        },
+        {
+            "amount": 171.96,
+            "description": "generate holistic mindshare",
+            "index": "7",
+            "price": 487.61,
+            "quantity": 5.45,
+            "tax_amount": 63.64,
+            "total_ttc": 208.66,
+            "vat_amount": 5.55
+        }
+    ],
+    "seller": {
+        "name": "Tina Freeman"
+    },
+    "supplier": {
+        "address": "76940 Miller Overpass Apt. 852 Chavezburgh, NY 11690",
+        "name": "Eric Anderson"
+    },
+    "tax": {
+        "amount_excluding_tax": 92.63,
+        "amount_including_tax": 23.71,
+        "tax_amount": 23.87,
+        "total_ht": 409.44,
+        "total_ttc": 427.44
+    }
+}

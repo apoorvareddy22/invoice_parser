@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "624 Merritt Brooks East Jeremybury, PA 22505",
+        "email": "ccrosby@example.org",
+        "phone": "7057274323",
+        "vat_no": "oW50623429919"
+    },
+    "invoice": {
+        "date": "29.11.2019",
+        "due_date": "02.03.2005",
+        "market_reference": 923857,
+        "notes": "morph rich metrics",
+        "number": "9695-9549",
+        "reference": 664745,
+        "vat_no": "iQ12100207710"
+    },
+    "payment": {
+        "net_total": 86.77,
+        "total": 685.67
+    },
+    "products": [
+        {
+            "amount": 292.78,
+            "description": "whiteboard front-end content",
+            "hours": 7.64,
+            "rate": 7.05
+        },
+        {
+            "amount": 307.91,
+            "description": "innovate dynamic channels",
+            "hours": 3.13,
+            "rate": 1.72
+        },
+        {
+            "amount": 17.68,
+            "description": "engineer transparent functionalities",
+            "hours": 8.51,
+            "rate": 3.9
+        },
+        {
+            "amount": 386.66,
+            "description": "re-contextualize one-to-one web services",
+            "hours": 1.76,
+            "rate": 5.99
+        },
+        {
+            "amount": 175.79,
+            "description": "seize dynamic content",
+            "hours": 4.36,
+            "rate": 1.08
+        }
+    ],
+    "seller": {
+        "address": "9307 Rodriguez Route Port Julie, AS 08429",
+        "email": "edwardjohnson@example.net",
+        "name": "Hannah Perez"
+    },
+    "tax": {
+        "base": 11.48,
+        "tax_amount": 20.44,
+        "total_tax": 25.61
+    }
+}

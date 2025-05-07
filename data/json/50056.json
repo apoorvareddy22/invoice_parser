@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "1666 Christopher Bypass Apt. 885 Zacharyfort, IN 31746",
+        "id": "gg886"
+    },
+    "invoice": {
+        "bc_no": "mS65990",
+        "currency_code": "CRC",
+        "date": "19.05.2016",
+        "due_date": "30.08.2011",
+        "number": 266833
+    },
+    "payment": {
+        "bank_name": "Garza-Mayo",
+        "bic": "ULJSGBX5WFS",
+        "iban": "LOPI91422721003862"
+    },
+    "products": [
+        {
+            "amount": 445.52,
+            "description": "empower e-business ROI",
+            "index": "10",
+            "price": 309.74,
+            "quantity": 6.61,
+            "tax_amount": 92.19,
+            "total_ttc": 403.14,
+            "vat_amount": 1.32
+        },
+        {
+            "amount": 75.15,
+            "description": "extend viral metrics",
+            "index": "9",
+            "price": 302.0,
+            "quantity": 2.32,
+            "tax_amount": 92.27,
+            "total_ttc": 257.53,
+            "vat_amount": 0.25
+        },
+        {
+            "amount": 169.33,
+            "description": "morph dot-com partnerships",
+            "index": "4",
+            "price": 276.95,
+            "quantity": 4.11,
+            "tax_amount": 99.27,
+            "total_ttc": 490.83,
+            "vat_amount": 17.22
+        },
+        {
+            "amount": 436.97,
+            "description": "cultivate out-of-the-box functionalities",
+            "index": "1",
+            "price": 169.39,
+            "quantity": 5.71,
+            "tax_amount": 14.37,
+            "total_ttc": 450.02,
+            "vat_amount": 1.82
+        },
+        {
+            "amount": 267.85,
+            "description": "architect global synergies",
+            "index": "9",
+            "price": 196.64,
+            "quantity": 3.98,
+            "tax_amount": 77.8,
+            "total_ttc": 441.39,
+            "vat_amount": 2.76
+        },
+        {
+            "amount": 23.11,
+            "description": "morph scalable e-commerce",
+            "index": "7",
+            "price": 359.81,
+            "quantity": 5.56,
+            "tax_amount": 98.39,
+            "total_ttc": 443.93,
+            "vat_amount": 5.27
+        }
+    ],
+    "seller": {
+        "name": "Hannah Fisher"
+    },
+    "supplier": {
+        "address": "73170 Ellis Inlet Apt. 114 Rodriguezfurt, MP 10794",
+        "name": "Jeffrey Madden"
+    },
+    "tax": {
+        "amount_excluding_tax": 59.7,
+        "amount_including_tax": 38.7,
+        "tax_amount": 21.3,
+        "total_ht": 383.6,
+        "total_ttc": 337.11
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "65049 Jessica View North Bettyberg, MA 41499",
+        "business_no": "Lx513",
+        "id": "sS846"
+    },
+    "invoice": {
+        "date": "24.08.1996",
+        "number": "4332-0870"
+    },
+    "payment": {
+        "due_date": "15.02.2015",
+        "total": 385.2
+    },
+    "products": [
+        {
+            "amount": 483.84,
+            "description": "optimize robust users",
+            "quantity": 7.54,
+            "reference": "Me-558",
+            "unit_price": 30.1
+        }
+    ],
+    "seller": {
+        "address": "0888 Brian Green Port Christopherfort, MS 49953"
+    },
+    "tax": {
+        "base_ht": 395.52,
+        "regulations": 26.34,
+        "total_ht": 498.74,
+        "vat_amount": 54.15,
+        "vat_percentage": 21.23
+    }
+}

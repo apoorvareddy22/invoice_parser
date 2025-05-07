@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "257 Jose Freeway East Glenda, RI 75470",
+        "email": "smithheather@example.net",
+        "phone": "001-676-438-9363x9748",
+        "vat_no": "FX61181027584"
+    },
+    "invoice": {
+        "date": "09.07.2010",
+        "due_date": "29.10.1990",
+        "market_reference": 445425,
+        "notes": "innovate e-business synergies",
+        "number": "5371-9585",
+        "reference": 357152,
+        "vat_no": "SB21598658466"
+    },
+    "payment": {
+        "net_total": 113.69,
+        "total": 768.64
+    },
+    "products": [
+        {
+            "amount": 305.23,
+            "description": "harness out-of-the-box e-tailers",
+            "hours": 10.0,
+            "rate": 7.2
+        },
+        {
+            "amount": 433.06,
+            "description": "deploy innovative functionalities",
+            "hours": 5.42,
+            "rate": 1.19
+        },
+        {
+            "amount": 82.54,
+            "description": "aggregate killer info-mediaries",
+            "hours": 6.52,
+            "rate": 8.06
+        }
+    ],
+    "seller": {
+        "address": "1289 Denise Cove Suite 638 Lake Richard, LA 02792",
+        "email": "robert13@example.com",
+        "name": "Jason Cook"
+    },
+    "tax": {
+        "base": 20.21,
+        "tax_amount": 25.2,
+        "total_tax": 16.26
+    }
+}

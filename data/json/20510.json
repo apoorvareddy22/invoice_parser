@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "873 Christopher Branch Apt. 650 Audreyside, PA 62012",
+        "company_name": "Pitts Ltd",
+        "email": "jose38@example.com",
+        "name": "Carol Lee",
+        "phone": "+1-949-449-0953x56205"
+    },
+    "invoice": {
+        "date": "15.02.2002",
+        "due_date": "02.12.2013",
+        "number": "EOj24779720214"
+    },
+    "payment": {
+        "account_number": 8161346541,
+        "bank_name": "Lee LLC",
+        "routing_number": 760657326
+    },
+    "products": [
+        {
+            "amount": 141.46,
+            "description": "re-intermediate cross-platform e-markets",
+            "index": "1",
+            "quantity": 4.11,
+            "unit_price": 18.14
+        },
+        {
+            "amount": 164.34,
+            "description": "facilitate cross-platform experiences",
+            "index": "7",
+            "quantity": 6.12,
+            "unit_price": 10.83
+        },
+        {
+            "amount": 10.29,
+            "description": "mesh bleeding-edge functionalities",
+            "index": "8",
+            "quantity": 5.71,
+            "unit_price": 22.53
+        },
+        {
+            "amount": 422.14,
+            "description": "leverage cross-platform architectures",
+            "index": "5",
+            "quantity": 7.76,
+            "unit_price": 11.19
+        },
+        {
+            "amount": 343.03,
+            "description": "unleash real-time vortals",
+            "index": "1",
+            "quantity": 8.88,
+            "unit_price": 65.48
+        }
+    ],
+    "seller": {
+        "address": "48501 Thomas Centers Apt. 992 Port Danielshire, MO 41013",
+        "company_name": "Fritz Group",
+        "email": "robynwilson@example.com"
+    }
+}

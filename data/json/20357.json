@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "55001 Johnson Glen Paulaburgh, NM 66013",
+        "company_name": "Davidson, Johnson and Burke",
+        "email": "grace82@example.net",
+        "name": "Alex Baird",
+        "phone": "517.899.4355x62563"
+    },
+    "invoice": {
+        "date": "02.10.2017",
+        "due_date": "17.10.1990",
+        "number": "Jkt81342223252"
+    },
+    "payment": {
+        "account_number": 7345474372,
+        "bank_name": "Thornton, Brown and Medina",
+        "routing_number": 173896752
+    },
+    "products": [
+        {
+            "amount": 242.37,
+            "description": "deploy B2C web services",
+            "index": "1",
+            "quantity": 6.55,
+            "unit_price": 67.69
+        },
+        {
+            "amount": 410.42,
+            "description": "re-contextualize compelling supply-chains",
+            "index": "10",
+            "quantity": 5.66,
+            "unit_price": 55.37
+        }
+    ],
+    "seller": {
+        "address": "2687 Herring Run Jacobborough, IA 49645",
+        "company_name": "Cook-Harris",
+        "email": "haneycraig@example.com"
+    }
+}

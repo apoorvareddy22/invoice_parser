@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "51567 Lawrence Plaza South Jessica, HI 85816",
+        "id": "De148"
+    },
+    "invoice": {
+        "bc_no": "IH61006",
+        "currency_code": "NOK",
+        "date": "07.01.2012",
+        "due_date": "22.09.2016",
+        "number": 708892
+    },
+    "payment": {
+        "bank_name": "White, Watson and Guzman",
+        "bic": "YEQAGBA2EQ2",
+        "iban": "ORTY95877623333084"
+    },
+    "products": [
+        {
+            "amount": 80.51,
+            "description": "morph real-time technologies",
+            "index": "2",
+            "price": 393.41,
+            "quantity": 9.44,
+            "tax_amount": 49.98,
+            "total_ttc": 223.4,
+            "vat_amount": 0.09
+        }
+    ],
+    "seller": {
+        "name": "Karina Baker"
+    },
+    "supplier": {
+        "address": "97200 Stewart Stream Apt. 294 Jeffreyton, CO 83372",
+        "name": "Travis Johnson"
+    },
+    "tax": {
+        "amount_excluding_tax": 56.3,
+        "amount_including_tax": 179.61,
+        "tax_amount": 12.98,
+        "total_ht": 133.74,
+        "total_ttc": 373.52
+    }
+}

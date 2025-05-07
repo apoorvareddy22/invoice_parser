@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "8289 Troy Ways Suite 946 Pamelaland, HI 34972",
+        "business_no": "gV508",
+        "id": "jC801"
+    },
+    "invoice": {
+        "date": "24.01.2010",
+        "number": "3833-9941"
+    },
+    "payment": {
+        "due_date": "26.12.2005",
+        "total": 194.29
+    },
+    "products": [
+        {
+            "amount": 60.7,
+            "description": "exploit B2C experiences",
+            "quantity": 8.27,
+            "reference": "JM-985",
+            "unit_price": 91.11
+        },
+        {
+            "amount": 316.45,
+            "description": "innovate interactive portals",
+            "quantity": 9.82,
+            "reference": "Pu-677",
+            "unit_price": 39.85
+        }
+    ],
+    "seller": {
+        "address": "94565 Cooper Plains South Lauraland, AL 20553"
+    },
+    "tax": {
+        "base_ht": 341.55,
+        "regulations": 16.1,
+        "total_ht": 252.69,
+        "vat_amount": 190.34,
+        "vat_percentage": 13.63
+    }
+}

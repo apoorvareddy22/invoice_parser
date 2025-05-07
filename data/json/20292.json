@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "USCGC Mitchell FPO AP 65177",
+        "company_name": "Barker Inc",
+        "email": "bowersjamie@example.org",
+        "name": "Michael Cooper",
+        "phone": "574.239.9697x22160"
+    },
+    "invoice": {
+        "date": "26.11.1991",
+        "due_date": "19.02.1992",
+        "number": "WMP51362248917"
+    },
+    "payment": {
+        "account_number": 4248427194,
+        "bank_name": "Armstrong-Todd",
+        "routing_number": 866410354
+    },
+    "products": [
+        {
+            "amount": 120.53,
+            "description": "generate turn-key e-markets",
+            "index": "2",
+            "quantity": 1.23,
+            "unit_price": 34.12
+        },
+        {
+            "amount": 396.66,
+            "description": "streamline 24/7 relationships",
+            "index": "5",
+            "quantity": 6.22,
+            "unit_price": 27.65
+        },
+        {
+            "amount": 31.48,
+            "description": "enable next-generation synergies",
+            "index": "2",
+            "quantity": 4.64,
+            "unit_price": 25.92
+        }
+    ],
+    "seller": {
+        "address": "77067 Mccullough Dam Harperstad, TX 67501",
+        "company_name": "Rodriguez Group",
+        "email": "shawrenee@example.com"
+    }
+}

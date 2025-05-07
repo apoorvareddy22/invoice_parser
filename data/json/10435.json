@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "193 Melinda Heights Wendybury, GU 97990",
+        "email": "lauren81@example.net",
+        "phone": "740-956-8032x5319",
+        "vat_no": "RR90740845621"
+    },
+    "invoice": {
+        "date": "14.08.2013",
+        "due_date": "11.01.1993",
+        "market_reference": 614064,
+        "notes": "morph real-time eyeballs",
+        "number": "6846-4886",
+        "reference": 724044,
+        "vat_no": "ZH10521217197"
+    },
+    "payment": {
+        "net_total": 126.99,
+        "total": 681.23
+    },
+    "products": [
+        {
+            "amount": 149.5,
+            "description": "exploit bleeding-edge web-readiness",
+            "hours": 8.17,
+            "rate": 8.46
+        },
+        {
+            "amount": 153.89,
+            "description": "revolutionize rich e-commerce",
+            "hours": 6.16,
+            "rate": 1.2
+        },
+        {
+            "amount": 176.69,
+            "description": "incubate bleeding-edge mindshare",
+            "hours": 5.35,
+            "rate": 9.98
+        },
+        {
+            "amount": 156.06,
+            "description": "transition compelling e-commerce",
+            "hours": 9.98,
+            "rate": 6.4
+        },
+        {
+            "amount": 87.35,
+            "description": "empower user-centric systems",
+            "hours": 8.06,
+            "rate": 8.15
+        }
+    ],
+    "seller": {
+        "address": "PSC 2857, Box 7337 APO AP 91471",
+        "email": "racheldonovan@example.org",
+        "name": "Courtney Wyatt"
+    },
+    "tax": {
+        "base": 13.53,
+        "tax_amount": 17.98,
+        "total_tax": 27.24
+    }
+}

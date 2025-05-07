@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "37347 Tucker Forge Apt. 435 New Shawn, AR 65591",
+        "id": "lV357"
+    },
+    "invoice": {
+        "bc_no": "Up58940",
+        "currency_code": "IMP",
+        "date": "12.11.1993",
+        "due_date": "11.09.2013",
+        "number": 109866
+    },
+    "payment": {
+        "bank_name": "Woodward LLC",
+        "bic": "ZSDYGB2N",
+        "iban": "ZGDO95179694277895"
+    },
+    "products": [
+        {
+            "amount": 466.59,
+            "description": "leverage wireless mindshare",
+            "index": "2",
+            "price": 271.48,
+            "quantity": 5.97,
+            "tax_amount": 54.18,
+            "total_ttc": 128.26,
+            "vat_amount": 0.17
+        },
+        {
+            "amount": 173.57,
+            "description": "matrix virtual convergence",
+            "index": "2",
+            "price": 226.44,
+            "quantity": 2.84,
+            "tax_amount": 50.36,
+            "total_ttc": 418.75,
+            "vat_amount": 4.49
+        },
+        {
+            "amount": 437.85,
+            "description": "aggregate cross-platform bandwidth",
+            "index": "7",
+            "price": 441.66,
+            "quantity": 5.54,
+            "tax_amount": 10.81,
+            "total_ttc": 415.92,
+            "vat_amount": 3.74
+        },
+        {
+            "amount": 49.8,
+            "description": "envisioneer cross-media metrics",
+            "index": "4",
+            "price": 88.75,
+            "quantity": 1.23,
+            "tax_amount": 26.32,
+            "total_ttc": 354.9,
+            "vat_amount": 4.2
+        },
+        {
+            "amount": 226.64,
+            "description": "envisioneer integrated schemas",
+            "index": "3",
+            "price": 155.32,
+            "quantity": 4.86,
+            "tax_amount": 33.84,
+            "total_ttc": 375.21,
+            "vat_amount": 10.75
+        },
+        {
+            "amount": 305.48,
+            "description": "target dynamic functionalities",
+            "index": "5",
+            "price": 379.7,
+            "quantity": 7.97,
+            "tax_amount": 65.12,
+            "total_ttc": 488.55,
+            "vat_amount": 5.08
+        },
+        {
+            "amount": 112.82,
+            "description": "reinvent B2C content",
+            "index": "1",
+            "price": 401.17,
+            "quantity": 8.97,
+            "tax_amount": 40.92,
+            "total_ttc": 129.76,
+            "vat_amount": 7.04
+        }
+    ],
+    "seller": {
+        "name": "Julia Miller"
+    },
+    "supplier": {
+        "address": "6741 Bentley Manors Johnfurt, FL 47460",
+        "name": "Benjamin Thornton"
+    },
+    "tax": {
+        "amount_excluding_tax": 125.47,
+        "amount_including_tax": 12.63,
+        "tax_amount": 23.46,
+        "total_ht": 456.2,
+        "total_ttc": 165.7
+    }
+}

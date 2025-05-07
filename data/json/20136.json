@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "1856 Baker Lock Gonzalezview, OR 54092",
+        "company_name": "Miller-Richmond",
+        "email": "freemanpeter@example.org",
+        "name": "Timothy Black",
+        "phone": "360-890-3405"
+    },
+    "invoice": {
+        "date": "12.11.1994",
+        "due_date": "27.09.2003",
+        "number": "ipl89730598216"
+    },
+    "payment": {
+        "account_number": 3016965185,
+        "bank_name": "Lee LLC",
+        "routing_number": 331246611
+    },
+    "products": [
+        {
+            "amount": 471.83,
+            "description": "generate magnetic experiences",
+            "index": "9",
+            "quantity": 4.52,
+            "unit_price": 75.18
+        },
+        {
+            "amount": 465.49,
+            "description": "architect seamless vortals",
+            "index": "4",
+            "quantity": 9.66,
+            "unit_price": 82.77
+        },
+        {
+            "amount": 480.09,
+            "description": "integrate enterprise functionalities",
+            "index": "3",
+            "quantity": 6.83,
+            "unit_price": 40.8
+        }
+    ],
+    "seller": {
+        "address": "06420 Walker Garden Stevenburgh, CA 96241",
+        "company_name": "Riley Inc",
+        "email": "onealmark@example.net"
+    }
+}

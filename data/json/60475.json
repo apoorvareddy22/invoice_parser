@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "60301 Montes Throughway Suite 575 Lake Anna, DC 71223",
+        "business_no": "jW059",
+        "id": "Ct963"
+    },
+    "invoice": {
+        "date": "01.03.2022",
+        "number": "5045-3120"
+    },
+    "payment": {
+        "due_date": "27.03.2001",
+        "total": 710.22
+    },
+    "products": [
+        {
+            "amount": 461.6,
+            "description": "brand seamless deliverables",
+            "quantity": 4.82,
+            "reference": "Ho-112",
+            "unit_price": 66.32
+        },
+        {
+            "amount": 142.91,
+            "description": "redefine 24/365 synergies",
+            "quantity": 2.58,
+            "reference": "zV-574",
+            "unit_price": 33.61
+        },
+        {
+            "amount": 382.48,
+            "description": "exploit efficient e-business",
+            "quantity": 4.73,
+            "reference": "zT-489",
+            "unit_price": 66.23
+        }
+    ],
+    "seller": {
+        "address": "983 Sanchez Locks Garcialand, RI 02822"
+    },
+    "tax": {
+        "base_ht": 311.94,
+        "regulations": 27.96,
+        "total_ht": 213.73,
+        "vat_amount": 114.4,
+        "vat_percentage": 10.79
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "463 Lopez Keys Apt. 877 North Carrie, DE 29715",
+        "company_name": "Harrison, Marsh and Moore",
+        "country": "Luxembourg",
+        "name": "Renee Long"
+    },
+    "invoice": {
+        "date": "27.04.2008",
+        "number": 923808
+    },
+    "payment": {
+        "discount_amount": 32.95,
+        "discount_percentage": 14.32,
+        "due": 102.41,
+        "sub_total": 110.35,
+        "total": 491.11
+    },
+    "products": [
+        {
+            "description": "grow 24/365 partnerships",
+            "index": "2",
+            "quantity": 2.15,
+            "total_price": 149.09,
+            "unit_price": 43.97
+        },
+        {
+            "description": "leverage next-generation bandwidth",
+            "index": "1",
+            "quantity": 9.94,
+            "total_price": 969.62,
+            "unit_price": 16.47
+        },
+        {
+            "description": "generate bleeding-edge e-services",
+            "index": "10",
+            "quantity": 1.9,
+            "total_price": 53.21,
+            "unit_price": 10.75
+        },
+        {
+            "description": "optimize granular metrics",
+            "index": "1",
+            "quantity": 6.53,
+            "total_price": 261.55,
+            "unit_price": 32.9
+        }
+    ],
+    "seller": {
+        "address": "Unit 7423 Box 3449 DPO AP 54834",
+        "company_name": "Savage, Arnold and Vasquez",
+        "vat_no": "mU99667860856"
+    }
+}

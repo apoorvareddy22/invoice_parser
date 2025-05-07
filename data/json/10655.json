@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "547 Griffith Pine Port Josephburgh, CO 44564",
+        "email": "hughesamanda@example.net",
+        "phone": "001-451-243-2372x641",
+        "vat_no": "Ad21408216098"
+    },
+    "invoice": {
+        "date": "09.09.2003",
+        "due_date": "02.08.2021",
+        "market_reference": 696741,
+        "notes": "evolve enterprise functionalities",
+        "number": "4557-0125",
+        "reference": 424544,
+        "vat_no": "AN88997702515"
+    },
+    "payment": {
+        "net_total": 156.64,
+        "total": 910.94
+    },
+    "products": [
+        {
+            "amount": 173.41,
+            "description": "enhance leading-edge mindshare",
+            "hours": 6.97,
+            "rate": 2.04
+        },
+        {
+            "amount": 399.75,
+            "description": "exploit vertical platforms",
+            "hours": 6.2,
+            "rate": 6.53
+        },
+        {
+            "amount": 439.06,
+            "description": "innovate visionary supply-chains",
+            "hours": 8.19,
+            "rate": 8.01
+        },
+        {
+            "amount": 475.8,
+            "description": "orchestrate next-generation methodologies",
+            "hours": 6.9,
+            "rate": 9.58
+        }
+    ],
+    "seller": {
+        "address": "583 Stacey Extensions Crystalmouth, KS 72446",
+        "email": "michael11@example.org",
+        "name": "Benjamin Barnes"
+    },
+    "tax": {
+        "base": 11.41,
+        "tax_amount": 23.97,
+        "total_tax": 14.59
+    }
+}

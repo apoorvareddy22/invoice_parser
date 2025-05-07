@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "54344 Susan Well Petersland, WV 48008",
+        "business_no": "mB615",
+        "id": "Gi722"
+    },
+    "invoice": {
+        "date": "17.04.1994",
+        "number": "6960-7681"
+    },
+    "payment": {
+        "due_date": "09.11.2022",
+        "total": 604.3
+    },
+    "products": [
+        {
+            "amount": 81.73,
+            "description": "synthesize distributed infrastructures",
+            "quantity": 3.07,
+            "reference": "KU-224",
+            "unit_price": 69.89
+        },
+        {
+            "amount": 50.35,
+            "description": "target integrated e-business",
+            "quantity": 4.03,
+            "reference": "Yb-629",
+            "unit_price": 23.67
+        }
+    ],
+    "seller": {
+        "address": "4338 Patel Drive Apt. 230 Sandraville, MH 29121"
+    },
+    "tax": {
+        "base_ht": 487.78,
+        "regulations": 27.94,
+        "total_ht": 124.01,
+        "vat_amount": 26.5,
+        "vat_percentage": 29.05
+    }
+}

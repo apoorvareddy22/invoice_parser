@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "77107 Kelly Way Williamsberg, TN 53765",
+        "company_name": "Madden-Martin",
+        "email": "greerbrian@example.com",
+        "name": "Larry Hale",
+        "phone": "8179522737"
+    },
+    "invoice": {
+        "date": "08.02.1993",
+        "due_date": "06.07.2022",
+        "number": "XfC72103096452"
+    },
+    "payment": {
+        "account_number": 9260664608,
+        "bank_name": "Elliott Inc",
+        "routing_number": 961873556
+    },
+    "products": [
+        {
+            "amount": 402.57,
+            "description": "unleash wireless experiences",
+            "index": "9",
+            "quantity": 1.92,
+            "unit_price": 62.42
+        },
+        {
+            "amount": 371.05,
+            "description": "streamline value-added markets",
+            "index": "2",
+            "quantity": 8.03,
+            "unit_price": 91.8
+        },
+        {
+            "amount": 387.57,
+            "description": "enhance back-end relationships",
+            "index": "8",
+            "quantity": 4.31,
+            "unit_price": 57.01
+        }
+    ],
+    "seller": {
+        "address": "339 Jacob Wells Apt. 485 South Zachary, AS 38692",
+        "company_name": "Marks and Sons",
+        "email": "pobrien@example.org"
+    }
+}

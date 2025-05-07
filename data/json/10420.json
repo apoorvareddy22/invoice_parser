@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "682 Smith Hills Kanestad, DE 12769",
+        "email": "albertperez@example.org",
+        "phone": "(595)314-1348x504",
+        "vat_no": "Xc22998917753"
+    },
+    "invoice": {
+        "date": "02.08.1997",
+        "due_date": "29.11.2013",
+        "market_reference": 604845,
+        "notes": "cultivate sticky paradigms",
+        "number": "1666-7844",
+        "reference": 270629,
+        "vat_no": "TG45723046511"
+    },
+    "payment": {
+        "net_total": 49.21,
+        "total": 414.1
+    },
+    "products": [
+        {
+            "amount": 419.89,
+            "description": "orchestrate magnetic eyeballs",
+            "hours": 5.56,
+            "rate": 9.71
+        },
+        {
+            "amount": 66.61,
+            "description": "redefine B2C vortals",
+            "hours": 7.78,
+            "rate": 6.7
+        },
+        {
+            "amount": 480.49,
+            "description": "exploit magnetic solutions",
+            "hours": 5.56,
+            "rate": 2.96
+        },
+        {
+            "amount": 354.33,
+            "description": "re-intermediate strategic synergies",
+            "hours": 6.5,
+            "rate": 8.1
+        },
+        {
+            "amount": 9.89,
+            "description": "cultivate collaborative models",
+            "hours": 7.29,
+            "rate": 5.44
+        }
+    ],
+    "seller": {
+        "address": "65277 Booker Pass Loweryville, GA 62205",
+        "email": "michaelmoore@example.org",
+        "name": "Craig Patel"
+    },
+    "tax": {
+        "base": 26.83,
+        "tax_amount": 25.97,
+        "total_tax": 21.09
+    }
+}

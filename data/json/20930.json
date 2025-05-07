@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "377 Hawkins Extensions Kelseyport, FM 08090",
+        "company_name": "Blackburn PLC",
+        "email": "annanichols@example.org",
+        "name": "Jason Diaz",
+        "phone": "513.727.0037x7974"
+    },
+    "invoice": {
+        "date": "25.03.1995",
+        "due_date": "10.12.2014",
+        "number": "rdE18259269186"
+    },
+    "payment": {
+        "account_number": 3545531289,
+        "bank_name": "Rodriguez, Griffin and Alexander",
+        "routing_number": 954174646
+    },
+    "products": [
+        {
+            "amount": 435.91,
+            "description": "deploy one-to-one solutions",
+            "index": "5",
+            "quantity": 1.05,
+            "unit_price": 38.11
+        },
+        {
+            "amount": 434.78,
+            "description": "facilitate bricks-and-clicks mindshare",
+            "index": "5",
+            "quantity": 6.48,
+            "unit_price": 30.63
+        },
+        {
+            "amount": 268.42,
+            "description": "exploit innovative architectures",
+            "index": "4",
+            "quantity": 9.08,
+            "unit_price": 38.21
+        },
+        {
+            "amount": 349.75,
+            "description": "harness synergistic synergies",
+            "index": "1",
+            "quantity": 6.39,
+            "unit_price": 85.76
+        }
+    ],
+    "seller": {
+        "address": "619 Sarah Parkways North Teresa, WI 61307",
+        "company_name": "Stephenson, Smith and Bauer",
+        "email": "jayadams@example.org"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "buyer": {
+        "address": "5943 Medina Square Dunnberg, OR 53091",
+        "company_name": "Miller and Sons",
+        "country": "Iran",
+        "email": "burnsdakota@example.net",
+        "name": "Nicole Graves",
+        "phone": "(234)220-8521",
+        "vat_no": "yQ53940030360"
+    },
+    "invoice": {
+        "date": "28.12.2013",
+        "due_date": "30.01.2012",
+        "linked_invoice": "fe-5950-3841",
+        "notes": "enhance distributed networks",
+        "number": "nE-8241-2222"
+    },
+    "products": [
+        {
+            "description": "e-enable plug-and-play e-business",
+            "discount_percentage": 9.15,
+            "price": 11.37,
+            "quantity": 7.86,
+            "unit_price": 19.33
+        },
+        {
+            "description": "disintermediate B2B e-commerce",
+            "discount_percentage": 14.98,
+            "price": 408.54,
+            "quantity": 2.24,
+            "unit_price": 89.08
+        },
+        {
+            "description": "matrix intuitive functionalities",
+            "discount_percentage": 8.67,
+            "price": 470.4,
+            "quantity": 3.91,
+            "unit_price": 88.11
+        },
+        {
+            "description": "benchmark back-end portals",
+            "discount_percentage": 6.88,
+            "price": 122.11,
+            "quantity": 7.68,
+            "unit_price": 34.27
+        },
+        {
+            "description": "evolve compelling niches",
+            "discount_percentage": 7.74,
+            "price": 428.99,
+            "quantity": 4.83,
+            "unit_price": 65.93
+        }
+    ],
+    "seller": {
+        "address": "99603 Smith Port Davistown, DC 56905",
+        "ape": "0130n",
+        "capital": 42758319,
+        "country": "North Macedonia",
+        "email": "brianflores@example.net",
+        "name": "Julian Brown",
+        "phone_1": "4389813388",
+        "phone_2": "990-228-8276",
+        "phone_3": "879-498-1007",
+        "ref_walk": "HNFd4188",
+        "reference": "UK759",
+        "siret": 11084927373233,
+        "vat_no": "Ou12100547709",
+        "website": "https://www.pierce-smith.com/"
+    },
+    "tax": {
+        "amount_0": 24.11,
+        "amount_1": 11.87,
+        "base_0": 15.85,
+        "base_1": 79.83,
+        "total_ht": 452.67,
+        "total_tax": 17.88,
+        "total_ttc": 407.5,
+        "vat_0": 22.76,
+        "vat_1": 28.12
+    }
+}

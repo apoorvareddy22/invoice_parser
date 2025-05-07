@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "245 John Neck Suite 671 Port Vanessa, DE 93556",
+        "email": "jenniferaustin@example.com",
+        "phone": "410.864.5407",
+        "vat_no": "EH86224159976"
+    },
+    "invoice": {
+        "date": "25.07.2015",
+        "due_date": "12.12.1998",
+        "market_reference": 672225,
+        "notes": "productize clicks-and-mortar info-mediaries",
+        "number": "1365-8481",
+        "reference": 522744,
+        "vat_no": "Gu39824276883"
+    },
+    "payment": {
+        "net_total": 103.85,
+        "total": 965.77
+    },
+    "products": [
+        {
+            "amount": 39.7,
+            "description": "envisioneer 24/7 eyeballs",
+            "hours": 9.23,
+            "rate": 2.75
+        },
+        {
+            "amount": 449.91,
+            "description": "maximize mission-critical markets",
+            "hours": 3.91,
+            "rate": 7.52
+        },
+        {
+            "amount": 336.27,
+            "description": "reinvent viral e-tailers",
+            "hours": 6.38,
+            "rate": 1.75
+        },
+        {
+            "amount": 60.18,
+            "description": "mesh viral relationships",
+            "hours": 3.09,
+            "rate": 5.24
+        },
+        {
+            "amount": 77.68,
+            "description": "scale cross-platform deliverables",
+            "hours": 6.92,
+            "rate": 1.47
+        },
+        {
+            "amount": 20.81,
+            "description": "whiteboard clicks-and-mortar action-items",
+            "hours": 6.44,
+            "rate": 3.72
+        },
+        {
+            "amount": 239.31,
+            "description": "transform bricks-and-clicks portals",
+            "hours": 5.69,
+            "rate": 8.08
+        }
+    ],
+    "seller": {
+        "address": "PSC 2653, Box 5092 APO AA 56427",
+        "email": "johnsonmatthew@example.com",
+        "name": "Shannon Flores"
+    },
+    "tax": {
+        "base": 10.58,
+        "tax_amount": 14.89,
+        "total_tax": 19.21
+    }
+}

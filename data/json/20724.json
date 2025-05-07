@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "417 Summers Ferry Apt. 544 Pettymouth, ND 76977",
+        "company_name": "Lopez LLC",
+        "email": "malik86@example.net",
+        "name": "Angela Jenkins",
+        "phone": "001-936-574-1462x96325"
+    },
+    "invoice": {
+        "date": "20.02.2007",
+        "due_date": "04.09.2009",
+        "number": "VNV01695356927"
+    },
+    "payment": {
+        "account_number": 1266419520,
+        "bank_name": "Santana Ltd",
+        "routing_number": 322957453
+    },
+    "products": [
+        {
+            "amount": 235.14,
+            "description": "grow bleeding-edge web services",
+            "index": "7",
+            "quantity": 6.96,
+            "unit_price": 71.57
+        },
+        {
+            "amount": 140.33,
+            "description": "synthesize virtual e-tailers",
+            "index": "4",
+            "quantity": 8.39,
+            "unit_price": 55.78
+        },
+        {
+            "amount": 253.73,
+            "description": "leverage impactful technologies",
+            "index": "9",
+            "quantity": 2.39,
+            "unit_price": 93.25
+        },
+        {
+            "amount": 254.28,
+            "description": "drive visionary applications",
+            "index": "5",
+            "quantity": 2.03,
+            "unit_price": 50.0
+        }
+    ],
+    "seller": {
+        "address": "9830 Reed Course Lopezville, WV 36945",
+        "company_name": "Colon, Hendrix and Zimmerman",
+        "email": "amber29@example.net"
+    }
+}

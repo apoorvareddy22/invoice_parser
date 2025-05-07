@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "44005 Leslie Ford Suite 279 Robertberg, WA 87731"
+    },
+    "invoice": {
+        "bc_no": "qQ53304",
+        "date": "04.02.2016",
+        "maturity_date": "15.02.2003",
+        "number": 485779
+    },
+    "products": [
+        {
+            "amount": 76.8,
+            "description": "streamline open-source e-tailers",
+            "quantity": 6.33,
+            "unit_price": 11.44,
+            "vat_amount": 3.78
+        },
+        {
+            "amount": 277.87,
+            "description": "enable global content",
+            "quantity": 7.38,
+            "unit_price": 33.52,
+            "vat_amount": 0.05
+        }
+    ],
+    "seller": {
+        "address": "9798 Timothy Meadow Derekhaven, ND 57584"
+    },
+    "tax": {
+        "amount_excluding_tax": 161.7,
+        "amount_including_tax": 21.25,
+        "tax_amount": 13.18
+    }
+}

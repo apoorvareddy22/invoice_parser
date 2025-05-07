@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "95225 Simmons Trafficway Suite 396 Justinville, KY 40030"
+    },
+    "invoice": {
+        "bc_no": "fh34459",
+        "date": "21.05.2002",
+        "maturity_date": "21.02.2018",
+        "number": 638678
+    },
+    "products": [
+        {
+            "amount": 311.82,
+            "description": "whiteboard impactful e-services",
+            "quantity": 4.83,
+            "unit_price": 47.88,
+            "vat_amount": 0.08
+        },
+        {
+            "amount": 244.87,
+            "description": "utilize visionary web-readiness",
+            "quantity": 2.28,
+            "unit_price": 97.04,
+            "vat_amount": 3.64
+        }
+    ],
+    "seller": {
+        "address": "5972 Brittany Meadow East Andrewberg, NH 77014"
+    },
+    "tax": {
+        "amount_excluding_tax": 26.23,
+        "amount_including_tax": 113.04,
+        "tax_amount": 20.49
+    }
+}

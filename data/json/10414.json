@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "Unit 4067 Box 8758 DPO AP 03219",
+        "email": "cnelson@example.org",
+        "phone": "(424)851-8444x65728",
+        "vat_no": "mK20443262005"
+    },
+    "invoice": {
+        "date": "02.11.2013",
+        "due_date": "02.07.1998",
+        "market_reference": 538024,
+        "notes": "iterate plug-and-play methodologies",
+        "number": "8528-7739",
+        "reference": 583042,
+        "vat_no": "vN80344212558"
+    },
+    "payment": {
+        "net_total": 106.63,
+        "total": 671.85
+    },
+    "products": [
+        {
+            "amount": 52.04,
+            "description": "target mission-critical e-tailers",
+            "hours": 6.33,
+            "rate": 7.92
+        },
+        {
+            "amount": 381.71,
+            "description": "enhance distributed web services",
+            "hours": 2.48,
+            "rate": 1.67
+        },
+        {
+            "amount": 28.86,
+            "description": "incentivize sticky ROI",
+            "hours": 3.33,
+            "rate": 3.18
+        }
+    ],
+    "seller": {
+        "address": "8992 Nelson Cove Apt. 646 Lake Scottland, CA 88973",
+        "email": "kflowers@example.com",
+        "name": "Emily Randolph"
+    },
+    "tax": {
+        "base": 14.35,
+        "tax_amount": 20.95,
+        "total_tax": 20.91
+    }
+}

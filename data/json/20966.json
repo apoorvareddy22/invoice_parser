@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "2042 Kristopher Route Knightchester, AS 85056",
+        "company_name": "Davis Group",
+        "email": "paul88@example.com",
+        "name": "Cassandra Jones",
+        "phone": "+1-887-842-5200x18145"
+    },
+    "invoice": {
+        "date": "14.09.2019",
+        "due_date": "06.06.2015",
+        "number": "EQk98252212640"
+    },
+    "payment": {
+        "account_number": 2939213717,
+        "bank_name": "Jimenez-Reynolds",
+        "routing_number": 249290372
+    },
+    "products": [
+        {
+            "amount": 202.02,
+            "description": "architect front-end vortals",
+            "index": "7",
+            "quantity": 2.26,
+            "unit_price": 15.2
+        }
+    ],
+    "seller": {
+        "address": "374 Megan Expressway Lake Caitlin, WV 40239",
+        "company_name": "Stuart, Buchanan and Vazquez",
+        "email": "martinezsandra@example.com"
+    }
+}

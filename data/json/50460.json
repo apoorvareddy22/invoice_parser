@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "1794 Tina Center Suite 722 Jonmouth, MS 88462",
+        "id": "Ar254"
+    },
+    "invoice": {
+        "bc_no": "wO26841",
+        "currency_code": "MNT",
+        "date": "21.10.2005",
+        "due_date": "09.07.2001",
+        "number": 911882
+    },
+    "payment": {
+        "bank_name": "Howard, Williams and Obrien",
+        "bic": "ICWPGBE6",
+        "iban": "HHHH12631972062015"
+    },
+    "products": [
+        {
+            "amount": 291.45,
+            "description": "deliver integrated web services",
+            "index": "9",
+            "price": 175.2,
+            "quantity": 3.88,
+            "tax_amount": 40.58,
+            "total_ttc": 281.64,
+            "vat_amount": 2.01
+        },
+        {
+            "amount": 276.73,
+            "description": "enable compelling communities",
+            "index": "7",
+            "price": 393.43,
+            "quantity": 6.15,
+            "tax_amount": 45.22,
+            "total_ttc": 348.25,
+            "vat_amount": 3.75
+        },
+        {
+            "amount": 41.09,
+            "description": "monetize one-to-one web services",
+            "index": "10",
+            "price": 326.33,
+            "quantity": 4.4,
+            "tax_amount": 34.58,
+            "total_ttc": 456.0,
+            "vat_amount": 6.03
+        },
+        {
+            "amount": 11.46,
+            "description": "re-intermediate next-generation vortals",
+            "index": "9",
+            "price": 351.23,
+            "quantity": 8.27,
+            "tax_amount": 26.28,
+            "total_ttc": 245.16,
+            "vat_amount": 8.37
+        },
+        {
+            "amount": 498.12,
+            "description": "re-intermediate clicks-and-mortar supply-chains",
+            "index": "8",
+            "price": 217.09,
+            "quantity": 5.04,
+            "tax_amount": 27.14,
+            "total_ttc": 191.14,
+            "vat_amount": 0.09
+        }
+    ],
+    "seller": {
+        "name": "Jennifer Stephens"
+    },
+    "supplier": {
+        "address": "28989 Adams Harbor North John, NE 46153",
+        "name": "Rachel Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 103.89,
+        "amount_including_tax": 182.65,
+        "tax_amount": 15.93,
+        "total_ht": 100.89,
+        "total_ttc": 461.62
+    }
+}

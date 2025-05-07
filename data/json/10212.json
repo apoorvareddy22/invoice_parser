@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "PSC 7841, Box 6300 APO AP 62120",
+        "email": "smithmitchell@example.com",
+        "phone": "(856)802-7504x7994",
+        "vat_no": "Xb06594962486"
+    },
+    "invoice": {
+        "date": "21.07.2007",
+        "due_date": "19.04.2023",
+        "market_reference": 601062,
+        "notes": "leverage interactive e-markets",
+        "number": "2337-6256",
+        "reference": 941901,
+        "vat_no": "FG32003880299"
+    },
+    "payment": {
+        "net_total": 156.94,
+        "total": 535.63
+    },
+    "products": [
+        {
+            "amount": 430.6,
+            "description": "re-intermediate distributed models",
+            "hours": 8.15,
+            "rate": 6.68
+        },
+        {
+            "amount": 390.12,
+            "description": "target granular e-business",
+            "hours": 2.67,
+            "rate": 9.74
+        },
+        {
+            "amount": 89.84,
+            "description": "repurpose strategic synergies",
+            "hours": 9.47,
+            "rate": 8.44
+        },
+        {
+            "amount": 48.5,
+            "description": "deploy value-added mindshare",
+            "hours": 5.85,
+            "rate": 1.88
+        },
+        {
+            "amount": 11.34,
+            "description": "benchmark scalable synergies",
+            "hours": 8.58,
+            "rate": 8.85
+        },
+        {
+            "amount": 447.72,
+            "description": "revolutionize granular methodologies",
+            "hours": 7.83,
+            "rate": 4.36
+        }
+    ],
+    "seller": {
+        "address": "2923 Timothy Square Apt. 316 Gregorybury, ND 70657",
+        "email": "jennifer73@example.net",
+        "name": "Eric Smith"
+    },
+    "tax": {
+        "base": 18.15,
+        "tax_amount": 23.99,
+        "total_tax": 13.01
+    }
+}

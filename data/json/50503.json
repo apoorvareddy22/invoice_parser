@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "22836 Joshua Hills Apt. 795 Whitneystad, MA 29211",
+        "id": "tx314"
+    },
+    "invoice": {
+        "bc_no": "tT69067",
+        "currency_code": "FJD",
+        "date": "21.08.2009",
+        "due_date": "20.03.2020",
+        "number": 178559
+    },
+    "payment": {
+        "bank_name": "Whitaker LLC",
+        "bic": "LLAWGBJ6R5G",
+        "iban": "ARQT64013953258547"
+    },
+    "products": [
+        {
+            "amount": 262.11,
+            "description": "matrix dynamic communities",
+            "index": "3",
+            "price": 170.43,
+            "quantity": 5.02,
+            "tax_amount": 49.51,
+            "total_ttc": 359.01,
+            "vat_amount": 1.42
+        }
+    ],
+    "seller": {
+        "name": "Anthony Waller"
+    },
+    "supplier": {
+        "address": "15410 Bobby Roads Lake Jorgefurt, NM 80269",
+        "name": "Donald Rivera"
+    },
+    "tax": {
+        "amount_excluding_tax": 71.04,
+        "amount_including_tax": 194.99,
+        "tax_amount": 26.45,
+        "total_ht": 105.0,
+        "total_ttc": 369.49
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "214 Charles Falls Suite 017 Brandiland, IN 76581",
+        "id": "xa473"
+    },
+    "invoice": {
+        "bc_no": "pX46463",
+        "currency_code": "ERN",
+        "date": "25.12.1998",
+        "due_date": "04.08.1996",
+        "number": 181699
+    },
+    "payment": {
+        "bank_name": "Taylor-Smith",
+        "bic": "LUQNGBFD",
+        "iban": "QZMD10688363774913"
+    },
+    "products": [
+        {
+            "amount": 331.34,
+            "description": "generate vertical initiatives",
+            "index": "3",
+            "price": 114.48,
+            "quantity": 1.96,
+            "tax_amount": 72.16,
+            "total_ttc": 279.64,
+            "vat_amount": 12.35
+        },
+        {
+            "amount": 98.46,
+            "description": "deliver strategic supply-chains",
+            "index": "10",
+            "price": 435.01,
+            "quantity": 3.35,
+            "tax_amount": 55.75,
+            "total_ttc": 372.6,
+            "vat_amount": 7.0
+        },
+        {
+            "amount": 194.33,
+            "description": "drive rich supply-chains",
+            "index": "10",
+            "price": 253.95,
+            "quantity": 6.46,
+            "tax_amount": 75.55,
+            "total_ttc": 188.71,
+            "vat_amount": 1.51
+        },
+        {
+            "amount": 42.36,
+            "description": "extend leading-edge action-items",
+            "index": "10",
+            "price": 311.84,
+            "quantity": 3.58,
+            "tax_amount": 58.75,
+            "total_ttc": 216.58,
+            "vat_amount": 3.35
+        }
+    ],
+    "seller": {
+        "name": "Stephanie Richardson"
+    },
+    "supplier": {
+        "address": "0918 Higgins Summit Apt. 578 West Kendra, SD 43516",
+        "name": "Nicole Wright"
+    },
+    "tax": {
+        "amount_excluding_tax": 108.06,
+        "amount_including_tax": 106.06,
+        "tax_amount": 29.53,
+        "total_ht": 292.22,
+        "total_ttc": 338.55
+    }
+}

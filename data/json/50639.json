@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "476 Kim Mews Amandahaven, VI 22991",
+        "id": "qF744"
+    },
+    "invoice": {
+        "bc_no": "rk78587",
+        "currency_code": "GHS",
+        "date": "04.08.2020",
+        "due_date": "25.11.2013",
+        "number": 666853
+    },
+    "payment": {
+        "bank_name": "Baker-Wheeler",
+        "bic": "ERRHGBJI7TX",
+        "iban": "IFVI95994149673764"
+    },
+    "products": [
+        {
+            "amount": 394.85,
+            "description": "repurpose cutting-edge e-markets",
+            "index": "9",
+            "price": 244.01,
+            "quantity": 2.35,
+            "tax_amount": 53.2,
+            "total_ttc": 461.86,
+            "vat_amount": 10.18
+        },
+        {
+            "amount": 317.72,
+            "description": "evolve clicks-and-mortar info-mediaries",
+            "index": "8",
+            "price": 47.63,
+            "quantity": 5.86,
+            "tax_amount": 64.18,
+            "total_ttc": 167.71,
+            "vat_amount": 10.46
+        }
+    ],
+    "seller": {
+        "name": "Christian Smith PhD"
+    },
+    "supplier": {
+        "address": "92527 Anderson Turnpike South Christopher, NM 08702",
+        "name": "Blake Wheeler"
+    },
+    "tax": {
+        "amount_excluding_tax": 17.39,
+        "amount_including_tax": 99.03,
+        "tax_amount": 16.33,
+        "total_ht": 149.13,
+        "total_ttc": 483.39
+    }
+}

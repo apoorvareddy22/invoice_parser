@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "3475 Jason Shoals Suite 882 East Jasonbury, MH 65461",
+        "business_no": "Qc128",
+        "id": "IW759"
+    },
+    "invoice": {
+        "date": "17.01.2007",
+        "number": "4174-6686"
+    },
+    "payment": {
+        "due_date": "04.09.1993",
+        "total": 848.82
+    },
+    "products": [
+        {
+            "amount": 91.69,
+            "description": "brand customized eyeballs",
+            "quantity": 8.2,
+            "reference": "Ma-945",
+            "unit_price": 42.2
+        },
+        {
+            "amount": 109.02,
+            "description": "engineer plug-and-play solutions",
+            "quantity": 9.82,
+            "reference": "ri-538",
+            "unit_price": 93.44
+        },
+        {
+            "amount": 390.6,
+            "description": "drive granular e-business",
+            "quantity": 2.44,
+            "reference": "Hj-049",
+            "unit_price": 67.04
+        }
+    ],
+    "seller": {
+        "address": "552 Meyers Cove Anthonyfurt, GA 46592"
+    },
+    "tax": {
+        "base_ht": 178.8,
+        "regulations": 27.44,
+        "total_ht": 193.56,
+        "vat_amount": 186.24,
+        "vat_percentage": 25.51
+    }
+}

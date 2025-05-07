@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "93991 Burns Throughway Thomasmouth, DE 66477",
+        "company_name": "Young, Santiago and Nixon",
+        "email": "hannah67@example.org",
+        "name": "Elizabeth Chavez",
+        "phone": "782-610-3314"
+    },
+    "invoice": {
+        "date": "20.08.1995",
+        "due_date": "21.07.2022",
+        "number": "yuZ12474219069"
+    },
+    "payment": {
+        "account_number": 3124020307,
+        "bank_name": "Montoya Group",
+        "routing_number": 214250940
+    },
+    "products": [
+        {
+            "amount": 438.94,
+            "description": "mesh cross-platform interfaces",
+            "index": "8",
+            "quantity": 8.96,
+            "unit_price": 87.62
+        },
+        {
+            "amount": 185.73,
+            "description": "embrace intuitive functionalities",
+            "index": "5",
+            "quantity": 4.63,
+            "unit_price": 68.71
+        },
+        {
+            "amount": 265.81,
+            "description": "transform 24/7 deliverables",
+            "index": "7",
+            "quantity": 7.58,
+            "unit_price": 40.15
+        }
+    ],
+    "seller": {
+        "address": "98521 Michelle Stravenue West Joseph, AK 07222",
+        "company_name": "Nelson and Sons",
+        "email": "erikacurtis@example.org"
+    }
+}

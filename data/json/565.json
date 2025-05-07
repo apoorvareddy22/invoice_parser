@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "Unit 0045 Box 9142 DPO AA 69297",
+        "company_name": "King-Smith",
+        "country": "French Southern Territories",
+        "name": "James Wolfe"
+    },
+    "invoice": {
+        "date": "07.03.2005",
+        "number": 721307
+    },
+    "payment": {
+        "discount_amount": 44.64,
+        "discount_percentage": 13.7,
+        "due": 94.03,
+        "sub_total": 134.18,
+        "total": 861.11
+    },
+    "products": [
+        {
+            "description": "benchmark cross-media models",
+            "index": "6",
+            "quantity": 3.04,
+            "total_price": 339.45,
+            "unit_price": 13.49
+        }
+    ],
+    "seller": {
+        "address": "8351 Nicholas Turnpike Chadborough, NY 47262",
+        "company_name": "Adams, Zamora and Hayes",
+        "vat_no": "vi46234371254"
+    }
+}

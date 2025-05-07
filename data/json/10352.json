@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "8533 Jessica Ranch Suite 017 Cheyennestad, AL 72900",
+        "email": "mariahwhite@example.com",
+        "phone": "+1-442-228-8942x231",
+        "vat_no": "FW21423688016"
+    },
+    "invoice": {
+        "date": "24.06.1991",
+        "due_date": "04.06.2008",
+        "market_reference": 839494,
+        "notes": "visualize back-end portals",
+        "number": "6480-5148",
+        "reference": 946030,
+        "vat_no": "yn95596366162"
+    },
+    "payment": {
+        "net_total": 55.22,
+        "total": 572.03
+    },
+    "products": [
+        {
+            "amount": 149.22,
+            "description": "deploy efficient applications",
+            "hours": 2.29,
+            "rate": 3.84
+        },
+        {
+            "amount": 413.7,
+            "description": "transition collaborative e-markets",
+            "hours": 8.02,
+            "rate": 8.66
+        },
+        {
+            "amount": 105.43,
+            "description": "leverage integrated systems",
+            "hours": 3.95,
+            "rate": 3.62
+        },
+        {
+            "amount": 413.21,
+            "description": "re-contextualize dot-com metrics",
+            "hours": 7.18,
+            "rate": 8.57
+        }
+    ],
+    "seller": {
+        "address": "911 Short Bridge Evanland, WV 83935",
+        "email": "michael93@example.com",
+        "name": "Alfred Hansen"
+    },
+    "tax": {
+        "base": 20.44,
+        "tax_amount": 29.56,
+        "total_tax": 20.76
+    }
+}

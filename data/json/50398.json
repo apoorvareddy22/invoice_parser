@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "07402 Regina Rest Apt. 131 Ellisland, WV 38742",
+        "id": "uJ410"
+    },
+    "invoice": {
+        "bc_no": "fu77694",
+        "currency_code": "SZL",
+        "date": "23.12.1990",
+        "due_date": "10.10.2017",
+        "number": 819496
+    },
+    "payment": {
+        "bank_name": "Contreras-Levy",
+        "bic": "HMZMGBR64HL",
+        "iban": "BAUJ94552544259347"
+    },
+    "products": [
+        {
+            "amount": 366.94,
+            "description": "generate sticky convergence",
+            "index": "7",
+            "price": 140.37,
+            "quantity": 8.78,
+            "tax_amount": 29.37,
+            "total_ttc": 380.09,
+            "vat_amount": 3.01
+        },
+        {
+            "amount": 174.19,
+            "description": "seize transparent vortals",
+            "index": "6",
+            "price": 202.06,
+            "quantity": 5.6,
+            "tax_amount": 45.71,
+            "total_ttc": 156.96,
+            "vat_amount": 2.62
+        },
+        {
+            "amount": 16.09,
+            "description": "whiteboard clicks-and-mortar infrastructures",
+            "index": "7",
+            "price": 395.99,
+            "quantity": 4.31,
+            "tax_amount": 36.4,
+            "total_ttc": 435.53,
+            "vat_amount": 6.22
+        },
+        {
+            "amount": 330.54,
+            "description": "strategize visionary synergies",
+            "index": "10",
+            "price": 280.58,
+            "quantity": 1.42,
+            "tax_amount": 26.56,
+            "total_ttc": 211.77,
+            "vat_amount": 3.06
+        },
+        {
+            "amount": 218.97,
+            "description": "benchmark leading-edge functionalities",
+            "index": "3",
+            "price": 407.06,
+            "quantity": 5.12,
+            "tax_amount": 20.89,
+            "total_ttc": 422.41,
+            "vat_amount": 8.5
+        }
+    ],
+    "seller": {
+        "name": "Megan Moreno"
+    },
+    "supplier": {
+        "address": "7768 Mathis Causeway Apt. 600 Timothybury, GU 63940",
+        "name": "Jason Kim"
+    },
+    "tax": {
+        "amount_excluding_tax": 35.94,
+        "amount_including_tax": 146.14,
+        "tax_amount": 12.95,
+        "total_ht": 472.75,
+        "total_ttc": 465.77
+    }
+}

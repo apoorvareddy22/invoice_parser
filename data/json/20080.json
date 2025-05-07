@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "29493 Angel Centers Suite 117 Timothyhaven, GA 73478",
+        "company_name": "Lucas PLC",
+        "email": "kenneth64@example.com",
+        "name": "James Clark DDS",
+        "phone": "001-965-822-3909"
+    },
+    "invoice": {
+        "date": "21.04.2008",
+        "due_date": "31.10.2015",
+        "number": "mQj15215861387"
+    },
+    "payment": {
+        "account_number": 6228966845,
+        "bank_name": "Beltran, Willis and Patton",
+        "routing_number": 582217933
+    },
+    "products": [
+        {
+            "amount": 374.0,
+            "description": "deploy revolutionary deliverables",
+            "index": "2",
+            "quantity": 6.59,
+            "unit_price": 53.17
+        },
+        {
+            "amount": 379.14,
+            "description": "productize cross-media functionalities",
+            "index": "10",
+            "quantity": 8.21,
+            "unit_price": 50.51
+        },
+        {
+            "amount": 251.5,
+            "description": "integrate enterprise channels",
+            "index": "5",
+            "quantity": 7.2,
+            "unit_price": 69.91
+        },
+        {
+            "amount": 257.56,
+            "description": "maximize value-added content",
+            "index": "9",
+            "quantity": 3.04,
+            "unit_price": 93.25
+        }
+    ],
+    "seller": {
+        "address": "8781 Gillespie Garden Suite 678 North Stephanieberg, KS 15453",
+        "company_name": "Wilson-Hernandez",
+        "email": "normandaniel@example.org"
+    }
+}

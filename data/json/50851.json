@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "USS Maldonado FPO AP 07566",
+        "id": "Bs715"
+    },
+    "invoice": {
+        "bc_no": "Gp01012",
+        "currency_code": "MDL",
+        "date": "03.10.2008",
+        "due_date": "05.12.2019",
+        "number": 608402
+    },
+    "payment": {
+        "bank_name": "Parker Inc",
+        "bic": "VMBLGBM208M",
+        "iban": "XGMD82581435019552"
+    },
+    "products": [
+        {
+            "amount": 296.01,
+            "description": "scale 24/365 channels",
+            "index": "7",
+            "price": 91.43,
+            "quantity": 7.89,
+            "tax_amount": 94.59,
+            "total_ttc": 260.61,
+            "vat_amount": 3.93
+        },
+        {
+            "amount": 456.93,
+            "description": "enhance clicks-and-mortar web services",
+            "index": "6",
+            "price": 496.44,
+            "quantity": 8.99,
+            "tax_amount": 61.69,
+            "total_ttc": 203.0,
+            "vat_amount": 0.0
+        },
+        {
+            "amount": 335.57,
+            "description": "utilize global mindshare",
+            "index": "4",
+            "price": 126.41,
+            "quantity": 7.21,
+            "tax_amount": 95.15,
+            "total_ttc": 397.35,
+            "vat_amount": 2.05
+        },
+        {
+            "amount": 141.39,
+            "description": "unleash holistic communities",
+            "index": "2",
+            "price": 198.86,
+            "quantity": 1.99,
+            "tax_amount": 50.04,
+            "total_ttc": 375.04,
+            "vat_amount": 13.59
+        },
+        {
+            "amount": 270.24,
+            "description": "reinvent 24/365 e-services",
+            "index": "9",
+            "price": 445.55,
+            "quantity": 5.96,
+            "tax_amount": 63.11,
+            "total_ttc": 337.71,
+            "vat_amount": 4.48
+        },
+        {
+            "amount": 247.85,
+            "description": "repurpose clicks-and-mortar systems",
+            "index": "8",
+            "price": 139.45,
+            "quantity": 3.68,
+            "tax_amount": 66.24,
+            "total_ttc": 327.72,
+            "vat_amount": 3.49
+        },
+        {
+            "amount": 231.67,
+            "description": "expedite B2C solutions",
+            "index": "3",
+            "price": 485.18,
+            "quantity": 9.2,
+            "tax_amount": 64.68,
+            "total_ttc": 311.92,
+            "vat_amount": 5.62
+        }
+    ],
+    "seller": {
+        "name": "Teresa Avery"
+    },
+    "supplier": {
+        "address": "37906 Velasquez Lakes West Saraside, MD 41329",
+        "name": "Shannon Ibarra"
+    },
+    "tax": {
+        "amount_excluding_tax": 52.86,
+        "amount_including_tax": 71.89,
+        "tax_amount": 20.14,
+        "total_ht": 350.82,
+        "total_ttc": 245.46
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "7440 Johnson Summit West Victoria, VI 38245",
+        "id": "Ti918"
+    },
+    "invoice": {
+        "bc_no": "sQ04813",
+        "currency_code": "BWP",
+        "date": "09.12.1997",
+        "due_date": "22.11.2007",
+        "number": 790014
+    },
+    "payment": {
+        "bank_name": "Lara, Doyle and Lynch",
+        "bic": "FYAAGBCSJX3",
+        "iban": "HLHY52646052064350"
+    },
+    "products": [
+        {
+            "amount": 364.36,
+            "description": "mesh proactive communities",
+            "index": "9",
+            "price": 469.36,
+            "quantity": 6.02,
+            "tax_amount": 69.36,
+            "total_ttc": 387.09,
+            "vat_amount": 6.48
+        },
+        {
+            "amount": 58.83,
+            "description": "aggregate next-generation markets",
+            "index": "8",
+            "price": 253.45,
+            "quantity": 9.31,
+            "tax_amount": 54.98,
+            "total_ttc": 273.65,
+            "vat_amount": 3.04
+        }
+    ],
+    "seller": {
+        "name": "Tracy Fisher"
+    },
+    "supplier": {
+        "address": "310 Rojas Ferry North Shelly, LA 76592",
+        "name": "Alexandria Hickman"
+    },
+    "tax": {
+        "amount_excluding_tax": 57.75,
+        "amount_including_tax": 184.49,
+        "tax_amount": 27.31,
+        "total_ht": 298.62,
+        "total_ttc": 370.9
+    }
+}

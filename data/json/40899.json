@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "95488 Caitlin Shores Apt. 686 Harpershire, VI 56347"
+    },
+    "invoice": {
+        "bc_no": "zw54476",
+        "date": "29.05.2005",
+        "maturity_date": "24.03.2009",
+        "number": 126939
+    },
+    "products": [
+        {
+            "amount": 458.73,
+            "description": "maximize open-source content",
+            "quantity": 2.22,
+            "unit_price": 23.16,
+            "vat_amount": 7.34
+        },
+        {
+            "amount": 414.48,
+            "description": "expedite mission-critical convergence",
+            "quantity": 5.71,
+            "unit_price": 59.08,
+            "vat_amount": 0.69
+        },
+        {
+            "amount": 169.35,
+            "description": "harness rich eyeballs",
+            "quantity": 4.2,
+            "unit_price": 93.06,
+            "vat_amount": 1.65
+        },
+        {
+            "amount": 417.93,
+            "description": "whiteboard plug-and-play e-markets",
+            "quantity": 9.02,
+            "unit_price": 73.96,
+            "vat_amount": 10.12
+        }
+    ],
+    "seller": {
+        "address": "1693 Greer Ports East Amy, CO 05567"
+    },
+    "tax": {
+        "amount_excluding_tax": 64.7,
+        "amount_including_tax": 138.84,
+        "tax_amount": 20.03
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "841 Hale Spring New Rachelbury, TN 62778",
+        "company_name": "Perez, Preston and Garrett",
+        "email": "ypierce@example.net",
+        "name": "Cindy Brown",
+        "phone": "912-947-9937x6667"
+    },
+    "invoice": {
+        "date": "05.03.2001",
+        "due_date": "20.08.2020",
+        "number": "fHq47558720777"
+    },
+    "payment": {
+        "account_number": 2675898274,
+        "bank_name": "Moreno-Allen",
+        "routing_number": 825974021
+    },
+    "products": [
+        {
+            "amount": 409.43,
+            "description": "extend open-source vortals",
+            "index": "7",
+            "quantity": 7.89,
+            "unit_price": 63.43
+        },
+        {
+            "amount": 493.38,
+            "description": "enhance proactive mindshare",
+            "index": "7",
+            "quantity": 6.68,
+            "unit_price": 58.42
+        }
+    ],
+    "seller": {
+        "address": "681 Martinez Drive Apt. 358 Hernandezmouth, FL 88410",
+        "company_name": "Oconnell LLC",
+        "email": "kirbyjames@example.net"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "56778 Fisher Pines Apt. 814 Kathrynland, IL 26512",
+        "email": "allenantonio@example.net",
+        "phone": "+1-410-271-6237x9210",
+        "vat_no": "sA91085356081"
+    },
+    "invoice": {
+        "date": "26.10.1996",
+        "due_date": "04.08.2008",
+        "market_reference": 259248,
+        "notes": "grow killer systems",
+        "number": "9146-0019",
+        "reference": 539971,
+        "vat_no": "Sk92417872314"
+    },
+    "payment": {
+        "net_total": 90.93,
+        "total": 587.61
+    },
+    "products": [
+        {
+            "amount": 282.29,
+            "description": "synergize end-to-end info-mediaries",
+            "hours": 7.93,
+            "rate": 7.88
+        },
+        {
+            "amount": 282.52,
+            "description": "envisioneer world-class vortals",
+            "hours": 6.59,
+            "rate": 2.35
+        }
+    ],
+    "seller": {
+        "address": "Unit 8114 Box 4797 DPO AA 62880",
+        "email": "ghartman@example.com",
+        "name": "Rebecca Young"
+    },
+    "tax": {
+        "base": 16.61,
+        "tax_amount": 29.86,
+        "total_tax": 25.49
+    }
+}

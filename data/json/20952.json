@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "0452 Morgan Mountains Thompsonfort, ID 17474",
+        "company_name": "Kelley and Sons",
+        "email": "wdoyle@example.com",
+        "name": "Mark Wells",
+        "phone": "885.507.5392"
+    },
+    "invoice": {
+        "date": "03.08.2010",
+        "due_date": "15.09.1996",
+        "number": "PbK74222316729"
+    },
+    "payment": {
+        "account_number": 8757360318,
+        "bank_name": "Bailey, Tyler and Norton",
+        "routing_number": 854843996
+    },
+    "products": [
+        {
+            "amount": 87.68,
+            "description": "evolve web-enabled users",
+            "index": "8",
+            "quantity": 2.78,
+            "unit_price": 91.64
+        },
+        {
+            "amount": 28.18,
+            "description": "revolutionize synergistic schemas",
+            "index": "2",
+            "quantity": 3.84,
+            "unit_price": 35.09
+        },
+        {
+            "amount": 136.65,
+            "description": "transform sticky platforms",
+            "index": "9",
+            "quantity": 3.51,
+            "unit_price": 48.59
+        },
+        {
+            "amount": 461.65,
+            "description": "cultivate integrated supply-chains",
+            "index": "5",
+            "quantity": 7.18,
+            "unit_price": 26.44
+        }
+    ],
+    "seller": {
+        "address": "4486 John Spring Suite 199 Wrightburgh, WY 23151",
+        "company_name": "Logan-Sherman",
+        "email": "morgangraves@example.com"
+    }
+}

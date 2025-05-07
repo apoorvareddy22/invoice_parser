@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "35136 Bailey Radial Karafort, VT 82359"
+    },
+    "invoice": {
+        "bc_no": "bb92181",
+        "date": "14.09.2022",
+        "maturity_date": "04.12.1999",
+        "number": 948961
+    },
+    "products": [
+        {
+            "amount": 305.84,
+            "description": "matrix real-time solutions",
+            "quantity": 7.23,
+            "unit_price": 85.73,
+            "vat_amount": 4.21
+        },
+        {
+            "amount": 95.4,
+            "description": "target next-generation e-commerce",
+            "quantity": 6.0,
+            "unit_price": 79.04,
+            "vat_amount": 4.97
+        },
+        {
+            "amount": 286.21,
+            "description": "transform magnetic metrics",
+            "quantity": 2.97,
+            "unit_price": 61.75,
+            "vat_amount": 2.25
+        },
+        {
+            "amount": 118.48,
+            "description": "matrix synergistic e-commerce",
+            "quantity": 8.22,
+            "unit_price": 63.72,
+            "vat_amount": 1.42
+        },
+        {
+            "amount": 492.57,
+            "description": "transform extensible interfaces",
+            "quantity": 6.55,
+            "unit_price": 80.48,
+            "vat_amount": 5.95
+        }
+    ],
+    "seller": {
+        "address": "2137 Reginald Passage Schneiderville, MP 33932"
+    },
+    "tax": {
+        "amount_excluding_tax": 29.2,
+        "amount_including_tax": 49.71,
+        "tax_amount": 16.63
+    }
+}

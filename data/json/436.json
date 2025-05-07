@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "204 Thompson Centers Mitchellville, AZ 23302",
+        "company_name": "Berry-Owens",
+        "country": "Suriname",
+        "name": "Christopher Sandoval"
+    },
+    "invoice": {
+        "date": "04.09.2019",
+        "number": 832301
+    },
+    "payment": {
+        "discount_amount": 14.35,
+        "discount_percentage": 11.66,
+        "due": 26.9,
+        "sub_total": 109.96,
+        "total": 568.67
+    },
+    "products": [
+        {
+            "description": "disintermediate enterprise deliverables",
+            "index": "9",
+            "quantity": 7.39,
+            "total_price": 364.03,
+            "unit_price": 73.99
+        },
+        {
+            "description": "utilize robust solutions",
+            "index": "7",
+            "quantity": 3.54,
+            "total_price": 883.06,
+            "unit_price": 73.82
+        }
+    ],
+    "seller": {
+        "address": "015 Brittney Dam Port Christophershire, NC 32192",
+        "company_name": "Mason, Williams and Ruiz",
+        "vat_no": "JD06559059793"
+    }
+}

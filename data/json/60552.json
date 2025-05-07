@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "3561 Tran Underpass Suite 111 West Holly, CA 13350",
+        "business_no": "PY094",
+        "id": "Sa952"
+    },
+    "invoice": {
+        "date": "18.10.2023",
+        "number": "3927-7736"
+    },
+    "payment": {
+        "due_date": "07.07.2016",
+        "total": 303.02
+    },
+    "products": [
+        {
+            "amount": 416.99,
+            "description": "streamline 24/365 e-services",
+            "quantity": 8.24,
+            "reference": "oz-245",
+            "unit_price": 52.21
+        },
+        {
+            "amount": 182.2,
+            "description": "revolutionize out-of-the-box networks",
+            "quantity": 7.35,
+            "reference": "xR-098",
+            "unit_price": 67.79
+        },
+        {
+            "amount": 445.62,
+            "description": "mesh proactive users",
+            "quantity": 4.16,
+            "reference": "ZD-431",
+            "unit_price": 31.64
+        },
+        {
+            "amount": 194.89,
+            "description": "utilize plug-and-play info-mediaries",
+            "quantity": 4.38,
+            "reference": "jk-439",
+            "unit_price": 76.56
+        }
+    ],
+    "seller": {
+        "address": "09316 Swanson Path Lovechester, WV 30276"
+    },
+    "tax": {
+        "base_ht": 448.66,
+        "regulations": 19.34,
+        "total_ht": 335.36,
+        "vat_amount": 185.56,
+        "vat_percentage": 10.66
+    }
+}

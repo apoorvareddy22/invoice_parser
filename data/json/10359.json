@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "08119 Mendez Way Apt. 662 Danieltown, MO 72591",
+        "email": "matthewwoodward@example.com",
+        "phone": "511-353-5305x12771",
+        "vat_no": "Po29656899614"
+    },
+    "invoice": {
+        "date": "03.03.2004",
+        "due_date": "10.03.2021",
+        "market_reference": 701075,
+        "notes": "seize proactive markets",
+        "number": "4205-1207",
+        "reference": 587804,
+        "vat_no": "ah27970440921"
+    },
+    "payment": {
+        "net_total": 151.52,
+        "total": 372.93
+    },
+    "products": [
+        {
+            "amount": 125.48,
+            "description": "leverage wireless initiatives",
+            "hours": 9.99,
+            "rate": 4.68
+        },
+        {
+            "amount": 295.61,
+            "description": "morph cross-media models",
+            "hours": 2.37,
+            "rate": 8.08
+        },
+        {
+            "amount": 289.2,
+            "description": "whiteboard value-added models",
+            "hours": 1.36,
+            "rate": 3.77
+        },
+        {
+            "amount": 69.39,
+            "description": "extend end-to-end solutions",
+            "hours": 5.98,
+            "rate": 6.94
+        },
+        {
+            "amount": 172.32,
+            "description": "harness seamless applications",
+            "hours": 8.63,
+            "rate": 6.0
+        },
+        {
+            "amount": 155.93,
+            "description": "cultivate wireless experiences",
+            "hours": 3.74,
+            "rate": 2.99
+        }
+    ],
+    "seller": {
+        "address": "461 Neal Meadow Apt. 820 Silvatown, ND 31130",
+        "email": "casedeborah@example.org",
+        "name": "Alejandra Reed"
+    },
+    "tax": {
+        "base": 26.61,
+        "tax_amount": 14.73,
+        "total_tax": 18.88
+    }
+}

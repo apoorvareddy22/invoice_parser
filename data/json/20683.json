@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "310 Dunn Radial Dawsonburgh, WI 81425",
+        "company_name": "Simpson-Moran",
+        "email": "ywebb@example.org",
+        "name": "Crystal Henderson",
+        "phone": "(373)902-7870"
+    },
+    "invoice": {
+        "date": "01.08.2010",
+        "due_date": "31.01.2016",
+        "number": "zqn12102882516"
+    },
+    "payment": {
+        "account_number": 9112334344,
+        "bank_name": "Daugherty LLC",
+        "routing_number": 760972036
+    },
+    "products": [
+        {
+            "amount": 207.37,
+            "description": "enhance leading-edge eyeballs",
+            "index": "6",
+            "quantity": 6.85,
+            "unit_price": 85.13
+        }
+    ],
+    "seller": {
+        "address": "90331 Holmes Villages Suite 361 East Heatherfort, VT 04143",
+        "company_name": "Hardy-Dixon",
+        "email": "gregoryjones@example.org"
+    }
+}

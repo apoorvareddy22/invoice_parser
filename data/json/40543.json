@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "882 Martin Extension Suite 864 West Regina, FL 74997"
+    },
+    "invoice": {
+        "bc_no": "Sq68434",
+        "date": "13.04.1991",
+        "maturity_date": "14.02.1995",
+        "number": 192300
+    },
+    "products": [
+        {
+            "amount": 235.23,
+            "description": "deliver killer niches",
+            "quantity": 5.29,
+            "unit_price": 65.65,
+            "vat_amount": 14.88
+        },
+        {
+            "amount": 348.43,
+            "description": "leverage frictionless networks",
+            "quantity": 5.46,
+            "unit_price": 54.45,
+            "vat_amount": 8.86
+        },
+        {
+            "amount": 453.93,
+            "description": "benchmark intuitive systems",
+            "quantity": 7.78,
+            "unit_price": 20.41,
+            "vat_amount": 4.41
+        }
+    ],
+    "seller": {
+        "address": "387 Spears Run Apt. 357 North Colinside, TX 14506"
+    },
+    "tax": {
+        "amount_excluding_tax": 124.54,
+        "amount_including_tax": 163.13,
+        "tax_amount": 26.5
+    }
+}

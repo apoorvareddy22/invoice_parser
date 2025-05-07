@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "803 Torres Cliffs West Ryanhaven, CT 55125",
+        "business_no": "Oq507",
+        "id": "LB328"
+    },
+    "invoice": {
+        "date": "05.06.2015",
+        "number": "1392-7518"
+    },
+    "payment": {
+        "due_date": "03.04.1991",
+        "total": 460.04
+    },
+    "products": [
+        {
+            "amount": 47.8,
+            "description": "productize distributed ROI",
+            "quantity": 4.48,
+            "reference": "vi-894",
+            "unit_price": 95.87
+        }
+    ],
+    "seller": {
+        "address": "8049 Smith Bridge Wheelerton, TN 32089"
+    },
+    "tax": {
+        "base_ht": 156.84,
+        "regulations": 22.69,
+        "total_ht": 296.25,
+        "vat_amount": 50.38,
+        "vat_percentage": 16.52
+    }
+}

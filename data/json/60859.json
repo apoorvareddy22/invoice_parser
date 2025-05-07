@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "2321 Brendan Vista Lake Monicashire, DC 17325",
+        "business_no": "XY370",
+        "id": "bA494"
+    },
+    "invoice": {
+        "date": "22.02.2014",
+        "number": "6147-4442"
+    },
+    "payment": {
+        "due_date": "27.01.1996",
+        "total": 902.53
+    },
+    "products": [
+        {
+            "amount": 82.8,
+            "description": "exploit robust networks",
+            "quantity": 5.81,
+            "reference": "NM-523",
+            "unit_price": 96.53
+        }
+    ],
+    "seller": {
+        "address": "8654 William Turnpike Cuevasfurt, VT 31656"
+    },
+    "tax": {
+        "base_ht": 109.96,
+        "regulations": 18.92,
+        "total_ht": 345.16,
+        "vat_amount": 63.59,
+        "vat_percentage": 14.47
+    }
+}

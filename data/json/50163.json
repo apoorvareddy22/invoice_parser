@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "062 Thomas Spur Suite 486 Port Stacey, ND 17587",
+        "id": "TR871"
+    },
+    "invoice": {
+        "bc_no": "lk66202",
+        "currency_code": "BWP",
+        "date": "15.08.2002",
+        "due_date": "27.09.1990",
+        "number": 414775
+    },
+    "payment": {
+        "bank_name": "Quinn-Lewis",
+        "bic": "EKLVGB8V",
+        "iban": "PUGC16480798553451"
+    },
+    "products": [
+        {
+            "amount": 145.22,
+            "description": "mesh next-generation interfaces",
+            "index": "10",
+            "price": 406.56,
+            "quantity": 4.3,
+            "tax_amount": 89.29,
+            "total_ttc": 476.98,
+            "vat_amount": 3.06
+        },
+        {
+            "amount": 178.29,
+            "description": "orchestrate dynamic relationships",
+            "index": "6",
+            "price": 240.68,
+            "quantity": 3.31,
+            "tax_amount": 10.31,
+            "total_ttc": 148.6,
+            "vat_amount": 4.14
+        },
+        {
+            "amount": 383.74,
+            "description": "transition vertical synergies",
+            "index": "10",
+            "price": 9.74,
+            "quantity": 3.18,
+            "tax_amount": 74.25,
+            "total_ttc": 128.26,
+            "vat_amount": 5.85
+        },
+        {
+            "amount": 388.39,
+            "description": "redefine distributed experiences",
+            "index": "7",
+            "price": 246.65,
+            "quantity": 9.85,
+            "tax_amount": 78.95,
+            "total_ttc": 104.62,
+            "vat_amount": 0.68
+        },
+        {
+            "amount": 168.04,
+            "description": "aggregate world-class communities",
+            "index": "9",
+            "price": 66.83,
+            "quantity": 1.09,
+            "tax_amount": 52.44,
+            "total_ttc": 208.67,
+            "vat_amount": 2.63
+        },
+        {
+            "amount": 60.22,
+            "description": "aggregate extensible e-services",
+            "index": "8",
+            "price": 201.37,
+            "quantity": 5.49,
+            "tax_amount": 89.58,
+            "total_ttc": 115.06,
+            "vat_amount": 4.67
+        },
+        {
+            "amount": 286.13,
+            "description": "syndicate real-time applications",
+            "index": "6",
+            "price": 326.73,
+            "quantity": 1.85,
+            "tax_amount": 63.83,
+            "total_ttc": 266.31,
+            "vat_amount": 2.47
+        }
+    ],
+    "seller": {
+        "name": "Nancy Reyes"
+    },
+    "supplier": {
+        "address": "58852 Jason Creek Weberhaven, SD 26396",
+        "name": "Amber Harrison"
+    },
+    "tax": {
+        "amount_excluding_tax": 187.7,
+        "amount_including_tax": 176.58,
+        "tax_amount": 15.12,
+        "total_ht": 119.86,
+        "total_ttc": 285.97
+    }
+}

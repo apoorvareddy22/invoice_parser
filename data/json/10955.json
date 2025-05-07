@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "418 Kidd Forks Apt. 304 Lake Jessica, VA 13775",
+        "email": "emoore@example.org",
+        "phone": "231.557.9887",
+        "vat_no": "PD07564844651"
+    },
+    "invoice": {
+        "date": "04.09.2001",
+        "due_date": "14.04.2008",
+        "market_reference": 927327,
+        "notes": "monetize granular initiatives",
+        "number": "0418-8887",
+        "reference": 989304,
+        "vat_no": "hO94121140095"
+    },
+    "payment": {
+        "net_total": 31.9,
+        "total": 591.37
+    },
+    "products": [
+        {
+            "amount": 148.75,
+            "description": "utilize bleeding-edge models",
+            "hours": 1.25,
+            "rate": 5.63
+        },
+        {
+            "amount": 14.43,
+            "description": "deploy integrated bandwidth",
+            "hours": 8.23,
+            "rate": 3.84
+        }
+    ],
+    "seller": {
+        "address": "480 Jones Cove Apt. 654 South Whitneymouth, GU 50685",
+        "email": "collinstracy@example.net",
+        "name": "Stephanie Bailey"
+    },
+    "tax": {
+        "base": 29.5,
+        "tax_amount": 28.17,
+        "total_tax": 26.77
+    }
+}

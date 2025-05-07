@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "094 Moses Ridges Apt. 562 Smithburgh, DC 44002",
+        "business_no": "pj979",
+        "id": "tO661"
+    },
+    "invoice": {
+        "date": "21.10.1996",
+        "number": "0446-6893"
+    },
+    "payment": {
+        "due_date": "16.04.1995",
+        "total": 562.08
+    },
+    "products": [
+        {
+            "amount": 211.43,
+            "description": "benchmark extensible initiatives",
+            "quantity": 1.49,
+            "reference": "xZ-388",
+            "unit_price": 41.1
+        },
+        {
+            "amount": 55.08,
+            "description": "integrate killer web services",
+            "quantity": 7.72,
+            "reference": "SU-530",
+            "unit_price": 96.35
+        },
+        {
+            "amount": 195.18,
+            "description": "synthesize out-of-the-box e-tailers",
+            "quantity": 3.61,
+            "reference": "oY-632",
+            "unit_price": 91.72
+        },
+        {
+            "amount": 36.24,
+            "description": "generate dot-com synergies",
+            "quantity": 1.12,
+            "reference": "WD-391",
+            "unit_price": 18.57
+        },
+        {
+            "amount": 214.05,
+            "description": "enable sticky communities",
+            "quantity": 3.1,
+            "reference": "BE-210",
+            "unit_price": 55.57
+        }
+    ],
+    "seller": {
+        "address": "487 Nancy Fields East Linda, NM 55880"
+    },
+    "tax": {
+        "base_ht": 287.6,
+        "regulations": 15.67,
+        "total_ht": 307.65,
+        "vat_amount": 125.82,
+        "vat_percentage": 12.9
+    }
+}

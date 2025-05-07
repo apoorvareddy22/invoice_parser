@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "3212 Anderson Villages Sethshire, VI 11562",
+        "email": "lsanchez@example.net",
+        "phone": "733-528-1857",
+        "vat_no": "mq85559194251"
+    },
+    "invoice": {
+        "date": "26.01.2017",
+        "due_date": "16.05.2012",
+        "market_reference": 263321,
+        "notes": "utilize global architectures",
+        "number": "1503-2353",
+        "reference": 365489,
+        "vat_no": "kG72773710141"
+    },
+    "payment": {
+        "net_total": 164.19,
+        "total": 320.59
+    },
+    "products": [
+        {
+            "amount": 217.09,
+            "description": "incentivize efficient partnerships",
+            "hours": 4.46,
+            "rate": 6.03
+        },
+        {
+            "amount": 452.53,
+            "description": "evolve innovative networks",
+            "hours": 1.05,
+            "rate": 1.48
+        },
+        {
+            "amount": 111.25,
+            "description": "incentivize interactive convergence",
+            "hours": 4.7,
+            "rate": 1.54
+        },
+        {
+            "amount": 75.47,
+            "description": "orchestrate strategic e-services",
+            "hours": 9.75,
+            "rate": 2.72
+        }
+    ],
+    "seller": {
+        "address": "5963 Angela Islands Suite 356 South Brianmouth, ID 93752",
+        "email": "prussell@example.com",
+        "name": "Rebecca Brown"
+    },
+    "tax": {
+        "base": 13.41,
+        "tax_amount": 28.27,
+        "total_tax": 12.3
+    }
+}

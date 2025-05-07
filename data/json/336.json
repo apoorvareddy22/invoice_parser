@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "76488 Hammond Hollow Apt. 538 Lisaside, OR 86506",
+        "company_name": "Turner-Heath",
+        "country": "Uruguay",
+        "name": "Nicholas Gardner"
+    },
+    "invoice": {
+        "date": "11.07.2015",
+        "number": 108576
+    },
+    "payment": {
+        "discount_amount": 44.47,
+        "discount_percentage": 13.99,
+        "due": 155.62,
+        "sub_total": 71.7,
+        "total": 690.85
+    },
+    "products": [
+        {
+            "description": "engage 24/7 infrastructures",
+            "index": "5",
+            "quantity": 6.39,
+            "total_price": 234.83,
+            "unit_price": 92.5
+        },
+        {
+            "description": "morph dot-com initiatives",
+            "index": "4",
+            "quantity": 6.5,
+            "total_price": 834.04,
+            "unit_price": 64.86
+        }
+    ],
+    "seller": {
+        "address": "66024 White Lodge West Thomashaven, OH 68633",
+        "company_name": "Martin-Edwards",
+        "vat_no": "Ah00306035925"
+    }
+}

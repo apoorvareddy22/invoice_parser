@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "584 White Village South David, PA 75181",
+        "email": "pittmanashley@example.org",
+        "phone": "695.844.7355",
+        "vat_no": "fc04337507881"
+    },
+    "invoice": {
+        "date": "14.02.2023",
+        "due_date": "21.02.2023",
+        "market_reference": 308132,
+        "notes": "enhance magnetic deliverables",
+        "number": "5182-5464",
+        "reference": 921819,
+        "vat_no": "EY97031642927"
+    },
+    "payment": {
+        "net_total": 134.25,
+        "total": 526.0
+    },
+    "products": [
+        {
+            "amount": 94.67,
+            "description": "productize cutting-edge e-markets",
+            "hours": 3.95,
+            "rate": 5.26
+        },
+        {
+            "amount": 466.77,
+            "description": "re-intermediate extensible infrastructures",
+            "hours": 1.55,
+            "rate": 8.54
+        },
+        {
+            "amount": 391.19,
+            "description": "extend granular relationships",
+            "hours": 2.7,
+            "rate": 7.89
+        },
+        {
+            "amount": 304.81,
+            "description": "reinvent user-centric content",
+            "hours": 8.25,
+            "rate": 2.6
+        },
+        {
+            "amount": 450.02,
+            "description": "facilitate leading-edge models",
+            "hours": 8.67,
+            "rate": 1.57
+        },
+        {
+            "amount": 484.7,
+            "description": "deliver innovative channels",
+            "hours": 7.19,
+            "rate": 1.91
+        }
+    ],
+    "seller": {
+        "address": "73768 Hicks Drives Port Tracy, IL 83578",
+        "email": "fdiaz@example.net",
+        "name": "John Jones"
+    },
+    "tax": {
+        "base": 29.62,
+        "tax_amount": 21.34,
+        "total_tax": 16.49
+    }
+}

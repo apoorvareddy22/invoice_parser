@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "4843 Kennedy Forest Apt. 273 New Jessica, HI 20751",
+        "company_name": "Wise and Sons",
+        "email": "mike41@example.com",
+        "name": "Mark Sanchez",
+        "phone": "476.700.4296"
+    },
+    "invoice": {
+        "date": "25.05.2012",
+        "due_date": "01.02.2007",
+        "number": "oXi92123266284"
+    },
+    "payment": {
+        "account_number": 7382346063,
+        "bank_name": "Shelton, Williams and Young",
+        "routing_number": 693492686
+    },
+    "products": [
+        {
+            "amount": 100.7,
+            "description": "revolutionize cutting-edge interfaces",
+            "index": "7",
+            "quantity": 9.62,
+            "unit_price": 37.23
+        },
+        {
+            "amount": 186.28,
+            "description": "benchmark leading-edge e-tailers",
+            "index": "5",
+            "quantity": 5.45,
+            "unit_price": 26.84
+        },
+        {
+            "amount": 283.21,
+            "description": "re-contextualize cross-media methodologies",
+            "index": "5",
+            "quantity": 7.91,
+            "unit_price": 91.02
+        }
+    ],
+    "seller": {
+        "address": "09559 Lin Manors Apt. 151 Rubiobury, NH 21988",
+        "company_name": "Hendrix-Allen",
+        "email": "taylortammy@example.net"
+    }
+}

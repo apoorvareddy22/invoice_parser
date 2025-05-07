@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "2106 Wells Camp Suite 203 Atkinsshire, AK 65710",
+        "business_no": "Zw363",
+        "id": "If457"
+    },
+    "invoice": {
+        "date": "14.02.2011",
+        "number": "8668-8755"
+    },
+    "payment": {
+        "due_date": "10.11.2020",
+        "total": 844.24
+    },
+    "products": [
+        {
+            "amount": 146.83,
+            "description": "repurpose end-to-end platforms",
+            "quantity": 2.79,
+            "reference": "Wh-920",
+            "unit_price": 62.11
+        },
+        {
+            "amount": 129.71,
+            "description": "envisioneer frictionless functionalities",
+            "quantity": 3.49,
+            "reference": "wl-218",
+            "unit_price": 90.68
+        }
+    ],
+    "seller": {
+        "address": "USCGC Mitchell FPO AE 82013"
+    },
+    "tax": {
+        "base_ht": 418.43,
+        "regulations": 15.41,
+        "total_ht": 482.42,
+        "vat_amount": 29.42,
+        "vat_percentage": 10.38
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "buyer": {
+        "address": "412 Matthew Dale Apt. 753 Paynetown, CA 27085",
+        "company_name": "Herman Inc",
+        "country": "Nepal",
+        "email": "bmoore@example.com",
+        "name": "George Macdonald",
+        "phone": "001-304-530-2489x9157",
+        "vat_no": "eJ84218370991"
+    },
+    "invoice": {
+        "date": "31.05.2002",
+        "due_date": "07.05.2011",
+        "linked_invoice": "ir-0031-2318",
+        "notes": "deploy efficient functionalities",
+        "number": "io-0577-4844"
+    },
+    "products": [
+        {
+            "description": "synthesize rich models",
+            "discount_percentage": 16.55,
+            "price": 285.6,
+            "quantity": 7.91,
+            "unit_price": 76.62
+        },
+        {
+            "description": "transform holistic users",
+            "discount_percentage": 18.3,
+            "price": 11.53,
+            "quantity": 3.99,
+            "unit_price": 40.57
+        },
+        {
+            "description": "repurpose front-end schemas",
+            "discount_percentage": 16.87,
+            "price": 61.49,
+            "quantity": 2.28,
+            "unit_price": 89.35
+        },
+        {
+            "description": "incentivize 24/7 e-services",
+            "discount_percentage": 16.93,
+            "price": 145.52,
+            "quantity": 2.37,
+            "unit_price": 22.46
+        },
+        {
+            "description": "deliver granular web services",
+            "discount_percentage": 7.33,
+            "price": 335.42,
+            "quantity": 2.09,
+            "unit_price": 57.01
+        },
+        {
+            "description": "enhance customized solutions",
+            "discount_percentage": 5.04,
+            "price": 379.44,
+            "quantity": 9.94,
+            "unit_price": 71.6
+        }
+    ],
+    "seller": {
+        "address": "9955 Solis Coves Port Kristina, MN 47694",
+        "ape": "1388P",
+        "capital": 99793068,
+        "country": "Bhutan",
+        "email": "rallen@example.net",
+        "name": "Ronald Carpenter",
+        "phone_1": "967-282-2149",
+        "phone_2": "947-390-5055x7953",
+        "phone_3": "4764305573",
+        "ref_walk": "GOXU0489",
+        "reference": "fj955",
+        "siret": 38119414245477,
+        "vat_no": "NU01592310932",
+        "website": "http://jones.net/"
+    },
+    "tax": {
+        "amount_0": 25.44,
+        "amount_1": 26.13,
+        "base_0": 16.03,
+        "base_1": 70.33,
+        "total_ht": 323.41,
+        "total_tax": 25.01,
+        "total_ttc": 352.27,
+        "vat_0": 10.87,
+        "vat_1": 21.72
+    }
+}

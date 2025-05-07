@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "667 Tara Square Apt. 468 New Jennifer, MN 76558",
+        "business_no": "mX959",
+        "id": "ep820"
+    },
+    "invoice": {
+        "date": "26.05.2010",
+        "number": "9157-2017"
+    },
+    "payment": {
+        "due_date": "29.11.2016",
+        "total": 810.82
+    },
+    "products": [
+        {
+            "amount": 396.93,
+            "description": "revolutionize real-time solutions",
+            "quantity": 4.99,
+            "reference": "NQ-351",
+            "unit_price": 90.96
+        },
+        {
+            "amount": 440.52,
+            "description": "empower cross-platform mindshare",
+            "quantity": 5.96,
+            "reference": "Ka-359",
+            "unit_price": 62.91
+        },
+        {
+            "amount": 433.15,
+            "description": "expedite bricks-and-clicks mindshare",
+            "quantity": 9.36,
+            "reference": "IJ-511",
+            "unit_price": 11.71
+        }
+    ],
+    "seller": {
+        "address": "9621 Desiree Roads Johnchester, MN 10876"
+    },
+    "tax": {
+        "base_ht": 115.37,
+        "regulations": 23.49,
+        "total_ht": 147.68,
+        "vat_amount": 156.28,
+        "vat_percentage": 26.81
+    }
+}

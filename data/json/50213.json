@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "6508 Nicole Ports Leachville, AK 84446",
+        "id": "io439"
+    },
+    "invoice": {
+        "bc_no": "nL19404",
+        "currency_code": "CNY",
+        "date": "27.07.1994",
+        "due_date": "16.01.2014",
+        "number": 413401
+    },
+    "payment": {
+        "bank_name": "Hale and Sons",
+        "bic": "MASJGB16C59",
+        "iban": "VTDC73222405096193"
+    },
+    "products": [
+        {
+            "amount": 457.45,
+            "description": "integrate next-generation users",
+            "index": "3",
+            "price": 69.84,
+            "quantity": 6.23,
+            "tax_amount": 76.53,
+            "total_ttc": 487.82,
+            "vat_amount": 2.15
+        },
+        {
+            "amount": 165.7,
+            "description": "repurpose proactive e-business",
+            "index": "4",
+            "price": 196.61,
+            "quantity": 7.55,
+            "tax_amount": 36.48,
+            "total_ttc": 465.18,
+            "vat_amount": 0.41
+        },
+        {
+            "amount": 494.43,
+            "description": "disintermediate integrated mindshare",
+            "index": "9",
+            "price": 328.17,
+            "quantity": 8.65,
+            "tax_amount": 54.08,
+            "total_ttc": 450.9,
+            "vat_amount": 1.85
+        },
+        {
+            "amount": 14.19,
+            "description": "engage 24/7 convergence",
+            "index": "8",
+            "price": 498.99,
+            "quantity": 3.98,
+            "tax_amount": 34.42,
+            "total_ttc": 345.64,
+            "vat_amount": 11.38
+        }
+    ],
+    "seller": {
+        "name": "Amy Fleming"
+    },
+    "supplier": {
+        "address": "3098 Robert Mission Suite 182 North Phyllis, SC 58153",
+        "name": "Amanda Nguyen"
+    },
+    "tax": {
+        "amount_excluding_tax": 167.2,
+        "amount_including_tax": 109.56,
+        "tax_amount": 19.02,
+        "total_ht": 382.85,
+        "total_ttc": 125.16
+    }
+}

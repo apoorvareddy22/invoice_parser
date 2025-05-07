@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "5296 Sawyer Mall Paulastad, FL 36675",
+        "company_name": "Williams-Stone",
+        "email": "carolyn25@example.org",
+        "name": "Todd Mccoy",
+        "phone": "548-644-4255"
+    },
+    "invoice": {
+        "date": "12.11.1995",
+        "due_date": "23.12.2009",
+        "number": "zmJ09002990454"
+    },
+    "payment": {
+        "account_number": 4495673694,
+        "bank_name": "Greene Ltd",
+        "routing_number": 240301286
+    },
+    "products": [
+        {
+            "amount": 352.4,
+            "description": "whiteboard end-to-end synergies",
+            "index": "4",
+            "quantity": 7.31,
+            "unit_price": 24.72
+        }
+    ],
+    "seller": {
+        "address": "Unit 7875 Box 3398 DPO AP 39212",
+        "company_name": "Cole-Holloway",
+        "email": "browntonya@example.com"
+    }
+}

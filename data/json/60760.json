@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "2340 Diaz Mews Jillianchester, AR 20370",
+        "business_no": "WW232",
+        "id": "eQ573"
+    },
+    "invoice": {
+        "date": "11.05.2001",
+        "number": "8361-7671"
+    },
+    "payment": {
+        "due_date": "23.10.2002",
+        "total": 731.8
+    },
+    "products": [
+        {
+            "amount": 349.06,
+            "description": "revolutionize wireless experiences",
+            "quantity": 1.03,
+            "reference": "FP-798",
+            "unit_price": 96.01
+        },
+        {
+            "amount": 378.73,
+            "description": "unleash open-source info-mediaries",
+            "quantity": 5.59,
+            "reference": "Ba-224",
+            "unit_price": 29.17
+        }
+    ],
+    "seller": {
+        "address": "245 Gallagher Turnpike Suite 867 South Alyssachester, FL 64422"
+    },
+    "tax": {
+        "base_ht": 163.25,
+        "regulations": 10.16,
+        "total_ht": 363.99,
+        "vat_amount": 57.94,
+        "vat_percentage": 11.42
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "8381 Angela Hills Port Sydneyshire, VA 08825",
+        "email": "elewis@example.org",
+        "phone": "(332)487-2334",
+        "vat_no": "DT37648428853"
+    },
+    "invoice": {
+        "date": "13.10.1991",
+        "due_date": "10.04.2009",
+        "market_reference": 365705,
+        "notes": "syndicate web-enabled metrics",
+        "number": "1417-7473",
+        "reference": 580670,
+        "vat_no": "ks04722690576"
+    },
+    "payment": {
+        "net_total": 91.04,
+        "total": 567.61
+    },
+    "products": [
+        {
+            "amount": 108.62,
+            "description": "deploy real-time e-markets",
+            "hours": 4.21,
+            "rate": 9.41
+        },
+        {
+            "amount": 91.45,
+            "description": "architect cross-platform systems",
+            "hours": 7.26,
+            "rate": 7.33
+        },
+        {
+            "amount": 369.06,
+            "description": "reinvent intuitive infrastructures",
+            "hours": 4.39,
+            "rate": 9.21
+        },
+        {
+            "amount": 118.6,
+            "description": "grow out-of-the-box supply-chains",
+            "hours": 8.21,
+            "rate": 7.42
+        }
+    ],
+    "seller": {
+        "address": "024 Miller Stravenue Apt. 303 South Susan, OK 36227",
+        "email": "fbautista@example.org",
+        "name": "Kimberly Rasmussen"
+    },
+    "tax": {
+        "base": 11.27,
+        "tax_amount": 22.15,
+        "total_tax": 18.5
+    }
+}

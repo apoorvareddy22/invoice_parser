@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "64844 Lawrence Viaduct West Steven, OK 03114",
+        "id": "if261"
+    },
+    "invoice": {
+        "bc_no": "Uu03174",
+        "currency_code": "ISK",
+        "date": "16.08.2007",
+        "due_date": "17.01.2018",
+        "number": 327007
+    },
+    "payment": {
+        "bank_name": "Davis Ltd",
+        "bic": "FIBZGBUGFF6",
+        "iban": "VCLH59572737659285"
+    },
+    "products": [
+        {
+            "amount": 377.83,
+            "description": "extend rich channels",
+            "index": "6",
+            "price": 123.07,
+            "quantity": 4.95,
+            "tax_amount": 50.16,
+            "total_ttc": 191.97,
+            "vat_amount": 15.95
+        }
+    ],
+    "seller": {
+        "name": "Paula Doyle"
+    },
+    "supplier": {
+        "address": "92274 Paula Roads Lake Michelleberg, AS 97127",
+        "name": "Diane King"
+    },
+    "tax": {
+        "amount_excluding_tax": 196.55,
+        "amount_including_tax": 133.76,
+        "tax_amount": 29.98,
+        "total_ht": 315.25,
+        "total_ttc": 322.44
+    }
+}

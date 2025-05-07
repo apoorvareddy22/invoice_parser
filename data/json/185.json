@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "53252 Cooper Course Apt. 218 Jonesburgh, ND 82871",
+        "company_name": "Robertson, Gordon and Lynch",
+        "country": "Iraq",
+        "name": "Lauren Green"
+    },
+    "invoice": {
+        "date": "10.11.2021",
+        "number": 546539
+    },
+    "payment": {
+        "discount_amount": 46.57,
+        "discount_percentage": 6.21,
+        "due": 101.84,
+        "sub_total": 69.3,
+        "total": 673.07
+    },
+    "products": [
+        {
+            "description": "leverage plug-and-play networks",
+            "index": "1",
+            "quantity": 2.09,
+            "total_price": 262.24,
+            "unit_price": 38.18
+        },
+        {
+            "description": "benchmark distributed synergies",
+            "index": "4",
+            "quantity": 1.09,
+            "total_price": 448.05,
+            "unit_price": 57.77
+        },
+        {
+            "description": "transform out-of-the-box web services",
+            "index": "4",
+            "quantity": 3.92,
+            "total_price": 304.63,
+            "unit_price": 80.3
+        },
+        {
+            "description": "scale out-of-the-box infrastructures",
+            "index": "1",
+            "quantity": 3.46,
+            "total_price": 81.71,
+            "unit_price": 76.21
+        }
+    ],
+    "seller": {
+        "address": "982 Mcdowell Mount West Lauratown, NJ 96252",
+        "company_name": "Bray-Walls",
+        "vat_no": "Xm70080052082"
+    }
+}

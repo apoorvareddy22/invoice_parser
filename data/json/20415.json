@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "USNV Armstrong FPO AP 56763",
+        "company_name": "Hicks, Davis and Clarke",
+        "email": "james74@example.net",
+        "name": "James Williams",
+        "phone": "361.859.9187x2063"
+    },
+    "invoice": {
+        "date": "19.11.1997",
+        "due_date": "23.09.2016",
+        "number": "EDf94181405038"
+    },
+    "payment": {
+        "account_number": 7327357349,
+        "bank_name": "Santana PLC",
+        "routing_number": 333188706
+    },
+    "products": [
+        {
+            "amount": 395.44,
+            "description": "streamline dot-com web-readiness",
+            "index": "5",
+            "quantity": 8.69,
+            "unit_price": 79.07
+        },
+        {
+            "amount": 290.04,
+            "description": "benchmark mission-critical mindshare",
+            "index": "7",
+            "quantity": 8.85,
+            "unit_price": 77.06
+        },
+        {
+            "amount": 270.21,
+            "description": "enable global content",
+            "index": "1",
+            "quantity": 4.7,
+            "unit_price": 11.0
+        },
+        {
+            "amount": 205.45,
+            "description": "e-enable proactive content",
+            "index": "7",
+            "quantity": 4.15,
+            "unit_price": 44.69
+        },
+        {
+            "amount": 287.65,
+            "description": "engineer visionary methodologies",
+            "index": "8",
+            "quantity": 7.78,
+            "unit_price": 54.98
+        },
+        {
+            "amount": 263.67,
+            "description": "implement magnetic partnerships",
+            "index": "5",
+            "quantity": 5.82,
+            "unit_price": 45.05
+        }
+    ],
+    "seller": {
+        "address": "PSC 0377, Box 1171 APO AA 82469",
+        "company_name": "Wilson, Arnold and Kramer",
+        "email": "bensonkimberly@example.org"
+    }
+}

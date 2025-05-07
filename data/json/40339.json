@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "614 Lucero Road Suite 852 Thomasfort, TN 82360"
+    },
+    "invoice": {
+        "bc_no": "kp88389",
+        "date": "03.10.2021",
+        "maturity_date": "09.10.2013",
+        "number": 783744
+    },
+    "products": [
+        {
+            "amount": 112.3,
+            "description": "innovate open-source initiatives",
+            "quantity": 8.67,
+            "unit_price": 83.89,
+            "vat_amount": 1.13
+        },
+        {
+            "amount": 350.13,
+            "description": "evolve intuitive functionalities",
+            "quantity": 3.01,
+            "unit_price": 25.58,
+            "vat_amount": 13.81
+        },
+        {
+            "amount": 362.75,
+            "description": "productize intuitive action-items",
+            "quantity": 2.56,
+            "unit_price": 87.96,
+            "vat_amount": 4.11
+        },
+        {
+            "amount": 425.61,
+            "description": "engineer value-added channels",
+            "quantity": 3.2,
+            "unit_price": 18.55,
+            "vat_amount": 11.98
+        },
+        {
+            "amount": 366.52,
+            "description": "repurpose vertical technologies",
+            "quantity": 2.24,
+            "unit_price": 77.04,
+            "vat_amount": 2.26
+        },
+        {
+            "amount": 472.26,
+            "description": "embrace bricks-and-clicks web services",
+            "quantity": 8.23,
+            "unit_price": 96.43,
+            "vat_amount": 5.26
+        }
+    ],
+    "seller": {
+        "address": "6174 Travis Lake Beardfort, WA 12309"
+    },
+    "tax": {
+        "amount_excluding_tax": 93.95,
+        "amount_including_tax": 145.2,
+        "tax_amount": 13.57
+    }
+}

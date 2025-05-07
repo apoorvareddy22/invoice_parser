@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "633 Reed Overpass Suite 201 Crystaltown, LA 83353",
+        "id": "hR094"
+    },
+    "invoice": {
+        "bc_no": "uA76720",
+        "currency_code": "UAH",
+        "date": "13.12.2016",
+        "due_date": "20.06.2011",
+        "number": 985926
+    },
+    "payment": {
+        "bank_name": "Barr Group",
+        "bic": "PRXEGB9H4LJ",
+        "iban": "APXD59988079273521"
+    },
+    "products": [
+        {
+            "amount": 43.54,
+            "description": "visualize compelling convergence",
+            "index": "3",
+            "price": 273.64,
+            "quantity": 2.44,
+            "tax_amount": 28.5,
+            "total_ttc": 400.41,
+            "vat_amount": 2.59
+        },
+        {
+            "amount": 48.13,
+            "description": "implement scalable deliverables",
+            "index": "2",
+            "price": 291.42,
+            "quantity": 2.08,
+            "tax_amount": 60.42,
+            "total_ttc": 379.26,
+            "vat_amount": 14.46
+        },
+        {
+            "amount": 277.34,
+            "description": "transform 24/7 e-business",
+            "index": "4",
+            "price": 240.56,
+            "quantity": 4.37,
+            "tax_amount": 45.12,
+            "total_ttc": 445.56,
+            "vat_amount": 8.79
+        },
+        {
+            "amount": 221.63,
+            "description": "benchmark value-added systems",
+            "index": "2",
+            "price": 209.38,
+            "quantity": 4.88,
+            "tax_amount": 32.81,
+            "total_ttc": 322.73,
+            "vat_amount": 0.82
+        },
+        {
+            "amount": 85.29,
+            "description": "utilize front-end solutions",
+            "index": "1",
+            "price": 267.03,
+            "quantity": 3.27,
+            "tax_amount": 77.33,
+            "total_ttc": 170.75,
+            "vat_amount": 11.61
+        },
+        {
+            "amount": 493.7,
+            "description": "enable cross-platform e-business",
+            "index": "1",
+            "price": 215.78,
+            "quantity": 6.15,
+            "tax_amount": 87.36,
+            "total_ttc": 452.76,
+            "vat_amount": 2.23
+        }
+    ],
+    "seller": {
+        "name": "Jessica Jones"
+    },
+    "supplier": {
+        "address": "20368 Melvin Lights South Daniel, GU 66719",
+        "name": "Brian Glover"
+    },
+    "tax": {
+        "amount_excluding_tax": 40.76,
+        "amount_including_tax": 111.97,
+        "tax_amount": 20.97,
+        "total_ht": 259.53,
+        "total_ttc": 443.46
+    }
+}

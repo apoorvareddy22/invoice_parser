@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "024 Gonzalez Junctions Apt. 268 Robertton, IN 21154",
+        "company_name": "Jenkins, Simmons and Curtis",
+        "email": "fmartinez@example.com",
+        "name": "Jacob Sanders",
+        "phone": "+1-446-383-9382"
+    },
+    "invoice": {
+        "date": "14.10.2012",
+        "due_date": "05.06.2015",
+        "number": "sXz13120632433"
+    },
+    "payment": {
+        "account_number": 2678209929,
+        "bank_name": "Caldwell Inc",
+        "routing_number": 949924868
+    },
+    "products": [
+        {
+            "amount": 88.8,
+            "description": "transition compelling architectures",
+            "index": "7",
+            "quantity": 3.46,
+            "unit_price": 50.01
+        },
+        {
+            "amount": 295.93,
+            "description": "engineer mission-critical schemas",
+            "index": "2",
+            "quantity": 3.59,
+            "unit_price": 12.09
+        },
+        {
+            "amount": 253.37,
+            "description": "maximize dynamic schemas",
+            "index": "10",
+            "quantity": 6.18,
+            "unit_price": 15.48
+        }
+    ],
+    "seller": {
+        "address": "32891 Patton Pines Burtonfurt, UT 13407",
+        "company_name": "Ramirez-Brown",
+        "email": "smithjessica@example.net"
+    }
+}

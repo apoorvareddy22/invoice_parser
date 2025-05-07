@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "5734 Blake Place Lewistown, AS 40633",
+        "business_no": "by294",
+        "id": "nu840"
+    },
+    "invoice": {
+        "date": "08.11.1996",
+        "number": "0372-3223"
+    },
+    "payment": {
+        "due_date": "30.07.2015",
+        "total": 866.89
+    },
+    "products": [
+        {
+            "amount": 472.31,
+            "description": "mesh global content",
+            "quantity": 7.33,
+            "reference": "PD-902",
+            "unit_price": 63.57
+        },
+        {
+            "amount": 19.68,
+            "description": "streamline B2B users",
+            "quantity": 8.79,
+            "reference": "CV-380",
+            "unit_price": 17.64
+        },
+        {
+            "amount": 9.42,
+            "description": "engage end-to-end schemas",
+            "quantity": 7.82,
+            "reference": "wO-315",
+            "unit_price": 65.79
+        }
+    ],
+    "seller": {
+        "address": "8784 Thompson Orchard Apt. 524 West Erin, RI 36592"
+    },
+    "tax": {
+        "base_ht": 207.21,
+        "regulations": 25.2,
+        "total_ht": 374.01,
+        "vat_amount": 143.21,
+        "vat_percentage": 18.31
+    }
+}

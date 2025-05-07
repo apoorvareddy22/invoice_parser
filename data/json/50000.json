@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "9373 Anna Prairie Port Kathy, NJ 24648"
+    },
+    "invoice": {
+        "bc_no": "DU78269",
+        "date": "26.07.2014",
+        "maturity_date": "18.11.1994",
+        "number": 790264
+    },
+    "products": [
+        {
+            "amount": 418.05,
+            "description": "optimize mission-critical architectures",
+            "quantity": 3.7,
+            "unit_price": 92.09,
+            "vat_amount": 2.54
+        },
+        {
+            "amount": 276.6,
+            "description": "monetize mission-critical systems",
+            "quantity": 8.24,
+            "unit_price": 68.22,
+            "vat_amount": 1.22
+        },
+        {
+            "amount": 395.37,
+            "description": "enable interactive convergence",
+            "quantity": 5.65,
+            "unit_price": 56.01,
+            "vat_amount": 7.68
+        }
+    ],
+    "seller": {
+        "address": "1761 Smith Stream Christinaport, AL 10901"
+    },
+    "tax": {
+        "amount_excluding_tax": 61.86,
+        "amount_including_tax": 168.4,
+        "tax_amount": 28.25
+    }
+}

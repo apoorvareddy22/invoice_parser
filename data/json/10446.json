@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "2990 Collin Green Port Christine, MI 06348",
+        "email": "courtneypruitt@example.org",
+        "phone": "713.816.5429x78035",
+        "vat_no": "Fa57181818735"
+    },
+    "invoice": {
+        "date": "16.06.2007",
+        "due_date": "24.04.2023",
+        "market_reference": 944264,
+        "notes": "benchmark rich synergies",
+        "number": "3903-1320",
+        "reference": 203467,
+        "vat_no": "qT49677226423"
+    },
+    "payment": {
+        "net_total": 182.69,
+        "total": 476.74
+    },
+    "products": [
+        {
+            "amount": 136.78,
+            "description": "envisioneer real-time schemas",
+            "hours": 5.01,
+            "rate": 4.78
+        },
+        {
+            "amount": 99.66,
+            "description": "embrace bleeding-edge deliverables",
+            "hours": 3.66,
+            "rate": 2.24
+        },
+        {
+            "amount": 303.83,
+            "description": "harness clicks-and-mortar paradigms",
+            "hours": 7.63,
+            "rate": 7.68
+        },
+        {
+            "amount": 394.05,
+            "description": "unleash revolutionary web-readiness",
+            "hours": 2.14,
+            "rate": 3.55
+        },
+        {
+            "amount": 19.1,
+            "description": "architect efficient solutions",
+            "hours": 2.07,
+            "rate": 3.19
+        },
+        {
+            "amount": 418.81,
+            "description": "innovate revolutionary solutions",
+            "hours": 3.79,
+            "rate": 8.33
+        }
+    ],
+    "seller": {
+        "address": "9907 Patricia Plaza New Sarahview, WV 36266",
+        "email": "janetmorales@example.net",
+        "name": "Kenneth Brooks"
+    },
+    "tax": {
+        "base": 27.18,
+        "tax_amount": 23.56,
+        "total_tax": 19.36
+    }
+}

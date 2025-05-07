@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "73514 Devon River Apt. 228 Bondbury, ME 09500",
+        "business_no": "jl465",
+        "id": "vx275"
+    },
+    "invoice": {
+        "date": "16.07.1999",
+        "number": "2910-8670"
+    },
+    "payment": {
+        "due_date": "22.09.1998",
+        "total": 645.61
+    },
+    "products": [
+        {
+            "amount": 131.34,
+            "description": "cultivate intuitive web-readiness",
+            "quantity": 10.0,
+            "reference": "rY-375",
+            "unit_price": 58.01
+        },
+        {
+            "amount": 293.96,
+            "description": "benchmark bricks-and-clicks e-commerce",
+            "quantity": 5.76,
+            "reference": "ma-183",
+            "unit_price": 77.86
+        },
+        {
+            "amount": 246.0,
+            "description": "incentivize cutting-edge metrics",
+            "quantity": 3.99,
+            "reference": "nT-968",
+            "unit_price": 89.35
+        }
+    ],
+    "seller": {
+        "address": "1384 Lucas Track New Joseph, ID 17638"
+    },
+    "tax": {
+        "base_ht": 116.79,
+        "regulations": 13.31,
+        "total_ht": 241.09,
+        "vat_amount": 17.42,
+        "vat_percentage": 28.15
+    }
+}

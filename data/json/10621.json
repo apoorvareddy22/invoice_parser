@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "20421 Miller Squares West Karenville, TX 26697",
+        "email": "lisa72@example.org",
+        "phone": "710-431-4083",
+        "vat_no": "TD67659396073"
+    },
+    "invoice": {
+        "date": "08.12.2009",
+        "due_date": "17.10.1990",
+        "market_reference": 997611,
+        "notes": "re-intermediate killer initiatives",
+        "number": "7158-5881",
+        "reference": 989091,
+        "vat_no": "ak00491322866"
+    },
+    "payment": {
+        "net_total": 118.63,
+        "total": 207.27
+    },
+    "products": [
+        {
+            "amount": 277.07,
+            "description": "e-enable next-generation initiatives",
+            "hours": 9.78,
+            "rate": 2.21
+        }
+    ],
+    "seller": {
+        "address": "017 Samantha Land Apt. 252 Jamesview, CT 87403",
+        "email": "tami44@example.net",
+        "name": "Paul Jacobs"
+    },
+    "tax": {
+        "base": 13.14,
+        "tax_amount": 27.65,
+        "total_tax": 16.61
+    }
+}

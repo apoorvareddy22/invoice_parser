@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "31465 Adam Row Smithfurt, MI 63952",
+        "business_no": "ow194",
+        "id": "QY830"
+    },
+    "invoice": {
+        "date": "27.03.2021",
+        "number": "3604-8559"
+    },
+    "payment": {
+        "due_date": "25.06.2017",
+        "total": 766.97
+    },
+    "products": [
+        {
+            "amount": 192.23,
+            "description": "brand efficient functionalities",
+            "quantity": 1.32,
+            "reference": "ZT-068",
+            "unit_price": 73.59
+        },
+        {
+            "amount": 325.02,
+            "description": "morph enterprise bandwidth",
+            "quantity": 8.81,
+            "reference": "rW-124",
+            "unit_price": 83.74
+        },
+        {
+            "amount": 276.53,
+            "description": "iterate real-time ROI",
+            "quantity": 2.62,
+            "reference": "gT-765",
+            "unit_price": 28.86
+        },
+        {
+            "amount": 368.82,
+            "description": "streamline dynamic architectures",
+            "quantity": 1.28,
+            "reference": "Ts-491",
+            "unit_price": 46.87
+        },
+        {
+            "amount": 281.62,
+            "description": "re-intermediate cutting-edge e-commerce",
+            "quantity": 3.41,
+            "reference": "zp-791",
+            "unit_price": 91.9
+        }
+    ],
+    "seller": {
+        "address": "5354 Tammy Cliffs South Barbaraside, NC 62802"
+    },
+    "tax": {
+        "base_ht": 172.94,
+        "regulations": 11.39,
+        "total_ht": 442.69,
+        "vat_amount": 49.89,
+        "vat_percentage": 22.15
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "Unit 0840 Box 5776 DPO AE 19327",
+        "email": "ghuff@example.org",
+        "phone": "770.632.8907x2774",
+        "vat_no": "gT60253709400"
+    },
+    "invoice": {
+        "date": "31.01.1996",
+        "due_date": "30.07.1998",
+        "market_reference": 705214,
+        "notes": "architect killer mindshare",
+        "number": "9503-1969",
+        "reference": 944251,
+        "vat_no": "Eb28493224695"
+    },
+    "payment": {
+        "net_total": 52.06,
+        "total": 851.17
+    },
+    "products": [
+        {
+            "amount": 222.06,
+            "description": "facilitate virtual e-markets",
+            "hours": 2.37,
+            "rate": 1.23
+        }
+    ],
+    "seller": {
+        "address": "4175 Amanda Land Apt. 841 Anthonyview, MO 82435",
+        "email": "michaelyoung@example.org",
+        "name": "Melissa Crosby"
+    },
+    "tax": {
+        "base": 23.49,
+        "tax_amount": 18.03,
+        "total_tax": 15.47
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "839 Pamela Via East Carrie, VA 81533",
+        "id": "Go941"
+    },
+    "invoice": {
+        "bc_no": "oj30704",
+        "currency_code": "CNY",
+        "date": "31.12.2020",
+        "due_date": "23.10.2007",
+        "number": 431608
+    },
+    "payment": {
+        "bank_name": "Flowers-Cannon",
+        "bic": "ZTQQGBIXU28",
+        "iban": "SRYX49437467460130"
+    },
+    "products": [
+        {
+            "amount": 310.07,
+            "description": "integrate viral web services",
+            "index": "1",
+            "price": 115.96,
+            "quantity": 3.26,
+            "tax_amount": 81.91,
+            "total_ttc": 453.66,
+            "vat_amount": 2.42
+        },
+        {
+            "amount": 313.97,
+            "description": "generate killer metrics",
+            "index": "7",
+            "price": 146.51,
+            "quantity": 9.72,
+            "tax_amount": 55.75,
+            "total_ttc": 104.19,
+            "vat_amount": 0.95
+        },
+        {
+            "amount": 140.9,
+            "description": "engineer leading-edge e-business",
+            "index": "5",
+            "price": 51.47,
+            "quantity": 1.35,
+            "tax_amount": 69.89,
+            "total_ttc": 234.64,
+            "vat_amount": 16.3
+        }
+    ],
+    "seller": {
+        "name": "Dana Johnson"
+    },
+    "supplier": {
+        "address": "3987 Robert Square Suite 065 Allentown, AS 22783",
+        "name": "Terrence Daniels"
+    },
+    "tax": {
+        "amount_excluding_tax": 146.01,
+        "amount_including_tax": 88.73,
+        "tax_amount": 14.9,
+        "total_ht": 438.82,
+        "total_ttc": 432.04
+    }
+}

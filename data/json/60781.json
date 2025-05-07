@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "05488 Megan Path North Ashley, FL 70495",
+        "business_no": "kW528",
+        "id": "FS148"
+    },
+    "invoice": {
+        "date": "08.05.2023",
+        "number": "3184-3398"
+    },
+    "payment": {
+        "due_date": "22.01.2009",
+        "total": 573.37
+    },
+    "products": [
+        {
+            "amount": 103.69,
+            "description": "scale 24/7 metrics",
+            "quantity": 6.39,
+            "reference": "QS-780",
+            "unit_price": 13.98
+        },
+        {
+            "amount": 443.6,
+            "description": "embrace magnetic niches",
+            "quantity": 7.7,
+            "reference": "wJ-816",
+            "unit_price": 74.74
+        },
+        {
+            "amount": 313.29,
+            "description": "cultivate front-end bandwidth",
+            "quantity": 8.89,
+            "reference": "of-749",
+            "unit_price": 83.92
+        }
+    ],
+    "seller": {
+        "address": "243 Elizabeth Fort Suite 174 East Elizabeth, NH 70901"
+    },
+    "tax": {
+        "base_ht": 324.96,
+        "regulations": 15.2,
+        "total_ht": 136.82,
+        "vat_amount": 67.0,
+        "vat_percentage": 13.37
+    }
+}

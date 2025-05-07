@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "62909 Gibson Turnpike Apt. 454 Taylorborough, AZ 15317"
+    },
+    "invoice": {
+        "bc_no": "rc12574",
+        "date": "05.09.2000",
+        "maturity_date": "23.02.2002",
+        "number": 608083
+    },
+    "products": [
+        {
+            "amount": 246.57,
+            "description": "exploit web-enabled vortals",
+            "quantity": 6.0,
+            "unit_price": 72.89,
+            "vat_amount": 12.36
+        },
+        {
+            "amount": 488.06,
+            "description": "transition front-end e-services",
+            "quantity": 7.55,
+            "unit_price": 91.77,
+            "vat_amount": 12.39
+        },
+        {
+            "amount": 336.6,
+            "description": "transition cross-media supply-chains",
+            "quantity": 4.22,
+            "unit_price": 49.01,
+            "vat_amount": 9.67
+        },
+        {
+            "amount": 267.98,
+            "description": "reinvent B2C systems",
+            "quantity": 8.45,
+            "unit_price": 15.99,
+            "vat_amount": 13.72
+        }
+    ],
+    "seller": {
+        "address": "8428 James Mission Apt. 108 New Michaelport, WA 93262"
+    },
+    "tax": {
+        "amount_excluding_tax": 51.42,
+        "amount_including_tax": 103.58,
+        "tax_amount": 17.03
+    }
+}

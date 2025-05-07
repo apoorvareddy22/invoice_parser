@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "72110 Sherman Viaduct Apt. 971 North Connie, VA 59683"
+    },
+    "invoice": {
+        "bc_no": "XT52147",
+        "date": "16.10.2004",
+        "maturity_date": "27.01.2019",
+        "number": 465371
+    },
+    "products": [
+        {
+            "amount": 361.95,
+            "description": "empower B2C e-markets",
+            "quantity": 9.38,
+            "unit_price": 32.3,
+            "vat_amount": 3.05
+        },
+        {
+            "amount": 210.54,
+            "description": "streamline impactful synergies",
+            "quantity": 8.53,
+            "unit_price": 47.77,
+            "vat_amount": 8.92
+        },
+        {
+            "amount": 349.63,
+            "description": "mesh value-added communities",
+            "quantity": 6.55,
+            "unit_price": 41.78,
+            "vat_amount": 1.86
+        }
+    ],
+    "seller": {
+        "address": "63351 Jenkins Port Port Kyleburgh, NV 72854"
+    },
+    "tax": {
+        "amount_excluding_tax": 124.08,
+        "amount_including_tax": 29.06,
+        "tax_amount": 21.85
+    }
+}

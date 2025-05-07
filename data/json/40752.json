@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "778 Myers Freeway Suite 372 Randallfort, VA 12880"
+    },
+    "invoice": {
+        "bc_no": "HC75445",
+        "date": "19.02.2008",
+        "maturity_date": "12.08.1999",
+        "number": 387364
+    },
+    "products": [
+        {
+            "amount": 38.27,
+            "description": "architect transparent channels",
+            "quantity": 8.08,
+            "unit_price": 28.07,
+            "vat_amount": 3.16
+        },
+        {
+            "amount": 103.05,
+            "description": "mesh holistic synergies",
+            "quantity": 7.96,
+            "unit_price": 95.08,
+            "vat_amount": 1.57
+        },
+        {
+            "amount": 70.5,
+            "description": "optimize bleeding-edge models",
+            "quantity": 8.15,
+            "unit_price": 26.66,
+            "vat_amount": 1.13
+        }
+    ],
+    "seller": {
+        "address": "523 Cross Mountains Suite 264 South Warrenland, MT 84170"
+    },
+    "tax": {
+        "amount_excluding_tax": 95.69,
+        "amount_including_tax": 173.1,
+        "tax_amount": 21.81
+    }
+}

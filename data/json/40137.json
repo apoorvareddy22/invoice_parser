@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "8244 Taylor Orchard Suite 102 Michaelburgh, MI 89659"
+    },
+    "invoice": {
+        "bc_no": "Cu97586",
+        "date": "09.02.2005",
+        "maturity_date": "05.10.2016",
+        "number": 771083
+    },
+    "products": [
+        {
+            "amount": 455.4,
+            "description": "re-contextualize integrated methodologies",
+            "quantity": 6.65,
+            "unit_price": 29.61,
+            "vat_amount": 6.21
+        },
+        {
+            "amount": 233.47,
+            "description": "enable revolutionary initiatives",
+            "quantity": 8.31,
+            "unit_price": 49.67,
+            "vat_amount": 1.2
+        }
+    ],
+    "seller": {
+        "address": "USNS Lara FPO AE 25226"
+    },
+    "tax": {
+        "amount_excluding_tax": 168.83,
+        "amount_including_tax": 195.15,
+        "tax_amount": 29.94
+    }
+}

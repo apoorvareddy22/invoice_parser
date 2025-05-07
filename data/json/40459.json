@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "Unit 4505 Box 2035 DPO AA 05705"
+    },
+    "invoice": {
+        "bc_no": "YM83475",
+        "date": "16.09.1990",
+        "maturity_date": "28.10.2023",
+        "number": 906713
+    },
+    "products": [
+        {
+            "amount": 418.41,
+            "description": "revolutionize cutting-edge portals",
+            "quantity": 4.19,
+            "unit_price": 91.47,
+            "vat_amount": 7.45
+        },
+        {
+            "amount": 279.03,
+            "description": "target magnetic networks",
+            "quantity": 7.9,
+            "unit_price": 61.31,
+            "vat_amount": 2.52
+        }
+    ],
+    "seller": {
+        "address": "USS Chan FPO AA 63042"
+    },
+    "tax": {
+        "amount_excluding_tax": 93.04,
+        "amount_including_tax": 46.24,
+        "tax_amount": 10.93
+    }
+}

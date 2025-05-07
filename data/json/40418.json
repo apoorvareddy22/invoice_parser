@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "5510 Hughes Ford New Jennifer, PA 60058"
+    },
+    "invoice": {
+        "bc_no": "EU57773",
+        "date": "04.08.2023",
+        "maturity_date": "29.10.2022",
+        "number": 226435
+    },
+    "products": [
+        {
+            "amount": 81.26,
+            "description": "redefine bricks-and-clicks mindshare",
+            "quantity": 4.39,
+            "unit_price": 64.84,
+            "vat_amount": 2.55
+        },
+        {
+            "amount": 175.04,
+            "description": "maximize value-added ROI",
+            "quantity": 5.92,
+            "unit_price": 12.62,
+            "vat_amount": 2.57
+        },
+        {
+            "amount": 379.29,
+            "description": "extend magnetic markets",
+            "quantity": 7.12,
+            "unit_price": 39.91,
+            "vat_amount": 4.25
+        }
+    ],
+    "seller": {
+        "address": "62225 Collins Square Jeffreytown, WA 18534"
+    },
+    "tax": {
+        "amount_excluding_tax": 15.31,
+        "amount_including_tax": 97.4,
+        "tax_amount": 19.16
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "6473 Jane Springs Lake Lynnport, ND 49684",
+        "id": "mU658"
+    },
+    "invoice": {
+        "bc_no": "lz92950",
+        "currency_code": "XCD",
+        "date": "02.11.2013",
+        "due_date": "31.03.2008",
+        "number": 306156
+    },
+    "payment": {
+        "bank_name": "Osborne-Walker",
+        "bic": "FJNYGBY8K76",
+        "iban": "YKWV97244716098887"
+    },
+    "products": [
+        {
+            "amount": 400.1,
+            "description": "benchmark revolutionary networks",
+            "index": "10",
+            "price": 32.61,
+            "quantity": 3.43,
+            "tax_amount": 96.79,
+            "total_ttc": 330.51,
+            "vat_amount": 5.43
+        },
+        {
+            "amount": 345.7,
+            "description": "empower viral mindshare",
+            "index": "7",
+            "price": 458.64,
+            "quantity": 7.07,
+            "tax_amount": 61.76,
+            "total_ttc": 176.69,
+            "vat_amount": 3.08
+        },
+        {
+            "amount": 408.03,
+            "description": "scale intuitive channels",
+            "index": "3",
+            "price": 69.21,
+            "quantity": 8.96,
+            "tax_amount": 11.97,
+            "total_ttc": 476.5,
+            "vat_amount": 8.2
+        },
+        {
+            "amount": 106.92,
+            "description": "re-contextualize mission-critical users",
+            "index": "2",
+            "price": 320.6,
+            "quantity": 7.68,
+            "tax_amount": 36.27,
+            "total_ttc": 107.58,
+            "vat_amount": 4.47
+        },
+        {
+            "amount": 388.1,
+            "description": "revolutionize viral e-commerce",
+            "index": "9",
+            "price": 186.65,
+            "quantity": 7.03,
+            "tax_amount": 44.83,
+            "total_ttc": 422.39,
+            "vat_amount": 3.09
+        }
+    ],
+    "seller": {
+        "name": "Jessica Moore"
+    },
+    "supplier": {
+        "address": "43065 Castillo Centers Apt. 048 Toddfurt, MN 01201",
+        "name": "Jessica Greene"
+    },
+    "tax": {
+        "amount_excluding_tax": 137.22,
+        "amount_including_tax": 48.64,
+        "tax_amount": 16.24,
+        "total_ht": 390.11,
+        "total_ttc": 368.65
+    }
+}

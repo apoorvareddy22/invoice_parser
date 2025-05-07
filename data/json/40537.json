@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "701 Fernando Burg Apt. 902 Christophermouth, AK 79486"
+    },
+    "invoice": {
+        "bc_no": "VW70059",
+        "date": "22.09.1995",
+        "maturity_date": "17.01.2005",
+        "number": 506604
+    },
+    "products": [
+        {
+            "amount": 418.06,
+            "description": "deploy dynamic relationships",
+            "quantity": 5.98,
+            "unit_price": 38.05,
+            "vat_amount": 16.41
+        },
+        {
+            "amount": 359.72,
+            "description": "syndicate 24/365 partnerships",
+            "quantity": 6.06,
+            "unit_price": 44.12,
+            "vat_amount": 13.66
+        }
+    ],
+    "seller": {
+        "address": "7993 Russell Burg Suite 716 West Michael, FL 15810"
+    },
+    "tax": {
+        "amount_excluding_tax": 27.62,
+        "amount_including_tax": 134.08,
+        "tax_amount": 29.08
+    }
+}

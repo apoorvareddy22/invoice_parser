@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "3271 Mark Gateway Jefferyhaven, VI 89114",
+        "id": "BK648"
+    },
+    "invoice": {
+        "bc_no": "Ue99242",
+        "currency_code": "NIO",
+        "date": "20.12.2005",
+        "due_date": "16.10.1990",
+        "number": 137580
+    },
+    "payment": {
+        "bank_name": "Grant, Thompson and Chaney",
+        "bic": "REEAGB3W",
+        "iban": "YPIL27005335807317"
+    },
+    "products": [
+        {
+            "amount": 38.54,
+            "description": "deploy plug-and-play communities",
+            "index": "2",
+            "price": 72.73,
+            "quantity": 4.96,
+            "tax_amount": 30.07,
+            "total_ttc": 454.33,
+            "vat_amount": 5.75
+        }
+    ],
+    "seller": {
+        "name": "Catherine Ramirez"
+    },
+    "supplier": {
+        "address": "0318 Pham Spurs New Karenton, TN 78293",
+        "name": "Joshua Cobb"
+    },
+    "tax": {
+        "amount_excluding_tax": 37.4,
+        "amount_including_tax": 103.27,
+        "tax_amount": 12.36,
+        "total_ht": 258.04,
+        "total_ttc": 112.89
+    }
+}

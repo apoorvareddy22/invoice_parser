@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "057 Mosley Parkways Apt. 270 Weaverburgh, MP 62571",
+        "id": "wz440"
+    },
+    "invoice": {
+        "bc_no": "VR21612",
+        "currency_code": "HKD",
+        "date": "17.06.2014",
+        "due_date": "17.05.2011",
+        "number": 489388
+    },
+    "payment": {
+        "bank_name": "Bryant-Smith",
+        "bic": "QDDWGB97",
+        "iban": "VWVH72049122447829"
+    },
+    "products": [
+        {
+            "amount": 408.7,
+            "description": "strategize open-source applications",
+            "index": "4",
+            "price": 444.0,
+            "quantity": 4.76,
+            "tax_amount": 67.39,
+            "total_ttc": 265.43,
+            "vat_amount": 7.27
+        },
+        {
+            "amount": 318.57,
+            "description": "re-intermediate e-business synergies",
+            "index": "6",
+            "price": 68.64,
+            "quantity": 8.53,
+            "tax_amount": 13.39,
+            "total_ttc": 176.29,
+            "vat_amount": 4.75
+        },
+        {
+            "amount": 223.6,
+            "description": "repurpose 24/7 eyeballs",
+            "index": "1",
+            "price": 74.28,
+            "quantity": 5.29,
+            "tax_amount": 20.61,
+            "total_ttc": 193.31,
+            "vat_amount": 1.73
+        },
+        {
+            "amount": 226.65,
+            "description": "engage dynamic partnerships",
+            "index": "7",
+            "price": 68.21,
+            "quantity": 5.46,
+            "tax_amount": 33.03,
+            "total_ttc": 424.7,
+            "vat_amount": 6.51
+        }
+    ],
+    "seller": {
+        "name": "Stephen Bradford"
+    },
+    "supplier": {
+        "address": "5846 Rice Gateway South Brandonshire, IA 27668",
+        "name": "Emma Carson"
+    },
+    "tax": {
+        "amount_excluding_tax": 91.97,
+        "amount_including_tax": 79.33,
+        "tax_amount": 18.87,
+        "total_ht": 400.03,
+        "total_ttc": 139.55
+    }
+}

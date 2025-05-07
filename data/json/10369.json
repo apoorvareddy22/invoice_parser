@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "79015 Smith Burg Suite 505 Harrisport, OR 37902",
+        "email": "qsmith@example.net",
+        "phone": "(985)516-2690x694",
+        "vat_no": "pm16310740364"
+    },
+    "invoice": {
+        "date": "05.09.2021",
+        "due_date": "03.03.2020",
+        "market_reference": 991766,
+        "notes": "evolve customized networks",
+        "number": "8367-5835",
+        "reference": 546107,
+        "vat_no": "Yy63440715111"
+    },
+    "payment": {
+        "net_total": 130.72,
+        "total": 331.37
+    },
+    "products": [
+        {
+            "amount": 466.5,
+            "description": "extend seamless schemas",
+            "hours": 1.47,
+            "rate": 3.67
+        },
+        {
+            "amount": 380.89,
+            "description": "harness revolutionary e-markets",
+            "hours": 3.39,
+            "rate": 5.72
+        },
+        {
+            "amount": 225.76,
+            "description": "evolve robust bandwidth",
+            "hours": 6.99,
+            "rate": 7.11
+        },
+        {
+            "amount": 468.72,
+            "description": "revolutionize open-source paradigms",
+            "hours": 5.29,
+            "rate": 7.56
+        },
+        {
+            "amount": 145.65,
+            "description": "extend real-time architectures",
+            "hours": 9.52,
+            "rate": 3.06
+        }
+    ],
+    "seller": {
+        "address": "0911 Alexander Union Apt. 614 Schmittberg, OK 19274",
+        "email": "qelliott@example.org",
+        "name": "Kyle Coffey"
+    },
+    "tax": {
+        "base": 11.76,
+        "tax_amount": 13.81,
+        "total_tax": 20.78
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "56057 Gross Bridge East Lori, OK 17660",
+        "email": "mgonzalez@example.net",
+        "phone": "4789920402",
+        "vat_no": "Te22779125925"
+    },
+    "invoice": {
+        "date": "02.02.2015",
+        "due_date": "16.09.1991",
+        "market_reference": 780328,
+        "notes": "transition enterprise communities",
+        "number": "1624-6504",
+        "reference": 372608,
+        "vat_no": "Id27334320485"
+    },
+    "payment": {
+        "net_total": 169.88,
+        "total": 274.93
+    },
+    "products": [
+        {
+            "amount": 449.84,
+            "description": "engage out-of-the-box eyeballs",
+            "hours": 3.68,
+            "rate": 5.79
+        }
+    ],
+    "seller": {
+        "address": "272 Davis River Apt. 182 Michellehaven, AK 26789",
+        "email": "ryan79@example.org",
+        "name": "Troy Ortiz"
+    },
+    "tax": {
+        "base": 22.28,
+        "tax_amount": 26.67,
+        "total_tax": 21.0
+    }
+}

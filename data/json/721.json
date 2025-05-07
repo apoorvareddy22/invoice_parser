@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "9492 Nelson Pine Suite 164 West Brandi, NE 01896",
+        "company_name": "Jones-Wang",
+        "country": "Belize",
+        "name": "Robert Hurley"
+    },
+    "invoice": {
+        "date": "09.03.2019",
+        "number": 176494
+    },
+    "payment": {
+        "discount_amount": 15.47,
+        "discount_percentage": 15.31,
+        "due": 179.04,
+        "sub_total": 84.1,
+        "total": 513.5
+    },
+    "products": [
+        {
+            "description": "transition vertical metrics",
+            "index": "2",
+            "quantity": 1.83,
+            "total_price": 753.92,
+            "unit_price": 99.75
+        },
+        {
+            "description": "cultivate B2B paradigms",
+            "index": "1",
+            "quantity": 5.31,
+            "total_price": 66.65,
+            "unit_price": 90.12
+        },
+        {
+            "description": "unleash bricks-and-clicks markets",
+            "index": "10",
+            "quantity": 3.32,
+            "total_price": 904.46,
+            "unit_price": 27.51
+        },
+        {
+            "description": "syndicate B2B ROI",
+            "index": "10",
+            "quantity": 8.02,
+            "total_price": 840.65,
+            "unit_price": 31.75
+        }
+    ],
+    "seller": {
+        "address": "1080 Jason Centers Christopherburgh, WV 08356",
+        "company_name": "Avila-Robinson",
+        "vat_no": "hh82851026509"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "509 Christina Estates Apt. 578 New Katelyn, LA 95054",
+        "business_no": "CJ590",
+        "id": "LN830"
+    },
+    "invoice": {
+        "date": "22.02.2014",
+        "number": "6681-2200"
+    },
+    "payment": {
+        "due_date": "26.03.1997",
+        "total": 191.45
+    },
+    "products": [
+        {
+            "amount": 174.18,
+            "description": "engage proactive e-business",
+            "quantity": 8.98,
+            "reference": "uj-650",
+            "unit_price": 67.95
+        },
+        {
+            "amount": 191.05,
+            "description": "strategize front-end vortals",
+            "quantity": 8.89,
+            "reference": "qc-038",
+            "unit_price": 98.56
+        }
+    ],
+    "seller": {
+        "address": "90347 Jose Court New Staceyborough, IL 57663"
+    },
+    "tax": {
+        "base_ht": 241.97,
+        "regulations": 25.79,
+        "total_ht": 489.8,
+        "vat_amount": 92.02,
+        "vat_percentage": 27.6
+    }
+}

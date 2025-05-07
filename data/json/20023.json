@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "63124 Miller Centers Henryberg, FM 78828",
+        "company_name": "Stewart PLC",
+        "email": "lroberson@example.org",
+        "name": "Lori Moody",
+        "phone": "(772)803-3249"
+    },
+    "invoice": {
+        "date": "10.06.2017",
+        "due_date": "27.12.2004",
+        "number": "AkF57794543046"
+    },
+    "payment": {
+        "account_number": 3479618472,
+        "bank_name": "Patel-Peck",
+        "routing_number": 256324395
+    },
+    "products": [
+        {
+            "amount": 496.21,
+            "description": "cultivate robust technologies",
+            "index": "3",
+            "quantity": 6.96,
+            "unit_price": 32.38
+        },
+        {
+            "amount": 242.3,
+            "description": "unleash magnetic supply-chains",
+            "index": "6",
+            "quantity": 6.01,
+            "unit_price": 47.7
+        },
+        {
+            "amount": 65.84,
+            "description": "whiteboard clicks-and-mortar functionalities",
+            "index": "7",
+            "quantity": 3.67,
+            "unit_price": 92.96
+        }
+    ],
+    "seller": {
+        "address": "00520 George Forge West Tylermouth, UT 59302",
+        "company_name": "Cook, Avila and Dawson",
+        "email": "davidstevens@example.com"
+    }
+}

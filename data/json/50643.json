@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "1042 Page Vista Suite 163 Toddfurt, VT 39645",
+        "id": "qt224"
+    },
+    "invoice": {
+        "bc_no": "qr70578",
+        "currency_code": "UZS",
+        "date": "04.12.2019",
+        "due_date": "01.01.2007",
+        "number": 978558
+    },
+    "payment": {
+        "bank_name": "Hamilton Group",
+        "bic": "CWIQGBIN9T0",
+        "iban": "ZWXV14835082625376"
+    },
+    "products": [
+        {
+            "amount": 455.02,
+            "description": "evolve dynamic niches",
+            "index": "2",
+            "price": 47.55,
+            "quantity": 3.82,
+            "tax_amount": 73.57,
+            "total_ttc": 381.75,
+            "vat_amount": 0.69
+        },
+        {
+            "amount": 304.77,
+            "description": "visualize dynamic technologies",
+            "index": "8",
+            "price": 287.58,
+            "quantity": 7.83,
+            "tax_amount": 48.22,
+            "total_ttc": 205.7,
+            "vat_amount": 16.41
+        }
+    ],
+    "seller": {
+        "name": "Maria Thompson"
+    },
+    "supplier": {
+        "address": "65844 Amanda Shoals Suite 211 Kimberlyview, WY 02444",
+        "name": "Linda Travis"
+    },
+    "tax": {
+        "amount_excluding_tax": 135.36,
+        "amount_including_tax": 27.17,
+        "tax_amount": 17.67,
+        "total_ht": 145.05,
+        "total_ttc": 325.56
+    }
+}

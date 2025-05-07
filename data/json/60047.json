@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "5992 Armstrong Estates Apt. 303 Williamsfort, NE 15663",
+        "business_no": "uO744",
+        "id": "yd536"
+    },
+    "invoice": {
+        "date": "02.12.1990",
+        "number": "4585-8966"
+    },
+    "payment": {
+        "due_date": "06.01.2012",
+        "total": 380.62
+    },
+    "products": [
+        {
+            "amount": 275.93,
+            "description": "reinvent world-class interfaces",
+            "quantity": 4.26,
+            "reference": "Ir-247",
+            "unit_price": 32.33
+        },
+        {
+            "amount": 310.6,
+            "description": "grow value-added supply-chains",
+            "quantity": 9.74,
+            "reference": "eu-831",
+            "unit_price": 92.3
+        },
+        {
+            "amount": 309.0,
+            "description": "whiteboard virtual portals",
+            "quantity": 8.54,
+            "reference": "hx-063",
+            "unit_price": 27.05
+        },
+        {
+            "amount": 446.12,
+            "description": "incentivize integrated action-items",
+            "quantity": 9.32,
+            "reference": "iH-358",
+            "unit_price": 11.73
+        },
+        {
+            "amount": 184.37,
+            "description": "matrix front-end ROI",
+            "quantity": 5.21,
+            "reference": "YY-685",
+            "unit_price": 49.95
+        }
+    ],
+    "seller": {
+        "address": "1014 Lewis Fall Suite 937 Kennethchester, PR 89444"
+    },
+    "tax": {
+        "base_ht": 464.0,
+        "regulations": 21.92,
+        "total_ht": 400.46,
+        "vat_amount": 119.25,
+        "vat_percentage": 25.08
+    }
+}

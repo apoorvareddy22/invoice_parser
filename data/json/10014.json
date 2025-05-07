@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "0681 Lori Wells North Haley, TX 71115",
+        "email": "jbarber@example.org",
+        "phone": "576-495-1673",
+        "vat_no": "kS34665128820"
+    },
+    "invoice": {
+        "date": "12.01.1994",
+        "due_date": "06.06.2004",
+        "market_reference": 409000,
+        "notes": "mesh distributed ROI",
+        "number": "5412-3332",
+        "reference": 899190,
+        "vat_no": "dr26604254173"
+    },
+    "payment": {
+        "net_total": 194.31,
+        "total": 505.6
+    },
+    "products": [
+        {
+            "amount": 383.93,
+            "description": "maximize clicks-and-mortar technologies",
+            "hours": 9.48,
+            "rate": 5.43
+        },
+        {
+            "amount": 56.12,
+            "description": "engineer user-centric ROI",
+            "hours": 3.78,
+            "rate": 8.48
+        },
+        {
+            "amount": 130.27,
+            "description": "iterate cutting-edge applications",
+            "hours": 1.36,
+            "rate": 1.36
+        }
+    ],
+    "seller": {
+        "address": "89615 Blackburn Wells Davisshire, IL 79385",
+        "email": "aclark@example.com",
+        "name": "Connor Padilla"
+    },
+    "tax": {
+        "base": 24.18,
+        "tax_amount": 13.29,
+        "total_tax": 14.13
+    }
+}

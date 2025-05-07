@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "6378 Horton Club Suite 070 Fisherfort, MA 97806"
+    },
+    "invoice": {
+        "bc_no": "yC06900",
+        "date": "14.10.2023",
+        "maturity_date": "04.01.2018",
+        "number": 946755
+    },
+    "products": [
+        {
+            "amount": 295.22,
+            "description": "incentivize robust synergies",
+            "quantity": 4.51,
+            "unit_price": 53.0,
+            "vat_amount": 1.04
+        },
+        {
+            "amount": 266.85,
+            "description": "generate extensible convergence",
+            "quantity": 9.92,
+            "unit_price": 69.07,
+            "vat_amount": 9.31
+        },
+        {
+            "amount": 17.59,
+            "description": "deploy web-enabled markets",
+            "quantity": 5.64,
+            "unit_price": 28.15,
+            "vat_amount": 0.65
+        },
+        {
+            "amount": 45.16,
+            "description": "architect end-to-end supply-chains",
+            "quantity": 3.5,
+            "unit_price": 28.6,
+            "vat_amount": 10.77
+        }
+    ],
+    "seller": {
+        "address": "22591 Paul Motorway New Jennifer, CT 41436"
+    },
+    "tax": {
+        "amount_excluding_tax": 131.24,
+        "amount_including_tax": 19.74,
+        "tax_amount": 24.29
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "800 Caitlin Pines Suite 498 Brittanyville, WY 01625",
+        "email": "tinahuffman@example.net",
+        "phone": "(648)694-8380x797",
+        "vat_no": "Bg10811343789"
+    },
+    "invoice": {
+        "date": "23.08.1998",
+        "due_date": "29.09.1990",
+        "market_reference": 386083,
+        "notes": "revolutionize intuitive users",
+        "number": "7438-2808",
+        "reference": 408659,
+        "vat_no": "pP91307772076"
+    },
+    "payment": {
+        "net_total": 97.66,
+        "total": 444.29
+    },
+    "products": [
+        {
+            "amount": 162.85,
+            "description": "envisioneer wireless platforms",
+            "hours": 2.89,
+            "rate": 7.66
+        },
+        {
+            "amount": 39.51,
+            "description": "deploy value-added platforms",
+            "hours": 2.6,
+            "rate": 3.38
+        }
+    ],
+    "seller": {
+        "address": "627 James Crescent Apt. 196 Tyronemouth, NE 53128",
+        "email": "amy47@example.net",
+        "name": "Craig Fuentes"
+    },
+    "tax": {
+        "base": 22.11,
+        "tax_amount": 18.77,
+        "total_tax": 11.6
+    }
+}

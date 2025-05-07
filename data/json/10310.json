@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "68150 Kristin Highway South Justinfort, CA 03853",
+        "email": "mgarcia@example.com",
+        "phone": "001-690-812-8334",
+        "vat_no": "RB74234434828"
+    },
+    "invoice": {
+        "date": "31.12.1992",
+        "due_date": "27.11.1990",
+        "market_reference": 513755,
+        "notes": "disintermediate out-of-the-box schemas",
+        "number": "2733-7557",
+        "reference": 722754,
+        "vat_no": "VN16798408905"
+    },
+    "payment": {
+        "net_total": 99.94,
+        "total": 874.56
+    },
+    "products": [
+        {
+            "amount": 377.83,
+            "description": "enable integrated web services",
+            "hours": 2.53,
+            "rate": 2.95
+        },
+        {
+            "amount": 87.56,
+            "description": "synergize efficient solutions",
+            "hours": 3.46,
+            "rate": 5.5
+        },
+        {
+            "amount": 166.22,
+            "description": "e-enable magnetic relationships",
+            "hours": 1.5,
+            "rate": 3.33
+        },
+        {
+            "amount": 379.59,
+            "description": "morph end-to-end experiences",
+            "hours": 7.35,
+            "rate": 8.21
+        },
+        {
+            "amount": 448.86,
+            "description": "repurpose web-enabled action-items",
+            "hours": 8.38,
+            "rate": 5.73
+        },
+        {
+            "amount": 27.38,
+            "description": "re-intermediate open-source functionalities",
+            "hours": 6.02,
+            "rate": 1.41
+        },
+        {
+            "amount": 412.14,
+            "description": "incubate cross-media architectures",
+            "hours": 2.23,
+            "rate": 6.65
+        }
+    ],
+    "seller": {
+        "address": "6379 Cook Points East Lindsey, HI 37794",
+        "email": "benjamincoleman@example.com",
+        "name": "Rachel Gonzalez"
+    },
+    "tax": {
+        "base": 21.64,
+        "tax_amount": 27.96,
+        "total_tax": 10.34
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "22662 Deborah Wall South Danielleborough, NH 34954",
+        "email": "youngjason@example.com",
+        "phone": "001-906-488-0147x47977",
+        "vat_no": "Of83533767936"
+    },
+    "invoice": {
+        "date": "31.03.2009",
+        "due_date": "13.04.2018",
+        "market_reference": 328702,
+        "notes": "transition e-business schemas",
+        "number": "2567-4875",
+        "reference": 598113,
+        "vat_no": "NV64316864521"
+    },
+    "payment": {
+        "net_total": 111.54,
+        "total": 845.97
+    },
+    "products": [
+        {
+            "amount": 475.33,
+            "description": "empower mission-critical partnerships",
+            "hours": 2.69,
+            "rate": 4.52
+        },
+        {
+            "amount": 47.88,
+            "description": "grow revolutionary platforms",
+            "hours": 8.58,
+            "rate": 4.76
+        },
+        {
+            "amount": 476.74,
+            "description": "target interactive infrastructures",
+            "hours": 6.57,
+            "rate": 3.41
+        },
+        {
+            "amount": 189.21,
+            "description": "seize efficient paradigms",
+            "hours": 8.25,
+            "rate": 5.42
+        }
+    ],
+    "seller": {
+        "address": "02888 Nicolas Flats Apt. 325 Lake Dianeport, ID 94373",
+        "email": "whopkins@example.net",
+        "name": "Stephanie Rose"
+    },
+    "tax": {
+        "base": 14.05,
+        "tax_amount": 23.26,
+        "total_tax": 14.43
+    }
+}

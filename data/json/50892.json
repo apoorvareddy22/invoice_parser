@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "20903 Donna Parkways Suite 345 East Jamesborough, MD 78403",
+        "id": "UP105"
+    },
+    "invoice": {
+        "bc_no": "TT70903",
+        "currency_code": "XPF",
+        "date": "07.07.2014",
+        "due_date": "17.11.1999",
+        "number": 820771
+    },
+    "payment": {
+        "bank_name": "Galloway-Huff",
+        "bic": "FZBMGBGW",
+        "iban": "IMQP89321825561406"
+    },
+    "products": [
+        {
+            "amount": 436.5,
+            "description": "iterate bricks-and-clicks content",
+            "index": "8",
+            "price": 133.32,
+            "quantity": 7.65,
+            "tax_amount": 38.72,
+            "total_ttc": 438.97,
+            "vat_amount": 5.09
+        },
+        {
+            "amount": 207.4,
+            "description": "disintermediate innovative models",
+            "index": "3",
+            "price": 175.94,
+            "quantity": 9.73,
+            "tax_amount": 66.0,
+            "total_ttc": 426.11,
+            "vat_amount": 2.11
+        },
+        {
+            "amount": 442.16,
+            "description": "reinvent world-class relationships",
+            "index": "2",
+            "price": 207.59,
+            "quantity": 7.37,
+            "tax_amount": 15.6,
+            "total_ttc": 466.02,
+            "vat_amount": 9.44
+        }
+    ],
+    "seller": {
+        "name": "Trevor Hill"
+    },
+    "supplier": {
+        "address": "77970 Gutierrez Neck Apt. 008 West Adam, CO 33287",
+        "name": "Marissa Ward"
+    },
+    "tax": {
+        "amount_excluding_tax": 116.46,
+        "amount_including_tax": 153.96,
+        "tax_amount": 26.78,
+        "total_ht": 202.3,
+        "total_ttc": 150.83
+    }
+}

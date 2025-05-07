@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "58294 Sullivan Village Phillipside, HI 89143"
+    },
+    "invoice": {
+        "bc_no": "Gq20883",
+        "date": "19.02.2017",
+        "maturity_date": "22.01.2020",
+        "number": 202982
+    },
+    "products": [
+        {
+            "amount": 78.27,
+            "description": "enable frictionless markets",
+            "quantity": 2.37,
+            "unit_price": 37.1,
+            "vat_amount": 0.71
+        },
+        {
+            "amount": 272.32,
+            "description": "re-intermediate real-time content",
+            "quantity": 8.7,
+            "unit_price": 43.56,
+            "vat_amount": 12.31
+        },
+        {
+            "amount": 247.73,
+            "description": "evolve 24/7 ROI",
+            "quantity": 6.2,
+            "unit_price": 40.97,
+            "vat_amount": 0.99
+        },
+        {
+            "amount": 465.43,
+            "description": "maximize next-generation deliverables",
+            "quantity": 8.4,
+            "unit_price": 64.07,
+            "vat_amount": 0.9
+        },
+        {
+            "amount": 401.52,
+            "description": "orchestrate dynamic interfaces",
+            "quantity": 5.59,
+            "unit_price": 25.28,
+            "vat_amount": 0.38
+        }
+    ],
+    "seller": {
+        "address": "89223 Brown Glen Suite 287 Meyerston, WA 73281"
+    },
+    "tax": {
+        "amount_excluding_tax": 22.98,
+        "amount_including_tax": 33.07,
+        "tax_amount": 22.52
+    }
+}

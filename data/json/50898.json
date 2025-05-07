@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "687 Jones Parks Suite 051 Albertport, VT 07837",
+        "id": "yX524"
+    },
+    "invoice": {
+        "bc_no": "mN43523",
+        "currency_code": "LSL",
+        "date": "10.08.2003",
+        "due_date": "14.01.2008",
+        "number": 695268
+    },
+    "payment": {
+        "bank_name": "Perez PLC",
+        "bic": "UEFHGB80",
+        "iban": "WFQB61308189638395"
+    },
+    "products": [
+        {
+            "amount": 217.2,
+            "description": "embrace granular e-commerce",
+            "index": "7",
+            "price": 18.53,
+            "quantity": 1.37,
+            "tax_amount": 29.71,
+            "total_ttc": 146.98,
+            "vat_amount": 7.59
+        },
+        {
+            "amount": 319.22,
+            "description": "evolve B2B ROI",
+            "index": "4",
+            "price": 109.46,
+            "quantity": 2.99,
+            "tax_amount": 60.03,
+            "total_ttc": 145.67,
+            "vat_amount": 3.29
+        },
+        {
+            "amount": 233.65,
+            "description": "embrace bricks-and-clicks markets",
+            "index": "4",
+            "price": 408.56,
+            "quantity": 9.17,
+            "tax_amount": 65.17,
+            "total_ttc": 104.61,
+            "vat_amount": 4.94
+        },
+        {
+            "amount": 127.97,
+            "description": "target bricks-and-clicks e-markets",
+            "index": "6",
+            "price": 373.94,
+            "quantity": 6.12,
+            "tax_amount": 41.59,
+            "total_ttc": 358.81,
+            "vat_amount": 2.78
+        }
+    ],
+    "seller": {
+        "name": "Miguel Walker"
+    },
+    "supplier": {
+        "address": "43354 William Ranch Suite 248 Perezfort, TN 91729",
+        "name": "Thomas Vasquez"
+    },
+    "tax": {
+        "amount_excluding_tax": 113.56,
+        "amount_including_tax": 189.63,
+        "tax_amount": 24.19,
+        "total_ht": 433.77,
+        "total_ttc": 221.17
+    }
+}

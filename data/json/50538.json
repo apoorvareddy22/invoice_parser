@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "9662 Morse Drive Barnesland, OR 72183",
+        "id": "be930"
+    },
+    "invoice": {
+        "bc_no": "am75787",
+        "currency_code": "HKD",
+        "date": "16.09.2006",
+        "due_date": "16.06.1990",
+        "number": 355970
+    },
+    "payment": {
+        "bank_name": "Fernandez-Smith",
+        "bic": "KUPXGBQ8",
+        "iban": "UMLL05947034188273"
+    },
+    "products": [
+        {
+            "amount": 120.02,
+            "description": "drive end-to-end eyeballs",
+            "index": "6",
+            "price": 486.2,
+            "quantity": 1.53,
+            "tax_amount": 78.98,
+            "total_ttc": 224.24,
+            "vat_amount": 8.45
+        },
+        {
+            "amount": 51.74,
+            "description": "redefine web-enabled models",
+            "index": "5",
+            "price": 317.07,
+            "quantity": 4.01,
+            "tax_amount": 20.35,
+            "total_ttc": 435.07,
+            "vat_amount": 6.37
+        },
+        {
+            "amount": 16.79,
+            "description": "syndicate dynamic systems",
+            "index": "9",
+            "price": 195.46,
+            "quantity": 2.6,
+            "tax_amount": 49.72,
+            "total_ttc": 181.66,
+            "vat_amount": 11.55
+        },
+        {
+            "amount": 22.4,
+            "description": "enhance ubiquitous interfaces",
+            "index": "2",
+            "price": 205.59,
+            "quantity": 7.44,
+            "tax_amount": 68.5,
+            "total_ttc": 268.3,
+            "vat_amount": 1.21
+        },
+        {
+            "amount": 429.52,
+            "description": "revolutionize virtual info-mediaries",
+            "index": "7",
+            "price": 93.15,
+            "quantity": 6.02,
+            "tax_amount": 58.04,
+            "total_ttc": 472.47,
+            "vat_amount": 1.54
+        },
+        {
+            "amount": 214.07,
+            "description": "mesh bricks-and-clicks technologies",
+            "index": "10",
+            "price": 244.59,
+            "quantity": 4.38,
+            "tax_amount": 43.54,
+            "total_ttc": 190.09,
+            "vat_amount": 5.57
+        },
+        {
+            "amount": 261.27,
+            "description": "enable proactive models",
+            "index": "8",
+            "price": 362.95,
+            "quantity": 4.29,
+            "tax_amount": 31.01,
+            "total_ttc": 112.18,
+            "vat_amount": 5.94
+        }
+    ],
+    "seller": {
+        "name": "Courtney Wallace"
+    },
+    "supplier": {
+        "address": "4306 Mclaughlin Glen Apt. 703 Port Katherinechester, AZ 65266",
+        "name": "David Fowler"
+    },
+    "tax": {
+        "amount_excluding_tax": 75.97,
+        "amount_including_tax": 47.4,
+        "tax_amount": 27.48,
+        "total_ht": 295.83,
+        "total_ttc": 152.04
+    }
+}

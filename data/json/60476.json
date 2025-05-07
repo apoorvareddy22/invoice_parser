@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "81123 Dana Wells Apt. 002 Carterview, TX 05842",
+        "business_no": "pg698",
+        "id": "Ho013"
+    },
+    "invoice": {
+        "date": "19.06.2017",
+        "number": "7251-2114"
+    },
+    "payment": {
+        "due_date": "02.02.2007",
+        "total": 175.64
+    },
+    "products": [
+        {
+            "amount": 426.0,
+            "description": "enable magnetic interfaces",
+            "quantity": 3.46,
+            "reference": "Oc-287",
+            "unit_price": 50.24
+        },
+        {
+            "amount": 222.98,
+            "description": "reinvent e-business portals",
+            "quantity": 2.48,
+            "reference": "IZ-056",
+            "unit_price": 34.48
+        },
+        {
+            "amount": 17.46,
+            "description": "unleash user-centric methodologies",
+            "quantity": 2.02,
+            "reference": "ZX-138",
+            "unit_price": 90.49
+        },
+        {
+            "amount": 202.28,
+            "description": "incentivize bricks-and-clicks infrastructures",
+            "quantity": 6.05,
+            "reference": "qD-058",
+            "unit_price": 92.01
+        },
+        {
+            "amount": 144.07,
+            "description": "deploy strategic portals",
+            "quantity": 1.9,
+            "reference": "ym-846",
+            "unit_price": 88.68
+        }
+    ],
+    "seller": {
+        "address": "546 Ashley Village Jameston, IN 95828"
+    },
+    "tax": {
+        "base_ht": 130.92,
+        "regulations": 24.43,
+        "total_ht": 416.03,
+        "vat_amount": 103.22,
+        "vat_percentage": 29.0
+    }
+}

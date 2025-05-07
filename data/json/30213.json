@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "152 Jones Circle Kevinside, KS 69231",
+        "company_name": "Reynolds, Hoffman and Warner",
+        "country": "Japan",
+        "email": "wmartin@example.com",
+        "name": "Jonathan Powers",
+        "phone": "+1-379-362-9095",
+        "vat_no": "jt98080531522"
+    },
+    "invoice": {
+        "date": "29.11.2007",
+        "due_date": "24.04.2003",
+        "linked_invoice": "gU-6938-0266",
+        "notes": "orchestrate innovative e-markets",
+        "number": "kn-4770-3682"
+    },
+    "products": [
+        {
+            "description": "evolve scalable models",
+            "discount_percentage": 5.61,
+            "price": 271.25,
+            "quantity": 3.87,
+            "unit_price": 54.83
+        },
+        {
+            "description": "orchestrate integrated solutions",
+            "discount_percentage": 15.36,
+            "price": 456.31,
+            "quantity": 7.33,
+            "unit_price": 56.47
+        },
+        {
+            "description": "disintermediate world-class models",
+            "discount_percentage": 5.42,
+            "price": 284.65,
+            "quantity": 6.41,
+            "unit_price": 20.44
+        }
+    ],
+    "seller": {
+        "address": "37017 Tracy Canyon Sylviaborough, NY 08276",
+        "ape": "1568I",
+        "capital": 92679299,
+        "country": "Taiwan",
+        "email": "rperry@example.com",
+        "name": "Rebecca Vargas",
+        "phone_1": "655.426.7426x661",
+        "phone_2": "001-238-392-7409x864",
+        "phone_3": "5547405985",
+        "ref_walk": "rEqK4191",
+        "reference": "mz172",
+        "siret": 35361655186899,
+        "vat_no": "aP02785044638",
+        "website": "https://www.jones-ferguson.info/"
+    },
+    "tax": {
+        "amount_0": 17.92,
+        "amount_1": 27.25,
+        "base_0": 10.91,
+        "base_1": 205.03,
+        "total_ht": 469.75,
+        "total_tax": 21.67,
+        "total_ttc": 240.54,
+        "vat_0": 28.61,
+        "vat_1": 15.02
+    }
+}

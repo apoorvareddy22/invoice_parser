@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "29803 Bird Lights Lake William, TN 94441"
+    },
+    "invoice": {
+        "bc_no": "Ex84907",
+        "date": "30.09.2018",
+        "maturity_date": "10.04.1994",
+        "number": 108403
+    },
+    "products": [
+        {
+            "amount": 243.61,
+            "description": "redefine global platforms",
+            "quantity": 2.27,
+            "unit_price": 94.11,
+            "vat_amount": 8.03
+        },
+        {
+            "amount": 107.9,
+            "description": "evolve vertical architectures",
+            "quantity": 8.09,
+            "unit_price": 75.49,
+            "vat_amount": 9.75
+        }
+    ],
+    "seller": {
+        "address": "USCGC Harmon FPO AP 01363"
+    },
+    "tax": {
+        "amount_excluding_tax": 63.69,
+        "amount_including_tax": 170.61,
+        "tax_amount": 27.8
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "34211 Randy Fall South Pamelaberg, CT 14873",
+        "company_name": "Rush-Taylor",
+        "country": "United States of America",
+        "name": "Kirk Mercer"
+    },
+    "invoice": {
+        "date": "15.10.1994",
+        "number": 654348
+    },
+    "payment": {
+        "discount_amount": 28.79,
+        "discount_percentage": 7.81,
+        "due": 61.15,
+        "sub_total": 32.06,
+        "total": 111.64
+    },
+    "products": [
+        {
+            "description": "unleash killer eyeballs",
+            "index": "5",
+            "quantity": 7.22,
+            "total_price": 344.56,
+            "unit_price": 16.99
+        }
+    ],
+    "seller": {
+        "address": "089 Klein Track Suite 630 Evanschester, IA 95404",
+        "company_name": "Sanchez-James",
+        "vat_no": "ZX34219954946"
+    }
+}

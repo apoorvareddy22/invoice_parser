@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "Unit 9082 Box 0681 DPO AE 11618",
+        "company_name": "Andrews Ltd",
+        "country": "Tonga",
+        "name": "John Holt"
+    },
+    "invoice": {
+        "date": "27.08.2004",
+        "number": 753455
+    },
+    "payment": {
+        "discount_amount": 40.44,
+        "discount_percentage": 13.08,
+        "due": 110.83,
+        "sub_total": 122.98,
+        "total": 191.58
+    },
+    "products": [
+        {
+            "description": "evolve wireless metrics",
+            "index": "6",
+            "quantity": 5.77,
+            "total_price": 36.01,
+            "unit_price": 40.19
+        },
+        {
+            "description": "deliver dot-com e-services",
+            "index": "7",
+            "quantity": 2.8,
+            "total_price": 863.1,
+            "unit_price": 66.37
+        },
+        {
+            "description": "brand back-end platforms",
+            "index": "9",
+            "quantity": 9.79,
+            "total_price": 191.28,
+            "unit_price": 40.6
+        },
+        {
+            "description": "productize holistic networks",
+            "index": "4",
+            "quantity": 7.21,
+            "total_price": 15.59,
+            "unit_price": 68.77
+        },
+        {
+            "description": "orchestrate world-class e-tailers",
+            "index": "2",
+            "quantity": 3.74,
+            "total_price": 880.01,
+            "unit_price": 97.05
+        },
+        {
+            "description": "deploy killer niches",
+            "index": "7",
+            "quantity": 4.11,
+            "total_price": 256.15,
+            "unit_price": 33.13
+        }
+    ],
+    "seller": {
+        "address": "759 Reeves Station Griffithshire, GU 27349",
+        "company_name": "Anderson, Diaz and Dunn",
+        "vat_no": "AW95449672280"
+    }
+}

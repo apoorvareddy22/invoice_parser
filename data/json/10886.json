@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "4713 Allison Key North Zachary, PW 36096",
+        "email": "tanya95@example.org",
+        "phone": "+1-582-277-9363x0822",
+        "vat_no": "Mc99065286467"
+    },
+    "invoice": {
+        "date": "28.07.2005",
+        "due_date": "29.10.1992",
+        "market_reference": 106990,
+        "notes": "extend B2B infrastructures",
+        "number": "7700-9702",
+        "reference": 309389,
+        "vat_no": "PB73686674141"
+    },
+    "payment": {
+        "net_total": 116.91,
+        "total": 513.77
+    },
+    "products": [
+        {
+            "amount": 497.82,
+            "description": "syndicate wireless deliverables",
+            "hours": 5.2,
+            "rate": 9.32
+        }
+    ],
+    "seller": {
+        "address": "772 Lawrence Land Jacobhaven, PW 56424",
+        "email": "laura70@example.org",
+        "name": "Todd Cobb"
+    },
+    "tax": {
+        "base": 17.55,
+        "tax_amount": 26.72,
+        "total_tax": 18.86
+    }
+}

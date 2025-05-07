@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "Unit 0816 Box 1457 DPO AA 35861"
+    },
+    "invoice": {
+        "bc_no": "hQ41079",
+        "date": "06.07.1999",
+        "maturity_date": "07.07.2006",
+        "number": 196045
+    },
+    "products": [
+        {
+            "amount": 299.67,
+            "description": "architect proactive paradigms",
+            "quantity": 1.12,
+            "unit_price": 43.21,
+            "vat_amount": 0.57
+        },
+        {
+            "amount": 16.54,
+            "description": "iterate global e-services",
+            "quantity": 2.26,
+            "unit_price": 61.21,
+            "vat_amount": 9.24
+        },
+        {
+            "amount": 325.02,
+            "description": "re-contextualize dynamic solutions",
+            "quantity": 4.78,
+            "unit_price": 73.18,
+            "vat_amount": 2.44
+        }
+    ],
+    "seller": {
+        "address": "USS Anderson FPO AE 97623"
+    },
+    "tax": {
+        "amount_excluding_tax": 170.11,
+        "amount_including_tax": 65.78,
+        "tax_amount": 22.63
+    }
+}

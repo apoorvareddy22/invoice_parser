@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "9645 Nelson Square Apt. 731 Port Olivia, AS 55771",
+        "id": "sp489"
+    },
+    "invoice": {
+        "bc_no": "dm16872",
+        "currency_code": "STD",
+        "date": "13.11.2001",
+        "due_date": "31.10.2003",
+        "number": 230658
+    },
+    "payment": {
+        "bank_name": "Zamora-Acevedo",
+        "bic": "PNKFGB49",
+        "iban": "GZWD78212891860151"
+    },
+    "products": [
+        {
+            "amount": 111.55,
+            "description": "incentivize transparent synergies",
+            "index": "10",
+            "price": 326.6,
+            "quantity": 7.94,
+            "tax_amount": 36.66,
+            "total_ttc": 159.53,
+            "vat_amount": 7.91
+        },
+        {
+            "amount": 124.23,
+            "description": "disintermediate user-centric initiatives",
+            "index": "3",
+            "price": 341.13,
+            "quantity": 4.66,
+            "tax_amount": 36.68,
+            "total_ttc": 219.9,
+            "vat_amount": 9.36
+        },
+        {
+            "amount": 475.83,
+            "description": "e-enable end-to-end experiences",
+            "index": "8",
+            "price": 282.2,
+            "quantity": 3.22,
+            "tax_amount": 85.62,
+            "total_ttc": 129.65,
+            "vat_amount": 6.48
+        },
+        {
+            "amount": 405.24,
+            "description": "redefine compelling convergence",
+            "index": "2",
+            "price": 98.7,
+            "quantity": 3.34,
+            "tax_amount": 51.01,
+            "total_ttc": 313.4,
+            "vat_amount": 11.53
+        },
+        {
+            "amount": 55.88,
+            "description": "exploit turn-key systems",
+            "index": "7",
+            "price": 475.87,
+            "quantity": 2.03,
+            "tax_amount": 13.93,
+            "total_ttc": 101.89,
+            "vat_amount": 12.18
+        },
+        {
+            "amount": 58.73,
+            "description": "expedite 24/7 technologies",
+            "index": "3",
+            "price": 167.2,
+            "quantity": 4.41,
+            "tax_amount": 12.23,
+            "total_ttc": 239.33,
+            "vat_amount": 4.18
+        }
+    ],
+    "seller": {
+        "name": "Hunter Martinez"
+    },
+    "supplier": {
+        "address": "970 Lane Dam Apt. 332 East Marco, OK 98750",
+        "name": "William Robles"
+    },
+    "tax": {
+        "amount_excluding_tax": 118.89,
+        "amount_including_tax": 120.87,
+        "tax_amount": 29.1,
+        "total_ht": 294.64,
+        "total_ttc": 493.75
+    }
+}

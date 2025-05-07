@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "0695 Moore Port North Jacqueline, GU 98356",
+        "company_name": "Robinson and Sons",
+        "email": "jacksoncraig@example.org",
+        "name": "Christopher Gaines",
+        "phone": "001-790-265-8718x80421"
+    },
+    "invoice": {
+        "date": "01.05.2012",
+        "due_date": "04.12.2015",
+        "number": "Utq12974905612"
+    },
+    "payment": {
+        "account_number": 4102905616,
+        "bank_name": "Jackson-Jones",
+        "routing_number": 892811607
+    },
+    "products": [
+        {
+            "amount": 287.44,
+            "description": "expedite innovative info-mediaries",
+            "index": "10",
+            "quantity": 4.74,
+            "unit_price": 52.42
+        },
+        {
+            "amount": 260.95,
+            "description": "repurpose bricks-and-clicks ROI",
+            "index": "6",
+            "quantity": 6.91,
+            "unit_price": 17.55
+        }
+    ],
+    "seller": {
+        "address": "698 Jacobs Squares Suite 616 Johnland, PA 27007",
+        "company_name": "Johnson PLC",
+        "email": "matthew34@example.com"
+    }
+}

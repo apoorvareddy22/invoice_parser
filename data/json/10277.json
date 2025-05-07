@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "32484 Bryan Rue Walkerfurt, NC 03671",
+        "email": "zhall@example.org",
+        "phone": "+1-577-748-5984x29181",
+        "vat_no": "JF01367429468"
+    },
+    "invoice": {
+        "date": "27.12.2008",
+        "due_date": "07.12.2007",
+        "market_reference": 785869,
+        "notes": "transform web-enabled functionalities",
+        "number": "3518-7626",
+        "reference": 276229,
+        "vat_no": "bE50632143902"
+    },
+    "payment": {
+        "net_total": 157.95,
+        "total": 114.04
+    },
+    "products": [
+        {
+            "amount": 319.26,
+            "description": "syndicate plug-and-play methodologies",
+            "hours": 6.64,
+            "rate": 3.37
+        },
+        {
+            "amount": 136.1,
+            "description": "utilize global mindshare",
+            "hours": 1.84,
+            "rate": 6.42
+        }
+    ],
+    "seller": {
+        "address": "094 Jesse Courts Danhaven, HI 01914",
+        "email": "michelle19@example.com",
+        "name": "Thomas Young"
+    },
+    "tax": {
+        "base": 19.5,
+        "tax_amount": 15.3,
+        "total_tax": 22.96
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "8530 Nathan Spurs North Jeffery, PR 80910",
+        "id": "bk330"
+    },
+    "invoice": {
+        "bc_no": "Ue16744",
+        "currency_code": "BDT",
+        "date": "28.04.2007",
+        "due_date": "22.03.1994",
+        "number": 286588
+    },
+    "payment": {
+        "bank_name": "Campbell, Wilkerson and Russell",
+        "bic": "IZNXGB4ITDP",
+        "iban": "RRHT41358069566809"
+    },
+    "products": [
+        {
+            "amount": 13.37,
+            "description": "redefine plug-and-play web services",
+            "index": "1",
+            "price": 357.9,
+            "quantity": 3.76,
+            "tax_amount": 94.97,
+            "total_ttc": 408.31,
+            "vat_amount": 3.62
+        },
+        {
+            "amount": 190.29,
+            "description": "repurpose interactive info-mediaries",
+            "index": "2",
+            "price": 184.17,
+            "quantity": 8.25,
+            "tax_amount": 61.62,
+            "total_ttc": 264.11,
+            "vat_amount": 7.17
+        }
+    ],
+    "seller": {
+        "name": "Joshua Hall"
+    },
+    "supplier": {
+        "address": "650 Hunter Burgs Lake Brianfort, SC 23621",
+        "name": "Terry Key"
+    },
+    "tax": {
+        "amount_excluding_tax": 37.1,
+        "amount_including_tax": 151.55,
+        "tax_amount": 15.7,
+        "total_ht": 371.32,
+        "total_ttc": 130.23
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "067 Cardenas Station Stanleyberg, UT 24317",
+        "business_no": "ER376",
+        "id": "bm170"
+    },
+    "invoice": {
+        "date": "25.08.2001",
+        "number": "3312-4729"
+    },
+    "payment": {
+        "due_date": "12.05.2016",
+        "total": 164.05
+    },
+    "products": [
+        {
+            "amount": 85.46,
+            "description": "mesh vertical markets",
+            "quantity": 7.28,
+            "reference": "iZ-168",
+            "unit_price": 60.14
+        },
+        {
+            "amount": 169.65,
+            "description": "synthesize e-business web-readiness",
+            "quantity": 4.34,
+            "reference": "MO-133",
+            "unit_price": 49.74
+        },
+        {
+            "amount": 494.72,
+            "description": "iterate scalable synergies",
+            "quantity": 8.38,
+            "reference": "Mn-658",
+            "unit_price": 61.71
+        },
+        {
+            "amount": 120.66,
+            "description": "iterate granular vortals",
+            "quantity": 9.25,
+            "reference": "pz-526",
+            "unit_price": 32.65
+        },
+        {
+            "amount": 296.7,
+            "description": "generate cutting-edge deliverables",
+            "quantity": 9.64,
+            "reference": "Rk-677",
+            "unit_price": 98.11
+        },
+        {
+            "amount": 365.81,
+            "description": "brand collaborative eyeballs",
+            "quantity": 3.86,
+            "reference": "ET-265",
+            "unit_price": 65.43
+        }
+    ],
+    "seller": {
+        "address": "Unit 2516 Box 4610 DPO AE 92003"
+    },
+    "tax": {
+        "base_ht": 481.93,
+        "regulations": 13.56,
+        "total_ht": 260.83,
+        "vat_amount": 93.01,
+        "vat_percentage": 22.04
+    }
+}

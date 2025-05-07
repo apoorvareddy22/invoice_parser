@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "6953 Chandler Spurs Bakerberg, OH 84247",
+        "company_name": "Parker LLC",
+        "email": "angelataylor@example.net",
+        "name": "Sylvia Hopkins",
+        "phone": "+1-396-564-2083"
+    },
+    "invoice": {
+        "date": "16.05.2013",
+        "due_date": "08.12.2002",
+        "number": "WWP23902393393"
+    },
+    "payment": {
+        "account_number": 7317824727,
+        "bank_name": "Day-Miller",
+        "routing_number": 735073078
+    },
+    "products": [
+        {
+            "amount": 254.47,
+            "description": "embrace one-to-one functionalities",
+            "index": "2",
+            "quantity": 1.76,
+            "unit_price": 83.42
+        }
+    ],
+    "seller": {
+        "address": "0402 Steven Turnpike Apt. 327 Jacquelineburgh, HI 37358",
+        "company_name": "Smith-Henry",
+        "email": "gregory31@example.net"
+    }
+}

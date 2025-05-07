@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "Unit 8580 Box 2215 DPO AE 01203",
+        "company_name": "Garcia Group",
+        "country": "Colombia",
+        "name": "Adam Anderson"
+    },
+    "invoice": {
+        "date": "28.10.2000",
+        "number": 349551
+    },
+    "payment": {
+        "discount_amount": 34.56,
+        "discount_percentage": 10.14,
+        "due": 63.71,
+        "sub_total": 142.99,
+        "total": 107.6
+    },
+    "products": [
+        {
+            "description": "monetize user-centric architectures",
+            "index": "3",
+            "quantity": 7.13,
+            "total_price": 958.58,
+            "unit_price": 39.48
+        },
+        {
+            "description": "drive scalable models",
+            "index": "4",
+            "quantity": 4.42,
+            "total_price": 693.14,
+            "unit_price": 96.76
+        },
+        {
+            "description": "maximize best-of-breed e-commerce",
+            "index": "9",
+            "quantity": 3.35,
+            "total_price": 153.05,
+            "unit_price": 14.4
+        },
+        {
+            "description": "matrix cross-platform models",
+            "index": "2",
+            "quantity": 1.33,
+            "total_price": 31.86,
+            "unit_price": 10.13
+        },
+        {
+            "description": "engineer open-source action-items",
+            "index": "8",
+            "quantity": 9.74,
+            "total_price": 744.25,
+            "unit_price": 80.41
+        }
+    ],
+    "seller": {
+        "address": "046 Frank Freeway West Jennifer, OR 35957",
+        "company_name": "Little-Osborn",
+        "vat_no": "Me26567580748"
+    }
+}

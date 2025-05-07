@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "3776 Barron Shore Apt. 303 Alexanderside, RI 08601",
+        "company_name": "Bentley Inc",
+        "email": "scottrichards@example.com",
+        "name": "Melissa Marquez",
+        "phone": "(641)563-3877"
+    },
+    "invoice": {
+        "date": "29.01.1990",
+        "due_date": "12.04.2018",
+        "number": "JCS95374927060"
+    },
+    "payment": {
+        "account_number": 6542027469,
+        "bank_name": "Chandler, Hunter and Hernandez",
+        "routing_number": 525225596
+    },
+    "products": [
+        {
+            "amount": 102.98,
+            "description": "transform mission-critical metrics",
+            "index": "3",
+            "quantity": 1.47,
+            "unit_price": 37.15
+        },
+        {
+            "amount": 74.33,
+            "description": "optimize B2C web services",
+            "index": "8",
+            "quantity": 3.5,
+            "unit_price": 11.4
+        },
+        {
+            "amount": 331.38,
+            "description": "deliver granular communities",
+            "index": "2",
+            "quantity": 1.31,
+            "unit_price": 97.72
+        },
+        {
+            "amount": 390.37,
+            "description": "extend front-end metrics",
+            "index": "9",
+            "quantity": 5.19,
+            "unit_price": 14.68
+        },
+        {
+            "amount": 305.0,
+            "description": "orchestrate granular channels",
+            "index": "10",
+            "quantity": 2.85,
+            "unit_price": 30.34
+        }
+    ],
+    "seller": {
+        "address": "3315 Luis Skyway East Ashley, MP 93170",
+        "company_name": "Kennedy LLC",
+        "email": "linda55@example.org"
+    }
+}

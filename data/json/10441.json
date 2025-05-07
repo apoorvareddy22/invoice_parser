@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "66111 Jones Ways Apt. 385 Port Scott, NY 46930",
+        "email": "cheyenne75@example.net",
+        "phone": "935.905.0510x149",
+        "vat_no": "VI96612862476"
+    },
+    "invoice": {
+        "date": "20.01.1999",
+        "due_date": "07.11.1995",
+        "market_reference": 936381,
+        "notes": "synthesize revolutionary methodologies",
+        "number": "4408-9808",
+        "reference": 140469,
+        "vat_no": "ok14261507231"
+    },
+    "payment": {
+        "net_total": 194.12,
+        "total": 662.14
+    },
+    "products": [
+        {
+            "amount": 412.17,
+            "description": "evolve distributed architectures",
+            "hours": 6.46,
+            "rate": 1.01
+        },
+        {
+            "amount": 225.8,
+            "description": "implement sticky supply-chains",
+            "hours": 4.01,
+            "rate": 3.16
+        },
+        {
+            "amount": 360.77,
+            "description": "leverage bleeding-edge synergies",
+            "hours": 6.58,
+            "rate": 8.91
+        },
+        {
+            "amount": 447.69,
+            "description": "visualize strategic vortals",
+            "hours": 3.41,
+            "rate": 3.27
+        }
+    ],
+    "seller": {
+        "address": "5958 Patterson Station Apt. 691 West Cynthiaberg, CT 44169",
+        "email": "simsbrian@example.com",
+        "name": "Tiffany Lawrence"
+    },
+    "tax": {
+        "base": 13.3,
+        "tax_amount": 12.88,
+        "total_tax": 26.24
+    }
+}

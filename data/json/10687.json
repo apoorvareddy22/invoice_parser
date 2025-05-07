@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "54567 Robert Roads South Amanda, VI 92962",
+        "email": "chanrandy@example.org",
+        "phone": "+1-727-400-0466x494",
+        "vat_no": "pf77802643096"
+    },
+    "invoice": {
+        "date": "27.10.1999",
+        "due_date": "01.03.2020",
+        "market_reference": 775455,
+        "notes": "architect strategic convergence",
+        "number": "2087-2801",
+        "reference": 127157,
+        "vat_no": "rC91372980376"
+    },
+    "payment": {
+        "net_total": 157.79,
+        "total": 865.35
+    },
+    "products": [
+        {
+            "amount": 255.98,
+            "description": "enhance wireless vortals",
+            "hours": 5.15,
+            "rate": 8.63
+        },
+        {
+            "amount": 13.02,
+            "description": "embrace compelling experiences",
+            "hours": 9.77,
+            "rate": 3.49
+        },
+        {
+            "amount": 332.88,
+            "description": "incentivize web-enabled e-markets",
+            "hours": 6.96,
+            "rate": 6.91
+        },
+        {
+            "amount": 14.45,
+            "description": "drive compelling web services",
+            "hours": 5.21,
+            "rate": 2.53
+        },
+        {
+            "amount": 326.8,
+            "description": "unleash enterprise info-mediaries",
+            "hours": 3.23,
+            "rate": 7.1
+        }
+    ],
+    "seller": {
+        "address": "0712 Smith Ville New Whitneyside, IA 91809",
+        "email": "powellamy@example.com",
+        "name": "Vanessa Foster"
+    },
+    "tax": {
+        "base": 29.17,
+        "tax_amount": 12.13,
+        "total_tax": 19.4
+    }
+}

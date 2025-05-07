@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "09441 Jones Walk Apt. 829 Michaelview, IL 49370",
+        "company_name": "Lopez Ltd",
+        "country": "Greenland",
+        "name": "Jennifer Mcintyre"
+    },
+    "invoice": {
+        "date": "12.05.2016",
+        "number": 995752
+    },
+    "payment": {
+        "discount_amount": 19.28,
+        "discount_percentage": 16.32,
+        "due": 33.59,
+        "sub_total": 56.95,
+        "total": 632.85
+    },
+    "products": [
+        {
+            "description": "synergize intuitive metrics",
+            "index": "7",
+            "quantity": 4.78,
+            "total_price": 230.7,
+            "unit_price": 95.39
+        },
+        {
+            "description": "engage world-class experiences",
+            "index": "8",
+            "quantity": 4.68,
+            "total_price": 251.52,
+            "unit_price": 59.7
+        },
+        {
+            "description": "architect real-time vortals",
+            "index": "3",
+            "quantity": 8.32,
+            "total_price": 712.37,
+            "unit_price": 67.16
+        },
+        {
+            "description": "whiteboard intuitive e-markets",
+            "index": "6",
+            "quantity": 9.89,
+            "total_price": 357.89,
+            "unit_price": 55.11
+        }
+    ],
+    "seller": {
+        "address": "Unit 9713 Box 7790 DPO AE 47841",
+        "company_name": "Vincent, Miller and Randolph",
+        "vat_no": "cf86258825251"
+    }
+}

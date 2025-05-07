@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "2101 Jackson Crossing North Samuel, PR 25308",
+        "business_no": "vb712",
+        "id": "fa529"
+    },
+    "invoice": {
+        "date": "15.12.2020",
+        "number": "9473-9977"
+    },
+    "payment": {
+        "due_date": "01.10.1990",
+        "total": 998.78
+    },
+    "products": [
+        {
+            "amount": 378.33,
+            "description": "utilize impactful experiences",
+            "quantity": 8.77,
+            "reference": "Uj-125",
+            "unit_price": 16.57
+        },
+        {
+            "amount": 487.08,
+            "description": "engage customized supply-chains",
+            "quantity": 2.78,
+            "reference": "qe-098",
+            "unit_price": 34.77
+        },
+        {
+            "amount": 199.79,
+            "description": "optimize compelling markets",
+            "quantity": 3.2,
+            "reference": "NZ-386",
+            "unit_price": 74.79
+        },
+        {
+            "amount": 318.14,
+            "description": "incubate scalable technologies",
+            "quantity": 8.93,
+            "reference": "tM-502",
+            "unit_price": 78.04
+        },
+        {
+            "amount": 197.24,
+            "description": "evolve magnetic markets",
+            "quantity": 8.12,
+            "reference": "uP-328",
+            "unit_price": 60.89
+        },
+        {
+            "amount": 16.61,
+            "description": "transition 24/365 supply-chains",
+            "quantity": 2.42,
+            "reference": "IC-324",
+            "unit_price": 14.68
+        }
+    ],
+    "seller": {
+        "address": "26014 Sarah Burgs Suite 130 Ortegaport, IN 40725"
+    },
+    "tax": {
+        "base_ht": 452.81,
+        "regulations": 11.28,
+        "total_ht": 283.55,
+        "vat_amount": 15.04,
+        "vat_percentage": 24.47
+    }
+}

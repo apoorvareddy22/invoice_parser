@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "0128 Brewer Divide Suite 933 Williamchester, NJ 36931",
+        "business_no": "rp516",
+        "id": "AU103"
+    },
+    "invoice": {
+        "date": "03.09.2000",
+        "number": "5047-3740"
+    },
+    "payment": {
+        "due_date": "07.01.2002",
+        "total": 959.76
+    },
+    "products": [
+        {
+            "amount": 72.64,
+            "description": "deliver user-centric content",
+            "quantity": 4.01,
+            "reference": "vH-215",
+            "unit_price": 11.7
+        },
+        {
+            "amount": 213.97,
+            "description": "deliver intuitive interfaces",
+            "quantity": 2.39,
+            "reference": "xk-039",
+            "unit_price": 72.59
+        },
+        {
+            "amount": 228.13,
+            "description": "facilitate seamless web-readiness",
+            "quantity": 8.72,
+            "reference": "dD-431",
+            "unit_price": 15.12
+        },
+        {
+            "amount": 444.61,
+            "description": "extend cutting-edge infrastructures",
+            "quantity": 5.87,
+            "reference": "Hj-106",
+            "unit_price": 47.16
+        },
+        {
+            "amount": 339.17,
+            "description": "deploy seamless ROI",
+            "quantity": 6.5,
+            "reference": "zN-990",
+            "unit_price": 49.02
+        }
+    ],
+    "seller": {
+        "address": "30487 Julie Lights Apt. 894 Colemanshire, KY 05829"
+    },
+    "tax": {
+        "base_ht": 163.98,
+        "regulations": 20.31,
+        "total_ht": 159.27,
+        "vat_amount": 156.4,
+        "vat_percentage": 10.72
+    }
+}

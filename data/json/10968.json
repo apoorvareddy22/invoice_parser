@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "1688 Meyers Motorway Port Sheila, VI 76256",
+        "email": "brownrickey@example.com",
+        "phone": "(714)714-2823x26560",
+        "vat_no": "OG94023027069"
+    },
+    "invoice": {
+        "date": "23.02.1999",
+        "due_date": "03.03.1999",
+        "market_reference": 930789,
+        "notes": "integrate extensible applications",
+        "number": "6045-6370",
+        "reference": 402592,
+        "vat_no": "Xc77298363776"
+    },
+    "payment": {
+        "net_total": 181.73,
+        "total": 808.7
+    },
+    "products": [
+        {
+            "amount": 166.73,
+            "description": "benchmark mission-critical methodologies",
+            "hours": 5.93,
+            "rate": 9.71
+        },
+        {
+            "amount": 313.21,
+            "description": "unleash 24/365 e-services",
+            "hours": 9.82,
+            "rate": 6.04
+        },
+        {
+            "amount": 172.72,
+            "description": "embrace intuitive architectures",
+            "hours": 5.01,
+            "rate": 3.34
+        },
+        {
+            "amount": 87.64,
+            "description": "deploy revolutionary deliverables",
+            "hours": 2.95,
+            "rate": 8.74
+        },
+        {
+            "amount": 9.85,
+            "description": "harness B2B info-mediaries",
+            "hours": 4.69,
+            "rate": 7.88
+        },
+        {
+            "amount": 222.27,
+            "description": "incubate bleeding-edge systems",
+            "hours": 4.47,
+            "rate": 8.25
+        }
+    ],
+    "seller": {
+        "address": "41546 Simpson Shore Suite 664 Port Christopher, WY 50331",
+        "email": "christianford@example.net",
+        "name": "Adam Moore"
+    },
+    "tax": {
+        "base": 13.41,
+        "tax_amount": 19.3,
+        "total_tax": 12.47
+    }
+}

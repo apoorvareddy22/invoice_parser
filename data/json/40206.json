@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "4942 Roy Port Lawrencemouth, AL 99721"
+    },
+    "invoice": {
+        "bc_no": "Pm96344",
+        "date": "07.07.2021",
+        "maturity_date": "28.01.2011",
+        "number": 344272
+    },
+    "products": [
+        {
+            "amount": 438.44,
+            "description": "brand back-end networks",
+            "quantity": 4.79,
+            "unit_price": 62.12,
+            "vat_amount": 0.83
+        }
+    ],
+    "seller": {
+        "address": "6513 Williams Falls Suite 382 Port Derekberg, DC 91927"
+    },
+    "tax": {
+        "amount_excluding_tax": 45.82,
+        "amount_including_tax": 97.81,
+        "tax_amount": 19.05
+    }
+}

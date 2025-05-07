@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "3883 Sherry Locks Apt. 365 North Maryborough, HI 07232",
+        "business_no": "Bf252",
+        "id": "VV121"
+    },
+    "invoice": {
+        "date": "23.03.2017",
+        "number": "1569-2554"
+    },
+    "payment": {
+        "due_date": "19.06.2017",
+        "total": 381.32
+    },
+    "products": [
+        {
+            "amount": 396.79,
+            "description": "visualize visionary relationships",
+            "quantity": 4.34,
+            "reference": "cB-248",
+            "unit_price": 70.98
+        },
+        {
+            "amount": 104.04,
+            "description": "transition seamless functionalities",
+            "quantity": 9.91,
+            "reference": "Oh-727",
+            "unit_price": 29.82
+        },
+        {
+            "amount": 389.52,
+            "description": "integrate rich content",
+            "quantity": 3.06,
+            "reference": "fk-849",
+            "unit_price": 62.75
+        },
+        {
+            "amount": 223.25,
+            "description": "generate visionary markets",
+            "quantity": 3.39,
+            "reference": "My-801",
+            "unit_price": 45.09
+        }
+    ],
+    "seller": {
+        "address": "66189 John Station Suite 483 West Susan, IL 52799"
+    },
+    "tax": {
+        "base_ht": 350.88,
+        "regulations": 15.14,
+        "total_ht": 294.41,
+        "vat_amount": 73.68,
+        "vat_percentage": 14.74
+    }
+}

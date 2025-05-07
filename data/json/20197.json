@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "3968 Ruiz Garden Apt. 140 North Mariahview, ME 28531",
+        "company_name": "Anderson-Carroll",
+        "email": "umolina@example.org",
+        "name": "Maria Li",
+        "phone": "814-229-0869"
+    },
+    "invoice": {
+        "date": "27.01.2004",
+        "due_date": "16.11.2015",
+        "number": "ZrS94592513419"
+    },
+    "payment": {
+        "account_number": 4673102832,
+        "bank_name": "Perry-Johnson",
+        "routing_number": 858203739
+    },
+    "products": [
+        {
+            "amount": 294.36,
+            "description": "benchmark value-added e-business",
+            "index": "3",
+            "quantity": 3.08,
+            "unit_price": 13.04
+        },
+        {
+            "amount": 477.76,
+            "description": "utilize 24/365 e-tailers",
+            "index": "6",
+            "quantity": 9.7,
+            "unit_price": 67.79
+        },
+        {
+            "amount": 372.89,
+            "description": "streamline wireless interfaces",
+            "index": "8",
+            "quantity": 7.37,
+            "unit_price": 45.08
+        },
+        {
+            "amount": 400.56,
+            "description": "productize 24/365 supply-chains",
+            "index": "10",
+            "quantity": 4.46,
+            "unit_price": 96.66
+        },
+        {
+            "amount": 422.81,
+            "description": "morph enterprise functionalities",
+            "index": "10",
+            "quantity": 3.23,
+            "unit_price": 38.07
+        }
+    ],
+    "seller": {
+        "address": "PSC 9203, Box 0884 APO AE 04042",
+        "company_name": "Cooper, Garcia and Torres",
+        "email": "kathycook@example.com"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "075 Jonathan Squares South Edward, MP 07435",
+        "company_name": "Schwartz-Hall",
+        "country": "Spain",
+        "name": "Madeline Schmidt"
+    },
+    "invoice": {
+        "date": "12.01.2009",
+        "number": 301012
+    },
+    "payment": {
+        "discount_amount": 12.73,
+        "discount_percentage": 8.14,
+        "due": 85.3,
+        "sub_total": 192.65,
+        "total": 871.63
+    },
+    "products": [
+        {
+            "description": "whiteboard global relationships",
+            "index": "8",
+            "quantity": 1.71,
+            "total_price": 534.63,
+            "unit_price": 14.87
+        },
+        {
+            "description": "empower scalable infrastructures",
+            "index": "4",
+            "quantity": 3.8,
+            "total_price": 527.5,
+            "unit_price": 23.62
+        },
+        {
+            "description": "optimize 24/365 initiatives",
+            "index": "5",
+            "quantity": 3.8,
+            "total_price": 502.26,
+            "unit_price": 91.61
+        },
+        {
+            "description": "cultivate virtual relationships",
+            "index": "4",
+            "quantity": 9.58,
+            "total_price": 604.95,
+            "unit_price": 34.77
+        }
+    ],
+    "seller": {
+        "address": "38547 Carlson Route Apt. 096 New Teresa, CT 49874",
+        "company_name": "Hardy, Sampson and Lyons",
+        "vat_no": "RK07299534842"
+    }
+}

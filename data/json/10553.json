@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "09335 Nguyen Center North Kathleenburgh, MH 43511",
+        "email": "agarcia@example.org",
+        "phone": "982-997-2916",
+        "vat_no": "lS89770646725"
+    },
+    "invoice": {
+        "date": "05.05.1996",
+        "due_date": "23.08.1998",
+        "market_reference": 423374,
+        "notes": "generate visionary info-mediaries",
+        "number": "0011-7425",
+        "reference": 221600,
+        "vat_no": "HP29241646667"
+    },
+    "payment": {
+        "net_total": 135.77,
+        "total": 712.36
+    },
+    "products": [
+        {
+            "amount": 57.55,
+            "description": "empower bricks-and-clicks methodologies",
+            "hours": 3.69,
+            "rate": 3.82
+        },
+        {
+            "amount": 478.68,
+            "description": "redefine B2C deliverables",
+            "hours": 8.95,
+            "rate": 2.0
+        }
+    ],
+    "seller": {
+        "address": "4725 Spencer Flats Suite 342 South Carriestad, KS 13214",
+        "email": "stephen09@example.net",
+        "name": "Janet Chan"
+    },
+    "tax": {
+        "base": 12.84,
+        "tax_amount": 19.06,
+        "total_tax": 12.3
+    }
+}

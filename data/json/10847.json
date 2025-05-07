@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "06521 Jennifer Rapids East Brianton, CO 99529",
+        "email": "jjones@example.com",
+        "phone": "7278503524",
+        "vat_no": "qT16111883362"
+    },
+    "invoice": {
+        "date": "24.01.2022",
+        "due_date": "29.12.1999",
+        "market_reference": 133840,
+        "notes": "deploy 24/365 relationships",
+        "number": "1219-9968",
+        "reference": 258369,
+        "vat_no": "oa92880488741"
+    },
+    "payment": {
+        "net_total": 33.75,
+        "total": 296.28
+    },
+    "products": [
+        {
+            "amount": 263.78,
+            "description": "re-intermediate revolutionary schemas",
+            "hours": 4.65,
+            "rate": 5.52
+        },
+        {
+            "amount": 327.69,
+            "description": "iterate dot-com portals",
+            "hours": 2.51,
+            "rate": 5.14
+        },
+        {
+            "amount": 389.61,
+            "description": "transform innovative synergies",
+            "hours": 4.1,
+            "rate": 7.42
+        },
+        {
+            "amount": 197.44,
+            "description": "deploy wireless deliverables",
+            "hours": 9.47,
+            "rate": 5.56
+        }
+    ],
+    "seller": {
+        "address": "989 Edwards Alley South Johnside, FL 03930",
+        "email": "mweber@example.com",
+        "name": "Robin Roberts"
+    },
+    "tax": {
+        "base": 25.28,
+        "tax_amount": 26.61,
+        "total_tax": 27.5
+    }
+}

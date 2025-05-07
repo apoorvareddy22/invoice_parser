@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "8818 David Creek East Michelleberg, PA 67900",
+        "email": "kimberly29@example.org",
+        "phone": "786.945.0891x504",
+        "vat_no": "Cj95712487353"
+    },
+    "invoice": {
+        "date": "26.05.2002",
+        "due_date": "08.03.1990",
+        "market_reference": 116374,
+        "notes": "syndicate back-end deliverables",
+        "number": "1689-3143",
+        "reference": 505885,
+        "vat_no": "lB07986390366"
+    },
+    "payment": {
+        "net_total": 61.32,
+        "total": 981.97
+    },
+    "products": [
+        {
+            "amount": 246.74,
+            "description": "harness e-business systems",
+            "hours": 6.06,
+            "rate": 4.94
+        },
+        {
+            "amount": 491.15,
+            "description": "seize 24/7 niches",
+            "hours": 8.44,
+            "rate": 7.05
+        },
+        {
+            "amount": 325.9,
+            "description": "syndicate rich web services",
+            "hours": 1.05,
+            "rate": 9.6
+        },
+        {
+            "amount": 225.35,
+            "description": "reinvent collaborative ROI",
+            "hours": 7.97,
+            "rate": 7.26
+        },
+        {
+            "amount": 138.27,
+            "description": "generate value-added users",
+            "hours": 1.5,
+            "rate": 3.71
+        }
+    ],
+    "seller": {
+        "address": "3848 Rachel Alley Suite 900 Fosterburgh, KS 59806",
+        "email": "gregorysmith@example.org",
+        "name": "Casey Cole"
+    },
+    "tax": {
+        "base": 14.65,
+        "tax_amount": 19.34,
+        "total_tax": 24.08
+    }
+}

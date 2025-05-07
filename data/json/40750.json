@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "25011 Brown Stream Johnsonfurt, MT 81468"
+    },
+    "invoice": {
+        "bc_no": "gU29055",
+        "date": "12.10.1999",
+        "maturity_date": "08.03.2011",
+        "number": 515754
+    },
+    "products": [
+        {
+            "amount": 152.17,
+            "description": "innovate end-to-end vortals",
+            "quantity": 9.77,
+            "unit_price": 48.61,
+            "vat_amount": 11.32
+        },
+        {
+            "amount": 456.68,
+            "description": "extend clicks-and-mortar initiatives",
+            "quantity": 8.69,
+            "unit_price": 44.04,
+            "vat_amount": 11.52
+        },
+        {
+            "amount": 46.17,
+            "description": "drive compelling supply-chains",
+            "quantity": 1.93,
+            "unit_price": 80.49,
+            "vat_amount": 3.75
+        }
+    ],
+    "seller": {
+        "address": "59269 Melissa Fall North Michaelbury, IL 81038"
+    },
+    "tax": {
+        "amount_excluding_tax": 157.18,
+        "amount_including_tax": 135.36,
+        "tax_amount": 28.56
+    }
+}

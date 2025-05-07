@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "742 Kennedy Road Apt. 347 Karenhaven, RI 79906",
+        "business_no": "Eo941",
+        "id": "Bo853"
+    },
+    "invoice": {
+        "date": "25.04.2023",
+        "number": "4976-6673"
+    },
+    "payment": {
+        "due_date": "04.08.2004",
+        "total": 168.97
+    },
+    "products": [
+        {
+            "amount": 194.25,
+            "description": "scale strategic e-tailers",
+            "quantity": 9.61,
+            "reference": "UP-476",
+            "unit_price": 47.67
+        },
+        {
+            "amount": 149.48,
+            "description": "re-intermediate dot-com e-tailers",
+            "quantity": 4.25,
+            "reference": "Qv-093",
+            "unit_price": 53.1
+        },
+        {
+            "amount": 290.39,
+            "description": "drive holistic interfaces",
+            "quantity": 5.46,
+            "reference": "dw-108",
+            "unit_price": 26.02
+        },
+        {
+            "amount": 106.12,
+            "description": "engineer leading-edge deliverables",
+            "quantity": 3.83,
+            "reference": "Vu-315",
+            "unit_price": 50.46
+        }
+    ],
+    "seller": {
+        "address": "1461 Barnes Forks Apt. 021 Kaufmanmouth, NE 23833"
+    },
+    "tax": {
+        "base_ht": 278.99,
+        "regulations": 16.99,
+        "total_ht": 175.33,
+        "vat_amount": 89.4,
+        "vat_percentage": 29.0
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "859 Carrie Trail Suite 213 West Davidburgh, FM 94438",
+        "email": "johnnymartinez@example.com",
+        "phone": "571.426.5179",
+        "vat_no": "JK01064373057"
+    },
+    "invoice": {
+        "date": "20.09.2005",
+        "due_date": "17.02.2013",
+        "market_reference": 962448,
+        "notes": "e-enable plug-and-play initiatives",
+        "number": "2720-9266",
+        "reference": 324642,
+        "vat_no": "Rt58461076163"
+    },
+    "payment": {
+        "net_total": 156.7,
+        "total": 732.64
+    },
+    "products": [
+        {
+            "amount": 147.68,
+            "description": "mesh mission-critical models",
+            "hours": 5.58,
+            "rate": 8.94
+        },
+        {
+            "amount": 174.68,
+            "description": "target intuitive paradigms",
+            "hours": 7.56,
+            "rate": 9.41
+        },
+        {
+            "amount": 147.5,
+            "description": "unleash next-generation partnerships",
+            "hours": 3.67,
+            "rate": 6.29
+        },
+        {
+            "amount": 490.9,
+            "description": "evolve B2C convergence",
+            "hours": 4.46,
+            "rate": 9.08
+        },
+        {
+            "amount": 226.5,
+            "description": "morph back-end partnerships",
+            "hours": 9.75,
+            "rate": 8.59
+        }
+    ],
+    "seller": {
+        "address": "5031 Rita Cove Lake Michelle, NE 66432",
+        "email": "christina01@example.org",
+        "name": "Curtis Simon"
+    },
+    "tax": {
+        "base": 24.76,
+        "tax_amount": 17.97,
+        "total_tax": 20.15
+    }
+}

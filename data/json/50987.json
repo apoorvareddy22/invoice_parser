@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "07489 Ho Fall Spencerberg, PW 84667",
+        "id": "Lh587"
+    },
+    "invoice": {
+        "bc_no": "LD70861",
+        "currency_code": "PAB",
+        "date": "21.11.1996",
+        "due_date": "11.01.1999",
+        "number": 783843
+    },
+    "payment": {
+        "bank_name": "Logan, Ross and Higgins",
+        "bic": "UTEQGBCR",
+        "iban": "EDCB04136708592958"
+    },
+    "products": [
+        {
+            "amount": 26.09,
+            "description": "evolve value-added communities",
+            "index": "4",
+            "price": 188.13,
+            "quantity": 7.8,
+            "tax_amount": 33.59,
+            "total_ttc": 276.52,
+            "vat_amount": 12.34
+        },
+        {
+            "amount": 26.12,
+            "description": "expedite ubiquitous applications",
+            "index": "5",
+            "price": 115.41,
+            "quantity": 5.32,
+            "tax_amount": 87.1,
+            "total_ttc": 469.34,
+            "vat_amount": 2.35
+        },
+        {
+            "amount": 417.49,
+            "description": "matrix world-class e-tailers",
+            "index": "10",
+            "price": 95.08,
+            "quantity": 6.6,
+            "tax_amount": 72.02,
+            "total_ttc": 201.87,
+            "vat_amount": 0.71
+        },
+        {
+            "amount": 398.06,
+            "description": "innovate integrated paradigms",
+            "index": "6",
+            "price": 233.79,
+            "quantity": 7.76,
+            "tax_amount": 89.39,
+            "total_ttc": 125.18,
+            "vat_amount": 2.47
+        },
+        {
+            "amount": 40.15,
+            "description": "envisioneer 24/365 initiatives",
+            "index": "5",
+            "price": 454.49,
+            "quantity": 9.18,
+            "tax_amount": 99.66,
+            "total_ttc": 432.36,
+            "vat_amount": 9.9
+        },
+        {
+            "amount": 139.7,
+            "description": "optimize clicks-and-mortar supply-chains",
+            "index": "6",
+            "price": 146.01,
+            "quantity": 9.25,
+            "tax_amount": 38.56,
+            "total_ttc": 289.2,
+            "vat_amount": 1.16
+        }
+    ],
+    "seller": {
+        "name": "Samantha Parks"
+    },
+    "supplier": {
+        "address": "469 Aaron Union Suite 152 Port Amanda, OK 71273",
+        "name": "Paul Powers"
+    },
+    "tax": {
+        "amount_excluding_tax": 80.35,
+        "amount_including_tax": 173.29,
+        "tax_amount": 25.13,
+        "total_ht": 387.68,
+        "total_ttc": 152.63
+    }
+}

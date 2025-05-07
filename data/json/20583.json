@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "425 Michelle Drive Suite 516 Boydbury, NJ 37900",
+        "company_name": "Ellis-Roberts",
+        "email": "matthew52@example.net",
+        "name": "Katie Collins",
+        "phone": "953-458-8854x3387"
+    },
+    "invoice": {
+        "date": "23.05.2010",
+        "due_date": "03.07.2019",
+        "number": "DbI63971893821"
+    },
+    "payment": {
+        "account_number": 9800221389,
+        "bank_name": "Perry-Alvarado",
+        "routing_number": 850227731
+    },
+    "products": [
+        {
+            "amount": 67.83,
+            "description": "synergize strategic platforms",
+            "index": "2",
+            "quantity": 5.44,
+            "unit_price": 13.09
+        }
+    ],
+    "seller": {
+        "address": "37288 Kennedy Lakes Apt. 782 South Amber, OH 51192",
+        "company_name": "Smith, Stephens and Richardson",
+        "email": "casey79@example.com"
+    }
+}

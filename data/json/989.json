@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "648 Cooper Place South John, DC 93556",
+        "company_name": "Smith Inc",
+        "country": "Singapore",
+        "name": "Dawn Swanson"
+    },
+    "invoice": {
+        "date": "13.01.2006",
+        "number": 749493
+    },
+    "payment": {
+        "discount_amount": 39.73,
+        "discount_percentage": 11.85,
+        "due": 103.58,
+        "sub_total": 155.06,
+        "total": 593.99
+    },
+    "products": [
+        {
+            "description": "innovate real-time systems",
+            "index": "4",
+            "quantity": 6.95,
+            "total_price": 480.45,
+            "unit_price": 78.89
+        },
+        {
+            "description": "envisioneer virtual ROI",
+            "index": "7",
+            "quantity": 5.14,
+            "total_price": 775.88,
+            "unit_price": 78.36
+        },
+        {
+            "description": "maximize back-end methodologies",
+            "index": "8",
+            "quantity": 5.77,
+            "total_price": 508.28,
+            "unit_price": 15.12
+        }
+    ],
+    "seller": {
+        "address": "727 Priscilla Crescent Suite 330 Joeland, CT 42984",
+        "company_name": "Adkins-Whitaker",
+        "vat_no": "HO64524879270"
+    }
+}

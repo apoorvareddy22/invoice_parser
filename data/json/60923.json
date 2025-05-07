@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "7430 Stanley Valleys Apt. 229 East Matthewview, VI 16022",
+        "business_no": "zC930",
+        "id": "ik514"
+    },
+    "invoice": {
+        "date": "02.02.2012",
+        "number": "6164-2742"
+    },
+    "payment": {
+        "due_date": "14.07.1997",
+        "total": 916.41
+    },
+    "products": [
+        {
+            "amount": 130.15,
+            "description": "aggregate real-time portals",
+            "quantity": 1.89,
+            "reference": "tc-076",
+            "unit_price": 50.04
+        }
+    ],
+    "seller": {
+        "address": "764 Robert Greens Cynthiastad, MN 78903"
+    },
+    "tax": {
+        "base_ht": 138.32,
+        "regulations": 14.89,
+        "total_ht": 452.67,
+        "vat_amount": 195.4,
+        "vat_percentage": 22.0
+    }
+}

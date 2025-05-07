@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "5897 Banks Manor Suite 491 East Katrinatown, MN 17416"
+    },
+    "invoice": {
+        "bc_no": "RZ93236",
+        "date": "23.07.1991",
+        "maturity_date": "14.04.2016",
+        "number": 179410
+    },
+    "products": [
+        {
+            "amount": 281.92,
+            "description": "grow visionary e-business",
+            "quantity": 4.51,
+            "unit_price": 76.24,
+            "vat_amount": 1.18
+        },
+        {
+            "amount": 179.33,
+            "description": "visualize distributed e-commerce",
+            "quantity": 7.48,
+            "unit_price": 37.6,
+            "vat_amount": 1.46
+        },
+        {
+            "amount": 241.27,
+            "description": "reinvent turn-key applications",
+            "quantity": 3.17,
+            "unit_price": 37.03,
+            "vat_amount": 1.37
+        },
+        {
+            "amount": 77.97,
+            "description": "brand robust supply-chains",
+            "quantity": 1.88,
+            "unit_price": 73.11,
+            "vat_amount": 1.0
+        },
+        {
+            "amount": 397.38,
+            "description": "enable synergistic platforms",
+            "quantity": 1.01,
+            "unit_price": 46.42,
+            "vat_amount": 8.28
+        },
+        {
+            "amount": 170.75,
+            "description": "utilize dot-com e-business",
+            "quantity": 5.65,
+            "unit_price": 59.8,
+            "vat_amount": 5.61
+        }
+    ],
+    "seller": {
+        "address": "9239 Anderson Keys Apt. 468 Brianton, GA 85914"
+    },
+    "tax": {
+        "amount_excluding_tax": 22.81,
+        "amount_including_tax": 144.27,
+        "tax_amount": 24.6
+    }
+}

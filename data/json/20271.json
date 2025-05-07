@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "52582 Gonzales Ranch Apt. 357 East Angela, NE 82791",
+        "company_name": "Martinez-Cooper",
+        "email": "marissa98@example.com",
+        "name": "Jennifer Zavala",
+        "phone": "+1-719-997-2307x8528"
+    },
+    "invoice": {
+        "date": "23.07.2003",
+        "due_date": "06.12.2013",
+        "number": "inX69539476975"
+    },
+    "payment": {
+        "account_number": 9295005693,
+        "bank_name": "Lopez PLC",
+        "routing_number": 558913650
+    },
+    "products": [
+        {
+            "amount": 29.99,
+            "description": "drive extensible systems",
+            "index": "2",
+            "quantity": 5.38,
+            "unit_price": 35.02
+        },
+        {
+            "amount": 343.48,
+            "description": "unleash rich functionalities",
+            "index": "7",
+            "quantity": 2.97,
+            "unit_price": 68.55
+        }
+    ],
+    "seller": {
+        "address": "21402 Carter Hill Suite 595 Sweeneychester, UT 81903",
+        "company_name": "Mcdaniel, Stein and Long",
+        "email": "hannah95@example.net"
+    }
+}

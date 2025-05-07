@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "2923 Anna Bridge Apt. 952 Lake Daniel, MO 75591",
+        "company_name": "Jones, Vega and Gordon",
+        "country": "Barbados",
+        "name": "Jon Jensen"
+    },
+    "invoice": {
+        "date": "29.03.2000",
+        "number": 920388
+    },
+    "payment": {
+        "discount_amount": 34.82,
+        "discount_percentage": 10.21,
+        "due": 83.82,
+        "sub_total": 101.02,
+        "total": 358.16
+    },
+    "products": [
+        {
+            "description": "visualize turn-key metrics",
+            "index": "2",
+            "quantity": 6.66,
+            "total_price": 34.36,
+            "unit_price": 47.82
+        },
+        {
+            "description": "benchmark seamless metrics",
+            "index": "10",
+            "quantity": 2.61,
+            "total_price": 963.53,
+            "unit_price": 52.21
+        },
+        {
+            "description": "reinvent extensible web services",
+            "index": "7",
+            "quantity": 8.72,
+            "total_price": 144.88,
+            "unit_price": 41.92
+        },
+        {
+            "description": "redefine transparent networks",
+            "index": "10",
+            "quantity": 1.52,
+            "total_price": 224.57,
+            "unit_price": 19.48
+        },
+        {
+            "description": "incentivize ubiquitous synergies",
+            "index": "6",
+            "quantity": 4.8,
+            "total_price": 358.07,
+            "unit_price": 27.7
+        },
+        {
+            "description": "incentivize killer experiences",
+            "index": "6",
+            "quantity": 8.71,
+            "total_price": 235.38,
+            "unit_price": 49.76
+        },
+        {
+            "description": "expedite front-end partnerships",
+            "index": "3",
+            "quantity": 1.71,
+            "total_price": 26.52,
+            "unit_price": 50.16
+        }
+    ],
+    "seller": {
+        "address": "265 Amanda Center North Sherrymouth, NC 55164",
+        "company_name": "Soto-Martinez",
+        "vat_no": "Ub03121220912"
+    }
+}

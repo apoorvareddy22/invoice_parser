@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "6410 Rivera Corner Suite 888 Adamsview, MA 77818",
+        "id": "IC170"
+    },
+    "invoice": {
+        "bc_no": "IX26500",
+        "currency_code": "SGD",
+        "date": "17.06.2016",
+        "due_date": "09.01.2019",
+        "number": 886126
+    },
+    "payment": {
+        "bank_name": "Gregory Group",
+        "bic": "NKZGGBW2",
+        "iban": "EUDF26087987558698"
+    },
+    "products": [
+        {
+            "amount": 224.88,
+            "description": "visualize virtual mindshare",
+            "index": "3",
+            "price": 478.22,
+            "quantity": 2.7,
+            "tax_amount": 81.04,
+            "total_ttc": 124.35,
+            "vat_amount": 1.73
+        },
+        {
+            "amount": 105.69,
+            "description": "exploit 24/365 e-services",
+            "index": "6",
+            "price": 255.55,
+            "quantity": 2.08,
+            "tax_amount": 34.86,
+            "total_ttc": 486.09,
+            "vat_amount": 6.65
+        },
+        {
+            "amount": 386.45,
+            "description": "exploit open-source models",
+            "index": "5",
+            "price": 297.36,
+            "quantity": 2.66,
+            "tax_amount": 93.44,
+            "total_ttc": 247.17,
+            "vat_amount": 3.78
+        },
+        {
+            "amount": 259.11,
+            "description": "transition bricks-and-clicks deliverables",
+            "index": "8",
+            "price": 164.8,
+            "quantity": 7.77,
+            "tax_amount": 16.24,
+            "total_ttc": 296.93,
+            "vat_amount": 8.37
+        },
+        {
+            "amount": 419.07,
+            "description": "benchmark next-generation channels",
+            "index": "10",
+            "price": 317.08,
+            "quantity": 9.15,
+            "tax_amount": 14.59,
+            "total_ttc": 462.97,
+            "vat_amount": 16.63
+        }
+    ],
+    "seller": {
+        "name": "David Paul"
+    },
+    "supplier": {
+        "address": "368 Horton Divide Suite 470 Lake Angelamouth, MH 49433",
+        "name": "John Murphy"
+    },
+    "tax": {
+        "amount_excluding_tax": 74.81,
+        "amount_including_tax": 150.31,
+        "tax_amount": 23.27,
+        "total_ht": 143.35,
+        "total_ttc": 288.46
+    }
+}

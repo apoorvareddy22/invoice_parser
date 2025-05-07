@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "USNS Rangel FPO AP 48990",
+        "company_name": "Edwards Group",
+        "country": "Venezuela",
+        "name": "Cheyenne Nichols"
+    },
+    "invoice": {
+        "date": "11.04.2021",
+        "number": 899219
+    },
+    "payment": {
+        "discount_amount": 27.24,
+        "discount_percentage": 14.76,
+        "due": 107.63,
+        "sub_total": 140.94,
+        "total": 739.51
+    },
+    "products": [
+        {
+            "description": "target 24/365 convergence",
+            "index": "8",
+            "quantity": 6.29,
+            "total_price": 650.8,
+            "unit_price": 61.96
+        },
+        {
+            "description": "expedite global web services",
+            "index": "10",
+            "quantity": 4.4,
+            "total_price": 389.8,
+            "unit_price": 54.34
+        },
+        {
+            "description": "engineer B2C schemas",
+            "index": "10",
+            "quantity": 5.37,
+            "total_price": 548.52,
+            "unit_price": 36.03
+        },
+        {
+            "description": "incentivize best-of-breed e-tailers",
+            "index": "5",
+            "quantity": 7.07,
+            "total_price": 704.07,
+            "unit_price": 62.61
+        }
+    ],
+    "seller": {
+        "address": "8642 Wyatt Land Suite 648 Sharonbury, AK 84256",
+        "company_name": "Jackson Ltd",
+        "vat_no": "Nh74017895340"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "70261 Cox Trail Ellentown, MS 16803"
+    },
+    "invoice": {
+        "bc_no": "LK58401",
+        "date": "22.07.1995",
+        "maturity_date": "24.09.2014",
+        "number": 635969
+    },
+    "products": [
+        {
+            "amount": 227.18,
+            "description": "envisioneer visionary portals",
+            "quantity": 8.16,
+            "unit_price": 34.31,
+            "vat_amount": 15.67
+        },
+        {
+            "amount": 259.92,
+            "description": "implement revolutionary markets",
+            "quantity": 1.75,
+            "unit_price": 62.56,
+            "vat_amount": 13.1
+        }
+    ],
+    "seller": {
+        "address": "8092 Torres Turnpike Suite 365 Daviston, DC 44109"
+    },
+    "tax": {
+        "amount_excluding_tax": 111.01,
+        "amount_including_tax": 194.09,
+        "tax_amount": 19.32
+    }
+}

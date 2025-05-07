@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "61295 Jacob Rapid Apt. 158 West Mario, LA 03353"
+    },
+    "invoice": {
+        "bc_no": "ET17695",
+        "date": "17.12.2023",
+        "maturity_date": "05.01.2018",
+        "number": 112651
+    },
+    "products": [
+        {
+            "amount": 52.04,
+            "description": "productize dynamic initiatives",
+            "quantity": 8.0,
+            "unit_price": 19.33,
+            "vat_amount": 6.94
+        },
+        {
+            "amount": 182.95,
+            "description": "implement seamless communities",
+            "quantity": 9.26,
+            "unit_price": 80.32,
+            "vat_amount": 0.76
+        }
+    ],
+    "seller": {
+        "address": "549 Alexandria Shoal Apt. 764 New Tamara, AK 32497"
+    },
+    "tax": {
+        "amount_excluding_tax": 60.26,
+        "amount_including_tax": 189.23,
+        "tax_amount": 18.53
+    }
+}

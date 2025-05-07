@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "10447 Alexander Underpass Apt. 522 Angelafurt, RI 51005",
+        "company_name": "Payne, Wallace and Valdez",
+        "email": "youngpatrick@example.net",
+        "name": "Matthew Johnson",
+        "phone": "+1-551-508-7855x21814"
+    },
+    "invoice": {
+        "date": "01.12.2010",
+        "due_date": "18.06.2008",
+        "number": "JfP37858092066"
+    },
+    "payment": {
+        "account_number": 1311061541,
+        "bank_name": "Banks-Smith",
+        "routing_number": 371023974
+    },
+    "products": [
+        {
+            "amount": 232.39,
+            "description": "strategize extensible schemas",
+            "index": "4",
+            "quantity": 9.8,
+            "unit_price": 61.16
+        }
+    ],
+    "seller": {
+        "address": "665 Barry Circle Apt. 406 Joshuatown, NE 35626",
+        "company_name": "Williams Inc",
+        "email": "lstephens@example.org"
+    }
+}

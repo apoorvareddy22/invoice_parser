@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "USNV Meyers FPO AE 87566",
+        "business_no": "EF488",
+        "id": "eU630"
+    },
+    "invoice": {
+        "date": "13.09.2007",
+        "number": "4656-0970"
+    },
+    "payment": {
+        "due_date": "20.01.1990",
+        "total": 933.33
+    },
+    "products": [
+        {
+            "amount": 245.84,
+            "description": "e-enable killer convergence",
+            "quantity": 3.32,
+            "reference": "jt-797",
+            "unit_price": 44.09
+        },
+        {
+            "amount": 266.83,
+            "description": "transition 24/365 synergies",
+            "quantity": 3.64,
+            "reference": "qq-290",
+            "unit_price": 70.13
+        },
+        {
+            "amount": 381.92,
+            "description": "scale open-source relationships",
+            "quantity": 9.46,
+            "reference": "kR-020",
+            "unit_price": 51.6
+        },
+        {
+            "amount": 387.89,
+            "description": "aggregate open-source models",
+            "quantity": 9.44,
+            "reference": "wW-492",
+            "unit_price": 80.72
+        }
+    ],
+    "seller": {
+        "address": "851 Adams Rue Apt. 415 Lake Taraberg, MP 74260"
+    },
+    "tax": {
+        "base_ht": 343.24,
+        "regulations": 12.46,
+        "total_ht": 494.03,
+        "vat_amount": 83.31,
+        "vat_percentage": 29.57
+    }
+}

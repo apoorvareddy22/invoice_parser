@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "5594 Joshua Extensions Apt. 543 West Teresa, GA 27636"
+    },
+    "invoice": {
+        "bc_no": "wT81107",
+        "date": "01.12.2001",
+        "maturity_date": "22.01.2000",
+        "number": 149607
+    },
+    "products": [
+        {
+            "amount": 490.45,
+            "description": "empower integrated interfaces",
+            "quantity": 9.19,
+            "unit_price": 95.51,
+            "vat_amount": 0.1
+        },
+        {
+            "amount": 202.89,
+            "description": "e-enable seamless info-mediaries",
+            "quantity": 5.4,
+            "unit_price": 95.94,
+            "vat_amount": 6.48
+        },
+        {
+            "amount": 350.55,
+            "description": "seize robust users",
+            "quantity": 8.51,
+            "unit_price": 83.65,
+            "vat_amount": 7.34
+        },
+        {
+            "amount": 385.31,
+            "description": "revolutionize cutting-edge users",
+            "quantity": 6.74,
+            "unit_price": 18.06,
+            "vat_amount": 5.22
+        },
+        {
+            "amount": 61.57,
+            "description": "re-contextualize user-centric solutions",
+            "quantity": 2.75,
+            "unit_price": 22.85,
+            "vat_amount": 1.73
+        },
+        {
+            "amount": 395.02,
+            "description": "extend B2B info-mediaries",
+            "quantity": 7.12,
+            "unit_price": 68.39,
+            "vat_amount": 4.47
+        }
+    ],
+    "seller": {
+        "address": "7474 Mcpherson Club Port Deantown, MH 46779"
+    },
+    "tax": {
+        "amount_excluding_tax": 92.76,
+        "amount_including_tax": 65.11,
+        "tax_amount": 29.83
+    }
+}

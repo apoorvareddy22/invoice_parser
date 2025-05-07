@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "31590 Jose Valleys Suite 201 South Stephanie, FL 52973",
+        "company_name": "Gibson PLC",
+        "email": "ericrodriguez@example.com",
+        "name": "John Cobb",
+        "phone": "(275)427-8962"
+    },
+    "invoice": {
+        "date": "12.07.2014",
+        "due_date": "06.04.1990",
+        "number": "Haj39486310635"
+    },
+    "payment": {
+        "account_number": 1492419315,
+        "bank_name": "Bush LLC",
+        "routing_number": 235164460
+    },
+    "products": [
+        {
+            "amount": 96.17,
+            "description": "repurpose collaborative eyeballs",
+            "index": "5",
+            "quantity": 9.8,
+            "unit_price": 87.55
+        },
+        {
+            "amount": 472.06,
+            "description": "architect B2C web services",
+            "index": "7",
+            "quantity": 5.02,
+            "unit_price": 17.9
+        }
+    ],
+    "seller": {
+        "address": "0446 Robert Haven Apt. 675 Bergborough, VT 65570",
+        "company_name": "Hawkins, Miller and Harris",
+        "email": "lisahill@example.net"
+    }
+}

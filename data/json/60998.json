@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "6085 Audrey Park Suite 078 Greenview, OH 81927",
+        "business_no": "oX606",
+        "id": "Uz877"
+    },
+    "invoice": {
+        "date": "28.03.1991",
+        "number": "7594-0825"
+    },
+    "payment": {
+        "due_date": "25.08.2016",
+        "total": 878.58
+    },
+    "products": [
+        {
+            "amount": 394.24,
+            "description": "extend distributed action-items",
+            "quantity": 7.68,
+            "reference": "Uc-281",
+            "unit_price": 38.06
+        },
+        {
+            "amount": 307.3,
+            "description": "synthesize e-business technologies",
+            "quantity": 1.41,
+            "reference": "Vf-129",
+            "unit_price": 44.66
+        },
+        {
+            "amount": 116.86,
+            "description": "optimize leading-edge applications",
+            "quantity": 7.77,
+            "reference": "bA-862",
+            "unit_price": 85.67
+        },
+        {
+            "amount": 459.35,
+            "description": "scale customized e-services",
+            "quantity": 9.26,
+            "reference": "BN-073",
+            "unit_price": 42.48
+        }
+    ],
+    "seller": {
+        "address": "3155 Robert Circle Apt. 628 Davidshire, SD 54739"
+    },
+    "tax": {
+        "base_ht": 275.86,
+        "regulations": 26.72,
+        "total_ht": 211.86,
+        "vat_amount": 160.32,
+        "vat_percentage": 21.51
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "93207 Mays Via Suite 213 Christopherstad, NE 53876",
+        "email": "hudsonjoseph@example.net",
+        "phone": "(352)782-6072",
+        "vat_no": "vP14951672722"
+    },
+    "invoice": {
+        "date": "27.04.1999",
+        "due_date": "02.03.1994",
+        "market_reference": 765723,
+        "notes": "streamline enterprise supply-chains",
+        "number": "6608-7837",
+        "reference": 668524,
+        "vat_no": "ZD78150651139"
+    },
+    "payment": {
+        "net_total": 168.5,
+        "total": 661.76
+    },
+    "products": [
+        {
+            "amount": 228.91,
+            "description": "target customized mindshare",
+            "hours": 9.51,
+            "rate": 7.39
+        }
+    ],
+    "seller": {
+        "address": "17851 Shannon Loop Suite 941 Carlosport, FL 96827",
+        "email": "andre59@example.com",
+        "name": "Kimberly Kent"
+    },
+    "tax": {
+        "base": 28.62,
+        "tax_amount": 22.0,
+        "total_tax": 23.24
+    }
+}

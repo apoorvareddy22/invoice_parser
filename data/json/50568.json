@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "532 William Walk East Kimberlyview, KY 52468",
+        "id": "CS407"
+    },
+    "invoice": {
+        "bc_no": "mm67709",
+        "currency_code": "MAD",
+        "date": "16.09.1996",
+        "due_date": "14.12.1998",
+        "number": 488564
+    },
+    "payment": {
+        "bank_name": "Travis-Bailey",
+        "bic": "KXQQGB3VLP1",
+        "iban": "ARFM55020272637905"
+    },
+    "products": [
+        {
+            "amount": 23.48,
+            "description": "utilize integrated channels",
+            "index": "7",
+            "price": 348.42,
+            "quantity": 1.92,
+            "tax_amount": 59.76,
+            "total_ttc": 131.8,
+            "vat_amount": 0.53
+        },
+        {
+            "amount": 161.21,
+            "description": "expedite wireless networks",
+            "index": "5",
+            "price": 98.0,
+            "quantity": 6.58,
+            "tax_amount": 87.33,
+            "total_ttc": 256.26,
+            "vat_amount": 7.77
+        },
+        {
+            "amount": 367.64,
+            "description": "morph 24/7 schemas",
+            "index": "6",
+            "price": 256.28,
+            "quantity": 4.16,
+            "tax_amount": 27.38,
+            "total_ttc": 320.22,
+            "vat_amount": 10.62
+        },
+        {
+            "amount": 193.67,
+            "description": "maximize magnetic relationships",
+            "index": "5",
+            "price": 346.51,
+            "quantity": 4.1,
+            "tax_amount": 94.88,
+            "total_ttc": 493.85,
+            "vat_amount": 0.7
+        },
+        {
+            "amount": 471.61,
+            "description": "productize real-time paradigms",
+            "index": "2",
+            "price": 77.13,
+            "quantity": 6.93,
+            "tax_amount": 39.07,
+            "total_ttc": 266.68,
+            "vat_amount": 1.75
+        }
+    ],
+    "seller": {
+        "name": "Elizabeth Arnold"
+    },
+    "supplier": {
+        "address": "3315 Terrance Club Brownborough, MP 51637",
+        "name": "Samantha Martin"
+    },
+    "tax": {
+        "amount_excluding_tax": 84.88,
+        "amount_including_tax": 116.4,
+        "tax_amount": 24.84,
+        "total_ht": 196.0,
+        "total_ttc": 408.47
+    }
+}

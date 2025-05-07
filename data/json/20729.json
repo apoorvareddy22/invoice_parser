@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "7839 James Via Port Ianbury, DC 87444",
+        "company_name": "Mcdowell Ltd",
+        "email": "maria32@example.com",
+        "name": "Molly Smith MD",
+        "phone": "001-806-302-8231x8977"
+    },
+    "invoice": {
+        "date": "22.05.2015",
+        "due_date": "11.11.1999",
+        "number": "GdW65718478565"
+    },
+    "payment": {
+        "account_number": 1226904878,
+        "bank_name": "Montoya and Sons",
+        "routing_number": 779111821
+    },
+    "products": [
+        {
+            "amount": 368.54,
+            "description": "embrace killer web services",
+            "index": "3",
+            "quantity": 3.23,
+            "unit_price": 27.28
+        },
+        {
+            "amount": 390.67,
+            "description": "synergize turn-key schemas",
+            "index": "9",
+            "quantity": 9.6,
+            "unit_price": 60.1
+        },
+        {
+            "amount": 56.27,
+            "description": "unleash visionary technologies",
+            "index": "4",
+            "quantity": 7.53,
+            "unit_price": 66.45
+        },
+        {
+            "amount": 115.27,
+            "description": "exploit integrated models",
+            "index": "1",
+            "quantity": 3.29,
+            "unit_price": 89.0
+        },
+        {
+            "amount": 482.92,
+            "description": "grow revolutionary solutions",
+            "index": "6",
+            "quantity": 6.73,
+            "unit_price": 36.85
+        }
+    ],
+    "seller": {
+        "address": "712 Paula Vista Apt. 031 Ryanfort, WV 24647",
+        "company_name": "Evans, Clark and Bright",
+        "email": "stephanie61@example.net"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "4432 Thompson Lock Patrickstad, MA 95957",
+        "company_name": "Hatfield-Allen",
+        "email": "tharris@example.org",
+        "name": "Lisa Patterson",
+        "phone": "+1-676-532-3226x5801"
+    },
+    "invoice": {
+        "date": "13.07.2012",
+        "due_date": "07.11.2021",
+        "number": "BrD43561152608"
+    },
+    "payment": {
+        "account_number": 2423348173,
+        "bank_name": "Rhodes, Long and Leon",
+        "routing_number": 512638508
+    },
+    "products": [
+        {
+            "amount": 157.99,
+            "description": "integrate frictionless experiences",
+            "index": "3",
+            "quantity": 2.49,
+            "unit_price": 58.96
+        }
+    ],
+    "seller": {
+        "address": "774 Jacob Plains Suite 620 Brownberg, FL 13918",
+        "company_name": "Miller, Graham and Hardy",
+        "email": "johnsonandrea@example.com"
+    }
+}

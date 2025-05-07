@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "219 Hall Plaza Emilymouth, TN 77611",
+        "company_name": "Mcbride Inc",
+        "country": "Taiwan",
+        "name": "Melissa Miller"
+    },
+    "invoice": {
+        "date": "23.12.1991",
+        "number": 436251
+    },
+    "payment": {
+        "discount_amount": 38.39,
+        "discount_percentage": 6.65,
+        "due": 136.96,
+        "sub_total": 151.41,
+        "total": 350.83
+    },
+    "products": [
+        {
+            "description": "revolutionize ubiquitous niches",
+            "index": "3",
+            "quantity": 7.41,
+            "total_price": 301.87,
+            "unit_price": 79.89
+        },
+        {
+            "description": "enable 24/365 mindshare",
+            "index": "3",
+            "quantity": 4.14,
+            "total_price": 201.16,
+            "unit_price": 98.71
+        },
+        {
+            "description": "transform interactive metrics",
+            "index": "9",
+            "quantity": 9.5,
+            "total_price": 808.63,
+            "unit_price": 89.13
+        }
+    ],
+    "seller": {
+        "address": "338 Cody Grove North Cody, CO 58039",
+        "company_name": "Williams-Johnson",
+        "vat_no": "hV85479687918"
+    }
+}

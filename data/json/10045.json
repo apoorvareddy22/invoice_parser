@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "1529 Alexander Extension Johnsonbury, CT 58859",
+        "email": "cwhite@example.com",
+        "phone": "2513262613",
+        "vat_no": "IK26019078366"
+    },
+    "invoice": {
+        "date": "03.01.2022",
+        "due_date": "29.10.2012",
+        "market_reference": 109079,
+        "notes": "transform back-end niches",
+        "number": "4038-7458",
+        "reference": 258052,
+        "vat_no": "BX62021738883"
+    },
+    "payment": {
+        "net_total": 23.9,
+        "total": 891.19
+    },
+    "products": [
+        {
+            "amount": 436.21,
+            "description": "syndicate plug-and-play web-readiness",
+            "hours": 3.41,
+            "rate": 8.29
+        },
+        {
+            "amount": 300.09,
+            "description": "re-contextualize efficient convergence",
+            "hours": 2.51,
+            "rate": 8.75
+        },
+        {
+            "amount": 386.87,
+            "description": "strategize scalable paradigms",
+            "hours": 6.42,
+            "rate": 8.71
+        },
+        {
+            "amount": 311.57,
+            "description": "extend global e-services",
+            "hours": 1.84,
+            "rate": 1.2
+        },
+        {
+            "amount": 156.6,
+            "description": "enhance distributed schemas",
+            "hours": 7.86,
+            "rate": 4.04
+        }
+    ],
+    "seller": {
+        "address": "93608 Richard Trace Ramirezberg, CO 30088",
+        "email": "ltorres@example.com",
+        "name": "Brian Shields"
+    },
+    "tax": {
+        "base": 20.86,
+        "tax_amount": 13.48,
+        "total_tax": 14.2
+    }
+}

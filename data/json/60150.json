@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "PSC 4510, Box 0083 APO AA 92983",
+        "business_no": "ZV313",
+        "id": "Uj195"
+    },
+    "invoice": {
+        "date": "06.08.2007",
+        "number": "8641-9182"
+    },
+    "payment": {
+        "due_date": "23.07.2002",
+        "total": 706.08
+    },
+    "products": [
+        {
+            "amount": 176.91,
+            "description": "strategize plug-and-play action-items",
+            "quantity": 2.2,
+            "reference": "pt-755",
+            "unit_price": 21.83
+        },
+        {
+            "amount": 488.74,
+            "description": "re-intermediate B2B mindshare",
+            "quantity": 9.83,
+            "reference": "UN-951",
+            "unit_price": 50.27
+        },
+        {
+            "amount": 15.63,
+            "description": "seize cutting-edge platforms",
+            "quantity": 6.05,
+            "reference": "Sh-087",
+            "unit_price": 69.57
+        },
+        {
+            "amount": 398.38,
+            "description": "revolutionize efficient partnerships",
+            "quantity": 6.64,
+            "reference": "zc-203",
+            "unit_price": 77.14
+        }
+    ],
+    "seller": {
+        "address": "362 Isaac Pine Lake Christina, ND 61932"
+    },
+    "tax": {
+        "base_ht": 434.64,
+        "regulations": 24.57,
+        "total_ht": 374.74,
+        "vat_amount": 167.0,
+        "vat_percentage": 27.95
+    }
+}

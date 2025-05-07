@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "3692 Cannon Meadows North Denise, NC 70600",
+        "id": "Tb961"
+    },
+    "invoice": {
+        "bc_no": "Kp23432",
+        "currency_code": "SHP",
+        "date": "07.02.2021",
+        "due_date": "02.05.2015",
+        "number": 194860
+    },
+    "payment": {
+        "bank_name": "Taylor Ltd",
+        "bic": "XZCTGBUYR7E",
+        "iban": "MFCV99236102108783"
+    },
+    "products": [
+        {
+            "amount": 71.54,
+            "description": "cultivate killer e-services",
+            "index": "1",
+            "price": 406.29,
+            "quantity": 2.26,
+            "tax_amount": 52.44,
+            "total_ttc": 450.24,
+            "vat_amount": 8.85
+        },
+        {
+            "amount": 166.56,
+            "description": "incubate robust portals",
+            "index": "3",
+            "price": 408.26,
+            "quantity": 1.06,
+            "tax_amount": 93.29,
+            "total_ttc": 393.88,
+            "vat_amount": 2.92
+        }
+    ],
+    "seller": {
+        "name": "Laura Smith"
+    },
+    "supplier": {
+        "address": "737 Caitlin Plains South Selenahaven, NJ 98900",
+        "name": "Daniel Lee"
+    },
+    "tax": {
+        "amount_excluding_tax": 133.23,
+        "amount_including_tax": 62.51,
+        "tax_amount": 26.75,
+        "total_ht": 186.32,
+        "total_ttc": 113.35
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "35104 Anita Pines East Tina, UT 75162",
+        "email": "jeffrey96@example.com",
+        "phone": "549.813.8423",
+        "vat_no": "hR56040234125"
+    },
+    "invoice": {
+        "date": "11.03.1996",
+        "due_date": "02.02.2022",
+        "market_reference": 718559,
+        "notes": "deliver 24/7 niches",
+        "number": "0610-6617",
+        "reference": 183775,
+        "vat_no": "gh51949254697"
+    },
+    "payment": {
+        "net_total": 182.58,
+        "total": 997.89
+    },
+    "products": [
+        {
+            "amount": 492.65,
+            "description": "syndicate compelling e-commerce",
+            "hours": 5.24,
+            "rate": 3.0
+        }
+    ],
+    "seller": {
+        "address": "70185 Thomas Turnpike New Rebeccabury, NY 92259",
+        "email": "joshua33@example.net",
+        "name": "Victor Hendrix"
+    },
+    "tax": {
+        "base": 18.63,
+        "tax_amount": 21.12,
+        "total_tax": 10.64
+    }
+}

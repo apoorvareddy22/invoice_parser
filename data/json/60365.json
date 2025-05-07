@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "06731 Sullivan Terrace Suite 928 Willisview, RI 27390",
+        "business_no": "Qp367",
+        "id": "TV533"
+    },
+    "invoice": {
+        "date": "24.02.2021",
+        "number": "5871-2445"
+    },
+    "payment": {
+        "due_date": "11.05.2003",
+        "total": 430.8
+    },
+    "products": [
+        {
+            "amount": 221.94,
+            "description": "engage scalable relationships",
+            "quantity": 3.6,
+            "reference": "px-178",
+            "unit_price": 71.95
+        },
+        {
+            "amount": 288.84,
+            "description": "implement efficient applications",
+            "quantity": 2.96,
+            "reference": "Ej-333",
+            "unit_price": 27.3
+        }
+    ],
+    "seller": {
+        "address": "5822 Freeman Parks Emilyhaven, CA 63288"
+    },
+    "tax": {
+        "base_ht": 477.81,
+        "regulations": 21.86,
+        "total_ht": 422.3,
+        "vat_amount": 191.33,
+        "vat_percentage": 10.36
+    }
+}

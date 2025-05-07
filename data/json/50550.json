@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "Unit 8395 Box 1760 DPO AE 92648",
+        "id": "xO789"
+    },
+    "invoice": {
+        "bc_no": "YU14447",
+        "currency_code": "AWG",
+        "date": "16.10.2019",
+        "due_date": "26.04.1992",
+        "number": 242359
+    },
+    "payment": {
+        "bank_name": "Olson Inc",
+        "bic": "ABMKGBDI8U5",
+        "iban": "GZAG16446823997935"
+    },
+    "products": [
+        {
+            "amount": 96.87,
+            "description": "optimize enterprise portals",
+            "index": "10",
+            "price": 293.84,
+            "quantity": 8.14,
+            "tax_amount": 31.52,
+            "total_ttc": 122.23,
+            "vat_amount": 3.99
+        },
+        {
+            "amount": 280.82,
+            "description": "unleash global ROI",
+            "index": "5",
+            "price": 477.67,
+            "quantity": 6.46,
+            "tax_amount": 56.34,
+            "total_ttc": 135.93,
+            "vat_amount": 2.33
+        },
+        {
+            "amount": 310.88,
+            "description": "redefine dot-com users",
+            "index": "7",
+            "price": 9.55,
+            "quantity": 1.82,
+            "tax_amount": 89.78,
+            "total_ttc": 199.61,
+            "vat_amount": 2.32
+        },
+        {
+            "amount": 86.32,
+            "description": "incubate distributed networks",
+            "index": "5",
+            "price": 336.04,
+            "quantity": 6.38,
+            "tax_amount": 13.88,
+            "total_ttc": 285.45,
+            "vat_amount": 8.12
+        },
+        {
+            "amount": 307.9,
+            "description": "drive leading-edge web-readiness",
+            "index": "5",
+            "price": 108.76,
+            "quantity": 1.21,
+            "tax_amount": 84.24,
+            "total_ttc": 381.23,
+            "vat_amount": 13.24
+        },
+        {
+            "amount": 129.99,
+            "description": "enable best-of-breed ROI",
+            "index": "8",
+            "price": 355.88,
+            "quantity": 6.36,
+            "tax_amount": 25.39,
+            "total_ttc": 174.01,
+            "vat_amount": 0.51
+        }
+    ],
+    "seller": {
+        "name": "Kenneth Callahan"
+    },
+    "supplier": {
+        "address": "090 Taylor Springs Apt. 857 West Stephen, SC 97206",
+        "name": "Joseph Gray"
+    },
+    "tax": {
+        "amount_excluding_tax": 121.63,
+        "amount_including_tax": 163.05,
+        "tax_amount": 22.79,
+        "total_ht": 122.89,
+        "total_ttc": 381.1
+    }
+}

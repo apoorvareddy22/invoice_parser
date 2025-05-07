@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "14932 Sara Path Wanghaven, MT 61255",
+        "email": "jacquelinemcconnell@example.net",
+        "phone": "865.496.2055x7775",
+        "vat_no": "Mt09989109477"
+    },
+    "invoice": {
+        "date": "17.11.2020",
+        "due_date": "15.01.2017",
+        "market_reference": 733033,
+        "notes": "innovate virtual relationships",
+        "number": "5818-6190",
+        "reference": 140319,
+        "vat_no": "Dk69882190797"
+    },
+    "payment": {
+        "net_total": 178.23,
+        "total": 117.68
+    },
+    "products": [
+        {
+            "amount": 229.32,
+            "description": "revolutionize bricks-and-clicks initiatives",
+            "hours": 5.36,
+            "rate": 6.31
+        },
+        {
+            "amount": 198.91,
+            "description": "orchestrate seamless mindshare",
+            "hours": 3.51,
+            "rate": 8.68
+        },
+        {
+            "amount": 252.9,
+            "description": "implement killer e-tailers",
+            "hours": 2.64,
+            "rate": 1.52
+        },
+        {
+            "amount": 339.95,
+            "description": "mesh back-end synergies",
+            "hours": 6.57,
+            "rate": 8.28
+        },
+        {
+            "amount": 235.12,
+            "description": "monetize frictionless infrastructures",
+            "hours": 4.11,
+            "rate": 1.58
+        },
+        {
+            "amount": 295.6,
+            "description": "redefine strategic applications",
+            "hours": 1.86,
+            "rate": 7.99
+        },
+        {
+            "amount": 307.12,
+            "description": "unleash 24/365 platforms",
+            "hours": 2.22,
+            "rate": 4.7
+        }
+    ],
+    "seller": {
+        "address": "04106 Joseph Estate Suite 006 New Chad, AZ 72819",
+        "email": "lnguyen@example.org",
+        "name": "Debra Johnson"
+    },
+    "tax": {
+        "base": 29.67,
+        "tax_amount": 19.94,
+        "total_tax": 16.17
+    }
+}

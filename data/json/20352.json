@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "98036 Powell Centers South David, NE 40038",
+        "company_name": "Chase, Mccoy and Hernandez",
+        "email": "patrickmichael@example.com",
+        "name": "Gregory Bennett",
+        "phone": "352-446-3676"
+    },
+    "invoice": {
+        "date": "28.09.2018",
+        "due_date": "08.10.2022",
+        "number": "GlT57118753078"
+    },
+    "payment": {
+        "account_number": 7424905904,
+        "bank_name": "Berry Ltd",
+        "routing_number": 214367440
+    },
+    "products": [
+        {
+            "amount": 340.23,
+            "description": "disintermediate viral metrics",
+            "index": "10",
+            "quantity": 4.9,
+            "unit_price": 90.58
+        },
+        {
+            "amount": 70.73,
+            "description": "utilize global mindshare",
+            "index": "5",
+            "quantity": 1.37,
+            "unit_price": 20.19
+        },
+        {
+            "amount": 45.21,
+            "description": "transition web-enabled e-tailers",
+            "index": "8",
+            "quantity": 6.89,
+            "unit_price": 60.38
+        },
+        {
+            "amount": 148.4,
+            "description": "iterate magnetic experiences",
+            "index": "3",
+            "quantity": 9.13,
+            "unit_price": 29.62
+        }
+    ],
+    "seller": {
+        "address": "7673 Cathy Via Apt. 489 Lucasview, CT 96379",
+        "company_name": "Evans-Francis",
+        "email": "davisdonna@example.com"
+    }
+}

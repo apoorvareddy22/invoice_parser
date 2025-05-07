@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "80510 John Walk Curtisport, MP 22812",
+        "company_name": "Roberts Ltd",
+        "country": "Palestinian Territory",
+        "name": "Melissa Kelly"
+    },
+    "invoice": {
+        "date": "09.08.2005",
+        "number": 631971
+    },
+    "payment": {
+        "discount_amount": 44.53,
+        "discount_percentage": 6.1,
+        "due": 155.82,
+        "sub_total": 176.85,
+        "total": 968.75
+    },
+    "products": [
+        {
+            "description": "engage robust systems",
+            "index": "6",
+            "quantity": 3.84,
+            "total_price": 702.27,
+            "unit_price": 99.02
+        },
+        {
+            "description": "monetize sticky metrics",
+            "index": "10",
+            "quantity": 3.57,
+            "total_price": 594.97,
+            "unit_price": 56.13
+        },
+        {
+            "description": "empower scalable e-services",
+            "index": "6",
+            "quantity": 1.27,
+            "total_price": 248.89,
+            "unit_price": 50.82
+        },
+        {
+            "description": "e-enable wireless users",
+            "index": "3",
+            "quantity": 6.24,
+            "total_price": 341.91,
+            "unit_price": 38.14
+        },
+        {
+            "description": "whiteboard front-end platforms",
+            "index": "5",
+            "quantity": 2.62,
+            "total_price": 458.49,
+            "unit_price": 39.12
+        }
+    ],
+    "seller": {
+        "address": "PSC 3726, Box 5306 APO AA 95288",
+        "company_name": "Landry, Arnold and Adkins",
+        "vat_no": "Tw04103912857"
+    }
+}

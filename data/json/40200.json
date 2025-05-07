@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "314 Courtney Plaza South Brett, NJ 72154"
+    },
+    "invoice": {
+        "bc_no": "Lo37438",
+        "date": "12.08.2001",
+        "maturity_date": "16.12.2003",
+        "number": 744946
+    },
+    "products": [
+        {
+            "amount": 39.59,
+            "description": "incubate B2C info-mediaries",
+            "quantity": 5.46,
+            "unit_price": 70.38,
+            "vat_amount": 2.9
+        },
+        {
+            "amount": 349.14,
+            "description": "innovate cutting-edge supply-chains",
+            "quantity": 8.66,
+            "unit_price": 63.13,
+            "vat_amount": 17.75
+        },
+        {
+            "amount": 366.94,
+            "description": "engineer bleeding-edge vortals",
+            "quantity": 7.28,
+            "unit_price": 69.04,
+            "vat_amount": 8.36
+        },
+        {
+            "amount": 467.16,
+            "description": "facilitate frictionless web-readiness",
+            "quantity": 8.78,
+            "unit_price": 48.45,
+            "vat_amount": 5.21
+        },
+        {
+            "amount": 232.44,
+            "description": "scale end-to-end schemas",
+            "quantity": 4.05,
+            "unit_price": 77.87,
+            "vat_amount": 10.98
+        },
+        {
+            "amount": 259.15,
+            "description": "scale one-to-one methodologies",
+            "quantity": 2.32,
+            "unit_price": 96.26,
+            "vat_amount": 6.46
+        }
+    ],
+    "seller": {
+        "address": "94622 Hamilton Via Apt. 017 Baileyport, NJ 48583"
+    },
+    "tax": {
+        "amount_excluding_tax": 185.14,
+        "amount_including_tax": 30.43,
+        "tax_amount": 15.62
+    }
+}

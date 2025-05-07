@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "495 Gregory Parkways Suite 079 North Ashleyton, AR 85510"
+    },
+    "invoice": {
+        "bc_no": "uZ96568",
+        "date": "11.01.2013",
+        "maturity_date": "07.08.1999",
+        "number": 257870
+    },
+    "products": [
+        {
+            "amount": 475.56,
+            "description": "strategize plug-and-play web-readiness",
+            "quantity": 1.13,
+            "unit_price": 21.75,
+            "vat_amount": 1.38
+        },
+        {
+            "amount": 199.22,
+            "description": "strategize viral mindshare",
+            "quantity": 3.61,
+            "unit_price": 49.36,
+            "vat_amount": 12.49
+        }
+    ],
+    "seller": {
+        "address": "9159 Miller Fall Apt. 629 Juarezview, SD 30215"
+    },
+    "tax": {
+        "amount_excluding_tax": 172.49,
+        "amount_including_tax": 17.61,
+        "tax_amount": 23.05
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "53778 Gonzales Row Apt. 866 Adriennestad, MD 97915"
+    },
+    "invoice": {
+        "bc_no": "Jp23045",
+        "date": "19.02.1996",
+        "maturity_date": "21.06.2017",
+        "number": 221975
+    },
+    "products": [
+        {
+            "amount": 50.04,
+            "description": "incubate compelling functionalities",
+            "quantity": 7.15,
+            "unit_price": 10.38,
+            "vat_amount": 0.7
+        },
+        {
+            "amount": 286.39,
+            "description": "strategize back-end info-mediaries",
+            "quantity": 8.71,
+            "unit_price": 66.99,
+            "vat_amount": 0.3
+        },
+        {
+            "amount": 377.48,
+            "description": "expedite strategic vortals",
+            "quantity": 6.34,
+            "unit_price": 74.65,
+            "vat_amount": 11.31
+        }
+    ],
+    "seller": {
+        "address": "48486 Robin Estates Suite 986 Lake Janet, OH 06884"
+    },
+    "tax": {
+        "amount_excluding_tax": 47.5,
+        "amount_including_tax": 134.79,
+        "tax_amount": 15.32
+    }
+}

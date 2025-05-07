@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "690 Brian Expressway Timothyshire, TN 87081",
+        "company_name": "Preston Inc",
+        "country": "Macao",
+        "name": "Philip Hudson"
+    },
+    "invoice": {
+        "date": "17.01.2004",
+        "number": 578299
+    },
+    "payment": {
+        "discount_amount": 22.39,
+        "discount_percentage": 5.5,
+        "due": 116.8,
+        "sub_total": 40.17,
+        "total": 595.01
+    },
+    "products": [
+        {
+            "description": "transition B2B systems",
+            "index": "6",
+            "quantity": 7.83,
+            "total_price": 219.5,
+            "unit_price": 18.27
+        },
+        {
+            "description": "enable customized supply-chains",
+            "index": "7",
+            "quantity": 5.95,
+            "total_price": 693.35,
+            "unit_price": 93.99
+        },
+        {
+            "description": "leverage synergistic synergies",
+            "index": "3",
+            "quantity": 3.11,
+            "total_price": 881.04,
+            "unit_price": 92.17
+        },
+        {
+            "description": "engage clicks-and-mortar e-tailers",
+            "index": "10",
+            "quantity": 8.35,
+            "total_price": 591.57,
+            "unit_price": 29.06
+        },
+        {
+            "description": "reinvent bleeding-edge functionalities",
+            "index": "4",
+            "quantity": 4.02,
+            "total_price": 611.67,
+            "unit_price": 26.49
+        }
+    ],
+    "seller": {
+        "address": "PSC 6958, Box 3848 APO AA 49690",
+        "company_name": "Morris LLC",
+        "vat_no": "Qc67190694165"
+    }
+}

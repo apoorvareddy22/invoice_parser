@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "2510 Bowers Fields Apt. 125 Lambertborough, NY 43857",
+        "email": "diane43@example.com",
+        "phone": "413-805-0525x71240",
+        "vat_no": "Hh93402092120"
+    },
+    "invoice": {
+        "date": "21.02.1997",
+        "due_date": "27.06.2015",
+        "market_reference": 966590,
+        "notes": "re-intermediate interactive methodologies",
+        "number": "5395-3000",
+        "reference": 775078,
+        "vat_no": "Id59045859414"
+    },
+    "payment": {
+        "net_total": 36.74,
+        "total": 413.81
+    },
+    "products": [
+        {
+            "amount": 110.06,
+            "description": "innovate web-enabled portals",
+            "hours": 5.34,
+            "rate": 3.56
+        },
+        {
+            "amount": 25.65,
+            "description": "facilitate seamless infrastructures",
+            "hours": 7.85,
+            "rate": 1.69
+        },
+        {
+            "amount": 215.6,
+            "description": "morph e-business web-readiness",
+            "hours": 4.96,
+            "rate": 3.19
+        },
+        {
+            "amount": 157.37,
+            "description": "morph B2B metrics",
+            "hours": 5.79,
+            "rate": 5.22
+        },
+        {
+            "amount": 484.05,
+            "description": "whiteboard world-class networks",
+            "hours": 2.27,
+            "rate": 4.71
+        },
+        {
+            "amount": 12.26,
+            "description": "repurpose integrated systems",
+            "hours": 1.36,
+            "rate": 9.45
+        },
+        {
+            "amount": 20.08,
+            "description": "enhance plug-and-play bandwidth",
+            "hours": 5.65,
+            "rate": 9.89
+        }
+    ],
+    "seller": {
+        "address": "7074 Cooper Haven Apt. 947 Lake Davidside, FL 41341",
+        "email": "leonardjames@example.net",
+        "name": "Jennifer Gonzalez"
+    },
+    "tax": {
+        "base": 14.55,
+        "tax_amount": 16.8,
+        "total_tax": 23.59
+    }
+}

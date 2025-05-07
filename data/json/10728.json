@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "01585 Derek Forges Suite 883 East David, VT 69140",
+        "email": "matthewgomez@example.com",
+        "phone": "883.756.0231",
+        "vat_no": "YK65444102912"
+    },
+    "invoice": {
+        "date": "21.07.2014",
+        "due_date": "29.05.1994",
+        "market_reference": 610044,
+        "notes": "incubate impactful eyeballs",
+        "number": "8092-1202",
+        "reference": 759395,
+        "vat_no": "ZJ08542438661"
+    },
+    "payment": {
+        "net_total": 44.04,
+        "total": 206.47
+    },
+    "products": [
+        {
+            "amount": 362.41,
+            "description": "whiteboard frictionless vortals",
+            "hours": 7.51,
+            "rate": 4.65
+        }
+    ],
+    "seller": {
+        "address": "245 Paul Glens Port Sandra, MO 83346",
+        "email": "jessicaknapp@example.net",
+        "name": "Tara Smith"
+    },
+    "tax": {
+        "base": 19.58,
+        "tax_amount": 28.8,
+        "total_tax": 15.69
+    }
+}

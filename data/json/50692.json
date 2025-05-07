@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "6329 Jason Mount North Shellyport, NJ 55415",
+        "id": "KQ193"
+    },
+    "invoice": {
+        "bc_no": "ZQ95093",
+        "currency_code": "BIF",
+        "date": "27.12.2023",
+        "due_date": "20.03.1994",
+        "number": 225057
+    },
+    "payment": {
+        "bank_name": "Martin Group",
+        "bic": "LHICGBH186T",
+        "iban": "OJQL16839993705760"
+    },
+    "products": [
+        {
+            "amount": 310.73,
+            "description": "integrate scalable e-business",
+            "index": "9",
+            "price": 92.98,
+            "quantity": 7.75,
+            "tax_amount": 46.49,
+            "total_ttc": 150.61,
+            "vat_amount": 9.86
+        },
+        {
+            "amount": 260.13,
+            "description": "harness cross-media communities",
+            "index": "9",
+            "price": 299.21,
+            "quantity": 6.47,
+            "tax_amount": 97.64,
+            "total_ttc": 373.11,
+            "vat_amount": 0.59
+        },
+        {
+            "amount": 299.17,
+            "description": "e-enable bleeding-edge infrastructures",
+            "index": "10",
+            "price": 364.03,
+            "quantity": 4.46,
+            "tax_amount": 28.29,
+            "total_ttc": 495.26,
+            "vat_amount": 2.04
+        },
+        {
+            "amount": 305.39,
+            "description": "expedite out-of-the-box platforms",
+            "index": "6",
+            "price": 430.68,
+            "quantity": 9.96,
+            "tax_amount": 90.57,
+            "total_ttc": 292.59,
+            "vat_amount": 12.5
+        },
+        {
+            "amount": 369.65,
+            "description": "target cross-media schemas",
+            "index": "3",
+            "price": 163.85,
+            "quantity": 3.81,
+            "tax_amount": 40.09,
+            "total_ttc": 188.62,
+            "vat_amount": 0.74
+        },
+        {
+            "amount": 339.71,
+            "description": "monetize transparent functionalities",
+            "index": "2",
+            "price": 57.27,
+            "quantity": 2.77,
+            "tax_amount": 62.0,
+            "total_ttc": 185.21,
+            "vat_amount": 6.55
+        },
+        {
+            "amount": 191.9,
+            "description": "grow user-centric functionalities",
+            "index": "5",
+            "price": 136.44,
+            "quantity": 2.58,
+            "tax_amount": 15.01,
+            "total_ttc": 377.31,
+            "vat_amount": 0.91
+        }
+    ],
+    "seller": {
+        "name": "Lorraine Montgomery"
+    },
+    "supplier": {
+        "address": "4350 Eric Cliff East Pamela, WY 27140",
+        "name": "Patricia Goodman"
+    },
+    "tax": {
+        "amount_excluding_tax": 149.46,
+        "amount_including_tax": 42.83,
+        "tax_amount": 15.06,
+        "total_ht": 402.86,
+        "total_ttc": 306.19
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "361 Martinez Dale Port Nicholechester, MI 21216",
+        "company_name": "Hodges, Hendricks and Miller",
+        "country": "Dominica",
+        "name": "Heather Gonzalez"
+    },
+    "invoice": {
+        "date": "28.10.2023",
+        "number": 299417
+    },
+    "payment": {
+        "discount_amount": 27.28,
+        "discount_percentage": 15.51,
+        "due": 13.83,
+        "sub_total": 64.85,
+        "total": 626.46
+    },
+    "products": [
+        {
+            "description": "streamline sticky architectures",
+            "index": "2",
+            "quantity": 5.36,
+            "total_price": 853.84,
+            "unit_price": 96.71
+        },
+        {
+            "description": "scale clicks-and-mortar networks",
+            "index": "8",
+            "quantity": 7.39,
+            "total_price": 148.06,
+            "unit_price": 90.66
+        },
+        {
+            "description": "brand web-enabled channels",
+            "index": "7",
+            "quantity": 4.49,
+            "total_price": 749.23,
+            "unit_price": 36.88
+        }
+    ],
+    "seller": {
+        "address": "24062 Henderson Islands Apt. 470 New Edward, AR 70937",
+        "company_name": "Mason and Sons",
+        "vat_no": "eu93896888514"
+    }
+}

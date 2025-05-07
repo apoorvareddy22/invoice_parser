@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "73454 Bolton Highway Suite 733 South Laurenstad, OH 98661",
+        "id": "va492"
+    },
+    "invoice": {
+        "bc_no": "hY13099",
+        "currency_code": "HTG",
+        "date": "25.01.2022",
+        "due_date": "08.11.2009",
+        "number": 883848
+    },
+    "payment": {
+        "bank_name": "Jackson-Serrano",
+        "bic": "DRDRGBXLWY2",
+        "iban": "NKUM77380375324196"
+    },
+    "products": [
+        {
+            "amount": 414.07,
+            "description": "drive dot-com eyeballs",
+            "index": "8",
+            "price": 215.74,
+            "quantity": 9.06,
+            "tax_amount": 68.89,
+            "total_ttc": 194.45,
+            "vat_amount": 13.61
+        },
+        {
+            "amount": 432.41,
+            "description": "productize turn-key users",
+            "index": "6",
+            "price": 236.7,
+            "quantity": 6.74,
+            "tax_amount": 44.12,
+            "total_ttc": 489.06,
+            "vat_amount": 1.54
+        },
+        {
+            "amount": 108.57,
+            "description": "utilize web-enabled schemas",
+            "index": "4",
+            "price": 396.55,
+            "quantity": 3.85,
+            "tax_amount": 19.12,
+            "total_ttc": 208.55,
+            "vat_amount": 3.92
+        },
+        {
+            "amount": 267.34,
+            "description": "morph end-to-end bandwidth",
+            "index": "3",
+            "price": 12.16,
+            "quantity": 2.72,
+            "tax_amount": 14.36,
+            "total_ttc": 224.3,
+            "vat_amount": 14.03
+        },
+        {
+            "amount": 475.53,
+            "description": "incubate end-to-end convergence",
+            "index": "2",
+            "price": 103.22,
+            "quantity": 7.28,
+            "tax_amount": 75.93,
+            "total_ttc": 496.5,
+            "vat_amount": 3.0
+        },
+        {
+            "amount": 105.32,
+            "description": "integrate synergistic portals",
+            "index": "10",
+            "price": 254.98,
+            "quantity": 3.46,
+            "tax_amount": 55.31,
+            "total_ttc": 339.3,
+            "vat_amount": 5.5
+        },
+        {
+            "amount": 322.44,
+            "description": "synergize extensible info-mediaries",
+            "index": "1",
+            "price": 47.68,
+            "quantity": 2.93,
+            "tax_amount": 14.64,
+            "total_ttc": 428.01,
+            "vat_amount": 2.48
+        }
+    ],
+    "seller": {
+        "name": "Brian Baker"
+    },
+    "supplier": {
+        "address": "919 Andrew Rapid New Leah, OH 34957",
+        "name": "Nicholas Bell"
+    },
+    "tax": {
+        "amount_excluding_tax": 193.92,
+        "amount_including_tax": 134.13,
+        "tax_amount": 19.03,
+        "total_ht": 408.11,
+        "total_ttc": 228.9
+    }
+}

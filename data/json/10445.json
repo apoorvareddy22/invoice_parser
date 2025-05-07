@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "06577 Monica Turnpike Suite 130 North Eric, PA 93437",
+        "email": "ajohnson@example.net",
+        "phone": "217.862.0407",
+        "vat_no": "ay29613094940"
+    },
+    "invoice": {
+        "date": "05.12.1998",
+        "due_date": "24.05.1992",
+        "market_reference": 241513,
+        "notes": "matrix compelling relationships",
+        "number": "8805-7856",
+        "reference": 466355,
+        "vat_no": "nR27745265967"
+    },
+    "payment": {
+        "net_total": 182.86,
+        "total": 597.14
+    },
+    "products": [
+        {
+            "amount": 188.32,
+            "description": "deploy compelling architectures",
+            "hours": 9.96,
+            "rate": 2.85
+        },
+        {
+            "amount": 225.28,
+            "description": "architect best-of-breed interfaces",
+            "hours": 3.04,
+            "rate": 3.27
+        },
+        {
+            "amount": 34.88,
+            "description": "orchestrate revolutionary architectures",
+            "hours": 8.91,
+            "rate": 2.54
+        }
+    ],
+    "seller": {
+        "address": "8833 Jessica Falls Parkbury, NE 97377",
+        "email": "luis57@example.com",
+        "name": "Annette Sullivan"
+    },
+    "tax": {
+        "base": 27.95,
+        "tax_amount": 16.42,
+        "total_tax": 24.1
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "504 Martha Mill Port Amanda, CO 90347",
+        "company_name": "Hughes, Love and Little",
+        "email": "oford@example.com",
+        "name": "Robert Morgan",
+        "phone": "800.692.9513"
+    },
+    "invoice": {
+        "date": "18.04.2021",
+        "due_date": "30.11.2011",
+        "number": "lPJ05435994580"
+    },
+    "payment": {
+        "account_number": 1051729861,
+        "bank_name": "Rogers Ltd",
+        "routing_number": 291153816
+    },
+    "products": [
+        {
+            "amount": 238.48,
+            "description": "transform frictionless relationships",
+            "index": "5",
+            "quantity": 8.58,
+            "unit_price": 70.51
+        },
+        {
+            "amount": 73.83,
+            "description": "optimize leading-edge portals",
+            "index": "4",
+            "quantity": 1.48,
+            "unit_price": 86.14
+        },
+        {
+            "amount": 247.76,
+            "description": "enable real-time channels",
+            "index": "3",
+            "quantity": 4.23,
+            "unit_price": 10.11
+        }
+    ],
+    "seller": {
+        "address": "14680 Rebekah Cove Apt. 098 Lake Richard, WI 02170",
+        "company_name": "Harrison-Mason",
+        "email": "smithtyler@example.org"
+    }
+}

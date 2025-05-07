@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "848 Alexander Way Ashleyland, WY 04921",
+        "business_no": "Mk226",
+        "id": "wL677"
+    },
+    "invoice": {
+        "date": "13.02.1993",
+        "number": "4343-0461"
+    },
+    "payment": {
+        "due_date": "14.11.2022",
+        "total": 728.36
+    },
+    "products": [
+        {
+            "amount": 492.91,
+            "description": "maximize compelling technologies",
+            "quantity": 8.99,
+            "reference": "uE-627",
+            "unit_price": 66.28
+        },
+        {
+            "amount": 364.17,
+            "description": "strategize frictionless content",
+            "quantity": 2.4,
+            "reference": "Bk-487",
+            "unit_price": 71.23
+        }
+    ],
+    "seller": {
+        "address": "1980 Jessica Mill Byrdton, MH 02438"
+    },
+    "tax": {
+        "base_ht": 172.84,
+        "regulations": 10.36,
+        "total_ht": 148.87,
+        "vat_amount": 176.21,
+        "vat_percentage": 20.26
+    }
+}

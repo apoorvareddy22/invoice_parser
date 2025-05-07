@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "938 Rebecca Park Suite 084 South Anthony, VA 96934",
+        "email": "diazstacy@example.com",
+        "phone": "+1-454-627-8324x3925",
+        "vat_no": "gT50334956150"
+    },
+    "invoice": {
+        "date": "16.12.2004",
+        "due_date": "18.01.2007",
+        "market_reference": 418827,
+        "notes": "e-enable innovative solutions",
+        "number": "6687-6666",
+        "reference": 729410,
+        "vat_no": "OJ17132350099"
+    },
+    "payment": {
+        "net_total": 76.41,
+        "total": 513.7
+    },
+    "products": [
+        {
+            "amount": 110.01,
+            "description": "leverage rich portals",
+            "hours": 3.66,
+            "rate": 6.74
+        }
+    ],
+    "seller": {
+        "address": "368 Carolyn Club South Daniel, DC 25131",
+        "email": "michael58@example.net",
+        "name": "Dominique Roberts"
+    },
+    "tax": {
+        "base": 18.78,
+        "tax_amount": 17.65,
+        "total_tax": 18.58
+    }
+}

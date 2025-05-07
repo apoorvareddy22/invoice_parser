@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "2649 Anthony Street Apt. 714 West Manuelstad, MH 90659",
+        "company_name": "Colon, Salazar and Murray",
+        "email": "ofernandez@example.org",
+        "name": "Greg Bennett",
+        "phone": "757.759.2408x5818"
+    },
+    "invoice": {
+        "date": "04.07.2007",
+        "due_date": "08.01.2012",
+        "number": "zqg10723702886"
+    },
+    "payment": {
+        "account_number": 9353238921,
+        "bank_name": "Hall, Thomas and Burnett",
+        "routing_number": 971848019
+    },
+    "products": [
+        {
+            "amount": 102.23,
+            "description": "integrate e-business systems",
+            "index": "6",
+            "quantity": 7.95,
+            "unit_price": 14.85
+        },
+        {
+            "amount": 100.74,
+            "description": "whiteboard scalable users",
+            "index": "1",
+            "quantity": 2.61,
+            "unit_price": 36.24
+        },
+        {
+            "amount": 84.31,
+            "description": "integrate out-of-the-box technologies",
+            "index": "9",
+            "quantity": 6.76,
+            "unit_price": 27.71
+        },
+        {
+            "amount": 93.14,
+            "description": "matrix virtual supply-chains",
+            "index": "9",
+            "quantity": 5.58,
+            "unit_price": 81.1
+        },
+        {
+            "amount": 326.79,
+            "description": "morph extensible web services",
+            "index": "3",
+            "quantity": 1.37,
+            "unit_price": 31.48
+        },
+        {
+            "amount": 172.45,
+            "description": "target cutting-edge channels",
+            "index": "7",
+            "quantity": 6.49,
+            "unit_price": 41.45
+        },
+        {
+            "amount": 124.49,
+            "description": "drive global schemas",
+            "index": "10",
+            "quantity": 6.7,
+            "unit_price": 58.79
+        }
+    ],
+    "seller": {
+        "address": "3866 Daniel Crest Thorntonfurt, AK 84920",
+        "company_name": "Pennington, Martin and Leonard",
+        "email": "cookrose@example.net"
+    }
+}

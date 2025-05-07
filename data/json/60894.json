@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "9140 Rios Field Kington, KY 74961",
+        "business_no": "hi486",
+        "id": "rt864"
+    },
+    "invoice": {
+        "date": "28.02.2021",
+        "number": "1516-1857"
+    },
+    "payment": {
+        "due_date": "22.05.1993",
+        "total": 264.8
+    },
+    "products": [
+        {
+            "amount": 343.79,
+            "description": "e-enable user-centric web services",
+            "quantity": 6.98,
+            "reference": "WZ-484",
+            "unit_price": 25.3
+        },
+        {
+            "amount": 277.98,
+            "description": "harness holistic e-tailers",
+            "quantity": 8.78,
+            "reference": "Cn-634",
+            "unit_price": 22.06
+        }
+    ],
+    "seller": {
+        "address": "4831 Garcia Falls Suite 648 Port Patriciaborough, LA 66847"
+    },
+    "tax": {
+        "base_ht": 385.38,
+        "regulations": 15.84,
+        "total_ht": 310.87,
+        "vat_amount": 129.05,
+        "vat_percentage": 25.29
+    }
+}

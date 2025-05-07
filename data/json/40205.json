@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "693 Kelley Motorway East Kathrynville, AS 70414"
+    },
+    "invoice": {
+        "bc_no": "LX51823",
+        "date": "26.08.2023",
+        "maturity_date": "21.12.1990",
+        "number": 162069
+    },
+    "products": [
+        {
+            "amount": 154.74,
+            "description": "e-enable proactive synergies",
+            "quantity": 9.21,
+            "unit_price": 62.73,
+            "vat_amount": 5.47
+        },
+        {
+            "amount": 498.65,
+            "description": "engineer rich info-mediaries",
+            "quantity": 6.89,
+            "unit_price": 77.81,
+            "vat_amount": 0.69
+        },
+        {
+            "amount": 151.66,
+            "description": "monetize e-business ROI",
+            "quantity": 9.1,
+            "unit_price": 45.61,
+            "vat_amount": 3.77
+        }
+    ],
+    "seller": {
+        "address": "09742 Rhodes Inlet Millerland, GU 88230"
+    },
+    "tax": {
+        "amount_excluding_tax": 113.69,
+        "amount_including_tax": 19.98,
+        "tax_amount": 14.62
+    }
+}

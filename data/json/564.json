@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "839 Castillo Mews Apt. 919 New Timbury, ID 69506",
+        "company_name": "Barajas, Cook and Hooper",
+        "country": "Spain",
+        "name": "Emily Greene"
+    },
+    "invoice": {
+        "date": "01.11.2020",
+        "number": 908519
+    },
+    "payment": {
+        "discount_amount": 37.56,
+        "discount_percentage": 6.5,
+        "due": 174.06,
+        "sub_total": 104.69,
+        "total": 339.58
+    },
+    "products": [
+        {
+            "description": "scale cross-media platforms",
+            "index": "10",
+            "quantity": 8.67,
+            "total_price": 578.93,
+            "unit_price": 24.49
+        },
+        {
+            "description": "empower ubiquitous applications",
+            "index": "8",
+            "quantity": 3.23,
+            "total_price": 59.61,
+            "unit_price": 44.21
+        }
+    ],
+    "seller": {
+        "address": "70500 Lisa Centers Suite 782 Donaldview, MI 86478",
+        "company_name": "Bowen Inc",
+        "vat_no": "LT88595105146"
+    }
+}

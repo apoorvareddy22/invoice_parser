@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "USNV Estes FPO AE 45367"
+    },
+    "invoice": {
+        "bc_no": "Sg45059",
+        "date": "08.02.2016",
+        "maturity_date": "05.07.2004",
+        "number": 989730
+    },
+    "products": [
+        {
+            "amount": 33.93,
+            "description": "deliver e-business models",
+            "quantity": 8.48,
+            "unit_price": 91.8,
+            "vat_amount": 7.0
+        }
+    ],
+    "seller": {
+        "address": "41180 Calderon Dale Jenniferton, ID 59678"
+    },
+    "tax": {
+        "amount_excluding_tax": 118.29,
+        "amount_including_tax": 68.25,
+        "tax_amount": 13.71
+    }
+}

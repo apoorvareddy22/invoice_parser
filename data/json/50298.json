@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "Unit 7247 Box 3580 DPO AE 26243",
+        "id": "uK849"
+    },
+    "invoice": {
+        "bc_no": "tO85520",
+        "currency_code": "LSL",
+        "date": "26.11.2006",
+        "due_date": "11.08.2006",
+        "number": 870608
+    },
+    "payment": {
+        "bank_name": "Jones Group",
+        "bic": "VZEBGBNEYR0",
+        "iban": "XZVP39912732024030"
+    },
+    "products": [
+        {
+            "amount": 282.67,
+            "description": "optimize bleeding-edge mindshare",
+            "index": "8",
+            "price": 234.09,
+            "quantity": 4.6,
+            "tax_amount": 46.04,
+            "total_ttc": 110.74,
+            "vat_amount": 1.93
+        },
+        {
+            "amount": 26.41,
+            "description": "revolutionize bricks-and-clicks e-commerce",
+            "index": "3",
+            "price": 469.67,
+            "quantity": 9.08,
+            "tax_amount": 18.87,
+            "total_ttc": 203.95,
+            "vat_amount": 9.69
+        },
+        {
+            "amount": 59.78,
+            "description": "streamline back-end interfaces",
+            "index": "10",
+            "price": 201.29,
+            "quantity": 3.74,
+            "tax_amount": 29.83,
+            "total_ttc": 456.43,
+            "vat_amount": 16.07
+        },
+        {
+            "amount": 169.75,
+            "description": "incentivize enterprise portals",
+            "index": "3",
+            "price": 163.58,
+            "quantity": 2.4,
+            "tax_amount": 33.22,
+            "total_ttc": 212.3,
+            "vat_amount": 1.44
+        },
+        {
+            "amount": 280.16,
+            "description": "brand transparent deliverables",
+            "index": "4",
+            "price": 336.1,
+            "quantity": 7.95,
+            "tax_amount": 93.45,
+            "total_ttc": 399.96,
+            "vat_amount": 4.14
+        },
+        {
+            "amount": 193.5,
+            "description": "expedite bricks-and-clicks bandwidth",
+            "index": "5",
+            "price": 288.25,
+            "quantity": 7.93,
+            "tax_amount": 24.24,
+            "total_ttc": 300.73,
+            "vat_amount": 7.22
+        }
+    ],
+    "seller": {
+        "name": "Kelly Hall"
+    },
+    "supplier": {
+        "address": "4948 Howard Port New David, GA 20858",
+        "name": "James Meadows"
+    },
+    "tax": {
+        "amount_excluding_tax": 49.95,
+        "amount_including_tax": 65.32,
+        "tax_amount": 15.9,
+        "total_ht": 492.22,
+        "total_ttc": 493.74
+    }
+}

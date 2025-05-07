@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "1673 Terri Parkways North Jasonfurt, AR 18456",
+        "company_name": "Alexander, Rice and Watson",
+        "country": "Timor-Leste",
+        "name": "David Mason"
+    },
+    "invoice": {
+        "date": "21.06.2005",
+        "number": 122786
+    },
+    "payment": {
+        "discount_amount": 13.93,
+        "discount_percentage": 19.68,
+        "due": 175.8,
+        "sub_total": 174.24,
+        "total": 795.88
+    },
+    "products": [
+        {
+            "description": "enable end-to-end initiatives",
+            "index": "9",
+            "quantity": 3.8,
+            "total_price": 652.81,
+            "unit_price": 81.71
+        },
+        {
+            "description": "incubate distributed schemas",
+            "index": "6",
+            "quantity": 6.62,
+            "total_price": 944.05,
+            "unit_price": 29.16
+        }
+    ],
+    "seller": {
+        "address": "USNS Moore FPO AP 34108",
+        "company_name": "Walker and Sons",
+        "vat_no": "fV28275982654"
+    }
+}

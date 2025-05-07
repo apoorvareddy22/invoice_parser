@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "PSC 3020, Box 7290 APO AP 65018",
+        "business_no": "Ni022",
+        "id": "Mo359"
+    },
+    "invoice": {
+        "date": "03.04.2002",
+        "number": "2119-4859"
+    },
+    "payment": {
+        "due_date": "24.05.2000",
+        "total": 607.13
+    },
+    "products": [
+        {
+            "amount": 63.81,
+            "description": "target granular convergence",
+            "quantity": 1.43,
+            "reference": "kU-398",
+            "unit_price": 45.14
+        },
+        {
+            "amount": 420.35,
+            "description": "engineer plug-and-play info-mediaries",
+            "quantity": 7.6,
+            "reference": "uc-150",
+            "unit_price": 20.47
+        },
+        {
+            "amount": 239.35,
+            "description": "incentivize interactive relationships",
+            "quantity": 9.93,
+            "reference": "HA-419",
+            "unit_price": 15.56
+        },
+        {
+            "amount": 81.19,
+            "description": "grow interactive networks",
+            "quantity": 6.22,
+            "reference": "fa-558",
+            "unit_price": 66.7
+        }
+    ],
+    "seller": {
+        "address": "0898 Ronald Terrace Apt. 883 Michelleburgh, SD 41132"
+    },
+    "tax": {
+        "base_ht": 406.85,
+        "regulations": 18.04,
+        "total_ht": 214.77,
+        "vat_amount": 59.4,
+        "vat_percentage": 13.95
+    }
+}

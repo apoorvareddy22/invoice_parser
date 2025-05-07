@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "949 Lindsey Mount West Robert, OR 08624"
+    },
+    "invoice": {
+        "bc_no": "iZ12101",
+        "date": "02.07.2018",
+        "maturity_date": "13.09.2023",
+        "number": 728518
+    },
+    "products": [
+        {
+            "amount": 369.67,
+            "description": "revolutionize cross-media technologies",
+            "quantity": 6.41,
+            "unit_price": 14.16,
+            "vat_amount": 11.47
+        },
+        {
+            "amount": 192.89,
+            "description": "aggregate e-business e-commerce",
+            "quantity": 7.42,
+            "unit_price": 16.37,
+            "vat_amount": 2.78
+        },
+        {
+            "amount": 231.31,
+            "description": "maximize best-of-breed infrastructures",
+            "quantity": 4.36,
+            "unit_price": 19.5,
+            "vat_amount": 3.73
+        },
+        {
+            "amount": 39.71,
+            "description": "synthesize front-end initiatives",
+            "quantity": 8.74,
+            "unit_price": 71.61,
+            "vat_amount": 4.18
+        }
+    ],
+    "seller": {
+        "address": "USNV Daniels FPO AP 09159"
+    },
+    "tax": {
+        "amount_excluding_tax": 115.95,
+        "amount_including_tax": 84.72,
+        "tax_amount": 27.98
+    }
+}

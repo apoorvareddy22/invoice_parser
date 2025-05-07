@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "PSC 7101, Box 3163 APO AE 37495",
+        "business_no": "CB502",
+        "id": "dp479"
+    },
+    "invoice": {
+        "date": "20.02.2008",
+        "number": "9235-6124"
+    },
+    "payment": {
+        "due_date": "14.03.2011",
+        "total": 441.91
+    },
+    "products": [
+        {
+            "amount": 184.12,
+            "description": "transform web-enabled solutions",
+            "quantity": 4.97,
+            "reference": "Gt-535",
+            "unit_price": 23.39
+        },
+        {
+            "amount": 210.59,
+            "description": "target interactive e-commerce",
+            "quantity": 2.62,
+            "reference": "Ri-470",
+            "unit_price": 35.33
+        },
+        {
+            "amount": 185.19,
+            "description": "aggregate web-enabled solutions",
+            "quantity": 2.99,
+            "reference": "sl-954",
+            "unit_price": 58.13
+        },
+        {
+            "amount": 222.74,
+            "description": "optimize robust deliverables",
+            "quantity": 8.22,
+            "reference": "rG-557",
+            "unit_price": 30.63
+        },
+        {
+            "amount": 184.51,
+            "description": "innovate innovative solutions",
+            "quantity": 8.55,
+            "reference": "Ya-610",
+            "unit_price": 95.08
+        },
+        {
+            "amount": 206.65,
+            "description": "empower real-time solutions",
+            "quantity": 8.13,
+            "reference": "bZ-799",
+            "unit_price": 77.56
+        },
+        {
+            "amount": 131.72,
+            "description": "seize web-enabled functionalities",
+            "quantity": 5.35,
+            "reference": "Ty-459",
+            "unit_price": 35.4
+        }
+    ],
+    "seller": {
+        "address": "68988 Julia Flats Port Christina, WA 85916"
+    },
+    "tax": {
+        "base_ht": 270.78,
+        "regulations": 14.17,
+        "total_ht": 100.46,
+        "vat_amount": 187.01,
+        "vat_percentage": 17.8
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "1227 Flores Inlet Apt. 864 Davidborough, MO 55405"
+    },
+    "invoice": {
+        "bc_no": "wL24992",
+        "date": "18.02.1995",
+        "maturity_date": "19.10.1996",
+        "number": 240050
+    },
+    "products": [
+        {
+            "amount": 137.88,
+            "description": "redefine B2C metrics",
+            "quantity": 7.39,
+            "unit_price": 73.92,
+            "vat_amount": 2.84
+        },
+        {
+            "amount": 346.02,
+            "description": "brand enterprise portals",
+            "quantity": 4.9,
+            "unit_price": 58.08,
+            "vat_amount": 5.15
+        },
+        {
+            "amount": 348.98,
+            "description": "redefine ubiquitous solutions",
+            "quantity": 8.13,
+            "unit_price": 74.0,
+            "vat_amount": 3.39
+        },
+        {
+            "amount": 225.04,
+            "description": "matrix 24/7 schemas",
+            "quantity": 6.56,
+            "unit_price": 60.94,
+            "vat_amount": 12.8
+        },
+        {
+            "amount": 331.32,
+            "description": "drive interactive models",
+            "quantity": 1.53,
+            "unit_price": 13.59,
+            "vat_amount": 1.75
+        },
+        {
+            "amount": 329.93,
+            "description": "streamline intuitive synergies",
+            "quantity": 8.37,
+            "unit_price": 43.75,
+            "vat_amount": 0.14
+        }
+    ],
+    "seller": {
+        "address": "258 Gardner Fort Apt. 908 Durhamview, HI 76526"
+    },
+    "tax": {
+        "amount_excluding_tax": 184.96,
+        "amount_including_tax": 90.57,
+        "tax_amount": 23.77
+    }
+}

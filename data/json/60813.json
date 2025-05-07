@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "98903 Brown Extension Johnsonmouth, SC 63844",
+        "business_no": "Jw103",
+        "id": "Wt052"
+    },
+    "invoice": {
+        "date": "06.12.1993",
+        "number": "4279-5575"
+    },
+    "payment": {
+        "due_date": "06.04.2011",
+        "total": 685.96
+    },
+    "products": [
+        {
+            "amount": 98.5,
+            "description": "facilitate synergistic communities",
+            "quantity": 8.42,
+            "reference": "KH-384",
+            "unit_price": 25.55
+        },
+        {
+            "amount": 318.16,
+            "description": "whiteboard collaborative vortals",
+            "quantity": 4.92,
+            "reference": "dB-153",
+            "unit_price": 59.1
+        },
+        {
+            "amount": 194.33,
+            "description": "engage distributed users",
+            "quantity": 7.8,
+            "reference": "jn-303",
+            "unit_price": 14.95
+        }
+    ],
+    "seller": {
+        "address": "130 Parker Ramp Suite 186 New Janetmouth, OR 75036"
+    },
+    "tax": {
+        "base_ht": 469.04,
+        "regulations": 16.41,
+        "total_ht": 401.35,
+        "vat_amount": 56.95,
+        "vat_percentage": 24.93
+    }
+}

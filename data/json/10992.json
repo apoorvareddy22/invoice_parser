@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "0079 Parker Rapids Apt. 068 Yvetteborough, VT 77386",
+        "email": "tcarr@example.net",
+        "phone": "552.522.7777x019",
+        "vat_no": "gI68400112454"
+    },
+    "invoice": {
+        "date": "15.08.2001",
+        "due_date": "19.08.2012",
+        "market_reference": 548822,
+        "notes": "productize robust web services",
+        "number": "5530-9488",
+        "reference": 209336,
+        "vat_no": "fC51467998458"
+    },
+    "payment": {
+        "net_total": 94.3,
+        "total": 696.58
+    },
+    "products": [
+        {
+            "amount": 494.81,
+            "description": "enhance collaborative technologies",
+            "hours": 9.83,
+            "rate": 6.61
+        },
+        {
+            "amount": 64.34,
+            "description": "harness open-source mindshare",
+            "hours": 6.44,
+            "rate": 1.67
+        },
+        {
+            "amount": 488.09,
+            "description": "transform frictionless e-tailers",
+            "hours": 6.0,
+            "rate": 7.49
+        },
+        {
+            "amount": 103.29,
+            "description": "envisioneer customized channels",
+            "hours": 6.86,
+            "rate": 7.83
+        },
+        {
+            "amount": 218.29,
+            "description": "innovate clicks-and-mortar action-items",
+            "hours": 6.52,
+            "rate": 8.75
+        },
+        {
+            "amount": 68.98,
+            "description": "leverage bleeding-edge synergies",
+            "hours": 8.56,
+            "rate": 1.97
+        },
+        {
+            "amount": 188.75,
+            "description": "revolutionize wireless solutions",
+            "hours": 3.55,
+            "rate": 8.25
+        }
+    ],
+    "seller": {
+        "address": "1053 Sandra Inlet Apt. 254 Port Devin, PA 88568",
+        "email": "jamesmelinda@example.org",
+        "name": "Patrick Martin"
+    },
+    "tax": {
+        "base": 11.89,
+        "tax_amount": 11.53,
+        "total_tax": 22.51
+    }
+}

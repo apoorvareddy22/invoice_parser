@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "3649 Russell Course Suite 027 East Charles, NC 90038",
+        "business_no": "JY754",
+        "id": "yB122"
+    },
+    "invoice": {
+        "date": "11.01.2013",
+        "number": "0737-2431"
+    },
+    "payment": {
+        "due_date": "15.12.1990",
+        "total": 660.32
+    },
+    "products": [
+        {
+            "amount": 278.8,
+            "description": "re-contextualize sticky architectures",
+            "quantity": 4.8,
+            "reference": "FT-474",
+            "unit_price": 88.55
+        },
+        {
+            "amount": 124.95,
+            "description": "e-enable virtual bandwidth",
+            "quantity": 8.93,
+            "reference": "lg-308",
+            "unit_price": 17.07
+        },
+        {
+            "amount": 319.21,
+            "description": "synthesize world-class convergence",
+            "quantity": 4.47,
+            "reference": "nB-177",
+            "unit_price": 25.3
+        },
+        {
+            "amount": 498.83,
+            "description": "enhance scalable e-commerce",
+            "quantity": 6.48,
+            "reference": "hX-702",
+            "unit_price": 35.69
+        }
+    ],
+    "seller": {
+        "address": "0568 Jonathan Terrace Lake Kimberlyborough, AK 44345"
+    },
+    "tax": {
+        "base_ht": 334.15,
+        "regulations": 19.76,
+        "total_ht": 399.11,
+        "vat_amount": 180.81,
+        "vat_percentage": 17.61
+    }
+}

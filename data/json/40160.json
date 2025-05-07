@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "4015 Jessica Brook West Danielbury, MP 64931"
+    },
+    "invoice": {
+        "bc_no": "RW58987",
+        "date": "08.09.2002",
+        "maturity_date": "07.07.2019",
+        "number": 755485
+    },
+    "products": [
+        {
+            "amount": 286.56,
+            "description": "extend compelling systems",
+            "quantity": 2.48,
+            "unit_price": 56.92,
+            "vat_amount": 7.14
+        },
+        {
+            "amount": 413.11,
+            "description": "extend revolutionary platforms",
+            "quantity": 3.09,
+            "unit_price": 33.85,
+            "vat_amount": 5.99
+        }
+    ],
+    "seller": {
+        "address": "809 Terri Pines Blackstad, OH 24647"
+    },
+    "tax": {
+        "amount_excluding_tax": 64.61,
+        "amount_including_tax": 155.16,
+        "tax_amount": 14.23
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "58922 Guzman Rue Suite 043 East Jeffrey, UT 75447",
+        "id": "qA453"
+    },
+    "invoice": {
+        "bc_no": "uG51412",
+        "currency_code": "SVC",
+        "date": "09.01.2019",
+        "due_date": "16.05.1992",
+        "number": 884248
+    },
+    "payment": {
+        "bank_name": "Gates, Collins and Taylor",
+        "bic": "ESYRGB8MEZB",
+        "iban": "XKHF58100633820700"
+    },
+    "products": [
+        {
+            "amount": 291.77,
+            "description": "envisioneer cutting-edge markets",
+            "index": "8",
+            "price": 74.43,
+            "quantity": 5.92,
+            "tax_amount": 45.82,
+            "total_ttc": 316.24,
+            "vat_amount": 5.87
+        },
+        {
+            "amount": 201.75,
+            "description": "architect e-business e-tailers",
+            "index": "1",
+            "price": 330.24,
+            "quantity": 6.2,
+            "tax_amount": 72.73,
+            "total_ttc": 247.82,
+            "vat_amount": 15.01
+        }
+    ],
+    "seller": {
+        "name": "Tammy Sandoval"
+    },
+    "supplier": {
+        "address": "0219 Stone Junction New Timothy, KS 37004",
+        "name": "Mrs. Kelsey Gill"
+    },
+    "tax": {
+        "amount_excluding_tax": 60.97,
+        "amount_including_tax": 161.35,
+        "tax_amount": 23.28,
+        "total_ht": 125.01,
+        "total_ttc": 388.96
+    }
+}

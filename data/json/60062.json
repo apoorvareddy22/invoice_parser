@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "2252 Blair Shore South James, KS 14744",
+        "business_no": "la691",
+        "id": "pP111"
+    },
+    "invoice": {
+        "date": "18.06.2013",
+        "number": "2104-9240"
+    },
+    "payment": {
+        "due_date": "12.07.2010",
+        "total": 519.74
+    },
+    "products": [
+        {
+            "amount": 328.48,
+            "description": "matrix dot-com web services",
+            "quantity": 3.04,
+            "reference": "BZ-659",
+            "unit_price": 29.9
+        },
+        {
+            "amount": 193.56,
+            "description": "re-intermediate open-source e-tailers",
+            "quantity": 6.34,
+            "reference": "dw-358",
+            "unit_price": 80.52
+        },
+        {
+            "amount": 100.13,
+            "description": "embrace viral markets",
+            "quantity": 9.99,
+            "reference": "AN-341",
+            "unit_price": 72.27
+        },
+        {
+            "amount": 457.19,
+            "description": "drive customized solutions",
+            "quantity": 8.58,
+            "reference": "Ln-353",
+            "unit_price": 48.58
+        },
+        {
+            "amount": 453.89,
+            "description": "engineer transparent info-mediaries",
+            "quantity": 5.54,
+            "reference": "hq-603",
+            "unit_price": 85.38
+        }
+    ],
+    "seller": {
+        "address": "010 Deborah Terrace East Robert, NV 17992"
+    },
+    "tax": {
+        "base_ht": 492.61,
+        "regulations": 16.04,
+        "total_ht": 183.31,
+        "vat_amount": 20.18,
+        "vat_percentage": 16.96
+    }
+}

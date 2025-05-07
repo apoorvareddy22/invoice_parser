@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "PSC 5007, Box 4264 APO AA 70096",
+        "business_no": "KN048",
+        "id": "eX836"
+    },
+    "invoice": {
+        "date": "15.02.2016",
+        "number": "4175-2965"
+    },
+    "payment": {
+        "due_date": "05.05.2016",
+        "total": 207.23
+    },
+    "products": [
+        {
+            "amount": 136.66,
+            "description": "mesh strategic markets",
+            "quantity": 7.07,
+            "reference": "UU-961",
+            "unit_price": 79.01
+        },
+        {
+            "amount": 81.88,
+            "description": "productize viral users",
+            "quantity": 5.69,
+            "reference": "xn-145",
+            "unit_price": 70.61
+        },
+        {
+            "amount": 298.4,
+            "description": "synthesize value-added communities",
+            "quantity": 1.31,
+            "reference": "vj-110",
+            "unit_price": 54.36
+        },
+        {
+            "amount": 382.64,
+            "description": "evolve world-class mindshare",
+            "quantity": 2.91,
+            "reference": "Fr-682",
+            "unit_price": 46.64
+        }
+    ],
+    "seller": {
+        "address": "08067 Phillip Manor Suite 375 Annaberg, AS 61166"
+    },
+    "tax": {
+        "base_ht": 167.34,
+        "regulations": 28.92,
+        "total_ht": 386.73,
+        "vat_amount": 134.54,
+        "vat_percentage": 23.01
+    }
+}

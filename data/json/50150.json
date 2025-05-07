@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "435 Hardy Prairie Apt. 697 Nortonport, KS 03460",
+        "id": "os694"
+    },
+    "invoice": {
+        "bc_no": "mH45976",
+        "currency_code": "KWD",
+        "date": "21.11.2019",
+        "due_date": "18.01.1997",
+        "number": 680587
+    },
+    "payment": {
+        "bank_name": "Sanford, Vasquez and Day",
+        "bic": "JOIUGBBP",
+        "iban": "LFIU57048006739123"
+    },
+    "products": [
+        {
+            "amount": 263.48,
+            "description": "engineer magnetic action-items",
+            "index": "2",
+            "price": 69.35,
+            "quantity": 8.99,
+            "tax_amount": 87.74,
+            "total_ttc": 144.78,
+            "vat_amount": 10.01
+        },
+        {
+            "amount": 67.4,
+            "description": "seize dynamic networks",
+            "index": "9",
+            "price": 452.68,
+            "quantity": 3.56,
+            "tax_amount": 96.86,
+            "total_ttc": 234.72,
+            "vat_amount": 3.88
+        },
+        {
+            "amount": 372.78,
+            "description": "matrix enterprise mindshare",
+            "index": "9",
+            "price": 36.07,
+            "quantity": 8.22,
+            "tax_amount": 97.21,
+            "total_ttc": 284.39,
+            "vat_amount": 3.55
+        },
+        {
+            "amount": 56.12,
+            "description": "re-intermediate best-of-breed web-readiness",
+            "index": "2",
+            "price": 131.23,
+            "quantity": 6.53,
+            "tax_amount": 95.39,
+            "total_ttc": 143.38,
+            "vat_amount": 4.15
+        },
+        {
+            "amount": 465.85,
+            "description": "strategize cutting-edge relationships",
+            "index": "9",
+            "price": 146.93,
+            "quantity": 1.86,
+            "tax_amount": 47.88,
+            "total_ttc": 114.76,
+            "vat_amount": 4.21
+        },
+        {
+            "amount": 356.39,
+            "description": "harness killer content",
+            "index": "6",
+            "price": 447.26,
+            "quantity": 2.91,
+            "tax_amount": 42.56,
+            "total_ttc": 270.21,
+            "vat_amount": 3.17
+        }
+    ],
+    "seller": {
+        "name": "Ariel Arias"
+    },
+    "supplier": {
+        "address": "9720 Karen Well Apt. 115 Lake Alan, GA 74336",
+        "name": "Stephen Gonzalez"
+    },
+    "tax": {
+        "amount_excluding_tax": 131.29,
+        "amount_including_tax": 179.87,
+        "tax_amount": 29.26,
+        "total_ht": 305.38,
+        "total_ttc": 419.0
+    }
+}

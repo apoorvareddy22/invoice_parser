@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "110 Adams Unions Apt. 996 North Samuelchester, NC 90119",
+        "id": "hd198"
+    },
+    "invoice": {
+        "bc_no": "EB59889",
+        "currency_code": "SOS",
+        "date": "03.02.2008",
+        "due_date": "10.09.1996",
+        "number": 127023
+    },
+    "payment": {
+        "bank_name": "Mccormick Group",
+        "bic": "VLGPGBAD",
+        "iban": "ZEQH50877972401142"
+    },
+    "products": [
+        {
+            "amount": 419.22,
+            "description": "cultivate synergistic relationships",
+            "index": "1",
+            "price": 151.96,
+            "quantity": 5.31,
+            "tax_amount": 27.79,
+            "total_ttc": 181.27,
+            "vat_amount": 0.67
+        }
+    ],
+    "seller": {
+        "name": "Tasha Forbes"
+    },
+    "supplier": {
+        "address": "77836 Raymond Creek West Matthewbury, VI 29848",
+        "name": "Calvin Hunt"
+    },
+    "tax": {
+        "amount_excluding_tax": 92.19,
+        "amount_including_tax": 76.4,
+        "tax_amount": 14.74,
+        "total_ht": 319.49,
+        "total_ttc": 211.74
+    }
+}

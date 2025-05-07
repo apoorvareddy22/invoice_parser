@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "81088 Cynthia Land Mendezview, SD 45528",
+        "email": "rhart@example.com",
+        "phone": "(599)693-4010",
+        "vat_no": "gu55742795583"
+    },
+    "invoice": {
+        "date": "25.08.2019",
+        "due_date": "29.11.2019",
+        "market_reference": 223012,
+        "notes": "integrate seamless info-mediaries",
+        "number": "3629-1844",
+        "reference": 197792,
+        "vat_no": "ug66955584252"
+    },
+    "payment": {
+        "net_total": 194.27,
+        "total": 899.44
+    },
+    "products": [
+        {
+            "amount": 477.94,
+            "description": "disintermediate distributed convergence",
+            "hours": 5.09,
+            "rate": 6.78
+        },
+        {
+            "amount": 87.32,
+            "description": "enable cross-platform networks",
+            "hours": 8.71,
+            "rate": 5.0
+        },
+        {
+            "amount": 115.69,
+            "description": "utilize next-generation e-tailers",
+            "hours": 3.0,
+            "rate": 5.73
+        },
+        {
+            "amount": 19.9,
+            "description": "deploy world-class networks",
+            "hours": 7.48,
+            "rate": 2.94
+        }
+    ],
+    "seller": {
+        "address": "6039 Ponce Rue Apt. 137 Danielshire, OR 66769",
+        "email": "jefferycrosby@example.net",
+        "name": "Mr. James Gonzalez"
+    },
+    "tax": {
+        "base": 24.04,
+        "tax_amount": 21.31,
+        "total_tax": 17.2
+    }
+}

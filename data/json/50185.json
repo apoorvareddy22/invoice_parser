@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "63973 Brandon Divide Suite 549 Christopherfurt, WV 97280",
+        "id": "uw046"
+    },
+    "invoice": {
+        "bc_no": "MD23279",
+        "currency_code": "ARS",
+        "date": "23.09.1998",
+        "due_date": "16.03.1999",
+        "number": 810381
+    },
+    "payment": {
+        "bank_name": "Whitaker-Medina",
+        "bic": "WSTBGBC8",
+        "iban": "WEWF06610285386538"
+    },
+    "products": [
+        {
+            "amount": 457.38,
+            "description": "enhance user-centric channels",
+            "index": "8",
+            "price": 113.99,
+            "quantity": 9.95,
+            "tax_amount": 92.56,
+            "total_ttc": 147.16,
+            "vat_amount": 0.3
+        }
+    ],
+    "seller": {
+        "name": "Shelby Cuevas"
+    },
+    "supplier": {
+        "address": "63722 Joshua Falls North Donnaborough, WI 40559",
+        "name": "Elizabeth Melendez"
+    },
+    "tax": {
+        "amount_excluding_tax": 144.52,
+        "amount_including_tax": 29.28,
+        "tax_amount": 22.88,
+        "total_ht": 326.66,
+        "total_ttc": 425.4
+    }
+}

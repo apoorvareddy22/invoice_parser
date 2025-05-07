@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "8399 Shannon Dam Suite 726 Whiteside, NJ 49805"
+    },
+    "invoice": {
+        "bc_no": "gy78907",
+        "date": "04.08.2013",
+        "maturity_date": "04.07.2002",
+        "number": 936455
+    },
+    "products": [
+        {
+            "amount": 362.13,
+            "description": "redefine proactive interfaces",
+            "quantity": 2.01,
+            "unit_price": 86.61,
+            "vat_amount": 2.51
+        },
+        {
+            "amount": 432.77,
+            "description": "exploit plug-and-play e-commerce",
+            "quantity": 9.58,
+            "unit_price": 87.23,
+            "vat_amount": 1.34
+        },
+        {
+            "amount": 369.96,
+            "description": "target 24/7 web services",
+            "quantity": 7.11,
+            "unit_price": 96.04,
+            "vat_amount": 0.05
+        },
+        {
+            "amount": 20.06,
+            "description": "redefine e-business paradigms",
+            "quantity": 7.4,
+            "unit_price": 92.59,
+            "vat_amount": 4.82
+        }
+    ],
+    "seller": {
+        "address": "5512 Jose Stravenue Amandabury, CO 49889"
+    },
+    "tax": {
+        "amount_excluding_tax": 134.76,
+        "amount_including_tax": 99.64,
+        "tax_amount": 17.34
+    }
+}

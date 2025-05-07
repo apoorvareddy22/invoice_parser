@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "Unit 4097 Box 9892 DPO AP 18257",
+        "company_name": "Cooper Ltd",
+        "email": "joannerussell@example.com",
+        "name": "Joan Davis",
+        "phone": "+1-254-779-4703x346"
+    },
+    "invoice": {
+        "date": "14.07.2015",
+        "due_date": "13.07.2015",
+        "number": "oAN06858253268"
+    },
+    "payment": {
+        "account_number": 4629576662,
+        "bank_name": "Kelly, White and Thomas",
+        "routing_number": 161283866
+    },
+    "products": [
+        {
+            "amount": 121.12,
+            "description": "monetize collaborative synergies",
+            "index": "6",
+            "quantity": 2.28,
+            "unit_price": 82.33
+        },
+        {
+            "amount": 72.29,
+            "description": "unleash granular markets",
+            "index": "5",
+            "quantity": 8.56,
+            "unit_price": 99.95
+        },
+        {
+            "amount": 363.9,
+            "description": "mesh value-added action-items",
+            "index": "4",
+            "quantity": 8.31,
+            "unit_price": 43.8
+        }
+    ],
+    "seller": {
+        "address": "19579 Smith Groves Lake Catherine, CA 07045",
+        "company_name": "Clark PLC",
+        "email": "ryan83@example.org"
+    }
+}

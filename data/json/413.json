@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "846 Charles Rue Haroldville, NC 39991",
+        "company_name": "Lee and Sons",
+        "country": "Colombia",
+        "name": "Jodi Washington"
+    },
+    "invoice": {
+        "date": "03.12.2000",
+        "number": 478469
+    },
+    "payment": {
+        "discount_amount": 14.37,
+        "discount_percentage": 19.51,
+        "due": 79.38,
+        "sub_total": 69.51,
+        "total": 997.86
+    },
+    "products": [
+        {
+            "description": "re-intermediate intuitive functionalities",
+            "index": "1",
+            "quantity": 4.04,
+            "total_price": 141.93,
+            "unit_price": 34.28
+        },
+        {
+            "description": "exploit vertical deliverables",
+            "index": "9",
+            "quantity": 1.0,
+            "total_price": 89.13,
+            "unit_price": 40.88
+        }
+    ],
+    "seller": {
+        "address": "611 Edwards Groves Suite 878 Andersonmouth, KS 74849",
+        "company_name": "Garcia PLC",
+        "vat_no": "Nd46018928785"
+    }
+}

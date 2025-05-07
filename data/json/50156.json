@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "7487 Timothy Cliff East Austin, GA 30470",
+        "id": "kp364"
+    },
+    "invoice": {
+        "bc_no": "mS73341",
+        "currency_code": "ISK",
+        "date": "08.01.2009",
+        "due_date": "10.02.1990",
+        "number": 191067
+    },
+    "payment": {
+        "bank_name": "Reynolds-Colon",
+        "bic": "YUHUGB3G",
+        "iban": "JARZ50665237370128"
+    },
+    "products": [
+        {
+            "amount": 437.99,
+            "description": "maximize robust action-items",
+            "index": "9",
+            "price": 307.43,
+            "quantity": 8.87,
+            "tax_amount": 23.65,
+            "total_ttc": 291.73,
+            "vat_amount": 6.98
+        },
+        {
+            "amount": 11.09,
+            "description": "extend bricks-and-clicks e-markets",
+            "index": "2",
+            "price": 304.06,
+            "quantity": 8.92,
+            "tax_amount": 53.29,
+            "total_ttc": 438.86,
+            "vat_amount": 4.39
+        },
+        {
+            "amount": 489.19,
+            "description": "expedite B2B vortals",
+            "index": "4",
+            "price": 387.43,
+            "quantity": 5.29,
+            "tax_amount": 28.69,
+            "total_ttc": 342.2,
+            "vat_amount": 2.11
+        }
+    ],
+    "seller": {
+        "name": "Sue King"
+    },
+    "supplier": {
+        "address": "387 Campbell Fields Apt. 431 Bethanytown, WV 74505",
+        "name": "Robert Anderson"
+    },
+    "tax": {
+        "amount_excluding_tax": 126.37,
+        "amount_including_tax": 44.18,
+        "tax_amount": 19.12,
+        "total_ht": 387.65,
+        "total_ttc": 485.06
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "90881 Phillips Heights Apt. 624 Jamestown, WI 33198",
+        "business_no": "gH330",
+        "id": "DT382"
+    },
+    "invoice": {
+        "date": "26.01.1992",
+        "number": "9296-9226"
+    },
+    "payment": {
+        "due_date": "15.12.2019",
+        "total": 692.98
+    },
+    "products": [
+        {
+            "amount": 480.41,
+            "description": "extend enterprise markets",
+            "quantity": 4.67,
+            "reference": "rx-030",
+            "unit_price": 76.68
+        },
+        {
+            "amount": 15.39,
+            "description": "visualize frictionless partnerships",
+            "quantity": 4.22,
+            "reference": "NM-511",
+            "unit_price": 86.61
+        },
+        {
+            "amount": 31.16,
+            "description": "iterate back-end metrics",
+            "quantity": 4.42,
+            "reference": "kO-932",
+            "unit_price": 81.44
+        },
+        {
+            "amount": 157.24,
+            "description": "streamline front-end vortals",
+            "quantity": 6.59,
+            "reference": "GA-232",
+            "unit_price": 42.97
+        },
+        {
+            "amount": 48.22,
+            "description": "enhance extensible channels",
+            "quantity": 8.93,
+            "reference": "fD-502",
+            "unit_price": 30.16
+        },
+        {
+            "amount": 158.79,
+            "description": "orchestrate ubiquitous interfaces",
+            "quantity": 4.31,
+            "reference": "wS-562",
+            "unit_price": 90.35
+        },
+        {
+            "amount": 245.9,
+            "description": "harness end-to-end info-mediaries",
+            "quantity": 3.19,
+            "reference": "Ki-787",
+            "unit_price": 87.83
+        }
+    ],
+    "seller": {
+        "address": "4904 Reed Ramp Port Danielview, IA 90635"
+    },
+    "tax": {
+        "base_ht": 117.2,
+        "regulations": 25.77,
+        "total_ht": 498.95,
+        "vat_amount": 173.07,
+        "vat_percentage": 29.32
+    }
+}

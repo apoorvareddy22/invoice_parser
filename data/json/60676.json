@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "713 Martinez Viaduct Bradleytown, RI 58851",
+        "business_no": "SE431",
+        "id": "Rf225"
+    },
+    "invoice": {
+        "date": "07.02.1991",
+        "number": "4023-4557"
+    },
+    "payment": {
+        "due_date": "25.11.1990",
+        "total": 138.55
+    },
+    "products": [
+        {
+            "amount": 211.57,
+            "description": "redefine out-of-the-box bandwidth",
+            "quantity": 4.88,
+            "reference": "Mx-666",
+            "unit_price": 27.85
+        },
+        {
+            "amount": 88.06,
+            "description": "benchmark impactful web services",
+            "quantity": 5.24,
+            "reference": "pO-531",
+            "unit_price": 11.8
+        },
+        {
+            "amount": 82.27,
+            "description": "facilitate virtual bandwidth",
+            "quantity": 8.9,
+            "reference": "ta-119",
+            "unit_price": 56.28
+        }
+    ],
+    "seller": {
+        "address": "54211 Gomez Canyon Suite 363 South Williamhaven, NV 37847"
+    },
+    "tax": {
+        "base_ht": 182.4,
+        "regulations": 29.28,
+        "total_ht": 472.8,
+        "vat_amount": 21.59,
+        "vat_percentage": 26.84
+    }
+}

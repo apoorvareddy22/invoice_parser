@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "436 Kevin Mountains East Margaret, MN 73074",
+        "business_no": "QP091",
+        "id": "hR319"
+    },
+    "invoice": {
+        "date": "07.11.2017",
+        "number": "1320-5405"
+    },
+    "payment": {
+        "due_date": "19.08.2008",
+        "total": 337.16
+    },
+    "products": [
+        {
+            "amount": 332.6,
+            "description": "incentivize efficient markets",
+            "quantity": 2.06,
+            "reference": "St-372",
+            "unit_price": 69.25
+        },
+        {
+            "amount": 217.26,
+            "description": "extend extensible deliverables",
+            "quantity": 8.23,
+            "reference": "Rs-703",
+            "unit_price": 77.75
+        }
+    ],
+    "seller": {
+        "address": "61680 Tara Burg Lake Joseph, MN 07716"
+    },
+    "tax": {
+        "base_ht": 474.82,
+        "regulations": 13.93,
+        "total_ht": 242.53,
+        "vat_amount": 105.29,
+        "vat_percentage": 19.18
+    }
+}

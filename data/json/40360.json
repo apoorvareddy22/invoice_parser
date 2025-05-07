@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "9020 Nicole Neck Apt. 230 Port Maryhaven, NY 45030"
+    },
+    "invoice": {
+        "bc_no": "lu39040",
+        "date": "10.01.2016",
+        "maturity_date": "09.06.2020",
+        "number": 848787
+    },
+    "products": [
+        {
+            "amount": 64.55,
+            "description": "mesh web-enabled synergies",
+            "quantity": 5.18,
+            "unit_price": 33.48,
+            "vat_amount": 10.94
+        }
+    ],
+    "seller": {
+        "address": "Unit 1998 Box 6794 DPO AE 63345"
+    },
+    "tax": {
+        "amount_excluding_tax": 173.65,
+        "amount_including_tax": 196.52,
+        "tax_amount": 20.24
+    }
+}

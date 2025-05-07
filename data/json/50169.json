@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "45212 Michelle Burg Petersonborough, FM 82214",
+        "id": "uk030"
+    },
+    "invoice": {
+        "bc_no": "lz16820",
+        "currency_code": "GYD",
+        "date": "15.06.2023",
+        "due_date": "24.01.2008",
+        "number": 244199
+    },
+    "payment": {
+        "bank_name": "Ewing-Jackson",
+        "bic": "SZWXGB8D",
+        "iban": "JJAQ37652377508607"
+    },
+    "products": [
+        {
+            "amount": 109.9,
+            "description": "productize cross-media convergence",
+            "index": "1",
+            "price": 337.22,
+            "quantity": 5.22,
+            "tax_amount": 86.01,
+            "total_ttc": 102.24,
+            "vat_amount": 3.11
+        },
+        {
+            "amount": 462.51,
+            "description": "streamline integrated schemas",
+            "index": "8",
+            "price": 14.4,
+            "quantity": 5.26,
+            "tax_amount": 98.14,
+            "total_ttc": 131.75,
+            "vat_amount": 3.36
+        }
+    ],
+    "seller": {
+        "name": "Alyssa Bates"
+    },
+    "supplier": {
+        "address": "425 Jorge Crest West Danny, VI 64197",
+        "name": "William Rowland"
+    },
+    "tax": {
+        "amount_excluding_tax": 71.02,
+        "amount_including_tax": 23.52,
+        "tax_amount": 14.2,
+        "total_ht": 187.18,
+        "total_ttc": 333.06
+    }
+}

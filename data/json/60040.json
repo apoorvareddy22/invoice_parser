@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "5240 William Locks Mosleyfurt, VA 82206",
+        "business_no": "dU889",
+        "id": "eW893"
+    },
+    "invoice": {
+        "date": "13.05.1992",
+        "number": "6495-9453"
+    },
+    "payment": {
+        "due_date": "15.05.2001",
+        "total": 121.0
+    },
+    "products": [
+        {
+            "amount": 379.3,
+            "description": "iterate value-added communities",
+            "quantity": 3.48,
+            "reference": "Sn-488",
+            "unit_price": 83.58
+        },
+        {
+            "amount": 489.29,
+            "description": "syndicate global e-commerce",
+            "quantity": 6.96,
+            "reference": "Iw-622",
+            "unit_price": 91.61
+        }
+    ],
+    "seller": {
+        "address": "831 Diane Bridge Johnsonfort, TN 47701"
+    },
+    "tax": {
+        "base_ht": 207.41,
+        "regulations": 16.51,
+        "total_ht": 356.81,
+        "vat_amount": 101.37,
+        "vat_percentage": 25.82
+    }
+}

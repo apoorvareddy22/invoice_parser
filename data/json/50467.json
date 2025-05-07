@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "41778 Mccall Hills Port Christophertown, CT 05611",
+        "id": "rc717"
+    },
+    "invoice": {
+        "bc_no": "eM99231",
+        "currency_code": "GGP",
+        "date": "10.06.2007",
+        "due_date": "31.01.2007",
+        "number": 675600
+    },
+    "payment": {
+        "bank_name": "Garcia-Ford",
+        "bic": "SQGVGBJY",
+        "iban": "BBFA29526754956169"
+    },
+    "products": [
+        {
+            "amount": 185.97,
+            "description": "maximize dot-com infrastructures",
+            "index": "5",
+            "price": 115.72,
+            "quantity": 3.48,
+            "tax_amount": 85.15,
+            "total_ttc": 352.81,
+            "vat_amount": 8.32
+        },
+        {
+            "amount": 128.94,
+            "description": "facilitate magnetic paradigms",
+            "index": "3",
+            "price": 293.1,
+            "quantity": 8.04,
+            "tax_amount": 55.19,
+            "total_ttc": 371.96,
+            "vat_amount": 0.16
+        }
+    ],
+    "seller": {
+        "name": "Kristen Saunders"
+    },
+    "supplier": {
+        "address": "34480 Roberts Unions Vasquezview, OR 68923",
+        "name": "Sarah Anderson"
+    },
+    "tax": {
+        "amount_excluding_tax": 172.72,
+        "amount_including_tax": 49.66,
+        "tax_amount": 12.6,
+        "total_ht": 127.83,
+        "total_ttc": 308.13
+    }
+}

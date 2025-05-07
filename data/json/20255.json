@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "PSC 6410, Box 4553 APO AE 36108",
+        "company_name": "Moore Ltd",
+        "email": "linbrooke@example.com",
+        "name": "Ruth Berry",
+        "phone": "(664)576-5570x2049"
+    },
+    "invoice": {
+        "date": "18.10.2006",
+        "due_date": "01.12.1997",
+        "number": "cwv07064604419"
+    },
+    "payment": {
+        "account_number": 9147249165,
+        "bank_name": "Jones-Huerta",
+        "routing_number": 390323554
+    },
+    "products": [
+        {
+            "amount": 249.4,
+            "description": "synergize strategic web services",
+            "index": "10",
+            "quantity": 6.91,
+            "unit_price": 58.98
+        },
+        {
+            "amount": 416.5,
+            "description": "enhance user-centric interfaces",
+            "index": "7",
+            "quantity": 4.26,
+            "unit_price": 69.66
+        },
+        {
+            "amount": 316.95,
+            "description": "empower 24/365 info-mediaries",
+            "index": "3",
+            "quantity": 1.91,
+            "unit_price": 47.3
+        },
+        {
+            "amount": 263.77,
+            "description": "aggregate distributed e-markets",
+            "index": "6",
+            "quantity": 3.84,
+            "unit_price": 98.41
+        }
+    ],
+    "seller": {
+        "address": "53032 Edwards Cliffs Apt. 677 New Cassandrahaven, MD 11085",
+        "company_name": "Foster, Mendez and Morris",
+        "email": "sarahstevens@example.com"
+    }
+}

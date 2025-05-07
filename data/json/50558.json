@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "083 Hines Wall Williamhaven, RI 64424",
+        "id": "Su011"
+    },
+    "invoice": {
+        "bc_no": "Vq23606",
+        "currency_code": "DKK",
+        "date": "06.04.1992",
+        "due_date": "25.02.2014",
+        "number": 342947
+    },
+    "payment": {
+        "bank_name": "Gaines-Rodriguez",
+        "bic": "UTTMGBW7",
+        "iban": "OSRK48241399546129"
+    },
+    "products": [
+        {
+            "amount": 386.58,
+            "description": "implement extensible systems",
+            "index": "2",
+            "price": 399.35,
+            "quantity": 3.54,
+            "tax_amount": 65.96,
+            "total_ttc": 495.3,
+            "vat_amount": 1.58
+        }
+    ],
+    "seller": {
+        "name": "Jason Patel"
+    },
+    "supplier": {
+        "address": "97488 Rogers Track Charlestown, CT 56906",
+        "name": "Debra Hutchinson"
+    },
+    "tax": {
+        "amount_excluding_tax": 103.46,
+        "amount_including_tax": 82.4,
+        "tax_amount": 14.41,
+        "total_ht": 411.35,
+        "total_ttc": 466.21
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "425 Johnson Knoll Lake Charles, LA 85278",
+        "company_name": "Ball PLC",
+        "email": "cunninghamdonald@example.com",
+        "name": "Linda Johnson",
+        "phone": "4913418826"
+    },
+    "invoice": {
+        "date": "09.11.1995",
+        "due_date": "13.12.2004",
+        "number": "elE99667126504"
+    },
+    "payment": {
+        "account_number": 8905031719,
+        "bank_name": "Small, Anderson and Rodriguez",
+        "routing_number": 529055110
+    },
+    "products": [
+        {
+            "amount": 372.36,
+            "description": "expedite proactive experiences",
+            "index": "3",
+            "quantity": 6.11,
+            "unit_price": 54.33
+        }
+    ],
+    "seller": {
+        "address": "270 Barbara Shoal Suite 152 Hestershire, MD 30618",
+        "company_name": "Hamilton-Gutierrez",
+        "email": "whitneybrown@example.com"
+    }
+}

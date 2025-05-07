@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "38543 Lindsay Union Suite 783 South Gregoryberg, CT 76659",
+        "company_name": "Scott Inc",
+        "email": "amber03@example.org",
+        "name": "Judith Sexton",
+        "phone": "672.844.0027"
+    },
+    "invoice": {
+        "date": "01.08.2021",
+        "due_date": "15.10.2006",
+        "number": "orF11856023136"
+    },
+    "payment": {
+        "account_number": 5213028597,
+        "bank_name": "Romero, George and Sanchez",
+        "routing_number": 381925472
+    },
+    "products": [
+        {
+            "amount": 91.84,
+            "description": "transform web-enabled users",
+            "index": "4",
+            "quantity": 8.45,
+            "unit_price": 42.87
+        },
+        {
+            "amount": 366.67,
+            "description": "re-contextualize global markets",
+            "index": "4",
+            "quantity": 3.2,
+            "unit_price": 92.72
+        },
+        {
+            "amount": 24.67,
+            "description": "re-intermediate collaborative portals",
+            "index": "8",
+            "quantity": 3.35,
+            "unit_price": 64.42
+        }
+    ],
+    "seller": {
+        "address": "69171 Valencia Extensions Lake John, PW 75036",
+        "company_name": "Phillips and Sons",
+        "email": "milleredward@example.com"
+    }
+}

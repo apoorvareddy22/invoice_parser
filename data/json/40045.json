@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "5461 Sherry Villages East Savannah, MD 54440"
+    },
+    "invoice": {
+        "bc_no": "Gf34895",
+        "date": "13.07.2007",
+        "maturity_date": "25.08.2022",
+        "number": 333493
+    },
+    "products": [
+        {
+            "amount": 13.7,
+            "description": "morph bricks-and-clicks e-services",
+            "quantity": 2.34,
+            "unit_price": 31.43,
+            "vat_amount": 3.14
+        },
+        {
+            "amount": 298.86,
+            "description": "re-intermediate sticky methodologies",
+            "quantity": 5.39,
+            "unit_price": 35.48,
+            "vat_amount": 5.19
+        }
+    ],
+    "seller": {
+        "address": "8087 Sutton Walks New Joshua, IN 48318"
+    },
+    "tax": {
+        "amount_excluding_tax": 162.87,
+        "amount_including_tax": 75.76,
+        "tax_amount": 25.75
+    }
+}

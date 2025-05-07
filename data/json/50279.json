@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "56905 Kevin Greens Suite 681 Port Ethanfort, NC 78626",
+        "id": "Rw246"
+    },
+    "invoice": {
+        "bc_no": "vi95269",
+        "currency_code": "BIF",
+        "date": "31.10.2020",
+        "due_date": "26.02.1993",
+        "number": 837203
+    },
+    "payment": {
+        "bank_name": "Price-White",
+        "bic": "CEDFGBAB",
+        "iban": "GIGB84019834882542"
+    },
+    "products": [
+        {
+            "amount": 150.53,
+            "description": "incentivize distributed interfaces",
+            "index": "7",
+            "price": 42.49,
+            "quantity": 6.83,
+            "tax_amount": 77.48,
+            "total_ttc": 164.5,
+            "vat_amount": 1.37
+        },
+        {
+            "amount": 91.84,
+            "description": "incentivize revolutionary communities",
+            "index": "7",
+            "price": 151.39,
+            "quantity": 1.29,
+            "tax_amount": 40.54,
+            "total_ttc": 336.45,
+            "vat_amount": 2.82
+        },
+        {
+            "amount": 337.5,
+            "description": "evolve enterprise markets",
+            "index": "4",
+            "price": 404.36,
+            "quantity": 3.15,
+            "tax_amount": 21.75,
+            "total_ttc": 333.62,
+            "vat_amount": 9.05
+        }
+    ],
+    "seller": {
+        "name": "Matthew Sellers"
+    },
+    "supplier": {
+        "address": "USS Martinez FPO AE 98998",
+        "name": "Laura Reese"
+    },
+    "tax": {
+        "amount_excluding_tax": 163.27,
+        "amount_including_tax": 170.06,
+        "tax_amount": 14.13,
+        "total_ht": 382.51,
+        "total_ttc": 106.36
+    }
+}

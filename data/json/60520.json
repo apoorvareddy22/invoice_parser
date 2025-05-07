@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "019 Donald Grove Suite 820 Reynoldsborough, MN 42683",
+        "business_no": "wL416",
+        "id": "fP087"
+    },
+    "invoice": {
+        "date": "15.09.1990",
+        "number": "7155-3224"
+    },
+    "payment": {
+        "due_date": "08.02.2008",
+        "total": 458.27
+    },
+    "products": [
+        {
+            "amount": 334.45,
+            "description": "visualize dot-com experiences",
+            "quantity": 7.55,
+            "reference": "KG-182",
+            "unit_price": 36.68
+        }
+    ],
+    "seller": {
+        "address": "5547 Richard Alley Port Heatherview, CO 90762"
+    },
+    "tax": {
+        "base_ht": 459.58,
+        "regulations": 23.58,
+        "total_ht": 359.38,
+        "vat_amount": 45.27,
+        "vat_percentage": 14.03
+    }
+}

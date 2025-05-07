@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "PSC 3286, Box 9046 APO AE 95304",
+        "company_name": "Walter-Rush",
+        "email": "mwilliams@example.com",
+        "name": "Margaret Grant",
+        "phone": "3436334499"
+    },
+    "invoice": {
+        "date": "17.07.2002",
+        "due_date": "16.01.2001",
+        "number": "AwS71981316815"
+    },
+    "payment": {
+        "account_number": 7224746020,
+        "bank_name": "Howe-Suarez",
+        "routing_number": 736902703
+    },
+    "products": [
+        {
+            "amount": 397.09,
+            "description": "grow innovative e-commerce",
+            "index": "1",
+            "quantity": 5.4,
+            "unit_price": 25.24
+        },
+        {
+            "amount": 418.7,
+            "description": "leverage intuitive users",
+            "index": "2",
+            "quantity": 3.74,
+            "unit_price": 31.56
+        },
+        {
+            "amount": 111.34,
+            "description": "redefine open-source platforms",
+            "index": "10",
+            "quantity": 6.14,
+            "unit_price": 81.49
+        },
+        {
+            "amount": 222.79,
+            "description": "reinvent web-enabled web services",
+            "index": "6",
+            "quantity": 4.11,
+            "unit_price": 17.97
+        },
+        {
+            "amount": 106.95,
+            "description": "morph B2B niches",
+            "index": "8",
+            "quantity": 4.18,
+            "unit_price": 13.63
+        },
+        {
+            "amount": 435.68,
+            "description": "leverage next-generation models",
+            "index": "1",
+            "quantity": 2.87,
+            "unit_price": 52.86
+        }
+    ],
+    "seller": {
+        "address": "1224 Jessica Shore Suite 487 Shafferburgh, IN 58254",
+        "company_name": "Daniels and Sons",
+        "email": "martinstephanie@example.com"
+    }
+}

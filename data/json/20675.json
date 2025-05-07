@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "746 Charles Mountain Apt. 435 East Christine, GA 15492",
+        "company_name": "Brock-Jones",
+        "email": "xallen@example.net",
+        "name": "Christine Wyatt",
+        "phone": "(736)362-6829"
+    },
+    "invoice": {
+        "date": "03.10.2023",
+        "due_date": "10.02.2016",
+        "number": "jrm87709562750"
+    },
+    "payment": {
+        "account_number": 7765015086,
+        "bank_name": "Adkins Inc",
+        "routing_number": 213076566
+    },
+    "products": [
+        {
+            "amount": 119.51,
+            "description": "grow B2B communities",
+            "index": "8",
+            "quantity": 2.6,
+            "unit_price": 47.06
+        },
+        {
+            "amount": 194.89,
+            "description": "synthesize plug-and-play markets",
+            "index": "5",
+            "quantity": 1.72,
+            "unit_price": 85.91
+        },
+        {
+            "amount": 297.3,
+            "description": "e-enable impactful technologies",
+            "index": "2",
+            "quantity": 5.62,
+            "unit_price": 98.11
+        },
+        {
+            "amount": 30.65,
+            "description": "redefine compelling architectures",
+            "index": "5",
+            "quantity": 5.38,
+            "unit_price": 15.62
+        }
+    ],
+    "seller": {
+        "address": "94084 Carrie Radial Suite 395 Davisshire, DE 04695",
+        "company_name": "Morgan-Thomas",
+        "email": "steven00@example.org"
+    }
+}

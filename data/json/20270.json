@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "08180 Watkins Coves Apt. 806 North Robin, NY 04107",
+        "company_name": "Nelson Ltd",
+        "email": "martinezkaitlyn@example.org",
+        "name": "Kristin Evans",
+        "phone": "477-354-9559x41935"
+    },
+    "invoice": {
+        "date": "01.10.2012",
+        "due_date": "01.01.1998",
+        "number": "Vun45697095609"
+    },
+    "payment": {
+        "account_number": 2141818073,
+        "bank_name": "Miller, Clark and Davis",
+        "routing_number": 420756912
+    },
+    "products": [
+        {
+            "amount": 291.38,
+            "description": "maximize strategic solutions",
+            "index": "2",
+            "quantity": 5.72,
+            "unit_price": 34.2
+        },
+        {
+            "amount": 117.88,
+            "description": "innovate magnetic applications",
+            "index": "7",
+            "quantity": 6.29,
+            "unit_price": 13.35
+        }
+    ],
+    "seller": {
+        "address": "PSC 4521, Box 0904 APO AA 78326",
+        "company_name": "Joseph, Gonzalez and Swanson",
+        "email": "ncook@example.net"
+    }
+}

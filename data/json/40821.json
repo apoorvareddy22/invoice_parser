@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "08241 Jon Skyway Suite 353 Jonathanstad, OH 39960"
+    },
+    "invoice": {
+        "bc_no": "Td37837",
+        "date": "31.08.1997",
+        "maturity_date": "04.02.2013",
+        "number": 155490
+    },
+    "products": [
+        {
+            "amount": 373.94,
+            "description": "syndicate bleeding-edge synergies",
+            "quantity": 5.06,
+            "unit_price": 26.42,
+            "vat_amount": 1.45
+        },
+        {
+            "amount": 339.36,
+            "description": "mesh user-centric e-services",
+            "quantity": 6.57,
+            "unit_price": 36.84,
+            "vat_amount": 11.28
+        },
+        {
+            "amount": 18.65,
+            "description": "generate distributed methodologies",
+            "quantity": 4.53,
+            "unit_price": 25.24,
+            "vat_amount": 4.01
+        }
+    ],
+    "seller": {
+        "address": "3326 Alyssa Forest Yolandaland, KY 01539"
+    },
+    "tax": {
+        "amount_excluding_tax": 153.92,
+        "amount_including_tax": 84.96,
+        "tax_amount": 24.45
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "698 Matthew Viaduct East Julie, OH 70597"
+    },
+    "invoice": {
+        "bc_no": "cw56150",
+        "date": "06.06.2000",
+        "maturity_date": "24.07.1996",
+        "number": 892397
+    },
+    "products": [
+        {
+            "amount": 463.13,
+            "description": "repurpose end-to-end ROI",
+            "quantity": 6.56,
+            "unit_price": 78.27,
+            "vat_amount": 3.21
+        }
+    ],
+    "seller": {
+        "address": "371 Kristen Port Apt. 755 Lake Connie, DC 69333"
+    },
+    "tax": {
+        "amount_excluding_tax": 178.66,
+        "amount_including_tax": 96.18,
+        "tax_amount": 15.77
+    }
+}

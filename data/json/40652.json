@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "168 Villegas Points Omartown, NV 54079"
+    },
+    "invoice": {
+        "bc_no": "AS76034",
+        "date": "08.05.2007",
+        "maturity_date": "06.02.2017",
+        "number": 606048
+    },
+    "products": [
+        {
+            "amount": 184.53,
+            "description": "incubate leading-edge paradigms",
+            "quantity": 2.13,
+            "unit_price": 87.99,
+            "vat_amount": 5.47
+        },
+        {
+            "amount": 249.25,
+            "description": "grow magnetic solutions",
+            "quantity": 3.72,
+            "unit_price": 32.15,
+            "vat_amount": 6.01
+        },
+        {
+            "amount": 138.65,
+            "description": "visualize holistic users",
+            "quantity": 7.5,
+            "unit_price": 24.28,
+            "vat_amount": 14.45
+        },
+        {
+            "amount": 254.45,
+            "description": "aggregate end-to-end mindshare",
+            "quantity": 7.17,
+            "unit_price": 20.35,
+            "vat_amount": 1.56
+        }
+    ],
+    "seller": {
+        "address": "60320 Thompson Wall New Ashley, PW 67100"
+    },
+    "tax": {
+        "amount_excluding_tax": 139.8,
+        "amount_including_tax": 62.29,
+        "tax_amount": 20.3
+    }
+}

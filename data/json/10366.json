@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "523 Roberts Mall Alisonburgh, GU 86318",
+        "email": "richardjohnson@example.net",
+        "phone": "7005883568",
+        "vat_no": "Sr15420618705"
+    },
+    "invoice": {
+        "date": "23.12.2011",
+        "due_date": "04.02.2017",
+        "market_reference": 554799,
+        "notes": "implement visionary e-markets",
+        "number": "6038-1126",
+        "reference": 120677,
+        "vat_no": "zp00434047025"
+    },
+    "payment": {
+        "net_total": 156.97,
+        "total": 829.23
+    },
+    "products": [
+        {
+            "amount": 80.88,
+            "description": "scale innovative channels",
+            "hours": 7.43,
+            "rate": 8.96
+        },
+        {
+            "amount": 290.49,
+            "description": "utilize frictionless networks",
+            "hours": 1.22,
+            "rate": 9.79
+        },
+        {
+            "amount": 14.04,
+            "description": "cultivate customized relationships",
+            "hours": 2.01,
+            "rate": 9.1
+        }
+    ],
+    "seller": {
+        "address": "585 Tony Trail Suite 133 Mckenzieport, GA 77619",
+        "email": "odoyle@example.com",
+        "name": "Jennifer Wood"
+    },
+    "tax": {
+        "base": 25.42,
+        "tax_amount": 21.74,
+        "total_tax": 14.38
+    }
+}

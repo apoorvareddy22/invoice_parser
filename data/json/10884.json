@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "2938 Thompson Locks Weaverburgh, VA 22069",
+        "email": "bradleymadden@example.com",
+        "phone": "(591)872-9824x9277",
+        "vat_no": "qg81380030550"
+    },
+    "invoice": {
+        "date": "18.08.2004",
+        "due_date": "11.06.2010",
+        "market_reference": 736292,
+        "notes": "utilize real-time e-business",
+        "number": "0154-7711",
+        "reference": 516488,
+        "vat_no": "hE12945644936"
+    },
+    "payment": {
+        "net_total": 20.03,
+        "total": 333.26
+    },
+    "products": [
+        {
+            "amount": 229.87,
+            "description": "innovate mission-critical solutions",
+            "hours": 7.96,
+            "rate": 8.5
+        }
+    ],
+    "seller": {
+        "address": "427 Lisa Knoll Apt. 409 Rushhaven, RI 79689",
+        "email": "bjackson@example.com",
+        "name": "Barbara Smith"
+    },
+    "tax": {
+        "base": 24.55,
+        "tax_amount": 19.24,
+        "total_tax": 13.75
+    }
+}

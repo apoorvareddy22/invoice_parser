@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "88331 Duncan Hills Suite 274 Williamberg, NJ 00526",
+        "company_name": "Montgomery Group",
+        "country": "Panama",
+        "name": "Maria White"
+    },
+    "invoice": {
+        "date": "04.06.2009",
+        "number": 561358
+    },
+    "payment": {
+        "discount_amount": 33.12,
+        "discount_percentage": 15.26,
+        "due": 59.85,
+        "sub_total": 60.77,
+        "total": 467.78
+    },
+    "products": [
+        {
+            "description": "exploit collaborative solutions",
+            "index": "2",
+            "quantity": 5.64,
+            "total_price": 959.05,
+            "unit_price": 26.94
+        }
+    ],
+    "seller": {
+        "address": "8600 Joel Curve East Daniel, WI 81677",
+        "company_name": "Morris Inc",
+        "vat_no": "or76187534592"
+    }
+}

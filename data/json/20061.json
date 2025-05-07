@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "59409 Nelson Causeway Taylorstad, CT 24225",
+        "company_name": "Foster PLC",
+        "email": "dzhang@example.net",
+        "name": "Mario Kelly",
+        "phone": "2163830885"
+    },
+    "invoice": {
+        "date": "02.05.2015",
+        "due_date": "05.11.1990",
+        "number": "CMR20345942477"
+    },
+    "payment": {
+        "account_number": 6721543355,
+        "bank_name": "Valenzuela, Johnson and Wagner",
+        "routing_number": 498005929
+    },
+    "products": [
+        {
+            "amount": 144.71,
+            "description": "extend cutting-edge niches",
+            "index": "8",
+            "quantity": 7.06,
+            "unit_price": 96.29
+        },
+        {
+            "amount": 269.74,
+            "description": "deliver front-end convergence",
+            "index": "3",
+            "quantity": 6.26,
+            "unit_price": 83.46
+        }
+    ],
+    "seller": {
+        "address": "81389 Eric Corner Apt. 493 Richardsland, MA 53047",
+        "company_name": "Bates, White and Ware",
+        "email": "jay91@example.org"
+    }
+}

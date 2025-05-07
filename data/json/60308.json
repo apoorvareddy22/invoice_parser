@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "7695 Rebecca Alley North Christopher, CT 75068",
+        "business_no": "gZ685",
+        "id": "iu009"
+    },
+    "invoice": {
+        "date": "23.07.1998",
+        "number": "1243-5774"
+    },
+    "payment": {
+        "due_date": "15.01.2017",
+        "total": 708.48
+    },
+    "products": [
+        {
+            "amount": 116.26,
+            "description": "syndicate revolutionary synergies",
+            "quantity": 6.82,
+            "reference": "Rj-788",
+            "unit_price": 33.41
+        },
+        {
+            "amount": 259.77,
+            "description": "re-intermediate leading-edge methodologies",
+            "quantity": 6.01,
+            "reference": "QU-477",
+            "unit_price": 49.25
+        },
+        {
+            "amount": 477.01,
+            "description": "whiteboard extensible networks",
+            "quantity": 6.26,
+            "reference": "LF-331",
+            "unit_price": 89.7
+        }
+    ],
+    "seller": {
+        "address": "USNS Erickson FPO AP 98937"
+    },
+    "tax": {
+        "base_ht": 202.66,
+        "regulations": 24.79,
+        "total_ht": 309.68,
+        "vat_amount": 56.66,
+        "vat_percentage": 21.02
+    }
+}

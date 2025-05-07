@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "29045 Brianna Forest South Robertfort, GA 49079",
+        "email": "justinvega@example.org",
+        "phone": "001-681-404-5602",
+        "vat_no": "ib36574456516"
+    },
+    "invoice": {
+        "date": "04.11.1995",
+        "due_date": "07.07.2014",
+        "market_reference": 106295,
+        "notes": "harness ubiquitous networks",
+        "number": "6074-6162",
+        "reference": 356532,
+        "vat_no": "tS31533647805"
+    },
+    "payment": {
+        "net_total": 35.8,
+        "total": 696.97
+    },
+    "products": [
+        {
+            "amount": 122.04,
+            "description": "orchestrate frictionless partnerships",
+            "hours": 10.0,
+            "rate": 8.22
+        },
+        {
+            "amount": 328.03,
+            "description": "strategize ubiquitous supply-chains",
+            "hours": 9.91,
+            "rate": 9.63
+        }
+    ],
+    "seller": {
+        "address": "7330 Brooks Loaf Apt. 362 Lewistown, MH 25351",
+        "email": "zmills@example.org",
+        "name": "David Jones"
+    },
+    "tax": {
+        "base": 28.26,
+        "tax_amount": 25.75,
+        "total_tax": 20.38
+    }
+}

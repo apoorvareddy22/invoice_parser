@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "43950 Lawrence Expressway Suite 285 Thompsonside, FM 10355",
+        "email": "qwebster@example.com",
+        "phone": "826.788.1971",
+        "vat_no": "TR90060059026"
+    },
+    "invoice": {
+        "date": "08.02.2012",
+        "due_date": "13.05.2019",
+        "market_reference": 279552,
+        "notes": "visualize value-added ROI",
+        "number": "3244-4593",
+        "reference": 688659,
+        "vat_no": "xf02227493346"
+    },
+    "payment": {
+        "net_total": 196.14,
+        "total": 140.39
+    },
+    "products": [
+        {
+            "amount": 423.67,
+            "description": "e-enable web-enabled e-tailers",
+            "hours": 2.96,
+            "rate": 7.7
+        },
+        {
+            "amount": 360.38,
+            "description": "extend one-to-one synergies",
+            "hours": 2.72,
+            "rate": 4.51
+        },
+        {
+            "amount": 301.42,
+            "description": "whiteboard out-of-the-box interfaces",
+            "hours": 1.77,
+            "rate": 6.97
+        },
+        {
+            "amount": 167.37,
+            "description": "engineer mission-critical e-commerce",
+            "hours": 9.26,
+            "rate": 8.55
+        },
+        {
+            "amount": 56.84,
+            "description": "streamline extensible relationships",
+            "hours": 3.42,
+            "rate": 5.01
+        },
+        {
+            "amount": 122.09,
+            "description": "monetize enterprise supply-chains",
+            "hours": 5.1,
+            "rate": 3.03
+        },
+        {
+            "amount": 277.6,
+            "description": "empower one-to-one supply-chains",
+            "hours": 2.78,
+            "rate": 3.59
+        }
+    ],
+    "seller": {
+        "address": "266 Shannon Pike Suite 076 Shannonport, AS 61534",
+        "email": "morenotravis@example.net",
+        "name": "Brent Cordova"
+    },
+    "tax": {
+        "base": 17.13,
+        "tax_amount": 14.25,
+        "total_tax": 13.83
+    }
+}

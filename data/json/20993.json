@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "0078 Huffman Canyon Jamieberg, NY 13509",
+        "company_name": "Adams Ltd",
+        "email": "thomaswilliam@example.net",
+        "name": "Joshua Ellis",
+        "phone": "(503)673-3194"
+    },
+    "invoice": {
+        "date": "03.02.2011",
+        "due_date": "24.06.2014",
+        "number": "mOs70198472966"
+    },
+    "payment": {
+        "account_number": 5715279865,
+        "bank_name": "Hernandez-Garcia",
+        "routing_number": 587966357
+    },
+    "products": [
+        {
+            "amount": 160.62,
+            "description": "grow user-centric supply-chains",
+            "index": "7",
+            "quantity": 6.12,
+            "unit_price": 24.04
+        },
+        {
+            "amount": 121.2,
+            "description": "re-intermediate integrated ROI",
+            "index": "1",
+            "quantity": 7.78,
+            "unit_price": 12.87
+        }
+    ],
+    "seller": {
+        "address": "PSC 8177, Box 3293 APO AA 80810",
+        "company_name": "Acosta-Burke",
+        "email": "matthew14@example.com"
+    }
+}

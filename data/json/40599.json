@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "4878 Patterson Mission Apt. 226 Shannonport, OH 48435"
+    },
+    "invoice": {
+        "bc_no": "Gk81774",
+        "date": "04.03.2001",
+        "maturity_date": "05.02.1994",
+        "number": 813239
+    },
+    "products": [
+        {
+            "amount": 259.68,
+            "description": "drive plug-and-play bandwidth",
+            "quantity": 6.75,
+            "unit_price": 34.85,
+            "vat_amount": 10.73
+        }
+    ],
+    "seller": {
+        "address": "26378 Holmes Coves West Kylieshire, UT 81031"
+    },
+    "tax": {
+        "amount_excluding_tax": 16.81,
+        "amount_including_tax": 75.13,
+        "tax_amount": 16.39
+    }
+}

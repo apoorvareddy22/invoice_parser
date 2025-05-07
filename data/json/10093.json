@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "9016 Rodriguez Island Suite 020 West Taylorhaven, MA 13655",
+        "email": "jadegarcia@example.com",
+        "phone": "(533)567-4820",
+        "vat_no": "QL38869263172"
+    },
+    "invoice": {
+        "date": "15.12.2005",
+        "due_date": "21.01.2020",
+        "market_reference": 739458,
+        "notes": "seize turn-key architectures",
+        "number": "5991-9900",
+        "reference": 956843,
+        "vat_no": "Qt68655156219"
+    },
+    "payment": {
+        "net_total": 117.67,
+        "total": 990.13
+    },
+    "products": [
+        {
+            "amount": 162.63,
+            "description": "orchestrate integrated networks",
+            "hours": 3.74,
+            "rate": 3.4
+        },
+        {
+            "amount": 24.17,
+            "description": "repurpose strategic synergies",
+            "hours": 1.94,
+            "rate": 7.46
+        },
+        {
+            "amount": 224.04,
+            "description": "re-contextualize out-of-the-box mindshare",
+            "hours": 1.34,
+            "rate": 5.37
+        },
+        {
+            "amount": 17.03,
+            "description": "strategize best-of-breed interfaces",
+            "hours": 3.48,
+            "rate": 2.81
+        },
+        {
+            "amount": 185.83,
+            "description": "orchestrate mission-critical relationships",
+            "hours": 6.82,
+            "rate": 4.46
+        }
+    ],
+    "seller": {
+        "address": "314 Lewis Mount Katieville, VI 15704",
+        "email": "yuedwin@example.com",
+        "name": "Russell Stuart"
+    },
+    "tax": {
+        "base": 19.11,
+        "tax_amount": 12.8,
+        "total_tax": 18.35
+    }
+}

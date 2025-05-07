@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "522 Barry Fort Ashleyberg, TN 12666",
+        "email": "kim68@example.com",
+        "phone": "+1-958-559-0279x7021",
+        "vat_no": "Lq44833837046"
+    },
+    "invoice": {
+        "date": "08.08.2013",
+        "due_date": "08.10.2016",
+        "market_reference": 118061,
+        "notes": "optimize enterprise vortals",
+        "number": "0447-3969",
+        "reference": 287037,
+        "vat_no": "OU67047508304"
+    },
+    "payment": {
+        "net_total": 83.89,
+        "total": 772.4
+    },
+    "products": [
+        {
+            "amount": 199.3,
+            "description": "incubate one-to-one relationships",
+            "hours": 5.49,
+            "rate": 6.1
+        },
+        {
+            "amount": 471.34,
+            "description": "streamline intuitive partnerships",
+            "hours": 4.43,
+            "rate": 9.19
+        },
+        {
+            "amount": 233.32,
+            "description": "monetize visionary architectures",
+            "hours": 1.56,
+            "rate": 8.32
+        },
+        {
+            "amount": 273.64,
+            "description": "visualize bricks-and-clicks platforms",
+            "hours": 2.49,
+            "rate": 8.73
+        },
+        {
+            "amount": 63.73,
+            "description": "embrace next-generation functionalities",
+            "hours": 8.04,
+            "rate": 1.1
+        }
+    ],
+    "seller": {
+        "address": "USNS Hayes FPO AE 09688",
+        "email": "sweeneybrandon@example.org",
+        "name": "Andrew Delgado"
+    },
+    "tax": {
+        "base": 22.93,
+        "tax_amount": 16.75,
+        "total_tax": 27.36
+    }
+}

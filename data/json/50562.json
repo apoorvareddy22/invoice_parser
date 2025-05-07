@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "731 Jessica Rue Lake Erintown, OR 39746",
+        "id": "QD603"
+    },
+    "invoice": {
+        "bc_no": "pt59866",
+        "currency_code": "KZT",
+        "date": "02.04.1993",
+        "due_date": "28.02.2021",
+        "number": 163578
+    },
+    "payment": {
+        "bank_name": "Gallegos LLC",
+        "bic": "RIVXGBBEAEN",
+        "iban": "JKGS13178378322903"
+    },
+    "products": [
+        {
+            "amount": 78.42,
+            "description": "scale synergistic portals",
+            "index": "4",
+            "price": 92.62,
+            "quantity": 5.35,
+            "tax_amount": 84.11,
+            "total_ttc": 330.07,
+            "vat_amount": 5.24
+        },
+        {
+            "amount": 165.37,
+            "description": "re-contextualize sticky convergence",
+            "index": "5",
+            "price": 75.42,
+            "quantity": 6.84,
+            "tax_amount": 19.16,
+            "total_ttc": 233.2,
+            "vat_amount": 4.68
+        }
+    ],
+    "seller": {
+        "name": "Stephen Foster"
+    },
+    "supplier": {
+        "address": "177 Vanessa Streets Suite 265 New Juanburgh, VI 06003",
+        "name": "David Bennett"
+    },
+    "tax": {
+        "amount_excluding_tax": 27.1,
+        "amount_including_tax": 107.45,
+        "tax_amount": 21.84,
+        "total_ht": 231.8,
+        "total_ttc": 425.9
+    }
+}

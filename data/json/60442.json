@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "047 Alexander Place Apt. 529 Riveraview, NY 26940",
+        "business_no": "wI866",
+        "id": "Pf267"
+    },
+    "invoice": {
+        "date": "16.05.1994",
+        "number": "9446-5211"
+    },
+    "payment": {
+        "due_date": "25.11.2013",
+        "total": 335.33
+    },
+    "products": [
+        {
+            "amount": 299.24,
+            "description": "drive frictionless schemas",
+            "quantity": 2.81,
+            "reference": "aY-965",
+            "unit_price": 48.76
+        },
+        {
+            "amount": 201.37,
+            "description": "aggregate proactive supply-chains",
+            "quantity": 8.6,
+            "reference": "GS-659",
+            "unit_price": 24.45
+        }
+    ],
+    "seller": {
+        "address": "98025 Jackson Walks Suite 122 South John, FL 26417"
+    },
+    "tax": {
+        "base_ht": 201.27,
+        "regulations": 13.83,
+        "total_ht": 310.8,
+        "vat_amount": 168.43,
+        "vat_percentage": 13.28
+    }
+}

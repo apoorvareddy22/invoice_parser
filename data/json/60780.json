@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "937 Oconnor Tunnel Apt. 305 North Lisaberg, KS 33673",
+        "business_no": "MP458",
+        "id": "XT788"
+    },
+    "invoice": {
+        "date": "03.08.2012",
+        "number": "1869-0740"
+    },
+    "payment": {
+        "due_date": "17.09.1995",
+        "total": 978.06
+    },
+    "products": [
+        {
+            "amount": 193.12,
+            "description": "utilize one-to-one experiences",
+            "quantity": 9.89,
+            "reference": "dS-671",
+            "unit_price": 32.17
+        },
+        {
+            "amount": 115.96,
+            "description": "evolve one-to-one ROI",
+            "quantity": 5.37,
+            "reference": "cc-131",
+            "unit_price": 50.43
+        }
+    ],
+    "seller": {
+        "address": "9943 James Haven Apt. 472 New Rebecca, KS 60127"
+    },
+    "tax": {
+        "base_ht": 451.4,
+        "regulations": 12.25,
+        "total_ht": 486.37,
+        "vat_amount": 138.13,
+        "vat_percentage": 16.96
+    }
+}

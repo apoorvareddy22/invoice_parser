@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "299 Annette Corner Christopherborough, MT 19342"
+    },
+    "invoice": {
+        "bc_no": "Bj36910",
+        "date": "02.11.1994",
+        "maturity_date": "09.06.2017",
+        "number": 343125
+    },
+    "products": [
+        {
+            "amount": 499.92,
+            "description": "productize out-of-the-box interfaces",
+            "quantity": 9.18,
+            "unit_price": 59.45,
+            "vat_amount": 11.39
+        },
+        {
+            "amount": 305.84,
+            "description": "orchestrate end-to-end interfaces",
+            "quantity": 6.74,
+            "unit_price": 97.54,
+            "vat_amount": 1.94
+        },
+        {
+            "amount": 387.65,
+            "description": "deploy extensible e-commerce",
+            "quantity": 2.93,
+            "unit_price": 89.54,
+            "vat_amount": 1.29
+        },
+        {
+            "amount": 240.05,
+            "description": "whiteboard back-end technologies",
+            "quantity": 3.39,
+            "unit_price": 50.33,
+            "vat_amount": 1.49
+        }
+    ],
+    "seller": {
+        "address": "46621 Ryan Spur Lake Caitlintown, MH 91396"
+    },
+    "tax": {
+        "amount_excluding_tax": 160.27,
+        "amount_including_tax": 172.2,
+        "tax_amount": 27.54
+    }
+}

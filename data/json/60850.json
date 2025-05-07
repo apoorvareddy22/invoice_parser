@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "01575 Lopez Ways Bakerborough, AZ 11469",
+        "business_no": "dN940",
+        "id": "fJ088"
+    },
+    "invoice": {
+        "date": "29.06.1992",
+        "number": "6029-6837"
+    },
+    "payment": {
+        "due_date": "05.03.2008",
+        "total": 559.51
+    },
+    "products": [
+        {
+            "amount": 314.44,
+            "description": "whiteboard virtual paradigms",
+            "quantity": 4.17,
+            "reference": "Pz-745",
+            "unit_price": 57.61
+        },
+        {
+            "amount": 396.95,
+            "description": "repurpose distributed metrics",
+            "quantity": 8.16,
+            "reference": "gq-180",
+            "unit_price": 79.52
+        },
+        {
+            "amount": 322.77,
+            "description": "mesh back-end content",
+            "quantity": 2.73,
+            "reference": "NL-182",
+            "unit_price": 49.83
+        },
+        {
+            "amount": 385.42,
+            "description": "facilitate 24/7 metrics",
+            "quantity": 1.15,
+            "reference": "dN-601",
+            "unit_price": 54.04
+        }
+    ],
+    "seller": {
+        "address": "9344 Delgado Port Suite 637 Lake Josephmouth, VA 71767"
+    },
+    "tax": {
+        "base_ht": 496.63,
+        "regulations": 15.88,
+        "total_ht": 164.14,
+        "vat_amount": 177.82,
+        "vat_percentage": 11.24
+    }
+}

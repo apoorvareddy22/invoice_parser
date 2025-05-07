@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "Unit 5324 Box 8396 DPO AP 56682",
+        "company_name": "Cook and Sons",
+        "email": "asimon@example.net",
+        "name": "Deborah Rodriguez MD",
+        "phone": "001-504-675-4847"
+    },
+    "invoice": {
+        "date": "10.08.2014",
+        "due_date": "27.08.2002",
+        "number": "Qvy60866600353"
+    },
+    "payment": {
+        "account_number": 9252686406,
+        "bank_name": "Day, Carter and Gilmore",
+        "routing_number": 414710102
+    },
+    "products": [
+        {
+            "amount": 144.52,
+            "description": "utilize out-of-the-box initiatives",
+            "index": "5",
+            "quantity": 5.75,
+            "unit_price": 64.62
+        },
+        {
+            "amount": 57.66,
+            "description": "architect efficient e-services",
+            "index": "1",
+            "quantity": 3.69,
+            "unit_price": 35.45
+        },
+        {
+            "amount": 146.37,
+            "description": "syndicate 24/365 eyeballs",
+            "index": "3",
+            "quantity": 9.05,
+            "unit_price": 18.06
+        },
+        {
+            "amount": 359.32,
+            "description": "revolutionize bricks-and-clicks methodologies",
+            "index": "6",
+            "quantity": 6.85,
+            "unit_price": 31.14
+        },
+        {
+            "amount": 486.29,
+            "description": "utilize open-source schemas",
+            "index": "8",
+            "quantity": 1.12,
+            "unit_price": 89.57
+        },
+        {
+            "amount": 330.58,
+            "description": "mesh leading-edge web services",
+            "index": "4",
+            "quantity": 6.06,
+            "unit_price": 94.67
+        },
+        {
+            "amount": 419.99,
+            "description": "repurpose vertical paradigms",
+            "index": "7",
+            "quantity": 6.05,
+            "unit_price": 11.71
+        }
+    ],
+    "seller": {
+        "address": "376 Heather Run Apt. 580 Greenfort, AK 04800",
+        "company_name": "Leonard LLC",
+        "email": "richardrodriguez@example.com"
+    }
+}

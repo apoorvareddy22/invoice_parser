@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "46802 Smith Keys Apt. 297 Jacksonhaven, PW 08034",
+        "email": "stacyjones@example.org",
+        "phone": "001-869-845-6132x944",
+        "vat_no": "IJ19563042652"
+    },
+    "invoice": {
+        "date": "03.08.2007",
+        "due_date": "28.01.1994",
+        "market_reference": 828942,
+        "notes": "incubate dynamic methodologies",
+        "number": "8700-5445",
+        "reference": 280089,
+        "vat_no": "ob03048814290"
+    },
+    "payment": {
+        "net_total": 128.65,
+        "total": 417.11
+    },
+    "products": [
+        {
+            "amount": 143.82,
+            "description": "evolve cross-media partnerships",
+            "hours": 4.92,
+            "rate": 9.17
+        },
+        {
+            "amount": 412.01,
+            "description": "envisioneer visionary e-business",
+            "hours": 6.13,
+            "rate": 5.27
+        },
+        {
+            "amount": 358.36,
+            "description": "revolutionize virtual systems",
+            "hours": 5.11,
+            "rate": 2.68
+        }
+    ],
+    "seller": {
+        "address": "26647 Robert Hill Apt. 933 Hendersonton, UT 91937",
+        "email": "woodsshelly@example.org",
+        "name": "Emily Bryant"
+    },
+    "tax": {
+        "base": 12.22,
+        "tax_amount": 12.64,
+        "total_tax": 20.47
+    }
+}

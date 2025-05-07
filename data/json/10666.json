@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "40557 Ross Square Suite 211 Carolberg, NV 92297",
+        "email": "angelawatson@example.net",
+        "phone": "+1-523-734-4249x3375",
+        "vat_no": "BF46335090273"
+    },
+    "invoice": {
+        "date": "30.05.2014",
+        "due_date": "06.07.2023",
+        "market_reference": 427409,
+        "notes": "engineer turn-key experiences",
+        "number": "8971-4072",
+        "reference": 720083,
+        "vat_no": "HC39429491548"
+    },
+    "payment": {
+        "net_total": 44.47,
+        "total": 277.86
+    },
+    "products": [
+        {
+            "amount": 467.83,
+            "description": "drive wireless eyeballs",
+            "hours": 6.36,
+            "rate": 9.52
+        }
+    ],
+    "seller": {
+        "address": "06617 Martin Hills North Shawn, OH 64709",
+        "email": "gregwilliams@example.com",
+        "name": "Katrina Morris"
+    },
+    "tax": {
+        "base": 17.8,
+        "tax_amount": 25.72,
+        "total_tax": 27.81
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "11472 Diaz Vista Johnsonmouth, IL 61129",
+        "id": "VO056"
+    },
+    "invoice": {
+        "bc_no": "ZH07428",
+        "currency_code": "JPY",
+        "date": "08.04.2017",
+        "due_date": "04.01.2002",
+        "number": 943554
+    },
+    "payment": {
+        "bank_name": "Brown, Brown and Wells",
+        "bic": "ZSTPGB7U2M6",
+        "iban": "BGCX88633612964561"
+    },
+    "products": [
+        {
+            "amount": 401.57,
+            "description": "architect sticky infrastructures",
+            "index": "10",
+            "price": 349.61,
+            "quantity": 5.08,
+            "tax_amount": 19.3,
+            "total_ttc": 416.05,
+            "vat_amount": 6.5
+        },
+        {
+            "amount": 306.53,
+            "description": "scale interactive systems",
+            "index": "5",
+            "price": 204.94,
+            "quantity": 2.45,
+            "tax_amount": 57.59,
+            "total_ttc": 324.26,
+            "vat_amount": 4.31
+        },
+        {
+            "amount": 71.15,
+            "description": "morph killer solutions",
+            "index": "10",
+            "price": 355.05,
+            "quantity": 9.5,
+            "tax_amount": 74.25,
+            "total_ttc": 402.6,
+            "vat_amount": 8.62
+        }
+    ],
+    "seller": {
+        "name": "Nicole Carroll"
+    },
+    "supplier": {
+        "address": "404 Jones Prairie New Tanya, VI 09757",
+        "name": "Hunter Williams"
+    },
+    "tax": {
+        "amount_excluding_tax": 46.07,
+        "amount_including_tax": 15.14,
+        "tax_amount": 19.67,
+        "total_ht": 373.21,
+        "total_ttc": 108.99
+    }
+}

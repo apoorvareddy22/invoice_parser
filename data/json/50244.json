@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "69962 Novak Rapids Garyfurt, KY 13446",
+        "id": "dk450"
+    },
+    "invoice": {
+        "bc_no": "qD06591",
+        "currency_code": "VUV",
+        "date": "23.07.2023",
+        "due_date": "19.12.1994",
+        "number": 270625
+    },
+    "payment": {
+        "bank_name": "Scott, Tyler and Kim",
+        "bic": "DDBQGB1RWC7",
+        "iban": "EZFX62276913005470"
+    },
+    "products": [
+        {
+            "amount": 64.59,
+            "description": "grow back-end supply-chains",
+            "index": "9",
+            "price": 43.3,
+            "quantity": 3.07,
+            "tax_amount": 94.18,
+            "total_ttc": 366.16,
+            "vat_amount": 4.06
+        },
+        {
+            "amount": 256.17,
+            "description": "envisioneer wireless architectures",
+            "index": "3",
+            "price": 223.14,
+            "quantity": 5.54,
+            "tax_amount": 11.85,
+            "total_ttc": 109.57,
+            "vat_amount": 11.05
+        }
+    ],
+    "seller": {
+        "name": "Sara Ruiz"
+    },
+    "supplier": {
+        "address": "767 Catherine Brook South Derek, KY 11166",
+        "name": "Jason Maxwell"
+    },
+    "tax": {
+        "amount_excluding_tax": 52.48,
+        "amount_including_tax": 100.16,
+        "tax_amount": 19.86,
+        "total_ht": 432.29,
+        "total_ttc": 174.24
+    }
+}

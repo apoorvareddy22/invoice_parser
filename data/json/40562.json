@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "3064 Andrea Grove Wilsonside, FL 07582"
+    },
+    "invoice": {
+        "bc_no": "sl44759",
+        "date": "03.07.2009",
+        "maturity_date": "24.11.2022",
+        "number": 265818
+    },
+    "products": [
+        {
+            "amount": 304.03,
+            "description": "redefine granular systems",
+            "quantity": 9.38,
+            "unit_price": 22.46,
+            "vat_amount": 2.45
+        },
+        {
+            "amount": 264.46,
+            "description": "innovate robust convergence",
+            "quantity": 8.39,
+            "unit_price": 30.21,
+            "vat_amount": 2.47
+        }
+    ],
+    "seller": {
+        "address": "8755 Donovan Ports New Kristi, AS 31905"
+    },
+    "tax": {
+        "amount_excluding_tax": 67.05,
+        "amount_including_tax": 77.82,
+        "tax_amount": 25.9
+    }
+}

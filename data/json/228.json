@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "4616 Christopher Dale Apt. 566 Michaelhaven, AL 14508",
+        "company_name": "Bernard, Guerra and Jones",
+        "country": "Tunisia",
+        "name": "Bradley Hull"
+    },
+    "invoice": {
+        "date": "09.03.1998",
+        "number": 653741
+    },
+    "payment": {
+        "discount_amount": 29.45,
+        "discount_percentage": 14.8,
+        "due": 168.98,
+        "sub_total": 189.01,
+        "total": 384.1
+    },
+    "products": [
+        {
+            "description": "matrix bricks-and-clicks action-items",
+            "index": "4",
+            "quantity": 7.93,
+            "total_price": 151.52,
+            "unit_price": 13.23
+        },
+        {
+            "description": "integrate end-to-end e-services",
+            "index": "1",
+            "quantity": 9.41,
+            "total_price": 861.39,
+            "unit_price": 50.43
+        },
+        {
+            "description": "reinvent 24/365 users",
+            "index": "8",
+            "quantity": 5.06,
+            "total_price": 377.11,
+            "unit_price": 64.08
+        },
+        {
+            "description": "transform out-of-the-box interfaces",
+            "index": "4",
+            "quantity": 4.02,
+            "total_price": 22.34,
+            "unit_price": 66.27
+        },
+        {
+            "description": "e-enable strategic functionalities",
+            "index": "4",
+            "quantity": 9.09,
+            "total_price": 935.04,
+            "unit_price": 99.54
+        },
+        {
+            "description": "deploy open-source web-readiness",
+            "index": "2",
+            "quantity": 3.33,
+            "total_price": 548.79,
+            "unit_price": 35.02
+        },
+        {
+            "description": "aggregate real-time functionalities",
+            "index": "1",
+            "quantity": 5.55,
+            "total_price": 360.04,
+            "unit_price": 61.38
+        }
+    ],
+    "seller": {
+        "address": "9226 Lawson Crossing Apt. 443 Susanside, MD 38319",
+        "company_name": "Pacheco and Sons",
+        "vat_no": "iE90637154565"
+    }
+}

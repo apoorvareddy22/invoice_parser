@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "44262 Robert Run Suite 381 Burnettview, WV 82442",
+        "email": "zlopez@example.com",
+        "phone": "+1-934-928-1188x349",
+        "vat_no": "Sr68040906996"
+    },
+    "invoice": {
+        "date": "05.07.2016",
+        "due_date": "02.06.2014",
+        "market_reference": 572143,
+        "notes": "matrix dynamic supply-chains",
+        "number": "0812-9387",
+        "reference": 868978,
+        "vat_no": "aR41689766731"
+    },
+    "payment": {
+        "net_total": 37.31,
+        "total": 205.01
+    },
+    "products": [
+        {
+            "amount": 251.42,
+            "description": "deploy proactive networks",
+            "hours": 2.49,
+            "rate": 9.29
+        },
+        {
+            "amount": 126.08,
+            "description": "extend impactful convergence",
+            "hours": 2.98,
+            "rate": 1.13
+        },
+        {
+            "amount": 155.89,
+            "description": "extend e-business e-commerce",
+            "hours": 8.74,
+            "rate": 4.51
+        },
+        {
+            "amount": 66.59,
+            "description": "drive open-source platforms",
+            "hours": 1.79,
+            "rate": 7.49
+        }
+    ],
+    "seller": {
+        "address": "83167 Kristi Underpass Suite 976 South Janet, NC 22834",
+        "email": "kellyfrye@example.org",
+        "name": "Laura Stevenson"
+    },
+    "tax": {
+        "base": 23.69,
+        "tax_amount": 22.94,
+        "total_tax": 13.25
+    }
+}

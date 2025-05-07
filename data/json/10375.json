@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "Unit 1006 Box 7506 DPO AE 52016",
+        "email": "whale@example.org",
+        "phone": "001-455-549-9020x0960",
+        "vat_no": "eJ13854158131"
+    },
+    "invoice": {
+        "date": "31.12.2003",
+        "due_date": "20.09.2014",
+        "market_reference": 883772,
+        "notes": "re-intermediate bricks-and-clicks niches",
+        "number": "7104-8603",
+        "reference": 197959,
+        "vat_no": "TB62746986054"
+    },
+    "payment": {
+        "net_total": 138.74,
+        "total": 327.02
+    },
+    "products": [
+        {
+            "amount": 70.4,
+            "description": "enhance next-generation infrastructures",
+            "hours": 4.34,
+            "rate": 6.47
+        },
+        {
+            "amount": 459.26,
+            "description": "revolutionize distributed metrics",
+            "hours": 1.42,
+            "rate": 4.19
+        }
+    ],
+    "seller": {
+        "address": "284 Andrea Extensions West Amandamouth, AL 64663",
+        "email": "hmorris@example.org",
+        "name": "Gregory Gross"
+    },
+    "tax": {
+        "base": 19.04,
+        "tax_amount": 22.19,
+        "total_tax": 22.42
+    }
+}

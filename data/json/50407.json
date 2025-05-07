@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "3152 Watkins Extension Apt. 855 East Wendytown, HI 46074",
+        "id": "Fh704"
+    },
+    "invoice": {
+        "bc_no": "Rq30824",
+        "currency_code": "THB",
+        "date": "11.04.2022",
+        "due_date": "21.03.2001",
+        "number": 874865
+    },
+    "payment": {
+        "bank_name": "Hubbard PLC",
+        "bic": "YJBBGB11CLK",
+        "iban": "AFPF57696049833429"
+    },
+    "products": [
+        {
+            "amount": 281.6,
+            "description": "productize back-end web services",
+            "index": "3",
+            "price": 499.81,
+            "quantity": 3.21,
+            "tax_amount": 96.71,
+            "total_ttc": 162.43,
+            "vat_amount": 1.28
+        },
+        {
+            "amount": 461.59,
+            "description": "empower cutting-edge functionalities",
+            "index": "4",
+            "price": 174.68,
+            "quantity": 5.49,
+            "tax_amount": 76.92,
+            "total_ttc": 175.79,
+            "vat_amount": 8.22
+        },
+        {
+            "amount": 144.96,
+            "description": "strategize magnetic portals",
+            "index": "6",
+            "price": 335.15,
+            "quantity": 6.15,
+            "tax_amount": 93.13,
+            "total_ttc": 391.68,
+            "vat_amount": 2.74
+        }
+    ],
+    "seller": {
+        "name": "Megan Johnson"
+    },
+    "supplier": {
+        "address": "3519 Giles Court Suite 679 Joshuahaven, ME 27785",
+        "name": "Karen Bryan"
+    },
+    "tax": {
+        "amount_excluding_tax": 189.79,
+        "amount_including_tax": 81.62,
+        "tax_amount": 18.39,
+        "total_ht": 433.26,
+        "total_ttc": 244.4
+    }
+}

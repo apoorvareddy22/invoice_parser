@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "39279 Brown Isle East Kennethberg, CT 61199",
+        "email": "ycarroll@example.net",
+        "phone": "+1-615-353-3021x8718",
+        "vat_no": "VI80707166546"
+    },
+    "invoice": {
+        "date": "17.11.2020",
+        "due_date": "13.08.1995",
+        "market_reference": 245801,
+        "notes": "facilitate value-added vortals",
+        "number": "9016-4516",
+        "reference": 350335,
+        "vat_no": "kk65895914466"
+    },
+    "payment": {
+        "net_total": 46.65,
+        "total": 861.05
+    },
+    "products": [
+        {
+            "amount": 37.68,
+            "description": "evolve extensible networks",
+            "hours": 7.07,
+            "rate": 9.85
+        },
+        {
+            "amount": 478.87,
+            "description": "synergize clicks-and-mortar technologies",
+            "hours": 4.27,
+            "rate": 1.86
+        },
+        {
+            "amount": 339.95,
+            "description": "generate customized networks",
+            "hours": 4.85,
+            "rate": 5.0
+        },
+        {
+            "amount": 255.46,
+            "description": "engineer scalable markets",
+            "hours": 2.33,
+            "rate": 2.66
+        },
+        {
+            "amount": 90.33,
+            "description": "transform seamless metrics",
+            "hours": 3.8,
+            "rate": 1.15
+        },
+        {
+            "amount": 219.58,
+            "description": "brand turn-key markets",
+            "hours": 5.84,
+            "rate": 3.74
+        }
+    ],
+    "seller": {
+        "address": "294 Robert Drives Justinmouth, ID 13421",
+        "email": "aaron07@example.org",
+        "name": "Devin Vasquez"
+    },
+    "tax": {
+        "base": 14.7,
+        "tax_amount": 14.69,
+        "total_tax": 17.31
+    }
+}

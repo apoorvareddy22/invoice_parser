@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "311 John Lodge South Christopher, DE 46351",
+        "email": "owilson@example.org",
+        "phone": "778.203.3942",
+        "vat_no": "HK27290157887"
+    },
+    "invoice": {
+        "date": "24.03.2002",
+        "due_date": "18.07.2019",
+        "market_reference": 916864,
+        "notes": "utilize next-generation web-readiness",
+        "number": "8836-8334",
+        "reference": 536044,
+        "vat_no": "jH59865900599"
+    },
+    "payment": {
+        "net_total": 58.24,
+        "total": 120.28
+    },
+    "products": [
+        {
+            "amount": 276.14,
+            "description": "synergize scalable e-markets",
+            "hours": 4.82,
+            "rate": 8.46
+        },
+        {
+            "amount": 153.62,
+            "description": "re-contextualize 24/365 deliverables",
+            "hours": 9.39,
+            "rate": 9.58
+        },
+        {
+            "amount": 400.07,
+            "description": "morph web-enabled infrastructures",
+            "hours": 7.42,
+            "rate": 3.47
+        },
+        {
+            "amount": 168.06,
+            "description": "brand innovative users",
+            "hours": 4.39,
+            "rate": 6.4
+        },
+        {
+            "amount": 436.09,
+            "description": "unleash viral schemas",
+            "hours": 3.48,
+            "rate": 2.18
+        },
+        {
+            "amount": 25.04,
+            "description": "engineer extensible web-readiness",
+            "hours": 7.01,
+            "rate": 1.21
+        },
+        {
+            "amount": 64.17,
+            "description": "generate leading-edge bandwidth",
+            "hours": 2.13,
+            "rate": 6.42
+        }
+    ],
+    "seller": {
+        "address": "Unit 1749 Box 3599 DPO AE 48715",
+        "email": "seanfernandez@example.net",
+        "name": "Cheryl Waller"
+    },
+    "tax": {
+        "base": 23.33,
+        "tax_amount": 12.46,
+        "total_tax": 24.84
+    }
+}

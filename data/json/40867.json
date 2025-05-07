@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "51067 Willis Gateway Goodwinstad, PR 59836"
+    },
+    "invoice": {
+        "bc_no": "fg26774",
+        "date": "20.02.2011",
+        "maturity_date": "29.10.2014",
+        "number": 530693
+    },
+    "products": [
+        {
+            "amount": 68.67,
+            "description": "integrate turn-key synergies",
+            "quantity": 1.18,
+            "unit_price": 89.34,
+            "vat_amount": 16.44
+        }
+    ],
+    "seller": {
+        "address": "353 Victoria Path Suite 131 Mcgeeview, VI 04762"
+    },
+    "tax": {
+        "amount_excluding_tax": 60.02,
+        "amount_including_tax": 178.51,
+        "tax_amount": 24.48
+    }
+}

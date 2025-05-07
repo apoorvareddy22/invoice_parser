@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "992 Misty Plaza Adamschester, GU 13895",
+        "business_no": "dK247",
+        "id": "ac619"
+    },
+    "invoice": {
+        "date": "12.02.1998",
+        "number": "9564-3287"
+    },
+    "payment": {
+        "due_date": "24.11.2021",
+        "total": 722.66
+    },
+    "products": [
+        {
+            "amount": 34.95,
+            "description": "exploit vertical channels",
+            "quantity": 5.31,
+            "reference": "fl-535",
+            "unit_price": 94.8
+        },
+        {
+            "amount": 399.34,
+            "description": "monetize mission-critical content",
+            "quantity": 8.74,
+            "reference": "WQ-223",
+            "unit_price": 91.59
+        },
+        {
+            "amount": 364.46,
+            "description": "facilitate efficient e-business",
+            "quantity": 4.17,
+            "reference": "vi-625",
+            "unit_price": 79.34
+        }
+    ],
+    "seller": {
+        "address": "953 Lewis Lock Apt. 298 Ashleybury, NV 09694"
+    },
+    "tax": {
+        "base_ht": 389.56,
+        "regulations": 13.48,
+        "total_ht": 479.68,
+        "vat_amount": 24.19,
+        "vat_percentage": 23.69
+    }
+}

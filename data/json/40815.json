@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "844 Jason Estate Erictown, ME 38245"
+    },
+    "invoice": {
+        "bc_no": "sW04416",
+        "date": "26.09.2008",
+        "maturity_date": "19.04.2002",
+        "number": 850604
+    },
+    "products": [
+        {
+            "amount": 432.91,
+            "description": "repurpose rich users",
+            "quantity": 9.39,
+            "unit_price": 47.08,
+            "vat_amount": 6.82
+        },
+        {
+            "amount": 47.44,
+            "description": "revolutionize plug-and-play users",
+            "quantity": 6.37,
+            "unit_price": 89.09,
+            "vat_amount": 0.58
+        },
+        {
+            "amount": 142.39,
+            "description": "e-enable e-business synergies",
+            "quantity": 9.04,
+            "unit_price": 18.11,
+            "vat_amount": 1.19
+        },
+        {
+            "amount": 461.87,
+            "description": "facilitate seamless networks",
+            "quantity": 5.55,
+            "unit_price": 87.86,
+            "vat_amount": 5.58
+        }
+    ],
+    "seller": {
+        "address": "011 Patricia Mall Apt. 714 Christopherstad, GA 31456"
+    },
+    "tax": {
+        "amount_excluding_tax": 181.21,
+        "amount_including_tax": 121.63,
+        "tax_amount": 21.84
+    }
+}

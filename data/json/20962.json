@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "USNS Harper FPO AA 21051",
+        "company_name": "Decker, Evans and Cook",
+        "email": "jessicarivera@example.com",
+        "name": "Christopher Alvarez",
+        "phone": "001-620-755-1873"
+    },
+    "invoice": {
+        "date": "16.07.1995",
+        "due_date": "17.03.2009",
+        "number": "LOG59421558607"
+    },
+    "payment": {
+        "account_number": 9949903648,
+        "bank_name": "Patrick, Hamilton and Lewis",
+        "routing_number": 172352008
+    },
+    "products": [
+        {
+            "amount": 295.99,
+            "description": "brand integrated e-markets",
+            "index": "8",
+            "quantity": 4.75,
+            "unit_price": 10.57
+        },
+        {
+            "amount": 320.65,
+            "description": "transition world-class schemas",
+            "index": "2",
+            "quantity": 2.22,
+            "unit_price": 19.03
+        }
+    ],
+    "seller": {
+        "address": "0412 Paula Plain Lake Kimberlyton, NY 03574",
+        "company_name": "Becker-Chen",
+        "email": "christinacollins@example.com"
+    }
+}

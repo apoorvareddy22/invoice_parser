@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "5729 Kristina Parks Lake Brian, IA 33926"
+    },
+    "invoice": {
+        "bc_no": "FM52045",
+        "date": "09.04.2011",
+        "maturity_date": "09.07.2016",
+        "number": 479510
+    },
+    "products": [
+        {
+            "amount": 206.67,
+            "description": "evolve cross-platform networks",
+            "quantity": 1.77,
+            "unit_price": 97.7,
+            "vat_amount": 1.39
+        },
+        {
+            "amount": 482.24,
+            "description": "reinvent user-centric niches",
+            "quantity": 2.37,
+            "unit_price": 20.02,
+            "vat_amount": 1.89
+        }
+    ],
+    "seller": {
+        "address": "925 Eric Fields Suite 073 Lynchhaven, MA 85845"
+    },
+    "tax": {
+        "amount_excluding_tax": 143.11,
+        "amount_including_tax": 135.08,
+        "tax_amount": 26.47
+    }
+}

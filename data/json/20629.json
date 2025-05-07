@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "269 Lee Ramp Apt. 327 North Victoriaberg, OH 04777",
+        "company_name": "Mcpherson-Johnson",
+        "email": "ewright@example.org",
+        "name": "Brian Matthews",
+        "phone": "740-844-5522"
+    },
+    "invoice": {
+        "date": "14.02.2017",
+        "due_date": "13.10.2022",
+        "number": "kjm61619515703"
+    },
+    "payment": {
+        "account_number": 8530684499,
+        "bank_name": "Jones, Klein and Olson",
+        "routing_number": 442045343
+    },
+    "products": [
+        {
+            "amount": 258.0,
+            "description": "incubate proactive mindshare",
+            "index": "8",
+            "quantity": 5.21,
+            "unit_price": 11.27
+        },
+        {
+            "amount": 211.88,
+            "description": "transform customized applications",
+            "index": "4",
+            "quantity": 2.76,
+            "unit_price": 54.21
+        },
+        {
+            "amount": 41.66,
+            "description": "aggregate clicks-and-mortar networks",
+            "index": "2",
+            "quantity": 5.36,
+            "unit_price": 48.61
+        },
+        {
+            "amount": 381.48,
+            "description": "embrace cutting-edge content",
+            "index": "10",
+            "quantity": 9.65,
+            "unit_price": 59.13
+        },
+        {
+            "amount": 354.04,
+            "description": "redefine 24/7 convergence",
+            "index": "6",
+            "quantity": 5.47,
+            "unit_price": 94.34
+        },
+        {
+            "amount": 369.84,
+            "description": "orchestrate clicks-and-mortar channels",
+            "index": "7",
+            "quantity": 1.73,
+            "unit_price": 45.07
+        },
+        {
+            "amount": 145.55,
+            "description": "strategize web-enabled interfaces",
+            "index": "2",
+            "quantity": 2.85,
+            "unit_price": 15.95
+        }
+    ],
+    "seller": {
+        "address": "113 Kim Landing New Cynthia, CA 22358",
+        "company_name": "Clark Group",
+        "email": "gregory38@example.com"
+    }
+}

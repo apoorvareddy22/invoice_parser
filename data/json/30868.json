@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "6445 White Camp Apt. 307 New Perryton, CA 14923",
+        "company_name": "Richards LLC",
+        "country": "Estonia",
+        "email": "meaganpoole@example.net",
+        "name": "Sarah Johnson",
+        "phone": "721-912-3506x46290",
+        "vat_no": "lx47417642841"
+    },
+    "invoice": {
+        "date": "02.01.2002",
+        "due_date": "18.01.2003",
+        "linked_invoice": "IO-0765-6869",
+        "notes": "strategize proactive action-items",
+        "number": "WF-2818-0882"
+    },
+    "products": [
+        {
+            "description": "disintermediate end-to-end technologies",
+            "discount_percentage": 7.79,
+            "price": 268.84,
+            "quantity": 1.43,
+            "unit_price": 13.73
+        },
+        {
+            "description": "morph intuitive channels",
+            "discount_percentage": 12.51,
+            "price": 96.36,
+            "quantity": 8.48,
+            "unit_price": 47.45
+        }
+    ],
+    "seller": {
+        "address": "3583 Smith Mills Jonesview, AL 22039",
+        "ape": "2962A",
+        "capital": 63178319,
+        "country": "American Samoa",
+        "email": "lbrady@example.org",
+        "name": "Christopher Holt",
+        "phone_1": "001-454-539-1484x76870",
+        "phone_2": "(923)490-9725x40107",
+        "phone_3": "905.878.4018",
+        "ref_walk": "NBpv9636",
+        "reference": "gj083",
+        "siret": 99869269808342,
+        "vat_no": "tg51753536023",
+        "website": "https://dennis.com/"
+    },
+    "tax": {
+        "amount_0": 11.58,
+        "amount_1": 18.95,
+        "base_0": 16.99,
+        "base_1": 297.36,
+        "total_ht": 222.49,
+        "total_tax": 15.84,
+        "total_ttc": 171.63,
+        "vat_0": 24.94,
+        "vat_1": 22.57
+    }
+}

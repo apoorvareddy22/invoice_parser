@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "59726 Weeks Glen South Becky, IL 32955",
+        "id": "rV392"
+    },
+    "invoice": {
+        "bc_no": "iE60389",
+        "currency_code": "TVD",
+        "date": "18.09.2005",
+        "due_date": "20.07.1990",
+        "number": 616798
+    },
+    "payment": {
+        "bank_name": "Stout-Ruiz",
+        "bic": "XGARGBT3",
+        "iban": "MTSH66042634215110"
+    },
+    "products": [
+        {
+            "amount": 398.15,
+            "description": "transform innovative e-tailers",
+            "index": "3",
+            "price": 117.6,
+            "quantity": 9.28,
+            "tax_amount": 65.27,
+            "total_ttc": 269.65,
+            "vat_amount": 1.4
+        },
+        {
+            "amount": 297.76,
+            "description": "grow end-to-end experiences",
+            "index": "10",
+            "price": 115.29,
+            "quantity": 7.3,
+            "tax_amount": 99.27,
+            "total_ttc": 124.22,
+            "vat_amount": 4.38
+        },
+        {
+            "amount": 376.78,
+            "description": "cultivate 24/365 architectures",
+            "index": "9",
+            "price": 431.6,
+            "quantity": 4.61,
+            "tax_amount": 39.11,
+            "total_ttc": 431.72,
+            "vat_amount": 2.9
+        },
+        {
+            "amount": 393.26,
+            "description": "integrate bricks-and-clicks e-commerce",
+            "index": "4",
+            "price": 149.02,
+            "quantity": 3.95,
+            "tax_amount": 76.59,
+            "total_ttc": 139.78,
+            "vat_amount": 5.28
+        },
+        {
+            "amount": 277.23,
+            "description": "maximize web-enabled e-services",
+            "index": "1",
+            "price": 245.1,
+            "quantity": 5.95,
+            "tax_amount": 12.58,
+            "total_ttc": 302.84,
+            "vat_amount": 2.1
+        }
+    ],
+    "seller": {
+        "name": "Joe Poole"
+    },
+    "supplier": {
+        "address": "USS Little FPO AP 14566",
+        "name": "Taylor Frank"
+    },
+    "tax": {
+        "amount_excluding_tax": 197.65,
+        "amount_including_tax": 186.33,
+        "tax_amount": 10.59,
+        "total_ht": 217.66,
+        "total_ttc": 491.48
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "841 Knapp Island Suite 472 West Kaitlyn, CA 85735"
+    },
+    "invoice": {
+        "bc_no": "ce09184",
+        "date": "14.03.2009",
+        "maturity_date": "17.04.2004",
+        "number": 954083
+    },
+    "products": [
+        {
+            "amount": 486.09,
+            "description": "seize impactful content",
+            "quantity": 2.39,
+            "unit_price": 70.2,
+            "vat_amount": 2.39
+        },
+        {
+            "amount": 179.01,
+            "description": "mesh killer applications",
+            "quantity": 5.59,
+            "unit_price": 83.28,
+            "vat_amount": 0.9
+        },
+        {
+            "amount": 17.16,
+            "description": "morph mission-critical infrastructures",
+            "quantity": 2.67,
+            "unit_price": 75.24,
+            "vat_amount": 3.35
+        }
+    ],
+    "seller": {
+        "address": "305 Amy Village New Jeremiah, SC 68124"
+    },
+    "tax": {
+        "amount_excluding_tax": 32.2,
+        "amount_including_tax": 155.99,
+        "tax_amount": 28.24
+    }
+}

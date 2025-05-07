@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "8373 Andrew Pass Apt. 182 Fergusontown, CT 90976",
+        "id": "qP087"
+    },
+    "invoice": {
+        "bc_no": "Iv18678",
+        "currency_code": "BOB",
+        "date": "21.06.2006",
+        "due_date": "23.08.2013",
+        "number": 217612
+    },
+    "payment": {
+        "bank_name": "Rivas, Wilson and Solomon",
+        "bic": "NQYOGB456T2",
+        "iban": "CDQU93113611281918"
+    },
+    "products": [
+        {
+            "amount": 170.72,
+            "description": "empower visionary info-mediaries",
+            "index": "7",
+            "price": 62.71,
+            "quantity": 5.59,
+            "tax_amount": 23.4,
+            "total_ttc": 306.42,
+            "vat_amount": 7.47
+        },
+        {
+            "amount": 409.84,
+            "description": "orchestrate seamless interfaces",
+            "index": "4",
+            "price": 31.24,
+            "quantity": 6.14,
+            "tax_amount": 65.14,
+            "total_ttc": 341.45,
+            "vat_amount": 2.91
+        }
+    ],
+    "seller": {
+        "name": "Lauren Howard"
+    },
+    "supplier": {
+        "address": "2945 Sullivan Circle Apt. 300 Anatown, WV 05155",
+        "name": "Brandon Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 156.74,
+        "amount_including_tax": 101.33,
+        "tax_amount": 14.14,
+        "total_ht": 170.38,
+        "total_ttc": 259.82
+    }
+}

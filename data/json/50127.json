@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "0309 Martinez Spur Suite 177 West Glenn, FM 02198",
+        "id": "Zv451"
+    },
+    "invoice": {
+        "bc_no": "xi14739",
+        "currency_code": "BND",
+        "date": "28.06.2018",
+        "due_date": "12.09.1995",
+        "number": 236790
+    },
+    "payment": {
+        "bank_name": "Campos, Oliver and Johnson",
+        "bic": "XEKZGBPM",
+        "iban": "RQLJ14211042959665"
+    },
+    "products": [
+        {
+            "amount": 292.32,
+            "description": "morph frictionless deliverables",
+            "index": "9",
+            "price": 445.8,
+            "quantity": 6.39,
+            "tax_amount": 21.85,
+            "total_ttc": 440.94,
+            "vat_amount": 8.91
+        },
+        {
+            "amount": 47.43,
+            "description": "deploy value-added paradigms",
+            "index": "10",
+            "price": 435.94,
+            "quantity": 1.12,
+            "tax_amount": 49.75,
+            "total_ttc": 333.05,
+            "vat_amount": 7.8
+        },
+        {
+            "amount": 338.64,
+            "description": "visualize proactive synergies",
+            "index": "6",
+            "price": 417.26,
+            "quantity": 8.53,
+            "tax_amount": 28.45,
+            "total_ttc": 132.23,
+            "vat_amount": 3.02
+        },
+        {
+            "amount": 350.44,
+            "description": "benchmark interactive channels",
+            "index": "6",
+            "price": 382.06,
+            "quantity": 6.97,
+            "tax_amount": 13.69,
+            "total_ttc": 119.52,
+            "vat_amount": 1.92
+        },
+        {
+            "amount": 462.11,
+            "description": "mesh best-of-breed platforms",
+            "index": "6",
+            "price": 12.76,
+            "quantity": 6.67,
+            "tax_amount": 14.34,
+            "total_ttc": 468.13,
+            "vat_amount": 3.0
+        }
+    ],
+    "seller": {
+        "name": "Joseph Rodriguez"
+    },
+    "supplier": {
+        "address": "04687 Garcia Turnpike South Jamesville, NE 92902",
+        "name": "Tammy Burke"
+    },
+    "tax": {
+        "amount_excluding_tax": 161.69,
+        "amount_including_tax": 130.03,
+        "tax_amount": 23.45,
+        "total_ht": 467.1,
+        "total_ttc": 498.19
+    }
+}

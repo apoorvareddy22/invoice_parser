@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "351 Billy Ridges Suite 491 Leahstad, ID 01235",
+        "email": "qford@example.org",
+        "phone": "(620)418-9027x0163",
+        "vat_no": "lM20083074225"
+    },
+    "invoice": {
+        "date": "11.10.2013",
+        "due_date": "23.08.2016",
+        "market_reference": 806253,
+        "notes": "reinvent wireless e-tailers",
+        "number": "3437-1480",
+        "reference": 266696,
+        "vat_no": "Wc71443680243"
+    },
+    "payment": {
+        "net_total": 161.15,
+        "total": 199.05
+    },
+    "products": [
+        {
+            "amount": 486.99,
+            "description": "evolve B2C e-commerce",
+            "hours": 9.61,
+            "rate": 1.42
+        },
+        {
+            "amount": 30.58,
+            "description": "utilize next-generation functionalities",
+            "hours": 1.84,
+            "rate": 8.96
+        }
+    ],
+    "seller": {
+        "address": "4011 Vanessa Drives Gomezstad, ID 61912",
+        "email": "seantaylor@example.net",
+        "name": "Erin Davis"
+    },
+    "tax": {
+        "base": 17.82,
+        "tax_amount": 21.8,
+        "total_tax": 18.46
+    }
+}

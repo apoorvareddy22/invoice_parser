@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "8275 Tyrone Junctions Suite 044 Jacobsport, MP 73730",
+        "email": "eboone@example.com",
+        "phone": "819-345-7521x472",
+        "vat_no": "Gi88320977507"
+    },
+    "invoice": {
+        "date": "07.02.2013",
+        "due_date": "09.08.2022",
+        "market_reference": 562912,
+        "notes": "facilitate bricks-and-clicks interfaces",
+        "number": "9492-1930",
+        "reference": 687763,
+        "vat_no": "xd53960437510"
+    },
+    "payment": {
+        "net_total": 169.49,
+        "total": 337.74
+    },
+    "products": [
+        {
+            "amount": 383.9,
+            "description": "implement intuitive paradigms",
+            "hours": 8.94,
+            "rate": 3.07
+        },
+        {
+            "amount": 338.82,
+            "description": "drive strategic web services",
+            "hours": 1.26,
+            "rate": 7.19
+        }
+    ],
+    "seller": {
+        "address": "32786 Kathy Lights Suite 005 Allisonview, NM 47704",
+        "email": "fisherdanielle@example.net",
+        "name": "Samantha Alexander"
+    },
+    "tax": {
+        "base": 25.36,
+        "tax_amount": 11.01,
+        "total_tax": 13.61
+    }
+}

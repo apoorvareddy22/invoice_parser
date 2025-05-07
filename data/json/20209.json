@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "851 Flores Lake Suite 783 Luistown, MA 78837",
+        "company_name": "French, Solomon and Harrell",
+        "email": "john34@example.com",
+        "name": "Mary Newton",
+        "phone": "+1-394-235-5149x758"
+    },
+    "invoice": {
+        "date": "27.08.2007",
+        "due_date": "21.01.2008",
+        "number": "swz09001217509"
+    },
+    "payment": {
+        "account_number": 5973971982,
+        "bank_name": "Bennett PLC",
+        "routing_number": 827093564
+    },
+    "products": [
+        {
+            "amount": 361.88,
+            "description": "aggregate collaborative initiatives",
+            "index": "3",
+            "quantity": 7.22,
+            "unit_price": 38.63
+        },
+        {
+            "amount": 139.73,
+            "description": "incentivize B2C applications",
+            "index": "6",
+            "quantity": 5.39,
+            "unit_price": 84.88
+        },
+        {
+            "amount": 59.02,
+            "description": "empower bleeding-edge e-tailers",
+            "index": "2",
+            "quantity": 3.78,
+            "unit_price": 94.24
+        },
+        {
+            "amount": 340.64,
+            "description": "revolutionize clicks-and-mortar convergence",
+            "index": "8",
+            "quantity": 3.8,
+            "unit_price": 42.08
+        }
+    ],
+    "seller": {
+        "address": "88291 Carpenter Key Ginashire, NY 55950",
+        "company_name": "Gallagher-Jones",
+        "email": "janet14@example.org"
+    }
+}

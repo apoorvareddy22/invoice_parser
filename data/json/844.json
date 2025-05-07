@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "25560 Nathan Vista Apt. 495 Joyceshire, WI 00854",
+        "company_name": "Johnson, Johnson and Johnson",
+        "country": "Guernsey",
+        "name": "Mary Price"
+    },
+    "invoice": {
+        "date": "17.07.2016",
+        "number": 507710
+    },
+    "payment": {
+        "discount_amount": 44.96,
+        "discount_percentage": 16.91,
+        "due": 151.98,
+        "sub_total": 70.38,
+        "total": 533.68
+    },
+    "products": [
+        {
+            "description": "architect seamless niches",
+            "index": "5",
+            "quantity": 6.95,
+            "total_price": 602.81,
+            "unit_price": 82.15
+        },
+        {
+            "description": "e-enable distributed ROI",
+            "index": "5",
+            "quantity": 3.43,
+            "total_price": 988.4,
+            "unit_price": 48.26
+        }
+    ],
+    "seller": {
+        "address": "Unit 8716 Box 3783 DPO AA 20157",
+        "company_name": "James Group",
+        "vat_no": "nF48221424781"
+    }
+}

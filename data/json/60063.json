@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "438 Mason Path Apt. 192 Bethanymouth, NY 26527",
+        "business_no": "he741",
+        "id": "KE315"
+    },
+    "invoice": {
+        "date": "16.09.1990",
+        "number": "4712-1069"
+    },
+    "payment": {
+        "due_date": "02.02.2003",
+        "total": 730.42
+    },
+    "products": [
+        {
+            "amount": 472.8,
+            "description": "morph cutting-edge web services",
+            "quantity": 6.95,
+            "reference": "xS-634",
+            "unit_price": 79.16
+        },
+        {
+            "amount": 313.01,
+            "description": "integrate killer infrastructures",
+            "quantity": 6.91,
+            "reference": "jW-424",
+            "unit_price": 99.48
+        }
+    ],
+    "seller": {
+        "address": "0465 Kemp Villages Apt. 599 Lake Debbie, GU 26491"
+    },
+    "tax": {
+        "base_ht": 355.93,
+        "regulations": 19.4,
+        "total_ht": 273.5,
+        "vat_amount": 90.27,
+        "vat_percentage": 24.23
+    }
+}

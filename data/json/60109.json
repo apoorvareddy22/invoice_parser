@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "Unit 6097 Box 4005 DPO AA 53761",
+        "business_no": "iJ011",
+        "id": "lr817"
+    },
+    "invoice": {
+        "date": "16.10.2016",
+        "number": "0226-5746"
+    },
+    "payment": {
+        "due_date": "21.10.2010",
+        "total": 991.82
+    },
+    "products": [
+        {
+            "amount": 486.7,
+            "description": "leverage web-enabled methodologies",
+            "quantity": 2.7,
+            "reference": "lr-437",
+            "unit_price": 96.63
+        },
+        {
+            "amount": 254.9,
+            "description": "empower interactive methodologies",
+            "quantity": 9.17,
+            "reference": "ko-381",
+            "unit_price": 94.15
+        },
+        {
+            "amount": 373.62,
+            "description": "seize killer metrics",
+            "quantity": 7.81,
+            "reference": "OS-393",
+            "unit_price": 40.55
+        }
+    ],
+    "seller": {
+        "address": "59587 Marc Dam Suite 713 Watersport, AL 23818"
+    },
+    "tax": {
+        "base_ht": 242.57,
+        "regulations": 16.43,
+        "total_ht": 145.37,
+        "vat_amount": 14.92,
+        "vat_percentage": 21.82
+    }
+}

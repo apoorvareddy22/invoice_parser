@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "3737 Ortiz Terrace Lake William, FM 75699",
+        "business_no": "qN228",
+        "id": "aD265"
+    },
+    "invoice": {
+        "date": "26.09.1997",
+        "number": "2930-2282"
+    },
+    "payment": {
+        "due_date": "15.08.1997",
+        "total": 902.93
+    },
+    "products": [
+        {
+            "amount": 484.53,
+            "description": "repurpose proactive methodologies",
+            "quantity": 3.12,
+            "reference": "ht-629",
+            "unit_price": 93.33
+        },
+        {
+            "amount": 493.21,
+            "description": "facilitate efficient schemas",
+            "quantity": 4.44,
+            "reference": "xC-437",
+            "unit_price": 66.75
+        },
+        {
+            "amount": 49.2,
+            "description": "innovate back-end supply-chains",
+            "quantity": 9.44,
+            "reference": "vc-825",
+            "unit_price": 26.82
+        },
+        {
+            "amount": 303.65,
+            "description": "implement transparent experiences",
+            "quantity": 5.74,
+            "reference": "qn-531",
+            "unit_price": 22.48
+        }
+    ],
+    "seller": {
+        "address": "663 Smith Keys Jacksonstad, AR 71630"
+    },
+    "tax": {
+        "base_ht": 314.64,
+        "regulations": 12.76,
+        "total_ht": 203.44,
+        "vat_amount": 67.03,
+        "vat_percentage": 23.44
+    }
+}

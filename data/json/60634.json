@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "1964 Perez Hollow Suite 801 New Mario, PW 30933",
+        "business_no": "rY431",
+        "id": "HH562"
+    },
+    "invoice": {
+        "date": "30.05.2011",
+        "number": "2895-9729"
+    },
+    "payment": {
+        "due_date": "11.07.2010",
+        "total": 343.88
+    },
+    "products": [
+        {
+            "amount": 375.26,
+            "description": "cultivate one-to-one technologies",
+            "quantity": 4.95,
+            "reference": "xm-967",
+            "unit_price": 45.0
+        },
+        {
+            "amount": 410.36,
+            "description": "e-enable distributed eyeballs",
+            "quantity": 5.33,
+            "reference": "ja-198",
+            "unit_price": 53.45
+        }
+    ],
+    "seller": {
+        "address": "945 Jackson Haven East Anthonyshire, MD 60789"
+    },
+    "tax": {
+        "base_ht": 428.17,
+        "regulations": 21.45,
+        "total_ht": 498.27,
+        "vat_amount": 174.47,
+        "vat_percentage": 11.17
+    }
+}

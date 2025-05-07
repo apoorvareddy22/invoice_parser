@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "421 Combs Ferry Hansonberg, AK 52986",
+        "email": "mevans@example.org",
+        "phone": "(487)844-2202x528",
+        "vat_no": "Vn87710523420"
+    },
+    "invoice": {
+        "date": "23.02.1995",
+        "due_date": "29.11.2016",
+        "market_reference": 597316,
+        "notes": "visualize frictionless e-business",
+        "number": "9674-7274",
+        "reference": 890104,
+        "vat_no": "Dd29708268493"
+    },
+    "payment": {
+        "net_total": 143.2,
+        "total": 317.02
+    },
+    "products": [
+        {
+            "amount": 261.93,
+            "description": "innovate bleeding-edge bandwidth",
+            "hours": 5.37,
+            "rate": 5.86
+        },
+        {
+            "amount": 273.72,
+            "description": "aggregate back-end content",
+            "hours": 4.01,
+            "rate": 5.42
+        },
+        {
+            "amount": 431.34,
+            "description": "innovate distributed e-tailers",
+            "hours": 7.11,
+            "rate": 7.3
+        },
+        {
+            "amount": 424.68,
+            "description": "drive visionary content",
+            "hours": 5.01,
+            "rate": 4.53
+        },
+        {
+            "amount": 356.08,
+            "description": "implement ubiquitous paradigms",
+            "hours": 6.93,
+            "rate": 8.03
+        },
+        {
+            "amount": 183.43,
+            "description": "integrate back-end interfaces",
+            "hours": 9.22,
+            "rate": 9.9
+        },
+        {
+            "amount": 169.91,
+            "description": "transition front-end paradigms",
+            "hours": 3.23,
+            "rate": 5.97
+        }
+    ],
+    "seller": {
+        "address": "067 Loretta Inlet Martinezfort, NC 16389",
+        "email": "mark07@example.com",
+        "name": "April Moore"
+    },
+    "tax": {
+        "base": 12.48,
+        "tax_amount": 20.66,
+        "total_tax": 13.04
+    }
+}

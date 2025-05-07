@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "58402 Garcia Parks Smithville, IL 54689",
+        "id": "LY467"
+    },
+    "invoice": {
+        "bc_no": "sE25852",
+        "currency_code": "HKD",
+        "date": "13.04.2021",
+        "due_date": "29.11.2015",
+        "number": 480404
+    },
+    "payment": {
+        "bank_name": "Mccarthy-Gordon",
+        "bic": "DQHBGBJ4BDL",
+        "iban": "XMJH89310349323331"
+    },
+    "products": [
+        {
+            "amount": 473.07,
+            "description": "facilitate efficient functionalities",
+            "index": "2",
+            "price": 186.81,
+            "quantity": 5.68,
+            "tax_amount": 98.28,
+            "total_ttc": 120.04,
+            "vat_amount": 1.24
+        },
+        {
+            "amount": 269.65,
+            "description": "architect intuitive schemas",
+            "index": "10",
+            "price": 40.03,
+            "quantity": 6.82,
+            "tax_amount": 21.44,
+            "total_ttc": 342.69,
+            "vat_amount": 1.74
+        },
+        {
+            "amount": 234.6,
+            "description": "evolve rich architectures",
+            "index": "8",
+            "price": 175.69,
+            "quantity": 2.26,
+            "tax_amount": 37.97,
+            "total_ttc": 215.14,
+            "vat_amount": 2.12
+        },
+        {
+            "amount": 425.61,
+            "description": "integrate granular channels",
+            "index": "5",
+            "price": 122.92,
+            "quantity": 2.89,
+            "tax_amount": 60.54,
+            "total_ttc": 192.58,
+            "vat_amount": 1.93
+        },
+        {
+            "amount": 21.3,
+            "description": "envisioneer user-centric mindshare",
+            "index": "2",
+            "price": 370.3,
+            "quantity": 5.98,
+            "tax_amount": 14.07,
+            "total_ttc": 484.19,
+            "vat_amount": 14.22
+        }
+    ],
+    "seller": {
+        "name": "Justin Banks"
+    },
+    "supplier": {
+        "address": "091 Sara Ways South Selenatown, MA 01840",
+        "name": "Erin Vaughan"
+    },
+    "tax": {
+        "amount_excluding_tax": 10.22,
+        "amount_including_tax": 47.99,
+        "tax_amount": 14.97,
+        "total_ht": 144.52,
+        "total_ttc": 458.06
+    }
+}

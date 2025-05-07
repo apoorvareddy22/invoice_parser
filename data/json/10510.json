@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "15734 Saunders Way New Stevenhaven, MA 10255",
+        "email": "carlsonrhonda@example.com",
+        "phone": "+1-587-452-0576x7740",
+        "vat_no": "kO59648206509"
+    },
+    "invoice": {
+        "date": "15.09.2022",
+        "due_date": "15.06.2020",
+        "market_reference": 770821,
+        "notes": "embrace intuitive web-readiness",
+        "number": "8057-7514",
+        "reference": 985843,
+        "vat_no": "ou08146626041"
+    },
+    "payment": {
+        "net_total": 185.92,
+        "total": 195.21
+    },
+    "products": [
+        {
+            "amount": 376.11,
+            "description": "empower leading-edge networks",
+            "hours": 2.92,
+            "rate": 5.42
+        },
+        {
+            "amount": 390.27,
+            "description": "deploy interactive e-business",
+            "hours": 9.18,
+            "rate": 2.72
+        },
+        {
+            "amount": 489.56,
+            "description": "drive intuitive infrastructures",
+            "hours": 3.66,
+            "rate": 2.22
+        }
+    ],
+    "seller": {
+        "address": "88030 Romero Center Suite 014 Micheleberg, NM 99822",
+        "email": "david91@example.net",
+        "name": "Anthony Simmons"
+    },
+    "tax": {
+        "base": 22.4,
+        "tax_amount": 11.57,
+        "total_tax": 11.03
+    }
+}

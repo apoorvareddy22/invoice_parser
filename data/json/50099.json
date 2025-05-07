@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "25706 Daniels Meadow New Christine, ID 47417",
+        "id": "or155"
+    },
+    "invoice": {
+        "bc_no": "bp84308",
+        "currency_code": "HUF",
+        "date": "17.04.2002",
+        "due_date": "17.02.2022",
+        "number": 500291
+    },
+    "payment": {
+        "bank_name": "Arnold Ltd",
+        "bic": "HURKGBSJ",
+        "iban": "NSGR65830651824552"
+    },
+    "products": [
+        {
+            "amount": 407.98,
+            "description": "e-enable efficient ROI",
+            "index": "1",
+            "price": 449.04,
+            "quantity": 5.85,
+            "tax_amount": 34.76,
+            "total_ttc": 342.22,
+            "vat_amount": 12.02
+        },
+        {
+            "amount": 263.37,
+            "description": "enhance robust e-business",
+            "index": "9",
+            "price": 140.35,
+            "quantity": 7.89,
+            "tax_amount": 32.85,
+            "total_ttc": 485.69,
+            "vat_amount": 0.61
+        },
+        {
+            "amount": 80.78,
+            "description": "transform granular functionalities",
+            "index": "5",
+            "price": 315.55,
+            "quantity": 3.13,
+            "tax_amount": 40.36,
+            "total_ttc": 460.44,
+            "vat_amount": 5.62
+        },
+        {
+            "amount": 340.07,
+            "description": "transition web-enabled communities",
+            "index": "5",
+            "price": 39.0,
+            "quantity": 4.01,
+            "tax_amount": 13.65,
+            "total_ttc": 292.55,
+            "vat_amount": 5.55
+        },
+        {
+            "amount": 373.98,
+            "description": "reinvent dynamic initiatives",
+            "index": "7",
+            "price": 238.91,
+            "quantity": 2.94,
+            "tax_amount": 43.15,
+            "total_ttc": 421.62,
+            "vat_amount": 1.05
+        },
+        {
+            "amount": 319.52,
+            "description": "embrace out-of-the-box e-services",
+            "index": "9",
+            "price": 85.18,
+            "quantity": 7.9,
+            "tax_amount": 98.3,
+            "total_ttc": 277.79,
+            "vat_amount": 4.19
+        }
+    ],
+    "seller": {
+        "name": "Stacy Collins"
+    },
+    "supplier": {
+        "address": "371 Kevin Pass East Christopher, FL 76045",
+        "name": "Richard Walker"
+    },
+    "tax": {
+        "amount_excluding_tax": 143.36,
+        "amount_including_tax": 101.54,
+        "tax_amount": 23.03,
+        "total_ht": 480.04,
+        "total_ttc": 499.89
+    }
+}

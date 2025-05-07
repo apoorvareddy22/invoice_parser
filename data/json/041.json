@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "60955 Baker Street East Savannahhaven, VA 95217",
+        "company_name": "Newman-Jones",
+        "country": "Tonga",
+        "name": "Nicholas Mcdonald"
+    },
+    "invoice": {
+        "date": "20.12.2017",
+        "number": 554979
+    },
+    "payment": {
+        "discount_amount": 12.32,
+        "discount_percentage": 15.07,
+        "due": 135.45,
+        "sub_total": 146.73,
+        "total": 195.47
+    },
+    "products": [
+        {
+            "description": "orchestrate plug-and-play supply-chains",
+            "index": "2",
+            "quantity": 5.78,
+            "total_price": 246.47,
+            "unit_price": 78.91
+        },
+        {
+            "description": "repurpose distributed methodologies",
+            "index": "1",
+            "quantity": 3.32,
+            "total_price": 887.28,
+            "unit_price": 86.46
+        },
+        {
+            "description": "transition B2B e-services",
+            "index": "9",
+            "quantity": 6.85,
+            "total_price": 879.41,
+            "unit_price": 53.26
+        },
+        {
+            "description": "re-contextualize collaborative architectures",
+            "index": "4",
+            "quantity": 6.15,
+            "total_price": 848.34,
+            "unit_price": 56.08
+        }
+    ],
+    "seller": {
+        "address": "0521 Mills Locks East Richard, WY 86075",
+        "company_name": "Ross-Walton",
+        "vat_no": "vq67971322050"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "86343 Gina Track Suite 459 Thomasfort, PR 62725",
+        "business_no": "VO212",
+        "id": "Rm587"
+    },
+    "invoice": {
+        "date": "12.08.2014",
+        "number": "5817-1244"
+    },
+    "payment": {
+        "due_date": "13.02.2003",
+        "total": 608.11
+    },
+    "products": [
+        {
+            "amount": 247.19,
+            "description": "incentivize open-source users",
+            "quantity": 5.67,
+            "reference": "Rb-987",
+            "unit_price": 84.34
+        },
+        {
+            "amount": 399.9,
+            "description": "integrate sticky ROI",
+            "quantity": 2.28,
+            "reference": "XO-127",
+            "unit_price": 33.49
+        },
+        {
+            "amount": 80.9,
+            "description": "generate web-enabled portals",
+            "quantity": 4.35,
+            "reference": "BQ-822",
+            "unit_price": 38.97
+        }
+    ],
+    "seller": {
+        "address": "1400 Kenneth Islands New Christopher, NV 39419"
+    },
+    "tax": {
+        "base_ht": 264.8,
+        "regulations": 20.42,
+        "total_ht": 324.76,
+        "vat_amount": 166.97,
+        "vat_percentage": 26.25
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "937 Jessica Court Suite 065 Dawnfurt, MN 24461",
+        "company_name": "Hill LLC",
+        "email": "dominic34@example.net",
+        "name": "Gail Martin",
+        "phone": "8798089629"
+    },
+    "invoice": {
+        "date": "01.06.1991",
+        "due_date": "28.12.2011",
+        "number": "Aml46825235792"
+    },
+    "payment": {
+        "account_number": 1749036702,
+        "bank_name": "Kramer-Rowe",
+        "routing_number": 517639499
+    },
+    "products": [
+        {
+            "amount": 262.46,
+            "description": "re-contextualize front-end bandwidth",
+            "index": "9",
+            "quantity": 5.09,
+            "unit_price": 78.96
+        }
+    ],
+    "seller": {
+        "address": "0491 King Mountain Apt. 359 New Samantha, FL 50187",
+        "company_name": "Holloway-Gomez",
+        "email": "carl42@example.net"
+    }
+}

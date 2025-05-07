@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "5675 Underwood Vista Apt. 331 Brownland, HI 30181",
+        "company_name": "Scott Group",
+        "email": "david60@example.net",
+        "name": "Julia Gutierrez",
+        "phone": "330-686-6372x5108"
+    },
+    "invoice": {
+        "date": "10.09.2008",
+        "due_date": "23.11.2016",
+        "number": "mAU89885076506"
+    },
+    "payment": {
+        "account_number": 6018074742,
+        "bank_name": "Mendoza Inc",
+        "routing_number": 687827728
+    },
+    "products": [
+        {
+            "amount": 467.25,
+            "description": "repurpose compelling technologies",
+            "index": "10",
+            "quantity": 3.64,
+            "unit_price": 56.45
+        },
+        {
+            "amount": 225.91,
+            "description": "transition out-of-the-box functionalities",
+            "index": "10",
+            "quantity": 5.39,
+            "unit_price": 96.72
+        },
+        {
+            "amount": 224.24,
+            "description": "orchestrate innovative e-services",
+            "index": "2",
+            "quantity": 7.69,
+            "unit_price": 90.79
+        },
+        {
+            "amount": 402.0,
+            "description": "extend magnetic interfaces",
+            "index": "6",
+            "quantity": 6.71,
+            "unit_price": 46.69
+        },
+        {
+            "amount": 392.98,
+            "description": "disintermediate magnetic e-markets",
+            "index": "2",
+            "quantity": 2.84,
+            "unit_price": 95.64
+        },
+        {
+            "amount": 323.41,
+            "description": "exploit 24/7 paradigms",
+            "index": "6",
+            "quantity": 8.82,
+            "unit_price": 23.89
+        },
+        {
+            "amount": 366.73,
+            "description": "implement strategic e-commerce",
+            "index": "8",
+            "quantity": 2.75,
+            "unit_price": 42.71
+        }
+    ],
+    "seller": {
+        "address": "PSC 6644, Box 4620 APO AE 26713",
+        "company_name": "Whitaker Group",
+        "email": "evansbrandon@example.net"
+    }
+}

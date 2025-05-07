@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "518 Jones Rapid Wangton, WA 70497",
+        "business_no": "Zs474",
+        "id": "YF320"
+    },
+    "invoice": {
+        "date": "08.11.2014",
+        "number": "8662-3096"
+    },
+    "payment": {
+        "due_date": "28.04.1990",
+        "total": 197.72
+    },
+    "products": [
+        {
+            "amount": 342.69,
+            "description": "transition best-of-breed architectures",
+            "quantity": 3.0,
+            "reference": "Yg-635",
+            "unit_price": 92.01
+        },
+        {
+            "amount": 193.45,
+            "description": "embrace revolutionary metrics",
+            "quantity": 9.39,
+            "reference": "DN-130",
+            "unit_price": 59.17
+        },
+        {
+            "amount": 190.73,
+            "description": "embrace user-centric synergies",
+            "quantity": 5.07,
+            "reference": "yb-774",
+            "unit_price": 96.58
+        }
+    ],
+    "seller": {
+        "address": "3525 Norton Canyon Karenfurt, FL 12205"
+    },
+    "tax": {
+        "base_ht": 426.89,
+        "regulations": 26.07,
+        "total_ht": 139.45,
+        "vat_amount": 115.73,
+        "vat_percentage": 10.35
+    }
+}

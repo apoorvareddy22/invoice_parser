@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "022 Jones Meadows Hopkinsside, TX 61037"
+    },
+    "invoice": {
+        "bc_no": "Sn99263",
+        "date": "03.11.2011",
+        "maturity_date": "21.02.2008",
+        "number": 240304
+    },
+    "products": [
+        {
+            "amount": 417.33,
+            "description": "benchmark intuitive functionalities",
+            "quantity": 8.16,
+            "unit_price": 24.62,
+            "vat_amount": 7.89
+        },
+        {
+            "amount": 116.65,
+            "description": "enable holistic metrics",
+            "quantity": 3.71,
+            "unit_price": 64.35,
+            "vat_amount": 3.48
+        }
+    ],
+    "seller": {
+        "address": "923 April Rest Brandonfort, ND 86663"
+    },
+    "tax": {
+        "amount_excluding_tax": 187.27,
+        "amount_including_tax": 199.82,
+        "tax_amount": 23.78
+    }
+}

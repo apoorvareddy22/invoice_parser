@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "Unit 1386 Box 4335 DPO AP 35630",
+        "business_no": "JT334",
+        "id": "nq809"
+    },
+    "invoice": {
+        "date": "08.11.2020",
+        "number": "3087-3557"
+    },
+    "payment": {
+        "due_date": "10.10.1992",
+        "total": 186.35
+    },
+    "products": [
+        {
+            "amount": 202.63,
+            "description": "monetize cross-media mindshare",
+            "quantity": 5.89,
+            "reference": "AQ-947",
+            "unit_price": 32.12
+        },
+        {
+            "amount": 40.87,
+            "description": "architect real-time schemas",
+            "quantity": 8.74,
+            "reference": "vP-205",
+            "unit_price": 64.78
+        },
+        {
+            "amount": 317.66,
+            "description": "cultivate mission-critical mindshare",
+            "quantity": 9.36,
+            "reference": "il-094",
+            "unit_price": 39.56
+        }
+    ],
+    "seller": {
+        "address": "380 Russo Harbors Apt. 292 Nicholasview, AK 82094"
+    },
+    "tax": {
+        "base_ht": 324.29,
+        "regulations": 17.69,
+        "total_ht": 483.93,
+        "vat_amount": 167.49,
+        "vat_percentage": 22.58
+    }
+}

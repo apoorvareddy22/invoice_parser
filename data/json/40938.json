@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "0142 Alexander Plaza Hansenberg, AR 64193"
+    },
+    "invoice": {
+        "bc_no": "vd39967",
+        "date": "10.10.2007",
+        "maturity_date": "06.09.2003",
+        "number": 624071
+    },
+    "products": [
+        {
+            "amount": 442.65,
+            "description": "harness B2B initiatives",
+            "quantity": 2.88,
+            "unit_price": 97.99,
+            "vat_amount": 7.51
+        },
+        {
+            "amount": 396.72,
+            "description": "synergize B2B systems",
+            "quantity": 3.83,
+            "unit_price": 80.49,
+            "vat_amount": 0.77
+        },
+        {
+            "amount": 23.13,
+            "description": "re-intermediate next-generation web services",
+            "quantity": 3.27,
+            "unit_price": 76.85,
+            "vat_amount": 1.29
+        },
+        {
+            "amount": 206.86,
+            "description": "unleash granular action-items",
+            "quantity": 8.92,
+            "unit_price": 84.45,
+            "vat_amount": 8.28
+        },
+        {
+            "amount": 254.25,
+            "description": "engage magnetic relationships",
+            "quantity": 9.04,
+            "unit_price": 42.94,
+            "vat_amount": 8.42
+        },
+        {
+            "amount": 83.73,
+            "description": "harness rich content",
+            "quantity": 5.4,
+            "unit_price": 39.3,
+            "vat_amount": 4.53
+        }
+    ],
+    "seller": {
+        "address": "3473 Mathews Orchard Apt. 891 Port Christineside, NM 74445"
+    },
+    "tax": {
+        "amount_excluding_tax": 132.74,
+        "amount_including_tax": 78.4,
+        "tax_amount": 26.3
+    }
+}

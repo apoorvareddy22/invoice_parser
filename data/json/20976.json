@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "331 Norman Circles Suite 114 New Barbara, CO 35745",
+        "company_name": "Allen Group",
+        "email": "rebecca67@example.com",
+        "name": "Rachel Gonzalez",
+        "phone": "767-418-9650x7354"
+    },
+    "invoice": {
+        "date": "31.01.2012",
+        "due_date": "19.10.2011",
+        "number": "hbv91303509583"
+    },
+    "payment": {
+        "account_number": 3336986664,
+        "bank_name": "Galloway LLC",
+        "routing_number": 975509705
+    },
+    "products": [
+        {
+            "amount": 122.62,
+            "description": "innovate scalable e-services",
+            "index": "8",
+            "quantity": 5.25,
+            "unit_price": 17.01
+        },
+        {
+            "amount": 135.54,
+            "description": "re-contextualize back-end experiences",
+            "index": "1",
+            "quantity": 3.55,
+            "unit_price": 58.15
+        }
+    ],
+    "seller": {
+        "address": "73187 Cook Stream Apt. 328 Alexanderborough, UT 29253",
+        "company_name": "Alexander PLC",
+        "email": "rsanchez@example.com"
+    }
+}

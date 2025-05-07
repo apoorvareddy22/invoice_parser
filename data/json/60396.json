@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "9935 Howard Track Justinside, WV 02221",
+        "business_no": "st471",
+        "id": "Zv429"
+    },
+    "invoice": {
+        "date": "03.03.2022",
+        "number": "3673-0112"
+    },
+    "payment": {
+        "due_date": "18.10.2003",
+        "total": 560.96
+    },
+    "products": [
+        {
+            "amount": 213.72,
+            "description": "syndicate synergistic partnerships",
+            "quantity": 2.88,
+            "reference": "lU-067",
+            "unit_price": 55.82
+        }
+    ],
+    "seller": {
+        "address": "1500 Thomas Points Suite 741 Armstrongborough, TX 46179"
+    },
+    "tax": {
+        "base_ht": 102.7,
+        "regulations": 27.99,
+        "total_ht": 478.08,
+        "vat_amount": 108.64,
+        "vat_percentage": 17.21
+    }
+}

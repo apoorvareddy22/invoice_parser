@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "0127 Ashley Fords Port Alexandra, GU 25450",
+        "business_no": "aw910",
+        "id": "HZ298"
+    },
+    "invoice": {
+        "date": "01.09.2008",
+        "number": "8786-4131"
+    },
+    "payment": {
+        "due_date": "06.06.2005",
+        "total": 490.75
+    },
+    "products": [
+        {
+            "amount": 352.69,
+            "description": "morph frictionless technologies",
+            "quantity": 9.86,
+            "reference": "Dh-562",
+            "unit_price": 63.76
+        },
+        {
+            "amount": 474.99,
+            "description": "e-enable compelling synergies",
+            "quantity": 3.62,
+            "reference": "zO-270",
+            "unit_price": 73.38
+        },
+        {
+            "amount": 438.12,
+            "description": "optimize out-of-the-box supply-chains",
+            "quantity": 1.42,
+            "reference": "Ji-370",
+            "unit_price": 98.59
+        },
+        {
+            "amount": 325.99,
+            "description": "re-contextualize 24/7 initiatives",
+            "quantity": 7.02,
+            "reference": "Xv-832",
+            "unit_price": 24.44
+        },
+        {
+            "amount": 128.67,
+            "description": "orchestrate e-business infrastructures",
+            "quantity": 7.68,
+            "reference": "Fc-018",
+            "unit_price": 17.29
+        },
+        {
+            "amount": 217.15,
+            "description": "morph one-to-one infrastructures",
+            "quantity": 9.02,
+            "reference": "Cl-191",
+            "unit_price": 73.39
+        },
+        {
+            "amount": 494.37,
+            "description": "envisioneer web-enabled bandwidth",
+            "quantity": 6.61,
+            "reference": "Nb-597",
+            "unit_price": 38.11
+        }
+    ],
+    "seller": {
+        "address": "16104 Daniels Turnpike Suite 729 South Glen, ID 50378"
+    },
+    "tax": {
+        "base_ht": 366.8,
+        "regulations": 17.36,
+        "total_ht": 221.68,
+        "vat_amount": 120.79,
+        "vat_percentage": 22.36
+    }
+}

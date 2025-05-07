@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "53419 Scott Glen Kyleville, NE 03324",
+        "email": "robinsonhector@example.net",
+        "phone": "541-444-4066x2838",
+        "vat_no": "Kc83426651170"
+    },
+    "invoice": {
+        "date": "21.07.1996",
+        "due_date": "09.07.2005",
+        "market_reference": 735958,
+        "notes": "transition customized content",
+        "number": "6584-8979",
+        "reference": 972760,
+        "vat_no": "gj11756097840"
+    },
+    "payment": {
+        "net_total": 184.38,
+        "total": 857.2
+    },
+    "products": [
+        {
+            "amount": 498.58,
+            "description": "aggregate visionary deliverables",
+            "hours": 1.77,
+            "rate": 4.67
+        },
+        {
+            "amount": 162.04,
+            "description": "revolutionize efficient relationships",
+            "hours": 5.25,
+            "rate": 8.76
+        },
+        {
+            "amount": 125.23,
+            "description": "visualize end-to-end ROI",
+            "hours": 3.87,
+            "rate": 6.5
+        },
+        {
+            "amount": 448.46,
+            "description": "expedite cutting-edge networks",
+            "hours": 8.52,
+            "rate": 1.77
+        },
+        {
+            "amount": 7.56,
+            "description": "e-enable virtual functionalities",
+            "hours": 8.85,
+            "rate": 4.55
+        },
+        {
+            "amount": 98.47,
+            "description": "leverage distributed e-services",
+            "hours": 6.03,
+            "rate": 3.34
+        },
+        {
+            "amount": 37.61,
+            "description": "reinvent interactive metrics",
+            "hours": 6.8,
+            "rate": 1.43
+        }
+    ],
+    "seller": {
+        "address": "PSC 9832, Box 5329 APO AP 29375",
+        "email": "lesterjames@example.net",
+        "name": "Melissa Harmon"
+    },
+    "tax": {
+        "base": 13.08,
+        "tax_amount": 10.27,
+        "total_tax": 26.26
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "22217 Fisher Shoals Suite 187 Lindseyborough, DC 57871",
+        "email": "heidirodgers@example.com",
+        "phone": "(736)790-6038",
+        "vat_no": "gY15239014301"
+    },
+    "invoice": {
+        "date": "09.01.1995",
+        "due_date": "14.02.2001",
+        "market_reference": 556651,
+        "notes": "synthesize 24/7 applications",
+        "number": "2618-4538",
+        "reference": 609151,
+        "vat_no": "bu01490244083"
+    },
+    "payment": {
+        "net_total": 197.58,
+        "total": 626.16
+    },
+    "products": [
+        {
+            "amount": 236.1,
+            "description": "strategize frictionless convergence",
+            "hours": 8.46,
+            "rate": 6.61
+        },
+        {
+            "amount": 269.68,
+            "description": "target rich mindshare",
+            "hours": 6.44,
+            "rate": 5.53
+        },
+        {
+            "amount": 359.12,
+            "description": "whiteboard synergistic systems",
+            "hours": 9.42,
+            "rate": 1.08
+        },
+        {
+            "amount": 331.17,
+            "description": "disintermediate collaborative info-mediaries",
+            "hours": 5.71,
+            "rate": 2.34
+        },
+        {
+            "amount": 411.33,
+            "description": "morph B2B relationships",
+            "hours": 7.66,
+            "rate": 2.96
+        },
+        {
+            "amount": 306.31,
+            "description": "revolutionize end-to-end eyeballs",
+            "hours": 8.77,
+            "rate": 4.27
+        }
+    ],
+    "seller": {
+        "address": "508 Soto Mountains Timothymouth, VI 68425",
+        "email": "hallen@example.org",
+        "name": "Linda House"
+    },
+    "tax": {
+        "base": 15.88,
+        "tax_amount": 20.0,
+        "total_tax": 27.39
+    }
+}

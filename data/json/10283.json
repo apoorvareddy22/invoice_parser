@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "1410 Carolyn Freeway Apt. 664 Harrisonside, NY 82254",
+        "email": "hjacobson@example.net",
+        "phone": "001-212-419-6632x69831",
+        "vat_no": "gS88720775583"
+    },
+    "invoice": {
+        "date": "12.01.2019",
+        "due_date": "30.08.2006",
+        "market_reference": 124121,
+        "notes": "expedite extensible networks",
+        "number": "1027-7436",
+        "reference": 649417,
+        "vat_no": "JG86632921577"
+    },
+    "payment": {
+        "net_total": 87.32,
+        "total": 826.35
+    },
+    "products": [
+        {
+            "amount": 316.41,
+            "description": "scale 24/7 technologies",
+            "hours": 1.12,
+            "rate": 8.45
+        },
+        {
+            "amount": 33.32,
+            "description": "utilize proactive methodologies",
+            "hours": 7.82,
+            "rate": 2.63
+        },
+        {
+            "amount": 272.12,
+            "description": "extend virtual supply-chains",
+            "hours": 9.38,
+            "rate": 7.54
+        },
+        {
+            "amount": 287.84,
+            "description": "aggregate wireless e-services",
+            "hours": 2.0,
+            "rate": 1.56
+        }
+    ],
+    "seller": {
+        "address": "085 Young Plains South Andre, GA 06875",
+        "email": "caitlinharris@example.net",
+        "name": "Alexander Perez"
+    },
+    "tax": {
+        "base": 18.78,
+        "tax_amount": 13.76,
+        "total_tax": 26.89
+    }
+}

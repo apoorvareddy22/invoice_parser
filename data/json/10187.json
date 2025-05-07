@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "73585 Catherine Springs Apt. 588 New Michael, KS 02689",
+        "email": "dawsonalexandra@example.net",
+        "phone": "357.337.9569",
+        "vat_no": "RY54511919076"
+    },
+    "invoice": {
+        "date": "16.06.2021",
+        "due_date": "31.12.2006",
+        "market_reference": 508154,
+        "notes": "orchestrate proactive metrics",
+        "number": "0115-9278",
+        "reference": 566369,
+        "vat_no": "gi85183561986"
+    },
+    "payment": {
+        "net_total": 114.95,
+        "total": 173.85
+    },
+    "products": [
+        {
+            "amount": 425.84,
+            "description": "transform seamless infrastructures",
+            "hours": 3.61,
+            "rate": 4.15
+        }
+    ],
+    "seller": {
+        "address": "090 Gutierrez Plains Apt. 971 East Elizabeth, FL 87138",
+        "email": "jorgebird@example.org",
+        "name": "Ivan Berry"
+    },
+    "tax": {
+        "base": 23.96,
+        "tax_amount": 12.5,
+        "total_tax": 13.37
+    }
+}

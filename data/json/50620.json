@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "2995 Thomas Squares South Charlesburgh, MA 63871",
+        "id": "ba264"
+    },
+    "invoice": {
+        "bc_no": "nT87474",
+        "currency_code": "LBP",
+        "date": "05.04.2003",
+        "due_date": "30.01.2009",
+        "number": 860433
+    },
+    "payment": {
+        "bank_name": "Parker, Bridges and Perez",
+        "bic": "NKMHGB1R",
+        "iban": "TMAX35704072707386"
+    },
+    "products": [
+        {
+            "amount": 341.0,
+            "description": "synergize turn-key vortals",
+            "index": "5",
+            "price": 370.18,
+            "quantity": 8.04,
+            "tax_amount": 62.32,
+            "total_ttc": 214.2,
+            "vat_amount": 0.73
+        },
+        {
+            "amount": 67.25,
+            "description": "morph granular infrastructures",
+            "index": "3",
+            "price": 461.58,
+            "quantity": 3.81,
+            "tax_amount": 44.62,
+            "total_ttc": 453.02,
+            "vat_amount": 6.89
+        },
+        {
+            "amount": 392.68,
+            "description": "redefine end-to-end systems",
+            "index": "4",
+            "price": 217.82,
+            "quantity": 2.28,
+            "tax_amount": 73.4,
+            "total_ttc": 499.85,
+            "vat_amount": 0.41
+        },
+        {
+            "amount": 368.38,
+            "description": "maximize killer relationships",
+            "index": "9",
+            "price": 471.09,
+            "quantity": 3.45,
+            "tax_amount": 76.78,
+            "total_ttc": 159.4,
+            "vat_amount": 1.92
+        }
+    ],
+    "seller": {
+        "name": "Heidi Willis"
+    },
+    "supplier": {
+        "address": "0813 Conley Mission Lake Rachel, MD 12223",
+        "name": "Andrew Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 143.67,
+        "amount_including_tax": 130.33,
+        "tax_amount": 12.8,
+        "total_ht": 333.93,
+        "total_ttc": 447.8
+    }
+}

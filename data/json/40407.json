@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "205 Michael Trafficway Christyport, FL 10833"
+    },
+    "invoice": {
+        "bc_no": "qv95200",
+        "date": "27.02.1990",
+        "maturity_date": "25.11.1996",
+        "number": 352329
+    },
+    "products": [
+        {
+            "amount": 303.77,
+            "description": "maximize synergistic niches",
+            "quantity": 1.02,
+            "unit_price": 54.45,
+            "vat_amount": 9.63
+        },
+        {
+            "amount": 497.1,
+            "description": "deploy collaborative relationships",
+            "quantity": 6.8,
+            "unit_price": 19.53,
+            "vat_amount": 3.51
+        },
+        {
+            "amount": 363.88,
+            "description": "exploit cross-media networks",
+            "quantity": 2.72,
+            "unit_price": 68.28,
+            "vat_amount": 8.46
+        }
+    ],
+    "seller": {
+        "address": "395 Benjamin Loop Oliverhaven, IN 59300"
+    },
+    "tax": {
+        "amount_excluding_tax": 172.74,
+        "amount_including_tax": 129.13,
+        "tax_amount": 25.92
+    }
+}

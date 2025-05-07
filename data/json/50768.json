@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "22331 Haynes Plaza West Christopher, VT 46249",
+        "id": "lJ881"
+    },
+    "invoice": {
+        "bc_no": "sv82714",
+        "currency_code": "XAF",
+        "date": "27.02.2017",
+        "due_date": "08.07.1998",
+        "number": 497423
+    },
+    "payment": {
+        "bank_name": "Kramer-Johnson",
+        "bic": "RHURGB38ET9",
+        "iban": "TEYY52720503851154"
+    },
+    "products": [
+        {
+            "amount": 310.12,
+            "description": "synergize scalable paradigms",
+            "index": "9",
+            "price": 445.78,
+            "quantity": 9.28,
+            "tax_amount": 55.71,
+            "total_ttc": 399.56,
+            "vat_amount": 3.51
+        },
+        {
+            "amount": 238.01,
+            "description": "enable cross-platform functionalities",
+            "index": "2",
+            "price": 88.73,
+            "quantity": 9.32,
+            "tax_amount": 21.55,
+            "total_ttc": 451.88,
+            "vat_amount": 11.1
+        },
+        {
+            "amount": 74.56,
+            "description": "strategize plug-and-play web services",
+            "index": "6",
+            "price": 52.35,
+            "quantity": 3.3,
+            "tax_amount": 87.31,
+            "total_ttc": 149.44,
+            "vat_amount": 13.73
+        },
+        {
+            "amount": 438.74,
+            "description": "harness back-end methodologies",
+            "index": "2",
+            "price": 489.19,
+            "quantity": 4.06,
+            "tax_amount": 38.01,
+            "total_ttc": 161.62,
+            "vat_amount": 0.92
+        },
+        {
+            "amount": 478.32,
+            "description": "facilitate one-to-one deliverables",
+            "index": "10",
+            "price": 131.77,
+            "quantity": 9.72,
+            "tax_amount": 60.35,
+            "total_ttc": 291.79,
+            "vat_amount": 0.33
+        }
+    ],
+    "seller": {
+        "name": "Eric Nguyen"
+    },
+    "supplier": {
+        "address": "228 Steven Summit Suite 504 Kristentown, VA 44350",
+        "name": "Justin Mccoy Jr."
+    },
+    "tax": {
+        "amount_excluding_tax": 118.01,
+        "amount_including_tax": 66.43,
+        "tax_amount": 12.16,
+        "total_ht": 299.74,
+        "total_ttc": 373.41
+    }
+}

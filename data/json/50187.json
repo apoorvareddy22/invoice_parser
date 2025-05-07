@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "3739 Johnson Rest Suite 964 Sheilaton, MI 49296",
+        "id": "KL879"
+    },
+    "invoice": {
+        "bc_no": "HJ80490",
+        "currency_code": "USD",
+        "date": "29.09.2016",
+        "due_date": "27.04.2003",
+        "number": 407647
+    },
+    "payment": {
+        "bank_name": "Rubio and Sons",
+        "bic": "PFNPGBY3",
+        "iban": "ATPY24685561768890"
+    },
+    "products": [
+        {
+            "amount": 173.41,
+            "description": "whiteboard dot-com methodologies",
+            "index": "5",
+            "price": 163.0,
+            "quantity": 4.68,
+            "tax_amount": 22.77,
+            "total_ttc": 232.06,
+            "vat_amount": 0.13
+        },
+        {
+            "amount": 324.7,
+            "description": "cultivate bleeding-edge schemas",
+            "index": "6",
+            "price": 251.17,
+            "quantity": 5.88,
+            "tax_amount": 92.14,
+            "total_ttc": 251.9,
+            "vat_amount": 1.72
+        },
+        {
+            "amount": 228.84,
+            "description": "engineer vertical action-items",
+            "index": "1",
+            "price": 367.43,
+            "quantity": 4.12,
+            "tax_amount": 31.0,
+            "total_ttc": 258.9,
+            "vat_amount": 8.41
+        }
+    ],
+    "seller": {
+        "name": "Jacob Winters"
+    },
+    "supplier": {
+        "address": "74748 Karen Turnpike Tamiside, NH 04463",
+        "name": "Justin Wilson"
+    },
+    "tax": {
+        "amount_excluding_tax": 21.81,
+        "amount_including_tax": 102.16,
+        "tax_amount": 15.46,
+        "total_ht": 115.35,
+        "total_ttc": 373.54
+    }
+}

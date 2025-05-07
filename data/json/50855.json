@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "9418 Shannon Islands Carolynberg, IL 07210",
+        "id": "HT891"
+    },
+    "invoice": {
+        "bc_no": "ik37415",
+        "currency_code": "PAB",
+        "date": "08.01.2009",
+        "due_date": "09.06.2001",
+        "number": 428955
+    },
+    "payment": {
+        "bank_name": "Shepherd-Benton",
+        "bic": "YQIXGBWI",
+        "iban": "BCDB42738175382596"
+    },
+    "products": [
+        {
+            "amount": 419.62,
+            "description": "re-contextualize front-end architectures",
+            "index": "3",
+            "price": 125.79,
+            "quantity": 1.22,
+            "tax_amount": 38.25,
+            "total_ttc": 424.76,
+            "vat_amount": 5.26
+        },
+        {
+            "amount": 47.28,
+            "description": "morph value-added action-items",
+            "index": "1",
+            "price": 457.04,
+            "quantity": 8.58,
+            "tax_amount": 91.29,
+            "total_ttc": 118.7,
+            "vat_amount": 1.89
+        }
+    ],
+    "seller": {
+        "name": "Amber Leonard"
+    },
+    "supplier": {
+        "address": "3290 Joanne Village North Kelly, OK 15863",
+        "name": "Mr. Andres Rich Jr."
+    },
+    "tax": {
+        "amount_excluding_tax": 180.04,
+        "amount_including_tax": 162.31,
+        "tax_amount": 21.58,
+        "total_ht": 347.69,
+        "total_ttc": 449.17
+    }
+}

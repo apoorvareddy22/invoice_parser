@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "879 Torres Glens Mooretown, GA 36872",
+        "company_name": "Davis Inc",
+        "country": "Botswana",
+        "name": "Shannon Kidd"
+    },
+    "invoice": {
+        "date": "11.04.2022",
+        "number": 521656
+    },
+    "payment": {
+        "discount_amount": 46.58,
+        "discount_percentage": 7.27,
+        "due": 177.29,
+        "sub_total": 52.78,
+        "total": 920.09
+    },
+    "products": [
+        {
+            "description": "transform plug-and-play eyeballs",
+            "index": "5",
+            "quantity": 6.61,
+            "total_price": 388.83,
+            "unit_price": 12.97
+        },
+        {
+            "description": "envisioneer strategic e-commerce",
+            "index": "10",
+            "quantity": 6.86,
+            "total_price": 840.08,
+            "unit_price": 80.94
+        },
+        {
+            "description": "repurpose vertical communities",
+            "index": "7",
+            "quantity": 9.02,
+            "total_price": 606.31,
+            "unit_price": 61.54
+        },
+        {
+            "description": "embrace front-end networks",
+            "index": "8",
+            "quantity": 4.29,
+            "total_price": 720.18,
+            "unit_price": 72.55
+        }
+    ],
+    "seller": {
+        "address": "58481 Steele Isle South Shawnberg, MD 62191",
+        "company_name": "Jones-Reed",
+        "vat_no": "tT36461416606"
+    }
+}

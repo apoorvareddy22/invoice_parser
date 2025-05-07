@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "5983 Jeremy Fields Suite 260 Lake Michael, GU 65867",
+        "business_no": "dr784",
+        "id": "Dg383"
+    },
+    "invoice": {
+        "date": "01.02.2007",
+        "number": "7611-9896"
+    },
+    "payment": {
+        "due_date": "22.09.2021",
+        "total": 732.23
+    },
+    "products": [
+        {
+            "amount": 287.77,
+            "description": "revolutionize strategic ROI",
+            "quantity": 8.88,
+            "reference": "ng-333",
+            "unit_price": 98.61
+        },
+        {
+            "amount": 36.11,
+            "description": "utilize frictionless action-items",
+            "quantity": 4.38,
+            "reference": "wL-034",
+            "unit_price": 32.53
+        },
+        {
+            "amount": 432.53,
+            "description": "extend bricks-and-clicks action-items",
+            "quantity": 8.98,
+            "reference": "IO-423",
+            "unit_price": 11.59
+        }
+    ],
+    "seller": {
+        "address": "7311 Lewis Underpass Suite 980 West Michelle, KY 36621"
+    },
+    "tax": {
+        "base_ht": 412.46,
+        "regulations": 21.2,
+        "total_ht": 494.57,
+        "vat_amount": 22.11,
+        "vat_percentage": 21.2
+    }
+}

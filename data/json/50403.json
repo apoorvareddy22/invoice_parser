@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "8365 Nicholas Brook Apt. 251 West Cynthia, TX 65651",
+        "id": "Sb591"
+    },
+    "invoice": {
+        "bc_no": "Mm47380",
+        "currency_code": "ZWD",
+        "date": "11.11.2007",
+        "due_date": "09.02.2023",
+        "number": 785143
+    },
+    "payment": {
+        "bank_name": "Jones-Ponce",
+        "bic": "KLOWGBHG",
+        "iban": "SPZF16482311433677"
+    },
+    "products": [
+        {
+            "amount": 344.7,
+            "description": "strategize integrated e-markets",
+            "index": "4",
+            "price": 291.52,
+            "quantity": 9.95,
+            "tax_amount": 40.42,
+            "total_ttc": 383.1,
+            "vat_amount": 1.7
+        },
+        {
+            "amount": 8.25,
+            "description": "re-contextualize dynamic schemas",
+            "index": "3",
+            "price": 267.93,
+            "quantity": 9.24,
+            "tax_amount": 87.64,
+            "total_ttc": 348.53,
+            "vat_amount": 1.55
+        },
+        {
+            "amount": 349.32,
+            "description": "grow scalable niches",
+            "index": "7",
+            "price": 67.15,
+            "quantity": 5.93,
+            "tax_amount": 64.47,
+            "total_ttc": 124.15,
+            "vat_amount": 2.95
+        },
+        {
+            "amount": 6.4,
+            "description": "innovate scalable vortals",
+            "index": "6",
+            "price": 224.56,
+            "quantity": 8.95,
+            "tax_amount": 93.99,
+            "total_ttc": 343.91,
+            "vat_amount": 0.78
+        },
+        {
+            "amount": 415.36,
+            "description": "grow vertical initiatives",
+            "index": "4",
+            "price": 142.36,
+            "quantity": 5.5,
+            "tax_amount": 47.13,
+            "total_ttc": 209.85,
+            "vat_amount": 9.26
+        }
+    ],
+    "seller": {
+        "name": "William Eaton"
+    },
+    "supplier": {
+        "address": "5082 Katie Unions Suite 461 Margaretbury, VT 59572",
+        "name": "Crystal Gutierrez"
+    },
+    "tax": {
+        "amount_excluding_tax": 157.61,
+        "amount_including_tax": 172.62,
+        "tax_amount": 27.72,
+        "total_ht": 428.35,
+        "total_ttc": 352.13
+    }
+}

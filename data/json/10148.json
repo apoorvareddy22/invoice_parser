@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "2519 Vasquez Plaza Suite 065 Smithtown, OK 61765",
+        "email": "stephencabrera@example.net",
+        "phone": "001-730-520-9941x6858",
+        "vat_no": "vg32471033851"
+    },
+    "invoice": {
+        "date": "11.03.2008",
+        "due_date": "28.11.2013",
+        "market_reference": 576279,
+        "notes": "productize clicks-and-mortar architectures",
+        "number": "8974-8295",
+        "reference": 711277,
+        "vat_no": "RR42662501295"
+    },
+    "payment": {
+        "net_total": 89.4,
+        "total": 800.79
+    },
+    "products": [
+        {
+            "amount": 313.89,
+            "description": "innovate seamless e-tailers",
+            "hours": 2.81,
+            "rate": 3.36
+        },
+        {
+            "amount": 475.39,
+            "description": "leverage innovative relationships",
+            "hours": 2.94,
+            "rate": 2.36
+        },
+        {
+            "amount": 288.86,
+            "description": "architect magnetic e-business",
+            "hours": 5.72,
+            "rate": 8.56
+        },
+        {
+            "amount": 465.03,
+            "description": "brand value-added mindshare",
+            "hours": 4.49,
+            "rate": 9.39
+        }
+    ],
+    "seller": {
+        "address": "9897 Oscar Camp Pattersonshire, LA 64972",
+        "email": "steven91@example.org",
+        "name": "Tara Matthews"
+    },
+    "tax": {
+        "base": 28.51,
+        "tax_amount": 24.52,
+        "total_tax": 26.49
+    }
+}

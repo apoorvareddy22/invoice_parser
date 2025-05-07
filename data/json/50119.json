@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "110 Matthew Stream Sandrastad, FM 24831",
+        "id": "Rt075"
+    },
+    "invoice": {
+        "bc_no": "bf15213",
+        "currency_code": "TTD",
+        "date": "29.10.2012",
+        "due_date": "11.08.2001",
+        "number": 291413
+    },
+    "payment": {
+        "bank_name": "Mclean-Lowery",
+        "bic": "FDHLGBCNZMH",
+        "iban": "IBDB97713683035007"
+    },
+    "products": [
+        {
+            "amount": 267.78,
+            "description": "exploit visionary functionalities",
+            "index": "7",
+            "price": 316.54,
+            "quantity": 1.81,
+            "tax_amount": 65.67,
+            "total_ttc": 305.64,
+            "vat_amount": 0.92
+        },
+        {
+            "amount": 207.68,
+            "description": "enable visionary solutions",
+            "index": "8",
+            "price": 378.74,
+            "quantity": 5.1,
+            "tax_amount": 68.32,
+            "total_ttc": 386.49,
+            "vat_amount": 2.06
+        }
+    ],
+    "seller": {
+        "name": "Daisy Anderson"
+    },
+    "supplier": {
+        "address": "3374 Andrews Stream Lake Dawntown, IL 70921",
+        "name": "Christine Hancock"
+    },
+    "tax": {
+        "amount_excluding_tax": 173.82,
+        "amount_including_tax": 153.0,
+        "tax_amount": 20.71,
+        "total_ht": 120.72,
+        "total_ttc": 358.2
+    }
+}

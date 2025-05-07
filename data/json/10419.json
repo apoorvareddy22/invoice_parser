@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "4692 Davenport Ville Apt. 370 Sanchezview, CT 53365",
+        "email": "michaelsanders@example.org",
+        "phone": "533-260-9693x6571",
+        "vat_no": "kg50022319611"
+    },
+    "invoice": {
+        "date": "22.06.2023",
+        "due_date": "20.03.2001",
+        "market_reference": 439580,
+        "notes": "repurpose interactive channels",
+        "number": "0590-3055",
+        "reference": 859061,
+        "vat_no": "jW85503508270"
+    },
+    "payment": {
+        "net_total": 91.12,
+        "total": 787.38
+    },
+    "products": [
+        {
+            "amount": 406.19,
+            "description": "transition dynamic supply-chains",
+            "hours": 5.56,
+            "rate": 3.97
+        },
+        {
+            "amount": 62.01,
+            "description": "leverage dynamic schemas",
+            "hours": 5.78,
+            "rate": 2.19
+        }
+    ],
+    "seller": {
+        "address": "292 Amanda Park Suite 219 Mackenzieside, AK 07743",
+        "email": "cherylbrown@example.org",
+        "name": "Matthew Taylor"
+    },
+    "tax": {
+        "base": 10.72,
+        "tax_amount": 26.87,
+        "total_tax": 24.32
+    }
+}

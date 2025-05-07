@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "992 Michael Forge Suite 882 North Trevorborough, MD 93488",
+        "business_no": "Go479",
+        "id": "iE296"
+    },
+    "invoice": {
+        "date": "30.10.1992",
+        "number": "3468-8307"
+    },
+    "payment": {
+        "due_date": "10.04.1996",
+        "total": 159.35
+    },
+    "products": [
+        {
+            "amount": 121.25,
+            "description": "whiteboard best-of-breed portals",
+            "quantity": 2.53,
+            "reference": "hT-966",
+            "unit_price": 99.59
+        },
+        {
+            "amount": 10.03,
+            "description": "matrix 24/365 technologies",
+            "quantity": 3.38,
+            "reference": "xv-756",
+            "unit_price": 38.07
+        },
+        {
+            "amount": 39.46,
+            "description": "cultivate granular niches",
+            "quantity": 5.32,
+            "reference": "Vv-292",
+            "unit_price": 88.15
+        },
+        {
+            "amount": 323.66,
+            "description": "unleash back-end applications",
+            "quantity": 2.4,
+            "reference": "Yq-439",
+            "unit_price": 32.21
+        }
+    ],
+    "seller": {
+        "address": "USCGC Ray FPO AE 37711"
+    },
+    "tax": {
+        "base_ht": 167.54,
+        "regulations": 28.42,
+        "total_ht": 174.62,
+        "vat_amount": 101.99,
+        "vat_percentage": 10.05
+    }
+}

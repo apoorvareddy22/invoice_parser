@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "35672 Jones Fork Suite 006 Cooktown, NC 77283",
+        "company_name": "Hall and Sons",
+        "email": "lisa48@example.net",
+        "name": "Carol Blankenship",
+        "phone": "754-455-5009x304"
+    },
+    "invoice": {
+        "date": "25.11.2000",
+        "due_date": "11.04.2018",
+        "number": "uJa20643402702"
+    },
+    "payment": {
+        "account_number": 1658839672,
+        "bank_name": "Horton and Sons",
+        "routing_number": 947586977
+    },
+    "products": [
+        {
+            "amount": 466.81,
+            "description": "extend collaborative e-commerce",
+            "index": "7",
+            "quantity": 6.2,
+            "unit_price": 63.67
+        },
+        {
+            "amount": 381.01,
+            "description": "deploy intuitive web-readiness",
+            "index": "5",
+            "quantity": 2.24,
+            "unit_price": 78.35
+        },
+        {
+            "amount": 251.5,
+            "description": "e-enable viral networks",
+            "index": "10",
+            "quantity": 1.39,
+            "unit_price": 75.18
+        },
+        {
+            "amount": 428.15,
+            "description": "unleash B2C schemas",
+            "index": "3",
+            "quantity": 4.08,
+            "unit_price": 77.07
+        },
+        {
+            "amount": 189.85,
+            "description": "morph 24/365 experiences",
+            "index": "9",
+            "quantity": 3.86,
+            "unit_price": 50.99
+        }
+    ],
+    "seller": {
+        "address": "40138 Tina Rest Maldonadofort, MI 58145",
+        "company_name": "Williams-Rodriguez",
+        "email": "anna16@example.com"
+    }
+}

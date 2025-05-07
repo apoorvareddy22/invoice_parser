@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "686 Teresa Ridges Mirandabury, OH 67994",
+        "id": "Fm576"
+    },
+    "invoice": {
+        "bc_no": "kw84038",
+        "currency_code": "JMD",
+        "date": "25.11.2003",
+        "due_date": "07.01.2009",
+        "number": 294297
+    },
+    "payment": {
+        "bank_name": "Rich, Sanders and Johnson",
+        "bic": "LOLYGBGG",
+        "iban": "FOGG16091621906932"
+    },
+    "products": [
+        {
+            "amount": 258.37,
+            "description": "engineer intuitive mindshare",
+            "index": "10",
+            "price": 272.12,
+            "quantity": 9.27,
+            "tax_amount": 24.12,
+            "total_ttc": 308.36,
+            "vat_amount": 3.09
+        },
+        {
+            "amount": 16.06,
+            "description": "transform killer infrastructures",
+            "index": "8",
+            "price": 481.12,
+            "quantity": 7.02,
+            "tax_amount": 59.52,
+            "total_ttc": 368.66,
+            "vat_amount": 5.29
+        },
+        {
+            "amount": 36.43,
+            "description": "innovate innovative models",
+            "index": "2",
+            "price": 257.9,
+            "quantity": 2.91,
+            "tax_amount": 96.72,
+            "total_ttc": 272.0,
+            "vat_amount": 6.42
+        }
+    ],
+    "seller": {
+        "name": "Steve Schroeder"
+    },
+    "supplier": {
+        "address": "4019 Miller Hill Andrewsborough, WV 53889",
+        "name": "Lynn Miller"
+    },
+    "tax": {
+        "amount_excluding_tax": 151.47,
+        "amount_including_tax": 75.37,
+        "tax_amount": 14.75,
+        "total_ht": 340.33,
+        "total_ttc": 297.34
+    }
+}

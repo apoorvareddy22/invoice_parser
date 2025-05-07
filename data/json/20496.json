@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "973 Thompson Village Kellyland, SD 25760",
+        "company_name": "Roberts-Myers",
+        "email": "dthomas@example.org",
+        "name": "Alan Banks",
+        "phone": "598.429.2653x29182"
+    },
+    "invoice": {
+        "date": "16.02.2011",
+        "due_date": "17.07.2009",
+        "number": "yyY91669071739"
+    },
+    "payment": {
+        "account_number": 9372879730,
+        "bank_name": "Roberts, Byrd and Sexton",
+        "routing_number": 596934868
+    },
+    "products": [
+        {
+            "amount": 356.72,
+            "description": "innovate enterprise action-items",
+            "index": "2",
+            "quantity": 6.04,
+            "unit_price": 99.27
+        },
+        {
+            "amount": 104.01,
+            "description": "grow strategic initiatives",
+            "index": "2",
+            "quantity": 7.2,
+            "unit_price": 60.0
+        }
+    ],
+    "seller": {
+        "address": "34667 Williamson Stream Shieldsshire, NE 63527",
+        "company_name": "Foster, Hill and Bell",
+        "email": "bbennett@example.org"
+    }
+}

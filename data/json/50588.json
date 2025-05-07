@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "PSC 6361, Box 2412 APO AP 45192",
+        "id": "fk035"
+    },
+    "invoice": {
+        "bc_no": "lm23235",
+        "currency_code": "CVE",
+        "date": "16.05.2000",
+        "due_date": "27.03.2016",
+        "number": 570123
+    },
+    "payment": {
+        "bank_name": "Ruiz, Flores and Williams",
+        "bic": "MTDIGB86",
+        "iban": "WJJT41889500673212"
+    },
+    "products": [
+        {
+            "amount": 129.53,
+            "description": "integrate customized users",
+            "index": "7",
+            "price": 173.91,
+            "quantity": 4.46,
+            "tax_amount": 88.11,
+            "total_ttc": 423.17,
+            "vat_amount": 5.74
+        },
+        {
+            "amount": 346.02,
+            "description": "engineer end-to-end networks",
+            "index": "6",
+            "price": 170.92,
+            "quantity": 1.21,
+            "tax_amount": 54.7,
+            "total_ttc": 147.81,
+            "vat_amount": 3.82
+        },
+        {
+            "amount": 278.65,
+            "description": "revolutionize strategic ROI",
+            "index": "10",
+            "price": 24.99,
+            "quantity": 6.72,
+            "tax_amount": 82.68,
+            "total_ttc": 248.33,
+            "vat_amount": 8.98
+        },
+        {
+            "amount": 233.61,
+            "description": "matrix killer eyeballs",
+            "index": "10",
+            "price": 117.47,
+            "quantity": 7.25,
+            "tax_amount": 77.89,
+            "total_ttc": 367.39,
+            "vat_amount": 0.62
+        }
+    ],
+    "seller": {
+        "name": "Jacob Ford"
+    },
+    "supplier": {
+        "address": "5118 Emma Underpass Suite 367 Dianeview, OK 75793",
+        "name": "Amy Jones"
+    },
+    "tax": {
+        "amount_excluding_tax": 191.86,
+        "amount_including_tax": 134.9,
+        "tax_amount": 18.44,
+        "total_ht": 490.39,
+        "total_ttc": 473.0
+    }
+}

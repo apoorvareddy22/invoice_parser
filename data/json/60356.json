@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "359 Best Camp Lake James, KY 39708",
+        "business_no": "GX160",
+        "id": "wp647"
+    },
+    "invoice": {
+        "date": "28.10.2004",
+        "number": "2197-5078"
+    },
+    "payment": {
+        "due_date": "18.08.2009",
+        "total": 935.59
+    },
+    "products": [
+        {
+            "amount": 499.94,
+            "description": "harness global interfaces",
+            "quantity": 6.04,
+            "reference": "wN-825",
+            "unit_price": 66.3
+        }
+    ],
+    "seller": {
+        "address": "Unit 4673 Box 7966 DPO AP 44447"
+    },
+    "tax": {
+        "base_ht": 117.24,
+        "regulations": 17.48,
+        "total_ht": 123.35,
+        "vat_amount": 88.13,
+        "vat_percentage": 13.05
+    }
+}

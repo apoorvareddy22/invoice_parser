@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "7326 Terry Rest Parkerville, NH 62231",
+        "company_name": "Thompson, Nielsen and Vasquez",
+        "email": "woodwarren@example.net",
+        "name": "Shelly Stevenson",
+        "phone": "(999)517-8007x51029"
+    },
+    "invoice": {
+        "date": "25.01.2015",
+        "due_date": "16.09.1993",
+        "number": "gYo00415284435"
+    },
+    "payment": {
+        "account_number": 6410884220,
+        "bank_name": "Walsh Ltd",
+        "routing_number": 123577143
+    },
+    "products": [
+        {
+            "amount": 307.35,
+            "description": "extend revolutionary metrics",
+            "index": "7",
+            "quantity": 1.63,
+            "unit_price": 60.36
+        },
+        {
+            "amount": 210.37,
+            "description": "cultivate efficient supply-chains",
+            "index": "5",
+            "quantity": 7.03,
+            "unit_price": 20.42
+        },
+        {
+            "amount": 394.21,
+            "description": "re-intermediate rich initiatives",
+            "index": "5",
+            "quantity": 9.42,
+            "unit_price": 15.73
+        },
+        {
+            "amount": 290.1,
+            "description": "envisioneer web-enabled partnerships",
+            "index": "4",
+            "quantity": 9.18,
+            "unit_price": 41.68
+        }
+    ],
+    "seller": {
+        "address": "Unit 9601 Box 1120 DPO AA 58537",
+        "company_name": "Powers, Taylor and King",
+        "email": "ricky31@example.net"
+    }
+}

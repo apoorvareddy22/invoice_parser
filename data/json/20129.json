@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "USS Moran FPO AP 97543",
+        "company_name": "Colon, Butler and Moreno",
+        "email": "gonzalezzachary@example.com",
+        "name": "Paul Finley",
+        "phone": "525-973-8260x3274"
+    },
+    "invoice": {
+        "date": "26.03.1997",
+        "due_date": "08.11.2009",
+        "number": "Njv10945953124"
+    },
+    "payment": {
+        "account_number": 6574191040,
+        "bank_name": "Hernandez, Lopez and Gallegos",
+        "routing_number": 866449131
+    },
+    "products": [
+        {
+            "amount": 132.21,
+            "description": "scale interactive initiatives",
+            "index": "10",
+            "quantity": 1.53,
+            "unit_price": 72.33
+        },
+        {
+            "amount": 17.42,
+            "description": "repurpose user-centric bandwidth",
+            "index": "5",
+            "quantity": 9.66,
+            "unit_price": 41.83
+        }
+    ],
+    "seller": {
+        "address": "119 Rosales Crossroad East Thomas, ME 84531",
+        "company_name": "Wong LLC",
+        "email": "mmooney@example.net"
+    }
+}

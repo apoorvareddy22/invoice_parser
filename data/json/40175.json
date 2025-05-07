@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "3146 Zachary Center Suite 716 Tammytown, KS 26615"
+    },
+    "invoice": {
+        "bc_no": "Mq76542",
+        "date": "13.11.1990",
+        "maturity_date": "13.07.2015",
+        "number": 979585
+    },
+    "products": [
+        {
+            "amount": 340.94,
+            "description": "syndicate plug-and-play bandwidth",
+            "quantity": 6.96,
+            "unit_price": 32.5,
+            "vat_amount": 5.27
+        },
+        {
+            "amount": 327.5,
+            "description": "synthesize impactful e-markets",
+            "quantity": 7.9,
+            "unit_price": 81.91,
+            "vat_amount": 6.14
+        },
+        {
+            "amount": 188.05,
+            "description": "incubate 24/365 solutions",
+            "quantity": 1.44,
+            "unit_price": 48.61,
+            "vat_amount": 0.2
+        }
+    ],
+    "seller": {
+        "address": "53809 Allen Avenue Laurenville, SD 78855"
+    },
+    "tax": {
+        "amount_excluding_tax": 41.32,
+        "amount_including_tax": 132.15,
+        "tax_amount": 19.95
+    }
+}

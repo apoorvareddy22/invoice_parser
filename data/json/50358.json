@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "4289 Barrett Springs New Janetberg, WI 76328",
+        "id": "lC947"
+    },
+    "invoice": {
+        "bc_no": "jQ14343",
+        "currency_code": "TWD",
+        "date": "06.04.2014",
+        "due_date": "26.06.2012",
+        "number": 401351
+    },
+    "payment": {
+        "bank_name": "Brown PLC",
+        "bic": "CBSKGB2F",
+        "iban": "XPAY97252641865076"
+    },
+    "products": [
+        {
+            "amount": 56.12,
+            "description": "innovate bricks-and-clicks models",
+            "index": "9",
+            "price": 118.51,
+            "quantity": 8.46,
+            "tax_amount": 54.81,
+            "total_ttc": 424.82,
+            "vat_amount": 9.58
+        },
+        {
+            "amount": 16.86,
+            "description": "repurpose granular models",
+            "index": "3",
+            "price": 121.69,
+            "quantity": 3.16,
+            "tax_amount": 28.8,
+            "total_ttc": 422.84,
+            "vat_amount": 7.69
+        },
+        {
+            "amount": 181.41,
+            "description": "incentivize web-enabled communities",
+            "index": "9",
+            "price": 182.69,
+            "quantity": 3.35,
+            "tax_amount": 39.58,
+            "total_ttc": 161.22,
+            "vat_amount": 2.79
+        },
+        {
+            "amount": 359.76,
+            "description": "repurpose ubiquitous e-tailers",
+            "index": "3",
+            "price": 209.05,
+            "quantity": 1.41,
+            "tax_amount": 45.81,
+            "total_ttc": 114.0,
+            "vat_amount": 2.19
+        },
+        {
+            "amount": 263.66,
+            "description": "iterate collaborative deliverables",
+            "index": "7",
+            "price": 30.36,
+            "quantity": 8.76,
+            "tax_amount": 62.55,
+            "total_ttc": 114.47,
+            "vat_amount": 14.97
+        },
+        {
+            "amount": 153.62,
+            "description": "grow bleeding-edge models",
+            "index": "10",
+            "price": 186.43,
+            "quantity": 1.59,
+            "tax_amount": 17.25,
+            "total_ttc": 284.53,
+            "vat_amount": 12.45
+        },
+        {
+            "amount": 17.96,
+            "description": "e-enable magnetic deliverables",
+            "index": "9",
+            "price": 228.93,
+            "quantity": 4.86,
+            "tax_amount": 49.22,
+            "total_ttc": 402.24,
+            "vat_amount": 14.66
+        }
+    ],
+    "seller": {
+        "name": "Chelsea Munoz"
+    },
+    "supplier": {
+        "address": "388 Ross Roads Port Matthew, SD 87136",
+        "name": "Erin Miller"
+    },
+    "tax": {
+        "amount_excluding_tax": 116.23,
+        "amount_including_tax": 170.73,
+        "tax_amount": 12.58,
+        "total_ht": 292.18,
+        "total_ttc": 239.49
+    }
+}

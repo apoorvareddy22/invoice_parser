@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "0026 Reynolds Cliffs Suite 310 Booneville, AL 21401",
+        "id": "tX131"
+    },
+    "invoice": {
+        "bc_no": "qf76341",
+        "currency_code": "BWP",
+        "date": "29.01.2004",
+        "due_date": "08.10.1997",
+        "number": 911249
+    },
+    "payment": {
+        "bank_name": "Williams LLC",
+        "bic": "MICGGBJC",
+        "iban": "KIGC14065257898673"
+    },
+    "products": [
+        {
+            "amount": 469.54,
+            "description": "morph bleeding-edge methodologies",
+            "index": "1",
+            "price": 216.37,
+            "quantity": 9.81,
+            "tax_amount": 16.67,
+            "total_ttc": 102.33,
+            "vat_amount": 1.08
+        },
+        {
+            "amount": 89.65,
+            "description": "brand intuitive relationships",
+            "index": "3",
+            "price": 308.51,
+            "quantity": 3.73,
+            "tax_amount": 50.56,
+            "total_ttc": 394.4,
+            "vat_amount": 7.26
+        },
+        {
+            "amount": 205.75,
+            "description": "embrace killer functionalities",
+            "index": "9",
+            "price": 388.61,
+            "quantity": 4.35,
+            "tax_amount": 34.71,
+            "total_ttc": 387.92,
+            "vat_amount": 10.56
+        }
+    ],
+    "seller": {
+        "name": "Paige Douglas"
+    },
+    "supplier": {
+        "address": "0453 Monica Fort East Calvinview, PA 37410",
+        "name": "Bailey Gilbert"
+    },
+    "tax": {
+        "amount_excluding_tax": 104.69,
+        "amount_including_tax": 60.59,
+        "tax_amount": 12.28,
+        "total_ht": 395.62,
+        "total_ttc": 481.32
+    }
+}

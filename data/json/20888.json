@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "2749 Tate Drive Apt. 665 East Troyhaven, NC 92807",
+        "company_name": "Peterson-Wallace",
+        "email": "crawfordchristian@example.com",
+        "name": "Kimberly Long",
+        "phone": "209-958-3025"
+    },
+    "invoice": {
+        "date": "08.03.2012",
+        "due_date": "17.10.2017",
+        "number": "KIq95988310083"
+    },
+    "payment": {
+        "account_number": 8003708083,
+        "bank_name": "Williams, Berger and Brown",
+        "routing_number": 768660969
+    },
+    "products": [
+        {
+            "amount": 212.41,
+            "description": "strategize viral models",
+            "index": "5",
+            "quantity": 6.79,
+            "unit_price": 52.14
+        },
+        {
+            "amount": 446.72,
+            "description": "engineer global metrics",
+            "index": "3",
+            "quantity": 5.25,
+            "unit_price": 27.57
+        },
+        {
+            "amount": 306.53,
+            "description": "mesh proactive solutions",
+            "index": "7",
+            "quantity": 2.59,
+            "unit_price": 45.35
+        },
+        {
+            "amount": 22.17,
+            "description": "synthesize scalable platforms",
+            "index": "3",
+            "quantity": 1.39,
+            "unit_price": 56.99
+        },
+        {
+            "amount": 380.18,
+            "description": "enable revolutionary e-tailers",
+            "index": "8",
+            "quantity": 1.52,
+            "unit_price": 21.4
+        }
+    ],
+    "seller": {
+        "address": "59929 Stephen Path Suite 371 Lake Lindafort, SD 64332",
+        "company_name": "Anderson, Daniel and Harris",
+        "email": "smithjared@example.net"
+    }
+}

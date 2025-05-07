@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "3667 Roberts Mill Markberg, ID 36634"
+    },
+    "invoice": {
+        "bc_no": "ER02574",
+        "date": "16.04.1996",
+        "maturity_date": "23.05.2010",
+        "number": 794209
+    },
+    "products": [
+        {
+            "amount": 397.32,
+            "description": "aggregate B2C paradigms",
+            "quantity": 3.0,
+            "unit_price": 59.99,
+            "vat_amount": 4.11
+        },
+        {
+            "amount": 209.46,
+            "description": "empower out-of-the-box partnerships",
+            "quantity": 4.09,
+            "unit_price": 61.28,
+            "vat_amount": 1.53
+        },
+        {
+            "amount": 468.09,
+            "description": "envisioneer integrated deliverables",
+            "quantity": 3.4,
+            "unit_price": 58.97,
+            "vat_amount": 3.31
+        }
+    ],
+    "seller": {
+        "address": "593 Soto Street Taylorburgh, NM 46900"
+    },
+    "tax": {
+        "amount_excluding_tax": 179.51,
+        "amount_including_tax": 126.44,
+        "tax_amount": 16.85
+    }
+}

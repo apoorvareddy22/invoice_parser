@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "221 Brian Vista Jefferybury, OK 84093"
+    },
+    "invoice": {
+        "bc_no": "WV23384",
+        "date": "31.08.2005",
+        "maturity_date": "23.06.2002",
+        "number": 822127
+    },
+    "products": [
+        {
+            "amount": 18.8,
+            "description": "synthesize mission-critical content",
+            "quantity": 4.23,
+            "unit_price": 59.96,
+            "vat_amount": 16.53
+        },
+        {
+            "amount": 243.26,
+            "description": "facilitate customized web-readiness",
+            "quantity": 2.87,
+            "unit_price": 60.61,
+            "vat_amount": 10.26
+        }
+    ],
+    "seller": {
+        "address": "863 Moore Light Apt. 598 Batesfort, VA 16967"
+    },
+    "tax": {
+        "amount_excluding_tax": 149.08,
+        "amount_including_tax": 68.64,
+        "tax_amount": 17.62
+    }
+}

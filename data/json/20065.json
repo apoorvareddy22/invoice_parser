@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "PSC 5119, Box 4071 APO AP 02185",
+        "company_name": "Foster LLC",
+        "email": "wbolton@example.org",
+        "name": "Cindy Jones",
+        "phone": "533.902.6653"
+    },
+    "invoice": {
+        "date": "10.10.2007",
+        "due_date": "26.09.1999",
+        "number": "hna12388313396"
+    },
+    "payment": {
+        "account_number": 4484863047,
+        "bank_name": "Medina Group",
+        "routing_number": 432359366
+    },
+    "products": [
+        {
+            "amount": 81.84,
+            "description": "re-contextualize seamless systems",
+            "index": "4",
+            "quantity": 6.37,
+            "unit_price": 24.38
+        }
+    ],
+    "seller": {
+        "address": "6939 Riley Mills Apt. 650 East Jilltown, MA 77303",
+        "company_name": "Cruz-Miranda",
+        "email": "sheenawoods@example.net"
+    }
+}

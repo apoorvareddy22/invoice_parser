@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "73685 Tyler Trail Suite 466 Karenland, IN 97461",
+        "company_name": "Hall Group",
+        "country": "Gibraltar",
+        "email": "brichardson@example.com",
+        "name": "Daniel Miller",
+        "phone": "(901)998-6597x330",
+        "vat_no": "dH70806999556"
+    },
+    "invoice": {
+        "date": "20.06.2013",
+        "due_date": "09.01.2018",
+        "linked_invoice": "Xn-7476-0103",
+        "notes": "envisioneer efficient e-markets",
+        "number": "Mh-1091-3878"
+    },
+    "products": [
+        {
+            "description": "innovate efficient networks",
+            "discount_percentage": 13.52,
+            "price": 441.89,
+            "quantity": 9.85,
+            "unit_price": 91.29
+        }
+    ],
+    "seller": {
+        "address": "967 Garza River Lake Tracy, AK 15954",
+        "ape": "9702J",
+        "capital": 17300076,
+        "country": "Saint Martin",
+        "email": "sonya90@example.org",
+        "name": "Kristin Gordon",
+        "phone_1": "+1-266-215-1126x406",
+        "phone_2": "+1-461-384-7988x6074",
+        "phone_3": "889-574-9558",
+        "ref_walk": "TeWa5511",
+        "reference": "lz737",
+        "siret": 44760777197518,
+        "vat_no": "dd28295023203",
+        "website": "https://www.lin.com/"
+    },
+    "tax": {
+        "amount_0": 29.3,
+        "amount_1": 27.52,
+        "base_0": 25.4,
+        "base_1": 52.96,
+        "total_ht": 433.52,
+        "total_tax": 26.46,
+        "total_ttc": 134.05,
+        "vat_0": 29.94,
+        "vat_1": 15.51
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "643 Dennis Trace Apt. 515 Aaronbury, SC 91175",
+        "id": "aX327"
+    },
+    "invoice": {
+        "bc_no": "Qv42158",
+        "currency_code": "KYD",
+        "date": "19.03.2018",
+        "due_date": "04.08.2016",
+        "number": 971859
+    },
+    "payment": {
+        "bank_name": "Smith Inc",
+        "bic": "FJOCGBUE",
+        "iban": "FFWH32304474301085"
+    },
+    "products": [
+        {
+            "amount": 78.0,
+            "description": "maximize next-generation applications",
+            "index": "7",
+            "price": 49.67,
+            "quantity": 1.05,
+            "tax_amount": 98.92,
+            "total_ttc": 256.97,
+            "vat_amount": 3.47
+        },
+        {
+            "amount": 363.43,
+            "description": "aggregate 24/365 paradigms",
+            "index": "4",
+            "price": 176.55,
+            "quantity": 4.33,
+            "tax_amount": 97.45,
+            "total_ttc": 196.61,
+            "vat_amount": 11.8
+        },
+        {
+            "amount": 238.28,
+            "description": "mesh impactful web-readiness",
+            "index": "4",
+            "price": 320.83,
+            "quantity": 1.68,
+            "tax_amount": 40.26,
+            "total_ttc": 141.33,
+            "vat_amount": 8.97
+        }
+    ],
+    "seller": {
+        "name": "Blake Nguyen"
+    },
+    "supplier": {
+        "address": "317 Monica Street Suite 383 East William, IL 45903",
+        "name": "Bryan Jones"
+    },
+    "tax": {
+        "amount_excluding_tax": 170.39,
+        "amount_including_tax": 181.47,
+        "tax_amount": 26.1,
+        "total_ht": 206.68,
+        "total_ttc": 145.03
+    }
+}

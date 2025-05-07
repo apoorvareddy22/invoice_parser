@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "56008 Casey Mountain Johnsonburgh, SC 22174",
+        "company_name": "Wilson, Howell and Sloan",
+        "country": "Ethiopia",
+        "name": "Anthony Buchanan"
+    },
+    "invoice": {
+        "date": "28.05.1996",
+        "number": 872287
+    },
+    "payment": {
+        "discount_amount": 18.4,
+        "discount_percentage": 9.41,
+        "due": 170.65,
+        "sub_total": 115.64,
+        "total": 897.0
+    },
+    "products": [
+        {
+            "description": "embrace sticky supply-chains",
+            "index": "10",
+            "quantity": 8.64,
+            "total_price": 149.51,
+            "unit_price": 76.11
+        },
+        {
+            "description": "reinvent e-business applications",
+            "index": "8",
+            "quantity": 8.41,
+            "total_price": 375.9,
+            "unit_price": 74.67
+        },
+        {
+            "description": "implement 24/365 convergence",
+            "index": "6",
+            "quantity": 4.11,
+            "total_price": 791.01,
+            "unit_price": 63.16
+        },
+        {
+            "description": "cultivate virtual communities",
+            "index": "6",
+            "quantity": 1.37,
+            "total_price": 218.09,
+            "unit_price": 85.12
+        },
+        {
+            "description": "re-contextualize distributed systems",
+            "index": "8",
+            "quantity": 7.78,
+            "total_price": 548.24,
+            "unit_price": 41.35
+        }
+    ],
+    "seller": {
+        "address": "48301 Glass Ville Suite 951 Waynemouth, TX 15325",
+        "company_name": "Reed, Jones and Lee",
+        "vat_no": "EY23141313414"
+    }
+}

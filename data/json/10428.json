@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "3663 Schultz Dale Apt. 258 Ryanfurt, AR 65504",
+        "email": "justinmayer@example.net",
+        "phone": "2126315335",
+        "vat_no": "cC74224482349"
+    },
+    "invoice": {
+        "date": "22.03.1992",
+        "due_date": "08.03.2012",
+        "market_reference": 426325,
+        "notes": "e-enable efficient methodologies",
+        "number": "2057-7301",
+        "reference": 232857,
+        "vat_no": "eY12188536647"
+    },
+    "payment": {
+        "net_total": 174.53,
+        "total": 305.35
+    },
+    "products": [
+        {
+            "amount": 16.19,
+            "description": "productize front-end web services",
+            "hours": 1.51,
+            "rate": 6.0
+        },
+        {
+            "amount": 116.74,
+            "description": "architect collaborative systems",
+            "hours": 6.5,
+            "rate": 5.78
+        },
+        {
+            "amount": 242.9,
+            "description": "incubate killer web-readiness",
+            "hours": 3.21,
+            "rate": 7.33
+        },
+        {
+            "amount": 411.57,
+            "description": "syndicate impactful platforms",
+            "hours": 7.51,
+            "rate": 7.54
+        },
+        {
+            "amount": 203.87,
+            "description": "deploy mission-critical portals",
+            "hours": 9.93,
+            "rate": 2.93
+        },
+        {
+            "amount": 423.83,
+            "description": "synergize rich metrics",
+            "hours": 1.02,
+            "rate": 9.43
+        },
+        {
+            "amount": 499.14,
+            "description": "synthesize transparent content",
+            "hours": 6.28,
+            "rate": 7.85
+        }
+    ],
+    "seller": {
+        "address": "3684 Stephanie Ridge Suite 625 North Carlos, IN 03909",
+        "email": "sean27@example.net",
+        "name": "Thomas Dyer"
+    },
+    "tax": {
+        "base": 15.61,
+        "tax_amount": 16.25,
+        "total_tax": 17.63
+    }
+}

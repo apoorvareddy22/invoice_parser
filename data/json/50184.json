@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "43674 Erickson Fork South Troyborough, WI 82972",
+        "id": "ic448"
+    },
+    "invoice": {
+        "bc_no": "We35244",
+        "currency_code": "BZD",
+        "date": "11.11.1995",
+        "due_date": "20.11.2021",
+        "number": 708949
+    },
+    "payment": {
+        "bank_name": "Walsh PLC",
+        "bic": "OYJPGBA9A9I",
+        "iban": "LGTZ01931070171228"
+    },
+    "products": [
+        {
+            "amount": 340.01,
+            "description": "envisioneer user-centric metrics",
+            "index": "2",
+            "price": 102.84,
+            "quantity": 6.77,
+            "tax_amount": 46.83,
+            "total_ttc": 233.25,
+            "vat_amount": 3.62
+        },
+        {
+            "amount": 404.77,
+            "description": "synthesize proactive convergence",
+            "index": "8",
+            "price": 27.77,
+            "quantity": 7.86,
+            "tax_amount": 62.96,
+            "total_ttc": 271.85,
+            "vat_amount": 1.84
+        },
+        {
+            "amount": 277.39,
+            "description": "incentivize B2B schemas",
+            "index": "6",
+            "price": 483.01,
+            "quantity": 4.68,
+            "tax_amount": 96.52,
+            "total_ttc": 134.49,
+            "vat_amount": 5.92
+        },
+        {
+            "amount": 49.49,
+            "description": "utilize value-added action-items",
+            "index": "10",
+            "price": 318.39,
+            "quantity": 3.35,
+            "tax_amount": 26.68,
+            "total_ttc": 219.49,
+            "vat_amount": 2.89
+        },
+        {
+            "amount": 97.73,
+            "description": "expedite rich niches",
+            "index": "3",
+            "price": 119.25,
+            "quantity": 4.75,
+            "tax_amount": 40.21,
+            "total_ttc": 161.33,
+            "vat_amount": 6.2
+        },
+        {
+            "amount": 6.89,
+            "description": "implement extensible e-commerce",
+            "index": "4",
+            "price": 61.67,
+            "quantity": 7.43,
+            "tax_amount": 85.95,
+            "total_ttc": 148.37,
+            "vat_amount": 10.51
+        },
+        {
+            "amount": 89.05,
+            "description": "unleash proactive paradigms",
+            "index": "10",
+            "price": 310.88,
+            "quantity": 9.33,
+            "tax_amount": 86.41,
+            "total_ttc": 489.28,
+            "vat_amount": 6.58
+        }
+    ],
+    "seller": {
+        "name": "Heather Green"
+    },
+    "supplier": {
+        "address": "61640 Hall Crescent Wrightside, RI 50089",
+        "name": "Yolanda Mcgee"
+    },
+    "tax": {
+        "amount_excluding_tax": 102.4,
+        "amount_including_tax": 120.67,
+        "tax_amount": 28.54,
+        "total_ht": 279.36,
+        "total_ttc": 258.22
+    }
+}

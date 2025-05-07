@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "101 Nelson Prairie Apt. 672 Kingport, NJ 11356",
+        "company_name": "Smith-Williams",
+        "country": "Afghanistan",
+        "email": "zbailey@example.com",
+        "name": "Manuel Brandt",
+        "phone": "001-580-315-6472x813",
+        "vat_no": "eX04734249004"
+    },
+    "invoice": {
+        "date": "09.02.2010",
+        "due_date": "07.08.2010",
+        "linked_invoice": "kc-7881-0943",
+        "notes": "brand frictionless info-mediaries",
+        "number": "SO-0458-7485"
+    },
+    "products": [
+        {
+            "description": "streamline clicks-and-mortar methodologies",
+            "discount_percentage": 14.86,
+            "price": 138.88,
+            "quantity": 6.03,
+            "unit_price": 23.7
+        }
+    ],
+    "seller": {
+        "address": "337 Cody Station North James, AZ 63515",
+        "ape": "4899r",
+        "capital": 36819057,
+        "country": "South Africa",
+        "email": "waynekelly@example.net",
+        "name": "Steven Smith MD",
+        "phone_1": "+1-838-928-9452x6998",
+        "phone_2": "638.595.3716x97677",
+        "phone_3": "+1-975-926-4037x09658",
+        "ref_walk": "ExuM2539",
+        "reference": "oz707",
+        "siret": 43455522116942,
+        "vat_no": "VZ85635355717",
+        "website": "http://www.booth.com/"
+    },
+    "tax": {
+        "amount_0": 23.06,
+        "amount_1": 25.19,
+        "base_0": 26.65,
+        "base_1": 292.89,
+        "total_ht": 202.05,
+        "total_tax": 26.4,
+        "total_ttc": 430.9,
+        "vat_0": 19.65,
+        "vat_1": 26.83
+    }
+}

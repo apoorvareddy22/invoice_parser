@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "13572 Curry Inlet Angelaville, SC 47587"
+    },
+    "invoice": {
+        "bc_no": "CF61825",
+        "date": "29.08.2008",
+        "maturity_date": "18.05.2000",
+        "number": 389515
+    },
+    "products": [
+        {
+            "amount": 399.45,
+            "description": "incubate impactful applications",
+            "quantity": 6.51,
+            "unit_price": 55.75,
+            "vat_amount": 7.45
+        },
+        {
+            "amount": 490.88,
+            "description": "enable e-business bandwidth",
+            "quantity": 5.81,
+            "unit_price": 18.46,
+            "vat_amount": 9.07
+        }
+    ],
+    "seller": {
+        "address": "54081 Barr Divide Port Heather, WY 02783"
+    },
+    "tax": {
+        "amount_excluding_tax": 105.87,
+        "amount_including_tax": 194.52,
+        "tax_amount": 28.42
+    }
+}

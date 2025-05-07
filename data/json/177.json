@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "32354 Lee Lake Suite 218 Brooksburgh, UT 70633",
+        "company_name": "Donaldson-Castro",
+        "country": "Martinique",
+        "name": "Matthew Lopez"
+    },
+    "invoice": {
+        "date": "01.12.2016",
+        "number": 189990
+    },
+    "payment": {
+        "discount_amount": 49.57,
+        "discount_percentage": 14.51,
+        "due": 50.17,
+        "sub_total": 193.14,
+        "total": 367.59
+    },
+    "products": [
+        {
+            "description": "deliver vertical e-services",
+            "index": "10",
+            "quantity": 1.95,
+            "total_price": 882.21,
+            "unit_price": 63.09
+        },
+        {
+            "description": "transition compelling eyeballs",
+            "index": "4",
+            "quantity": 5.06,
+            "total_price": 652.82,
+            "unit_price": 92.11
+        }
+    ],
+    "seller": {
+        "address": "2025 Ian Road Port Timothy, CT 39160",
+        "company_name": "Hall, Smith and Lewis",
+        "vat_no": "uf62038152952"
+    }
+}

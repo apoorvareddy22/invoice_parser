@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "PSC 8947, Box 4545 APO AA 28052",
+        "company_name": "Anderson Ltd",
+        "country": "Ukraine",
+        "email": "heather64@example.net",
+        "name": "Benjamin Patel",
+        "phone": "354-464-4402x26294",
+        "vat_no": "EX74908745844"
+    },
+    "invoice": {
+        "date": "27.03.1992",
+        "due_date": "31.08.2004",
+        "linked_invoice": "pw-5420-9832",
+        "notes": "deliver cross-platform schemas",
+        "number": "GC-2354-1622"
+    },
+    "products": [
+        {
+            "description": "disintermediate open-source portals",
+            "discount_percentage": 8.85,
+            "price": 52.68,
+            "quantity": 6.35,
+            "unit_price": 49.01
+        },
+        {
+            "description": "extend value-added initiatives",
+            "discount_percentage": 15.15,
+            "price": 400.49,
+            "quantity": 1.8,
+            "unit_price": 23.05
+        },
+        {
+            "description": "cultivate clicks-and-mortar solutions",
+            "discount_percentage": 7.07,
+            "price": 365.68,
+            "quantity": 2.4,
+            "unit_price": 53.27
+        }
+    ],
+    "seller": {
+        "address": "4518 Abbott Meadows North Joshuaton, MS 65611",
+        "ape": "3765q",
+        "capital": 14859785,
+        "country": "Norfolk Island",
+        "email": "kathleen16@example.com",
+        "name": "Christina Johnson",
+        "phone_1": "001-982-943-3022",
+        "phone_2": "762-718-9247x149",
+        "phone_3": "(837)537-8184x24894",
+        "ref_walk": "QTqq7199",
+        "reference": "FR290",
+        "siret": 20286378898308,
+        "vat_no": "eY09982560716",
+        "website": "http://www.mendoza.com/"
+    },
+    "tax": {
+        "amount_0": 16.52,
+        "amount_1": 20.94,
+        "base_0": 26.93,
+        "base_1": 12.86,
+        "total_ht": 410.47,
+        "total_tax": 14.65,
+        "total_ttc": 394.77,
+        "vat_0": 26.57,
+        "vat_1": 27.45
+    }
+}

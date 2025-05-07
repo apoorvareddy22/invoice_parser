@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "453 Hardin Hollow Apt. 315 East Sarah, NJ 61872",
+        "company_name": "Davis-Torres",
+        "country": "Palau",
+        "name": "Dean Howell"
+    },
+    "invoice": {
+        "date": "08.10.2014",
+        "number": 825612
+    },
+    "payment": {
+        "discount_amount": 17.88,
+        "discount_percentage": 18.72,
+        "due": 68.13,
+        "sub_total": 133.75,
+        "total": 636.69
+    },
+    "products": [
+        {
+            "description": "facilitate cross-media architectures",
+            "index": "1",
+            "quantity": 4.57,
+            "total_price": 449.18,
+            "unit_price": 26.61
+        },
+        {
+            "description": "harness cutting-edge networks",
+            "index": "2",
+            "quantity": 5.76,
+            "total_price": 73.41,
+            "unit_price": 82.74
+        },
+        {
+            "description": "enable cross-platform functionalities",
+            "index": "6",
+            "quantity": 6.75,
+            "total_price": 176.49,
+            "unit_price": 63.8
+        },
+        {
+            "description": "benchmark global convergence",
+            "index": "6",
+            "quantity": 6.76,
+            "total_price": 303.06,
+            "unit_price": 12.81
+        }
+    ],
+    "seller": {
+        "address": "3460 Nichole Ports Brownchester, FL 56243",
+        "company_name": "Silva-Thomas",
+        "vat_no": "CZ27558615604"
+    }
+}

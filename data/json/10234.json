@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "212 Figueroa Mountains North Tiffany, FM 39680",
+        "email": "robertdean@example.net",
+        "phone": "423-334-7142x097",
+        "vat_no": "Tm21886642434"
+    },
+    "invoice": {
+        "date": "04.11.2012",
+        "due_date": "26.01.2010",
+        "market_reference": 994922,
+        "notes": "extend B2B eyeballs",
+        "number": "8802-6555",
+        "reference": 201492,
+        "vat_no": "MR64817148822"
+    },
+    "payment": {
+        "net_total": 182.11,
+        "total": 574.01
+    },
+    "products": [
+        {
+            "amount": 258.58,
+            "description": "innovate extensible channels",
+            "hours": 9.09,
+            "rate": 3.61
+        }
+    ],
+    "seller": {
+        "address": "28855 Julie Orchard Suite 346 East Michael, MP 08841",
+        "email": "rnelson@example.net",
+        "name": "Elizabeth Rodriguez"
+    },
+    "tax": {
+        "base": 10.18,
+        "tax_amount": 25.46,
+        "total_tax": 14.59
+    }
+}

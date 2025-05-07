@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "083 Peters Center Suite 936 West Renee, NE 12489"
+    },
+    "invoice": {
+        "bc_no": "nz21502",
+        "date": "21.05.2018",
+        "maturity_date": "30.10.2023",
+        "number": 996972
+    },
+    "products": [
+        {
+            "amount": 265.78,
+            "description": "deliver interactive solutions",
+            "quantity": 1.07,
+            "unit_price": 35.03,
+            "vat_amount": 2.24
+        },
+        {
+            "amount": 258.82,
+            "description": "grow impactful e-services",
+            "quantity": 4.71,
+            "unit_price": 78.46,
+            "vat_amount": 7.7
+        },
+        {
+            "amount": 78.34,
+            "description": "utilize compelling action-items",
+            "quantity": 5.6,
+            "unit_price": 66.37,
+            "vat_amount": 13.97
+        },
+        {
+            "amount": 466.58,
+            "description": "monetize e-business users",
+            "quantity": 9.33,
+            "unit_price": 91.23,
+            "vat_amount": 6.02
+        },
+        {
+            "amount": 378.17,
+            "description": "grow front-end solutions",
+            "quantity": 9.85,
+            "unit_price": 72.92,
+            "vat_amount": 2.01
+        }
+    ],
+    "seller": {
+        "address": "3384 Shannon Ways Apt. 421 Roymouth, RI 69013"
+    },
+    "tax": {
+        "amount_excluding_tax": 61.91,
+        "amount_including_tax": 137.48,
+        "tax_amount": 25.21
+    }
+}

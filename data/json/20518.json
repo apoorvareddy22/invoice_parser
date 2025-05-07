@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "626 Amy Garden Suite 412 New Rebeccaburgh, NC 90475",
+        "company_name": "Williams LLC",
+        "email": "oliviamiller@example.com",
+        "name": "Evelyn Brown",
+        "phone": "001-347-330-5594x101"
+    },
+    "invoice": {
+        "date": "04.10.2023",
+        "due_date": "26.02.1993",
+        "number": "pQC01933985126"
+    },
+    "payment": {
+        "account_number": 8054803475,
+        "bank_name": "Martin-Espinoza",
+        "routing_number": 572516295
+    },
+    "products": [
+        {
+            "amount": 345.87,
+            "description": "e-enable B2B architectures",
+            "index": "1",
+            "quantity": 6.83,
+            "unit_price": 24.01
+        },
+        {
+            "amount": 249.31,
+            "description": "leverage 24/365 e-markets",
+            "index": "10",
+            "quantity": 2.63,
+            "unit_price": 16.24
+        },
+        {
+            "amount": 39.61,
+            "description": "leverage B2C markets",
+            "index": "8",
+            "quantity": 6.04,
+            "unit_price": 71.74
+        },
+        {
+            "amount": 429.8,
+            "description": "deliver turn-key bandwidth",
+            "index": "2",
+            "quantity": 3.29,
+            "unit_price": 48.68
+        }
+    ],
+    "seller": {
+        "address": "7924 May Point Lisatown, ME 84457",
+        "company_name": "Bryant, Lucas and Warren",
+        "email": "leahdelgado@example.org"
+    }
+}

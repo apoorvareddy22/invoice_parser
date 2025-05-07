@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "333 Stevens Groves North Sarah, NJ 12108",
+        "email": "johnsonmarvin@example.org",
+        "phone": "+1-255-227-2594x09760",
+        "vat_no": "cj37300836216"
+    },
+    "invoice": {
+        "date": "27.06.1994",
+        "due_date": "04.09.1999",
+        "market_reference": 944300,
+        "notes": "architect sticky action-items",
+        "number": "4967-4785",
+        "reference": 559612,
+        "vat_no": "IL54067739786"
+    },
+    "payment": {
+        "net_total": 20.43,
+        "total": 318.24
+    },
+    "products": [
+        {
+            "amount": 454.47,
+            "description": "extend B2B supply-chains",
+            "hours": 7.5,
+            "rate": 6.71
+        },
+        {
+            "amount": 137.96,
+            "description": "transition strategic functionalities",
+            "hours": 3.08,
+            "rate": 8.04
+        }
+    ],
+    "seller": {
+        "address": "742 Valenzuela Shoal Apt. 273 Port Randall, PW 76970",
+        "email": "pacosta@example.net",
+        "name": "Molly Thompson"
+    },
+    "tax": {
+        "base": 29.6,
+        "tax_amount": 27.81,
+        "total_tax": 12.06
+    }
+}

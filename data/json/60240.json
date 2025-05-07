@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "5239 Herrera Land Port Christopherfort, HI 57099",
+        "business_no": "Fk378",
+        "id": "bm885"
+    },
+    "invoice": {
+        "date": "29.06.1993",
+        "number": "2868-6040"
+    },
+    "payment": {
+        "due_date": "28.04.2011",
+        "total": 416.21
+    },
+    "products": [
+        {
+            "amount": 401.78,
+            "description": "syndicate open-source applications",
+            "quantity": 2.54,
+            "reference": "JD-150",
+            "unit_price": 46.38
+        },
+        {
+            "amount": 94.94,
+            "description": "re-intermediate out-of-the-box portals",
+            "quantity": 9.63,
+            "reference": "jL-514",
+            "unit_price": 14.84
+        },
+        {
+            "amount": 63.46,
+            "description": "embrace 24/365 systems",
+            "quantity": 6.75,
+            "reference": "jG-731",
+            "unit_price": 33.58
+        }
+    ],
+    "seller": {
+        "address": "7718 Harrison Land New Matthew, MS 44242"
+    },
+    "tax": {
+        "base_ht": 193.53,
+        "regulations": 15.95,
+        "total_ht": 185.44,
+        "vat_amount": 163.26,
+        "vat_percentage": 27.09
+    }
+}

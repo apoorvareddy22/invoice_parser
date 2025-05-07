@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "65224 Janice Stravenue Apt. 692 Stephenstown, IA 01937",
+        "company_name": "Sanchez and Sons",
+        "country": "Morocco",
+        "name": "Edward Bullock"
+    },
+    "invoice": {
+        "date": "07.10.2019",
+        "number": 530995
+    },
+    "payment": {
+        "discount_amount": 47.32,
+        "discount_percentage": 5.09,
+        "due": 145.22,
+        "sub_total": 98.45,
+        "total": 797.65
+    },
+    "products": [
+        {
+            "description": "engage real-time supply-chains",
+            "index": "9",
+            "quantity": 7.35,
+            "total_price": 526.1,
+            "unit_price": 93.42
+        },
+        {
+            "description": "grow impactful partnerships",
+            "index": "6",
+            "quantity": 4.74,
+            "total_price": 331.31,
+            "unit_price": 42.48
+        },
+        {
+            "description": "transition innovative users",
+            "index": "3",
+            "quantity": 5.19,
+            "total_price": 31.85,
+            "unit_price": 58.89
+        }
+    ],
+    "seller": {
+        "address": "152 Randall Overpass Suite 598 Michelletown, PA 96437",
+        "company_name": "Morris-Young",
+        "vat_no": "Dx38456148236"
+    }
+}

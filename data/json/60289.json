@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "194 Nelson Plains Lopezmouth, OK 47341",
+        "business_no": "pF433",
+        "id": "LS890"
+    },
+    "invoice": {
+        "date": "24.03.1994",
+        "number": "5107-0008"
+    },
+    "payment": {
+        "due_date": "29.06.2003",
+        "total": 674.02
+    },
+    "products": [
+        {
+            "amount": 82.33,
+            "description": "cultivate cross-media web services",
+            "quantity": 2.81,
+            "reference": "Vi-471",
+            "unit_price": 44.73
+        },
+        {
+            "amount": 173.87,
+            "description": "unleash enterprise content",
+            "quantity": 2.55,
+            "reference": "Vz-509",
+            "unit_price": 41.4
+        }
+    ],
+    "seller": {
+        "address": "33336 Gina Corner Suite 279 New Anthony, WA 38532"
+    },
+    "tax": {
+        "base_ht": 173.02,
+        "regulations": 10.23,
+        "total_ht": 362.33,
+        "vat_amount": 166.95,
+        "vat_percentage": 20.33
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "buyer": {
+        "address": "5444 Gregory Summit Apt. 954 Woodsport, OR 34952",
+        "company_name": "Kramer Inc",
+        "country": "Saint Barthelemy",
+        "email": "qpetersen@example.net",
+        "name": "Anthony Brown",
+        "phone": "(559)868-4732",
+        "vat_no": "op11280041877"
+    },
+    "invoice": {
+        "date": "22.09.2000",
+        "due_date": "06.03.2021",
+        "linked_invoice": "cV-9536-8678",
+        "notes": "envisioneer cross-platform niches",
+        "number": "MB-3041-8770"
+    },
+    "products": [
+        {
+            "description": "drive front-end web services",
+            "discount_percentage": 6.39,
+            "price": 422.94,
+            "quantity": 3.26,
+            "unit_price": 11.5
+        },
+        {
+            "description": "target bleeding-edge users",
+            "discount_percentage": 14.49,
+            "price": 141.92,
+            "quantity": 4.8,
+            "unit_price": 98.95
+        },
+        {
+            "description": "enable vertical e-services",
+            "discount_percentage": 14.69,
+            "price": 294.07,
+            "quantity": 1.75,
+            "unit_price": 14.3
+        },
+        {
+            "description": "disintermediate frictionless experiences",
+            "discount_percentage": 15.76,
+            "price": 185.4,
+            "quantity": 8.53,
+            "unit_price": 13.35
+        },
+        {
+            "description": "engage global web-readiness",
+            "discount_percentage": 19.11,
+            "price": 319.18,
+            "quantity": 4.14,
+            "unit_price": 59.85
+        }
+    ],
+    "seller": {
+        "address": "Unit 7602 Box 1290 DPO AP 23256",
+        "ape": "9911F",
+        "capital": 71988511,
+        "country": "Bermuda",
+        "email": "ayoung@example.net",
+        "name": "John Cruz",
+        "phone_1": "391-954-2856x1716",
+        "phone_2": "5454558028",
+        "phone_3": "(662)376-9578x533",
+        "ref_walk": "NVao5692",
+        "reference": "In103",
+        "siret": 61164821950140,
+        "vat_no": "to29201383462",
+        "website": "http://escobar-morgan.com/"
+    },
+    "tax": {
+        "amount_0": 24.04,
+        "amount_1": 17.38,
+        "base_0": 14.76,
+        "base_1": 173.0,
+        "total_ht": 368.96,
+        "total_tax": 11.38,
+        "total_ttc": 334.23,
+        "vat_0": 12.95,
+        "vat_1": 10.93
+    }
+}

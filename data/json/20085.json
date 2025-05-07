@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "1380 Carlos Way Lake Renee, TX 16363",
+        "company_name": "Rodriguez and Sons",
+        "email": "nicholeschwartz@example.net",
+        "name": "Sara Taylor",
+        "phone": "9763535952"
+    },
+    "invoice": {
+        "date": "26.02.2010",
+        "due_date": "19.02.1991",
+        "number": "mvA84378495064"
+    },
+    "payment": {
+        "account_number": 1344562114,
+        "bank_name": "Flores, Martinez and Rodriguez",
+        "routing_number": 711623522
+    },
+    "products": [
+        {
+            "amount": 133.84,
+            "description": "streamline cutting-edge technologies",
+            "index": "9",
+            "quantity": 9.6,
+            "unit_price": 58.28
+        },
+        {
+            "amount": 380.48,
+            "description": "seize world-class applications",
+            "index": "3",
+            "quantity": 9.99,
+            "unit_price": 71.53
+        },
+        {
+            "amount": 464.75,
+            "description": "syndicate integrated initiatives",
+            "index": "9",
+            "quantity": 4.05,
+            "unit_price": 78.8
+        },
+        {
+            "amount": 385.13,
+            "description": "aggregate value-added schemas",
+            "index": "2",
+            "quantity": 7.18,
+            "unit_price": 59.71
+        },
+        {
+            "amount": 352.72,
+            "description": "generate robust functionalities",
+            "index": "10",
+            "quantity": 6.19,
+            "unit_price": 53.19
+        }
+    ],
+    "seller": {
+        "address": "USNV Hart FPO AE 36425",
+        "company_name": "Hanson, Golden and Porter",
+        "email": "carolynburnett@example.com"
+    }
+}

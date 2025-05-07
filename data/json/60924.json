@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "976 Landry Avenue Apt. 139 North Kevin, AL 63533",
+        "business_no": "TO524",
+        "id": "ov254"
+    },
+    "invoice": {
+        "date": "26.07.2006",
+        "number": "8052-8245"
+    },
+    "payment": {
+        "due_date": "27.09.2002",
+        "total": 162.52
+    },
+    "products": [
+        {
+            "amount": 163.6,
+            "description": "generate revolutionary applications",
+            "quantity": 3.54,
+            "reference": "pu-416",
+            "unit_price": 67.91
+        },
+        {
+            "amount": 349.54,
+            "description": "synergize revolutionary info-mediaries",
+            "quantity": 3.67,
+            "reference": "vs-439",
+            "unit_price": 87.36
+        },
+        {
+            "amount": 18.34,
+            "description": "synthesize synergistic e-commerce",
+            "quantity": 1.67,
+            "reference": "Gb-854",
+            "unit_price": 42.92
+        },
+        {
+            "amount": 94.33,
+            "description": "matrix customized models",
+            "quantity": 3.96,
+            "reference": "uq-352",
+            "unit_price": 60.69
+        }
+    ],
+    "seller": {
+        "address": "712 Janet Course Apt. 922 South Laura, KS 48097"
+    },
+    "tax": {
+        "base_ht": 435.17,
+        "regulations": 24.3,
+        "total_ht": 341.35,
+        "vat_amount": 132.99,
+        "vat_percentage": 16.16
+    }
+}

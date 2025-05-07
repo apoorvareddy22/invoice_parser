@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "523 Heather Row Martinezshire, NY 97342",
+        "business_no": "ci488",
+        "id": "Go623"
+    },
+    "invoice": {
+        "date": "13.07.2001",
+        "number": "2375-4953"
+    },
+    "payment": {
+        "due_date": "24.03.1991",
+        "total": 609.27
+    },
+    "products": [
+        {
+            "amount": 316.98,
+            "description": "embrace user-centric e-markets",
+            "quantity": 2.94,
+            "reference": "PI-973",
+            "unit_price": 35.89
+        },
+        {
+            "amount": 166.18,
+            "description": "seize out-of-the-box infrastructures",
+            "quantity": 6.64,
+            "reference": "mG-937",
+            "unit_price": 83.05
+        }
+    ],
+    "seller": {
+        "address": "24182 Rivera Square Moralesview, AR 46853"
+    },
+    "tax": {
+        "base_ht": 252.49,
+        "regulations": 26.65,
+        "total_ht": 371.31,
+        "vat_amount": 92.91,
+        "vat_percentage": 26.87
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "181 Miller Spring Suite 549 Port Craig, KS 50590",
+        "business_no": "Wf150",
+        "id": "BE621"
+    },
+    "invoice": {
+        "date": "25.12.2001",
+        "number": "4839-1354"
+    },
+    "payment": {
+        "due_date": "30.08.2017",
+        "total": 633.5
+    },
+    "products": [
+        {
+            "amount": 422.06,
+            "description": "evolve impactful niches",
+            "quantity": 6.18,
+            "reference": "Be-856",
+            "unit_price": 21.53
+        },
+        {
+            "amount": 276.94,
+            "description": "utilize cross-media mindshare",
+            "quantity": 1.34,
+            "reference": "DX-578",
+            "unit_price": 41.66
+        },
+        {
+            "amount": 336.43,
+            "description": "exploit wireless channels",
+            "quantity": 4.27,
+            "reference": "ZB-484",
+            "unit_price": 25.18
+        },
+        {
+            "amount": 54.61,
+            "description": "repurpose intuitive web-readiness",
+            "quantity": 3.55,
+            "reference": "rZ-074",
+            "unit_price": 25.22
+        },
+        {
+            "amount": 335.08,
+            "description": "mesh mission-critical convergence",
+            "quantity": 3.09,
+            "reference": "oT-160",
+            "unit_price": 28.83
+        },
+        {
+            "amount": 320.1,
+            "description": "expedite extensible networks",
+            "quantity": 1.54,
+            "reference": "Mo-923",
+            "unit_price": 65.43
+        }
+    ],
+    "seller": {
+        "address": "7952 Murray Ridge Staceyside, CO 83514"
+    },
+    "tax": {
+        "base_ht": 226.43,
+        "regulations": 19.34,
+        "total_ht": 191.41,
+        "vat_amount": 111.51,
+        "vat_percentage": 17.97
+    }
+}

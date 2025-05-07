@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "395 Blake Knolls Apt. 759 South Lorichester, MD 17510"
+    },
+    "invoice": {
+        "bc_no": "DY38818",
+        "date": "19.08.1996",
+        "maturity_date": "18.01.1993",
+        "number": 927111
+    },
+    "products": [
+        {
+            "amount": 168.87,
+            "description": "benchmark wireless deliverables",
+            "quantity": 8.95,
+            "unit_price": 50.49,
+            "vat_amount": 0.21
+        },
+        {
+            "amount": 197.47,
+            "description": "re-contextualize scalable relationships",
+            "quantity": 5.86,
+            "unit_price": 40.64,
+            "vat_amount": 3.67
+        },
+        {
+            "amount": 98.31,
+            "description": "monetize extensible functionalities",
+            "quantity": 2.58,
+            "unit_price": 19.72,
+            "vat_amount": 7.03
+        },
+        {
+            "amount": 386.5,
+            "description": "disintermediate sticky networks",
+            "quantity": 9.01,
+            "unit_price": 48.8,
+            "vat_amount": 10.68
+        },
+        {
+            "amount": 119.87,
+            "description": "deliver killer applications",
+            "quantity": 7.42,
+            "unit_price": 71.39,
+            "vat_amount": 4.02
+        }
+    ],
+    "seller": {
+        "address": "8424 Harry Haven Suite 701 Charlesstad, GA 34824"
+    },
+    "tax": {
+        "amount_excluding_tax": 198.13,
+        "amount_including_tax": 26.06,
+        "tax_amount": 17.07
+    }
+}

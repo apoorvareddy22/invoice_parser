@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "756 Thompson Pike Ellisstad, ID 85039",
+        "email": "george49@example.org",
+        "phone": "726-359-7996x585",
+        "vat_no": "dV19043894244"
+    },
+    "invoice": {
+        "date": "05.05.2005",
+        "due_date": "11.12.2008",
+        "market_reference": 702701,
+        "notes": "unleash granular applications",
+        "number": "9048-2084",
+        "reference": 402473,
+        "vat_no": "qg03272723907"
+    },
+    "payment": {
+        "net_total": 46.49,
+        "total": 326.48
+    },
+    "products": [
+        {
+            "amount": 394.5,
+            "description": "incubate extensible systems",
+            "hours": 3.58,
+            "rate": 7.99
+        },
+        {
+            "amount": 319.08,
+            "description": "redefine best-of-breed partnerships",
+            "hours": 8.14,
+            "rate": 7.55
+        },
+        {
+            "amount": 18.3,
+            "description": "unleash plug-and-play models",
+            "hours": 3.61,
+            "rate": 8.12
+        },
+        {
+            "amount": 418.7,
+            "description": "deliver best-of-breed interfaces",
+            "hours": 9.18,
+            "rate": 6.95
+        }
+    ],
+    "seller": {
+        "address": "298 Kimberly Walk East Matthewmouth, FL 41030",
+        "email": "jonathanmacdonald@example.com",
+        "name": "William Robinson"
+    },
+    "tax": {
+        "base": 25.8,
+        "tax_amount": 14.84,
+        "total_tax": 21.89
+    }
+}

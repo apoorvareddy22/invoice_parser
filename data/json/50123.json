@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "6092 Jane Run New Angelatown, ND 38605",
+        "id": "sN629"
+    },
+    "invoice": {
+        "bc_no": "Gx26092",
+        "currency_code": "RON",
+        "date": "26.01.2001",
+        "due_date": "15.08.2016",
+        "number": 915771
+    },
+    "payment": {
+        "bank_name": "Stephens, Haynes and Juarez",
+        "bic": "BCQZGB5YTTV",
+        "iban": "UBRQ90988804193398"
+    },
+    "products": [
+        {
+            "amount": 382.52,
+            "description": "architect bricks-and-clicks platforms",
+            "index": "6",
+            "price": 60.86,
+            "quantity": 4.45,
+            "tax_amount": 32.78,
+            "total_ttc": 342.78,
+            "vat_amount": 9.62
+        }
+    ],
+    "seller": {
+        "name": "Carlos Evans"
+    },
+    "supplier": {
+        "address": "98921 Pope Harbor North Loriville, PA 95066",
+        "name": "Corey Callahan"
+    },
+    "tax": {
+        "amount_excluding_tax": 46.37,
+        "amount_including_tax": 160.72,
+        "tax_amount": 16.53,
+        "total_ht": 341.27,
+        "total_ttc": 292.56
+    }
+}

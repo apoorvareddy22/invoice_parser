@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "5993 Frank Ramp Apt. 315 Lake John, NC 66775",
+        "company_name": "Allen, Colon and Wiley",
+        "country": "Grenada",
+        "name": "Jay Trevino"
+    },
+    "invoice": {
+        "date": "08.08.1998",
+        "number": 112708
+    },
+    "payment": {
+        "discount_amount": 24.86,
+        "discount_percentage": 10.67,
+        "due": 112.43,
+        "sub_total": 146.99,
+        "total": 815.42
+    },
+    "products": [
+        {
+            "description": "target bricks-and-clicks functionalities",
+            "index": "1",
+            "quantity": 4.97,
+            "total_price": 578.67,
+            "unit_price": 36.4
+        },
+        {
+            "description": "benchmark bricks-and-clicks experiences",
+            "index": "7",
+            "quantity": 8.98,
+            "total_price": 604.56,
+            "unit_price": 43.73
+        },
+        {
+            "description": "extend clicks-and-mortar technologies",
+            "index": "2",
+            "quantity": 3.1,
+            "total_price": 553.69,
+            "unit_price": 32.02
+        },
+        {
+            "description": "grow distributed applications",
+            "index": "2",
+            "quantity": 3.12,
+            "total_price": 643.0,
+            "unit_price": 73.8
+        },
+        {
+            "description": "evolve frictionless supply-chains",
+            "index": "10",
+            "quantity": 4.43,
+            "total_price": 123.4,
+            "unit_price": 86.06
+        }
+    ],
+    "seller": {
+        "address": "USS Mendoza FPO AA 47513",
+        "company_name": "Martin and Sons",
+        "vat_no": "dY48813737075"
+    }
+}

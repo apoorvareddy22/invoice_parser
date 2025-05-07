@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "12812 Caroline Trail Apt. 530 Lake Lindseyberg, CO 98718",
+        "company_name": "Williamson-Armstrong",
+        "email": "bhahn@example.net",
+        "name": "Matthew Harmon",
+        "phone": "001-500-543-4150x49130"
+    },
+    "invoice": {
+        "date": "08.09.1999",
+        "due_date": "10.09.2008",
+        "number": "mbY56510293299"
+    },
+    "payment": {
+        "account_number": 5738930377,
+        "bank_name": "Stephens Group",
+        "routing_number": 158027159
+    },
+    "products": [
+        {
+            "amount": 269.48,
+            "description": "productize B2B niches",
+            "index": "4",
+            "quantity": 6.85,
+            "unit_price": 88.57
+        },
+        {
+            "amount": 202.07,
+            "description": "brand killer communities",
+            "index": "3",
+            "quantity": 3.46,
+            "unit_price": 67.83
+        },
+        {
+            "amount": 471.13,
+            "description": "deploy customized e-services",
+            "index": "2",
+            "quantity": 5.62,
+            "unit_price": 34.03
+        },
+        {
+            "amount": 136.88,
+            "description": "productize extensible channels",
+            "index": "1",
+            "quantity": 9.07,
+            "unit_price": 29.87
+        }
+    ],
+    "seller": {
+        "address": "7378 Connie Lock Whiteside, DC 33625",
+        "company_name": "Best, Gardner and Richards",
+        "email": "leachsteven@example.net"
+    }
+}

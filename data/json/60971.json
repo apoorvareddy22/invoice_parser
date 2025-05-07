@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "566 Jennifer Divide Apt. 645 Jacksontown, ME 83029",
+        "business_no": "YW955",
+        "id": "yl642"
+    },
+    "invoice": {
+        "date": "11.06.1994",
+        "number": "6126-6341"
+    },
+    "payment": {
+        "due_date": "17.12.1996",
+        "total": 171.8
+    },
+    "products": [
+        {
+            "amount": 192.64,
+            "description": "incubate revolutionary content",
+            "quantity": 6.95,
+            "reference": "we-945",
+            "unit_price": 41.72
+        },
+        {
+            "amount": 180.73,
+            "description": "transform holistic portals",
+            "quantity": 4.69,
+            "reference": "TN-482",
+            "unit_price": 86.63
+        },
+        {
+            "amount": 317.51,
+            "description": "synergize value-added mindshare",
+            "quantity": 1.22,
+            "reference": "TZ-831",
+            "unit_price": 90.97
+        }
+    ],
+    "seller": {
+        "address": "1828 Rachel Extensions Suite 866 Johnfort, OH 83858"
+    },
+    "tax": {
+        "base_ht": 278.13,
+        "regulations": 29.59,
+        "total_ht": 227.66,
+        "vat_amount": 65.18,
+        "vat_percentage": 19.08
+    }
+}

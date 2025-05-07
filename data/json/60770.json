@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "PSC 3098, Box 2718 APO AE 41005",
+        "business_no": "og865",
+        "id": "mc233"
+    },
+    "invoice": {
+        "date": "29.03.2000",
+        "number": "7742-9107"
+    },
+    "payment": {
+        "due_date": "22.11.2015",
+        "total": 400.69
+    },
+    "products": [
+        {
+            "amount": 18.71,
+            "description": "optimize out-of-the-box action-items",
+            "quantity": 4.75,
+            "reference": "lK-560",
+            "unit_price": 14.99
+        }
+    ],
+    "seller": {
+        "address": "739 Klein Ranch Bartonside, AK 02248"
+    },
+    "tax": {
+        "base_ht": 300.84,
+        "regulations": 16.6,
+        "total_ht": 149.63,
+        "vat_amount": 47.99,
+        "vat_percentage": 19.91
+    }
+}

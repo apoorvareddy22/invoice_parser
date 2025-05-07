@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "170 David Trail Suite 285 Cindystad, VT 00750",
+        "company_name": "Cervantes and Sons",
+        "country": "Japan",
+        "name": "William Ramirez"
+    },
+    "invoice": {
+        "date": "04.12.1992",
+        "number": 949093
+    },
+    "payment": {
+        "discount_amount": 27.26,
+        "discount_percentage": 14.52,
+        "due": 81.14,
+        "sub_total": 66.9,
+        "total": 922.42
+    },
+    "products": [
+        {
+            "description": "synthesize frictionless niches",
+            "index": "9",
+            "quantity": 4.37,
+            "total_price": 461.45,
+            "unit_price": 61.28
+        },
+        {
+            "description": "synthesize cross-platform applications",
+            "index": "10",
+            "quantity": 9.21,
+            "total_price": 686.91,
+            "unit_price": 17.26
+        },
+        {
+            "description": "integrate e-business functionalities",
+            "index": "3",
+            "quantity": 3.44,
+            "total_price": 952.89,
+            "unit_price": 46.04
+        },
+        {
+            "description": "mesh sticky e-business",
+            "index": "1",
+            "quantity": 2.52,
+            "total_price": 759.94,
+            "unit_price": 78.67
+        },
+        {
+            "description": "transform scalable bandwidth",
+            "index": "1",
+            "quantity": 1.94,
+            "total_price": 498.89,
+            "unit_price": 22.43
+        }
+    ],
+    "seller": {
+        "address": "118 Michael Estates Jonathanside, AR 76706",
+        "company_name": "Hess-Brooks",
+        "vat_no": "Bs09625277738"
+    }
+}

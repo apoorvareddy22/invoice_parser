@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "48607 Robert Lane Coreyhaven, ME 69951",
+        "business_no": "EY999",
+        "id": "sn089"
+    },
+    "invoice": {
+        "date": "24.08.1996",
+        "number": "9980-0867"
+    },
+    "payment": {
+        "due_date": "14.01.2010",
+        "total": 975.39
+    },
+    "products": [
+        {
+            "amount": 163.5,
+            "description": "envisioneer bleeding-edge vortals",
+            "quantity": 1.75,
+            "reference": "RJ-680",
+            "unit_price": 20.46
+        }
+    ],
+    "seller": {
+        "address": "06949 Linda Village Suite 487 Lake Tinaborough, ME 78082"
+    },
+    "tax": {
+        "base_ht": 149.08,
+        "regulations": 15.53,
+        "total_ht": 488.06,
+        "vat_amount": 111.75,
+        "vat_percentage": 13.59
+    }
+}

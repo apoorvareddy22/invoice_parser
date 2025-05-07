@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "Unit 0018 Box 7312 DPO AA 20888",
+        "company_name": "Rodriguez-Austin",
+        "email": "deleonheather@example.net",
+        "name": "Miranda Cunningham",
+        "phone": "9487892673"
+    },
+    "invoice": {
+        "date": "05.11.1999",
+        "due_date": "12.09.1995",
+        "number": "bHI57913612373"
+    },
+    "payment": {
+        "account_number": 5367905037,
+        "bank_name": "Nielsen Group",
+        "routing_number": 576352953
+    },
+    "products": [
+        {
+            "amount": 499.01,
+            "description": "syndicate synergistic action-items",
+            "index": "4",
+            "quantity": 9.19,
+            "unit_price": 67.62
+        },
+        {
+            "amount": 30.81,
+            "description": "utilize next-generation web services",
+            "index": "1",
+            "quantity": 9.98,
+            "unit_price": 27.66
+        },
+        {
+            "amount": 115.98,
+            "description": "productize integrated deliverables",
+            "index": "1",
+            "quantity": 3.47,
+            "unit_price": 90.46
+        }
+    ],
+    "seller": {
+        "address": "2415 Christopher Heights Apt. 386 North Philip, DE 58419",
+        "company_name": "Fisher-Davis",
+        "email": "craignelson@example.com"
+    }
+}

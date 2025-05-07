@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "12892 Bryan Valley Apt. 510 Leblancberg, WY 25274"
+    },
+    "invoice": {
+        "bc_no": "Pj83856",
+        "date": "08.10.1992",
+        "maturity_date": "19.06.2007",
+        "number": 585847
+    },
+    "products": [
+        {
+            "amount": 495.35,
+            "description": "engineer enterprise methodologies",
+            "quantity": 7.56,
+            "unit_price": 10.46,
+            "vat_amount": 0.33
+        },
+        {
+            "amount": 396.31,
+            "description": "harness 24/365 e-markets",
+            "quantity": 9.18,
+            "unit_price": 15.64,
+            "vat_amount": 12.85
+        },
+        {
+            "amount": 40.2,
+            "description": "engage proactive initiatives",
+            "quantity": 1.37,
+            "unit_price": 98.88,
+            "vat_amount": 3.98
+        }
+    ],
+    "seller": {
+        "address": "USCGC Luna FPO AE 53864"
+    },
+    "tax": {
+        "amount_excluding_tax": 47.6,
+        "amount_including_tax": 20.76,
+        "tax_amount": 15.68
+    }
+}

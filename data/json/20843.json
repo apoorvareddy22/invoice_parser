@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "0273 Christopher Lane South Matthew, ME 95207",
+        "company_name": "Wagner, Palmer and Garner",
+        "email": "castrowanda@example.net",
+        "name": "Daniel Hernandez",
+        "phone": "614-324-8467x630"
+    },
+    "invoice": {
+        "date": "29.04.2000",
+        "due_date": "23.07.2011",
+        "number": "esE90149614269"
+    },
+    "payment": {
+        "account_number": 7820597403,
+        "bank_name": "Medina, Davis and Miles",
+        "routing_number": 633540215
+    },
+    "products": [
+        {
+            "amount": 419.41,
+            "description": "embrace best-of-breed applications",
+            "index": "7",
+            "quantity": 6.49,
+            "unit_price": 74.07
+        },
+        {
+            "amount": 91.4,
+            "description": "empower vertical e-tailers",
+            "index": "8",
+            "quantity": 6.06,
+            "unit_price": 65.03
+        },
+        {
+            "amount": 169.01,
+            "description": "monetize robust models",
+            "index": "9",
+            "quantity": 3.86,
+            "unit_price": 13.79
+        }
+    ],
+    "seller": {
+        "address": "3947 Colleen Mews Apt. 335 New Vincentland, IL 53048",
+        "company_name": "Brennan Group",
+        "email": "gfrye@example.org"
+    }
+}

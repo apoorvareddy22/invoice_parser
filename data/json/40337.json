@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "6684 Tran Locks Lisaborough, NV 12784"
+    },
+    "invoice": {
+        "bc_no": "zQ15043",
+        "date": "09.12.2007",
+        "maturity_date": "07.03.2020",
+        "number": 129979
+    },
+    "products": [
+        {
+            "amount": 29.66,
+            "description": "iterate dynamic solutions",
+            "quantity": 4.01,
+            "unit_price": 46.2,
+            "vat_amount": 0.57
+        },
+        {
+            "amount": 333.29,
+            "description": "engineer compelling niches",
+            "quantity": 9.95,
+            "unit_price": 26.38,
+            "vat_amount": 0.91
+        }
+    ],
+    "seller": {
+        "address": "53661 Cannon Inlet Brucemouth, MH 01322"
+    },
+    "tax": {
+        "amount_excluding_tax": 130.27,
+        "amount_including_tax": 11.79,
+        "tax_amount": 29.78
+    }
+}

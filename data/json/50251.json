@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "2254 Stewart Spurs Apt. 818 Lake Brenda, DE 18841",
+        "id": "dZ014"
+    },
+    "invoice": {
+        "bc_no": "pr47353",
+        "currency_code": "INR",
+        "date": "05.04.2014",
+        "due_date": "27.05.2022",
+        "number": 848796
+    },
+    "payment": {
+        "bank_name": "Lewis Group",
+        "bic": "OMNOGBL04I8",
+        "iban": "KBZD82047765529544"
+    },
+    "products": [
+        {
+            "amount": 11.87,
+            "description": "transform e-business functionalities",
+            "index": "3",
+            "price": 344.59,
+            "quantity": 5.27,
+            "tax_amount": 56.5,
+            "total_ttc": 474.7,
+            "vat_amount": 1.37
+        },
+        {
+            "amount": 450.76,
+            "description": "reinvent e-business e-business",
+            "index": "2",
+            "price": 53.2,
+            "quantity": 8.21,
+            "tax_amount": 32.39,
+            "total_ttc": 268.2,
+            "vat_amount": 13.88
+        },
+        {
+            "amount": 15.26,
+            "description": "incubate web-enabled content",
+            "index": "10",
+            "price": 464.35,
+            "quantity": 9.91,
+            "tax_amount": 19.26,
+            "total_ttc": 186.3,
+            "vat_amount": 11.21
+        },
+        {
+            "amount": 184.27,
+            "description": "envisioneer global markets",
+            "index": "9",
+            "price": 270.92,
+            "quantity": 3.16,
+            "tax_amount": 98.01,
+            "total_ttc": 281.0,
+            "vat_amount": 6.54
+        },
+        {
+            "amount": 160.15,
+            "description": "morph impactful info-mediaries",
+            "index": "10",
+            "price": 409.22,
+            "quantity": 5.26,
+            "tax_amount": 11.28,
+            "total_ttc": 478.55,
+            "vat_amount": 8.45
+        },
+        {
+            "amount": 186.51,
+            "description": "mesh viral e-commerce",
+            "index": "4",
+            "price": 105.39,
+            "quantity": 1.31,
+            "tax_amount": 66.05,
+            "total_ttc": 153.08,
+            "vat_amount": 4.78
+        },
+        {
+            "amount": 21.97,
+            "description": "cultivate cutting-edge technologies",
+            "index": "9",
+            "price": 386.74,
+            "quantity": 9.03,
+            "tax_amount": 48.19,
+            "total_ttc": 317.4,
+            "vat_amount": 5.27
+        }
+    ],
+    "seller": {
+        "name": "Adam Reed"
+    },
+    "supplier": {
+        "address": "USS Patterson FPO AA 46368",
+        "name": "Peter Sweeney"
+    },
+    "tax": {
+        "amount_excluding_tax": 21.92,
+        "amount_including_tax": 87.5,
+        "tax_amount": 20.47,
+        "total_ht": 368.68,
+        "total_ttc": 108.8
+    }
+}

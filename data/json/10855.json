@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "813 Jacqueline Station Suite 510 Port Markshire, VT 65400",
+        "email": "felicia42@example.org",
+        "phone": "8659672095",
+        "vat_no": "Vi70621369139"
+    },
+    "invoice": {
+        "date": "21.08.1990",
+        "due_date": "11.01.2005",
+        "market_reference": 777969,
+        "notes": "envisioneer vertical content",
+        "number": "3711-5655",
+        "reference": 564504,
+        "vat_no": "jL64314462107"
+    },
+    "payment": {
+        "net_total": 177.19,
+        "total": 181.24
+    },
+    "products": [
+        {
+            "amount": 247.52,
+            "description": "leverage cutting-edge e-services",
+            "hours": 7.58,
+            "rate": 2.75
+        },
+        {
+            "amount": 423.41,
+            "description": "expedite web-enabled initiatives",
+            "hours": 6.16,
+            "rate": 2.7
+        },
+        {
+            "amount": 188.94,
+            "description": "whiteboard viral e-tailers",
+            "hours": 9.61,
+            "rate": 4.58
+        }
+    ],
+    "seller": {
+        "address": "3441 James Row Port Patricia, UT 76536",
+        "email": "lhenderson@example.com",
+        "name": "Robert Hall"
+    },
+    "tax": {
+        "base": 18.96,
+        "tax_amount": 15.41,
+        "total_tax": 20.5
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "606 Rhodes Mountains South John, CT 74351",
+        "company_name": "Holmes LLC",
+        "email": "kingjaime@example.com",
+        "name": "Beverly Kelly",
+        "phone": "(205)260-3555x72472"
+    },
+    "invoice": {
+        "date": "05.01.2007",
+        "due_date": "21.06.2014",
+        "number": "SYb38003978920"
+    },
+    "payment": {
+        "account_number": 9771747983,
+        "bank_name": "Young PLC",
+        "routing_number": 626384972
+    },
+    "products": [
+        {
+            "amount": 339.9,
+            "description": "streamline cross-platform info-mediaries",
+            "index": "6",
+            "quantity": 9.51,
+            "unit_price": 92.84
+        },
+        {
+            "amount": 417.74,
+            "description": "integrate world-class partnerships",
+            "index": "2",
+            "quantity": 5.24,
+            "unit_price": 84.13
+        },
+        {
+            "amount": 447.98,
+            "description": "evolve sticky communities",
+            "index": "6",
+            "quantity": 3.2,
+            "unit_price": 63.2
+        }
+    ],
+    "seller": {
+        "address": "311 Craig Burg Suite 336 Lewisfurt, HI 96200",
+        "company_name": "Cannon-Holloway",
+        "email": "thomasblack@example.net"
+    }
+}

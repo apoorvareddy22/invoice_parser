@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "683 Nicholas Court Lake Evelynchester, WI 33299",
+        "business_no": "lZ469",
+        "id": "nM437"
+    },
+    "invoice": {
+        "date": "25.07.2022",
+        "number": "9127-1859"
+    },
+    "payment": {
+        "due_date": "27.05.2021",
+        "total": 833.25
+    },
+    "products": [
+        {
+            "amount": 416.01,
+            "description": "reinvent visionary portals",
+            "quantity": 6.91,
+            "reference": "ip-015",
+            "unit_price": 94.47
+        },
+        {
+            "amount": 403.32,
+            "description": "generate best-of-breed synergies",
+            "quantity": 2.41,
+            "reference": "ur-919",
+            "unit_price": 24.16
+        }
+    ],
+    "seller": {
+        "address": "86243 Austin Valleys Lake Amyshire, AK 93964"
+    },
+    "tax": {
+        "base_ht": 313.48,
+        "regulations": 16.18,
+        "total_ht": 378.12,
+        "vat_amount": 47.23,
+        "vat_percentage": 24.41
+    }
+}

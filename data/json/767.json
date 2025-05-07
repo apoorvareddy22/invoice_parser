@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "41216 Marilyn Crossroad West Renee, NJ 22882",
+        "company_name": "White-Shaw",
+        "country": "Martinique",
+        "name": "Jared Jones"
+    },
+    "invoice": {
+        "date": "17.01.2023",
+        "number": 690453
+    },
+    "payment": {
+        "discount_amount": 30.25,
+        "discount_percentage": 19.05,
+        "due": 94.28,
+        "sub_total": 93.17,
+        "total": 187.96
+    },
+    "products": [
+        {
+            "description": "facilitate transparent e-services",
+            "index": "4",
+            "quantity": 9.06,
+            "total_price": 819.44,
+            "unit_price": 99.29
+        },
+        {
+            "description": "utilize mission-critical channels",
+            "index": "8",
+            "quantity": 3.45,
+            "total_price": 641.91,
+            "unit_price": 84.66
+        }
+    ],
+    "seller": {
+        "address": "468 Daniel Tunnel Apt. 231 Danielleburgh, CA 73793",
+        "company_name": "Castro, Sweeney and Brown",
+        "vat_no": "Im91364508236"
+    }
+}

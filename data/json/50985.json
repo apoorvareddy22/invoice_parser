@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "1048 Morris Fall South Jamesborough, WI 37641",
+        "id": "Uw631"
+    },
+    "invoice": {
+        "bc_no": "ZR07182",
+        "currency_code": "PYG",
+        "date": "12.04.2023",
+        "due_date": "10.03.2018",
+        "number": 227456
+    },
+    "payment": {
+        "bank_name": "Gordon-Bullock",
+        "bic": "FEMNGBLGEIG",
+        "iban": "YCQQ37358012296422"
+    },
+    "products": [
+        {
+            "amount": 440.6,
+            "description": "empower intuitive vortals",
+            "index": "6",
+            "price": 408.17,
+            "quantity": 9.48,
+            "tax_amount": 69.79,
+            "total_ttc": 164.03,
+            "vat_amount": 0.89
+        },
+        {
+            "amount": 415.85,
+            "description": "aggregate bleeding-edge mindshare",
+            "index": "6",
+            "price": 75.59,
+            "quantity": 8.03,
+            "tax_amount": 69.42,
+            "total_ttc": 129.14,
+            "vat_amount": 12.99
+        },
+        {
+            "amount": 204.17,
+            "description": "scale viral web services",
+            "index": "5",
+            "price": 197.79,
+            "quantity": 5.59,
+            "tax_amount": 97.78,
+            "total_ttc": 448.95,
+            "vat_amount": 3.0
+        },
+        {
+            "amount": 324.13,
+            "description": "incentivize revolutionary experiences",
+            "index": "10",
+            "price": 158.75,
+            "quantity": 7.53,
+            "tax_amount": 74.56,
+            "total_ttc": 496.77,
+            "vat_amount": 3.15
+        },
+        {
+            "amount": 449.22,
+            "description": "embrace enterprise niches",
+            "index": "3",
+            "price": 86.48,
+            "quantity": 4.69,
+            "tax_amount": 66.37,
+            "total_ttc": 354.47,
+            "vat_amount": 9.51
+        },
+        {
+            "amount": 494.12,
+            "description": "incubate front-end interfaces",
+            "index": "9",
+            "price": 149.61,
+            "quantity": 4.71,
+            "tax_amount": 32.56,
+            "total_ttc": 480.08,
+            "vat_amount": 5.83
+        },
+        {
+            "amount": 274.83,
+            "description": "target frictionless initiatives",
+            "index": "5",
+            "price": 90.04,
+            "quantity": 2.06,
+            "tax_amount": 53.05,
+            "total_ttc": 119.86,
+            "vat_amount": 2.65
+        }
+    ],
+    "seller": {
+        "name": "Ryan Taylor"
+    },
+    "supplier": {
+        "address": "869 Sue Heights Christinabury, ME 85970",
+        "name": "Barbara Morris"
+    },
+    "tax": {
+        "amount_excluding_tax": 141.32,
+        "amount_including_tax": 98.42,
+        "tax_amount": 18.86,
+        "total_ht": 382.55,
+        "total_ttc": 316.18
+    }
+}

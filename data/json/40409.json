@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "USS Woods FPO AE 65300"
+    },
+    "invoice": {
+        "bc_no": "kR70228",
+        "date": "24.06.2020",
+        "maturity_date": "15.01.1997",
+        "number": 488085
+    },
+    "products": [
+        {
+            "amount": 342.28,
+            "description": "whiteboard web-enabled communities",
+            "quantity": 1.81,
+            "unit_price": 70.6,
+            "vat_amount": 4.56
+        },
+        {
+            "amount": 344.82,
+            "description": "streamline vertical web-readiness",
+            "quantity": 3.1,
+            "unit_price": 54.13,
+            "vat_amount": 4.03
+        }
+    ],
+    "seller": {
+        "address": "40884 Kimberly Street Apt. 067 Barronborough, CA 01168"
+    },
+    "tax": {
+        "amount_excluding_tax": 99.51,
+        "amount_including_tax": 63.46,
+        "tax_amount": 25.62
+    }
+}

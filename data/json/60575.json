@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "Unit 2457 Box 2591 DPO AA 45279",
+        "business_no": "CB691",
+        "id": "hl230"
+    },
+    "invoice": {
+        "date": "23.10.1993",
+        "number": "9444-9406"
+    },
+    "payment": {
+        "due_date": "28.03.2019",
+        "total": 311.02
+    },
+    "products": [
+        {
+            "amount": 478.29,
+            "description": "transform magnetic users",
+            "quantity": 1.56,
+            "reference": "xH-923",
+            "unit_price": 50.07
+        },
+        {
+            "amount": 416.02,
+            "description": "strategize leading-edge ROI",
+            "quantity": 9.29,
+            "reference": "sh-166",
+            "unit_price": 65.84
+        },
+        {
+            "amount": 238.44,
+            "description": "grow web-enabled technologies",
+            "quantity": 9.53,
+            "reference": "KO-391",
+            "unit_price": 18.36
+        }
+    ],
+    "seller": {
+        "address": "48910 House Grove Apt. 662 East Wendymouth, LA 37529"
+    },
+    "tax": {
+        "base_ht": 354.12,
+        "regulations": 25.15,
+        "total_ht": 219.18,
+        "vat_amount": 136.15,
+        "vat_percentage": 18.23
+    }
+}

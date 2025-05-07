@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "346 Young Motorway Tammystad, MI 58141",
+        "company_name": "Romero-Hall",
+        "email": "pbonilla@example.org",
+        "name": "Michael Stewart",
+        "phone": "+1-949-353-7368x00878"
+    },
+    "invoice": {
+        "date": "24.01.1993",
+        "due_date": "20.12.1996",
+        "number": "kfj21760071492"
+    },
+    "payment": {
+        "account_number": 5755250043,
+        "bank_name": "Adkins LLC",
+        "routing_number": 398303204
+    },
+    "products": [
+        {
+            "amount": 152.64,
+            "description": "deploy sticky web services",
+            "index": "4",
+            "quantity": 5.36,
+            "unit_price": 98.77
+        },
+        {
+            "amount": 326.35,
+            "description": "expedite end-to-end schemas",
+            "index": "2",
+            "quantity": 6.27,
+            "unit_price": 45.42
+        },
+        {
+            "amount": 221.12,
+            "description": "facilitate revolutionary infrastructures",
+            "index": "5",
+            "quantity": 3.16,
+            "unit_price": 38.74
+        }
+    ],
+    "seller": {
+        "address": "9051 Cody Club Suite 067 Jeremyshire, NM 43624",
+        "company_name": "Yu Ltd",
+        "email": "ssummers@example.com"
+    }
+}

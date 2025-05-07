@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "6373 Michelle Passage Suite 733 North Patricia, DC 83939",
+        "company_name": "Duran-Shelton",
+        "country": "Suriname",
+        "email": "hannahtran@example.org",
+        "name": "Jimmy Parker",
+        "phone": "001-543-991-6398x9328",
+        "vat_no": "tq92409277465"
+    },
+    "invoice": {
+        "date": "01.03.2021",
+        "due_date": "23.09.2018",
+        "linked_invoice": "cr-5384-5951",
+        "notes": "streamline frictionless supply-chains",
+        "number": "KP-5138-1931"
+    },
+    "products": [
+        {
+            "description": "unleash interactive synergies",
+            "discount_percentage": 8.9,
+            "price": 452.26,
+            "quantity": 5.78,
+            "unit_price": 23.2
+        },
+        {
+            "description": "empower back-end partnerships",
+            "discount_percentage": 14.22,
+            "price": 471.34,
+            "quantity": 6.46,
+            "unit_price": 95.32
+        },
+        {
+            "description": "maximize best-of-breed functionalities",
+            "discount_percentage": 13.38,
+            "price": 123.39,
+            "quantity": 3.54,
+            "unit_price": 68.92
+        }
+    ],
+    "seller": {
+        "address": "701 Shawn Pike Suite 725 West Katherine, MN 01915",
+        "ape": "9791F",
+        "capital": 60709208,
+        "country": "Luxembourg",
+        "email": "yvonne42@example.org",
+        "name": "Robert Adams",
+        "phone_1": "885.333.3381x1766",
+        "phone_2": "001-430-471-2845x026",
+        "phone_3": "450-904-5596",
+        "ref_walk": "GVXS7977",
+        "reference": "nL198",
+        "siret": 18986969989222,
+        "vat_no": "GP48045856779",
+        "website": "https://www.chavez.com/"
+    },
+    "tax": {
+        "amount_0": 14.38,
+        "amount_1": 14.8,
+        "base_0": 21.41,
+        "base_1": 264.91,
+        "total_ht": 343.61,
+        "total_tax": 23.21,
+        "total_ttc": 357.59,
+        "vat_0": 22.58,
+        "vat_1": 18.8
+    }
+}

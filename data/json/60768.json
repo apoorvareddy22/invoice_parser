@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "9842 Hall Spring Anthonybury, NV 85120",
+        "business_no": "YY580",
+        "id": "KM421"
+    },
+    "invoice": {
+        "date": "11.09.2007",
+        "number": "9790-3501"
+    },
+    "payment": {
+        "due_date": "23.01.2010",
+        "total": 275.7
+    },
+    "products": [
+        {
+            "amount": 122.05,
+            "description": "matrix one-to-one web services",
+            "quantity": 1.91,
+            "reference": "Gh-563",
+            "unit_price": 75.16
+        },
+        {
+            "amount": 171.38,
+            "description": "integrate seamless web-readiness",
+            "quantity": 1.75,
+            "reference": "Va-868",
+            "unit_price": 58.03
+        },
+        {
+            "amount": 68.14,
+            "description": "transform ubiquitous infrastructures",
+            "quantity": 1.48,
+            "reference": "Ru-676",
+            "unit_price": 48.81
+        },
+        {
+            "amount": 58.98,
+            "description": "drive e-business platforms",
+            "quantity": 9.31,
+            "reference": "GK-282",
+            "unit_price": 28.61
+        },
+        {
+            "amount": 234.05,
+            "description": "envisioneer value-added architectures",
+            "quantity": 6.63,
+            "reference": "tk-186",
+            "unit_price": 13.87
+        },
+        {
+            "amount": 324.34,
+            "description": "scale e-business convergence",
+            "quantity": 6.12,
+            "reference": "To-746",
+            "unit_price": 68.23
+        },
+        {
+            "amount": 32.55,
+            "description": "generate proactive markets",
+            "quantity": 2.08,
+            "reference": "bj-408",
+            "unit_price": 18.01
+        }
+    ],
+    "seller": {
+        "address": "78578 Richard Crescent Gonzalezview, NE 64364"
+    },
+    "tax": {
+        "base_ht": 249.14,
+        "regulations": 16.82,
+        "total_ht": 242.38,
+        "vat_amount": 118.45,
+        "vat_percentage": 21.17
+    }
+}

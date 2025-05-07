@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "485 Rosales Prairie Port Sherri, DE 33153",
+        "id": "Yo906"
+    },
+    "invoice": {
+        "bc_no": "tH71552",
+        "currency_code": "MNT",
+        "date": "26.07.2019",
+        "due_date": "27.01.2020",
+        "number": 842412
+    },
+    "payment": {
+        "bank_name": "Stewart and Sons",
+        "bic": "STFDGB64",
+        "iban": "BOVC42215390652248"
+    },
+    "products": [
+        {
+            "amount": 381.75,
+            "description": "benchmark best-of-breed eyeballs",
+            "index": "9",
+            "price": 311.18,
+            "quantity": 5.24,
+            "tax_amount": 20.69,
+            "total_ttc": 463.14,
+            "vat_amount": 6.46
+        },
+        {
+            "amount": 138.13,
+            "description": "leverage virtual functionalities",
+            "index": "6",
+            "price": 478.37,
+            "quantity": 5.58,
+            "tax_amount": 33.35,
+            "total_ttc": 274.39,
+            "vat_amount": 9.55
+        },
+        {
+            "amount": 83.82,
+            "description": "transform wireless vortals",
+            "index": "1",
+            "price": 131.91,
+            "quantity": 8.15,
+            "tax_amount": 97.98,
+            "total_ttc": 103.69,
+            "vat_amount": 10.17
+        }
+    ],
+    "seller": {
+        "name": "Karen Carson"
+    },
+    "supplier": {
+        "address": "029 Ashley Station Apt. 228 Dunnstad, KS 47002",
+        "name": "Benjamin Arnold"
+    },
+    "tax": {
+        "amount_excluding_tax": 116.28,
+        "amount_including_tax": 190.1,
+        "tax_amount": 16.41,
+        "total_ht": 419.04,
+        "total_ttc": 353.71
+    }
+}

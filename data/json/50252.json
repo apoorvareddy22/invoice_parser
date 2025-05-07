@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "6108 Anderson Circle Apt. 526 East Jeffreymouth, MT 45620",
+        "id": "GZ282"
+    },
+    "invoice": {
+        "bc_no": "JM96962",
+        "currency_code": "AFN",
+        "date": "25.10.2022",
+        "due_date": "20.09.2008",
+        "number": 234477
+    },
+    "payment": {
+        "bank_name": "Burnett, Moore and Grimes",
+        "bic": "BQCBGBW1P80",
+        "iban": "VGHJ50007711902922"
+    },
+    "products": [
+        {
+            "amount": 68.22,
+            "description": "envisioneer killer synergies",
+            "index": "6",
+            "price": 337.35,
+            "quantity": 4.94,
+            "tax_amount": 37.66,
+            "total_ttc": 463.22,
+            "vat_amount": 0.59
+        }
+    ],
+    "seller": {
+        "name": "Justin Banks"
+    },
+    "supplier": {
+        "address": "098 Calvin Junctions Westland, OH 94463",
+        "name": "Trevor Perry"
+    },
+    "tax": {
+        "amount_excluding_tax": 124.93,
+        "amount_including_tax": 27.62,
+        "tax_amount": 29.42,
+        "total_ht": 318.51,
+        "total_ttc": 166.26
+    }
+}

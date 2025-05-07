@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "7233 Smith Terrace Suite 924 South Teresa, MI 80620",
+        "email": "nicholas58@example.com",
+        "phone": "001-279-409-7371",
+        "vat_no": "Hi06565143192"
+    },
+    "invoice": {
+        "date": "27.10.1998",
+        "due_date": "27.11.2012",
+        "market_reference": 935719,
+        "notes": "facilitate distributed ROI",
+        "number": "9436-4648",
+        "reference": 420421,
+        "vat_no": "Kv85424147010"
+    },
+    "payment": {
+        "net_total": 134.84,
+        "total": 859.85
+    },
+    "products": [
+        {
+            "amount": 180.26,
+            "description": "synthesize cross-platform schemas",
+            "hours": 6.79,
+            "rate": 6.35
+        }
+    ],
+    "seller": {
+        "address": "9888 Williams Squares Apt. 419 Belltown, CA 33016",
+        "email": "lopezmatthew@example.net",
+        "name": "Brandon Rodriguez"
+    },
+    "tax": {
+        "base": 25.81,
+        "tax_amount": 25.34,
+        "total_tax": 14.76
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "0746 Maldonado Plain Port Dominiqueberg, GA 17489",
+        "id": "Hc937"
+    },
+    "invoice": {
+        "bc_no": "Bh86300",
+        "currency_code": "ZWD",
+        "date": "30.08.1997",
+        "due_date": "20.12.2011",
+        "number": 649341
+    },
+    "payment": {
+        "bank_name": "Lewis, Smith and Harris",
+        "bic": "CNXGGBS9J75",
+        "iban": "OTXD52859607921133"
+    },
+    "products": [
+        {
+            "amount": 337.19,
+            "description": "empower B2C e-markets",
+            "index": "1",
+            "price": 168.51,
+            "quantity": 1.44,
+            "tax_amount": 75.91,
+            "total_ttc": 471.69,
+            "vat_amount": 9.32
+        },
+        {
+            "amount": 270.92,
+            "description": "e-enable distributed infrastructures",
+            "index": "10",
+            "price": 36.62,
+            "quantity": 1.55,
+            "tax_amount": 64.23,
+            "total_ttc": 219.05,
+            "vat_amount": 18.5
+        },
+        {
+            "amount": 454.24,
+            "description": "monetize impactful eyeballs",
+            "index": "7",
+            "price": 302.16,
+            "quantity": 5.35,
+            "tax_amount": 69.28,
+            "total_ttc": 336.1,
+            "vat_amount": 3.78
+        },
+        {
+            "amount": 141.27,
+            "description": "orchestrate front-end e-tailers",
+            "index": "4",
+            "price": 291.1,
+            "quantity": 8.04,
+            "tax_amount": 58.16,
+            "total_ttc": 239.87,
+            "vat_amount": 5.89
+        },
+        {
+            "amount": 344.31,
+            "description": "incentivize impactful e-markets",
+            "index": "6",
+            "price": 357.55,
+            "quantity": 2.57,
+            "tax_amount": 64.28,
+            "total_ttc": 110.97,
+            "vat_amount": 0.39
+        }
+    ],
+    "seller": {
+        "name": "Kathryn Hayes"
+    },
+    "supplier": {
+        "address": "28812 Oneill Circles New William, FL 11345",
+        "name": "Pamela Daniels"
+    },
+    "tax": {
+        "amount_excluding_tax": 182.38,
+        "amount_including_tax": 46.55,
+        "tax_amount": 16.47,
+        "total_ht": 448.52,
+        "total_ttc": 157.97
+    }
+}

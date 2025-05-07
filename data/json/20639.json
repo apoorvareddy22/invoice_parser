@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "58053 Justin Ridge Apt. 883 Marshallshire, NY 70968",
+        "company_name": "Barnes and Sons",
+        "email": "jonesjason@example.org",
+        "name": "Tammy Foster",
+        "phone": "(321)830-8946x095"
+    },
+    "invoice": {
+        "date": "19.05.2010",
+        "due_date": "20.10.1991",
+        "number": "WQO00075796121"
+    },
+    "payment": {
+        "account_number": 8787877450,
+        "bank_name": "Williamson LLC",
+        "routing_number": 227065919
+    },
+    "products": [
+        {
+            "amount": 493.2,
+            "description": "monetize mission-critical interfaces",
+            "index": "8",
+            "quantity": 1.06,
+            "unit_price": 99.05
+        },
+        {
+            "amount": 263.44,
+            "description": "brand strategic methodologies",
+            "index": "2",
+            "quantity": 5.66,
+            "unit_price": 14.24
+        },
+        {
+            "amount": 89.36,
+            "description": "synergize dynamic systems",
+            "index": "5",
+            "quantity": 4.33,
+            "unit_price": 90.52
+        },
+        {
+            "amount": 420.84,
+            "description": "mesh cross-platform systems",
+            "index": "8",
+            "quantity": 9.77,
+            "unit_price": 58.42
+        }
+    ],
+    "seller": {
+        "address": "517 Sonya Hollow West Henry, WY 01266",
+        "company_name": "Gill Ltd",
+        "email": "donna11@example.org"
+    }
+}

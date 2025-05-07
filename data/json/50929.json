@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "2087 Harrison Expressway New Holly, PW 93053",
+        "id": "ry931"
+    },
+    "invoice": {
+        "bc_no": "wE50539",
+        "currency_code": "HNL",
+        "date": "23.08.1998",
+        "due_date": "09.01.2015",
+        "number": 646213
+    },
+    "payment": {
+        "bank_name": "Santiago, Scott and Moreno",
+        "bic": "DNCSGBOF",
+        "iban": "DYNX65719908145788"
+    },
+    "products": [
+        {
+            "amount": 462.6,
+            "description": "integrate strategic partnerships",
+            "index": "10",
+            "price": 350.79,
+            "quantity": 5.06,
+            "tax_amount": 25.28,
+            "total_ttc": 425.03,
+            "vat_amount": 4.87
+        },
+        {
+            "amount": 427.52,
+            "description": "productize intuitive partnerships",
+            "index": "2",
+            "price": 35.43,
+            "quantity": 4.83,
+            "tax_amount": 48.6,
+            "total_ttc": 423.76,
+            "vat_amount": 6.87
+        },
+        {
+            "amount": 52.14,
+            "description": "transition scalable paradigms",
+            "index": "4",
+            "price": 260.15,
+            "quantity": 3.33,
+            "tax_amount": 71.69,
+            "total_ttc": 160.16,
+            "vat_amount": 5.51
+        },
+        {
+            "amount": 493.52,
+            "description": "whiteboard web-enabled relationships",
+            "index": "3",
+            "price": 33.0,
+            "quantity": 2.07,
+            "tax_amount": 50.09,
+            "total_ttc": 397.64,
+            "vat_amount": 3.33
+        },
+        {
+            "amount": 432.41,
+            "description": "disintermediate enterprise schemas",
+            "index": "10",
+            "price": 119.98,
+            "quantity": 3.31,
+            "tax_amount": 90.85,
+            "total_ttc": 223.08,
+            "vat_amount": 4.61
+        },
+        {
+            "amount": 40.46,
+            "description": "deliver B2C e-services",
+            "index": "6",
+            "price": 464.35,
+            "quantity": 4.06,
+            "tax_amount": 68.43,
+            "total_ttc": 345.75,
+            "vat_amount": 11.94
+        }
+    ],
+    "seller": {
+        "name": "Brandon Moore"
+    },
+    "supplier": {
+        "address": "633 Ingram Mountain Melanietown, NJ 06369",
+        "name": "Melinda Young"
+    },
+    "tax": {
+        "amount_excluding_tax": 138.13,
+        "amount_including_tax": 196.07,
+        "tax_amount": 16.42,
+        "total_ht": 218.21,
+        "total_ttc": 414.83
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "10735 Riley Plains Port Jenniferville, GA 05645",
+        "business_no": "xp204",
+        "id": "Jf730"
+    },
+    "invoice": {
+        "date": "21.12.2012",
+        "number": "2703-5991"
+    },
+    "payment": {
+        "due_date": "06.07.2017",
+        "total": 869.03
+    },
+    "products": [
+        {
+            "amount": 380.19,
+            "description": "morph efficient communities",
+            "quantity": 1.76,
+            "reference": "Xf-828",
+            "unit_price": 67.12
+        }
+    ],
+    "seller": {
+        "address": "53763 Curtis Islands Apt. 346 Lauraland, PA 66972"
+    },
+    "tax": {
+        "base_ht": 212.49,
+        "regulations": 11.66,
+        "total_ht": 378.01,
+        "vat_amount": 37.16,
+        "vat_percentage": 27.61
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "USS Harris FPO AP 75769",
+        "id": "oF810"
+    },
+    "invoice": {
+        "bc_no": "ec91047",
+        "currency_code": "BWP",
+        "date": "24.04.2000",
+        "due_date": "16.01.2017",
+        "number": 212645
+    },
+    "payment": {
+        "bank_name": "Moore Ltd",
+        "bic": "NEXTGB55",
+        "iban": "MHVT15110781373601"
+    },
+    "products": [
+        {
+            "amount": 263.22,
+            "description": "target collaborative experiences",
+            "index": "6",
+            "price": 292.49,
+            "quantity": 7.25,
+            "tax_amount": 93.66,
+            "total_ttc": 380.93,
+            "vat_amount": 0.99
+        },
+        {
+            "amount": 320.75,
+            "description": "integrate seamless convergence",
+            "index": "8",
+            "price": 211.51,
+            "quantity": 3.37,
+            "tax_amount": 16.45,
+            "total_ttc": 233.79,
+            "vat_amount": 4.08
+        },
+        {
+            "amount": 274.61,
+            "description": "leverage cutting-edge mindshare",
+            "index": "6",
+            "price": 312.66,
+            "quantity": 2.51,
+            "tax_amount": 13.0,
+            "total_ttc": 181.17,
+            "vat_amount": 2.0
+        },
+        {
+            "amount": 467.72,
+            "description": "synthesize web-enabled communities",
+            "index": "1",
+            "price": 94.85,
+            "quantity": 4.14,
+            "tax_amount": 28.65,
+            "total_ttc": 377.8,
+            "vat_amount": 6.92
+        },
+        {
+            "amount": 311.87,
+            "description": "evolve distributed methodologies",
+            "index": "10",
+            "price": 409.72,
+            "quantity": 2.67,
+            "tax_amount": 24.89,
+            "total_ttc": 117.96,
+            "vat_amount": 2.65
+        }
+    ],
+    "seller": {
+        "name": "Linda Cunningham"
+    },
+    "supplier": {
+        "address": "17284 Phillips Trail Apt. 776 Gregoryfurt, MA 26634",
+        "name": "Makayla Moss"
+    },
+    "tax": {
+        "amount_excluding_tax": 156.76,
+        "amount_including_tax": 66.25,
+        "tax_amount": 27.99,
+        "total_ht": 459.6,
+        "total_ttc": 278.16
+    }
+}

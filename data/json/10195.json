@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "727 Smith Knolls West Anthony, ME 60806",
+        "email": "oalvarado@example.com",
+        "phone": "(414)649-4489x414",
+        "vat_no": "Ep94198419123"
+    },
+    "invoice": {
+        "date": "30.05.2011",
+        "due_date": "14.09.1994",
+        "market_reference": 853771,
+        "notes": "transform vertical initiatives",
+        "number": "6778-6718",
+        "reference": 237114,
+        "vat_no": "Mw01198982410"
+    },
+    "payment": {
+        "net_total": 94.07,
+        "total": 771.91
+    },
+    "products": [
+        {
+            "amount": 157.67,
+            "description": "matrix 24/365 mindshare",
+            "hours": 2.64,
+            "rate": 2.18
+        },
+        {
+            "amount": 242.96,
+            "description": "syndicate rich web services",
+            "hours": 7.27,
+            "rate": 1.23
+        }
+    ],
+    "seller": {
+        "address": "869 Hampton Track South Monique, HI 30988",
+        "email": "myersbrenda@example.net",
+        "name": "Kyle Brown"
+    },
+    "tax": {
+        "base": 17.2,
+        "tax_amount": 27.95,
+        "total_tax": 21.38
+    }
+}

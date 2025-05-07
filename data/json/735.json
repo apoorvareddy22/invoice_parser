@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "89030 Anthony Branch Apt. 204 Lake Brianfort, VI 94547",
+        "company_name": "Fletcher Inc",
+        "country": "Uzbekistan",
+        "name": "Dr. Alejandro Harper"
+    },
+    "invoice": {
+        "date": "11.07.2003",
+        "number": 595001
+    },
+    "payment": {
+        "discount_amount": 10.19,
+        "discount_percentage": 7.99,
+        "due": 38.49,
+        "sub_total": 116.89,
+        "total": 786.27
+    },
+    "products": [
+        {
+            "description": "scale granular networks",
+            "index": "7",
+            "quantity": 5.32,
+            "total_price": 183.02,
+            "unit_price": 61.93
+        },
+        {
+            "description": "re-contextualize value-added users",
+            "index": "5",
+            "quantity": 2.88,
+            "total_price": 152.33,
+            "unit_price": 34.28
+        }
+    ],
+    "seller": {
+        "address": "218 Bass Prairie North Karen, MH 59153",
+        "company_name": "Scott, Robinson and Davis",
+        "vat_no": "KT67700047584"
+    }
+}

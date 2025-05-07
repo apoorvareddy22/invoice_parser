@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "19410 Jose Motorway Apt. 342 East Joseph, FL 78815",
+        "email": "jennifercabrera@example.net",
+        "phone": "630.780.9969x9591",
+        "vat_no": "zU79066218351"
+    },
+    "invoice": {
+        "date": "19.12.2021",
+        "due_date": "18.08.2002",
+        "market_reference": 864368,
+        "notes": "innovate dynamic interfaces",
+        "number": "0040-6034",
+        "reference": 282040,
+        "vat_no": "Hl08134560286"
+    },
+    "payment": {
+        "net_total": 140.67,
+        "total": 754.3
+    },
+    "products": [
+        {
+            "amount": 384.59,
+            "description": "orchestrate plug-and-play vortals",
+            "hours": 8.18,
+            "rate": 4.25
+        },
+        {
+            "amount": 272.11,
+            "description": "architect next-generation e-markets",
+            "hours": 9.55,
+            "rate": 9.87
+        },
+        {
+            "amount": 434.53,
+            "description": "integrate wireless models",
+            "hours": 2.41,
+            "rate": 2.96
+        }
+    ],
+    "seller": {
+        "address": "523 Jamie Centers Apt. 535 Mccormickmouth, IL 53149",
+        "email": "steven49@example.org",
+        "name": "Mary Combs"
+    },
+    "tax": {
+        "base": 29.72,
+        "tax_amount": 24.78,
+        "total_tax": 10.85
+    }
+}

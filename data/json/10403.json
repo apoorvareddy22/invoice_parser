@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "08021 Wright Passage Medinaville, WI 94446",
+        "email": "chamberskevin@example.org",
+        "phone": "517-909-6919x02648",
+        "vat_no": "HL51263764785"
+    },
+    "invoice": {
+        "date": "26.03.2016",
+        "due_date": "09.08.1998",
+        "market_reference": 102242,
+        "notes": "seize proactive web services",
+        "number": "3273-0136",
+        "reference": 516945,
+        "vat_no": "eT39514190316"
+    },
+    "payment": {
+        "net_total": 56.4,
+        "total": 678.16
+    },
+    "products": [
+        {
+            "amount": 245.13,
+            "description": "synergize holistic systems",
+            "hours": 1.64,
+            "rate": 2.7
+        }
+    ],
+    "seller": {
+        "address": "7350 Tina Run Danahaven, MS 21147",
+        "email": "ajohnson@example.org",
+        "name": "Mr. Russell Fischer"
+    },
+    "tax": {
+        "base": 28.23,
+        "tax_amount": 22.29,
+        "total_tax": 13.39
+    }
+}

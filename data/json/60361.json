@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "PSC 7858, Box 3066 APO AE 03305",
+        "business_no": "fL626",
+        "id": "jf259"
+    },
+    "invoice": {
+        "date": "02.04.1991",
+        "number": "0590-0363"
+    },
+    "payment": {
+        "due_date": "03.08.2022",
+        "total": 655.87
+    },
+    "products": [
+        {
+            "amount": 463.2,
+            "description": "streamline dynamic content",
+            "quantity": 6.45,
+            "reference": "WN-388",
+            "unit_price": 26.06
+        },
+        {
+            "amount": 189.38,
+            "description": "streamline open-source functionalities",
+            "quantity": 4.79,
+            "reference": "wB-751",
+            "unit_price": 70.35
+        },
+        {
+            "amount": 435.37,
+            "description": "productize impactful initiatives",
+            "quantity": 6.04,
+            "reference": "um-352",
+            "unit_price": 56.98
+        }
+    ],
+    "seller": {
+        "address": "62676 Banks Mountains Lake James, LA 92331"
+    },
+    "tax": {
+        "base_ht": 443.83,
+        "regulations": 26.16,
+        "total_ht": 397.79,
+        "vat_amount": 161.46,
+        "vat_percentage": 11.13
+    }
+}

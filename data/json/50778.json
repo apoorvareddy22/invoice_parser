@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "96453 Wolfe Trail Stanleyburgh, AL 38760",
+        "id": "oP584"
+    },
+    "invoice": {
+        "bc_no": "fy53112",
+        "currency_code": "SPL",
+        "date": "15.06.2014",
+        "due_date": "19.12.1990",
+        "number": 368185
+    },
+    "payment": {
+        "bank_name": "Vaughn, Taylor and Walters",
+        "bic": "WXBGGB0Q",
+        "iban": "MSGC03339262233323"
+    },
+    "products": [
+        {
+            "amount": 233.97,
+            "description": "extend viral initiatives",
+            "index": "2",
+            "price": 76.65,
+            "quantity": 1.65,
+            "tax_amount": 21.13,
+            "total_ttc": 272.36,
+            "vat_amount": 3.92
+        },
+        {
+            "amount": 404.19,
+            "description": "matrix frictionless functionalities",
+            "index": "8",
+            "price": 92.56,
+            "quantity": 6.97,
+            "tax_amount": 91.88,
+            "total_ttc": 193.2,
+            "vat_amount": 4.48
+        }
+    ],
+    "seller": {
+        "name": "Justin Abbott"
+    },
+    "supplier": {
+        "address": "51956 Trujillo Vista Kellyville, OH 31902",
+        "name": "Michael Nelson"
+    },
+    "tax": {
+        "amount_excluding_tax": 171.17,
+        "amount_including_tax": 187.58,
+        "tax_amount": 11.87,
+        "total_ht": 369.08,
+        "total_ttc": 164.82
+    }
+}

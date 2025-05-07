@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "PSC 3122, Box 8050 APO AP 81999",
+        "id": "te634"
+    },
+    "invoice": {
+        "bc_no": "JG70653",
+        "currency_code": "NOK",
+        "date": "10.10.2004",
+        "due_date": "04.10.1990",
+        "number": 676843
+    },
+    "payment": {
+        "bank_name": "Robertson, Mclaughlin and Moore",
+        "bic": "HESIGBAWQW7",
+        "iban": "APKH98426468444242"
+    },
+    "products": [
+        {
+            "amount": 234.28,
+            "description": "drive intuitive e-services",
+            "index": "10",
+            "price": 280.43,
+            "quantity": 4.91,
+            "tax_amount": 94.51,
+            "total_ttc": 438.39,
+            "vat_amount": 1.87
+        },
+        {
+            "amount": 332.13,
+            "description": "implement leading-edge web services",
+            "index": "10",
+            "price": 347.83,
+            "quantity": 2.75,
+            "tax_amount": 59.23,
+            "total_ttc": 336.84,
+            "vat_amount": 0.62
+        },
+        {
+            "amount": 440.84,
+            "description": "cultivate end-to-end e-tailers",
+            "index": "3",
+            "price": 483.1,
+            "quantity": 2.85,
+            "tax_amount": 83.34,
+            "total_ttc": 254.25,
+            "vat_amount": 11.0
+        },
+        {
+            "amount": 74.76,
+            "description": "evolve turn-key bandwidth",
+            "index": "10",
+            "price": 62.68,
+            "quantity": 7.96,
+            "tax_amount": 76.65,
+            "total_ttc": 470.38,
+            "vat_amount": 9.96
+        },
+        {
+            "amount": 263.11,
+            "description": "matrix B2B paradigms",
+            "index": "1",
+            "price": 406.92,
+            "quantity": 4.21,
+            "tax_amount": 31.79,
+            "total_ttc": 268.0,
+            "vat_amount": 4.86
+        }
+    ],
+    "seller": {
+        "name": "Mrs. Ashley Hartman"
+    },
+    "supplier": {
+        "address": "849 Hughes Vista Apt. 876 Port Angelbury, HI 77180",
+        "name": "Martin Mckinney"
+    },
+    "tax": {
+        "amount_excluding_tax": 15.34,
+        "amount_including_tax": 141.78,
+        "tax_amount": 19.19,
+        "total_ht": 296.31,
+        "total_ttc": 474.07
+    }
+}

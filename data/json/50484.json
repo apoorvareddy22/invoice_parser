@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "435 Ryan Trail Jenniferview, MT 67044",
+        "id": "hx504"
+    },
+    "invoice": {
+        "bc_no": "Ui21283",
+        "currency_code": "MXN",
+        "date": "27.06.2019",
+        "due_date": "31.08.1995",
+        "number": 282232
+    },
+    "payment": {
+        "bank_name": "Gilbert, Crane and Andrade",
+        "bic": "NXTEGBL8V2V",
+        "iban": "YYUZ89324227074708"
+    },
+    "products": [
+        {
+            "amount": 212.15,
+            "description": "deploy visionary communities",
+            "index": "9",
+            "price": 287.4,
+            "quantity": 5.1,
+            "tax_amount": 57.68,
+            "total_ttc": 337.57,
+            "vat_amount": 5.14
+        },
+        {
+            "amount": 258.71,
+            "description": "transition cutting-edge eyeballs",
+            "index": "6",
+            "price": 462.63,
+            "quantity": 9.25,
+            "tax_amount": 77.1,
+            "total_ttc": 202.93,
+            "vat_amount": 8.94
+        }
+    ],
+    "seller": {
+        "name": "Sean Johnson"
+    },
+    "supplier": {
+        "address": "6062 Margaret Track Suite 970 Dustinmouth, NV 71350",
+        "name": "Summer Conrad"
+    },
+    "tax": {
+        "amount_excluding_tax": 14.53,
+        "amount_including_tax": 196.83,
+        "tax_amount": 25.04,
+        "total_ht": 194.08,
+        "total_ttc": 241.09
+    }
+}

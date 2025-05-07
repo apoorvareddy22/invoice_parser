@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "252 Richard Lane Suite 607 Ryanstad, ID 80025",
+        "company_name": "Foley LLC",
+        "email": "chapmanjennifer@example.org",
+        "name": "Taylor Cameron",
+        "phone": "(625)212-6008"
+    },
+    "invoice": {
+        "date": "16.10.1998",
+        "due_date": "15.05.2001",
+        "number": "kmY85910513763"
+    },
+    "payment": {
+        "account_number": 8552875512,
+        "bank_name": "Miller Group",
+        "routing_number": 954379476
+    },
+    "products": [
+        {
+            "amount": 461.61,
+            "description": "implement 24/7 e-tailers",
+            "index": "10",
+            "quantity": 2.43,
+            "unit_price": 86.87
+        },
+        {
+            "amount": 17.25,
+            "description": "expedite revolutionary functionalities",
+            "index": "9",
+            "quantity": 6.47,
+            "unit_price": 83.25
+        },
+        {
+            "amount": 422.61,
+            "description": "synthesize rich models",
+            "index": "5",
+            "quantity": 2.55,
+            "unit_price": 26.65
+        },
+        {
+            "amount": 418.68,
+            "description": "whiteboard turn-key markets",
+            "index": "7",
+            "quantity": 4.64,
+            "unit_price": 40.5
+        }
+    ],
+    "seller": {
+        "address": "580 Christopher Ramp East Sandra, AS 14960",
+        "company_name": "Garcia and Sons",
+        "email": "harpermichelle@example.net"
+    }
+}

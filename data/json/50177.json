@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "Unit 5619 Box 3132 DPO AA 02624",
+        "id": "LF529"
+    },
+    "invoice": {
+        "bc_no": "oQ51816",
+        "currency_code": "JOD",
+        "date": "18.06.2020",
+        "due_date": "12.07.2019",
+        "number": 646357
+    },
+    "payment": {
+        "bank_name": "Harrison-Fisher",
+        "bic": "REVRGBNO",
+        "iban": "HHRS01189228710459"
+    },
+    "products": [
+        {
+            "amount": 484.42,
+            "description": "utilize 24/365 e-services",
+            "index": "7",
+            "price": 394.78,
+            "quantity": 4.9,
+            "tax_amount": 91.26,
+            "total_ttc": 242.06,
+            "vat_amount": 6.6
+        }
+    ],
+    "seller": {
+        "name": "Luis Jackson"
+    },
+    "supplier": {
+        "address": "USNS Lopez FPO AA 51783",
+        "name": "Jesse Mcconnell"
+    },
+    "tax": {
+        "amount_excluding_tax": 77.32,
+        "amount_including_tax": 80.63,
+        "tax_amount": 27.85,
+        "total_ht": 453.07,
+        "total_ttc": 105.41
+    }
+}

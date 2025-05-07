@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "USCGC Gibson FPO AE 72583",
+        "company_name": "Pope, Swanson and Skinner",
+        "country": "Egypt",
+        "name": "Dana Smith"
+    },
+    "invoice": {
+        "date": "10.10.2018",
+        "number": 433784
+    },
+    "payment": {
+        "discount_amount": 33.88,
+        "discount_percentage": 13.65,
+        "due": 169.24,
+        "sub_total": 195.44,
+        "total": 181.86
+    },
+    "products": [
+        {
+            "description": "envisioneer seamless vortals",
+            "index": "1",
+            "quantity": 8.18,
+            "total_price": 450.0,
+            "unit_price": 16.25
+        },
+        {
+            "description": "exploit rich paradigms",
+            "index": "7",
+            "quantity": 6.14,
+            "total_price": 541.67,
+            "unit_price": 53.34
+        },
+        {
+            "description": "enhance dot-com applications",
+            "index": "2",
+            "quantity": 7.94,
+            "total_price": 456.68,
+            "unit_price": 73.73
+        },
+        {
+            "description": "e-enable end-to-end e-commerce",
+            "index": "10",
+            "quantity": 5.51,
+            "total_price": 395.72,
+            "unit_price": 74.31
+        },
+        {
+            "description": "evolve open-source methodologies",
+            "index": "5",
+            "quantity": 2.62,
+            "total_price": 249.31,
+            "unit_price": 14.01
+        },
+        {
+            "description": "incentivize bleeding-edge applications",
+            "index": "2",
+            "quantity": 8.28,
+            "total_price": 660.06,
+            "unit_price": 97.05
+        },
+        {
+            "description": "harness frictionless infrastructures",
+            "index": "7",
+            "quantity": 2.48,
+            "total_price": 173.06,
+            "unit_price": 25.41
+        }
+    ],
+    "seller": {
+        "address": "1329 Chavez Crossing North Vincent, IL 98567",
+        "company_name": "Clark, Johnson and Graham",
+        "vat_no": "NI70396348203"
+    }
+}

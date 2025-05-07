@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "8504 Adam Mill Apt. 038 Fosterside, LA 87476",
+        "company_name": "Knox-Sutton",
+        "email": "marcuscarter@example.org",
+        "name": "Martin Davis",
+        "phone": "291.773.4673"
+    },
+    "invoice": {
+        "date": "28.06.2016",
+        "due_date": "04.08.2010",
+        "number": "KeF94392598602"
+    },
+    "payment": {
+        "account_number": 9109837618,
+        "bank_name": "Gross PLC",
+        "routing_number": 647797078
+    },
+    "products": [
+        {
+            "amount": 111.18,
+            "description": "extend next-generation niches",
+            "index": "6",
+            "quantity": 9.91,
+            "unit_price": 31.1
+        },
+        {
+            "amount": 76.54,
+            "description": "visualize proactive models",
+            "index": "5",
+            "quantity": 7.22,
+            "unit_price": 34.37
+        },
+        {
+            "amount": 407.07,
+            "description": "grow wireless platforms",
+            "index": "4",
+            "quantity": 2.47,
+            "unit_price": 25.36
+        }
+    ],
+    "seller": {
+        "address": "USS Randolph FPO AE 74551",
+        "company_name": "Arias Inc",
+        "email": "jonesjohn@example.com"
+    }
+}

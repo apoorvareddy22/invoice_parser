@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "239 Carroll Ports Apt. 420 Port Christinatown, MS 93077",
+        "company_name": "Mcgee, Jones and Moreno",
+        "email": "bramos@example.org",
+        "name": "Patty Lewis",
+        "phone": "669.957.0733x60355"
+    },
+    "invoice": {
+        "date": "12.11.2023",
+        "due_date": "06.03.1999",
+        "number": "oVk27136624212"
+    },
+    "payment": {
+        "account_number": 1562628936,
+        "bank_name": "Salas-Gomez",
+        "routing_number": 872481430
+    },
+    "products": [
+        {
+            "amount": 170.08,
+            "description": "harness strategic schemas",
+            "index": "3",
+            "quantity": 4.1,
+            "unit_price": 96.01
+        }
+    ],
+    "seller": {
+        "address": "95326 Smith Trail Apt. 448 Guzmanmouth, TX 04406",
+        "company_name": "Bryan, Wood and Smith",
+        "email": "kari84@example.com"
+    }
+}

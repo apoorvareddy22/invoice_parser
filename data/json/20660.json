@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "19182 Kelly Coves East Amy, GA 11090",
+        "company_name": "Jones, Wilson and Huffman",
+        "email": "nicole27@example.net",
+        "name": "Kelly Harper",
+        "phone": "+1-811-412-2890"
+    },
+    "invoice": {
+        "date": "31.01.2007",
+        "due_date": "03.10.2010",
+        "number": "nRy30477031646"
+    },
+    "payment": {
+        "account_number": 7699022958,
+        "bank_name": "Smith LLC",
+        "routing_number": 742809776
+    },
+    "products": [
+        {
+            "amount": 230.01,
+            "description": "re-intermediate frictionless niches",
+            "index": "6",
+            "quantity": 7.7,
+            "unit_price": 62.25
+        },
+        {
+            "amount": 241.91,
+            "description": "maximize innovative metrics",
+            "index": "6",
+            "quantity": 5.28,
+            "unit_price": 24.4
+        }
+    ],
+    "seller": {
+        "address": "9886 Jones Roads South Jennifer, HI 57137",
+        "company_name": "Williams-Hernandez",
+        "email": "alejandrasawyer@example.net"
+    }
+}

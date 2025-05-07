@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "964 Luna Roads Petersonville, MT 14546",
+        "id": "YD400"
+    },
+    "invoice": {
+        "bc_no": "Zn17732",
+        "currency_code": "DOP",
+        "date": "17.04.2015",
+        "due_date": "28.01.2009",
+        "number": 800235
+    },
+    "payment": {
+        "bank_name": "Perry, Hendrix and Garcia",
+        "bic": "YMOOGB6S",
+        "iban": "GCPK97278603382435"
+    },
+    "products": [
+        {
+            "amount": 114.65,
+            "description": "integrate holistic technologies",
+            "index": "8",
+            "price": 185.8,
+            "quantity": 3.64,
+            "tax_amount": 84.23,
+            "total_ttc": 363.94,
+            "vat_amount": 13.47
+        },
+        {
+            "amount": 104.72,
+            "description": "grow back-end systems",
+            "index": "9",
+            "price": 495.52,
+            "quantity": 2.96,
+            "tax_amount": 70.27,
+            "total_ttc": 327.63,
+            "vat_amount": 1.06
+        },
+        {
+            "amount": 453.65,
+            "description": "strategize open-source markets",
+            "index": "1",
+            "price": 275.97,
+            "quantity": 1.69,
+            "tax_amount": 42.3,
+            "total_ttc": 267.44,
+            "vat_amount": 14.29
+        },
+        {
+            "amount": 163.71,
+            "description": "engage rich platforms",
+            "index": "7",
+            "price": 277.01,
+            "quantity": 2.51,
+            "tax_amount": 42.47,
+            "total_ttc": 470.28,
+            "vat_amount": 2.37
+        },
+        {
+            "amount": 498.03,
+            "description": "innovate transparent e-tailers",
+            "index": "9",
+            "price": 40.44,
+            "quantity": 8.02,
+            "tax_amount": 35.71,
+            "total_ttc": 491.16,
+            "vat_amount": 2.21
+        }
+    ],
+    "seller": {
+        "name": "Kevin Rocha"
+    },
+    "supplier": {
+        "address": "28625 Barbara Prairie Johnchester, CO 37490",
+        "name": "Michael Watson"
+    },
+    "tax": {
+        "amount_excluding_tax": 140.02,
+        "amount_including_tax": 44.4,
+        "tax_amount": 27.98,
+        "total_ht": 461.63,
+        "total_ttc": 425.08
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "0695 Henderson Roads Apt. 512 North Timothyview, FL 61219",
+        "id": "Id238"
+    },
+    "invoice": {
+        "bc_no": "uy31939",
+        "currency_code": "PHP",
+        "date": "30.08.1991",
+        "due_date": "14.05.2002",
+        "number": 662133
+    },
+    "payment": {
+        "bank_name": "Oliver, Maxwell and Evans",
+        "bic": "SIXLGB3M",
+        "iban": "BUJM33491267740124"
+    },
+    "products": [
+        {
+            "amount": 182.59,
+            "description": "redefine strategic content",
+            "index": "6",
+            "price": 184.36,
+            "quantity": 3.06,
+            "tax_amount": 83.05,
+            "total_ttc": 352.93,
+            "vat_amount": 1.6
+        },
+        {
+            "amount": 244.23,
+            "description": "exploit end-to-end bandwidth",
+            "index": "6",
+            "price": 466.01,
+            "quantity": 2.08,
+            "tax_amount": 54.66,
+            "total_ttc": 337.29,
+            "vat_amount": 1.12
+        },
+        {
+            "amount": 395.31,
+            "description": "seize interactive info-mediaries",
+            "index": "7",
+            "price": 224.72,
+            "quantity": 3.4,
+            "tax_amount": 25.05,
+            "total_ttc": 190.22,
+            "vat_amount": 11.5
+        },
+        {
+            "amount": 321.51,
+            "description": "revolutionize compelling systems",
+            "index": "3",
+            "price": 300.86,
+            "quantity": 3.87,
+            "tax_amount": 39.21,
+            "total_ttc": 459.12,
+            "vat_amount": 3.46
+        },
+        {
+            "amount": 370.89,
+            "description": "transition compelling eyeballs",
+            "index": "4",
+            "price": 70.51,
+            "quantity": 8.36,
+            "tax_amount": 66.25,
+            "total_ttc": 210.28,
+            "vat_amount": 0.93
+        },
+        {
+            "amount": 286.15,
+            "description": "transform cross-media channels",
+            "index": "10",
+            "price": 331.82,
+            "quantity": 2.03,
+            "tax_amount": 84.41,
+            "total_ttc": 398.87,
+            "vat_amount": 0.9
+        },
+        {
+            "amount": 108.35,
+            "description": "visualize proactive networks",
+            "index": "5",
+            "price": 498.31,
+            "quantity": 6.75,
+            "tax_amount": 59.77,
+            "total_ttc": 297.72,
+            "vat_amount": 0.92
+        }
+    ],
+    "seller": {
+        "name": "Michael Maynard"
+    },
+    "supplier": {
+        "address": "87970 Brandi Cliff Lindaberg, AK 21337",
+        "name": "James Nguyen"
+    },
+    "tax": {
+        "amount_excluding_tax": 53.73,
+        "amount_including_tax": 138.63,
+        "tax_amount": 16.25,
+        "total_ht": 249.08,
+        "total_ttc": 302.63
+    }
+}

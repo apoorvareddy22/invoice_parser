@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "3819 Collins Canyon Port Darleneshire, CT 26048",
+        "email": "michaelwarner@example.net",
+        "phone": "(596)940-1455",
+        "vat_no": "AK49338274124"
+    },
+    "invoice": {
+        "date": "08.09.2009",
+        "due_date": "01.03.2010",
+        "market_reference": 292682,
+        "notes": "iterate 24/365 e-markets",
+        "number": "9826-1478",
+        "reference": 393715,
+        "vat_no": "Vt63897307801"
+    },
+    "payment": {
+        "net_total": 64.08,
+        "total": 888.34
+    },
+    "products": [
+        {
+            "amount": 115.67,
+            "description": "harness sticky web-readiness",
+            "hours": 5.88,
+            "rate": 8.98
+        },
+        {
+            "amount": 177.31,
+            "description": "deploy synergistic ROI",
+            "hours": 9.83,
+            "rate": 8.56
+        },
+        {
+            "amount": 328.22,
+            "description": "architect enterprise web services",
+            "hours": 9.49,
+            "rate": 1.5
+        }
+    ],
+    "seller": {
+        "address": "0764 Cook Ramp Apt. 268 Aliciafurt, MT 96337",
+        "email": "gutierrezmitchell@example.com",
+        "name": "Laura Brown"
+    },
+    "tax": {
+        "base": 14.39,
+        "tax_amount": 18.25,
+        "total_tax": 11.5
+    }
+}

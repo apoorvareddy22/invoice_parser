@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "185 Meza Mills East Michaelside, MT 86210",
+        "company_name": "Liu PLC",
+        "country": "Taiwan",
+        "name": "Matthew Arnold"
+    },
+    "invoice": {
+        "date": "05.11.2002",
+        "number": 631854
+    },
+    "payment": {
+        "discount_amount": 34.95,
+        "discount_percentage": 19.72,
+        "due": 65.78,
+        "sub_total": 151.83,
+        "total": 532.36
+    },
+    "products": [
+        {
+            "description": "architect enterprise ROI",
+            "index": "2",
+            "quantity": 6.24,
+            "total_price": 772.02,
+            "unit_price": 94.04
+        },
+        {
+            "description": "empower seamless initiatives",
+            "index": "6",
+            "quantity": 2.93,
+            "total_price": 318.85,
+            "unit_price": 15.5
+        },
+        {
+            "description": "brand B2B experiences",
+            "index": "5",
+            "quantity": 8.33,
+            "total_price": 408.19,
+            "unit_price": 60.13
+        },
+        {
+            "description": "monetize dynamic e-commerce",
+            "index": "2",
+            "quantity": 8.34,
+            "total_price": 480.58,
+            "unit_price": 88.42
+        },
+        {
+            "description": "maximize cross-media eyeballs",
+            "index": "10",
+            "quantity": 2.01,
+            "total_price": 695.83,
+            "unit_price": 66.09
+        },
+        {
+            "description": "architect clicks-and-mortar infrastructures",
+            "index": "6",
+            "quantity": 5.96,
+            "total_price": 382.49,
+            "unit_price": 77.07
+        },
+        {
+            "description": "deploy dot-com eyeballs",
+            "index": "3",
+            "quantity": 2.25,
+            "total_price": 352.37,
+            "unit_price": 63.81
+        }
+    ],
+    "seller": {
+        "address": "1191 Karina Forest Apt. 795 West Michelleport, MA 24225",
+        "company_name": "Santiago and Sons",
+        "vat_no": "He65364198222"
+    }
+}

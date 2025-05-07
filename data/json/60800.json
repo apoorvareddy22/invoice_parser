@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "52171 James Run South Jamie, DE 85379",
+        "business_no": "yV633",
+        "id": "kp957"
+    },
+    "invoice": {
+        "date": "06.03.2018",
+        "number": "0532-1556"
+    },
+    "payment": {
+        "due_date": "13.12.2008",
+        "total": 303.4
+    },
+    "products": [
+        {
+            "amount": 112.85,
+            "description": "empower 24/7 deliverables",
+            "quantity": 2.72,
+            "reference": "sZ-228",
+            "unit_price": 38.99
+        },
+        {
+            "amount": 372.01,
+            "description": "iterate user-centric eyeballs",
+            "quantity": 4.42,
+            "reference": "AZ-505",
+            "unit_price": 65.53
+        }
+    ],
+    "seller": {
+        "address": "02179 Gonzalez Turnpike Fieldsburgh, VA 30673"
+    },
+    "tax": {
+        "base_ht": 400.51,
+        "regulations": 20.08,
+        "total_ht": 158.05,
+        "vat_amount": 35.72,
+        "vat_percentage": 29.75
+    }
+}

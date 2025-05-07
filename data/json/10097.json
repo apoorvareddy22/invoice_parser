@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "044 Kimberly Shoal South Douglasport, NC 77409",
+        "email": "emcneil@example.com",
+        "phone": "599.401.3368",
+        "vat_no": "aX18567861856"
+    },
+    "invoice": {
+        "date": "20.08.2018",
+        "due_date": "19.06.2005",
+        "market_reference": 494577,
+        "notes": "reinvent leading-edge e-tailers",
+        "number": "2794-5515",
+        "reference": 531421,
+        "vat_no": "Ol06845974054"
+    },
+    "payment": {
+        "net_total": 87.73,
+        "total": 719.13
+    },
+    "products": [
+        {
+            "amount": 237.11,
+            "description": "expedite impactful technologies",
+            "hours": 2.86,
+            "rate": 1.1
+        },
+        {
+            "amount": 203.47,
+            "description": "mesh B2B initiatives",
+            "hours": 8.38,
+            "rate": 6.72
+        },
+        {
+            "amount": 470.01,
+            "description": "iterate cutting-edge infrastructures",
+            "hours": 5.68,
+            "rate": 5.94
+        },
+        {
+            "amount": 288.63,
+            "description": "revolutionize interactive convergence",
+            "hours": 5.05,
+            "rate": 1.63
+        },
+        {
+            "amount": 391.9,
+            "description": "syndicate killer initiatives",
+            "hours": 8.52,
+            "rate": 2.51
+        }
+    ],
+    "seller": {
+        "address": "77058 Gomez Viaduct Harttown, KY 73064",
+        "email": "matthew88@example.net",
+        "name": "Barbara Aguilar"
+    },
+    "tax": {
+        "base": 15.55,
+        "tax_amount": 26.37,
+        "total_tax": 15.38
+    }
+}

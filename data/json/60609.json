@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "83781 Rebecca Summit Port Michaelbury, OR 93521",
+        "business_no": "qF603",
+        "id": "lw971"
+    },
+    "invoice": {
+        "date": "12.02.2000",
+        "number": "8597-8072"
+    },
+    "payment": {
+        "due_date": "26.07.1994",
+        "total": 124.0
+    },
+    "products": [
+        {
+            "amount": 43.16,
+            "description": "extend innovative models",
+            "quantity": 6.96,
+            "reference": "jD-742",
+            "unit_price": 81.93
+        },
+        {
+            "amount": 86.89,
+            "description": "iterate innovative e-tailers",
+            "quantity": 8.89,
+            "reference": "ol-298",
+            "unit_price": 14.66
+        },
+        {
+            "amount": 179.17,
+            "description": "integrate e-business e-business",
+            "quantity": 7.84,
+            "reference": "vN-272",
+            "unit_price": 96.98
+        }
+    ],
+    "seller": {
+        "address": "PSC 3631, Box 5350 APO AE 50090"
+    },
+    "tax": {
+        "base_ht": 209.82,
+        "regulations": 17.1,
+        "total_ht": 416.17,
+        "vat_amount": 170.74,
+        "vat_percentage": 12.83
+    }
+}

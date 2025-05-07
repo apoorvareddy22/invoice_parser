@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "747 Whitaker Loaf Suite 690 Johnland, MN 62431",
+        "email": "dylanhunter@example.org",
+        "phone": "781.564.2717x8715",
+        "vat_no": "HG41469018795"
+    },
+    "invoice": {
+        "date": "19.05.2002",
+        "due_date": "11.02.2004",
+        "market_reference": 739170,
+        "notes": "scale dot-com action-items",
+        "number": "6293-7450",
+        "reference": 730823,
+        "vat_no": "GQ31510802136"
+    },
+    "payment": {
+        "net_total": 53.15,
+        "total": 588.32
+    },
+    "products": [
+        {
+            "amount": 288.75,
+            "description": "maximize turn-key niches",
+            "hours": 6.78,
+            "rate": 7.03
+        },
+        {
+            "amount": 266.65,
+            "description": "syndicate ubiquitous markets",
+            "hours": 5.63,
+            "rate": 8.31
+        },
+        {
+            "amount": 329.0,
+            "description": "strategize end-to-end technologies",
+            "hours": 2.78,
+            "rate": 9.2
+        },
+        {
+            "amount": 214.26,
+            "description": "drive back-end web services",
+            "hours": 3.13,
+            "rate": 6.62
+        },
+        {
+            "amount": 67.39,
+            "description": "envisioneer transparent models",
+            "hours": 3.36,
+            "rate": 8.19
+        }
+    ],
+    "seller": {
+        "address": "171 Steven Flat Suite 766 South Nicole, WI 18527",
+        "email": "wilsonbenjamin@example.net",
+        "name": "Mrs. Kathy Kent MD"
+    },
+    "tax": {
+        "base": 27.27,
+        "tax_amount": 18.37,
+        "total_tax": 24.9
+    }
+}

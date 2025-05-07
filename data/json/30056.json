@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "78128 Peterson Spur Apt. 381 New Stacy, PW 48612",
+        "company_name": "Fowler-Marshall",
+        "country": "Seychelles",
+        "email": "hpalmer@example.net",
+        "name": "Amber Olsen",
+        "phone": "(818)614-4103x7118",
+        "vat_no": "On33001756511"
+    },
+    "invoice": {
+        "date": "23.06.2002",
+        "due_date": "27.11.2003",
+        "linked_invoice": "Pe-7287-9494",
+        "notes": "matrix cutting-edge e-tailers",
+        "number": "DI-8090-1368"
+    },
+    "products": [
+        {
+            "description": "visualize leading-edge web services",
+            "discount_percentage": 5.3,
+            "price": 269.89,
+            "quantity": 9.54,
+            "unit_price": 61.28
+        }
+    ],
+    "seller": {
+        "address": "235 Jennifer Lakes East Michaelstad, KY 45532",
+        "ape": "9473B",
+        "capital": 55248511,
+        "country": "Belize",
+        "email": "jacobanderson@example.org",
+        "name": "Jason Martinez",
+        "phone_1": "487-503-4016",
+        "phone_2": "338.728.8268x583",
+        "phone_3": "415-730-0355x776",
+        "ref_walk": "WSqT2010",
+        "reference": "by492",
+        "siret": 40704599464354,
+        "vat_no": "wG79774297420",
+        "website": "https://www.rogers.org/"
+    },
+    "tax": {
+        "amount_0": 16.96,
+        "amount_1": 12.65,
+        "base_0": 16.03,
+        "base_1": 132.46,
+        "total_ht": 158.03,
+        "total_tax": 11.61,
+        "total_ttc": 304.21,
+        "vat_0": 20.67,
+        "vat_1": 16.68
+    }
+}

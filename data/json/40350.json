@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "14836 Ortega Circle Apt. 571 Glennville, VA 59503"
+    },
+    "invoice": {
+        "bc_no": "LV83305",
+        "date": "15.02.1999",
+        "maturity_date": "28.05.1990",
+        "number": 636661
+    },
+    "products": [
+        {
+            "amount": 259.16,
+            "description": "enable revolutionary action-items",
+            "quantity": 3.27,
+            "unit_price": 84.19,
+            "vat_amount": 5.11
+        },
+        {
+            "amount": 373.55,
+            "description": "transition compelling architectures",
+            "quantity": 5.8,
+            "unit_price": 60.57,
+            "vat_amount": 0.55
+        },
+        {
+            "amount": 368.97,
+            "description": "harness B2C systems",
+            "quantity": 1.56,
+            "unit_price": 77.03,
+            "vat_amount": 14.24
+        }
+    ],
+    "seller": {
+        "address": "283 Whitaker Tunnel Apt. 289 East Elizabethland, ND 23867"
+    },
+    "tax": {
+        "amount_excluding_tax": 114.0,
+        "amount_including_tax": 165.66,
+        "tax_amount": 17.58
+    }
+}

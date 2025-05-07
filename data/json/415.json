@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "42587 King Overpass Suite 946 Port Lisaville, MS 27502",
+        "company_name": "Waters Ltd",
+        "country": "Niger",
+        "name": "Michael Dawson"
+    },
+    "invoice": {
+        "date": "02.11.2018",
+        "number": 981408
+    },
+    "payment": {
+        "discount_amount": 13.27,
+        "discount_percentage": 12.42,
+        "due": 118.09,
+        "sub_total": 82.56,
+        "total": 583.77
+    },
+    "products": [
+        {
+            "description": "redefine robust eyeballs",
+            "index": "8",
+            "quantity": 1.52,
+            "total_price": 276.54,
+            "unit_price": 50.72
+        },
+        {
+            "description": "transition synergistic e-business",
+            "index": "10",
+            "quantity": 1.18,
+            "total_price": 776.3,
+            "unit_price": 55.37
+        },
+        {
+            "description": "architect clicks-and-mortar ROI",
+            "index": "2",
+            "quantity": 7.15,
+            "total_price": 535.52,
+            "unit_price": 38.74
+        }
+    ],
+    "seller": {
+        "address": "USNS Ibarra FPO AE 94617",
+        "company_name": "Cummings-Taylor",
+        "vat_no": "EI49698350455"
+    }
+}

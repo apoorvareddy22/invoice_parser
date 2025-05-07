@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "087 Mitchell Court Suite 972 New Sarah, ID 69785",
+        "company_name": "Jones, Hernandez and Bautista",
+        "email": "karenvega@example.net",
+        "name": "Robert Bryan",
+        "phone": "506.286.2450x0858"
+    },
+    "invoice": {
+        "date": "30.11.2022",
+        "due_date": "27.04.2007",
+        "number": "Fmh62273481090"
+    },
+    "payment": {
+        "account_number": 4426283550,
+        "bank_name": "Frederick-Cook",
+        "routing_number": 461899457
+    },
+    "products": [
+        {
+            "amount": 468.21,
+            "description": "brand holistic e-commerce",
+            "index": "8",
+            "quantity": 7.15,
+            "unit_price": 26.06
+        },
+        {
+            "amount": 66.64,
+            "description": "matrix integrated deliverables",
+            "index": "7",
+            "quantity": 9.82,
+            "unit_price": 24.4
+        },
+        {
+            "amount": 151.37,
+            "description": "streamline rich content",
+            "index": "5",
+            "quantity": 6.8,
+            "unit_price": 96.68
+        }
+    ],
+    "seller": {
+        "address": "86439 Matthew Ferry Peterview, MN 62588",
+        "company_name": "Chapman-Craig",
+        "email": "barnestheresa@example.org"
+    }
+}

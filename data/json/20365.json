@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "997 Kathryn Mount Apt. 568 South Donna, CA 21574",
+        "company_name": "Wilson, Owens and Valenzuela",
+        "email": "wuzachary@example.org",
+        "name": "Levi Murillo",
+        "phone": "205.569.6930"
+    },
+    "invoice": {
+        "date": "11.02.1998",
+        "due_date": "25.06.2000",
+        "number": "GhL47223533448"
+    },
+    "payment": {
+        "account_number": 4262720455,
+        "bank_name": "Yoder, Anderson and Fischer",
+        "routing_number": 153479063
+    },
+    "products": [
+        {
+            "amount": 16.67,
+            "description": "scale granular convergence",
+            "index": "9",
+            "quantity": 7.7,
+            "unit_price": 94.31
+        }
+    ],
+    "seller": {
+        "address": "6996 Patricia Inlet Dawnhaven, KS 67271",
+        "company_name": "Baker, Patel and Morgan",
+        "email": "walterrogers@example.net"
+    }
+}

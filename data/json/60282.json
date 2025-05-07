@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "8933 Jesse Vista Apt. 176 South Sandraberg, NC 08001",
+        "business_no": "CS435",
+        "id": "Vq053"
+    },
+    "invoice": {
+        "date": "02.05.2009",
+        "number": "5809-7620"
+    },
+    "payment": {
+        "due_date": "12.11.2008",
+        "total": 495.13
+    },
+    "products": [
+        {
+            "amount": 324.52,
+            "description": "envisioneer ubiquitous e-tailers",
+            "quantity": 8.14,
+            "reference": "Nq-703",
+            "unit_price": 79.16
+        },
+        {
+            "amount": 491.7,
+            "description": "innovate bleeding-edge technologies",
+            "quantity": 6.23,
+            "reference": "Ty-483",
+            "unit_price": 77.34
+        },
+        {
+            "amount": 122.29,
+            "description": "exploit end-to-end markets",
+            "quantity": 4.84,
+            "reference": "VI-218",
+            "unit_price": 39.51
+        },
+        {
+            "amount": 274.7,
+            "description": "incentivize best-of-breed action-items",
+            "quantity": 4.0,
+            "reference": "oQ-438",
+            "unit_price": 45.39
+        },
+        {
+            "amount": 432.77,
+            "description": "exploit ubiquitous initiatives",
+            "quantity": 3.72,
+            "reference": "Hk-940",
+            "unit_price": 54.37
+        },
+        {
+            "amount": 119.38,
+            "description": "matrix bleeding-edge systems",
+            "quantity": 8.82,
+            "reference": "QI-906",
+            "unit_price": 56.69
+        },
+        {
+            "amount": 366.51,
+            "description": "scale clicks-and-mortar applications",
+            "quantity": 7.37,
+            "reference": "OP-949",
+            "unit_price": 14.05
+        }
+    ],
+    "seller": {
+        "address": "9117 Smith Station Garyville, HI 49228"
+    },
+    "tax": {
+        "base_ht": 227.58,
+        "regulations": 18.01,
+        "total_ht": 150.56,
+        "vat_amount": 180.39,
+        "vat_percentage": 29.75
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "472 Mark Inlet Apt. 431 Lake Brandonfurt, MA 44933"
+    },
+    "invoice": {
+        "bc_no": "Pt19219",
+        "date": "06.02.1999",
+        "maturity_date": "05.09.2005",
+        "number": 609070
+    },
+    "products": [
+        {
+            "amount": 431.34,
+            "description": "envisioneer synergistic experiences",
+            "quantity": 9.33,
+            "unit_price": 54.67,
+            "vat_amount": 3.86
+        },
+        {
+            "amount": 496.93,
+            "description": "re-intermediate front-end relationships",
+            "quantity": 9.19,
+            "unit_price": 12.55,
+            "vat_amount": 3.94
+        },
+        {
+            "amount": 416.77,
+            "description": "envisioneer scalable users",
+            "quantity": 6.03,
+            "unit_price": 70.83,
+            "vat_amount": 2.02
+        },
+        {
+            "amount": 55.59,
+            "description": "drive viral metrics",
+            "quantity": 1.71,
+            "unit_price": 96.31,
+            "vat_amount": 0.76
+        }
+    ],
+    "seller": {
+        "address": "035 Hammond Junction Josephfort, GU 40112"
+    },
+    "tax": {
+        "amount_excluding_tax": 64.3,
+        "amount_including_tax": 94.01,
+        "tax_amount": 27.89
+    }
+}

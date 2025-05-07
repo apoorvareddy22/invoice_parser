@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "186 Michael Turnpike Apt. 641 North Philiphaven, PW 70386",
+        "email": "julia38@example.org",
+        "phone": "603-327-1444",
+        "vat_no": "Wl86815303033"
+    },
+    "invoice": {
+        "date": "18.04.2020",
+        "due_date": "07.06.1997",
+        "market_reference": 984440,
+        "notes": "unleash real-time architectures",
+        "number": "9758-5580",
+        "reference": 924555,
+        "vat_no": "pQ04714010437"
+    },
+    "payment": {
+        "net_total": 153.25,
+        "total": 374.04
+    },
+    "products": [
+        {
+            "amount": 22.82,
+            "description": "mesh web-enabled networks",
+            "hours": 7.66,
+            "rate": 8.98
+        }
+    ],
+    "seller": {
+        "address": "8744 Ramos Spurs Apt. 995 Brownstad, NV 04460",
+        "email": "johnsonbruce@example.net",
+        "name": "Hannah Jackson"
+    },
+    "tax": {
+        "base": 28.71,
+        "tax_amount": 22.5,
+        "total_tax": 11.22
+    }
+}

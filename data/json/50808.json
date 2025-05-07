@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "36537 Robinson Estates Suite 377 Gonzalezland, TX 89129",
+        "id": "Rz019"
+    },
+    "invoice": {
+        "bc_no": "pP99499",
+        "currency_code": "SBD",
+        "date": "13.03.2013",
+        "due_date": "17.07.2018",
+        "number": 545410
+    },
+    "payment": {
+        "bank_name": "White and Sons",
+        "bic": "QXBMGBIH",
+        "iban": "DQJJ32075159214696"
+    },
+    "products": [
+        {
+            "amount": 359.75,
+            "description": "strategize seamless partnerships",
+            "index": "1",
+            "price": 411.4,
+            "quantity": 6.02,
+            "tax_amount": 98.01,
+            "total_ttc": 110.45,
+            "vat_amount": 1.48
+        },
+        {
+            "amount": 252.82,
+            "description": "deliver one-to-one vortals",
+            "index": "3",
+            "price": 21.77,
+            "quantity": 6.73,
+            "tax_amount": 89.73,
+            "total_ttc": 227.09,
+            "vat_amount": 0.73
+        },
+        {
+            "amount": 352.86,
+            "description": "e-enable back-end metrics",
+            "index": "8",
+            "price": 154.81,
+            "quantity": 8.77,
+            "tax_amount": 12.57,
+            "total_ttc": 324.89,
+            "vat_amount": 1.27
+        },
+        {
+            "amount": 280.72,
+            "description": "cultivate cross-media mindshare",
+            "index": "2",
+            "price": 96.23,
+            "quantity": 6.27,
+            "tax_amount": 27.18,
+            "total_ttc": 201.45,
+            "vat_amount": 1.55
+        },
+        {
+            "amount": 55.84,
+            "description": "envisioneer viral supply-chains",
+            "index": "9",
+            "price": 160.74,
+            "quantity": 5.9,
+            "tax_amount": 52.79,
+            "total_ttc": 141.85,
+            "vat_amount": 2.54
+        },
+        {
+            "amount": 119.38,
+            "description": "integrate best-of-breed action-items",
+            "index": "10",
+            "price": 129.24,
+            "quantity": 3.29,
+            "tax_amount": 55.45,
+            "total_ttc": 320.58,
+            "vat_amount": 1.74
+        }
+    ],
+    "seller": {
+        "name": "Emily French"
+    },
+    "supplier": {
+        "address": "44551 Brooks Hill Suite 382 Michaelville, PR 82868",
+        "name": "David Lopez"
+    },
+    "tax": {
+        "amount_excluding_tax": 97.17,
+        "amount_including_tax": 102.33,
+        "tax_amount": 26.76,
+        "total_ht": 460.73,
+        "total_ttc": 446.56
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "397 Clark Stravenue Suite 422 West Michelle, IN 89350",
+        "id": "XD256"
+    },
+    "invoice": {
+        "bc_no": "so04874",
+        "currency_code": "SVC",
+        "date": "07.02.1990",
+        "due_date": "20.10.2019",
+        "number": 146119
+    },
+    "payment": {
+        "bank_name": "Green and Sons",
+        "bic": "WMTTGB9H8UC",
+        "iban": "SSBE18936806936862"
+    },
+    "products": [
+        {
+            "amount": 240.49,
+            "description": "unleash seamless users",
+            "index": "8",
+            "price": 357.56,
+            "quantity": 1.82,
+            "tax_amount": 50.99,
+            "total_ttc": 328.49,
+            "vat_amount": 3.38
+        },
+        {
+            "amount": 392.33,
+            "description": "morph bricks-and-clicks supply-chains",
+            "index": "1",
+            "price": 21.89,
+            "quantity": 1.03,
+            "tax_amount": 57.41,
+            "total_ttc": 349.86,
+            "vat_amount": 0.0
+        }
+    ],
+    "seller": {
+        "name": "Julie Brooks"
+    },
+    "supplier": {
+        "address": "992 Yolanda Squares Suite 393 Bryanbury, MS 52257",
+        "name": "Dean Joseph DDS"
+    },
+    "tax": {
+        "amount_excluding_tax": 68.57,
+        "amount_including_tax": 84.74,
+        "tax_amount": 15.01,
+        "total_ht": 461.72,
+        "total_ttc": 359.89
+    }
+}

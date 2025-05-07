@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "Unit 8281 Box 7375 DPO AA 73613",
+        "company_name": "Torres, Blackwell and Johnson",
+        "email": "wsmith@example.com",
+        "name": "Andrew Barr",
+        "phone": "459.562.7830x954"
+    },
+    "invoice": {
+        "date": "08.05.2009",
+        "due_date": "22.10.2010",
+        "number": "aGX18717942512"
+    },
+    "payment": {
+        "account_number": 9659062331,
+        "bank_name": "Summers PLC",
+        "routing_number": 865018280
+    },
+    "products": [
+        {
+            "amount": 434.2,
+            "description": "enable enterprise e-tailers",
+            "index": "5",
+            "quantity": 5.68,
+            "unit_price": 44.78
+        },
+        {
+            "amount": 352.75,
+            "description": "envisioneer ubiquitous content",
+            "index": "4",
+            "quantity": 7.18,
+            "unit_price": 55.44
+        },
+        {
+            "amount": 190.02,
+            "description": "scale cross-media mindshare",
+            "index": "5",
+            "quantity": 5.83,
+            "unit_price": 42.5
+        },
+        {
+            "amount": 471.29,
+            "description": "deliver wireless mindshare",
+            "index": "10",
+            "quantity": 4.8,
+            "unit_price": 37.06
+        },
+        {
+            "amount": 219.04,
+            "description": "cultivate open-source bandwidth",
+            "index": "7",
+            "quantity": 9.22,
+            "unit_price": 53.43
+        },
+        {
+            "amount": 419.34,
+            "description": "innovate extensible relationships",
+            "index": "10",
+            "quantity": 5.5,
+            "unit_price": 37.5
+        }
+    ],
+    "seller": {
+        "address": "2287 Monica Estates Apt. 495 Port Ronald, MH 96203",
+        "company_name": "Miller LLC",
+        "email": "montesrichard@example.net"
+    }
+}

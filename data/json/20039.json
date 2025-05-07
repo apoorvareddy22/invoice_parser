@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "8820 Caitlyn Station Apt. 116 New Anthony, OK 54049",
+        "company_name": "Barry-Long",
+        "email": "jgarza@example.net",
+        "name": "Christian Riley",
+        "phone": "548.435.3790x7078"
+    },
+    "invoice": {
+        "date": "18.07.1996",
+        "due_date": "20.02.2018",
+        "number": "sqN52677967671"
+    },
+    "payment": {
+        "account_number": 8597027821,
+        "bank_name": "Wallace, Smith and Prince",
+        "routing_number": 758634054
+    },
+    "products": [
+        {
+            "amount": 399.69,
+            "description": "disintermediate innovative action-items",
+            "index": "2",
+            "quantity": 7.0,
+            "unit_price": 53.86
+        },
+        {
+            "amount": 152.32,
+            "description": "cultivate seamless functionalities",
+            "index": "9",
+            "quantity": 4.49,
+            "unit_price": 34.16
+        }
+    ],
+    "seller": {
+        "address": "20294 Dyer Lights Apt. 209 Justinfurt, NY 23509",
+        "company_name": "Lamb, Allen and Carpenter",
+        "email": "acevedogregory@example.com"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "9876 Graham Centers Suite 774 Dawnberg, UT 86985",
+        "email": "robertsantiago@example.com",
+        "phone": "+1-458-723-7872x1508",
+        "vat_no": "lt40270459370"
+    },
+    "invoice": {
+        "date": "17.11.2007",
+        "due_date": "29.01.2017",
+        "market_reference": 363126,
+        "notes": "synthesize mission-critical metrics",
+        "number": "2997-0946",
+        "reference": 114644,
+        "vat_no": "vN99374473307"
+    },
+    "payment": {
+        "net_total": 100.65,
+        "total": 493.9
+    },
+    "products": [
+        {
+            "amount": 262.52,
+            "description": "target user-centric bandwidth",
+            "hours": 7.03,
+            "rate": 9.79
+        },
+        {
+            "amount": 319.29,
+            "description": "monetize leading-edge architectures",
+            "hours": 8.86,
+            "rate": 2.68
+        },
+        {
+            "amount": 258.92,
+            "description": "harness leading-edge e-services",
+            "hours": 3.54,
+            "rate": 6.51
+        },
+        {
+            "amount": 80.74,
+            "description": "enhance innovative solutions",
+            "hours": 9.4,
+            "rate": 2.86
+        },
+        {
+            "amount": 36.98,
+            "description": "streamline intuitive supply-chains",
+            "hours": 8.67,
+            "rate": 9.55
+        },
+        {
+            "amount": 129.01,
+            "description": "visualize e-business niches",
+            "hours": 9.66,
+            "rate": 2.97
+        },
+        {
+            "amount": 23.76,
+            "description": "unleash wireless eyeballs",
+            "hours": 7.56,
+            "rate": 7.27
+        }
+    ],
+    "seller": {
+        "address": "94619 Elizabeth Meadow Jenniferview, AZ 04735",
+        "email": "aadams@example.net",
+        "name": "Meredith Lopez"
+    },
+    "tax": {
+        "base": 14.05,
+        "tax_amount": 10.5,
+        "total_tax": 18.52
+    }
+}

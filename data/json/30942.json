@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "Unit 1217 Box 8303 DPO AE 59701",
+        "company_name": "Alexander LLC",
+        "country": "Japan",
+        "email": "rhubbard@example.com",
+        "name": "Michael Conner",
+        "phone": "(267)387-3560",
+        "vat_no": "qG38976667310"
+    },
+    "invoice": {
+        "date": "25.10.1993",
+        "due_date": "22.01.2009",
+        "linked_invoice": "Je-5802-5092",
+        "notes": "exploit B2B platforms",
+        "number": "KW-3701-6631"
+    },
+    "products": [
+        {
+            "description": "empower killer synergies",
+            "discount_percentage": 7.18,
+            "price": 433.61,
+            "quantity": 2.7,
+            "unit_price": 25.7
+        },
+        {
+            "description": "enhance cutting-edge networks",
+            "discount_percentage": 5.59,
+            "price": 415.28,
+            "quantity": 6.38,
+            "unit_price": 29.45
+        },
+        {
+            "description": "target strategic relationships",
+            "discount_percentage": 8.81,
+            "price": 483.1,
+            "quantity": 2.37,
+            "unit_price": 97.91
+        }
+    ],
+    "seller": {
+        "address": "8238 Williams Crossroad Apt. 680 West Erica, KY 43836",
+        "ape": "4354Q",
+        "capital": 31854291,
+        "country": "Turks and Caicos Islands",
+        "email": "kathy37@example.net",
+        "name": "Jessica Murphy",
+        "phone_1": "338-537-3275x0022",
+        "phone_2": "260.308.1556",
+        "phone_3": "+1-498-816-4332x280",
+        "ref_walk": "mBYk2989",
+        "reference": "tv544",
+        "siret": 86206373182195,
+        "vat_no": "fA91157010051",
+        "website": "http://lee-turner.com/"
+    },
+    "tax": {
+        "amount_0": 16.44,
+        "amount_1": 23.75,
+        "base_0": 20.39,
+        "base_1": 282.98,
+        "total_ht": 102.91,
+        "total_tax": 18.56,
+        "total_ttc": 222.07,
+        "vat_0": 14.19,
+        "vat_1": 14.63
+    }
+}

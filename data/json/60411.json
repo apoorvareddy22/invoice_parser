@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "Unit 0159 Box 5571 DPO AP 19213",
+        "business_no": "gf025",
+        "id": "KZ531"
+    },
+    "invoice": {
+        "date": "20.09.2022",
+        "number": "0656-0058"
+    },
+    "payment": {
+        "due_date": "20.10.2002",
+        "total": 818.86
+    },
+    "products": [
+        {
+            "amount": 190.55,
+            "description": "repurpose out-of-the-box experiences",
+            "quantity": 9.98,
+            "reference": "jh-873",
+            "unit_price": 97.05
+        }
+    ],
+    "seller": {
+        "address": "37557 Thomas Stravenue New Seanchester, PR 37180"
+    },
+    "tax": {
+        "base_ht": 138.21,
+        "regulations": 10.06,
+        "total_ht": 321.57,
+        "vat_amount": 13.6,
+        "vat_percentage": 14.31
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "88878 Simpson Unions Apt. 397 Moramouth, PW 81386",
+        "company_name": "Clark Inc",
+        "email": "forbesjoseph@example.org",
+        "name": "Brad Camacho",
+        "phone": "+1-226-742-2569x82127"
+    },
+    "invoice": {
+        "date": "04.12.1997",
+        "due_date": "30.09.2012",
+        "number": "IDh23038869015"
+    },
+    "payment": {
+        "account_number": 4379336412,
+        "bank_name": "Harris, Malone and Turner",
+        "routing_number": 542964309
+    },
+    "products": [
+        {
+            "amount": 86.33,
+            "description": "seize cutting-edge experiences",
+            "index": "4",
+            "quantity": 6.67,
+            "unit_price": 76.0
+        },
+        {
+            "amount": 18.27,
+            "description": "unleash world-class web-readiness",
+            "index": "5",
+            "quantity": 8.08,
+            "unit_price": 75.65
+        }
+    ],
+    "seller": {
+        "address": "998 Matthew Row East Adam, FL 64331",
+        "company_name": "Pruitt-Mcdonald",
+        "email": "ramirezrobert@example.org"
+    }
+}

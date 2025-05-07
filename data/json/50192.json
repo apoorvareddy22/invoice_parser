@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "79578 Briggs Freeway Suite 217 Wilsonmouth, KY 25966",
+        "id": "PE299"
+    },
+    "invoice": {
+        "bc_no": "VO66124",
+        "currency_code": "ISK",
+        "date": "08.06.1997",
+        "due_date": "28.01.2008",
+        "number": 561996
+    },
+    "payment": {
+        "bank_name": "Larson Inc",
+        "bic": "DNTLGBKXGHX",
+        "iban": "RACZ32236658185896"
+    },
+    "products": [
+        {
+            "amount": 298.87,
+            "description": "syndicate frictionless experiences",
+            "index": "1",
+            "price": 477.0,
+            "quantity": 7.94,
+            "tax_amount": 12.02,
+            "total_ttc": 465.39,
+            "vat_amount": 1.9
+        }
+    ],
+    "seller": {
+        "name": "Tammie Andrews"
+    },
+    "supplier": {
+        "address": "9580 Gilmore Plains Markhaven, GA 52769",
+        "name": "Doris Mcgee"
+    },
+    "tax": {
+        "amount_excluding_tax": 173.47,
+        "amount_including_tax": 51.64,
+        "tax_amount": 29.27,
+        "total_ht": 174.58,
+        "total_ttc": 137.59
+    }
+}

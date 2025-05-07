@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "66223 Morrow Oval Watsonside, NH 98573",
+        "company_name": "Olson, Miller and Bryan",
+        "email": "webertimothy@example.com",
+        "name": "Rebecca King",
+        "phone": "888.545.8366"
+    },
+    "invoice": {
+        "date": "02.07.2010",
+        "due_date": "31.01.2018",
+        "number": "niH17545250068"
+    },
+    "payment": {
+        "account_number": 4334034258,
+        "bank_name": "Quinn and Sons",
+        "routing_number": 265083061
+    },
+    "products": [
+        {
+            "amount": 139.01,
+            "description": "brand mission-critical e-commerce",
+            "index": "9",
+            "quantity": 4.19,
+            "unit_price": 15.56
+        },
+        {
+            "amount": 261.71,
+            "description": "productize bricks-and-clicks web services",
+            "index": "3",
+            "quantity": 9.29,
+            "unit_price": 76.01
+        },
+        {
+            "amount": 156.4,
+            "description": "implement distributed partnerships",
+            "index": "6",
+            "quantity": 4.03,
+            "unit_price": 32.98
+        },
+        {
+            "amount": 443.3,
+            "description": "deliver integrated e-tailers",
+            "index": "6",
+            "quantity": 8.05,
+            "unit_price": 49.06
+        },
+        {
+            "amount": 173.74,
+            "description": "streamline value-added solutions",
+            "index": "5",
+            "quantity": 4.31,
+            "unit_price": 25.37
+        }
+    ],
+    "seller": {
+        "address": "7553 Anna Shoals Ballardhaven, MN 03242",
+        "company_name": "Parks-West",
+        "email": "cwolfe@example.net"
+    }
+}

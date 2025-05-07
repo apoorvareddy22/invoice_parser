@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "46094 Sandra Place Apt. 883 West Christopher, NH 18626"
+    },
+    "invoice": {
+        "bc_no": "nd07119",
+        "date": "05.09.2007",
+        "maturity_date": "09.07.2023",
+        "number": 189933
+    },
+    "products": [
+        {
+            "amount": 480.02,
+            "description": "transition holistic action-items",
+            "quantity": 7.87,
+            "unit_price": 67.99,
+            "vat_amount": 4.02
+        },
+        {
+            "amount": 40.52,
+            "description": "brand world-class paradigms",
+            "quantity": 5.04,
+            "unit_price": 43.14,
+            "vat_amount": 4.13
+        },
+        {
+            "amount": 359.66,
+            "description": "extend efficient metrics",
+            "quantity": 2.18,
+            "unit_price": 71.62,
+            "vat_amount": 9.81
+        }
+    ],
+    "seller": {
+        "address": "873 Steven Rapids Suite 176 Johnborough, FM 29774"
+    },
+    "tax": {
+        "amount_excluding_tax": 11.52,
+        "amount_including_tax": 106.14,
+        "tax_amount": 25.57
+    }
+}

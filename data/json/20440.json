@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "5506 Harding Mall Johnport, CA 32283",
+        "company_name": "Banks-Sanchez",
+        "email": "fsimon@example.org",
+        "name": "Kelly Sullivan",
+        "phone": "773.944.1627x08035"
+    },
+    "invoice": {
+        "date": "13.05.1991",
+        "due_date": "19.06.2000",
+        "number": "XHM56012112837"
+    },
+    "payment": {
+        "account_number": 2384642055,
+        "bank_name": "Lyons Group",
+        "routing_number": 172594878
+    },
+    "products": [
+        {
+            "amount": 97.66,
+            "description": "iterate best-of-breed interfaces",
+            "index": "7",
+            "quantity": 9.07,
+            "unit_price": 81.43
+        },
+        {
+            "amount": 191.91,
+            "description": "visualize 24/7 supply-chains",
+            "index": "2",
+            "quantity": 7.33,
+            "unit_price": 13.74
+        }
+    ],
+    "seller": {
+        "address": "6870 Marissa Drives Apt. 707 East Coreyberg, NJ 56706",
+        "company_name": "Ross-Rivera",
+        "email": "smithbruce@example.com"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "553 Perkins Turnpike South Ericfort, KS 45534",
+        "id": "VM856"
+    },
+    "invoice": {
+        "bc_no": "dF65568",
+        "currency_code": "PEN",
+        "date": "02.06.2016",
+        "due_date": "24.04.2004",
+        "number": 435444
+    },
+    "payment": {
+        "bank_name": "Johnson LLC",
+        "bic": "HFVUGBAA",
+        "iban": "JCOZ53106987025226"
+    },
+    "products": [
+        {
+            "amount": 248.18,
+            "description": "drive B2B e-commerce",
+            "index": "5",
+            "price": 326.31,
+            "quantity": 5.33,
+            "tax_amount": 69.56,
+            "total_ttc": 156.72,
+            "vat_amount": 7.1
+        },
+        {
+            "amount": 265.12,
+            "description": "productize web-enabled markets",
+            "index": "4",
+            "price": 46.68,
+            "quantity": 7.11,
+            "tax_amount": 15.86,
+            "total_ttc": 378.47,
+            "vat_amount": 7.64
+        },
+        {
+            "amount": 365.48,
+            "description": "redefine viral info-mediaries",
+            "index": "2",
+            "price": 42.09,
+            "quantity": 3.38,
+            "tax_amount": 63.53,
+            "total_ttc": 241.65,
+            "vat_amount": 0.38
+        }
+    ],
+    "seller": {
+        "name": "Joseph Daugherty"
+    },
+    "supplier": {
+        "address": "PSC 6476, Box 4551 APO AE 27221",
+        "name": "Joel Thompson"
+    },
+    "tax": {
+        "amount_excluding_tax": 168.56,
+        "amount_including_tax": 90.89,
+        "tax_amount": 28.58,
+        "total_ht": 247.68,
+        "total_ttc": 221.9
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "PSC 3575, Box 4975 APO AA 28797",
+        "company_name": "Zimmerman-Ibarra",
+        "country": "Afghanistan",
+        "name": "Natasha Richardson"
+    },
+    "invoice": {
+        "date": "21.02.2000",
+        "number": 668003
+    },
+    "payment": {
+        "discount_amount": 12.87,
+        "discount_percentage": 11.72,
+        "due": 91.73,
+        "sub_total": 65.72,
+        "total": 769.65
+    },
+    "products": [
+        {
+            "description": "integrate back-end initiatives",
+            "index": "3",
+            "quantity": 3.24,
+            "total_price": 947.62,
+            "unit_price": 21.63
+        }
+    ],
+    "seller": {
+        "address": "9345 Michael Trace Johnview, GA 76857",
+        "company_name": "Johnson, Austin and Madden",
+        "vat_no": "OK05593395755"
+    }
+}

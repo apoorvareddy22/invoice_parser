@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "710 Nicholas Road Lake Kristen, MN 70711",
+        "id": "fF933"
+    },
+    "invoice": {
+        "bc_no": "NT08830",
+        "currency_code": "CUC",
+        "date": "13.06.2003",
+        "due_date": "15.07.2002",
+        "number": 674968
+    },
+    "payment": {
+        "bank_name": "Cummings PLC",
+        "bic": "LTQFGBYTXUZ",
+        "iban": "BEPS26898830899431"
+    },
+    "products": [
+        {
+            "amount": 55.05,
+            "description": "evolve cross-media e-tailers",
+            "index": "5",
+            "price": 212.15,
+            "quantity": 9.32,
+            "tax_amount": 97.88,
+            "total_ttc": 281.9,
+            "vat_amount": 0.8
+        },
+        {
+            "amount": 393.93,
+            "description": "integrate innovative bandwidth",
+            "index": "6",
+            "price": 333.34,
+            "quantity": 8.92,
+            "tax_amount": 10.4,
+            "total_ttc": 253.06,
+            "vat_amount": 0.34
+        },
+        {
+            "amount": 158.0,
+            "description": "empower holistic e-markets",
+            "index": "8",
+            "price": 178.19,
+            "quantity": 3.8,
+            "tax_amount": 71.34,
+            "total_ttc": 254.02,
+            "vat_amount": 1.5
+        },
+        {
+            "amount": 239.59,
+            "description": "maximize integrated eyeballs",
+            "index": "8",
+            "price": 141.23,
+            "quantity": 8.18,
+            "tax_amount": 89.49,
+            "total_ttc": 440.22,
+            "vat_amount": 2.99
+        },
+        {
+            "amount": 379.23,
+            "description": "redefine impactful e-markets",
+            "index": "9",
+            "price": 411.96,
+            "quantity": 2.38,
+            "tax_amount": 93.72,
+            "total_ttc": 228.51,
+            "vat_amount": 7.15
+        }
+    ],
+    "seller": {
+        "name": "Jeff Baker"
+    },
+    "supplier": {
+        "address": "914 Whitney Passage Kathleentown, FM 29157",
+        "name": "Terry Patterson"
+    },
+    "tax": {
+        "amount_excluding_tax": 79.52,
+        "amount_including_tax": 87.96,
+        "tax_amount": 29.04,
+        "total_ht": 115.96,
+        "total_ttc": 276.16
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "24983 Michelle Motorway New Sue, MD 36278",
+        "id": "tq766"
+    },
+    "invoice": {
+        "bc_no": "Nr94087",
+        "currency_code": "QAR",
+        "date": "21.03.1990",
+        "due_date": "03.04.1990",
+        "number": 772041
+    },
+    "payment": {
+        "bank_name": "Morales Ltd",
+        "bic": "IPCHGB6RLW6",
+        "iban": "DNKG69113892279307"
+    },
+    "products": [
+        {
+            "amount": 124.39,
+            "description": "exploit 24/365 e-services",
+            "index": "6",
+            "price": 425.12,
+            "quantity": 5.21,
+            "tax_amount": 14.67,
+            "total_ttc": 408.73,
+            "vat_amount": 3.91
+        },
+        {
+            "amount": 59.67,
+            "description": "e-enable open-source content",
+            "index": "7",
+            "price": 245.84,
+            "quantity": 9.79,
+            "tax_amount": 29.05,
+            "total_ttc": 453.69,
+            "vat_amount": 1.94
+        }
+    ],
+    "seller": {
+        "name": "Derrick Carson"
+    },
+    "supplier": {
+        "address": "52498 Wilson Shores Zacharybury, NE 95523",
+        "name": "Nicholas Mcmillan"
+    },
+    "tax": {
+        "amount_excluding_tax": 17.88,
+        "amount_including_tax": 193.19,
+        "tax_amount": 25.05,
+        "total_ht": 156.99,
+        "total_ttc": 498.49
+    }
+}

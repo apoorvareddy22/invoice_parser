@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "954 Albert Circle Kimchester, OH 52278"
+    },
+    "invoice": {
+        "bc_no": "Oj03162",
+        "date": "25.03.2010",
+        "maturity_date": "22.09.1995",
+        "number": 453973
+    },
+    "products": [
+        {
+            "amount": 358.81,
+            "description": "enable end-to-end initiatives",
+            "quantity": 8.09,
+            "unit_price": 58.68,
+            "vat_amount": 1.88
+        },
+        {
+            "amount": 427.4,
+            "description": "architect interactive supply-chains",
+            "quantity": 2.44,
+            "unit_price": 26.42,
+            "vat_amount": 1.15
+        },
+        {
+            "amount": 340.03,
+            "description": "reinvent web-enabled niches",
+            "quantity": 3.93,
+            "unit_price": 30.05,
+            "vat_amount": 3.61
+        },
+        {
+            "amount": 378.56,
+            "description": "grow 24/7 relationships",
+            "quantity": 4.48,
+            "unit_price": 85.97,
+            "vat_amount": 9.78
+        }
+    ],
+    "seller": {
+        "address": "4288 Colon Groves Andrewsburgh, IL 38865"
+    },
+    "tax": {
+        "amount_excluding_tax": 44.56,
+        "amount_including_tax": 43.12,
+        "tax_amount": 11.65
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "USCGC Adams FPO AA 58506",
+        "email": "ngreen@example.org",
+        "phone": "001-504-794-3700x877",
+        "vat_no": "AE32670174194"
+    },
+    "invoice": {
+        "date": "01.01.2022",
+        "due_date": "29.12.2016",
+        "market_reference": 851457,
+        "notes": "cultivate visionary vortals",
+        "number": "1893-4994",
+        "reference": 846205,
+        "vat_no": "Iv45302187662"
+    },
+    "payment": {
+        "net_total": 50.8,
+        "total": 804.55
+    },
+    "products": [
+        {
+            "amount": 458.45,
+            "description": "redefine compelling applications",
+            "hours": 4.5,
+            "rate": 1.07
+        },
+        {
+            "amount": 261.68,
+            "description": "empower out-of-the-box supply-chains",
+            "hours": 9.89,
+            "rate": 3.4
+        },
+        {
+            "amount": 457.42,
+            "description": "deliver turn-key methodologies",
+            "hours": 2.84,
+            "rate": 1.0
+        },
+        {
+            "amount": 241.17,
+            "description": "evolve virtual info-mediaries",
+            "hours": 5.53,
+            "rate": 5.45
+        },
+        {
+            "amount": 251.02,
+            "description": "monetize granular networks",
+            "hours": 2.52,
+            "rate": 6.35
+        }
+    ],
+    "seller": {
+        "address": "98068 Bailey Passage Castrostad, MH 69868",
+        "email": "uwilliams@example.org",
+        "name": "Destiny Porter"
+    },
+    "tax": {
+        "base": 24.49,
+        "tax_amount": 26.62,
+        "total_tax": 24.74
+    }
+}

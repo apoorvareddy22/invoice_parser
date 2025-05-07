@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "7020 Shirley Fort Perezfort, TN 42947",
+        "business_no": "Tg987",
+        "id": "CS412"
+    },
+    "invoice": {
+        "date": "19.10.1991",
+        "number": "2271-1819"
+    },
+    "payment": {
+        "due_date": "17.05.2019",
+        "total": 525.66
+    },
+    "products": [
+        {
+            "amount": 290.99,
+            "description": "exploit turn-key action-items",
+            "quantity": 8.07,
+            "reference": "Ud-481",
+            "unit_price": 50.24
+        },
+        {
+            "amount": 372.81,
+            "description": "deploy cross-media platforms",
+            "quantity": 2.12,
+            "reference": "Yd-291",
+            "unit_price": 79.4
+        },
+        {
+            "amount": 426.71,
+            "description": "evolve mission-critical networks",
+            "quantity": 1.66,
+            "reference": "Wh-058",
+            "unit_price": 80.62
+        },
+        {
+            "amount": 122.45,
+            "description": "facilitate turn-key web-readiness",
+            "quantity": 2.64,
+            "reference": "eL-796",
+            "unit_price": 34.7
+        }
+    ],
+    "seller": {
+        "address": "63716 Salinas Cliffs Suite 120 East Thomastown, MH 10031"
+    },
+    "tax": {
+        "base_ht": 436.07,
+        "regulations": 18.49,
+        "total_ht": 133.81,
+        "vat_amount": 78.79,
+        "vat_percentage": 12.54
+    }
+}

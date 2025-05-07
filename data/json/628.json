@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "533 Warren Shoal Craigchester, MH 49598",
+        "company_name": "Mills Group",
+        "country": "United States of America",
+        "name": "Stephen Torres"
+    },
+    "invoice": {
+        "date": "05.07.2008",
+        "number": 278548
+    },
+    "payment": {
+        "discount_amount": 11.17,
+        "discount_percentage": 7.38,
+        "due": 175.08,
+        "sub_total": 42.01,
+        "total": 181.05
+    },
+    "products": [
+        {
+            "description": "matrix open-source web-readiness",
+            "index": "4",
+            "quantity": 9.67,
+            "total_price": 768.42,
+            "unit_price": 34.85
+        },
+        {
+            "description": "benchmark mission-critical paradigms",
+            "index": "2",
+            "quantity": 8.44,
+            "total_price": 391.84,
+            "unit_price": 41.89
+        }
+    ],
+    "seller": {
+        "address": "73706 Miller Ports Lake Prestonview, PA 72054",
+        "company_name": "Potter-Robinson",
+        "vat_no": "EO19103593500"
+    }
+}

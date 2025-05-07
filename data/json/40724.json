@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "9784 Ray Cliffs Apt. 852 Jonesbury, NY 98149"
+    },
+    "invoice": {
+        "bc_no": "Wj51931",
+        "date": "21.11.2020",
+        "maturity_date": "06.05.2015",
+        "number": 193669
+    },
+    "products": [
+        {
+            "amount": 97.97,
+            "description": "transition bricks-and-clicks systems",
+            "quantity": 6.22,
+            "unit_price": 69.85,
+            "vat_amount": 1.58
+        },
+        {
+            "amount": 203.47,
+            "description": "evolve intuitive applications",
+            "quantity": 7.29,
+            "unit_price": 95.41,
+            "vat_amount": 5.49
+        },
+        {
+            "amount": 364.49,
+            "description": "visualize one-to-one solutions",
+            "quantity": 4.83,
+            "unit_price": 29.47,
+            "vat_amount": 4.32
+        },
+        {
+            "amount": 121.93,
+            "description": "synthesize cross-media web services",
+            "quantity": 8.26,
+            "unit_price": 23.29,
+            "vat_amount": 0.2
+        },
+        {
+            "amount": 278.25,
+            "description": "visualize out-of-the-box deliverables",
+            "quantity": 6.9,
+            "unit_price": 12.6,
+            "vat_amount": 9.35
+        },
+        {
+            "amount": 100.34,
+            "description": "facilitate integrated infrastructures",
+            "quantity": 2.2,
+            "unit_price": 13.68,
+            "vat_amount": 5.97
+        }
+    ],
+    "seller": {
+        "address": "4079 White Corners Annefort, MH 85155"
+    },
+    "tax": {
+        "amount_excluding_tax": 194.62,
+        "amount_including_tax": 23.84,
+        "tax_amount": 13.27
+    }
+}

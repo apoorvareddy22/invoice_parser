@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "1914 Allison Port Suite 085 West Scottborough, MH 06323",
+        "email": "ebutler@example.com",
+        "phone": "860.517.8375",
+        "vat_no": "fV22912162353"
+    },
+    "invoice": {
+        "date": "22.07.2012",
+        "due_date": "21.01.2022",
+        "market_reference": 343562,
+        "notes": "enhance intuitive action-items",
+        "number": "1488-5900",
+        "reference": 921659,
+        "vat_no": "LA55543623483"
+    },
+    "payment": {
+        "net_total": 140.84,
+        "total": 967.32
+    },
+    "products": [
+        {
+            "amount": 379.14,
+            "description": "grow next-generation supply-chains",
+            "hours": 2.55,
+            "rate": 7.33
+        },
+        {
+            "amount": 85.19,
+            "description": "innovate vertical infrastructures",
+            "hours": 7.23,
+            "rate": 8.66
+        },
+        {
+            "amount": 390.34,
+            "description": "brand clicks-and-mortar relationships",
+            "hours": 1.45,
+            "rate": 7.76
+        },
+        {
+            "amount": 272.79,
+            "description": "synthesize enterprise action-items",
+            "hours": 9.66,
+            "rate": 3.73
+        },
+        {
+            "amount": 396.27,
+            "description": "scale visionary paradigms",
+            "hours": 8.93,
+            "rate": 4.0
+        },
+        {
+            "amount": 177.28,
+            "description": "aggregate ubiquitous convergence",
+            "hours": 6.48,
+            "rate": 2.73
+        }
+    ],
+    "seller": {
+        "address": "Unit 3609 Box 0141 DPO AE 53912",
+        "email": "rmccormick@example.net",
+        "name": "Joanna Reid"
+    },
+    "tax": {
+        "base": 16.74,
+        "tax_amount": 10.76,
+        "total_tax": 13.02
+    }
+}

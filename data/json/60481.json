@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "1337 Hansen Drive Suite 206 Brooksbury, FL 98494",
+        "business_no": "hi678",
+        "id": "wS857"
+    },
+    "invoice": {
+        "date": "03.03.2014",
+        "number": "5166-4773"
+    },
+    "payment": {
+        "due_date": "16.12.2017",
+        "total": 369.53
+    },
+    "products": [
+        {
+            "amount": 368.9,
+            "description": "redefine mission-critical content",
+            "quantity": 5.05,
+            "reference": "oQ-142",
+            "unit_price": 15.31
+        },
+        {
+            "amount": 235.22,
+            "description": "optimize cross-media users",
+            "quantity": 3.16,
+            "reference": "rl-245",
+            "unit_price": 89.51
+        }
+    ],
+    "seller": {
+        "address": "8699 Wagner Highway Suite 931 Ingramview, SD 10080"
+    },
+    "tax": {
+        "base_ht": 201.9,
+        "regulations": 28.72,
+        "total_ht": 168.95,
+        "vat_amount": 119.44,
+        "vat_percentage": 14.82
+    }
+}

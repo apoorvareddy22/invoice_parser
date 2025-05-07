@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "Unit 9704 Box 4483 DPO AP 66649",
+        "email": "williamblackburn@example.com",
+        "phone": "972-693-1293x23296",
+        "vat_no": "cP92926402672"
+    },
+    "invoice": {
+        "date": "23.08.2017",
+        "due_date": "18.01.1995",
+        "market_reference": 651683,
+        "notes": "reinvent B2C interfaces",
+        "number": "6631-0794",
+        "reference": 348184,
+        "vat_no": "ry99424266577"
+    },
+    "payment": {
+        "net_total": 67.74,
+        "total": 333.22
+    },
+    "products": [
+        {
+            "amount": 185.18,
+            "description": "exploit 24/7 experiences",
+            "hours": 4.61,
+            "rate": 6.83
+        },
+        {
+            "amount": 76.61,
+            "description": "target magnetic technologies",
+            "hours": 9.69,
+            "rate": 4.06
+        },
+        {
+            "amount": 371.72,
+            "description": "utilize distributed solutions",
+            "hours": 4.9,
+            "rate": 5.68
+        },
+        {
+            "amount": 460.46,
+            "description": "unleash cross-platform platforms",
+            "hours": 2.32,
+            "rate": 3.37
+        },
+        {
+            "amount": 367.3,
+            "description": "leverage next-generation portals",
+            "hours": 1.41,
+            "rate": 2.76
+        },
+        {
+            "amount": 483.38,
+            "description": "target e-business action-items",
+            "hours": 7.48,
+            "rate": 3.55
+        }
+    ],
+    "seller": {
+        "address": "Unit 9342 Box 6921 DPO AE 43729",
+        "email": "robert66@example.com",
+        "name": "Joel Copeland"
+    },
+    "tax": {
+        "base": 12.59,
+        "tax_amount": 27.6,
+        "total_tax": 15.99
+    }
+}

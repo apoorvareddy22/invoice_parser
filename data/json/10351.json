@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "032 Hanna Gardens Apt. 425 Jamesburgh, MH 95141",
+        "email": "melanie43@example.com",
+        "phone": "001-984-858-8720x91939",
+        "vat_no": "xt41524845696"
+    },
+    "invoice": {
+        "date": "20.06.2007",
+        "due_date": "04.12.2014",
+        "market_reference": 665895,
+        "notes": "envisioneer B2B paradigms",
+        "number": "5400-1316",
+        "reference": 549971,
+        "vat_no": "Ay84284458229"
+    },
+    "payment": {
+        "net_total": 158.45,
+        "total": 727.68
+    },
+    "products": [
+        {
+            "amount": 346.41,
+            "description": "synergize plug-and-play deliverables",
+            "hours": 9.23,
+            "rate": 2.49
+        },
+        {
+            "amount": 334.75,
+            "description": "productize rich deliverables",
+            "hours": 4.65,
+            "rate": 7.72
+        },
+        {
+            "amount": 140.84,
+            "description": "iterate global deliverables",
+            "hours": 3.41,
+            "rate": 7.92
+        },
+        {
+            "amount": 283.81,
+            "description": "generate sticky systems",
+            "hours": 3.13,
+            "rate": 3.4
+        },
+        {
+            "amount": 181.53,
+            "description": "revolutionize 24/365 solutions",
+            "hours": 7.14,
+            "rate": 9.06
+        }
+    ],
+    "seller": {
+        "address": "USNV Shepherd FPO AE 44968",
+        "email": "lejason@example.net",
+        "name": "Jennifer Harris"
+    },
+    "tax": {
+        "base": 22.34,
+        "tax_amount": 10.39,
+        "total_tax": 21.28
+    }
+}

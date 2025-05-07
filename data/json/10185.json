@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "90478 Hernandez Club Ramireztown, VT 49827",
+        "email": "jason15@example.com",
+        "phone": "001-532-929-3092",
+        "vat_no": "os02995204278"
+    },
+    "invoice": {
+        "date": "30.12.2018",
+        "due_date": "02.09.1999",
+        "market_reference": 617589,
+        "notes": "utilize 24/7 e-tailers",
+        "number": "2654-7023",
+        "reference": 689596,
+        "vat_no": "tf78525320669"
+    },
+    "payment": {
+        "net_total": 58.42,
+        "total": 584.86
+    },
+    "products": [
+        {
+            "amount": 95.61,
+            "description": "optimize enterprise synergies",
+            "hours": 4.24,
+            "rate": 8.38
+        },
+        {
+            "amount": 57.46,
+            "description": "architect one-to-one solutions",
+            "hours": 2.92,
+            "rate": 6.48
+        },
+        {
+            "amount": 444.52,
+            "description": "reinvent magnetic initiatives",
+            "hours": 2.09,
+            "rate": 8.22
+        },
+        {
+            "amount": 98.83,
+            "description": "envisioneer dynamic vortals",
+            "hours": 5.25,
+            "rate": 1.77
+        },
+        {
+            "amount": 404.05,
+            "description": "transform turn-key mindshare",
+            "hours": 9.57,
+            "rate": 3.82
+        },
+        {
+            "amount": 116.39,
+            "description": "matrix mission-critical methodologies",
+            "hours": 5.86,
+            "rate": 4.78
+        },
+        {
+            "amount": 147.92,
+            "description": "harness open-source users",
+            "hours": 8.4,
+            "rate": 2.97
+        }
+    ],
+    "seller": {
+        "address": "USCGC Stewart FPO AE 64830",
+        "email": "anthonyharris@example.net",
+        "name": "Dustin Payne"
+    },
+    "tax": {
+        "base": 12.38,
+        "tax_amount": 13.42,
+        "total_tax": 29.72
+    }
+}

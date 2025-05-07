@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "05242 Hopkins Grove Taraview, RI 27392",
+        "company_name": "Cross-Holmes",
+        "country": "New Caledonia",
+        "name": "Kelly Lane"
+    },
+    "invoice": {
+        "date": "13.05.2022",
+        "number": 944324
+    },
+    "payment": {
+        "discount_amount": 25.61,
+        "discount_percentage": 18.75,
+        "due": 40.62,
+        "sub_total": 51.05,
+        "total": 734.38
+    },
+    "products": [
+        {
+            "description": "drive dot-com networks",
+            "index": "8",
+            "quantity": 4.65,
+            "total_price": 240.51,
+            "unit_price": 30.69
+        },
+        {
+            "description": "empower scalable initiatives",
+            "index": "4",
+            "quantity": 6.09,
+            "total_price": 700.66,
+            "unit_price": 63.02
+        }
+    ],
+    "seller": {
+        "address": "8701 Marquez Circle Suite 939 Schmidtshire, SD 63466",
+        "company_name": "Sullivan, Hayes and Melton",
+        "vat_no": "RU68318534929"
+    }
+}

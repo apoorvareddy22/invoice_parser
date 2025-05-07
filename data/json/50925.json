@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "7427 Chad Roads Dawnmouth, FM 19796",
+        "id": "Ja921"
+    },
+    "invoice": {
+        "bc_no": "MC09630",
+        "currency_code": "MAD",
+        "date": "27.12.2017",
+        "due_date": "17.01.1995",
+        "number": 847933
+    },
+    "payment": {
+        "bank_name": "Lutz, Hill and Edwards",
+        "bic": "XWFWGBT6TDX",
+        "iban": "EOZL98638759011149"
+    },
+    "products": [
+        {
+            "amount": 134.57,
+            "description": "optimize cross-platform bandwidth",
+            "index": "2",
+            "price": 304.92,
+            "quantity": 1.66,
+            "tax_amount": 96.79,
+            "total_ttc": 143.67,
+            "vat_amount": 12.47
+        },
+        {
+            "amount": 201.22,
+            "description": "incentivize real-time communities",
+            "index": "5",
+            "price": 92.44,
+            "quantity": 8.17,
+            "tax_amount": 64.22,
+            "total_ttc": 448.4,
+            "vat_amount": 9.63
+        },
+        {
+            "amount": 489.14,
+            "description": "iterate mission-critical metrics",
+            "index": "5",
+            "price": 257.36,
+            "quantity": 7.86,
+            "tax_amount": 79.11,
+            "total_ttc": 249.06,
+            "vat_amount": 3.08
+        }
+    ],
+    "seller": {
+        "name": "Charles Parker"
+    },
+    "supplier": {
+        "address": "49063 David Circles Suite 389 Millerberg, MD 82373",
+        "name": "Linda Gordon"
+    },
+    "tax": {
+        "amount_excluding_tax": 28.33,
+        "amount_including_tax": 183.35,
+        "tax_amount": 23.23,
+        "total_ht": 410.76,
+        "total_ttc": 171.65
+    }
+}

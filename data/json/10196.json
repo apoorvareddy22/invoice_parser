@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "099 Luis Plain Suite 147 North Theresaberg, CA 80020",
+        "email": "stonejoshua@example.com",
+        "phone": "001-575-703-0796x75330",
+        "vat_no": "NH33027196777"
+    },
+    "invoice": {
+        "date": "01.06.1995",
+        "due_date": "10.08.2022",
+        "market_reference": 919934,
+        "notes": "whiteboard intuitive niches",
+        "number": "1939-9299",
+        "reference": 640023,
+        "vat_no": "Ru37940605649"
+    },
+    "payment": {
+        "net_total": 32.67,
+        "total": 121.64
+    },
+    "products": [
+        {
+            "amount": 432.8,
+            "description": "cultivate distributed interfaces",
+            "hours": 2.03,
+            "rate": 6.86
+        },
+        {
+            "amount": 30.33,
+            "description": "enhance scalable partnerships",
+            "hours": 5.46,
+            "rate": 1.83
+        },
+        {
+            "amount": 37.1,
+            "description": "e-enable ubiquitous e-commerce",
+            "hours": 9.97,
+            "rate": 7.82
+        },
+        {
+            "amount": 254.52,
+            "description": "benchmark plug-and-play metrics",
+            "hours": 4.89,
+            "rate": 2.34
+        },
+        {
+            "amount": 132.49,
+            "description": "engage real-time communities",
+            "hours": 5.82,
+            "rate": 5.68
+        },
+        {
+            "amount": 484.07,
+            "description": "deliver enterprise deliverables",
+            "hours": 7.72,
+            "rate": 6.22
+        }
+    ],
+    "seller": {
+        "address": "05787 Eric Vista Suite 777 Sextonview, IA 11792",
+        "email": "mmartin@example.org",
+        "name": "Dr. Ashley Edwards"
+    },
+    "tax": {
+        "base": 13.54,
+        "tax_amount": 13.8,
+        "total_tax": 15.77
+    }
+}

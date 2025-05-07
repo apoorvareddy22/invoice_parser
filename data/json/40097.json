@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "62874 Javier Loop Suite 576 Lake Colleenbury, AK 11995"
+    },
+    "invoice": {
+        "bc_no": "Lr64212",
+        "date": "29.12.1999",
+        "maturity_date": "09.10.2008",
+        "number": 400330
+    },
+    "products": [
+        {
+            "amount": 249.37,
+            "description": "e-enable world-class technologies",
+            "quantity": 8.23,
+            "unit_price": 65.61,
+            "vat_amount": 3.08
+        },
+        {
+            "amount": 71.82,
+            "description": "benchmark next-generation web-readiness",
+            "quantity": 1.26,
+            "unit_price": 25.86,
+            "vat_amount": 0.84
+        },
+        {
+            "amount": 53.51,
+            "description": "target next-generation markets",
+            "quantity": 1.89,
+            "unit_price": 42.54,
+            "vat_amount": 0.84
+        },
+        {
+            "amount": 207.95,
+            "description": "synergize open-source e-commerce",
+            "quantity": 5.38,
+            "unit_price": 72.84,
+            "vat_amount": 11.4
+        },
+        {
+            "amount": 117.03,
+            "description": "iterate transparent portals",
+            "quantity": 4.09,
+            "unit_price": 73.2,
+            "vat_amount": 1.19
+        }
+    ],
+    "seller": {
+        "address": "90304 Robert Pike Apt. 789 Martinmouth, ME 46196"
+    },
+    "tax": {
+        "amount_excluding_tax": 110.11,
+        "amount_including_tax": 22.52,
+        "tax_amount": 17.7
+    }
+}

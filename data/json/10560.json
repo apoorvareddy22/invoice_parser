@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "42437 Travis Coves Hallbury, NC 70861",
+        "email": "stonecindy@example.net",
+        "phone": "980.555.1190x53128",
+        "vat_no": "zd58742315200"
+    },
+    "invoice": {
+        "date": "19.11.2001",
+        "due_date": "03.01.1991",
+        "market_reference": 778830,
+        "notes": "productize best-of-breed metrics",
+        "number": "2960-1606",
+        "reference": 595778,
+        "vat_no": "SE40643649399"
+    },
+    "payment": {
+        "net_total": 123.54,
+        "total": 353.97
+    },
+    "products": [
+        {
+            "amount": 15.29,
+            "description": "disintermediate B2C supply-chains",
+            "hours": 5.2,
+            "rate": 6.98
+        },
+        {
+            "amount": 431.41,
+            "description": "target distributed users",
+            "hours": 4.38,
+            "rate": 8.64
+        },
+        {
+            "amount": 99.66,
+            "description": "whiteboard bricks-and-clicks e-business",
+            "hours": 1.28,
+            "rate": 4.59
+        },
+        {
+            "amount": 293.02,
+            "description": "deploy scalable e-markets",
+            "hours": 1.83,
+            "rate": 5.12
+        }
+    ],
+    "seller": {
+        "address": "64239 Eric Forks Amandashire, MD 37901",
+        "email": "wadams@example.com",
+        "name": "Ryan Hardy"
+    },
+    "tax": {
+        "base": 19.89,
+        "tax_amount": 29.45,
+        "total_tax": 13.37
+    }
+}

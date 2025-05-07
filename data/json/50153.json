@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "34285 Chen Branch Danielleside, MN 70097",
+        "id": "FI421"
+    },
+    "invoice": {
+        "bc_no": "tX25758",
+        "currency_code": "OMR",
+        "date": "19.01.1998",
+        "due_date": "04.11.1998",
+        "number": 973982
+    },
+    "payment": {
+        "bank_name": "Beltran-Hull",
+        "bic": "RVKSGBSI",
+        "iban": "SSTB17037943592971"
+    },
+    "products": [
+        {
+            "amount": 497.82,
+            "description": "architect mission-critical action-items",
+            "index": "7",
+            "price": 140.8,
+            "quantity": 5.12,
+            "tax_amount": 53.21,
+            "total_ttc": 418.01,
+            "vat_amount": 7.16
+        },
+        {
+            "amount": 324.82,
+            "description": "implement transparent users",
+            "index": "4",
+            "price": 75.72,
+            "quantity": 7.87,
+            "tax_amount": 92.22,
+            "total_ttc": 383.33,
+            "vat_amount": 2.94
+        }
+    ],
+    "seller": {
+        "name": "Janet Anderson"
+    },
+    "supplier": {
+        "address": "6698 Bell Parkways Suite 269 Thompsonberg, MO 42174",
+        "name": "Sharon Fischer"
+    },
+    "tax": {
+        "amount_excluding_tax": 18.75,
+        "amount_including_tax": 61.22,
+        "tax_amount": 22.09,
+        "total_ht": 391.09,
+        "total_ttc": 318.19
+    }
+}

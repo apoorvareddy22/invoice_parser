@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "08402 Janet Track Port Chadtown, NV 34493"
+    },
+    "invoice": {
+        "bc_no": "gg81627",
+        "date": "17.03.2002",
+        "maturity_date": "19.02.2000",
+        "number": 862578
+    },
+    "products": [
+        {
+            "amount": 161.33,
+            "description": "implement clicks-and-mortar e-commerce",
+            "quantity": 5.41,
+            "unit_price": 29.46,
+            "vat_amount": 4.22
+        },
+        {
+            "amount": 314.55,
+            "description": "orchestrate scalable synergies",
+            "quantity": 2.44,
+            "unit_price": 16.27,
+            "vat_amount": 2.27
+        },
+        {
+            "amount": 39.41,
+            "description": "enable bleeding-edge action-items",
+            "quantity": 8.81,
+            "unit_price": 54.55,
+            "vat_amount": 7.47
+        },
+        {
+            "amount": 483.17,
+            "description": "enable collaborative solutions",
+            "quantity": 4.32,
+            "unit_price": 80.75,
+            "vat_amount": 8.05
+        }
+    ],
+    "seller": {
+        "address": "3680 Jeffrey Isle Suite 307 Simpsonbury, WA 26324"
+    },
+    "tax": {
+        "amount_excluding_tax": 199.69,
+        "amount_including_tax": 35.49,
+        "tax_amount": 10.6
+    }
+}

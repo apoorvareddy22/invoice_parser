@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "21900 Lindsay Park Suite 238 Wolfemouth, NY 21364",
+        "company_name": "Vasquez LLC",
+        "email": "bbryan@example.net",
+        "name": "Richard Brooks",
+        "phone": "(420)701-1784x124"
+    },
+    "invoice": {
+        "date": "22.11.2018",
+        "due_date": "22.10.2013",
+        "number": "ZUf64660691277"
+    },
+    "payment": {
+        "account_number": 7488177395,
+        "bank_name": "Jones, Carlson and Duncan",
+        "routing_number": 902195778
+    },
+    "products": [
+        {
+            "amount": 255.9,
+            "description": "orchestrate dot-com initiatives",
+            "index": "10",
+            "quantity": 1.4,
+            "unit_price": 58.46
+        },
+        {
+            "amount": 379.74,
+            "description": "evolve proactive vortals",
+            "index": "8",
+            "quantity": 5.18,
+            "unit_price": 51.97
+        },
+        {
+            "amount": 164.52,
+            "description": "strategize strategic initiatives",
+            "index": "2",
+            "quantity": 7.92,
+            "unit_price": 88.95
+        }
+    ],
+    "seller": {
+        "address": "256 Bradley Mountains Suite 041 Burkebury, DE 47010",
+        "company_name": "Davis and Sons",
+        "email": "mcculloughkiara@example.com"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "66479 Kerr Mountains North Patriciastad, LA 18238",
+        "business_no": "uN147",
+        "id": "Dc862"
+    },
+    "invoice": {
+        "date": "17.09.1999",
+        "number": "5361-1013"
+    },
+    "payment": {
+        "due_date": "22.10.2018",
+        "total": 782.41
+    },
+    "products": [
+        {
+            "amount": 54.27,
+            "description": "generate ubiquitous bandwidth",
+            "quantity": 3.33,
+            "reference": "hX-739",
+            "unit_price": 41.04
+        }
+    ],
+    "seller": {
+        "address": "62809 Haynes Cliff Apt. 413 Port Leslie, TN 27426"
+    },
+    "tax": {
+        "base_ht": 396.68,
+        "regulations": 22.17,
+        "total_ht": 206.81,
+        "vat_amount": 194.96,
+        "vat_percentage": 20.44
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "76655 Christian Lights North Matthew, OH 58937",
+        "id": "jn499"
+    },
+    "invoice": {
+        "bc_no": "Gk81008",
+        "currency_code": "MXN",
+        "date": "27.05.1997",
+        "due_date": "15.06.1995",
+        "number": 324179
+    },
+    "payment": {
+        "bank_name": "Newton, Foster and Soto",
+        "bic": "LYOUGB4CANJ",
+        "iban": "BXMD90314569905806"
+    },
+    "products": [
+        {
+            "amount": 102.47,
+            "description": "morph world-class interfaces",
+            "index": "7",
+            "price": 373.8,
+            "quantity": 8.37,
+            "tax_amount": 62.85,
+            "total_ttc": 454.22,
+            "vat_amount": 2.65
+        },
+        {
+            "amount": 64.57,
+            "description": "unleash rich applications",
+            "index": "2",
+            "price": 363.39,
+            "quantity": 8.83,
+            "tax_amount": 19.69,
+            "total_ttc": 132.91,
+            "vat_amount": 2.47
+        },
+        {
+            "amount": 62.03,
+            "description": "incentivize real-time metrics",
+            "index": "1",
+            "price": 435.02,
+            "quantity": 9.44,
+            "tax_amount": 27.11,
+            "total_ttc": 125.96,
+            "vat_amount": 5.07
+        },
+        {
+            "amount": 58.64,
+            "description": "enable front-end content",
+            "index": "9",
+            "price": 482.01,
+            "quantity": 8.91,
+            "tax_amount": 11.11,
+            "total_ttc": 313.69,
+            "vat_amount": 5.59
+        },
+        {
+            "amount": 344.0,
+            "description": "exploit cross-platform initiatives",
+            "index": "5",
+            "price": 146.96,
+            "quantity": 5.78,
+            "tax_amount": 53.99,
+            "total_ttc": 421.34,
+            "vat_amount": 5.93
+        },
+        {
+            "amount": 242.46,
+            "description": "embrace intuitive systems",
+            "index": "6",
+            "price": 311.2,
+            "quantity": 5.56,
+            "tax_amount": 28.92,
+            "total_ttc": 176.38,
+            "vat_amount": 8.46
+        }
+    ],
+    "seller": {
+        "name": "Jennifer Rodgers"
+    },
+    "supplier": {
+        "address": "749 Cole Pike Suite 364 East Brandi, OK 13741",
+        "name": "Stephanie Santana"
+    },
+    "tax": {
+        "amount_excluding_tax": 83.23,
+        "amount_including_tax": 87.27,
+        "tax_amount": 19.13,
+        "total_ht": 470.8,
+        "total_ttc": 355.77
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "4325 Smith Fields North Mirandaport, NE 11590",
+        "business_no": "uD243",
+        "id": "Xf348"
+    },
+    "invoice": {
+        "date": "07.10.2023",
+        "number": "1543-1163"
+    },
+    "payment": {
+        "due_date": "11.04.2008",
+        "total": 906.76
+    },
+    "products": [
+        {
+            "amount": 388.4,
+            "description": "mesh out-of-the-box web-readiness",
+            "quantity": 5.42,
+            "reference": "Vb-344",
+            "unit_price": 63.14
+        },
+        {
+            "amount": 120.89,
+            "description": "facilitate leading-edge users",
+            "quantity": 2.78,
+            "reference": "ej-879",
+            "unit_price": 85.9
+        },
+        {
+            "amount": 15.44,
+            "description": "seize proactive channels",
+            "quantity": 9.19,
+            "reference": "hJ-178",
+            "unit_price": 58.81
+        }
+    ],
+    "seller": {
+        "address": "648 Melissa Stream Robertland, FM 87179"
+    },
+    "tax": {
+        "base_ht": 442.24,
+        "regulations": 29.18,
+        "total_ht": 458.82,
+        "vat_amount": 135.59,
+        "vat_percentage": 10.41
+    }
+}

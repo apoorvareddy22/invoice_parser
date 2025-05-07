@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "PSC 4945, Box 9860 APO AE 77891",
+        "email": "ehuang@example.org",
+        "phone": "324.311.6194x11358",
+        "vat_no": "al74096176691"
+    },
+    "invoice": {
+        "date": "05.11.2009",
+        "due_date": "22.11.2001",
+        "market_reference": 733077,
+        "notes": "exploit end-to-end applications",
+        "number": "1926-9295",
+        "reference": 367436,
+        "vat_no": "vH16141985526"
+    },
+    "payment": {
+        "net_total": 156.67,
+        "total": 885.27
+    },
+    "products": [
+        {
+            "amount": 264.42,
+            "description": "orchestrate seamless channels",
+            "hours": 3.22,
+            "rate": 2.35
+        },
+        {
+            "amount": 98.26,
+            "description": "integrate extensible models",
+            "hours": 7.8,
+            "rate": 9.39
+        },
+        {
+            "amount": 452.71,
+            "description": "enable wireless systems",
+            "hours": 3.38,
+            "rate": 9.75
+        },
+        {
+            "amount": 319.89,
+            "description": "visualize interactive communities",
+            "hours": 7.62,
+            "rate": 5.09
+        },
+        {
+            "amount": 229.47,
+            "description": "unleash ubiquitous e-business",
+            "hours": 3.58,
+            "rate": 8.15
+        }
+    ],
+    "seller": {
+        "address": "76457 Lindsay Mountain East John, AS 33426",
+        "email": "dixonashley@example.org",
+        "name": "Erin Wright"
+    },
+    "tax": {
+        "base": 18.94,
+        "tax_amount": 15.46,
+        "total_tax": 14.48
+    }
+}

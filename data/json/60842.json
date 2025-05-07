@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "6798 Anderson Place East Michaelfort, ID 06141",
+        "business_no": "Fl989",
+        "id": "Mx532"
+    },
+    "invoice": {
+        "date": "18.04.1995",
+        "number": "0566-3633"
+    },
+    "payment": {
+        "due_date": "22.03.2001",
+        "total": 680.34
+    },
+    "products": [
+        {
+            "amount": 30.1,
+            "description": "iterate compelling markets",
+            "quantity": 9.09,
+            "reference": "VV-551",
+            "unit_price": 66.81
+        },
+        {
+            "amount": 119.32,
+            "description": "facilitate end-to-end networks",
+            "quantity": 6.98,
+            "reference": "hc-613",
+            "unit_price": 42.57
+        }
+    ],
+    "seller": {
+        "address": "163 Wood Springs New Jill, CO 35095"
+    },
+    "tax": {
+        "base_ht": 120.92,
+        "regulations": 23.52,
+        "total_ht": 432.91,
+        "vat_amount": 45.35,
+        "vat_percentage": 11.36
+    }
+}

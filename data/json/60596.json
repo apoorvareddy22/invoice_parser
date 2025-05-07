@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "437 Alex Light Calvinfort, MO 38082",
+        "business_no": "vA965",
+        "id": "TT962"
+    },
+    "invoice": {
+        "date": "26.01.2023",
+        "number": "5205-0945"
+    },
+    "payment": {
+        "due_date": "17.06.2023",
+        "total": 846.21
+    },
+    "products": [
+        {
+            "amount": 25.98,
+            "description": "transition sticky e-business",
+            "quantity": 2.17,
+            "reference": "kI-266",
+            "unit_price": 90.13
+        }
+    ],
+    "seller": {
+        "address": "400 Mason Prairie East Gregoryhaven, AL 18209"
+    },
+    "tax": {
+        "base_ht": 277.06,
+        "regulations": 23.38,
+        "total_ht": 208.11,
+        "vat_amount": 10.8,
+        "vat_percentage": 10.02
+    }
+}

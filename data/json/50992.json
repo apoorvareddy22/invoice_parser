@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "7393 Carmen Expressway East Alexander, HI 49680",
+        "id": "lJ416"
+    },
+    "invoice": {
+        "bc_no": "Er77307",
+        "currency_code": "NIS",
+        "date": "27.11.2016",
+        "due_date": "30.05.2007",
+        "number": 359273
+    },
+    "payment": {
+        "bank_name": "Wood, Robinson and Miller",
+        "bic": "RCTQGBKZ",
+        "iban": "CNPM15922637984223"
+    },
+    "products": [
+        {
+            "amount": 330.71,
+            "description": "reinvent scalable mindshare",
+            "index": "2",
+            "price": 191.35,
+            "quantity": 3.15,
+            "tax_amount": 53.66,
+            "total_ttc": 329.7,
+            "vat_amount": 3.69
+        },
+        {
+            "amount": 480.7,
+            "description": "monetize B2C networks",
+            "index": "4",
+            "price": 469.11,
+            "quantity": 2.55,
+            "tax_amount": 40.83,
+            "total_ttc": 391.05,
+            "vat_amount": 13.14
+        }
+    ],
+    "seller": {
+        "name": "Lori Mcintosh"
+    },
+    "supplier": {
+        "address": "5327 Jillian Spurs Apt. 845 Stephensburgh, NY 31171",
+        "name": "Joseph Jenkins"
+    },
+    "tax": {
+        "amount_excluding_tax": 137.03,
+        "amount_including_tax": 190.55,
+        "tax_amount": 25.33,
+        "total_ht": 173.86,
+        "total_ttc": 465.99
+    }
+}

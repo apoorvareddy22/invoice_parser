@@ -1,0 +1,82 @@
+{
+    "buyer": {
+        "address": "21891 Benson Hill Apt. 514 Christopherton, HI 27587",
+        "company_name": "Duarte-Martinez",
+        "country": "Brazil",
+        "email": "ysimon@example.net",
+        "name": "Kathleen Fernandez",
+        "phone": "230.402.4655x9030",
+        "vat_no": "le15496524343"
+    },
+    "invoice": {
+        "date": "12.11.2021",
+        "due_date": "24.11.2023",
+        "linked_invoice": "yv-6749-5501",
+        "notes": "deploy sticky supply-chains",
+        "number": "CP-0988-7745"
+    },
+    "products": [
+        {
+            "description": "benchmark granular infrastructures",
+            "discount_percentage": 8.32,
+            "price": 442.41,
+            "quantity": 7.82,
+            "unit_price": 14.99
+        },
+        {
+            "description": "iterate granular content",
+            "discount_percentage": 19.95,
+            "price": 197.16,
+            "quantity": 5.23,
+            "unit_price": 66.99
+        },
+        {
+            "description": "drive impactful action-items",
+            "discount_percentage": 7.69,
+            "price": 394.79,
+            "quantity": 1.15,
+            "unit_price": 90.15
+        },
+        {
+            "description": "repurpose innovative e-services",
+            "discount_percentage": 10.52,
+            "price": 129.43,
+            "quantity": 5.28,
+            "unit_price": 86.53
+        },
+        {
+            "description": "leverage bricks-and-clicks interfaces",
+            "discount_percentage": 7.63,
+            "price": 308.57,
+            "quantity": 1.78,
+            "unit_price": 75.32
+        }
+    ],
+    "seller": {
+        "address": "391 Allen Street Port Traci, NH 91779",
+        "ape": "4340B",
+        "capital": 79175342,
+        "country": "Guinea-Bissau",
+        "email": "kelly97@example.org",
+        "name": "Robin Santos",
+        "phone_1": "(783)691-6664",
+        "phone_2": "001-412-730-5439x424",
+        "phone_3": "304.249.9634x00316",
+        "ref_walk": "JEEb0722",
+        "reference": "QX500",
+        "siret": 91080814193052,
+        "vat_no": "gS99533948791",
+        "website": "http://donaldson.info/"
+    },
+    "tax": {
+        "amount_0": 23.81,
+        "amount_1": 13.11,
+        "base_0": 15.98,
+        "base_1": 145.59,
+        "total_ht": 105.18,
+        "total_tax": 14.34,
+        "total_ttc": 426.74,
+        "vat_0": 27.12,
+        "vat_1": 12.93
+    }
+}

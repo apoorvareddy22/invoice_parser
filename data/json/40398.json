@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "4269 Wood Plaza Tannerburgh, ME 41180"
+    },
+    "invoice": {
+        "bc_no": "DC36051",
+        "date": "27.04.2019",
+        "maturity_date": "07.06.2012",
+        "number": 538829
+    },
+    "products": [
+        {
+            "amount": 56.2,
+            "description": "strategize visionary info-mediaries",
+            "quantity": 2.73,
+            "unit_price": 55.83,
+            "vat_amount": 4.08
+        },
+        {
+            "amount": 449.92,
+            "description": "matrix innovative web services",
+            "quantity": 7.99,
+            "unit_price": 31.19,
+            "vat_amount": 4.68
+        },
+        {
+            "amount": 71.56,
+            "description": "empower impactful convergence",
+            "quantity": 2.31,
+            "unit_price": 45.94,
+            "vat_amount": 1.08
+        }
+    ],
+    "seller": {
+        "address": "818 Victoria Route Suite 820 South Christopher, UT 98024"
+    },
+    "tax": {
+        "amount_excluding_tax": 102.46,
+        "amount_including_tax": 150.15,
+        "tax_amount": 19.18
+    }
+}

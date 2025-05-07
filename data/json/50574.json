@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "PSC 1405, Box 4822 APO AP 06088",
+        "id": "tQ699"
+    },
+    "invoice": {
+        "bc_no": "Ml15444",
+        "currency_code": "MVR",
+        "date": "11.04.2013",
+        "due_date": "05.03.2001",
+        "number": 111617
+    },
+    "payment": {
+        "bank_name": "Grant-Maxwell",
+        "bic": "HTSOGBQWX0L",
+        "iban": "MCEU31218950964759"
+    },
+    "products": [
+        {
+            "amount": 363.9,
+            "description": "re-intermediate real-time paradigms",
+            "index": "5",
+            "price": 449.89,
+            "quantity": 1.17,
+            "tax_amount": 71.51,
+            "total_ttc": 148.39,
+            "vat_amount": 1.33
+        },
+        {
+            "amount": 67.05,
+            "description": "morph visionary partnerships",
+            "index": "1",
+            "price": 495.4,
+            "quantity": 5.69,
+            "tax_amount": 51.45,
+            "total_ttc": 291.75,
+            "vat_amount": 9.51
+        },
+        {
+            "amount": 454.75,
+            "description": "optimize leading-edge web-readiness",
+            "index": "9",
+            "price": 348.73,
+            "quantity": 7.47,
+            "tax_amount": 52.42,
+            "total_ttc": 409.8,
+            "vat_amount": 0.23
+        },
+        {
+            "amount": 179.65,
+            "description": "embrace innovative mindshare",
+            "index": "7",
+            "price": 167.26,
+            "quantity": 7.13,
+            "tax_amount": 82.41,
+            "total_ttc": 165.04,
+            "vat_amount": 4.67
+        },
+        {
+            "amount": 381.22,
+            "description": "engineer B2C markets",
+            "index": "6",
+            "price": 425.66,
+            "quantity": 3.96,
+            "tax_amount": 58.83,
+            "total_ttc": 285.04,
+            "vat_amount": 4.87
+        },
+        {
+            "amount": 456.91,
+            "description": "monetize plug-and-play technologies",
+            "index": "8",
+            "price": 396.91,
+            "quantity": 6.79,
+            "tax_amount": 97.61,
+            "total_ttc": 467.87,
+            "vat_amount": 11.98
+        }
+    ],
+    "seller": {
+        "name": "Richard Hawkins"
+    },
+    "supplier": {
+        "address": "6688 Keith Camp Lawrenceville, KY 45705",
+        "name": "John Morgan"
+    },
+    "tax": {
+        "amount_excluding_tax": 115.87,
+        "amount_including_tax": 17.81,
+        "tax_amount": 25.18,
+        "total_ht": 272.57,
+        "total_ttc": 134.73
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "93379 Green Mall Port Devin, WA 40111",
+        "id": "Ww707"
+    },
+    "invoice": {
+        "bc_no": "rg84039",
+        "currency_code": "AED",
+        "date": "24.01.2021",
+        "due_date": "26.02.2000",
+        "number": 193190
+    },
+    "payment": {
+        "bank_name": "Smith-Shields",
+        "bic": "YBLIGB1E",
+        "iban": "PJYV28255622748288"
+    },
+    "products": [
+        {
+            "amount": 212.3,
+            "description": "innovate leading-edge functionalities",
+            "index": "6",
+            "price": 84.51,
+            "quantity": 1.03,
+            "tax_amount": 44.64,
+            "total_ttc": 221.08,
+            "vat_amount": 0.17
+        },
+        {
+            "amount": 22.83,
+            "description": "aggregate next-generation e-services",
+            "index": "7",
+            "price": 58.36,
+            "quantity": 6.16,
+            "tax_amount": 91.08,
+            "total_ttc": 436.54,
+            "vat_amount": 8.98
+        },
+        {
+            "amount": 317.75,
+            "description": "re-intermediate revolutionary deliverables",
+            "index": "7",
+            "price": 285.96,
+            "quantity": 7.93,
+            "tax_amount": 98.2,
+            "total_ttc": 338.08,
+            "vat_amount": 5.2
+        }
+    ],
+    "seller": {
+        "name": "Jennifer Preston"
+    },
+    "supplier": {
+        "address": "Unit 5835 Box 3220 DPO AA 78373",
+        "name": "Michelle Cabrera"
+    },
+    "tax": {
+        "amount_excluding_tax": 196.98,
+        "amount_including_tax": 112.82,
+        "tax_amount": 19.27,
+        "total_ht": 323.91,
+        "total_ttc": 365.74
+    }
+}

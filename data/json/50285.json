@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "61970 Rodgers Wells New Jonathan, IL 06826",
+        "id": "zh912"
+    },
+    "invoice": {
+        "bc_no": "wL61947",
+        "currency_code": "DJF",
+        "date": "20.04.1992",
+        "due_date": "13.04.1999",
+        "number": 150863
+    },
+    "payment": {
+        "bank_name": "Hess-Carter",
+        "bic": "FRCHGBHL",
+        "iban": "QESW39058574043939"
+    },
+    "products": [
+        {
+            "amount": 336.1,
+            "description": "cultivate impactful experiences",
+            "index": "2",
+            "price": 369.28,
+            "quantity": 5.83,
+            "tax_amount": 35.72,
+            "total_ttc": 157.17,
+            "vat_amount": 3.18
+        },
+        {
+            "amount": 14.41,
+            "description": "matrix end-to-end markets",
+            "index": "8",
+            "price": 462.49,
+            "quantity": 7.49,
+            "tax_amount": 16.54,
+            "total_ttc": 237.8,
+            "vat_amount": 1.41
+        },
+        {
+            "amount": 121.31,
+            "description": "maximize frictionless channels",
+            "index": "7",
+            "price": 422.68,
+            "quantity": 4.13,
+            "tax_amount": 51.72,
+            "total_ttc": 118.52,
+            "vat_amount": 3.7
+        },
+        {
+            "amount": 419.42,
+            "description": "e-enable plug-and-play bandwidth",
+            "index": "10",
+            "price": 299.14,
+            "quantity": 2.96,
+            "tax_amount": 56.36,
+            "total_ttc": 490.83,
+            "vat_amount": 3.46
+        },
+        {
+            "amount": 102.55,
+            "description": "utilize compelling mindshare",
+            "index": "5",
+            "price": 36.16,
+            "quantity": 9.89,
+            "tax_amount": 70.59,
+            "total_ttc": 342.28,
+            "vat_amount": 1.08
+        },
+        {
+            "amount": 349.75,
+            "description": "orchestrate magnetic content",
+            "index": "2",
+            "price": 128.04,
+            "quantity": 3.13,
+            "tax_amount": 83.07,
+            "total_ttc": 100.47,
+            "vat_amount": 0.85
+        }
+    ],
+    "seller": {
+        "name": "Thomas Lane"
+    },
+    "supplier": {
+        "address": "6443 Angela Estate Lake Bobby, NH 82344",
+        "name": "Caroline Sexton"
+    },
+    "tax": {
+        "amount_excluding_tax": 77.06,
+        "amount_including_tax": 96.21,
+        "tax_amount": 14.87,
+        "total_ht": 470.47,
+        "total_ttc": 315.57
+    }
+}

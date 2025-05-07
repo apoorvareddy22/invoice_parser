@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "291 Andrea Greens Apt. 228 Lake Andrewview, WV 09446",
+        "company_name": "Gonzales-Duncan",
+        "email": "rodriguezjanice@example.net",
+        "name": "Melissa Barber",
+        "phone": "+1-359-604-1112x82282"
+    },
+    "invoice": {
+        "date": "08.02.1994",
+        "due_date": "17.11.1995",
+        "number": "LCU22131959269"
+    },
+    "payment": {
+        "account_number": 3451730054,
+        "bank_name": "Hernandez-Park",
+        "routing_number": 299028142
+    },
+    "products": [
+        {
+            "amount": 125.32,
+            "description": "embrace enterprise convergence",
+            "index": "5",
+            "quantity": 7.74,
+            "unit_price": 94.79
+        },
+        {
+            "amount": 114.89,
+            "description": "architect synergistic vortals",
+            "index": "6",
+            "quantity": 5.87,
+            "unit_price": 55.05
+        },
+        {
+            "amount": 89.83,
+            "description": "evolve vertical e-services",
+            "index": "7",
+            "quantity": 2.03,
+            "unit_price": 22.74
+        }
+    ],
+    "seller": {
+        "address": "075 Kendra Springs Suite 489 Gonzalesburgh, WY 68370",
+        "company_name": "Turner Inc",
+        "email": "maryberry@example.net"
+    }
+}

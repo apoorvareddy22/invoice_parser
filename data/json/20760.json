@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "94465 Ibarra Orchard Port Jasmine, SD 32276",
+        "company_name": "Hall-Brown",
+        "email": "baxterkathleen@example.com",
+        "name": "Rebecca Rogers",
+        "phone": "+1-402-580-6435x26804"
+    },
+    "invoice": {
+        "date": "12.10.2022",
+        "due_date": "28.11.2019",
+        "number": "ptX50629050507"
+    },
+    "payment": {
+        "account_number": 1672825315,
+        "bank_name": "Collins, Watson and Todd",
+        "routing_number": 564888811
+    },
+    "products": [
+        {
+            "amount": 325.09,
+            "description": "embrace revolutionary markets",
+            "index": "1",
+            "quantity": 9.6,
+            "unit_price": 37.34
+        },
+        {
+            "amount": 229.24,
+            "description": "unleash interactive metrics",
+            "index": "4",
+            "quantity": 4.79,
+            "unit_price": 73.34
+        },
+        {
+            "amount": 405.38,
+            "description": "maximize viral architectures",
+            "index": "10",
+            "quantity": 8.52,
+            "unit_price": 96.49
+        },
+        {
+            "amount": 391.94,
+            "description": "grow one-to-one architectures",
+            "index": "6",
+            "quantity": 1.09,
+            "unit_price": 84.49
+        }
+    ],
+    "seller": {
+        "address": "04015 Edwards Underpass Suite 872 Port Angelaville, CT 66814",
+        "company_name": "Merritt-Anderson",
+        "email": "rhondarussell@example.com"
+    }
+}

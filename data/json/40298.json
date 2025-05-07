@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "77138 Mccoy Bridge Suite 995 Stephaniemouth, OH 63381"
+    },
+    "invoice": {
+        "bc_no": "XP14029",
+        "date": "17.12.2014",
+        "maturity_date": "03.11.2015",
+        "number": 593286
+    },
+    "products": [
+        {
+            "amount": 41.92,
+            "description": "envisioneer intuitive users",
+            "quantity": 4.5,
+            "unit_price": 48.93,
+            "vat_amount": 2.22
+        }
+    ],
+    "seller": {
+        "address": "USNV Williams FPO AA 79574"
+    },
+    "tax": {
+        "amount_excluding_tax": 41.69,
+        "amount_including_tax": 82.01,
+        "tax_amount": 28.29
+    }
+}

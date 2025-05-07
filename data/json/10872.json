@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "5273 Meagan Cape North Jasonshire, OK 34129",
+        "email": "xfinley@example.net",
+        "phone": "935-220-5584",
+        "vat_no": "ra00783117085"
+    },
+    "invoice": {
+        "date": "20.10.2000",
+        "due_date": "01.12.2011",
+        "market_reference": 570575,
+        "notes": "redefine best-of-breed initiatives",
+        "number": "2440-0032",
+        "reference": 840313,
+        "vat_no": "UP39393434448"
+    },
+    "payment": {
+        "net_total": 131.74,
+        "total": 836.66
+    },
+    "products": [
+        {
+            "amount": 391.9,
+            "description": "re-contextualize holistic applications",
+            "hours": 3.29,
+            "rate": 2.95
+        },
+        {
+            "amount": 234.08,
+            "description": "repurpose integrated schemas",
+            "hours": 5.45,
+            "rate": 7.42
+        },
+        {
+            "amount": 273.52,
+            "description": "empower cross-media infrastructures",
+            "hours": 7.04,
+            "rate": 7.88
+        },
+        {
+            "amount": 260.41,
+            "description": "leverage impactful functionalities",
+            "hours": 7.59,
+            "rate": 6.11
+        },
+        {
+            "amount": 85.59,
+            "description": "utilize ubiquitous portals",
+            "hours": 2.24,
+            "rate": 8.83
+        }
+    ],
+    "seller": {
+        "address": "7332 Jacobson Freeway Lake Brendahaven, PR 76256",
+        "email": "reesestephanie@example.org",
+        "name": "Gregory Cummings"
+    },
+    "tax": {
+        "base": 19.3,
+        "tax_amount": 11.92,
+        "total_tax": 18.59
+    }
+}

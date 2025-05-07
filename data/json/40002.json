@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "2046 Serrano Mission Port Dianemouth, RI 06345"
+    },
+    "invoice": {
+        "bc_no": "BG47944",
+        "date": "20.05.1997",
+        "maturity_date": "15.04.2015",
+        "number": 658580
+    },
+    "products": [
+        {
+            "amount": 204.25,
+            "description": "evolve 24/7 paradigms",
+            "quantity": 8.21,
+            "unit_price": 57.13,
+            "vat_amount": 14.9
+        },
+        {
+            "amount": 80.66,
+            "description": "engineer impactful eyeballs",
+            "quantity": 3.82,
+            "unit_price": 16.24,
+            "vat_amount": 4.04
+        },
+        {
+            "amount": 440.67,
+            "description": "exploit global communities",
+            "quantity": 3.7,
+            "unit_price": 55.16,
+            "vat_amount": 6.31
+        },
+        {
+            "amount": 83.58,
+            "description": "re-intermediate back-end technologies",
+            "quantity": 4.32,
+            "unit_price": 89.83,
+            "vat_amount": 5.28
+        }
+    ],
+    "seller": {
+        "address": "855 Steven Ford West Emilybury, LA 57950"
+    },
+    "tax": {
+        "amount_excluding_tax": 42.32,
+        "amount_including_tax": 148.51,
+        "tax_amount": 23.78
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "0335 Thomas Plain Jenkinsmouth, KS 84003",
+        "id": "yb923"
+    },
+    "invoice": {
+        "bc_no": "Oa70096",
+        "currency_code": "EUR",
+        "date": "03.02.2004",
+        "due_date": "03.01.1997",
+        "number": 932963
+    },
+    "payment": {
+        "bank_name": "Moreno PLC",
+        "bic": "KPXPGB5YOFT",
+        "iban": "NVPC05293717518564"
+    },
+    "products": [
+        {
+            "amount": 80.34,
+            "description": "transition scalable web services",
+            "index": "7",
+            "price": 42.74,
+            "quantity": 2.6,
+            "tax_amount": 97.84,
+            "total_ttc": 498.93,
+            "vat_amount": 8.19
+        },
+        {
+            "amount": 495.06,
+            "description": "implement efficient systems",
+            "index": "10",
+            "price": 62.84,
+            "quantity": 7.26,
+            "tax_amount": 42.26,
+            "total_ttc": 167.79,
+            "vat_amount": 4.25
+        },
+        {
+            "amount": 446.1,
+            "description": "matrix integrated systems",
+            "index": "3",
+            "price": 249.53,
+            "quantity": 3.99,
+            "tax_amount": 98.69,
+            "total_ttc": 356.51,
+            "vat_amount": 1.39
+        },
+        {
+            "amount": 65.49,
+            "description": "visualize plug-and-play channels",
+            "index": "1",
+            "price": 381.68,
+            "quantity": 1.75,
+            "tax_amount": 28.56,
+            "total_ttc": 373.68,
+            "vat_amount": 5.7
+        },
+        {
+            "amount": 33.64,
+            "description": "orchestrate mission-critical users",
+            "index": "6",
+            "price": 312.04,
+            "quantity": 5.16,
+            "tax_amount": 99.79,
+            "total_ttc": 368.44,
+            "vat_amount": 0.73
+        },
+        {
+            "amount": 278.97,
+            "description": "reinvent value-added methodologies",
+            "index": "2",
+            "price": 285.22,
+            "quantity": 6.75,
+            "tax_amount": 90.35,
+            "total_ttc": 251.0,
+            "vat_amount": 0.31
+        },
+        {
+            "amount": 452.11,
+            "description": "scale seamless convergence",
+            "index": "8",
+            "price": 165.82,
+            "quantity": 1.39,
+            "tax_amount": 37.88,
+            "total_ttc": 308.39,
+            "vat_amount": 12.37
+        }
+    ],
+    "seller": {
+        "name": "Tyler Welch"
+    },
+    "supplier": {
+        "address": "212 Charles Center Suite 181 Dawnview, FL 62112",
+        "name": "Arthur Sexton"
+    },
+    "tax": {
+        "amount_excluding_tax": 87.73,
+        "amount_including_tax": 72.13,
+        "tax_amount": 18.42,
+        "total_ht": 400.23,
+        "total_ttc": 195.41
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "06537 Bishop Unions Lake Jasonton, KS 94542",
+        "business_no": "Xr358",
+        "id": "uR823"
+    },
+    "invoice": {
+        "date": "11.03.2019",
+        "number": "7886-8528"
+    },
+    "payment": {
+        "due_date": "23.10.2005",
+        "total": 204.79
+    },
+    "products": [
+        {
+            "amount": 342.52,
+            "description": "generate one-to-one models",
+            "quantity": 5.78,
+            "reference": "uS-750",
+            "unit_price": 88.17
+        },
+        {
+            "amount": 423.6,
+            "description": "synthesize best-of-breed applications",
+            "quantity": 5.0,
+            "reference": "SV-934",
+            "unit_price": 39.04
+        }
+    ],
+    "seller": {
+        "address": "621 Christine Hill Suite 614 South Sydney, NV 80522"
+    },
+    "tax": {
+        "base_ht": 220.19,
+        "regulations": 17.36,
+        "total_ht": 225.21,
+        "vat_amount": 176.34,
+        "vat_percentage": 22.3
+    }
+}

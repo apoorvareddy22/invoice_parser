@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "6856 Bowen Fords Suite 861 New Shannon, GU 72028",
+        "email": "cynthia08@example.com",
+        "phone": "5148281568",
+        "vat_no": "sd56182123562"
+    },
+    "invoice": {
+        "date": "24.11.2019",
+        "due_date": "23.06.2013",
+        "market_reference": 450770,
+        "notes": "aggregate e-business e-business",
+        "number": "1950-6778",
+        "reference": 770712,
+        "vat_no": "fa12303224772"
+    },
+    "payment": {
+        "net_total": 44.51,
+        "total": 228.46
+    },
+    "products": [
+        {
+            "amount": 180.18,
+            "description": "morph turn-key eyeballs",
+            "hours": 3.59,
+            "rate": 6.02
+        },
+        {
+            "amount": 299.17,
+            "description": "incentivize rich e-markets",
+            "hours": 2.83,
+            "rate": 9.81
+        }
+    ],
+    "seller": {
+        "address": "35750 Michael Radial South Joshuaside, DE 65966",
+        "email": "mcdowelljacqueline@example.org",
+        "name": "John Martin"
+    },
+    "tax": {
+        "base": 17.63,
+        "tax_amount": 25.13,
+        "total_tax": 24.45
+    }
+}

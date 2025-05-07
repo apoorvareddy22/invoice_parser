@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "PSC 3221, Box 5654 APO AE 54095",
+        "company_name": "Kirk, Quinn and Rodriguez",
+        "email": "nathan96@example.org",
+        "name": "Whitney Vega",
+        "phone": "+1-670-764-3352x25022"
+    },
+    "invoice": {
+        "date": "07.09.1997",
+        "due_date": "20.01.1998",
+        "number": "nZj11181438896"
+    },
+    "payment": {
+        "account_number": 5443655686,
+        "bank_name": "Brown, Smith and Wagner",
+        "routing_number": 177448649
+    },
+    "products": [
+        {
+            "amount": 405.03,
+            "description": "envisioneer transparent deliverables",
+            "index": "3",
+            "quantity": 7.91,
+            "unit_price": 62.76
+        },
+        {
+            "amount": 134.3,
+            "description": "mesh customized partnerships",
+            "index": "9",
+            "quantity": 6.92,
+            "unit_price": 56.11
+        },
+        {
+            "amount": 481.56,
+            "description": "empower real-time initiatives",
+            "index": "4",
+            "quantity": 7.47,
+            "unit_price": 32.99
+        }
+    ],
+    "seller": {
+        "address": "601 Zachary Tunnel Shannonborough, CT 52627",
+        "company_name": "Rodriguez-Harmon",
+        "email": "dawsonjohn@example.org"
+    }
+}

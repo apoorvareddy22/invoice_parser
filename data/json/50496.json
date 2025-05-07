@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "828 Paul Orchard Cookburgh, OK 05196",
+        "id": "Dz157"
+    },
+    "invoice": {
+        "bc_no": "oh82467",
+        "currency_code": "NAD",
+        "date": "24.10.1991",
+        "due_date": "10.05.2004",
+        "number": 938325
+    },
+    "payment": {
+        "bank_name": "Chavez, Young and Johnson",
+        "bic": "ESTOGBXYAJC",
+        "iban": "LEMC86474236565984"
+    },
+    "products": [
+        {
+            "amount": 283.72,
+            "description": "extend open-source vortals",
+            "index": "6",
+            "price": 311.55,
+            "quantity": 4.49,
+            "tax_amount": 54.74,
+            "total_ttc": 138.37,
+            "vat_amount": 1.68
+        },
+        {
+            "amount": 490.86,
+            "description": "strategize innovative info-mediaries",
+            "index": "6",
+            "price": 364.1,
+            "quantity": 9.63,
+            "tax_amount": 49.12,
+            "total_ttc": 414.15,
+            "vat_amount": 3.81
+        }
+    ],
+    "seller": {
+        "name": "Michael Gordon MD"
+    },
+    "supplier": {
+        "address": "Unit 3281 Box 3110 DPO AE 79966",
+        "name": "William Bailey"
+    },
+    "tax": {
+        "amount_excluding_tax": 79.69,
+        "amount_including_tax": 29.09,
+        "tax_amount": 15.23,
+        "total_ht": 496.11,
+        "total_ttc": 179.47
+    }
+}

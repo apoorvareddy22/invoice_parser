@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "PSC 7225, Box 5741 APO AP 89657",
+        "id": "cI431"
+    },
+    "invoice": {
+        "bc_no": "mU15229",
+        "currency_code": "XPF",
+        "date": "07.05.2021",
+        "due_date": "24.03.2019",
+        "number": 141051
+    },
+    "payment": {
+        "bank_name": "Mills-Lewis",
+        "bic": "FRPUGBMX",
+        "iban": "FLZI75328177689281"
+    },
+    "products": [
+        {
+            "amount": 322.44,
+            "description": "deploy frictionless initiatives",
+            "index": "7",
+            "price": 192.71,
+            "quantity": 5.05,
+            "tax_amount": 55.83,
+            "total_ttc": 253.16,
+            "vat_amount": 9.77
+        },
+        {
+            "amount": 325.03,
+            "description": "disintermediate 24/365 supply-chains",
+            "index": "9",
+            "price": 200.05,
+            "quantity": 1.14,
+            "tax_amount": 36.01,
+            "total_ttc": 417.56,
+            "vat_amount": 8.1
+        },
+        {
+            "amount": 250.49,
+            "description": "unleash collaborative systems",
+            "index": "3",
+            "price": 350.42,
+            "quantity": 6.05,
+            "tax_amount": 15.72,
+            "total_ttc": 297.18,
+            "vat_amount": 3.31
+        },
+        {
+            "amount": 307.97,
+            "description": "unleash seamless e-markets",
+            "index": "2",
+            "price": 495.41,
+            "quantity": 1.85,
+            "tax_amount": 76.32,
+            "total_ttc": 485.62,
+            "vat_amount": 8.78
+        },
+        {
+            "amount": 345.0,
+            "description": "leverage ubiquitous users",
+            "index": "4",
+            "price": 444.62,
+            "quantity": 1.84,
+            "tax_amount": 13.5,
+            "total_ttc": 146.13,
+            "vat_amount": 1.26
+        }
+    ],
+    "seller": {
+        "name": "Jeffrey Greene"
+    },
+    "supplier": {
+        "address": "67746 Allen Fort Apt. 223 East Carlborough, MP 63896",
+        "name": "Michael Kramer"
+    },
+    "tax": {
+        "amount_excluding_tax": 85.83,
+        "amount_including_tax": 123.62,
+        "tax_amount": 25.25,
+        "total_ht": 337.7,
+        "total_ttc": 444.02
+    }
+}

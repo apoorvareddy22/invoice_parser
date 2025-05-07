@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "679 Howard Manor Apt. 127 Lisaborough, AR 24094",
+        "company_name": "Jones, Holmes and Cox",
+        "country": "Romania",
+        "name": "Roger Vaughn"
+    },
+    "invoice": {
+        "date": "26.03.2008",
+        "number": 480399
+    },
+    "payment": {
+        "discount_amount": 38.73,
+        "discount_percentage": 17.36,
+        "due": 185.46,
+        "sub_total": 48.31,
+        "total": 250.55
+    },
+    "products": [
+        {
+            "description": "drive cutting-edge schemas",
+            "index": "4",
+            "quantity": 9.86,
+            "total_price": 887.58,
+            "unit_price": 42.1
+        },
+        {
+            "description": "unleash proactive schemas",
+            "index": "2",
+            "quantity": 8.68,
+            "total_price": 109.7,
+            "unit_price": 50.57
+        },
+        {
+            "description": "synthesize ubiquitous users",
+            "index": "8",
+            "quantity": 3.07,
+            "total_price": 371.2,
+            "unit_price": 81.13
+        }
+    ],
+    "seller": {
+        "address": "908 Joel Junctions West Nancystad, VA 41089",
+        "company_name": "Harris PLC",
+        "vat_no": "Se04643419880"
+    }
+}

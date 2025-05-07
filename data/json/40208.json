@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "065 Smith Heights East Zacharyton, SC 58159"
+    },
+    "invoice": {
+        "bc_no": "JR10816",
+        "date": "07.12.1996",
+        "maturity_date": "12.12.2008",
+        "number": 965483
+    },
+    "products": [
+        {
+            "amount": 320.78,
+            "description": "incentivize clicks-and-mortar models",
+            "quantity": 3.62,
+            "unit_price": 64.2,
+            "vat_amount": 14.53
+        }
+    ],
+    "seller": {
+        "address": "73330 Barrera Lodge Apt. 547 Grayview, PW 56710"
+    },
+    "tax": {
+        "amount_excluding_tax": 141.96,
+        "amount_including_tax": 127.59,
+        "tax_amount": 25.33
+    }
+}

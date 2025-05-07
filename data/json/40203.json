@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "032 Mark Tunnel Suite 161 West Christopher, PW 13112"
+    },
+    "invoice": {
+        "bc_no": "DH23432",
+        "date": "12.09.2011",
+        "maturity_date": "13.10.2019",
+        "number": 605844
+    },
+    "products": [
+        {
+            "amount": 18.37,
+            "description": "enhance frictionless communities",
+            "quantity": 3.96,
+            "unit_price": 12.35,
+            "vat_amount": 5.19
+        }
+    ],
+    "seller": {
+        "address": "93476 Gonzalez Creek Lake Georgeborough, NM 21995"
+    },
+    "tax": {
+        "amount_excluding_tax": 47.2,
+        "amount_including_tax": 89.77,
+        "tax_amount": 22.06
+    }
+}

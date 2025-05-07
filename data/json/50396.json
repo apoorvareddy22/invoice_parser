@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "85381 Traci Path Apt. 478 Gilmoretown, ME 96578",
+        "id": "iO282"
+    },
+    "invoice": {
+        "bc_no": "ZZ90863",
+        "currency_code": "AZN",
+        "date": "17.01.2013",
+        "due_date": "18.07.2014",
+        "number": 376765
+    },
+    "payment": {
+        "bank_name": "Jacobs Group",
+        "bic": "NYAHGB7H",
+        "iban": "GARY95053179393659"
+    },
+    "products": [
+        {
+            "amount": 52.58,
+            "description": "orchestrate viral functionalities",
+            "index": "2",
+            "price": 55.15,
+            "quantity": 7.25,
+            "tax_amount": 69.05,
+            "total_ttc": 321.65,
+            "vat_amount": 6.97
+        },
+        {
+            "amount": 25.0,
+            "description": "facilitate integrated communities",
+            "index": "2",
+            "price": 59.2,
+            "quantity": 9.46,
+            "tax_amount": 46.32,
+            "total_ttc": 455.25,
+            "vat_amount": 6.88
+        }
+    ],
+    "seller": {
+        "name": "Michael Garcia"
+    },
+    "supplier": {
+        "address": "934 Michael Tunnel Apt. 183 West Robert, DC 85661",
+        "name": "Lori Watts"
+    },
+    "tax": {
+        "amount_excluding_tax": 191.56,
+        "amount_including_tax": 84.65,
+        "tax_amount": 23.17,
+        "total_ht": 393.54,
+        "total_ttc": 112.5
+    }
+}

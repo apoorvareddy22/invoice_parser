@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "53618 Johnathan Meadows Patriciahaven, DE 79454",
+        "id": "sQ008"
+    },
+    "invoice": {
+        "bc_no": "XO08047",
+        "currency_code": "PKR",
+        "date": "19.06.2019",
+        "due_date": "27.10.1994",
+        "number": 194684
+    },
+    "payment": {
+        "bank_name": "Jimenez, Olson and Lambert",
+        "bic": "IRVWGBK9",
+        "iban": "KJQZ61654507852386"
+    },
+    "products": [
+        {
+            "amount": 115.35,
+            "description": "transition turn-key portals",
+            "index": "5",
+            "price": 46.38,
+            "quantity": 1.47,
+            "tax_amount": 28.69,
+            "total_ttc": 332.9,
+            "vat_amount": 1.85
+        },
+        {
+            "amount": 295.74,
+            "description": "visualize front-end architectures",
+            "index": "6",
+            "price": 397.68,
+            "quantity": 8.72,
+            "tax_amount": 42.43,
+            "total_ttc": 147.06,
+            "vat_amount": 6.41
+        }
+    ],
+    "seller": {
+        "name": "Robert Glass"
+    },
+    "supplier": {
+        "address": "807 Byrd Summit Apt. 067 Stevenmouth, CA 89798",
+        "name": "Dr. Erik Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 176.23,
+        "amount_including_tax": 133.32,
+        "tax_amount": 12.18,
+        "total_ht": 259.17,
+        "total_ttc": 206.26
+    }
+}

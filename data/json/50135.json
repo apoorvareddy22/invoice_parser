@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "Unit 8153 Box 3379 DPO AA 46458",
+        "id": "jo430"
+    },
+    "invoice": {
+        "bc_no": "Dy89815",
+        "currency_code": "CUP",
+        "date": "09.03.2015",
+        "due_date": "12.12.2009",
+        "number": 855245
+    },
+    "payment": {
+        "bank_name": "Livingston-Pratt",
+        "bic": "EOCLGBYRGZL",
+        "iban": "JQAH92338164501712"
+    },
+    "products": [
+        {
+            "amount": 359.7,
+            "description": "innovate holistic e-markets",
+            "index": "10",
+            "price": 421.79,
+            "quantity": 2.63,
+            "tax_amount": 43.07,
+            "total_ttc": 261.13,
+            "vat_amount": 0.03
+        },
+        {
+            "amount": 303.25,
+            "description": "revolutionize synergistic systems",
+            "index": "1",
+            "price": 61.32,
+            "quantity": 9.11,
+            "tax_amount": 94.21,
+            "total_ttc": 430.28,
+            "vat_amount": 0.64
+        },
+        {
+            "amount": 96.16,
+            "description": "harness out-of-the-box vortals",
+            "index": "2",
+            "price": 357.41,
+            "quantity": 1.22,
+            "tax_amount": 20.48,
+            "total_ttc": 370.73,
+            "vat_amount": 3.27
+        },
+        {
+            "amount": 69.28,
+            "description": "redefine dot-com web-readiness",
+            "index": "5",
+            "price": 334.63,
+            "quantity": 7.49,
+            "tax_amount": 92.07,
+            "total_ttc": 370.65,
+            "vat_amount": 11.58
+        },
+        {
+            "amount": 493.39,
+            "description": "aggregate wireless paradigms",
+            "index": "5",
+            "price": 335.46,
+            "quantity": 2.68,
+            "tax_amount": 30.93,
+            "total_ttc": 467.27,
+            "vat_amount": 0.54
+        },
+        {
+            "amount": 62.04,
+            "description": "e-enable world-class action-items",
+            "index": "8",
+            "price": 31.72,
+            "quantity": 1.35,
+            "tax_amount": 68.67,
+            "total_ttc": 148.65,
+            "vat_amount": 3.19
+        }
+    ],
+    "seller": {
+        "name": "Deborah Ortega"
+    },
+    "supplier": {
+        "address": "PSC 8628, Box 6577 APO AA 18627",
+        "name": "Kimberly Sanders"
+    },
+    "tax": {
+        "amount_excluding_tax": 146.91,
+        "amount_including_tax": 134.09,
+        "tax_amount": 16.91,
+        "total_ht": 376.56,
+        "total_ttc": 468.32
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "731 Michael Stravenue Apt. 461 South Stacy, VT 56267",
+        "email": "nunezzachary@example.org",
+        "phone": "5694091729",
+        "vat_no": "Fy28644453911"
+    },
+    "invoice": {
+        "date": "02.01.1997",
+        "due_date": "01.12.2020",
+        "market_reference": 506074,
+        "notes": "synthesize world-class initiatives",
+        "number": "8120-1879",
+        "reference": 533921,
+        "vat_no": "nY30801230117"
+    },
+    "payment": {
+        "net_total": 196.04,
+        "total": 870.86
+    },
+    "products": [
+        {
+            "amount": 11.47,
+            "description": "iterate virtual models",
+            "hours": 1.54,
+            "rate": 3.65
+        },
+        {
+            "amount": 354.88,
+            "description": "engage world-class networks",
+            "hours": 6.07,
+            "rate": 3.84
+        },
+        {
+            "amount": 229.96,
+            "description": "reinvent transparent platforms",
+            "hours": 4.86,
+            "rate": 9.87
+        },
+        {
+            "amount": 347.62,
+            "description": "extend best-of-breed communities",
+            "hours": 6.1,
+            "rate": 5.66
+        },
+        {
+            "amount": 161.07,
+            "description": "re-contextualize efficient interfaces",
+            "hours": 4.58,
+            "rate": 4.4
+        },
+        {
+            "amount": 148.09,
+            "description": "enable open-source deliverables",
+            "hours": 1.4,
+            "rate": 3.52
+        }
+    ],
+    "seller": {
+        "address": "65468 Palmer Streets Suite 077 Amandaport, RI 51282",
+        "email": "martincynthia@example.com",
+        "name": "Ryan Novak"
+    },
+    "tax": {
+        "base": 29.51,
+        "tax_amount": 15.95,
+        "total_tax": 10.47
+    }
+}

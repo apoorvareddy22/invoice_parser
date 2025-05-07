@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "Unit 2423 Box 7045 DPO AE 90667",
+        "id": "bQ613"
+    },
+    "invoice": {
+        "bc_no": "aS67325",
+        "currency_code": "BYR",
+        "date": "14.02.2018",
+        "due_date": "31.12.1995",
+        "number": 357091
+    },
+    "payment": {
+        "bank_name": "Diaz, Stephens and Kim",
+        "bic": "VVKAGB9ONW8",
+        "iban": "EMKE67531855466301"
+    },
+    "products": [
+        {
+            "amount": 244.17,
+            "description": "harness collaborative action-items",
+            "index": "7",
+            "price": 270.87,
+            "quantity": 6.22,
+            "tax_amount": 94.18,
+            "total_ttc": 154.88,
+            "vat_amount": 12.37
+        }
+    ],
+    "seller": {
+        "name": "Rodney Fletcher"
+    },
+    "supplier": {
+        "address": "791 Thompson Shores Apt. 198 Bradfordtown, NC 12871",
+        "name": "Cynthia Rush"
+    },
+    "tax": {
+        "amount_excluding_tax": 19.62,
+        "amount_including_tax": 195.61,
+        "tax_amount": 10.58,
+        "total_ht": 234.0,
+        "total_ttc": 414.05
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "045 Curtis Tunnel Suite 560 South David, AS 26259",
+        "id": "it341"
+    },
+    "invoice": {
+        "bc_no": "Zi81860",
+        "currency_code": "LYD",
+        "date": "19.02.2001",
+        "due_date": "27.04.1999",
+        "number": 783878
+    },
+    "payment": {
+        "bank_name": "Williamson-White",
+        "bic": "BPTBGBLQ",
+        "iban": "NCSB86771686320414"
+    },
+    "products": [
+        {
+            "amount": 65.19,
+            "description": "empower global e-services",
+            "index": "5",
+            "price": 479.05,
+            "quantity": 6.33,
+            "tax_amount": 16.74,
+            "total_ttc": 216.59,
+            "vat_amount": 6.01
+        },
+        {
+            "amount": 313.83,
+            "description": "unleash turn-key networks",
+            "index": "3",
+            "price": 458.76,
+            "quantity": 1.72,
+            "tax_amount": 56.71,
+            "total_ttc": 396.63,
+            "vat_amount": 0.65
+        },
+        {
+            "amount": 179.17,
+            "description": "syndicate plug-and-play methodologies",
+            "index": "10",
+            "price": 289.87,
+            "quantity": 5.11,
+            "tax_amount": 80.25,
+            "total_ttc": 462.81,
+            "vat_amount": 6.18
+        },
+        {
+            "amount": 219.83,
+            "description": "seize cross-media metrics",
+            "index": "7",
+            "price": 105.27,
+            "quantity": 4.52,
+            "tax_amount": 78.03,
+            "total_ttc": 351.45,
+            "vat_amount": 8.08
+        }
+    ],
+    "seller": {
+        "name": "Roy West"
+    },
+    "supplier": {
+        "address": "0497 Prince Locks Apt. 422 North Mark, IL 37456",
+        "name": "Ashley Mills"
+    },
+    "tax": {
+        "amount_excluding_tax": 104.26,
+        "amount_including_tax": 199.36,
+        "tax_amount": 15.87,
+        "total_ht": 366.01,
+        "total_ttc": 431.71
+    }
+}

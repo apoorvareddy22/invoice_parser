@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "2868 Dickson Rue West Helen, CT 45405",
+        "email": "marie49@example.org",
+        "phone": "877.568.8492",
+        "vat_no": "Sq98309454493"
+    },
+    "invoice": {
+        "date": "14.06.2002",
+        "due_date": "25.02.1994",
+        "market_reference": 374438,
+        "notes": "expedite turn-key models",
+        "number": "3972-2582",
+        "reference": 863353,
+        "vat_no": "zc19729779119"
+    },
+    "payment": {
+        "net_total": 182.81,
+        "total": 446.71
+    },
+    "products": [
+        {
+            "amount": 234.84,
+            "description": "target best-of-breed web services",
+            "hours": 3.47,
+            "rate": 4.24
+        },
+        {
+            "amount": 79.61,
+            "description": "integrate clicks-and-mortar experiences",
+            "hours": 1.01,
+            "rate": 1.68
+        },
+        {
+            "amount": 198.22,
+            "description": "synergize bricks-and-clicks markets",
+            "hours": 6.33,
+            "rate": 5.89
+        },
+        {
+            "amount": 134.08,
+            "description": "redefine intuitive e-commerce",
+            "hours": 2.46,
+            "rate": 1.14
+        },
+        {
+            "amount": 214.42,
+            "description": "streamline B2C convergence",
+            "hours": 1.69,
+            "rate": 4.27
+        },
+        {
+            "amount": 324.27,
+            "description": "visualize magnetic vortals",
+            "hours": 3.92,
+            "rate": 9.45
+        }
+    ],
+    "seller": {
+        "address": "081 Goodwin Walk South Samuelbury, IN 14467",
+        "email": "maria68@example.com",
+        "name": "Suzanne Hawkins"
+    },
+    "tax": {
+        "base": 26.18,
+        "tax_amount": 14.39,
+        "total_tax": 23.08
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "15067 Juarez Avenue Suite 726 Lake Denise, MT 05560",
+        "email": "ericamercado@example.org",
+        "phone": "202-656-7338x1591",
+        "vat_no": "kF07458715761"
+    },
+    "invoice": {
+        "date": "03.03.1999",
+        "due_date": "22.04.1999",
+        "market_reference": 223649,
+        "notes": "incubate interactive e-markets",
+        "number": "3067-0238",
+        "reference": 504349,
+        "vat_no": "Qd41547127567"
+    },
+    "payment": {
+        "net_total": 29.95,
+        "total": 511.86
+    },
+    "products": [
+        {
+            "amount": 483.72,
+            "description": "deploy rich ROI",
+            "hours": 1.38,
+            "rate": 6.38
+        },
+        {
+            "amount": 308.4,
+            "description": "envisioneer user-centric methodologies",
+            "hours": 8.49,
+            "rate": 6.58
+        },
+        {
+            "amount": 366.19,
+            "description": "strategize vertical infrastructures",
+            "hours": 7.14,
+            "rate": 2.89
+        },
+        {
+            "amount": 441.08,
+            "description": "iterate plug-and-play platforms",
+            "hours": 3.22,
+            "rate": 7.8
+        },
+        {
+            "amount": 93.73,
+            "description": "benchmark global users",
+            "hours": 4.24,
+            "rate": 5.75
+        },
+        {
+            "amount": 248.87,
+            "description": "re-intermediate customized methodologies",
+            "hours": 2.55,
+            "rate": 9.8
+        },
+        {
+            "amount": 247.23,
+            "description": "benchmark cross-platform ROI",
+            "hours": 8.34,
+            "rate": 8.63
+        }
+    ],
+    "seller": {
+        "address": "63942 Pineda Haven Suite 409 East Austinton, TN 55764",
+        "email": "hmartinez@example.com",
+        "name": "Donald Hampton"
+    },
+    "tax": {
+        "base": 12.91,
+        "tax_amount": 25.36,
+        "total_tax": 18.1
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "183 Julie Plaza Apt. 281 Melindahaven, DE 04592",
+        "company_name": "Ritter, Young and Frey",
+        "country": "Grenada",
+        "name": "James Mccoy"
+    },
+    "invoice": {
+        "date": "25.02.1991",
+        "number": 267691
+    },
+    "payment": {
+        "discount_amount": 41.25,
+        "discount_percentage": 12.95,
+        "due": 77.38,
+        "sub_total": 166.75,
+        "total": 682.79
+    },
+    "products": [
+        {
+            "description": "innovate best-of-breed niches",
+            "index": "3",
+            "quantity": 9.54,
+            "total_price": 277.63,
+            "unit_price": 28.42
+        },
+        {
+            "description": "architect dynamic infrastructures",
+            "index": "2",
+            "quantity": 8.24,
+            "total_price": 561.85,
+            "unit_price": 56.93
+        }
+    ],
+    "seller": {
+        "address": "77598 Solis Views Suite 836 Lindaville, ID 45994",
+        "company_name": "Joseph Inc",
+        "vat_no": "yw94772002774"
+    }
+}

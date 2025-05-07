@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "1135 Calvin Radial Josephtown, DE 14012",
+        "id": "hB173"
+    },
+    "invoice": {
+        "bc_no": "YG82176",
+        "currency_code": "STD",
+        "date": "16.01.2004",
+        "due_date": "31.03.2015",
+        "number": 689250
+    },
+    "payment": {
+        "bank_name": "Hull, Frederick and Knight",
+        "bic": "VLIZGB4JS1L",
+        "iban": "LGDR21848965948892"
+    },
+    "products": [
+        {
+            "amount": 158.42,
+            "description": "maximize open-source ROI",
+            "index": "3",
+            "price": 88.41,
+            "quantity": 9.26,
+            "tax_amount": 31.25,
+            "total_ttc": 252.13,
+            "vat_amount": 15.77
+        },
+        {
+            "amount": 354.23,
+            "description": "embrace collaborative deliverables",
+            "index": "5",
+            "price": 114.53,
+            "quantity": 9.54,
+            "tax_amount": 94.69,
+            "total_ttc": 486.7,
+            "vat_amount": 0.77
+        },
+        {
+            "amount": 275.54,
+            "description": "facilitate back-end deliverables",
+            "index": "9",
+            "price": 215.65,
+            "quantity": 6.55,
+            "tax_amount": 65.6,
+            "total_ttc": 252.92,
+            "vat_amount": 2.44
+        },
+        {
+            "amount": 201.43,
+            "description": "leverage efficient users",
+            "index": "4",
+            "price": 23.72,
+            "quantity": 1.35,
+            "tax_amount": 29.24,
+            "total_ttc": 407.71,
+            "vat_amount": 2.82
+        }
+    ],
+    "seller": {
+        "name": "Erika Reeves"
+    },
+    "supplier": {
+        "address": "10964 Kyle Rue Suite 365 Lake Victoriaton, ME 82688",
+        "name": "Jason Jennings"
+    },
+    "tax": {
+        "amount_excluding_tax": 146.44,
+        "amount_including_tax": 28.35,
+        "tax_amount": 10.9,
+        "total_ht": 116.85,
+        "total_ttc": 365.23
+    }
+}

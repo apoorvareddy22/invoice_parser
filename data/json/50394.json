@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "790 Robinson Rapids Apt. 360 West Michael, AR 39046",
+        "id": "Tc202"
+    },
+    "invoice": {
+        "bc_no": "qn27694",
+        "currency_code": "ERN",
+        "date": "03.12.1996",
+        "due_date": "19.10.1992",
+        "number": 150001
+    },
+    "payment": {
+        "bank_name": "Brown-Sandoval",
+        "bic": "VDZVGBE5",
+        "iban": "WJZS40503544861146"
+    },
+    "products": [
+        {
+            "amount": 348.41,
+            "description": "empower strategic methodologies",
+            "index": "1",
+            "price": 187.92,
+            "quantity": 4.95,
+            "tax_amount": 57.34,
+            "total_ttc": 118.41,
+            "vat_amount": 2.56
+        },
+        {
+            "amount": 451.24,
+            "description": "incentivize B2B schemas",
+            "index": "5",
+            "price": 285.63,
+            "quantity": 2.86,
+            "tax_amount": 21.88,
+            "total_ttc": 114.4,
+            "vat_amount": 1.29
+        },
+        {
+            "amount": 282.82,
+            "description": "repurpose real-time systems",
+            "index": "10",
+            "price": 364.29,
+            "quantity": 7.85,
+            "tax_amount": 21.37,
+            "total_ttc": 180.5,
+            "vat_amount": 2.94
+        },
+        {
+            "amount": 285.02,
+            "description": "re-intermediate synergistic mindshare",
+            "index": "4",
+            "price": 463.9,
+            "quantity": 8.72,
+            "tax_amount": 75.41,
+            "total_ttc": 342.61,
+            "vat_amount": 8.26
+        },
+        {
+            "amount": 285.74,
+            "description": "implement ubiquitous partnerships",
+            "index": "4",
+            "price": 293.83,
+            "quantity": 7.65,
+            "tax_amount": 89.51,
+            "total_ttc": 242.04,
+            "vat_amount": 6.14
+        },
+        {
+            "amount": 383.26,
+            "description": "integrate B2C e-commerce",
+            "index": "9",
+            "price": 346.05,
+            "quantity": 6.9,
+            "tax_amount": 46.0,
+            "total_ttc": 428.96,
+            "vat_amount": 13.39
+        },
+        {
+            "amount": 206.35,
+            "description": "exploit open-source info-mediaries",
+            "index": "4",
+            "price": 56.85,
+            "quantity": 9.54,
+            "tax_amount": 33.2,
+            "total_ttc": 417.74,
+            "vat_amount": 10.3
+        }
+    ],
+    "seller": {
+        "name": "Mr. Bryan Mccarty"
+    },
+    "supplier": {
+        "address": "9323 Crosby Forge Reidborough, AS 36720",
+        "name": "John Vincent"
+    },
+    "tax": {
+        "amount_excluding_tax": 61.96,
+        "amount_including_tax": 70.69,
+        "tax_amount": 18.37,
+        "total_ht": 317.28,
+        "total_ttc": 249.0
+    }
+}

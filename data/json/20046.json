@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "PSC 3696, Box 2202 APO AE 01584",
+        "company_name": "Perry, Moore and Cole",
+        "email": "cynthiabrown@example.com",
+        "name": "Kenneth Walker",
+        "phone": "(888)591-2813x431"
+    },
+    "invoice": {
+        "date": "12.01.2010",
+        "due_date": "13.04.2004",
+        "number": "mSH73449171600"
+    },
+    "payment": {
+        "account_number": 3610412990,
+        "bank_name": "Clarke PLC",
+        "routing_number": 914161323
+    },
+    "products": [
+        {
+            "amount": 146.59,
+            "description": "engineer customized e-commerce",
+            "index": "7",
+            "quantity": 9.11,
+            "unit_price": 20.53
+        },
+        {
+            "amount": 150.35,
+            "description": "repurpose global functionalities",
+            "index": "6",
+            "quantity": 8.88,
+            "unit_price": 33.6
+        },
+        {
+            "amount": 178.36,
+            "description": "mesh mission-critical functionalities",
+            "index": "3",
+            "quantity": 8.09,
+            "unit_price": 36.01
+        }
+    ],
+    "seller": {
+        "address": "3604 Joshua Village New Amyton, MO 25267",
+        "company_name": "Bell-Pierce",
+        "email": "youngheather@example.com"
+    }
+}

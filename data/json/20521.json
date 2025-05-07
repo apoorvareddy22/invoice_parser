@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "5223 Norman Corners Suite 467 Lake Pennymouth, MP 51832",
+        "company_name": "Lowe, Clark and Williams",
+        "email": "rnorris@example.net",
+        "name": "Natasha Pena",
+        "phone": "+1-960-581-8730x380"
+    },
+    "invoice": {
+        "date": "26.10.2006",
+        "due_date": "28.10.1993",
+        "number": "PAD32196067946"
+    },
+    "payment": {
+        "account_number": 5678381735,
+        "bank_name": "Rangel, Ball and Villegas",
+        "routing_number": 245315497
+    },
+    "products": [
+        {
+            "amount": 340.82,
+            "description": "redefine plug-and-play methodologies",
+            "index": "6",
+            "quantity": 3.54,
+            "unit_price": 61.62
+        },
+        {
+            "amount": 57.01,
+            "description": "scale proactive web services",
+            "index": "4",
+            "quantity": 6.53,
+            "unit_price": 46.03
+        }
+    ],
+    "seller": {
+        "address": "881 Cole Forest Suite 585 South Melindaton, KY 34337",
+        "company_name": "Adkins, Bryant and Dyer",
+        "email": "gcruz@example.net"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "157 James Fords South Jeffery, OR 94747",
+        "company_name": "Paul, Rhodes and Frye",
+        "email": "uwhite@example.org",
+        "name": "Heather Boyd",
+        "phone": "(899)996-7231"
+    },
+    "invoice": {
+        "date": "27.07.2015",
+        "due_date": "27.05.2022",
+        "number": "fTg46373385447"
+    },
+    "payment": {
+        "account_number": 5463119143,
+        "bank_name": "Carter-Keller",
+        "routing_number": 333043298
+    },
+    "products": [
+        {
+            "amount": 362.36,
+            "description": "revolutionize user-centric networks",
+            "index": "2",
+            "quantity": 5.73,
+            "unit_price": 42.57
+        },
+        {
+            "amount": 69.67,
+            "description": "unleash magnetic infrastructures",
+            "index": "4",
+            "quantity": 5.55,
+            "unit_price": 19.24
+        }
+    ],
+    "seller": {
+        "address": "5249 Drew Corner Apt. 189 Hurstside, VT 01097",
+        "company_name": "Salinas-Tapia",
+        "email": "hunterrichard@example.org"
+    }
+}

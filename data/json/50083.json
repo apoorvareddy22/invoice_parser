@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "850 Clark Courts Suite 342 Christopherburgh, DE 30417",
+        "id": "VX267"
+    },
+    "invoice": {
+        "bc_no": "bS33332",
+        "currency_code": "BZD",
+        "date": "21.10.2000",
+        "due_date": "21.09.2012",
+        "number": 734657
+    },
+    "payment": {
+        "bank_name": "Brooks-Valencia",
+        "bic": "UQSMGBTLYZW",
+        "iban": "UKLT04912537144345"
+    },
+    "products": [
+        {
+            "amount": 231.68,
+            "description": "e-enable open-source portals",
+            "index": "3",
+            "price": 406.77,
+            "quantity": 2.45,
+            "tax_amount": 54.64,
+            "total_ttc": 390.01,
+            "vat_amount": 2.27
+        }
+    ],
+    "seller": {
+        "name": "Paul Mcpherson"
+    },
+    "supplier": {
+        "address": "854 Thomas Gateway South David, WV 47969",
+        "name": "Brent Howard"
+    },
+    "tax": {
+        "amount_excluding_tax": 140.06,
+        "amount_including_tax": 164.59,
+        "tax_amount": 10.26,
+        "total_ht": 372.42,
+        "total_ttc": 152.17
+    }
+}

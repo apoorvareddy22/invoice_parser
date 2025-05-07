@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "47831 Oscar Square Apt. 918 Gravesville, PR 23535",
+        "email": "riley65@example.com",
+        "phone": "(903)293-6702x822",
+        "vat_no": "tz45485075199"
+    },
+    "invoice": {
+        "date": "15.02.1990",
+        "due_date": "22.09.2022",
+        "market_reference": 124778,
+        "notes": "incubate dot-com e-services",
+        "number": "3057-7077",
+        "reference": 755283,
+        "vat_no": "mm88073893813"
+    },
+    "payment": {
+        "net_total": 71.92,
+        "total": 768.04
+    },
+    "products": [
+        {
+            "amount": 491.86,
+            "description": "harness best-of-breed supply-chains",
+            "hours": 7.95,
+            "rate": 2.43
+        },
+        {
+            "amount": 335.88,
+            "description": "scale seamless applications",
+            "hours": 7.45,
+            "rate": 2.7
+        },
+        {
+            "amount": 446.43,
+            "description": "harness clicks-and-mortar models",
+            "hours": 2.44,
+            "rate": 3.02
+        }
+    ],
+    "seller": {
+        "address": "0476 Sawyer Inlet Salazarfurt, VT 30251",
+        "email": "michael95@example.com",
+        "name": "Seth Smith"
+    },
+    "tax": {
+        "base": 28.94,
+        "tax_amount": 14.07,
+        "total_tax": 23.41
+    }
+}

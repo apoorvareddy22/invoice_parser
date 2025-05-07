@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "8640 Rose Shores Apt. 561 Lake Nicholasborough, IL 85253",
+        "id": "FM941"
+    },
+    "invoice": {
+        "bc_no": "hi30545",
+        "currency_code": "CNY",
+        "date": "16.11.1996",
+        "due_date": "20.04.2009",
+        "number": 539529
+    },
+    "payment": {
+        "bank_name": "Mason and Sons",
+        "bic": "TNOHGB384Y6",
+        "iban": "IHVX47275806012301"
+    },
+    "products": [
+        {
+            "amount": 42.75,
+            "description": "leverage out-of-the-box partnerships",
+            "index": "7",
+            "price": 231.58,
+            "quantity": 6.51,
+            "tax_amount": 71.92,
+            "total_ttc": 325.73,
+            "vat_amount": 1.97
+        },
+        {
+            "amount": 302.74,
+            "description": "matrix robust applications",
+            "index": "1",
+            "price": 138.65,
+            "quantity": 8.52,
+            "tax_amount": 22.27,
+            "total_ttc": 396.69,
+            "vat_amount": 5.36
+        },
+        {
+            "amount": 106.77,
+            "description": "scale rich mindshare",
+            "index": "2",
+            "price": 56.42,
+            "quantity": 9.5,
+            "tax_amount": 12.24,
+            "total_ttc": 319.92,
+            "vat_amount": 17.58
+        },
+        {
+            "amount": 328.55,
+            "description": "evolve real-time synergies",
+            "index": "6",
+            "price": 91.86,
+            "quantity": 2.91,
+            "tax_amount": 53.3,
+            "total_ttc": 273.41,
+            "vat_amount": 8.45
+        },
+        {
+            "amount": 381.74,
+            "description": "leverage e-business markets",
+            "index": "2",
+            "price": 258.69,
+            "quantity": 3.06,
+            "tax_amount": 59.54,
+            "total_ttc": 391.07,
+            "vat_amount": 1.55
+        },
+        {
+            "amount": 288.11,
+            "description": "facilitate interactive e-markets",
+            "index": "1",
+            "price": 148.85,
+            "quantity": 8.35,
+            "tax_amount": 76.74,
+            "total_ttc": 492.52,
+            "vat_amount": 2.97
+        }
+    ],
+    "seller": {
+        "name": "William Miller"
+    },
+    "supplier": {
+        "address": "3973 Carlson Shoals Gilbertberg, MN 66445",
+        "name": "Tiffany Garcia"
+    },
+    "tax": {
+        "amount_excluding_tax": 116.76,
+        "amount_including_tax": 67.81,
+        "tax_amount": 24.67,
+        "total_ht": 245.15,
+        "total_ttc": 325.11
+    }
+}

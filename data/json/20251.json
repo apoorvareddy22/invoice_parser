@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "25502 Donna Mountains Millerbury, ID 82434",
+        "company_name": "Jennings, Bowen and Andrews",
+        "email": "pgaines@example.org",
+        "name": "April Wright",
+        "phone": "521.409.9816x570"
+    },
+    "invoice": {
+        "date": "16.03.1999",
+        "due_date": "02.07.2002",
+        "number": "JPs91817186996"
+    },
+    "payment": {
+        "account_number": 1488460319,
+        "bank_name": "Jones Ltd",
+        "routing_number": 411081900
+    },
+    "products": [
+        {
+            "amount": 427.91,
+            "description": "strategize strategic networks",
+            "index": "7",
+            "quantity": 4.36,
+            "unit_price": 72.34
+        }
+    ],
+    "seller": {
+        "address": "PSC 6208, Box 8067 APO AP 07737",
+        "company_name": "Fritz-Phillips",
+        "email": "timothy25@example.net"
+    }
+}

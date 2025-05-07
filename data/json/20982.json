@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "Unit 1456 Box 5473 DPO AA 11858",
+        "company_name": "Farrell Group",
+        "email": "watkinsjoseph@example.org",
+        "name": "Sandra Smith",
+        "phone": "377-221-2239x8131"
+    },
+    "invoice": {
+        "date": "27.07.2003",
+        "due_date": "17.10.2018",
+        "number": "OCx02640306059"
+    },
+    "payment": {
+        "account_number": 1382555729,
+        "bank_name": "Jones-Crawford",
+        "routing_number": 660641296
+    },
+    "products": [
+        {
+            "amount": 472.48,
+            "description": "disintermediate global supply-chains",
+            "index": "3",
+            "quantity": 9.82,
+            "unit_price": 45.27
+        },
+        {
+            "amount": 418.02,
+            "description": "target sticky e-services",
+            "index": "1",
+            "quantity": 3.63,
+            "unit_price": 73.75
+        },
+        {
+            "amount": 89.33,
+            "description": "e-enable visionary synergies",
+            "index": "1",
+            "quantity": 1.37,
+            "unit_price": 14.62
+        },
+        {
+            "amount": 37.13,
+            "description": "incubate e-business functionalities",
+            "index": "1",
+            "quantity": 5.56,
+            "unit_price": 72.26
+        },
+        {
+            "amount": 262.77,
+            "description": "incubate scalable solutions",
+            "index": "6",
+            "quantity": 9.33,
+            "unit_price": 65.94
+        },
+        {
+            "amount": 441.88,
+            "description": "deploy cross-platform architectures",
+            "index": "1",
+            "quantity": 4.29,
+            "unit_price": 33.92
+        }
+    ],
+    "seller": {
+        "address": "023 Paula Forest South Mary, AK 66932",
+        "company_name": "Rivera-Stokes",
+        "email": "mark09@example.net"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "00723 Wilson Lights Suite 647 Rebeccabury, OH 97998",
+        "id": "Oz415"
+    },
+    "invoice": {
+        "bc_no": "pR18513",
+        "currency_code": "SPL",
+        "date": "10.02.2021",
+        "due_date": "29.09.2020",
+        "number": 988896
+    },
+    "payment": {
+        "bank_name": "Wright and Sons",
+        "bic": "BJJBGBNPQN7",
+        "iban": "VQKJ05102540229002"
+    },
+    "products": [
+        {
+            "amount": 114.63,
+            "description": "scale enterprise markets",
+            "index": "9",
+            "price": 462.37,
+            "quantity": 1.86,
+            "tax_amount": 10.34,
+            "total_ttc": 115.44,
+            "vat_amount": 4.95
+        },
+        {
+            "amount": 242.54,
+            "description": "generate plug-and-play web services",
+            "index": "2",
+            "price": 185.92,
+            "quantity": 1.56,
+            "tax_amount": 48.45,
+            "total_ttc": 336.58,
+            "vat_amount": 0.6
+        },
+        {
+            "amount": 266.37,
+            "description": "evolve B2B partnerships",
+            "index": "2",
+            "price": 224.45,
+            "quantity": 3.24,
+            "tax_amount": 82.19,
+            "total_ttc": 210.11,
+            "vat_amount": 13.82
+        },
+        {
+            "amount": 122.42,
+            "description": "productize magnetic systems",
+            "index": "7",
+            "price": 205.86,
+            "quantity": 2.55,
+            "tax_amount": 31.56,
+            "total_ttc": 388.42,
+            "vat_amount": 7.31
+        },
+        {
+            "amount": 174.9,
+            "description": "cultivate killer infrastructures",
+            "index": "10",
+            "price": 425.72,
+            "quantity": 2.44,
+            "tax_amount": 16.5,
+            "total_ttc": 478.45,
+            "vat_amount": 2.64
+        }
+    ],
+    "seller": {
+        "name": "Ryan Holder"
+    },
+    "supplier": {
+        "address": "9147 Charles Haven Suite 452 New Stephanieland, VI 82156",
+        "name": "Colleen Boyd"
+    },
+    "tax": {
+        "amount_excluding_tax": 140.92,
+        "amount_including_tax": 104.18,
+        "tax_amount": 16.99,
+        "total_ht": 425.09,
+        "total_ttc": 239.79
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "295 Jeffery Flat Port Derekburgh, CA 79025",
+        "id": "iD001"
+    },
+    "invoice": {
+        "bc_no": "sw12994",
+        "currency_code": "XDR",
+        "date": "19.08.2004",
+        "due_date": "21.06.2023",
+        "number": 854751
+    },
+    "payment": {
+        "bank_name": "Oconnell Ltd",
+        "bic": "DSMOGBXAEZG",
+        "iban": "CHWA90756126072128"
+    },
+    "products": [
+        {
+            "amount": 448.66,
+            "description": "utilize turn-key functionalities",
+            "index": "8",
+            "price": 391.74,
+            "quantity": 1.26,
+            "tax_amount": 27.32,
+            "total_ttc": 446.15,
+            "vat_amount": 2.8
+        },
+        {
+            "amount": 221.12,
+            "description": "benchmark plug-and-play users",
+            "index": "7",
+            "price": 108.95,
+            "quantity": 8.06,
+            "tax_amount": 85.52,
+            "total_ttc": 369.74,
+            "vat_amount": 5.1
+        },
+        {
+            "amount": 216.69,
+            "description": "engage innovative interfaces",
+            "index": "5",
+            "price": 435.68,
+            "quantity": 3.74,
+            "tax_amount": 94.89,
+            "total_ttc": 397.54,
+            "vat_amount": 8.7
+        }
+    ],
+    "seller": {
+        "name": "Ronnie Davis"
+    },
+    "supplier": {
+        "address": "86535 Hart Glen Johnborough, WA 73148",
+        "name": "Nicole Lang"
+    },
+    "tax": {
+        "amount_excluding_tax": 89.75,
+        "amount_including_tax": 39.73,
+        "tax_amount": 25.61,
+        "total_ht": 291.16,
+        "total_ttc": 170.39
+    }
+}

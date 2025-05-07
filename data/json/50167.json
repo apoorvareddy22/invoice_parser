@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "606 Goodman Mount Mcdonaldmouth, NV 70951",
+        "id": "PU743"
+    },
+    "invoice": {
+        "bc_no": "VF12771",
+        "currency_code": "NZD",
+        "date": "30.11.1999",
+        "due_date": "28.03.2021",
+        "number": 923292
+    },
+    "payment": {
+        "bank_name": "Rose Group",
+        "bic": "FAAPGBOR",
+        "iban": "WCBF73158573494101"
+    },
+    "products": [
+        {
+            "amount": 163.75,
+            "description": "enhance value-added e-services",
+            "index": "4",
+            "price": 190.17,
+            "quantity": 9.85,
+            "tax_amount": 39.18,
+            "total_ttc": 366.59,
+            "vat_amount": 2.74
+        },
+        {
+            "amount": 461.51,
+            "description": "unleash transparent e-markets",
+            "index": "9",
+            "price": 307.24,
+            "quantity": 9.91,
+            "tax_amount": 18.57,
+            "total_ttc": 315.13,
+            "vat_amount": 5.23
+        },
+        {
+            "amount": 437.44,
+            "description": "re-intermediate customized relationships",
+            "index": "5",
+            "price": 378.67,
+            "quantity": 3.33,
+            "tax_amount": 50.75,
+            "total_ttc": 159.04,
+            "vat_amount": 0.92
+        },
+        {
+            "amount": 411.49,
+            "description": "implement frictionless architectures",
+            "index": "5",
+            "price": 458.42,
+            "quantity": 4.01,
+            "tax_amount": 40.23,
+            "total_ttc": 218.95,
+            "vat_amount": 6.5
+        }
+    ],
+    "seller": {
+        "name": "Ricardo Garcia"
+    },
+    "supplier": {
+        "address": "338 Samantha Course Suite 069 West Sandra, PA 73021",
+        "name": "Elizabeth Stevens"
+    },
+    "tax": {
+        "amount_excluding_tax": 59.15,
+        "amount_including_tax": 83.34,
+        "tax_amount": 21.28,
+        "total_ht": 270.04,
+        "total_ttc": 330.76
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "14911 Church Summit Apt. 042 West Eric, WA 28100",
+        "company_name": "Martin, Avila and Thomas",
+        "country": "El Salvador",
+        "name": "Jorge Fitzpatrick"
+    },
+    "invoice": {
+        "date": "30.01.1992",
+        "number": 392584
+    },
+    "payment": {
+        "discount_amount": 25.47,
+        "discount_percentage": 12.46,
+        "due": 186.69,
+        "sub_total": 195.73,
+        "total": 568.59
+    },
+    "products": [
+        {
+            "description": "re-contextualize cross-media vortals",
+            "index": "1",
+            "quantity": 8.7,
+            "total_price": 972.82,
+            "unit_price": 90.18
+        },
+        {
+            "description": "architect bricks-and-clicks e-commerce",
+            "index": "8",
+            "quantity": 5.38,
+            "total_price": 88.8,
+            "unit_price": 31.2
+        }
+    ],
+    "seller": {
+        "address": "8360 Kayla Ferry East Donnabury, OR 10765",
+        "company_name": "Berry, Lopez and Franco",
+        "vat_no": "tZ26811537040"
+    }
+}

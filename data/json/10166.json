@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "678 Angela Village Lake Parker, IA 35267",
+        "email": "hooverjacob@example.com",
+        "phone": "714.337.8730x693",
+        "vat_no": "WK07895109410"
+    },
+    "invoice": {
+        "date": "10.05.1992",
+        "due_date": "27.09.2017",
+        "market_reference": 158359,
+        "notes": "deploy ubiquitous ROI",
+        "number": "0999-4249",
+        "reference": 113711,
+        "vat_no": "bU94410642064"
+    },
+    "payment": {
+        "net_total": 102.45,
+        "total": 397.85
+    },
+    "products": [
+        {
+            "amount": 88.6,
+            "description": "morph cutting-edge models",
+            "hours": 9.24,
+            "rate": 8.36
+        },
+        {
+            "amount": 226.23,
+            "description": "grow collaborative functionalities",
+            "hours": 8.73,
+            "rate": 2.5
+        }
+    ],
+    "seller": {
+        "address": "USNS Warren FPO AE 63553",
+        "email": "fraziertiffany@example.net",
+        "name": "Kelly Baldwin"
+    },
+    "tax": {
+        "base": 12.45,
+        "tax_amount": 19.18,
+        "total_tax": 19.11
+    }
+}

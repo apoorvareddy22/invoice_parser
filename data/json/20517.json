@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "924 Jenkins Groves Duncanmouth, WI 72766",
+        "company_name": "Horne Inc",
+        "email": "grahamjason@example.org",
+        "name": "Andrew Porter",
+        "phone": "+1-268-539-7665x569"
+    },
+    "invoice": {
+        "date": "04.04.2020",
+        "due_date": "12.02.2019",
+        "number": "lag63025172036"
+    },
+    "payment": {
+        "account_number": 1812190181,
+        "bank_name": "Miller-Kennedy",
+        "routing_number": 791292119
+    },
+    "products": [
+        {
+            "amount": 259.44,
+            "description": "seize leading-edge e-tailers",
+            "index": "6",
+            "quantity": 5.31,
+            "unit_price": 62.29
+        },
+        {
+            "amount": 481.38,
+            "description": "deploy compelling schemas",
+            "index": "6",
+            "quantity": 6.58,
+            "unit_price": 98.6
+        }
+    ],
+    "seller": {
+        "address": "1872 Daniel Canyon Petersenville, MA 33515",
+        "company_name": "Hernandez Ltd",
+        "email": "andrea97@example.org"
+    }
+}

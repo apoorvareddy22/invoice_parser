@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "109 John Tunnel New Josephmouth, IN 95734",
+        "business_no": "qd254",
+        "id": "vR389"
+    },
+    "invoice": {
+        "date": "16.09.2001",
+        "number": "4856-6042"
+    },
+    "payment": {
+        "due_date": "19.08.2007",
+        "total": 471.08
+    },
+    "products": [
+        {
+            "amount": 140.5,
+            "description": "engineer dot-com systems",
+            "quantity": 2.42,
+            "reference": "nU-848",
+            "unit_price": 98.36
+        }
+    ],
+    "seller": {
+        "address": "5178 Campbell Ramp Apt. 757 East Aaron, AR 74566"
+    },
+    "tax": {
+        "base_ht": 261.43,
+        "regulations": 27.02,
+        "total_ht": 107.73,
+        "vat_amount": 65.29,
+        "vat_percentage": 29.61
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "73207 Patricia Shore Suite 490 Anthonyton, OH 58254",
+        "company_name": "Smith, Marquez and Jones",
+        "email": "jameshernandez@example.org",
+        "name": "Christine Moore",
+        "phone": "(905)508-5460"
+    },
+    "invoice": {
+        "date": "22.08.1994",
+        "due_date": "07.09.2017",
+        "number": "hne55384060171"
+    },
+    "payment": {
+        "account_number": 9058378646,
+        "bank_name": "Lee Ltd",
+        "routing_number": 112324810
+    },
+    "products": [
+        {
+            "amount": 5.84,
+            "description": "deploy dynamic solutions",
+            "index": "8",
+            "quantity": 2.93,
+            "unit_price": 35.81
+        },
+        {
+            "amount": 92.28,
+            "description": "embrace strategic bandwidth",
+            "index": "5",
+            "quantity": 8.8,
+            "unit_price": 73.78
+        },
+        {
+            "amount": 12.28,
+            "description": "incentivize proactive platforms",
+            "index": "7",
+            "quantity": 9.74,
+            "unit_price": 57.78
+        },
+        {
+            "amount": 152.88,
+            "description": "benchmark compelling e-business",
+            "index": "3",
+            "quantity": 1.07,
+            "unit_price": 66.01
+        },
+        {
+            "amount": 349.76,
+            "description": "transition vertical markets",
+            "index": "9",
+            "quantity": 3.22,
+            "unit_price": 86.73
+        }
+    ],
+    "seller": {
+        "address": "92843 Martin Underpass North Lisa, NC 63718",
+        "company_name": "Wyatt-Brown",
+        "email": "robinsonjoshua@example.org"
+    }
+}

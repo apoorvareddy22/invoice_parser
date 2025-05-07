@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "147 Patricia Trace South Laurashire, FL 27576",
+        "id": "VQ019"
+    },
+    "invoice": {
+        "bc_no": "Ad34165",
+        "currency_code": "LTL",
+        "date": "12.02.2000",
+        "due_date": "02.10.1993",
+        "number": 143939
+    },
+    "payment": {
+        "bank_name": "Wilson, Buck and West",
+        "bic": "HXFLGBW9",
+        "iban": "ATZE31862740529463"
+    },
+    "products": [
+        {
+            "amount": 31.48,
+            "description": "syndicate collaborative web services",
+            "index": "3",
+            "price": 88.76,
+            "quantity": 9.67,
+            "tax_amount": 37.89,
+            "total_ttc": 141.88,
+            "vat_amount": 6.15
+        },
+        {
+            "amount": 35.95,
+            "description": "generate front-end functionalities",
+            "index": "3",
+            "price": 360.48,
+            "quantity": 4.11,
+            "tax_amount": 86.25,
+            "total_ttc": 122.2,
+            "vat_amount": 11.13
+        }
+    ],
+    "seller": {
+        "name": "Nicole Richardson"
+    },
+    "supplier": {
+        "address": "4555 French Keys Suite 308 New Joshua, NC 17169",
+        "name": "Kara Patterson"
+    },
+    "tax": {
+        "amount_excluding_tax": 143.59,
+        "amount_including_tax": 71.11,
+        "tax_amount": 20.56,
+        "total_ht": 419.05,
+        "total_ttc": 101.89
+    }
+}

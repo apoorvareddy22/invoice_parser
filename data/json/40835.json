@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "58682 Jason Glen Ginachester, DE 56149"
+    },
+    "invoice": {
+        "bc_no": "FZ22708",
+        "date": "17.09.2008",
+        "maturity_date": "12.12.2005",
+        "number": 468115
+    },
+    "products": [
+        {
+            "amount": 482.11,
+            "description": "enable cross-media e-markets",
+            "quantity": 7.8,
+            "unit_price": 72.95,
+            "vat_amount": 3.01
+        },
+        {
+            "amount": 41.92,
+            "description": "drive 24/365 e-commerce",
+            "quantity": 7.29,
+            "unit_price": 90.62,
+            "vat_amount": 8.43
+        }
+    ],
+    "seller": {
+        "address": "PSC 1725, Box 8936 APO AA 42825"
+    },
+    "tax": {
+        "amount_excluding_tax": 133.72,
+        "amount_including_tax": 49.73,
+        "tax_amount": 26.73
+    }
+}

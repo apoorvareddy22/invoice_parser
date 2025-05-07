@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "1764 Cheyenne Trafficway New Angelatown, GU 39136",
+        "id": "Fi691"
+    },
+    "invoice": {
+        "bc_no": "CU08486",
+        "currency_code": "MNT",
+        "date": "07.12.1998",
+        "due_date": "05.01.2023",
+        "number": 695758
+    },
+    "payment": {
+        "bank_name": "Ferguson Group",
+        "bic": "GGKTGBAK5AM",
+        "iban": "JAAQ56628029389828"
+    },
+    "products": [
+        {
+            "amount": 70.24,
+            "description": "re-contextualize dynamic initiatives",
+            "index": "1",
+            "price": 126.06,
+            "quantity": 3.19,
+            "tax_amount": 59.52,
+            "total_ttc": 447.57,
+            "vat_amount": 8.5
+        },
+        {
+            "amount": 131.31,
+            "description": "e-enable cross-media content",
+            "index": "3",
+            "price": 351.94,
+            "quantity": 8.25,
+            "tax_amount": 81.94,
+            "total_ttc": 191.7,
+            "vat_amount": 1.28
+        },
+        {
+            "amount": 281.83,
+            "description": "streamline robust interfaces",
+            "index": "9",
+            "price": 470.83,
+            "quantity": 1.7,
+            "tax_amount": 96.57,
+            "total_ttc": 239.39,
+            "vat_amount": 6.21
+        },
+        {
+            "amount": 225.58,
+            "description": "cultivate ubiquitous bandwidth",
+            "index": "3",
+            "price": 126.37,
+            "quantity": 5.5,
+            "tax_amount": 24.8,
+            "total_ttc": 284.23,
+            "vat_amount": 10.33
+        },
+        {
+            "amount": 122.36,
+            "description": "synthesize back-end schemas",
+            "index": "5",
+            "price": 183.57,
+            "quantity": 8.36,
+            "tax_amount": 59.45,
+            "total_ttc": 205.81,
+            "vat_amount": 7.22
+        },
+        {
+            "amount": 466.1,
+            "description": "engineer leading-edge content",
+            "index": "10",
+            "price": 10.24,
+            "quantity": 6.05,
+            "tax_amount": 53.14,
+            "total_ttc": 452.39,
+            "vat_amount": 1.28
+        },
+        {
+            "amount": 346.46,
+            "description": "optimize wireless eyeballs",
+            "index": "7",
+            "price": 189.81,
+            "quantity": 9.92,
+            "tax_amount": 84.75,
+            "total_ttc": 133.57,
+            "vat_amount": 1.85
+        }
+    ],
+    "seller": {
+        "name": "Matthew Smith"
+    },
+    "supplier": {
+        "address": "14853 Johnson Springs Heatherborough, CT 92064",
+        "name": "John Murphy"
+    },
+    "tax": {
+        "amount_excluding_tax": 106.65,
+        "amount_including_tax": 47.79,
+        "tax_amount": 14.42,
+        "total_ht": 151.06,
+        "total_ttc": 262.38
+    }
+}

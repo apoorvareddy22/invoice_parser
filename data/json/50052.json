@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "846 Mary Causeway New Mary, ME 11759",
+        "id": "Ng721"
+    },
+    "invoice": {
+        "bc_no": "DM85176",
+        "currency_code": "KPW",
+        "date": "13.08.2009",
+        "due_date": "02.02.1991",
+        "number": 187908
+    },
+    "payment": {
+        "bank_name": "Davis-Wu",
+        "bic": "RUSVGBI4",
+        "iban": "GAHY60814229701282"
+    },
+    "products": [
+        {
+            "amount": 37.58,
+            "description": "morph impactful architectures",
+            "index": "1",
+            "price": 272.22,
+            "quantity": 9.04,
+            "tax_amount": 48.71,
+            "total_ttc": 257.09,
+            "vat_amount": 6.88
+        },
+        {
+            "amount": 371.58,
+            "description": "iterate distributed platforms",
+            "index": "5",
+            "price": 11.65,
+            "quantity": 6.44,
+            "tax_amount": 59.23,
+            "total_ttc": 274.47,
+            "vat_amount": 5.67
+        },
+        {
+            "amount": 290.78,
+            "description": "mesh sticky portals",
+            "index": "2",
+            "price": 427.41,
+            "quantity": 4.36,
+            "tax_amount": 56.74,
+            "total_ttc": 251.69,
+            "vat_amount": 10.09
+        },
+        {
+            "amount": 439.53,
+            "description": "visualize world-class mindshare",
+            "index": "1",
+            "price": 378.82,
+            "quantity": 7.54,
+            "tax_amount": 66.69,
+            "total_ttc": 276.16,
+            "vat_amount": 8.9
+        },
+        {
+            "amount": 196.45,
+            "description": "target back-end architectures",
+            "index": "7",
+            "price": 486.51,
+            "quantity": 7.11,
+            "tax_amount": 46.97,
+            "total_ttc": 220.24,
+            "vat_amount": 3.65
+        },
+        {
+            "amount": 283.11,
+            "description": "syndicate best-of-breed users",
+            "index": "8",
+            "price": 78.2,
+            "quantity": 4.81,
+            "tax_amount": 55.87,
+            "total_ttc": 379.05,
+            "vat_amount": 0.46
+        }
+    ],
+    "seller": {
+        "name": "Angela Cunningham"
+    },
+    "supplier": {
+        "address": "01229 Morse Drive Apt. 730 West Daniel, WV 97520",
+        "name": "Matthew Jackson"
+    },
+    "tax": {
+        "amount_excluding_tax": 186.4,
+        "amount_including_tax": 163.08,
+        "tax_amount": 17.97,
+        "total_ht": 291.13,
+        "total_ttc": 127.2
+    }
+}

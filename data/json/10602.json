@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "8115 Brian Forges Johnmouth, MS 36765",
+        "email": "matthewruiz@example.org",
+        "phone": "678.205.3402x924",
+        "vat_no": "OM49698665802"
+    },
+    "invoice": {
+        "date": "09.01.2003",
+        "due_date": "14.11.2005",
+        "market_reference": 866962,
+        "notes": "envisioneer innovative experiences",
+        "number": "3765-8671",
+        "reference": 899335,
+        "vat_no": "hP20880148356"
+    },
+    "payment": {
+        "net_total": 181.7,
+        "total": 879.25
+    },
+    "products": [
+        {
+            "amount": 56.82,
+            "description": "envisioneer one-to-one metrics",
+            "hours": 8.96,
+            "rate": 6.54
+        },
+        {
+            "amount": 56.54,
+            "description": "integrate transparent niches",
+            "hours": 6.3,
+            "rate": 6.82
+        }
+    ],
+    "seller": {
+        "address": "58144 Kemp Ridges Suite 513 Millerbury, GU 70177",
+        "email": "robertcabrera@example.net",
+        "name": "Daniel George"
+    },
+    "tax": {
+        "base": 27.35,
+        "tax_amount": 17.99,
+        "total_tax": 11.95
+    }
+}

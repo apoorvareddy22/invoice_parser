@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "651 Johnny Stravenue Adamsmouth, KY 50705"
+    },
+    "invoice": {
+        "bc_no": "zG63788",
+        "date": "04.06.2006",
+        "maturity_date": "18.03.2013",
+        "number": 240016
+    },
+    "products": [
+        {
+            "amount": 84.3,
+            "description": "unleash extensible metrics",
+            "quantity": 5.52,
+            "unit_price": 33.74,
+            "vat_amount": 6.23
+        },
+        {
+            "amount": 44.96,
+            "description": "deliver mission-critical deliverables",
+            "quantity": 7.59,
+            "unit_price": 44.34,
+            "vat_amount": 4.98
+        }
+    ],
+    "seller": {
+        "address": "110 Samantha View Lake Darlene, MN 68672"
+    },
+    "tax": {
+        "amount_excluding_tax": 106.9,
+        "amount_including_tax": 26.89,
+        "tax_amount": 27.05
+    }
+}

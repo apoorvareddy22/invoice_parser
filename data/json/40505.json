@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "735 Ford Turnpike Suite 835 Jillport, AK 61764"
+    },
+    "invoice": {
+        "bc_no": "eI23293",
+        "date": "14.02.2013",
+        "maturity_date": "14.07.2016",
+        "number": 217332
+    },
+    "products": [
+        {
+            "amount": 200.11,
+            "description": "optimize holistic e-commerce",
+            "quantity": 7.77,
+            "unit_price": 48.96,
+            "vat_amount": 9.0
+        },
+        {
+            "amount": 100.58,
+            "description": "morph bricks-and-clicks infrastructures",
+            "quantity": 7.31,
+            "unit_price": 20.17,
+            "vat_amount": 8.34
+        },
+        {
+            "amount": 122.91,
+            "description": "whiteboard visionary markets",
+            "quantity": 2.6,
+            "unit_price": 91.2,
+            "vat_amount": 0.18
+        },
+        {
+            "amount": 416.35,
+            "description": "embrace next-generation methodologies",
+            "quantity": 8.12,
+            "unit_price": 82.15,
+            "vat_amount": 1.28
+        }
+    ],
+    "seller": {
+        "address": "413 Davis Fields North Austin, UT 59219"
+    },
+    "tax": {
+        "amount_excluding_tax": 89.1,
+        "amount_including_tax": 86.15,
+        "tax_amount": 16.17
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "8334 Rebecca Spring Apt. 618 Freemanfort, MT 60298",
+        "email": "nkim@example.org",
+        "phone": "228-745-5704x81102",
+        "vat_no": "es97574824013"
+    },
+    "invoice": {
+        "date": "09.06.2007",
+        "due_date": "10.10.1990",
+        "market_reference": 590246,
+        "notes": "strategize 24/365 interfaces",
+        "number": "9841-2580",
+        "reference": 283695,
+        "vat_no": "ed06609235910"
+    },
+    "payment": {
+        "net_total": 98.36,
+        "total": 822.92
+    },
+    "products": [
+        {
+            "amount": 158.53,
+            "description": "harness user-centric schemas",
+            "hours": 1.98,
+            "rate": 8.02
+        },
+        {
+            "amount": 446.3,
+            "description": "re-intermediate vertical web-readiness",
+            "hours": 1.35,
+            "rate": 5.51
+        }
+    ],
+    "seller": {
+        "address": "6762 Jerry Dale Apt. 313 Marissabury, WI 76858",
+        "email": "rachel53@example.net",
+        "name": "Andrew Torres"
+    },
+    "tax": {
+        "base": 21.39,
+        "tax_amount": 29.98,
+        "total_tax": 11.33
+    }
+}

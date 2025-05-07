@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "59278 Daniels Park Suite 410 South Lisaside, VI 15339",
+        "email": "natashafreeman@example.com",
+        "phone": "463.918.5257x5073",
+        "vat_no": "vj53034870095"
+    },
+    "invoice": {
+        "date": "02.08.2002",
+        "due_date": "15.09.2004",
+        "market_reference": 369344,
+        "notes": "embrace frictionless deliverables",
+        "number": "9856-8527",
+        "reference": 785727,
+        "vat_no": "IM30683879749"
+    },
+    "payment": {
+        "net_total": 96.05,
+        "total": 526.72
+    },
+    "products": [
+        {
+            "amount": 365.66,
+            "description": "strategize next-generation action-items",
+            "hours": 9.8,
+            "rate": 5.97
+        }
+    ],
+    "seller": {
+        "address": "152 Sims Point Apt. 411 West Carriefurt, DC 49815",
+        "email": "sdixon@example.com",
+        "name": "Jermaine Kirby"
+    },
+    "tax": {
+        "base": 23.05,
+        "tax_amount": 23.35,
+        "total_tax": 22.77
+    }
+}

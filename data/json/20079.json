@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "PSC 8859, Box 1961 APO AA 00680",
+        "company_name": "Harvey, Johnson and Ortiz",
+        "email": "brettblack@example.net",
+        "name": "Michael Cole",
+        "phone": "+1-695-491-3542"
+    },
+    "invoice": {
+        "date": "22.06.2014",
+        "due_date": "27.01.2012",
+        "number": "xSi26610986754"
+    },
+    "payment": {
+        "account_number": 1270204462,
+        "bank_name": "Yoder, Clark and Moon",
+        "routing_number": 622236894
+    },
+    "products": [
+        {
+            "amount": 281.6,
+            "description": "revolutionize efficient web services",
+            "index": "9",
+            "quantity": 2.14,
+            "unit_price": 90.52
+        }
+    ],
+    "seller": {
+        "address": "0507 Monica Meadows Susanland, NH 26738",
+        "company_name": "Goodwin-Brown",
+        "email": "ashleyduncan@example.com"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "USCGC Parker FPO AA 47324",
+        "id": "ps324"
+    },
+    "invoice": {
+        "bc_no": "rx20422",
+        "currency_code": "SEK",
+        "date": "02.04.2022",
+        "due_date": "17.01.2012",
+        "number": 378650
+    },
+    "payment": {
+        "bank_name": "Rosales and Sons",
+        "bic": "HNWEGBIZ",
+        "iban": "BFUT19455931715731"
+    },
+    "products": [
+        {
+            "amount": 228.91,
+            "description": "streamline transparent infrastructures",
+            "index": "9",
+            "price": 115.97,
+            "quantity": 7.54,
+            "tax_amount": 34.1,
+            "total_ttc": 331.03,
+            "vat_amount": 8.76
+        },
+        {
+            "amount": 279.19,
+            "description": "seize B2C interfaces",
+            "index": "10",
+            "price": 311.06,
+            "quantity": 4.62,
+            "tax_amount": 68.08,
+            "total_ttc": 345.31,
+            "vat_amount": 6.17
+        },
+        {
+            "amount": 204.04,
+            "description": "streamline frictionless web services",
+            "index": "4",
+            "price": 41.59,
+            "quantity": 7.5,
+            "tax_amount": 95.3,
+            "total_ttc": 476.46,
+            "vat_amount": 5.54
+        }
+    ],
+    "seller": {
+        "name": "Anthony Garcia"
+    },
+    "supplier": {
+        "address": "60989 Joseph Spur Peterfurt, NH 32437",
+        "name": "Richard Pratt"
+    },
+    "tax": {
+        "amount_excluding_tax": 70.82,
+        "amount_including_tax": 192.55,
+        "tax_amount": 27.75,
+        "total_ht": 456.66,
+        "total_ttc": 331.72
+    }
+}

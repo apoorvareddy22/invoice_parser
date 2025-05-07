@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "25033 Boyle Squares Suite 963 Nicolechester, ID 98694",
+        "business_no": "iN304",
+        "id": "ey057"
+    },
+    "invoice": {
+        "date": "20.10.1992",
+        "number": "7002-4490"
+    },
+    "payment": {
+        "due_date": "01.07.1997",
+        "total": 228.91
+    },
+    "products": [
+        {
+            "amount": 27.73,
+            "description": "reinvent clicks-and-mortar action-items",
+            "quantity": 1.37,
+            "reference": "Vq-671",
+            "unit_price": 24.35
+        },
+        {
+            "amount": 211.75,
+            "description": "envisioneer cross-platform web services",
+            "quantity": 3.03,
+            "reference": "vg-263",
+            "unit_price": 81.78
+        }
+    ],
+    "seller": {
+        "address": "923 Taylor Drives Vanessatown, PW 60744"
+    },
+    "tax": {
+        "base_ht": 304.94,
+        "regulations": 29.63,
+        "total_ht": 318.0,
+        "vat_amount": 124.79,
+        "vat_percentage": 10.77
+    }
+}

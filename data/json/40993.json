@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "50890 Lawson Pines Suite 483 South Joshua, CA 46633"
+    },
+    "invoice": {
+        "bc_no": "iw18390",
+        "date": "04.06.2005",
+        "maturity_date": "22.04.2012",
+        "number": 592049
+    },
+    "products": [
+        {
+            "amount": 319.87,
+            "description": "unleash bleeding-edge markets",
+            "quantity": 9.92,
+            "unit_price": 77.62,
+            "vat_amount": 3.7
+        },
+        {
+            "amount": 192.91,
+            "description": "revolutionize out-of-the-box synergies",
+            "quantity": 3.0,
+            "unit_price": 46.49,
+            "vat_amount": 9.7
+        },
+        {
+            "amount": 359.42,
+            "description": "scale e-business partnerships",
+            "quantity": 1.51,
+            "unit_price": 55.44,
+            "vat_amount": 13.07
+        }
+    ],
+    "seller": {
+        "address": "7356 Jill Lights Sheilaberg, NM 02368"
+    },
+    "tax": {
+        "amount_excluding_tax": 46.55,
+        "amount_including_tax": 187.65,
+        "tax_amount": 28.65
+    }
+}

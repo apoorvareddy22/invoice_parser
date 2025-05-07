@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "0427 Dixon Forest Suite 063 West Cassandra, AS 74385",
+        "id": "Ig988"
+    },
+    "invoice": {
+        "bc_no": "MH81928",
+        "currency_code": "TJS",
+        "date": "16.01.2010",
+        "due_date": "24.03.2015",
+        "number": 601164
+    },
+    "payment": {
+        "bank_name": "Myers-Newman",
+        "bic": "HNRFGBG8",
+        "iban": "XAIG67627191293305"
+    },
+    "products": [
+        {
+            "amount": 245.53,
+            "description": "brand 24/365 markets",
+            "index": "5",
+            "price": 142.83,
+            "quantity": 1.79,
+            "tax_amount": 95.39,
+            "total_ttc": 487.63,
+            "vat_amount": 9.14
+        },
+        {
+            "amount": 371.54,
+            "description": "iterate ubiquitous bandwidth",
+            "index": "1",
+            "price": 370.52,
+            "quantity": 8.7,
+            "tax_amount": 11.48,
+            "total_ttc": 189.3,
+            "vat_amount": 4.65
+        },
+        {
+            "amount": 207.04,
+            "description": "synergize integrated users",
+            "index": "6",
+            "price": 494.55,
+            "quantity": 1.37,
+            "tax_amount": 76.5,
+            "total_ttc": 185.12,
+            "vat_amount": 5.2
+        },
+        {
+            "amount": 343.47,
+            "description": "expedite wireless infrastructures",
+            "index": "8",
+            "price": 371.12,
+            "quantity": 7.36,
+            "tax_amount": 54.71,
+            "total_ttc": 459.26,
+            "vat_amount": 5.09
+        },
+        {
+            "amount": 195.6,
+            "description": "incubate enterprise e-tailers",
+            "index": "4",
+            "price": 120.35,
+            "quantity": 3.65,
+            "tax_amount": 40.5,
+            "total_ttc": 488.16,
+            "vat_amount": 4.75
+        }
+    ],
+    "seller": {
+        "name": "Joseph Williams"
+    },
+    "supplier": {
+        "address": "3389 Ingram Ville Rebeccaview, WA 71637",
+        "name": "Sharon Buchanan"
+    },
+    "tax": {
+        "amount_excluding_tax": 190.54,
+        "amount_including_tax": 173.98,
+        "tax_amount": 21.14,
+        "total_ht": 230.53,
+        "total_ttc": 211.28
+    }
+}

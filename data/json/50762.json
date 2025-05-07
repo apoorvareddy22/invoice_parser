@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "266 Michael Viaduct Suite 122 Robertafurt, IA 22531",
+        "id": "Bz091"
+    },
+    "invoice": {
+        "bc_no": "gz63028",
+        "currency_code": "SOS",
+        "date": "03.04.2009",
+        "due_date": "28.02.2022",
+        "number": 822525
+    },
+    "payment": {
+        "bank_name": "Sanchez-Smith",
+        "bic": "FOIDGBJQ",
+        "iban": "NMGU72354559372787"
+    },
+    "products": [
+        {
+            "amount": 342.35,
+            "description": "evolve robust e-business",
+            "index": "10",
+            "price": 85.83,
+            "quantity": 9.69,
+            "tax_amount": 20.0,
+            "total_ttc": 327.36,
+            "vat_amount": 2.0
+        }
+    ],
+    "seller": {
+        "name": "Michael Warren"
+    },
+    "supplier": {
+        "address": "0163 Tony Gardens Suite 851 Danielton, DC 20670",
+        "name": "Julie Taylor"
+    },
+    "tax": {
+        "amount_excluding_tax": 122.85,
+        "amount_including_tax": 33.83,
+        "tax_amount": 25.27,
+        "total_ht": 175.89,
+        "total_ttc": 138.87
+    }
+}

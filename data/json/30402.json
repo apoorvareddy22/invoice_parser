@@ -1,0 +1,68 @@
+{
+    "buyer": {
+        "address": "Unit 8657 Box 2002 DPO AP 12995",
+        "company_name": "Goodwin-Wilson",
+        "country": "United Arab Emirates",
+        "email": "justin56@example.org",
+        "name": "Timothy Murray",
+        "phone": "328.234.8350x54523",
+        "vat_no": "NA52463879290"
+    },
+    "invoice": {
+        "date": "15.05.2013",
+        "due_date": "10.05.2021",
+        "linked_invoice": "od-8717-2542",
+        "notes": "reinvent B2C vortals",
+        "number": "eg-5328-8316"
+    },
+    "products": [
+        {
+            "description": "envisioneer virtual metrics",
+            "discount_percentage": 11.49,
+            "price": 94.12,
+            "quantity": 6.62,
+            "unit_price": 14.48
+        },
+        {
+            "description": "enable synergistic metrics",
+            "discount_percentage": 19.78,
+            "price": 238.49,
+            "quantity": 5.81,
+            "unit_price": 72.49
+        },
+        {
+            "description": "revolutionize value-added applications",
+            "discount_percentage": 6.27,
+            "price": 44.82,
+            "quantity": 9.52,
+            "unit_price": 80.02
+        }
+    ],
+    "seller": {
+        "address": "908 Tony Hill Brooksberg, ME 32995",
+        "ape": "8484u",
+        "capital": 62873668,
+        "country": "British Virgin Islands",
+        "email": "stephanielane@example.com",
+        "name": "Cody Johnson",
+        "phone_1": "001-200-359-8206x264",
+        "phone_2": "(593)740-3642x1310",
+        "phone_3": "(923)501-5389x141",
+        "ref_walk": "nOIo4395",
+        "reference": "gs869",
+        "siret": 93656563695225,
+        "vat_no": "NL68761831555",
+        "website": "https://www.brewer.info/"
+    },
+    "tax": {
+        "amount_0": 18.26,
+        "amount_1": 27.06,
+        "base_0": 10.89,
+        "base_1": 108.19,
+        "total_ht": 261.1,
+        "total_tax": 22.54,
+        "total_ttc": 295.85,
+        "vat_0": 18.66,
+        "vat_1": 14.81
+    }
+}

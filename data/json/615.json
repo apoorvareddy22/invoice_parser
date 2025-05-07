@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "PSC 4227, Box 4348 APO AA 67256",
+        "company_name": "Friedman-Gonzalez",
+        "country": "Cayman Islands",
+        "name": "Michael Anderson"
+    },
+    "invoice": {
+        "date": "07.01.2013",
+        "number": 317022
+    },
+    "payment": {
+        "discount_amount": 43.52,
+        "discount_percentage": 10.9,
+        "due": 94.33,
+        "sub_total": 54.56,
+        "total": 530.33
+    },
+    "products": [
+        {
+            "description": "redefine proactive content",
+            "index": "3",
+            "quantity": 6.79,
+            "total_price": 932.85,
+            "unit_price": 33.21
+        },
+        {
+            "description": "orchestrate viral content",
+            "index": "2",
+            "quantity": 2.4,
+            "total_price": 557.15,
+            "unit_price": 60.14
+        }
+    ],
+    "seller": {
+        "address": "3660 Yu Parkway Suite 893 Debbieview, SC 16959",
+        "company_name": "Chaney, Chen and Hughes",
+        "vat_no": "UK36228848861"
+    }
+}

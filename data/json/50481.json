@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "739 Sharon Tunnel Suite 381 Lake Briantown, IA 25629",
+        "id": "Sz944"
+    },
+    "invoice": {
+        "bc_no": "nX52250",
+        "currency_code": "ARS",
+        "date": "16.04.1997",
+        "due_date": "11.06.2023",
+        "number": 844913
+    },
+    "payment": {
+        "bank_name": "Russell, Carter and Chambers",
+        "bic": "YZXTGB5L5DS",
+        "iban": "BMNC45691143114328"
+    },
+    "products": [
+        {
+            "amount": 307.77,
+            "description": "revolutionize vertical action-items",
+            "index": "5",
+            "price": 62.12,
+            "quantity": 1.9,
+            "tax_amount": 43.66,
+            "total_ttc": 401.51,
+            "vat_amount": 3.2
+        }
+    ],
+    "seller": {
+        "name": "Joseph Yang"
+    },
+    "supplier": {
+        "address": "79083 Pamela Neck Suite 018 New Angela, MH 74441",
+        "name": "Jerome Perez"
+    },
+    "tax": {
+        "amount_excluding_tax": 180.51,
+        "amount_including_tax": 77.86,
+        "tax_amount": 27.05,
+        "total_ht": 325.45,
+        "total_ttc": 228.13
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "95764 Hudson Walks Apt. 694 East Billystad, NV 01647",
+        "id": "rZ244"
+    },
+    "invoice": {
+        "bc_no": "ex84846",
+        "currency_code": "SYP",
+        "date": "21.12.1997",
+        "due_date": "21.04.1991",
+        "number": 103661
+    },
+    "payment": {
+        "bank_name": "Smith-Cameron",
+        "bic": "OVVOGB7AF61",
+        "iban": "YSET67745477323590"
+    },
+    "products": [
+        {
+            "amount": 222.92,
+            "description": "embrace synergistic models",
+            "index": "10",
+            "price": 204.54,
+            "quantity": 4.87,
+            "tax_amount": 95.44,
+            "total_ttc": 228.93,
+            "vat_amount": 8.4
+        },
+        {
+            "amount": 21.12,
+            "description": "strategize cross-media e-business",
+            "index": "3",
+            "price": 268.03,
+            "quantity": 6.7,
+            "tax_amount": 63.97,
+            "total_ttc": 188.39,
+            "vat_amount": 4.62
+        },
+        {
+            "amount": 6.84,
+            "description": "synergize granular convergence",
+            "index": "7",
+            "price": 64.61,
+            "quantity": 1.46,
+            "tax_amount": 22.3,
+            "total_ttc": 244.25,
+            "vat_amount": 5.87
+        },
+        {
+            "amount": 108.8,
+            "description": "empower dynamic e-services",
+            "index": "4",
+            "price": 349.73,
+            "quantity": 7.51,
+            "tax_amount": 77.04,
+            "total_ttc": 351.17,
+            "vat_amount": 0.49
+        },
+        {
+            "amount": 353.71,
+            "description": "embrace granular networks",
+            "index": "4",
+            "price": 289.78,
+            "quantity": 4.97,
+            "tax_amount": 54.63,
+            "total_ttc": 115.08,
+            "vat_amount": 16.83
+        },
+        {
+            "amount": 325.56,
+            "description": "maximize virtual bandwidth",
+            "index": "1",
+            "price": 471.44,
+            "quantity": 6.29,
+            "tax_amount": 31.99,
+            "total_ttc": 374.84,
+            "vat_amount": 0.11
+        }
+    ],
+    "seller": {
+        "name": "Terry Navarro"
+    },
+    "supplier": {
+        "address": "USNV Whitaker FPO AA 44909",
+        "name": "Brian Wilkinson"
+    },
+    "tax": {
+        "amount_excluding_tax": 137.12,
+        "amount_including_tax": 12.92,
+        "tax_amount": 10.67,
+        "total_ht": 381.15,
+        "total_ttc": 494.59
+    }
+}

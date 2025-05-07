@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "256 Rebecca Mill Jamiehaven, MI 33256",
+        "company_name": "Lee-Morris",
+        "email": "icarr@example.net",
+        "name": "Melissa Wallace",
+        "phone": "666.793.2044"
+    },
+    "invoice": {
+        "date": "13.04.1996",
+        "due_date": "17.09.2013",
+        "number": "hBC89292020796"
+    },
+    "payment": {
+        "account_number": 1403518678,
+        "bank_name": "Leonard, James and Brooks",
+        "routing_number": 743350897
+    },
+    "products": [
+        {
+            "amount": 443.05,
+            "description": "leverage innovative synergies",
+            "index": "7",
+            "quantity": 1.45,
+            "unit_price": 34.97
+        }
+    ],
+    "seller": {
+        "address": "9714 Ellis Flats Apt. 557 North Georgebury, MI 17600",
+        "company_name": "Watson-Castillo",
+        "email": "kevinnelson@example.net"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "buyer": {
+        "address": "4493 Anderson Common Suite 525 Jonesland, RI 82042",
+        "company_name": "Bell-Gonzalez",
+        "country": "Isle of Man",
+        "email": "ehayes@example.org",
+        "name": "Melanie Johnson",
+        "phone": "6574686652",
+        "vat_no": "Yk63388713061"
+    },
+    "invoice": {
+        "date": "25.12.1993",
+        "due_date": "17.07.1997",
+        "linked_invoice": "Yl-2536-0469",
+        "notes": "utilize real-time infrastructures",
+        "number": "KR-0318-3505"
+    },
+    "products": [
+        {
+            "description": "orchestrate next-generation content",
+            "discount_percentage": 18.0,
+            "price": 499.47,
+            "quantity": 3.53,
+            "unit_price": 91.83
+        },
+        {
+            "description": "target interactive info-mediaries",
+            "discount_percentage": 9.85,
+            "price": 197.56,
+            "quantity": 2.14,
+            "unit_price": 87.35
+        },
+        {
+            "description": "implement compelling solutions",
+            "discount_percentage": 9.03,
+            "price": 331.53,
+            "quantity": 8.15,
+            "unit_price": 48.38
+        },
+        {
+            "description": "utilize granular applications",
+            "discount_percentage": 18.89,
+            "price": 471.85,
+            "quantity": 6.4,
+            "unit_price": 48.9
+        },
+        {
+            "description": "synthesize e-business web services",
+            "discount_percentage": 12.85,
+            "price": 321.18,
+            "quantity": 4.48,
+            "unit_price": 28.52
+        },
+        {
+            "description": "enhance cross-media e-markets",
+            "discount_percentage": 17.47,
+            "price": 58.14,
+            "quantity": 4.27,
+            "unit_price": 33.45
+        }
+    ],
+    "seller": {
+        "address": "101 Wright Stravenue Apt. 913 Port Melissa, WI 22934",
+        "ape": "4609D",
+        "capital": 23072000,
+        "country": "Paraguay",
+        "email": "watsonmatthew@example.com",
+        "name": "Richard Russo",
+        "phone_1": "+1-435-727-0777x199",
+        "phone_2": "261-413-5700",
+        "phone_3": "001-844-384-2435",
+        "ref_walk": "QKfT4168",
+        "reference": "KF240",
+        "siret": 33331935166045,
+        "vat_no": "tD09267842658",
+        "website": "http://www.martin.com/"
+    },
+    "tax": {
+        "amount_0": 11.31,
+        "amount_1": 18.08,
+        "base_0": 21.7,
+        "base_1": 274.87,
+        "total_ht": 237.01,
+        "total_tax": 21.87,
+        "total_ttc": 328.18,
+        "vat_0": 19.91,
+        "vat_1": 23.08
+    }
+}

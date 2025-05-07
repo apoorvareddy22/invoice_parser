@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "13711 Curtis Brook Barneschester, RI 17857",
+        "id": "Oe048"
+    },
+    "invoice": {
+        "bc_no": "jV65656",
+        "currency_code": "CUC",
+        "date": "03.07.2011",
+        "due_date": "21.01.1995",
+        "number": 964100
+    },
+    "payment": {
+        "bank_name": "Perez-Vincent",
+        "bic": "FYASGBK1V6M",
+        "iban": "GHKX47714398713289"
+    },
+    "products": [
+        {
+            "amount": 359.81,
+            "description": "re-intermediate 24/365 action-items",
+            "index": "6",
+            "price": 208.93,
+            "quantity": 4.15,
+            "tax_amount": 65.73,
+            "total_ttc": 440.67,
+            "vat_amount": 0.35
+        }
+    ],
+    "seller": {
+        "name": "Michael Ward"
+    },
+    "supplier": {
+        "address": "43536 Susan Fall Suite 796 West Graceberg, NY 98927",
+        "name": "Tina Robinson"
+    },
+    "tax": {
+        "amount_excluding_tax": 60.64,
+        "amount_including_tax": 100.33,
+        "tax_amount": 23.66,
+        "total_ht": 156.11,
+        "total_ttc": 458.12
+    }
+}

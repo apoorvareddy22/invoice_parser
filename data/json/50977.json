@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "712 Cole Park Clarkview, WV 81798",
+        "id": "KF107"
+    },
+    "invoice": {
+        "bc_no": "sO23595",
+        "currency_code": "NGN",
+        "date": "22.07.2019",
+        "due_date": "30.09.2007",
+        "number": 887808
+    },
+    "payment": {
+        "bank_name": "Cobb-Aguirre",
+        "bic": "OGAZGBLE",
+        "iban": "UIUZ88896749818617"
+    },
+    "products": [
+        {
+            "amount": 461.84,
+            "description": "e-enable visionary infrastructures",
+            "index": "4",
+            "price": 373.03,
+            "quantity": 2.24,
+            "tax_amount": 82.38,
+            "total_ttc": 183.42,
+            "vat_amount": 14.69
+        },
+        {
+            "amount": 146.06,
+            "description": "utilize holistic technologies",
+            "index": "2",
+            "price": 316.95,
+            "quantity": 5.68,
+            "tax_amount": 24.22,
+            "total_ttc": 231.93,
+            "vat_amount": 7.37
+        },
+        {
+            "amount": 434.9,
+            "description": "engineer rich metrics",
+            "index": "1",
+            "price": 257.37,
+            "quantity": 5.69,
+            "tax_amount": 19.17,
+            "total_ttc": 259.81,
+            "vat_amount": 6.93
+        },
+        {
+            "amount": 169.23,
+            "description": "deploy 24/365 synergies",
+            "index": "1",
+            "price": 246.29,
+            "quantity": 3.36,
+            "tax_amount": 10.2,
+            "total_ttc": 346.63,
+            "vat_amount": 0.05
+        },
+        {
+            "amount": 332.77,
+            "description": "mesh revolutionary models",
+            "index": "9",
+            "price": 354.19,
+            "quantity": 6.78,
+            "tax_amount": 57.43,
+            "total_ttc": 375.59,
+            "vat_amount": 8.49
+        },
+        {
+            "amount": 316.31,
+            "description": "monetize scalable partnerships",
+            "index": "3",
+            "price": 41.2,
+            "quantity": 7.27,
+            "tax_amount": 95.39,
+            "total_ttc": 153.61,
+            "vat_amount": 0.33
+        },
+        {
+            "amount": 149.53,
+            "description": "architect magnetic deliverables",
+            "index": "1",
+            "price": 149.19,
+            "quantity": 2.49,
+            "tax_amount": 40.73,
+            "total_ttc": 173.07,
+            "vat_amount": 11.42
+        }
+    ],
+    "seller": {
+        "name": "Cheryl Martin"
+    },
+    "supplier": {
+        "address": "01428 William Square Suite 201 North Larryfurt, NV 49859",
+        "name": "Ariel Mayo"
+    },
+    "tax": {
+        "amount_excluding_tax": 48.05,
+        "amount_including_tax": 95.76,
+        "tax_amount": 10.51,
+        "total_ht": 409.69,
+        "total_ttc": 107.17
+    }
+}

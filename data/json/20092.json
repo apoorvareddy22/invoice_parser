@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "145 Jennifer Shoals Apt. 018 Gardnerport, OH 95703",
+        "company_name": "Cross and Sons",
+        "email": "benjamin91@example.com",
+        "name": "Diana Clark",
+        "phone": "590.685.5685"
+    },
+    "invoice": {
+        "date": "18.09.2007",
+        "due_date": "30.10.2007",
+        "number": "OOF80415981800"
+    },
+    "payment": {
+        "account_number": 4901950277,
+        "bank_name": "Tate LLC",
+        "routing_number": 204769527
+    },
+    "products": [
+        {
+            "amount": 177.16,
+            "description": "evolve sticky e-business",
+            "index": "4",
+            "quantity": 3.1,
+            "unit_price": 19.11
+        },
+        {
+            "amount": 189.71,
+            "description": "cultivate B2C technologies",
+            "index": "9",
+            "quantity": 3.15,
+            "unit_price": 23.21
+        },
+        {
+            "amount": 370.35,
+            "description": "engage collaborative applications",
+            "index": "3",
+            "quantity": 7.79,
+            "unit_price": 78.97
+        },
+        {
+            "amount": 21.94,
+            "description": "optimize granular action-items",
+            "index": "8",
+            "quantity": 9.52,
+            "unit_price": 62.88
+        },
+        {
+            "amount": 448.88,
+            "description": "whiteboard end-to-end systems",
+            "index": "3",
+            "quantity": 4.11,
+            "unit_price": 97.07
+        },
+        {
+            "amount": 114.43,
+            "description": "repurpose 24/7 systems",
+            "index": "7",
+            "quantity": 1.12,
+            "unit_price": 69.46
+        },
+        {
+            "amount": 276.78,
+            "description": "syndicate best-of-breed e-commerce",
+            "index": "5",
+            "quantity": 7.15,
+            "unit_price": 88.53
+        }
+    ],
+    "seller": {
+        "address": "2039 Christina Forks Apt. 253 South Timothyton, TX 79590",
+        "company_name": "Hall PLC",
+        "email": "susantodd@example.net"
+    }
+}

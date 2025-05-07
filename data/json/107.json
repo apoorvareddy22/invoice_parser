@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "58869 Amber Centers Suite 942 Lake Brandon, VI 52548",
+        "company_name": "Brown, Knight and Brown",
+        "country": "Albania",
+        "name": "David Jones"
+    },
+    "invoice": {
+        "date": "06.08.2023",
+        "number": 116998
+    },
+    "payment": {
+        "discount_amount": 16.85,
+        "discount_percentage": 17.84,
+        "due": 23.47,
+        "sub_total": 92.8,
+        "total": 497.85
+    },
+    "products": [
+        {
+            "description": "target magnetic e-tailers",
+            "index": "6",
+            "quantity": 3.48,
+            "total_price": 974.19,
+            "unit_price": 33.04
+        },
+        {
+            "description": "incubate impactful markets",
+            "index": "5",
+            "quantity": 4.17,
+            "total_price": 956.25,
+            "unit_price": 36.46
+        },
+        {
+            "description": "synthesize value-added channels",
+            "index": "6",
+            "quantity": 8.22,
+            "total_price": 189.66,
+            "unit_price": 86.12
+        }
+    ],
+    "seller": {
+        "address": "Unit 7957 Box 1144 DPO AP 54410",
+        "company_name": "Tucker, Rivera and Jones",
+        "vat_no": "on40411024355"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "7597 Hill Squares Shelbyview, SC 92428",
+        "id": "Kn248"
+    },
+    "invoice": {
+        "bc_no": "tW45662",
+        "currency_code": "COP",
+        "date": "28.03.2010",
+        "due_date": "30.09.2013",
+        "number": 778648
+    },
+    "payment": {
+        "bank_name": "Webster Ltd",
+        "bic": "QJVMGBJF",
+        "iban": "ZOZN68974501098504"
+    },
+    "products": [
+        {
+            "amount": 464.14,
+            "description": "transition cross-platform technologies",
+            "index": "3",
+            "price": 478.46,
+            "quantity": 4.88,
+            "tax_amount": 78.5,
+            "total_ttc": 105.68,
+            "vat_amount": 4.39
+        },
+        {
+            "amount": 244.08,
+            "description": "optimize efficient relationships",
+            "index": "1",
+            "price": 172.62,
+            "quantity": 9.2,
+            "tax_amount": 68.17,
+            "total_ttc": 410.45,
+            "vat_amount": 10.5
+        },
+        {
+            "amount": 153.62,
+            "description": "envisioneer global synergies",
+            "index": "6",
+            "price": 431.94,
+            "quantity": 1.36,
+            "tax_amount": 32.19,
+            "total_ttc": 254.82,
+            "vat_amount": 11.92
+        }
+    ],
+    "seller": {
+        "name": "Nicholas Campbell"
+    },
+    "supplier": {
+        "address": "815 Ethan Lane Apt. 156 Martinstad, WV 47235",
+        "name": "Mary Oneill"
+    },
+    "tax": {
+        "amount_excluding_tax": 185.36,
+        "amount_including_tax": 149.57,
+        "tax_amount": 12.75,
+        "total_ht": 277.25,
+        "total_ttc": 332.6
+    }
+}

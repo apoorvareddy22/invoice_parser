@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "PSC 6769, Box 8958 APO AE 50402",
+        "id": "nx337"
+    },
+    "invoice": {
+        "bc_no": "pL38775",
+        "currency_code": "RON",
+        "date": "01.11.1998",
+        "due_date": "20.03.1999",
+        "number": 673858
+    },
+    "payment": {
+        "bank_name": "Robertson, Coleman and Wright",
+        "bic": "KYEDGB24",
+        "iban": "VEUL66649630182938"
+    },
+    "products": [
+        {
+            "amount": 289.53,
+            "description": "integrate visionary e-tailers",
+            "index": "2",
+            "price": 362.12,
+            "quantity": 5.92,
+            "tax_amount": 41.3,
+            "total_ttc": 108.09,
+            "vat_amount": 1.47
+        }
+    ],
+    "seller": {
+        "name": "Amy Skinner"
+    },
+    "supplier": {
+        "address": "9976 Charles Cove New David, WA 80026",
+        "name": "Chelsea Chandler"
+    },
+    "tax": {
+        "amount_excluding_tax": 177.44,
+        "amount_including_tax": 48.53,
+        "tax_amount": 21.44,
+        "total_ht": 140.67,
+        "total_ttc": 167.6
+    }
+}

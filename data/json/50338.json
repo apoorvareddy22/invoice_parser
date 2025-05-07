@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "16929 Ross Overpass Suite 533 East Julieville, MS 32623",
+        "id": "cC924"
+    },
+    "invoice": {
+        "bc_no": "mb95930",
+        "currency_code": "BWP",
+        "date": "17.03.2002",
+        "due_date": "13.05.1993",
+        "number": 312512
+    },
+    "payment": {
+        "bank_name": "Fuller-Warren",
+        "bic": "RCRIGBQU73E",
+        "iban": "ZLNZ33219184239148"
+    },
+    "products": [
+        {
+            "amount": 235.17,
+            "description": "enable magnetic solutions",
+            "index": "2",
+            "price": 284.49,
+            "quantity": 7.96,
+            "tax_amount": 77.73,
+            "total_ttc": 372.8,
+            "vat_amount": 5.67
+        },
+        {
+            "amount": 258.38,
+            "description": "re-intermediate front-end paradigms",
+            "index": "5",
+            "price": 7.82,
+            "quantity": 9.19,
+            "tax_amount": 28.42,
+            "total_ttc": 164.41,
+            "vat_amount": 1.39
+        }
+    ],
+    "seller": {
+        "name": "Christopher Byrd"
+    },
+    "supplier": {
+        "address": "963 Phillips Stream New Hollyberg, OK 79368",
+        "name": "David Sherman"
+    },
+    "tax": {
+        "amount_excluding_tax": 86.01,
+        "amount_including_tax": 43.98,
+        "tax_amount": 11.49,
+        "total_ht": 126.93,
+        "total_ttc": 365.9
+    }
+}

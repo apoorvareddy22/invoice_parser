@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "89417 Copeland Circles Apt. 178 Lake Brandonfurt, PW 41929",
+        "email": "greenderek@example.net",
+        "phone": "481.757.3467x858",
+        "vat_no": "Bc54175079303"
+    },
+    "invoice": {
+        "date": "11.04.2021",
+        "due_date": "08.09.2015",
+        "market_reference": 893686,
+        "notes": "transition sticky deliverables",
+        "number": "4746-4586",
+        "reference": 490226,
+        "vat_no": "WO64762306525"
+    },
+    "payment": {
+        "net_total": 68.17,
+        "total": 531.66
+    },
+    "products": [
+        {
+            "amount": 80.46,
+            "description": "synthesize enterprise paradigms",
+            "hours": 5.33,
+            "rate": 9.17
+        },
+        {
+            "amount": 398.93,
+            "description": "synthesize innovative e-services",
+            "hours": 8.61,
+            "rate": 1.08
+        },
+        {
+            "amount": 460.02,
+            "description": "matrix enterprise e-markets",
+            "hours": 1.15,
+            "rate": 6.25
+        }
+    ],
+    "seller": {
+        "address": "79425 Kendra Mountains Suite 601 East Kendrahaven, MO 75153",
+        "email": "xconway@example.net",
+        "name": "Paul George"
+    },
+    "tax": {
+        "base": 29.97,
+        "tax_amount": 13.72,
+        "total_tax": 12.51
+    }
+}

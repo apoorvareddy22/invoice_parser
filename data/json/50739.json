@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "96420 Robert Forges Suite 762 Meganmouth, MD 37404",
+        "id": "em538"
+    },
+    "invoice": {
+        "bc_no": "sR38342",
+        "currency_code": "PEN",
+        "date": "30.10.2000",
+        "due_date": "18.12.2022",
+        "number": 425634
+    },
+    "payment": {
+        "bank_name": "Nelson, Moon and Vega",
+        "bic": "FEYTGBNSFOV",
+        "iban": "NXOQ05902321350417"
+    },
+    "products": [
+        {
+            "amount": 439.89,
+            "description": "innovate killer initiatives",
+            "index": "10",
+            "price": 141.21,
+            "quantity": 3.4,
+            "tax_amount": 31.08,
+            "total_ttc": 167.26,
+            "vat_amount": 1.02
+        },
+        {
+            "amount": 416.62,
+            "description": "visualize one-to-one communities",
+            "index": "5",
+            "price": 160.48,
+            "quantity": 2.75,
+            "tax_amount": 52.87,
+            "total_ttc": 459.76,
+            "vat_amount": 9.58
+        }
+    ],
+    "seller": {
+        "name": "Amanda Scott"
+    },
+    "supplier": {
+        "address": "7376 Erica Walks Suite 049 Joneston, IA 41393",
+        "name": "Jeffrey Ramirez"
+    },
+    "tax": {
+        "amount_excluding_tax": 28.84,
+        "amount_including_tax": 158.88,
+        "tax_amount": 17.33,
+        "total_ht": 444.84,
+        "total_ttc": 241.77
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "74581 Foster Flats Suite 779 East Robert, NE 47485"
+    },
+    "invoice": {
+        "bc_no": "Yi45412",
+        "date": "05.06.2012",
+        "maturity_date": "13.01.2017",
+        "number": 433953
+    },
+    "products": [
+        {
+            "amount": 197.96,
+            "description": "embrace extensible action-items",
+            "quantity": 8.26,
+            "unit_price": 81.81,
+            "vat_amount": 2.57
+        },
+        {
+            "amount": 6.33,
+            "description": "matrix rich convergence",
+            "quantity": 8.59,
+            "unit_price": 29.5,
+            "vat_amount": 8.85
+        }
+    ],
+    "seller": {
+        "address": "3240 Hall River Apt. 678 Nicoleton, AS 09217"
+    },
+    "tax": {
+        "amount_excluding_tax": 50.15,
+        "amount_including_tax": 69.03,
+        "tax_amount": 17.9
+    }
+}

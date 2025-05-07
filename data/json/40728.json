@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "745 Amber Landing Apt. 352 Hartmouth, IL 34314"
+    },
+    "invoice": {
+        "bc_no": "Rt21536",
+        "date": "07.03.1999",
+        "maturity_date": "29.07.1990",
+        "number": 996590
+    },
+    "products": [
+        {
+            "amount": 18.26,
+            "description": "drive leading-edge methodologies",
+            "quantity": 8.42,
+            "unit_price": 63.25,
+            "vat_amount": 12.46
+        },
+        {
+            "amount": 16.1,
+            "description": "seize sticky functionalities",
+            "quantity": 7.1,
+            "unit_price": 51.25,
+            "vat_amount": 8.39
+        },
+        {
+            "amount": 110.01,
+            "description": "morph user-centric bandwidth",
+            "quantity": 2.98,
+            "unit_price": 63.4,
+            "vat_amount": 10.17
+        },
+        {
+            "amount": 273.78,
+            "description": "streamline cross-media mindshare",
+            "quantity": 4.97,
+            "unit_price": 55.26,
+            "vat_amount": 3.83
+        }
+    ],
+    "seller": {
+        "address": "837 Monroe Forge Suite 926 North Amymouth, NH 75786"
+    },
+    "tax": {
+        "amount_excluding_tax": 108.06,
+        "amount_including_tax": 173.63,
+        "tax_amount": 25.43
+    }
+}

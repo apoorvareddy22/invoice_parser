@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "856 Tammy Vista Apt. 311 Williamschester, SC 98129",
+        "business_no": "PY444",
+        "id": "FI012"
+    },
+    "invoice": {
+        "date": "02.11.1998",
+        "number": "2217-0094"
+    },
+    "payment": {
+        "due_date": "28.06.2020",
+        "total": 220.7
+    },
+    "products": [
+        {
+            "amount": 445.87,
+            "description": "mesh clicks-and-mortar e-tailers",
+            "quantity": 7.34,
+            "reference": "AT-516",
+            "unit_price": 74.66
+        },
+        {
+            "amount": 421.2,
+            "description": "scale mission-critical markets",
+            "quantity": 1.37,
+            "reference": "PW-291",
+            "unit_price": 19.4
+        },
+        {
+            "amount": 268.48,
+            "description": "harness killer web services",
+            "quantity": 7.48,
+            "reference": "SH-142",
+            "unit_price": 78.57
+        },
+        {
+            "amount": 148.86,
+            "description": "transform turn-key portals",
+            "quantity": 2.39,
+            "reference": "sV-610",
+            "unit_price": 56.04
+        }
+    ],
+    "seller": {
+        "address": "64404 Trevino Mountains Apt. 083 West Shawnfurt, TN 48020"
+    },
+    "tax": {
+        "base_ht": 422.63,
+        "regulations": 20.02,
+        "total_ht": 321.35,
+        "vat_amount": 196.58,
+        "vat_percentage": 16.48
+    }
+}

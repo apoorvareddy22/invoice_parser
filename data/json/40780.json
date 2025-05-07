@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "771 Harper Avenue Apt. 292 Robertmouth, TN 29756"
+    },
+    "invoice": {
+        "bc_no": "cy61675",
+        "date": "17.01.2010",
+        "maturity_date": "26.01.2018",
+        "number": 165676
+    },
+    "products": [
+        {
+            "amount": 479.93,
+            "description": "re-intermediate distributed portals",
+            "quantity": 5.55,
+            "unit_price": 51.91,
+            "vat_amount": 14.21
+        },
+        {
+            "amount": 325.57,
+            "description": "architect bleeding-edge ROI",
+            "quantity": 8.41,
+            "unit_price": 87.5,
+            "vat_amount": 13.24
+        },
+        {
+            "amount": 34.87,
+            "description": "incentivize world-class deliverables",
+            "quantity": 5.31,
+            "unit_price": 43.5,
+            "vat_amount": 4.92
+        },
+        {
+            "amount": 264.58,
+            "description": "implement frictionless supply-chains",
+            "quantity": 3.21,
+            "unit_price": 78.83,
+            "vat_amount": 3.75
+        }
+    ],
+    "seller": {
+        "address": "8296 Cassandra Parks Port Debraland, NC 91320"
+    },
+    "tax": {
+        "amount_excluding_tax": 152.71,
+        "amount_including_tax": 189.53,
+        "tax_amount": 15.62
+    }
+}

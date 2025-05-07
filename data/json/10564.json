@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "PSC 3333, Box 5429 APO AP 60242",
+        "email": "youngbilly@example.net",
+        "phone": "230.210.2746",
+        "vat_no": "Sx29288221204"
+    },
+    "invoice": {
+        "date": "20.07.1990",
+        "due_date": "21.12.2008",
+        "market_reference": 847244,
+        "notes": "maximize visionary bandwidth",
+        "number": "8242-8324",
+        "reference": 506526,
+        "vat_no": "gd41730546131"
+    },
+    "payment": {
+        "net_total": 143.26,
+        "total": 579.71
+    },
+    "products": [
+        {
+            "amount": 104.93,
+            "description": "mesh integrated convergence",
+            "hours": 1.81,
+            "rate": 3.09
+        },
+        {
+            "amount": 439.64,
+            "description": "revolutionize collaborative e-markets",
+            "hours": 1.33,
+            "rate": 4.89
+        },
+        {
+            "amount": 167.63,
+            "description": "utilize proactive schemas",
+            "hours": 8.66,
+            "rate": 9.97
+        },
+        {
+            "amount": 338.02,
+            "description": "enhance killer e-services",
+            "hours": 1.03,
+            "rate": 7.9
+        },
+        {
+            "amount": 195.99,
+            "description": "synthesize intuitive solutions",
+            "hours": 7.53,
+            "rate": 2.79
+        },
+        {
+            "amount": 114.81,
+            "description": "monetize synergistic content",
+            "hours": 2.4,
+            "rate": 9.76
+        },
+        {
+            "amount": 385.11,
+            "description": "disintermediate customized solutions",
+            "hours": 7.13,
+            "rate": 1.34
+        }
+    ],
+    "seller": {
+        "address": "86020 Angela Causeway West Granthaven, MH 19982",
+        "email": "wlloyd@example.net",
+        "name": "Lisa Chase"
+    },
+    "tax": {
+        "base": 16.47,
+        "tax_amount": 27.45,
+        "total_tax": 28.05
+    }
+}

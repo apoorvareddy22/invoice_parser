@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "98467 Johnson Skyway Apt. 718 Port Cynthia, NJ 80216",
+        "email": "wesleymcdonald@example.net",
+        "phone": "+1-573-440-8303x54420",
+        "vat_no": "sG27161754033"
+    },
+    "invoice": {
+        "date": "17.01.2015",
+        "due_date": "30.09.2016",
+        "market_reference": 321582,
+        "notes": "benchmark back-end technologies",
+        "number": "8811-5999",
+        "reference": 236139,
+        "vat_no": "Km88970512293"
+    },
+    "payment": {
+        "net_total": 184.66,
+        "total": 792.03
+    },
+    "products": [
+        {
+            "amount": 40.84,
+            "description": "e-enable synergistic users",
+            "hours": 4.48,
+            "rate": 5.89
+        },
+        {
+            "amount": 336.66,
+            "description": "benchmark synergistic deliverables",
+            "hours": 2.24,
+            "rate": 9.93
+        },
+        {
+            "amount": 318.84,
+            "description": "matrix bricks-and-clicks infrastructures",
+            "hours": 5.52,
+            "rate": 7.67
+        }
+    ],
+    "seller": {
+        "address": "665 Michael Locks Suite 342 South Robin, CT 69737",
+        "email": "dennisjohn@example.org",
+        "name": "Katie Steele"
+    },
+    "tax": {
+        "base": 23.35,
+        "tax_amount": 12.85,
+        "total_tax": 26.03
+    }
+}

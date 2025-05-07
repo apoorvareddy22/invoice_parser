@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "585 Vance Branch East Christopher, FL 87979",
+        "business_no": "MM241",
+        "id": "vf984"
+    },
+    "invoice": {
+        "date": "11.02.2009",
+        "number": "0076-0338"
+    },
+    "payment": {
+        "due_date": "15.07.2014",
+        "total": 644.55
+    },
+    "products": [
+        {
+            "amount": 86.13,
+            "description": "enhance wireless interfaces",
+            "quantity": 1.8,
+            "reference": "Tr-717",
+            "unit_price": 98.32
+        },
+        {
+            "amount": 137.45,
+            "description": "morph global info-mediaries",
+            "quantity": 8.02,
+            "reference": "QM-556",
+            "unit_price": 69.84
+        },
+        {
+            "amount": 75.66,
+            "description": "monetize scalable platforms",
+            "quantity": 7.25,
+            "reference": "ps-328",
+            "unit_price": 93.72
+        },
+        {
+            "amount": 425.77,
+            "description": "unleash best-of-breed e-markets",
+            "quantity": 4.74,
+            "reference": "Rb-881",
+            "unit_price": 87.64
+        }
+    ],
+    "seller": {
+        "address": "35210 William Keys Andersonburgh, HI 33086"
+    },
+    "tax": {
+        "base_ht": 143.53,
+        "regulations": 22.01,
+        "total_ht": 374.8,
+        "vat_amount": 32.48,
+        "vat_percentage": 10.2
+    }
+}

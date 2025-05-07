@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "3976 Church Forge Marissashire, TN 67610",
+        "id": "Nh673"
+    },
+    "invoice": {
+        "bc_no": "qE65652",
+        "currency_code": "IMP",
+        "date": "04.01.1993",
+        "due_date": "30.03.1993",
+        "number": 793625
+    },
+    "payment": {
+        "bank_name": "Williams, Brown and Vargas",
+        "bic": "JMWWGBTX",
+        "iban": "OBCE26112145149161"
+    },
+    "products": [
+        {
+            "amount": 262.55,
+            "description": "empower extensible info-mediaries",
+            "index": "9",
+            "price": 160.65,
+            "quantity": 5.57,
+            "tax_amount": 74.77,
+            "total_ttc": 170.66,
+            "vat_amount": 1.59
+        }
+    ],
+    "seller": {
+        "name": "Garrett Soto"
+    },
+    "supplier": {
+        "address": "0178 Lawrence Estate Port Annburgh, CT 89169",
+        "name": "William Hill"
+    },
+    "tax": {
+        "amount_excluding_tax": 104.75,
+        "amount_including_tax": 12.05,
+        "tax_amount": 11.06,
+        "total_ht": 476.29,
+        "total_ttc": 390.32
+    }
+}

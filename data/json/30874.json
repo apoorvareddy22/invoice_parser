@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "18675 James Springs Apt. 413 West Wendyport, AZ 44368",
+        "company_name": "Lozano-Hale",
+        "country": "Marshall Islands",
+        "email": "thomasjones@example.com",
+        "name": "Michaela Bryant",
+        "phone": "001-368-535-1227x5557",
+        "vat_no": "TM36096246527"
+    },
+    "invoice": {
+        "date": "25.12.2009",
+        "due_date": "22.04.2021",
+        "linked_invoice": "AH-5788-5243",
+        "notes": "incubate innovative schemas",
+        "number": "iG-4165-1561"
+    },
+    "products": [
+        {
+            "description": "envisioneer innovative e-markets",
+            "discount_percentage": 19.85,
+            "price": 476.97,
+            "quantity": 1.26,
+            "unit_price": 38.65
+        },
+        {
+            "description": "deliver wireless e-markets",
+            "discount_percentage": 5.31,
+            "price": 372.34,
+            "quantity": 5.53,
+            "unit_price": 85.72
+        },
+        {
+            "description": "generate real-time supply-chains",
+            "discount_percentage": 16.1,
+            "price": 167.93,
+            "quantity": 9.39,
+            "unit_price": 16.98
+        },
+        {
+            "description": "repurpose 24/365 ROI",
+            "discount_percentage": 10.19,
+            "price": 175.15,
+            "quantity": 9.3,
+            "unit_price": 25.34
+        }
+    ],
+    "seller": {
+        "address": "88294 Mitchell Brook South Jenna, MA 47339",
+        "ape": "7500C",
+        "capital": 29265569,
+        "country": "Uruguay",
+        "email": "theresaolson@example.com",
+        "name": "Daniel Nelson",
+        "phone_1": "+1-641-417-1217x508",
+        "phone_2": "931.891.1169x2374",
+        "phone_3": "957.254.1070",
+        "ref_walk": "GLwD0029",
+        "reference": "bI822",
+        "siret": 45723583987736,
+        "vat_no": "FD73142046867",
+        "website": "http://www.johnson.com/"
+    },
+    "tax": {
+        "amount_0": 18.39,
+        "amount_1": 24.49,
+        "base_0": 16.03,
+        "base_1": 131.5,
+        "total_ht": 109.52,
+        "total_tax": 21.83,
+        "total_ttc": 319.92,
+        "vat_0": 17.28,
+        "vat_1": 12.52
+    }
+}

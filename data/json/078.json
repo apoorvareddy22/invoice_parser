@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "6381 Amber Drive Ramirezchester, SC 73800",
+        "company_name": "Reyes PLC",
+        "country": "Antigua and Barbuda",
+        "name": "David Robinson"
+    },
+    "invoice": {
+        "date": "27.03.2013",
+        "number": 251121
+    },
+    "payment": {
+        "discount_amount": 14.24,
+        "discount_percentage": 19.09,
+        "due": 73.17,
+        "sub_total": 28.85,
+        "total": 943.23
+    },
+    "products": [
+        {
+            "description": "leverage e-business users",
+            "index": "2",
+            "quantity": 9.16,
+            "total_price": 190.15,
+            "unit_price": 36.69
+        },
+        {
+            "description": "re-contextualize scalable mindshare",
+            "index": "7",
+            "quantity": 1.61,
+            "total_price": 483.88,
+            "unit_price": 54.18
+        }
+    ],
+    "seller": {
+        "address": "3968 Anthony Cliff New Lori, PA 26911",
+        "company_name": "Conner and Sons",
+        "vat_no": "YU73183974303"
+    }
+}

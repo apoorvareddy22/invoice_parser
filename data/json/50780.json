@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "27485 Castaneda Branch Sarahbury, VA 15220",
+        "id": "VS784"
+    },
+    "invoice": {
+        "bc_no": "Ax19774",
+        "currency_code": "CUP",
+        "date": "08.08.2007",
+        "due_date": "08.08.1991",
+        "number": 152648
+    },
+    "payment": {
+        "bank_name": "Lawson Ltd",
+        "bic": "FMFJGB9IOW3",
+        "iban": "UFEF46587107679494"
+    },
+    "products": [
+        {
+            "amount": 251.21,
+            "description": "incubate clicks-and-mortar models",
+            "index": "1",
+            "price": 251.1,
+            "quantity": 3.91,
+            "tax_amount": 91.94,
+            "total_ttc": 172.16,
+            "vat_amount": 7.36
+        },
+        {
+            "amount": 83.7,
+            "description": "aggregate vertical ROI",
+            "index": "7",
+            "price": 280.28,
+            "quantity": 2.89,
+            "tax_amount": 56.47,
+            "total_ttc": 285.96,
+            "vat_amount": 3.58
+        }
+    ],
+    "seller": {
+        "name": "Whitney Kramer"
+    },
+    "supplier": {
+        "address": "144 Obrien Crescent East Amberside, WI 53982",
+        "name": "Lisa Miller"
+    },
+    "tax": {
+        "amount_excluding_tax": 66.36,
+        "amount_including_tax": 146.55,
+        "tax_amount": 25.87,
+        "total_ht": 312.79,
+        "total_ttc": 371.24
+    }
+}

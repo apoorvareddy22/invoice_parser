@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "6535 Wolfe Shoal East Oliviastad, RI 85224",
+        "email": "ericnelson@example.org",
+        "phone": "6276830130",
+        "vat_no": "Pn36564282414"
+    },
+    "invoice": {
+        "date": "31.01.2001",
+        "due_date": "03.12.1999",
+        "market_reference": 800944,
+        "notes": "incubate plug-and-play infrastructures",
+        "number": "1841-9862",
+        "reference": 593392,
+        "vat_no": "tA52496074702"
+    },
+    "payment": {
+        "net_total": 156.62,
+        "total": 410.65
+    },
+    "products": [
+        {
+            "amount": 275.97,
+            "description": "orchestrate cross-media schemas",
+            "hours": 7.47,
+            "rate": 1.3
+        },
+        {
+            "amount": 459.72,
+            "description": "cultivate intuitive synergies",
+            "hours": 4.3,
+            "rate": 3.61
+        },
+        {
+            "amount": 232.42,
+            "description": "implement clicks-and-mortar markets",
+            "hours": 8.69,
+            "rate": 4.86
+        }
+    ],
+    "seller": {
+        "address": "60260 Michelle Burgs Apt. 927 Campbelltown, RI 05070",
+        "email": "kenneth37@example.org",
+        "name": "Darlene Lloyd"
+    },
+    "tax": {
+        "base": 21.17,
+        "tax_amount": 27.55,
+        "total_tax": 15.13
+    }
+}

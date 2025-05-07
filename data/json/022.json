@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "39248 Patel Trail Suite 211 New Michaelchester, ND 47880",
+        "company_name": "Walter, Gonzales and Walker",
+        "country": "Poland",
+        "name": "Amanda Jones"
+    },
+    "invoice": {
+        "date": "10.12.2013",
+        "number": 240981
+    },
+    "payment": {
+        "discount_amount": 46.05,
+        "discount_percentage": 14.95,
+        "due": 70.48,
+        "sub_total": 164.38,
+        "total": 721.38
+    },
+    "products": [
+        {
+            "description": "syndicate best-of-breed infrastructures",
+            "index": "1",
+            "quantity": 7.07,
+            "total_price": 22.03,
+            "unit_price": 34.27
+        },
+        {
+            "description": "harness global initiatives",
+            "index": "10",
+            "quantity": 7.65,
+            "total_price": 439.43,
+            "unit_price": 65.99
+        },
+        {
+            "description": "deploy turn-key web-readiness",
+            "index": "8",
+            "quantity": 4.89,
+            "total_price": 649.61,
+            "unit_price": 80.41
+        },
+        {
+            "description": "orchestrate e-business content",
+            "index": "4",
+            "quantity": 2.47,
+            "total_price": 868.96,
+            "unit_price": 69.88
+        }
+    ],
+    "seller": {
+        "address": "PSC 9711, Box 1778 APO AP 14397",
+        "company_name": "Anderson, Williams and Moore",
+        "vat_no": "Ql46564121402"
+    }
+}

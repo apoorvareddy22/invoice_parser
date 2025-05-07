@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "79611 Armstrong Path Suite 150 Samanthatown, ND 29865",
+        "id": "Tu251"
+    },
+    "invoice": {
+        "bc_no": "HU93112",
+        "currency_code": "GTQ",
+        "date": "28.09.2020",
+        "due_date": "31.12.2010",
+        "number": 149204
+    },
+    "payment": {
+        "bank_name": "Fuentes, Watkins and Buchanan",
+        "bic": "OYIEGBA1RXK",
+        "iban": "NPFQ63296874403903"
+    },
+    "products": [
+        {
+            "amount": 130.17,
+            "description": "disintermediate rich action-items",
+            "index": "9",
+            "price": 497.79,
+            "quantity": 5.18,
+            "tax_amount": 77.75,
+            "total_ttc": 445.41,
+            "vat_amount": 3.19
+        },
+        {
+            "amount": 229.37,
+            "description": "grow visionary e-tailers",
+            "index": "10",
+            "price": 67.4,
+            "quantity": 3.13,
+            "tax_amount": 90.0,
+            "total_ttc": 476.86,
+            "vat_amount": 0.75
+        },
+        {
+            "amount": 252.65,
+            "description": "embrace sticky e-tailers",
+            "index": "1",
+            "price": 212.69,
+            "quantity": 7.3,
+            "tax_amount": 97.66,
+            "total_ttc": 296.07,
+            "vat_amount": 2.36
+        },
+        {
+            "amount": 348.47,
+            "description": "architect bleeding-edge e-tailers",
+            "index": "7",
+            "price": 272.31,
+            "quantity": 9.38,
+            "tax_amount": 72.5,
+            "total_ttc": 234.79,
+            "vat_amount": 4.52
+        },
+        {
+            "amount": 422.18,
+            "description": "enable sticky experiences",
+            "index": "6",
+            "price": 58.89,
+            "quantity": 2.18,
+            "tax_amount": 84.37,
+            "total_ttc": 409.5,
+            "vat_amount": 4.41
+        }
+    ],
+    "seller": {
+        "name": "Erin Carter"
+    },
+    "supplier": {
+        "address": "670 Martin Wall Suite 131 West Toddland, NC 77149",
+        "name": "Leslie Johnson"
+    },
+    "tax": {
+        "amount_excluding_tax": 122.52,
+        "amount_including_tax": 98.45,
+        "tax_amount": 21.24,
+        "total_ht": 427.56,
+        "total_ttc": 164.32
+    }
+}

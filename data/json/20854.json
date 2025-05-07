@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "PSC 5891, Box 5125 APO AP 87700",
+        "company_name": "Smith LLC",
+        "email": "martindonald@example.org",
+        "name": "Paige Shah",
+        "phone": "530.596.5661"
+    },
+    "invoice": {
+        "date": "09.08.2023",
+        "due_date": "14.06.1991",
+        "number": "Mhu48823106010"
+    },
+    "payment": {
+        "account_number": 2879023780,
+        "bank_name": "Newman PLC",
+        "routing_number": 670273159
+    },
+    "products": [
+        {
+            "amount": 395.59,
+            "description": "strategize back-end paradigms",
+            "index": "1",
+            "quantity": 3.53,
+            "unit_price": 55.84
+        },
+        {
+            "amount": 327.68,
+            "description": "incentivize revolutionary methodologies",
+            "index": "9",
+            "quantity": 2.45,
+            "unit_price": 19.82
+        },
+        {
+            "amount": 356.23,
+            "description": "deliver killer mindshare",
+            "index": "10",
+            "quantity": 9.63,
+            "unit_price": 13.95
+        },
+        {
+            "amount": 476.73,
+            "description": "grow clicks-and-mortar interfaces",
+            "index": "6",
+            "quantity": 1.03,
+            "unit_price": 78.09
+        },
+        {
+            "amount": 99.9,
+            "description": "whiteboard bleeding-edge solutions",
+            "index": "2",
+            "quantity": 4.86,
+            "unit_price": 87.7
+        }
+    ],
+    "seller": {
+        "address": "16975 Charles Squares Apt. 206 Port Christophertown, PR 48728",
+        "company_name": "Smith Ltd",
+        "email": "rgarcia@example.net"
+    }
+}

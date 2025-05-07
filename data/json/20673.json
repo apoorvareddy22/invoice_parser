@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "08638 Jenkins Locks Apt. 164 West James, VA 46101",
+        "company_name": "Howard, Stephens and Long",
+        "email": "browntimothy@example.com",
+        "name": "Taylor Ramsey",
+        "phone": "(267)782-1920"
+    },
+    "invoice": {
+        "date": "16.07.1995",
+        "due_date": "24.06.2002",
+        "number": "gbX23084698658"
+    },
+    "payment": {
+        "account_number": 7134141637,
+        "bank_name": "Valdez Inc",
+        "routing_number": 974871523
+    },
+    "products": [
+        {
+            "amount": 325.77,
+            "description": "envisioneer cutting-edge e-services",
+            "index": "8",
+            "quantity": 7.87,
+            "unit_price": 57.22
+        }
+    ],
+    "seller": {
+        "address": "USS Gaines FPO AP 21244",
+        "company_name": "Harrington-Harris",
+        "email": "lauracobb@example.net"
+    }
+}

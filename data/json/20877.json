@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "70933 Miller Glen Suite 120 West Brian, OK 76384",
+        "company_name": "Smith Ltd",
+        "email": "cobbwendy@example.com",
+        "name": "Daniel Smith",
+        "phone": "+1-517-315-0439x160"
+    },
+    "invoice": {
+        "date": "14.04.2011",
+        "due_date": "05.04.2016",
+        "number": "LHa89971842832"
+    },
+    "payment": {
+        "account_number": 2033698586,
+        "bank_name": "Hardy, Blackburn and Simmons",
+        "routing_number": 510514515
+    },
+    "products": [
+        {
+            "amount": 339.85,
+            "description": "leverage end-to-end synergies",
+            "index": "7",
+            "quantity": 7.66,
+            "unit_price": 29.2
+        },
+        {
+            "amount": 155.9,
+            "description": "revolutionize proactive channels",
+            "index": "1",
+            "quantity": 9.94,
+            "unit_price": 26.85
+        },
+        {
+            "amount": 203.26,
+            "description": "repurpose customized e-business",
+            "index": "4",
+            "quantity": 7.89,
+            "unit_price": 36.31
+        }
+    ],
+    "seller": {
+        "address": "47515 Butler Run Apt. 886 North Andreport, DE 90561",
+        "company_name": "Mason and Sons",
+        "email": "eharris@example.org"
+    }
+}

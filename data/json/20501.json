@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "4648 Shaw Shores Apt. 773 North Christopher, OR 90470",
+        "company_name": "Aguilar Ltd",
+        "email": "sierra73@example.net",
+        "name": "Noah Thomas",
+        "phone": "482-229-1028"
+    },
+    "invoice": {
+        "date": "12.07.2021",
+        "due_date": "10.10.2014",
+        "number": "VOh14366622969"
+    },
+    "payment": {
+        "account_number": 6091349329,
+        "bank_name": "Jackson, Summers and Harris",
+        "routing_number": 954081287
+    },
+    "products": [
+        {
+            "amount": 476.43,
+            "description": "revolutionize clicks-and-mortar networks",
+            "index": "6",
+            "quantity": 7.84,
+            "unit_price": 51.43
+        }
+    ],
+    "seller": {
+        "address": "55600 House Mountains Butlerchester, TX 66655",
+        "company_name": "Sutton Inc",
+        "email": "whitepaul@example.com"
+    }
+}

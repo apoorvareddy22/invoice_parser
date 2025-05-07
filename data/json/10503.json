@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "6353 Russell Circle Taraside, SC 76813",
+        "email": "michael13@example.com",
+        "phone": "001-990-759-3276x675",
+        "vat_no": "dV32667729123"
+    },
+    "invoice": {
+        "date": "05.12.2023",
+        "due_date": "16.04.2018",
+        "market_reference": 297681,
+        "notes": "engineer visionary experiences",
+        "number": "6419-7410",
+        "reference": 551347,
+        "vat_no": "RO24579276186"
+    },
+    "payment": {
+        "net_total": 33.15,
+        "total": 175.13
+    },
+    "products": [
+        {
+            "amount": 310.86,
+            "description": "harness 24/365 architectures",
+            "hours": 9.44,
+            "rate": 8.66
+        },
+        {
+            "amount": 273.7,
+            "description": "facilitate one-to-one partnerships",
+            "hours": 9.55,
+            "rate": 5.6
+        },
+        {
+            "amount": 82.74,
+            "description": "leverage robust e-markets",
+            "hours": 2.65,
+            "rate": 2.93
+        },
+        {
+            "amount": 45.47,
+            "description": "optimize end-to-end schemas",
+            "hours": 9.83,
+            "rate": 9.33
+        }
+    ],
+    "seller": {
+        "address": "6014 Chambers Lights Suite 424 Ashleyside, MD 92813",
+        "email": "pyoung@example.com",
+        "name": "Matthew Arnold"
+    },
+    "tax": {
+        "base": 11.67,
+        "tax_amount": 14.53,
+        "total_tax": 26.07
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "180 Robert Rapids South Jose, PA 93030",
+        "company_name": "Bowen Inc",
+        "country": "El Salvador",
+        "name": "Edward Jenkins"
+    },
+    "invoice": {
+        "date": "03.08.1991",
+        "number": 781091
+    },
+    "payment": {
+        "discount_amount": 44.68,
+        "discount_percentage": 6.47,
+        "due": 46.91,
+        "sub_total": 179.93,
+        "total": 728.14
+    },
+    "products": [
+        {
+            "description": "seize clicks-and-mortar web services",
+            "index": "4",
+            "quantity": 1.01,
+            "total_price": 146.0,
+            "unit_price": 51.42
+        },
+        {
+            "description": "harness back-end communities",
+            "index": "1",
+            "quantity": 7.12,
+            "total_price": 854.54,
+            "unit_price": 94.32
+        }
+    ],
+    "seller": {
+        "address": "6778 Holt Track Apt. 998 West Meredith, PW 45359",
+        "company_name": "Hernandez Ltd",
+        "vat_no": "nc17975714849"
+    }
+}

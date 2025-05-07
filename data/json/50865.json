@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "USCGC Morton FPO AP 87598",
+        "id": "sm821"
+    },
+    "invoice": {
+        "bc_no": "Tn57401",
+        "currency_code": "PKR",
+        "date": "24.01.1993",
+        "due_date": "03.01.2014",
+        "number": 310867
+    },
+    "payment": {
+        "bank_name": "Lewis PLC",
+        "bic": "VBQEGBNA9MQ",
+        "iban": "IAWI26117583312090"
+    },
+    "products": [
+        {
+            "amount": 405.16,
+            "description": "expedite revolutionary deliverables",
+            "index": "1",
+            "price": 320.32,
+            "quantity": 8.85,
+            "tax_amount": 92.89,
+            "total_ttc": 266.09,
+            "vat_amount": 2.18
+        },
+        {
+            "amount": 394.14,
+            "description": "matrix extensible supply-chains",
+            "index": "3",
+            "price": 379.66,
+            "quantity": 4.55,
+            "tax_amount": 64.35,
+            "total_ttc": 457.8,
+            "vat_amount": 0.81
+        },
+        {
+            "amount": 484.55,
+            "description": "brand front-end e-tailers",
+            "index": "5",
+            "price": 354.15,
+            "quantity": 9.65,
+            "tax_amount": 37.19,
+            "total_ttc": 457.61,
+            "vat_amount": 2.52
+        },
+        {
+            "amount": 369.17,
+            "description": "iterate killer networks",
+            "index": "1",
+            "price": 10.05,
+            "quantity": 5.62,
+            "tax_amount": 52.65,
+            "total_ttc": 391.56,
+            "vat_amount": 1.86
+        },
+        {
+            "amount": 289.4,
+            "description": "productize interactive applications",
+            "index": "7",
+            "price": 89.79,
+            "quantity": 6.51,
+            "tax_amount": 96.79,
+            "total_ttc": 430.44,
+            "vat_amount": 1.97
+        }
+    ],
+    "seller": {
+        "name": "Laura Mata"
+    },
+    "supplier": {
+        "address": "92879 Kevin Rapid Haneystad, FL 08109",
+        "name": "Emily Barton"
+    },
+    "tax": {
+        "amount_excluding_tax": 21.71,
+        "amount_including_tax": 128.14,
+        "tax_amount": 26.97,
+        "total_ht": 150.33,
+        "total_ttc": 229.73
+    }
+}

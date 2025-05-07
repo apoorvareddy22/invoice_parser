@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "429 Wendy Point Suite 056 Sallyberg, SC 16657",
+        "email": "nbaker@example.net",
+        "phone": "4266778472",
+        "vat_no": "kx46282929332"
+    },
+    "invoice": {
+        "date": "30.07.1994",
+        "due_date": "20.09.1996",
+        "market_reference": 447407,
+        "notes": "enable clicks-and-mortar systems",
+        "number": "0489-3304",
+        "reference": 634632,
+        "vat_no": "QP13752797072"
+    },
+    "payment": {
+        "net_total": 32.21,
+        "total": 100.19
+    },
+    "products": [
+        {
+            "amount": 347.9,
+            "description": "transition collaborative schemas",
+            "hours": 3.54,
+            "rate": 1.15
+        },
+        {
+            "amount": 427.22,
+            "description": "drive killer functionalities",
+            "hours": 9.11,
+            "rate": 6.19
+        },
+        {
+            "amount": 425.91,
+            "description": "re-contextualize B2C functionalities",
+            "hours": 4.4,
+            "rate": 4.49
+        }
+    ],
+    "seller": {
+        "address": "70580 Francis Run Suite 262 Brandtborough, VT 54773",
+        "email": "qlambert@example.org",
+        "name": "Aaron Banks"
+    },
+    "tax": {
+        "base": 13.97,
+        "tax_amount": 15.54,
+        "total_tax": 28.93
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "3795 Cruz Junction Lake Peter, NY 96692",
+        "company_name": "Harris Inc",
+        "email": "thomas79@example.com",
+        "name": "Ricky Martin",
+        "phone": "001-929-545-5289x502"
+    },
+    "invoice": {
+        "date": "22.09.2022",
+        "due_date": "06.02.2014",
+        "number": "LrT14342302005"
+    },
+    "payment": {
+        "account_number": 5781217537,
+        "bank_name": "Brown Inc",
+        "routing_number": 441104088
+    },
+    "products": [
+        {
+            "amount": 189.93,
+            "description": "maximize real-time architectures",
+            "index": "1",
+            "quantity": 2.07,
+            "unit_price": 54.37
+        },
+        {
+            "amount": 483.21,
+            "description": "synergize impactful synergies",
+            "index": "9",
+            "quantity": 8.76,
+            "unit_price": 52.32
+        },
+        {
+            "amount": 134.65,
+            "description": "exploit bricks-and-clicks action-items",
+            "index": "2",
+            "quantity": 4.38,
+            "unit_price": 52.83
+        },
+        {
+            "amount": 113.21,
+            "description": "optimize open-source e-business",
+            "index": "6",
+            "quantity": 6.88,
+            "unit_price": 17.91
+        },
+        {
+            "amount": 138.88,
+            "description": "transition web-enabled relationships",
+            "index": "2",
+            "quantity": 4.86,
+            "unit_price": 33.05
+        }
+    ],
+    "seller": {
+        "address": "6251 Marcus Port Sherylhaven, MS 50907",
+        "company_name": "Haynes, Hill and Harris",
+        "email": "kcollins@example.net"
+    }
+}

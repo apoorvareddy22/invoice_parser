@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "67229 Ryan Harbors Suite 237 West Johnmouth, MA 99066",
+        "id": "Yb150"
+    },
+    "invoice": {
+        "bc_no": "Av52896",
+        "currency_code": "NPR",
+        "date": "02.10.1993",
+        "due_date": "18.05.1994",
+        "number": 636583
+    },
+    "payment": {
+        "bank_name": "Fleming-Weber",
+        "bic": "MAJDGBYL",
+        "iban": "DFYH09052849242549"
+    },
+    "products": [
+        {
+            "amount": 470.38,
+            "description": "innovate transparent synergies",
+            "index": "9",
+            "price": 377.83,
+            "quantity": 8.34,
+            "tax_amount": 74.44,
+            "total_ttc": 366.7,
+            "vat_amount": 6.38
+        },
+        {
+            "amount": 443.54,
+            "description": "expedite impactful partnerships",
+            "index": "9",
+            "price": 441.19,
+            "quantity": 1.2,
+            "tax_amount": 97.49,
+            "total_ttc": 324.62,
+            "vat_amount": 0.28
+        },
+        {
+            "amount": 241.18,
+            "description": "iterate value-added communities",
+            "index": "4",
+            "price": 360.75,
+            "quantity": 2.6,
+            "tax_amount": 58.79,
+            "total_ttc": 429.51,
+            "vat_amount": 0.4
+        },
+        {
+            "amount": 259.7,
+            "description": "enhance transparent deliverables",
+            "index": "6",
+            "price": 410.45,
+            "quantity": 9.86,
+            "tax_amount": 85.18,
+            "total_ttc": 389.24,
+            "vat_amount": 0.11
+        },
+        {
+            "amount": 465.7,
+            "description": "mesh scalable networks",
+            "index": "6",
+            "price": 273.48,
+            "quantity": 9.87,
+            "tax_amount": 80.34,
+            "total_ttc": 464.8,
+            "vat_amount": 1.58
+        },
+        {
+            "amount": 363.2,
+            "description": "integrate dynamic vortals",
+            "index": "2",
+            "price": 149.7,
+            "quantity": 5.52,
+            "tax_amount": 99.48,
+            "total_ttc": 393.5,
+            "vat_amount": 3.48
+        }
+    ],
+    "seller": {
+        "name": "Kimberly Dudley"
+    },
+    "supplier": {
+        "address": "3736 Robert Divide East Dorothy, OH 11968",
+        "name": "Vicki Fernandez"
+    },
+    "tax": {
+        "amount_excluding_tax": 156.45,
+        "amount_including_tax": 94.7,
+        "tax_amount": 13.77,
+        "total_ht": 405.12,
+        "total_ttc": 405.44
+    }
+}

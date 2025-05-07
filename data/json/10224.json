@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "6092 Larson Radial Carsonburgh, NJ 10741",
+        "email": "georgegiles@example.net",
+        "phone": "(509)674-0730x1293",
+        "vat_no": "ga54522072819"
+    },
+    "invoice": {
+        "date": "11.08.1998",
+        "due_date": "05.12.2010",
+        "market_reference": 985812,
+        "notes": "extend dot-com paradigms",
+        "number": "5868-1951",
+        "reference": 599405,
+        "vat_no": "Za25505331598"
+    },
+    "payment": {
+        "net_total": 20.88,
+        "total": 417.84
+    },
+    "products": [
+        {
+            "amount": 112.05,
+            "description": "enable efficient initiatives",
+            "hours": 9.03,
+            "rate": 3.77
+        }
+    ],
+    "seller": {
+        "address": "70300 Lewis Road Suite 935 Timothyburgh, ME 41862",
+        "email": "warrenemily@example.org",
+        "name": "Kristina Murphy"
+    },
+    "tax": {
+        "base": 12.63,
+        "tax_amount": 22.52,
+        "total_tax": 27.96
+    }
+}

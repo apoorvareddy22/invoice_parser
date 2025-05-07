@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "08106 Rhodes Road Apt. 648 Rachelfort, MN 05008",
+        "company_name": "Hill, Golden and Glover",
+        "country": "Cameroon",
+        "name": "Sandra Gonzales"
+    },
+    "invoice": {
+        "date": "25.05.1999",
+        "number": 327249
+    },
+    "payment": {
+        "discount_amount": 31.45,
+        "discount_percentage": 12.51,
+        "due": 196.71,
+        "sub_total": 99.73,
+        "total": 201.33
+    },
+    "products": [
+        {
+            "description": "expedite dynamic systems",
+            "index": "10",
+            "quantity": 3.06,
+            "total_price": 181.56,
+            "unit_price": 10.5
+        },
+        {
+            "description": "aggregate one-to-one web-readiness",
+            "index": "5",
+            "quantity": 9.11,
+            "total_price": 863.81,
+            "unit_price": 38.27
+        }
+    ],
+    "seller": {
+        "address": "267 Daniel Vista Apt. 791 Lake Regina, MO 21153",
+        "company_name": "Hall LLC",
+        "vat_no": "XT09633343961"
+    }
+}

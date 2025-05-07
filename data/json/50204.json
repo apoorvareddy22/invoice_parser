@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "USCGC Holmes FPO AA 27781",
+        "id": "Au356"
+    },
+    "invoice": {
+        "bc_no": "HF57161",
+        "currency_code": "TRY",
+        "date": "13.08.2009",
+        "due_date": "15.12.2008",
+        "number": 650191
+    },
+    "payment": {
+        "bank_name": "Scott-Henry",
+        "bic": "IDITGBSHXT2",
+        "iban": "YZJW70178353466255"
+    },
+    "products": [
+        {
+            "amount": 26.28,
+            "description": "implement killer interfaces",
+            "index": "5",
+            "price": 167.24,
+            "quantity": 9.18,
+            "tax_amount": 20.79,
+            "total_ttc": 471.76,
+            "vat_amount": 0.95
+        }
+    ],
+    "seller": {
+        "name": "Cynthia Baker"
+    },
+    "supplier": {
+        "address": "USCGC Lewis FPO AP 07285",
+        "name": "Karl Mcmahon"
+    },
+    "tax": {
+        "amount_excluding_tax": 33.68,
+        "amount_including_tax": 10.88,
+        "tax_amount": 16.92,
+        "total_ht": 499.86,
+        "total_ttc": 102.76
+    }
+}

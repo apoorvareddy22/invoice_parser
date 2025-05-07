@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "48408 Smith Plaza North Tina, CA 26711",
+        "id": "wm676"
+    },
+    "invoice": {
+        "bc_no": "ia15993",
+        "currency_code": "STD",
+        "date": "25.10.2005",
+        "due_date": "09.01.1995",
+        "number": 379212
+    },
+    "payment": {
+        "bank_name": "Hull, Hernandez and Sanchez",
+        "bic": "FBWDGBEB",
+        "iban": "RUFB20748251302812"
+    },
+    "products": [
+        {
+            "amount": 474.02,
+            "description": "transition enterprise e-business",
+            "index": "9",
+            "price": 45.18,
+            "quantity": 9.05,
+            "tax_amount": 31.5,
+            "total_ttc": 307.31,
+            "vat_amount": 0.83
+        },
+        {
+            "amount": 156.23,
+            "description": "streamline best-of-breed markets",
+            "index": "1",
+            "price": 160.31,
+            "quantity": 6.22,
+            "tax_amount": 55.55,
+            "total_ttc": 489.65,
+            "vat_amount": 4.0
+        },
+        {
+            "amount": 392.45,
+            "description": "streamline proactive paradigms",
+            "index": "10",
+            "price": 25.93,
+            "quantity": 8.86,
+            "tax_amount": 59.65,
+            "total_ttc": 147.9,
+            "vat_amount": 0.98
+        },
+        {
+            "amount": 240.07,
+            "description": "e-enable scalable synergies",
+            "index": "6",
+            "price": 250.77,
+            "quantity": 9.48,
+            "tax_amount": 42.45,
+            "total_ttc": 144.84,
+            "vat_amount": 1.47
+        },
+        {
+            "amount": 83.23,
+            "description": "incubate front-end users",
+            "index": "3",
+            "price": 107.2,
+            "quantity": 9.95,
+            "tax_amount": 20.86,
+            "total_ttc": 221.19,
+            "vat_amount": 17.09
+        }
+    ],
+    "seller": {
+        "name": "Bruce Huffman"
+    },
+    "supplier": {
+        "address": "40882 Morgan Unions Thomasbury, AZ 54997",
+        "name": "Amanda Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 153.76,
+        "amount_including_tax": 42.19,
+        "tax_amount": 28.35,
+        "total_ht": 350.8,
+        "total_ttc": 296.1
+    }
+}

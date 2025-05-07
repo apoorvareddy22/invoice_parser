@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "421 Brian Mews Apt. 281 Jordanton, DC 17171",
+        "business_no": "th892",
+        "id": "QH536"
+    },
+    "invoice": {
+        "date": "08.06.2017",
+        "number": "1420-6851"
+    },
+    "payment": {
+        "due_date": "05.04.2011",
+        "total": 300.38
+    },
+    "products": [
+        {
+            "amount": 129.95,
+            "description": "integrate leading-edge users",
+            "quantity": 3.7,
+            "reference": "EW-275",
+            "unit_price": 89.05
+        },
+        {
+            "amount": 28.77,
+            "description": "monetize bricks-and-clicks web-readiness",
+            "quantity": 5.2,
+            "reference": "pQ-363",
+            "unit_price": 83.03
+        },
+        {
+            "amount": 250.89,
+            "description": "embrace wireless bandwidth",
+            "quantity": 1.01,
+            "reference": "LL-850",
+            "unit_price": 23.38
+        },
+        {
+            "amount": 195.99,
+            "description": "brand revolutionary channels",
+            "quantity": 7.05,
+            "reference": "KK-670",
+            "unit_price": 10.59
+        },
+        {
+            "amount": 165.72,
+            "description": "aggregate killer eyeballs",
+            "quantity": 7.01,
+            "reference": "yT-665",
+            "unit_price": 12.55
+        }
+    ],
+    "seller": {
+        "address": "3691 Brown Road Butlerbury, SD 13320"
+    },
+    "tax": {
+        "base_ht": 381.58,
+        "regulations": 23.68,
+        "total_ht": 256.81,
+        "vat_amount": 190.15,
+        "vat_percentage": 23.27
+    }
+}

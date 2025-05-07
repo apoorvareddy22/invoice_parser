@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "36737 Dickerson Drives North Shannonchester, WA 27272"
+    },
+    "invoice": {
+        "bc_no": "qC29605",
+        "date": "03.04.2017",
+        "maturity_date": "26.02.2002",
+        "number": 369478
+    },
+    "products": [
+        {
+            "amount": 403.21,
+            "description": "disintermediate 24/365 e-commerce",
+            "quantity": 6.89,
+            "unit_price": 63.77,
+            "vat_amount": 2.38
+        },
+        {
+            "amount": 268.06,
+            "description": "mesh sticky channels",
+            "quantity": 6.26,
+            "unit_price": 31.55,
+            "vat_amount": 11.08
+        },
+        {
+            "amount": 423.94,
+            "description": "evolve B2C architectures",
+            "quantity": 9.05,
+            "unit_price": 48.9,
+            "vat_amount": 4.14
+        }
+    ],
+    "seller": {
+        "address": "5679 Underwood Heights Deckerberg, MA 69792"
+    },
+    "tax": {
+        "amount_excluding_tax": 191.94,
+        "amount_including_tax": 113.78,
+        "tax_amount": 29.01
+    }
+}

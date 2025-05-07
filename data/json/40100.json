@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "6781 Samuel Lights Lake Alexanderland, AL 03964"
+    },
+    "invoice": {
+        "bc_no": "SN23950",
+        "date": "13.09.2013",
+        "maturity_date": "26.06.1993",
+        "number": 518472
+    },
+    "products": [
+        {
+            "amount": 202.77,
+            "description": "streamline innovative synergies",
+            "quantity": 2.1,
+            "unit_price": 23.84,
+            "vat_amount": 1.41
+        },
+        {
+            "amount": 135.69,
+            "description": "leverage holistic web-readiness",
+            "quantity": 2.74,
+            "unit_price": 24.57,
+            "vat_amount": 3.68
+        }
+    ],
+    "seller": {
+        "address": "251 Clinton River Donaldtown, CA 07611"
+    },
+    "tax": {
+        "amount_excluding_tax": 55.83,
+        "amount_including_tax": 135.78,
+        "tax_amount": 12.61
+    }
+}

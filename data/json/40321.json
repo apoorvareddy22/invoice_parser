@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "86493 Thompson Streets Apt. 686 Browntown, WI 57625"
+    },
+    "invoice": {
+        "bc_no": "pU36681",
+        "date": "07.04.2023",
+        "maturity_date": "04.05.1994",
+        "number": 475295
+    },
+    "products": [
+        {
+            "amount": 386.95,
+            "description": "visualize efficient convergence",
+            "quantity": 3.89,
+            "unit_price": 51.0,
+            "vat_amount": 7.81
+        },
+        {
+            "amount": 350.55,
+            "description": "unleash back-end convergence",
+            "quantity": 1.66,
+            "unit_price": 16.8,
+            "vat_amount": 0.35
+        },
+        {
+            "amount": 197.65,
+            "description": "monetize strategic infrastructures",
+            "quantity": 7.03,
+            "unit_price": 26.57,
+            "vat_amount": 6.68
+        }
+    ],
+    "seller": {
+        "address": "7910 Bates Dam Suite 001 New Kelseystad, AR 52125"
+    },
+    "tax": {
+        "amount_excluding_tax": 118.69,
+        "amount_including_tax": 197.13,
+        "tax_amount": 21.67
+    }
+}

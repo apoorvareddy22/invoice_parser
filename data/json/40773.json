@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "746 Smith Underpass Suite 308 Port Jacob, GU 85628"
+    },
+    "invoice": {
+        "bc_no": "BB52575",
+        "date": "28.11.2012",
+        "maturity_date": "21.06.2010",
+        "number": 122074
+    },
+    "products": [
+        {
+            "amount": 147.07,
+            "description": "productize leading-edge action-items",
+            "quantity": 2.69,
+            "unit_price": 31.26,
+            "vat_amount": 1.17
+        },
+        {
+            "amount": 455.95,
+            "description": "scale revolutionary systems",
+            "quantity": 6.84,
+            "unit_price": 96.99,
+            "vat_amount": 1.56
+        },
+        {
+            "amount": 423.54,
+            "description": "deploy turn-key synergies",
+            "quantity": 4.56,
+            "unit_price": 36.38,
+            "vat_amount": 0.2
+        },
+        {
+            "amount": 90.36,
+            "description": "e-enable strategic networks",
+            "quantity": 3.2,
+            "unit_price": 25.68,
+            "vat_amount": 7.59
+        }
+    ],
+    "seller": {
+        "address": "72595 Hunt Court Hayeshaven, VT 08051"
+    },
+    "tax": {
+        "amount_excluding_tax": 116.43,
+        "amount_including_tax": 182.61,
+        "tax_amount": 22.69
+    }
+}

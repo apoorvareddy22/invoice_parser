@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "PSC 7082, Box 3657 APO AP 59252",
+        "email": "jamessimmons@example.org",
+        "phone": "001-543-647-5797x54995",
+        "vat_no": "XV55816801386"
+    },
+    "invoice": {
+        "date": "21.02.2003",
+        "due_date": "09.08.2018",
+        "market_reference": 459433,
+        "notes": "disintermediate wireless users",
+        "number": "7930-1707",
+        "reference": 674010,
+        "vat_no": "OI01998322799"
+    },
+    "payment": {
+        "net_total": 84.74,
+        "total": 756.2
+    },
+    "products": [
+        {
+            "amount": 485.28,
+            "description": "visualize cross-media eyeballs",
+            "hours": 5.97,
+            "rate": 1.26
+        },
+        {
+            "amount": 423.57,
+            "description": "enhance e-business relationships",
+            "hours": 6.97,
+            "rate": 4.69
+        },
+        {
+            "amount": 311.91,
+            "description": "enable next-generation architectures",
+            "hours": 8.41,
+            "rate": 2.76
+        },
+        {
+            "amount": 155.48,
+            "description": "engage collaborative solutions",
+            "hours": 7.64,
+            "rate": 8.25
+        }
+    ],
+    "seller": {
+        "address": "2956 Bowen Haven South Amymouth, WI 62704",
+        "email": "joshua50@example.net",
+        "name": "Mark Byrd"
+    },
+    "tax": {
+        "base": 10.19,
+        "tax_amount": 13.09,
+        "total_tax": 18.08
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "5284 Miller Tunnel East Matthewburgh, DC 45918",
+        "company_name": "Johnson Group",
+        "country": "Singapore",
+        "name": "Justin Miller"
+    },
+    "invoice": {
+        "date": "30.10.1995",
+        "number": 715417
+    },
+    "payment": {
+        "discount_amount": 41.75,
+        "discount_percentage": 5.38,
+        "due": 146.65,
+        "sub_total": 100.87,
+        "total": 885.24
+    },
+    "products": [
+        {
+            "description": "optimize best-of-breed solutions",
+            "index": "1",
+            "quantity": 9.43,
+            "total_price": 700.55,
+            "unit_price": 70.76
+        },
+        {
+            "description": "extend ubiquitous methodologies",
+            "index": "6",
+            "quantity": 6.73,
+            "total_price": 112.15,
+            "unit_price": 72.21
+        },
+        {
+            "description": "evolve ubiquitous e-commerce",
+            "index": "7",
+            "quantity": 8.33,
+            "total_price": 69.09,
+            "unit_price": 32.04
+        },
+        {
+            "description": "innovate leading-edge bandwidth",
+            "index": "3",
+            "quantity": 10.0,
+            "total_price": 966.98,
+            "unit_price": 63.67
+        }
+    ],
+    "seller": {
+        "address": "PSC 0678, Box 9712 APO AP 71968",
+        "company_name": "King-Mcneil",
+        "vat_no": "ZU61021846297"
+    }
+}

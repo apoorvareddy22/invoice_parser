@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "261 Watts Falls Suite 715 Williamschester, MH 47639",
+        "id": "VW849"
+    },
+    "invoice": {
+        "bc_no": "mK00476",
+        "currency_code": "XPF",
+        "date": "26.02.2006",
+        "due_date": "16.04.1992",
+        "number": 520349
+    },
+    "payment": {
+        "bank_name": "Kidd, Brock and Barrett",
+        "bic": "ILXLGBHT",
+        "iban": "WHFI53392641041737"
+    },
+    "products": [
+        {
+            "amount": 321.52,
+            "description": "synergize scalable communities",
+            "index": "9",
+            "price": 100.33,
+            "quantity": 2.95,
+            "tax_amount": 51.58,
+            "total_ttc": 201.31,
+            "vat_amount": 0.96
+        },
+        {
+            "amount": 366.81,
+            "description": "revolutionize sticky channels",
+            "index": "8",
+            "price": 485.48,
+            "quantity": 4.39,
+            "tax_amount": 46.35,
+            "total_ttc": 434.44,
+            "vat_amount": 8.74
+        },
+        {
+            "amount": 114.81,
+            "description": "benchmark dot-com models",
+            "index": "4",
+            "price": 53.66,
+            "quantity": 3.53,
+            "tax_amount": 50.39,
+            "total_ttc": 158.51,
+            "vat_amount": 0.96
+        }
+    ],
+    "seller": {
+        "name": "William Peters"
+    },
+    "supplier": {
+        "address": "Unit 7996 Box 3320 DPO AA 26213",
+        "name": "Jack Davis"
+    },
+    "tax": {
+        "amount_excluding_tax": 104.97,
+        "amount_including_tax": 40.42,
+        "tax_amount": 13.75,
+        "total_ht": 213.63,
+        "total_ttc": 151.28
+    }
+}

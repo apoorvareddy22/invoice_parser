@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "8164 Perez Forest Stacyville, AL 74801",
+        "email": "cohenjoseph@example.com",
+        "phone": "(929)552-7433",
+        "vat_no": "nT39044714338"
+    },
+    "invoice": {
+        "date": "11.08.2014",
+        "due_date": "28.11.2016",
+        "market_reference": 252869,
+        "notes": "cultivate one-to-one relationships",
+        "number": "4444-4551",
+        "reference": 632913,
+        "vat_no": "qW36056776810"
+    },
+    "payment": {
+        "net_total": 193.29,
+        "total": 150.32
+    },
+    "products": [
+        {
+            "amount": 62.11,
+            "description": "scale viral models",
+            "hours": 7.96,
+            "rate": 6.92
+        },
+        {
+            "amount": 179.29,
+            "description": "disintermediate user-centric e-tailers",
+            "hours": 1.55,
+            "rate": 2.54
+        },
+        {
+            "amount": 336.97,
+            "description": "re-intermediate enterprise web-readiness",
+            "hours": 2.18,
+            "rate": 8.65
+        },
+        {
+            "amount": 160.27,
+            "description": "aggregate open-source deliverables",
+            "hours": 9.04,
+            "rate": 1.06
+        }
+    ],
+    "seller": {
+        "address": "03351 Hannah Harbor Apt. 775 East Catherine, PA 33167",
+        "email": "ubailey@example.com",
+        "name": "Joshua Davis"
+    },
+    "tax": {
+        "base": 16.99,
+        "tax_amount": 23.45,
+        "total_tax": 13.78
+    }
+}

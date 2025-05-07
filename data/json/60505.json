@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "USNS Owens FPO AP 08466",
+        "business_no": "jJ111",
+        "id": "hu077"
+    },
+    "invoice": {
+        "date": "27.06.2020",
+        "number": "4258-1328"
+    },
+    "payment": {
+        "due_date": "08.04.2004",
+        "total": 131.92
+    },
+    "products": [
+        {
+            "amount": 124.21,
+            "description": "repurpose global e-tailers",
+            "quantity": 4.06,
+            "reference": "AC-190",
+            "unit_price": 77.42
+        },
+        {
+            "amount": 299.36,
+            "description": "exploit seamless solutions",
+            "quantity": 9.54,
+            "reference": "Xn-995",
+            "unit_price": 72.44
+        },
+        {
+            "amount": 46.35,
+            "description": "enable strategic platforms",
+            "quantity": 2.65,
+            "reference": "Kg-991",
+            "unit_price": 83.93
+        },
+        {
+            "amount": 49.88,
+            "description": "enhance customized content",
+            "quantity": 1.17,
+            "reference": "bM-498",
+            "unit_price": 32.79
+        }
+    ],
+    "seller": {
+        "address": "323 Brittany Ridges Apt. 341 Mirandaview, FM 48063"
+    },
+    "tax": {
+        "base_ht": 377.45,
+        "regulations": 29.17,
+        "total_ht": 134.87,
+        "vat_amount": 180.88,
+        "vat_percentage": 20.93
+    }
+}

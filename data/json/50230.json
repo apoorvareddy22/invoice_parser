@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "414 Richards Meadow Suite 618 Fisherfort, MS 45230",
+        "id": "BZ677"
+    },
+    "invoice": {
+        "bc_no": "TT36557",
+        "currency_code": "BYR",
+        "date": "23.04.2023",
+        "due_date": "08.09.2016",
+        "number": 906838
+    },
+    "payment": {
+        "bank_name": "Smith Ltd",
+        "bic": "BYPHGBNO8N3",
+        "iban": "YOKC65640438130903"
+    },
+    "products": [
+        {
+            "amount": 23.55,
+            "description": "scale value-added paradigms",
+            "index": "9",
+            "price": 395.99,
+            "quantity": 3.9,
+            "tax_amount": 71.04,
+            "total_ttc": 408.03,
+            "vat_amount": 7.64
+        },
+        {
+            "amount": 192.01,
+            "description": "syndicate integrated portals",
+            "index": "5",
+            "price": 299.66,
+            "quantity": 7.13,
+            "tax_amount": 12.01,
+            "total_ttc": 255.21,
+            "vat_amount": 0.91
+        },
+        {
+            "amount": 455.89,
+            "description": "synthesize collaborative markets",
+            "index": "10",
+            "price": 199.53,
+            "quantity": 1.35,
+            "tax_amount": 16.28,
+            "total_ttc": 286.43,
+            "vat_amount": 13.13
+        }
+    ],
+    "seller": {
+        "name": "Elizabeth Wong"
+    },
+    "supplier": {
+        "address": "PSC 4922, Box 9447 APO AA 74937",
+        "name": "Grace Allen"
+    },
+    "tax": {
+        "amount_excluding_tax": 114.9,
+        "amount_including_tax": 30.58,
+        "tax_amount": 21.15,
+        "total_ht": 182.5,
+        "total_ttc": 115.05
+    }
+}

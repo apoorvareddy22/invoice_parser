@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "74943 Angela Falls Port Jeremytown, OK 03213",
+        "id": "Zt789"
+    },
+    "invoice": {
+        "bc_no": "vr14350",
+        "currency_code": "SDG",
+        "date": "04.04.1998",
+        "due_date": "05.08.1993",
+        "number": 262888
+    },
+    "payment": {
+        "bank_name": "Hatfield, Thompson and Patel",
+        "bic": "YHBAGBGRC83",
+        "iban": "WQOL36452068396252"
+    },
+    "products": [
+        {
+            "amount": 187.32,
+            "description": "innovate bricks-and-clicks synergies",
+            "index": "1",
+            "price": 342.34,
+            "quantity": 6.04,
+            "tax_amount": 89.38,
+            "total_ttc": 139.21,
+            "vat_amount": 2.86
+        }
+    ],
+    "seller": {
+        "name": "Danielle Jackson"
+    },
+    "supplier": {
+        "address": "USS Sanchez FPO AP 49511",
+        "name": "Ms. Jacqueline Smith DVM"
+    },
+    "tax": {
+        "amount_excluding_tax": 76.0,
+        "amount_including_tax": 177.68,
+        "tax_amount": 22.54,
+        "total_ht": 116.12,
+        "total_ttc": 379.13
+    }
+}

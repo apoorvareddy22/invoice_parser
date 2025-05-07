@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "PSC 5870, Box 8421 APO AP 42251",
+        "business_no": "px429",
+        "id": "YD655"
+    },
+    "invoice": {
+        "date": "10.11.2011",
+        "number": "2419-7559"
+    },
+    "payment": {
+        "due_date": "12.11.2005",
+        "total": 755.81
+    },
+    "products": [
+        {
+            "amount": 496.76,
+            "description": "redefine bricks-and-clicks infrastructures",
+            "quantity": 6.78,
+            "reference": "Gp-584",
+            "unit_price": 13.37
+        },
+        {
+            "amount": 441.57,
+            "description": "implement customized platforms",
+            "quantity": 1.18,
+            "reference": "jW-406",
+            "unit_price": 33.23
+        },
+        {
+            "amount": 109.66,
+            "description": "reinvent enterprise synergies",
+            "quantity": 8.62,
+            "reference": "Eb-577",
+            "unit_price": 36.63
+        },
+        {
+            "amount": 223.21,
+            "description": "grow one-to-one e-business",
+            "quantity": 7.16,
+            "reference": "zq-062",
+            "unit_price": 19.71
+        },
+        {
+            "amount": 82.59,
+            "description": "expedite B2B schemas",
+            "quantity": 3.33,
+            "reference": "mH-243",
+            "unit_price": 63.85
+        }
+    ],
+    "seller": {
+        "address": "46200 Sharon Overpass Apt. 094 Natashashire, AK 32422"
+    },
+    "tax": {
+        "base_ht": 391.72,
+        "regulations": 16.65,
+        "total_ht": 392.42,
+        "vat_amount": 125.64,
+        "vat_percentage": 17.63
+    }
+}

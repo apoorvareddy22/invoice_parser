@@ -1,0 +1,82 @@
+{
+    "buyer": {
+        "address": "6754 Sherri Valley Apt. 464 Brianport, SC 19457",
+        "company_name": "Underwood, Marshall and Riley",
+        "country": "Estonia",
+        "email": "millerpatrick@example.org",
+        "name": "Jason Johnson",
+        "phone": "557.846.9550",
+        "vat_no": "gs41315824746"
+    },
+    "invoice": {
+        "date": "27.08.2010",
+        "due_date": "10.01.2010",
+        "linked_invoice": "bL-7022-4351",
+        "notes": "grow B2B deliverables",
+        "number": "mR-1430-9844"
+    },
+    "products": [
+        {
+            "description": "scale mission-critical schemas",
+            "discount_percentage": 7.63,
+            "price": 280.52,
+            "quantity": 8.84,
+            "unit_price": 16.92
+        },
+        {
+            "description": "unleash dynamic experiences",
+            "discount_percentage": 19.52,
+            "price": 181.05,
+            "quantity": 4.4,
+            "unit_price": 76.58
+        },
+        {
+            "description": "deploy innovative vortals",
+            "discount_percentage": 14.51,
+            "price": 164.61,
+            "quantity": 3.82,
+            "unit_price": 50.67
+        },
+        {
+            "description": "engineer proactive info-mediaries",
+            "discount_percentage": 11.87,
+            "price": 63.49,
+            "quantity": 8.44,
+            "unit_price": 31.68
+        },
+        {
+            "description": "unleash cross-platform metrics",
+            "discount_percentage": 6.23,
+            "price": 227.08,
+            "quantity": 1.88,
+            "unit_price": 43.19
+        }
+    ],
+    "seller": {
+        "address": "76629 Evans Meadow Brianshire, MO 94002",
+        "ape": "5435G",
+        "capital": 51785768,
+        "country": "Mali",
+        "email": "emiller@example.com",
+        "name": "Joshua Thompson",
+        "phone_1": "204-311-9863x3457",
+        "phone_2": "503.555.1909",
+        "phone_3": "388.911.6176x78293",
+        "ref_walk": "vUfC7650",
+        "reference": "Mn739",
+        "siret": 30177617196203,
+        "vat_no": "RG44649563485",
+        "website": "http://taylor.com/"
+    },
+    "tax": {
+        "amount_0": 27.5,
+        "amount_1": 18.04,
+        "base_0": 20.0,
+        "base_1": 122.74,
+        "total_ht": 302.67,
+        "total_tax": 15.58,
+        "total_ttc": 382.49,
+        "vat_0": 21.29,
+        "vat_1": 11.28
+    }
+}

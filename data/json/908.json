@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "Unit 8054 Box 7389 DPO AA 37016",
+        "company_name": "Anderson, Lopez and Snyder",
+        "country": "Kiribati",
+        "name": "Juan Montgomery"
+    },
+    "invoice": {
+        "date": "07.07.2009",
+        "number": 682232
+    },
+    "payment": {
+        "discount_amount": 18.9,
+        "discount_percentage": 18.12,
+        "due": 89.44,
+        "sub_total": 59.94,
+        "total": 357.23
+    },
+    "products": [
+        {
+            "description": "repurpose ubiquitous experiences",
+            "index": "2",
+            "quantity": 4.53,
+            "total_price": 608.74,
+            "unit_price": 28.5
+        },
+        {
+            "description": "cultivate B2C e-services",
+            "index": "2",
+            "quantity": 5.74,
+            "total_price": 501.15,
+            "unit_price": 47.89
+        },
+        {
+            "description": "drive dot-com web services",
+            "index": "6",
+            "quantity": 1.74,
+            "total_price": 323.43,
+            "unit_price": 50.74
+        }
+    ],
+    "seller": {
+        "address": "2185 Michael Forges Suite 235 South Laurenton, HI 35237",
+        "company_name": "Phillips, Wallace and Houston",
+        "vat_no": "AB19545536714"
+    }
+}

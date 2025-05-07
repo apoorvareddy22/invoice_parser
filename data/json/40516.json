@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "7818 Clements Motorway Suite 711 Port Kathy, WY 04636"
+    },
+    "invoice": {
+        "bc_no": "RP13232",
+        "date": "26.06.2020",
+        "maturity_date": "01.12.2001",
+        "number": 873448
+    },
+    "products": [
+        {
+            "amount": 394.64,
+            "description": "mesh frictionless architectures",
+            "quantity": 8.76,
+            "unit_price": 29.74,
+            "vat_amount": 2.22
+        },
+        {
+            "amount": 252.09,
+            "description": "orchestrate out-of-the-box eyeballs",
+            "quantity": 8.63,
+            "unit_price": 25.35,
+            "vat_amount": 0.47
+        },
+        {
+            "amount": 356.51,
+            "description": "leverage magnetic technologies",
+            "quantity": 5.12,
+            "unit_price": 30.49,
+            "vat_amount": 9.89
+        },
+        {
+            "amount": 138.64,
+            "description": "incentivize value-added technologies",
+            "quantity": 1.37,
+            "unit_price": 93.83,
+            "vat_amount": 0.04
+        },
+        {
+            "amount": 191.42,
+            "description": "empower mission-critical infrastructures",
+            "quantity": 6.55,
+            "unit_price": 70.64,
+            "vat_amount": 10.28
+        }
+    ],
+    "seller": {
+        "address": "17026 Robert Shoal Apt. 107 New Adamborough, NC 47196"
+    },
+    "tax": {
+        "amount_excluding_tax": 105.14,
+        "amount_including_tax": 63.28,
+        "tax_amount": 28.33
+    }
+}

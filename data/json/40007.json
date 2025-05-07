@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "8124 Cody Inlet Apt. 264 East Mark, ID 71480"
+    },
+    "invoice": {
+        "bc_no": "ZP14407",
+        "date": "06.08.2005",
+        "maturity_date": "01.09.1996",
+        "number": 648945
+    },
+    "products": [
+        {
+            "amount": 140.31,
+            "description": "expedite best-of-breed e-tailers",
+            "quantity": 7.36,
+            "unit_price": 76.91,
+            "vat_amount": 5.1
+        },
+        {
+            "amount": 433.85,
+            "description": "incentivize revolutionary web-readiness",
+            "quantity": 3.68,
+            "unit_price": 96.1,
+            "vat_amount": 5.33
+        },
+        {
+            "amount": 434.78,
+            "description": "e-enable compelling interfaces",
+            "quantity": 9.15,
+            "unit_price": 60.92,
+            "vat_amount": 0.27
+        }
+    ],
+    "seller": {
+        "address": "5337 Anthony Extensions Suite 446 West Dennismouth, MS 78504"
+    },
+    "tax": {
+        "amount_excluding_tax": 39.25,
+        "amount_including_tax": 166.89,
+        "tax_amount": 16.38
+    }
+}

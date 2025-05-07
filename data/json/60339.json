@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "USCGC Bailey FPO AP 52514",
+        "business_no": "Kx261",
+        "id": "wr394"
+    },
+    "invoice": {
+        "date": "26.11.2018",
+        "number": "6123-6760"
+    },
+    "payment": {
+        "due_date": "17.04.1990",
+        "total": 799.9
+    },
+    "products": [
+        {
+            "amount": 185.03,
+            "description": "unleash cross-media e-business",
+            "quantity": 1.71,
+            "reference": "Ee-704",
+            "unit_price": 12.88
+        },
+        {
+            "amount": 136.54,
+            "description": "empower out-of-the-box e-commerce",
+            "quantity": 8.79,
+            "reference": "PZ-650",
+            "unit_price": 46.52
+        },
+        {
+            "amount": 492.14,
+            "description": "whiteboard wireless eyeballs",
+            "quantity": 4.7,
+            "reference": "jW-509",
+            "unit_price": 60.22
+        },
+        {
+            "amount": 343.58,
+            "description": "morph wireless systems",
+            "quantity": 4.36,
+            "reference": "NH-248",
+            "unit_price": 40.55
+        },
+        {
+            "amount": 112.92,
+            "description": "scale synergistic supply-chains",
+            "quantity": 4.03,
+            "reference": "fM-591",
+            "unit_price": 29.43
+        },
+        {
+            "amount": 411.41,
+            "description": "extend scalable deliverables",
+            "quantity": 7.0,
+            "reference": "Kx-054",
+            "unit_price": 49.82
+        }
+    ],
+    "seller": {
+        "address": "USNV Owens FPO AP 36776"
+    },
+    "tax": {
+        "base_ht": 317.04,
+        "regulations": 26.52,
+        "total_ht": 486.22,
+        "vat_amount": 56.19,
+        "vat_percentage": 19.65
+    }
+}

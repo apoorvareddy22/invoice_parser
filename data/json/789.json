@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "16043 Day Streets Kathrynland, DE 99339",
+        "company_name": "Diaz, Decker and Buchanan",
+        "country": "Malaysia",
+        "name": "Megan Robbins"
+    },
+    "invoice": {
+        "date": "29.04.1998",
+        "number": 394520
+    },
+    "payment": {
+        "discount_amount": 26.25,
+        "discount_percentage": 16.0,
+        "due": 65.42,
+        "sub_total": 75.9,
+        "total": 818.65
+    },
+    "products": [
+        {
+            "description": "reinvent 24/7 web services",
+            "index": "5",
+            "quantity": 3.65,
+            "total_price": 410.99,
+            "unit_price": 96.11
+        },
+        {
+            "description": "maximize world-class eyeballs",
+            "index": "4",
+            "quantity": 2.18,
+            "total_price": 566.49,
+            "unit_price": 82.74
+        },
+        {
+            "description": "disintermediate dot-com e-markets",
+            "index": "7",
+            "quantity": 3.62,
+            "total_price": 692.64,
+            "unit_price": 55.79
+        },
+        {
+            "description": "revolutionize back-end interfaces",
+            "index": "4",
+            "quantity": 5.93,
+            "total_price": 41.14,
+            "unit_price": 32.33
+        },
+        {
+            "description": "synthesize web-enabled e-services",
+            "index": "4",
+            "quantity": 6.77,
+            "total_price": 974.06,
+            "unit_price": 92.37
+        },
+        {
+            "description": "re-intermediate viral supply-chains",
+            "index": "1",
+            "quantity": 9.08,
+            "total_price": 943.4,
+            "unit_price": 61.18
+        },
+        {
+            "description": "incentivize synergistic relationships",
+            "index": "10",
+            "quantity": 7.97,
+            "total_price": 460.2,
+            "unit_price": 97.48
+        }
+    ],
+    "seller": {
+        "address": "2687 Hill Cliffs Scottborough, NJ 05989",
+        "company_name": "Weeks Group",
+        "vat_no": "kc15659745197"
+    }
+}

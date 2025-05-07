@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "Unit 1985 Box 7716 DPO AE 08843",
+        "id": "Yl961"
+    },
+    "invoice": {
+        "bc_no": "sQ16897",
+        "currency_code": "ARS",
+        "date": "21.06.1993",
+        "due_date": "22.01.2013",
+        "number": 635143
+    },
+    "payment": {
+        "bank_name": "Smith, Thomas and Day",
+        "bic": "COUUGB4Z",
+        "iban": "QCPJ56359323430114"
+    },
+    "products": [
+        {
+            "amount": 369.2,
+            "description": "target viral e-markets",
+            "index": "9",
+            "price": 433.24,
+            "quantity": 4.69,
+            "tax_amount": 90.49,
+            "total_ttc": 287.2,
+            "vat_amount": 2.68
+        },
+        {
+            "amount": 160.24,
+            "description": "engineer robust content",
+            "index": "10",
+            "price": 167.7,
+            "quantity": 4.58,
+            "tax_amount": 98.97,
+            "total_ttc": 367.46,
+            "vat_amount": 6.54
+        },
+        {
+            "amount": 291.68,
+            "description": "repurpose vertical paradigms",
+            "index": "5",
+            "price": 490.17,
+            "quantity": 6.07,
+            "tax_amount": 91.51,
+            "total_ttc": 470.32,
+            "vat_amount": 1.59
+        },
+        {
+            "amount": 230.81,
+            "description": "streamline world-class methodologies",
+            "index": "2",
+            "price": 337.88,
+            "quantity": 2.4,
+            "tax_amount": 40.75,
+            "total_ttc": 468.34,
+            "vat_amount": 1.08
+        }
+    ],
+    "seller": {
+        "name": "Jennifer Moore"
+    },
+    "supplier": {
+        "address": "96943 Ferguson Isle West Chad, VT 37577",
+        "name": "Phyllis Allen"
+    },
+    "tax": {
+        "amount_excluding_tax": 131.21,
+        "amount_including_tax": 27.52,
+        "tax_amount": 28.81,
+        "total_ht": 155.66,
+        "total_ttc": 455.89
+    }
+}

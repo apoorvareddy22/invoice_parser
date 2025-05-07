@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "708 Medina Fork Brianmouth, TN 35537",
+        "email": "john51@example.com",
+        "phone": "5855727791",
+        "vat_no": "eJ94226750908"
+    },
+    "invoice": {
+        "date": "19.08.2020",
+        "due_date": "04.01.1996",
+        "market_reference": 489130,
+        "notes": "morph proactive methodologies",
+        "number": "8487-6952",
+        "reference": 959283,
+        "vat_no": "BV37170092350"
+    },
+    "payment": {
+        "net_total": 188.73,
+        "total": 962.09
+    },
+    "products": [
+        {
+            "amount": 498.71,
+            "description": "deliver front-end solutions",
+            "hours": 6.27,
+            "rate": 9.82
+        },
+        {
+            "amount": 183.04,
+            "description": "visualize intuitive solutions",
+            "hours": 4.42,
+            "rate": 5.65
+        },
+        {
+            "amount": 352.92,
+            "description": "incubate cross-platform relationships",
+            "hours": 4.56,
+            "rate": 8.36
+        },
+        {
+            "amount": 228.8,
+            "description": "empower distributed action-items",
+            "hours": 2.67,
+            "rate": 5.18
+        },
+        {
+            "amount": 197.21,
+            "description": "unleash magnetic channels",
+            "hours": 6.1,
+            "rate": 5.32
+        },
+        {
+            "amount": 57.31,
+            "description": "re-contextualize bleeding-edge niches",
+            "hours": 4.57,
+            "rate": 1.95
+        },
+        {
+            "amount": 419.37,
+            "description": "brand cutting-edge communities",
+            "hours": 1.39,
+            "rate": 4.67
+        }
+    ],
+    "seller": {
+        "address": "68795 Williams Loaf Suite 280 East Sean, ND 19543",
+        "email": "maxwellpatrick@example.org",
+        "name": "Stacy Stevenson"
+    },
+    "tax": {
+        "base": 10.38,
+        "tax_amount": 25.1,
+        "total_tax": 22.5
+    }
+}

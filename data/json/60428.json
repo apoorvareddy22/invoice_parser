@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "1782 Davis Crossroad West Matthewland, AL 43121",
+        "business_no": "gZ383",
+        "id": "um646"
+    },
+    "invoice": {
+        "date": "21.01.2011",
+        "number": "0848-4850"
+    },
+    "payment": {
+        "due_date": "27.12.2016",
+        "total": 590.97
+    },
+    "products": [
+        {
+            "amount": 440.53,
+            "description": "orchestrate customized e-business",
+            "quantity": 3.78,
+            "reference": "lv-780",
+            "unit_price": 33.95
+        },
+        {
+            "amount": 402.45,
+            "description": "facilitate out-of-the-box deliverables",
+            "quantity": 6.89,
+            "reference": "ZL-067",
+            "unit_price": 62.6
+        },
+        {
+            "amount": 317.86,
+            "description": "whiteboard proactive e-business",
+            "quantity": 5.79,
+            "reference": "SK-805",
+            "unit_price": 43.33
+        }
+    ],
+    "seller": {
+        "address": "3841 Brenda Curve South Jenniferstad, MH 43153"
+    },
+    "tax": {
+        "base_ht": 119.54,
+        "regulations": 24.77,
+        "total_ht": 486.69,
+        "vat_amount": 76.66,
+        "vat_percentage": 19.45
+    }
+}

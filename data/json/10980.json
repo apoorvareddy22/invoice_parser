@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "08408 Parks Plains Suite 095 Smithtown, MP 26060",
+        "email": "stephen06@example.com",
+        "phone": "935-877-6542x181",
+        "vat_no": "OY08891657023"
+    },
+    "invoice": {
+        "date": "18.04.2021",
+        "due_date": "08.12.2010",
+        "market_reference": 319499,
+        "notes": "integrate B2B infrastructures",
+        "number": "3958-3238",
+        "reference": 923820,
+        "vat_no": "He97428107824"
+    },
+    "payment": {
+        "net_total": 120.21,
+        "total": 738.15
+    },
+    "products": [
+        {
+            "amount": 238.98,
+            "description": "evolve B2C relationships",
+            "hours": 8.45,
+            "rate": 9.1
+        }
+    ],
+    "seller": {
+        "address": "35792 Garcia Row North Christopher, KS 14596",
+        "email": "thomasanthony@example.org",
+        "name": "Jasmine Williams"
+    },
+    "tax": {
+        "base": 10.37,
+        "tax_amount": 23.03,
+        "total_tax": 19.64
+    }
+}

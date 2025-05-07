@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "7163 Brown Junctions Suite 120 Reynoldsshire, IA 12283",
+        "id": "Yv981"
+    },
+    "invoice": {
+        "bc_no": "LR46504",
+        "currency_code": "SPL",
+        "date": "23.02.2009",
+        "due_date": "09.05.1992",
+        "number": 688109
+    },
+    "payment": {
+        "bank_name": "Cunningham-Gonzalez",
+        "bic": "ZRRYGB8C",
+        "iban": "JPHN19852241220351"
+    },
+    "products": [
+        {
+            "amount": 376.73,
+            "description": "matrix bleeding-edge content",
+            "index": "1",
+            "price": 429.83,
+            "quantity": 9.38,
+            "tax_amount": 85.51,
+            "total_ttc": 467.59,
+            "vat_amount": 2.22
+        },
+        {
+            "amount": 58.26,
+            "description": "extend real-time deliverables",
+            "index": "6",
+            "price": 364.88,
+            "quantity": 7.4,
+            "tax_amount": 94.36,
+            "total_ttc": 194.74,
+            "vat_amount": 4.41
+        },
+        {
+            "amount": 447.3,
+            "description": "target next-generation synergies",
+            "index": "6",
+            "price": 450.26,
+            "quantity": 7.74,
+            "tax_amount": 41.31,
+            "total_ttc": 104.93,
+            "vat_amount": 0.71
+        },
+        {
+            "amount": 432.53,
+            "description": "cultivate efficient web services",
+            "index": "1",
+            "price": 147.68,
+            "quantity": 1.01,
+            "tax_amount": 39.71,
+            "total_ttc": 467.2,
+            "vat_amount": 2.15
+        }
+    ],
+    "seller": {
+        "name": "John Clark"
+    },
+    "supplier": {
+        "address": "21543 Frank Mews Suite 515 Derrickland, VI 90987",
+        "name": "Edward Perez"
+    },
+    "tax": {
+        "amount_excluding_tax": 107.32,
+        "amount_including_tax": 62.33,
+        "tax_amount": 22.95,
+        "total_ht": 115.36,
+        "total_ttc": 125.25
+    }
+}

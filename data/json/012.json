@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "54767 Chelsea Squares Apt. 756 West Anthony, NH 09820",
+        "company_name": "Harris Ltd",
+        "country": "Costa Rica",
+        "name": "Robert Fox"
+    },
+    "invoice": {
+        "date": "17.06.1993",
+        "number": 527781
+    },
+    "payment": {
+        "discount_amount": 30.31,
+        "discount_percentage": 13.68,
+        "due": 189.68,
+        "sub_total": 165.76,
+        "total": 535.0
+    },
+    "products": [
+        {
+            "description": "enhance ubiquitous technologies",
+            "index": "4",
+            "quantity": 2.18,
+            "total_price": 576.0,
+            "unit_price": 18.38
+        },
+        {
+            "description": "generate open-source web-readiness",
+            "index": "8",
+            "quantity": 5.3,
+            "total_price": 590.52,
+            "unit_price": 49.47
+        },
+        {
+            "description": "expedite rich bandwidth",
+            "index": "7",
+            "quantity": 4.19,
+            "total_price": 127.5,
+            "unit_price": 71.71
+        },
+        {
+            "description": "deploy impactful convergence",
+            "index": "9",
+            "quantity": 5.28,
+            "total_price": 978.25,
+            "unit_price": 21.19
+        },
+        {
+            "description": "morph innovative niches",
+            "index": "9",
+            "quantity": 7.08,
+            "total_price": 185.45,
+            "unit_price": 73.55
+        }
+    ],
+    "seller": {
+        "address": "885 Mitchell Estates Apt. 410 East Jennifermouth, DE 32597",
+        "company_name": "Barker-Cameron",
+        "vat_no": "eb70531331181"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "5450 Sean Bypass Apt. 781 West Matthewview, NJ 46305",
+        "business_no": "NK444",
+        "id": "oO260"
+    },
+    "invoice": {
+        "date": "12.07.1990",
+        "number": "1067-9756"
+    },
+    "payment": {
+        "due_date": "02.08.2016",
+        "total": 481.74
+    },
+    "products": [
+        {
+            "amount": 175.16,
+            "description": "maximize B2C markets",
+            "quantity": 9.81,
+            "reference": "GF-448",
+            "unit_price": 49.77
+        },
+        {
+            "amount": 300.48,
+            "description": "productize wireless communities",
+            "quantity": 4.7,
+            "reference": "IF-753",
+            "unit_price": 37.78
+        }
+    ],
+    "seller": {
+        "address": "068 Ward Common Suite 107 Christinebury, SC 72935"
+    },
+    "tax": {
+        "base_ht": 284.58,
+        "regulations": 23.8,
+        "total_ht": 333.16,
+        "vat_amount": 111.11,
+        "vat_percentage": 12.59
+    }
+}

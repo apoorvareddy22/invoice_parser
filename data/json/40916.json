@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "7186 Davis Green Apt. 888 New David, RI 36672"
+    },
+    "invoice": {
+        "bc_no": "Ec30149",
+        "date": "27.10.2022",
+        "maturity_date": "22.11.2018",
+        "number": 829050
+    },
+    "products": [
+        {
+            "amount": 463.7,
+            "description": "reinvent killer partnerships",
+            "quantity": 9.47,
+            "unit_price": 21.26,
+            "vat_amount": 0.94
+        }
+    ],
+    "seller": {
+        "address": "333 Michael Avenue Suite 818 Boydshire, MT 22066"
+    },
+    "tax": {
+        "amount_excluding_tax": 101.19,
+        "amount_including_tax": 170.89,
+        "tax_amount": 17.19
+    }
+}

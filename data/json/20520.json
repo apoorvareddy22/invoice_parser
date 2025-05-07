@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "97362 Brandi Passage Jenkinsland, NV 22776",
+        "company_name": "King-Hughes",
+        "email": "mmontoya@example.org",
+        "name": "Kathy Bowen",
+        "phone": "913-310-9098x40569"
+    },
+    "invoice": {
+        "date": "20.02.1999",
+        "due_date": "29.04.2023",
+        "number": "UcZ54199548444"
+    },
+    "payment": {
+        "account_number": 2393619503,
+        "bank_name": "Farley PLC",
+        "routing_number": 770577270
+    },
+    "products": [
+        {
+            "amount": 34.95,
+            "description": "mesh wireless convergence",
+            "index": "8",
+            "quantity": 6.7,
+            "unit_price": 89.12
+        },
+        {
+            "amount": 51.9,
+            "description": "scale extensible systems",
+            "index": "2",
+            "quantity": 1.4,
+            "unit_price": 68.45
+        }
+    ],
+    "seller": {
+        "address": "5337 Miller Falls Apt. 205 East Loristad, MS 74163",
+        "company_name": "Miller and Sons",
+        "email": "kcastro@example.com"
+    }
+}

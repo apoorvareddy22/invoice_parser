@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "140 Charles Via New Jeremy, MH 19897"
+    },
+    "invoice": {
+        "bc_no": "WW36564",
+        "date": "22.06.2006",
+        "maturity_date": "18.11.2009",
+        "number": 619716
+    },
+    "products": [
+        {
+            "amount": 92.01,
+            "description": "incubate enterprise action-items",
+            "quantity": 1.78,
+            "unit_price": 15.19,
+            "vat_amount": 6.1
+        },
+        {
+            "amount": 354.26,
+            "description": "re-intermediate proactive partnerships",
+            "quantity": 1.5,
+            "unit_price": 99.89,
+            "vat_amount": 0.32
+        }
+    ],
+    "seller": {
+        "address": "7122 Abbott Circle Apt. 829 South Catherine, MN 09974"
+    },
+    "tax": {
+        "amount_excluding_tax": 164.57,
+        "amount_including_tax": 17.16,
+        "tax_amount": 18.54
+    }
+}

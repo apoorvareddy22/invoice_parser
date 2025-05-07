@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "58865 Smith Mountain Apt. 117 Grahamton, AL 38049",
+        "id": "ZA585"
+    },
+    "invoice": {
+        "bc_no": "zH30359",
+        "currency_code": "MDL",
+        "date": "01.06.1991",
+        "due_date": "30.06.2006",
+        "number": 554532
+    },
+    "payment": {
+        "bank_name": "Brown LLC",
+        "bic": "UKCCGBSK",
+        "iban": "UFVC81463553376129"
+    },
+    "products": [
+        {
+            "amount": 250.93,
+            "description": "expedite turn-key experiences",
+            "index": "6",
+            "price": 122.92,
+            "quantity": 5.39,
+            "tax_amount": 90.48,
+            "total_ttc": 223.85,
+            "vat_amount": 10.51
+        },
+        {
+            "amount": 361.34,
+            "description": "cultivate robust interfaces",
+            "index": "10",
+            "price": 327.91,
+            "quantity": 4.39,
+            "tax_amount": 29.29,
+            "total_ttc": 170.1,
+            "vat_amount": 6.58
+        },
+        {
+            "amount": 465.69,
+            "description": "optimize synergistic markets",
+            "index": "7",
+            "price": 112.76,
+            "quantity": 10.0,
+            "tax_amount": 87.73,
+            "total_ttc": 139.21,
+            "vat_amount": 5.9
+        },
+        {
+            "amount": 420.8,
+            "description": "disintermediate plug-and-play technologies",
+            "index": "8",
+            "price": 114.57,
+            "quantity": 9.72,
+            "tax_amount": 71.31,
+            "total_ttc": 485.07,
+            "vat_amount": 4.99
+        },
+        {
+            "amount": 336.17,
+            "description": "seize clicks-and-mortar methodologies",
+            "index": "10",
+            "price": 129.16,
+            "quantity": 3.02,
+            "tax_amount": 15.12,
+            "total_ttc": 305.25,
+            "vat_amount": 5.69
+        }
+    ],
+    "seller": {
+        "name": "Jasmine Anderson"
+    },
+    "supplier": {
+        "address": "5708 Fischer Cliff Apt. 719 East Caroline, WI 62602",
+        "name": "Anthony Abbott"
+    },
+    "tax": {
+        "amount_excluding_tax": 38.94,
+        "amount_including_tax": 100.22,
+        "tax_amount": 19.85,
+        "total_ht": 487.48,
+        "total_ttc": 439.36
+    }
+}

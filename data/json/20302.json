@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "7730 Karen View Apt. 674 East Tiffany, UT 01690",
+        "company_name": "Simpson Inc",
+        "email": "sdavis@example.net",
+        "name": "Mr. Duane Mitchell",
+        "phone": "001-901-790-6553x76013"
+    },
+    "invoice": {
+        "date": "22.02.2019",
+        "due_date": "24.03.2019",
+        "number": "ePJ07917795852"
+    },
+    "payment": {
+        "account_number": 1296451085,
+        "bank_name": "Brown Inc",
+        "routing_number": 994443946
+    },
+    "products": [
+        {
+            "amount": 396.58,
+            "description": "innovate rich info-mediaries",
+            "index": "3",
+            "quantity": 3.0,
+            "unit_price": 75.19
+        },
+        {
+            "amount": 160.01,
+            "description": "harness collaborative relationships",
+            "index": "6",
+            "quantity": 7.63,
+            "unit_price": 51.98
+        },
+        {
+            "amount": 86.21,
+            "description": "disintermediate 24/365 paradigms",
+            "index": "1",
+            "quantity": 8.09,
+            "unit_price": 10.71
+        },
+        {
+            "amount": 152.79,
+            "description": "transition real-time initiatives",
+            "index": "10",
+            "quantity": 1.91,
+            "unit_price": 61.94
+        }
+    ],
+    "seller": {
+        "address": "6245 Perez Coves Suite 235 Joetown, MT 66890",
+        "company_name": "Robinson, Pearson and Nguyen",
+        "email": "mccartydennis@example.org"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "018 Little Estates Nathanstad, WI 68685"
+    },
+    "invoice": {
+        "bc_no": "Vt38257",
+        "date": "03.11.2014",
+        "maturity_date": "08.02.2023",
+        "number": 163644
+    },
+    "products": [
+        {
+            "amount": 488.13,
+            "description": "exploit strategic communities",
+            "quantity": 7.62,
+            "unit_price": 86.43,
+            "vat_amount": 9.69
+        },
+        {
+            "amount": 181.8,
+            "description": "engineer global networks",
+            "quantity": 3.13,
+            "unit_price": 56.2,
+            "vat_amount": 2.09
+        },
+        {
+            "amount": 241.4,
+            "description": "revolutionize leading-edge methodologies",
+            "quantity": 5.84,
+            "unit_price": 21.33,
+            "vat_amount": 12.95
+        },
+        {
+            "amount": 300.15,
+            "description": "harness clicks-and-mortar eyeballs",
+            "quantity": 1.96,
+            "unit_price": 73.54,
+            "vat_amount": 15.11
+        }
+    ],
+    "seller": {
+        "address": "82493 Corey Ways Philipstad, MP 48474"
+    },
+    "tax": {
+        "amount_excluding_tax": 100.54,
+        "amount_including_tax": 152.53,
+        "tax_amount": 19.41
+    }
+}

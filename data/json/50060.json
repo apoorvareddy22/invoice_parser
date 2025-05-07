@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "Unit 4741 Box 5333 DPO AA 65289",
+        "id": "sI752"
+    },
+    "invoice": {
+        "bc_no": "Dz09095",
+        "currency_code": "FKP",
+        "date": "14.01.1991",
+        "due_date": "15.06.1995",
+        "number": 141179
+    },
+    "payment": {
+        "bank_name": "Brown-Hamilton",
+        "bic": "OPILGBEB",
+        "iban": "KZXM85258465909751"
+    },
+    "products": [
+        {
+            "amount": 218.21,
+            "description": "re-contextualize cross-platform vortals",
+            "index": "6",
+            "price": 492.32,
+            "quantity": 4.36,
+            "tax_amount": 88.36,
+            "total_ttc": 391.33,
+            "vat_amount": 1.98
+        }
+    ],
+    "seller": {
+        "name": "Allison Hampton"
+    },
+    "supplier": {
+        "address": "254 Thomas Plains Wagnerview, WY 09204",
+        "name": "Annette Hebert"
+    },
+    "tax": {
+        "amount_excluding_tax": 43.27,
+        "amount_including_tax": 72.15,
+        "tax_amount": 12.07,
+        "total_ht": 114.74,
+        "total_ttc": 303.97
+    }
+}

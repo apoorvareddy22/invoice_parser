@@ -1,0 +1,70 @@
+{
+    "buyer": {
+        "address": "2688 Rasmussen Pass Suite 628 Joannatown, IA 85926"
+    },
+    "invoice": {
+        "bc_no": "nP01220",
+        "date": "19.12.1995",
+        "maturity_date": "08.03.1999",
+        "number": 371617
+    },
+    "products": [
+        {
+            "amount": 215.02,
+            "description": "incubate enterprise markets",
+            "quantity": 9.75,
+            "unit_price": 43.35,
+            "vat_amount": 2.89
+        },
+        {
+            "amount": 139.2,
+            "description": "grow killer experiences",
+            "quantity": 1.13,
+            "unit_price": 49.89,
+            "vat_amount": 2.04
+        },
+        {
+            "amount": 347.41,
+            "description": "scale transparent technologies",
+            "quantity": 2.58,
+            "unit_price": 49.04,
+            "vat_amount": 4.32
+        },
+        {
+            "amount": 293.89,
+            "description": "iterate dot-com channels",
+            "quantity": 2.98,
+            "unit_price": 61.04,
+            "vat_amount": 1.03
+        },
+        {
+            "amount": 78.08,
+            "description": "morph rich eyeballs",
+            "quantity": 8.27,
+            "unit_price": 82.06,
+            "vat_amount": 1.39
+        },
+        {
+            "amount": 441.89,
+            "description": "engineer seamless metrics",
+            "quantity": 2.87,
+            "unit_price": 57.14,
+            "vat_amount": 7.95
+        },
+        {
+            "amount": 466.18,
+            "description": "optimize bleeding-edge applications",
+            "quantity": 4.96,
+            "unit_price": 65.64,
+            "vat_amount": 6.68
+        }
+    ],
+    "seller": {
+        "address": "PSC 9315, Box 3809 APO AA 02064"
+    },
+    "tax": {
+        "amount_excluding_tax": 54.81,
+        "amount_including_tax": 107.59,
+        "tax_amount": 13.13
+    }
+}

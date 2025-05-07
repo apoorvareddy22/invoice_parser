@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "282 Chan Port Apt. 387 Lake Summerview, AS 21571",
+        "id": "Wz939"
+    },
+    "invoice": {
+        "bc_no": "El57029",
+        "currency_code": "XDR",
+        "date": "02.04.2001",
+        "due_date": "07.07.1998",
+        "number": 322879
+    },
+    "payment": {
+        "bank_name": "Smith, Jones and Warner",
+        "bic": "BSAZGBX3",
+        "iban": "IAFX12463402909493"
+    },
+    "products": [
+        {
+            "amount": 445.08,
+            "description": "utilize vertical technologies",
+            "index": "3",
+            "price": 205.33,
+            "quantity": 3.23,
+            "tax_amount": 40.54,
+            "total_ttc": 430.76,
+            "vat_amount": 5.47
+        },
+        {
+            "amount": 431.63,
+            "description": "enable global experiences",
+            "index": "10",
+            "price": 261.5,
+            "quantity": 1.14,
+            "tax_amount": 38.98,
+            "total_ttc": 363.11,
+            "vat_amount": 1.05
+        },
+        {
+            "amount": 477.5,
+            "description": "deploy wireless e-commerce",
+            "index": "4",
+            "price": 34.85,
+            "quantity": 3.35,
+            "tax_amount": 94.1,
+            "total_ttc": 219.04,
+            "vat_amount": 4.14
+        }
+    ],
+    "seller": {
+        "name": "Randall Estes"
+    },
+    "supplier": {
+        "address": "736 Jennifer Port South Chelseastad, WI 56959",
+        "name": "Kristina Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 72.85,
+        "amount_including_tax": 83.68,
+        "tax_amount": 15.12,
+        "total_ht": 279.11,
+        "total_ttc": 406.15
+    }
+}

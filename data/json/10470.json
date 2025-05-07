@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "62704 Cardenas Trail West Richard, NC 98132",
+        "email": "sean62@example.com",
+        "phone": "6999907334",
+        "vat_no": "Vi66006555622"
+    },
+    "invoice": {
+        "date": "28.01.1990",
+        "due_date": "16.05.1998",
+        "market_reference": 855429,
+        "notes": "transition clicks-and-mortar deliverables",
+        "number": "7101-1633",
+        "reference": 880050,
+        "vat_no": "cI40469599727"
+    },
+    "payment": {
+        "net_total": 26.52,
+        "total": 996.9
+    },
+    "products": [
+        {
+            "amount": 364.75,
+            "description": "streamline viral schemas",
+            "hours": 8.49,
+            "rate": 6.71
+        },
+        {
+            "amount": 137.22,
+            "description": "whiteboard revolutionary technologies",
+            "hours": 7.24,
+            "rate": 3.32
+        },
+        {
+            "amount": 110.26,
+            "description": "scale dynamic networks",
+            "hours": 6.16,
+            "rate": 3.21
+        }
+    ],
+    "seller": {
+        "address": "34288 Maria Knoll Apt. 620 Brianstad, KS 82844",
+        "email": "acrawford@example.net",
+        "name": "Amanda Mcintyre"
+    },
+    "tax": {
+        "base": 15.36,
+        "tax_amount": 21.25,
+        "total_tax": 26.02
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "90923 Russo Stream Karenburgh, AS 19375",
+        "id": "ZJ832"
+    },
+    "invoice": {
+        "bc_no": "VF51940",
+        "currency_code": "TVD",
+        "date": "18.02.1994",
+        "due_date": "18.09.2022",
+        "number": 250993
+    },
+    "payment": {
+        "bank_name": "Johnson-Anderson",
+        "bic": "PCZBGB4591T",
+        "iban": "ZJJO09409783032955"
+    },
+    "products": [
+        {
+            "amount": 248.92,
+            "description": "re-intermediate killer models",
+            "index": "9",
+            "price": 122.39,
+            "quantity": 5.94,
+            "tax_amount": 36.72,
+            "total_ttc": 309.14,
+            "vat_amount": 7.49
+        }
+    ],
+    "seller": {
+        "name": "Linda Hamilton"
+    },
+    "supplier": {
+        "address": "USCGC Yang FPO AE 70195",
+        "name": "April Cunningham"
+    },
+    "tax": {
+        "amount_excluding_tax": 127.1,
+        "amount_including_tax": 178.49,
+        "tax_amount": 25.43,
+        "total_ht": 267.66,
+        "total_ttc": 364.61
+    }
+}

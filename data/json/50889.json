@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "7129 Matthew Run Mathisside, RI 49743",
+        "id": "sh668"
+    },
+    "invoice": {
+        "bc_no": "bA35686",
+        "currency_code": "BOB",
+        "date": "12.08.2014",
+        "due_date": "22.02.2022",
+        "number": 115228
+    },
+    "payment": {
+        "bank_name": "Castro-James",
+        "bic": "GAQYGB8O",
+        "iban": "QSQC50050836554175"
+    },
+    "products": [
+        {
+            "amount": 221.68,
+            "description": "productize proactive web-readiness",
+            "index": "3",
+            "price": 105.97,
+            "quantity": 6.58,
+            "tax_amount": 46.62,
+            "total_ttc": 272.01,
+            "vat_amount": 0.83
+        },
+        {
+            "amount": 111.43,
+            "description": "drive magnetic functionalities",
+            "index": "3",
+            "price": 458.84,
+            "quantity": 1.08,
+            "tax_amount": 79.28,
+            "total_ttc": 230.91,
+            "vat_amount": 10.83
+        },
+        {
+            "amount": 258.02,
+            "description": "expedite clicks-and-mortar vortals",
+            "index": "10",
+            "price": 24.64,
+            "quantity": 9.49,
+            "tax_amount": 85.28,
+            "total_ttc": 271.22,
+            "vat_amount": 16.5
+        }
+    ],
+    "seller": {
+        "name": "Steven Lynn"
+    },
+    "supplier": {
+        "address": "4748 Stephen Corner New Amy, WY 03987",
+        "name": "Jessica Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 118.91,
+        "amount_including_tax": 107.78,
+        "tax_amount": 23.41,
+        "total_ht": 119.83,
+        "total_ttc": 281.66
+    }
+}

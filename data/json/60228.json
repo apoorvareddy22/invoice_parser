@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "75104 David Walks Suite 621 Port Danielle, FL 35843",
+        "business_no": "ez934",
+        "id": "Kn884"
+    },
+    "invoice": {
+        "date": "22.08.2003",
+        "number": "2517-0276"
+    },
+    "payment": {
+        "due_date": "25.10.1993",
+        "total": 339.08
+    },
+    "products": [
+        {
+            "amount": 44.35,
+            "description": "optimize vertical bandwidth",
+            "quantity": 9.79,
+            "reference": "ia-870",
+            "unit_price": 40.65
+        },
+        {
+            "amount": 247.07,
+            "description": "integrate magnetic portals",
+            "quantity": 8.36,
+            "reference": "eW-215",
+            "unit_price": 62.37
+        },
+        {
+            "amount": 46.22,
+            "description": "aggregate vertical e-business",
+            "quantity": 2.89,
+            "reference": "AA-267",
+            "unit_price": 12.0
+        }
+    ],
+    "seller": {
+        "address": "529 Lee Place Charlesfurt, OR 99313"
+    },
+    "tax": {
+        "base_ht": 218.78,
+        "regulations": 13.98,
+        "total_ht": 411.08,
+        "vat_amount": 192.03,
+        "vat_percentage": 29.94
+    }
+}

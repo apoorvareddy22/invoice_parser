@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "8391 Brittany Springs Suite 575 New Kelly, OR 46952",
+        "email": "michael25@example.org",
+        "phone": "935-604-9485x776",
+        "vat_no": "sY05167175538"
+    },
+    "invoice": {
+        "date": "09.04.1993",
+        "due_date": "14.08.2004",
+        "market_reference": 286259,
+        "notes": "utilize scalable mindshare",
+        "number": "2778-0875",
+        "reference": 528363,
+        "vat_no": "jp46246719521"
+    },
+    "payment": {
+        "net_total": 127.92,
+        "total": 831.0
+    },
+    "products": [
+        {
+            "amount": 219.54,
+            "description": "productize integrated channels",
+            "hours": 4.42,
+            "rate": 4.75
+        },
+        {
+            "amount": 164.58,
+            "description": "enable virtual schemas",
+            "hours": 8.03,
+            "rate": 3.81
+        },
+        {
+            "amount": 167.82,
+            "description": "engage next-generation relationships",
+            "hours": 3.25,
+            "rate": 7.44
+        }
+    ],
+    "seller": {
+        "address": "2985 Morgan Parkways Apt. 498 Kevinhaven, MA 83258",
+        "email": "rhoward@example.com",
+        "name": "Bruce Anderson"
+    },
+    "tax": {
+        "base": 14.85,
+        "tax_amount": 28.07,
+        "total_tax": 28.29
+    }
+}

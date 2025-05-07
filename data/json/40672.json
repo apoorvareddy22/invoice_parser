@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "2031 Moody Ramp Apt. 870 Port Andrew, NH 84767"
+    },
+    "invoice": {
+        "bc_no": "Rn11111",
+        "date": "11.12.2006",
+        "maturity_date": "12.07.1998",
+        "number": 708797
+    },
+    "products": [
+        {
+            "amount": 325.96,
+            "description": "integrate plug-and-play supply-chains",
+            "quantity": 6.45,
+            "unit_price": 71.16,
+            "vat_amount": 3.42
+        },
+        {
+            "amount": 70.65,
+            "description": "target extensible e-markets",
+            "quantity": 3.92,
+            "unit_price": 63.47,
+            "vat_amount": 5.15
+        },
+        {
+            "amount": 306.28,
+            "description": "envisioneer seamless infrastructures",
+            "quantity": 1.92,
+            "unit_price": 37.85,
+            "vat_amount": 4.02
+        },
+        {
+            "amount": 471.4,
+            "description": "grow compelling portals",
+            "quantity": 4.17,
+            "unit_price": 47.92,
+            "vat_amount": 5.45
+        },
+        {
+            "amount": 371.27,
+            "description": "optimize one-to-one infrastructures",
+            "quantity": 6.52,
+            "unit_price": 32.1,
+            "vat_amount": 0.55
+        },
+        {
+            "amount": 244.27,
+            "description": "whiteboard transparent partnerships",
+            "quantity": 2.97,
+            "unit_price": 20.93,
+            "vat_amount": 0.87
+        }
+    ],
+    "seller": {
+        "address": "886 Jimenez Mountains South Annetteshire, AL 33822"
+    },
+    "tax": {
+        "amount_excluding_tax": 73.26,
+        "amount_including_tax": 108.15,
+        "tax_amount": 25.27
+    }
+}

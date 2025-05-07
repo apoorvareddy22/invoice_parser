@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "75373 Johnson Row Suite 352 Lake Michele, KY 26543",
+        "company_name": "Johnson, Jones and Koch",
+        "email": "stewartjoseph@example.com",
+        "name": "Christine Walsh",
+        "phone": "5375190504"
+    },
+    "invoice": {
+        "date": "31.08.2019",
+        "due_date": "06.06.2001",
+        "number": "lwk93301384704"
+    },
+    "payment": {
+        "account_number": 3141661840,
+        "bank_name": "Pittman, Whitaker and Wheeler",
+        "routing_number": 584465714
+    },
+    "products": [
+        {
+            "amount": 62.81,
+            "description": "repurpose revolutionary functionalities",
+            "index": "6",
+            "quantity": 9.68,
+            "unit_price": 12.22
+        },
+        {
+            "amount": 46.0,
+            "description": "enable distributed paradigms",
+            "index": "8",
+            "quantity": 5.09,
+            "unit_price": 60.85
+        },
+        {
+            "amount": 183.97,
+            "description": "re-contextualize real-time experiences",
+            "index": "7",
+            "quantity": 5.62,
+            "unit_price": 59.26
+        },
+        {
+            "amount": 343.0,
+            "description": "deploy customized schemas",
+            "index": "9",
+            "quantity": 8.09,
+            "unit_price": 11.71
+        },
+        {
+            "amount": 261.37,
+            "description": "engage synergistic synergies",
+            "index": "4",
+            "quantity": 7.73,
+            "unit_price": 43.52
+        },
+        {
+            "amount": 225.77,
+            "description": "cultivate dot-com web-readiness",
+            "index": "6",
+            "quantity": 1.94,
+            "unit_price": 76.81
+        },
+        {
+            "amount": 216.56,
+            "description": "deliver leading-edge content",
+            "index": "9",
+            "quantity": 2.49,
+            "unit_price": 96.52
+        }
+    ],
+    "seller": {
+        "address": "64045 Eaton Drive Suite 899 Millerfurt, TN 18799",
+        "company_name": "Fernandez-Ramos",
+        "email": "twilcox@example.com"
+    }
+}

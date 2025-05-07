@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "2257 Christine Haven Armstronghaven, CT 35693",
+        "business_no": "pi266",
+        "id": "zb265"
+    },
+    "invoice": {
+        "date": "21.10.2016",
+        "number": "2845-9870"
+    },
+    "payment": {
+        "due_date": "18.02.1996",
+        "total": 838.56
+    },
+    "products": [
+        {
+            "amount": 158.0,
+            "description": "architect proactive channels",
+            "quantity": 6.32,
+            "reference": "hX-203",
+            "unit_price": 32.15
+        },
+        {
+            "amount": 482.84,
+            "description": "repurpose transparent metrics",
+            "quantity": 9.97,
+            "reference": "nw-558",
+            "unit_price": 74.77
+        },
+        {
+            "amount": 164.36,
+            "description": "enable compelling users",
+            "quantity": 9.31,
+            "reference": "CD-633",
+            "unit_price": 81.64
+        }
+    ],
+    "seller": {
+        "address": "928 Foley Estate Suite 500 Shawnfurt, FL 35335"
+    },
+    "tax": {
+        "base_ht": 388.03,
+        "regulations": 12.79,
+        "total_ht": 146.87,
+        "vat_amount": 90.61,
+        "vat_percentage": 15.86
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "9643 Ronald Shoal North Kylie, MA 02624",
+        "company_name": "Rogers-Levy",
+        "email": "henryjohn@example.net",
+        "name": "Austin Beard",
+        "phone": "(956)565-2534"
+    },
+    "invoice": {
+        "date": "30.10.2006",
+        "due_date": "27.10.2023",
+        "number": "nSL07626961039"
+    },
+    "payment": {
+        "account_number": 8407643713,
+        "bank_name": "Sanchez Group",
+        "routing_number": 182736305
+    },
+    "products": [
+        {
+            "amount": 313.37,
+            "description": "enable synergistic web services",
+            "index": "1",
+            "quantity": 6.72,
+            "unit_price": 12.19
+        },
+        {
+            "amount": 310.13,
+            "description": "utilize leading-edge eyeballs",
+            "index": "10",
+            "quantity": 4.17,
+            "unit_price": 75.77
+        },
+        {
+            "amount": 396.65,
+            "description": "morph plug-and-play solutions",
+            "index": "7",
+            "quantity": 4.76,
+            "unit_price": 33.37
+        },
+        {
+            "amount": 321.91,
+            "description": "e-enable vertical paradigms",
+            "index": "8",
+            "quantity": 8.53,
+            "unit_price": 54.89
+        },
+        {
+            "amount": 41.65,
+            "description": "reinvent sticky supply-chains",
+            "index": "6",
+            "quantity": 7.72,
+            "unit_price": 75.34
+        }
+    ],
+    "seller": {
+        "address": "PSC 0105, Box 0208 APO AA 25260",
+        "company_name": "Cooke Ltd",
+        "email": "knewman@example.org"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "54426 Stephanie Shoal Benjaminton, NJ 15246",
+        "id": "Gc704"
+    },
+    "invoice": {
+        "bc_no": "aE68680",
+        "currency_code": "ERN",
+        "date": "17.12.2001",
+        "due_date": "04.09.2023",
+        "number": 296566
+    },
+    "payment": {
+        "bank_name": "Ortiz LLC",
+        "bic": "KQMBGBK3YWV",
+        "iban": "IWOS55861628857012"
+    },
+    "products": [
+        {
+            "amount": 172.13,
+            "description": "cultivate magnetic users",
+            "index": "10",
+            "price": 452.39,
+            "quantity": 5.08,
+            "tax_amount": 58.86,
+            "total_ttc": 350.44,
+            "vat_amount": 5.94
+        },
+        {
+            "amount": 269.6,
+            "description": "engineer killer niches",
+            "index": "2",
+            "price": 219.1,
+            "quantity": 8.29,
+            "tax_amount": 18.77,
+            "total_ttc": 475.53,
+            "vat_amount": 2.91
+        },
+        {
+            "amount": 280.64,
+            "description": "utilize cross-media web-readiness",
+            "index": "5",
+            "price": 241.99,
+            "quantity": 5.65,
+            "tax_amount": 72.68,
+            "total_ttc": 464.32,
+            "vat_amount": 1.27
+        },
+        {
+            "amount": 398.5,
+            "description": "embrace virtual synergies",
+            "index": "5",
+            "price": 128.32,
+            "quantity": 3.43,
+            "tax_amount": 64.24,
+            "total_ttc": 249.79,
+            "vat_amount": 3.54
+        },
+        {
+            "amount": 369.73,
+            "description": "redefine real-time architectures",
+            "index": "7",
+            "price": 43.7,
+            "quantity": 7.41,
+            "tax_amount": 43.32,
+            "total_ttc": 489.19,
+            "vat_amount": 2.46
+        }
+    ],
+    "seller": {
+        "name": "Jeffrey Hunter"
+    },
+    "supplier": {
+        "address": "8652 Johnson Groves East Adrianaborough, HI 25807",
+        "name": "Gerald Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 192.59,
+        "amount_including_tax": 106.63,
+        "tax_amount": 21.29,
+        "total_ht": 130.65,
+        "total_ttc": 435.6
+    }
+}

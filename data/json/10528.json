@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "792 Sara Rapid Apt. 762 Darrenport, VT 57628",
+        "email": "jenniferhale@example.net",
+        "phone": "(388)559-3784x168",
+        "vat_no": "ld80284602278"
+    },
+    "invoice": {
+        "date": "22.02.2002",
+        "due_date": "28.12.2023",
+        "market_reference": 997834,
+        "notes": "innovate next-generation niches",
+        "number": "3412-6655",
+        "reference": 158725,
+        "vat_no": "Fr99370141022"
+    },
+    "payment": {
+        "net_total": 31.8,
+        "total": 932.35
+    },
+    "products": [
+        {
+            "amount": 210.06,
+            "description": "implement impactful communities",
+            "hours": 5.32,
+            "rate": 5.05
+        },
+        {
+            "amount": 409.95,
+            "description": "unleash impactful eyeballs",
+            "hours": 4.48,
+            "rate": 2.53
+        },
+        {
+            "amount": 361.33,
+            "description": "re-intermediate B2B networks",
+            "hours": 1.1,
+            "rate": 8.85
+        },
+        {
+            "amount": 107.8,
+            "description": "drive world-class eyeballs",
+            "hours": 7.0,
+            "rate": 4.84
+        }
+    ],
+    "seller": {
+        "address": "596 Sexton Fields Apt. 062 South Brian, UT 72188",
+        "email": "millerjeffrey@example.org",
+        "name": "Mary Bailey"
+    },
+    "tax": {
+        "base": 29.31,
+        "tax_amount": 15.78,
+        "total_tax": 19.95
+    }
+}

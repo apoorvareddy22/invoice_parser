@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "720 Franco Walks Stephenborough, NV 48429",
+        "id": "cz182"
+    },
+    "invoice": {
+        "bc_no": "hU84652",
+        "currency_code": "MNT",
+        "date": "15.11.2001",
+        "due_date": "30.06.2013",
+        "number": 870570
+    },
+    "payment": {
+        "bank_name": "Taylor-Vega",
+        "bic": "PCVGGB6K",
+        "iban": "IOXL00401849853077"
+    },
+    "products": [
+        {
+            "amount": 417.87,
+            "description": "enhance turn-key functionalities",
+            "index": "7",
+            "price": 7.34,
+            "quantity": 3.65,
+            "tax_amount": 93.25,
+            "total_ttc": 356.31,
+            "vat_amount": 11.57
+        },
+        {
+            "amount": 158.62,
+            "description": "streamline vertical solutions",
+            "index": "4",
+            "price": 446.74,
+            "quantity": 2.05,
+            "tax_amount": 87.19,
+            "total_ttc": 101.14,
+            "vat_amount": 11.27
+        },
+        {
+            "amount": 385.49,
+            "description": "strategize bleeding-edge e-services",
+            "index": "8",
+            "price": 183.16,
+            "quantity": 1.55,
+            "tax_amount": 43.47,
+            "total_ttc": 191.87,
+            "vat_amount": 3.54
+        },
+        {
+            "amount": 401.98,
+            "description": "re-contextualize holistic e-business",
+            "index": "8",
+            "price": 265.66,
+            "quantity": 8.33,
+            "tax_amount": 81.37,
+            "total_ttc": 244.49,
+            "vat_amount": 2.1
+        },
+        {
+            "amount": 86.01,
+            "description": "empower 24/7 e-tailers",
+            "index": "3",
+            "price": 215.99,
+            "quantity": 3.58,
+            "tax_amount": 14.26,
+            "total_ttc": 106.5,
+            "vat_amount": 3.27
+        }
+    ],
+    "seller": {
+        "name": "Danielle Martin"
+    },
+    "supplier": {
+        "address": "2616 Thomas Passage North Susan, MS 87776",
+        "name": "Steven Mann"
+    },
+    "tax": {
+        "amount_excluding_tax": 92.4,
+        "amount_including_tax": 39.7,
+        "tax_amount": 29.95,
+        "total_ht": 177.54,
+        "total_ttc": 254.66
+    }
+}

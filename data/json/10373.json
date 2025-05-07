@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "6108 Katherine Parkways Apt. 212 Kellymouth, MI 23866",
+        "email": "jennifermiddleton@example.com",
+        "phone": "963-615-2314x23579",
+        "vat_no": "WM88344012070"
+    },
+    "invoice": {
+        "date": "09.10.2008",
+        "due_date": "08.12.2004",
+        "market_reference": 933720,
+        "notes": "seize viral technologies",
+        "number": "2658-1197",
+        "reference": 391703,
+        "vat_no": "rI67103963391"
+    },
+    "payment": {
+        "net_total": 157.69,
+        "total": 570.43
+    },
+    "products": [
+        {
+            "amount": 24.06,
+            "description": "repurpose efficient info-mediaries",
+            "hours": 1.05,
+            "rate": 5.12
+        }
+    ],
+    "seller": {
+        "address": "8681 Weeks Village Powersfort, ID 27929",
+        "email": "nobrien@example.org",
+        "name": "Daniel Miller"
+    },
+    "tax": {
+        "base": 14.52,
+        "tax_amount": 12.16,
+        "total_tax": 10.61
+    }
+}

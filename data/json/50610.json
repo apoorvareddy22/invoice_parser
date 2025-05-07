@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "8015 Sophia Wells North Lisaberg, ME 48976",
+        "id": "zC898"
+    },
+    "invoice": {
+        "bc_no": "ap78604",
+        "currency_code": "IDR",
+        "date": "26.06.1993",
+        "due_date": "17.02.2012",
+        "number": 516386
+    },
+    "payment": {
+        "bank_name": "Hernandez, Oconnor and Parker",
+        "bic": "LLLHGBWI",
+        "iban": "KIBK67042991064434"
+    },
+    "products": [
+        {
+            "amount": 265.86,
+            "description": "repurpose extensible ROI",
+            "index": "7",
+            "price": 135.04,
+            "quantity": 8.58,
+            "tax_amount": 88.6,
+            "total_ttc": 302.82,
+            "vat_amount": 2.45
+        },
+        {
+            "amount": 408.73,
+            "description": "productize ubiquitous infrastructures",
+            "index": "6",
+            "price": 449.49,
+            "quantity": 9.3,
+            "tax_amount": 54.94,
+            "total_ttc": 407.38,
+            "vat_amount": 5.31
+        },
+        {
+            "amount": 388.83,
+            "description": "exploit real-time convergence",
+            "index": "7",
+            "price": 410.67,
+            "quantity": 4.74,
+            "tax_amount": 89.05,
+            "total_ttc": 309.17,
+            "vat_amount": 1.85
+        },
+        {
+            "amount": 440.38,
+            "description": "integrate end-to-end synergies",
+            "index": "7",
+            "price": 436.16,
+            "quantity": 3.31,
+            "tax_amount": 49.14,
+            "total_ttc": 192.49,
+            "vat_amount": 5.66
+        },
+        {
+            "amount": 95.16,
+            "description": "enhance intuitive web services",
+            "index": "3",
+            "price": 232.79,
+            "quantity": 3.86,
+            "tax_amount": 95.93,
+            "total_ttc": 491.8,
+            "vat_amount": 5.26
+        },
+        {
+            "amount": 103.31,
+            "description": "reinvent bricks-and-clicks web-readiness",
+            "index": "5",
+            "price": 445.94,
+            "quantity": 4.88,
+            "tax_amount": 66.17,
+            "total_ttc": 378.2,
+            "vat_amount": 12.54
+        },
+        {
+            "amount": 399.39,
+            "description": "utilize B2B solutions",
+            "index": "8",
+            "price": 181.41,
+            "quantity": 9.25,
+            "tax_amount": 88.04,
+            "total_ttc": 206.38,
+            "vat_amount": 4.51
+        }
+    ],
+    "seller": {
+        "name": "Michael Conner"
+    },
+    "supplier": {
+        "address": "876 Garcia Center Andersonview, MS 93292",
+        "name": "Alison Simon"
+    },
+    "tax": {
+        "amount_excluding_tax": 113.62,
+        "amount_including_tax": 187.59,
+        "tax_amount": 19.41,
+        "total_ht": 234.61,
+        "total_ttc": 281.57
+    }
+}

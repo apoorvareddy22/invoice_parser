@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "USNV Parker FPO AE 45135",
+        "business_no": "JX175",
+        "id": "GP175"
+    },
+    "invoice": {
+        "date": "06.04.1991",
+        "number": "0091-7446"
+    },
+    "payment": {
+        "due_date": "09.06.2000",
+        "total": 824.88
+    },
+    "products": [
+        {
+            "amount": 493.97,
+            "description": "re-contextualize compelling experiences",
+            "quantity": 2.23,
+            "reference": "ei-096",
+            "unit_price": 70.01
+        },
+        {
+            "amount": 71.81,
+            "description": "maximize virtual functionalities",
+            "quantity": 8.02,
+            "reference": "ij-124",
+            "unit_price": 40.59
+        },
+        {
+            "amount": 386.07,
+            "description": "disintermediate seamless experiences",
+            "quantity": 3.56,
+            "reference": "Vu-814",
+            "unit_price": 18.7
+        }
+    ],
+    "seller": {
+        "address": "843 Johnson Forest North Omarstad, IA 75294"
+    },
+    "tax": {
+        "base_ht": 231.1,
+        "regulations": 14.68,
+        "total_ht": 106.17,
+        "vat_amount": 84.27,
+        "vat_percentage": 18.42
+    }
+}

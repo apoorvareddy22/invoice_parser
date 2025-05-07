@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "653 Murphy Roads Apt. 920 Stevenfurt, VT 99368"
+    },
+    "invoice": {
+        "bc_no": "RK72745",
+        "date": "08.09.2013",
+        "maturity_date": "11.06.1992",
+        "number": 107672
+    },
+    "products": [
+        {
+            "amount": 57.59,
+            "description": "harness synergistic technologies",
+            "quantity": 3.17,
+            "unit_price": 22.42,
+            "vat_amount": 11.52
+        },
+        {
+            "amount": 290.99,
+            "description": "streamline proactive web-readiness",
+            "quantity": 2.11,
+            "unit_price": 35.3,
+            "vat_amount": 0.37
+        },
+        {
+            "amount": 165.24,
+            "description": "incubate real-time e-business",
+            "quantity": 5.64,
+            "unit_price": 41.1,
+            "vat_amount": 2.91
+        },
+        {
+            "amount": 79.91,
+            "description": "redefine 24/7 methodologies",
+            "quantity": 8.87,
+            "unit_price": 25.63,
+            "vat_amount": 1.99
+        },
+        {
+            "amount": 401.29,
+            "description": "incubate holistic supply-chains",
+            "quantity": 2.18,
+            "unit_price": 44.09,
+            "vat_amount": 2.31
+        },
+        {
+            "amount": 280.85,
+            "description": "syndicate back-end e-markets",
+            "quantity": 6.0,
+            "unit_price": 71.96,
+            "vat_amount": 8.24
+        }
+    ],
+    "seller": {
+        "address": "0130 Bradley Centers Cainberg, IL 31072"
+    },
+    "tax": {
+        "amount_excluding_tax": 129.49,
+        "amount_including_tax": 71.31,
+        "tax_amount": 11.81
+    }
+}

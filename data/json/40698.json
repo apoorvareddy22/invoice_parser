@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "396 Jamie Villages Weissfurt, VI 03742"
+    },
+    "invoice": {
+        "bc_no": "Lh97058",
+        "date": "30.01.2023",
+        "maturity_date": "21.10.1999",
+        "number": 960715
+    },
+    "products": [
+        {
+            "amount": 319.67,
+            "description": "reinvent synergistic portals",
+            "quantity": 2.37,
+            "unit_price": 36.61,
+            "vat_amount": 2.05
+        },
+        {
+            "amount": 485.84,
+            "description": "target world-class bandwidth",
+            "quantity": 4.88,
+            "unit_price": 18.42,
+            "vat_amount": 11.75
+        },
+        {
+            "amount": 254.07,
+            "description": "scale impactful convergence",
+            "quantity": 4.22,
+            "unit_price": 61.4,
+            "vat_amount": 1.95
+        }
+    ],
+    "seller": {
+        "address": "934 Peterson Rest Apt. 611 North Eric, WI 15661"
+    },
+    "tax": {
+        "amount_excluding_tax": 130.21,
+        "amount_including_tax": 166.86,
+        "tax_amount": 28.7
+    }
+}

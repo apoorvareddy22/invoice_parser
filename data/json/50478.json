@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "7520 Taylor Crest Apt. 159 North Andrea, NE 78604",
+        "id": "Mt292"
+    },
+    "invoice": {
+        "bc_no": "MM14923",
+        "currency_code": "UYU",
+        "date": "03.01.1998",
+        "due_date": "06.12.2007",
+        "number": 806022
+    },
+    "payment": {
+        "bank_name": "Miller-Brown",
+        "bic": "XYKJGBKH",
+        "iban": "WFIB70880185992695"
+    },
+    "products": [
+        {
+            "amount": 127.89,
+            "description": "deliver customized e-markets",
+            "index": "5",
+            "price": 104.61,
+            "quantity": 8.78,
+            "tax_amount": 68.98,
+            "total_ttc": 190.44,
+            "vat_amount": 4.9
+        },
+        {
+            "amount": 221.17,
+            "description": "implement strategic vortals",
+            "index": "1",
+            "price": 71.97,
+            "quantity": 6.94,
+            "tax_amount": 15.17,
+            "total_ttc": 258.91,
+            "vat_amount": 7.36
+        },
+        {
+            "amount": 352.74,
+            "description": "grow granular e-commerce",
+            "index": "10",
+            "price": 210.81,
+            "quantity": 9.26,
+            "tax_amount": 28.31,
+            "total_ttc": 224.28,
+            "vat_amount": 3.59
+        }
+    ],
+    "seller": {
+        "name": "David Cameron"
+    },
+    "supplier": {
+        "address": "495 Gabriel Squares New Edwardland, RI 53752",
+        "name": "Mr. Gabriel Medina"
+    },
+    "tax": {
+        "amount_excluding_tax": 17.46,
+        "amount_including_tax": 82.07,
+        "tax_amount": 19.87,
+        "total_ht": 118.72,
+        "total_ttc": 250.92
+    }
+}

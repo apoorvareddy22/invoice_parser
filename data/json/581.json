@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "31858 Johnson Path Apt. 719 Johnstonville, NH 63187",
+        "company_name": "Morrison PLC",
+        "country": "Guinea",
+        "name": "Alex Bartlett"
+    },
+    "invoice": {
+        "date": "23.07.2003",
+        "number": 409077
+    },
+    "payment": {
+        "discount_amount": 45.83,
+        "discount_percentage": 15.73,
+        "due": 74.92,
+        "sub_total": 20.63,
+        "total": 495.7
+    },
+    "products": [
+        {
+            "description": "reinvent seamless architectures",
+            "index": "6",
+            "quantity": 9.98,
+            "total_price": 447.24,
+            "unit_price": 60.08
+        },
+        {
+            "description": "matrix cutting-edge e-tailers",
+            "index": "10",
+            "quantity": 1.09,
+            "total_price": 156.51,
+            "unit_price": 32.24
+        },
+        {
+            "description": "maximize best-of-breed mindshare",
+            "index": "9",
+            "quantity": 2.62,
+            "total_price": 296.46,
+            "unit_price": 48.72
+        },
+        {
+            "description": "enhance next-generation applications",
+            "index": "1",
+            "quantity": 6.69,
+            "total_price": 394.73,
+            "unit_price": 54.73
+        }
+    ],
+    "seller": {
+        "address": "31334 Harrison Plain Apt. 428 Scotttown, CT 04767",
+        "company_name": "Yang and Sons",
+        "vat_no": "ma93673729662"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "1515 Hall Shoals Apt. 438 Jenkinsborough, MO 78186",
+        "company_name": "Bishop-Hill",
+        "country": "Finland",
+        "name": "James Mclean"
+    },
+    "invoice": {
+        "date": "01.12.2022",
+        "number": 490885
+    },
+    "payment": {
+        "discount_amount": 46.59,
+        "discount_percentage": 7.99,
+        "due": 66.47,
+        "sub_total": 129.65,
+        "total": 613.2
+    },
+    "products": [
+        {
+            "description": "e-enable cutting-edge users",
+            "index": "1",
+            "quantity": 2.1,
+            "total_price": 654.17,
+            "unit_price": 77.68
+        }
+    ],
+    "seller": {
+        "address": "1508 Moore Crest South Adam, MS 61811",
+        "company_name": "Wolfe, Lane and Schultz",
+        "vat_no": "Ti73135344870"
+    }
+}

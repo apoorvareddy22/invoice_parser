@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "PSC 3914, Box 7170 APO AE 79703",
+        "email": "stephen30@example.net",
+        "phone": "+1-791-545-5190x27441",
+        "vat_no": "aL60702693360"
+    },
+    "invoice": {
+        "date": "19.10.2005",
+        "due_date": "14.03.2003",
+        "market_reference": 240154,
+        "notes": "generate vertical supply-chains",
+        "number": "9556-0160",
+        "reference": 738570,
+        "vat_no": "gE51321316085"
+    },
+    "payment": {
+        "net_total": 44.63,
+        "total": 867.83
+    },
+    "products": [
+        {
+            "amount": 466.26,
+            "description": "architect holistic partnerships",
+            "hours": 6.26,
+            "rate": 7.38
+        },
+        {
+            "amount": 195.77,
+            "description": "transition clicks-and-mortar applications",
+            "hours": 8.58,
+            "rate": 4.36
+        },
+        {
+            "amount": 94.5,
+            "description": "cultivate strategic synergies",
+            "hours": 6.48,
+            "rate": 1.2
+        },
+        {
+            "amount": 139.26,
+            "description": "iterate frictionless info-mediaries",
+            "hours": 6.47,
+            "rate": 3.88
+        }
+    ],
+    "seller": {
+        "address": "Unit 1572 Box 2984 DPO AA 75628",
+        "email": "mlopez@example.net",
+        "name": "Jeffrey Perez"
+    },
+    "tax": {
+        "base": 29.13,
+        "tax_amount": 17.87,
+        "total_tax": 27.25
+    }
+}

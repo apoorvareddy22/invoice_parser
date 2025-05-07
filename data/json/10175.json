@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "87995 Adams Bridge Hansonchester, FL 25646",
+        "email": "frankphillips@example.org",
+        "phone": "445-888-7800x733",
+        "vat_no": "uR19834183013"
+    },
+    "invoice": {
+        "date": "17.07.1993",
+        "due_date": "15.10.2022",
+        "market_reference": 237723,
+        "notes": "architect revolutionary applications",
+        "number": "1652-3765",
+        "reference": 680782,
+        "vat_no": "xR61516526444"
+    },
+    "payment": {
+        "net_total": 52.27,
+        "total": 522.75
+    },
+    "products": [
+        {
+            "amount": 365.53,
+            "description": "incubate strategic portals",
+            "hours": 3.47,
+            "rate": 4.37
+        },
+        {
+            "amount": 303.02,
+            "description": "unleash impactful ROI",
+            "hours": 7.24,
+            "rate": 4.04
+        },
+        {
+            "amount": 337.71,
+            "description": "orchestrate wireless initiatives",
+            "hours": 8.07,
+            "rate": 1.1
+        },
+        {
+            "amount": 398.34,
+            "description": "mesh extensible vortals",
+            "hours": 8.22,
+            "rate": 7.37
+        },
+        {
+            "amount": 336.26,
+            "description": "maximize killer solutions",
+            "hours": 2.72,
+            "rate": 5.31
+        },
+        {
+            "amount": 103.65,
+            "description": "grow user-centric e-services",
+            "hours": 3.75,
+            "rate": 1.35
+        }
+    ],
+    "seller": {
+        "address": "235 Torres Port Suite 936 Christinaton, VI 75040",
+        "email": "grossjared@example.net",
+        "name": "Alexander Robinson"
+    },
+    "tax": {
+        "base": 26.62,
+        "tax_amount": 18.3,
+        "total_tax": 28.46
+    }
+}

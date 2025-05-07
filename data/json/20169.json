@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "5503 John Fall Suite 675 South Darryl, CT 14647",
+        "company_name": "Gordon and Sons",
+        "email": "betty85@example.net",
+        "name": "Jennifer Johnson",
+        "phone": "001-894-616-1246x4978"
+    },
+    "invoice": {
+        "date": "07.12.2019",
+        "due_date": "17.12.2001",
+        "number": "sYI60076982983"
+    },
+    "payment": {
+        "account_number": 5567206794,
+        "bank_name": "Carroll Group",
+        "routing_number": 294097435
+    },
+    "products": [
+        {
+            "amount": 301.35,
+            "description": "scale open-source infrastructures",
+            "index": "9",
+            "quantity": 8.79,
+            "unit_price": 36.1
+        },
+        {
+            "amount": 98.36,
+            "description": "whiteboard magnetic applications",
+            "index": "9",
+            "quantity": 7.84,
+            "unit_price": 25.04
+        }
+    ],
+    "seller": {
+        "address": "15571 Allen Lodge Apt. 678 Carlborough, AL 19851",
+        "company_name": "Gray-Johnson",
+        "email": "scott99@example.org"
+    }
+}

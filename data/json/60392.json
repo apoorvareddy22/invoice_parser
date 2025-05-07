@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "2364 Bowman Avenue Mcneilfort, PR 56006",
+        "business_no": "JD360",
+        "id": "Oe933"
+    },
+    "invoice": {
+        "date": "08.02.1995",
+        "number": "8014-4194"
+    },
+    "payment": {
+        "due_date": "05.09.2023",
+        "total": 705.88
+    },
+    "products": [
+        {
+            "amount": 221.8,
+            "description": "generate plug-and-play infrastructures",
+            "quantity": 6.05,
+            "reference": "iu-736",
+            "unit_price": 74.61
+        },
+        {
+            "amount": 136.61,
+            "description": "transition frictionless portals",
+            "quantity": 7.79,
+            "reference": "ZQ-460",
+            "unit_price": 49.62
+        },
+        {
+            "amount": 147.61,
+            "description": "incentivize magnetic convergence",
+            "quantity": 4.55,
+            "reference": "rx-703",
+            "unit_price": 76.22
+        },
+        {
+            "amount": 154.92,
+            "description": "repurpose dot-com users",
+            "quantity": 2.14,
+            "reference": "BU-788",
+            "unit_price": 73.91
+        }
+    ],
+    "seller": {
+        "address": "87729 Elizabeth Courts Suite 322 Julianport, HI 11438"
+    },
+    "tax": {
+        "base_ht": 464.46,
+        "regulations": 25.03,
+        "total_ht": 152.69,
+        "vat_amount": 47.78,
+        "vat_percentage": 17.89
+    }
+}

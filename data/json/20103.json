@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "906 Brewer Ridge Apt. 513 Weberfort, MP 79429",
+        "company_name": "Morris Inc",
+        "email": "jhall@example.com",
+        "name": "Jason Williams",
+        "phone": "849.237.0309"
+    },
+    "invoice": {
+        "date": "23.01.2005",
+        "due_date": "08.05.1990",
+        "number": "KZN36217691776"
+    },
+    "payment": {
+        "account_number": 8443467707,
+        "bank_name": "Johnson-Alexander",
+        "routing_number": 907199349
+    },
+    "products": [
+        {
+            "amount": 336.0,
+            "description": "e-enable value-added synergies",
+            "index": "7",
+            "quantity": 6.65,
+            "unit_price": 59.81
+        },
+        {
+            "amount": 60.95,
+            "description": "reinvent innovative niches",
+            "index": "6",
+            "quantity": 6.53,
+            "unit_price": 67.64
+        },
+        {
+            "amount": 309.44,
+            "description": "incentivize dot-com channels",
+            "index": "6",
+            "quantity": 3.34,
+            "unit_price": 84.53
+        },
+        {
+            "amount": 356.67,
+            "description": "brand sticky systems",
+            "index": "5",
+            "quantity": 2.9,
+            "unit_price": 86.73
+        }
+    ],
+    "seller": {
+        "address": "38463 Miller Glens Apt. 529 South Julie, NM 88878",
+        "company_name": "Parker-Wells",
+        "email": "jason66@example.com"
+    }
+}

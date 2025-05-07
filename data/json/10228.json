@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "053 Sarah Harbors North Allisonshire, LA 46894",
+        "email": "heatherruiz@example.net",
+        "phone": "214-755-2603",
+        "vat_no": "Rn81350077351"
+    },
+    "invoice": {
+        "date": "08.09.2020",
+        "due_date": "04.11.2003",
+        "market_reference": 342075,
+        "notes": "engage frictionless e-markets",
+        "number": "4119-1518",
+        "reference": 615035,
+        "vat_no": "Yp56470722399"
+    },
+    "payment": {
+        "net_total": 161.27,
+        "total": 964.22
+    },
+    "products": [
+        {
+            "amount": 190.9,
+            "description": "incubate holistic experiences",
+            "hours": 8.21,
+            "rate": 8.64
+        },
+        {
+            "amount": 172.72,
+            "description": "deliver mission-critical deliverables",
+            "hours": 1.82,
+            "rate": 6.03
+        }
+    ],
+    "seller": {
+        "address": "PSC 4206, Box 7193 APO AP 27093",
+        "email": "andersonrichard@example.net",
+        "name": "Dr. Matthew Velasquez"
+    },
+    "tax": {
+        "base": 16.46,
+        "tax_amount": 15.25,
+        "total_tax": 27.75
+    }
+}

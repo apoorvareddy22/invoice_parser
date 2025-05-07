@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "Unit 9106 Box 0017 DPO AA 61427",
+        "business_no": "HY031",
+        "id": "XY657"
+    },
+    "invoice": {
+        "date": "22.05.1994",
+        "number": "7908-3722"
+    },
+    "payment": {
+        "due_date": "22.03.2012",
+        "total": 473.63
+    },
+    "products": [
+        {
+            "amount": 180.0,
+            "description": "repurpose seamless e-commerce",
+            "quantity": 8.65,
+            "reference": "BT-909",
+            "unit_price": 42.14
+        }
+    ],
+    "seller": {
+        "address": "372 Pierce Lane Suite 636 Robertport, WI 52696"
+    },
+    "tax": {
+        "base_ht": 156.31,
+        "regulations": 23.17,
+        "total_ht": 474.34,
+        "vat_amount": 71.37,
+        "vat_percentage": 23.11
+    }
+}

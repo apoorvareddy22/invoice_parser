@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "USS Jenkins FPO AP 10300",
+        "id": "Ro595"
+    },
+    "invoice": {
+        "bc_no": "QL97841",
+        "currency_code": "RON",
+        "date": "15.02.1990",
+        "due_date": "13.12.2019",
+        "number": 862906
+    },
+    "payment": {
+        "bank_name": "Austin Ltd",
+        "bic": "CLLJGBL1SYH",
+        "iban": "TPPD91326277851776"
+    },
+    "products": [
+        {
+            "amount": 32.14,
+            "description": "visualize strategic users",
+            "index": "4",
+            "price": 386.14,
+            "quantity": 1.67,
+            "tax_amount": 32.3,
+            "total_ttc": 261.93,
+            "vat_amount": 2.61
+        },
+        {
+            "amount": 23.27,
+            "description": "enable viral e-business",
+            "index": "8",
+            "price": 273.99,
+            "quantity": 3.35,
+            "tax_amount": 22.68,
+            "total_ttc": 436.41,
+            "vat_amount": 11.96
+        },
+        {
+            "amount": 206.68,
+            "description": "exploit bleeding-edge convergence",
+            "index": "3",
+            "price": 352.8,
+            "quantity": 1.74,
+            "tax_amount": 32.25,
+            "total_ttc": 311.51,
+            "vat_amount": 1.64
+        },
+        {
+            "amount": 412.85,
+            "description": "evolve interactive schemas",
+            "index": "9",
+            "price": 296.65,
+            "quantity": 8.8,
+            "tax_amount": 92.22,
+            "total_ttc": 122.15,
+            "vat_amount": 9.1
+        },
+        {
+            "amount": 5.9,
+            "description": "leverage virtual ROI",
+            "index": "5",
+            "price": 164.48,
+            "quantity": 9.19,
+            "tax_amount": 11.51,
+            "total_ttc": 202.53,
+            "vat_amount": 1.29
+        },
+        {
+            "amount": 430.65,
+            "description": "matrix extensible functionalities",
+            "index": "1",
+            "price": 225.86,
+            "quantity": 7.02,
+            "tax_amount": 17.81,
+            "total_ttc": 255.85,
+            "vat_amount": 1.86
+        }
+    ],
+    "seller": {
+        "name": "Michael Bernard"
+    },
+    "supplier": {
+        "address": "PSC 9766, Box 6190 APO AE 62294",
+        "name": "Scott Sandoval"
+    },
+    "tax": {
+        "amount_excluding_tax": 188.04,
+        "amount_including_tax": 31.06,
+        "tax_amount": 24.05,
+        "total_ht": 336.02,
+        "total_ttc": 280.82
+    }
+}

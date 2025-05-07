@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "Unit 5283 Box 6717 DPO AP 51308",
+        "company_name": "Jones Inc",
+        "country": "Hungary",
+        "name": "Anna Perez"
+    },
+    "invoice": {
+        "date": "07.03.1991",
+        "number": 173089
+    },
+    "payment": {
+        "discount_amount": 23.76,
+        "discount_percentage": 13.02,
+        "due": 23.16,
+        "sub_total": 158.62,
+        "total": 823.9
+    },
+    "products": [
+        {
+            "description": "reinvent e-business info-mediaries",
+            "index": "3",
+            "quantity": 7.57,
+            "total_price": 874.83,
+            "unit_price": 38.91
+        },
+        {
+            "description": "embrace enterprise initiatives",
+            "index": "7",
+            "quantity": 2.29,
+            "total_price": 423.1,
+            "unit_price": 11.37
+        },
+        {
+            "description": "synthesize efficient convergence",
+            "index": "6",
+            "quantity": 1.37,
+            "total_price": 703.17,
+            "unit_price": 38.73
+        },
+        {
+            "description": "maximize granular action-items",
+            "index": "1",
+            "quantity": 7.75,
+            "total_price": 954.91,
+            "unit_price": 39.67
+        }
+    ],
+    "seller": {
+        "address": "650 Kenneth Fort West Donald, IN 64549",
+        "company_name": "Schaefer, Knight and Johnson",
+        "vat_no": "rp35145979063"
+    }
+}

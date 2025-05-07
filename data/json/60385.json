@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "042 Timothy Walks Suite 931 Williamsfurt, RI 53710",
+        "business_no": "Dk614",
+        "id": "bZ486"
+    },
+    "invoice": {
+        "date": "24.07.1990",
+        "number": "5188-9514"
+    },
+    "payment": {
+        "due_date": "21.09.2012",
+        "total": 524.29
+    },
+    "products": [
+        {
+            "amount": 238.63,
+            "description": "transform holistic systems",
+            "quantity": 3.98,
+            "reference": "TD-312",
+            "unit_price": 78.02
+        },
+        {
+            "amount": 100.95,
+            "description": "benchmark cross-media synergies",
+            "quantity": 8.69,
+            "reference": "ZN-878",
+            "unit_price": 82.61
+        },
+        {
+            "amount": 400.95,
+            "description": "deploy scalable initiatives",
+            "quantity": 9.27,
+            "reference": "vp-123",
+            "unit_price": 29.26
+        },
+        {
+            "amount": 9.96,
+            "description": "innovate real-time e-tailers",
+            "quantity": 4.37,
+            "reference": "Dr-353",
+            "unit_price": 30.63
+        },
+        {
+            "amount": 125.0,
+            "description": "productize open-source paradigms",
+            "quantity": 4.62,
+            "reference": "ez-380",
+            "unit_price": 78.68
+        },
+        {
+            "amount": 82.44,
+            "description": "target user-centric web services",
+            "quantity": 9.23,
+            "reference": "dW-270",
+            "unit_price": 21.22
+        }
+    ],
+    "seller": {
+        "address": "22702 Davis Road Suite 695 Suttonborough, VT 22756"
+    },
+    "tax": {
+        "base_ht": 208.18,
+        "regulations": 24.98,
+        "total_ht": 392.61,
+        "vat_amount": 67.84,
+        "vat_percentage": 20.63
+    }
+}

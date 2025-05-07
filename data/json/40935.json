@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "316 Blankenship Throughway South David, OK 10116"
+    },
+    "invoice": {
+        "bc_no": "kP54209",
+        "date": "20.03.2007",
+        "maturity_date": "14.07.2022",
+        "number": 860779
+    },
+    "products": [
+        {
+            "amount": 301.83,
+            "description": "empower dynamic experiences",
+            "quantity": 7.67,
+            "unit_price": 95.85,
+            "vat_amount": 8.86
+        },
+        {
+            "amount": 252.39,
+            "description": "whiteboard mission-critical initiatives",
+            "quantity": 6.75,
+            "unit_price": 22.2,
+            "vat_amount": 1.26
+        }
+    ],
+    "seller": {
+        "address": "USCGC Grant FPO AA 15369"
+    },
+    "tax": {
+        "amount_excluding_tax": 21.71,
+        "amount_including_tax": 121.91,
+        "tax_amount": 15.97
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "343 Moss Divide Patriciatown, MN 85314",
+        "id": "Tx236"
+    },
+    "invoice": {
+        "bc_no": "tZ89929",
+        "currency_code": "MMK",
+        "date": "17.11.2017",
+        "due_date": "01.12.2013",
+        "number": 930743
+    },
+    "payment": {
+        "bank_name": "Sanchez, Brown and Ford",
+        "bic": "LFJDGBBL5SF",
+        "iban": "OWZA05086961200939"
+    },
+    "products": [
+        {
+            "amount": 425.31,
+            "description": "generate interactive applications",
+            "index": "6",
+            "price": 499.01,
+            "quantity": 1.16,
+            "tax_amount": 65.62,
+            "total_ttc": 492.77,
+            "vat_amount": 13.42
+        },
+        {
+            "amount": 275.38,
+            "description": "evolve visionary relationships",
+            "index": "5",
+            "price": 402.72,
+            "quantity": 4.5,
+            "tax_amount": 46.29,
+            "total_ttc": 105.47,
+            "vat_amount": 1.31
+        },
+        {
+            "amount": 7.51,
+            "description": "unleash wireless e-tailers",
+            "index": "6",
+            "price": 197.4,
+            "quantity": 1.33,
+            "tax_amount": 10.08,
+            "total_ttc": 195.88,
+            "vat_amount": 3.43
+        },
+        {
+            "amount": 339.78,
+            "description": "aggregate impactful web-readiness",
+            "index": "9",
+            "price": 49.24,
+            "quantity": 5.81,
+            "tax_amount": 66.56,
+            "total_ttc": 299.5,
+            "vat_amount": 3.53
+        },
+        {
+            "amount": 290.76,
+            "description": "integrate wireless experiences",
+            "index": "1",
+            "price": 413.84,
+            "quantity": 5.21,
+            "tax_amount": 36.09,
+            "total_ttc": 191.78,
+            "vat_amount": 1.36
+        },
+        {
+            "amount": 43.13,
+            "description": "extend user-centric eyeballs",
+            "index": "4",
+            "price": 139.37,
+            "quantity": 5.21,
+            "tax_amount": 92.7,
+            "total_ttc": 281.21,
+            "vat_amount": 0.7
+        }
+    ],
+    "seller": {
+        "name": "William Rogers"
+    },
+    "supplier": {
+        "address": "39526 Amanda Meadows South Wandafurt, ND 10472",
+        "name": "Patricia Herrera"
+    },
+    "tax": {
+        "amount_excluding_tax": 91.29,
+        "amount_including_tax": 63.06,
+        "tax_amount": 18.17,
+        "total_ht": 494.22,
+        "total_ttc": 434.1
+    }
+}

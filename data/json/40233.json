@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "0615 Chad Way Apt. 915 Jillfort, MI 60799"
+    },
+    "invoice": {
+        "bc_no": "QT17271",
+        "date": "08.12.2022",
+        "maturity_date": "04.11.2010",
+        "number": 543219
+    },
+    "products": [
+        {
+            "amount": 393.66,
+            "description": "matrix impactful mindshare",
+            "quantity": 8.27,
+            "unit_price": 33.67,
+            "vat_amount": 8.05
+        },
+        {
+            "amount": 399.56,
+            "description": "synergize granular portals",
+            "quantity": 9.8,
+            "unit_price": 22.53,
+            "vat_amount": 11.44
+        }
+    ],
+    "seller": {
+        "address": "51445 Kevin Landing Jonathanville, KS 98765"
+    },
+    "tax": {
+        "amount_excluding_tax": 124.43,
+        "amount_including_tax": 156.71,
+        "tax_amount": 19.59
+    }
+}

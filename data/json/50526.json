@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "5700 Reeves Viaduct Apt. 927 Wayneberg, PW 51807",
+        "id": "gA864"
+    },
+    "invoice": {
+        "bc_no": "Xa45161",
+        "currency_code": "BSD",
+        "date": "30.06.2000",
+        "due_date": "13.01.1990",
+        "number": 594456
+    },
+    "payment": {
+        "bank_name": "Chung-Burns",
+        "bic": "MCDJGBD9",
+        "iban": "LDGE80640785362462"
+    },
+    "products": [
+        {
+            "amount": 176.28,
+            "description": "drive synergistic architectures",
+            "index": "2",
+            "price": 60.21,
+            "quantity": 2.32,
+            "tax_amount": 48.29,
+            "total_ttc": 104.81,
+            "vat_amount": 3.02
+        },
+        {
+            "amount": 309.09,
+            "description": "generate visionary action-items",
+            "index": "3",
+            "price": 418.31,
+            "quantity": 5.55,
+            "tax_amount": 34.24,
+            "total_ttc": 245.46,
+            "vat_amount": 5.28
+        },
+        {
+            "amount": 411.27,
+            "description": "redefine rich e-commerce",
+            "index": "1",
+            "price": 384.69,
+            "quantity": 8.68,
+            "tax_amount": 78.91,
+            "total_ttc": 447.77,
+            "vat_amount": 1.39
+        },
+        {
+            "amount": 147.31,
+            "description": "repurpose best-of-breed technologies",
+            "index": "3",
+            "price": 384.45,
+            "quantity": 5.07,
+            "tax_amount": 58.81,
+            "total_ttc": 344.18,
+            "vat_amount": 0.78
+        },
+        {
+            "amount": 454.59,
+            "description": "target world-class infrastructures",
+            "index": "6",
+            "price": 491.94,
+            "quantity": 9.17,
+            "tax_amount": 47.18,
+            "total_ttc": 177.34,
+            "vat_amount": 5.03
+        },
+        {
+            "amount": 136.26,
+            "description": "integrate integrated e-commerce",
+            "index": "5",
+            "price": 393.63,
+            "quantity": 4.53,
+            "tax_amount": 95.16,
+            "total_ttc": 437.41,
+            "vat_amount": 2.86
+        }
+    ],
+    "seller": {
+        "name": "Kimberly Gonzalez"
+    },
+    "supplier": {
+        "address": "9613 Robert Hill Wilsonchester, ID 42855",
+        "name": "Brian Mills"
+    },
+    "tax": {
+        "amount_excluding_tax": 104.89,
+        "amount_including_tax": 145.16,
+        "tax_amount": 11.64,
+        "total_ht": 152.34,
+        "total_ttc": 266.86
+    }
+}

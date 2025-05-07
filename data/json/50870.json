@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "785 Coleman Gardens North Hannahport, RI 56017",
+        "id": "UD234"
+    },
+    "invoice": {
+        "bc_no": "fS06416",
+        "currency_code": "BSD",
+        "date": "07.06.2014",
+        "due_date": "12.03.1990",
+        "number": 165000
+    },
+    "payment": {
+        "bank_name": "Mullen-Roberts",
+        "bic": "JXSZGBX4D7Y",
+        "iban": "CRZP40579464182605"
+    },
+    "products": [
+        {
+            "amount": 55.73,
+            "description": "iterate intuitive portals",
+            "index": "6",
+            "price": 304.68,
+            "quantity": 9.54,
+            "tax_amount": 48.89,
+            "total_ttc": 263.3,
+            "vat_amount": 10.66
+        },
+        {
+            "amount": 152.1,
+            "description": "aggregate revolutionary web-readiness",
+            "index": "2",
+            "price": 365.78,
+            "quantity": 4.1,
+            "tax_amount": 47.58,
+            "total_ttc": 423.67,
+            "vat_amount": 5.63
+        },
+        {
+            "amount": 51.36,
+            "description": "matrix magnetic users",
+            "index": "5",
+            "price": 114.24,
+            "quantity": 6.22,
+            "tax_amount": 99.03,
+            "total_ttc": 118.93,
+            "vat_amount": 0.55
+        },
+        {
+            "amount": 472.19,
+            "description": "syndicate strategic paradigms",
+            "index": "4",
+            "price": 336.84,
+            "quantity": 5.89,
+            "tax_amount": 47.4,
+            "total_ttc": 435.88,
+            "vat_amount": 12.63
+        },
+        {
+            "amount": 244.37,
+            "description": "transition customized markets",
+            "index": "7",
+            "price": 225.23,
+            "quantity": 1.85,
+            "tax_amount": 52.38,
+            "total_ttc": 440.83,
+            "vat_amount": 1.91
+        }
+    ],
+    "seller": {
+        "name": "Geoffrey Aguilar"
+    },
+    "supplier": {
+        "address": "86573 Stephanie Wells Webbshire, RI 99220",
+        "name": "Andrew Coleman"
+    },
+    "tax": {
+        "amount_excluding_tax": 105.31,
+        "amount_including_tax": 11.38,
+        "tax_amount": 23.33,
+        "total_ht": 406.8,
+        "total_ttc": 352.85
+    }
+}

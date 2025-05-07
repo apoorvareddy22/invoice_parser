@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "2101 Rice Square Apt. 980 Brownmouth, NJ 05916",
+        "business_no": "Fo479",
+        "id": "Lp592"
+    },
+    "invoice": {
+        "date": "08.07.2015",
+        "number": "7097-9061"
+    },
+    "payment": {
+        "due_date": "15.01.2012",
+        "total": 293.27
+    },
+    "products": [
+        {
+            "amount": 367.41,
+            "description": "re-intermediate strategic metrics",
+            "quantity": 2.42,
+            "reference": "yA-081",
+            "unit_price": 86.72
+        },
+        {
+            "amount": 15.44,
+            "description": "re-contextualize front-end functionalities",
+            "quantity": 3.71,
+            "reference": "Cm-246",
+            "unit_price": 43.73
+        },
+        {
+            "amount": 98.48,
+            "description": "harness turn-key experiences",
+            "quantity": 2.19,
+            "reference": "Wo-751",
+            "unit_price": 64.58
+        },
+        {
+            "amount": 48.21,
+            "description": "harness robust schemas",
+            "quantity": 8.11,
+            "reference": "OP-440",
+            "unit_price": 45.94
+        },
+        {
+            "amount": 43.95,
+            "description": "visualize turn-key vortals",
+            "quantity": 4.03,
+            "reference": "uM-519",
+            "unit_price": 35.06
+        }
+    ],
+    "seller": {
+        "address": "71280 Monica Tunnel Matthewtown, CO 18809"
+    },
+    "tax": {
+        "base_ht": 255.78,
+        "regulations": 22.61,
+        "total_ht": 272.32,
+        "vat_amount": 70.33,
+        "vat_percentage": 18.05
+    }
+}

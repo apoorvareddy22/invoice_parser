@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "22508 Laura Land Suite 488 New Maryfurt, NY 27137",
+        "email": "phyllis90@example.net",
+        "phone": "7022902738",
+        "vat_no": "tM32656664425"
+    },
+    "invoice": {
+        "date": "13.07.1996",
+        "due_date": "12.08.2001",
+        "market_reference": 741352,
+        "notes": "repurpose out-of-the-box web-readiness",
+        "number": "1534-1798",
+        "reference": 391457,
+        "vat_no": "Pe57318875552"
+    },
+    "payment": {
+        "net_total": 67.01,
+        "total": 275.84
+    },
+    "products": [
+        {
+            "amount": 82.24,
+            "description": "redefine 24/365 mindshare",
+            "hours": 8.02,
+            "rate": 8.15
+        },
+        {
+            "amount": 469.47,
+            "description": "visualize virtual partnerships",
+            "hours": 1.9,
+            "rate": 2.31
+        },
+        {
+            "amount": 315.61,
+            "description": "architect global interfaces",
+            "hours": 1.56,
+            "rate": 5.6
+        },
+        {
+            "amount": 169.62,
+            "description": "implement back-end action-items",
+            "hours": 5.29,
+            "rate": 6.08
+        },
+        {
+            "amount": 58.82,
+            "description": "streamline innovative paradigms",
+            "hours": 1.82,
+            "rate": 2.5
+        }
+    ],
+    "seller": {
+        "address": "64468 Knight Keys Travishaven, NM 86865",
+        "email": "youngderek@example.net",
+        "name": "Annette Myers"
+    },
+    "tax": {
+        "base": 17.38,
+        "tax_amount": 23.54,
+        "total_tax": 23.45
+    }
+}

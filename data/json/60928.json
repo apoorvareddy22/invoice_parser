@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "90233 Summers Drive Allenfort, SD 51189",
+        "business_no": "VW194",
+        "id": "oh968"
+    },
+    "invoice": {
+        "date": "15.03.2005",
+        "number": "3269-5497"
+    },
+    "payment": {
+        "due_date": "19.10.2015",
+        "total": 524.75
+    },
+    "products": [
+        {
+            "amount": 107.45,
+            "description": "evolve efficient channels",
+            "quantity": 2.25,
+            "reference": "nj-338",
+            "unit_price": 52.99
+        },
+        {
+            "amount": 189.55,
+            "description": "monetize wireless solutions",
+            "quantity": 2.16,
+            "reference": "tp-292",
+            "unit_price": 49.32
+        },
+        {
+            "amount": 202.34,
+            "description": "leverage turn-key ROI",
+            "quantity": 5.94,
+            "reference": "Tw-633",
+            "unit_price": 32.92
+        },
+        {
+            "amount": 378.9,
+            "description": "integrate B2B methodologies",
+            "quantity": 7.19,
+            "reference": "JC-554",
+            "unit_price": 67.91
+        },
+        {
+            "amount": 444.19,
+            "description": "synergize proactive e-services",
+            "quantity": 8.08,
+            "reference": "xm-635",
+            "unit_price": 53.51
+        }
+    ],
+    "seller": {
+        "address": "5416 Rodriguez Forks East Angelaview, MP 19029"
+    },
+    "tax": {
+        "base_ht": 392.49,
+        "regulations": 29.25,
+        "total_ht": 246.45,
+        "vat_amount": 151.66,
+        "vat_percentage": 23.32
+    }
+}

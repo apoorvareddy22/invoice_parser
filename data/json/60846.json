@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "Unit 2341 Box 6688 DPO AE 45687",
+        "business_no": "EI056",
+        "id": "vl658"
+    },
+    "invoice": {
+        "date": "25.05.1991",
+        "number": "4345-6115"
+    },
+    "payment": {
+        "due_date": "20.03.2013",
+        "total": 921.25
+    },
+    "products": [
+        {
+            "amount": 463.36,
+            "description": "transition compelling architectures",
+            "quantity": 4.28,
+            "reference": "nM-930",
+            "unit_price": 87.57
+        },
+        {
+            "amount": 234.55,
+            "description": "generate cross-media relationships",
+            "quantity": 9.86,
+            "reference": "JN-076",
+            "unit_price": 95.34
+        }
+    ],
+    "seller": {
+        "address": "34369 Hardin Forges Whiteport, MH 18343"
+    },
+    "tax": {
+        "base_ht": 351.19,
+        "regulations": 26.35,
+        "total_ht": 435.07,
+        "vat_amount": 106.24,
+        "vat_percentage": 28.75
+    }
+}

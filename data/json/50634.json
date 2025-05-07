@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "998 Bradley Curve Suite 828 Michaelstad, AK 14756",
+        "id": "tK556"
+    },
+    "invoice": {
+        "bc_no": "FN45208",
+        "currency_code": "BSD",
+        "date": "22.04.1990",
+        "due_date": "27.01.1991",
+        "number": 373347
+    },
+    "payment": {
+        "bank_name": "Griffith Ltd",
+        "bic": "VBWRGB150AC",
+        "iban": "BJST81813858810190"
+    },
+    "products": [
+        {
+            "amount": 60.69,
+            "description": "integrate strategic e-services",
+            "index": "4",
+            "price": 338.9,
+            "quantity": 2.38,
+            "tax_amount": 49.53,
+            "total_ttc": 225.19,
+            "vat_amount": 0.63
+        }
+    ],
+    "seller": {
+        "name": "Brenda Mckay"
+    },
+    "supplier": {
+        "address": "7035 Velazquez Mall West Joybury, WY 12564",
+        "name": "Jason Wagner"
+    },
+    "tax": {
+        "amount_excluding_tax": 41.41,
+        "amount_including_tax": 145.2,
+        "tax_amount": 13.89,
+        "total_ht": 389.47,
+        "total_ttc": 444.58
+    }
+}

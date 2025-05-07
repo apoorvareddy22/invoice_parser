@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "0327 Peters Summit Suite 927 Smithberg, ME 69181",
+        "business_no": "cJ184",
+        "id": "pL606"
+    },
+    "invoice": {
+        "date": "16.10.2010",
+        "number": "8438-9283"
+    },
+    "payment": {
+        "due_date": "23.11.1997",
+        "total": 423.99
+    },
+    "products": [
+        {
+            "amount": 107.39,
+            "description": "synthesize value-added e-services",
+            "quantity": 7.09,
+            "reference": "xq-887",
+            "unit_price": 38.7
+        },
+        {
+            "amount": 392.74,
+            "description": "productize out-of-the-box platforms",
+            "quantity": 4.36,
+            "reference": "df-061",
+            "unit_price": 25.9
+        }
+    ],
+    "seller": {
+        "address": "Unit 8105 Box 6745 DPO AP 50206"
+    },
+    "tax": {
+        "base_ht": 278.15,
+        "regulations": 17.52,
+        "total_ht": 109.84,
+        "vat_amount": 15.96,
+        "vat_percentage": 23.39
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "391 Carpenter Summit Suite 016 South Victorburgh, MI 04685"
+    },
+    "invoice": {
+        "bc_no": "Pa08624",
+        "date": "09.01.2022",
+        "maturity_date": "18.11.2019",
+        "number": 851510
+    },
+    "products": [
+        {
+            "amount": 217.29,
+            "description": "facilitate global experiences",
+            "quantity": 3.4,
+            "unit_price": 50.78,
+            "vat_amount": 10.73
+        }
+    ],
+    "seller": {
+        "address": "PSC 2360, Box 6998 APO AE 61108"
+    },
+    "tax": {
+        "amount_excluding_tax": 167.67,
+        "amount_including_tax": 151.97,
+        "tax_amount": 18.02
+    }
+}

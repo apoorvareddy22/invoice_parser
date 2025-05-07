@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "PSC 2109, Box 6752 APO AE 96969",
+        "company_name": "Mclaughlin, Alexander and Bean",
+        "country": "Kenya",
+        "name": "Robert Nguyen"
+    },
+    "invoice": {
+        "date": "21.03.1995",
+        "number": 448951
+    },
+    "payment": {
+        "discount_amount": 22.72,
+        "discount_percentage": 17.23,
+        "due": 54.79,
+        "sub_total": 154.43,
+        "total": 589.63
+    },
+    "products": [
+        {
+            "description": "target interactive content",
+            "index": "8",
+            "quantity": 6.43,
+            "total_price": 874.74,
+            "unit_price": 19.37
+        },
+        {
+            "description": "unleash cross-platform solutions",
+            "index": "6",
+            "quantity": 4.08,
+            "total_price": 910.29,
+            "unit_price": 25.5
+        },
+        {
+            "description": "drive back-end technologies",
+            "index": "4",
+            "quantity": 6.95,
+            "total_price": 519.51,
+            "unit_price": 53.52
+        },
+        {
+            "description": "syndicate value-added partnerships",
+            "index": "7",
+            "quantity": 1.73,
+            "total_price": 833.61,
+            "unit_price": 79.92
+        },
+        {
+            "description": "deploy synergistic functionalities",
+            "index": "8",
+            "quantity": 9.41,
+            "total_price": 524.62,
+            "unit_price": 67.87
+        }
+    ],
+    "seller": {
+        "address": "821 Dean Viaduct Taylormouth, AR 15434",
+        "company_name": "Barnes Ltd",
+        "vat_no": "Mz61335080805"
+    }
+}

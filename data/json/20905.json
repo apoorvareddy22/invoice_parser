@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "2588 Luis Garden Apt. 314 Robertmouth, VA 55573",
+        "company_name": "Tanner PLC",
+        "email": "stevenvalenzuela@example.org",
+        "name": "Carl Curry",
+        "phone": "+1-794-593-4741x678"
+    },
+    "invoice": {
+        "date": "03.02.2005",
+        "due_date": "22.09.2019",
+        "number": "UOx58119814131"
+    },
+    "payment": {
+        "account_number": 3395246666,
+        "bank_name": "Long-Caldwell",
+        "routing_number": 963137271
+    },
+    "products": [
+        {
+            "amount": 351.77,
+            "description": "transition granular interfaces",
+            "index": "7",
+            "quantity": 1.95,
+            "unit_price": 16.01
+        },
+        {
+            "amount": 89.34,
+            "description": "re-intermediate cutting-edge e-business",
+            "index": "3",
+            "quantity": 6.23,
+            "unit_price": 22.34
+        },
+        {
+            "amount": 379.57,
+            "description": "expedite B2C portals",
+            "index": "5",
+            "quantity": 4.86,
+            "unit_price": 46.96
+        }
+    ],
+    "seller": {
+        "address": "Unit 2730 Box 9803 DPO AP 49261",
+        "company_name": "Ramirez and Sons",
+        "email": "melindabecker@example.com"
+    }
+}

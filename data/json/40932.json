@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "014 Vega Mountain Apt. 474 North Vanessa, GU 98276"
+    },
+    "invoice": {
+        "bc_no": "op34100",
+        "date": "28.03.2022",
+        "maturity_date": "01.06.2020",
+        "number": 735939
+    },
+    "products": [
+        {
+            "amount": 19.49,
+            "description": "synthesize 24/7 action-items",
+            "quantity": 2.12,
+            "unit_price": 86.89,
+            "vat_amount": 3.99
+        },
+        {
+            "amount": 177.2,
+            "description": "mesh e-business content",
+            "quantity": 1.17,
+            "unit_price": 58.59,
+            "vat_amount": 1.74
+        }
+    ],
+    "seller": {
+        "address": "14372 Miles Route Port Joanna, AR 32448"
+    },
+    "tax": {
+        "amount_excluding_tax": 22.81,
+        "amount_including_tax": 194.79,
+        "tax_amount": 29.98
+    }
+}

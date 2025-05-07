@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "1245 Terri Roads Bellton, CO 16385",
+        "company_name": "Martin, Moore and Ramsey",
+        "email": "erin23@example.net",
+        "name": "Lisa Gutierrez",
+        "phone": "+1-268-652-1974x9680"
+    },
+    "invoice": {
+        "date": "16.01.2007",
+        "due_date": "06.09.1993",
+        "number": "GgF95856236052"
+    },
+    "payment": {
+        "account_number": 5518166724,
+        "bank_name": "Baker, Hill and King",
+        "routing_number": 513838624
+    },
+    "products": [
+        {
+            "amount": 375.52,
+            "description": "facilitate killer e-services",
+            "index": "10",
+            "quantity": 2.54,
+            "unit_price": 68.83
+        },
+        {
+            "amount": 406.22,
+            "description": "re-intermediate bricks-and-clicks networks",
+            "index": "5",
+            "quantity": 8.65,
+            "unit_price": 53.18
+        }
+    ],
+    "seller": {
+        "address": "6989 Jeanette Plaza Apt. 485 Christineland, MA 34566",
+        "company_name": "Peterson-Thomas",
+        "email": "adamgreene@example.net"
+    }
+}

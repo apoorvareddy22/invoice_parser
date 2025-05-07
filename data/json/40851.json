@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "01243 Hall Alley New Amy, GA 84899"
+    },
+    "invoice": {
+        "bc_no": "fe33443",
+        "date": "25.03.1994",
+        "maturity_date": "29.12.2017",
+        "number": 821814
+    },
+    "products": [
+        {
+            "amount": 150.37,
+            "description": "maximize dynamic deliverables",
+            "quantity": 7.76,
+            "unit_price": 75.95,
+            "vat_amount": 0.59
+        },
+        {
+            "amount": 66.62,
+            "description": "incubate magnetic vortals",
+            "quantity": 7.34,
+            "unit_price": 87.49,
+            "vat_amount": 1.67
+        }
+    ],
+    "seller": {
+        "address": "540 Tiffany Inlet Suite 910 Campbellside, KS 95698"
+    },
+    "tax": {
+        "amount_excluding_tax": 18.43,
+        "amount_including_tax": 197.93,
+        "tax_amount": 16.14
+    }
+}

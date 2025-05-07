@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "Unit 6494 Box 8394 DPO AE 49292",
+        "id": "YK154"
+    },
+    "invoice": {
+        "bc_no": "ra02672",
+        "currency_code": "MUR",
+        "date": "18.08.1997",
+        "due_date": "08.08.1995",
+        "number": 907195
+    },
+    "payment": {
+        "bank_name": "Chavez-Garcia",
+        "bic": "QCLCGBL7",
+        "iban": "QFJS72812506933031"
+    },
+    "products": [
+        {
+            "amount": 410.79,
+            "description": "maximize front-end deliverables",
+            "index": "4",
+            "price": 182.76,
+            "quantity": 9.83,
+            "tax_amount": 62.24,
+            "total_ttc": 202.31,
+            "vat_amount": 1.3
+        },
+        {
+            "amount": 93.87,
+            "description": "brand web-enabled paradigms",
+            "index": "7",
+            "price": 151.25,
+            "quantity": 7.9,
+            "tax_amount": 41.87,
+            "total_ttc": 448.76,
+            "vat_amount": 1.65
+        },
+        {
+            "amount": 193.04,
+            "description": "cultivate enterprise paradigms",
+            "index": "2",
+            "price": 394.71,
+            "quantity": 6.23,
+            "tax_amount": 18.66,
+            "total_ttc": 314.51,
+            "vat_amount": 4.98
+        }
+    ],
+    "seller": {
+        "name": "Stephanie Johnson"
+    },
+    "supplier": {
+        "address": "PSC 5878, Box 7573 APO AP 10924",
+        "name": "Kathryn Armstrong"
+    },
+    "tax": {
+        "amount_excluding_tax": 180.64,
+        "amount_including_tax": 150.25,
+        "tax_amount": 12.33,
+        "total_ht": 473.33,
+        "total_ttc": 413.23
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "USNS Garrison FPO AA 11834",
+        "business_no": "ku221",
+        "id": "if638"
+    },
+    "invoice": {
+        "date": "25.05.2016",
+        "number": "4846-9000"
+    },
+    "payment": {
+        "due_date": "25.10.1993",
+        "total": 245.75
+    },
+    "products": [
+        {
+            "amount": 165.11,
+            "description": "e-enable integrated bandwidth",
+            "quantity": 4.38,
+            "reference": "QF-677",
+            "unit_price": 90.05
+        },
+        {
+            "amount": 184.23,
+            "description": "redefine wireless niches",
+            "quantity": 7.35,
+            "reference": "HT-606",
+            "unit_price": 50.06
+        },
+        {
+            "amount": 486.61,
+            "description": "repurpose revolutionary markets",
+            "quantity": 4.69,
+            "reference": "aP-238",
+            "unit_price": 75.14
+        },
+        {
+            "amount": 265.43,
+            "description": "unleash vertical deliverables",
+            "quantity": 5.01,
+            "reference": "tQ-947",
+            "unit_price": 47.6
+        },
+        {
+            "amount": 26.26,
+            "description": "re-intermediate dynamic deliverables",
+            "quantity": 1.63,
+            "reference": "hK-734",
+            "unit_price": 20.11
+        }
+    ],
+    "seller": {
+        "address": "Unit 0661 Box 9856 DPO AP 34587"
+    },
+    "tax": {
+        "base_ht": 282.52,
+        "regulations": 26.17,
+        "total_ht": 279.17,
+        "vat_amount": 25.53,
+        "vat_percentage": 29.87
+    }
+}

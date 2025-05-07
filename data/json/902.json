@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "7979 Campos Fork Lake Angela, MT 28550",
+        "company_name": "Lowe, Simmons and Christian",
+        "country": "Portugal",
+        "name": "John Anderson"
+    },
+    "invoice": {
+        "date": "12.07.2014",
+        "number": 888087
+    },
+    "payment": {
+        "discount_amount": 43.69,
+        "discount_percentage": 18.31,
+        "due": 56.69,
+        "sub_total": 162.58,
+        "total": 314.57
+    },
+    "products": [
+        {
+            "description": "integrate real-time systems",
+            "index": "9",
+            "quantity": 2.58,
+            "total_price": 981.98,
+            "unit_price": 11.16
+        },
+        {
+            "description": "redefine magnetic interfaces",
+            "index": "8",
+            "quantity": 5.21,
+            "total_price": 577.99,
+            "unit_price": 75.97
+        }
+    ],
+    "seller": {
+        "address": "05161 Jonathan Cape East Bryantown, KS 83196",
+        "company_name": "Wilson Inc",
+        "vat_no": "Ll69051719094"
+    }
+}

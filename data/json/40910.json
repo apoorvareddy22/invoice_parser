@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "6996 Lisa Junctions South Cole, KS 05369"
+    },
+    "invoice": {
+        "bc_no": "WC01200",
+        "date": "22.09.1991",
+        "maturity_date": "23.05.2020",
+        "number": 648097
+    },
+    "products": [
+        {
+            "amount": 58.13,
+            "description": "unleash bricks-and-clicks info-mediaries",
+            "quantity": 1.96,
+            "unit_price": 92.12,
+            "vat_amount": 1.5
+        },
+        {
+            "amount": 132.05,
+            "description": "disintermediate revolutionary e-services",
+            "quantity": 9.75,
+            "unit_price": 49.77,
+            "vat_amount": 9.75
+        },
+        {
+            "amount": 215.98,
+            "description": "harness ubiquitous synergies",
+            "quantity": 8.45,
+            "unit_price": 43.33,
+            "vat_amount": 12.57
+        }
+    ],
+    "seller": {
+        "address": "953 Nicholas Oval East Russell, MS 48920"
+    },
+    "tax": {
+        "amount_excluding_tax": 120.25,
+        "amount_including_tax": 125.57,
+        "tax_amount": 25.63
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "26782 Randy Springs Suite 010 Veronicahaven, IN 75589",
+        "email": "becky49@example.org",
+        "phone": "(582)526-4059x7516",
+        "vat_no": "VQ77082746144"
+    },
+    "invoice": {
+        "date": "18.11.2016",
+        "due_date": "11.02.1991",
+        "market_reference": 806276,
+        "notes": "embrace magnetic technologies",
+        "number": "1598-0278",
+        "reference": 873098,
+        "vat_no": "AN71621615432"
+    },
+    "payment": {
+        "net_total": 195.38,
+        "total": 980.58
+    },
+    "products": [
+        {
+            "amount": 51.89,
+            "description": "transform efficient markets",
+            "hours": 7.69,
+            "rate": 7.89
+        },
+        {
+            "amount": 25.62,
+            "description": "re-contextualize 24/365 e-markets",
+            "hours": 2.6,
+            "rate": 6.36
+        },
+        {
+            "amount": 154.87,
+            "description": "brand out-of-the-box niches",
+            "hours": 7.94,
+            "rate": 5.58
+        },
+        {
+            "amount": 56.33,
+            "description": "brand plug-and-play solutions",
+            "hours": 7.11,
+            "rate": 6.8
+        }
+    ],
+    "seller": {
+        "address": "00765 Gonzalez Park Suite 211 New Joseph, WA 31683",
+        "email": "josepholsen@example.com",
+        "name": "Ashlee Martin"
+    },
+    "tax": {
+        "base": 17.34,
+        "tax_amount": 12.79,
+        "total_tax": 27.2
+    }
+}

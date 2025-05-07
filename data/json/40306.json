@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "230 Hernandez Rest Apt. 944 Noblefurt, MT 51154"
+    },
+    "invoice": {
+        "bc_no": "Mc08343",
+        "date": "07.02.2004",
+        "maturity_date": "07.09.2021",
+        "number": 956819
+    },
+    "products": [
+        {
+            "amount": 44.94,
+            "description": "harness end-to-end models",
+            "quantity": 10.0,
+            "unit_price": 93.11,
+            "vat_amount": 5.48
+        },
+        {
+            "amount": 417.68,
+            "description": "incentivize next-generation platforms",
+            "quantity": 2.22,
+            "unit_price": 24.57,
+            "vat_amount": 9.29
+        },
+        {
+            "amount": 335.17,
+            "description": "seize back-end infrastructures",
+            "quantity": 3.04,
+            "unit_price": 30.56,
+            "vat_amount": 2.41
+        },
+        {
+            "amount": 343.24,
+            "description": "implement best-of-breed solutions",
+            "quantity": 6.03,
+            "unit_price": 52.06,
+            "vat_amount": 4.96
+        },
+        {
+            "amount": 429.98,
+            "description": "engineer end-to-end interfaces",
+            "quantity": 4.91,
+            "unit_price": 45.42,
+            "vat_amount": 16.34
+        }
+    ],
+    "seller": {
+        "address": "769 Ashley Hills Weberland, NV 40392"
+    },
+    "tax": {
+        "amount_excluding_tax": 147.13,
+        "amount_including_tax": 191.69,
+        "tax_amount": 14.19
+    }
+}

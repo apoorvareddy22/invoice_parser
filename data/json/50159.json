@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "3258 Cody Freeway South Jessicabury, NH 06563",
+        "id": "lu207"
+    },
+    "invoice": {
+        "bc_no": "bt59575",
+        "currency_code": "KHR",
+        "date": "11.05.2004",
+        "due_date": "15.09.1992",
+        "number": 624796
+    },
+    "payment": {
+        "bank_name": "Strickland PLC",
+        "bic": "FUAFGBBYRAT",
+        "iban": "TKOK21982411468560"
+    },
+    "products": [
+        {
+            "amount": 336.72,
+            "description": "strategize back-end experiences",
+            "index": "1",
+            "price": 368.25,
+            "quantity": 3.58,
+            "tax_amount": 24.77,
+            "total_ttc": 231.02,
+            "vat_amount": 4.32
+        },
+        {
+            "amount": 241.05,
+            "description": "harness synergistic mindshare",
+            "index": "5",
+            "price": 216.07,
+            "quantity": 6.8,
+            "tax_amount": 47.37,
+            "total_ttc": 154.56,
+            "vat_amount": 1.62
+        }
+    ],
+    "seller": {
+        "name": "Lisa Jimenez"
+    },
+    "supplier": {
+        "address": "74983 Cruz Forks Lake Michelleside, MT 36248",
+        "name": "Lori Mitchell"
+    },
+    "tax": {
+        "amount_excluding_tax": 113.64,
+        "amount_including_tax": 90.9,
+        "tax_amount": 17.97,
+        "total_ht": 315.65,
+        "total_ttc": 356.12
+    }
+}

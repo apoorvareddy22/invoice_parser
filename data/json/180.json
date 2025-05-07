@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "9629 Rhonda Camp Apt. 123 Patriciaport, KY 12889",
+        "company_name": "Park PLC",
+        "country": "Kyrgyz Republic",
+        "name": "David Diaz"
+    },
+    "invoice": {
+        "date": "09.02.1996",
+        "number": 703096
+    },
+    "payment": {
+        "discount_amount": 13.61,
+        "discount_percentage": 9.47,
+        "due": 143.44,
+        "sub_total": 112.28,
+        "total": 313.37
+    },
+    "products": [
+        {
+            "description": "transform scalable e-business",
+            "index": "5",
+            "quantity": 1.76,
+            "total_price": 786.26,
+            "unit_price": 86.92
+        },
+        {
+            "description": "transform innovative relationships",
+            "index": "9",
+            "quantity": 6.21,
+            "total_price": 986.09,
+            "unit_price": 26.2
+        }
+    ],
+    "seller": {
+        "address": "4171 Jonathan Motorway Suite 498 Codyshire, ND 77455",
+        "company_name": "Cohen PLC",
+        "vat_no": "oQ61586882594"
+    }
+}

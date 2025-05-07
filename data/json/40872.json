@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "143 Brittney Streets Suite 148 East Julie, GU 40628"
+    },
+    "invoice": {
+        "bc_no": "xa50968",
+        "date": "15.03.1993",
+        "maturity_date": "18.02.2017",
+        "number": 960238
+    },
+    "products": [
+        {
+            "amount": 199.94,
+            "description": "extend efficient interfaces",
+            "quantity": 6.71,
+            "unit_price": 89.25,
+            "vat_amount": 12.62
+        }
+    ],
+    "seller": {
+        "address": "366 Williams Crossroad Apt. 922 Greenburgh, MI 88916"
+    },
+    "tax": {
+        "amount_excluding_tax": 35.45,
+        "amount_including_tax": 31.99,
+        "tax_amount": 13.64
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "319 Spencer Villages Port Kellybury, SD 12654",
+        "business_no": "Zr753",
+        "id": "zY404"
+    },
+    "invoice": {
+        "date": "22.07.2012",
+        "number": "9145-1580"
+    },
+    "payment": {
+        "due_date": "24.06.2010",
+        "total": 612.67
+    },
+    "products": [
+        {
+            "amount": 390.25,
+            "description": "scale ubiquitous convergence",
+            "quantity": 8.06,
+            "reference": "UV-283",
+            "unit_price": 65.24
+        },
+        {
+            "amount": 133.21,
+            "description": "synergize leading-edge systems",
+            "quantity": 1.67,
+            "reference": "Zu-828",
+            "unit_price": 20.05
+        },
+        {
+            "amount": 455.96,
+            "description": "disintermediate proactive e-services",
+            "quantity": 8.3,
+            "reference": "Pq-643",
+            "unit_price": 12.67
+        },
+        {
+            "amount": 411.1,
+            "description": "deliver collaborative convergence",
+            "quantity": 1.31,
+            "reference": "hT-059",
+            "unit_price": 27.11
+        }
+    ],
+    "seller": {
+        "address": "46400 Marc Tunnel Jordanside, CT 86947"
+    },
+    "tax": {
+        "base_ht": 284.56,
+        "regulations": 27.85,
+        "total_ht": 383.32,
+        "vat_amount": 115.37,
+        "vat_percentage": 28.41
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "01263 Johnston Locks Apt. 679 Velazquezchester, NY 83708"
+    },
+    "invoice": {
+        "bc_no": "Lt73862",
+        "date": "26.04.2005",
+        "maturity_date": "06.05.2019",
+        "number": 498034
+    },
+    "products": [
+        {
+            "amount": 81.74,
+            "description": "enable intuitive e-services",
+            "quantity": 3.77,
+            "unit_price": 11.38,
+            "vat_amount": 0.24
+        },
+        {
+            "amount": 211.98,
+            "description": "streamline turn-key technologies",
+            "quantity": 2.89,
+            "unit_price": 38.7,
+            "vat_amount": 11.03
+        },
+        {
+            "amount": 106.82,
+            "description": "mesh distributed portals",
+            "quantity": 7.16,
+            "unit_price": 62.82,
+            "vat_amount": 0.24
+        },
+        {
+            "amount": 316.87,
+            "description": "reinvent distributed methodologies",
+            "quantity": 5.08,
+            "unit_price": 86.21,
+            "vat_amount": 0.07
+        },
+        {
+            "amount": 217.24,
+            "description": "integrate enterprise solutions",
+            "quantity": 7.78,
+            "unit_price": 55.15,
+            "vat_amount": 0.55
+        }
+    ],
+    "seller": {
+        "address": "PSC 3086, Box 7389 APO AE 36738"
+    },
+    "tax": {
+        "amount_excluding_tax": 84.64,
+        "amount_including_tax": 149.7,
+        "tax_amount": 24.24
+    }
+}

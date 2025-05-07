@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "956 Eric Groves Thomasmouth, CO 49116",
+        "id": "Ij290"
+    },
+    "invoice": {
+        "bc_no": "uu13566",
+        "currency_code": "ZMW",
+        "date": "12.12.1992",
+        "due_date": "08.11.1995",
+        "number": 967284
+    },
+    "payment": {
+        "bank_name": "Morrison-Simpson",
+        "bic": "KLIMGB4N",
+        "iban": "ZKIK38976586105669"
+    },
+    "products": [
+        {
+            "amount": 214.68,
+            "description": "unleash leading-edge markets",
+            "index": "10",
+            "price": 438.11,
+            "quantity": 2.71,
+            "tax_amount": 81.87,
+            "total_ttc": 156.6,
+            "vat_amount": 4.45
+        },
+        {
+            "amount": 421.86,
+            "description": "iterate best-of-breed e-business",
+            "index": "4",
+            "price": 203.58,
+            "quantity": 9.55,
+            "tax_amount": 79.74,
+            "total_ttc": 366.41,
+            "vat_amount": 5.86
+        },
+        {
+            "amount": 423.37,
+            "description": "maximize compelling e-markets",
+            "index": "2",
+            "price": 495.76,
+            "quantity": 9.78,
+            "tax_amount": 73.5,
+            "total_ttc": 257.95,
+            "vat_amount": 2.74
+        },
+        {
+            "amount": 115.86,
+            "description": "innovate holistic deliverables",
+            "index": "5",
+            "price": 404.85,
+            "quantity": 4.42,
+            "tax_amount": 64.69,
+            "total_ttc": 241.46,
+            "vat_amount": 1.99
+        },
+        {
+            "amount": 220.6,
+            "description": "cultivate magnetic bandwidth",
+            "index": "2",
+            "price": 437.45,
+            "quantity": 5.37,
+            "tax_amount": 94.09,
+            "total_ttc": 267.81,
+            "vat_amount": 0.36
+        }
+    ],
+    "seller": {
+        "name": "Daniel Whitehead"
+    },
+    "supplier": {
+        "address": "50507 Jim Stream Apt. 869 Fitzgeraldhaven, WV 53210",
+        "name": "Reginald Davis"
+    },
+    "tax": {
+        "amount_excluding_tax": 109.85,
+        "amount_including_tax": 188.82,
+        "tax_amount": 24.61,
+        "total_ht": 224.59,
+        "total_ttc": 215.59
+    }
+}

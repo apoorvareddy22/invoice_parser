@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "097 Martinez Burgs Suite 846 Bethborough, ND 94945",
+        "email": "davidbutler@example.net",
+        "phone": "934-323-1846",
+        "vat_no": "Lr61293698066"
+    },
+    "invoice": {
+        "date": "05.06.2006",
+        "due_date": "10.12.2002",
+        "market_reference": 836604,
+        "notes": "envisioneer back-end deliverables",
+        "number": "6577-3091",
+        "reference": 341682,
+        "vat_no": "AZ92093039944"
+    },
+    "payment": {
+        "net_total": 127.59,
+        "total": 379.89
+    },
+    "products": [
+        {
+            "amount": 337.38,
+            "description": "monetize leading-edge partnerships",
+            "hours": 9.7,
+            "rate": 1.26
+        },
+        {
+            "amount": 244.73,
+            "description": "engineer proactive experiences",
+            "hours": 8.29,
+            "rate": 7.15
+        },
+        {
+            "amount": 69.33,
+            "description": "engage clicks-and-mortar web services",
+            "hours": 6.12,
+            "rate": 5.0
+        }
+    ],
+    "seller": {
+        "address": "5934 Diaz Camp Apt. 310 Burgesshaven, FM 77247",
+        "email": "hectorcastro@example.net",
+        "name": "Sheena Wyatt"
+    },
+    "tax": {
+        "base": 20.26,
+        "tax_amount": 18.9,
+        "total_tax": 13.62
+    }
+}

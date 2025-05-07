@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "4912 Nicholas Tunnel Suite 942 North Robertport, KS 69968",
+        "id": "iU975"
+    },
+    "invoice": {
+        "bc_no": "eV39410",
+        "currency_code": "UGX",
+        "date": "28.12.1996",
+        "due_date": "26.03.2020",
+        "number": 745663
+    },
+    "payment": {
+        "bank_name": "Shea LLC",
+        "bic": "ZEKAGBUF9UX",
+        "iban": "XZFK27404850277875"
+    },
+    "products": [
+        {
+            "amount": 406.8,
+            "description": "scale strategic paradigms",
+            "index": "6",
+            "price": 223.36,
+            "quantity": 9.04,
+            "tax_amount": 60.03,
+            "total_ttc": 202.61,
+            "vat_amount": 12.1
+        },
+        {
+            "amount": 445.72,
+            "description": "target seamless models",
+            "index": "2",
+            "price": 151.62,
+            "quantity": 1.17,
+            "tax_amount": 63.98,
+            "total_ttc": 420.76,
+            "vat_amount": 7.7
+        },
+        {
+            "amount": 461.21,
+            "description": "drive collaborative platforms",
+            "index": "6",
+            "price": 162.73,
+            "quantity": 6.53,
+            "tax_amount": 28.28,
+            "total_ttc": 334.62,
+            "vat_amount": 1.75
+        },
+        {
+            "amount": 26.1,
+            "description": "deliver ubiquitous communities",
+            "index": "2",
+            "price": 439.17,
+            "quantity": 6.91,
+            "tax_amount": 73.31,
+            "total_ttc": 389.58,
+            "vat_amount": 0.15
+        },
+        {
+            "amount": 378.08,
+            "description": "repurpose mission-critical users",
+            "index": "4",
+            "price": 252.51,
+            "quantity": 7.87,
+            "tax_amount": 73.56,
+            "total_ttc": 120.07,
+            "vat_amount": 1.14
+        }
+    ],
+    "seller": {
+        "name": "Jared Sullivan"
+    },
+    "supplier": {
+        "address": "38055 Hall Track Apt. 755 Port Trevortown, HI 87096",
+        "name": "Ryan Byrd"
+    },
+    "tax": {
+        "amount_excluding_tax": 155.76,
+        "amount_including_tax": 142.88,
+        "tax_amount": 22.76,
+        "total_ht": 308.49,
+        "total_ttc": 498.22
+    }
+}

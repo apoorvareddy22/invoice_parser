@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "7305 Anderson Streets Lake Donnaberg, NY 78556",
+        "email": "robinsonmary@example.net",
+        "phone": "+1-386-887-2422x57917",
+        "vat_no": "Ip38046889907"
+    },
+    "invoice": {
+        "date": "02.02.2013",
+        "due_date": "11.02.2012",
+        "market_reference": 306533,
+        "notes": "generate intuitive initiatives",
+        "number": "2062-7974",
+        "reference": 403989,
+        "vat_no": "QQ84909614109"
+    },
+    "payment": {
+        "net_total": 198.2,
+        "total": 505.39
+    },
+    "products": [
+        {
+            "amount": 130.45,
+            "description": "generate user-centric niches",
+            "hours": 5.35,
+            "rate": 2.49
+        },
+        {
+            "amount": 251.21,
+            "description": "drive e-business models",
+            "hours": 6.3,
+            "rate": 9.38
+        },
+        {
+            "amount": 400.34,
+            "description": "drive clicks-and-mortar web services",
+            "hours": 5.92,
+            "rate": 9.38
+        }
+    ],
+    "seller": {
+        "address": "665 Tina Tunnel Port Leonard, ME 08288",
+        "email": "youngrobert@example.net",
+        "name": "Dawn Schwartz"
+    },
+    "tax": {
+        "base": 24.67,
+        "tax_amount": 27.21,
+        "total_tax": 13.85
+    }
+}

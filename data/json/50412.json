@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "5289 Beverly Branch Suite 780 East Patricia, ND 42209",
+        "id": "sg856"
+    },
+    "invoice": {
+        "bc_no": "fp42093",
+        "currency_code": "CUC",
+        "date": "21.11.2000",
+        "due_date": "21.01.1996",
+        "number": 332484
+    },
+    "payment": {
+        "bank_name": "Bishop-Glenn",
+        "bic": "KLHMGB4F",
+        "iban": "HNBJ42076851180748"
+    },
+    "products": [
+        {
+            "amount": 289.16,
+            "description": "visualize web-enabled communities",
+            "index": "5",
+            "price": 50.16,
+            "quantity": 8.09,
+            "tax_amount": 42.48,
+            "total_ttc": 315.87,
+            "vat_amount": 8.51
+        },
+        {
+            "amount": 51.53,
+            "description": "extend dot-com infrastructures",
+            "index": "4",
+            "price": 383.02,
+            "quantity": 9.28,
+            "tax_amount": 48.69,
+            "total_ttc": 491.8,
+            "vat_amount": 0.25
+        },
+        {
+            "amount": 415.93,
+            "description": "whiteboard transparent bandwidth",
+            "index": "6",
+            "price": 95.14,
+            "quantity": 5.14,
+            "tax_amount": 76.33,
+            "total_ttc": 236.03,
+            "vat_amount": 3.43
+        },
+        {
+            "amount": 138.05,
+            "description": "syndicate transparent communities",
+            "index": "2",
+            "price": 258.14,
+            "quantity": 3.09,
+            "tax_amount": 54.95,
+            "total_ttc": 347.76,
+            "vat_amount": 0.14
+        }
+    ],
+    "seller": {
+        "name": "Carrie Robinson"
+    },
+    "supplier": {
+        "address": "31084 Mccarthy Estates Rebeccaville, VA 82647",
+        "name": "James Mitchell"
+    },
+    "tax": {
+        "amount_excluding_tax": 79.89,
+        "amount_including_tax": 162.25,
+        "tax_amount": 19.76,
+        "total_ht": 330.4,
+        "total_ttc": 480.61
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "57080 Blackwell Green Apt. 419 East Bryanfurt, AR 87576",
+        "business_no": "kn435",
+        "id": "WJ925"
+    },
+    "invoice": {
+        "date": "28.01.2000",
+        "number": "1354-7573"
+    },
+    "payment": {
+        "due_date": "11.01.2014",
+        "total": 562.81
+    },
+    "products": [
+        {
+            "amount": 226.49,
+            "description": "generate extensible technologies",
+            "quantity": 9.98,
+            "reference": "sN-598",
+            "unit_price": 56.79
+        }
+    ],
+    "seller": {
+        "address": "8115 Donald Alley Suite 747 Cliffordland, IA 10021"
+    },
+    "tax": {
+        "base_ht": 195.99,
+        "regulations": 27.79,
+        "total_ht": 444.14,
+        "vat_amount": 14.14,
+        "vat_percentage": 19.2
+    }
+}

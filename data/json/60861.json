@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "632 Neal Grove Dawnburgh, NJ 82218",
+        "business_no": "Eg765",
+        "id": "aR260"
+    },
+    "invoice": {
+        "date": "14.09.2014",
+        "number": "9107-9447"
+    },
+    "payment": {
+        "due_date": "28.09.2010",
+        "total": 964.45
+    },
+    "products": [
+        {
+            "amount": 206.0,
+            "description": "transform cutting-edge eyeballs",
+            "quantity": 7.99,
+            "reference": "JP-196",
+            "unit_price": 22.84
+        },
+        {
+            "amount": 73.08,
+            "description": "exploit user-centric infrastructures",
+            "quantity": 3.86,
+            "reference": "zj-086",
+            "unit_price": 78.41
+        }
+    ],
+    "seller": {
+        "address": "8252 Green Circle Apt. 483 Donaldsonshire, RI 89126"
+    },
+    "tax": {
+        "base_ht": 482.12,
+        "regulations": 19.12,
+        "total_ht": 354.44,
+        "vat_amount": 88.83,
+        "vat_percentage": 17.35
+    }
+}

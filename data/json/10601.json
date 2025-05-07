@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "3386 Alvarez Mall Walkerport, NM 39052",
+        "email": "andersoncharles@example.org",
+        "phone": "747-952-2354",
+        "vat_no": "Jo68068838395"
+    },
+    "invoice": {
+        "date": "06.11.2009",
+        "due_date": "02.01.2000",
+        "market_reference": 561327,
+        "notes": "exploit holistic convergence",
+        "number": "6956-7707",
+        "reference": 638163,
+        "vat_no": "JR55060711217"
+    },
+    "payment": {
+        "net_total": 114.08,
+        "total": 695.76
+    },
+    "products": [
+        {
+            "amount": 109.75,
+            "description": "cultivate world-class supply-chains",
+            "hours": 4.19,
+            "rate": 2.7
+        }
+    ],
+    "seller": {
+        "address": "PSC 0632, Box 0817 APO AA 38834",
+        "email": "dsmith@example.net",
+        "name": "Julie Greene"
+    },
+    "tax": {
+        "base": 13.96,
+        "tax_amount": 12.55,
+        "total_tax": 25.44
+    }
+}

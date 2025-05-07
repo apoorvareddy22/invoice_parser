@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "954 Kelly Junctions Lake William, PW 84076"
+    },
+    "invoice": {
+        "bc_no": "tR15425",
+        "date": "29.07.2007",
+        "maturity_date": "10.08.2016",
+        "number": 201782
+    },
+    "products": [
+        {
+            "amount": 466.4,
+            "description": "integrate strategic users",
+            "quantity": 3.6,
+            "unit_price": 69.04,
+            "vat_amount": 10.01
+        },
+        {
+            "amount": 214.99,
+            "description": "orchestrate strategic platforms",
+            "quantity": 3.51,
+            "unit_price": 10.14,
+            "vat_amount": 0.76
+        },
+        {
+            "amount": 73.76,
+            "description": "synergize strategic methodologies",
+            "quantity": 2.44,
+            "unit_price": 45.7,
+            "vat_amount": 1.1
+        }
+    ],
+    "seller": {
+        "address": "483 Bryan Hills West Denniston, KS 51353"
+    },
+    "tax": {
+        "amount_excluding_tax": 39.32,
+        "amount_including_tax": 160.06,
+        "tax_amount": 15.99
+    }
+}

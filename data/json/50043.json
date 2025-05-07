@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "8974 Crystal Plains Apt. 001 Adamsborough, IL 65428",
+        "id": "fv482"
+    },
+    "invoice": {
+        "bc_no": "mB77414",
+        "currency_code": "BHD",
+        "date": "08.04.2021",
+        "due_date": "15.12.1993",
+        "number": 863356
+    },
+    "payment": {
+        "bank_name": "Jefferson and Sons",
+        "bic": "OGSUGBWXXDO",
+        "iban": "JSRG32212531552995"
+    },
+    "products": [
+        {
+            "amount": 252.6,
+            "description": "re-contextualize mission-critical relationships",
+            "index": "7",
+            "price": 114.84,
+            "quantity": 4.78,
+            "tax_amount": 81.74,
+            "total_ttc": 345.13,
+            "vat_amount": 9.64
+        },
+        {
+            "amount": 126.25,
+            "description": "strategize bricks-and-clicks communities",
+            "index": "2",
+            "price": 233.13,
+            "quantity": 7.24,
+            "tax_amount": 57.67,
+            "total_ttc": 291.63,
+            "vat_amount": 5.3
+        },
+        {
+            "amount": 263.37,
+            "description": "synthesize intuitive networks",
+            "index": "2",
+            "price": 326.73,
+            "quantity": 9.05,
+            "tax_amount": 38.59,
+            "total_ttc": 355.81,
+            "vat_amount": 11.61
+        }
+    ],
+    "seller": {
+        "name": "Joe Perkins"
+    },
+    "supplier": {
+        "address": "7338 Mary Neck South Stevenhaven, IN 89664",
+        "name": "Nancy Henderson"
+    },
+    "tax": {
+        "amount_excluding_tax": 108.39,
+        "amount_including_tax": 41.04,
+        "tax_amount": 28.69,
+        "total_ht": 147.68,
+        "total_ttc": 147.93
+    }
+}

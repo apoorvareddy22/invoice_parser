@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "572 Anthony Trace Martinmouth, OR 55627",
+        "id": "Qg356"
+    },
+    "invoice": {
+        "bc_no": "FT46752",
+        "currency_code": "HNL",
+        "date": "31.10.2021",
+        "due_date": "14.02.2015",
+        "number": 863347
+    },
+    "payment": {
+        "bank_name": "Giles PLC",
+        "bic": "YCFVGBL7",
+        "iban": "CNRY88398800526613"
+    },
+    "products": [
+        {
+            "amount": 64.76,
+            "description": "cultivate granular web-readiness",
+            "index": "8",
+            "price": 281.43,
+            "quantity": 4.04,
+            "tax_amount": 45.36,
+            "total_ttc": 259.61,
+            "vat_amount": 4.16
+        },
+        {
+            "amount": 14.99,
+            "description": "disintermediate intuitive e-tailers",
+            "index": "6",
+            "price": 238.72,
+            "quantity": 1.35,
+            "tax_amount": 51.9,
+            "total_ttc": 144.89,
+            "vat_amount": 4.33
+        },
+        {
+            "amount": 52.43,
+            "description": "disintermediate bricks-and-clicks architectures",
+            "index": "3",
+            "price": 203.85,
+            "quantity": 6.79,
+            "tax_amount": 64.86,
+            "total_ttc": 114.55,
+            "vat_amount": 1.87
+        }
+    ],
+    "seller": {
+        "name": "Tyler Mcgee"
+    },
+    "supplier": {
+        "address": "81618 Lin Lock Apt. 611 Lake Michelleville, SC 64590",
+        "name": "Kimberly Stafford"
+    },
+    "tax": {
+        "amount_excluding_tax": 152.48,
+        "amount_including_tax": 155.1,
+        "tax_amount": 24.42,
+        "total_ht": 264.2,
+        "total_ttc": 167.87
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "0853 Stone Tunnel North Luke, CT 48014"
+    },
+    "invoice": {
+        "bc_no": "IA12139",
+        "date": "14.01.2010",
+        "maturity_date": "11.05.2006",
+        "number": 210384
+    },
+    "products": [
+        {
+            "amount": 367.56,
+            "description": "synthesize next-generation experiences",
+            "quantity": 9.26,
+            "unit_price": 89.43,
+            "vat_amount": 3.55
+        },
+        {
+            "amount": 88.49,
+            "description": "synthesize extensible networks",
+            "quantity": 2.66,
+            "unit_price": 55.57,
+            "vat_amount": 1.38
+        },
+        {
+            "amount": 481.9,
+            "description": "facilitate distributed infrastructures",
+            "quantity": 5.47,
+            "unit_price": 76.08,
+            "vat_amount": 1.54
+        },
+        {
+            "amount": 59.58,
+            "description": "e-enable B2C channels",
+            "quantity": 4.67,
+            "unit_price": 92.72,
+            "vat_amount": 9.95
+        },
+        {
+            "amount": 366.92,
+            "description": "expedite strategic info-mediaries",
+            "quantity": 2.69,
+            "unit_price": 85.68,
+            "vat_amount": 3.8
+        }
+    ],
+    "seller": {
+        "address": "61181 White Island Apt. 749 East Kristen, IA 89461"
+    },
+    "tax": {
+        "amount_excluding_tax": 24.29,
+        "amount_including_tax": 178.55,
+        "tax_amount": 25.06
+    }
+}

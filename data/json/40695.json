@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "186 Buckley Shoals Suite 382 North Maryville, AZ 06574"
+    },
+    "invoice": {
+        "bc_no": "xZ34772",
+        "date": "23.07.2017",
+        "maturity_date": "27.04.2015",
+        "number": 571114
+    },
+    "products": [
+        {
+            "amount": 267.71,
+            "description": "deploy B2C interfaces",
+            "quantity": 5.39,
+            "unit_price": 86.81,
+            "vat_amount": 12.71
+        },
+        {
+            "amount": 181.14,
+            "description": "re-intermediate real-time channels",
+            "quantity": 2.63,
+            "unit_price": 73.93,
+            "vat_amount": 8.15
+        },
+        {
+            "amount": 331.92,
+            "description": "deploy best-of-breed web services",
+            "quantity": 7.65,
+            "unit_price": 54.79,
+            "vat_amount": 3.6
+        }
+    ],
+    "seller": {
+        "address": "106 Jimenez Valleys New Tina, NC 47594"
+    },
+    "tax": {
+        "amount_excluding_tax": 79.36,
+        "amount_including_tax": 48.8,
+        "tax_amount": 22.29
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "USNS Lloyd FPO AE 00758",
+        "company_name": "Owens PLC",
+        "country": "Mauritius",
+        "name": "Jacob Sanchez"
+    },
+    "invoice": {
+        "date": "07.06.2022",
+        "number": 264968
+    },
+    "payment": {
+        "discount_amount": 42.92,
+        "discount_percentage": 12.22,
+        "due": 137.76,
+        "sub_total": 139.42,
+        "total": 778.86
+    },
+    "products": [
+        {
+            "description": "syndicate out-of-the-box applications",
+            "index": "4",
+            "quantity": 3.24,
+            "total_price": 240.25,
+            "unit_price": 55.71
+        },
+        {
+            "description": "streamline web-enabled content",
+            "index": "4",
+            "quantity": 3.5,
+            "total_price": 776.22,
+            "unit_price": 83.89
+        }
+    ],
+    "seller": {
+        "address": "513 Reyes Stream Apt. 582 West Sandra, NE 99737",
+        "company_name": "Johnston-Pierce",
+        "vat_no": "WF36656257782"
+    }
+}

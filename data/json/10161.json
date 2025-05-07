@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "61167 Jordan Centers North Melissa, NC 53712",
+        "email": "holly80@example.org",
+        "phone": "+1-523-720-2389",
+        "vat_no": "Ru01765901192"
+    },
+    "invoice": {
+        "date": "28.11.2007",
+        "due_date": "28.10.2013",
+        "market_reference": 601849,
+        "notes": "productize efficient communities",
+        "number": "5332-2954",
+        "reference": 661672,
+        "vat_no": "Ld75078251591"
+    },
+    "payment": {
+        "net_total": 88.04,
+        "total": 416.12
+    },
+    "products": [
+        {
+            "amount": 212.1,
+            "description": "engineer virtual paradigms",
+            "hours": 3.55,
+            "rate": 9.41
+        },
+        {
+            "amount": 199.0,
+            "description": "leverage real-time technologies",
+            "hours": 7.18,
+            "rate": 8.26
+        },
+        {
+            "amount": 135.02,
+            "description": "embrace back-end bandwidth",
+            "hours": 9.34,
+            "rate": 5.14
+        },
+        {
+            "amount": 11.07,
+            "description": "envisioneer strategic systems",
+            "hours": 7.85,
+            "rate": 6.47
+        },
+        {
+            "amount": 14.58,
+            "description": "architect user-centric metrics",
+            "hours": 7.38,
+            "rate": 3.14
+        },
+        {
+            "amount": 396.96,
+            "description": "disintermediate killer synergies",
+            "hours": 7.36,
+            "rate": 1.17
+        },
+        {
+            "amount": 132.93,
+            "description": "integrate dot-com supply-chains",
+            "hours": 4.54,
+            "rate": 2.22
+        }
+    ],
+    "seller": {
+        "address": "USNV Anderson FPO AA 28062",
+        "email": "cooksavannah@example.com",
+        "name": "Tristan Woods"
+    },
+    "tax": {
+        "base": 10.21,
+        "tax_amount": 21.37,
+        "total_tax": 29.9
+    }
+}

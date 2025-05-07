@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "65442 Tommy Path Suite 942 Lake Lauramouth, NH 87400",
+        "id": "bX715"
+    },
+    "invoice": {
+        "bc_no": "XP14873",
+        "currency_code": "TRY",
+        "date": "03.01.2001",
+        "due_date": "31.03.2014",
+        "number": 511575
+    },
+    "payment": {
+        "bank_name": "Martinez PLC",
+        "bic": "VDNNGBNF",
+        "iban": "IMXE59094529965547"
+    },
+    "products": [
+        {
+            "amount": 224.58,
+            "description": "strategize plug-and-play models",
+            "index": "9",
+            "price": 147.16,
+            "quantity": 2.14,
+            "tax_amount": 67.72,
+            "total_ttc": 107.1,
+            "vat_amount": 0.14
+        },
+        {
+            "amount": 435.58,
+            "description": "innovate world-class systems",
+            "index": "8",
+            "price": 445.82,
+            "quantity": 1.26,
+            "tax_amount": 12.9,
+            "total_ttc": 475.83,
+            "vat_amount": 2.12
+        },
+        {
+            "amount": 191.32,
+            "description": "embrace 24/365 e-services",
+            "index": "9",
+            "price": 93.82,
+            "quantity": 3.26,
+            "tax_amount": 46.26,
+            "total_ttc": 344.69,
+            "vat_amount": 11.27
+        },
+        {
+            "amount": 271.33,
+            "description": "disintermediate bleeding-edge networks",
+            "index": "7",
+            "price": 97.3,
+            "quantity": 3.53,
+            "tax_amount": 28.5,
+            "total_ttc": 325.88,
+            "vat_amount": 1.22
+        },
+        {
+            "amount": 277.12,
+            "description": "monetize virtual web-readiness",
+            "index": "7",
+            "price": 316.72,
+            "quantity": 4.93,
+            "tax_amount": 12.0,
+            "total_ttc": 164.73,
+            "vat_amount": 12.38
+        }
+    ],
+    "seller": {
+        "name": "Claudia Hensley"
+    },
+    "supplier": {
+        "address": "Unit 8277 Box 4873 DPO AP 51936",
+        "name": "Mr. Joel Brown"
+    },
+    "tax": {
+        "amount_excluding_tax": 160.54,
+        "amount_including_tax": 45.55,
+        "tax_amount": 23.61,
+        "total_ht": 280.32,
+        "total_ttc": 161.27
+    }
+}

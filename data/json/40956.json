@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "1780 Warren Forks Apt. 958 North Anthony, ID 84546"
+    },
+    "invoice": {
+        "bc_no": "qm52923",
+        "date": "04.02.1997",
+        "maturity_date": "04.04.2005",
+        "number": 469738
+    },
+    "products": [
+        {
+            "amount": 352.07,
+            "description": "strategize scalable metrics",
+            "quantity": 9.26,
+            "unit_price": 80.47,
+            "vat_amount": 1.15
+        },
+        {
+            "amount": 205.3,
+            "description": "morph back-end networks",
+            "quantity": 9.4,
+            "unit_price": 57.21,
+            "vat_amount": 11.49
+        }
+    ],
+    "seller": {
+        "address": "216 Glenn Pike West Adrienne, VI 18617"
+    },
+    "tax": {
+        "amount_excluding_tax": 99.05,
+        "amount_including_tax": 154.89,
+        "tax_amount": 21.34
+    }
+}

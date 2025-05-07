@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "90345 Casey Drive Suite 790 Obrienland, NH 53979"
+    },
+    "invoice": {
+        "bc_no": "AX56158",
+        "date": "26.02.2021",
+        "maturity_date": "30.08.2021",
+        "number": 606589
+    },
+    "products": [
+        {
+            "amount": 387.95,
+            "description": "envisioneer 24/7 platforms",
+            "quantity": 7.66,
+            "unit_price": 44.3,
+            "vat_amount": 8.0
+        },
+        {
+            "amount": 350.42,
+            "description": "monetize vertical e-tailers",
+            "quantity": 4.27,
+            "unit_price": 88.31,
+            "vat_amount": 4.59
+        },
+        {
+            "amount": 8.5,
+            "description": "unleash interactive paradigms",
+            "quantity": 3.6,
+            "unit_price": 58.74,
+            "vat_amount": 13.71
+        },
+        {
+            "amount": 71.92,
+            "description": "matrix plug-and-play info-mediaries",
+            "quantity": 7.27,
+            "unit_price": 60.99,
+            "vat_amount": 0.53
+        }
+    ],
+    "seller": {
+        "address": "1998 Kimberly Plains North Rebecca, AK 77393"
+    },
+    "tax": {
+        "amount_excluding_tax": 42.9,
+        "amount_including_tax": 95.44,
+        "tax_amount": 29.42
+    }
+}

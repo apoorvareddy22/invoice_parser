@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "27478 Adams Heights Lake Tinabury, OH 02787",
+        "company_name": "Herring-King",
+        "email": "vwilliams@example.net",
+        "name": "Shawn Deleon",
+        "phone": "+1-268-617-9250"
+    },
+    "invoice": {
+        "date": "16.12.2015",
+        "due_date": "17.10.2017",
+        "number": "Hqc38540138324"
+    },
+    "payment": {
+        "account_number": 9674155520,
+        "bank_name": "Beasley-Shepherd",
+        "routing_number": 307495744
+    },
+    "products": [
+        {
+            "amount": 351.72,
+            "description": "exploit distributed experiences",
+            "index": "2",
+            "quantity": 8.22,
+            "unit_price": 40.18
+        },
+        {
+            "amount": 290.93,
+            "description": "grow cross-media web-readiness",
+            "index": "8",
+            "quantity": 1.34,
+            "unit_price": 50.07
+        }
+    ],
+    "seller": {
+        "address": "8695 Brown Gardens Apt. 906 Port Adrianshire, OR 71537",
+        "company_name": "Johnston LLC",
+        "email": "maldonadonicholas@example.com"
+    }
+}

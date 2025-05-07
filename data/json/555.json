@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "52364 Kathy Loop Lozanobury, ME 97000",
+        "company_name": "Robinson-Patel",
+        "country": "Zimbabwe",
+        "name": "Luis Smith"
+    },
+    "invoice": {
+        "date": "07.08.1993",
+        "number": 683199
+    },
+    "payment": {
+        "discount_amount": 36.43,
+        "discount_percentage": 13.33,
+        "due": 118.85,
+        "sub_total": 95.25,
+        "total": 986.56
+    },
+    "products": [
+        {
+            "description": "embrace granular relationships",
+            "index": "9",
+            "quantity": 2.25,
+            "total_price": 986.11,
+            "unit_price": 30.39
+        },
+        {
+            "description": "reinvent proactive e-tailers",
+            "index": "5",
+            "quantity": 2.02,
+            "total_price": 710.57,
+            "unit_price": 91.9
+        }
+    ],
+    "seller": {
+        "address": "0618 Jones Corner Apt. 391 Port Tammy, MS 59372",
+        "company_name": "Patterson Ltd",
+        "vat_no": "Dz61054825957"
+    }
+}

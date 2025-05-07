@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "02263 Hogan Lakes Suite 243 West Travisland, UT 80646",
+        "business_no": "Gl806",
+        "id": "qb338"
+    },
+    "invoice": {
+        "date": "11.07.2017",
+        "number": "5309-2108"
+    },
+    "payment": {
+        "due_date": "23.09.2016",
+        "total": 102.11
+    },
+    "products": [
+        {
+            "amount": 466.28,
+            "description": "maximize visionary info-mediaries",
+            "quantity": 8.83,
+            "reference": "GI-414",
+            "unit_price": 29.6
+        },
+        {
+            "amount": 100.5,
+            "description": "generate bleeding-edge channels",
+            "quantity": 9.85,
+            "reference": "dt-903",
+            "unit_price": 24.47
+        },
+        {
+            "amount": 395.75,
+            "description": "unleash bricks-and-clicks relationships",
+            "quantity": 6.85,
+            "reference": "KP-445",
+            "unit_price": 77.36
+        },
+        {
+            "amount": 474.61,
+            "description": "drive distributed convergence",
+            "quantity": 2.5,
+            "reference": "qF-325",
+            "unit_price": 36.49
+        }
+    ],
+    "seller": {
+        "address": "USS Lynch FPO AA 83095"
+    },
+    "tax": {
+        "base_ht": 372.2,
+        "regulations": 26.09,
+        "total_ht": 375.82,
+        "vat_amount": 134.94,
+        "vat_percentage": 15.65
+    }
+}

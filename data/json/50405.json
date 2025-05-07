@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "746 Tanya Lake Suite 630 North Jerry, CT 17865",
+        "id": "so936"
+    },
+    "invoice": {
+        "bc_no": "ki58484",
+        "currency_code": "MYR",
+        "date": "12.03.2015",
+        "due_date": "09.02.2010",
+        "number": 399179
+    },
+    "payment": {
+        "bank_name": "Wallace LLC",
+        "bic": "GXLPGB1NCFI",
+        "iban": "UINW24215974075039"
+    },
+    "products": [
+        {
+            "amount": 146.8,
+            "description": "re-contextualize magnetic relationships",
+            "index": "7",
+            "price": 282.56,
+            "quantity": 1.53,
+            "tax_amount": 59.11,
+            "total_ttc": 477.91,
+            "vat_amount": 1.41
+        },
+        {
+            "amount": 327.15,
+            "description": "strategize cross-platform synergies",
+            "index": "4",
+            "price": 58.56,
+            "quantity": 6.09,
+            "tax_amount": 56.08,
+            "total_ttc": 356.21,
+            "vat_amount": 4.78
+        },
+        {
+            "amount": 156.09,
+            "description": "evolve compelling convergence",
+            "index": "5",
+            "price": 100.15,
+            "quantity": 7.49,
+            "tax_amount": 32.76,
+            "total_ttc": 331.86,
+            "vat_amount": 1.69
+        },
+        {
+            "amount": 147.03,
+            "description": "disintermediate killer partnerships",
+            "index": "8",
+            "price": 227.12,
+            "quantity": 1.99,
+            "tax_amount": 53.23,
+            "total_ttc": 411.93,
+            "vat_amount": 8.01
+        }
+    ],
+    "seller": {
+        "name": "Bryan Adams"
+    },
+    "supplier": {
+        "address": "7115 Martinez Road Suite 513 Lake April, NM 45893",
+        "name": "Jeremy Miller"
+    },
+    "tax": {
+        "amount_excluding_tax": 171.31,
+        "amount_including_tax": 65.06,
+        "tax_amount": 13.82,
+        "total_ht": 446.18,
+        "total_ttc": 215.49
+    }
+}

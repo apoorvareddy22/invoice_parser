@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "84657 Anthony Circles West Juliefort, LA 90882",
+        "id": "xH166"
+    },
+    "invoice": {
+        "bc_no": "Kk80933",
+        "currency_code": "BDT",
+        "date": "29.07.2018",
+        "due_date": "16.03.2011",
+        "number": 442902
+    },
+    "payment": {
+        "bank_name": "Burgess-Carlson",
+        "bic": "TCYOGBV6",
+        "iban": "KLXA87599952612014"
+    },
+    "products": [
+        {
+            "amount": 282.83,
+            "description": "leverage proactive action-items",
+            "index": "9",
+            "price": 423.75,
+            "quantity": 8.52,
+            "tax_amount": 11.6,
+            "total_ttc": 173.52,
+            "vat_amount": 0.38
+        }
+    ],
+    "seller": {
+        "name": "Julie Thomas"
+    },
+    "supplier": {
+        "address": "4321 Tracie Island Suite 522 West Michelefort, RI 63632",
+        "name": "Jared Saunders"
+    },
+    "tax": {
+        "amount_excluding_tax": 158.25,
+        "amount_including_tax": 199.59,
+        "tax_amount": 13.7,
+        "total_ht": 160.61,
+        "total_ttc": 413.53
+    }
+}

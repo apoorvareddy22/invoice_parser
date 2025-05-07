@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "60040 Christina Grove Suite 044 Johnsonview, GU 55956",
+        "business_no": "Yh849",
+        "id": "Nm428"
+    },
+    "invoice": {
+        "date": "03.08.2001",
+        "number": "6542-9034"
+    },
+    "payment": {
+        "due_date": "15.07.2013",
+        "total": 871.65
+    },
+    "products": [
+        {
+            "amount": 466.91,
+            "description": "repurpose wireless schemas",
+            "quantity": 6.22,
+            "reference": "Zy-357",
+            "unit_price": 58.42
+        },
+        {
+            "amount": 298.34,
+            "description": "generate strategic e-services",
+            "quantity": 9.19,
+            "reference": "Aq-539",
+            "unit_price": 94.35
+        }
+    ],
+    "seller": {
+        "address": "2083 Vega Falls Apt. 999 North Grant, TX 24229"
+    },
+    "tax": {
+        "base_ht": 286.54,
+        "regulations": 24.81,
+        "total_ht": 112.08,
+        "vat_amount": 78.87,
+        "vat_percentage": 15.4
+    }
+}

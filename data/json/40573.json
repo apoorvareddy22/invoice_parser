@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "Unit 2055 Box 0543 DPO AE 69241"
+    },
+    "invoice": {
+        "bc_no": "ZD65441",
+        "date": "19.02.2002",
+        "maturity_date": "12.06.2013",
+        "number": 705065
+    },
+    "products": [
+        {
+            "amount": 293.3,
+            "description": "extend end-to-end communities",
+            "quantity": 8.47,
+            "unit_price": 73.06,
+            "vat_amount": 2.81
+        },
+        {
+            "amount": 487.28,
+            "description": "target visionary info-mediaries",
+            "quantity": 2.98,
+            "unit_price": 59.13,
+            "vat_amount": 5.11
+        }
+    ],
+    "seller": {
+        "address": "5632 Serrano Locks Johnsonland, ME 75716"
+    },
+    "tax": {
+        "amount_excluding_tax": 135.83,
+        "amount_including_tax": 19.21,
+        "tax_amount": 26.39
+    }
+}

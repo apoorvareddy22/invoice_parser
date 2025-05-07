@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "74200 Jones Key Coxburgh, PW 23566",
+        "company_name": "Guerrero-Cross",
+        "country": "Uganda",
+        "name": "Michael Smith"
+    },
+    "invoice": {
+        "date": "16.09.1990",
+        "number": 143382
+    },
+    "payment": {
+        "discount_amount": 12.73,
+        "discount_percentage": 13.49,
+        "due": 92.61,
+        "sub_total": 52.12,
+        "total": 775.45
+    },
+    "products": [
+        {
+            "description": "transform killer models",
+            "index": "3",
+            "quantity": 4.02,
+            "total_price": 663.59,
+            "unit_price": 63.82
+        },
+        {
+            "description": "empower mission-critical relationships",
+            "index": "6",
+            "quantity": 6.88,
+            "total_price": 278.61,
+            "unit_price": 58.6
+        }
+    ],
+    "seller": {
+        "address": "Unit 3787 Box 6060 DPO AP 81068",
+        "company_name": "Newman-Richard",
+        "vat_no": "lW32800597450"
+    }
+}

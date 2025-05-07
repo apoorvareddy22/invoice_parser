@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "546 James Fort Port Matthewburgh, AK 41232",
+        "id": "Gf133"
+    },
+    "invoice": {
+        "bc_no": "zZ74055",
+        "currency_code": "TMT",
+        "date": "27.02.2001",
+        "due_date": "22.02.1993",
+        "number": 458765
+    },
+    "payment": {
+        "bank_name": "Mann Ltd",
+        "bic": "TUYRGB8WW1I",
+        "iban": "NZVB26993232839763"
+    },
+    "products": [
+        {
+            "amount": 380.36,
+            "description": "maximize cutting-edge supply-chains",
+            "index": "3",
+            "price": 436.21,
+            "quantity": 5.44,
+            "tax_amount": 89.54,
+            "total_ttc": 222.75,
+            "vat_amount": 7.21
+        },
+        {
+            "amount": 63.38,
+            "description": "evolve ubiquitous schemas",
+            "index": "9",
+            "price": 128.96,
+            "quantity": 4.31,
+            "tax_amount": 30.12,
+            "total_ttc": 382.24,
+            "vat_amount": 2.94
+        },
+        {
+            "amount": 174.27,
+            "description": "scale killer deliverables",
+            "index": "9",
+            "price": 419.05,
+            "quantity": 5.5,
+            "tax_amount": 30.35,
+            "total_ttc": 185.84,
+            "vat_amount": 1.93
+        },
+        {
+            "amount": 341.53,
+            "description": "repurpose synergistic convergence",
+            "index": "7",
+            "price": 369.89,
+            "quantity": 1.46,
+            "tax_amount": 21.28,
+            "total_ttc": 157.25,
+            "vat_amount": 17.43
+        }
+    ],
+    "seller": {
+        "name": "Andrew Evans"
+    },
+    "supplier": {
+        "address": "22363 Diaz Divide Jameshaven, TN 77843",
+        "name": "Brittany Landry"
+    },
+    "tax": {
+        "amount_excluding_tax": 102.87,
+        "amount_including_tax": 150.62,
+        "tax_amount": 12.3,
+        "total_ht": 448.46,
+        "total_ttc": 401.26
+    }
+}

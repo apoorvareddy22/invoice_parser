@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "834 Mark Island Port Louisfurt, NC 24155",
+        "business_no": "vY269",
+        "id": "nK613"
+    },
+    "invoice": {
+        "date": "22.11.2007",
+        "number": "9926-9602"
+    },
+    "payment": {
+        "due_date": "13.10.2023",
+        "total": 308.64
+    },
+    "products": [
+        {
+            "amount": 249.65,
+            "description": "architect global methodologies",
+            "quantity": 5.35,
+            "reference": "Sd-916",
+            "unit_price": 35.65
+        },
+        {
+            "amount": 186.27,
+            "description": "embrace world-class channels",
+            "quantity": 9.05,
+            "reference": "iE-380",
+            "unit_price": 15.05
+        },
+        {
+            "amount": 167.94,
+            "description": "enhance best-of-breed experiences",
+            "quantity": 1.7,
+            "reference": "Rx-449",
+            "unit_price": 37.62
+        },
+        {
+            "amount": 104.5,
+            "description": "strategize ubiquitous experiences",
+            "quantity": 1.27,
+            "reference": "rz-749",
+            "unit_price": 65.43
+        }
+    ],
+    "seller": {
+        "address": "55695 Douglas Ports Apt. 805 Brianbury, PW 61022"
+    },
+    "tax": {
+        "base_ht": 116.47,
+        "regulations": 15.9,
+        "total_ht": 477.21,
+        "vat_amount": 132.47,
+        "vat_percentage": 22.0
+    }
+}

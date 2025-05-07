@@ -1,0 +1,89 @@
+{
+    "buyer": {
+        "address": "PSC 1025, Box 7190 APO AA 53181",
+        "company_name": "Golden-Lee",
+        "country": "Argentina",
+        "email": "ariel19@example.net",
+        "name": "Maria Thomas",
+        "phone": "(280)223-2267",
+        "vat_no": "Fw83674050107"
+    },
+    "invoice": {
+        "date": "29.09.2004",
+        "due_date": "11.08.2009",
+        "linked_invoice": "Wk-8506-3660",
+        "notes": "envisioneer magnetic metrics",
+        "number": "Kg-1726-6870"
+    },
+    "products": [
+        {
+            "description": "generate 24/365 mindshare",
+            "discount_percentage": 9.85,
+            "price": 51.35,
+            "quantity": 9.07,
+            "unit_price": 21.58
+        },
+        {
+            "description": "engage enterprise initiatives",
+            "discount_percentage": 6.87,
+            "price": 49.41,
+            "quantity": 8.55,
+            "unit_price": 65.61
+        },
+        {
+            "description": "mesh distributed bandwidth",
+            "discount_percentage": 18.76,
+            "price": 48.46,
+            "quantity": 3.84,
+            "unit_price": 71.91
+        },
+        {
+            "description": "aggregate world-class partnerships",
+            "discount_percentage": 14.42,
+            "price": 146.98,
+            "quantity": 1.69,
+            "unit_price": 64.05
+        },
+        {
+            "description": "envisioneer dynamic bandwidth",
+            "discount_percentage": 11.43,
+            "price": 235.17,
+            "quantity": 9.96,
+            "unit_price": 54.13
+        },
+        {
+            "description": "exploit front-end communities",
+            "discount_percentage": 8.02,
+            "price": 421.33,
+            "quantity": 4.45,
+            "unit_price": 64.88
+        }
+    ],
+    "seller": {
+        "address": "Unit 1506 Box 2841 DPO AE 67553",
+        "ape": "6364B",
+        "capital": 70240893,
+        "country": "Cyprus",
+        "email": "kenneth43@example.org",
+        "name": "Rebecca Parker",
+        "phone_1": "001-562-533-6633x53423",
+        "phone_2": "527.213.7043x265",
+        "phone_3": "+1-565-430-2604x115",
+        "ref_walk": "Naqb2487",
+        "reference": "ts796",
+        "siret": 93792115640700,
+        "vat_no": "mW73145040160",
+        "website": "https://scott.com/"
+    },
+    "tax": {
+        "amount_0": 21.49,
+        "amount_1": 21.72,
+        "base_0": 22.1,
+        "base_1": 123.9,
+        "total_ht": 321.74,
+        "total_tax": 15.15,
+        "total_ttc": 440.48,
+        "vat_0": 10.94,
+        "vat_1": 27.83
+    }
+}

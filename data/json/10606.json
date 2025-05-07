@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "2847 Adam Well Apt. 390 Kennethfort, AL 96351",
+        "email": "michelle61@example.com",
+        "phone": "(478)888-7311",
+        "vat_no": "Ei18495600981"
+    },
+    "invoice": {
+        "date": "25.08.2020",
+        "due_date": "06.08.2009",
+        "market_reference": 341392,
+        "notes": "monetize back-end eyeballs",
+        "number": "0629-7594",
+        "reference": 991520,
+        "vat_no": "Rr09890844880"
+    },
+    "payment": {
+        "net_total": 146.92,
+        "total": 817.96
+    },
+    "products": [
+        {
+            "amount": 172.29,
+            "description": "orchestrate transparent info-mediaries",
+            "hours": 3.08,
+            "rate": 9.48
+        },
+        {
+            "amount": 486.6,
+            "description": "visualize scalable partnerships",
+            "hours": 4.71,
+            "rate": 7.79
+        },
+        {
+            "amount": 341.84,
+            "description": "syndicate magnetic users",
+            "hours": 8.69,
+            "rate": 9.32
+        }
+    ],
+    "seller": {
+        "address": "0888 Clark Burgs Suite 552 West Anna, PA 25616",
+        "email": "blackjamie@example.org",
+        "name": "Michael Lowery"
+    },
+    "tax": {
+        "base": 26.81,
+        "tax_amount": 27.38,
+        "total_tax": 16.26
+    }
+}

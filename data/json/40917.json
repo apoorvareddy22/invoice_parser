@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "1088 Jessica Ridge Apt. 916 North Kimberly, MI 51530"
+    },
+    "invoice": {
+        "bc_no": "Iz09745",
+        "date": "06.05.2007",
+        "maturity_date": "22.09.2006",
+        "number": 182609
+    },
+    "products": [
+        {
+            "amount": 273.54,
+            "description": "e-enable proactive channels",
+            "quantity": 5.24,
+            "unit_price": 86.52,
+            "vat_amount": 5.8
+        },
+        {
+            "amount": 205.3,
+            "description": "evolve seamless niches",
+            "quantity": 3.96,
+            "unit_price": 77.93,
+            "vat_amount": 11.05
+        },
+        {
+            "amount": 396.59,
+            "description": "envisioneer B2B e-services",
+            "quantity": 3.8,
+            "unit_price": 36.76,
+            "vat_amount": 2.42
+        }
+    ],
+    "seller": {
+        "address": "8981 John Bridge Pooleburgh, AS 34204"
+    },
+    "tax": {
+        "amount_excluding_tax": 43.96,
+        "amount_including_tax": 114.55,
+        "tax_amount": 27.32
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "17468 Roberts Courts Suite 476 Farleyport, NM 39522",
+        "company_name": "Campbell-Ashley",
+        "email": "nathaniel40@example.com",
+        "name": "John Mendoza",
+        "phone": "(744)674-6885"
+    },
+    "invoice": {
+        "date": "23.07.2006",
+        "due_date": "21.07.2016",
+        "number": "QrV20440476943"
+    },
+    "payment": {
+        "account_number": 7972306599,
+        "bank_name": "Dalton Inc",
+        "routing_number": 246743452
+    },
+    "products": [
+        {
+            "amount": 117.53,
+            "description": "scale customized web services",
+            "index": "8",
+            "quantity": 6.3,
+            "unit_price": 13.06
+        }
+    ],
+    "seller": {
+        "address": "644 Williams Loop New Danielburgh, CO 12917",
+        "company_name": "Horton-Gallagher",
+        "email": "nhenderson@example.net"
+    }
+}

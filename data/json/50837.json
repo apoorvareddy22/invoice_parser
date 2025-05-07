@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "87641 David Camp Suite 812 South Kristine, OR 23276",
+        "id": "Uz018"
+    },
+    "invoice": {
+        "bc_no": "QR95465",
+        "currency_code": "RON",
+        "date": "16.12.2000",
+        "due_date": "18.04.2023",
+        "number": 307872
+    },
+    "payment": {
+        "bank_name": "Lynch LLC",
+        "bic": "GAGTGB1H",
+        "iban": "YDMD93194314565025"
+    },
+    "products": [
+        {
+            "amount": 200.25,
+            "description": "integrate ubiquitous infrastructures",
+            "index": "5",
+            "price": 305.39,
+            "quantity": 5.36,
+            "tax_amount": 20.42,
+            "total_ttc": 462.24,
+            "vat_amount": 17.76
+        },
+        {
+            "amount": 348.46,
+            "description": "redefine interactive e-markets",
+            "index": "7",
+            "price": 499.39,
+            "quantity": 9.92,
+            "tax_amount": 48.96,
+            "total_ttc": 478.88,
+            "vat_amount": 3.84
+        },
+        {
+            "amount": 355.29,
+            "description": "brand clicks-and-mortar technologies",
+            "index": "9",
+            "price": 49.12,
+            "quantity": 8.8,
+            "tax_amount": 51.82,
+            "total_ttc": 248.55,
+            "vat_amount": 1.88
+        },
+        {
+            "amount": 365.28,
+            "description": "re-intermediate front-end vortals",
+            "index": "10",
+            "price": 480.06,
+            "quantity": 2.56,
+            "tax_amount": 35.79,
+            "total_ttc": 394.89,
+            "vat_amount": 3.69
+        }
+    ],
+    "seller": {
+        "name": "Travis Anderson"
+    },
+    "supplier": {
+        "address": "962 Julie Ford Suite 565 North John, NJ 97515",
+        "name": "Terry Rivera"
+    },
+    "tax": {
+        "amount_excluding_tax": 83.07,
+        "amount_including_tax": 113.63,
+        "tax_amount": 19.41,
+        "total_ht": 167.23,
+        "total_ttc": 127.75
+    }
+}

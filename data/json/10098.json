@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "601 Julie Mills Welchshire, TX 67733",
+        "email": "scotttara@example.org",
+        "phone": "+1-402-915-7518x49035",
+        "vat_no": "qe47110290222"
+    },
+    "invoice": {
+        "date": "29.09.2008",
+        "due_date": "08.11.2015",
+        "market_reference": 330321,
+        "notes": "architect cross-platform methodologies",
+        "number": "5736-4787",
+        "reference": 364688,
+        "vat_no": "CI33535553283"
+    },
+    "payment": {
+        "net_total": 104.26,
+        "total": 392.06
+    },
+    "products": [
+        {
+            "amount": 283.19,
+            "description": "benchmark web-enabled architectures",
+            "hours": 2.07,
+            "rate": 8.43
+        },
+        {
+            "amount": 90.07,
+            "description": "repurpose visionary paradigms",
+            "hours": 2.69,
+            "rate": 5.23
+        }
+    ],
+    "seller": {
+        "address": "072 Richard Well Apt. 418 South Mike, NY 89337",
+        "email": "rbrown@example.net",
+        "name": "Tanya Williams"
+    },
+    "tax": {
+        "base": 13.86,
+        "tax_amount": 12.42,
+        "total_tax": 11.47
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "47331 Taylor Lodge Suite 907 Kerrville, NV 62610",
+        "company_name": "White, Munoz and Singh",
+        "country": "Cambodia",
+        "name": "Brittany Smith"
+    },
+    "invoice": {
+        "date": "05.04.2017",
+        "number": 394215
+    },
+    "payment": {
+        "discount_amount": 33.01,
+        "discount_percentage": 5.5,
+        "due": 128.95,
+        "sub_total": 166.84,
+        "total": 704.86
+    },
+    "products": [
+        {
+            "description": "benchmark collaborative markets",
+            "index": "1",
+            "quantity": 3.28,
+            "total_price": 884.26,
+            "unit_price": 13.18
+        },
+        {
+            "description": "cultivate ubiquitous experiences",
+            "index": "2",
+            "quantity": 5.59,
+            "total_price": 913.7,
+            "unit_price": 58.8
+        }
+    ],
+    "seller": {
+        "address": "PSC 3084, Box 5502 APO AA 95095",
+        "company_name": "Mcgee-Brown",
+        "vat_no": "So08796717251"
+    }
+}

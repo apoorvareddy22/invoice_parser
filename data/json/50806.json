@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "5518 Bradford Corner Apt. 433 Martinland, SC 28094",
+        "id": "KC471"
+    },
+    "invoice": {
+        "bc_no": "oB78039",
+        "currency_code": "SAR",
+        "date": "28.10.2013",
+        "due_date": "14.11.2019",
+        "number": 762886
+    },
+    "payment": {
+        "bank_name": "Cook, Hinton and Gross",
+        "bic": "MRWSGB70",
+        "iban": "ZUFO07702612644249"
+    },
+    "products": [
+        {
+            "amount": 186.17,
+            "description": "matrix robust networks",
+            "index": "6",
+            "price": 371.88,
+            "quantity": 5.69,
+            "tax_amount": 75.29,
+            "total_ttc": 460.92,
+            "vat_amount": 8.13
+        },
+        {
+            "amount": 40.47,
+            "description": "productize holistic ROI",
+            "index": "8",
+            "price": 97.89,
+            "quantity": 6.74,
+            "tax_amount": 26.29,
+            "total_ttc": 158.4,
+            "vat_amount": 2.5
+        },
+        {
+            "amount": 306.47,
+            "description": "brand ubiquitous vortals",
+            "index": "4",
+            "price": 404.49,
+            "quantity": 3.92,
+            "tax_amount": 93.52,
+            "total_ttc": 498.59,
+            "vat_amount": 13.35
+        },
+        {
+            "amount": 236.22,
+            "description": "transform seamless methodologies",
+            "index": "9",
+            "price": 241.84,
+            "quantity": 7.89,
+            "tax_amount": 80.02,
+            "total_ttc": 348.09,
+            "vat_amount": 1.85
+        },
+        {
+            "amount": 481.98,
+            "description": "brand wireless communities",
+            "index": "9",
+            "price": 52.56,
+            "quantity": 8.6,
+            "tax_amount": 92.72,
+            "total_ttc": 154.77,
+            "vat_amount": 3.19
+        },
+        {
+            "amount": 255.17,
+            "description": "deploy bricks-and-clicks supply-chains",
+            "index": "10",
+            "price": 272.53,
+            "quantity": 8.31,
+            "tax_amount": 71.69,
+            "total_ttc": 454.33,
+            "vat_amount": 2.0
+        },
+        {
+            "amount": 129.97,
+            "description": "morph cross-platform relationships",
+            "index": "7",
+            "price": 38.31,
+            "quantity": 2.24,
+            "tax_amount": 68.1,
+            "total_ttc": 375.37,
+            "vat_amount": 1.3
+        }
+    ],
+    "seller": {
+        "name": "Richard Norton"
+    },
+    "supplier": {
+        "address": "0948 Campos Estates Lynnfort, VT 99941",
+        "name": "Jerry Rogers"
+    },
+    "tax": {
+        "amount_excluding_tax": 73.91,
+        "amount_including_tax": 185.45,
+        "tax_amount": 23.14,
+        "total_ht": 291.69,
+        "total_ttc": 310.69
+    }
+}

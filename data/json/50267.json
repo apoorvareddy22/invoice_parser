@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "179 Jonathan Centers Apt. 594 Nelsonland, OK 39583",
+        "id": "eP170"
+    },
+    "invoice": {
+        "bc_no": "QS14702",
+        "currency_code": "MVR",
+        "date": "03.08.1991",
+        "due_date": "11.12.1998",
+        "number": 477049
+    },
+    "payment": {
+        "bank_name": "Brown, Price and Mathews",
+        "bic": "NKEKGBT7",
+        "iban": "BAIO08784041683944"
+    },
+    "products": [
+        {
+            "amount": 37.85,
+            "description": "grow cutting-edge content",
+            "index": "5",
+            "price": 121.17,
+            "quantity": 8.12,
+            "tax_amount": 51.92,
+            "total_ttc": 494.42,
+            "vat_amount": 3.15
+        }
+    ],
+    "seller": {
+        "name": "Stephen Jenkins"
+    },
+    "supplier": {
+        "address": "414 Burton Haven Suite 140 Port Michael, VA 41611",
+        "name": "Heidi Giles"
+    },
+    "tax": {
+        "amount_excluding_tax": 11.02,
+        "amount_including_tax": 63.44,
+        "tax_amount": 24.7,
+        "total_ht": 447.35,
+        "total_ttc": 226.13
+    }
+}

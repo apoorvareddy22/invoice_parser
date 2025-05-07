@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "632 Kirk Run Suite 075 New Jaclyntown, ME 51416",
+        "id": "aZ772"
+    },
+    "invoice": {
+        "bc_no": "ee52014",
+        "currency_code": "HKD",
+        "date": "20.09.1993",
+        "due_date": "03.12.2018",
+        "number": 218125
+    },
+    "payment": {
+        "bank_name": "Dean, Davis and Hill",
+        "bic": "WRBYGBG8",
+        "iban": "HYRW72327200682101"
+    },
+    "products": [
+        {
+            "amount": 263.21,
+            "description": "orchestrate back-end paradigms",
+            "index": "3",
+            "price": 316.79,
+            "quantity": 8.12,
+            "tax_amount": 36.34,
+            "total_ttc": 228.56,
+            "vat_amount": 3.59
+        },
+        {
+            "amount": 160.7,
+            "description": "cultivate dot-com niches",
+            "index": "3",
+            "price": 432.4,
+            "quantity": 5.86,
+            "tax_amount": 45.15,
+            "total_ttc": 112.4,
+            "vat_amount": 7.76
+        }
+    ],
+    "seller": {
+        "name": "Sharon Beard"
+    },
+    "supplier": {
+        "address": "838 Nicole Burgs Vanessabury, TN 86798",
+        "name": "Robert Guzman"
+    },
+    "tax": {
+        "amount_excluding_tax": 14.93,
+        "amount_including_tax": 121.66,
+        "tax_amount": 27.27,
+        "total_ht": 197.02,
+        "total_ttc": 233.97
+    }
+}

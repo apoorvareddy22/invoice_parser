@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "332 Ball Course South Bridgetview, ME 83707",
+        "id": "Ki977"
+    },
+    "invoice": {
+        "bc_no": "Jt82983",
+        "currency_code": "PEN",
+        "date": "23.10.1996",
+        "due_date": "18.06.2020",
+        "number": 417723
+    },
+    "payment": {
+        "bank_name": "Sanchez Ltd",
+        "bic": "XTMUGBUZ87F",
+        "iban": "VAEC72556774603819"
+    },
+    "products": [
+        {
+            "amount": 271.2,
+            "description": "drive next-generation web-readiness",
+            "index": "7",
+            "price": 257.04,
+            "quantity": 8.19,
+            "tax_amount": 64.18,
+            "total_ttc": 426.58,
+            "vat_amount": 3.16
+        },
+        {
+            "amount": 72.81,
+            "description": "architect global schemas",
+            "index": "5",
+            "price": 328.41,
+            "quantity": 8.03,
+            "tax_amount": 18.14,
+            "total_ttc": 420.67,
+            "vat_amount": 3.49
+        },
+        {
+            "amount": 167.86,
+            "description": "re-intermediate magnetic solutions",
+            "index": "10",
+            "price": 33.15,
+            "quantity": 5.42,
+            "tax_amount": 53.87,
+            "total_ttc": 324.02,
+            "vat_amount": 3.64
+        },
+        {
+            "amount": 325.47,
+            "description": "redefine revolutionary users",
+            "index": "4",
+            "price": 146.07,
+            "quantity": 6.04,
+            "tax_amount": 74.45,
+            "total_ttc": 492.94,
+            "vat_amount": 7.79
+        },
+        {
+            "amount": 53.25,
+            "description": "implement vertical solutions",
+            "index": "2",
+            "price": 77.75,
+            "quantity": 4.97,
+            "tax_amount": 15.01,
+            "total_ttc": 497.84,
+            "vat_amount": 2.14
+        },
+        {
+            "amount": 377.39,
+            "description": "architect best-of-breed markets",
+            "index": "1",
+            "price": 410.45,
+            "quantity": 5.22,
+            "tax_amount": 95.68,
+            "total_ttc": 278.42,
+            "vat_amount": 15.47
+        },
+        {
+            "amount": 346.71,
+            "description": "redefine plug-and-play metrics",
+            "index": "3",
+            "price": 72.93,
+            "quantity": 9.54,
+            "tax_amount": 79.73,
+            "total_ttc": 331.01,
+            "vat_amount": 1.63
+        }
+    ],
+    "seller": {
+        "name": "Laura Little PhD"
+    },
+    "supplier": {
+        "address": "157 Mcbride Brooks Suite 578 Johnsontown, MS 01906",
+        "name": "Ronald Nguyen"
+    },
+    "tax": {
+        "amount_excluding_tax": 18.27,
+        "amount_including_tax": 74.9,
+        "tax_amount": 27.75,
+        "total_ht": 208.38,
+        "total_ttc": 192.51
+    }
+}

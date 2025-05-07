@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "23775 Hayes Underpass Donaldside, CO 69629"
+    },
+    "invoice": {
+        "bc_no": "BN23093",
+        "date": "26.02.2015",
+        "maturity_date": "13.09.2019",
+        "number": 720711
+    },
+    "products": [
+        {
+            "amount": 87.57,
+            "description": "optimize collaborative portals",
+            "quantity": 6.71,
+            "unit_price": 22.05,
+            "vat_amount": 0.67
+        },
+        {
+            "amount": 375.49,
+            "description": "enhance 24/7 e-services",
+            "quantity": 7.16,
+            "unit_price": 46.48,
+            "vat_amount": 2.84
+        },
+        {
+            "amount": 488.9,
+            "description": "extend cross-platform info-mediaries",
+            "quantity": 2.71,
+            "unit_price": 32.85,
+            "vat_amount": 17.15
+        },
+        {
+            "amount": 249.93,
+            "description": "orchestrate clicks-and-mortar models",
+            "quantity": 5.82,
+            "unit_price": 31.22,
+            "vat_amount": 2.85
+        },
+        {
+            "amount": 369.68,
+            "description": "revolutionize innovative e-business",
+            "quantity": 7.06,
+            "unit_price": 25.37,
+            "vat_amount": 2.9
+        }
+    ],
+    "seller": {
+        "address": "83024 Jones Mills Port Amy, CT 08375"
+    },
+    "tax": {
+        "amount_excluding_tax": 120.26,
+        "amount_including_tax": 55.7,
+        "tax_amount": 14.95
+    }
+}

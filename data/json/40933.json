@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "83299 Bass Estates Apt. 630 West Nicholas, DE 84657"
+    },
+    "invoice": {
+        "bc_no": "NW94131",
+        "date": "20.05.1992",
+        "maturity_date": "30.12.2001",
+        "number": 162134
+    },
+    "products": [
+        {
+            "amount": 63.95,
+            "description": "enhance enterprise deliverables",
+            "quantity": 9.14,
+            "unit_price": 88.49,
+            "vat_amount": 7.4
+        },
+        {
+            "amount": 54.09,
+            "description": "benchmark compelling e-commerce",
+            "quantity": 6.32,
+            "unit_price": 51.36,
+            "vat_amount": 2.13
+        },
+        {
+            "amount": 92.33,
+            "description": "seize rich action-items",
+            "quantity": 3.86,
+            "unit_price": 18.49,
+            "vat_amount": 6.53
+        },
+        {
+            "amount": 37.06,
+            "description": "leverage enterprise niches",
+            "quantity": 1.6,
+            "unit_price": 24.82,
+            "vat_amount": 6.45
+        },
+        {
+            "amount": 279.66,
+            "description": "iterate strategic e-business",
+            "quantity": 5.48,
+            "unit_price": 90.56,
+            "vat_amount": 8.22
+        }
+    ],
+    "seller": {
+        "address": "2565 Adrienne Station Samuelfurt, LA 53696"
+    },
+    "tax": {
+        "amount_excluding_tax": 131.84,
+        "amount_including_tax": 78.3,
+        "tax_amount": 12.93
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "693 Daniel Loop Christopherbury, SC 45703",
+        "company_name": "Tran and Sons",
+        "email": "jeremy15@example.com",
+        "name": "Lawrence Robinson",
+        "phone": "001-827-262-4903x55934"
+    },
+    "invoice": {
+        "date": "27.03.2023",
+        "due_date": "12.01.2021",
+        "number": "swL48587946622"
+    },
+    "payment": {
+        "account_number": 6872656466,
+        "bank_name": "Perez-Barnes",
+        "routing_number": 412342895
+    },
+    "products": [
+        {
+            "amount": 365.57,
+            "description": "utilize B2B convergence",
+            "index": "6",
+            "quantity": 5.62,
+            "unit_price": 29.12
+        },
+        {
+            "amount": 470.08,
+            "description": "matrix virtual markets",
+            "index": "1",
+            "quantity": 5.11,
+            "unit_price": 10.87
+        }
+    ],
+    "seller": {
+        "address": "72712 Angela Lakes Apt. 563 New Gabrielton, PR 70802",
+        "company_name": "Wilson Inc",
+        "email": "allison21@example.org"
+    }
+}

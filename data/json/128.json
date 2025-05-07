@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "81679 Saunders Springs Apt. 184 Lake Mark, MN 76416",
+        "company_name": "Stark, Reilly and Jordan",
+        "country": "Nauru",
+        "name": "Gregory Brooks"
+    },
+    "invoice": {
+        "date": "08.01.1996",
+        "number": 949318
+    },
+    "payment": {
+        "discount_amount": 44.58,
+        "discount_percentage": 13.89,
+        "due": 81.96,
+        "sub_total": 120.94,
+        "total": 471.48
+    },
+    "products": [
+        {
+            "description": "extend extensible models",
+            "index": "10",
+            "quantity": 2.28,
+            "total_price": 763.04,
+            "unit_price": 39.27
+        },
+        {
+            "description": "envisioneer cross-platform synergies",
+            "index": "3",
+            "quantity": 9.67,
+            "total_price": 287.27,
+            "unit_price": 26.36
+        },
+        {
+            "description": "cultivate e-business e-services",
+            "index": "3",
+            "quantity": 4.38,
+            "total_price": 334.11,
+            "unit_price": 12.1
+        },
+        {
+            "description": "synergize distributed solutions",
+            "index": "10",
+            "quantity": 2.06,
+            "total_price": 631.21,
+            "unit_price": 91.41
+        }
+    ],
+    "seller": {
+        "address": "PSC 8618, Box 8349 APO AA 56061",
+        "company_name": "Strong Group",
+        "vat_no": "BM93961233081"
+    }
+}

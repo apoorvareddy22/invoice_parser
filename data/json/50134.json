@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "9297 Bryan Light New Meghanborough, WA 76684",
+        "id": "ez896"
+    },
+    "invoice": {
+        "bc_no": "iV85867",
+        "currency_code": "LYD",
+        "date": "24.05.2023",
+        "due_date": "13.10.2018",
+        "number": 186298
+    },
+    "payment": {
+        "bank_name": "Robinson, Conner and Keller",
+        "bic": "SXFTGB5R",
+        "iban": "UEEM32407299716086"
+    },
+    "products": [
+        {
+            "amount": 148.21,
+            "description": "seize efficient deliverables",
+            "index": "4",
+            "price": 136.88,
+            "quantity": 4.97,
+            "tax_amount": 48.31,
+            "total_ttc": 260.58,
+            "vat_amount": 8.41
+        }
+    ],
+    "seller": {
+        "name": "Kenneth Vasquez"
+    },
+    "supplier": {
+        "address": "823 Mitchell Expressway Suite 921 Martinland, WA 91468",
+        "name": "Tracey Lee"
+    },
+    "tax": {
+        "amount_excluding_tax": 37.46,
+        "amount_including_tax": 44.37,
+        "tax_amount": 20.26,
+        "total_ht": 411.49,
+        "total_ttc": 173.51
+    }
+}

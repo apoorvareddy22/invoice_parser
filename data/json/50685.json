@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "47832 Regina Ports West Carrie, MT 53403",
+        "id": "RK491"
+    },
+    "invoice": {
+        "bc_no": "bJ16745",
+        "currency_code": "JOD",
+        "date": "24.01.2003",
+        "due_date": "03.12.2005",
+        "number": 797426
+    },
+    "payment": {
+        "bank_name": "Myers LLC",
+        "bic": "ULOGGBWB",
+        "iban": "ILZK28788271201984"
+    },
+    "products": [
+        {
+            "amount": 453.06,
+            "description": "benchmark viral bandwidth",
+            "index": "9",
+            "price": 82.21,
+            "quantity": 3.53,
+            "tax_amount": 73.65,
+            "total_ttc": 226.71,
+            "vat_amount": 7.07
+        }
+    ],
+    "seller": {
+        "name": "Arthur Brown"
+    },
+    "supplier": {
+        "address": "817 Daniel Square Suite 911 East Dominic, MP 78969",
+        "name": "Sandra Velez"
+    },
+    "tax": {
+        "amount_excluding_tax": 61.17,
+        "amount_including_tax": 189.81,
+        "tax_amount": 25.6,
+        "total_ht": 414.73,
+        "total_ttc": 169.27
+    }
+}

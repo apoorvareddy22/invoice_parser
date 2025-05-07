@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "USNS Mcgee FPO AP 75024",
+        "email": "carolhall@example.com",
+        "phone": "931.511.0108",
+        "vat_no": "tK92377292777"
+    },
+    "invoice": {
+        "date": "27.03.2005",
+        "due_date": "22.09.1998",
+        "market_reference": 605539,
+        "notes": "syndicate back-end e-markets",
+        "number": "0969-3952",
+        "reference": 347513,
+        "vat_no": "CR93020220713"
+    },
+    "payment": {
+        "net_total": 142.77,
+        "total": 251.04
+    },
+    "products": [
+        {
+            "amount": 364.14,
+            "description": "incubate customized experiences",
+            "hours": 4.99,
+            "rate": 5.31
+        },
+        {
+            "amount": 416.92,
+            "description": "redefine user-centric content",
+            "hours": 8.88,
+            "rate": 7.78
+        },
+        {
+            "amount": 441.57,
+            "description": "optimize visionary initiatives",
+            "hours": 1.9,
+            "rate": 6.99
+        },
+        {
+            "amount": 189.89,
+            "description": "innovate distributed eyeballs",
+            "hours": 4.46,
+            "rate": 8.07
+        }
+    ],
+    "seller": {
+        "address": "4472 Martinez Neck New Christopher, AL 27489",
+        "email": "jensensusan@example.org",
+        "name": "Andre Jones"
+    },
+    "tax": {
+        "base": 15.54,
+        "tax_amount": 27.63,
+        "total_tax": 25.08
+    }
+}

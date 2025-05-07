@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "41404 Griffith Square Apt. 576 Port Matthew, NC 05262",
+        "email": "edward32@example.org",
+        "phone": "336-359-7631x2181",
+        "vat_no": "GU72467275299"
+    },
+    "invoice": {
+        "date": "15.02.2003",
+        "due_date": "26.08.2008",
+        "market_reference": 179555,
+        "notes": "drive cutting-edge models",
+        "number": "7023-3959",
+        "reference": 128068,
+        "vat_no": "RQ45452594860"
+    },
+    "payment": {
+        "net_total": 23.44,
+        "total": 220.55
+    },
+    "products": [
+        {
+            "amount": 385.59,
+            "description": "monetize ubiquitous communities",
+            "hours": 8.74,
+            "rate": 4.57
+        },
+        {
+            "amount": 177.87,
+            "description": "evolve best-of-breed content",
+            "hours": 3.95,
+            "rate": 9.25
+        },
+        {
+            "amount": 52.78,
+            "description": "innovate impactful interfaces",
+            "hours": 9.55,
+            "rate": 5.67
+        },
+        {
+            "amount": 482.15,
+            "description": "cultivate web-enabled e-services",
+            "hours": 5.05,
+            "rate": 5.09
+        },
+        {
+            "amount": 270.31,
+            "description": "syndicate 24/365 infrastructures",
+            "hours": 6.68,
+            "rate": 2.5
+        },
+        {
+            "amount": 362.22,
+            "description": "revolutionize robust functionalities",
+            "hours": 4.64,
+            "rate": 7.65
+        },
+        {
+            "amount": 252.82,
+            "description": "synthesize cross-media channels",
+            "hours": 9.64,
+            "rate": 5.91
+        }
+    ],
+    "seller": {
+        "address": "PSC 1778, Box 0834 APO AP 58177",
+        "email": "jennifer51@example.com",
+        "name": "Keith Fisher"
+    },
+    "tax": {
+        "base": 20.85,
+        "tax_amount": 26.19,
+        "total_tax": 29.75
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "694 Anderson Greens South Dennishaven, MA 77736",
+        "company_name": "Hernandez, Wilson and Joseph",
+        "email": "colemanjason@example.com",
+        "name": "Hannah Johnson",
+        "phone": "001-647-401-0439x855"
+    },
+    "invoice": {
+        "date": "24.11.2019",
+        "due_date": "19.04.2005",
+        "number": "SsJ49145123986"
+    },
+    "payment": {
+        "account_number": 1633424145,
+        "bank_name": "Ward-Peterson",
+        "routing_number": 491428276
+    },
+    "products": [
+        {
+            "amount": 405.17,
+            "description": "matrix vertical e-services",
+            "index": "7",
+            "quantity": 8.47,
+            "unit_price": 23.9
+        },
+        {
+            "amount": 233.58,
+            "description": "transform innovative schemas",
+            "index": "9",
+            "quantity": 4.63,
+            "unit_price": 35.01
+        },
+        {
+            "amount": 494.76,
+            "description": "incentivize holistic experiences",
+            "index": "7",
+            "quantity": 5.45,
+            "unit_price": 93.05
+        },
+        {
+            "amount": 437.75,
+            "description": "integrate bleeding-edge experiences",
+            "index": "5",
+            "quantity": 7.34,
+            "unit_price": 10.83
+        }
+    ],
+    "seller": {
+        "address": "724 Stephanie Route Apt. 968 Mullenfort, OR 47272",
+        "company_name": "Jennings, Nelson and Parker",
+        "email": "bryanmisty@example.net"
+    }
+}

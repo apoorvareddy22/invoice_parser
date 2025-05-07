@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "669 Daniel Key Berryview, LA 41306"
+    },
+    "invoice": {
+        "bc_no": "Tf61866",
+        "date": "30.06.2023",
+        "maturity_date": "16.11.2006",
+        "number": 550457
+    },
+    "products": [
+        {
+            "amount": 445.72,
+            "description": "productize cross-platform systems",
+            "quantity": 6.64,
+            "unit_price": 74.2,
+            "vat_amount": 4.99
+        }
+    ],
+    "seller": {
+        "address": "0298 Morgan Islands Geraldmouth, ID 54863"
+    },
+    "tax": {
+        "amount_excluding_tax": 49.16,
+        "amount_including_tax": 144.13,
+        "tax_amount": 29.94
+    }
+}

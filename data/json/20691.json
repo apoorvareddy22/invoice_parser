@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "59935 Benjamin Rapid Apt. 261 New Troyfort, LA 32403",
+        "company_name": "Miller, Cole and Wilson",
+        "email": "thomastanya@example.net",
+        "name": "Justin Houston",
+        "phone": "328.806.5408x371"
+    },
+    "invoice": {
+        "date": "02.10.2005",
+        "due_date": "11.10.2000",
+        "number": "kAH70879529264"
+    },
+    "payment": {
+        "account_number": 4851446255,
+        "bank_name": "Andersen-Beltran",
+        "routing_number": 889647007
+    },
+    "products": [
+        {
+            "amount": 262.3,
+            "description": "e-enable holistic bandwidth",
+            "index": "2",
+            "quantity": 1.62,
+            "unit_price": 76.91
+        },
+        {
+            "amount": 285.0,
+            "description": "grow ubiquitous vortals",
+            "index": "4",
+            "quantity": 7.3,
+            "unit_price": 35.8
+        },
+        {
+            "amount": 424.59,
+            "description": "exploit extensible e-tailers",
+            "index": "10",
+            "quantity": 6.07,
+            "unit_price": 53.53
+        },
+        {
+            "amount": 409.75,
+            "description": "drive plug-and-play schemas",
+            "index": "9",
+            "quantity": 2.86,
+            "unit_price": 66.53
+        }
+    ],
+    "seller": {
+        "address": "76101 George Manors South Carmenborough, OH 11807",
+        "company_name": "Willis, Solis and Allen",
+        "email": "dmoore@example.net"
+    }
+}

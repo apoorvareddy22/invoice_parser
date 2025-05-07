@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "18339 Cristian Spring Apt. 094 Phillipville, IN 36378"
+    },
+    "invoice": {
+        "bc_no": "OJ97123",
+        "date": "10.09.2004",
+        "maturity_date": "11.01.1995",
+        "number": 719620
+    },
+    "products": [
+        {
+            "amount": 189.74,
+            "description": "implement synergistic schemas",
+            "quantity": 6.22,
+            "unit_price": 65.81,
+            "vat_amount": 11.5
+        },
+        {
+            "amount": 289.2,
+            "description": "streamline virtual synergies",
+            "quantity": 4.56,
+            "unit_price": 36.24,
+            "vat_amount": 16.3
+        },
+        {
+            "amount": 444.0,
+            "description": "enable revolutionary e-markets",
+            "quantity": 6.95,
+            "unit_price": 27.14,
+            "vat_amount": 2.87
+        },
+        {
+            "amount": 64.38,
+            "description": "harness robust interfaces",
+            "quantity": 7.59,
+            "unit_price": 45.19,
+            "vat_amount": 1.58
+        },
+        {
+            "amount": 326.39,
+            "description": "seize interactive technologies",
+            "quantity": 2.9,
+            "unit_price": 29.54,
+            "vat_amount": 2.04
+        },
+        {
+            "amount": 145.67,
+            "description": "empower B2C convergence",
+            "quantity": 6.07,
+            "unit_price": 16.17,
+            "vat_amount": 3.46
+        }
+    ],
+    "seller": {
+        "address": "4090 Andrew Grove Briannabury, AS 80146"
+    },
+    "tax": {
+        "amount_excluding_tax": 59.16,
+        "amount_including_tax": 115.65,
+        "tax_amount": 16.35
+    }
+}

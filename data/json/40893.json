@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "USS Steele FPO AE 25244"
+    },
+    "invoice": {
+        "bc_no": "NN50386",
+        "date": "17.02.2011",
+        "maturity_date": "16.02.2000",
+        "number": 619914
+    },
+    "products": [
+        {
+            "amount": 439.7,
+            "description": "repurpose open-source e-services",
+            "quantity": 1.37,
+            "unit_price": 40.79,
+            "vat_amount": 6.96
+        },
+        {
+            "amount": 34.71,
+            "description": "incentivize collaborative partnerships",
+            "quantity": 1.32,
+            "unit_price": 67.46,
+            "vat_amount": 2.41
+        }
+    ],
+    "seller": {
+        "address": "067 Ronnie Ferry Suite 384 Kendrafurt, IL 93836"
+    },
+    "tax": {
+        "amount_excluding_tax": 177.17,
+        "amount_including_tax": 177.1,
+        "tax_amount": 11.84
+    }
+}

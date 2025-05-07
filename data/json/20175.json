@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "8555 William Light Suite 005 Jenniferfurt, MS 60295",
+        "company_name": "Donaldson and Sons",
+        "email": "stephenphillips@example.net",
+        "name": "Gina Owens",
+        "phone": "7202576940"
+    },
+    "invoice": {
+        "date": "22.11.1990",
+        "due_date": "19.11.2001",
+        "number": "djd86036113684"
+    },
+    "payment": {
+        "account_number": 4096645891,
+        "bank_name": "Wallace, Ramsey and Rodriguez",
+        "routing_number": 759602213
+    },
+    "products": [
+        {
+            "amount": 195.02,
+            "description": "transition out-of-the-box systems",
+            "index": "1",
+            "quantity": 3.37,
+            "unit_price": 21.79
+        },
+        {
+            "amount": 496.26,
+            "description": "scale transparent niches",
+            "index": "7",
+            "quantity": 3.8,
+            "unit_price": 14.27
+        },
+        {
+            "amount": 146.76,
+            "description": "engineer holistic convergence",
+            "index": "6",
+            "quantity": 5.54,
+            "unit_price": 68.72
+        },
+        {
+            "amount": 59.64,
+            "description": "orchestrate 24/7 web-readiness",
+            "index": "7",
+            "quantity": 4.04,
+            "unit_price": 39.58
+        },
+        {
+            "amount": 112.68,
+            "description": "drive viral e-commerce",
+            "index": "8",
+            "quantity": 5.8,
+            "unit_price": 23.3
+        }
+    ],
+    "seller": {
+        "address": "3605 Crystal Cape Lake Billy, PW 41467",
+        "company_name": "Powell LLC",
+        "email": "danielssherry@example.net"
+    }
+}

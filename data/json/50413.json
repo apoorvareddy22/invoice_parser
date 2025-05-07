@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "786 Juan Turnpike Apt. 826 Martinezberg, HI 24866",
+        "id": "rV911"
+    },
+    "invoice": {
+        "bc_no": "da95544",
+        "currency_code": "YER",
+        "date": "28.10.2018",
+        "due_date": "28.05.2015",
+        "number": 413186
+    },
+    "payment": {
+        "bank_name": "Peterson-Parks",
+        "bic": "YRGGGB16",
+        "iban": "LPAZ82488626785081"
+    },
+    "products": [
+        {
+            "amount": 367.4,
+            "description": "disintermediate 24/7 solutions",
+            "index": "9",
+            "price": 416.05,
+            "quantity": 5.77,
+            "tax_amount": 38.7,
+            "total_ttc": 399.08,
+            "vat_amount": 13.49
+        },
+        {
+            "amount": 389.14,
+            "description": "productize rich paradigms",
+            "index": "2",
+            "price": 282.24,
+            "quantity": 6.09,
+            "tax_amount": 74.19,
+            "total_ttc": 216.51,
+            "vat_amount": 16.77
+        },
+        {
+            "amount": 301.73,
+            "description": "matrix e-business solutions",
+            "index": "6",
+            "price": 189.8,
+            "quantity": 1.64,
+            "tax_amount": 21.78,
+            "total_ttc": 265.59,
+            "vat_amount": 1.24
+        },
+        {
+            "amount": 99.41,
+            "description": "streamline strategic experiences",
+            "index": "5",
+            "price": 205.24,
+            "quantity": 4.21,
+            "tax_amount": 74.74,
+            "total_ttc": 190.15,
+            "vat_amount": 4.08
+        }
+    ],
+    "seller": {
+        "name": "Donna Nunez"
+    },
+    "supplier": {
+        "address": "PSC 1128, Box 5850 APO AP 26319",
+        "name": "Shane Butler"
+    },
+    "tax": {
+        "amount_excluding_tax": 38.23,
+        "amount_including_tax": 151.04,
+        "tax_amount": 17.81,
+        "total_ht": 155.85,
+        "total_ttc": 193.58
+    }
+}

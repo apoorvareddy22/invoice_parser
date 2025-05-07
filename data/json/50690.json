@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "8922 Scott Shore Johnside, ME 53359",
+        "id": "bm749"
+    },
+    "invoice": {
+        "bc_no": "rD00285",
+        "currency_code": "LYD",
+        "date": "03.07.2012",
+        "due_date": "05.08.1992",
+        "number": 913056
+    },
+    "payment": {
+        "bank_name": "Clark Ltd",
+        "bic": "YLSPGB9MR9T",
+        "iban": "NONM57707752866072"
+    },
+    "products": [
+        {
+            "amount": 303.61,
+            "description": "strategize frictionless vortals",
+            "index": "5",
+            "price": 387.8,
+            "quantity": 2.44,
+            "tax_amount": 34.08,
+            "total_ttc": 430.43,
+            "vat_amount": 1.96
+        },
+        {
+            "amount": 345.68,
+            "description": "engage virtual partnerships",
+            "index": "7",
+            "price": 405.85,
+            "quantity": 9.77,
+            "tax_amount": 37.97,
+            "total_ttc": 339.49,
+            "vat_amount": 1.6
+        },
+        {
+            "amount": 338.12,
+            "description": "optimize bleeding-edge synergies",
+            "index": "9",
+            "price": 162.1,
+            "quantity": 1.39,
+            "tax_amount": 78.07,
+            "total_ttc": 187.8,
+            "vat_amount": 5.74
+        },
+        {
+            "amount": 469.14,
+            "description": "enhance web-enabled eyeballs",
+            "index": "5",
+            "price": 187.75,
+            "quantity": 6.02,
+            "tax_amount": 95.71,
+            "total_ttc": 265.26,
+            "vat_amount": 12.46
+        },
+        {
+            "amount": 145.85,
+            "description": "iterate value-added metrics",
+            "index": "1",
+            "price": 423.51,
+            "quantity": 7.9,
+            "tax_amount": 77.04,
+            "total_ttc": 297.22,
+            "vat_amount": 11.68
+        },
+        {
+            "amount": 56.73,
+            "description": "disintermediate 24/7 functionalities",
+            "index": "5",
+            "price": 487.24,
+            "quantity": 5.5,
+            "tax_amount": 75.91,
+            "total_ttc": 134.74,
+            "vat_amount": 1.03
+        }
+    ],
+    "seller": {
+        "name": "Robin Morris"
+    },
+    "supplier": {
+        "address": "USNS Summers FPO AP 70011",
+        "name": "Derrick Lopez"
+    },
+    "tax": {
+        "amount_excluding_tax": 63.76,
+        "amount_including_tax": 10.38,
+        "tax_amount": 25.92,
+        "total_ht": 215.27,
+        "total_ttc": 169.13
+    }
+}

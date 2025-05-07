@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "00413 Thomas Mission East Juliachester, DE 91325",
+        "email": "jeremy66@example.net",
+        "phone": "5122195149",
+        "vat_no": "cK95958977902"
+    },
+    "invoice": {
+        "date": "13.05.1993",
+        "due_date": "30.04.1997",
+        "market_reference": 868962,
+        "notes": "target B2B action-items",
+        "number": "0868-1233",
+        "reference": 677383,
+        "vat_no": "fa31960971999"
+    },
+    "payment": {
+        "net_total": 21.23,
+        "total": 185.49
+    },
+    "products": [
+        {
+            "amount": 121.74,
+            "description": "exploit scalable technologies",
+            "hours": 2.0,
+            "rate": 2.45
+        }
+    ],
+    "seller": {
+        "address": "662 Kemp Bridge Westside, NM 13679",
+        "email": "davisjessica@example.com",
+        "name": "Jennifer Thompson"
+    },
+    "tax": {
+        "base": 20.81,
+        "tax_amount": 28.14,
+        "total_tax": 12.91
+    }
+}

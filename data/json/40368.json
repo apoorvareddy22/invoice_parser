@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "4814 Steven Expressway Suite 424 Mossbury, PW 34085"
+    },
+    "invoice": {
+        "bc_no": "SQ50715",
+        "date": "23.08.1999",
+        "maturity_date": "18.01.2021",
+        "number": 355463
+    },
+    "products": [
+        {
+            "amount": 413.16,
+            "description": "revolutionize ubiquitous e-tailers",
+            "quantity": 3.34,
+            "unit_price": 25.29,
+            "vat_amount": 2.99
+        },
+        {
+            "amount": 185.11,
+            "description": "evolve customized applications",
+            "quantity": 2.84,
+            "unit_price": 20.29,
+            "vat_amount": 2.23
+        },
+        {
+            "amount": 333.39,
+            "description": "reinvent holistic web services",
+            "quantity": 3.88,
+            "unit_price": 40.88,
+            "vat_amount": 14.79
+        },
+        {
+            "amount": 204.44,
+            "description": "envisioneer out-of-the-box action-items",
+            "quantity": 4.63,
+            "unit_price": 43.59,
+            "vat_amount": 1.74
+        },
+        {
+            "amount": 250.28,
+            "description": "seize plug-and-play communities",
+            "quantity": 9.59,
+            "unit_price": 99.93,
+            "vat_amount": 10.1
+        },
+        {
+            "amount": 104.23,
+            "description": "re-intermediate front-end networks",
+            "quantity": 1.9,
+            "unit_price": 45.29,
+            "vat_amount": 8.35
+        }
+    ],
+    "seller": {
+        "address": "66597 Ochoa Isle East Kellie, FL 49911"
+    },
+    "tax": {
+        "amount_excluding_tax": 45.65,
+        "amount_including_tax": 73.7,
+        "tax_amount": 23.57
+    }
+}

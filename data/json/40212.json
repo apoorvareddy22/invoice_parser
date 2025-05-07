@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "567 Kimberly Circles Moralesmouth, DC 41005"
+    },
+    "invoice": {
+        "bc_no": "jz75021",
+        "date": "08.07.2022",
+        "maturity_date": "16.06.2016",
+        "number": 429695
+    },
+    "products": [
+        {
+            "amount": 151.65,
+            "description": "evolve value-added markets",
+            "quantity": 8.08,
+            "unit_price": 33.65,
+            "vat_amount": 14.61
+        }
+    ],
+    "seller": {
+        "address": "3046 Simmons Estate Suite 591 East Jessica, MN 63642"
+    },
+    "tax": {
+        "amount_excluding_tax": 91.92,
+        "amount_including_tax": 91.69,
+        "tax_amount": 16.66
+    }
+}

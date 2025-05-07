@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "414 Rhonda Point Apt. 720 Lake Jeffrey, VT 83988",
+        "email": "dmendoza@example.com",
+        "phone": "677-540-9081",
+        "vat_no": "dU25991888508"
+    },
+    "invoice": {
+        "date": "18.04.2005",
+        "due_date": "29.03.2015",
+        "market_reference": 816458,
+        "notes": "transform visionary schemas",
+        "number": "2086-5290",
+        "reference": 164404,
+        "vat_no": "DQ73873843400"
+    },
+    "payment": {
+        "net_total": 26.02,
+        "total": 268.93
+    },
+    "products": [
+        {
+            "amount": 346.88,
+            "description": "enhance 24/7 networks",
+            "hours": 9.56,
+            "rate": 1.7
+        },
+        {
+            "amount": 248.32,
+            "description": "extend cross-platform users",
+            "hours": 4.19,
+            "rate": 6.36
+        },
+        {
+            "amount": 253.26,
+            "description": "innovate sticky models",
+            "hours": 6.04,
+            "rate": 4.85
+        },
+        {
+            "amount": 274.43,
+            "description": "implement turn-key info-mediaries",
+            "hours": 3.23,
+            "rate": 2.41
+        },
+        {
+            "amount": 386.69,
+            "description": "maximize dynamic action-items",
+            "hours": 5.3,
+            "rate": 1.52
+        },
+        {
+            "amount": 495.78,
+            "description": "unleash next-generation users",
+            "hours": 7.97,
+            "rate": 8.58
+        },
+        {
+            "amount": 322.76,
+            "description": "grow revolutionary bandwidth",
+            "hours": 2.53,
+            "rate": 2.43
+        }
+    ],
+    "seller": {
+        "address": "0814 Tiffany Springs Suite 640 South Michaelton, AS 84574",
+        "email": "sean71@example.net",
+        "name": "Thomas Johnston"
+    },
+    "tax": {
+        "base": 25.2,
+        "tax_amount": 12.66,
+        "total_tax": 27.12
+    }
+}

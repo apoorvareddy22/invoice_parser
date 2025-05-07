@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "8721 Edward Brooks South Gregoryville, OH 69252",
+        "id": "Oy921"
+    },
+    "invoice": {
+        "bc_no": "fF45331",
+        "currency_code": "AZN",
+        "date": "30.12.2007",
+        "due_date": "27.01.1999",
+        "number": 233508
+    },
+    "payment": {
+        "bank_name": "Padilla Ltd",
+        "bic": "VGLFGBN2",
+        "iban": "TMVB63882028776778"
+    },
+    "products": [
+        {
+            "amount": 309.64,
+            "description": "optimize killer systems",
+            "index": "8",
+            "price": 440.61,
+            "quantity": 9.45,
+            "tax_amount": 27.19,
+            "total_ttc": 498.45,
+            "vat_amount": 6.62
+        },
+        {
+            "amount": 347.22,
+            "description": "incubate vertical mindshare",
+            "index": "6",
+            "price": 466.73,
+            "quantity": 9.7,
+            "tax_amount": 29.07,
+            "total_ttc": 249.9,
+            "vat_amount": 1.66
+        },
+        {
+            "amount": 232.8,
+            "description": "streamline robust models",
+            "index": "3",
+            "price": 302.11,
+            "quantity": 5.76,
+            "tax_amount": 26.59,
+            "total_ttc": 132.61,
+            "vat_amount": 0.19
+        }
+    ],
+    "seller": {
+        "name": "Autumn Richards"
+    },
+    "supplier": {
+        "address": "99965 Nicole Prairie Apt. 387 Summerston, UT 71951",
+        "name": "Shelly Newman"
+    },
+    "tax": {
+        "amount_excluding_tax": 11.5,
+        "amount_including_tax": 125.82,
+        "tax_amount": 23.05,
+        "total_ht": 199.02,
+        "total_ttc": 496.02
+    }
+}

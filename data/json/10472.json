@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "9179 Brooks Way West Marco, MI 99669",
+        "email": "thomasmarcus@example.net",
+        "phone": "548-954-7164",
+        "vat_no": "mH32247480177"
+    },
+    "invoice": {
+        "date": "17.04.2014",
+        "due_date": "03.02.2021",
+        "market_reference": 504925,
+        "notes": "transition 24/7 users",
+        "number": "9503-1659",
+        "reference": 355279,
+        "vat_no": "fc70652238563"
+    },
+    "payment": {
+        "net_total": 107.96,
+        "total": 705.45
+    },
+    "products": [
+        {
+            "amount": 417.96,
+            "description": "deliver granular e-tailers",
+            "hours": 3.54,
+            "rate": 9.06
+        },
+        {
+            "amount": 280.57,
+            "description": "evolve next-generation relationships",
+            "hours": 5.18,
+            "rate": 6.52
+        },
+        {
+            "amount": 224.21,
+            "description": "embrace plug-and-play convergence",
+            "hours": 9.3,
+            "rate": 2.28
+        },
+        {
+            "amount": 480.32,
+            "description": "evolve plug-and-play functionalities",
+            "hours": 3.26,
+            "rate": 1.91
+        },
+        {
+            "amount": 495.9,
+            "description": "scale cutting-edge models",
+            "hours": 7.42,
+            "rate": 9.28
+        },
+        {
+            "amount": 370.35,
+            "description": "empower B2C web-readiness",
+            "hours": 2.59,
+            "rate": 4.35
+        },
+        {
+            "amount": 102.38,
+            "description": "deploy leading-edge metrics",
+            "hours": 9.84,
+            "rate": 2.49
+        }
+    ],
+    "seller": {
+        "address": "91021 Donna Mission Cynthiaton, GU 19596",
+        "email": "srivera@example.org",
+        "name": "Steven Mcmahon"
+    },
+    "tax": {
+        "base": 12.55,
+        "tax_amount": 21.29,
+        "total_tax": 15.15
+    }
+}

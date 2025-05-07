@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "9677 Erin Street Suite 839 South Tracy, MS 58052",
+        "id": "BC695"
+    },
+    "invoice": {
+        "bc_no": "YB11293",
+        "currency_code": "NOK",
+        "date": "21.05.1991",
+        "due_date": "30.01.1995",
+        "number": 745195
+    },
+    "payment": {
+        "bank_name": "Lewis, Aguilar and Blevins",
+        "bic": "EVUAGBN5T0Z",
+        "iban": "JUZF66155828683109"
+    },
+    "products": [
+        {
+            "amount": 231.07,
+            "description": "innovate world-class web-readiness",
+            "index": "7",
+            "price": 409.41,
+            "quantity": 2.04,
+            "tax_amount": 33.42,
+            "total_ttc": 473.93,
+            "vat_amount": 3.82
+        },
+        {
+            "amount": 162.4,
+            "description": "incentivize cross-platform mindshare",
+            "index": "1",
+            "price": 108.55,
+            "quantity": 8.63,
+            "tax_amount": 97.75,
+            "total_ttc": 212.42,
+            "vat_amount": 1.0
+        },
+        {
+            "amount": 331.38,
+            "description": "deploy extensible e-services",
+            "index": "6",
+            "price": 377.23,
+            "quantity": 1.23,
+            "tax_amount": 88.94,
+            "total_ttc": 462.41,
+            "vat_amount": 12.23
+        },
+        {
+            "amount": 360.33,
+            "description": "empower proactive synergies",
+            "index": "8",
+            "price": 202.64,
+            "quantity": 3.51,
+            "tax_amount": 76.37,
+            "total_ttc": 297.94,
+            "vat_amount": 1.18
+        },
+        {
+            "amount": 218.13,
+            "description": "expedite clicks-and-mortar info-mediaries",
+            "index": "7",
+            "price": 123.93,
+            "quantity": 6.93,
+            "tax_amount": 79.91,
+            "total_ttc": 231.97,
+            "vat_amount": 5.77
+        },
+        {
+            "amount": 98.3,
+            "description": "embrace web-enabled e-business",
+            "index": "5",
+            "price": 419.89,
+            "quantity": 9.92,
+            "tax_amount": 96.65,
+            "total_ttc": 195.9,
+            "vat_amount": 1.06
+        },
+        {
+            "amount": 145.25,
+            "description": "innovate efficient applications",
+            "index": "7",
+            "price": 369.74,
+            "quantity": 7.09,
+            "tax_amount": 71.54,
+            "total_ttc": 206.21,
+            "vat_amount": 4.11
+        }
+    ],
+    "seller": {
+        "name": "John Reid"
+    },
+    "supplier": {
+        "address": "5782 King Junction Suite 346 South Williamstad, LA 84163",
+        "name": "Ruben Huff"
+    },
+    "tax": {
+        "amount_excluding_tax": 81.88,
+        "amount_including_tax": 40.37,
+        "tax_amount": 20.74,
+        "total_ht": 473.59,
+        "total_ttc": 422.52
+    }
+}

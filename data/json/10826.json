@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "5598 Steven Locks Apt. 309 Port Peter, WV 29850",
+        "email": "zsanders@example.com",
+        "phone": "248-540-9930x565",
+        "vat_no": "ln22910065819"
+    },
+    "invoice": {
+        "date": "07.09.2006",
+        "due_date": "26.08.1994",
+        "market_reference": 967081,
+        "notes": "generate revolutionary e-business",
+        "number": "5410-4181",
+        "reference": 665784,
+        "vat_no": "WK82865138031"
+    },
+    "payment": {
+        "net_total": 93.7,
+        "total": 108.51
+    },
+    "products": [
+        {
+            "amount": 393.72,
+            "description": "synthesize next-generation vortals",
+            "hours": 4.67,
+            "rate": 3.35
+        },
+        {
+            "amount": 373.5,
+            "description": "re-intermediate e-business deliverables",
+            "hours": 3.8,
+            "rate": 2.8
+        },
+        {
+            "amount": 193.96,
+            "description": "integrate synergistic web services",
+            "hours": 3.35,
+            "rate": 1.45
+        }
+    ],
+    "seller": {
+        "address": "257 Clinton Fords Suite 591 Morganshire, CO 06447",
+        "email": "christopher96@example.org",
+        "name": "Timothy Oneill"
+    },
+    "tax": {
+        "base": 27.15,
+        "tax_amount": 12.88,
+        "total_tax": 14.41
+    }
+}

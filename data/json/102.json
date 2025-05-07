@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "94257 Stacey Crescent Bakerstad, VA 71634",
+        "company_name": "Morales and Sons",
+        "country": "El Salvador",
+        "name": "Carlos Carter"
+    },
+    "invoice": {
+        "date": "22.09.2014",
+        "number": 902173
+    },
+    "payment": {
+        "discount_amount": 49.86,
+        "discount_percentage": 17.77,
+        "due": 177.78,
+        "sub_total": 97.87,
+        "total": 683.79
+    },
+    "products": [
+        {
+            "description": "whiteboard next-generation action-items",
+            "index": "2",
+            "quantity": 2.99,
+            "total_price": 860.85,
+            "unit_price": 17.59
+        },
+        {
+            "description": "leverage mission-critical partnerships",
+            "index": "1",
+            "quantity": 3.36,
+            "total_price": 488.49,
+            "unit_price": 11.41
+        },
+        {
+            "description": "optimize vertical web-readiness",
+            "index": "4",
+            "quantity": 9.03,
+            "total_price": 816.23,
+            "unit_price": 59.78
+        }
+    ],
+    "seller": {
+        "address": "33861 Harris Viaduct North Michael, GA 48998",
+        "company_name": "Smith LLC",
+        "vat_no": "Gf55207850060"
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "434 Anne Park East Charles, GU 59822",
+        "id": "rl410"
+    },
+    "invoice": {
+        "bc_no": "wI31740",
+        "currency_code": "NPR",
+        "date": "19.09.2007",
+        "due_date": "16.05.2000",
+        "number": 706487
+    },
+    "payment": {
+        "bank_name": "Lester, Parsons and Brown",
+        "bic": "EHSIGBG0",
+        "iban": "VYQZ82940048961912"
+    },
+    "products": [
+        {
+            "amount": 165.74,
+            "description": "scale 24/365 experiences",
+            "index": "4",
+            "price": 61.57,
+            "quantity": 4.2,
+            "tax_amount": 12.38,
+            "total_ttc": 361.12,
+            "vat_amount": 11.11
+        },
+        {
+            "amount": 440.36,
+            "description": "productize next-generation architectures",
+            "index": "4",
+            "price": 8.95,
+            "quantity": 1.76,
+            "tax_amount": 43.18,
+            "total_ttc": 270.59,
+            "vat_amount": 15.51
+        },
+        {
+            "amount": 387.05,
+            "description": "productize revolutionary convergence",
+            "index": "2",
+            "price": 454.13,
+            "quantity": 6.41,
+            "tax_amount": 97.64,
+            "total_ttc": 269.7,
+            "vat_amount": 1.59
+        },
+        {
+            "amount": 173.01,
+            "description": "maximize frictionless channels",
+            "index": "8",
+            "price": 168.82,
+            "quantity": 4.04,
+            "tax_amount": 13.55,
+            "total_ttc": 383.98,
+            "vat_amount": 2.44
+        },
+        {
+            "amount": 349.1,
+            "description": "generate cross-platform metrics",
+            "index": "7",
+            "price": 379.92,
+            "quantity": 2.44,
+            "tax_amount": 91.17,
+            "total_ttc": 435.47,
+            "vat_amount": 8.59
+        },
+        {
+            "amount": 113.15,
+            "description": "repurpose clicks-and-mortar portals",
+            "index": "8",
+            "price": 420.12,
+            "quantity": 9.35,
+            "tax_amount": 18.82,
+            "total_ttc": 415.24,
+            "vat_amount": 3.35
+        },
+        {
+            "amount": 144.84,
+            "description": "empower cross-platform models",
+            "index": "9",
+            "price": 409.99,
+            "quantity": 3.26,
+            "tax_amount": 15.96,
+            "total_ttc": 243.2,
+            "vat_amount": 3.7
+        }
+    ],
+    "seller": {
+        "name": "Mark Cain"
+    },
+    "supplier": {
+        "address": "6976 Justin Lane Suite 301 Lake Joanne, MD 19507",
+        "name": "William Parks"
+    },
+    "tax": {
+        "amount_excluding_tax": 76.33,
+        "amount_including_tax": 159.16,
+        "tax_amount": 21.45,
+        "total_ht": 417.3,
+        "total_ttc": 297.38
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "899 Allen Village Suite 807 Port Amandamouth, GU 71973",
+        "id": "nU706"
+    },
+    "invoice": {
+        "bc_no": "CQ03171",
+        "currency_code": "BWP",
+        "date": "13.03.1996",
+        "due_date": "13.01.2016",
+        "number": 246964
+    },
+    "payment": {
+        "bank_name": "Pearson, Carter and Lane",
+        "bic": "MCUIGBPBRMB",
+        "iban": "BMUV89084989435845"
+    },
+    "products": [
+        {
+            "amount": 468.49,
+            "description": "harness cutting-edge networks",
+            "index": "4",
+            "price": 157.45,
+            "quantity": 9.75,
+            "tax_amount": 97.84,
+            "total_ttc": 397.7,
+            "vat_amount": 8.82
+        },
+        {
+            "amount": 70.37,
+            "description": "deliver compelling synergies",
+            "index": "10",
+            "price": 289.5,
+            "quantity": 4.07,
+            "tax_amount": 59.34,
+            "total_ttc": 150.23,
+            "vat_amount": 9.47
+        },
+        {
+            "amount": 406.2,
+            "description": "streamline best-of-breed e-tailers",
+            "index": "2",
+            "price": 268.48,
+            "quantity": 6.28,
+            "tax_amount": 81.22,
+            "total_ttc": 404.04,
+            "vat_amount": 0.73
+        },
+        {
+            "amount": 186.58,
+            "description": "mesh interactive platforms",
+            "index": "10",
+            "price": 264.66,
+            "quantity": 5.42,
+            "tax_amount": 81.68,
+            "total_ttc": 273.76,
+            "vat_amount": 0.68
+        },
+        {
+            "amount": 299.46,
+            "description": "monetize leading-edge applications",
+            "index": "2",
+            "price": 389.59,
+            "quantity": 8.6,
+            "tax_amount": 86.68,
+            "total_ttc": 158.21,
+            "vat_amount": 4.41
+        }
+    ],
+    "seller": {
+        "name": "Ashlee Jones"
+    },
+    "supplier": {
+        "address": "Unit 0382 Box 5340 DPO AE 72728",
+        "name": "Mitchell Long"
+    },
+    "tax": {
+        "amount_excluding_tax": 109.43,
+        "amount_including_tax": 138.83,
+        "tax_amount": 18.37,
+        "total_ht": 352.49,
+        "total_ttc": 176.64
+    }
+}

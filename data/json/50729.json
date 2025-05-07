@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "00312 Petty Oval Suite 492 East Randyfort, MA 05601",
+        "id": "zf924"
+    },
+    "invoice": {
+        "bc_no": "pI48312",
+        "currency_code": "PEN",
+        "date": "07.07.2004",
+        "due_date": "17.05.2006",
+        "number": 686548
+    },
+    "payment": {
+        "bank_name": "Wallace, Robbins and Gibson",
+        "bic": "BKKLGBO7",
+        "iban": "MLJU61467531286478"
+    },
+    "products": [
+        {
+            "amount": 382.97,
+            "description": "incubate rich relationships",
+            "index": "1",
+            "price": 407.72,
+            "quantity": 9.91,
+            "tax_amount": 71.38,
+            "total_ttc": 360.93,
+            "vat_amount": 0.81
+        },
+        {
+            "amount": 200.54,
+            "description": "grow plug-and-play channels",
+            "index": "4",
+            "price": 10.78,
+            "quantity": 3.49,
+            "tax_amount": 23.7,
+            "total_ttc": 468.02,
+            "vat_amount": 3.1
+        },
+        {
+            "amount": 434.28,
+            "description": "cultivate 24/7 markets",
+            "index": "2",
+            "price": 134.43,
+            "quantity": 5.15,
+            "tax_amount": 95.94,
+            "total_ttc": 231.02,
+            "vat_amount": 5.99
+        },
+        {
+            "amount": 108.62,
+            "description": "streamline frictionless paradigms",
+            "index": "2",
+            "price": 317.35,
+            "quantity": 9.81,
+            "tax_amount": 17.27,
+            "total_ttc": 298.47,
+            "vat_amount": 2.37
+        },
+        {
+            "amount": 63.51,
+            "description": "reinvent distributed technologies",
+            "index": "4",
+            "price": 121.09,
+            "quantity": 4.28,
+            "tax_amount": 99.99,
+            "total_ttc": 168.54,
+            "vat_amount": 0.36
+        },
+        {
+            "amount": 73.29,
+            "description": "repurpose virtual functionalities",
+            "index": "10",
+            "price": 374.56,
+            "quantity": 6.92,
+            "tax_amount": 53.87,
+            "total_ttc": 331.86,
+            "vat_amount": 6.23
+        }
+    ],
+    "seller": {
+        "name": "Seth Eaton"
+    },
+    "supplier": {
+        "address": "230 Evans Keys East Sandra, PR 54862",
+        "name": "Jason Henderson"
+    },
+    "tax": {
+        "amount_excluding_tax": 73.43,
+        "amount_including_tax": 61.92,
+        "tax_amount": 15.48,
+        "total_ht": 232.53,
+        "total_ttc": 385.08
+    }
+}

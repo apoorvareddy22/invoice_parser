@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "403 Heidi Ville Brandyborough, OH 25451"
+    },
+    "invoice": {
+        "bc_no": "uQ79596",
+        "date": "20.06.2013",
+        "maturity_date": "10.12.2007",
+        "number": 344279
+    },
+    "products": [
+        {
+            "amount": 253.72,
+            "description": "synergize open-source interfaces",
+            "quantity": 8.19,
+            "unit_price": 22.95,
+            "vat_amount": 2.39
+        },
+        {
+            "amount": 317.92,
+            "description": "integrate web-enabled models",
+            "quantity": 9.92,
+            "unit_price": 27.99,
+            "vat_amount": 5.75
+        }
+    ],
+    "seller": {
+        "address": "699 Hawkins Terrace Apt. 739 South Rebecca, OK 48723"
+    },
+    "tax": {
+        "amount_excluding_tax": 10.75,
+        "amount_including_tax": 157.67,
+        "tax_amount": 28.96
+    }
+}

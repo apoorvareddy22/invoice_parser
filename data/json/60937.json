@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "50342 Howard Junctions Myersport, KS 47842",
+        "business_no": "Fe576",
+        "id": "sy304"
+    },
+    "invoice": {
+        "date": "02.08.1994",
+        "number": "3982-1130"
+    },
+    "payment": {
+        "due_date": "15.11.2006",
+        "total": 636.61
+    },
+    "products": [
+        {
+            "amount": 39.22,
+            "description": "matrix back-end content",
+            "quantity": 9.33,
+            "reference": "gZ-604",
+            "unit_price": 13.64
+        },
+        {
+            "amount": 316.36,
+            "description": "unleash synergistic vortals",
+            "quantity": 2.45,
+            "reference": "zu-786",
+            "unit_price": 60.16
+        }
+    ],
+    "seller": {
+        "address": "23443 Joseph Isle North Felicia, WA 76595"
+    },
+    "tax": {
+        "base_ht": 175.25,
+        "regulations": 29.9,
+        "total_ht": 468.0,
+        "vat_amount": 110.36,
+        "vat_percentage": 13.81
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "4783 Nicholas Ports Suite 773 East Paula, KS 43774",
+        "company_name": "Carter Inc",
+        "country": "Germany",
+        "name": "Robert Ibarra"
+    },
+    "invoice": {
+        "date": "19.02.2013",
+        "number": 800172
+    },
+    "payment": {
+        "discount_amount": 46.15,
+        "discount_percentage": 13.83,
+        "due": 104.23,
+        "sub_total": 151.95,
+        "total": 315.62
+    },
+    "products": [
+        {
+            "description": "leverage mission-critical e-services",
+            "index": "4",
+            "quantity": 5.35,
+            "total_price": 936.09,
+            "unit_price": 64.07
+        },
+        {
+            "description": "orchestrate robust applications",
+            "index": "3",
+            "quantity": 5.0,
+            "total_price": 990.59,
+            "unit_price": 56.33
+        },
+        {
+            "description": "exploit leading-edge architectures",
+            "index": "2",
+            "quantity": 6.95,
+            "total_price": 977.49,
+            "unit_price": 20.41
+        },
+        {
+            "description": "matrix web-enabled applications",
+            "index": "3",
+            "quantity": 4.89,
+            "total_price": 988.91,
+            "unit_price": 73.93
+        }
+    ],
+    "seller": {
+        "address": "48732 Samantha Point West Susan, MS 57480",
+        "company_name": "Wilson, Lamb and Cherry",
+        "vat_no": "eo46897353582"
+    }
+}

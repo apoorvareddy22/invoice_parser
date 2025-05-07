@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "83133 Shannon Estates Apt. 306 South Lindsey, IA 59685",
+        "company_name": "Shields PLC",
+        "email": "xmiller@example.org",
+        "name": "Erin Brown",
+        "phone": "+1-887-412-2593x5269"
+    },
+    "invoice": {
+        "date": "01.03.1999",
+        "due_date": "31.08.1996",
+        "number": "JXk13870320983"
+    },
+    "payment": {
+        "account_number": 5247706107,
+        "bank_name": "Robertson-Bates",
+        "routing_number": 338635258
+    },
+    "products": [
+        {
+            "amount": 338.57,
+            "description": "enhance B2C e-markets",
+            "index": "9",
+            "quantity": 4.8,
+            "unit_price": 47.88
+        },
+        {
+            "amount": 366.35,
+            "description": "redefine viral initiatives",
+            "index": "2",
+            "quantity": 5.02,
+            "unit_price": 33.16
+        }
+    ],
+    "seller": {
+        "address": "35564 Melton Hills Suite 860 Lake Dakotabury, FM 30894",
+        "company_name": "Roth-Thompson",
+        "email": "susan61@example.org"
+    }
+}

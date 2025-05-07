@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "45310 Jacob Manors Amandaborough, KY 79383",
+        "company_name": "Dunn PLC",
+        "country": "Lao People's Democratic Republic",
+        "name": "Sonya Buck"
+    },
+    "invoice": {
+        "date": "05.12.1999",
+        "number": 175936
+    },
+    "payment": {
+        "discount_amount": 17.45,
+        "discount_percentage": 19.21,
+        "due": 74.97,
+        "sub_total": 20.05,
+        "total": 938.75
+    },
+    "products": [
+        {
+            "description": "architect scalable interfaces",
+            "index": "5",
+            "quantity": 9.13,
+            "total_price": 909.25,
+            "unit_price": 79.65
+        },
+        {
+            "description": "integrate cross-media models",
+            "index": "10",
+            "quantity": 8.61,
+            "total_price": 262.63,
+            "unit_price": 90.14
+        },
+        {
+            "description": "leverage intuitive initiatives",
+            "index": "3",
+            "quantity": 3.99,
+            "total_price": 851.64,
+            "unit_price": 25.72
+        },
+        {
+            "description": "syndicate scalable architectures",
+            "index": "8",
+            "quantity": 7.86,
+            "total_price": 69.03,
+            "unit_price": 13.46
+        }
+    ],
+    "seller": {
+        "address": "24804 John Streets Apt. 179 Port Angela, WA 35547",
+        "company_name": "Houston-Larson",
+        "vat_no": "bt17443766650"
+    }
+}

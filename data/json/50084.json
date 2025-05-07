@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "USNS Robertson FPO AA 17331",
+        "id": "Db999"
+    },
+    "invoice": {
+        "bc_no": "yj04589",
+        "currency_code": "GEL",
+        "date": "03.07.2002",
+        "due_date": "20.03.1994",
+        "number": 890680
+    },
+    "payment": {
+        "bank_name": "Russo-Levy",
+        "bic": "YADCGBYH",
+        "iban": "KFBJ33036943626804"
+    },
+    "products": [
+        {
+            "amount": 69.69,
+            "description": "integrate B2C systems",
+            "index": "1",
+            "price": 157.74,
+            "quantity": 8.71,
+            "tax_amount": 46.41,
+            "total_ttc": 293.05,
+            "vat_amount": 3.42
+        },
+        {
+            "amount": 152.6,
+            "description": "re-intermediate ubiquitous channels",
+            "index": "3",
+            "price": 438.61,
+            "quantity": 5.52,
+            "tax_amount": 37.26,
+            "total_ttc": 377.73,
+            "vat_amount": 3.78
+        },
+        {
+            "amount": 230.43,
+            "description": "streamline collaborative methodologies",
+            "index": "10",
+            "price": 263.64,
+            "quantity": 9.48,
+            "tax_amount": 63.86,
+            "total_ttc": 356.04,
+            "vat_amount": 0.63
+        }
+    ],
+    "seller": {
+        "name": "Matthew Kelley"
+    },
+    "supplier": {
+        "address": "Unit 8094 Box 6338 DPO AP 37725",
+        "name": "Patricia Duncan"
+    },
+    "tax": {
+        "amount_excluding_tax": 173.37,
+        "amount_including_tax": 195.08,
+        "tax_amount": 19.38,
+        "total_ht": 330.54,
+        "total_ttc": 485.19
+    }
+}

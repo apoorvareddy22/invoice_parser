@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "1531 Wells Overpass Apt. 963 Stricklandmouth, NY 24379"
+    },
+    "invoice": {
+        "bc_no": "yc31749",
+        "date": "27.01.2016",
+        "maturity_date": "15.02.1992",
+        "number": 878493
+    },
+    "products": [
+        {
+            "amount": 267.33,
+            "description": "syndicate open-source systems",
+            "quantity": 3.71,
+            "unit_price": 57.3,
+            "vat_amount": 0.24
+        }
+    ],
+    "seller": {
+        "address": "207 Nicholas Port Suite 258 Kingtown, NM 49041"
+    },
+    "tax": {
+        "amount_excluding_tax": 194.63,
+        "amount_including_tax": 121.24,
+        "tax_amount": 10.39
+    }
+}

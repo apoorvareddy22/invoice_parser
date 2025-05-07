@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "25314 Rebecca Burgs South Jayberg, AZ 39598"
+    },
+    "invoice": {
+        "bc_no": "HL82080",
+        "date": "11.12.2007",
+        "maturity_date": "16.10.2005",
+        "number": 605084
+    },
+    "products": [
+        {
+            "amount": 396.58,
+            "description": "deliver web-enabled platforms",
+            "quantity": 8.39,
+            "unit_price": 82.38,
+            "vat_amount": 2.33
+        },
+        {
+            "amount": 85.97,
+            "description": "unleash frictionless web-readiness",
+            "quantity": 3.68,
+            "unit_price": 90.9,
+            "vat_amount": 2.64
+        },
+        {
+            "amount": 407.42,
+            "description": "mesh 24/365 synergies",
+            "quantity": 7.58,
+            "unit_price": 61.07,
+            "vat_amount": 5.79
+        },
+        {
+            "amount": 208.9,
+            "description": "re-contextualize turn-key platforms",
+            "quantity": 8.79,
+            "unit_price": 54.35,
+            "vat_amount": 3.97
+        }
+    ],
+    "seller": {
+        "address": "2781 Ferguson Pike New Alexander, WY 74806"
+    },
+    "tax": {
+        "amount_excluding_tax": 43.87,
+        "amount_including_tax": 134.61,
+        "tax_amount": 20.28
+    }
+}

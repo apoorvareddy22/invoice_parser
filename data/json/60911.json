@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "77082 Jessica Summit West Samuel, MI 43219",
+        "business_no": "fD486",
+        "id": "MY397"
+    },
+    "invoice": {
+        "date": "25.01.2009",
+        "number": "9480-1436"
+    },
+    "payment": {
+        "due_date": "04.07.1995",
+        "total": 341.63
+    },
+    "products": [
+        {
+            "amount": 223.65,
+            "description": "extend holistic e-commerce",
+            "quantity": 5.18,
+            "reference": "id-457",
+            "unit_price": 74.47
+        },
+        {
+            "amount": 385.86,
+            "description": "reinvent world-class relationships",
+            "quantity": 4.64,
+            "reference": "jt-902",
+            "unit_price": 40.96
+        }
+    ],
+    "seller": {
+        "address": "14771 Lindsey Ville Lake Bridgetville, CA 92601"
+    },
+    "tax": {
+        "base_ht": 283.11,
+        "regulations": 23.11,
+        "total_ht": 231.41,
+        "vat_amount": 58.09,
+        "vat_percentage": 10.27
+    }
+}

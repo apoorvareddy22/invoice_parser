@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "022 Pamela Locks Troyport, KS 44327"
+    },
+    "invoice": {
+        "bc_no": "JH89313",
+        "date": "11.10.2015",
+        "maturity_date": "14.07.2013",
+        "number": 996237
+    },
+    "products": [
+        {
+            "amount": 292.98,
+            "description": "deploy plug-and-play e-tailers",
+            "quantity": 5.01,
+            "unit_price": 74.26,
+            "vat_amount": 4.65
+        },
+        {
+            "amount": 322.51,
+            "description": "enable e-business communities",
+            "quantity": 6.35,
+            "unit_price": 32.81,
+            "vat_amount": 0.03
+        }
+    ],
+    "seller": {
+        "address": "7237 Julie Inlet Heatherborough, PA 71800"
+    },
+    "tax": {
+        "amount_excluding_tax": 91.46,
+        "amount_including_tax": 128.39,
+        "tax_amount": 10.64
+    }
+}

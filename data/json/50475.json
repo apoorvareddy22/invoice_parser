@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "81617 Stewart Cape Suite 514 East Sandra, ME 94912",
+        "id": "vs393"
+    },
+    "invoice": {
+        "bc_no": "uY45638",
+        "currency_code": "ZWD",
+        "date": "19.08.2023",
+        "due_date": "30.09.2015",
+        "number": 975660
+    },
+    "payment": {
+        "bank_name": "Parker and Sons",
+        "bic": "DUBOGBLJ",
+        "iban": "FFQN39180534769605"
+    },
+    "products": [
+        {
+            "amount": 260.94,
+            "description": "maximize open-source bandwidth",
+            "index": "7",
+            "price": 222.99,
+            "quantity": 9.01,
+            "tax_amount": 76.74,
+            "total_ttc": 445.9,
+            "vat_amount": 0.73
+        },
+        {
+            "amount": 340.82,
+            "description": "integrate extensible solutions",
+            "index": "2",
+            "price": 236.99,
+            "quantity": 7.24,
+            "tax_amount": 36.38,
+            "total_ttc": 386.71,
+            "vat_amount": 0.91
+        },
+        {
+            "amount": 338.6,
+            "description": "iterate customized relationships",
+            "index": "9",
+            "price": 83.72,
+            "quantity": 4.76,
+            "tax_amount": 86.41,
+            "total_ttc": 318.39,
+            "vat_amount": 7.39
+        },
+        {
+            "amount": 429.8,
+            "description": "synergize web-enabled experiences",
+            "index": "3",
+            "price": 271.16,
+            "quantity": 3.15,
+            "tax_amount": 75.87,
+            "total_ttc": 388.63,
+            "vat_amount": 1.63
+        },
+        {
+            "amount": 96.13,
+            "description": "morph efficient e-services",
+            "index": "5",
+            "price": 164.55,
+            "quantity": 5.55,
+            "tax_amount": 77.17,
+            "total_ttc": 303.73,
+            "vat_amount": 14.23
+        }
+    ],
+    "seller": {
+        "name": "Gerald Patel"
+    },
+    "supplier": {
+        "address": "534 Mitchell Circle Apt. 540 Shannonfurt, ID 37419",
+        "name": "Stephen Greer"
+    },
+    "tax": {
+        "amount_excluding_tax": 101.24,
+        "amount_including_tax": 45.42,
+        "tax_amount": 27.91,
+        "total_ht": 186.6,
+        "total_ttc": 267.51
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "Unit 8654 Box 7555 DPO AP 01908"
+    },
+    "invoice": {
+        "bc_no": "Wv67424",
+        "date": "24.03.2006",
+        "maturity_date": "22.08.2009",
+        "number": 905551
+    },
+    "products": [
+        {
+            "amount": 76.2,
+            "description": "harness 24/365 systems",
+            "quantity": 9.94,
+            "unit_price": 11.92,
+            "vat_amount": 4.79
+        },
+        {
+            "amount": 10.56,
+            "description": "synergize integrated networks",
+            "quantity": 6.46,
+            "unit_price": 82.47,
+            "vat_amount": 5.23
+        },
+        {
+            "amount": 359.39,
+            "description": "exploit wireless web-readiness",
+            "quantity": 1.78,
+            "unit_price": 10.95,
+            "vat_amount": 3.13
+        },
+        {
+            "amount": 315.29,
+            "description": "engage wireless ROI",
+            "quantity": 8.76,
+            "unit_price": 81.33,
+            "vat_amount": 1.09
+        },
+        {
+            "amount": 449.78,
+            "description": "scale interactive mindshare",
+            "quantity": 2.79,
+            "unit_price": 31.09,
+            "vat_amount": 0.1
+        },
+        {
+            "amount": 196.45,
+            "description": "engage cross-media deliverables",
+            "quantity": 6.64,
+            "unit_price": 33.36,
+            "vat_amount": 5.07
+        }
+    ],
+    "seller": {
+        "address": "271 Watson Landing Port Alexandra, DE 22127"
+    },
+    "tax": {
+        "amount_excluding_tax": 146.53,
+        "amount_including_tax": 120.78,
+        "tax_amount": 21.08
+    }
+}

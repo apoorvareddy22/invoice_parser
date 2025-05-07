@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "992 Meagan River Apt. 248 Port Zacharybury, MT 96190",
+        "id": "Ay433"
+    },
+    "invoice": {
+        "bc_no": "eE47935",
+        "currency_code": "AUD",
+        "date": "23.12.2006",
+        "due_date": "28.06.2000",
+        "number": 193884
+    },
+    "payment": {
+        "bank_name": "Walsh-Barron",
+        "bic": "XVCOGBE38BK",
+        "iban": "CUPO59095341114332"
+    },
+    "products": [
+        {
+            "amount": 6.76,
+            "description": "cultivate frictionless schemas",
+            "index": "4",
+            "price": 48.49,
+            "quantity": 8.13,
+            "tax_amount": 49.85,
+            "total_ttc": 496.61,
+            "vat_amount": 7.19
+        },
+        {
+            "amount": 229.88,
+            "description": "transition robust infrastructures",
+            "index": "2",
+            "price": 426.07,
+            "quantity": 9.06,
+            "tax_amount": 98.73,
+            "total_ttc": 177.98,
+            "vat_amount": 1.71
+        },
+        {
+            "amount": 172.02,
+            "description": "envisioneer turn-key functionalities",
+            "index": "8",
+            "price": 449.88,
+            "quantity": 1.9,
+            "tax_amount": 90.4,
+            "total_ttc": 371.81,
+            "vat_amount": 1.19
+        },
+        {
+            "amount": 41.92,
+            "description": "facilitate value-added metrics",
+            "index": "9",
+            "price": 405.63,
+            "quantity": 3.82,
+            "tax_amount": 50.88,
+            "total_ttc": 246.33,
+            "vat_amount": 5.05
+        },
+        {
+            "amount": 298.81,
+            "description": "matrix cross-media synergies",
+            "index": "7",
+            "price": 387.48,
+            "quantity": 3.4,
+            "tax_amount": 92.98,
+            "total_ttc": 188.93,
+            "vat_amount": 10.15
+        }
+    ],
+    "seller": {
+        "name": "Roberto Williams"
+    },
+    "supplier": {
+        "address": "035 Mann Extensions Jamesburgh, ID 93945",
+        "name": "Jennifer Mitchell"
+    },
+    "tax": {
+        "amount_excluding_tax": 111.96,
+        "amount_including_tax": 74.16,
+        "tax_amount": 16.1,
+        "total_ht": 333.12,
+        "total_ttc": 459.25
+    }
+}

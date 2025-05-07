@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "6467 Peter Causeway South Diane, GU 27963",
+        "id": "tF922"
+    },
+    "invoice": {
+        "bc_no": "kM32332",
+        "currency_code": "MMK",
+        "date": "01.12.2017",
+        "due_date": "29.04.1992",
+        "number": 511183
+    },
+    "payment": {
+        "bank_name": "Woods-Nelson",
+        "bic": "FQETGBFF840",
+        "iban": "PWAJ53834579527426"
+    },
+    "products": [
+        {
+            "amount": 499.65,
+            "description": "reinvent web-enabled functionalities",
+            "index": "2",
+            "price": 464.67,
+            "quantity": 6.32,
+            "tax_amount": 84.12,
+            "total_ttc": 271.98,
+            "vat_amount": 6.89
+        },
+        {
+            "amount": 232.35,
+            "description": "disintermediate efficient models",
+            "index": "2",
+            "price": 216.14,
+            "quantity": 1.55,
+            "tax_amount": 40.41,
+            "total_ttc": 466.39,
+            "vat_amount": 12.21
+        },
+        {
+            "amount": 213.65,
+            "description": "orchestrate user-centric infrastructures",
+            "index": "5",
+            "price": 22.73,
+            "quantity": 2.39,
+            "tax_amount": 26.3,
+            "total_ttc": 219.84,
+            "vat_amount": 9.39
+        },
+        {
+            "amount": 103.64,
+            "description": "transition real-time synergies",
+            "index": "9",
+            "price": 306.92,
+            "quantity": 8.34,
+            "tax_amount": 17.97,
+            "total_ttc": 175.47,
+            "vat_amount": 4.54
+        },
+        {
+            "amount": 286.93,
+            "description": "transform cross-platform metrics",
+            "index": "2",
+            "price": 406.84,
+            "quantity": 8.97,
+            "tax_amount": 74.5,
+            "total_ttc": 487.81,
+            "vat_amount": 1.91
+        },
+        {
+            "amount": 112.56,
+            "description": "strategize vertical web services",
+            "index": "8",
+            "price": 131.54,
+            "quantity": 9.56,
+            "tax_amount": 13.46,
+            "total_ttc": 256.0,
+            "vat_amount": 3.2
+        },
+        {
+            "amount": 259.15,
+            "description": "facilitate killer relationships",
+            "index": "10",
+            "price": 113.08,
+            "quantity": 2.63,
+            "tax_amount": 98.85,
+            "total_ttc": 287.19,
+            "vat_amount": 4.71
+        }
+    ],
+    "seller": {
+        "name": "Gary Miller"
+    },
+    "supplier": {
+        "address": "8609 Kimberly Glen Suite 646 Griffinhaven, FM 75694",
+        "name": "Clayton Anderson"
+    },
+    "tax": {
+        "amount_excluding_tax": 35.1,
+        "amount_including_tax": 62.7,
+        "tax_amount": 21.46,
+        "total_ht": 110.58,
+        "total_ttc": 136.28
+    }
+}

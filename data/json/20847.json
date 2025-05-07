@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "4002 Avery Fields South Brian, SD 34380",
+        "company_name": "Jarvis, Powell and Joyce",
+        "email": "michelleramirez@example.net",
+        "name": "Edward Soto",
+        "phone": "487.248.4454x93477"
+    },
+    "invoice": {
+        "date": "22.09.2012",
+        "due_date": "09.01.2010",
+        "number": "LMY22894111002"
+    },
+    "payment": {
+        "account_number": 9202877969,
+        "bank_name": "Vargas LLC",
+        "routing_number": 897679698
+    },
+    "products": [
+        {
+            "amount": 321.61,
+            "description": "brand seamless experiences",
+            "index": "6",
+            "quantity": 5.55,
+            "unit_price": 11.51
+        },
+        {
+            "amount": 188.5,
+            "description": "seize proactive experiences",
+            "index": "8",
+            "quantity": 5.04,
+            "unit_price": 18.91
+        }
+    ],
+    "seller": {
+        "address": "77722 Maria Spur Wilsonmouth, SD 68122",
+        "company_name": "Griffin and Sons",
+        "email": "lori51@example.com"
+    }
+}

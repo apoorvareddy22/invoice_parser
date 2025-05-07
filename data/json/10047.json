@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "7988 William Island Michaelburgh, MP 17347",
+        "email": "william62@example.org",
+        "phone": "626-942-7729x9727",
+        "vat_no": "bV39021471642"
+    },
+    "invoice": {
+        "date": "03.09.2004",
+        "due_date": "04.03.2000",
+        "market_reference": 493990,
+        "notes": "maximize cross-media partnerships",
+        "number": "9121-3128",
+        "reference": 623755,
+        "vat_no": "eO57636789285"
+    },
+    "payment": {
+        "net_total": 70.29,
+        "total": 184.6
+    },
+    "products": [
+        {
+            "amount": 483.08,
+            "description": "drive holistic e-services",
+            "hours": 9.64,
+            "rate": 3.65
+        },
+        {
+            "amount": 326.83,
+            "description": "embrace strategic niches",
+            "hours": 3.18,
+            "rate": 4.59
+        },
+        {
+            "amount": 421.95,
+            "description": "re-intermediate wireless markets",
+            "hours": 2.73,
+            "rate": 4.89
+        },
+        {
+            "amount": 53.6,
+            "description": "engage global e-commerce",
+            "hours": 5.94,
+            "rate": 1.44
+        }
+    ],
+    "seller": {
+        "address": "PSC 5719, Box 2115 APO AP 84999",
+        "email": "mathewmyers@example.com",
+        "name": "Brian Hill"
+    },
+    "tax": {
+        "base": 17.47,
+        "tax_amount": 22.64,
+        "total_tax": 18.89
+    }
+}

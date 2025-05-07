@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "799 Gentry Ferry Apt. 126 Danielville, MN 77861",
+        "email": "antoniobradford@example.com",
+        "phone": "+1-262-302-2530x606",
+        "vat_no": "Pn26618741142"
+    },
+    "invoice": {
+        "date": "12.03.2017",
+        "due_date": "02.06.2000",
+        "market_reference": 632206,
+        "notes": "maximize enterprise paradigms",
+        "number": "6805-6493",
+        "reference": 949454,
+        "vat_no": "kj06552404962"
+    },
+    "payment": {
+        "net_total": 21.41,
+        "total": 943.68
+    },
+    "products": [
+        {
+            "amount": 224.09,
+            "description": "deploy back-end relationships",
+            "hours": 5.14,
+            "rate": 2.22
+        },
+        {
+            "amount": 478.3,
+            "description": "reinvent user-centric synergies",
+            "hours": 3.34,
+            "rate": 4.1
+        },
+        {
+            "amount": 54.69,
+            "description": "grow 24/7 infrastructures",
+            "hours": 2.86,
+            "rate": 9.93
+        },
+        {
+            "amount": 239.07,
+            "description": "syndicate B2C applications",
+            "hours": 3.28,
+            "rate": 3.22
+        },
+        {
+            "amount": 180.86,
+            "description": "envisioneer frictionless partnerships",
+            "hours": 2.07,
+            "rate": 5.09
+        }
+    ],
+    "seller": {
+        "address": "USCGC Baker FPO AE 12678",
+        "email": "richardhanson@example.net",
+        "name": "Ryan Durham"
+    },
+    "tax": {
+        "base": 26.59,
+        "tax_amount": 24.89,
+        "total_tax": 16.74
+    }
+}

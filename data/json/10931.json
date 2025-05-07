@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "87781 Hancock Stravenue East Donna, IA 98674",
+        "email": "rodriguezjamie@example.com",
+        "phone": "211-238-1936x03911",
+        "vat_no": "Gp73456138670"
+    },
+    "invoice": {
+        "date": "12.07.2012",
+        "due_date": "31.08.1991",
+        "market_reference": 201314,
+        "notes": "innovate wireless e-markets",
+        "number": "9316-3158",
+        "reference": 875568,
+        "vat_no": "aI50411044266"
+    },
+    "payment": {
+        "net_total": 150.31,
+        "total": 809.73
+    },
+    "products": [
+        {
+            "amount": 483.56,
+            "description": "aggregate next-generation e-commerce",
+            "hours": 8.15,
+            "rate": 5.9
+        },
+        {
+            "amount": 192.4,
+            "description": "repurpose out-of-the-box experiences",
+            "hours": 3.77,
+            "rate": 3.12
+        }
+    ],
+    "seller": {
+        "address": "83572 Martinez Squares Lauriemouth, WA 77190",
+        "email": "jaycoffey@example.org",
+        "name": "Juan King"
+    },
+    "tax": {
+        "base": 17.16,
+        "tax_amount": 28.99,
+        "total_tax": 16.07
+    }
+}

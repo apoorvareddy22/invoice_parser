@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "01909 David Plains Suite 002 West Julie, NJ 61326",
+        "company_name": "Robinson, Gibson and Baxter",
+        "email": "brandonrose@example.com",
+        "name": "Stephen Jones",
+        "phone": "001-945-525-3035"
+    },
+    "invoice": {
+        "date": "01.07.1997",
+        "due_date": "03.11.1990",
+        "number": "Xml14389239287"
+    },
+    "payment": {
+        "account_number": 5904208655,
+        "bank_name": "Jimenez, Stanley and Fitzpatrick",
+        "routing_number": 336696642
+    },
+    "products": [
+        {
+            "amount": 481.55,
+            "description": "enable killer vortals",
+            "index": "5",
+            "quantity": 6.98,
+            "unit_price": 18.38
+        },
+        {
+            "amount": 76.19,
+            "description": "drive efficient ROI",
+            "index": "3",
+            "quantity": 2.47,
+            "unit_price": 39.2
+        },
+        {
+            "amount": 139.8,
+            "description": "whiteboard proactive models",
+            "index": "1",
+            "quantity": 4.36,
+            "unit_price": 80.99
+        },
+        {
+            "amount": 259.85,
+            "description": "envisioneer integrated deliverables",
+            "index": "2",
+            "quantity": 3.82,
+            "unit_price": 10.78
+        }
+    ],
+    "seller": {
+        "address": "20271 Michael Greens Apt. 902 New Jamie, FM 62491",
+        "company_name": "Lyons and Sons",
+        "email": "kristy82@example.com"
+    }
+}

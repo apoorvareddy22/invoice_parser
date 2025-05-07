@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "USNS Hopkins FPO AE 22688",
+        "business_no": "Hs563",
+        "id": "zF082"
+    },
+    "invoice": {
+        "date": "04.02.2017",
+        "number": "3923-5223"
+    },
+    "payment": {
+        "due_date": "12.01.2001",
+        "total": 110.31
+    },
+    "products": [
+        {
+            "amount": 399.73,
+            "description": "architect ubiquitous convergence",
+            "quantity": 1.2,
+            "reference": "nI-281",
+            "unit_price": 91.4
+        },
+        {
+            "amount": 384.3,
+            "description": "re-intermediate back-end supply-chains",
+            "quantity": 5.61,
+            "reference": "gG-773",
+            "unit_price": 44.77
+        },
+        {
+            "amount": 336.97,
+            "description": "empower integrated vortals",
+            "quantity": 2.98,
+            "reference": "TV-610",
+            "unit_price": 62.85
+        },
+        {
+            "amount": 408.55,
+            "description": "scale B2C methodologies",
+            "quantity": 5.64,
+            "reference": "Ya-686",
+            "unit_price": 41.85
+        }
+    ],
+    "seller": {
+        "address": "56013 Megan Trail Port Brandonberg, GA 25912"
+    },
+    "tax": {
+        "base_ht": 340.31,
+        "regulations": 27.86,
+        "total_ht": 455.39,
+        "vat_amount": 97.08,
+        "vat_percentage": 28.1
+    }
+}

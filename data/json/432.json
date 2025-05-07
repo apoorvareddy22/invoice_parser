@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "4781 Kelsey Glens Alexanderview, KS 45078",
+        "company_name": "Sanchez-Perez",
+        "country": "Tunisia",
+        "name": "Peter Lang"
+    },
+    "invoice": {
+        "date": "08.11.2016",
+        "number": 345728
+    },
+    "payment": {
+        "discount_amount": 36.89,
+        "discount_percentage": 7.63,
+        "due": 86.77,
+        "sub_total": 159.27,
+        "total": 723.07
+    },
+    "products": [
+        {
+            "description": "evolve leading-edge platforms",
+            "index": "3",
+            "quantity": 8.28,
+            "total_price": 999.79,
+            "unit_price": 38.0
+        },
+        {
+            "description": "target world-class architectures",
+            "index": "1",
+            "quantity": 9.83,
+            "total_price": 793.14,
+            "unit_price": 86.79
+        },
+        {
+            "description": "leverage proactive applications",
+            "index": "3",
+            "quantity": 6.6,
+            "total_price": 995.74,
+            "unit_price": 55.77
+        },
+        {
+            "description": "repurpose clicks-and-mortar models",
+            "index": "6",
+            "quantity": 4.07,
+            "total_price": 309.32,
+            "unit_price": 39.81
+        },
+        {
+            "description": "reinvent holistic e-tailers",
+            "index": "4",
+            "quantity": 2.89,
+            "total_price": 13.16,
+            "unit_price": 91.68
+        }
+    ],
+    "seller": {
+        "address": "9704 Hall Inlet Apt. 796 Lake Jessica, NJ 75656",
+        "company_name": "Manning, Ford and Roberts",
+        "vat_no": "aT42510493675"
+    }
+}

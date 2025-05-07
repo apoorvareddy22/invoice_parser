@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "0890 Martinez Run Suite 566 West Emilymouth, WI 55417",
+        "business_no": "id089",
+        "id": "OM839"
+    },
+    "invoice": {
+        "date": "08.08.1993",
+        "number": "3451-6983"
+    },
+    "payment": {
+        "due_date": "17.02.2013",
+        "total": 891.78
+    },
+    "products": [
+        {
+            "amount": 494.34,
+            "description": "enhance interactive infrastructures",
+            "quantity": 5.03,
+            "reference": "Lt-542",
+            "unit_price": 29.34
+        },
+        {
+            "amount": 188.27,
+            "description": "incentivize user-centric niches",
+            "quantity": 5.75,
+            "reference": "xU-955",
+            "unit_price": 75.05
+        },
+        {
+            "amount": 410.98,
+            "description": "scale customized e-commerce",
+            "quantity": 3.2,
+            "reference": "EL-852",
+            "unit_price": 60.36
+        },
+        {
+            "amount": 352.9,
+            "description": "cultivate dynamic partnerships",
+            "quantity": 9.07,
+            "reference": "zb-356",
+            "unit_price": 54.78
+        }
+    ],
+    "seller": {
+        "address": "USCGC Thompson FPO AE 45067"
+    },
+    "tax": {
+        "base_ht": 480.37,
+        "regulations": 10.3,
+        "total_ht": 431.27,
+        "vat_amount": 32.52,
+        "vat_percentage": 11.73
+    }
+}

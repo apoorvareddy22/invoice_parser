@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "35365 Rebecca Hills Suite 076 Richardsport, MI 17102",
+        "id": "ZI280"
+    },
+    "invoice": {
+        "bc_no": "xu59687",
+        "currency_code": "BOB",
+        "date": "14.06.2006",
+        "due_date": "24.04.2020",
+        "number": 863795
+    },
+    "payment": {
+        "bank_name": "Adams-Weaver",
+        "bic": "NNODGBN9V51",
+        "iban": "LSYX81699802668455"
+    },
+    "products": [
+        {
+            "amount": 136.2,
+            "description": "architect visionary e-tailers",
+            "index": "2",
+            "price": 270.26,
+            "quantity": 4.91,
+            "tax_amount": 50.71,
+            "total_ttc": 107.47,
+            "vat_amount": 3.24
+        },
+        {
+            "amount": 335.07,
+            "description": "harness sticky methodologies",
+            "index": "8",
+            "price": 103.99,
+            "quantity": 8.54,
+            "tax_amount": 95.18,
+            "total_ttc": 366.05,
+            "vat_amount": 7.42
+        },
+        {
+            "amount": 150.66,
+            "description": "engage real-time systems",
+            "index": "8",
+            "price": 77.89,
+            "quantity": 6.54,
+            "tax_amount": 67.04,
+            "total_ttc": 494.92,
+            "vat_amount": 2.42
+        },
+        {
+            "amount": 346.24,
+            "description": "cultivate strategic relationships",
+            "index": "2",
+            "price": 497.53,
+            "quantity": 8.37,
+            "tax_amount": 59.63,
+            "total_ttc": 287.13,
+            "vat_amount": 13.07
+        },
+        {
+            "amount": 256.25,
+            "description": "syndicate viral solutions",
+            "index": "4",
+            "price": 235.92,
+            "quantity": 8.86,
+            "tax_amount": 79.87,
+            "total_ttc": 230.52,
+            "vat_amount": 3.86
+        },
+        {
+            "amount": 421.84,
+            "description": "exploit enterprise experiences",
+            "index": "1",
+            "price": 303.71,
+            "quantity": 9.05,
+            "tax_amount": 23.45,
+            "total_ttc": 367.78,
+            "vat_amount": 3.36
+        },
+        {
+            "amount": 142.55,
+            "description": "productize efficient solutions",
+            "index": "1",
+            "price": 284.09,
+            "quantity": 9.55,
+            "tax_amount": 16.92,
+            "total_ttc": 198.78,
+            "vat_amount": 3.59
+        }
+    ],
+    "seller": {
+        "name": "Michael Reilly"
+    },
+    "supplier": {
+        "address": "Unit 7275 Box 2705 DPO AE 71399",
+        "name": "Sean Lewis"
+    },
+    "tax": {
+        "amount_excluding_tax": 92.0,
+        "amount_including_tax": 184.97,
+        "tax_amount": 14.87,
+        "total_ht": 277.42,
+        "total_ttc": 352.32
+    }
+}

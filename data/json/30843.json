@@ -1,0 +1,82 @@
+{
+    "buyer": {
+        "address": "199 Amy Branch South Natalieton, MS 57216",
+        "company_name": "Henderson PLC",
+        "country": "Spain",
+        "email": "jolsen@example.org",
+        "name": "Jorge Fernandez",
+        "phone": "904.772.3288x7986",
+        "vat_no": "bR30912539558"
+    },
+    "invoice": {
+        "date": "28.12.2012",
+        "due_date": "24.02.2012",
+        "linked_invoice": "mE-2355-5526",
+        "notes": "deliver B2B methodologies",
+        "number": "AU-0478-0094"
+    },
+    "products": [
+        {
+            "description": "aggregate viral platforms",
+            "discount_percentage": 16.77,
+            "price": 303.84,
+            "quantity": 4.05,
+            "unit_price": 48.02
+        },
+        {
+            "description": "deploy back-end interfaces",
+            "discount_percentage": 5.95,
+            "price": 254.23,
+            "quantity": 5.65,
+            "unit_price": 27.83
+        },
+        {
+            "description": "drive frictionless deliverables",
+            "discount_percentage": 11.39,
+            "price": 385.61,
+            "quantity": 2.49,
+            "unit_price": 90.0
+        },
+        {
+            "description": "enable visionary platforms",
+            "discount_percentage": 8.13,
+            "price": 268.81,
+            "quantity": 3.57,
+            "unit_price": 93.34
+        },
+        {
+            "description": "implement user-centric networks",
+            "discount_percentage": 9.52,
+            "price": 50.96,
+            "quantity": 2.95,
+            "unit_price": 64.83
+        }
+    ],
+    "seller": {
+        "address": "800 Gilmore Skyway Suite 501 Port Nancy, MT 44787",
+        "ape": "6158E",
+        "capital": 60608252,
+        "country": "Malta",
+        "email": "matthewmorales@example.net",
+        "name": "Robert Harris",
+        "phone_1": "(320)349-8442",
+        "phone_2": "432-365-4137x279",
+        "phone_3": "+1-648-809-4029x12866",
+        "ref_walk": "SuRS5697",
+        "reference": "II251",
+        "siret": 38742133060839,
+        "vat_no": "Bt77091074641",
+        "website": "http://raymond-johnson.com/"
+    },
+    "tax": {
+        "amount_0": 29.36,
+        "amount_1": 18.01,
+        "base_0": 18.87,
+        "base_1": 32.88,
+        "total_ht": 207.81,
+        "total_tax": 12.34,
+        "total_ttc": 361.43,
+        "vat_0": 24.15,
+        "vat_1": 25.43
+    }
+}

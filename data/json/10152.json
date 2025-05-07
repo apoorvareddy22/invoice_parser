@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "1813 Jack Prairie South Jessicaport, WA 33748",
+        "email": "ewilliams@example.org",
+        "phone": "338-978-7982x04944",
+        "vat_no": "nz63015104148"
+    },
+    "invoice": {
+        "date": "04.04.2004",
+        "due_date": "05.07.2019",
+        "market_reference": 567081,
+        "notes": "innovate back-end interfaces",
+        "number": "8475-4685",
+        "reference": 201372,
+        "vat_no": "HV15352856673"
+    },
+    "payment": {
+        "net_total": 77.82,
+        "total": 205.5
+    },
+    "products": [
+        {
+            "amount": 465.51,
+            "description": "evolve web-enabled functionalities",
+            "hours": 7.51,
+            "rate": 4.38
+        }
+    ],
+    "seller": {
+        "address": "8510 Brenda Corners South Sheilastad, NV 98705",
+        "email": "susan92@example.net",
+        "name": "Francisco Myers"
+    },
+    "tax": {
+        "base": 20.06,
+        "tax_amount": 11.29,
+        "total_tax": 22.8
+    }
+}

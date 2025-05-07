@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "736 Edwin Stravenue East Jennaview, GA 50561"
+    },
+    "invoice": {
+        "bc_no": "JU90520",
+        "date": "09.08.1999",
+        "maturity_date": "03.09.2009",
+        "number": 555112
+    },
+    "products": [
+        {
+            "amount": 48.72,
+            "description": "envisioneer real-time synergies",
+            "quantity": 4.24,
+            "unit_price": 66.62,
+            "vat_amount": 4.58
+        },
+        {
+            "amount": 111.68,
+            "description": "integrate ubiquitous info-mediaries",
+            "quantity": 4.58,
+            "unit_price": 20.33,
+            "vat_amount": 1.51
+        },
+        {
+            "amount": 489.12,
+            "description": "enhance e-business web services",
+            "quantity": 8.08,
+            "unit_price": 42.32,
+            "vat_amount": 9.7
+        }
+    ],
+    "seller": {
+        "address": "PSC 7339, Box 8968 APO AA 10619"
+    },
+    "tax": {
+        "amount_excluding_tax": 125.43,
+        "amount_including_tax": 89.87,
+        "tax_amount": 23.67
+    }
+}

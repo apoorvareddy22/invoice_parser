@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "78427 Mitchell Fort Suite 055 Port Chadside, IL 46972",
+        "email": "meredith61@example.org",
+        "phone": "+1-789-488-2114",
+        "vat_no": "EM57691401664"
+    },
+    "invoice": {
+        "date": "06.03.1990",
+        "due_date": "20.12.1994",
+        "market_reference": 194449,
+        "notes": "streamline world-class web-readiness",
+        "number": "3624-6156",
+        "reference": 981256,
+        "vat_no": "xc18744977258"
+    },
+    "payment": {
+        "net_total": 169.48,
+        "total": 441.57
+    },
+    "products": [
+        {
+            "amount": 57.72,
+            "description": "re-contextualize front-end methodologies",
+            "hours": 6.96,
+            "rate": 8.97
+        },
+        {
+            "amount": 355.57,
+            "description": "re-intermediate bricks-and-clicks users",
+            "hours": 5.99,
+            "rate": 1.39
+        },
+        {
+            "amount": 414.11,
+            "description": "maximize killer channels",
+            "hours": 2.51,
+            "rate": 8.33
+        }
+    ],
+    "seller": {
+        "address": "70691 Gonzales Stravenue Apt. 856 Josemouth, NV 23136",
+        "email": "golson@example.net",
+        "name": "Donald Acevedo"
+    },
+    "tax": {
+        "base": 29.95,
+        "tax_amount": 28.1,
+        "total_tax": 23.81
+    }
+}

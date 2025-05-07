@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "USS Cooper FPO AP 81454",
+        "company_name": "Scott, Anderson and Nelson",
+        "country": "Burundi",
+        "name": "Shannon Stewart"
+    },
+    "invoice": {
+        "date": "06.09.2012",
+        "number": 290284
+    },
+    "payment": {
+        "discount_amount": 12.89,
+        "discount_percentage": 10.53,
+        "due": 75.25,
+        "sub_total": 103.54,
+        "total": 444.91
+    },
+    "products": [
+        {
+            "description": "envisioneer web-enabled relationships",
+            "index": "4",
+            "quantity": 7.44,
+            "total_price": 594.47,
+            "unit_price": 44.85
+        }
+    ],
+    "seller": {
+        "address": "9580 Parker Trafficway Wilkersonfurt, PW 42752",
+        "company_name": "Santiago, Ford and Sims",
+        "vat_no": "na72929655640"
+    }
+}

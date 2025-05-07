@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "381 Barnes Turnpike Williamville, AK 54678",
+        "company_name": "Flores and Sons",
+        "email": "mgomez@example.net",
+        "name": "Shelley Smith",
+        "phone": "8147517859"
+    },
+    "invoice": {
+        "date": "23.07.1992",
+        "due_date": "31.07.2012",
+        "number": "Yam96823472272"
+    },
+    "payment": {
+        "account_number": 2613361390,
+        "bank_name": "Munoz-Brown",
+        "routing_number": 538540910
+    },
+    "products": [
+        {
+            "amount": 306.15,
+            "description": "reinvent real-time e-commerce",
+            "index": "4",
+            "quantity": 4.79,
+            "unit_price": 33.72
+        }
+    ],
+    "seller": {
+        "address": "765 Harrison Parkways Apt. 810 Everettport, FM 76687",
+        "company_name": "Patel-Marshall",
+        "email": "martinezbrittney@example.org"
+    }
+}

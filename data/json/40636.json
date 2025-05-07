@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "797 Thompson Street West Christopher, MP 08419"
+    },
+    "invoice": {
+        "bc_no": "fN34479",
+        "date": "20.01.2016",
+        "maturity_date": "01.01.2007",
+        "number": 446170
+    },
+    "products": [
+        {
+            "amount": 470.78,
+            "description": "whiteboard vertical e-services",
+            "quantity": 4.23,
+            "unit_price": 17.82,
+            "vat_amount": 11.53
+        },
+        {
+            "amount": 23.51,
+            "description": "enable turn-key relationships",
+            "quantity": 5.64,
+            "unit_price": 41.33,
+            "vat_amount": 2.07
+        },
+        {
+            "amount": 175.36,
+            "description": "grow revolutionary e-commerce",
+            "quantity": 7.57,
+            "unit_price": 61.67,
+            "vat_amount": 12.03
+        },
+        {
+            "amount": 87.33,
+            "description": "incentivize dot-com info-mediaries",
+            "quantity": 1.85,
+            "unit_price": 17.9,
+            "vat_amount": 5.1
+        }
+    ],
+    "seller": {
+        "address": "082 Bryan Shoals North Sharon, AR 82121"
+    },
+    "tax": {
+        "amount_excluding_tax": 22.74,
+        "amount_including_tax": 27.77,
+        "tax_amount": 14.17
+    }
+}

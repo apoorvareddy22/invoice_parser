@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "USNV Ross FPO AA 40318",
+        "id": "uO163"
+    },
+    "invoice": {
+        "bc_no": "Bo90250",
+        "currency_code": "LRD",
+        "date": "30.06.2003",
+        "due_date": "27.08.2010",
+        "number": 967456
+    },
+    "payment": {
+        "bank_name": "Nixon-Grant",
+        "bic": "SLUOGBQ6",
+        "iban": "JWKL16437669365182"
+    },
+    "products": [
+        {
+            "amount": 98.85,
+            "description": "empower open-source mindshare",
+            "index": "8",
+            "price": 208.89,
+            "quantity": 1.28,
+            "tax_amount": 52.47,
+            "total_ttc": 395.61,
+            "vat_amount": 7.21
+        },
+        {
+            "amount": 148.62,
+            "description": "whiteboard cross-media users",
+            "index": "3",
+            "price": 62.47,
+            "quantity": 9.0,
+            "tax_amount": 41.69,
+            "total_ttc": 121.19,
+            "vat_amount": 1.26
+        },
+        {
+            "amount": 379.87,
+            "description": "visualize open-source methodologies",
+            "index": "3",
+            "price": 390.18,
+            "quantity": 7.55,
+            "tax_amount": 75.36,
+            "total_ttc": 177.2,
+            "vat_amount": 11.58
+        },
+        {
+            "amount": 299.0,
+            "description": "matrix robust synergies",
+            "index": "8",
+            "price": 468.57,
+            "quantity": 1.49,
+            "tax_amount": 39.63,
+            "total_ttc": 480.9,
+            "vat_amount": 2.37
+        },
+        {
+            "amount": 390.92,
+            "description": "syndicate dot-com e-services",
+            "index": "6",
+            "price": 229.97,
+            "quantity": 1.52,
+            "tax_amount": 98.42,
+            "total_ttc": 263.34,
+            "vat_amount": 2.43
+        }
+    ],
+    "seller": {
+        "name": "Robert Moses"
+    },
+    "supplier": {
+        "address": "9090 Shawn Ridge Suite 255 North Bryan, SC 97831",
+        "name": "Margaret Skinner"
+    },
+    "tax": {
+        "amount_excluding_tax": 21.87,
+        "amount_including_tax": 26.71,
+        "tax_amount": 21.0,
+        "total_ht": 184.17,
+        "total_ttc": 374.34
+    }
+}

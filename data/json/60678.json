@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "67053 Ray Drive Suite 010 Lawsonburgh, FM 96618",
+        "business_no": "WV348",
+        "id": "BR267"
+    },
+    "invoice": {
+        "date": "06.01.2002",
+        "number": "5619-1171"
+    },
+    "payment": {
+        "due_date": "19.09.1995",
+        "total": 791.94
+    },
+    "products": [
+        {
+            "amount": 383.89,
+            "description": "optimize visionary vortals",
+            "quantity": 6.0,
+            "reference": "fH-935",
+            "unit_price": 21.67
+        },
+        {
+            "amount": 295.73,
+            "description": "target enterprise experiences",
+            "quantity": 4.48,
+            "reference": "gl-554",
+            "unit_price": 69.62
+        },
+        {
+            "amount": 378.56,
+            "description": "iterate strategic interfaces",
+            "quantity": 5.07,
+            "reference": "Rm-559",
+            "unit_price": 17.51
+        },
+        {
+            "amount": 262.91,
+            "description": "streamline interactive communities",
+            "quantity": 8.3,
+            "reference": "Mh-257",
+            "unit_price": 47.34
+        },
+        {
+            "amount": 104.69,
+            "description": "enable global partnerships",
+            "quantity": 8.31,
+            "reference": "gj-544",
+            "unit_price": 50.04
+        }
+    ],
+    "seller": {
+        "address": "Unit 3505 Box 1780 DPO AA 70096"
+    },
+    "tax": {
+        "base_ht": 297.05,
+        "regulations": 16.7,
+        "total_ht": 160.27,
+        "vat_amount": 112.51,
+        "vat_percentage": 15.75
+    }
+}

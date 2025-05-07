@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "147 Steven Fords Amyview, UT 44308",
+        "id": "Vf907"
+    },
+    "invoice": {
+        "bc_no": "Xl52694",
+        "currency_code": "KYD",
+        "date": "07.06.2006",
+        "due_date": "10.07.2013",
+        "number": 526876
+    },
+    "payment": {
+        "bank_name": "Martin Group",
+        "bic": "YHQKGBVI",
+        "iban": "ICDO84572878877090"
+    },
+    "products": [
+        {
+            "amount": 224.19,
+            "description": "strategize innovative web services",
+            "index": "2",
+            "price": 80.73,
+            "quantity": 4.0,
+            "tax_amount": 15.49,
+            "total_ttc": 331.5,
+            "vat_amount": 1.25
+        }
+    ],
+    "seller": {
+        "name": "Monique Zhang"
+    },
+    "supplier": {
+        "address": "01518 Jason Curve North Nicholasshire, AL 84162",
+        "name": "Teresa Stevens"
+    },
+    "tax": {
+        "amount_excluding_tax": 40.94,
+        "amount_including_tax": 107.5,
+        "tax_amount": 25.75,
+        "total_ht": 410.25,
+        "total_ttc": 396.11
+    }
+}

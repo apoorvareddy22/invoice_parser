@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "USCGC Mcdaniel FPO AA 69117"
+    },
+    "invoice": {
+        "bc_no": "Kh96682",
+        "date": "05.08.2002",
+        "maturity_date": "05.01.1997",
+        "number": 859709
+    },
+    "products": [
+        {
+            "amount": 367.89,
+            "description": "synthesize virtual models",
+            "quantity": 9.57,
+            "unit_price": 55.41,
+            "vat_amount": 16.4
+        },
+        {
+            "amount": 226.56,
+            "description": "syndicate interactive models",
+            "quantity": 3.99,
+            "unit_price": 90.59,
+            "vat_amount": 10.83
+        }
+    ],
+    "seller": {
+        "address": "Unit 6362 Box 8537 DPO AP 91138"
+    },
+    "tax": {
+        "amount_excluding_tax": 73.12,
+        "amount_including_tax": 96.17,
+        "tax_amount": 13.24
+    }
+}

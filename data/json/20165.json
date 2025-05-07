@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "05101 Morgan Springs Ayalamouth, KS 62073",
+        "company_name": "Pugh-Taylor",
+        "email": "colin89@example.org",
+        "name": "Chloe Brown",
+        "phone": "001-200-930-1682"
+    },
+    "invoice": {
+        "date": "23.01.2012",
+        "due_date": "04.06.2014",
+        "number": "mYe72202313230"
+    },
+    "payment": {
+        "account_number": 9301036409,
+        "bank_name": "Nelson LLC",
+        "routing_number": 111954486
+    },
+    "products": [
+        {
+            "amount": 369.83,
+            "description": "innovate holistic solutions",
+            "index": "2",
+            "quantity": 3.44,
+            "unit_price": 30.02
+        }
+    ],
+    "seller": {
+        "address": "55786 Raymond Mountains Michaelborough, MT 39111",
+        "company_name": "Mcdonald Group",
+        "email": "david52@example.org"
+    }
+}

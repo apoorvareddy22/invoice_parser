@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "219 Morrison Turnpike Katherineton, PW 82079",
+        "id": "YT682"
+    },
+    "invoice": {
+        "bc_no": "zX00858",
+        "currency_code": "LTL",
+        "date": "14.07.1995",
+        "due_date": "06.11.2021",
+        "number": 701032
+    },
+    "payment": {
+        "bank_name": "Smith Ltd",
+        "bic": "KBWNGBSB",
+        "iban": "DBLH21486805129694"
+    },
+    "products": [
+        {
+            "amount": 241.11,
+            "description": "disintermediate back-end vortals",
+            "index": "4",
+            "price": 402.81,
+            "quantity": 4.34,
+            "tax_amount": 82.36,
+            "total_ttc": 111.98,
+            "vat_amount": 8.18
+        },
+        {
+            "amount": 274.05,
+            "description": "whiteboard frictionless content",
+            "index": "10",
+            "price": 482.06,
+            "quantity": 5.96,
+            "tax_amount": 64.92,
+            "total_ttc": 210.62,
+            "vat_amount": 1.53
+        },
+        {
+            "amount": 290.26,
+            "description": "enable customized eyeballs",
+            "index": "5",
+            "price": 12.21,
+            "quantity": 4.57,
+            "tax_amount": 38.8,
+            "total_ttc": 498.28,
+            "vat_amount": 3.94
+        },
+        {
+            "amount": 287.52,
+            "description": "embrace viral relationships",
+            "index": "5",
+            "price": 111.98,
+            "quantity": 6.43,
+            "tax_amount": 54.79,
+            "total_ttc": 428.24,
+            "vat_amount": 3.08
+        },
+        {
+            "amount": 274.99,
+            "description": "embrace turn-key architectures",
+            "index": "5",
+            "price": 429.03,
+            "quantity": 6.97,
+            "tax_amount": 42.27,
+            "total_ttc": 439.98,
+            "vat_amount": 6.42
+        }
+    ],
+    "seller": {
+        "name": "Nicolas Smith DDS"
+    },
+    "supplier": {
+        "address": "408 Ronald Port Lake Melissaville, TX 49259",
+        "name": "Kristen Mayo"
+    },
+    "tax": {
+        "amount_excluding_tax": 60.31,
+        "amount_including_tax": 20.94,
+        "tax_amount": 16.0,
+        "total_ht": 315.38,
+        "total_ttc": 129.7
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "1583 Cantrell Ferry Port Diana, TX 57919",
+        "business_no": "Wj352",
+        "id": "Uc833"
+    },
+    "invoice": {
+        "date": "27.07.1994",
+        "number": "5585-6869"
+    },
+    "payment": {
+        "due_date": "16.03.2006",
+        "total": 242.98
+    },
+    "products": [
+        {
+            "amount": 225.03,
+            "description": "unleash one-to-one web services",
+            "quantity": 5.82,
+            "reference": "JX-119",
+            "unit_price": 13.87
+        },
+        {
+            "amount": 295.33,
+            "description": "transform interactive ROI",
+            "quantity": 2.32,
+            "reference": "aX-668",
+            "unit_price": 76.89
+        }
+    ],
+    "seller": {
+        "address": "784 Miranda Turnpike West Shannon, FL 15548"
+    },
+    "tax": {
+        "base_ht": 322.3,
+        "regulations": 11.25,
+        "total_ht": 121.99,
+        "vat_amount": 65.48,
+        "vat_percentage": 28.97
+    }
+}

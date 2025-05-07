@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "66130 Bass River Apt. 303 North Scott, AZ 47985",
+        "business_no": "pY027",
+        "id": "ZI632"
+    },
+    "invoice": {
+        "date": "09.02.2007",
+        "number": "3453-0187"
+    },
+    "payment": {
+        "due_date": "04.07.1996",
+        "total": 806.09
+    },
+    "products": [
+        {
+            "amount": 494.21,
+            "description": "empower best-of-breed vortals",
+            "quantity": 9.36,
+            "reference": "lX-109",
+            "unit_price": 11.38
+        },
+        {
+            "amount": 493.01,
+            "description": "matrix sticky technologies",
+            "quantity": 2.92,
+            "reference": "Jw-544",
+            "unit_price": 27.98
+        },
+        {
+            "amount": 300.93,
+            "description": "drive revolutionary functionalities",
+            "quantity": 5.06,
+            "reference": "iA-158",
+            "unit_price": 21.49
+        },
+        {
+            "amount": 57.71,
+            "description": "brand open-source markets",
+            "quantity": 4.57,
+            "reference": "AP-353",
+            "unit_price": 25.99
+        }
+    ],
+    "seller": {
+        "address": "Unit 2550 Box 2145 DPO AA 21290"
+    },
+    "tax": {
+        "base_ht": 260.2,
+        "regulations": 19.8,
+        "total_ht": 190.43,
+        "vat_amount": 129.98,
+        "vat_percentage": 25.77
+    }
+}

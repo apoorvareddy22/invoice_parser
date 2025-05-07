@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "PSC 2417, Box 4386 APO AE 64322",
+        "email": "hudsonryan@example.net",
+        "phone": "001-949-253-3254",
+        "vat_no": "nG95930504270"
+    },
+    "invoice": {
+        "date": "30.12.2005",
+        "due_date": "15.01.2018",
+        "market_reference": 789372,
+        "notes": "whiteboard bleeding-edge vortals",
+        "number": "9703-1709",
+        "reference": 333075,
+        "vat_no": "DU53804949252"
+    },
+    "payment": {
+        "net_total": 30.52,
+        "total": 465.46
+    },
+    "products": [
+        {
+            "amount": 416.21,
+            "description": "re-intermediate turn-key niches",
+            "hours": 2.16,
+            "rate": 1.22
+        },
+        {
+            "amount": 86.36,
+            "description": "re-contextualize world-class schemas",
+            "hours": 7.87,
+            "rate": 6.64
+        },
+        {
+            "amount": 91.74,
+            "description": "seize world-class users",
+            "hours": 8.28,
+            "rate": 2.53
+        },
+        {
+            "amount": 309.55,
+            "description": "matrix virtual deliverables",
+            "hours": 9.32,
+            "rate": 7.1
+        }
+    ],
+    "seller": {
+        "address": "75145 Crawford Land Gregoryport, TN 82173",
+        "email": "annejenkins@example.net",
+        "name": "Michael Hess"
+    },
+    "tax": {
+        "base": 24.63,
+        "tax_amount": 16.26,
+        "total_tax": 29.75
+    }
+}

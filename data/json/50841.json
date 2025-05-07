@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "4473 Rhonda Knoll Suite 986 Pereztown, NE 16508",
+        "id": "xP064"
+    },
+    "invoice": {
+        "bc_no": "AU90989",
+        "currency_code": "ZWD",
+        "date": "12.05.2023",
+        "due_date": "19.06.2004",
+        "number": 721437
+    },
+    "payment": {
+        "bank_name": "Kirby-Cruz",
+        "bic": "GDOOGBS5",
+        "iban": "AKDL56517575616953"
+    },
+    "products": [
+        {
+            "amount": 26.2,
+            "description": "implement killer action-items",
+            "index": "6",
+            "price": 208.98,
+            "quantity": 4.94,
+            "tax_amount": 42.75,
+            "total_ttc": 323.47,
+            "vat_amount": 5.75
+        },
+        {
+            "amount": 32.46,
+            "description": "productize bricks-and-clicks info-mediaries",
+            "index": "6",
+            "price": 282.33,
+            "quantity": 8.32,
+            "tax_amount": 70.98,
+            "total_ttc": 284.7,
+            "vat_amount": 1.31
+        },
+        {
+            "amount": 293.83,
+            "description": "morph strategic communities",
+            "index": "1",
+            "price": 395.27,
+            "quantity": 8.75,
+            "tax_amount": 13.9,
+            "total_ttc": 380.21,
+            "vat_amount": 15.44
+        },
+        {
+            "amount": 108.94,
+            "description": "architect innovative partnerships",
+            "index": "4",
+            "price": 192.5,
+            "quantity": 3.37,
+            "tax_amount": 62.42,
+            "total_ttc": 233.69,
+            "vat_amount": 2.15
+        },
+        {
+            "amount": 494.05,
+            "description": "re-contextualize impactful channels",
+            "index": "2",
+            "price": 391.39,
+            "quantity": 4.19,
+            "tax_amount": 63.67,
+            "total_ttc": 120.3,
+            "vat_amount": 11.57
+        },
+        {
+            "amount": 26.26,
+            "description": "deploy collaborative channels",
+            "index": "3",
+            "price": 445.14,
+            "quantity": 7.89,
+            "tax_amount": 53.44,
+            "total_ttc": 244.64,
+            "vat_amount": 0.11
+        }
+    ],
+    "seller": {
+        "name": "Tyler Lutz"
+    },
+    "supplier": {
+        "address": "6615 Stacy Run South Lee, ND 33712",
+        "name": "Julia Webster"
+    },
+    "tax": {
+        "amount_excluding_tax": 79.66,
+        "amount_including_tax": 88.42,
+        "tax_amount": 13.35,
+        "total_ht": 446.71,
+        "total_ttc": 214.95
+    }
+}

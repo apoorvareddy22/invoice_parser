@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "2539 Johnson Branch Port Eddie, IL 02448",
+        "company_name": "Wright, Torres and Payne",
+        "country": "Uganda",
+        "name": "Michael Clark"
+    },
+    "invoice": {
+        "date": "18.06.2018",
+        "number": 771827
+    },
+    "payment": {
+        "discount_amount": 18.83,
+        "discount_percentage": 16.5,
+        "due": 133.28,
+        "sub_total": 123.79,
+        "total": 958.26
+    },
+    "products": [
+        {
+            "description": "exploit efficient communities",
+            "index": "9",
+            "quantity": 7.53,
+            "total_price": 914.4,
+            "unit_price": 87.43
+        },
+        {
+            "description": "envisioneer global relationships",
+            "index": "8",
+            "quantity": 8.44,
+            "total_price": 307.28,
+            "unit_price": 83.02
+        },
+        {
+            "description": "engage web-enabled communities",
+            "index": "3",
+            "quantity": 3.3,
+            "total_price": 924.16,
+            "unit_price": 74.84
+        },
+        {
+            "description": "envisioneer back-end e-commerce",
+            "index": "8",
+            "quantity": 3.68,
+            "total_price": 843.52,
+            "unit_price": 73.21
+        }
+    ],
+    "seller": {
+        "address": "273 Anthony Ports Apt. 004 Millertown, LA 84945",
+        "company_name": "Chambers Ltd",
+        "vat_no": "Oz22915826905"
+    }
+}

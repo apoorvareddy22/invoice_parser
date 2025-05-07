@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "32496 Shepherd Harbors Apt. 699 Lake Alexander, DE 42726",
+        "email": "lydia83@example.org",
+        "phone": "+1-539-297-3051x43782",
+        "vat_no": "ur10439471387"
+    },
+    "invoice": {
+        "date": "04.09.2014",
+        "due_date": "13.03.2020",
+        "market_reference": 253804,
+        "notes": "harness cutting-edge partnerships",
+        "number": "8599-4845",
+        "reference": 788804,
+        "vat_no": "bX48088406107"
+    },
+    "payment": {
+        "net_total": 40.35,
+        "total": 375.84
+    },
+    "products": [
+        {
+            "amount": 471.96,
+            "description": "iterate holistic niches",
+            "hours": 4.94,
+            "rate": 2.39
+        },
+        {
+            "amount": 432.69,
+            "description": "innovate clicks-and-mortar initiatives",
+            "hours": 5.58,
+            "rate": 5.02
+        },
+        {
+            "amount": 152.29,
+            "description": "reinvent intuitive paradigms",
+            "hours": 3.19,
+            "rate": 3.73
+        },
+        {
+            "amount": 298.74,
+            "description": "harness transparent infrastructures",
+            "hours": 1.76,
+            "rate": 7.83
+        }
+    ],
+    "seller": {
+        "address": "82613 Kathleen Squares Apt. 207 Meyersland, KY 55715",
+        "email": "evanslinda@example.com",
+        "name": "Mrs. Taylor Cook"
+    },
+    "tax": {
+        "base": 18.22,
+        "tax_amount": 20.23,
+        "total_tax": 27.71
+    }
+}

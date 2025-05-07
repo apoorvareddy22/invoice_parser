@@ -1,0 +1,39 @@
+{
+    "buyer": {
+        "address": "283 Brooks Shoal East Kathleen, VT 89120",
+        "email": "michelle55@example.com",
+        "phone": "+1-464-599-7221x37736",
+        "vat_no": "iI54062001318"
+    },
+    "invoice": {
+        "date": "02.10.1997",
+        "due_date": "08.10.2002",
+        "market_reference": 142902,
+        "notes": "orchestrate interactive action-items",
+        "number": "0189-0581",
+        "reference": 928209,
+        "vat_no": "bp56334055900"
+    },
+    "payment": {
+        "net_total": 20.23,
+        "total": 877.83
+    },
+    "products": [
+        {
+            "amount": 321.6,
+            "description": "visualize mission-critical ROI",
+            "hours": 4.2,
+            "rate": 9.77
+        }
+    ],
+    "seller": {
+        "address": "605 Smith Wall North Jessicamouth, PA 90679",
+        "email": "taylornicole@example.org",
+        "name": "Cynthia Williams"
+    },
+    "tax": {
+        "base": 13.12,
+        "tax_amount": 10.92,
+        "total_tax": 12.78
+    }
+}

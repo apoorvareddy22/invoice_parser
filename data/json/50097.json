@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "5010 Deanna Neck North Lindabury, DC 73761",
+        "id": "ld628"
+    },
+    "invoice": {
+        "bc_no": "vo61606",
+        "currency_code": "BOB",
+        "date": "17.06.2010",
+        "due_date": "12.10.2005",
+        "number": 330229
+    },
+    "payment": {
+        "bank_name": "Bell-Baker",
+        "bic": "ESWJGB5MG1T",
+        "iban": "MBJB86246309815497"
+    },
+    "products": [
+        {
+            "amount": 381.85,
+            "description": "incubate cross-media initiatives",
+            "index": "1",
+            "price": 99.99,
+            "quantity": 9.09,
+            "tax_amount": 58.2,
+            "total_ttc": 459.81,
+            "vat_amount": 0.12
+        }
+    ],
+    "seller": {
+        "name": "Luis Davis"
+    },
+    "supplier": {
+        "address": "0179 Robertson Place Brownchester, MH 70262",
+        "name": "Carl Becker"
+    },
+    "tax": {
+        "amount_excluding_tax": 152.03,
+        "amount_including_tax": 176.15,
+        "tax_amount": 22.84,
+        "total_ht": 351.54,
+        "total_ttc": 331.09
+    }
+}

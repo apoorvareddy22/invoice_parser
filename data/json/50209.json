@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "3331 Cynthia Radial Apt. 964 Brycefurt, MS 11533",
+        "id": "tB503"
+    },
+    "invoice": {
+        "bc_no": "vC35991",
+        "currency_code": "TWD",
+        "date": "22.10.2004",
+        "due_date": "04.06.2005",
+        "number": 792519
+    },
+    "payment": {
+        "bank_name": "Guzman, Gonzalez and Willis",
+        "bic": "LETFGBHW7SJ",
+        "iban": "DVOP04737654989025"
+    },
+    "products": [
+        {
+            "amount": 143.25,
+            "description": "empower robust convergence",
+            "index": "8",
+            "price": 193.95,
+            "quantity": 2.51,
+            "tax_amount": 36.89,
+            "total_ttc": 408.7,
+            "vat_amount": 5.52
+        },
+        {
+            "amount": 132.48,
+            "description": "aggregate global schemas",
+            "index": "10",
+            "price": 327.5,
+            "quantity": 7.65,
+            "tax_amount": 52.59,
+            "total_ttc": 215.89,
+            "vat_amount": 4.81
+        }
+    ],
+    "seller": {
+        "name": "Lisa Ochoa"
+    },
+    "supplier": {
+        "address": "847 Brian Parks Smithville, GU 92045",
+        "name": "Jessica Padilla"
+    },
+    "tax": {
+        "amount_excluding_tax": 57.27,
+        "amount_including_tax": 140.74,
+        "tax_amount": 10.37,
+        "total_ht": 477.86,
+        "total_ttc": 293.77
+    }
+}

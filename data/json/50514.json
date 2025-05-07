@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "Unit 2900 Box 5949 DPO AA 80445",
+        "id": "wt840"
+    },
+    "invoice": {
+        "bc_no": "Go70188",
+        "currency_code": "PEN",
+        "date": "16.05.1991",
+        "due_date": "16.02.2012",
+        "number": 347657
+    },
+    "payment": {
+        "bank_name": "Barron, Hudson and Henry",
+        "bic": "BIVTGB5G",
+        "iban": "DLNM57210632146153"
+    },
+    "products": [
+        {
+            "amount": 329.74,
+            "description": "transition distributed architectures",
+            "index": "8",
+            "price": 149.96,
+            "quantity": 7.35,
+            "tax_amount": 84.89,
+            "total_ttc": 163.79,
+            "vat_amount": 1.84
+        },
+        {
+            "amount": 290.97,
+            "description": "strategize global systems",
+            "index": "6",
+            "price": 230.64,
+            "quantity": 9.77,
+            "tax_amount": 27.26,
+            "total_ttc": 401.99,
+            "vat_amount": 9.57
+        },
+        {
+            "amount": 436.9,
+            "description": "enhance plug-and-play e-markets",
+            "index": "7",
+            "price": 449.07,
+            "quantity": 4.6,
+            "tax_amount": 24.03,
+            "total_ttc": 238.05,
+            "vat_amount": 9.62
+        },
+        {
+            "amount": 309.39,
+            "description": "morph magnetic communities",
+            "index": "3",
+            "price": 14.31,
+            "quantity": 4.05,
+            "tax_amount": 55.55,
+            "total_ttc": 344.64,
+            "vat_amount": 7.41
+        },
+        {
+            "amount": 35.49,
+            "description": "revolutionize user-centric markets",
+            "index": "10",
+            "price": 435.44,
+            "quantity": 8.7,
+            "tax_amount": 86.86,
+            "total_ttc": 202.77,
+            "vat_amount": 1.98
+        }
+    ],
+    "seller": {
+        "name": "Jeffrey Sullivan MD"
+    },
+    "supplier": {
+        "address": "546 Diaz Park Apt. 587 West Margaret, HI 54301",
+        "name": "Tanya Campbell"
+    },
+    "tax": {
+        "amount_excluding_tax": 146.95,
+        "amount_including_tax": 168.56,
+        "tax_amount": 25.17,
+        "total_ht": 348.14,
+        "total_ttc": 382.48
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "25773 Todd Oval Suite 099 Christinafurt, MN 77287",
+        "email": "bbryant@example.org",
+        "phone": "+1-950-696-6328",
+        "vat_no": "ue43502772042"
+    },
+    "invoice": {
+        "date": "21.10.2019",
+        "due_date": "26.12.1990",
+        "market_reference": 421920,
+        "notes": "extend real-time action-items",
+        "number": "5340-7235",
+        "reference": 691362,
+        "vat_no": "IT58164841926"
+    },
+    "payment": {
+        "net_total": 52.91,
+        "total": 422.01
+    },
+    "products": [
+        {
+            "amount": 156.11,
+            "description": "strategize best-of-breed paradigms",
+            "hours": 3.36,
+            "rate": 3.72
+        },
+        {
+            "amount": 468.06,
+            "description": "brand real-time portals",
+            "hours": 9.32,
+            "rate": 3.3
+        },
+        {
+            "amount": 496.83,
+            "description": "benchmark best-of-breed vortals",
+            "hours": 3.38,
+            "rate": 1.18
+        },
+        {
+            "amount": 244.41,
+            "description": "morph dot-com solutions",
+            "hours": 6.66,
+            "rate": 4.59
+        }
+    ],
+    "seller": {
+        "address": "60068 Malone Mountains Apt. 419 Paulstad, HI 35668",
+        "email": "amandarussell@example.org",
+        "name": "Julie Stevens"
+    },
+    "tax": {
+        "base": 21.9,
+        "tax_amount": 20.51,
+        "total_tax": 24.8
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "454 Kennedy Junction East Scott, IL 21478",
+        "business_no": "VC073",
+        "id": "pU531"
+    },
+    "invoice": {
+        "date": "25.05.2018",
+        "number": "4473-6642"
+    },
+    "payment": {
+        "due_date": "02.01.2003",
+        "total": 266.02
+    },
+    "products": [
+        {
+            "amount": 108.78,
+            "description": "aggregate best-of-breed communities",
+            "quantity": 1.55,
+            "reference": "zD-801",
+            "unit_price": 29.17
+        }
+    ],
+    "seller": {
+        "address": "597 Guerra Groves Apt. 187 New Angela, CT 07350"
+    },
+    "tax": {
+        "base_ht": 246.26,
+        "regulations": 28.41,
+        "total_ht": 160.45,
+        "vat_amount": 40.48,
+        "vat_percentage": 20.59
+    }
+}

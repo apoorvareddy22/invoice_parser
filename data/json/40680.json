@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "10494 Adam Fields Apt. 578 South Rebecca, WA 46156"
+    },
+    "invoice": {
+        "bc_no": "RE71043",
+        "date": "15.09.2003",
+        "maturity_date": "18.10.2007",
+        "number": 603273
+    },
+    "products": [
+        {
+            "amount": 90.67,
+            "description": "implement global systems",
+            "quantity": 1.1,
+            "unit_price": 68.39,
+            "vat_amount": 9.03
+        }
+    ],
+    "seller": {
+        "address": "176 Sara Rapids Houseborough, DC 59109"
+    },
+    "tax": {
+        "amount_excluding_tax": 68.77,
+        "amount_including_tax": 30.64,
+        "tax_amount": 24.07
+    }
+}

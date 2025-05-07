@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "182 Sarah Mission Jenniferton, DE 94478",
+        "business_no": "tR500",
+        "id": "fp192"
+    },
+    "invoice": {
+        "date": "23.07.2000",
+        "number": "2812-4185"
+    },
+    "payment": {
+        "due_date": "10.11.2019",
+        "total": 492.21
+    },
+    "products": [
+        {
+            "amount": 362.89,
+            "description": "streamline bleeding-edge deliverables",
+            "quantity": 5.82,
+            "reference": "vy-014",
+            "unit_price": 90.13
+        },
+        {
+            "amount": 201.09,
+            "description": "revolutionize cutting-edge technologies",
+            "quantity": 7.48,
+            "reference": "Tm-772",
+            "unit_price": 68.02
+        },
+        {
+            "amount": 48.44,
+            "description": "generate plug-and-play channels",
+            "quantity": 9.17,
+            "reference": "Hp-087",
+            "unit_price": 99.42
+        },
+        {
+            "amount": 388.64,
+            "description": "incubate wireless partnerships",
+            "quantity": 4.32,
+            "reference": "cx-607",
+            "unit_price": 18.02
+        },
+        {
+            "amount": 25.01,
+            "description": "repurpose synergistic supply-chains",
+            "quantity": 3.1,
+            "reference": "bx-955",
+            "unit_price": 58.15
+        }
+    ],
+    "seller": {
+        "address": "4933 Newton Falls Mayershire, ME 77816"
+    },
+    "tax": {
+        "base_ht": 362.94,
+        "regulations": 27.8,
+        "total_ht": 476.06,
+        "vat_amount": 195.35,
+        "vat_percentage": 26.99
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "35095 Lewis Track Suite 073 East Tomton, FM 03976",
+        "email": "carol12@example.net",
+        "phone": "(756)693-5295",
+        "vat_no": "rA80469751143"
+    },
+    "invoice": {
+        "date": "10.06.1997",
+        "due_date": "24.08.1990",
+        "market_reference": 157417,
+        "notes": "synergize magnetic systems",
+        "number": "5323-4623",
+        "reference": 371817,
+        "vat_no": "eZ22732889244"
+    },
+    "payment": {
+        "net_total": 180.59,
+        "total": 270.31
+    },
+    "products": [
+        {
+            "amount": 274.16,
+            "description": "benchmark plug-and-play markets",
+            "hours": 4.65,
+            "rate": 4.38
+        },
+        {
+            "amount": 16.59,
+            "description": "synthesize ubiquitous e-commerce",
+            "hours": 2.41,
+            "rate": 1.06
+        },
+        {
+            "amount": 124.89,
+            "description": "monetize seamless architectures",
+            "hours": 9.87,
+            "rate": 7.04
+        },
+        {
+            "amount": 370.41,
+            "description": "mesh leading-edge deliverables",
+            "hours": 4.78,
+            "rate": 6.64
+        }
+    ],
+    "seller": {
+        "address": "482 Natalie Mall Matthewland, CA 75644",
+        "email": "gregory44@example.com",
+        "name": "John Smith"
+    },
+    "tax": {
+        "base": 22.78,
+        "tax_amount": 11.23,
+        "total_tax": 15.34
+    }
+}

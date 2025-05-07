@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "792 Wright Divide Apt. 907 Port Sheryl, NH 38631",
+        "email": "christian01@example.com",
+        "phone": "550.785.2969x488",
+        "vat_no": "QK82138916813"
+    },
+    "invoice": {
+        "date": "18.10.1996",
+        "due_date": "16.01.1990",
+        "market_reference": 391204,
+        "notes": "evolve virtual markets",
+        "number": "9785-4245",
+        "reference": 136905,
+        "vat_no": "vm33393733120"
+    },
+    "payment": {
+        "net_total": 55.16,
+        "total": 847.72
+    },
+    "products": [
+        {
+            "amount": 215.71,
+            "description": "grow e-business schemas",
+            "hours": 1.08,
+            "rate": 3.57
+        },
+        {
+            "amount": 155.85,
+            "description": "exploit proactive e-services",
+            "hours": 5.47,
+            "rate": 4.01
+        },
+        {
+            "amount": 330.63,
+            "description": "target clicks-and-mortar web-readiness",
+            "hours": 8.57,
+            "rate": 1.36
+        }
+    ],
+    "seller": {
+        "address": "19132 Larsen Village Apt. 695 Williamshaven, SC 49808",
+        "email": "walshangela@example.net",
+        "name": "Mr. Jeremiah Johnson Jr."
+    },
+    "tax": {
+        "base": 17.11,
+        "tax_amount": 18.94,
+        "total_tax": 26.64
+    }
+}

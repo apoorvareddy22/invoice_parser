@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "PSC 6145, Box 7768 APO AE 18812",
+        "id": "Bi554"
+    },
+    "invoice": {
+        "bc_no": "bE38437",
+        "currency_code": "RWF",
+        "date": "28.09.2005",
+        "due_date": "02.09.2006",
+        "number": 428991
+    },
+    "payment": {
+        "bank_name": "Campbell-Bush",
+        "bic": "YSZBGBBZMHD",
+        "iban": "PNQH08726144245010"
+    },
+    "products": [
+        {
+            "amount": 123.66,
+            "description": "embrace bleeding-edge content",
+            "index": "7",
+            "price": 217.04,
+            "quantity": 8.83,
+            "tax_amount": 49.68,
+            "total_ttc": 147.14,
+            "vat_amount": 5.61
+        },
+        {
+            "amount": 66.52,
+            "description": "incubate cross-platform web services",
+            "index": "10",
+            "price": 76.75,
+            "quantity": 3.98,
+            "tax_amount": 71.29,
+            "total_ttc": 213.92,
+            "vat_amount": 7.56
+        },
+        {
+            "amount": 215.85,
+            "description": "revolutionize world-class e-tailers",
+            "index": "1",
+            "price": 233.59,
+            "quantity": 9.62,
+            "tax_amount": 13.17,
+            "total_ttc": 341.31,
+            "vat_amount": 0.86
+        },
+        {
+            "amount": 384.62,
+            "description": "syndicate e-business bandwidth",
+            "index": "10",
+            "price": 484.77,
+            "quantity": 2.11,
+            "tax_amount": 86.69,
+            "total_ttc": 244.97,
+            "vat_amount": 4.1
+        },
+        {
+            "amount": 496.52,
+            "description": "visualize strategic deliverables",
+            "index": "6",
+            "price": 112.19,
+            "quantity": 3.03,
+            "tax_amount": 43.32,
+            "total_ttc": 341.87,
+            "vat_amount": 6.04
+        },
+        {
+            "amount": 151.17,
+            "description": "enhance open-source convergence",
+            "index": "8",
+            "price": 487.4,
+            "quantity": 2.3,
+            "tax_amount": 26.92,
+            "total_ttc": 484.97,
+            "vat_amount": 15.92
+        }
+    ],
+    "seller": {
+        "name": "Lauren Kent"
+    },
+    "supplier": {
+        "address": "847 Lisa Island Apt. 294 Joshuafurt, NY 14170",
+        "name": "Ashley Lowery"
+    },
+    "tax": {
+        "amount_excluding_tax": 157.18,
+        "amount_including_tax": 73.45,
+        "tax_amount": 17.14,
+        "total_ht": 433.3,
+        "total_ttc": 100.54
+    }
+}

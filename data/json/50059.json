@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "660 Mann Dale Suite 497 South Brianmouth, PA 42078",
+        "id": "NP680"
+    },
+    "invoice": {
+        "bc_no": "ic05035",
+        "currency_code": "NPR",
+        "date": "04.10.1992",
+        "due_date": "20.07.2009",
+        "number": 873205
+    },
+    "payment": {
+        "bank_name": "Mahoney-Thompson",
+        "bic": "GTDDGBIC",
+        "iban": "GNLK67954552707466"
+    },
+    "products": [
+        {
+            "amount": 201.49,
+            "description": "expedite bricks-and-clicks supply-chains",
+            "index": "9",
+            "price": 166.81,
+            "quantity": 3.76,
+            "tax_amount": 46.69,
+            "total_ttc": 201.78,
+            "vat_amount": 2.64
+        },
+        {
+            "amount": 470.57,
+            "description": "enable innovative models",
+            "index": "4",
+            "price": 278.95,
+            "quantity": 7.15,
+            "tax_amount": 11.0,
+            "total_ttc": 462.56,
+            "vat_amount": 6.35
+        },
+        {
+            "amount": 250.65,
+            "description": "leverage user-centric applications",
+            "index": "5",
+            "price": 455.82,
+            "quantity": 2.17,
+            "tax_amount": 29.01,
+            "total_ttc": 420.73,
+            "vat_amount": 6.0
+        }
+    ],
+    "seller": {
+        "name": "Kenneth Carpenter"
+    },
+    "supplier": {
+        "address": "767 James Circle Rodriguezport, WV 68826",
+        "name": "Elizabeth Ray"
+    },
+    "tax": {
+        "amount_excluding_tax": 194.67,
+        "amount_including_tax": 193.19,
+        "tax_amount": 16.65,
+        "total_ht": 461.69,
+        "total_ttc": 219.31
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "8281 Kristen Flat Apt. 305 East Michelefurt, CT 64062",
+        "business_no": "tc265",
+        "id": "oI898"
+    },
+    "invoice": {
+        "date": "20.10.2020",
+        "number": "5459-6149"
+    },
+    "payment": {
+        "due_date": "16.05.1996",
+        "total": 234.35
+    },
+    "products": [
+        {
+            "amount": 409.23,
+            "description": "seize bleeding-edge e-tailers",
+            "quantity": 2.32,
+            "reference": "Ik-059",
+            "unit_price": 60.72
+        },
+        {
+            "amount": 354.34,
+            "description": "brand revolutionary methodologies",
+            "quantity": 3.68,
+            "reference": "MH-219",
+            "unit_price": 99.61
+        }
+    ],
+    "seller": {
+        "address": "56814 Angela Ways Allisonmouth, MT 02292"
+    },
+    "tax": {
+        "base_ht": 311.09,
+        "regulations": 25.79,
+        "total_ht": 193.48,
+        "vat_amount": 96.97,
+        "vat_percentage": 21.88
+    }
+}

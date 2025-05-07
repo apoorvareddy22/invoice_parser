@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "403 Austin Plaza South Nathanburgh, TN 47224",
+        "id": "Cd934"
+    },
+    "invoice": {
+        "bc_no": "Hu06652",
+        "currency_code": "RWF",
+        "date": "28.01.2002",
+        "due_date": "01.05.1998",
+        "number": 997621
+    },
+    "payment": {
+        "bank_name": "Green-Prince",
+        "bic": "SPKFGBDT8DH",
+        "iban": "FXGR54401506277297"
+    },
+    "products": [
+        {
+            "amount": 29.91,
+            "description": "seize world-class models",
+            "index": "5",
+            "price": 404.95,
+            "quantity": 9.62,
+            "tax_amount": 27.39,
+            "total_ttc": 430.14,
+            "vat_amount": 11.74
+        },
+        {
+            "amount": 44.66,
+            "description": "embrace 24/365 deliverables",
+            "index": "1",
+            "price": 271.39,
+            "quantity": 3.9,
+            "tax_amount": 29.34,
+            "total_ttc": 371.31,
+            "vat_amount": 6.14
+        },
+        {
+            "amount": 408.93,
+            "description": "embrace strategic methodologies",
+            "index": "2",
+            "price": 93.65,
+            "quantity": 3.42,
+            "tax_amount": 58.79,
+            "total_ttc": 381.52,
+            "vat_amount": 7.59
+        },
+        {
+            "amount": 216.1,
+            "description": "envisioneer visionary schemas",
+            "index": "5",
+            "price": 114.22,
+            "quantity": 2.33,
+            "tax_amount": 33.09,
+            "total_ttc": 139.98,
+            "vat_amount": 11.37
+        }
+    ],
+    "seller": {
+        "name": "Cristian Santiago"
+    },
+    "supplier": {
+        "address": "2165 Matthew Skyway Suite 991 Port Steven, IN 84363",
+        "name": "Patricia Carter"
+    },
+    "tax": {
+        "amount_excluding_tax": 48.88,
+        "amount_including_tax": 150.82,
+        "tax_amount": 21.71,
+        "total_ht": 120.75,
+        "total_ttc": 236.14
+    }
+}

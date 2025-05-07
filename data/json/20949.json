@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "5865 Thomas Parkway Apt. 458 Port Danielbury, KY 59642",
+        "company_name": "Turner-Gibson",
+        "email": "karen07@example.net",
+        "name": "Stephen Ali",
+        "phone": "887.373.3632x355"
+    },
+    "invoice": {
+        "date": "27.11.1997",
+        "due_date": "30.12.2003",
+        "number": "Wxc80478524262"
+    },
+    "payment": {
+        "account_number": 2336169552,
+        "bank_name": "Williams Group",
+        "routing_number": 231424833
+    },
+    "products": [
+        {
+            "amount": 350.45,
+            "description": "architect one-to-one deliverables",
+            "index": "9",
+            "quantity": 9.75,
+            "unit_price": 27.26
+        },
+        {
+            "amount": 22.36,
+            "description": "harness seamless systems",
+            "index": "8",
+            "quantity": 2.23,
+            "unit_price": 61.52
+        }
+    ],
+    "seller": {
+        "address": "374 Justin Light Suite 964 West Jasonville, MH 71657",
+        "company_name": "Garrett-Hernandez",
+        "email": "navarrokaren@example.com"
+    }
+}

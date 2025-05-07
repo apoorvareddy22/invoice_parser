@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "274 Mendoza Mission New Adam, IN 06072",
+        "email": "megan43@example.org",
+        "phone": "493-507-9143x194",
+        "vat_no": "OW47269422276"
+    },
+    "invoice": {
+        "date": "24.06.1998",
+        "due_date": "21.03.1995",
+        "market_reference": 166025,
+        "notes": "envisioneer B2C initiatives",
+        "number": "4536-1345",
+        "reference": 966356,
+        "vat_no": "xD98828187969"
+    },
+    "payment": {
+        "net_total": 111.71,
+        "total": 601.35
+    },
+    "products": [
+        {
+            "amount": 338.04,
+            "description": "benchmark dot-com functionalities",
+            "hours": 8.7,
+            "rate": 5.2
+        },
+        {
+            "amount": 371.41,
+            "description": "enable sticky interfaces",
+            "hours": 9.54,
+            "rate": 5.14
+        }
+    ],
+    "seller": {
+        "address": "257 Benjamin Crest Apt. 035 East Jeromemouth, MP 42443",
+        "email": "alexandercaitlin@example.com",
+        "name": "Kaitlyn Wright"
+    },
+    "tax": {
+        "base": 15.98,
+        "tax_amount": 22.04,
+        "total_tax": 24.91
+    }
+}

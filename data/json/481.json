@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "Unit 7190 Box 8602 DPO AA 54667",
+        "company_name": "Myers-Rodriguez",
+        "country": "Moldova",
+        "name": "Daniel Rosario"
+    },
+    "invoice": {
+        "date": "02.11.2020",
+        "number": 757460
+    },
+    "payment": {
+        "discount_amount": 21.61,
+        "discount_percentage": 6.91,
+        "due": 121.21,
+        "sub_total": 120.84,
+        "total": 284.65
+    },
+    "products": [
+        {
+            "description": "aggregate synergistic e-business",
+            "index": "6",
+            "quantity": 4.76,
+            "total_price": 509.88,
+            "unit_price": 33.89
+        },
+        {
+            "description": "implement mission-critical functionalities",
+            "index": "2",
+            "quantity": 3.89,
+            "total_price": 797.36,
+            "unit_price": 54.89
+        },
+        {
+            "description": "e-enable dot-com e-services",
+            "index": "5",
+            "quantity": 8.96,
+            "total_price": 102.74,
+            "unit_price": 57.13
+        },
+        {
+            "description": "enhance cutting-edge niches",
+            "index": "9",
+            "quantity": 6.56,
+            "total_price": 825.31,
+            "unit_price": 48.52
+        }
+    ],
+    "seller": {
+        "address": "5065 Michael Tunnel North Alejandra, NV 83470",
+        "company_name": "Barrera Inc",
+        "vat_no": "Ps21021142064"
+    }
+}

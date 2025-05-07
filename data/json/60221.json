@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "384 Lewis Station Suite 707 Ellisonberg, AR 39756",
+        "business_no": "RB325",
+        "id": "Jn500"
+    },
+    "invoice": {
+        "date": "27.08.2017",
+        "number": "7422-0084"
+    },
+    "payment": {
+        "due_date": "09.07.2005",
+        "total": 743.81
+    },
+    "products": [
+        {
+            "amount": 99.87,
+            "description": "envisioneer plug-and-play systems",
+            "quantity": 3.93,
+            "reference": "MN-416",
+            "unit_price": 23.96
+        },
+        {
+            "amount": 46.95,
+            "description": "engineer value-added convergence",
+            "quantity": 3.95,
+            "reference": "uL-326",
+            "unit_price": 80.45
+        },
+        {
+            "amount": 53.13,
+            "description": "deliver mission-critical schemas",
+            "quantity": 9.11,
+            "reference": "jm-922",
+            "unit_price": 28.96
+        }
+    ],
+    "seller": {
+        "address": "Unit 8706 Box 0464 DPO AE 45791"
+    },
+    "tax": {
+        "base_ht": 207.46,
+        "regulations": 25.66,
+        "total_ht": 364.41,
+        "vat_amount": 63.63,
+        "vat_percentage": 14.96
+    }
+}

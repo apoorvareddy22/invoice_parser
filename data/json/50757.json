@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "30358 Lynch Garden Robertochester, AR 01427",
+        "id": "oN777"
+    },
+    "invoice": {
+        "bc_no": "NX12278",
+        "currency_code": "GNF",
+        "date": "20.03.1994",
+        "due_date": "25.05.2004",
+        "number": 111737
+    },
+    "payment": {
+        "bank_name": "Myers, Thompson and Mitchell",
+        "bic": "RRQQGBK0DY0",
+        "iban": "OQYX01420116405083"
+    },
+    "products": [
+        {
+            "amount": 276.56,
+            "description": "morph global web-readiness",
+            "index": "6",
+            "price": 457.7,
+            "quantity": 2.5,
+            "tax_amount": 49.6,
+            "total_ttc": 281.63,
+            "vat_amount": 10.77
+        },
+        {
+            "amount": 405.4,
+            "description": "revolutionize cross-platform e-business",
+            "index": "4",
+            "price": 419.48,
+            "quantity": 5.99,
+            "tax_amount": 82.9,
+            "total_ttc": 476.96,
+            "vat_amount": 3.18
+        }
+    ],
+    "seller": {
+        "name": "Robert Hoover"
+    },
+    "supplier": {
+        "address": "32311 Silva Divide South Kelly, WY 81650",
+        "name": "Rebecca Boyd"
+    },
+    "tax": {
+        "amount_excluding_tax": 195.48,
+        "amount_including_tax": 184.34,
+        "tax_amount": 22.87,
+        "total_ht": 340.93,
+        "total_ttc": 256.12
+    }
+}

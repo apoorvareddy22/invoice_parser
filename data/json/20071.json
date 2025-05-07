@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "393 Cummings Creek Apt. 279 Caseyberg, TX 14402",
+        "company_name": "Lee and Sons",
+        "email": "porterlaura@example.net",
+        "name": "Cindy Walker",
+        "phone": "395-540-6970"
+    },
+    "invoice": {
+        "date": "11.12.2014",
+        "due_date": "15.09.2013",
+        "number": "Iea23135606646"
+    },
+    "payment": {
+        "account_number": 6848612543,
+        "bank_name": "Barrett and Sons",
+        "routing_number": 937314851
+    },
+    "products": [
+        {
+            "amount": 279.16,
+            "description": "envisioneer ubiquitous relationships",
+            "index": "8",
+            "quantity": 9.99,
+            "unit_price": 75.08
+        },
+        {
+            "amount": 8.42,
+            "description": "re-contextualize enterprise eyeballs",
+            "index": "2",
+            "quantity": 3.34,
+            "unit_price": 63.96
+        },
+        {
+            "amount": 181.35,
+            "description": "revolutionize dynamic schemas",
+            "index": "3",
+            "quantity": 3.7,
+            "unit_price": 88.13
+        },
+        {
+            "amount": 344.58,
+            "description": "cultivate 24/7 info-mediaries",
+            "index": "10",
+            "quantity": 1.69,
+            "unit_price": 50.63
+        },
+        {
+            "amount": 435.26,
+            "description": "optimize real-time users",
+            "index": "6",
+            "quantity": 1.88,
+            "unit_price": 92.08
+        }
+    ],
+    "seller": {
+        "address": "06150 Gonzalez Forge Apt. 595 Jessicatown, MH 20832",
+        "company_name": "Snyder, Hall and Allen",
+        "email": "juancollins@example.com"
+    }
+}

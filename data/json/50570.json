@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "08607 Sanchez Park Suite 112 Port Connor, CT 10473",
+        "id": "fX550"
+    },
+    "invoice": {
+        "bc_no": "bw87432",
+        "currency_code": "SHP",
+        "date": "03.08.2007",
+        "due_date": "02.04.1995",
+        "number": 672038
+    },
+    "payment": {
+        "bank_name": "Lewis-Miller",
+        "bic": "JCJDGBO0",
+        "iban": "RYZC64344233704871"
+    },
+    "products": [
+        {
+            "amount": 21.01,
+            "description": "deploy front-end bandwidth",
+            "index": "6",
+            "price": 92.06,
+            "quantity": 4.64,
+            "tax_amount": 81.1,
+            "total_ttc": 389.54,
+            "vat_amount": 3.68
+        },
+        {
+            "amount": 48.06,
+            "description": "re-contextualize seamless schemas",
+            "index": "3",
+            "price": 208.91,
+            "quantity": 2.28,
+            "tax_amount": 89.83,
+            "total_ttc": 241.34,
+            "vat_amount": 3.92
+        },
+        {
+            "amount": 256.75,
+            "description": "enhance synergistic info-mediaries",
+            "index": "7",
+            "price": 84.44,
+            "quantity": 4.73,
+            "tax_amount": 43.93,
+            "total_ttc": 414.27,
+            "vat_amount": 5.13
+        },
+        {
+            "amount": 223.43,
+            "description": "grow proactive systems",
+            "index": "7",
+            "price": 405.84,
+            "quantity": 3.03,
+            "tax_amount": 81.39,
+            "total_ttc": 246.75,
+            "vat_amount": 4.71
+        },
+        {
+            "amount": 168.59,
+            "description": "synergize transparent interfaces",
+            "index": "2",
+            "price": 389.0,
+            "quantity": 4.58,
+            "tax_amount": 37.18,
+            "total_ttc": 224.39,
+            "vat_amount": 3.08
+        },
+        {
+            "amount": 155.31,
+            "description": "facilitate plug-and-play communities",
+            "index": "1",
+            "price": 452.64,
+            "quantity": 1.05,
+            "tax_amount": 91.69,
+            "total_ttc": 405.61,
+            "vat_amount": 1.88
+        }
+    ],
+    "seller": {
+        "name": "Danielle Deleon"
+    },
+    "supplier": {
+        "address": "1932 Victoria Valleys Suite 094 Belindaside, PR 77268",
+        "name": "Angela Watson"
+    },
+    "tax": {
+        "amount_excluding_tax": 85.01,
+        "amount_including_tax": 160.37,
+        "tax_amount": 27.15,
+        "total_ht": 385.49,
+        "total_ttc": 435.89
+    }
+}

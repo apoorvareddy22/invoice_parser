@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "72695 Thomas Rue Suite 133 Maxwellton, MA 52729",
+        "id": "KM733"
+    },
+    "invoice": {
+        "bc_no": "iw00212",
+        "currency_code": "IDR",
+        "date": "25.11.1993",
+        "due_date": "07.03.2005",
+        "number": 702229
+    },
+    "payment": {
+        "bank_name": "Donovan-Bauer",
+        "bic": "XPVRGBC8",
+        "iban": "LHUX41866930898554"
+    },
+    "products": [
+        {
+            "amount": 9.62,
+            "description": "enhance bleeding-edge e-services",
+            "index": "4",
+            "price": 120.73,
+            "quantity": 1.7,
+            "tax_amount": 78.65,
+            "total_ttc": 306.82,
+            "vat_amount": 7.59
+        },
+        {
+            "amount": 83.67,
+            "description": "grow back-end experiences",
+            "index": "2",
+            "price": 116.77,
+            "quantity": 6.41,
+            "tax_amount": 76.58,
+            "total_ttc": 343.83,
+            "vat_amount": 6.98
+        }
+    ],
+    "seller": {
+        "name": "Lori Williams"
+    },
+    "supplier": {
+        "address": "13385 Benjamin Stream Suite 432 Harrisshire, PW 26817",
+        "name": "Susan Matthews"
+    },
+    "tax": {
+        "amount_excluding_tax": 39.07,
+        "amount_including_tax": 199.99,
+        "tax_amount": 27.89,
+        "total_ht": 108.33,
+        "total_ttc": 451.58
+    }
+}

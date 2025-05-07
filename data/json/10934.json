@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "4413 Vazquez Bypass East Theresa, HI 27332",
+        "email": "pmcfarland@example.org",
+        "phone": "001-710-208-1122x46843",
+        "vat_no": "KV08596381253"
+    },
+    "invoice": {
+        "date": "28.06.2016",
+        "due_date": "27.08.2009",
+        "market_reference": 126534,
+        "notes": "strategize enterprise relationships",
+        "number": "6385-2787",
+        "reference": 855541,
+        "vat_no": "Fb41121676109"
+    },
+    "payment": {
+        "net_total": 175.81,
+        "total": 233.06
+    },
+    "products": [
+        {
+            "amount": 272.55,
+            "description": "synthesize killer systems",
+            "hours": 9.72,
+            "rate": 2.52
+        },
+        {
+            "amount": 313.32,
+            "description": "morph collaborative web-readiness",
+            "hours": 7.48,
+            "rate": 2.39
+        }
+    ],
+    "seller": {
+        "address": "880 Rogers Keys Suite 559 Christinatown, DC 47510",
+        "email": "caitlinrodriguez@example.com",
+        "name": "Nicholas Lane"
+    },
+    "tax": {
+        "base": 28.64,
+        "tax_amount": 26.78,
+        "total_tax": 25.73
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "474 Shannon Land Tapiashire, WA 63636",
+        "id": "fH678"
+    },
+    "invoice": {
+        "bc_no": "Jn69925",
+        "currency_code": "UYU",
+        "date": "06.07.2015",
+        "due_date": "05.08.1990",
+        "number": 932289
+    },
+    "payment": {
+        "bank_name": "Rodriguez, Conley and White",
+        "bic": "KHSJGBRE",
+        "iban": "VOKV92571908555198"
+    },
+    "products": [
+        {
+            "amount": 48.22,
+            "description": "reinvent user-centric supply-chains",
+            "index": "1",
+            "price": 227.13,
+            "quantity": 8.0,
+            "tax_amount": 73.3,
+            "total_ttc": 376.68,
+            "vat_amount": 13.16
+        },
+        {
+            "amount": 208.15,
+            "description": "repurpose integrated niches",
+            "index": "5",
+            "price": 275.17,
+            "quantity": 8.14,
+            "tax_amount": 51.42,
+            "total_ttc": 156.55,
+            "vat_amount": 1.54
+        },
+        {
+            "amount": 302.2,
+            "description": "architect back-end platforms",
+            "index": "7",
+            "price": 38.36,
+            "quantity": 7.98,
+            "tax_amount": 65.61,
+            "total_ttc": 297.42,
+            "vat_amount": 5.46
+        },
+        {
+            "amount": 235.95,
+            "description": "monetize wireless web-readiness",
+            "index": "9",
+            "price": 293.33,
+            "quantity": 9.63,
+            "tax_amount": 32.01,
+            "total_ttc": 191.48,
+            "vat_amount": 1.86
+        },
+        {
+            "amount": 291.83,
+            "description": "productize end-to-end web-readiness",
+            "index": "9",
+            "price": 306.98,
+            "quantity": 5.71,
+            "tax_amount": 11.69,
+            "total_ttc": 255.52,
+            "vat_amount": 4.19
+        }
+    ],
+    "seller": {
+        "name": "Ashley Harris"
+    },
+    "supplier": {
+        "address": "139 Rachel Bridge New Chad, NJ 65194",
+        "name": "Maria Moses"
+    },
+    "tax": {
+        "amount_excluding_tax": 68.57,
+        "amount_including_tax": 185.92,
+        "tax_amount": 27.13,
+        "total_ht": 168.91,
+        "total_ttc": 468.71
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "220 Erik Club Suite 284 South Robert, VT 13347",
+        "company_name": "Fuller Ltd",
+        "email": "nancyewing@example.org",
+        "name": "John Coffey",
+        "phone": "(291)451-1975x762"
+    },
+    "invoice": {
+        "date": "23.12.2012",
+        "due_date": "28.04.1995",
+        "number": "uAb55135426903"
+    },
+    "payment": {
+        "account_number": 5197457072,
+        "bank_name": "Frye Ltd",
+        "routing_number": 701636314
+    },
+    "products": [
+        {
+            "amount": 115.38,
+            "description": "aggregate clicks-and-mortar ROI",
+            "index": "4",
+            "quantity": 5.08,
+            "unit_price": 55.44
+        }
+    ],
+    "seller": {
+        "address": "4703 Sarah Via Michaelmouth, AR 77352",
+        "company_name": "Harris Group",
+        "email": "mike27@example.net"
+    }
+}

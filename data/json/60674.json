@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "643 Thomas Village Carriemouth, IA 13220",
+        "business_no": "Vi609",
+        "id": "Mn969"
+    },
+    "invoice": {
+        "date": "26.08.1994",
+        "number": "6740-5899"
+    },
+    "payment": {
+        "due_date": "18.10.2002",
+        "total": 784.01
+    },
+    "products": [
+        {
+            "amount": 311.01,
+            "description": "enable sticky schemas",
+            "quantity": 8.75,
+            "reference": "kl-175",
+            "unit_price": 95.89
+        },
+        {
+            "amount": 497.29,
+            "description": "brand seamless networks",
+            "quantity": 7.58,
+            "reference": "Ks-120",
+            "unit_price": 91.91
+        }
+    ],
+    "seller": {
+        "address": "1373 Miller Union Suite 322 New Jeffland, WA 58510"
+    },
+    "tax": {
+        "base_ht": 259.73,
+        "regulations": 17.35,
+        "total_ht": 479.72,
+        "vat_amount": 74.34,
+        "vat_percentage": 13.01
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "PSC 1711, Box 0419 APO AP 84152",
+        "id": "kC774"
+    },
+    "invoice": {
+        "bc_no": "St68335",
+        "currency_code": "GEL",
+        "date": "16.04.2022",
+        "due_date": "03.12.1999",
+        "number": 689119
+    },
+    "payment": {
+        "bank_name": "Higgins, Williams and Crawford",
+        "bic": "HVPFGBX7",
+        "iban": "XFTZ29778276544803"
+    },
+    "products": [
+        {
+            "amount": 77.1,
+            "description": "empower rich markets",
+            "index": "3",
+            "price": 142.39,
+            "quantity": 5.26,
+            "tax_amount": 73.66,
+            "total_ttc": 289.48,
+            "vat_amount": 1.93
+        },
+        {
+            "amount": 198.94,
+            "description": "syndicate next-generation web-readiness",
+            "index": "1",
+            "price": 184.64,
+            "quantity": 4.15,
+            "tax_amount": 93.08,
+            "total_ttc": 439.39,
+            "vat_amount": 7.07
+        },
+        {
+            "amount": 472.37,
+            "description": "evolve global convergence",
+            "index": "5",
+            "price": 157.5,
+            "quantity": 6.33,
+            "tax_amount": 66.05,
+            "total_ttc": 424.29,
+            "vat_amount": 1.14
+        },
+        {
+            "amount": 49.96,
+            "description": "deliver enterprise e-markets",
+            "index": "7",
+            "price": 205.6,
+            "quantity": 9.82,
+            "tax_amount": 96.76,
+            "total_ttc": 115.09,
+            "vat_amount": 2.04
+        },
+        {
+            "amount": 272.01,
+            "description": "exploit ubiquitous platforms",
+            "index": "2",
+            "price": 482.3,
+            "quantity": 2.33,
+            "tax_amount": 91.12,
+            "total_ttc": 474.73,
+            "vat_amount": 4.74
+        }
+    ],
+    "seller": {
+        "name": "Laura Fuller"
+    },
+    "supplier": {
+        "address": "50693 Dunn Court Hollandfort, VT 83098",
+        "name": "Sheila Edwards"
+    },
+    "tax": {
+        "amount_excluding_tax": 170.91,
+        "amount_including_tax": 93.07,
+        "tax_amount": 29.94,
+        "total_ht": 354.67,
+        "total_ttc": 241.17
+    }
+}

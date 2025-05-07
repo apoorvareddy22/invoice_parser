@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "90966 Snyder Rue Dustinport, DC 75844",
+        "id": "vs487"
+    },
+    "invoice": {
+        "bc_no": "im33340",
+        "currency_code": "UAH",
+        "date": "28.06.2013",
+        "due_date": "17.04.2023",
+        "number": 814392
+    },
+    "payment": {
+        "bank_name": "White LLC",
+        "bic": "XNRQGBVO6X9",
+        "iban": "EQMD29668539634953"
+    },
+    "products": [
+        {
+            "amount": 441.69,
+            "description": "transform leading-edge info-mediaries",
+            "index": "4",
+            "price": 58.42,
+            "quantity": 5.21,
+            "tax_amount": 92.33,
+            "total_ttc": 404.68,
+            "vat_amount": 7.32
+        },
+        {
+            "amount": 193.26,
+            "description": "expedite sticky e-markets",
+            "index": "1",
+            "price": 101.76,
+            "quantity": 9.08,
+            "tax_amount": 78.42,
+            "total_ttc": 447.8,
+            "vat_amount": 6.98
+        },
+        {
+            "amount": 365.76,
+            "description": "re-contextualize compelling experiences",
+            "index": "7",
+            "price": 284.38,
+            "quantity": 9.93,
+            "tax_amount": 87.26,
+            "total_ttc": 303.96,
+            "vat_amount": 10.33
+        },
+        {
+            "amount": 157.38,
+            "description": "envisioneer web-enabled architectures",
+            "index": "8",
+            "price": 469.91,
+            "quantity": 4.31,
+            "tax_amount": 14.79,
+            "total_ttc": 326.66,
+            "vat_amount": 4.25
+        },
+        {
+            "amount": 241.7,
+            "description": "disintermediate next-generation experiences",
+            "index": "5",
+            "price": 176.7,
+            "quantity": 3.59,
+            "tax_amount": 34.35,
+            "total_ttc": 292.15,
+            "vat_amount": 15.95
+        },
+        {
+            "amount": 132.06,
+            "description": "matrix holistic networks",
+            "index": "1",
+            "price": 455.97,
+            "quantity": 5.36,
+            "tax_amount": 11.3,
+            "total_ttc": 152.66,
+            "vat_amount": 4.31
+        }
+    ],
+    "seller": {
+        "name": "Robert Smith"
+    },
+    "supplier": {
+        "address": "457 Barnes Ranch West Jennifershire, NC 77335",
+        "name": "Michael Watkins"
+    },
+    "tax": {
+        "amount_excluding_tax": 37.71,
+        "amount_including_tax": 67.24,
+        "tax_amount": 20.42,
+        "total_ht": 284.7,
+        "total_ttc": 202.12
+    }
+}

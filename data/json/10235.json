@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "0571 Alexander Parks Apt. 925 Port Steven, NM 68703",
+        "email": "donald91@example.net",
+        "phone": "+1-278-758-1707",
+        "vat_no": "ZU71789381962"
+    },
+    "invoice": {
+        "date": "10.09.2007",
+        "due_date": "25.04.1998",
+        "market_reference": 931648,
+        "notes": "morph proactive convergence",
+        "number": "9143-1392",
+        "reference": 605646,
+        "vat_no": "Il70163104667"
+    },
+    "payment": {
+        "net_total": 150.3,
+        "total": 247.44
+    },
+    "products": [
+        {
+            "amount": 33.87,
+            "description": "facilitate integrated e-tailers",
+            "hours": 1.75,
+            "rate": 9.76
+        },
+        {
+            "amount": 150.91,
+            "description": "cultivate best-of-breed communities",
+            "hours": 2.11,
+            "rate": 2.45
+        },
+        {
+            "amount": 441.53,
+            "description": "streamline B2C content",
+            "hours": 4.07,
+            "rate": 9.75
+        },
+        {
+            "amount": 386.08,
+            "description": "re-intermediate user-centric architectures",
+            "hours": 5.36,
+            "rate": 4.61
+        }
+    ],
+    "seller": {
+        "address": "159 Robert Common Apt. 129 West Jefferytown, CO 91611",
+        "email": "thorntondawn@example.org",
+        "name": "Tina Mitchell"
+    },
+    "tax": {
+        "base": 17.92,
+        "tax_amount": 21.99,
+        "total_tax": 29.66
+    }
+}

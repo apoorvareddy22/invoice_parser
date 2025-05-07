@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "43264 Amanda Cove Apt. 016 Susanfort, SC 26762",
+        "company_name": "Lawson Inc",
+        "country": "Serbia",
+        "name": "Justin Johnson"
+    },
+    "invoice": {
+        "date": "07.08.2015",
+        "number": 748997
+    },
+    "payment": {
+        "discount_amount": 21.58,
+        "discount_percentage": 19.82,
+        "due": 27.94,
+        "sub_total": 142.69,
+        "total": 634.21
+    },
+    "products": [
+        {
+            "description": "matrix 24/7 eyeballs",
+            "index": "7",
+            "quantity": 3.92,
+            "total_price": 731.93,
+            "unit_price": 40.13
+        }
+    ],
+    "seller": {
+        "address": "29398 Patel Tunnel East Scott, MD 40143",
+        "company_name": "Smith-Hernandez",
+        "vat_no": "XE78833582020"
+    }
+}

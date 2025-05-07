@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "3694 Wise Squares South Franktown, VI 30954",
+        "email": "samanthalee@example.org",
+        "phone": "(971)615-0808x749",
+        "vat_no": "xV62035296542"
+    },
+    "invoice": {
+        "date": "30.08.2014",
+        "due_date": "02.04.2022",
+        "market_reference": 245424,
+        "notes": "unleash robust web-readiness",
+        "number": "1591-1948",
+        "reference": 303602,
+        "vat_no": "Fm55377089088"
+    },
+    "payment": {
+        "net_total": 104.13,
+        "total": 990.08
+    },
+    "products": [
+        {
+            "amount": 42.07,
+            "description": "redefine scalable web-readiness",
+            "hours": 4.37,
+            "rate": 5.39
+        },
+        {
+            "amount": 354.72,
+            "description": "redefine interactive e-tailers",
+            "hours": 2.04,
+            "rate": 8.3
+        },
+        {
+            "amount": 225.97,
+            "description": "disintermediate e-business relationships",
+            "hours": 3.37,
+            "rate": 9.0
+        },
+        {
+            "amount": 491.57,
+            "description": "transform visionary ROI",
+            "hours": 4.8,
+            "rate": 1.37
+        },
+        {
+            "amount": 254.32,
+            "description": "drive holistic web-readiness",
+            "hours": 3.45,
+            "rate": 2.7
+        },
+        {
+            "amount": 436.26,
+            "description": "redefine B2B portals",
+            "hours": 6.06,
+            "rate": 1.46
+        },
+        {
+            "amount": 272.33,
+            "description": "drive vertical metrics",
+            "hours": 9.12,
+            "rate": 9.5
+        }
+    ],
+    "seller": {
+        "address": "26610 Shannon Radial Jeffreymouth, NH 71680",
+        "email": "hopkinsdenise@example.net",
+        "name": "Megan Montgomery"
+    },
+    "tax": {
+        "base": 14.67,
+        "tax_amount": 21.54,
+        "total_tax": 20.8
+    }
+}

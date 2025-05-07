@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "15445 Garcia Lake Suite 290 Patrickville, NC 15616",
+        "business_no": "TU262",
+        "id": "kT272"
+    },
+    "invoice": {
+        "date": "27.08.1996",
+        "number": "9961-7518"
+    },
+    "payment": {
+        "due_date": "18.09.1996",
+        "total": 802.67
+    },
+    "products": [
+        {
+            "amount": 37.22,
+            "description": "expedite distributed e-commerce",
+            "quantity": 8.2,
+            "reference": "MF-718",
+            "unit_price": 52.74
+        },
+        {
+            "amount": 230.87,
+            "description": "re-contextualize real-time e-business",
+            "quantity": 5.54,
+            "reference": "ms-652",
+            "unit_price": 83.07
+        }
+    ],
+    "seller": {
+        "address": "97717 Webb Pine North William, IA 65980"
+    },
+    "tax": {
+        "base_ht": 247.58,
+        "regulations": 15.96,
+        "total_ht": 343.38,
+        "vat_amount": 139.81,
+        "vat_percentage": 10.07
+    }
+}

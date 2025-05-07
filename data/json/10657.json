@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "1047 Erika Plaza Apt. 216 Victoriachester, MI 07518",
+        "email": "kimleah@example.com",
+        "phone": "(703)825-9584x7089",
+        "vat_no": "bq42394395983"
+    },
+    "invoice": {
+        "date": "15.03.2006",
+        "due_date": "17.03.2020",
+        "market_reference": 529743,
+        "notes": "syndicate magnetic solutions",
+        "number": "2801-6939",
+        "reference": 658895,
+        "vat_no": "zE21431385471"
+    },
+    "payment": {
+        "net_total": 64.08,
+        "total": 901.05
+    },
+    "products": [
+        {
+            "amount": 485.11,
+            "description": "reinvent sticky systems",
+            "hours": 2.3,
+            "rate": 7.76
+        },
+        {
+            "amount": 169.21,
+            "description": "deploy back-end paradigms",
+            "hours": 6.54,
+            "rate": 8.1
+        },
+        {
+            "amount": 176.38,
+            "description": "incentivize ubiquitous relationships",
+            "hours": 2.29,
+            "rate": 7.84
+        },
+        {
+            "amount": 342.41,
+            "description": "reinvent innovative interfaces",
+            "hours": 3.4,
+            "rate": 2.6
+        },
+        {
+            "amount": 182.37,
+            "description": "innovate wireless e-markets",
+            "hours": 3.61,
+            "rate": 6.41
+        }
+    ],
+    "seller": {
+        "address": "18073 Brandon Gateway Apt. 021 Johnsonborough, MD 09968",
+        "email": "matthew07@example.com",
+        "name": "Amanda Bryan"
+    },
+    "tax": {
+        "base": 11.15,
+        "tax_amount": 15.72,
+        "total_tax": 24.22
+    }
+}

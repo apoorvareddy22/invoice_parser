@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "0306 Sarah Parks Suite 066 South Harold, MP 52769",
+        "email": "petersdaniel@example.com",
+        "phone": "255.582.2696x9074",
+        "vat_no": "WV42799670812"
+    },
+    "invoice": {
+        "date": "09.05.2001",
+        "due_date": "19.02.2020",
+        "market_reference": 191741,
+        "notes": "harness clicks-and-mortar interfaces",
+        "number": "3944-2873",
+        "reference": 142371,
+        "vat_no": "Ht43199594862"
+    },
+    "payment": {
+        "net_total": 137.33,
+        "total": 120.5
+    },
+    "products": [
+        {
+            "amount": 89.9,
+            "description": "exploit enterprise vortals",
+            "hours": 2.97,
+            "rate": 4.93
+        },
+        {
+            "amount": 494.15,
+            "description": "orchestrate real-time action-items",
+            "hours": 4.02,
+            "rate": 1.01
+        },
+        {
+            "amount": 482.08,
+            "description": "unleash seamless e-markets",
+            "hours": 7.92,
+            "rate": 9.69
+        },
+        {
+            "amount": 6.01,
+            "description": "strategize revolutionary platforms",
+            "hours": 6.1,
+            "rate": 1.53
+        }
+    ],
+    "seller": {
+        "address": "6622 Scott Mall Port Peterstad, WA 44515",
+        "email": "jmorris@example.net",
+        "name": "Jeremy Campbell"
+    },
+    "tax": {
+        "base": 20.82,
+        "tax_amount": 10.97,
+        "total_tax": 25.6
+    }
+}

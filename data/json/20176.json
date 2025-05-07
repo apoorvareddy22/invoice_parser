@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "499 Bush Corner Apt. 851 New Benjamin, TX 51135",
+        "company_name": "Hayden PLC",
+        "email": "sharonparker@example.net",
+        "name": "John Mcbride",
+        "phone": "9164852041"
+    },
+    "invoice": {
+        "date": "14.10.2019",
+        "due_date": "06.08.1997",
+        "number": "Kin73009976956"
+    },
+    "payment": {
+        "account_number": 1534607319,
+        "bank_name": "Salazar, Cunningham and Walsh",
+        "routing_number": 726461123
+    },
+    "products": [
+        {
+            "amount": 80.02,
+            "description": "reinvent transparent content",
+            "index": "4",
+            "quantity": 2.26,
+            "unit_price": 99.24
+        }
+    ],
+    "seller": {
+        "address": "00693 Michael Spurs Suite 283 Brianmouth, VA 01162",
+        "company_name": "Woods, Giles and Travis",
+        "email": "ddrake@example.net"
+    }
+}

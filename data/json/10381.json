@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "298 Thompson Mews Jeffreyhaven, CT 05779",
+        "email": "john89@example.net",
+        "phone": "970.434.9553",
+        "vat_no": "To58991697469"
+    },
+    "invoice": {
+        "date": "13.11.2003",
+        "due_date": "08.11.1994",
+        "market_reference": 963101,
+        "notes": "morph mission-critical e-markets",
+        "number": "4313-5760",
+        "reference": 744069,
+        "vat_no": "cX47859685467"
+    },
+    "payment": {
+        "net_total": 85.06,
+        "total": 363.81
+    },
+    "products": [
+        {
+            "amount": 471.72,
+            "description": "synergize customized technologies",
+            "hours": 1.76,
+            "rate": 1.66
+        },
+        {
+            "amount": 483.95,
+            "description": "streamline customized niches",
+            "hours": 2.2,
+            "rate": 5.14
+        },
+        {
+            "amount": 91.3,
+            "description": "streamline innovative networks",
+            "hours": 2.45,
+            "rate": 2.1
+        },
+        {
+            "amount": 40.62,
+            "description": "maximize efficient action-items",
+            "hours": 4.44,
+            "rate": 7.77
+        }
+    ],
+    "seller": {
+        "address": "8510 Christopher Isle Apt. 928 Jonesmouth, AS 36031",
+        "email": "thomasrichard@example.org",
+        "name": "Paul Johnson"
+    },
+    "tax": {
+        "base": 27.08,
+        "tax_amount": 23.15,
+        "total_tax": 24.22
+    }
+}

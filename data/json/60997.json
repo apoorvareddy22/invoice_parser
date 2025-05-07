@@ -1,0 +1,76 @@
+{
+    "buyer": {
+        "address": "PSC 7569, Box 3434 APO AE 45064",
+        "business_no": "yj582",
+        "id": "nc793"
+    },
+    "invoice": {
+        "date": "18.02.1995",
+        "number": "0596-4296"
+    },
+    "payment": {
+        "due_date": "27.12.2021",
+        "total": 660.8
+    },
+    "products": [
+        {
+            "amount": 376.73,
+            "description": "architect rich systems",
+            "quantity": 2.22,
+            "reference": "ae-138",
+            "unit_price": 99.54
+        },
+        {
+            "amount": 269.99,
+            "description": "syndicate enterprise synergies",
+            "quantity": 5.72,
+            "reference": "kY-973",
+            "unit_price": 84.45
+        },
+        {
+            "amount": 294.72,
+            "description": "envisioneer sticky ROI",
+            "quantity": 9.93,
+            "reference": "OU-802",
+            "unit_price": 39.16
+        },
+        {
+            "amount": 241.89,
+            "description": "deploy innovative ROI",
+            "quantity": 5.03,
+            "reference": "VB-865",
+            "unit_price": 14.72
+        },
+        {
+            "amount": 142.36,
+            "description": "drive end-to-end convergence",
+            "quantity": 6.37,
+            "reference": "ul-120",
+            "unit_price": 79.89
+        },
+        {
+            "amount": 466.96,
+            "description": "optimize distributed interfaces",
+            "quantity": 9.89,
+            "reference": "vk-971",
+            "unit_price": 71.49
+        },
+        {
+            "amount": 156.9,
+            "description": "monetize seamless infrastructures",
+            "quantity": 8.41,
+            "reference": "Kr-663",
+            "unit_price": 46.98
+        }
+    ],
+    "seller": {
+        "address": "8125 Sheryl Mount Mejiachester, NV 58422"
+    },
+    "tax": {
+        "base_ht": 347.82,
+        "regulations": 12.74,
+        "total_ht": 422.16,
+        "vat_amount": 59.43,
+        "vat_percentage": 11.32
+    }
+}

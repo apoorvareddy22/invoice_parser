@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "0396 Reynolds Meadow Suttonhaven, NH 86000",
+        "company_name": "Barber, Johnson and Singh",
+        "country": "Guatemala",
+        "name": "Jorge Jordan"
+    },
+    "invoice": {
+        "date": "17.06.2002",
+        "number": 215270
+    },
+    "payment": {
+        "discount_amount": 22.71,
+        "discount_percentage": 17.26,
+        "due": 138.68,
+        "sub_total": 154.63,
+        "total": 999.48
+    },
+    "products": [
+        {
+            "description": "iterate next-generation supply-chains",
+            "index": "4",
+            "quantity": 2.8,
+            "total_price": 835.48,
+            "unit_price": 77.81
+        },
+        {
+            "description": "redefine rich models",
+            "index": "6",
+            "quantity": 5.22,
+            "total_price": 744.75,
+            "unit_price": 19.89
+        },
+        {
+            "description": "integrate turn-key systems",
+            "index": "7",
+            "quantity": 8.37,
+            "total_price": 105.29,
+            "unit_price": 58.06
+        }
+    ],
+    "seller": {
+        "address": "3873 David Mill East Eric, AZ 15678",
+        "company_name": "Smith, Sanders and Stevens",
+        "vat_no": "QY67344500411"
+    }
+}

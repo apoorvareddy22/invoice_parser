@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "8704 Mullins Haven Apt. 060 Richland, OR 66741"
+    },
+    "invoice": {
+        "bc_no": "yg68684",
+        "date": "14.01.1990",
+        "maturity_date": "01.04.1995",
+        "number": 476701
+    },
+    "products": [
+        {
+            "amount": 395.74,
+            "description": "productize cutting-edge e-services",
+            "quantity": 3.33,
+            "unit_price": 16.16,
+            "vat_amount": 6.34
+        },
+        {
+            "amount": 469.61,
+            "description": "productize revolutionary initiatives",
+            "quantity": 3.0,
+            "unit_price": 26.91,
+            "vat_amount": 6.01
+        },
+        {
+            "amount": 37.75,
+            "description": "disintermediate enterprise web services",
+            "quantity": 7.08,
+            "unit_price": 54.53,
+            "vat_amount": 1.67
+        },
+        {
+            "amount": 381.16,
+            "description": "scale visionary infrastructures",
+            "quantity": 8.08,
+            "unit_price": 43.83,
+            "vat_amount": 3.93
+        },
+        {
+            "amount": 425.45,
+            "description": "brand efficient relationships",
+            "quantity": 2.35,
+            "unit_price": 65.79,
+            "vat_amount": 2.73
+        },
+        {
+            "amount": 71.89,
+            "description": "unleash ubiquitous eyeballs",
+            "quantity": 4.83,
+            "unit_price": 65.11,
+            "vat_amount": 9.32
+        }
+    ],
+    "seller": {
+        "address": "982 Barnes Knolls Jamesstad, GA 35037"
+    },
+    "tax": {
+        "amount_excluding_tax": 95.39,
+        "amount_including_tax": 79.09,
+        "tax_amount": 19.9
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "PSC 4695, Box 3473 APO AE 83975",
+        "id": "Ib625"
+    },
+    "invoice": {
+        "bc_no": "jr23848",
+        "currency_code": "KRW",
+        "date": "04.08.2013",
+        "due_date": "27.05.1998",
+        "number": 232649
+    },
+    "payment": {
+        "bank_name": "Johnson, Watson and Sanchez",
+        "bic": "UXJIGBY12EB",
+        "iban": "HXWP26868997679320"
+    },
+    "products": [
+        {
+            "amount": 325.51,
+            "description": "generate innovative content",
+            "index": "1",
+            "price": 99.52,
+            "quantity": 7.77,
+            "tax_amount": 96.94,
+            "total_ttc": 365.45,
+            "vat_amount": 0.18
+        },
+        {
+            "amount": 358.04,
+            "description": "iterate real-time vortals",
+            "index": "10",
+            "price": 310.44,
+            "quantity": 7.61,
+            "tax_amount": 33.35,
+            "total_ttc": 102.81,
+            "vat_amount": 5.75
+        },
+        {
+            "amount": 438.28,
+            "description": "cultivate back-end convergence",
+            "index": "1",
+            "price": 430.08,
+            "quantity": 7.31,
+            "tax_amount": 34.88,
+            "total_ttc": 464.38,
+            "vat_amount": 3.9
+        },
+        {
+            "amount": 242.35,
+            "description": "grow one-to-one methodologies",
+            "index": "8",
+            "price": 14.67,
+            "quantity": 4.59,
+            "tax_amount": 32.28,
+            "total_ttc": 331.29,
+            "vat_amount": 6.81
+        }
+    ],
+    "seller": {
+        "name": "Thomas Liu"
+    },
+    "supplier": {
+        "address": "PSC 1734, Box 4882 APO AE 54503",
+        "name": "Peter Escobar"
+    },
+    "tax": {
+        "amount_excluding_tax": 192.45,
+        "amount_including_tax": 128.35,
+        "tax_amount": 12.31,
+        "total_ht": 386.1,
+        "total_ttc": 381.32
+    }
+}

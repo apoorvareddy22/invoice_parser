@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "713 Roberto Rest Lake Jason, IL 46421",
+        "id": "EU924"
+    },
+    "invoice": {
+        "bc_no": "fG13791",
+        "currency_code": "SBD",
+        "date": "18.08.2014",
+        "due_date": "22.09.2015",
+        "number": 204944
+    },
+    "payment": {
+        "bank_name": "Hart and Sons",
+        "bic": "MXWRGB4P",
+        "iban": "GUOQ94769421677643"
+    },
+    "products": [
+        {
+            "amount": 185.1,
+            "description": "synthesize end-to-end content",
+            "index": "8",
+            "price": 412.45,
+            "quantity": 1.49,
+            "tax_amount": 80.38,
+            "total_ttc": 243.27,
+            "vat_amount": 3.75
+        },
+        {
+            "amount": 37.86,
+            "description": "architect value-added web services",
+            "index": "2",
+            "price": 397.29,
+            "quantity": 4.2,
+            "tax_amount": 67.44,
+            "total_ttc": 252.25,
+            "vat_amount": 2.61
+        },
+        {
+            "amount": 169.49,
+            "description": "drive magnetic experiences",
+            "index": "2",
+            "price": 160.76,
+            "quantity": 7.8,
+            "tax_amount": 55.04,
+            "total_ttc": 434.51,
+            "vat_amount": 13.83
+        }
+    ],
+    "seller": {
+        "name": "Cody Smith"
+    },
+    "supplier": {
+        "address": "847 Nathan Cliffs East Ronaldville, VA 22220",
+        "name": "Victor Hayes"
+    },
+    "tax": {
+        "amount_excluding_tax": 188.71,
+        "amount_including_tax": 110.94,
+        "tax_amount": 18.42,
+        "total_ht": 474.8,
+        "total_ttc": 413.53
+    }
+}

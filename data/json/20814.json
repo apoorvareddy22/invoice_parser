@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "225 Hardy Drives Perezport, WA 18612",
+        "company_name": "Ingram, Jacobs and Colon",
+        "email": "thompsonashley@example.com",
+        "name": "Jordan Jackson",
+        "phone": "001-663-465-7232x5732"
+    },
+    "invoice": {
+        "date": "12.03.1995",
+        "due_date": "23.01.1999",
+        "number": "FEf76557069164"
+    },
+    "payment": {
+        "account_number": 9626247908,
+        "bank_name": "Wood-Garcia",
+        "routing_number": 689327323
+    },
+    "products": [
+        {
+            "amount": 215.64,
+            "description": "productize plug-and-play e-tailers",
+            "index": "8",
+            "quantity": 5.44,
+            "unit_price": 96.09
+        }
+    ],
+    "seller": {
+        "address": "199 Sandra Ford Suite 771 Palmershire, NJ 32875",
+        "company_name": "Hawkins-Fisher",
+        "email": "wrightaustin@example.com"
+    }
+}

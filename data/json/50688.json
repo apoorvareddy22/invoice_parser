@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "48382 Murphy Walk Apt. 091 Williamchester, NJ 31133",
+        "id": "li421"
+    },
+    "invoice": {
+        "bc_no": "De50358",
+        "currency_code": "BYR",
+        "date": "01.11.2001",
+        "due_date": "29.05.2009",
+        "number": 203960
+    },
+    "payment": {
+        "bank_name": "Larson-Adams",
+        "bic": "RIGQGB5Y9E8",
+        "iban": "TUDY81224854454851"
+    },
+    "products": [
+        {
+            "amount": 403.24,
+            "description": "streamline scalable communities",
+            "index": "8",
+            "price": 348.01,
+            "quantity": 6.19,
+            "tax_amount": 13.3,
+            "total_ttc": 347.01,
+            "vat_amount": 11.56
+        },
+        {
+            "amount": 116.81,
+            "description": "benchmark turn-key web-readiness",
+            "index": "6",
+            "price": 454.13,
+            "quantity": 4.22,
+            "tax_amount": 76.45,
+            "total_ttc": 413.72,
+            "vat_amount": 1.14
+        }
+    ],
+    "seller": {
+        "name": "Jerry Greer"
+    },
+    "supplier": {
+        "address": "3478 Felicia Corners North Thomas, VI 99179",
+        "name": "Casey Moore"
+    },
+    "tax": {
+        "amount_excluding_tax": 177.6,
+        "amount_including_tax": 96.99,
+        "tax_amount": 11.62,
+        "total_ht": 469.58,
+        "total_ttc": 267.51
+    }
+}

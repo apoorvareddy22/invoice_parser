@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "PSC 1576, Box 2666 APO AP 11442",
+        "company_name": "Castillo Inc",
+        "country": "Australia",
+        "email": "emyers@example.com",
+        "name": "Charles Thomas",
+        "phone": "001-562-748-5966",
+        "vat_no": "zD25325377270"
+    },
+    "invoice": {
+        "date": "03.07.1996",
+        "due_date": "03.08.2013",
+        "linked_invoice": "PE-5161-9963",
+        "notes": "productize leading-edge web services",
+        "number": "MM-4060-9929"
+    },
+    "products": [
+        {
+            "description": "re-intermediate wireless e-business",
+            "discount_percentage": 8.94,
+            "price": 408.28,
+            "quantity": 5.44,
+            "unit_price": 36.23
+        }
+    ],
+    "seller": {
+        "address": "2217 Jessica Meadow Suite 884 South Brandonview, IN 70221",
+        "ape": "9287q",
+        "capital": 46322109,
+        "country": "Slovenia",
+        "email": "nashlaurie@example.org",
+        "name": "Kimberly Reed",
+        "phone_1": "+1-317-567-3110x40236",
+        "phone_2": "(401)443-6974x39778",
+        "phone_3": "(225)421-6997",
+        "ref_walk": "OjLU2915",
+        "reference": "Rf701",
+        "siret": 67057916022733,
+        "vat_no": "vW66483085473",
+        "website": "https://everett-nguyen.biz/"
+    },
+    "tax": {
+        "amount_0": 17.34,
+        "amount_1": 17.47,
+        "base_0": 24.96,
+        "base_1": 153.72,
+        "total_ht": 411.23,
+        "total_tax": 14.99,
+        "total_ttc": 303.77,
+        "vat_0": 26.38,
+        "vat_1": 23.23
+    }
+}

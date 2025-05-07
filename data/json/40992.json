@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "9565 Miranda Prairie Apt. 002 New Mariemouth, IL 76440"
+    },
+    "invoice": {
+        "bc_no": "wl76844",
+        "date": "03.06.2022",
+        "maturity_date": "24.03.2019",
+        "number": 974234
+    },
+    "products": [
+        {
+            "amount": 480.69,
+            "description": "reinvent B2C infrastructures",
+            "quantity": 1.62,
+            "unit_price": 90.82,
+            "vat_amount": 0.73
+        },
+        {
+            "amount": 264.31,
+            "description": "engineer synergistic relationships",
+            "quantity": 9.0,
+            "unit_price": 40.28,
+            "vat_amount": 15.68
+        }
+    ],
+    "seller": {
+        "address": "67178 Rose Burgs New Briana, IL 09408"
+    },
+    "tax": {
+        "amount_excluding_tax": 93.77,
+        "amount_including_tax": 58.57,
+        "tax_amount": 20.56
+    }
+}

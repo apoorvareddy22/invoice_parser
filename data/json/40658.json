@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "17052 Samantha Crest South Jeffreyhaven, FL 01379"
+    },
+    "invoice": {
+        "bc_no": "dT48192",
+        "date": "14.11.2014",
+        "maturity_date": "14.06.1996",
+        "number": 335264
+    },
+    "products": [
+        {
+            "amount": 121.3,
+            "description": "whiteboard efficient e-markets",
+            "quantity": 4.39,
+            "unit_price": 55.8,
+            "vat_amount": 3.02
+        },
+        {
+            "amount": 18.15,
+            "description": "transform ubiquitous technologies",
+            "quantity": 1.3,
+            "unit_price": 49.29,
+            "vat_amount": 3.06
+        },
+        {
+            "amount": 378.33,
+            "description": "grow transparent e-business",
+            "quantity": 7.17,
+            "unit_price": 21.01,
+            "vat_amount": 2.17
+        },
+        {
+            "amount": 129.39,
+            "description": "optimize world-class interfaces",
+            "quantity": 7.42,
+            "unit_price": 30.91,
+            "vat_amount": 14.38
+        }
+    ],
+    "seller": {
+        "address": "322 Kathleen Trail Suite 307 Cameronborough, FM 60065"
+    },
+    "tax": {
+        "amount_excluding_tax": 64.04,
+        "amount_including_tax": 133.59,
+        "tax_amount": 24.27
+    }
+}

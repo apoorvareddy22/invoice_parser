@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "Unit 7993 Box 8935 DPO AE 96055",
+        "company_name": "Larsen Ltd",
+        "email": "osmith@example.org",
+        "name": "Deborah Fernandez",
+        "phone": "+1-551-983-0505x04995"
+    },
+    "invoice": {
+        "date": "06.03.2006",
+        "due_date": "14.07.1999",
+        "number": "ssG47572148443"
+    },
+    "payment": {
+        "account_number": 8574388377,
+        "bank_name": "Mitchell, Nguyen and Gray",
+        "routing_number": 484868310
+    },
+    "products": [
+        {
+            "amount": 236.75,
+            "description": "deliver customized infrastructures",
+            "index": "8",
+            "quantity": 6.68,
+            "unit_price": 97.19
+        },
+        {
+            "amount": 188.69,
+            "description": "innovate global web-readiness",
+            "index": "8",
+            "quantity": 1.06,
+            "unit_price": 41.31
+        }
+    ],
+    "seller": {
+        "address": "8105 Campbell Station Suite 064 Hoffmanland, WY 00816",
+        "company_name": "Peck, Greene and Gray",
+        "email": "lauren01@example.org"
+    }
+}

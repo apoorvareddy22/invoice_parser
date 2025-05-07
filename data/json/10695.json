@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "PSC 1908, Box 8709 APO AE 29826",
+        "email": "penapamela@example.com",
+        "phone": "225-387-7934",
+        "vat_no": "ct31774641060"
+    },
+    "invoice": {
+        "date": "17.11.1998",
+        "due_date": "05.07.2020",
+        "market_reference": 180529,
+        "notes": "brand collaborative eyeballs",
+        "number": "4527-4059",
+        "reference": 220694,
+        "vat_no": "aG74624453226"
+    },
+    "payment": {
+        "net_total": 120.25,
+        "total": 796.47
+    },
+    "products": [
+        {
+            "amount": 86.95,
+            "description": "implement B2B technologies",
+            "hours": 8.93,
+            "rate": 9.73
+        },
+        {
+            "amount": 73.11,
+            "description": "enhance dot-com ROI",
+            "hours": 7.03,
+            "rate": 9.51
+        },
+        {
+            "amount": 463.16,
+            "description": "revolutionize open-source action-items",
+            "hours": 9.91,
+            "rate": 7.67
+        },
+        {
+            "amount": 326.49,
+            "description": "monetize user-centric info-mediaries",
+            "hours": 5.74,
+            "rate": 5.75
+        },
+        {
+            "amount": 293.93,
+            "description": "unleash best-of-breed infrastructures",
+            "hours": 1.93,
+            "rate": 3.95
+        },
+        {
+            "amount": 313.96,
+            "description": "engineer world-class communities",
+            "hours": 9.6,
+            "rate": 7.64
+        }
+    ],
+    "seller": {
+        "address": "01401 Heather Drive Apt. 831 Lake Jeremyhaven, OH 07574",
+        "email": "melaniegray@example.net",
+        "name": "Victor Haynes"
+    },
+    "tax": {
+        "base": 29.71,
+        "tax_amount": 27.75,
+        "total_tax": 21.56
+    }
+}

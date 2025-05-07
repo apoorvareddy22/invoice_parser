@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "96991 Cassandra Plains Gibsonville, NV 45931",
+        "email": "randallstrickland@example.org",
+        "phone": "905.907.3677",
+        "vat_no": "cw80953279049"
+    },
+    "invoice": {
+        "date": "13.12.2013",
+        "due_date": "21.11.2001",
+        "market_reference": 176866,
+        "notes": "e-enable world-class methodologies",
+        "number": "8584-9299",
+        "reference": 121950,
+        "vat_no": "MH31159800169"
+    },
+    "payment": {
+        "net_total": 189.74,
+        "total": 518.99
+    },
+    "products": [
+        {
+            "amount": 191.77,
+            "description": "engineer magnetic applications",
+            "hours": 5.98,
+            "rate": 5.76
+        },
+        {
+            "amount": 460.03,
+            "description": "expedite user-centric solutions",
+            "hours": 9.37,
+            "rate": 2.71
+        },
+        {
+            "amount": 264.19,
+            "description": "productize back-end models",
+            "hours": 1.76,
+            "rate": 6.72
+        },
+        {
+            "amount": 72.99,
+            "description": "incubate revolutionary channels",
+            "hours": 8.8,
+            "rate": 4.29
+        }
+    ],
+    "seller": {
+        "address": "17244 Ferrell Cove New Earl, RI 79232",
+        "email": "kristenwood@example.org",
+        "name": "Jeffrey Jones"
+    },
+    "tax": {
+        "base": 25.86,
+        "tax_amount": 12.29,
+        "total_tax": 19.63
+    }
+}

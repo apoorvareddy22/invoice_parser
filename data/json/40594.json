@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "7536 Watkins Causeway Suite 315 Lake Lisabury, CT 74134"
+    },
+    "invoice": {
+        "bc_no": "Pj90295",
+        "date": "17.06.2011",
+        "maturity_date": "10.06.1994",
+        "number": 188961
+    },
+    "products": [
+        {
+            "amount": 271.83,
+            "description": "re-intermediate enterprise web services",
+            "quantity": 4.49,
+            "unit_price": 45.64,
+            "vat_amount": 7.24
+        }
+    ],
+    "seller": {
+        "address": "170 Michelle Squares Apt. 809 Port Danielle, ID 84551"
+    },
+    "tax": {
+        "amount_excluding_tax": 95.62,
+        "amount_including_tax": 117.25,
+        "tax_amount": 26.23
+    }
+}

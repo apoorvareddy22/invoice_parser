@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "4530 Villa Walks Lake Cynthiaberg, NM 88444",
+        "email": "ellisonmelissa@example.net",
+        "phone": "912-641-7881",
+        "vat_no": "gC71191297985"
+    },
+    "invoice": {
+        "date": "03.04.2023",
+        "due_date": "02.06.2015",
+        "market_reference": 365454,
+        "notes": "transition mission-critical systems",
+        "number": "8230-1219",
+        "reference": 186806,
+        "vat_no": "qu48779211950"
+    },
+    "payment": {
+        "net_total": 64.45,
+        "total": 649.44
+    },
+    "products": [
+        {
+            "amount": 328.37,
+            "description": "strategize next-generation metrics",
+            "hours": 4.24,
+            "rate": 4.11
+        },
+        {
+            "amount": 225.6,
+            "description": "strategize clicks-and-mortar models",
+            "hours": 2.6,
+            "rate": 6.35
+        },
+        {
+            "amount": 191.28,
+            "description": "architect value-added bandwidth",
+            "hours": 4.81,
+            "rate": 9.11
+        },
+        {
+            "amount": 351.13,
+            "description": "expedite integrated content",
+            "hours": 2.08,
+            "rate": 2.13
+        }
+    ],
+    "seller": {
+        "address": "2899 Johnson Pike North James, PR 71174",
+        "email": "ibrown@example.org",
+        "name": "Gabriel Oneill"
+    },
+    "tax": {
+        "base": 16.73,
+        "tax_amount": 10.02,
+        "total_tax": 29.57
+    }
+}

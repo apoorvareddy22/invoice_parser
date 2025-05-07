@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "9448 Walker Shoal Suite 976 Blevinshaven, TN 34739",
+        "company_name": "Luna, Harper and Herrera",
+        "country": "Antarctica (the territory South of 60 deg S)",
+        "name": "Jose Blair"
+    },
+    "invoice": {
+        "date": "08.11.1997",
+        "number": 338711
+    },
+    "payment": {
+        "discount_amount": 24.87,
+        "discount_percentage": 14.15,
+        "due": 75.9,
+        "sub_total": 110.08,
+        "total": 609.4
+    },
+    "products": [
+        {
+            "description": "empower holistic communities",
+            "index": "5",
+            "quantity": 8.22,
+            "total_price": 386.1,
+            "unit_price": 21.04
+        },
+        {
+            "description": "e-enable holistic ROI",
+            "index": "9",
+            "quantity": 1.23,
+            "total_price": 24.63,
+            "unit_price": 34.35
+        }
+    ],
+    "seller": {
+        "address": "USS Brown FPO AP 69238",
+        "company_name": "Parrish-Butler",
+        "vat_no": "vV65214251310"
+    }
+}

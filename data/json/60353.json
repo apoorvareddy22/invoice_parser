@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "1441 Lopez Stream Kristenbury, CO 46442",
+        "business_no": "Ea174",
+        "id": "Fs713"
+    },
+    "invoice": {
+        "date": "30.01.2020",
+        "number": "4976-3536"
+    },
+    "payment": {
+        "due_date": "18.06.2004",
+        "total": 220.6
+    },
+    "products": [
+        {
+            "amount": 229.9,
+            "description": "envisioneer robust web services",
+            "quantity": 1.61,
+            "reference": "Ah-902",
+            "unit_price": 96.47
+        },
+        {
+            "amount": 116.13,
+            "description": "embrace magnetic channels",
+            "quantity": 6.08,
+            "reference": "bQ-820",
+            "unit_price": 56.32
+        }
+    ],
+    "seller": {
+        "address": "USS Boone FPO AA 23721"
+    },
+    "tax": {
+        "base_ht": 452.55,
+        "regulations": 15.36,
+        "total_ht": 194.05,
+        "vat_amount": 19.76,
+        "vat_percentage": 16.58
+    }
+}

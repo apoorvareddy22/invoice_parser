@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "547 Pineda Estate Andersonport, OK 97272",
+        "email": "sheltonnicole@example.net",
+        "phone": "8297818589",
+        "vat_no": "yr79282074074"
+    },
+    "invoice": {
+        "date": "20.10.2006",
+        "due_date": "11.10.2021",
+        "market_reference": 181035,
+        "notes": "utilize distributed convergence",
+        "number": "6769-3002",
+        "reference": 633402,
+        "vat_no": "hS87161097813"
+    },
+    "payment": {
+        "net_total": 107.31,
+        "total": 146.59
+    },
+    "products": [
+        {
+            "amount": 463.72,
+            "description": "incubate web-enabled e-services",
+            "hours": 3.34,
+            "rate": 2.29
+        },
+        {
+            "amount": 387.19,
+            "description": "enable cross-platform e-commerce",
+            "hours": 9.8,
+            "rate": 3.31
+        },
+        {
+            "amount": 68.94,
+            "description": "leverage end-to-end eyeballs",
+            "hours": 5.15,
+            "rate": 3.05
+        },
+        {
+            "amount": 145.95,
+            "description": "re-contextualize plug-and-play e-business",
+            "hours": 8.09,
+            "rate": 3.3
+        },
+        {
+            "amount": 482.76,
+            "description": "visualize intuitive web-readiness",
+            "hours": 7.96,
+            "rate": 7.77
+        }
+    ],
+    "seller": {
+        "address": "10428 Jones Terrace Jenniferburgh, WY 26943",
+        "email": "christopherjohnson@example.net",
+        "name": "Elizabeth Herrera"
+    },
+    "tax": {
+        "base": 18.11,
+        "tax_amount": 29.37,
+        "total_tax": 14.7
+    }
+}

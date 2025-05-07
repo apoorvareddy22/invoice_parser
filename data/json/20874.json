@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "1327 Jones Harbor Adamston, MH 40942",
+        "company_name": "Moore Ltd",
+        "email": "jordan19@example.net",
+        "name": "Ryan Norris",
+        "phone": "(223)669-4056x60673"
+    },
+    "invoice": {
+        "date": "14.09.2009",
+        "due_date": "23.03.2021",
+        "number": "DRx93254192772"
+    },
+    "payment": {
+        "account_number": 3870730306,
+        "bank_name": "Davis, Johnson and Bishop",
+        "routing_number": 589342445
+    },
+    "products": [
+        {
+            "amount": 369.75,
+            "description": "synthesize viral paradigms",
+            "index": "9",
+            "quantity": 8.93,
+            "unit_price": 91.11
+        },
+        {
+            "amount": 450.7,
+            "description": "innovate vertical e-business",
+            "index": "6",
+            "quantity": 8.76,
+            "unit_price": 22.98
+        },
+        {
+            "amount": 252.4,
+            "description": "mesh back-end channels",
+            "index": "3",
+            "quantity": 9.37,
+            "unit_price": 71.03
+        },
+        {
+            "amount": 71.63,
+            "description": "envisioneer web-enabled technologies",
+            "index": "7",
+            "quantity": 7.92,
+            "unit_price": 97.15
+        }
+    ],
+    "seller": {
+        "address": "5323 Daniel Mountains Apt. 211 West Jeremy, KY 75260",
+        "company_name": "Watkins-Daniel",
+        "email": "clarkelaura@example.org"
+    }
+}

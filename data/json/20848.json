@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "580 Tina Trafficway Johnsontown, NM 44453",
+        "company_name": "Garcia and Sons",
+        "email": "oliviagonzalez@example.com",
+        "name": "Christopher Curtis",
+        "phone": "001-384-649-2054x8566"
+    },
+    "invoice": {
+        "date": "28.10.2011",
+        "due_date": "17.01.2022",
+        "number": "tjJ34883911454"
+    },
+    "payment": {
+        "account_number": 5666360056,
+        "bank_name": "Miller PLC",
+        "routing_number": 810507299
+    },
+    "products": [
+        {
+            "amount": 19.4,
+            "description": "mesh integrated mindshare",
+            "index": "9",
+            "quantity": 4.76,
+            "unit_price": 33.89
+        },
+        {
+            "amount": 23.87,
+            "description": "orchestrate best-of-breed communities",
+            "index": "5",
+            "quantity": 8.49,
+            "unit_price": 19.34
+        }
+    ],
+    "seller": {
+        "address": "2369 Perry Union Suite 444 East Nicole, TN 15890",
+        "company_name": "Garcia Inc",
+        "email": "michaeldavid@example.com"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "29340 Brian Cape Apt. 461 Danielport, MH 74903"
+    },
+    "invoice": {
+        "bc_no": "pX02311",
+        "date": "11.11.2017",
+        "maturity_date": "09.12.2017",
+        "number": 620528
+    },
+    "products": [
+        {
+            "amount": 270.03,
+            "description": "drive granular infrastructures",
+            "quantity": 1.97,
+            "unit_price": 66.75,
+            "vat_amount": 1.2
+        }
+    ],
+    "seller": {
+        "address": "7640 Jonathan Lane Apt. 784 Courtneyfort, MS 28412"
+    },
+    "tax": {
+        "amount_excluding_tax": 104.86,
+        "amount_including_tax": 102.9,
+        "tax_amount": 17.68
+    }
+}

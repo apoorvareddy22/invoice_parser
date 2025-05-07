@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "36213 Samantha Place Stevenville, OR 26449",
+        "company_name": "Hickman, Santos and Coffey",
+        "email": "psmith@example.net",
+        "name": "Antonio Ward",
+        "phone": "001-340-959-8768"
+    },
+    "invoice": {
+        "date": "11.04.2009",
+        "due_date": "16.09.1994",
+        "number": "ilS11742420006"
+    },
+    "payment": {
+        "account_number": 3137393019,
+        "bank_name": "Lee, Cole and Burns",
+        "routing_number": 986165204
+    },
+    "products": [
+        {
+            "amount": 248.12,
+            "description": "reinvent virtual interfaces",
+            "index": "1",
+            "quantity": 4.15,
+            "unit_price": 80.29
+        },
+        {
+            "amount": 242.01,
+            "description": "implement user-centric e-business",
+            "index": "3",
+            "quantity": 5.94,
+            "unit_price": 15.76
+        },
+        {
+            "amount": 253.82,
+            "description": "implement extensible infrastructures",
+            "index": "4",
+            "quantity": 5.15,
+            "unit_price": 23.94
+        },
+        {
+            "amount": 418.0,
+            "description": "generate frictionless communities",
+            "index": "7",
+            "quantity": 9.37,
+            "unit_price": 57.02
+        }
+    ],
+    "seller": {
+        "address": "54562 Brian Islands South Megan, WA 20030",
+        "company_name": "Martinez-Thompson",
+        "email": "pwilson@example.com"
+    }
+}

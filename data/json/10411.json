@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "74716 Hopkins Ports Port Gregory, IN 29504",
+        "email": "jessica60@example.org",
+        "phone": "(253)635-1690",
+        "vat_no": "zm45623149188"
+    },
+    "invoice": {
+        "date": "11.01.1991",
+        "due_date": "06.11.2004",
+        "market_reference": 420499,
+        "notes": "extend interactive web services",
+        "number": "3144-9528",
+        "reference": 569502,
+        "vat_no": "XF29432011158"
+    },
+    "payment": {
+        "net_total": 182.95,
+        "total": 505.1
+    },
+    "products": [
+        {
+            "amount": 382.64,
+            "description": "drive robust mindshare",
+            "hours": 1.07,
+            "rate": 1.53
+        },
+        {
+            "amount": 384.88,
+            "description": "optimize visionary deliverables",
+            "hours": 9.75,
+            "rate": 5.53
+        },
+        {
+            "amount": 76.6,
+            "description": "synergize bleeding-edge eyeballs",
+            "hours": 1.18,
+            "rate": 4.01
+        },
+        {
+            "amount": 268.11,
+            "description": "re-contextualize rich bandwidth",
+            "hours": 1.2,
+            "rate": 9.91
+        },
+        {
+            "amount": 34.85,
+            "description": "maximize leading-edge experiences",
+            "hours": 2.0,
+            "rate": 1.51
+        },
+        {
+            "amount": 292.15,
+            "description": "empower cross-media metrics",
+            "hours": 9.34,
+            "rate": 5.44
+        }
+    ],
+    "seller": {
+        "address": "59729 Nash Manor Apt. 634 Douglaschester, HI 84111",
+        "email": "amandahernandez@example.org",
+        "name": "Elizabeth Stevenson"
+    },
+    "tax": {
+        "base": 24.71,
+        "tax_amount": 22.89,
+        "total_tax": 10.99
+    }
+}

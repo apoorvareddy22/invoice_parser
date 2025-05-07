@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "PSC 4426, Box 6776 APO AE 10016",
+        "business_no": "hU563",
+        "id": "Il582"
+    },
+    "invoice": {
+        "date": "04.06.2018",
+        "number": "0490-1777"
+    },
+    "payment": {
+        "due_date": "09.10.2000",
+        "total": 120.61
+    },
+    "products": [
+        {
+            "amount": 447.23,
+            "description": "morph front-end eyeballs",
+            "quantity": 8.78,
+            "reference": "Oj-311",
+            "unit_price": 70.55
+        },
+        {
+            "amount": 371.14,
+            "description": "benchmark sticky e-commerce",
+            "quantity": 7.66,
+            "reference": "Rq-332",
+            "unit_price": 55.77
+        },
+        {
+            "amount": 243.63,
+            "description": "implement rich portals",
+            "quantity": 3.06,
+            "reference": "hD-932",
+            "unit_price": 86.21
+        }
+    ],
+    "seller": {
+        "address": "63483 Hannah Motorway Apt. 738 Port Shaneport, AS 27259"
+    },
+    "tax": {
+        "base_ht": 279.79,
+        "regulations": 29.67,
+        "total_ht": 477.05,
+        "vat_amount": 85.96,
+        "vat_percentage": 19.28
+    }
+}

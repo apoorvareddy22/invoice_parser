@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "99148 Thomas Lake Suite 761 New Caitlyn, MD 62754",
+        "company_name": "Ryan PLC",
+        "country": "French Southern Territories",
+        "name": "Mr. Matthew Fitzpatrick"
+    },
+    "invoice": {
+        "date": "27.07.2001",
+        "number": 948794
+    },
+    "payment": {
+        "discount_amount": 39.64,
+        "discount_percentage": 11.27,
+        "due": 38.5,
+        "sub_total": 197.31,
+        "total": 685.79
+    },
+    "products": [
+        {
+            "description": "extend frictionless metrics",
+            "index": "6",
+            "quantity": 5.27,
+            "total_price": 516.1,
+            "unit_price": 92.74
+        },
+        {
+            "description": "re-contextualize best-of-breed networks",
+            "index": "2",
+            "quantity": 2.48,
+            "total_price": 466.56,
+            "unit_price": 33.16
+        }
+    ],
+    "seller": {
+        "address": "084 Ian Ridges East Sean, MN 91913",
+        "company_name": "Fields, Hill and Scott",
+        "vat_no": "Ko98018250645"
+    }
+}

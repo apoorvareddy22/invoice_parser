@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "7612 Sarah Bypass North Angelashire, RI 94851",
+        "id": "VF333"
+    },
+    "invoice": {
+        "bc_no": "es25514",
+        "currency_code": "SPL",
+        "date": "13.09.2002",
+        "due_date": "18.02.2008",
+        "number": 548883
+    },
+    "payment": {
+        "bank_name": "Klein Inc",
+        "bic": "YJGAGBEV",
+        "iban": "RGTR11998242516684"
+    },
+    "products": [
+        {
+            "amount": 319.19,
+            "description": "facilitate extensible methodologies",
+            "index": "6",
+            "price": 279.07,
+            "quantity": 9.41,
+            "tax_amount": 14.19,
+            "total_ttc": 493.57,
+            "vat_amount": 0.05
+        },
+        {
+            "amount": 322.86,
+            "description": "revolutionize B2B synergies",
+            "index": "1",
+            "price": 490.55,
+            "quantity": 2.52,
+            "tax_amount": 74.23,
+            "total_ttc": 490.38,
+            "vat_amount": 6.25
+        },
+        {
+            "amount": 126.14,
+            "description": "benchmark front-end web-readiness",
+            "index": "6",
+            "price": 484.9,
+            "quantity": 7.79,
+            "tax_amount": 92.11,
+            "total_ttc": 165.02,
+            "vat_amount": 3.27
+        },
+        {
+            "amount": 18.63,
+            "description": "monetize next-generation ROI",
+            "index": "8",
+            "price": 7.61,
+            "quantity": 3.34,
+            "tax_amount": 89.38,
+            "total_ttc": 291.17,
+            "vat_amount": 4.6
+        }
+    ],
+    "seller": {
+        "name": "Daniel Webb"
+    },
+    "supplier": {
+        "address": "9569 Jason Course Curtisshire, AS 15545",
+        "name": "Darin King"
+    },
+    "tax": {
+        "amount_excluding_tax": 97.04,
+        "amount_including_tax": 69.6,
+        "tax_amount": 26.24,
+        "total_ht": 425.45,
+        "total_ttc": 405.72
+    }
+}

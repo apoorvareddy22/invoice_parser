@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "10632 Jim Estates Suite 328 West Bobby, MO 82221"
+    },
+    "invoice": {
+        "bc_no": "KW93431",
+        "date": "07.05.2009",
+        "maturity_date": "13.11.2000",
+        "number": 829342
+    },
+    "products": [
+        {
+            "amount": 417.17,
+            "description": "brand one-to-one e-services",
+            "quantity": 5.19,
+            "unit_price": 89.0,
+            "vat_amount": 11.48
+        }
+    ],
+    "seller": {
+        "address": "88793 Bradley Stravenue Suite 361 Randallhaven, HI 76163"
+    },
+    "tax": {
+        "amount_excluding_tax": 102.34,
+        "amount_including_tax": 52.43,
+        "tax_amount": 17.97
+    }
+}

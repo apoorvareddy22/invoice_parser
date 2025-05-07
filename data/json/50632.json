@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "156 Williams Circles Apt. 090 New Caleb, FM 51953",
+        "id": "mr869"
+    },
+    "invoice": {
+        "bc_no": "Hg68879",
+        "currency_code": "MOP",
+        "date": "22.07.2004",
+        "due_date": "09.06.2008",
+        "number": 707675
+    },
+    "payment": {
+        "bank_name": "Cox, Flynn and Watts",
+        "bic": "TMAPGB2E",
+        "iban": "YEKT91995589631603"
+    },
+    "products": [
+        {
+            "amount": 400.11,
+            "description": "empower frictionless communities",
+            "index": "5",
+            "price": 264.2,
+            "quantity": 1.99,
+            "tax_amount": 76.4,
+            "total_ttc": 298.37,
+            "vat_amount": 0.36
+        }
+    ],
+    "seller": {
+        "name": "Tara Williams"
+    },
+    "supplier": {
+        "address": "004 Brittany Meadows Lake Robertburgh, KS 19487",
+        "name": "Lauren Spencer"
+    },
+    "tax": {
+        "amount_excluding_tax": 33.74,
+        "amount_including_tax": 83.62,
+        "tax_amount": 24.57,
+        "total_ht": 330.57,
+        "total_ttc": 198.56
+    }
+}

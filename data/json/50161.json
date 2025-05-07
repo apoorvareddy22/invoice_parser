@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "907 Thomas Courts Suite 499 South Daniel, RI 38878",
+        "id": "lA876"
+    },
+    "invoice": {
+        "bc_no": "Ni53827",
+        "currency_code": "ALL",
+        "date": "12.09.2010",
+        "due_date": "15.07.2002",
+        "number": 949796
+    },
+    "payment": {
+        "bank_name": "Mccormick Inc",
+        "bic": "SVCAGBW4W43",
+        "iban": "OKGS54997029091356"
+    },
+    "products": [
+        {
+            "amount": 130.09,
+            "description": "expedite B2C models",
+            "index": "6",
+            "price": 415.54,
+            "quantity": 1.28,
+            "tax_amount": 96.15,
+            "total_ttc": 375.7,
+            "vat_amount": 8.63
+        },
+        {
+            "amount": 474.35,
+            "description": "re-contextualize extensible portals",
+            "index": "7",
+            "price": 48.49,
+            "quantity": 9.72,
+            "tax_amount": 86.87,
+            "total_ttc": 341.19,
+            "vat_amount": 4.98
+        },
+        {
+            "amount": 241.98,
+            "description": "redefine killer networks",
+            "index": "8",
+            "price": 390.28,
+            "quantity": 4.72,
+            "tax_amount": 98.95,
+            "total_ttc": 185.27,
+            "vat_amount": 3.45
+        }
+    ],
+    "seller": {
+        "name": "Benjamin Espinoza"
+    },
+    "supplier": {
+        "address": "7775 Andrew Bridge Ortizstad, CA 72196",
+        "name": "Janet Wood"
+    },
+    "tax": {
+        "amount_excluding_tax": 119.47,
+        "amount_including_tax": 94.29,
+        "tax_amount": 11.95,
+        "total_ht": 441.3,
+        "total_ttc": 272.63
+    }
+}

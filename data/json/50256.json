@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "439 Jamie Way Apt. 731 Hawkinsmouth, RI 58505",
+        "id": "eh257"
+    },
+    "invoice": {
+        "bc_no": "Kz83116",
+        "currency_code": "SCR",
+        "date": "01.09.2018",
+        "due_date": "18.02.2022",
+        "number": 478667
+    },
+    "payment": {
+        "bank_name": "Reyes, Christian and King",
+        "bic": "RKGRGBS7",
+        "iban": "LCCA86804379529903"
+    },
+    "products": [
+        {
+            "amount": 36.02,
+            "description": "envisioneer synergistic supply-chains",
+            "index": "10",
+            "price": 199.19,
+            "quantity": 3.35,
+            "tax_amount": 37.19,
+            "total_ttc": 372.79,
+            "vat_amount": 6.42
+        },
+        {
+            "amount": 363.91,
+            "description": "enable clicks-and-mortar initiatives",
+            "index": "1",
+            "price": 171.47,
+            "quantity": 2.43,
+            "tax_amount": 91.83,
+            "total_ttc": 286.98,
+            "vat_amount": 4.44
+        },
+        {
+            "amount": 387.54,
+            "description": "streamline transparent deliverables",
+            "index": "2",
+            "price": 371.39,
+            "quantity": 6.23,
+            "tax_amount": 90.05,
+            "total_ttc": 324.73,
+            "vat_amount": 0.1
+        },
+        {
+            "amount": 356.22,
+            "description": "monetize robust partnerships",
+            "index": "6",
+            "price": 24.74,
+            "quantity": 8.2,
+            "tax_amount": 88.64,
+            "total_ttc": 333.76,
+            "vat_amount": 3.27
+        },
+        {
+            "amount": 102.88,
+            "description": "enhance vertical users",
+            "index": "7",
+            "price": 448.97,
+            "quantity": 7.53,
+            "tax_amount": 20.33,
+            "total_ttc": 367.58,
+            "vat_amount": 4.36
+        },
+        {
+            "amount": 77.3,
+            "description": "streamline extensible synergies",
+            "index": "2",
+            "price": 81.8,
+            "quantity": 2.33,
+            "tax_amount": 81.0,
+            "total_ttc": 431.08,
+            "vat_amount": 2.92
+        },
+        {
+            "amount": 389.66,
+            "description": "synthesize granular e-commerce",
+            "index": "9",
+            "price": 346.04,
+            "quantity": 6.33,
+            "tax_amount": 60.86,
+            "total_ttc": 295.44,
+            "vat_amount": 7.15
+        }
+    ],
+    "seller": {
+        "name": "Edward King"
+    },
+    "supplier": {
+        "address": "310 Perry Unions Suite 206 New Bethborough, MN 71327",
+        "name": "Rebecca Lester"
+    },
+    "tax": {
+        "amount_excluding_tax": 30.12,
+        "amount_including_tax": 95.12,
+        "tax_amount": 25.72,
+        "total_ht": 310.83,
+        "total_ttc": 316.06
+    }
+}

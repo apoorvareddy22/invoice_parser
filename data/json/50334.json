@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "963 Ramirez Flats Port Bryce, GA 67398",
+        "id": "bP938"
+    },
+    "invoice": {
+        "bc_no": "Uq01805",
+        "currency_code": "SPL",
+        "date": "22.12.1997",
+        "due_date": "16.10.2013",
+        "number": 152369
+    },
+    "payment": {
+        "bank_name": "Barnes PLC",
+        "bic": "WVKOGBC7",
+        "iban": "FSRY71171539655066"
+    },
+    "products": [
+        {
+            "amount": 368.84,
+            "description": "strategize scalable channels",
+            "index": "8",
+            "price": 360.29,
+            "quantity": 7.81,
+            "tax_amount": 75.38,
+            "total_ttc": 112.07,
+            "vat_amount": 0.27
+        },
+        {
+            "amount": 216.83,
+            "description": "reinvent real-time experiences",
+            "index": "7",
+            "price": 296.48,
+            "quantity": 2.23,
+            "tax_amount": 48.67,
+            "total_ttc": 421.12,
+            "vat_amount": 14.88
+        },
+        {
+            "amount": 161.64,
+            "description": "evolve collaborative metrics",
+            "index": "5",
+            "price": 290.46,
+            "quantity": 8.28,
+            "tax_amount": 41.02,
+            "total_ttc": 224.87,
+            "vat_amount": 0.21
+        },
+        {
+            "amount": 263.56,
+            "description": "generate turn-key infrastructures",
+            "index": "1",
+            "price": 447.46,
+            "quantity": 9.21,
+            "tax_amount": 71.57,
+            "total_ttc": 131.46,
+            "vat_amount": 6.19
+        }
+    ],
+    "seller": {
+        "name": "Nicole Jones"
+    },
+    "supplier": {
+        "address": "572 Dakota Divide Lake Nicoletown, OR 92861",
+        "name": "James Rivers"
+    },
+    "tax": {
+        "amount_excluding_tax": 67.83,
+        "amount_including_tax": 123.88,
+        "tax_amount": 17.72,
+        "total_ht": 310.69,
+        "total_ttc": 499.8
+    }
+}

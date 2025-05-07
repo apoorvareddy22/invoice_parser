@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "1494 Stewart Rapid Suite 874 Mikemouth, MH 12357",
+        "id": "XK341"
+    },
+    "invoice": {
+        "bc_no": "hY03607",
+        "currency_code": "KGS",
+        "date": "13.06.1997",
+        "due_date": "01.02.1999",
+        "number": 442542
+    },
+    "payment": {
+        "bank_name": "Wilkins LLC",
+        "bic": "PEIEGBGV",
+        "iban": "LUDF64312024460536"
+    },
+    "products": [
+        {
+            "amount": 60.18,
+            "description": "facilitate impactful bandwidth",
+            "index": "2",
+            "price": 217.93,
+            "quantity": 3.41,
+            "tax_amount": 97.35,
+            "total_ttc": 187.48,
+            "vat_amount": 1.53
+        },
+        {
+            "amount": 261.02,
+            "description": "revolutionize B2B web-readiness",
+            "index": "4",
+            "price": 21.29,
+            "quantity": 1.5,
+            "tax_amount": 90.8,
+            "total_ttc": 431.4,
+            "vat_amount": 8.27
+        },
+        {
+            "amount": 244.66,
+            "description": "unleash integrated paradigms",
+            "index": "1",
+            "price": 57.87,
+            "quantity": 8.6,
+            "tax_amount": 76.72,
+            "total_ttc": 351.13,
+            "vat_amount": 0.21
+        },
+        {
+            "amount": 268.11,
+            "description": "strategize enterprise niches",
+            "index": "2",
+            "price": 209.18,
+            "quantity": 5.69,
+            "tax_amount": 13.63,
+            "total_ttc": 197.84,
+            "vat_amount": 3.54
+        },
+        {
+            "amount": 487.9,
+            "description": "extend clicks-and-mortar eyeballs",
+            "index": "9",
+            "price": 95.23,
+            "quantity": 1.15,
+            "tax_amount": 69.35,
+            "total_ttc": 400.1,
+            "vat_amount": 9.1
+        },
+        {
+            "amount": 182.19,
+            "description": "engineer user-centric infrastructures",
+            "index": "1",
+            "price": 26.09,
+            "quantity": 3.19,
+            "tax_amount": 81.33,
+            "total_ttc": 158.89,
+            "vat_amount": 1.34
+        }
+    ],
+    "seller": {
+        "name": "Melanie Roberson"
+    },
+    "supplier": {
+        "address": "388 Smith Neck Jennifershire, CO 94142",
+        "name": "Bradley Johnson"
+    },
+    "tax": {
+        "amount_excluding_tax": 63.42,
+        "amount_including_tax": 116.81,
+        "tax_amount": 23.88,
+        "total_ht": 117.07,
+        "total_ttc": 116.83
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "282 Wilson Bridge Bellview, AL 87340"
+    },
+    "invoice": {
+        "bc_no": "wy33372",
+        "date": "20.08.1996",
+        "maturity_date": "20.08.2022",
+        "number": 416254
+    },
+    "products": [
+        {
+            "amount": 354.69,
+            "description": "envisioneer holistic e-commerce",
+            "quantity": 4.6,
+            "unit_price": 29.29,
+            "vat_amount": 8.49
+        },
+        {
+            "amount": 30.08,
+            "description": "engineer e-business action-items",
+            "quantity": 1.35,
+            "unit_price": 29.7,
+            "vat_amount": 3.94
+        },
+        {
+            "amount": 252.22,
+            "description": "iterate front-end networks",
+            "quantity": 3.07,
+            "unit_price": 52.72,
+            "vat_amount": 3.68
+        }
+    ],
+    "seller": {
+        "address": "401 Wood Mountains Apt. 902 Gardnerville, OH 03022"
+    },
+    "tax": {
+        "amount_excluding_tax": 112.78,
+        "amount_including_tax": 35.79,
+        "tax_amount": 10.31
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "37793 Jonathan Parkways Reeseview, PW 09280",
+        "business_no": "WE374",
+        "id": "Bi666"
+    },
+    "invoice": {
+        "date": "18.10.2001",
+        "number": "8675-4566"
+    },
+    "payment": {
+        "due_date": "30.03.2022",
+        "total": 287.03
+    },
+    "products": [
+        {
+            "amount": 66.52,
+            "description": "architect customized convergence",
+            "quantity": 4.57,
+            "reference": "pc-042",
+            "unit_price": 39.05
+        },
+        {
+            "amount": 311.96,
+            "description": "transform clicks-and-mortar e-services",
+            "quantity": 1.7,
+            "reference": "iY-770",
+            "unit_price": 82.62
+        },
+        {
+            "amount": 183.08,
+            "description": "target intuitive systems",
+            "quantity": 9.01,
+            "reference": "DE-496",
+            "unit_price": 58.81
+        },
+        {
+            "amount": 237.65,
+            "description": "e-enable plug-and-play supply-chains",
+            "quantity": 9.39,
+            "reference": "Lo-728",
+            "unit_price": 46.38
+        },
+        {
+            "amount": 286.93,
+            "description": "expedite vertical platforms",
+            "quantity": 8.21,
+            "reference": "Yo-686",
+            "unit_price": 41.75
+        }
+    ],
+    "seller": {
+        "address": "4726 King Neck Singletonland, FM 23801"
+    },
+    "tax": {
+        "base_ht": 451.94,
+        "regulations": 15.98,
+        "total_ht": 243.98,
+        "vat_amount": 149.48,
+        "vat_percentage": 16.61
+    }
+}

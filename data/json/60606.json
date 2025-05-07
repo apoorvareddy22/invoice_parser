@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "1932 Charles Fields Mariastad, WY 88589",
+        "business_no": "ua301",
+        "id": "nr260"
+    },
+    "invoice": {
+        "date": "24.10.2014",
+        "number": "8233-0694"
+    },
+    "payment": {
+        "due_date": "20.03.1991",
+        "total": 361.92
+    },
+    "products": [
+        {
+            "amount": 59.79,
+            "description": "empower efficient applications",
+            "quantity": 6.67,
+            "reference": "dz-917",
+            "unit_price": 59.46
+        }
+    ],
+    "seller": {
+        "address": "PSC 3716, Box 1479 APO AA 68677"
+    },
+    "tax": {
+        "base_ht": 219.32,
+        "regulations": 21.79,
+        "total_ht": 337.77,
+        "vat_amount": 134.64,
+        "vat_percentage": 21.53
+    }
+}

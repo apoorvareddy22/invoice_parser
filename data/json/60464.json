@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "3301 Randy Pass Perezton, VI 62642",
+        "business_no": "Lg457",
+        "id": "jc862"
+    },
+    "invoice": {
+        "date": "04.03.2017",
+        "number": "2115-1217"
+    },
+    "payment": {
+        "due_date": "18.07.2005",
+        "total": 920.13
+    },
+    "products": [
+        {
+            "amount": 488.73,
+            "description": "transform interactive systems",
+            "quantity": 5.07,
+            "reference": "xY-012",
+            "unit_price": 73.27
+        },
+        {
+            "amount": 226.09,
+            "description": "generate out-of-the-box schemas",
+            "quantity": 7.28,
+            "reference": "fp-482",
+            "unit_price": 36.23
+        },
+        {
+            "amount": 197.69,
+            "description": "expedite clicks-and-mortar web services",
+            "quantity": 5.87,
+            "reference": "xT-038",
+            "unit_price": 71.26
+        },
+        {
+            "amount": 349.1,
+            "description": "scale ubiquitous e-tailers",
+            "quantity": 9.72,
+            "reference": "Rv-783",
+            "unit_price": 32.92
+        },
+        {
+            "amount": 28.43,
+            "description": "e-enable B2B technologies",
+            "quantity": 8.41,
+            "reference": "QD-988",
+            "unit_price": 66.75
+        },
+        {
+            "amount": 242.09,
+            "description": "orchestrate efficient action-items",
+            "quantity": 6.17,
+            "reference": "BL-931",
+            "unit_price": 53.75
+        }
+    ],
+    "seller": {
+        "address": "69137 Hernandez Ridges Suite 725 East Susan, WY 71837"
+    },
+    "tax": {
+        "base_ht": 350.84,
+        "regulations": 21.49,
+        "total_ht": 170.42,
+        "vat_amount": 187.68,
+        "vat_percentage": 28.75
+    }
+}

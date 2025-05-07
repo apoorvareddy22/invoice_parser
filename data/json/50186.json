@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "018 Christine Neck South Roger, VT 63203",
+        "id": "pT942"
+    },
+    "invoice": {
+        "bc_no": "DP55300",
+        "currency_code": "SLL",
+        "date": "07.07.2008",
+        "due_date": "23.07.2017",
+        "number": 963450
+    },
+    "payment": {
+        "bank_name": "Coleman Inc",
+        "bic": "XKKZGB33",
+        "iban": "CKWN40975653600752"
+    },
+    "products": [
+        {
+            "amount": 16.25,
+            "description": "re-contextualize impactful architectures",
+            "index": "10",
+            "price": 175.51,
+            "quantity": 3.72,
+            "tax_amount": 15.03,
+            "total_ttc": 142.58,
+            "vat_amount": 11.34
+        }
+    ],
+    "seller": {
+        "name": "Russell Mcdaniel"
+    },
+    "supplier": {
+        "address": "55617 Page Crest Apt. 138 Ortizchester, HI 60601",
+        "name": "Diana Weaver"
+    },
+    "tax": {
+        "amount_excluding_tax": 164.79,
+        "amount_including_tax": 119.32,
+        "tax_amount": 14.79,
+        "total_ht": 180.29,
+        "total_ttc": 185.78
+    }
+}

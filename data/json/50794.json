@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "2667 Stephenson Fork Suite 114 Lake Patricia, CA 98764",
+        "id": "hi829"
+    },
+    "invoice": {
+        "bc_no": "Qb95538",
+        "currency_code": "QAR",
+        "date": "07.03.2005",
+        "due_date": "26.08.2022",
+        "number": 434711
+    },
+    "payment": {
+        "bank_name": "Meyers Ltd",
+        "bic": "WLCFGB0O",
+        "iban": "FJFU40962915926416"
+    },
+    "products": [
+        {
+            "amount": 431.9,
+            "description": "generate frictionless functionalities",
+            "index": "4",
+            "price": 25.0,
+            "quantity": 5.31,
+            "tax_amount": 93.24,
+            "total_ttc": 389.2,
+            "vat_amount": 1.25
+        },
+        {
+            "amount": 158.86,
+            "description": "evolve plug-and-play solutions",
+            "index": "8",
+            "price": 352.65,
+            "quantity": 2.87,
+            "tax_amount": 70.08,
+            "total_ttc": 351.09,
+            "vat_amount": 2.3
+        },
+        {
+            "amount": 452.17,
+            "description": "monetize magnetic portals",
+            "index": "7",
+            "price": 170.15,
+            "quantity": 7.52,
+            "tax_amount": 35.67,
+            "total_ttc": 340.02,
+            "vat_amount": 1.93
+        },
+        {
+            "amount": 43.71,
+            "description": "visualize integrated vortals",
+            "index": "10",
+            "price": 180.43,
+            "quantity": 6.87,
+            "tax_amount": 71.89,
+            "total_ttc": 165.93,
+            "vat_amount": 15.44
+        },
+        {
+            "amount": 431.16,
+            "description": "streamline holistic eyeballs",
+            "index": "9",
+            "price": 490.44,
+            "quantity": 5.34,
+            "tax_amount": 41.99,
+            "total_ttc": 341.28,
+            "vat_amount": 3.62
+        }
+    ],
+    "seller": {
+        "name": "Kurt Peters"
+    },
+    "supplier": {
+        "address": "599 Gates Fields East Christinaville, MN 37566",
+        "name": "Bryce Fritz"
+    },
+    "tax": {
+        "amount_excluding_tax": 113.83,
+        "amount_including_tax": 79.68,
+        "tax_amount": 28.76,
+        "total_ht": 261.75,
+        "total_ttc": 225.65
+    }
+}

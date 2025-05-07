@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "64679 Baldwin Court Apt. 013 South Melissamouth, TN 50995",
+        "id": "Pt005"
+    },
+    "invoice": {
+        "bc_no": "Lw59812",
+        "currency_code": "JEP",
+        "date": "17.03.2022",
+        "due_date": "07.08.2000",
+        "number": 771451
+    },
+    "payment": {
+        "bank_name": "Moon, Rose and Simmons",
+        "bic": "CQCNGBB9LRD",
+        "iban": "BFEM65151386787645"
+    },
+    "products": [
+        {
+            "amount": 325.57,
+            "description": "orchestrate viral mindshare",
+            "index": "3",
+            "price": 363.66,
+            "quantity": 7.11,
+            "tax_amount": 30.99,
+            "total_ttc": 138.97,
+            "vat_amount": 0.02
+        },
+        {
+            "amount": 445.22,
+            "description": "reinvent front-end functionalities",
+            "index": "3",
+            "price": 260.88,
+            "quantity": 6.33,
+            "tax_amount": 99.22,
+            "total_ttc": 342.54,
+            "vat_amount": 3.2
+        },
+        {
+            "amount": 260.37,
+            "description": "harness cutting-edge portals",
+            "index": "10",
+            "price": 107.6,
+            "quantity": 3.8,
+            "tax_amount": 53.73,
+            "total_ttc": 130.09,
+            "vat_amount": 5.27
+        },
+        {
+            "amount": 472.64,
+            "description": "mesh transparent paradigms",
+            "index": "3",
+            "price": 309.48,
+            "quantity": 4.35,
+            "tax_amount": 63.32,
+            "total_ttc": 110.79,
+            "vat_amount": 3.12
+        },
+        {
+            "amount": 119.9,
+            "description": "deliver holistic ROI",
+            "index": "9",
+            "price": 271.12,
+            "quantity": 2.94,
+            "tax_amount": 44.22,
+            "total_ttc": 423.12,
+            "vat_amount": 2.92
+        },
+        {
+            "amount": 225.44,
+            "description": "facilitate synergistic partnerships",
+            "index": "6",
+            "price": 486.59,
+            "quantity": 2.86,
+            "tax_amount": 96.94,
+            "total_ttc": 298.91,
+            "vat_amount": 4.91
+        }
+    ],
+    "seller": {
+        "name": "Patrick Cook"
+    },
+    "supplier": {
+        "address": "17507 Brianna Causeway Suite 327 Harringtonville, MI 55011",
+        "name": "Veronica Johnson"
+    },
+    "tax": {
+        "amount_excluding_tax": 29.46,
+        "amount_including_tax": 41.73,
+        "tax_amount": 13.61,
+        "total_ht": 157.24,
+        "total_ttc": 400.55
+    }
+}

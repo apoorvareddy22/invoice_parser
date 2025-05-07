@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "84423 Boyd Estates Apt. 229 Wilsonton, OR 44150",
+        "business_no": "Dg447",
+        "id": "NM363"
+    },
+    "invoice": {
+        "date": "15.06.1996",
+        "number": "0121-1415"
+    },
+    "payment": {
+        "due_date": "30.11.2008",
+        "total": 263.85
+    },
+    "products": [
+        {
+            "amount": 378.47,
+            "description": "transition real-time relationships",
+            "quantity": 4.86,
+            "reference": "fB-741",
+            "unit_price": 16.66
+        },
+        {
+            "amount": 306.36,
+            "description": "drive virtual channels",
+            "quantity": 8.73,
+            "reference": "Fv-923",
+            "unit_price": 64.97
+        }
+    ],
+    "seller": {
+        "address": "745 Rogers Extensions Evansfurt, NH 31932"
+    },
+    "tax": {
+        "base_ht": 310.88,
+        "regulations": 18.33,
+        "total_ht": 411.48,
+        "vat_amount": 81.89,
+        "vat_percentage": 22.0
+    }
+}

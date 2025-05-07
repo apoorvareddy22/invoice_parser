@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "550 Clark Cape East Bonnieberg, MH 02075",
+        "company_name": "Wilkerson, Garcia and Andrews",
+        "email": "yrowe@example.net",
+        "name": "Katherine Fox",
+        "phone": "001-223-592-0389x8546"
+    },
+    "invoice": {
+        "date": "02.10.1993",
+        "due_date": "21.11.2014",
+        "number": "suE76516635037"
+    },
+    "payment": {
+        "account_number": 4534044115,
+        "bank_name": "Fernandez and Sons",
+        "routing_number": 770971953
+    },
+    "products": [
+        {
+            "amount": 362.01,
+            "description": "leverage web-enabled convergence",
+            "index": "8",
+            "quantity": 5.67,
+            "unit_price": 39.22
+        },
+        {
+            "amount": 406.72,
+            "description": "reinvent mission-critical technologies",
+            "index": "6",
+            "quantity": 3.99,
+            "unit_price": 86.46
+        }
+    ],
+    "seller": {
+        "address": "0261 Natalie Extensions South Troy, SC 65408",
+        "company_name": "Jackson, Carr and Allen",
+        "email": "jaime73@example.org"
+    }
+}

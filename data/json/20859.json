@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "686 Cassandra Mountains East Johnbury, SC 61035",
+        "company_name": "Clark-Garrett",
+        "email": "vrodgers@example.net",
+        "name": "Joseph Watkins",
+        "phone": "001-864-233-8849"
+    },
+    "invoice": {
+        "date": "12.09.2018",
+        "due_date": "30.10.2004",
+        "number": "kWS12728634094"
+    },
+    "payment": {
+        "account_number": 6525631939,
+        "bank_name": "Sanders Group",
+        "routing_number": 767806789
+    },
+    "products": [
+        {
+            "amount": 180.05,
+            "description": "seize turn-key vortals",
+            "index": "6",
+            "quantity": 2.76,
+            "unit_price": 59.6
+        },
+        {
+            "amount": 368.73,
+            "description": "reinvent bleeding-edge e-business",
+            "index": "6",
+            "quantity": 6.9,
+            "unit_price": 76.73
+        }
+    ],
+    "seller": {
+        "address": "395 Conley Shoal Apt. 504 Stevenburgh, OH 52788",
+        "company_name": "Lewis, Miller and Campbell",
+        "email": "merrittwilliam@example.com"
+    }
+}

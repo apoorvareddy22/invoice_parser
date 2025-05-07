@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "841 Washington Roads Apt. 271 Richardsonberg, WA 55441"
+    },
+    "invoice": {
+        "bc_no": "BF62097",
+        "date": "28.02.2013",
+        "maturity_date": "09.02.1999",
+        "number": 655998
+    },
+    "products": [
+        {
+            "amount": 90.3,
+            "description": "transition wireless e-business",
+            "quantity": 5.76,
+            "unit_price": 79.97,
+            "vat_amount": 7.41
+        },
+        {
+            "amount": 360.27,
+            "description": "deliver 24/365 e-tailers",
+            "quantity": 8.45,
+            "unit_price": 38.77,
+            "vat_amount": 5.01
+        },
+        {
+            "amount": 379.4,
+            "description": "expedite plug-and-play ROI",
+            "quantity": 9.66,
+            "unit_price": 89.06,
+            "vat_amount": 12.75
+        }
+    ],
+    "seller": {
+        "address": "44892 Bean Plaza Apt. 311 Berrybury, MI 07740"
+    },
+    "tax": {
+        "amount_excluding_tax": 156.11,
+        "amount_including_tax": 89.0,
+        "tax_amount": 29.42
+    }
+}

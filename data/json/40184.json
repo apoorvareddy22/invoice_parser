@@ -1,0 +1,56 @@
+{
+    "buyer": {
+        "address": "Unit 3359 Box 3701 DPO AA 33859"
+    },
+    "invoice": {
+        "bc_no": "OJ11566",
+        "date": "27.01.2009",
+        "maturity_date": "04.03.2003",
+        "number": 907203
+    },
+    "products": [
+        {
+            "amount": 418.79,
+            "description": "repurpose B2C solutions",
+            "quantity": 7.81,
+            "unit_price": 95.41,
+            "vat_amount": 5.01
+        },
+        {
+            "amount": 360.41,
+            "description": "seize vertical vortals",
+            "quantity": 8.21,
+            "unit_price": 21.71,
+            "vat_amount": 7.28
+        },
+        {
+            "amount": 173.68,
+            "description": "redefine real-time e-services",
+            "quantity": 9.24,
+            "unit_price": 77.02,
+            "vat_amount": 10.96
+        },
+        {
+            "amount": 353.59,
+            "description": "whiteboard open-source paradigms",
+            "quantity": 2.69,
+            "unit_price": 24.89,
+            "vat_amount": 5.99
+        },
+        {
+            "amount": 409.21,
+            "description": "redefine impactful platforms",
+            "quantity": 2.71,
+            "unit_price": 36.78,
+            "vat_amount": 3.29
+        }
+    ],
+    "seller": {
+        "address": "58059 Micheal Ridge Suite 837 Leachburgh, KS 69548"
+    },
+    "tax": {
+        "amount_excluding_tax": 82.3,
+        "amount_including_tax": 163.97,
+        "tax_amount": 13.89
+    }
+}

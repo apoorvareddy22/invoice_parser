@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "1616 Lindsay Course Simpsonview, OK 80658",
+        "id": "Ma307"
+    },
+    "invoice": {
+        "bc_no": "pl20520",
+        "currency_code": "PEN",
+        "date": "04.06.2002",
+        "due_date": "16.12.1997",
+        "number": 950602
+    },
+    "payment": {
+        "bank_name": "Vasquez-Parker",
+        "bic": "RMPOGBXW",
+        "iban": "SDUK30086519648307"
+    },
+    "products": [
+        {
+            "amount": 193.41,
+            "description": "monetize distributed e-services",
+            "index": "3",
+            "price": 363.86,
+            "quantity": 1.84,
+            "tax_amount": 52.14,
+            "total_ttc": 353.92,
+            "vat_amount": 5.37
+        },
+        {
+            "amount": 317.42,
+            "description": "target plug-and-play ROI",
+            "index": "7",
+            "price": 112.49,
+            "quantity": 1.09,
+            "tax_amount": 24.89,
+            "total_ttc": 310.33,
+            "vat_amount": 3.03
+        },
+        {
+            "amount": 367.43,
+            "description": "reinvent 24/7 methodologies",
+            "index": "7",
+            "price": 91.1,
+            "quantity": 3.8,
+            "tax_amount": 50.79,
+            "total_ttc": 150.06,
+            "vat_amount": 0.64
+        }
+    ],
+    "seller": {
+        "name": "Tracey Jones"
+    },
+    "supplier": {
+        "address": "02343 Williams Mountains Lake Josephborough, TX 34726",
+        "name": "Tony Buchanan"
+    },
+    "tax": {
+        "amount_excluding_tax": 65.82,
+        "amount_including_tax": 70.29,
+        "tax_amount": 22.38,
+        "total_ht": 370.74,
+        "total_ttc": 269.22
+    }
+}

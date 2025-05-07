@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "529 Samantha Mall Suite 633 Stephensview, MO 39796",
+        "company_name": "Evans LLC",
+        "country": "South Africa",
+        "name": "Carlos Maddox"
+    },
+    "invoice": {
+        "date": "20.10.2018",
+        "number": 711835
+    },
+    "payment": {
+        "discount_amount": 23.43,
+        "discount_percentage": 8.77,
+        "due": 177.41,
+        "sub_total": 94.14,
+        "total": 944.9
+    },
+    "products": [
+        {
+            "description": "reinvent wireless e-commerce",
+            "index": "2",
+            "quantity": 7.18,
+            "total_price": 717.27,
+            "unit_price": 30.04
+        },
+        {
+            "description": "matrix next-generation platforms",
+            "index": "8",
+            "quantity": 3.43,
+            "total_price": 908.55,
+            "unit_price": 51.23
+        }
+    ],
+    "seller": {
+        "address": "52068 Harris Parks Suite 299 Michaelview, IN 39998",
+        "company_name": "Oconnell LLC",
+        "vat_no": "gV95953754454"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "76144 Joshua Creek West Paul, NV 08070",
+        "id": "nP575"
+    },
+    "invoice": {
+        "bc_no": "Vo71726",
+        "currency_code": "ZAR",
+        "date": "26.10.1990",
+        "due_date": "18.08.2004",
+        "number": 291989
+    },
+    "payment": {
+        "bank_name": "Hutchinson Group",
+        "bic": "YCDRGBTHXJD",
+        "iban": "HDNH57551123863210"
+    },
+    "products": [
+        {
+            "amount": 166.77,
+            "description": "transition 24/7 web services",
+            "index": "3",
+            "price": 20.0,
+            "quantity": 7.3,
+            "tax_amount": 89.7,
+            "total_ttc": 452.48,
+            "vat_amount": 7.44
+        },
+        {
+            "amount": 213.71,
+            "description": "re-intermediate next-generation portals",
+            "index": "10",
+            "price": 6.58,
+            "quantity": 1.09,
+            "tax_amount": 46.16,
+            "total_ttc": 198.13,
+            "vat_amount": 12.85
+        },
+        {
+            "amount": 377.81,
+            "description": "target world-class paradigms",
+            "index": "1",
+            "price": 91.09,
+            "quantity": 3.1,
+            "tax_amount": 39.85,
+            "total_ttc": 330.81,
+            "vat_amount": 6.88
+        }
+    ],
+    "seller": {
+        "name": "Jeffrey Carter"
+    },
+    "supplier": {
+        "address": "4825 Jeremy Streets New Bethanyborough, DE 83586",
+        "name": "Lauren Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 133.99,
+        "amount_including_tax": 179.16,
+        "tax_amount": 21.04,
+        "total_ht": 156.61,
+        "total_ttc": 484.39
+    }
+}

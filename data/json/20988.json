@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "3951 James Lake Apt. 866 Lake Michael, KY 98720",
+        "company_name": "Mays, Bennett and Malone",
+        "email": "lambertronald@example.com",
+        "name": "Stanley Raymond",
+        "phone": "4626192005"
+    },
+    "invoice": {
+        "date": "31.03.1993",
+        "due_date": "20.06.2004",
+        "number": "byL44029157744"
+    },
+    "payment": {
+        "account_number": 3767729137,
+        "bank_name": "Matthews, Robertson and Wilson",
+        "routing_number": 926331555
+    },
+    "products": [
+        {
+            "amount": 499.21,
+            "description": "repurpose extensible systems",
+            "index": "8",
+            "quantity": 8.76,
+            "unit_price": 75.03
+        }
+    ],
+    "seller": {
+        "address": "1063 Henderson Ports Suite 744 Port Seanbury, WY 64300",
+        "company_name": "Stevens, Parker and Graham",
+        "email": "james30@example.net"
+    }
+}

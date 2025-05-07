@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "76380 Webster Circle Suite 837 Aprilbury, VT 28517",
+        "business_no": "rS015",
+        "id": "Sm613"
+    },
+    "invoice": {
+        "date": "26.02.2007",
+        "number": "7083-5480"
+    },
+    "payment": {
+        "due_date": "18.05.1998",
+        "total": 516.68
+    },
+    "products": [
+        {
+            "amount": 160.48,
+            "description": "evolve user-centric metrics",
+            "quantity": 3.74,
+            "reference": "kP-368",
+            "unit_price": 65.97
+        },
+        {
+            "amount": 340.57,
+            "description": "streamline ubiquitous synergies",
+            "quantity": 1.08,
+            "reference": "qZ-337",
+            "unit_price": 54.82
+        }
+    ],
+    "seller": {
+        "address": "689 Anderson Trail Shawnville, AL 48537"
+    },
+    "tax": {
+        "base_ht": 187.86,
+        "regulations": 26.66,
+        "total_ht": 371.67,
+        "vat_amount": 174.65,
+        "vat_percentage": 14.31
+    }
+}

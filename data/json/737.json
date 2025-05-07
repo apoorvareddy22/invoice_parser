@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "3644 Thompson Via Apt. 523 North Carmen, ME 68396",
+        "company_name": "Obrien and Sons",
+        "country": "Sweden",
+        "name": "Sharon Lane"
+    },
+    "invoice": {
+        "date": "21.12.1991",
+        "number": 123207
+    },
+    "payment": {
+        "discount_amount": 20.48,
+        "discount_percentage": 16.03,
+        "due": 171.17,
+        "sub_total": 125.32,
+        "total": 403.97
+    },
+    "products": [
+        {
+            "description": "harness 24/365 e-business",
+            "index": "10",
+            "quantity": 7.45,
+            "total_price": 23.82,
+            "unit_price": 85.64
+        },
+        {
+            "description": "cultivate enterprise info-mediaries",
+            "index": "1",
+            "quantity": 4.79,
+            "total_price": 514.6,
+            "unit_price": 68.59
+        },
+        {
+            "description": "morph customized supply-chains",
+            "index": "9",
+            "quantity": 3.91,
+            "total_price": 632.32,
+            "unit_price": 22.45
+        }
+    ],
+    "seller": {
+        "address": "4111 Costa Square Suite 671 Alifurt, VI 97257",
+        "company_name": "Williams and Sons",
+        "vat_no": "Qx54171219861"
+    }
+}

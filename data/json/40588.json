@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "181 Allen Ranch Apt. 173 Hamptonberg, AZ 94651"
+    },
+    "invoice": {
+        "bc_no": "hQ03058",
+        "date": "11.03.1994",
+        "maturity_date": "15.08.1994",
+        "number": 591063
+    },
+    "products": [
+        {
+            "amount": 405.45,
+            "description": "synergize best-of-breed eyeballs",
+            "quantity": 3.84,
+            "unit_price": 58.04,
+            "vat_amount": 5.96
+        },
+        {
+            "amount": 24.48,
+            "description": "redefine user-centric networks",
+            "quantity": 6.77,
+            "unit_price": 91.26,
+            "vat_amount": 3.67
+        },
+        {
+            "amount": 460.74,
+            "description": "leverage granular models",
+            "quantity": 5.47,
+            "unit_price": 89.94,
+            "vat_amount": 3.29
+        }
+    ],
+    "seller": {
+        "address": "8503 Oconnor Walk South Christown, VI 18842"
+    },
+    "tax": {
+        "amount_excluding_tax": 192.64,
+        "amount_including_tax": 88.37,
+        "tax_amount": 14.34
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "335 Smith Mews Petersport, NY 91128"
+    },
+    "invoice": {
+        "bc_no": "cJ90788",
+        "date": "31.03.2001",
+        "maturity_date": "20.03.2002",
+        "number": 557058
+    },
+    "products": [
+        {
+            "amount": 490.99,
+            "description": "engage front-end e-markets",
+            "quantity": 5.73,
+            "unit_price": 82.39,
+            "vat_amount": 2.02
+        },
+        {
+            "amount": 7.93,
+            "description": "mesh proactive users",
+            "quantity": 3.65,
+            "unit_price": 31.13,
+            "vat_amount": 10.7
+        },
+        {
+            "amount": 249.9,
+            "description": "syndicate collaborative markets",
+            "quantity": 8.24,
+            "unit_price": 53.71,
+            "vat_amount": 2.89
+        },
+        {
+            "amount": 194.36,
+            "description": "repurpose B2B initiatives",
+            "quantity": 5.13,
+            "unit_price": 37.35,
+            "vat_amount": 0.71
+        }
+    ],
+    "seller": {
+        "address": "30989 Christopher Well East Bryanport, FL 47090"
+    },
+    "tax": {
+        "amount_excluding_tax": 13.86,
+        "amount_including_tax": 34.23,
+        "tax_amount": 10.34
+    }
+}

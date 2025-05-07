@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "11753 Mendoza Pines Apt. 152 Port Arthur, WI 51714",
+        "company_name": "Bond Group",
+        "email": "meganjones@example.net",
+        "name": "Joan Robinson",
+        "phone": "(815)937-5476x29234"
+    },
+    "invoice": {
+        "date": "14.10.2002",
+        "due_date": "21.10.2003",
+        "number": "USo82576368703"
+    },
+    "payment": {
+        "account_number": 3610558782,
+        "bank_name": "Diaz-Rasmussen",
+        "routing_number": 277471416
+    },
+    "products": [
+        {
+            "amount": 107.83,
+            "description": "facilitate customized technologies",
+            "index": "2",
+            "quantity": 5.68,
+            "unit_price": 72.04
+        },
+        {
+            "amount": 101.09,
+            "description": "whiteboard global markets",
+            "index": "4",
+            "quantity": 1.47,
+            "unit_price": 60.2
+        }
+    ],
+    "seller": {
+        "address": "95299 Smith Road Brettberg, NV 07045",
+        "company_name": "Bridges-Williams",
+        "email": "rhondahernandez@example.com"
+    }
+}

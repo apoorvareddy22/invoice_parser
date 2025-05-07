@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "46530 Torres Cliffs Suite 756 Lake Jessica, WV 07458",
+        "business_no": "fu294",
+        "id": "dN824"
+    },
+    "invoice": {
+        "date": "03.07.2005",
+        "number": "5123-4979"
+    },
+    "payment": {
+        "due_date": "14.02.2011",
+        "total": 659.47
+    },
+    "products": [
+        {
+            "amount": 273.86,
+            "description": "envisioneer bleeding-edge e-services",
+            "quantity": 9.82,
+            "reference": "VO-465",
+            "unit_price": 58.89
+        },
+        {
+            "amount": 9.61,
+            "description": "leverage extensible supply-chains",
+            "quantity": 9.53,
+            "reference": "HU-096",
+            "unit_price": 99.08
+        }
+    ],
+    "seller": {
+        "address": "4181 Ramsey Light South Gregory, CA 01436"
+    },
+    "tax": {
+        "base_ht": 499.4,
+        "regulations": 24.04,
+        "total_ht": 113.45,
+        "vat_amount": 120.47,
+        "vat_percentage": 27.4
+    }
+}

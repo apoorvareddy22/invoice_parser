@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "257 Lloyd Throughway South Ashleyfort, MP 86690",
+        "id": "wI125"
+    },
+    "invoice": {
+        "bc_no": "iE75208",
+        "currency_code": "DJF",
+        "date": "10.05.2002",
+        "due_date": "14.11.2017",
+        "number": 260620
+    },
+    "payment": {
+        "bank_name": "Holland-Parker",
+        "bic": "QXDLGB5G6NI",
+        "iban": "BHWG09079319793965"
+    },
+    "products": [
+        {
+            "amount": 64.39,
+            "description": "facilitate impactful initiatives",
+            "index": "4",
+            "price": 42.05,
+            "quantity": 9.19,
+            "tax_amount": 55.3,
+            "total_ttc": 339.79,
+            "vat_amount": 5.77
+        },
+        {
+            "amount": 81.97,
+            "description": "transition bleeding-edge mindshare",
+            "index": "1",
+            "price": 400.5,
+            "quantity": 5.96,
+            "tax_amount": 10.53,
+            "total_ttc": 406.07,
+            "vat_amount": 5.07
+        },
+        {
+            "amount": 474.28,
+            "description": "incentivize integrated relationships",
+            "index": "5",
+            "price": 198.93,
+            "quantity": 6.16,
+            "tax_amount": 98.12,
+            "total_ttc": 178.37,
+            "vat_amount": 14.52
+        }
+    ],
+    "seller": {
+        "name": "James Williams"
+    },
+    "supplier": {
+        "address": "26962 Daniel Shoal Jacobmouth, AK 31140",
+        "name": "Mr. Shane Smith MD"
+    },
+    "tax": {
+        "amount_excluding_tax": 98.65,
+        "amount_including_tax": 25.93,
+        "tax_amount": 24.91,
+        "total_ht": 189.06,
+        "total_ttc": 210.98
+    }
+}

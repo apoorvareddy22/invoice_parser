@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "965 Mary Street Suite 603 Nathanielborough, OK 74626"
+    },
+    "invoice": {
+        "bc_no": "Df99223",
+        "date": "09.03.2014",
+        "maturity_date": "09.08.2004",
+        "number": 853386
+    },
+    "products": [
+        {
+            "amount": 225.82,
+            "description": "grow interactive partnerships",
+            "quantity": 7.83,
+            "unit_price": 74.37,
+            "vat_amount": 1.4
+        },
+        {
+            "amount": 137.25,
+            "description": "incubate virtual portals",
+            "quantity": 9.79,
+            "unit_price": 38.39,
+            "vat_amount": 2.19
+        },
+        {
+            "amount": 435.79,
+            "description": "monetize real-time functionalities",
+            "quantity": 4.2,
+            "unit_price": 69.91,
+            "vat_amount": 1.45
+        }
+    ],
+    "seller": {
+        "address": "371 Sanchez Port Cynthiaborough, NE 28171"
+    },
+    "tax": {
+        "amount_excluding_tax": 91.58,
+        "amount_including_tax": 82.24,
+        "tax_amount": 12.35
+    }
+}

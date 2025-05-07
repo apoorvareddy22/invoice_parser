@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "586 Payne Hill Carlosville, ND 72864",
+        "email": "carrie46@example.org",
+        "phone": "(587)964-8655x509",
+        "vat_no": "fK90157053242"
+    },
+    "invoice": {
+        "date": "12.01.2009",
+        "due_date": "29.03.1997",
+        "market_reference": 864727,
+        "notes": "harness integrated deliverables",
+        "number": "3630-9345",
+        "reference": 343055,
+        "vat_no": "mF21878682377"
+    },
+    "payment": {
+        "net_total": 125.69,
+        "total": 544.5
+    },
+    "products": [
+        {
+            "amount": 415.48,
+            "description": "deploy enterprise supply-chains",
+            "hours": 7.59,
+            "rate": 5.36
+        },
+        {
+            "amount": 433.59,
+            "description": "empower dynamic communities",
+            "hours": 6.49,
+            "rate": 4.71
+        }
+    ],
+    "seller": {
+        "address": "USNS Hall FPO AA 75969",
+        "email": "ihernandez@example.com",
+        "name": "John Jones"
+    },
+    "tax": {
+        "base": 25.62,
+        "tax_amount": 24.47,
+        "total_tax": 18.13
+    }
+}

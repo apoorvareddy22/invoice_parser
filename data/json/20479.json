@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "887 Mann Coves Lake Rachelport, IL 81560",
+        "company_name": "Woods and Sons",
+        "email": "denisepaul@example.com",
+        "name": "James Jackson",
+        "phone": "5962570755"
+    },
+    "invoice": {
+        "date": "24.02.1991",
+        "due_date": "21.08.2016",
+        "number": "sFp07215375289"
+    },
+    "payment": {
+        "account_number": 3261486086,
+        "bank_name": "Diaz-Roberts",
+        "routing_number": 666995921
+    },
+    "products": [
+        {
+            "amount": 210.13,
+            "description": "benchmark granular bandwidth",
+            "index": "9",
+            "quantity": 2.1,
+            "unit_price": 35.96
+        }
+    ],
+    "seller": {
+        "address": "82747 Sara Courts Apt. 598 Benjaminton, DE 80431",
+        "company_name": "Calderon-Peterson",
+        "email": "ann24@example.net"
+    }
+}

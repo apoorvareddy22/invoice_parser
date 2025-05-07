@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "714 Brown Bridge Emmamouth, NJ 46897",
+        "company_name": "Bishop Inc",
+        "country": "United States Virgin Islands",
+        "email": "fsmith@example.net",
+        "name": "Crystal Summers",
+        "phone": "853-382-2524",
+        "vat_no": "bR41411586007"
+    },
+    "invoice": {
+        "date": "15.05.2008",
+        "due_date": "23.04.2008",
+        "linked_invoice": "uh-0545-7575",
+        "notes": "innovate integrated action-items",
+        "number": "ws-1523-6163"
+    },
+    "products": [
+        {
+            "description": "reinvent enterprise e-markets",
+            "discount_percentage": 14.61,
+            "price": 419.42,
+            "quantity": 1.89,
+            "unit_price": 63.67
+        },
+        {
+            "description": "aggregate collaborative networks",
+            "discount_percentage": 15.33,
+            "price": 210.44,
+            "quantity": 2.03,
+            "unit_price": 69.48
+        }
+    ],
+    "seller": {
+        "address": "44120 Seth Extensions Joshuafurt, NV 13255",
+        "ape": "4970a",
+        "capital": 97116050,
+        "country": "Oman",
+        "email": "qroth@example.net",
+        "name": "Jacob Yu",
+        "phone_1": "+1-712-218-2538x6241",
+        "phone_2": "549-243-7618",
+        "phone_3": "825.938.3644x8222",
+        "ref_walk": "YYOQ5853",
+        "reference": "FD811",
+        "siret": 49185796316999,
+        "vat_no": "No38716332099",
+        "website": "https://www.brown.net/"
+    },
+    "tax": {
+        "amount_0": 21.47,
+        "amount_1": 22.66,
+        "base_0": 26.51,
+        "base_1": 10.41,
+        "total_ht": 264.22,
+        "total_tax": 24.62,
+        "total_ttc": 130.6,
+        "vat_0": 19.16,
+        "vat_1": 12.14
+    }
+}

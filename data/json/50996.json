@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "888 Joseph Keys Suite 223 Nguyenfort, WY 35547",
+        "id": "OT390"
+    },
+    "invoice": {
+        "bc_no": "mE27286",
+        "currency_code": "KMF",
+        "date": "02.09.2023",
+        "due_date": "07.04.2004",
+        "number": 783828
+    },
+    "payment": {
+        "bank_name": "Long LLC",
+        "bic": "KGAHGB9H",
+        "iban": "ZMHI27421046508311"
+    },
+    "products": [
+        {
+            "amount": 352.31,
+            "description": "leverage revolutionary niches",
+            "index": "1",
+            "price": 264.59,
+            "quantity": 1.24,
+            "tax_amount": 67.89,
+            "total_ttc": 453.69,
+            "vat_amount": 10.39
+        },
+        {
+            "amount": 460.25,
+            "description": "engineer vertical content",
+            "index": "10",
+            "price": 55.72,
+            "quantity": 3.55,
+            "tax_amount": 96.92,
+            "total_ttc": 395.6,
+            "vat_amount": 4.95
+        }
+    ],
+    "seller": {
+        "name": "Lisa Ellis"
+    },
+    "supplier": {
+        "address": "798 Brooke Knoll Jamesland, AK 18426",
+        "name": "Kimberly Wallace"
+    },
+    "tax": {
+        "amount_excluding_tax": 19.08,
+        "amount_including_tax": 190.13,
+        "tax_amount": 17.94,
+        "total_ht": 216.54,
+        "total_ttc": 385.15
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "421 Kelly Throughway East Theresachester, NV 89626",
+        "email": "douglascarlson@example.com",
+        "phone": "360-465-9618x6237",
+        "vat_no": "HG76740089503"
+    },
+    "invoice": {
+        "date": "16.06.1993",
+        "due_date": "12.12.2020",
+        "market_reference": 173332,
+        "notes": "streamline front-end deliverables",
+        "number": "3591-0999",
+        "reference": 838476,
+        "vat_no": "Tf97825385806"
+    },
+    "payment": {
+        "net_total": 199.38,
+        "total": 585.62
+    },
+    "products": [
+        {
+            "amount": 286.95,
+            "description": "iterate synergistic e-commerce",
+            "hours": 3.42,
+            "rate": 2.32
+        },
+        {
+            "amount": 487.72,
+            "description": "innovate 24/365 communities",
+            "hours": 4.64,
+            "rate": 5.94
+        }
+    ],
+    "seller": {
+        "address": "013 Johnson Crossroad Lake Heathertown, NE 44209",
+        "email": "hayesantonio@example.com",
+        "name": "Seth Walker"
+    },
+    "tax": {
+        "base": 23.77,
+        "tax_amount": 10.57,
+        "total_tax": 15.05
+    }
+}

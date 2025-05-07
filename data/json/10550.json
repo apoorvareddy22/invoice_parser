@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "6777 Daniel Crossroad North Joseph, MI 64673",
+        "email": "ramirezmichael@example.com",
+        "phone": "(542)777-6369",
+        "vat_no": "XP89503385138"
+    },
+    "invoice": {
+        "date": "25.04.2006",
+        "due_date": "05.10.2003",
+        "market_reference": 589226,
+        "notes": "cultivate dot-com systems",
+        "number": "5923-0731",
+        "reference": 454209,
+        "vat_no": "sS15212699899"
+    },
+    "payment": {
+        "net_total": 32.16,
+        "total": 543.34
+    },
+    "products": [
+        {
+            "amount": 105.83,
+            "description": "cultivate rich info-mediaries",
+            "hours": 5.97,
+            "rate": 7.17
+        },
+        {
+            "amount": 66.77,
+            "description": "innovate wireless deliverables",
+            "hours": 5.39,
+            "rate": 1.69
+        }
+    ],
+    "seller": {
+        "address": "703 Scott Meadow Apt. 851 Gabrielberg, CA 24399",
+        "email": "durantammy@example.org",
+        "name": "Donna Romero"
+    },
+    "tax": {
+        "base": 23.45,
+        "tax_amount": 14.74,
+        "total_tax": 17.4
+    }
+}

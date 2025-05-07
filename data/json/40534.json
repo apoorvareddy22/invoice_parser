@@ -1,0 +1,49 @@
+{
+    "buyer": {
+        "address": "705 Elizabeth Extension Suite 062 Lake Josephland, ID 43594"
+    },
+    "invoice": {
+        "bc_no": "cC42530",
+        "date": "20.05.1996",
+        "maturity_date": "23.09.2014",
+        "number": 600585
+    },
+    "products": [
+        {
+            "amount": 232.85,
+            "description": "enhance one-to-one technologies",
+            "quantity": 8.34,
+            "unit_price": 47.6,
+            "vat_amount": 2.35
+        },
+        {
+            "amount": 428.25,
+            "description": "engineer mission-critical relationships",
+            "quantity": 6.24,
+            "unit_price": 25.41,
+            "vat_amount": 2.48
+        },
+        {
+            "amount": 268.31,
+            "description": "scale magnetic web services",
+            "quantity": 8.31,
+            "unit_price": 55.08,
+            "vat_amount": 8.13
+        },
+        {
+            "amount": 275.21,
+            "description": "leverage e-business technologies",
+            "quantity": 9.68,
+            "unit_price": 37.55,
+            "vat_amount": 2.59
+        }
+    ],
+    "seller": {
+        "address": "400 Kristy Radial Erikaview, OR 32366"
+    },
+    "tax": {
+        "amount_excluding_tax": 100.34,
+        "amount_including_tax": 78.54,
+        "tax_amount": 22.09
+    }
+}

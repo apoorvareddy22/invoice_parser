@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "6422 Ashley Falls East Christopher, ME 53404",
+        "id": "Va384"
+    },
+    "invoice": {
+        "bc_no": "FJ33963",
+        "currency_code": "CVE",
+        "date": "28.01.2009",
+        "due_date": "09.03.1994",
+        "number": 496172
+    },
+    "payment": {
+        "bank_name": "Wilcox Group",
+        "bic": "NRPEGB5ZWY6",
+        "iban": "WKIF19397357255765"
+    },
+    "products": [
+        {
+            "amount": 90.15,
+            "description": "scale killer e-tailers",
+            "index": "4",
+            "price": 440.56,
+            "quantity": 5.76,
+            "tax_amount": 47.51,
+            "total_ttc": 274.39,
+            "vat_amount": 0.15
+        },
+        {
+            "amount": 104.25,
+            "description": "cultivate seamless functionalities",
+            "index": "6",
+            "price": 406.86,
+            "quantity": 5.07,
+            "tax_amount": 70.83,
+            "total_ttc": 291.97,
+            "vat_amount": 8.23
+        },
+        {
+            "amount": 237.32,
+            "description": "re-intermediate dot-com experiences",
+            "index": "4",
+            "price": 276.16,
+            "quantity": 6.15,
+            "tax_amount": 41.87,
+            "total_ttc": 373.57,
+            "vat_amount": 9.86
+        }
+    ],
+    "seller": {
+        "name": "Ryan Roberts"
+    },
+    "supplier": {
+        "address": "97782 Hayes Summit Suite 987 Port Christianberg, TX 22955",
+        "name": "Sarah Vaughan"
+    },
+    "tax": {
+        "amount_excluding_tax": 130.06,
+        "amount_including_tax": 182.6,
+        "tax_amount": 14.34,
+        "total_ht": 244.68,
+        "total_ttc": 343.26
+    }
+}

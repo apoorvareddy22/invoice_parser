@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "3243 Alexandria Terrace Ortegaland, ME 63633",
+        "id": "gp856"
+    },
+    "invoice": {
+        "bc_no": "VT98927",
+        "currency_code": "BIF",
+        "date": "22.03.1990",
+        "due_date": "21.04.2022",
+        "number": 270754
+    },
+    "payment": {
+        "bank_name": "Torres LLC",
+        "bic": "WOPXGBBU",
+        "iban": "BNTQ28780392133385"
+    },
+    "products": [
+        {
+            "amount": 394.55,
+            "description": "extend efficient web-readiness",
+            "index": "10",
+            "price": 421.19,
+            "quantity": 2.28,
+            "tax_amount": 11.09,
+            "total_ttc": 402.94,
+            "vat_amount": 4.95
+        },
+        {
+            "amount": 188.73,
+            "description": "drive distributed architectures",
+            "index": "2",
+            "price": 452.89,
+            "quantity": 8.17,
+            "tax_amount": 65.64,
+            "total_ttc": 387.48,
+            "vat_amount": 1.68
+        },
+        {
+            "amount": 379.23,
+            "description": "incubate collaborative solutions",
+            "index": "2",
+            "price": 456.59,
+            "quantity": 7.04,
+            "tax_amount": 82.8,
+            "total_ttc": 478.24,
+            "vat_amount": 3.57
+        },
+        {
+            "amount": 150.19,
+            "description": "brand extensible e-markets",
+            "index": "6",
+            "price": 6.73,
+            "quantity": 1.67,
+            "tax_amount": 11.2,
+            "total_ttc": 186.42,
+            "vat_amount": 4.69
+        },
+        {
+            "amount": 211.17,
+            "description": "expedite rich e-services",
+            "index": "10",
+            "price": 211.1,
+            "quantity": 4.1,
+            "tax_amount": 42.96,
+            "total_ttc": 401.52,
+            "vat_amount": 4.09
+        },
+        {
+            "amount": 302.12,
+            "description": "leverage rich users",
+            "index": "3",
+            "price": 28.73,
+            "quantity": 1.36,
+            "tax_amount": 92.81,
+            "total_ttc": 324.2,
+            "vat_amount": 9.16
+        }
+    ],
+    "seller": {
+        "name": "Lauren Mcdonald"
+    },
+    "supplier": {
+        "address": "8199 Davila Lodge Suite 195 Lake Bryanmouth, MA 66543",
+        "name": "Lawrence Castillo"
+    },
+    "tax": {
+        "amount_excluding_tax": 152.85,
+        "amount_including_tax": 198.55,
+        "tax_amount": 28.57,
+        "total_ht": 461.07,
+        "total_ttc": 365.33
+    }
+}

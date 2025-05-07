@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "49861 Danny Manor Deborahfurt, NE 01500",
+        "id": "cq775"
+    },
+    "invoice": {
+        "bc_no": "fF54588",
+        "currency_code": "BIF",
+        "date": "28.09.2005",
+        "due_date": "12.12.2005",
+        "number": 164771
+    },
+    "payment": {
+        "bank_name": "Gonzalez, Torres and Anderson",
+        "bic": "SECCGBQ7",
+        "iban": "JJVV42948728262114"
+    },
+    "products": [
+        {
+            "amount": 108.28,
+            "description": "re-contextualize real-time supply-chains",
+            "index": "4",
+            "price": 250.25,
+            "quantity": 3.48,
+            "tax_amount": 46.98,
+            "total_ttc": 377.6,
+            "vat_amount": 3.22
+        }
+    ],
+    "seller": {
+        "name": "Emily Wilson"
+    },
+    "supplier": {
+        "address": "85186 Katherine Meadow Apt. 064 Lake Eric, CO 52506",
+        "name": "Philip Dean"
+    },
+    "tax": {
+        "amount_excluding_tax": 38.2,
+        "amount_including_tax": 41.26,
+        "tax_amount": 13.25,
+        "total_ht": 227.86,
+        "total_ttc": 218.81
+    }
+}

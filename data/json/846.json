@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "1979 Brown Shoals Suite 549 West Denise, IA 99919",
+        "company_name": "Strickland-Sanchez",
+        "country": "Slovakia (Slovak Republic)",
+        "name": "Mrs. Erin Grimes"
+    },
+    "invoice": {
+        "date": "11.11.1996",
+        "number": 235307
+    },
+    "payment": {
+        "discount_amount": 49.45,
+        "discount_percentage": 6.75,
+        "due": 90.11,
+        "sub_total": 157.23,
+        "total": 512.19
+    },
+    "products": [
+        {
+            "description": "whiteboard out-of-the-box solutions",
+            "index": "8",
+            "quantity": 7.69,
+            "total_price": 60.86,
+            "unit_price": 56.94
+        },
+        {
+            "description": "expedite leading-edge mindshare",
+            "index": "6",
+            "quantity": 7.53,
+            "total_price": 210.06,
+            "unit_price": 76.18
+        },
+        {
+            "description": "enable killer technologies",
+            "index": "10",
+            "quantity": 5.56,
+            "total_price": 538.34,
+            "unit_price": 85.94
+        }
+    ],
+    "seller": {
+        "address": "244 Koch Ridge Wrightshire, WY 33304",
+        "company_name": "Morgan, Olsen and Barrett",
+        "vat_no": "dm49111460700"
+    }
+}

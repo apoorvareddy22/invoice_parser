@@ -1,0 +1,47 @@
+{
+    "buyer": {
+        "address": "02478 Monique Hollow Suite 062 Port Emilyhaven, NJ 94076",
+        "company_name": "Guerrero, Williams and Miller",
+        "country": "French Guiana",
+        "name": "Randy Jones"
+    },
+    "invoice": {
+        "date": "23.01.2002",
+        "number": 675469
+    },
+    "payment": {
+        "discount_amount": 35.45,
+        "discount_percentage": 12.07,
+        "due": 93.27,
+        "sub_total": 128.71,
+        "total": 501.78
+    },
+    "products": [
+        {
+            "description": "synergize efficient eyeballs",
+            "index": "7",
+            "quantity": 2.64,
+            "total_price": 13.39,
+            "unit_price": 89.44
+        },
+        {
+            "description": "incubate efficient technologies",
+            "index": "6",
+            "quantity": 8.99,
+            "total_price": 275.84,
+            "unit_price": 22.54
+        },
+        {
+            "description": "optimize efficient technologies",
+            "index": "7",
+            "quantity": 8.61,
+            "total_price": 870.69,
+            "unit_price": 77.51
+        }
+    ],
+    "seller": {
+        "address": "292 Jones Land Jonesport, NE 33365",
+        "company_name": "Stone-Jones",
+        "vat_no": "cG68666146400"
+    }
+}

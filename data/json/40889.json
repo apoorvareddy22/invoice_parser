@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "9800 Raymond Green Johnnystad, MS 42467"
+    },
+    "invoice": {
+        "bc_no": "LN99164",
+        "date": "03.04.2021",
+        "maturity_date": "28.03.2023",
+        "number": 148196
+    },
+    "products": [
+        {
+            "amount": 452.92,
+            "description": "e-enable one-to-one portals",
+            "quantity": 9.08,
+            "unit_price": 39.06,
+            "vat_amount": 7.67
+        },
+        {
+            "amount": 69.03,
+            "description": "iterate plug-and-play e-markets",
+            "quantity": 7.38,
+            "unit_price": 12.59,
+            "vat_amount": 4.44
+        },
+        {
+            "amount": 90.45,
+            "description": "exploit bleeding-edge initiatives",
+            "quantity": 8.5,
+            "unit_price": 54.19,
+            "vat_amount": 1.37
+        }
+    ],
+    "seller": {
+        "address": "0746 Lawrence Prairie Apt. 661 Phillipsville, ID 05841"
+    },
+    "tax": {
+        "amount_excluding_tax": 14.8,
+        "amount_including_tax": 111.53,
+        "tax_amount": 21.19
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "667 Cameron Islands Lake Lindaburgh, NJ 40019",
+        "business_no": "TA113",
+        "id": "eD458"
+    },
+    "invoice": {
+        "date": "25.06.2020",
+        "number": "4303-6540"
+    },
+    "payment": {
+        "due_date": "20.02.2011",
+        "total": 588.6
+    },
+    "products": [
+        {
+            "amount": 74.69,
+            "description": "incubate dynamic functionalities",
+            "quantity": 7.06,
+            "reference": "kH-286",
+            "unit_price": 95.6
+        },
+        {
+            "amount": 16.21,
+            "description": "integrate frictionless e-markets",
+            "quantity": 1.92,
+            "reference": "bZ-326",
+            "unit_price": 38.99
+        }
+    ],
+    "seller": {
+        "address": "87050 Collin Oval Lake Jenniferland, OH 97573"
+    },
+    "tax": {
+        "base_ht": 227.95,
+        "regulations": 28.89,
+        "total_ht": 185.2,
+        "vat_amount": 198.96,
+        "vat_percentage": 25.45
+    }
+}

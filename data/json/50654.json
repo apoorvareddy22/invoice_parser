@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "Unit 0984 Box 2358 DPO AA 54945",
+        "id": "QZ440"
+    },
+    "invoice": {
+        "bc_no": "Lf41313",
+        "currency_code": "AUD",
+        "date": "06.01.2016",
+        "due_date": "21.06.1993",
+        "number": 464140
+    },
+    "payment": {
+        "bank_name": "Hall-Porter",
+        "bic": "VGKMGB5LS28",
+        "iban": "ECQW84146938487044"
+    },
+    "products": [
+        {
+            "amount": 254.43,
+            "description": "syndicate cross-media info-mediaries",
+            "index": "5",
+            "price": 19.18,
+            "quantity": 4.59,
+            "tax_amount": 61.04,
+            "total_ttc": 105.53,
+            "vat_amount": 9.16
+        },
+        {
+            "amount": 428.18,
+            "description": "revolutionize e-business supply-chains",
+            "index": "7",
+            "price": 453.4,
+            "quantity": 5.01,
+            "tax_amount": 73.97,
+            "total_ttc": 104.36,
+            "vat_amount": 2.31
+        },
+        {
+            "amount": 395.89,
+            "description": "visualize leading-edge initiatives",
+            "index": "8",
+            "price": 92.97,
+            "quantity": 8.29,
+            "tax_amount": 54.96,
+            "total_ttc": 327.25,
+            "vat_amount": 3.48
+        },
+        {
+            "amount": 306.02,
+            "description": "scale end-to-end infrastructures",
+            "index": "8",
+            "price": 97.36,
+            "quantity": 4.68,
+            "tax_amount": 81.11,
+            "total_ttc": 377.86,
+            "vat_amount": 7.75
+        },
+        {
+            "amount": 464.73,
+            "description": "integrate web-enabled models",
+            "index": "10",
+            "price": 350.88,
+            "quantity": 6.89,
+            "tax_amount": 44.05,
+            "total_ttc": 415.54,
+            "vat_amount": 3.65
+        },
+        {
+            "amount": 270.26,
+            "description": "disintermediate bleeding-edge models",
+            "index": "1",
+            "price": 25.96,
+            "quantity": 9.6,
+            "tax_amount": 95.07,
+            "total_ttc": 168.96,
+            "vat_amount": 3.76
+        }
+    ],
+    "seller": {
+        "name": "Anthony Wilson"
+    },
+    "supplier": {
+        "address": "815 Michele Vista Wilkinsfurt, NV 76154",
+        "name": "Dennis Ramos"
+    },
+    "tax": {
+        "amount_excluding_tax": 97.09,
+        "amount_including_tax": 161.82,
+        "tax_amount": 21.81,
+        "total_ht": 215.67,
+        "total_ttc": 301.86
+    }
+}

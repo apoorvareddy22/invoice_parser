@@ -1,0 +1,33 @@
+{
+    "buyer": {
+        "address": "PSC 6131, Box 2813 APO AE 75304",
+        "company_name": "Burns, Townsend and Blair",
+        "country": "Peru",
+        "name": "Jason Jones"
+    },
+    "invoice": {
+        "date": "29.12.1995",
+        "number": 561637
+    },
+    "payment": {
+        "discount_amount": 27.4,
+        "discount_percentage": 19.34,
+        "due": 56.64,
+        "sub_total": 163.25,
+        "total": 752.5
+    },
+    "products": [
+        {
+            "description": "re-contextualize turn-key applications",
+            "index": "3",
+            "quantity": 4.09,
+            "total_price": 69.02,
+            "unit_price": 27.65
+        }
+    ],
+    "seller": {
+        "address": "PSC 2279, Box 0947 APO AA 89878",
+        "company_name": "Smith Inc",
+        "vat_no": "Hc56348369872"
+    }
+}

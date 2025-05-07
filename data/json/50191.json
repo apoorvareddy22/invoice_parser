@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "29979 Jonathan Brook Suite 655 Smithchester, IL 29024",
+        "id": "EM151"
+    },
+    "invoice": {
+        "bc_no": "Mo85621",
+        "currency_code": "VEF",
+        "date": "14.04.2004",
+        "due_date": "07.12.2003",
+        "number": 766560
+    },
+    "payment": {
+        "bank_name": "Arnold-Reed",
+        "bic": "RCFLGBE8",
+        "iban": "FPZX24277023651230"
+    },
+    "products": [
+        {
+            "amount": 347.27,
+            "description": "enhance B2B partnerships",
+            "index": "2",
+            "price": 429.93,
+            "quantity": 1.59,
+            "tax_amount": 81.8,
+            "total_ttc": 110.79,
+            "vat_amount": 5.2
+        },
+        {
+            "amount": 377.26,
+            "description": "harness one-to-one convergence",
+            "index": "5",
+            "price": 195.61,
+            "quantity": 5.77,
+            "tax_amount": 97.26,
+            "total_ttc": 114.78,
+            "vat_amount": 1.08
+        },
+        {
+            "amount": 87.0,
+            "description": "synthesize bleeding-edge technologies",
+            "index": "3",
+            "price": 174.87,
+            "quantity": 4.48,
+            "tax_amount": 47.16,
+            "total_ttc": 146.71,
+            "vat_amount": 8.59
+        },
+        {
+            "amount": 309.91,
+            "description": "revolutionize rich vortals",
+            "index": "1",
+            "price": 356.27,
+            "quantity": 2.01,
+            "tax_amount": 57.7,
+            "total_ttc": 178.93,
+            "vat_amount": 9.67
+        },
+        {
+            "amount": 433.53,
+            "description": "engage killer supply-chains",
+            "index": "8",
+            "price": 73.03,
+            "quantity": 7.45,
+            "tax_amount": 79.15,
+            "total_ttc": 288.46,
+            "vat_amount": 9.75
+        },
+        {
+            "amount": 46.28,
+            "description": "seize dynamic markets",
+            "index": "5",
+            "price": 92.24,
+            "quantity": 8.61,
+            "tax_amount": 36.58,
+            "total_ttc": 485.29,
+            "vat_amount": 10.2
+        }
+    ],
+    "seller": {
+        "name": "Sherry Smith"
+    },
+    "supplier": {
+        "address": "582 Keller Flat Kellyberg, MO 20761",
+        "name": "Elizabeth Smith"
+    },
+    "tax": {
+        "amount_excluding_tax": 56.98,
+        "amount_including_tax": 67.76,
+        "tax_amount": 24.91,
+        "total_ht": 254.66,
+        "total_ttc": 376.22
+    }
+}

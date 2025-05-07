@@ -1,0 +1,62 @@
+{
+    "buyer": {
+        "address": "5150 Christy Extensions Apt. 245 North William, WY 12078",
+        "business_no": "MX147",
+        "id": "su404"
+    },
+    "invoice": {
+        "date": "08.06.1997",
+        "number": "7979-8185"
+    },
+    "payment": {
+        "due_date": "09.04.2020",
+        "total": 849.57
+    },
+    "products": [
+        {
+            "amount": 25.84,
+            "description": "e-enable compelling e-services",
+            "quantity": 3.38,
+            "reference": "IX-794",
+            "unit_price": 43.42
+        },
+        {
+            "amount": 285.23,
+            "description": "iterate cross-media networks",
+            "quantity": 1.62,
+            "reference": "Sa-624",
+            "unit_price": 36.22
+        },
+        {
+            "amount": 472.91,
+            "description": "streamline virtual technologies",
+            "quantity": 1.58,
+            "reference": "mA-401",
+            "unit_price": 92.6
+        },
+        {
+            "amount": 85.24,
+            "description": "disintermediate enterprise systems",
+            "quantity": 1.28,
+            "reference": "uo-358",
+            "unit_price": 47.58
+        },
+        {
+            "amount": 344.96,
+            "description": "empower impactful e-services",
+            "quantity": 9.61,
+            "reference": "TI-981",
+            "unit_price": 23.25
+        }
+    ],
+    "seller": {
+        "address": "170 Sherry Trail Apt. 189 West John, AK 78820"
+    },
+    "tax": {
+        "base_ht": 491.81,
+        "regulations": 21.05,
+        "total_ht": 133.36,
+        "vat_amount": 79.8,
+        "vat_percentage": 20.52
+    }
+}

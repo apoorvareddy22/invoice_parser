@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "Unit 3829 Box 4740 DPO AP 45756",
+        "email": "jeromethomas@example.com",
+        "phone": "+1-639-894-9810x86184",
+        "vat_no": "lF54330809077"
+    },
+    "invoice": {
+        "date": "01.04.2013",
+        "due_date": "12.04.2012",
+        "market_reference": 255987,
+        "notes": "strategize intuitive markets",
+        "number": "3900-5773",
+        "reference": 109462,
+        "vat_no": "Wv73322236025"
+    },
+    "payment": {
+        "net_total": 129.35,
+        "total": 672.04
+    },
+    "products": [
+        {
+            "amount": 37.73,
+            "description": "extend value-added convergence",
+            "hours": 4.44,
+            "rate": 2.93
+        },
+        {
+            "amount": 409.26,
+            "description": "scale out-of-the-box users",
+            "hours": 2.66,
+            "rate": 9.87
+        },
+        {
+            "amount": 190.17,
+            "description": "orchestrate virtual e-tailers",
+            "hours": 4.15,
+            "rate": 3.83
+        },
+        {
+            "amount": 61.23,
+            "description": "incubate transparent synergies",
+            "hours": 7.25,
+            "rate": 7.28
+        },
+        {
+            "amount": 7.5,
+            "description": "orchestrate interactive experiences",
+            "hours": 7.73,
+            "rate": 8.6
+        },
+        {
+            "amount": 159.32,
+            "description": "transform distributed paradigms",
+            "hours": 2.13,
+            "rate": 2.54
+        }
+    ],
+    "seller": {
+        "address": "2202 Brandon Well Apt. 708 Lake Abigail, VA 79048",
+        "email": "davisdonna@example.org",
+        "name": "Philip Moore"
+    },
+    "tax": {
+        "base": 14.81,
+        "tax_amount": 23.06,
+        "total_tax": 18.14
+    }
+}

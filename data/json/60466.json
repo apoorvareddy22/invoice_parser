@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "42066 Jessica Fort Suite 462 Kingburgh, KS 53001",
+        "business_no": "wg312",
+        "id": "cg516"
+    },
+    "invoice": {
+        "date": "05.09.2011",
+        "number": "0956-7417"
+    },
+    "payment": {
+        "due_date": "23.07.2015",
+        "total": 265.53
+    },
+    "products": [
+        {
+            "amount": 217.54,
+            "description": "maximize transparent action-items",
+            "quantity": 4.19,
+            "reference": "cX-738",
+            "unit_price": 67.41
+        },
+        {
+            "amount": 378.33,
+            "description": "unleash next-generation niches",
+            "quantity": 6.08,
+            "reference": "wr-525",
+            "unit_price": 57.88
+        },
+        {
+            "amount": 97.18,
+            "description": "deploy sticky web services",
+            "quantity": 5.5,
+            "reference": "Yr-046",
+            "unit_price": 59.67
+        }
+    ],
+    "seller": {
+        "address": "43329 Jacqueline Crossroad North Monicaland, MA 70060"
+    },
+    "tax": {
+        "base_ht": 494.52,
+        "regulations": 29.02,
+        "total_ht": 395.52,
+        "vat_amount": 99.45,
+        "vat_percentage": 19.31
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "PSC 8260, Box 6693 APO AE 75931",
+        "id": "vO726"
+    },
+    "invoice": {
+        "bc_no": "SV65229",
+        "currency_code": "BWP",
+        "date": "24.05.2018",
+        "due_date": "15.04.2022",
+        "number": 704704
+    },
+    "payment": {
+        "bank_name": "Adkins-Gray",
+        "bic": "YTTPGB4V",
+        "iban": "EOBY11176663526839"
+    },
+    "products": [
+        {
+            "amount": 20.34,
+            "description": "generate revolutionary mindshare",
+            "index": "9",
+            "price": 392.85,
+            "quantity": 7.25,
+            "tax_amount": 18.82,
+            "total_ttc": 192.42,
+            "vat_amount": 3.98
+        },
+        {
+            "amount": 158.23,
+            "description": "transform distributed vortals",
+            "index": "6",
+            "price": 346.34,
+            "quantity": 6.43,
+            "tax_amount": 83.48,
+            "total_ttc": 111.25,
+            "vat_amount": 10.41
+        },
+        {
+            "amount": 247.26,
+            "description": "implement value-added eyeballs",
+            "index": "3",
+            "price": 92.42,
+            "quantity": 4.93,
+            "tax_amount": 34.56,
+            "total_ttc": 193.0,
+            "vat_amount": 1.65
+        },
+        {
+            "amount": 305.4,
+            "description": "unleash frictionless synergies",
+            "index": "8",
+            "price": 268.32,
+            "quantity": 6.74,
+            "tax_amount": 90.1,
+            "total_ttc": 338.89,
+            "vat_amount": 9.1
+        },
+        {
+            "amount": 295.45,
+            "description": "innovate next-generation niches",
+            "index": "7",
+            "price": 134.87,
+            "quantity": 7.73,
+            "tax_amount": 13.15,
+            "total_ttc": 220.44,
+            "vat_amount": 8.12
+        },
+        {
+            "amount": 185.52,
+            "description": "strategize global markets",
+            "index": "1",
+            "price": 407.73,
+            "quantity": 1.27,
+            "tax_amount": 36.18,
+            "total_ttc": 382.46,
+            "vat_amount": 10.06
+        },
+        {
+            "amount": 80.37,
+            "description": "scale robust methodologies",
+            "index": "10",
+            "price": 57.0,
+            "quantity": 8.24,
+            "tax_amount": 35.05,
+            "total_ttc": 326.29,
+            "vat_amount": 11.2
+        }
+    ],
+    "seller": {
+        "name": "Sarah York"
+    },
+    "supplier": {
+        "address": "180 Stacie Lock Madelineville, DE 76651",
+        "name": "Christina Lawrence"
+    },
+    "tax": {
+        "amount_excluding_tax": 61.1,
+        "amount_including_tax": 109.36,
+        "tax_amount": 27.92,
+        "total_ht": 311.99,
+        "total_ttc": 486.2
+    }
+}

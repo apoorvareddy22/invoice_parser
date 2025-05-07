@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "34602 Angela Shores Cynthiaberg, MI 76032",
+        "business_no": "YM033",
+        "id": "iB907"
+    },
+    "invoice": {
+        "date": "02.11.2001",
+        "number": "6777-1560"
+    },
+    "payment": {
+        "due_date": "04.05.2014",
+        "total": 187.97
+    },
+    "products": [
+        {
+            "amount": 281.5,
+            "description": "enhance out-of-the-box applications",
+            "quantity": 4.2,
+            "reference": "XY-631",
+            "unit_price": 45.74
+        },
+        {
+            "amount": 72.83,
+            "description": "exploit magnetic relationships",
+            "quantity": 2.91,
+            "reference": "xq-807",
+            "unit_price": 91.03
+        }
+    ],
+    "seller": {
+        "address": "689 Joseph Bypass Apt. 063 Port Matthewtown, MI 31130"
+    },
+    "tax": {
+        "base_ht": 132.33,
+        "regulations": 27.22,
+        "total_ht": 104.06,
+        "vat_amount": 163.78,
+        "vat_percentage": 18.9
+    }
+}

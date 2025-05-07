@@ -1,0 +1,42 @@
+{
+    "buyer": {
+        "address": "57872 Hall Grove North Josephtown, PA 87491"
+    },
+    "invoice": {
+        "bc_no": "Et51802",
+        "date": "15.07.2015",
+        "maturity_date": "26.03.2015",
+        "number": 525548
+    },
+    "products": [
+        {
+            "amount": 481.83,
+            "description": "transition sticky convergence",
+            "quantity": 4.59,
+            "unit_price": 90.27,
+            "vat_amount": 0.62
+        },
+        {
+            "amount": 411.68,
+            "description": "implement rich models",
+            "quantity": 1.13,
+            "unit_price": 72.35,
+            "vat_amount": 1.99
+        },
+        {
+            "amount": 316.39,
+            "description": "synthesize robust e-business",
+            "quantity": 4.17,
+            "unit_price": 38.63,
+            "vat_amount": 0.9
+        }
+    ],
+    "seller": {
+        "address": "108 Robert Ranch Suite 639 New Charles, NY 43141"
+    },
+    "tax": {
+        "amount_excluding_tax": 40.26,
+        "amount_including_tax": 144.49,
+        "tax_amount": 29.94
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "1660 David Stravenue Mezatown, ND 56347",
+        "id": "AK295"
+    },
+    "invoice": {
+        "bc_no": "Ap55082",
+        "currency_code": "CUP",
+        "date": "10.03.2023",
+        "due_date": "10.06.2018",
+        "number": 928181
+    },
+    "payment": {
+        "bank_name": "Hernandez Ltd",
+        "bic": "LHVPGB4SQLM",
+        "iban": "ZDQS89434147750188"
+    },
+    "products": [
+        {
+            "amount": 46.12,
+            "description": "grow world-class technologies",
+            "index": "2",
+            "price": 23.91,
+            "quantity": 2.44,
+            "tax_amount": 96.35,
+            "total_ttc": 350.61,
+            "vat_amount": 0.56
+        },
+        {
+            "amount": 488.58,
+            "description": "leverage B2C niches",
+            "index": "7",
+            "price": 399.8,
+            "quantity": 2.73,
+            "tax_amount": 69.11,
+            "total_ttc": 383.96,
+            "vat_amount": 6.01
+        },
+        {
+            "amount": 431.71,
+            "description": "iterate web-enabled experiences",
+            "index": "3",
+            "price": 418.85,
+            "quantity": 7.73,
+            "tax_amount": 68.19,
+            "total_ttc": 325.25,
+            "vat_amount": 1.21
+        },
+        {
+            "amount": 154.18,
+            "description": "syndicate web-enabled metrics",
+            "index": "6",
+            "price": 45.74,
+            "quantity": 3.57,
+            "tax_amount": 90.28,
+            "total_ttc": 402.25,
+            "vat_amount": 3.29
+        }
+    ],
+    "seller": {
+        "name": "James Silva"
+    },
+    "supplier": {
+        "address": "21545 Hector Spurs Suite 825 Lake John, ME 02123",
+        "name": "Brandy Hubbard"
+    },
+    "tax": {
+        "amount_excluding_tax": 15.95,
+        "amount_including_tax": 13.77,
+        "tax_amount": 17.03,
+        "total_ht": 291.89,
+        "total_ttc": 353.44
+    }
+}

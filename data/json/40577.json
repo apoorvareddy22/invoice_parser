@@ -1,0 +1,35 @@
+{
+    "buyer": {
+        "address": "44877 French Port Downsburgh, TX 88379"
+    },
+    "invoice": {
+        "bc_no": "OE56181",
+        "date": "17.04.2023",
+        "maturity_date": "21.06.2006",
+        "number": 557416
+    },
+    "products": [
+        {
+            "amount": 103.37,
+            "description": "revolutionize compelling schemas",
+            "quantity": 3.06,
+            "unit_price": 90.24,
+            "vat_amount": 0.28
+        },
+        {
+            "amount": 78.62,
+            "description": "iterate B2C functionalities",
+            "quantity": 8.99,
+            "unit_price": 93.11,
+            "vat_amount": 0.75
+        }
+    ],
+    "seller": {
+        "address": "07273 Clark Tunnel Terryfurt, WA 26122"
+    },
+    "tax": {
+        "amount_excluding_tax": 149.17,
+        "amount_including_tax": 63.99,
+        "tax_amount": 12.93
+    }
+}

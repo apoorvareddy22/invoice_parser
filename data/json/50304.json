@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "837 Bridges Alley Suite 240 East James, RI 17237",
+        "id": "Hf907"
+    },
+    "invoice": {
+        "bc_no": "PR96108",
+        "currency_code": "LKR",
+        "date": "31.03.2018",
+        "due_date": "02.02.2014",
+        "number": 570706
+    },
+    "payment": {
+        "bank_name": "Fernandez PLC",
+        "bic": "WKZTGBWP",
+        "iban": "PXFN49703966593905"
+    },
+    "products": [
+        {
+            "amount": 444.71,
+            "description": "maximize customized architectures",
+            "index": "7",
+            "price": 26.27,
+            "quantity": 3.81,
+            "tax_amount": 81.13,
+            "total_ttc": 210.79,
+            "vat_amount": 10.0
+        },
+        {
+            "amount": 492.19,
+            "description": "reinvent magnetic portals",
+            "index": "9",
+            "price": 87.61,
+            "quantity": 3.05,
+            "tax_amount": 30.96,
+            "total_ttc": 436.89,
+            "vat_amount": 4.55
+        },
+        {
+            "amount": 24.39,
+            "description": "e-enable web-enabled info-mediaries",
+            "index": "6",
+            "price": 420.83,
+            "quantity": 7.2,
+            "tax_amount": 23.69,
+            "total_ttc": 348.36,
+            "vat_amount": 4.31
+        },
+        {
+            "amount": 447.98,
+            "description": "whiteboard clicks-and-mortar content",
+            "index": "8",
+            "price": 155.71,
+            "quantity": 9.86,
+            "tax_amount": 17.45,
+            "total_ttc": 496.51,
+            "vat_amount": 10.28
+        }
+    ],
+    "seller": {
+        "name": "Christopher Sweeney"
+    },
+    "supplier": {
+        "address": "USS Larson FPO AE 52774",
+        "name": "Tony Forbes"
+    },
+    "tax": {
+        "amount_excluding_tax": 74.48,
+        "amount_including_tax": 21.17,
+        "tax_amount": 19.0,
+        "total_ht": 356.22,
+        "total_ttc": 170.93
+    }
+}

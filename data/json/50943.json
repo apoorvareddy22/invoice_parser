@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "390 Rodriguez Field Lake Heatherside, HI 33657",
+        "id": "hF971"
+    },
+    "invoice": {
+        "bc_no": "gD57532",
+        "currency_code": "TWD",
+        "date": "18.02.1991",
+        "due_date": "27.07.2014",
+        "number": 790147
+    },
+    "payment": {
+        "bank_name": "Guerrero Group",
+        "bic": "UYUAGB8PRT2",
+        "iban": "ULYK61935786200428"
+    },
+    "products": [
+        {
+            "amount": 79.64,
+            "description": "scale visionary markets",
+            "index": "7",
+            "price": 295.87,
+            "quantity": 8.23,
+            "tax_amount": 73.98,
+            "total_ttc": 254.17,
+            "vat_amount": 4.07
+        },
+        {
+            "amount": 22.3,
+            "description": "synthesize interactive schemas",
+            "index": "4",
+            "price": 285.45,
+            "quantity": 3.82,
+            "tax_amount": 40.1,
+            "total_ttc": 303.75,
+            "vat_amount": 3.73
+        },
+        {
+            "amount": 57.5,
+            "description": "incubate interactive niches",
+            "index": "1",
+            "price": 45.26,
+            "quantity": 7.34,
+            "tax_amount": 58.25,
+            "total_ttc": 306.25,
+            "vat_amount": 4.52
+        },
+        {
+            "amount": 345.31,
+            "description": "target dynamic architectures",
+            "index": "3",
+            "price": 91.7,
+            "quantity": 7.15,
+            "tax_amount": 23.05,
+            "total_ttc": 227.05,
+            "vat_amount": 2.82
+        },
+        {
+            "amount": 58.49,
+            "description": "incentivize dot-com e-services",
+            "index": "2",
+            "price": 335.85,
+            "quantity": 9.95,
+            "tax_amount": 69.33,
+            "total_ttc": 395.48,
+            "vat_amount": 2.62
+        },
+        {
+            "amount": 208.44,
+            "description": "redefine efficient supply-chains",
+            "index": "10",
+            "price": 285.17,
+            "quantity": 5.84,
+            "tax_amount": 36.57,
+            "total_ttc": 414.75,
+            "vat_amount": 1.34
+        }
+    ],
+    "seller": {
+        "name": "Bradley Hart"
+    },
+    "supplier": {
+        "address": "075 Bell Plains Suite 793 New Anthonyton, NJ 45406",
+        "name": "Ryan Collins"
+    },
+    "tax": {
+        "amount_excluding_tax": 15.66,
+        "amount_including_tax": 56.99,
+        "tax_amount": 16.17,
+        "total_ht": 126.63,
+        "total_ttc": 416.88
+    }
+}

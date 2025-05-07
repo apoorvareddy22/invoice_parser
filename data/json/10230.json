@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "3163 Wise Viaduct Suite 041 Jamesshire, MT 38818",
+        "email": "john60@example.net",
+        "phone": "(527)304-6244x00307",
+        "vat_no": "WH15219604523"
+    },
+    "invoice": {
+        "date": "16.03.1998",
+        "due_date": "02.08.2001",
+        "market_reference": 355764,
+        "notes": "deliver virtual applications",
+        "number": "8211-8983",
+        "reference": 496137,
+        "vat_no": "JL51420489460"
+    },
+    "payment": {
+        "net_total": 194.2,
+        "total": 768.17
+    },
+    "products": [
+        {
+            "amount": 111.23,
+            "description": "innovate clicks-and-mortar metrics",
+            "hours": 5.73,
+            "rate": 9.84
+        },
+        {
+            "amount": 252.57,
+            "description": "enhance proactive partnerships",
+            "hours": 5.21,
+            "rate": 7.09
+        },
+        {
+            "amount": 334.89,
+            "description": "strategize frictionless interfaces",
+            "hours": 2.92,
+            "rate": 6.18
+        },
+        {
+            "amount": 5.76,
+            "description": "re-intermediate sticky functionalities",
+            "hours": 1.58,
+            "rate": 5.0
+        },
+        {
+            "amount": 172.65,
+            "description": "incentivize revolutionary supply-chains",
+            "hours": 1.4,
+            "rate": 5.86
+        },
+        {
+            "amount": 210.28,
+            "description": "e-enable turn-key niches",
+            "hours": 2.88,
+            "rate": 5.34
+        }
+    ],
+    "seller": {
+        "address": "56781 Walter Underpass Suite 621 North Brittany, WI 43463",
+        "email": "rachel01@example.net",
+        "name": "Ryan Anderson"
+    },
+    "tax": {
+        "base": 24.24,
+        "tax_amount": 29.94,
+        "total_tax": 15.43
+    }
+}

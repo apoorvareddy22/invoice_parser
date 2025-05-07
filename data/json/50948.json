@@ -1,0 +1,104 @@
+{
+    "buyer": {
+        "address": "76654 Mcguire Plaza Apt. 523 West Robertberg, IN 70338",
+        "id": "zy770"
+    },
+    "invoice": {
+        "bc_no": "pl01833",
+        "currency_code": "KGS",
+        "date": "14.03.1993",
+        "due_date": "10.02.2004",
+        "number": 406263
+    },
+    "payment": {
+        "bank_name": "Chung-Martin",
+        "bic": "CCLBGBV0WTI",
+        "iban": "SYQO74517843349476"
+    },
+    "products": [
+        {
+            "amount": 487.33,
+            "description": "reinvent one-to-one platforms",
+            "index": "5",
+            "price": 266.7,
+            "quantity": 2.52,
+            "tax_amount": 50.4,
+            "total_ttc": 291.44,
+            "vat_amount": 12.96
+        },
+        {
+            "amount": 33.22,
+            "description": "seize bricks-and-clicks synergies",
+            "index": "3",
+            "price": 208.64,
+            "quantity": 8.0,
+            "tax_amount": 93.68,
+            "total_ttc": 397.57,
+            "vat_amount": 16.28
+        },
+        {
+            "amount": 303.24,
+            "description": "integrate B2C platforms",
+            "index": "2",
+            "price": 474.0,
+            "quantity": 6.66,
+            "tax_amount": 88.12,
+            "total_ttc": 355.95,
+            "vat_amount": 6.44
+        },
+        {
+            "amount": 100.79,
+            "description": "evolve 24/7 content",
+            "index": "7",
+            "price": 488.41,
+            "quantity": 3.33,
+            "tax_amount": 26.36,
+            "total_ttc": 293.39,
+            "vat_amount": 2.58
+        },
+        {
+            "amount": 464.5,
+            "description": "embrace one-to-one mindshare",
+            "index": "3",
+            "price": 447.73,
+            "quantity": 3.84,
+            "tax_amount": 48.42,
+            "total_ttc": 376.3,
+            "vat_amount": 6.31
+        },
+        {
+            "amount": 89.61,
+            "description": "disintermediate best-of-breed solutions",
+            "index": "4",
+            "price": 76.05,
+            "quantity": 4.74,
+            "tax_amount": 45.87,
+            "total_ttc": 184.42,
+            "vat_amount": 7.92
+        },
+        {
+            "amount": 292.26,
+            "description": "transition transparent e-business",
+            "index": "8",
+            "price": 414.26,
+            "quantity": 8.09,
+            "tax_amount": 21.12,
+            "total_ttc": 196.57,
+            "vat_amount": 2.25
+        }
+    ],
+    "seller": {
+        "name": "Ronald Arnold"
+    },
+    "supplier": {
+        "address": "501 Jackson Mountains Apt. 420 Johnsonport, MD 95460",
+        "name": "Michelle Newton"
+    },
+    "tax": {
+        "amount_excluding_tax": 84.65,
+        "amount_including_tax": 64.51,
+        "tax_amount": 29.16,
+        "total_ht": 141.97,
+        "total_ttc": 431.54
+    }
+}

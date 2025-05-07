@@ -1,0 +1,82 @@
+{
+    "buyer": {
+        "address": "PSC 2844, Box 9302 APO AA 22908",
+        "company_name": "Hughes LLC",
+        "country": "Papua New Guinea",
+        "email": "frussell@example.net",
+        "name": "Michelle Hardy",
+        "phone": "398.480.2656",
+        "vat_no": "mq92616877398"
+    },
+    "invoice": {
+        "date": "13.08.2004",
+        "due_date": "03.04.2013",
+        "linked_invoice": "Vc-2722-4745",
+        "notes": "integrate rich solutions",
+        "number": "tB-5588-5554"
+    },
+    "products": [
+        {
+            "description": "expedite next-generation systems",
+            "discount_percentage": 7.72,
+            "price": 131.06,
+            "quantity": 7.49,
+            "unit_price": 41.47
+        },
+        {
+            "description": "enhance cross-platform bandwidth",
+            "discount_percentage": 8.09,
+            "price": 461.62,
+            "quantity": 4.49,
+            "unit_price": 12.02
+        },
+        {
+            "description": "strategize granular platforms",
+            "discount_percentage": 12.94,
+            "price": 6.61,
+            "quantity": 6.39,
+            "unit_price": 42.19
+        },
+        {
+            "description": "grow integrated e-services",
+            "discount_percentage": 15.3,
+            "price": 105.13,
+            "quantity": 1.75,
+            "unit_price": 43.97
+        },
+        {
+            "description": "embrace one-to-one e-tailers",
+            "discount_percentage": 10.68,
+            "price": 306.39,
+            "quantity": 7.63,
+            "unit_price": 13.86
+        }
+    ],
+    "seller": {
+        "address": "32039 Harper Port Apt. 069 New Emily, HI 73905",
+        "ape": "1879E",
+        "capital": 63498441,
+        "country": "Yemen",
+        "email": "jamesmurphy@example.com",
+        "name": "Charles Williams",
+        "phone_1": "301.230.6088x93792",
+        "phone_2": "381.907.4322x08122",
+        "phone_3": "001-908-608-8567x38180",
+        "ref_walk": "FBBS7484",
+        "reference": "Vu966",
+        "siret": 12600226925384,
+        "vat_no": "nL22281741478",
+        "website": "https://www.may-lester.com/"
+    },
+    "tax": {
+        "amount_0": 13.33,
+        "amount_1": 20.92,
+        "base_0": 23.95,
+        "base_1": 58.27,
+        "total_ht": 128.64,
+        "total_tax": 16.04,
+        "total_ttc": 495.88,
+        "vat_0": 23.61,
+        "vat_1": 26.73
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "64858 Timothy Spring Apt. 311 Cervantesfort, NC 74780",
+        "business_no": "aq109",
+        "id": "Hu058"
+    },
+    "invoice": {
+        "date": "14.10.1991",
+        "number": "4530-0768"
+    },
+    "payment": {
+        "due_date": "28.06.2016",
+        "total": 498.95
+    },
+    "products": [
+        {
+            "amount": 136.94,
+            "description": "aggregate rich systems",
+            "quantity": 3.86,
+            "reference": "VA-924",
+            "unit_price": 96.09
+        }
+    ],
+    "seller": {
+        "address": "795 Williams Estates Kathleenmouth, DE 56002"
+    },
+    "tax": {
+        "base_ht": 280.54,
+        "regulations": 16.41,
+        "total_ht": 484.99,
+        "vat_amount": 74.61,
+        "vat_percentage": 13.37
+    }
+}

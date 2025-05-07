@@ -1,0 +1,55 @@
+{
+    "buyer": {
+        "address": "77440 Wagner Plain Sheppardfurt, MT 65201",
+        "business_no": "Pq781",
+        "id": "Na440"
+    },
+    "invoice": {
+        "date": "14.12.2003",
+        "number": "8439-3505"
+    },
+    "payment": {
+        "due_date": "13.05.2019",
+        "total": 512.27
+    },
+    "products": [
+        {
+            "amount": 468.89,
+            "description": "monetize distributed platforms",
+            "quantity": 3.38,
+            "reference": "qS-215",
+            "unit_price": 22.68
+        },
+        {
+            "amount": 51.99,
+            "description": "envisioneer B2C content",
+            "quantity": 4.69,
+            "reference": "Xj-267",
+            "unit_price": 17.72
+        },
+        {
+            "amount": 116.7,
+            "description": "transition frictionless models",
+            "quantity": 6.69,
+            "reference": "jC-268",
+            "unit_price": 51.82
+        },
+        {
+            "amount": 472.99,
+            "description": "reinvent bleeding-edge convergence",
+            "quantity": 1.63,
+            "reference": "ra-905",
+            "unit_price": 23.86
+        }
+    ],
+    "seller": {
+        "address": "600 Henderson Islands Diazport, MA 24164"
+    },
+    "tax": {
+        "base_ht": 209.11,
+        "regulations": 24.88,
+        "total_ht": 130.28,
+        "vat_amount": 22.6,
+        "vat_percentage": 21.47
+    }
+}

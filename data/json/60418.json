@@ -1,0 +1,41 @@
+{
+    "buyer": {
+        "address": "368 Anthony Village Port Katie, HI 25407",
+        "business_no": "wI613",
+        "id": "NR205"
+    },
+    "invoice": {
+        "date": "28.06.2011",
+        "number": "7752-8619"
+    },
+    "payment": {
+        "due_date": "12.06.2009",
+        "total": 778.36
+    },
+    "products": [
+        {
+            "amount": 350.52,
+            "description": "visualize extensible platforms",
+            "quantity": 4.62,
+            "reference": "FW-888",
+            "unit_price": 21.51
+        },
+        {
+            "amount": 155.63,
+            "description": "expedite next-generation portals",
+            "quantity": 2.28,
+            "reference": "nM-365",
+            "unit_price": 10.87
+        }
+    ],
+    "seller": {
+        "address": "64353 King Ferry Port Angela, FM 09178"
+    },
+    "tax": {
+        "base_ht": 452.68,
+        "regulations": 17.29,
+        "total_ht": 386.75,
+        "vat_amount": 87.51,
+        "vat_percentage": 10.8
+    }
+}

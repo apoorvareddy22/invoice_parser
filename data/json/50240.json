@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "03675 Anderson Grove Harrisonhaven, MH 64884",
+        "id": "pl336"
+    },
+    "invoice": {
+        "bc_no": "jQ97890",
+        "currency_code": "BOB",
+        "date": "21.08.2019",
+        "due_date": "04.12.2023",
+        "number": 267473
+    },
+    "payment": {
+        "bank_name": "Gomez LLC",
+        "bic": "NWCIGB19",
+        "iban": "HOIM36023673914252"
+    },
+    "products": [
+        {
+            "amount": 318.11,
+            "description": "revolutionize leading-edge e-tailers",
+            "index": "8",
+            "price": 282.69,
+            "quantity": 5.18,
+            "tax_amount": 69.71,
+            "total_ttc": 213.67,
+            "vat_amount": 7.03
+        }
+    ],
+    "seller": {
+        "name": "Jeffrey Brewer"
+    },
+    "supplier": {
+        "address": "97157 Darren Run Apt. 085 East Brian, DC 03614",
+        "name": "Victor Miller"
+    },
+    "tax": {
+        "amount_excluding_tax": 98.9,
+        "amount_including_tax": 189.55,
+        "tax_amount": 15.26,
+        "total_ht": 186.25,
+        "total_ttc": 458.79
+    }
+}

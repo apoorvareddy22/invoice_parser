@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "1706 Thomas Lodge Apt. 812 Santosberg, WY 16026"
+    },
+    "invoice": {
+        "bc_no": "Vj22921",
+        "date": "09.12.2018",
+        "maturity_date": "28.03.2008",
+        "number": 804541
+    },
+    "products": [
+        {
+            "amount": 141.59,
+            "description": "empower wireless networks",
+            "quantity": 3.91,
+            "unit_price": 87.88,
+            "vat_amount": 2.62
+        }
+    ],
+    "seller": {
+        "address": "3019 Cynthia Point Jesusfurt, NV 54859"
+    },
+    "tax": {
+        "amount_excluding_tax": 88.39,
+        "amount_including_tax": 131.9,
+        "tax_amount": 24.02
+    }
+}

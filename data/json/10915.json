@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "31881 Mcclain Crossroad Port Jasonstad, AL 43722",
+        "email": "bradley36@example.com",
+        "phone": "+1-360-664-9407x27155",
+        "vat_no": "sk73084627932"
+    },
+    "invoice": {
+        "date": "07.11.2012",
+        "due_date": "30.09.2023",
+        "market_reference": 133974,
+        "notes": "integrate one-to-one paradigms",
+        "number": "8434-9169",
+        "reference": 621887,
+        "vat_no": "bR81662907423"
+    },
+    "payment": {
+        "net_total": 138.9,
+        "total": 775.14
+    },
+    "products": [
+        {
+            "amount": 7.13,
+            "description": "engage viral vortals",
+            "hours": 1.37,
+            "rate": 3.41
+        },
+        {
+            "amount": 358.18,
+            "description": "brand transparent systems",
+            "hours": 2.91,
+            "rate": 3.84
+        }
+    ],
+    "seller": {
+        "address": "55041 Henry Turnpike Suite 654 Douglashaven, VT 01928",
+        "email": "weberlogan@example.com",
+        "name": "Nicole Jones"
+    },
+    "tax": {
+        "base": 20.73,
+        "tax_amount": 15.73,
+        "total_tax": 15.21
+    }
+}

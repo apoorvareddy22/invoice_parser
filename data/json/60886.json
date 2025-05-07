@@ -1,0 +1,48 @@
+{
+    "buyer": {
+        "address": "25497 Munoz Hill Suite 280 West Kimberly, NH 99269",
+        "business_no": "nT623",
+        "id": "OQ004"
+    },
+    "invoice": {
+        "date": "18.06.2009",
+        "number": "6745-9913"
+    },
+    "payment": {
+        "due_date": "17.04.2015",
+        "total": 184.26
+    },
+    "products": [
+        {
+            "amount": 11.81,
+            "description": "syndicate open-source e-tailers",
+            "quantity": 5.04,
+            "reference": "Jn-973",
+            "unit_price": 31.22
+        },
+        {
+            "amount": 360.11,
+            "description": "matrix turn-key niches",
+            "quantity": 6.01,
+            "reference": "aI-718",
+            "unit_price": 28.4
+        },
+        {
+            "amount": 265.68,
+            "description": "transform cutting-edge e-commerce",
+            "quantity": 4.52,
+            "reference": "Og-639",
+            "unit_price": 13.52
+        }
+    ],
+    "seller": {
+        "address": "263 Michelle Creek Apt. 128 Davidmouth, CA 84897"
+    },
+    "tax": {
+        "base_ht": 367.82,
+        "regulations": 10.33,
+        "total_ht": 446.68,
+        "vat_amount": 47.67,
+        "vat_percentage": 28.19
+    }
+}

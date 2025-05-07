@@ -1,0 +1,74 @@
+{
+    "buyer": {
+        "address": "018 Michelle Estates Apt. 802 Benjaminborough, MS 30724",
+        "id": "kT635"
+    },
+    "invoice": {
+        "bc_no": "OV87619",
+        "currency_code": "PKR",
+        "date": "06.06.1993",
+        "due_date": "08.05.2019",
+        "number": 239706
+    },
+    "payment": {
+        "bank_name": "Vaughn, Smith and Jacobs",
+        "bic": "MGZCGBXD",
+        "iban": "QJHK99259468458227"
+    },
+    "products": [
+        {
+            "amount": 203.09,
+            "description": "cultivate turn-key convergence",
+            "index": "4",
+            "price": 308.97,
+            "quantity": 1.62,
+            "tax_amount": 66.74,
+            "total_ttc": 327.95,
+            "vat_amount": 2.36
+        },
+        {
+            "amount": 391.53,
+            "description": "optimize integrated partnerships",
+            "index": "7",
+            "price": 379.65,
+            "quantity": 3.2,
+            "tax_amount": 86.67,
+            "total_ttc": 224.02,
+            "vat_amount": 11.44
+        },
+        {
+            "amount": 63.92,
+            "description": "engineer bricks-and-clicks vortals",
+            "index": "6",
+            "price": 417.4,
+            "quantity": 7.53,
+            "tax_amount": 20.92,
+            "total_ttc": 289.98,
+            "vat_amount": 1.91
+        },
+        {
+            "amount": 308.34,
+            "description": "redefine interactive relationships",
+            "index": "2",
+            "price": 9.44,
+            "quantity": 9.12,
+            "tax_amount": 64.66,
+            "total_ttc": 482.69,
+            "vat_amount": 1.31
+        }
+    ],
+    "seller": {
+        "name": "Alejandro Huff"
+    },
+    "supplier": {
+        "address": "39363 John Lane Laurenshire, OR 54980",
+        "name": "Robert Thompson"
+    },
+    "tax": {
+        "amount_excluding_tax": 154.44,
+        "amount_including_tax": 115.57,
+        "tax_amount": 10.66,
+        "total_ht": 144.25,
+        "total_ttc": 302.52
+    }
+}

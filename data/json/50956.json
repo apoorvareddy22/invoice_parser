@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "1189 Joshua Land Apt. 955 Michaelview, GU 80059",
+        "id": "Ag292"
+    },
+    "invoice": {
+        "bc_no": "DV02095",
+        "currency_code": "LRD",
+        "date": "14.03.2005",
+        "due_date": "22.05.1996",
+        "number": 349761
+    },
+    "payment": {
+        "bank_name": "Sweeney, Peterson and Bennett",
+        "bic": "HKIAGBFC",
+        "iban": "JUOG05093236326698"
+    },
+    "products": [
+        {
+            "amount": 372.96,
+            "description": "whiteboard granular action-items",
+            "index": "7",
+            "price": 219.36,
+            "quantity": 8.56,
+            "tax_amount": 17.37,
+            "total_ttc": 254.01,
+            "vat_amount": 7.52
+        }
+    ],
+    "seller": {
+        "name": "Stephanie Ellis"
+    },
+    "supplier": {
+        "address": "Unit 2227 Box 6765 DPO AA 62387",
+        "name": "Matthew Bennett"
+    },
+    "tax": {
+        "amount_excluding_tax": 189.76,
+        "amount_including_tax": 153.62,
+        "tax_amount": 12.72,
+        "total_ht": 294.14,
+        "total_ttc": 182.16
+    }
+}

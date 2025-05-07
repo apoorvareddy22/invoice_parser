@@ -1,0 +1,61 @@
+{
+    "buyer": {
+        "address": "Unit 2466 Box 3828 DPO AP 58379",
+        "company_name": "Powers-Clarke",
+        "email": "mccoyeric@example.com",
+        "name": "Nicholas Lin",
+        "phone": "484-984-2939"
+    },
+    "invoice": {
+        "date": "26.10.2014",
+        "due_date": "21.05.2020",
+        "number": "Crg67745802791"
+    },
+    "payment": {
+        "account_number": 7751980186,
+        "bank_name": "Dominguez Inc",
+        "routing_number": 924624803
+    },
+    "products": [
+        {
+            "amount": 19.49,
+            "description": "streamline compelling paradigms",
+            "index": "5",
+            "quantity": 7.33,
+            "unit_price": 71.92
+        },
+        {
+            "amount": 322.42,
+            "description": "incentivize real-time metrics",
+            "index": "7",
+            "quantity": 9.87,
+            "unit_price": 29.73
+        },
+        {
+            "amount": 24.64,
+            "description": "disintermediate integrated deliverables",
+            "index": "2",
+            "quantity": 2.87,
+            "unit_price": 23.84
+        },
+        {
+            "amount": 306.92,
+            "description": "implement value-added channels",
+            "index": "8",
+            "quantity": 8.65,
+            "unit_price": 88.78
+        },
+        {
+            "amount": 87.46,
+            "description": "whiteboard impactful channels",
+            "index": "6",
+            "quantity": 5.84,
+            "unit_price": 90.89
+        }
+    ],
+    "seller": {
+        "address": "83378 Wheeler Flats West Terriport, NH 33276",
+        "company_name": "Brown, Riley and Garcia",
+        "email": "mark11@example.org"
+    }
+}

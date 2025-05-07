@@ -1,0 +1,54 @@
+{
+    "buyer": {
+        "address": "1207 Harris Avenue Apt. 742 West Davidborough, MA 93192",
+        "company_name": "Olson, Duncan and Rodriguez",
+        "email": "michaeleaton@example.org",
+        "name": "Richard Barrera",
+        "phone": "632.340.3731"
+    },
+    "invoice": {
+        "date": "22.03.2023",
+        "due_date": "04.12.2015",
+        "number": "tXf66694870151"
+    },
+    "payment": {
+        "account_number": 2707123506,
+        "bank_name": "Kim, Shannon and Day",
+        "routing_number": 537934921
+    },
+    "products": [
+        {
+            "amount": 8.86,
+            "description": "reinvent front-end content",
+            "index": "5",
+            "quantity": 9.71,
+            "unit_price": 16.69
+        },
+        {
+            "amount": 375.38,
+            "description": "iterate compelling action-items",
+            "index": "8",
+            "quantity": 1.3,
+            "unit_price": 26.4
+        },
+        {
+            "amount": 143.01,
+            "description": "deploy scalable bandwidth",
+            "index": "1",
+            "quantity": 7.66,
+            "unit_price": 32.69
+        },
+        {
+            "amount": 117.56,
+            "description": "empower extensible ROI",
+            "index": "7",
+            "quantity": 4.01,
+            "unit_price": 55.53
+        }
+    ],
+    "seller": {
+        "address": "542 Paula Ports Apt. 276 Larsonfurt, OH 74212",
+        "company_name": "Aguirre Group",
+        "email": "yward@example.com"
+    }
+}

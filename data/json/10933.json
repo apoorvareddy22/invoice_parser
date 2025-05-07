@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "233 Myers Throughway Port Katiefort, FM 02275",
+        "email": "uromero@example.com",
+        "phone": "452.974.4545x4955",
+        "vat_no": "NA23403850901"
+    },
+    "invoice": {
+        "date": "23.04.1996",
+        "due_date": "27.07.2005",
+        "market_reference": 215874,
+        "notes": "benchmark value-added convergence",
+        "number": "3864-2400",
+        "reference": 266010,
+        "vat_no": "qc97249255081"
+    },
+    "payment": {
+        "net_total": 182.99,
+        "total": 535.67
+    },
+    "products": [
+        {
+            "amount": 365.09,
+            "description": "deliver collaborative eyeballs",
+            "hours": 1.11,
+            "rate": 1.03
+        },
+        {
+            "amount": 485.98,
+            "description": "grow end-to-end portals",
+            "hours": 4.1,
+            "rate": 3.05
+        },
+        {
+            "amount": 452.93,
+            "description": "re-intermediate enterprise eyeballs",
+            "hours": 5.71,
+            "rate": 7.46
+        }
+    ],
+    "seller": {
+        "address": "7949 Colon Harbor Clarkside, NV 60808",
+        "email": "paigewalters@example.com",
+        "name": "Natasha Diaz"
+    },
+    "tax": {
+        "base": 12.36,
+        "tax_amount": 22.76,
+        "total_tax": 12.72
+    }
+}

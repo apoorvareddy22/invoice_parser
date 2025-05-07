@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "PSC 6634, Box 2851 APO AP 18265"
+    },
+    "invoice": {
+        "bc_no": "aD12272",
+        "date": "01.02.1997",
+        "maturity_date": "14.08.2001",
+        "number": 733131
+    },
+    "products": [
+        {
+            "amount": 239.75,
+            "description": "iterate web-enabled e-markets",
+            "quantity": 9.42,
+            "unit_price": 61.54,
+            "vat_amount": 9.93
+        }
+    ],
+    "seller": {
+        "address": "63716 Travis Avenue Suite 830 Conleyberg, SC 89025"
+    },
+    "tax": {
+        "amount_excluding_tax": 110.82,
+        "amount_including_tax": 141.48,
+        "tax_amount": 29.35
+    }
+}

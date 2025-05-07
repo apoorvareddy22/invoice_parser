@@ -1,0 +1,94 @@
+{
+    "buyer": {
+        "address": "PSC 0106, Box 4223 APO AP 04547",
+        "id": "UQ039"
+    },
+    "invoice": {
+        "bc_no": "Rg32518",
+        "currency_code": "ERN",
+        "date": "16.01.2020",
+        "due_date": "25.09.1991",
+        "number": 190510
+    },
+    "payment": {
+        "bank_name": "House, Smith and Moody",
+        "bic": "OUKXGBKV",
+        "iban": "JVQZ03099307239151"
+    },
+    "products": [
+        {
+            "amount": 14.68,
+            "description": "target collaborative paradigms",
+            "index": "7",
+            "price": 318.32,
+            "quantity": 3.62,
+            "tax_amount": 87.69,
+            "total_ttc": 285.9,
+            "vat_amount": 8.6
+        },
+        {
+            "amount": 458.99,
+            "description": "envisioneer synergistic infrastructures",
+            "index": "9",
+            "price": 120.28,
+            "quantity": 2.78,
+            "tax_amount": 65.31,
+            "total_ttc": 326.83,
+            "vat_amount": 9.4
+        },
+        {
+            "amount": 98.83,
+            "description": "reinvent e-business initiatives",
+            "index": "7",
+            "price": 113.86,
+            "quantity": 9.8,
+            "tax_amount": 13.31,
+            "total_ttc": 424.53,
+            "vat_amount": 15.67
+        },
+        {
+            "amount": 336.49,
+            "description": "disintermediate rich infrastructures",
+            "index": "2",
+            "price": 5.33,
+            "quantity": 4.85,
+            "tax_amount": 86.28,
+            "total_ttc": 233.1,
+            "vat_amount": 7.63
+        },
+        {
+            "amount": 256.32,
+            "description": "grow distributed supply-chains",
+            "index": "5",
+            "price": 260.46,
+            "quantity": 8.9,
+            "tax_amount": 55.54,
+            "total_ttc": 318.66,
+            "vat_amount": 3.21
+        },
+        {
+            "amount": 217.49,
+            "description": "enhance enterprise metrics",
+            "index": "6",
+            "price": 451.46,
+            "quantity": 1.24,
+            "tax_amount": 97.95,
+            "total_ttc": 385.48,
+            "vat_amount": 6.96
+        }
+    ],
+    "seller": {
+        "name": "Barbara Wong"
+    },
+    "supplier": {
+        "address": "135 Casey Row Suite 524 Maddenton, DC 79971",
+        "name": "Keith Murphy"
+    },
+    "tax": {
+        "amount_excluding_tax": 191.94,
+        "amount_including_tax": 121.79,
+        "tax_amount": 16.95,
+        "total_ht": 402.57,
+        "total_ttc": 456.12
+    }
+}

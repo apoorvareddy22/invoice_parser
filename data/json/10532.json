@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "6210 Houston Overpass Michaelfurt, MA 60515",
+        "email": "mshah@example.net",
+        "phone": "757-276-8792x1616",
+        "vat_no": "Ak18740108294"
+    },
+    "invoice": {
+        "date": "27.04.1995",
+        "due_date": "23.08.2019",
+        "market_reference": 850258,
+        "notes": "benchmark distributed e-markets",
+        "number": "2042-4027",
+        "reference": 926372,
+        "vat_no": "vY90456804283"
+    },
+    "payment": {
+        "net_total": 82.08,
+        "total": 415.38
+    },
+    "products": [
+        {
+            "amount": 346.28,
+            "description": "evolve impactful methodologies",
+            "hours": 7.62,
+            "rate": 5.83
+        },
+        {
+            "amount": 471.47,
+            "description": "integrate cutting-edge content",
+            "hours": 2.67,
+            "rate": 3.2
+        },
+        {
+            "amount": 183.92,
+            "description": "engineer frictionless experiences",
+            "hours": 2.26,
+            "rate": 5.83
+        },
+        {
+            "amount": 346.35,
+            "description": "optimize end-to-end synergies",
+            "hours": 1.72,
+            "rate": 3.65
+        },
+        {
+            "amount": 85.07,
+            "description": "redefine B2C systems",
+            "hours": 5.68,
+            "rate": 4.43
+        }
+    ],
+    "seller": {
+        "address": "Unit 2827 Box 9208 DPO AA 05893",
+        "email": "luistaylor@example.org",
+        "name": "Nathan Anderson"
+    },
+    "tax": {
+        "base": 11.0,
+        "tax_amount": 22.19,
+        "total_tax": 10.5
+    }
+}

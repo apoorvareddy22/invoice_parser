@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "0066 Jennifer Oval Kaiserside, TX 09295",
+        "id": "UP758"
+    },
+    "invoice": {
+        "bc_no": "lz84750",
+        "currency_code": "GBP",
+        "date": "07.08.1993",
+        "due_date": "13.09.2021",
+        "number": 567629
+    },
+    "payment": {
+        "bank_name": "Ortega, Gonzales and Smith",
+        "bic": "OTUHGBJX",
+        "iban": "TILL17926493754072"
+    },
+    "products": [
+        {
+            "amount": 452.02,
+            "description": "integrate B2B vortals",
+            "index": "10",
+            "price": 72.53,
+            "quantity": 3.47,
+            "tax_amount": 23.48,
+            "total_ttc": 156.16,
+            "vat_amount": 16.02
+        },
+        {
+            "amount": 280.66,
+            "description": "scale world-class content",
+            "index": "6",
+            "price": 51.04,
+            "quantity": 1.29,
+            "tax_amount": 89.85,
+            "total_ttc": 190.73,
+            "vat_amount": 8.65
+        },
+        {
+            "amount": 51.0,
+            "description": "grow interactive architectures",
+            "index": "3",
+            "price": 454.03,
+            "quantity": 8.35,
+            "tax_amount": 78.95,
+            "total_ttc": 352.13,
+            "vat_amount": 3.83
+        }
+    ],
+    "seller": {
+        "name": "Alexandra Gross"
+    },
+    "supplier": {
+        "address": "9147 Ethan Divide Suite 203 Port Kiara, MN 80228",
+        "name": "Paul Wilson"
+    },
+    "tax": {
+        "amount_excluding_tax": 128.08,
+        "amount_including_tax": 45.1,
+        "tax_amount": 13.2,
+        "total_ht": 188.57,
+        "total_ttc": 447.98
+    }
+}

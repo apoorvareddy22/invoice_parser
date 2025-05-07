@@ -1,0 +1,28 @@
+{
+    "buyer": {
+        "address": "09224 Peter Crescent Apt. 854 Michaelborough, IL 56997"
+    },
+    "invoice": {
+        "bc_no": "cy28668",
+        "date": "24.02.2010",
+        "maturity_date": "17.05.2022",
+        "number": 509591
+    },
+    "products": [
+        {
+            "amount": 385.89,
+            "description": "whiteboard real-time infrastructures",
+            "quantity": 3.22,
+            "unit_price": 51.57,
+            "vat_amount": 7.8
+        }
+    ],
+    "seller": {
+        "address": "18891 Robert Prairie Suite 652 East Kevinton, AL 51736"
+    },
+    "tax": {
+        "amount_excluding_tax": 147.75,
+        "amount_including_tax": 42.33,
+        "tax_amount": 26.71
+    }
+}

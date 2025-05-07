@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "6545 Young Crescent Adamtown, NC 84064",
+        "id": "IQ275"
+    },
+    "invoice": {
+        "bc_no": "Pw70676",
+        "currency_code": "GMD",
+        "date": "08.10.1998",
+        "due_date": "05.02.2016",
+        "number": 587261
+    },
+    "payment": {
+        "bank_name": "Perez, Kemp and Love",
+        "bic": "WUZVGBU8GZE",
+        "iban": "HTXM59714631151510"
+    },
+    "products": [
+        {
+            "amount": 478.39,
+            "description": "engineer impactful paradigms",
+            "index": "6",
+            "price": 295.24,
+            "quantity": 5.34,
+            "tax_amount": 75.12,
+            "total_ttc": 307.75,
+            "vat_amount": 3.04
+        },
+        {
+            "amount": 460.0,
+            "description": "architect 24/7 applications",
+            "index": "1",
+            "price": 325.74,
+            "quantity": 7.56,
+            "tax_amount": 71.93,
+            "total_ttc": 142.52,
+            "vat_amount": 0.59
+        },
+        {
+            "amount": 236.12,
+            "description": "strategize collaborative initiatives",
+            "index": "1",
+            "price": 105.85,
+            "quantity": 7.72,
+            "tax_amount": 43.03,
+            "total_ttc": 408.32,
+            "vat_amount": 2.18
+        },
+        {
+            "amount": 200.62,
+            "description": "engineer leading-edge content",
+            "index": "1",
+            "price": 167.8,
+            "quantity": 2.84,
+            "tax_amount": 15.0,
+            "total_ttc": 251.51,
+            "vat_amount": 7.03
+        },
+        {
+            "amount": 295.14,
+            "description": "exploit world-class mindshare",
+            "index": "8",
+            "price": 200.81,
+            "quantity": 7.18,
+            "tax_amount": 62.1,
+            "total_ttc": 102.18,
+            "vat_amount": 3.3
+        }
+    ],
+    "seller": {
+        "name": "Julie Leonard"
+    },
+    "supplier": {
+        "address": "PSC 1503, Box 5251 APO AP 19927",
+        "name": "Katrina Harris"
+    },
+    "tax": {
+        "amount_excluding_tax": 174.4,
+        "amount_including_tax": 125.21,
+        "tax_amount": 19.97,
+        "total_ht": 470.54,
+        "total_ttc": 317.82
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "83856 Julia Cliffs Apt. 136 Pacemouth, WI 80478",
+        "email": "raymond97@example.org",
+        "phone": "4952128641",
+        "vat_no": "GD65188997101"
+    },
+    "invoice": {
+        "date": "11.04.2006",
+        "due_date": "27.02.2000",
+        "market_reference": 749974,
+        "notes": "matrix leading-edge eyeballs",
+        "number": "8151-5820",
+        "reference": 306841,
+        "vat_no": "LW58527062050"
+    },
+    "payment": {
+        "net_total": 180.35,
+        "total": 787.79
+    },
+    "products": [
+        {
+            "amount": 353.0,
+            "description": "whiteboard ubiquitous e-services",
+            "hours": 1.7,
+            "rate": 4.04
+        },
+        {
+            "amount": 119.37,
+            "description": "incentivize web-enabled paradigms",
+            "hours": 9.59,
+            "rate": 4.51
+        },
+        {
+            "amount": 95.99,
+            "description": "generate efficient networks",
+            "hours": 1.25,
+            "rate": 7.07
+        },
+        {
+            "amount": 412.25,
+            "description": "transition granular e-tailers",
+            "hours": 1.9,
+            "rate": 1.99
+        },
+        {
+            "amount": 386.32,
+            "description": "streamline extensible e-services",
+            "hours": 9.69,
+            "rate": 9.79
+        },
+        {
+            "amount": 192.34,
+            "description": "transform clicks-and-mortar platforms",
+            "hours": 3.04,
+            "rate": 5.01
+        },
+        {
+            "amount": 225.87,
+            "description": "iterate end-to-end deliverables",
+            "hours": 2.98,
+            "rate": 3.05
+        }
+    ],
+    "seller": {
+        "address": "044 Thornton Haven Suite 200 Brownfort, VT 40697",
+        "email": "isaiah49@example.net",
+        "name": "Lisa Ellis"
+    },
+    "tax": {
+        "base": 27.99,
+        "tax_amount": 23.01,
+        "total_tax": 10.4
+    }
+}

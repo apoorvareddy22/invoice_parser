@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "9807 Gonzalez Squares Josephtown, VI 41967",
+        "company_name": "Palmer-Gibson",
+        "country": "Tuvalu",
+        "name": "Jessica Morton"
+    },
+    "invoice": {
+        "date": "22.05.1991",
+        "number": 150526
+    },
+    "payment": {
+        "discount_amount": 19.2,
+        "discount_percentage": 5.74,
+        "due": 22.32,
+        "sub_total": 27.67,
+        "total": 477.7
+    },
+    "products": [
+        {
+            "description": "syndicate 24/7 deliverables",
+            "index": "3",
+            "quantity": 6.64,
+            "total_price": 368.64,
+            "unit_price": 17.31
+        },
+        {
+            "description": "target cross-media metrics",
+            "index": "1",
+            "quantity": 2.06,
+            "total_price": 828.8,
+            "unit_price": 45.36
+        }
+    ],
+    "seller": {
+        "address": "PSC 2097, Box 7041 APO AA 38757",
+        "company_name": "Jones Ltd",
+        "vat_no": "Zb33372196836"
+    }
+}

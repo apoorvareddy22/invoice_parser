@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "27574 Johnson Street Apt. 929 South Sara, GU 05273"
+    },
+    "invoice": {
+        "bc_no": "Dr97218",
+        "date": "11.06.1996",
+        "maturity_date": "29.05.2020",
+        "number": 895855
+    },
+    "products": [
+        {
+            "amount": 197.87,
+            "description": "mesh compelling web services",
+            "quantity": 5.21,
+            "unit_price": 63.4,
+            "vat_amount": 9.32
+        },
+        {
+            "amount": 94.33,
+            "description": "integrate vertical vortals",
+            "quantity": 6.88,
+            "unit_price": 33.99,
+            "vat_amount": 12.05
+        },
+        {
+            "amount": 466.93,
+            "description": "implement intuitive applications",
+            "quantity": 1.73,
+            "unit_price": 28.46,
+            "vat_amount": 4.44
+        },
+        {
+            "amount": 206.9,
+            "description": "embrace front-end metrics",
+            "quantity": 6.24,
+            "unit_price": 62.82,
+            "vat_amount": 9.51
+        },
+        {
+            "amount": 446.1,
+            "description": "integrate magnetic eyeballs",
+            "quantity": 2.75,
+            "unit_price": 70.62,
+            "vat_amount": 8.42
+        },
+        {
+            "amount": 300.34,
+            "description": "re-intermediate plug-and-play e-markets",
+            "quantity": 7.0,
+            "unit_price": 82.36,
+            "vat_amount": 12.45
+        }
+    ],
+    "seller": {
+        "address": "703 Alexandria Views Suite 156 Sandersville, AL 57961"
+    },
+    "tax": {
+        "amount_excluding_tax": 82.79,
+        "amount_including_tax": 39.24,
+        "tax_amount": 23.72
+    }
+}

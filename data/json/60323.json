@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "158 Fisher Forge Apt. 886 Hancockbury, MI 15755",
+        "business_no": "LZ205",
+        "id": "li121"
+    },
+    "invoice": {
+        "date": "21.06.2009",
+        "number": "4702-1428"
+    },
+    "payment": {
+        "due_date": "20.04.2000",
+        "total": 856.44
+    },
+    "products": [
+        {
+            "amount": 398.26,
+            "description": "engineer global functionalities",
+            "quantity": 1.75,
+            "reference": "WT-287",
+            "unit_price": 90.78
+        },
+        {
+            "amount": 182.51,
+            "description": "redefine one-to-one bandwidth",
+            "quantity": 7.82,
+            "reference": "aG-193",
+            "unit_price": 35.99
+        },
+        {
+            "amount": 145.45,
+            "description": "unleash 24/7 relationships",
+            "quantity": 9.09,
+            "reference": "wG-079",
+            "unit_price": 99.48
+        },
+        {
+            "amount": 378.06,
+            "description": "unleash plug-and-play info-mediaries",
+            "quantity": 2.92,
+            "reference": "uz-431",
+            "unit_price": 60.12
+        },
+        {
+            "amount": 374.68,
+            "description": "extend visionary ROI",
+            "quantity": 4.06,
+            "reference": "Zj-646",
+            "unit_price": 26.43
+        },
+        {
+            "amount": 36.92,
+            "description": "e-enable end-to-end web-readiness",
+            "quantity": 2.64,
+            "reference": "Mc-044",
+            "unit_price": 53.04
+        }
+    ],
+    "seller": {
+        "address": "0295 James Forge Johnshire, NH 44935"
+    },
+    "tax": {
+        "base_ht": 183.29,
+        "regulations": 12.22,
+        "total_ht": 439.75,
+        "vat_amount": 177.03,
+        "vat_percentage": 27.65
+    }
+}

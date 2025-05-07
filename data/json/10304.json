@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "95455 Moreno Valleys Suite 110 Bakerville, UT 96797",
+        "email": "mthomas@example.org",
+        "phone": "+1-234-470-2295x59339",
+        "vat_no": "IZ30044786564"
+    },
+    "invoice": {
+        "date": "13.04.2013",
+        "due_date": "18.11.2008",
+        "market_reference": 669009,
+        "notes": "seize global schemas",
+        "number": "3314-7264",
+        "reference": 136369,
+        "vat_no": "we36280178640"
+    },
+    "payment": {
+        "net_total": 60.05,
+        "total": 452.43
+    },
+    "products": [
+        {
+            "amount": 115.58,
+            "description": "utilize one-to-one systems",
+            "hours": 1.91,
+            "rate": 8.15
+        },
+        {
+            "amount": 395.29,
+            "description": "engineer best-of-breed e-business",
+            "hours": 1.37,
+            "rate": 7.16
+        },
+        {
+            "amount": 355.31,
+            "description": "revolutionize vertical markets",
+            "hours": 3.7,
+            "rate": 7.0
+        },
+        {
+            "amount": 468.66,
+            "description": "deploy cutting-edge e-commerce",
+            "hours": 4.36,
+            "rate": 9.54
+        },
+        {
+            "amount": 334.56,
+            "description": "enable efficient functionalities",
+            "hours": 5.3,
+            "rate": 5.04
+        },
+        {
+            "amount": 322.72,
+            "description": "whiteboard front-end infrastructures",
+            "hours": 4.4,
+            "rate": 3.42
+        }
+    ],
+    "seller": {
+        "address": "9852 Rachel Knoll Derrickborough, SC 56050",
+        "email": "martinezjohn@example.org",
+        "name": "Joe Martin"
+    },
+    "tax": {
+        "base": 11.29,
+        "tax_amount": 28.02,
+        "total_tax": 16.32
+    }
+}

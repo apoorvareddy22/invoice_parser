@@ -1,0 +1,69 @@
+{
+    "buyer": {
+        "address": "4593 Lopez Grove Port Leah, TX 47930",
+        "business_no": "qy645",
+        "id": "Nl840"
+    },
+    "invoice": {
+        "date": "27.03.1998",
+        "number": "0850-6867"
+    },
+    "payment": {
+        "due_date": "27.01.1999",
+        "total": 989.26
+    },
+    "products": [
+        {
+            "amount": 291.51,
+            "description": "scale granular systems",
+            "quantity": 1.84,
+            "reference": "RH-698",
+            "unit_price": 48.02
+        },
+        {
+            "amount": 182.46,
+            "description": "embrace synergistic bandwidth",
+            "quantity": 5.71,
+            "reference": "hA-054",
+            "unit_price": 88.68
+        },
+        {
+            "amount": 377.2,
+            "description": "architect B2B applications",
+            "quantity": 3.91,
+            "reference": "ZL-710",
+            "unit_price": 24.01
+        },
+        {
+            "amount": 307.96,
+            "description": "synergize vertical eyeballs",
+            "quantity": 5.99,
+            "reference": "rn-152",
+            "unit_price": 58.91
+        },
+        {
+            "amount": 211.1,
+            "description": "incubate B2C schemas",
+            "quantity": 6.96,
+            "reference": "DU-993",
+            "unit_price": 81.24
+        },
+        {
+            "amount": 210.53,
+            "description": "leverage rich mindshare",
+            "quantity": 3.52,
+            "reference": "Ho-910",
+            "unit_price": 59.69
+        }
+    ],
+    "seller": {
+        "address": "26195 Molly Road Keithhaven, WV 39719"
+    },
+    "tax": {
+        "base_ht": 135.19,
+        "regulations": 18.02,
+        "total_ht": 472.9,
+        "vat_amount": 159.8,
+        "vat_percentage": 21.19
+    }
+}

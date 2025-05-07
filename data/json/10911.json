@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "0288 Barbara Keys Nancybury, GU 80423",
+        "email": "rcunningham@example.net",
+        "phone": "856.863.0531",
+        "vat_no": "lM74039970352"
+    },
+    "invoice": {
+        "date": "19.09.2019",
+        "due_date": "07.07.2014",
+        "market_reference": 817801,
+        "notes": "aggregate leading-edge mindshare",
+        "number": "4802-8347",
+        "reference": 138294,
+        "vat_no": "LN43215079340"
+    },
+    "payment": {
+        "net_total": 191.63,
+        "total": 985.5
+    },
+    "products": [
+        {
+            "amount": 492.05,
+            "description": "deploy frictionless experiences",
+            "hours": 1.21,
+            "rate": 7.95
+        },
+        {
+            "amount": 273.86,
+            "description": "harness interactive models",
+            "hours": 3.73,
+            "rate": 5.05
+        },
+        {
+            "amount": 151.38,
+            "description": "productize B2C interfaces",
+            "hours": 4.64,
+            "rate": 7.53
+        },
+        {
+            "amount": 485.16,
+            "description": "architect efficient interfaces",
+            "hours": 4.49,
+            "rate": 4.53
+        },
+        {
+            "amount": 215.51,
+            "description": "incubate end-to-end models",
+            "hours": 6.63,
+            "rate": 3.0
+        },
+        {
+            "amount": 23.92,
+            "description": "innovate intuitive platforms",
+            "hours": 5.2,
+            "rate": 1.95
+        },
+        {
+            "amount": 202.74,
+            "description": "revolutionize distributed functionalities",
+            "hours": 2.46,
+            "rate": 8.96
+        }
+    ],
+    "seller": {
+        "address": "872 Tyler Rue Suite 419 Lake Ashleyside, AL 06107",
+        "email": "lindagrant@example.net",
+        "name": "Allison Beasley"
+    },
+    "tax": {
+        "base": 25.49,
+        "tax_amount": 29.7,
+        "total_tax": 13.89
+    }
+}

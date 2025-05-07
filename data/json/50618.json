@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "address": "55331 Patel Junction New Robertberg, NY 14555",
+        "id": "Ij986"
+    },
+    "invoice": {
+        "bc_no": "wp39990",
+        "currency_code": "GNF",
+        "date": "08.05.2016",
+        "due_date": "12.03.1997",
+        "number": 729703
+    },
+    "payment": {
+        "bank_name": "Estrada, Fleming and Garcia",
+        "bic": "IONPGB46RIQ",
+        "iban": "YGZT27451611697175"
+    },
+    "products": [
+        {
+            "amount": 397.41,
+            "description": "morph leading-edge applications",
+            "index": "3",
+            "price": 120.56,
+            "quantity": 4.48,
+            "tax_amount": 38.4,
+            "total_ttc": 454.36,
+            "vat_amount": 0.48
+        }
+    ],
+    "seller": {
+        "name": "Ian Nguyen"
+    },
+    "supplier": {
+        "address": "36152 Brian Lane Apt. 429 West Laura, MA 46258",
+        "name": "George Good"
+    },
+    "tax": {
+        "amount_excluding_tax": 58.81,
+        "amount_including_tax": 156.44,
+        "tax_amount": 16.32,
+        "total_ht": 339.67,
+        "total_ttc": 384.48
+    }
+}

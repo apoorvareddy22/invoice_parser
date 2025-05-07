@@ -1,0 +1,84 @@
+{
+    "buyer": {
+        "address": "Unit 2180 Box 7712 DPO AP 88389",
+        "id": "Ip977"
+    },
+    "invoice": {
+        "bc_no": "YT64387",
+        "currency_code": "BHD",
+        "date": "22.10.2005",
+        "due_date": "20.11.2013",
+        "number": 170381
+    },
+    "payment": {
+        "bank_name": "Johnson, King and Pierce",
+        "bic": "SJFNGBPU",
+        "iban": "OLLO22907107808787"
+    },
+    "products": [
+        {
+            "amount": 5.26,
+            "description": "mesh virtual vortals",
+            "index": "2",
+            "price": 255.23,
+            "quantity": 9.08,
+            "tax_amount": 77.39,
+            "total_ttc": 317.85,
+            "vat_amount": 10.33
+        },
+        {
+            "amount": 372.87,
+            "description": "expedite virtual e-services",
+            "index": "4",
+            "price": 417.78,
+            "quantity": 3.8,
+            "tax_amount": 63.62,
+            "total_ttc": 422.26,
+            "vat_amount": 4.99
+        },
+        {
+            "amount": 372.05,
+            "description": "innovate 24/365 e-business",
+            "index": "1",
+            "price": 7.57,
+            "quantity": 6.84,
+            "tax_amount": 94.39,
+            "total_ttc": 492.17,
+            "vat_amount": 1.58
+        },
+        {
+            "amount": 143.24,
+            "description": "embrace rich users",
+            "index": "4",
+            "price": 173.96,
+            "quantity": 7.54,
+            "tax_amount": 35.65,
+            "total_ttc": 144.9,
+            "vat_amount": 8.41
+        },
+        {
+            "amount": 395.3,
+            "description": "cultivate wireless supply-chains",
+            "index": "1",
+            "price": 330.55,
+            "quantity": 4.19,
+            "tax_amount": 81.88,
+            "total_ttc": 320.22,
+            "vat_amount": 3.56
+        }
+    ],
+    "seller": {
+        "name": "Elizabeth Fox"
+    },
+    "supplier": {
+        "address": "Unit 3033 Box 8854 DPO AP 89414",
+        "name": "Daniel Hobbs"
+    },
+    "tax": {
+        "amount_excluding_tax": 162.81,
+        "amount_including_tax": 126.65,
+        "tax_amount": 15.06,
+        "total_ht": 481.16,
+        "total_ttc": 182.93
+    }
+}

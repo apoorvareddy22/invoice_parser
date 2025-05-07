@@ -1,0 +1,75 @@
+{
+    "buyer": {
+        "address": "889 Bell Lodge Apt. 120 West Roberta, FM 15025",
+        "email": "bryce67@example.com",
+        "phone": "417.262.0803",
+        "vat_no": "SD11236452806"
+    },
+    "invoice": {
+        "date": "13.11.1996",
+        "due_date": "11.11.2021",
+        "market_reference": 368000,
+        "notes": "drive intuitive platforms",
+        "number": "0190-1161",
+        "reference": 260592,
+        "vat_no": "mg02132503499"
+    },
+    "payment": {
+        "net_total": 145.61,
+        "total": 263.82
+    },
+    "products": [
+        {
+            "amount": 31.98,
+            "description": "disintermediate innovative experiences",
+            "hours": 3.42,
+            "rate": 3.21
+        },
+        {
+            "amount": 49.14,
+            "description": "transition end-to-end markets",
+            "hours": 9.32,
+            "rate": 5.35
+        },
+        {
+            "amount": 56.04,
+            "description": "monetize best-of-breed content",
+            "hours": 4.12,
+            "rate": 5.65
+        },
+        {
+            "amount": 237.64,
+            "description": "enable end-to-end synergies",
+            "hours": 9.47,
+            "rate": 4.09
+        },
+        {
+            "amount": 57.79,
+            "description": "deliver cutting-edge functionalities",
+            "hours": 8.54,
+            "rate": 1.5
+        },
+        {
+            "amount": 327.02,
+            "description": "strategize value-added info-mediaries",
+            "hours": 9.68,
+            "rate": 6.45
+        },
+        {
+            "amount": 424.51,
+            "description": "transform back-end communities",
+            "hours": 1.04,
+            "rate": 3.35
+        }
+    ],
+    "seller": {
+        "address": "2766 Mark Drives Reyeshaven, DE 94629",
+        "email": "sarah55@example.net",
+        "name": "Ralph Miller"
+    },
+    "tax": {
+        "base": 27.72,
+        "tax_amount": 23.03,
+        "total_tax": 19.34
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "buyer": {
+        "address": "88597 Kenneth Estates South Christine, VI 45586",
+        "id": "Gf887"
+    },
+    "invoice": {
+        "bc_no": "Wh57393",
+        "currency_code": "BYR",
+        "date": "26.10.2010",
+        "due_date": "17.10.2010",
+        "number": 902653
+    },
+    "payment": {
+        "bank_name": "Mitchell-Joseph",
+        "bic": "QEMMGBYI",
+        "iban": "TYKT17086072223731"
+    },
+    "products": [
+        {
+            "amount": 17.09,
+            "description": "e-enable mission-critical info-mediaries",
+            "index": "6",
+            "price": 312.76,
+            "quantity": 7.56,
+            "tax_amount": 43.42,
+            "total_ttc": 219.5,
+            "vat_amount": 13.41
+        },
+        {
+            "amount": 13.87,
+            "description": "engage world-class paradigms",
+            "index": "2",
+            "price": 109.6,
+            "quantity": 3.64,
+            "tax_amount": 98.23,
+            "total_ttc": 483.77,
+            "vat_amount": 3.71
+        },
+        {
+            "amount": 122.08,
+            "description": "facilitate compelling solutions",
+            "index": "4",
+            "price": 172.73,
+            "quantity": 6.29,
+            "tax_amount": 60.35,
+            "total_ttc": 212.02,
+            "vat_amount": 6.87
+        }
+    ],
+    "seller": {
+        "name": "Amber Jones"
+    },
+    "supplier": {
+        "address": "USCGC Hernandez FPO AP 87477",
+        "name": "Carmen Mcgee"
+    },
+    "tax": {
+        "amount_excluding_tax": 62.4,
+        "amount_including_tax": 70.88,
+        "tax_amount": 22.96,
+        "total_ht": 225.81,
+        "total_ttc": 285.93
+    }
+}

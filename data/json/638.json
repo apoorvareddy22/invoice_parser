@@ -1,0 +1,40 @@
+{
+    "buyer": {
+        "address": "864 Smith Path Apt. 781 New Kellystad, VI 88987",
+        "company_name": "Sanders-Fox",
+        "country": "Ireland",
+        "name": "Timothy Smith"
+    },
+    "invoice": {
+        "date": "13.09.2004",
+        "number": 204220
+    },
+    "payment": {
+        "discount_amount": 34.76,
+        "discount_percentage": 15.62,
+        "due": 112.48,
+        "sub_total": 69.2,
+        "total": 983.21
+    },
+    "products": [
+        {
+            "description": "architect rich solutions",
+            "index": "5",
+            "quantity": 3.42,
+            "total_price": 758.38,
+            "unit_price": 93.55
+        },
+        {
+            "description": "facilitate interactive convergence",
+            "index": "7",
+            "quantity": 3.4,
+            "total_price": 230.34,
+            "unit_price": 37.11
+        }
+    ],
+    "seller": {
+        "address": "00005 James Knolls Apt. 013 Hughesmouth, AR 65365",
+        "company_name": "Robles-Davis",
+        "vat_no": "ev85726795623"
+    }
+}

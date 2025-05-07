@@ -1,0 +1,63 @@
+{
+    "buyer": {
+        "address": "57364 Derek Junction Lake Cassieberg, KS 40183",
+        "email": "benjaminthompson@example.net",
+        "phone": "(750)264-4043",
+        "vat_no": "oX22391573564"
+    },
+    "invoice": {
+        "date": "31.03.2006",
+        "due_date": "10.02.1997",
+        "market_reference": 234524,
+        "notes": "architect rich interfaces",
+        "number": "9419-4571",
+        "reference": 174860,
+        "vat_no": "qx63487316309"
+    },
+    "payment": {
+        "net_total": 50.64,
+        "total": 682.07
+    },
+    "products": [
+        {
+            "amount": 47.61,
+            "description": "expedite e-business markets",
+            "hours": 3.24,
+            "rate": 2.25
+        },
+        {
+            "amount": 6.64,
+            "description": "envisioneer user-centric synergies",
+            "hours": 9.12,
+            "rate": 9.87
+        },
+        {
+            "amount": 386.34,
+            "description": "deploy end-to-end functionalities",
+            "hours": 3.13,
+            "rate": 7.41
+        },
+        {
+            "amount": 459.37,
+            "description": "unleash 24/365 metrics",
+            "hours": 3.18,
+            "rate": 6.24
+        },
+        {
+            "amount": 438.49,
+            "description": "integrate cross-platform users",
+            "hours": 1.38,
+            "rate": 2.66
+        }
+    ],
+    "seller": {
+        "address": "PSC 7786, Box 0568 APO AP 38996",
+        "email": "zhodges@example.net",
+        "name": "Douglas Nelson"
+    },
+    "tax": {
+        "base": 21.76,
+        "tax_amount": 23.44,
+        "total_tax": 19.38
+    }
+}

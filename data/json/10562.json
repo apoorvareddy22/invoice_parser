@@ -1,0 +1,45 @@
+{
+    "buyer": {
+        "address": "6448 Mcpherson Locks Robertshaven, MD 54482",
+        "email": "richard48@example.org",
+        "phone": "364.291.9291x2984",
+        "vat_no": "eU13457256525"
+    },
+    "invoice": {
+        "date": "16.01.2021",
+        "due_date": "07.05.2010",
+        "market_reference": 894861,
+        "notes": "optimize e-business vortals",
+        "number": "3252-5584",
+        "reference": 359720,
+        "vat_no": "Ja20205117854"
+    },
+    "payment": {
+        "net_total": 111.79,
+        "total": 174.63
+    },
+    "products": [
+        {
+            "amount": 392.74,
+            "description": "brand intuitive convergence",
+            "hours": 2.16,
+            "rate": 7.77
+        },
+        {
+            "amount": 473.68,
+            "description": "drive B2C ROI",
+            "hours": 2.34,
+            "rate": 9.93
+        }
+    ],
+    "seller": {
+        "address": "00329 Nancy Mall Apt. 471 Jacobsfort, PW 28658",
+        "email": "parkeralfred@example.net",
+        "name": "Melissa Butler"
+    },
+    "tax": {
+        "base": 20.12,
+        "tax_amount": 14.65,
+        "total_tax": 25.01
+    }
+}

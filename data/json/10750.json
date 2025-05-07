@@ -1,0 +1,51 @@
+{
+    "buyer": {
+        "address": "9789 Kristie Via Carrilloburgh, MT 72026",
+        "email": "michellefitzpatrick@example.com",
+        "phone": "(604)757-8697x43791",
+        "vat_no": "Th98622884934"
+    },
+    "invoice": {
+        "date": "23.01.2005",
+        "due_date": "09.09.1996",
+        "market_reference": 455681,
+        "notes": "innovate web-enabled metrics",
+        "number": "7519-8851",
+        "reference": 546356,
+        "vat_no": "nm42617457953"
+    },
+    "payment": {
+        "net_total": 85.97,
+        "total": 911.06
+    },
+    "products": [
+        {
+            "amount": 277.69,
+            "description": "drive robust markets",
+            "hours": 4.75,
+            "rate": 3.52
+        },
+        {
+            "amount": 492.76,
+            "description": "engineer out-of-the-box mindshare",
+            "hours": 2.61,
+            "rate": 7.9
+        },
+        {
+            "amount": 479.92,
+            "description": "engineer wireless vortals",
+            "hours": 5.55,
+            "rate": 2.2
+        }
+    ],
+    "seller": {
+        "address": "3686 Garcia Haven West Anthonyburgh, AZ 36180",
+        "email": "jaime27@example.org",
+        "name": "Alexis Brady"
+    },
+    "tax": {
+        "base": 13.22,
+        "tax_amount": 14.63,
+        "total_tax": 15.77
+    }
+}

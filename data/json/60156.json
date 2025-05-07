@@ -1,0 +1,34 @@
+{
+    "buyer": {
+        "address": "734 Lewis Coves Richardchester, WI 91504",
+        "business_no": "ix631",
+        "id": "YZ237"
+    },
+    "invoice": {
+        "date": "05.09.2023",
+        "number": "6201-5565"
+    },
+    "payment": {
+        "due_date": "17.09.1999",
+        "total": 766.16
+    },
+    "products": [
+        {
+            "amount": 96.01,
+            "description": "aggregate best-of-breed systems",
+            "quantity": 2.37,
+            "reference": "AV-306",
+            "unit_price": 83.44
+        }
+    ],
+    "seller": {
+        "address": "15865 Brown Springs Vasquezfurt, MN 76761"
+    },
+    "tax": {
+        "base_ht": 360.39,
+        "regulations": 18.37,
+        "total_ht": 211.55,
+        "vat_amount": 44.12,
+        "vat_percentage": 14.42
+    }
+}

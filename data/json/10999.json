@@ -1,0 +1,57 @@
+{
+    "buyer": {
+        "address": "8083 Nicholas Union Blevinsmouth, WV 48238",
+        "email": "rebecca95@example.net",
+        "phone": "487.621.4541",
+        "vat_no": "fF13383760288"
+    },
+    "invoice": {
+        "date": "23.07.2011",
+        "due_date": "04.03.1992",
+        "market_reference": 568942,
+        "notes": "visualize transparent web-readiness",
+        "number": "6242-2552",
+        "reference": 705294,
+        "vat_no": "pJ22005604641"
+    },
+    "payment": {
+        "net_total": 150.43,
+        "total": 771.43
+    },
+    "products": [
+        {
+            "amount": 459.33,
+            "description": "streamline virtual portals",
+            "hours": 6.25,
+            "rate": 8.74
+        },
+        {
+            "amount": 495.31,
+            "description": "enhance next-generation schemas",
+            "hours": 2.73,
+            "rate": 7.75
+        },
+        {
+            "amount": 385.31,
+            "description": "extend integrated metrics",
+            "hours": 2.27,
+            "rate": 5.76
+        },
+        {
+            "amount": 302.17,
+            "description": "engineer interactive deliverables",
+            "hours": 4.91,
+            "rate": 3.81
+        }
+    ],
+    "seller": {
+        "address": "7985 Martha Vista Apt. 288 Fisherside, PA 07235",
+        "email": "taylorhart@example.com",
+        "name": "Scott Long"
+    },
+    "tax": {
+        "base": 19.28,
+        "tax_amount": 28.67,
+        "total_tax": 15.56
+    }
+}
